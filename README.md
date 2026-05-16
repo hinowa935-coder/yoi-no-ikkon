@@ -2,6 +2,8 @@
 
 日本酒と家庭料理のペアリングを、料理・気分・産地・味わい・夜の言葉から探せるNext.jsアプリです。
 
+公開URL: https://yoi-no-gohan.vercel.app/
+
 ## ローカルで確認
 
 ```bash
