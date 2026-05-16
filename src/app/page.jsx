@@ -1,6 +1,7 @@
 "use client";
 
 import { useEffect, useMemo, useState } from "react";
+import { motion } from "framer-motion";
 import { sakePairings } from "../data/sakePairings";
 
 const ALL = "すべて";
@@ -246,10 +247,25 @@ function OchokoIcon({ filled = false }) {
   );
 }
 
+function MotionButton({ children, className = "", ...props }) {
+  return (
+    <motion.button
+      whileHover={{ scale: 1.015 }}
+      whileTap={{ scale: 0.985 }}
+      transition={{ type: "spring", stiffness: 260, damping: 24 }}
+      className={className}
+      {...props}
+    >
+      {children}
+    </motion.button>
+  );
+}
+
 function SakeCard({
   item,
   isFavorite,
   onToggleFavorite,
+  index = 0,
   initialExpanded = false,
   featured = false,
 }) {
@@ -257,7 +273,15 @@ function SakeCard({
   const productHref = item.productUrl || item.officialUrl || item.webSearchUrl;
 
   return (
-    <article
+    <motion.article
+      initial={{ opacity: 0, y: 14 }}
+      whileInView={{ opacity: 1, y: 0 }}
+      viewport={{ once: true, margin: "-48px" }}
+      transition={{
+        duration: 0.55,
+        ease: [0.22, 1, 0.36, 1],
+        delay: Math.min((index % 8) * 0.035, 0.18),
+      }}
       className={`rounded-lg border bg-[#0b1729]/86 p-4 shadow-2xl shadow-black/20 sm:p-5 ${
         featured
           ? "border-[#d8bd7a]/45"
@@ -270,14 +294,14 @@ function SakeCard({
             <p className="text-xs leading-5 text-[#d8bd7a] sm:text-sm">
               {item.prefecture} / {item.region}
             </p>
-            <h3 className="mt-1 text-xl font-medium leading-snug text-[#fff8e9] sm:text-2xl">
+            <h3 className="font-display-ja mt-1 text-xl font-normal leading-snug text-[#fff8e9] sm:text-2xl">
               {item.productName || item.sake}
             </h3>
             <p className="mt-1 text-sm leading-6 text-[#bdb5a5]">
               {item.brewery}
             </p>
           </div>
-          <button
+          <MotionButton
             type="button"
             onClick={() => onToggleFavorite(item.id)}
             aria-pressed={isFavorite}
@@ -290,7 +314,7 @@ function SakeCard({
             }`}
           >
             <OchokoIcon filled={isFavorite} />
-          </button>
+          </MotionButton>
         </div>
 
         <span className="mt-3 inline-flex w-fit rounded-full border border-[#d8bd7a]/35 px-3 py-1 text-xs leading-none text-[#f2dfad]">
@@ -298,7 +322,7 @@ function SakeCard({
         </span>
       </div>
 
-      <p className="mt-4 border-l border-[#d8bd7a]/50 pl-4 text-sm leading-7 text-[#fff4d8] sm:text-base sm:leading-8">
+      <p className="font-display-ja mt-4 border-l border-[#d8bd7a]/50 pl-4 text-sm leading-7 text-[#fff4d8] sm:text-base sm:leading-8">
         {polishEssay(item.essay)}
       </p>
 
@@ -307,14 +331,14 @@ function SakeCard({
         <p className="mt-2 leading-7">{item.dishes.slice(0, 3).join("、")}</p>
       </div>
 
-      <button
+      <MotionButton
         type="button"
         onClick={() => setIsExpanded((current) => !current)}
         aria-expanded={isExpanded}
         className="mt-4 w-full rounded-lg border border-[#f8f0df]/12 px-4 py-2.5 text-sm text-[#f2dfad] transition hover:border-[#d8bd7a]/60 hover:bg-[#d8bd7a]/10"
       >
         {isExpanded ? "詳細を閉じる" : "詳細を見る"}
-      </button>
+      </MotionButton>
 
       {isExpanded ? (
         <div className="mt-4 space-y-4 border-t border-[#f8f0df]/10 pt-4 text-sm text-[#d8d0bf]">
@@ -350,7 +374,7 @@ function SakeCard({
           </a>
         </div>
       ) : null}
-    </article>
+    </motion.article>
   );
 }
 
@@ -436,12 +460,12 @@ export default function Page() {
   };
 
   return (
-    <main className="min-h-screen bg-[#050914] text-[#fff8e9]">
+    <main className="yoi-bg min-h-screen text-[#fff8e9]">
       <div className="mx-auto flex w-full max-w-7xl flex-col px-5 py-6 sm:px-8 lg:px-10">
         <header className="flex items-center justify-between border-b border-[#f8f0df]/10 pb-5">
           <div>
             <p className="text-xs tracking-[0.35em] text-[#d8bd7a]">YOI NO IKKON</p>
-            <p className="mt-2 text-2xl font-semibold">宵の一献</p>
+            <p className="font-display-ja mt-2 text-2xl font-normal">宵の一献</p>
           </div>
           <a
             href="#search"
@@ -457,7 +481,7 @@ export default function Page() {
               <p className="text-sm text-[#d8bd7a]">
                 日本酒と家庭料理、夜の案内
               </p>
-              <h1 className="mt-4 max-w-3xl text-4xl font-semibold leading-tight text-[#fff8e9] sm:text-6xl">
+              <h1 className="font-display-ja mt-4 max-w-3xl text-4xl font-normal leading-tight text-[#fff8e9] sm:text-6xl">
                 宵の一献
               </h1>
               <p className="mt-5 max-w-3xl text-base leading-8 text-[#d8d0bf] sm:text-lg">
@@ -467,7 +491,7 @@ export default function Page() {
 
             <div className="grid max-w-3xl gap-3 sm:grid-cols-3">
               <div className="border-l border-[#d8bd7a]/50 pl-4">
-                <p className="text-2xl font-medium text-[#fff8e9] sm:text-3xl">
+                <p className="font-display-ja text-2xl font-normal text-[#fff8e9] sm:text-3xl">
                   {sakePairings.length}本
                 </p>
                 <p className="mt-1 text-sm text-[#bdb5a5]">
@@ -475,13 +499,13 @@ export default function Page() {
                 </p>
               </div>
               <div className="border-l border-[#d8bd7a]/50 pl-4">
-                <p className="text-2xl font-medium text-[#fff8e9] sm:text-3xl">47都道府県</p>
+                <p className="font-display-ja text-2xl font-normal text-[#fff8e9] sm:text-3xl">47都道府県</p>
                 <p className="mt-1 text-sm text-[#bdb5a5]">
                   北から南へ、土地の香りを辿る
                 </p>
               </div>
               <div className="border-l border-[#d8bd7a]/50 pl-4">
-                <p className="text-2xl font-medium text-[#fff8e9] sm:text-3xl">
+                <p className="font-display-ja text-2xl font-normal text-[#fff8e9] sm:text-3xl">
                   いつもの一皿
                 </p>
                 <p className="mt-1 text-sm text-[#bdb5a5]">
@@ -493,16 +517,22 @@ export default function Page() {
 
           <div className="w-full max-w-[280px] justify-self-center rounded-lg border border-[#f8f0df]/12 bg-[#0b1729]/82 p-4 sm:justify-self-end">
             <div className="mb-4 overflow-hidden rounded-lg border border-[#f8f0df]/10 bg-[#020814]/45">
-              <img
+              <motion.img
                 src="/images/ochoko-moon-reflection-only.png"
                 alt="おちょこに三日月が映るイラスト"
+                animate={{ y: [0, -4, 0], rotate: [-0.35, 0.35, -0.35] }}
+                transition={{
+                  duration: 8,
+                  repeat: Infinity,
+                  ease: "easeInOut",
+                }}
                 className="h-32 w-full object-cover object-[center_72%] sm:h-36 lg:h-40"
               />
             </div>
             <p className="text-sm text-[#d8bd7a]">今宵の入り口</p>
             <div className="mt-4 space-y-3">
               {todayEntrances.map((label) => (
-                <button
+                <MotionButton
                   key={label}
                   type="button"
                   onClick={() => {
@@ -521,7 +551,7 @@ export default function Page() {
                   className="w-full rounded-lg border border-[#f8f0df]/12 bg-[#f8f0df]/5 px-4 py-4 text-left text-[#fff8e9] transition hover:border-[#d8bd7a]/60 hover:bg-[#d8bd7a]/10"
                 >
                   {label}
-                </button>
+                </MotionButton>
               ))}
             </div>
           </div>
@@ -532,14 +562,14 @@ export default function Page() {
           className="grid gap-8 py-6 lg:grid-cols-[380px_1fr] lg:py-8"
         >
           <aside className="space-y-4 lg:sticky lg:top-6 lg:self-start">
-            <button
+            <MotionButton
               type="button"
               onClick={() => setFiltersOpen((current) => !current)}
               className="flex w-full items-center justify-between rounded-lg border border-[#f8f0df]/12 bg-[#0b1729]/82 px-4 py-3 text-left text-sm text-[#f2dfad] lg:hidden"
             >
               <span>検索条件</span>
               <span>{filtersOpen ? "閉じる" : "開く"}</span>
-            </button>
+            </MotionButton>
 
             <div
               className={`rounded-lg border border-[#f8f0df]/12 bg-[#0b1729]/82 p-4 sm:p-5 ${
@@ -553,7 +583,7 @@ export default function Page() {
                 </span>
               </div>
 
-              <button
+              <MotionButton
                 type="button"
                 onClick={() => {
                   setShowFavoritesOnly((current) => !current);
@@ -569,7 +599,7 @@ export default function Page() {
                 {showFavoritesOnly
                   ? "おちょこを付けた酒だけ表示中"
                   : "おちょこを付けた酒だけ"}
-              </button>
+              </MotionButton>
 
               <div className="mt-4 rounded-lg border border-[#f8f0df]/10 bg-[#020814]/45 p-3">
                 <p className="text-sm text-[#d8bd7a]">組み合わせ条件</p>
@@ -627,7 +657,7 @@ export default function Page() {
                 />
               </label>
 
-              <button
+              <MotionButton
                 type="button"
                 onClick={() => {
                   setFilters({
@@ -643,7 +673,7 @@ export default function Page() {
                 className="mt-4 w-full rounded-lg border border-[#f8f0df]/12 px-4 py-3 text-sm text-[#f2dfad] transition hover:border-[#d8bd7a]/60 hover:bg-[#d8bd7a]/10"
               >
                 条件をリセット
-              </button>
+              </MotionButton>
             </div>
           </aside>
 
@@ -651,7 +681,7 @@ export default function Page() {
             <div className="mb-5 flex flex-col gap-2 sm:flex-row sm:items-end sm:justify-between">
               <div>
                 <p className="text-sm text-[#d8bd7a]">検索結果</p>
-                <h2 className="mt-1 text-3xl font-medium">
+                <h2 className="font-display-ja mt-1 text-3xl font-normal">
                   {filteredItems.length}本
                 </h2>
               </div>
@@ -661,7 +691,7 @@ export default function Page() {
             </div>
 
             <div className="mb-5 grid gap-3 sm:flex sm:justify-end">
-              <button
+              <MotionButton
                 type="button"
                 onClick={() => {
                   setShowFavoritesOnly((current) => !current);
@@ -675,15 +705,16 @@ export default function Page() {
               >
                 <OchokoIcon filled={showFavoritesOnly} />
                 {showFavoritesOnly ? "おちょこ表示中" : "おちょこ付きのみ"}
-              </button>
+              </MotionButton>
             </div>
 
             {filteredItems.length > 0 ? (
               <div className="grid gap-4 xl:grid-cols-2">
-                {filteredItems.map((item) => (
+                {filteredItems.map((item, index) => (
                   <SakeCard
                     key={item.id}
                     item={item}
+                    index={index}
                     isFavorite={favoriteIds.includes(item.id)}
                     onToggleFavorite={toggleFavorite}
                   />
