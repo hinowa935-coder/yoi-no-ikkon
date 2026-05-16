@@ -3,6 +3,7 @@
 import { useEffect, useMemo, useState } from "react";
 import { motion } from "framer-motion";
 import { sakePairings } from "../data/sakePairings";
+import { extraSakePairings } from "../data/extraSakePairings";
 
 const ALL = "すべて";
 const FAVORITES_KEY = "yoi-no-ikkon-favorites";
@@ -151,7 +152,7 @@ const searchFields = [
 
 const visibleSakePairings = sakePairings.filter(
   (item) => item.prefecture !== "沖縄県",
-);
+).concat(extraSakePairings);
 
 function unique(values) {
   return Array.from(new Set(values.filter(Boolean)));
@@ -169,6 +170,28 @@ function searchValues(item, key) {
   if (key === "taste") return [...item.taste, ...item.style];
   if (key === "night") return [item.nightType];
   return [];
+}
+
+function isInstagramUrl(url) {
+  return Boolean(url && url.includes("instagram.com"));
+}
+
+function buildResourceLinks(item) {
+  const links = [];
+  const seen = new Set();
+
+  const push = (label, href) => {
+    if (!href || seen.has(href)) return;
+    seen.add(href);
+    links.push({ label, href });
+  };
+
+  push(isInstagramUrl(item.officialUrl) ? "公式Instagram" : "公式サイト", item.officialUrl);
+  push("公式Instagram", item.instagramUrl);
+  push(isInstagramUrl(item.productUrl) ? "公式Instagram" : "商品情報", item.productUrl);
+  if (links.length === 0) push("Webで探す", item.webSearchUrl);
+
+  return links;
 }
 
 function polishEssay(text) {
@@ -273,7 +296,7 @@ function SakeCard({
   featured = false,
 }) {
   const [isExpanded, setIsExpanded] = useState(initialExpanded);
-  const productHref = item.productUrl || item.officialUrl || item.webSearchUrl;
+  const resourceLinks = buildResourceLinks(item);
 
   return (
     <motion.article
@@ -363,18 +386,19 @@ function SakeCard({
             <p className="text-[#d8bd7a]">全料理</p>
             <p className="mt-2 leading-7">{item.dishes.join("、")}</p>
           </div>
-          <a
-            href={productHref}
-            target="_blank"
-            rel="noreferrer"
-            className="inline-flex w-fit rounded-full border border-[#d8bd7a]/30 px-3 py-1.5 text-xs text-[#f2dfad] transition hover:border-[#d8bd7a]/70 hover:bg-[#d8bd7a]/10 hover:text-[#fff8e9]"
-          >
-            {item.productUrl
-              ? "商品を見る"
-              : item.officialUrl
-                ? "公式を見る"
-                : "Webで探す"}
-          </a>
+          <div className="flex flex-wrap gap-2">
+            {resourceLinks.map((link) => (
+              <a
+                key={link.href}
+                href={link.href}
+                target="_blank"
+                rel="noreferrer"
+                className="inline-flex w-fit rounded-full border border-[#d8bd7a]/30 px-3 py-1.5 text-xs text-[#f2dfad] transition hover:border-[#d8bd7a]/70 hover:bg-[#d8bd7a]/10 hover:text-[#fff8e9]"
+              >
+                {link.label}
+              </a>
+            ))}
+          </div>
         </div>
       ) : null}
     </motion.article>
