@@ -4,6 +4,7 @@ import { useEffect, useMemo, useState } from "react";
 import { motion } from "framer-motion";
 import { sakePairings } from "../data/sakePairings";
 import { extraSakePairings } from "../data/extraSakePairings";
+import { reviewPairingProduct } from "../data/sakePairingReview";
 
 const ALL = "すべて";
 const FAVORITES_KEY = "yoi-no-ikkon-favorites";
@@ -152,7 +153,7 @@ const searchFields = [
 
 const visibleSakePairings = sakePairings.filter(
   (item) => item.prefecture !== "沖縄県",
-).concat(extraSakePairings);
+).concat(extraSakePairings).map(reviewPairingProduct);
 
 function unique(values) {
   return Array.from(new Set(values.filter(Boolean)));
@@ -176,6 +177,20 @@ function isInstagramUrl(url) {
   return Boolean(url && url.includes("instagram.com"));
 }
 
+function safeHost(url) {
+  try {
+    return new URL(url).hostname.replace(/^www\./, "");
+  } catch {
+    return "";
+  }
+}
+
+function isSameSite(leftUrl, rightUrl) {
+  const leftHost = safeHost(leftUrl);
+  const rightHost = safeHost(rightUrl);
+  return Boolean(leftHost && rightHost && leftHost === rightHost);
+}
+
 function buildResourceLinks(item) {
   const links = [];
   const seen = new Set();
@@ -188,7 +203,14 @@ function buildResourceLinks(item) {
 
   push(isInstagramUrl(item.officialUrl) ? "公式Instagram" : "公式サイト", item.officialUrl);
   push("公式Instagram", item.instagramUrl);
-  push(isInstagramUrl(item.productUrl) ? "公式Instagram" : "商品情報", item.productUrl);
+  push(
+    isInstagramUrl(item.productUrl)
+      ? "公式Instagram"
+      : isSameSite(item.productUrl, item.officialUrl)
+        ? "公式ラインナップ"
+        : "参考リンク",
+    item.productUrl,
+  );
   if (links.length === 0) push("Webで探す", item.webSearchUrl);
 
   return links;
