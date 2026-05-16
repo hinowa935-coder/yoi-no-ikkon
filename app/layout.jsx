@@ -1,7 +1,7 @@
 import "../src/app/globals.css";
 
 export const metadata = {
-  title: "宵ノごはん",
+  title: "宵の一献",
   description: "料理、気分、産地、味わいから日本酒を探すペアリングアプリ",
 };
 
