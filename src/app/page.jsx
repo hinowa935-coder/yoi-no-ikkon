@@ -299,8 +299,8 @@ export default function Page() {
       <div className="mx-auto flex w-full max-w-7xl flex-col px-5 py-6 sm:px-8 lg:px-10">
         <header className="flex items-center justify-between border-b border-[#f8f0df]/10 pb-5">
           <div>
-            <p className="text-xs tracking-[0.35em] text-[#d8bd7a]">YOI NO GOHAN</p>
-            <p className="mt-2 text-2xl font-semibold">宵ノごはん</p>
+            <p className="text-xs tracking-[0.35em] text-[#d8bd7a]">YOI NO IKKON</p>
+            <p className="mt-2 text-2xl font-semibold">宵の一献</p>
           </div>
           <a
             href="#search"
@@ -317,7 +317,7 @@ export default function Page() {
                 日本酒と家庭料理、夜の案内
               </p>
               <h1 className="mt-4 max-w-3xl text-4xl font-semibold leading-tight text-[#fff8e9] sm:text-6xl">
-                宵ノごはん
+                宵の一献
               </h1>
               <p className="mt-5 max-w-3xl text-base leading-8 text-[#d8d0bf] sm:text-lg">
                 家庭料理、気分、産地、味わい、夜の気配から、今夜の食卓に似合う一本を探す。全国の酒蔵から、静かな言葉を添えて。
