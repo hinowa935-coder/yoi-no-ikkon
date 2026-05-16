@@ -316,14 +316,9 @@ export default function Page() {
               <p className="text-sm text-[#d8bd7a]">
                 日本酒と家庭料理、夜の案内
               </p>
-              <h1 className="sr-only">宵の一献</h1>
-              <div className="mt-4 max-w-3xl overflow-hidden rounded-lg border border-[#f8f0df]/10 bg-[#071225]/70 shadow-2xl shadow-black/25">
-                <img
-                  src="/images/yoi-no-ikkon-logo.svg"
-                  alt="宵の一献"
-                  className="w-full"
-                />
-              </div>
+              <h1 className="mt-4 max-w-3xl text-4xl font-semibold leading-tight text-[#fff8e9] sm:text-6xl">
+                宵の一献
+              </h1>
               <p className="mt-5 max-w-3xl text-base leading-8 text-[#d8d0bf] sm:text-lg">
                 家庭料理、気分、産地、味わい、夜の気配から、今夜の食卓に似合う一本を探す。全国の酒蔵から、静かな言葉を添えて。
               </p>
