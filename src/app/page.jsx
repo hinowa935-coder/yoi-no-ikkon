@@ -182,6 +182,45 @@ function dailyPick(list, count) {
   });
 }
 
+function OchokoIcon({ filled = false }) {
+  return (
+    <svg
+      viewBox="0 0 24 24"
+      aria-hidden="true"
+      className="h-5 w-5"
+      fill="none"
+    >
+      <path
+        d="M6.5 9.5c.55 5.6 1.8 8 5.5 8s4.95-2.4 5.5-8"
+        fill={filled ? "currentColor" : "none"}
+        stroke="currentColor"
+        strokeLinecap="round"
+        strokeLinejoin="round"
+        strokeWidth="1.7"
+      />
+      <path
+        d="M5.2 8.2c0 1.15 3.05 2.1 6.8 2.1s6.8-.95 6.8-2.1S15.75 6.1 12 6.1 5.2 7.05 5.2 8.2Z"
+        fill={filled ? "currentColor" : "none"}
+        stroke="currentColor"
+        strokeWidth="1.7"
+      />
+      <path
+        d="M8.8 17.2h6.4M9.7 19.1h4.6"
+        stroke="currentColor"
+        strokeLinecap="round"
+        strokeWidth="1.7"
+      />
+      <path
+        d="M9.7 8.05c.55-.25 1.35-.4 2.3-.4s1.75.15 2.3.4"
+        stroke="currentColor"
+        strokeLinecap="round"
+        strokeWidth="1.2"
+        opacity=".72"
+      />
+    </svg>
+  );
+}
+
 function SakeCard({
   item,
   isFavorite,
@@ -217,13 +256,15 @@ function SakeCard({
             type="button"
             onClick={() => onToggleFavorite(item.id)}
             aria-pressed={isFavorite}
-            className={`shrink-0 rounded-full border px-3 py-1.5 text-xs transition ${
+            aria-label={isFavorite ? "お気に入りから外す" : "お気に入りに入れる"}
+            title={isFavorite ? "お気に入りから外す" : "お気に入りに入れる"}
+            className={`grid h-10 w-10 shrink-0 place-items-center rounded-full border transition ${
               isFavorite
-                ? "border-[#d8bd7a]/70 bg-[#d8bd7a]/18 text-[#fff4d8]"
-                : "border-[#f8f0df]/16 text-[#d8d0bf] hover:border-[#d8bd7a]/60 hover:text-[#fff4d8]"
+                ? "border-[#d8bd7a]/75 bg-[#d8bd7a]/18 text-[#f4d98e]"
+                : "border-[#f8f0df]/16 text-[#d8d0bf] hover:border-[#d8bd7a]/60 hover:bg-[#d8bd7a]/10 hover:text-[#fff4d8]"
             }`}
           >
-            {isFavorite ? "お気に入り済み" : "お気に入り"}
+            <OchokoIcon filled={isFavorite} />
           </button>
         </div>
 
