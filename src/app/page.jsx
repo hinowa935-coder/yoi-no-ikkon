@@ -557,13 +557,17 @@ export default function Page() {
                   setShowFavoritesOnly((current) => !current);
                   setRandomPickItem(null);
                 }}
-                className={`mt-3 w-full rounded-lg border px-4 py-3 text-sm transition ${
+                aria-pressed={showFavoritesOnly}
+                className={`mt-3 flex w-full items-center justify-center gap-2 rounded-lg border px-4 py-3 text-sm transition ${
                   showFavoritesOnly
                     ? "border-[#d8bd7a]/70 bg-[#d8bd7a]/18 text-[#fff4d8]"
                     : "border-[#f8f0df]/12 text-[#f2dfad] hover:border-[#d8bd7a]/60 hover:bg-[#d8bd7a]/10"
                 }`}
               >
-                お気に入りだけ表示
+                <OchokoIcon filled={showFavoritesOnly} />
+                {showFavoritesOnly
+                  ? "おちょこを付けた酒だけ表示中"
+                  : "おちょこを付けた酒だけ"}
               </button>
 
               <div className="mt-4 rounded-lg border border-[#f8f0df]/10 bg-[#020814]/45 p-3">
@@ -670,13 +674,15 @@ export default function Page() {
                   setShowFavoritesOnly((current) => !current);
                   setRandomPickItem(null);
                 }}
-                className={`rounded-lg border px-4 py-3 text-sm transition ${
+                aria-pressed={showFavoritesOnly}
+                className={`flex items-center justify-center gap-2 rounded-lg border px-4 py-3 text-sm transition ${
                   showFavoritesOnly
                     ? "border-[#d8bd7a]/70 bg-[#d8bd7a]/18 text-[#fff4d8]"
                     : "border-[#f8f0df]/12 text-[#f2dfad] hover:border-[#d8bd7a]/60 hover:bg-[#d8bd7a]/10"
                 }`}
               >
-                お気に入りのみ
+                <OchokoIcon filled={showFavoritesOnly} />
+                {showFavoritesOnly ? "おちょこ表示中" : "おちょこ付きのみ"}
               </button>
             </div>
 
