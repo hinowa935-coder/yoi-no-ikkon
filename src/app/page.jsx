@@ -140,7 +140,6 @@ const prefectureOrder = [
   "大分県",
   "宮崎県",
   "鹿児島県",
-  "沖縄県",
 ];
 
 const searchFields = [
@@ -149,6 +148,10 @@ const searchFields = [
   { key: "area", label: "産地", options: prefectureOrder },
   { key: "taste", label: "味わい", options: tasteOptions },
 ];
+
+const visibleSakePairings = sakePairings.filter(
+  (item) => item.prefecture !== "沖縄県",
+);
 
 function unique(values) {
   return Array.from(new Set(values.filter(Boolean)));
@@ -403,7 +406,7 @@ export default function Page() {
   }, []);
 
   const nightOptions = useMemo(() => {
-    const existing = unique(sakePairings.map((item) => item.nightType));
+    const existing = unique(visibleSakePairings.map((item) => item.nightType));
     return curatedNightOptions.filter((option) => existing.includes(option));
   }, []);
 
@@ -412,7 +415,7 @@ export default function Page() {
   const filteredItems = useMemo(() => {
     const keyword = freeKeyword.trim();
 
-    return sakePairings.filter((item) => {
+    return visibleSakePairings.filter((item) => {
       if (showFavoritesOnly && !favoriteIds.includes(item.id)) {
         return false;
       }
@@ -492,7 +495,7 @@ export default function Page() {
             <div className="grid max-w-3xl gap-3 sm:grid-cols-3">
               <div className="border-l border-[#d8bd7a]/50 pl-4">
                 <p className="font-display-ja text-2xl font-normal text-[#fff8e9] sm:text-3xl">
-                  {sakePairings.length}本
+                  {visibleSakePairings.length}本
                 </p>
                 <p className="mt-1 text-sm text-[#bdb5a5]">
                   今夜の候補を静かにめくる
@@ -686,7 +689,7 @@ export default function Page() {
                 </h2>
               </div>
               <p className="text-sm text-[#bdb5a5]">
-                全{sakePairings.length}本から{filteredItems.length}本を表示中
+                全{visibleSakePairings.length}本から{filteredItems.length}本を表示中
               </p>
             </div>
 
