@@ -167,6 +167,12 @@ function searchValues(item, key) {
   return [];
 }
 
+function polishEssay(text) {
+  return text
+    .replaceAll("甘酸の調べが口中を明るくし、", "甘酸の調べがすっとほどけ、")
+    .replaceAll("明るい酸の余白", "澄んだ酸の余白");
+}
+
 function dailyPick(list, count) {
   const today = new Date().toLocaleDateString("ja-JP", {
     timeZone: "Asia/Tokyo",
@@ -274,7 +280,7 @@ function SakeCard({
       </div>
 
       <p className="mt-4 border-l border-[#d8bd7a]/50 pl-4 text-sm leading-7 text-[#fff4d8] sm:text-base sm:leading-8">
-        {item.essay}
+        {polishEssay(item.essay)}
       </p>
 
       <div className="mt-4 text-sm text-[#d8d0bf]">
