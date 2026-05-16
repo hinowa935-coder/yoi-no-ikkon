@@ -341,7 +341,6 @@ export default function Page() {
   const [favoriteIds, setFavoriteIds] = useState([]);
   const [showFavoritesOnly, setShowFavoritesOnly] = useState(false);
   const [filtersOpen, setFiltersOpen] = useState(false);
-  const [randomPickItem, setRandomPickItem] = useState(null);
 
   useEffect(() => {
     try {
@@ -398,7 +397,6 @@ export default function Page() {
 
   const updateFilter = (key, value) => {
     setFilters((current) => ({ ...current, [key]: value }));
-    setRandomPickItem(null);
   };
 
   const toggleFavorite = (id) => {
@@ -410,19 +408,6 @@ export default function Page() {
       window.localStorage.setItem(FAVORITES_KEY, JSON.stringify(next));
       return next;
     });
-  };
-
-  const chooseRandomPick = () => {
-    if (filteredItems.length === 0) {
-      setRandomPickItem(null);
-      return;
-    }
-
-    const index = Math.floor(Math.random() * filteredItems.length);
-    setRandomPickItem(filteredItems[index]);
-    document
-      .getElementById("tonight-pick")
-      ?.scrollIntoView({ behavior: "smooth", block: "start" });
   };
 
   return (
@@ -545,20 +530,11 @@ export default function Page() {
 
               <button
                 type="button"
-                onClick={chooseRandomPick}
-                className="mt-4 w-full rounded-lg border border-[#d8bd7a]/35 bg-[#d8bd7a]/10 px-4 py-3 text-sm text-[#fff4d8] transition hover:border-[#d8bd7a]/70 hover:bg-[#d8bd7a]/18"
-              >
-                今夜の一本
-              </button>
-
-              <button
-                type="button"
                 onClick={() => {
                   setShowFavoritesOnly((current) => !current);
-                  setRandomPickItem(null);
                 }}
                 aria-pressed={showFavoritesOnly}
-                className={`mt-3 flex w-full items-center justify-center gap-2 rounded-lg border px-4 py-3 text-sm transition ${
+                className={`mt-4 flex w-full items-center justify-center gap-2 rounded-lg border px-4 py-3 text-sm transition ${
                   showFavoritesOnly
                     ? "border-[#d8bd7a]/70 bg-[#d8bd7a]/18 text-[#fff4d8]"
                     : "border-[#f8f0df]/12 text-[#f2dfad] hover:border-[#d8bd7a]/60 hover:bg-[#d8bd7a]/10"
@@ -638,7 +614,6 @@ export default function Page() {
                   });
                   setFreeKeyword("");
                   setShowFavoritesOnly(false);
-                  setRandomPickItem(null);
                 }}
                 className="mt-4 w-full rounded-lg border border-[#f8f0df]/12 px-4 py-3 text-sm text-[#f2dfad] transition hover:border-[#d8bd7a]/60 hover:bg-[#d8bd7a]/10"
               >
@@ -660,19 +635,11 @@ export default function Page() {
               </p>
             </div>
 
-            <div className="mb-5 grid gap-3 sm:grid-cols-[1fr_auto] sm:items-center">
-              <button
-                type="button"
-                onClick={chooseRandomPick}
-                className="rounded-lg border border-[#d8bd7a]/35 bg-[#d8bd7a]/10 px-4 py-3 text-sm text-[#fff4d8] transition hover:border-[#d8bd7a]/70 hover:bg-[#d8bd7a]/18"
-              >
-                今夜の一本を選ぶ
-              </button>
+            <div className="mb-5 grid gap-3 sm:flex sm:justify-end">
               <button
                 type="button"
                 onClick={() => {
                   setShowFavoritesOnly((current) => !current);
-                  setRandomPickItem(null);
                 }}
                 aria-pressed={showFavoritesOnly}
                 className={`flex items-center justify-center gap-2 rounded-lg border px-4 py-3 text-sm transition ${
@@ -685,19 +652,6 @@ export default function Page() {
                 {showFavoritesOnly ? "おちょこ表示中" : "おちょこ付きのみ"}
               </button>
             </div>
-
-            {randomPickItem ? (
-              <div id="tonight-pick" className="mb-6">
-                <p className="mb-3 text-sm text-[#d8bd7a]">今夜の一本</p>
-                <SakeCard
-                  item={randomPickItem}
-                  isFavorite={favoriteIds.includes(randomPickItem.id)}
-                  onToggleFavorite={toggleFavorite}
-                  initialExpanded
-                  featured
-                />
-              </div>
-            ) : null}
 
             {filteredItems.length > 0 ? (
               <div className="grid gap-4 xl:grid-cols-2">
