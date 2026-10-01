@@ -366,6 +366,60 @@ export function buildResourceLinks(item) {
   return links;
 }
 
+export function buildPurchaseLinks(item) {
+  const registeredLinks = Array.isArray(item.purchaseLinks)
+    ? item.purchaseLinks
+    : [];
+  const seen = new Set();
+  const query = encodeURIComponent(`${item.productName || item.sake} 日本酒`);
+  const fallbackLinks = [
+    {
+      store: "楽天市場",
+      label: "楽天市場で探す",
+      url: `https://search.rakuten.co.jp/search/mall/${query}/`,
+      affiliate: false,
+      linkType: "search",
+      source: "rakuten_search",
+    },
+    {
+      store: "Amazon",
+      label: "Amazonで探す",
+      url: `https://www.amazon.co.jp/s?k=${query}`,
+      affiliate: false,
+      linkType: "search",
+      source: "amazon_search",
+    },
+  ];
+
+  return registeredLinks
+    .concat(fallbackLinks)
+    .map((link) => ({ ...link, url: link.url || link.href }))
+    .filter((link) => link?.url && !seen.has(link.url) && seen.add(link.url))
+    .map((link) => ({
+      store: link.store || link.label || "購入先",
+      label: link.label || `${link.store || "購入先"}を見る`,
+      href: link.url,
+      affiliate: Boolean(link.affiliate),
+      linkType: link.linkType || "direct",
+      source: link.source || link.store || "purchase",
+    }));
+}
+
+export function buildPurchaseTrackingParams(item, link, entrySource, context = {}) {
+  return {
+    sakeId: item.id,
+    sakeName: item.productName || item.sake,
+    prefecture: item.prefecture,
+    store: link.store,
+    source: link.source,
+    linkType: link.linkType,
+    affiliate: link.affiliate,
+    entrySource,
+    foodId: context.foodId || "",
+    moodId: context.moodId || item.nightType || "",
+  };
+}
+
 export function buildRecipeLinks(dish) {
   const profile = getFoodProfile(dish);
 
@@ -386,28 +440,72 @@ export function buildPairingReason(item, dish = "家庭料理") {
   const profile = [...tastes, ...styles];
   const has = (...words) => includesAny(profile, words);
   const dishCue = getDishPairingCue(dish);
+  const dishProfile = getDishFlavorProfile(dish);
+  const variant = (values) => chooseById(item, values);
 
   if (has("すっきり", "辛口", "キレ")) {
-    return `${dishCue}を重くせず、すっきりした後口が油分や塩気を軽く整えます。食事の途中でも飲み進めやすい組み合わせです。`;
+    if (dishProfile.oil) {
+      return variant([
+        `${dishCue}をすっきり受け止め、後口を軽くします。揚げ物の満足感は残しながら、次の一口へ進みやすい組み合わせです。`,
+        `${dishCue}に辛口の輪郭が合います。油の重さを引きずりにくく、食卓の流れをきれいに保てます。`,
+      ]);
+    }
+    return variant([
+      `${dishCue}を重くせず、後口のキレが味をすっと切り替えます。塩気や香ばしさのある料理にも合わせやすい相性です。`,
+      `${dishCue}に、すっきりした飲み口が寄り添います。味の余韻を残しすぎないため、食事中でも疲れにくい組み合わせです。`,
+    ]);
   }
 
   if (has("酸味", "爽やか", "軽やか")) {
-    return `${dishCue}にほどよい酸が重なり、味をきゅっと引き締めます。口の中が重くなりにくく、次のひと口へ自然につながります。`;
+    if (dishProfile.vinegar) {
+      return variant([
+        `${dishCue}と酒の酸が響き合い、味の輪郭がぼやけにくくなります。さっぱり食べたい夜に向いた組み合わせです。`,
+        `${dishCue}に軽やかな酸が重なります。酸味同士がぶつかりにくく、後味を清らかにまとめてくれます。`,
+      ]);
+    }
+    return variant([
+      `${dishCue}にほどよい酸が重なり、味をきゅっと引き締めます。口の中が重くなりにくく、自然に箸が進みます。`,
+      `${dishCue}を、軽やかな酸が明るく整えます。濃すぎない料理と合わせると、後味がすっきりまとまります。`,
+    ]);
   }
 
   if (has("米の旨味", "旨口", "純米", "食中酒")) {
-    return `${dishCue}を、米の旨みが穏やかに受け止めます。派手すぎず、家庭料理に合わせやすい相性です。`;
+    if (dishProfile.simmered) {
+      return variant([
+        `${dishCue}を米の旨みが受け止めます。だしや醤油のコクを邪魔せず、家庭料理らしい落ち着きが出ます。`,
+        `${dishCue}に、穏やかな旨みが重なります。甘辛い味付けを包み込み、食卓にまとまりを作る相性です。`,
+      ]);
+    }
+    return variant([
+      `${dishCue}を、米の旨みが穏やかに支えます。派手すぎず、日々の料理に合わせやすい組み合わせです。`,
+      `${dishCue}に旨みの厚みが合います。料理の味を押しのけず、ゆっくり飲み進められる相性です。`,
+    ]);
   }
 
   if (has("フルーティ", "華やか", "甘み")) {
-    return `${dishCue}に、やさしい香りと甘みが重なります。味をふくらませながら、食卓を少し華やかにしてくれます。`;
+    if (dishProfile.delicate) {
+      return variant([
+        `${dishCue}に、やさしい香りがふわりと重なります。軽い甘みが素材の旨みをやわらかく広げます。`,
+        `${dishCue}を華やかな香りが包みます。強い味付けより、素材を生かす料理で良さが出やすい相性です。`,
+      ]);
+    }
+    return variant([
+      `${dishCue}に、香りとほのかな甘みが重なります。食卓に少し華やぎを足したいときに選びやすい組み合わせです。`,
+      `${dishCue}の印象を、香りのある飲み口がやわらげます。濃すぎない料理と合わせると、余韻がきれいに残ります。`,
+    ]);
   }
 
   if (has("燗向き", "濃醇", "熟成")) {
-    return `${dishCue}に、コクのある味わいがよくなじみます。温めても味がぼやけにくく、料理との一体感が出やすい組み合わせです。`;
+    return variant([
+      `${dishCue}に、コクのある味わいがよくなじみます。常温や燗で合わせると、料理の温かさと一体感が出やすい組み合わせです。`,
+      `${dishCue}を、厚みのある旨みがしっかり受け止めます。味噌や醤油を使う料理にも負けにくい相性です。`,
+    ]);
   }
 
-  return `${dishCue}を邪魔せず、穏やかな香りと後口が食事を支えます。日常の食卓で試しやすい組み合わせです。`;
+  return variant([
+    `${dishCue}を邪魔せず、穏やかな飲み口が食事を支えます。日常の食卓で試しやすい組み合わせです。`,
+    `${dishCue}に自然になじみ、料理の味を強く変えすぎません。迷った夜にも選びやすい相性です。`,
+  ]);
 }
 
 const recipeDataByDish = {
@@ -484,6 +582,15 @@ function getDishPairingCue(dish = "家庭料理") {
   return `${dish}の味わい`;
 }
 
+function getDishFlavorProfile(dish = "家庭料理") {
+  return {
+    oil: /唐揚げ|揚げ|天ぷら|フライ|餃子|炒め/.test(dish),
+    simmered: /煮|肉じゃが|筑前煮|おでん|角煮|炊き/.test(dish),
+    delicate: /刺身|たたき|冷奴|豆腐|湯葉|おひたし|カルパッチョ/.test(dish),
+    vinegar: /酢|南蛮|マリネ|梅|ポン酢/.test(dish),
+  };
+}
+
 function buildFoodDescription(name = "家庭料理") {
   if (name.includes("冷奴") || name.includes("豆腐")) {
     return `${name}は、豆腐のやさしい味を薬味やたれで楽しむ一品です。食卓の最初にも、軽い晩酌にも合わせやすい家庭料理です。`;
@@ -541,50 +648,150 @@ export function buildSakeDescription(item, focusDish = "") {
   const profile = [...(item.taste || []), ...(item.style || [])];
   const dishes = focusDish ? [focusDish] : (item.dishes || []).slice(0, 2);
   const dishText = focusDish || (dishes.length ? `${dishes.join("や")}など` : "普段の家庭料理");
-  const dishCue = focusDish ? getDishPairingCue(focusDish) : `${dishText}の香ばしさや塩気`;
   const temperatureText = (item.temperature || []).slice(0, 2).join("、");
+  const tempPhrase = temperatureText ? `${temperatureText}で` : "食事に合わせて";
+  const has = (...words) => includesAny(profile, words);
+  const line = (openings, middles, endings) =>
+    [
+      chooseById(item, openings),
+      chooseById(item, middles),
+      chooseById(item, endings),
+    ].join("");
 
-  if (includesAny(profile, ["すっきり", "辛口", "キレ"])) {
-    return chooseById(item, [
-      `後口のキレがよく、食事中でも飲み進めやすい日本酒です。${dishText}に合わせると、塩気や油分を軽く整えてくれます。`,
-      `すっきりした飲み口で、料理の味を重くしにくいタイプです。${dishCue}にも合わせやすいです。`,
-      `辛口寄りの輪郭があり、食事の途中で口の中を整えてくれます。${dishText}と合わせると、後味がだれにくくなります。`,
-    ]);
-  }
-  if (includesAny(profile, ["酸味", "爽やか", "軽やか"])) {
-    return chooseById(item, [
-      `ほどよい酸味があり、口当たりは軽快です。${dishText}と合わせると、味を引き締めながらさっぱり楽しめます。`,
-      `軽やかな酸があり、飲み口に清潔感があります。${dishText}の旨みを引き立てつつ、後味をすっきりまとめます。`,
-      `爽やかな酸味が持ち味で、濃すぎない料理と相性のよいタイプです。${dishText}にも自然になじみます。`,
-    ]);
-  }
-  if (includesAny(profile, ["米の旨味", "旨口", "純米", "食中酒"])) {
-    return chooseById(item, [
-      `米の旨みを穏やかに感じられる、食卓向きの味わいです。${dishText}のだしや甘辛い味付けにも合わせやすい一本です。`,
-      `派手すぎない旨みがあり、食事に寄り添うタイプです。${dishText}の味を受け止めながら、飲み疲れしにくく楽しめます。`,
-      `ふくらみのある旨みが特徴で、家庭料理に合わせやすい日本酒です。${dishText}と合わせると、味のまとまりが出ます。`,
-    ]);
-  }
-  if (includesAny(profile, ["フルーティ", "華やか", "甘み"])) {
-    return chooseById(item, [
-      `香りが華やかで、やさしい甘みを楽しめます。${dishText}と合わせると、食卓に少し明るい印象を添えてくれます。`,
-      `果実感のある香りがあり、飲み始めから親しみやすい味わいです。${dishText}にも軽やかに重なります。`,
-      `甘みと香りのバランスがよく、単体でも料理と一緒でも楽しめます。${dishText}と合わせると、味がやわらぎます。`,
-    ]);
-  }
-  if (includesAny(profile, ["燗向き", "濃醇", "熟成", "山廃"])) {
-    return chooseById(item, [
-      `コクのある味わいで、${temperatureText || "常温や燗"}でも輪郭が崩れにくいタイプです。${dishText}の旨みとよくなじみます。`,
-      `しっかりした旨みがあり、温度を少し上げても楽しみやすい日本酒です。${dishText}のような味のある料理に向きます。`,
-      `落ち着いたコクがあり、食事と合わせてじっくり飲みたいタイプです。${dishText}と合わせると、味に厚みが出ます。`,
-    ]);
+  if (has("発泡", "スパークリング", "にごり", "生酒")) {
+    return line(
+      [
+        `発泡感や生酒らしさを含む、表情のある一本です。`,
+        `にごりや生のニュアンスがある場合は、口当たりにやわらかな動きが出ます。`,
+      ],
+      [
+        `${tempPhrase}楽しむと、味わいの輪郭を感じやすくなります。`,
+        `${dishText}のような料理に合わせると、飲み口の個性が食卓のアクセントになります。`,
+      ],
+      [
+        `気軽な一杯にも、少し気分を変えたい夜にも向きます。`,
+        `重くなりすぎず、食事の始まりにも置きやすい日本酒です。`,
+      ],
+    );
   }
 
-  return chooseById(item, [
-    `穏やかな香りと飲みやすい後口を持つ日本酒です。${dishText}に合わせやすく、日々の食卓で試しやすい一本です。`,
-    `香りと味の主張が強すぎず、料理と合わせて楽しみやすいタイプです。${dishText}にも無理なく寄り添います。`,
-    `飲み口のまとまりがよく、普段の食卓に置きやすい日本酒です。${dishText}と合わせると、食事の流れが自然になります。`,
-  ]);
+  if (has("すっきり", "辛口", "キレ")) {
+    return line(
+      [
+        `すっきりした後口が持ち味の日本酒です。`,
+        `辛口寄りの輪郭があり、食事中でも重くなりにくいタイプです。`,
+        `キレを感じやすく、飲み進めやすさがあります。`,
+      ],
+      [
+        `${dishText}に合わせると、塩気や香ばしさをすっと受け止めます。`,
+        `${tempPhrase}飲むと、料理の味を切り替える役目をしてくれます。`,
+        `油分のある料理にも合わせやすく、後味を軽くまとめます。`,
+      ],
+      [
+        `食卓の途中で杯が止まりにくい一本です。`,
+        `普段の晩ごはんに置きやすい、実用的な一献です。`,
+        `味の濃い料理の日にも頼りになります。`,
+      ],
+    );
+  }
+
+  if (has("酸味", "爽やか", "軽やか")) {
+    return line(
+      [
+        `ほどよい酸を感じる、軽やかな飲み口です。`,
+        `爽やかな印象があり、後味を清潔にまとめやすい日本酒です。`,
+        `酸味の輪郭があり、食事に合わせると味が引き締まります。`,
+      ],
+      [
+        `${dishText}と合わせると、料理の余韻をさっぱり整えます。`,
+        `${tempPhrase}楽しむと、飲み口の軽さが出やすくなります。`,
+        `濃すぎない料理と合わせると、酸の良さが自然に残ります。`,
+      ],
+      [
+        `暑い日や軽めに飲みたい夜にも選びやすい一本です。`,
+        `食卓に涼しさを足したいときに向きます。`,
+        `次のひと口へ進みやすい組み合わせを作れます。`,
+      ],
+    );
+  }
+
+  if (has("米の旨味", "旨口", "純米", "食中酒")) {
+    return line(
+      [
+        `米の旨みを感じやすく、食卓に寄り添う味わいです。`,
+        `派手さよりも、料理と一緒に楽しむまとまりがあります。`,
+        `旨みのふくらみがあり、日々の晩ごはんに合わせやすい日本酒です。`,
+      ],
+      [
+        `${dishText}のだしや甘辛い味付けを穏やかに受け止めます。`,
+        `${tempPhrase}合わせると、料理のコクと酒の旨みがつながります。`,
+        `煮物や焼き物のような家庭料理にも無理なくなじみます。`,
+      ],
+      [
+        `ゆっくり食べたい夜に向く、落ち着いた一献です。`,
+        `飲み飽きしにくく、食事の最後まで付き合えます。`,
+        `家の食卓でこそ良さが見えやすいタイプです。`,
+      ],
+    );
+  }
+
+  if (has("フルーティ", "華やか", "甘み")) {
+    return line(
+      [
+        `香りや甘みを楽しみやすい、親しみのある一本です。`,
+        `華やかな印象があり、飲み始めに気分が上がるタイプです。`,
+        `やさしい甘みがあり、単体でも料理と一緒でも楽しめます。`,
+      ],
+      [
+        `${dishText}に合わせると、料理の味をやわらかく広げます。`,
+        `${tempPhrase}飲むと、香りの輪郭が穏やかに出ます。`,
+        `冷たい前菜や軽めの料理とも合わせやすい味わいです。`,
+      ],
+      [
+        `少し贅沢したい夜にも似合います。`,
+        `食卓に明るい余韻を添えてくれます。`,
+        `香りを楽しみたい日に選びやすい日本酒です。`,
+      ],
+    );
+  }
+
+  if (has("燗向き", "濃醇", "熟成", "山廃")) {
+    return line(
+      [
+        `コクや厚みを楽しみやすい日本酒です。`,
+        `落ち着いた旨みがあり、じっくり飲みたい夜に向きます。`,
+        `温度を少し上げても味の輪郭を感じやすいタイプです。`,
+      ],
+      [
+        `${dishText}のような味のある料理にも負けにくいです。`,
+        `${temperatureText || "常温や燗"}で合わせると、旨みがより食事になじみます。`,
+        `味噌や醤油を使う料理と合わせると、酒の厚みが生きます。`,
+      ],
+      [
+        `寒い夜や、ゆっくり食卓に向き合う時間に合います。`,
+        `飲み急がず、料理と一緒に楽しみたい一本です。`,
+        `余韻を長めに味わいたいときに選びやすい一献です。`,
+      ],
+    );
+  }
+
+  return line(
+    [
+      `穏やかな飲み口で、料理と合わせて楽しみやすい日本酒です。`,
+      `味わいの主張が強すぎず、食卓に置きやすい一本です。`,
+      `まとまりのある味わいで、普段の晩ごはんにも合わせやすいタイプです。`,
+    ],
+    [
+      `${dishText}と合わせると、料理の味を大きく邪魔しません。`,
+      `${tempPhrase}、日々の料理に自然になじみます。`,
+      `まずは家庭料理と一緒に試すと、相性を感じやすいです。`,
+    ],
+    [
+      `初めての銘柄でも選びやすい、落ち着いた一献です。`,
+      `迷った夜の一本として使いやすい日本酒です。`,
+      `食卓の流れに静かに寄り添います。`,
+    ],
+  );
 }
 
 export function buildYoiCopy(item) {
