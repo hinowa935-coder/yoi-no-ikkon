@@ -209,12 +209,37 @@ function includesAny(values, words) {
   return words.some((word) => text.includes(word));
 }
 
+function slugHash(value) {
+  let hash = 2166136261;
+  for (const char of String(value)) {
+    hash ^= char.codePointAt(0);
+    hash = Math.imul(hash, 16777619);
+  }
+  return (hash >>> 0).toString(36);
+}
+
 export function toPathSegment(value) {
-  return encodeURIComponent(String(value).trim().replace(/\s+/g, "-"));
+  const raw = String(value).trim();
+  const readable = raw
+    .normalize("NFKD")
+    .toLowerCase()
+    .replace(/[^a-z0-9]+/g, "-")
+    .replace(/^-+|-+$/g, "")
+    .slice(0, 42);
+  return `${readable || "item"}-${slugHash(raw)}`;
 }
 
 export function fromPathSegment(value) {
-  return decodeURIComponent(String(value).replace(/-/g, " "));
+  try {
+    return decodeURIComponent(String(value).replace(/-/g, " "));
+  } catch {
+    return String(value);
+  }
+}
+
+function findOptionBySlug(options, slug) {
+  const decoded = fromPathSegment(slug);
+  return options.find((name) => toPathSegment(name) === slug) || options.find((name) => name === decoded);
 }
 
 export function getSakeById(id) {
@@ -222,13 +247,15 @@ export function getSakeById(id) {
 }
 
 export function getNightBySlug(slug) {
-  const name = fromPathSegment(slug);
+  const name = findOptionBySlug(getNightOptions(), slug);
+  if (!name) return null;
   const items = visibleSakePairings.filter((item) => item.nightType === name);
   return items.length ? { name, items } : null;
 }
 
 export function getFoodBySlug(slug) {
-  const name = fromPathSegment(slug);
+  const name = findOptionBySlug(getFoodOptions(), slug);
+  if (!name) return null;
   const items = visibleSakePairings.filter((item) => item.dishes?.includes(name));
   return items.length ? { name, items } : null;
 }
