@@ -1,6 +1,5 @@
-const CACHE_VERSION = "yoi-no-ikkon-v3";
+const CACHE_VERSION = "yoi-no-ikkon-v4";
 const SHELL_ASSETS = [
-  "/",
   "/manifest.webmanifest",
   "/favicon.svg",
   "/icons/icon-192.png",
@@ -44,8 +43,21 @@ self.addEventListener("fetch", (event) => {
     url.pathname === "/favicon.svg" ||
     url.pathname === "/manifest.webmanifest";
 
+  if (request.mode === "navigate") {
+    event.respondWith(
+      fetch(request, { cache: "no-store" }).catch(
+        () =>
+          new Response(
+            "<!doctype html><meta charset=\"utf-8\"><title>宵の一献</title><body>通信状況を確認して、再読み込みしてください。</body>",
+            { headers: { "Content-Type": "text/html; charset=utf-8" } },
+          ),
+      ),
+    );
+    return;
+  }
+
   if (!isStaticAsset) {
-    event.respondWith(fetch(request).catch(() => caches.match("/")));
+    event.respondWith(fetch(request, { cache: "no-store" }));
     return;
   }
 
