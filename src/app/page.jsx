@@ -44,21 +44,6 @@ function searchValues(item, key) {
   return [];
 }
 
-function dailyPick(list, count) {
-  const today = new Date().toLocaleDateString("ja-JP", {
-    timeZone: "Asia/Tokyo",
-  });
-  const seed = Array.from(today).reduce(
-    (sum, char) => sum + char.charCodeAt(0),
-    0,
-  );
-
-  return Array.from({ length: count }, (_, index) => {
-    const position = (seed + index * 7) % list.length;
-    return list[position];
-  });
-}
-
 function OchokoIcon({ filled = false }) {
   return (
     <svg
@@ -190,21 +175,6 @@ function SakeCard({
             <OchokoIcon filled={isFavorite} />
           </MotionButton>
         </div>
-
-        <a
-          href={`/night/${toPathSegment(item.nightType)}`}
-          onClick={() =>
-            trackEvent("internal_navigation", {
-              target_type: "night",
-              night_id: item.nightType,
-              sake_id: item.id,
-              source_page: "home_card",
-            })
-          }
-          className="mt-3 inline-flex w-fit rounded-full border border-[#d8bd7a]/35 px-3 py-1 text-xs leading-none text-[#f2dfad] transition hover:border-[#d8bd7a]/70 hover:bg-[#d8bd7a]/10"
-        >
-          {yoiCopy}
-        </a>
       </div>
 
       <p className="mt-4 border-l border-[#d8bd7a]/50 pl-4 text-sm leading-7 text-[#fff4d8] sm:text-base sm:leading-8">
@@ -256,6 +226,23 @@ function SakeCard({
 
       {isExpanded ? (
         <div className="mt-4 space-y-4 border-t border-[#f8f0df]/10 pt-4 text-sm text-[#d8d0bf]">
+          <div>
+            <p className="text-[#d8bd7a]">宵の言葉</p>
+            <a
+              href={`/night/${toPathSegment(item.nightType)}`}
+              onClick={() =>
+                trackEvent("internal_navigation", {
+                  target_type: "night",
+                  night_id: item.nightType,
+                  sake_id: item.id,
+                  source_page: "home_card_detail",
+                })
+              }
+              className="mt-2 inline-flex w-fit rounded-full border border-[#d8bd7a]/35 px-3 py-1.5 text-xs leading-none text-[#f2dfad] transition hover:border-[#d8bd7a]/70 hover:bg-[#d8bd7a]/10"
+            >
+              {yoiCopy}
+            </a>
+          </div>
           <div>
             <p className="text-[#d8bd7a]">気分</p>
             <p className="mt-2 leading-7">{item.moods.join("、")}</p>
@@ -314,32 +301,32 @@ function SakeCard({
                   {link.label}
                 </a>
               ))}
-            {resourceLinks.map((link) => (
+              {resourceLinks.map((link) => (
+                <a
+                  key={link.href}
+                  href={link.href}
+                  target="_blank"
+                  rel="noreferrer"
+                  onClick={() =>
+                    trackEvent("official_link_click", {
+                      sakeId: item.id,
+                      sakeName: item.productName || item.sake,
+                      prefecture: item.prefecture,
+                      provider: link.provider,
+                      entrySource: "home_card",
+                    })
+                  }
+                  className="inline-flex w-fit rounded-full border border-[#f8f0df]/14 px-3 py-1.5 text-xs text-[#d8d0bf] transition hover:border-[#d8bd7a]/60 hover:bg-[#d8bd7a]/10 hover:text-[#fff8e9]"
+                >
+                  {link.label}
+                </a>
+              ))}
               <a
-                key={link.href}
-                href={link.href}
-                target="_blank"
-                rel="noreferrer"
-                onClick={() =>
-                  trackEvent("official_link_click", {
-                    sakeId: item.id,
-                    sakeName: item.productName || item.sake,
-                    prefecture: item.prefecture,
-                    provider: link.provider,
-                    entrySource: "home_card",
-                  })
-                }
-                className="inline-flex w-fit rounded-full border border-[#f8f0df]/14 px-3 py-1.5 text-xs text-[#d8d0bf] transition hover:border-[#d8bd7a]/60 hover:bg-[#d8bd7a]/10 hover:text-[#fff8e9]"
+                href={`/sake/${item.id}`}
+                className="inline-flex w-fit rounded-full border border-[#d8bd7a]/30 px-3 py-1.5 text-xs text-[#f2dfad] transition hover:border-[#d8bd7a]/70 hover:bg-[#d8bd7a]/10 hover:text-[#fff8e9]"
               >
-                {link.label}
+                詳細ページを見る
               </a>
-            ))}
-            <a
-              href={`/sake/${item.id}`}
-              className="inline-flex w-fit rounded-full border border-[#d8bd7a]/30 px-3 py-1.5 text-xs text-[#f2dfad] transition hover:border-[#d8bd7a]/70 hover:bg-[#d8bd7a]/10 hover:text-[#fff8e9]"
-            >
-              詳細ページを見る
-            </a>
             </div>
           </div>
         </div>
@@ -373,11 +360,6 @@ export default function Page() {
   }, []);
 
   const availableNightEntries = useMemo(() => getNightMoodOptions(), []);
-
-  const todayEntrances = useMemo(
-    () => dailyPick(availableNightEntries, 3),
-    [availableNightEntries],
-  );
 
   const filteredItems = useMemo(() => {
     const keyword = freeKeyword.trim();
@@ -478,7 +460,7 @@ export default function Page() {
                   text: "銘柄、蔵元、産地、味わいから、合わせる料理を見つけます。",
                 },
                 {
-                  title: "今夜の気分から探す",
+                  title: "気分から探す",
                   text: "疲れた夜、少し贅沢したい夜など、気分に合う一献へ。",
                 },
               ].map((item) => (
@@ -537,42 +519,22 @@ export default function Page() {
                 className="h-32 w-full object-cover object-[center_72%] sm:h-36 lg:h-40"
               />
             </div>
-            <p className="text-sm text-[#d8bd7a]">今夜の気分から探す</p>
+            <p className="text-sm text-[#d8bd7a]">宵の一献について</p>
             <p className="mt-2 text-sm leading-6 text-[#bdb5a5]">
-              その夜に似合う、一献を。選ぶと検索結果へ進みます。
+              料理、銘柄、産地、味わい、気分から、家庭料理に合う日本酒を探せます。
             </p>
-            <div className="mt-4 space-y-3">
-              {todayEntrances.map((entry) => (
-                <MotionButton
-                  key={entry.night}
-                  type="button"
-                  onClick={() => {
-                    setFilters({
-                      dish: ALL,
-                      mood: ALL,
-                      area: ALL,
-                      taste: ALL,
-                      night: entry.night,
-                    });
-                    setFreeKeyword("");
-                    trackEvent("night_entry_click", {
-                      night_id: entry.night,
-                      entry_label: entry.label,
-                      source_page: "home",
-                    });
-                    document
-                      .getElementById("results")
-                      ?.scrollIntoView({ behavior: "smooth" });
-                  }}
-                  className="w-full rounded-lg border border-[#f8f0df]/12 bg-[#f8f0df]/5 px-4 py-4 text-left text-[#fff8e9] transition hover:border-[#d8bd7a]/60 hover:bg-[#d8bd7a]/10"
-                >
-                  <span className="block text-base leading-6">{entry.label}</span>
-                  <span className="mt-1 block text-xs leading-5 text-[#bdb5a5]">
-                    {entry.description}
-                  </span>
-                </MotionButton>
-              ))}
-            </div>
+            <MotionButton
+              type="button"
+              onClick={() => {
+                setFiltersOpen(true);
+                document
+                  .getElementById("search")
+                  ?.scrollIntoView({ behavior: "smooth" });
+              }}
+              className="mt-4 w-full rounded-lg border border-[#d8bd7a]/35 bg-[#f8f0df]/5 px-4 py-3 text-sm text-[#f2dfad] transition hover:border-[#d8bd7a]/70 hover:bg-[#d8bd7a]/10"
+            >
+              検索条件を開く
+            </MotionButton>
           </div>
         </section>
 
@@ -652,7 +614,7 @@ export default function Page() {
               </div>
 
               <div className="mt-4 rounded-lg border border-[#d8bd7a]/20 bg-[#101c31]/70 p-3">
-                <p className="text-sm text-[#d8bd7a]">今夜の気分から探す</p>
+                <p className="text-sm text-[#d8bd7a]">今夜の気分を選ぶ</p>
                 <p className="mt-1 text-xs leading-5 text-[#bdb5a5]">
                   いまの気分に近いものを選びます。
                 </p>
