@@ -6,7 +6,7 @@ export default function TrackedExternalLink({
   href,
   children,
   className,
-  event = "affiliate_click",
+  event = "external_link_click",
   parameters = {},
 }) {
   return (
