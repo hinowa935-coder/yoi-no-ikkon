@@ -6,9 +6,11 @@ import {
   SITE_URL,
   buildPairingReason,
   buildRecipeLinks,
+  buildSakeDescription,
+  buildYoiCopy,
   getFoodBySlug,
   getFoodOptions,
-  polishEssay,
+  getFoodProfile,
   toPathSegment,
   unique,
 } from "../../../data/siteData";
@@ -59,13 +61,14 @@ export default async function FoodPage({ params }) {
   const relatedFoods = unique(
     items.flatMap((item) => item.dishes || []).filter((dish) => dish !== food.name),
   ).slice(0, 12);
+  const foodProfile = getFoodProfile(food.name);
   const recipeLinks = buildRecipeLinks(food.name);
 
   const jsonLd = {
     "@context": "https://schema.org",
     "@type": "CollectionPage",
     name: `${food.name}に合う日本酒`,
-    description: `${food.name}に似合う日本酒と夜の案内。`,
+    description: `${food.name}に合う日本酒と家庭料理のペアリング。`,
     url: `${SITE_URL}/food/${toPathSegment(food.name)}`,
     about: {
       "@type": "Thing",
@@ -103,7 +106,7 @@ export default async function FoodPage({ params }) {
             {food.name}に合う日本酒
           </h1>
           <p className="mt-6 max-w-3xl text-base leading-8 text-[#d8d0bf] sm:text-lg">
-            いつもの一皿から、夜に似合う一献へ。この料理に合う日本酒と、なぜ合うのかを短く紹介します。
+            いつもの一皿から、食卓に合う一献へ。この料理に合う日本酒と、なぜ合うのかを短く紹介します。
           </p>
           <div className="mt-6 flex flex-wrap gap-3">
             <ShareButton
@@ -121,43 +124,32 @@ export default async function FoodPage({ params }) {
           </div>
         </section>
 
-        <section className="grid gap-4 lg:grid-cols-[1fr_320px]">
-          <div className="grid gap-4 md:grid-cols-2">
-            {items.slice(0, 16).map((item) => (
-              <a
-                key={item.id}
-                href={`/sake/${item.id}`}
-                className="rounded-lg border border-[#f8f0df]/12 bg-[#0b1729]/82 p-5 transition hover:border-[#d8bd7a]/55 hover:bg-[#d8bd7a]/10"
-              >
-                <p className="text-xs text-[#d8bd7a]">
-                  {item.prefecture} / {item.brewery}
-                </p>
-                <h2 className="font-display-ja mt-2 text-xl font-normal leading-8">
-                  {item.productName || item.sake}
-                </h2>
-                <p className="mt-3 text-sm leading-7 text-[#d8d0bf]">
-                  {polishEssay(item.essay)}
-                </p>
-                <div className="mt-4 rounded-lg border border-[#f8f0df]/10 bg-[#020814]/45 p-3">
-                  <p className="text-xs text-[#d8bd7a]">なぜ合う？</p>
-                  <p className="mt-2 text-sm leading-7 text-[#d8d0bf]">
-                    {buildPairingReason(item, food.name)}
-                  </p>
-                </div>
-                <p className="mt-4 text-xs text-[#bdb5a5]">
-                  {item.nightType} / {item.temperature.join("、")}
-                </p>
-              </a>
-            ))}
-          </div>
-
-          <aside className="space-y-4">
-            <div className="rounded-lg border border-[#f8f0df]/12 bg-[#0b1729]/82 p-5">
-              <h2 className="font-display-ja text-2xl font-normal">作り方を見る</h2>
-              <p className="mt-3 text-sm leading-7 text-[#d8d0bf]">
-                外部レシピサイトで、この料理の作り方を確認できます。
+        <section className="mb-4 rounded-lg border border-[#f8f0df]/12 bg-[#0b1729]/82 p-5">
+          <p className="text-sm text-[#d8bd7a]">料理について</p>
+          <p className="mt-3 max-w-3xl text-sm leading-7 text-[#d8d0bf] sm:text-base sm:leading-8">
+            {foodProfile.description}
+          </p>
+          {foodProfile.cookingTime || foodProfile.servings ? (
+            <div className="mt-4 flex flex-wrap gap-2 text-xs text-[#bdb5a5]">
+              {foodProfile.cookingTime ? (
+                <span className="rounded-full border border-[#f8f0df]/12 px-3 py-1">
+                  目安時間: {foodProfile.cookingTime}
+                </span>
+              ) : null}
+              {foodProfile.servings ? (
+                <span className="rounded-full border border-[#f8f0df]/12 px-3 py-1">
+                  分量: {foodProfile.servings}
+                </span>
+              ) : null}
+            </div>
+          ) : null}
+          {recipeLinks.length > 0 ? (
+            <div className="mt-5 border-t border-[#f8f0df]/10 pt-4">
+              <p className="text-sm text-[#d8bd7a]">作ってみる</p>
+              <p className="mt-2 text-sm leading-7 text-[#d8d0bf]">
+                外部サイトで、この料理の作り方を確認できます。
               </p>
-              <div className="mt-4 grid gap-2">
+              <div className="mt-3 flex flex-wrap gap-2">
                 {recipeLinks.map((link) => (
                   <TrackedExternalLink
                     key={link.href}
@@ -175,6 +167,45 @@ export default async function FoodPage({ params }) {
                 ))}
               </div>
             </div>
+          ) : null}
+        </section>
+
+        <section className="grid gap-4 lg:grid-cols-[1fr_320px]">
+          <div>
+            <h2 className="font-display-ja mb-4 text-3xl font-normal">
+              この料理に合う日本酒
+            </h2>
+            <div className="grid gap-4 md:grid-cols-2">
+            {items.slice(0, 16).map((item) => (
+              <a
+                key={item.id}
+                href={`/sake/${item.id}`}
+                className="rounded-lg border border-[#f8f0df]/12 bg-[#0b1729]/82 p-5 transition hover:border-[#d8bd7a]/55 hover:bg-[#d8bd7a]/10"
+              >
+                <p className="text-xs text-[#d8bd7a]">
+                  {item.prefecture} / {item.brewery}
+                </p>
+                <h2 className="font-display-ja mt-2 text-xl font-normal leading-8">
+                  {item.productName || item.sake}
+                </h2>
+                <p className="mt-3 text-sm leading-7 text-[#d8d0bf]">
+                  {buildSakeDescription(item, food.name)}
+                </p>
+                <div className="mt-4 rounded-lg border border-[#f8f0df]/10 bg-[#020814]/45 p-3">
+                  <p className="text-xs text-[#d8bd7a]">なぜ合う？</p>
+                  <p className="mt-2 text-sm leading-7 text-[#d8d0bf]">
+                    {buildPairingReason(item, food.name)}
+                  </p>
+                </div>
+                <p className="mt-4 text-xs text-[#bdb5a5]">
+                  宵の言葉: {buildYoiCopy(item)} / {item.temperature.join("、")}
+                </p>
+              </a>
+            ))}
+            </div>
+          </div>
+
+          <aside className="space-y-4">
             <div className="rounded-lg border border-[#f8f0df]/12 bg-[#0b1729]/82 p-5">
               <h2 className="font-display-ja text-2xl font-normal">今夜の気分</h2>
               <div className="mt-4 flex flex-wrap gap-2">
