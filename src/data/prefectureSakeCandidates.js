@@ -1438,15 +1438,5 @@ export const prefectureSakeCandidates = [
         "brewery": "薩摩金山蔵"
       }
     ]
-  },
-  {
-    "prefecture": "沖縄県",
-    "status": "清酒候補が少ないため要追加調査",
-    "items": [
-      {
-        "sake": "黎明",
-        "brewery": "泰石酒造"
-      }
-    ]
   }
 ];

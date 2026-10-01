@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="宵の一献アプリアイコン">
+  <defs>
+    <linearGradient id="bg" x1="78" x2="434" y1="52" y2="462" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0a1c3e"/>
+      <stop offset=".62" stop-color="#061127"/>
+      <stop offset="1" stop-color="#020611"/>
+    </linearGradient>
+    <linearGradient id="cup" x1="166" x2="346" y1="164" y2="418" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#fff8e9"/>
+      <stop offset="1" stop-color="#dfcfaa"/>
+    </linearGradient>
+    <radialGradient id="sake" cx="0" cy="0" r="1" gradientTransform="matrix(96 0 0 31 256 199)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#10224a"/>
+      <stop offset="1" stop-color="#050b1d"/>
+    </radialGradient>
+  </defs>
+  <rect width="512" height="512" rx="108" fill="url(#bg)"/>
+  <path d="M140 210c7 114 34 174 116 174s109-60 116-174" fill="url(#cup)"/>
+  <ellipse cx="256" cy="202" rx="134" ry="48" fill="#fff8e9"/>
+  <ellipse cx="256" cy="202" rx="96" ry="29" fill="url(#sake)"/>
+  <path d="M309 187c-38 5-68 23-80 53 30-22 63-30 97-25-21-9-26-18-17-28Z" fill="#d8bd7a"/>
+  <path d="M189 387h134" stroke="#c9ad6c" stroke-width="22" stroke-linecap="round"/>
+  <path d="M174 204c24-22 141-25 165 0" fill="none" stroke="#f8f0df" stroke-linecap="round" stroke-width="8" opacity=".65"/>
+</svg>

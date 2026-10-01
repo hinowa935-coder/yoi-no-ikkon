@@ -2,147 +2,23 @@
 
 import { useEffect, useMemo, useState } from "react";
 import { motion } from "framer-motion";
-import { sakePairings } from "../data/sakePairings";
-import { extraSakePairings } from "../data/extraSakePairings";
-import { reviewPairingProduct } from "../data/sakePairingReview";
+import {
+  FAVORITES_KEY,
+  buildResourceLinks,
+  dishOptions,
+  getNightOptions,
+  getSiteStats,
+  moodOptions,
+  polishEssay,
+  prefectureOrder,
+  tasteOptions,
+  toPathSegment,
+  trackEvent,
+  visibleSakePairings,
+} from "../data/siteData";
 
 const ALL = "すべて";
-const FAVORITES_KEY = "yoi-no-ikkon-favorites";
-
-const dishOptions = [
-  "焼き魚",
-  "煮魚",
-  "刺身",
-  "揚げ物",
-  "煮物",
-  "炒め物",
-  "鍋物",
-  "豆腐料理",
-  "鶏料理",
-  "豚肉料理",
-  "ご飯もの",
-  "家庭料理",
-];
-
-const moodOptions = [
-  "疲れた夜",
-  "一人飲み",
-  "静かな晩酌",
-  "軽く飲みたい",
-  "しっかり食べたい",
-  "あたたまりたい",
-  "さっぱりしたい",
-  "家族の食卓",
-  "友人と飲む",
-  "週末",
-  "雨の日",
-  "気分を変えたい",
-  "祝い",
-];
-
-const tasteOptions = [
-  "すっきり",
-  "辛口",
-  "酸味",
-  "米の旨味",
-  "食中酒",
-  "やわらか",
-  "甘み",
-  "フルーティ",
-  "華やか",
-  "旨口",
-  "燗向き",
-  "濃醇",
-];
-
-const curatedNightOptions = [
-  "雨あがりの宵",
-  "雨夜に寄り添う",
-  "雪夜の静けさ",
-  "秋夜の余韻",
-  "花宵の気配",
-  "月影に憩う",
-  "月冴ゆる一献",
-  "月灯りの余白",
-  "月明のやすらぎ",
-  "古灯の夜",
-  "更けゆく余白",
-  "冴ゆる宵口",
-  "宵闇にほどける",
-  "宵霞の余白",
-  "宵待ちの杯",
-  "宵涼みの一杯",
-  "小夜のひと息",
-  "小夜風の杯",
-  "新月の軽やかさ",
-  "深宵の語らい",
-  "星明かりの杯",
-  "星涼みの杯",
-  "清宵の乾杯",
-  "静寂の一献",
-  "静謐の一献",
-  "雪待ちの杯",
-  "淡夜のやすらぎ",
-  "灯下のぬくもり",
-  "灯火親しむ夜",
-  "薄明の余韻",
-  "風待ちの一献",
-  "夜雨のやさしさ",
-  "夜更けの安堵",
-  "夜風の一杯",
-  "夜霧のひと息",
-  "夜明け前の余韻",
-  "露夜のやすらぎ",
-];
-
-const prefectureOrder = [
-  "北海道",
-  "青森県",
-  "岩手県",
-  "宮城県",
-  "秋田県",
-  "山形県",
-  "福島県",
-  "茨城県",
-  "栃木県",
-  "群馬県",
-  "埼玉県",
-  "千葉県",
-  "東京都",
-  "神奈川県",
-  "新潟県",
-  "富山県",
-  "石川県",
-  "福井県",
-  "山梨県",
-  "長野県",
-  "岐阜県",
-  "静岡県",
-  "愛知県",
-  "三重県",
-  "滋賀県",
-  "京都府",
-  "大阪府",
-  "兵庫県",
-  "奈良県",
-  "和歌山県",
-  "鳥取県",
-  "島根県",
-  "岡山県",
-  "広島県",
-  "山口県",
-  "徳島県",
-  "香川県",
-  "愛媛県",
-  "高知県",
-  "福岡県",
-  "佐賀県",
-  "長崎県",
-  "熊本県",
-  "大分県",
-  "宮崎県",
-  "鹿児島県",
-];
+const siteStats = getSiteStats();
 
 const searchFields = [
   { key: "dish", label: "料理", options: dishOptions },
@@ -150,14 +26,6 @@ const searchFields = [
   { key: "area", label: "産地", options: prefectureOrder },
   { key: "taste", label: "味わい", options: tasteOptions },
 ];
-
-const visibleSakePairings = sakePairings.filter(
-  (item) => item.prefecture !== "沖縄県",
-).concat(extraSakePairings).map(reviewPairingProduct);
-
-function unique(values) {
-  return Array.from(new Set(values.filter(Boolean)));
-}
 
 function includesKeyword(values, keyword) {
   if (!keyword || keyword === ALL) return true;
@@ -171,74 +39,6 @@ function searchValues(item, key) {
   if (key === "taste") return [...item.taste, ...item.style];
   if (key === "night") return [item.nightType];
   return [];
-}
-
-function isInstagramUrl(url) {
-  return Boolean(url && url.includes("instagram.com"));
-}
-
-function safeHost(url) {
-  try {
-    return new URL(url).hostname.replace(/^www\./, "");
-  } catch {
-    return "";
-  }
-}
-
-function isSameSite(leftUrl, rightUrl) {
-  const leftHost = safeHost(leftUrl);
-  const rightHost = safeHost(rightUrl);
-  return Boolean(leftHost && rightHost && leftHost === rightHost);
-}
-
-function buildResourceLinks(item) {
-  const links = [];
-  const seen = new Set();
-
-  const push = (label, href) => {
-    if (!href || seen.has(href)) return;
-    seen.add(href);
-    links.push({ label, href });
-  };
-
-  push(isInstagramUrl(item.officialUrl) ? "公式Instagram" : "公式サイト", item.officialUrl);
-  push("公式Instagram", item.instagramUrl);
-  push(
-    isInstagramUrl(item.productUrl)
-      ? "公式Instagram"
-      : isSameSite(item.productUrl, item.officialUrl)
-        ? "公式ラインナップ"
-        : "参考リンク",
-    item.productUrl,
-  );
-  if (links.length === 0) push("Webで探す", item.webSearchUrl);
-
-  return links;
-}
-
-function polishEssay(text) {
-  return text
-    .replaceAll("甘酸の調べが口中を明るくし、", "甘酸の調べがすっとほどけ、")
-    .replaceAll("明るい酸の余白", "澄んだ酸の余白")
-    .replaceAll("丸いコクが静かに口中を満たし、", "丸いコクが静かに広がり、")
-    .replaceAll("澄んだ吟香が口中を軽く満たし、", "澄んだ吟香がふわりと広がり、")
-    .replaceAll("清い酸味が舌先に光り、", "澄んだ酸味が軽やかに立ち、")
-    .replaceAll("みずみずしい甘みが舌先で弾み、", "みずみずしい甘みが軽く弾み、")
-    .replaceAll("落ち着いた厚みが喉もとにやさしく落ち、", "落ち着いた厚みがゆるやかに沈み、")
-    .replaceAll("清らかな味筋が喉もとを抜け、", "清らかな味筋がすっと抜け、")
-    .replaceAll("すっきりとした安堵を置く", "すっきりとした安堵を残す")
-    .replaceAll("澄んだ酸の余白を残す", "澄んだ酸の余韻を残す")
-    .replaceAll("軽やかな酸の線を引く", "澄んだ輪郭を残す")
-    .replaceAll("すっと透明な線を引く", "透明な余韻を残す")
-    .replaceAll("爽やかな余白をつくる", "爽やかな余韻を残す")
-    .replaceAll("丸い余白をつくる", "まろやかな余韻を残す")
-    .replaceAll("涼しい後味を連れていく", "涼やかな後味を残す")
-    .replaceAll("軽い涼感を連れていく", "軽い涼感を残す")
-    .replaceAll("穏やかな満足を残す", "穏やかな充足を残す")
-    .replaceAll("清い輪郭を置く", "澄んだ輪郭を残す")
-    .replaceAll("上品な甘みが明るくほどけ、", "上品な甘みがふわりとほどけ、")
-    .replaceAll("深い旨みが温度の中でほどけ、", "深い旨みが燗の温度でほどけ、")
-    .replaceAll("穏やかな熟成感が酸の芯を立て、", "穏やかな熟成感に酸の芯が通り、");
 }
 
 function dailyPick(list, count) {
@@ -342,9 +142,21 @@ function SakeCard({
             <p className="text-xs leading-5 text-[#d8bd7a] sm:text-sm">
               {item.prefecture} / {item.region}
             </p>
-            <h3 className="font-display-ja mt-1 text-xl font-normal leading-snug text-[#fff8e9] sm:text-2xl">
-              {item.productName || item.sake}
-            </h3>
+            <a
+              href={`/sake/${item.id}`}
+              onClick={() =>
+                trackEvent("internal_navigation", {
+                  target_type: "sake",
+                  sake_id: item.id,
+                  source_page: "home_card",
+                })
+              }
+              className="block"
+            >
+              <h3 className="font-display-ja mt-1 text-xl font-normal leading-snug text-[#fff8e9] transition hover:text-[#f4d98e] sm:text-2xl">
+                {item.productName || item.sake}
+              </h3>
+            </a>
             <p className="mt-1 text-sm leading-6 text-[#bdb5a5]">
               {item.brewery}
             </p>
@@ -365,9 +177,20 @@ function SakeCard({
           </MotionButton>
         </div>
 
-        <span className="mt-3 inline-flex w-fit rounded-full border border-[#d8bd7a]/35 px-3 py-1 text-xs leading-none text-[#f2dfad]">
+        <a
+          href={`/night/${toPathSegment(item.nightType)}`}
+          onClick={() =>
+            trackEvent("internal_navigation", {
+              target_type: "night",
+              night_id: item.nightType,
+              sake_id: item.id,
+              source_page: "home_card",
+            })
+          }
+          className="mt-3 inline-flex w-fit rounded-full border border-[#d8bd7a]/35 px-3 py-1 text-xs leading-none text-[#f2dfad] transition hover:border-[#d8bd7a]/70 hover:bg-[#d8bd7a]/10"
+        >
           {item.nightType}
-        </span>
+        </a>
       </div>
 
       <p className="font-display-ja mt-4 border-l border-[#d8bd7a]/50 pl-4 text-sm leading-7 text-[#fff4d8] sm:text-base sm:leading-8">
@@ -376,7 +199,25 @@ function SakeCard({
 
       <div className="mt-4 text-sm text-[#d8d0bf]">
         <p className="text-[#d8bd7a]">合う料理</p>
-        <p className="mt-2 leading-7">{item.dishes.slice(0, 3).join("、")}</p>
+        <div className="mt-2 flex flex-wrap gap-2">
+          {item.dishes.slice(0, 3).map((dish) => (
+            <a
+              key={dish}
+              href={`/food/${toPathSegment(dish)}`}
+              onClick={() =>
+                trackEvent("internal_navigation", {
+                  target_type: "food",
+                  food_id: dish,
+                  sake_id: item.id,
+                  source_page: "home_card",
+                })
+              }
+              className="rounded-full border border-[#f8f0df]/12 px-3 py-1.5 text-xs text-[#d8d0bf] transition hover:border-[#d8bd7a]/50 hover:text-[#fff8e9]"
+            >
+              {dish}
+            </a>
+          ))}
+        </div>
       </div>
 
       <MotionButton
@@ -415,11 +256,26 @@ function SakeCard({
                 href={link.href}
                 target="_blank"
                 rel="noreferrer"
+                onClick={() =>
+                  trackEvent("affiliate_click", {
+                    product_id: item.id,
+                    product_type: "sake",
+                    provider: link.provider,
+                    source_page: "home_card",
+                    sake_id: item.id,
+                  })
+                }
                 className="inline-flex w-fit rounded-full border border-[#d8bd7a]/30 px-3 py-1.5 text-xs text-[#f2dfad] transition hover:border-[#d8bd7a]/70 hover:bg-[#d8bd7a]/10 hover:text-[#fff8e9]"
               >
                 {link.label}
               </a>
             ))}
+            <a
+              href={`/sake/${item.id}`}
+              className="inline-flex w-fit rounded-full border border-[#d8bd7a]/30 px-3 py-1.5 text-xs text-[#f2dfad] transition hover:border-[#d8bd7a]/70 hover:bg-[#d8bd7a]/10 hover:text-[#fff8e9]"
+            >
+              詳細ページを見る
+            </a>
           </div>
         </div>
       ) : null}
@@ -451,10 +307,7 @@ export default function Page() {
     }
   }, []);
 
-  const nightOptions = useMemo(() => {
-    const existing = unique(visibleSakePairings.map((item) => item.nightType));
-    return curatedNightOptions.filter((option) => existing.includes(option));
-  }, []);
+  const nightOptions = useMemo(() => getNightOptions(), []);
 
   const todayEntrances = useMemo(() => dailyPick(nightOptions, 3), [nightOptions]);
 
@@ -504,6 +357,11 @@ export default function Page() {
         : [...current, id];
 
       window.localStorage.setItem(FAVORITES_KEY, JSON.stringify(next));
+      trackEvent(next.includes(id) ? "favorite_add" : "favorite_remove", {
+        product_type: "sake",
+        sake_id: id,
+        source_page: "home",
+      });
       return next;
     });
   };
@@ -516,49 +374,59 @@ export default function Page() {
             <p className="text-xs tracking-[0.35em] text-[#d8bd7a]">YOI NO IKKON</p>
             <p className="font-display-ja mt-2 text-2xl font-normal">宵の一献</p>
           </div>
-          <a
-            href="#search"
-            className="rounded-full border border-[#d8bd7a]/35 px-4 py-2 text-sm text-[#f2dfad] transition hover:border-[#d8bd7a]/70 hover:bg-[#d8bd7a]/10"
-          >
-            探す
-          </a>
+          <nav className="flex items-center gap-2 text-sm">
+            <a
+              href="#night"
+              className="hidden rounded-full border border-[#f8f0df]/12 px-4 py-2 text-[#d8d0bf] transition hover:border-[#d8bd7a]/60 hover:bg-[#d8bd7a]/10 hover:text-[#fff8e9] sm:inline-flex"
+            >
+              夜から
+            </a>
+            <a
+              href="#search"
+              className="rounded-full border border-[#d8bd7a]/35 px-4 py-2 text-[#f2dfad] transition hover:border-[#d8bd7a]/70 hover:bg-[#d8bd7a]/10"
+            >
+              探す
+            </a>
+          </nav>
         </header>
 
         <section className="grid gap-7 py-8 lg:grid-cols-[1fr_280px] lg:items-start lg:py-10">
           <div className="space-y-8">
             <div>
               <p className="text-sm text-[#d8bd7a]">
-                日本酒と家庭料理、夜の案内
+                日本酒を、夜から選ぶ。
               </p>
               <h1 className="font-display-ja mt-4 max-w-3xl text-4xl font-normal leading-tight text-[#fff8e9] sm:text-6xl">
-                宵の一献
+                どんな夜に、飲みますか。
               </h1>
               <p className="mt-5 max-w-3xl text-base leading-8 text-[#d8d0bf] sm:text-lg">
-                家庭料理、気分、産地、味わい、夜の気配から、今夜の食卓に似合う一本を探す。全国の酒蔵から、静かな言葉を添えて。
+                こんな夜が来たら、この一本を開けたい。家庭料理、気分、産地、味わい、夜の気配から、食卓に似合う一献を静かに探すためのペアリング帳です。
               </p>
             </div>
 
             <div className="grid max-w-3xl gap-3 sm:grid-cols-3">
               <div className="border-l border-[#d8bd7a]/50 pl-4">
                 <p className="font-display-ja text-2xl font-normal text-[#fff8e9] sm:text-3xl">
-                  {visibleSakePairings.length}本
+                  {siteStats.visibleSakeCount}本
                 </p>
                 <p className="mt-1 text-sm text-[#bdb5a5]">
-                  今夜の候補を静かにめくる
-                </p>
-              </div>
-              <div className="border-l border-[#d8bd7a]/50 pl-4">
-                <p className="font-display-ja text-2xl font-normal text-[#fff8e9] sm:text-3xl">47都道府県</p>
-                <p className="mt-1 text-sm text-[#bdb5a5]">
-                  北から南へ、土地の香りを辿る
+                  夜からめくる一献
                 </p>
               </div>
               <div className="border-l border-[#d8bd7a]/50 pl-4">
                 <p className="font-display-ja text-2xl font-normal text-[#fff8e9] sm:text-3xl">
-                  いつもの一皿
+                  {siteStats.prefectures}都道府県
                 </p>
                 <p className="mt-1 text-sm text-[#bdb5a5]">
-                  焼く、煮る、揚げる。家庭の味から
+                  県産で絞り込める
+                </p>
+              </div>
+              <div className="border-l border-[#d8bd7a]/50 pl-4">
+                <p className="font-display-ja text-2xl font-normal text-[#fff8e9] sm:text-3xl">
+                  {siteStats.uniqueDishes}品
+                </p>
+                <p className="mt-1 text-sm text-[#bdb5a5]">
+                  家庭料理からつながる
                 </p>
               </div>
             </div>
@@ -593,6 +461,10 @@ export default function Page() {
                       night: label,
                     });
                     setFreeKeyword("");
+                    trackEvent("night_entry_click", {
+                      night_id: label,
+                      source_page: "home",
+                    });
                     document
                       .getElementById("results")
                       ?.scrollIntoView({ behavior: "smooth" });
@@ -604,6 +476,27 @@ export default function Page() {
               ))}
             </div>
           </div>
+        </section>
+
+        <section
+          id="night"
+          className="grid gap-4 border-y border-[#f8f0df]/10 py-7 sm:grid-cols-3"
+        >
+          {todayEntrances.map((label) => (
+            <a
+              key={label}
+              href={`/night/${toPathSegment(label)}`}
+              className="rounded-lg border border-[#f8f0df]/12 bg-[#0b1729]/70 p-5 transition hover:border-[#d8bd7a]/55 hover:bg-[#d8bd7a]/10"
+            >
+              <p className="text-xs text-[#d8bd7a]">夜から探す</p>
+              <h2 className="font-display-ja mt-3 text-xl font-normal leading-8 text-[#fff8e9]">
+                {label}
+              </h2>
+              <p className="mt-3 text-sm leading-7 text-[#bdb5a5]">
+                夜の気配から、合う料理と一献へ。
+              </p>
+            </a>
+          ))}
         </section>
 
         <section
@@ -626,7 +519,7 @@ export default function Page() {
               } lg:block`}
             >
               <div className="flex items-center justify-between gap-3">
-                <p className="text-sm text-[#d8bd7a]">今夜の一本を探す</p>
+                <p className="text-sm text-[#d8bd7a]">一献を探す</p>
                 <span className="text-xs text-[#bdb5a5]">
                   {filteredItems.length}本
                 </span>

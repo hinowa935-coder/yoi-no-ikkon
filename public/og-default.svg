@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="宵の一献 OGP">
+  <defs>
+    <linearGradient id="bg" x1="98" x2="1087" y1="42" y2="601" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0a1c3e"/>
+      <stop offset=".58" stop-color="#061127"/>
+      <stop offset="1" stop-color="#020611"/>
+    </linearGradient>
+    <filter id="paper">
+      <feTurbulence type="fractalNoise" baseFrequency=".9" numOctaves="3" seed="7"/>
+      <feColorMatrix type="saturate" values="0"/>
+      <feComponentTransfer>
+        <feFuncA type="table" tableValues="0 .075"/>
+      </feComponentTransfer>
+    </filter>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <rect width="1200" height="630" filter="url(#paper)" opacity=".8"/>
+  <circle cx="104" cy="96" r="2" fill="#d8bd7a" opacity=".62"/>
+  <circle cx="1037" cy="178" r="2" fill="#d8bd7a" opacity=".48"/>
+  <circle cx="956" cy="512" r="1.4" fill="#d8bd7a" opacity=".56"/>
+  <g transform="translate(116 122) scale(1.35)">
+    <rect width="96" height="96" rx="22" fill="#071634" stroke="#d8bd7a" stroke-opacity=".25"/>
+    <path d="M27 40c2.8 27 9.4 40 21 40s18.2-13 21-40" fill="#f5ecd8"/>
+    <ellipse cx="48" cy="38" rx="25" ry="9" fill="#f5ecd8"/>
+    <ellipse cx="48" cy="38" rx="17" ry="5" fill="#071634"/>
+    <path d="M59 35c-9 1-16 5-19 12 7-5 15-7 23-6-5-2-6-4-4-6Z" fill="#d8bd7a"/>
+  </g>
+  <text x="116" y="310" fill="#fff8e9" font-size="78" font-family="Yu Mincho, Hiragino Mincho ProN, serif" letter-spacing="8">宵の一献</text>
+  <text x="122" y="382" fill="#d8bd7a" font-size="26" font-family="Georgia, serif" letter-spacing="10">YOI NO IKKON</text>
+  <text x="122" y="460" fill="#d8d0bf" font-size="34" font-family="Yu Mincho, Hiragino Mincho ProN, serif">日本酒を、夜から選ぶ。</text>
+  <text x="122" y="515" fill="#bdb5a5" font-size="24" font-family="Hiragino Sans, Yu Gothic, sans-serif">家庭料理、気分、産地、味わい、夜の気配から一献を探す。</text>
+</svg>
