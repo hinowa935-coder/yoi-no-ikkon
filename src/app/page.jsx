@@ -397,7 +397,8 @@ export default function Page() {
                 日本酒を、夜から選ぶ。
               </p>
               <h1 className="font-display-ja mt-4 max-w-3xl text-4xl font-normal leading-tight text-[#fff8e9] sm:text-6xl">
-                どんな夜に、飲みますか。
+                <span className="inline-block">どんな夜に、</span>
+                <span className="inline-block">飲みますか。</span>
               </h1>
               <p className="mt-5 max-w-3xl text-base leading-8 text-[#d8d0bf] sm:text-lg">
                 こんな夜が来たら、この一本を開けたい。家庭料理、気分、産地、味わい、夜の気配から、食卓に似合う一献を静かに探すためのペアリング帳です。
