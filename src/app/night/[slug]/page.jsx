@@ -4,6 +4,7 @@ import {
   SITE_NAME,
   SITE_URL,
   getNightBySlug,
+  getNightMoodEntry,
   getNightOptions,
   polishEssay,
   toPathSegment,
@@ -19,8 +20,10 @@ export async function generateMetadata({ params }) {
   const night = getNightBySlug(slug);
   if (!night) return {};
 
-  const title = `${night.name}に合う日本酒｜${SITE_NAME}`;
-  const description = `${night.name}に似合う一献と家庭料理を紹介します。夜から日本酒を選ぶ、宵の一献の夜ページです。`;
+  const moodEntry = getNightMoodEntry(night.name);
+  const displayName = moodEntry?.label || night.name;
+  const title = `${displayName}に合う日本酒`;
+  const description = `${displayName}に似合う日本酒と家庭料理のペアリングを紹介します。今夜の気分から一献を選ぶページです。`;
   const url = `${SITE_URL}/night/${toPathSegment(night.name)}`;
 
   return {
@@ -49,6 +52,8 @@ export default async function NightPage({ params }) {
   const night = getNightBySlug(slug);
   if (!night) notFound();
 
+  const moodEntry = getNightMoodEntry(night.name);
+  const displayName = moodEntry?.label || night.name;
   const items = night.items;
   const foods = unique(items.flatMap((item) => item.dishes || [])).slice(0, 14);
   const moods = unique(items.flatMap((item) => item.moods || [])).slice(0, 10);
@@ -65,8 +70,8 @@ export default async function NightPage({ params }) {
   const jsonLd = {
     "@context": "https://schema.org",
     "@type": "CollectionPage",
-    name: `${night.name}に合う日本酒`,
-    description: `${night.name}に似合う日本酒と料理の案内。`,
+    name: `${displayName}に合う日本酒`,
+    description: `${displayName}に似合う日本酒と料理の案内。`,
     url: `${SITE_URL}/night/${toPathSegment(night.name)}`,
     hasPart: items.slice(0, 12).map((item) => ({
       "@type": "Product",
@@ -95,17 +100,20 @@ export default async function NightPage({ params }) {
         </header>
 
         <section className="py-10">
-          <p className="text-sm text-[#d8bd7a]">夜から探す</p>
+          <p className="text-sm text-[#d8bd7a]">今夜の気分から探す</p>
           <h1 className="font-display-ja mt-4 text-4xl font-normal leading-tight sm:text-6xl">
-            {night.name}
+            {displayName}
           </h1>
           <p className="mt-6 max-w-3xl text-base leading-8 text-[#d8d0bf] sm:text-lg">
-            この夜に似合う一献を、料理と気分から静かに選ぶページです。すぐに買うためだけではなく、いつか来る夜に開けたい一本を見つけます。
+            いまの気分に合う日本酒と家庭料理を、静かに選ぶページです。食べたい料理からも、飲みたい一本からも探せます。
+          </p>
+          <p className="mt-3 text-sm text-[#bdb5a5]">
+            夜のタグ: {night.name}
           </p>
           <div className="mt-6 flex flex-wrap gap-3">
             <ShareButton
-              title={`${night.name}に合う日本酒｜${SITE_NAME}`}
-              text={`${night.name}に似合う一献を探す。`}
+              title={`${displayName}に合う日本酒｜${SITE_NAME}`}
+              text={`${displayName}に似合う一献を探す。`}
               path={`/night/${toPathSegment(night.name)}`}
               eventName="share_night"
             />

@@ -1,8 +1,11 @@
 import { notFound } from "next/navigation";
 import ShareButton from "../../components/ShareButton";
+import TrackedExternalLink from "../../components/TrackedExternalLink";
 import {
   SITE_NAME,
   SITE_URL,
+  buildPairingReason,
+  buildRecipeLinks,
   getFoodBySlug,
   getFoodOptions,
   polishEssay,
@@ -19,8 +22,8 @@ export async function generateMetadata({ params }) {
   const food = getFoodBySlug(slug);
   if (!food) return {};
 
-  const title = `${food.name}に合う日本酒｜${SITE_NAME}`;
-  const description = `${food.name}に合わせたい日本酒を、味わい・夜の気配・温度帯から紹介します。家庭料理から一献を探すページです。`;
+  const title = `${food.name}に合う日本酒`;
+  const description = `${food.name}に合わせたい日本酒を、味わい・温度帯・今夜の気分から紹介します。家庭料理から一献を探すページです。`;
   const url = `${SITE_URL}/food/${toPathSegment(food.name)}`;
 
   return {
@@ -56,6 +59,7 @@ export default async function FoodPage({ params }) {
   const relatedFoods = unique(
     items.flatMap((item) => item.dishes || []).filter((dish) => dish !== food.name),
   ).slice(0, 12);
+  const recipeLinks = buildRecipeLinks(food.name);
 
   const jsonLd = {
     "@context": "https://schema.org",
@@ -99,7 +103,7 @@ export default async function FoodPage({ params }) {
             {food.name}に合う日本酒
           </h1>
           <p className="mt-6 max-w-3xl text-base leading-8 text-[#d8d0bf] sm:text-lg">
-            いつもの一皿から、夜に似合う一献へ。味わい、温度帯、夜の言葉をたどりながら、食卓の余韻を少しだけ深くします。
+            いつもの一皿から、夜に似合う一献へ。この料理に合う日本酒と、なぜ合うのかを短く紹介します。
           </p>
           <div className="mt-6 flex flex-wrap gap-3">
             <ShareButton
@@ -134,6 +138,12 @@ export default async function FoodPage({ params }) {
                 <p className="mt-3 text-sm leading-7 text-[#d8d0bf]">
                   {polishEssay(item.essay)}
                 </p>
+                <div className="mt-4 rounded-lg border border-[#f8f0df]/10 bg-[#020814]/45 p-3">
+                  <p className="text-xs text-[#d8bd7a]">なぜ合う？</p>
+                  <p className="mt-2 text-sm leading-7 text-[#d8d0bf]">
+                    {buildPairingReason(item, food.name)}
+                  </p>
+                </div>
                 <p className="mt-4 text-xs text-[#bdb5a5]">
                   {item.nightType} / {item.temperature.join("、")}
                 </p>
@@ -143,7 +153,30 @@ export default async function FoodPage({ params }) {
 
           <aside className="space-y-4">
             <div className="rounded-lg border border-[#f8f0df]/12 bg-[#0b1729]/82 p-5">
-              <h2 className="font-display-ja text-2xl font-normal">合う夜</h2>
+              <h2 className="font-display-ja text-2xl font-normal">作り方を見る</h2>
+              <p className="mt-3 text-sm leading-7 text-[#d8d0bf]">
+                外部レシピサイトで、この料理の作り方を確認できます。
+              </p>
+              <div className="mt-4 grid gap-2">
+                {recipeLinks.map((link) => (
+                  <TrackedExternalLink
+                    key={link.href}
+                    href={link.href}
+                    event="recipe_click"
+                    parameters={{
+                      food_id: food.name,
+                      provider: link.provider,
+                      source_page: "food_detail",
+                    }}
+                    className="rounded-full border border-[#d8bd7a]/30 px-3 py-2 text-sm text-[#f2dfad] transition hover:border-[#d8bd7a]/70 hover:bg-[#d8bd7a]/10"
+                  >
+                    {link.label}
+                  </TrackedExternalLink>
+                ))}
+              </div>
+            </div>
+            <div className="rounded-lg border border-[#f8f0df]/12 bg-[#0b1729]/82 p-5">
+              <h2 className="font-display-ja text-2xl font-normal">今夜の気分</h2>
               <div className="mt-4 flex flex-wrap gap-2">
                 {nights.map((night) => (
                   <a

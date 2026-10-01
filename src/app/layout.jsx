@@ -4,19 +4,19 @@ import PwaRegister from "./components/PwaRegister";
 export const metadata = {
   metadataBase: new URL("https://yoi-no-ikkon.vercel.app"),
   title: {
-    default: "宵の一献｜日本酒を、夜から選ぶ。",
+    default: "宵の一献｜日本酒と家庭料理のペアリング帳",
     template: "%s｜宵の一献",
   },
   description:
-    "家庭料理、気分、産地、味わい、夜の気配から、こんな夜に開けたい日本酒を探すペアリング帳です。",
+    "日本酒と家庭料理のペアリングを、料理・銘柄・産地・味わい・今夜の気分から探せるサイトです。",
   applicationName: "宵の一献",
   alternates: {
     canonical: "/",
   },
   openGraph: {
-    title: "宵の一献｜日本酒を、夜から選ぶ。",
+    title: "宵の一献｜日本酒と家庭料理のペアリング帳",
     description:
-      "家庭料理、気分、産地、味わい、夜の気配から、こんな夜に開けたい日本酒を探すペアリング帳です。",
+      "日本酒と家庭料理のペアリングを、料理・銘柄・産地・味わい・今夜の気分から探せるサイトです。",
     url: "https://yoi-no-ikkon.vercel.app/",
     siteName: "宵の一献",
     locale: "ja_JP",
@@ -32,9 +32,9 @@ export const metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "宵の一献｜日本酒を、夜から選ぶ。",
+    title: "宵の一献｜日本酒と家庭料理のペアリング帳",
     description:
-      "家庭料理、気分、産地、味わい、夜の気配から、こんな夜に開けたい日本酒を探すペアリング帳です。",
+      "日本酒と家庭料理のペアリングを、料理・銘柄・産地・味わい・今夜の気分から探せるサイトです。",
     images: ["/og-default.svg"],
   },
   manifest: "/manifest.webmanifest",

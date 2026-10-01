@@ -141,6 +141,59 @@ export const curatedNightOptions = [
   "露夜のやすらぎ",
 ];
 
+export const nightMoodOptions = [
+  {
+    label: "疲れた夜",
+    night: "夜更けの安堵",
+    description: "やわらかく落ち着く一献へ",
+  },
+  {
+    label: "ゆっくりしたい夜",
+    night: "月明のやすらぎ",
+    description: "余韻を急がず楽しむ一献へ",
+  },
+  {
+    label: "ちょっと贅沢したい夜",
+    night: "夜半の褒美酒",
+    description: "香りと余韻に浸る一献へ",
+  },
+  {
+    label: "ひとりで静かに飲みたい夜",
+    night: "静謐の一献",
+    description: "静けさに寄り添う一献へ",
+  },
+  {
+    label: "誰かと飲みたい夜",
+    night: "深宵の語らい",
+    description: "会話のそばに置きたい一献へ",
+  },
+  {
+    label: "しっかり食べたい夜",
+    night: "灯下のぬくもり",
+    description: "食卓をあたたかく支える一献へ",
+  },
+  {
+    label: "軽く一杯だけ飲みたい夜",
+    night: "小夜のひと息",
+    description: "軽やかに整う一献へ",
+  },
+  {
+    label: "さっぱり気分を変えたい夜",
+    night: "夜風の一杯",
+    description: "涼やかに抜ける一献へ",
+  },
+  {
+    label: "雨音を聞きながら飲む夜",
+    night: "雨夜に寄り添う",
+    description: "しっとりした余白の一献へ",
+  },
+  {
+    label: "週末を静かに迎える夜",
+    night: "宵待ちの杯",
+    description: "ゆっくり始める一献へ",
+  },
+];
+
 const rawVisibleSakePairings = sakePairings
   .filter((item) => item.prefecture !== "沖縄県")
   .concat(extraSakePairings);
@@ -180,6 +233,23 @@ export function getNightOptions() {
   return curatedNightOptions
     .filter((option) => existing.includes(option))
     .concat(existing.filter((option) => !curatedNightOptions.includes(option)));
+}
+
+export function getNightMoodOptions() {
+  const existing = getNightOptions();
+  const entries = nightMoodOptions.filter((entry) => existing.includes(entry.night));
+
+  return entries.length
+    ? entries
+    : existing.map((night) => ({
+        label: night,
+        night,
+        description: "その夜に似合う一献へ",
+      }));
+}
+
+export function getNightMoodEntry(name) {
+  return getNightMoodOptions().find((entry) => entry.night === name) || null;
 }
 
 export function getFoodOptions() {
@@ -262,6 +332,52 @@ export function buildResourceLinks(item) {
   if (links.length === 0) push("Webで探す", item.webSearchUrl, "search");
 
   return links;
+}
+
+export function buildRecipeLinks(dish) {
+  const encodedDish = encodeURIComponent(dish);
+
+  return [
+    {
+      label: "クラシルで作り方を見る",
+      href: `https://www.kurashiru.com/search?query=${encodedDish}`,
+      provider: "kurashiru",
+    },
+    {
+      label: "DELISH KITCHENで作り方を見る",
+      href: `https://delishkitchen.tv/search?q=${encodedDish}`,
+      provider: "delish_kitchen",
+    },
+  ];
+}
+
+export function buildPairingReason(item, dish = "家庭料理") {
+  const tastes = item.taste || [];
+  const styles = item.style || [];
+  const profile = [...tastes, ...styles].join("、");
+  const has = (...words) => words.some((word) => profile.includes(word));
+
+  if (has("すっきり", "辛口", "キレ")) {
+    return `${dish}の味を重くせず、すっきりした後口が油分や塩気を軽く整えます。食事の途中でも飲み進めやすい組み合わせです。`;
+  }
+
+  if (has("酸味", "爽やか", "軽やか")) {
+    return `${dish}の旨みを、ほどよい酸が明るく引き締めます。口の中が重くなりにくく、次のひと口へ自然につながります。`;
+  }
+
+  if (has("米の旨味", "旨口", "純米", "食中酒")) {
+    return `${dish}の甘みやだしの風味を、米の旨みが穏やかに受け止めます。派手すぎず、家庭料理に寄り添いやすい相性です。`;
+  }
+
+  if (has("フルーティ", "華やか", "甘み")) {
+    return `${dish}に、やさしい香りと甘みが重なります。味わいをふくらませながら、食卓に少し華やかな余韻を添えます。`;
+  }
+
+  if (has("燗向き", "濃醇", "熟成")) {
+    return `${dish}の温かみやコクに、ふくらみのある味わいがよくなじみます。ゆっくり飲むほど、料理との一体感が増す組み合わせです。`;
+  }
+
+  return `${dish}の味わいを邪魔せず、穏やかな香りと後口が食事に寄り添います。日常の食卓で試しやすい組み合わせです。`;
 }
 
 export function polishEssay(text = "") {

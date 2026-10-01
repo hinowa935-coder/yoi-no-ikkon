@@ -4,9 +4,10 @@ import { useEffect, useMemo, useState } from "react";
 import { motion } from "framer-motion";
 import {
   FAVORITES_KEY,
+  buildPairingReason,
   buildResourceLinks,
   dishOptions,
-  getNightOptions,
+  getNightMoodOptions,
   getSiteStats,
   moodOptions,
   polishEssay,
@@ -21,58 +22,10 @@ const ALL = "すべて";
 const siteStats = getSiteStats();
 
 const searchFields = [
-  { key: "dish", label: "料理", options: dishOptions },
-  { key: "mood", label: "気分", options: moodOptions },
-  { key: "area", label: "産地", options: prefectureOrder },
-  { key: "taste", label: "味わい", options: tasteOptions },
-];
-
-const nightEntryOptions = [
-  {
-    label: "疲れをほどく夜",
-    night: "夜更けの安堵",
-    description: "やわらかく落ち着く一献へ",
-  },
-  {
-    label: "少し贅沢したい夜",
-    night: "夜半の褒美酒",
-    description: "香りと余韻に浸る一献へ",
-  },
-  {
-    label: "ひとりで静かに飲みたい夜",
-    night: "静謐の一献",
-    description: "静けさに寄り添う一献へ",
-  },
-  {
-    label: "雨音を聞きながら飲む夜",
-    night: "雨夜に寄り添う",
-    description: "しっとりした余白の一献へ",
-  },
-  {
-    label: "友人とゆっくり話したい夜",
-    night: "深宵の語らい",
-    description: "会話に寄り添う一献へ",
-  },
-  {
-    label: "軽く一杯だけ飲みたい夜",
-    night: "小夜のひと息",
-    description: "軽やかに整う一献へ",
-  },
-  {
-    label: "さっぱり気分を変えたい夜",
-    night: "夜風の一杯",
-    description: "涼やかに抜ける一献へ",
-  },
-  {
-    label: "家でぬくもりたい夜",
-    night: "灯下のぬくもり",
-    description: "あたたかくほどける一献へ",
-  },
-  {
-    label: "週末を静かに迎える夜",
-    night: "宵待ちの杯",
-    description: "ゆっくり始める一献へ",
-  },
+  { key: "dish", label: "料理から探す", options: dishOptions },
+  { key: "mood", label: "気分タグ", options: moodOptions },
+  { key: "area", label: "産地から探す", options: prefectureOrder },
+  { key: "taste", label: "味わいから探す", options: tasteOptions },
 ];
 
 function includesKeyword(values, keyword) {
@@ -297,6 +250,12 @@ function SakeCard({
             <p className="text-[#d8bd7a]">全料理</p>
             <p className="mt-2 leading-7">{item.dishes.join("、")}</p>
           </div>
+          <div>
+            <p className="text-[#d8bd7a]">なぜ合う？</p>
+            <p className="mt-2 leading-7">
+              {buildPairingReason(item, item.dishes[0])}
+            </p>
+          </div>
           <div className="flex flex-wrap gap-2">
             {resourceLinks.map((link) => (
               <a
@@ -355,21 +314,7 @@ export default function Page() {
     }
   }, []);
 
-  const nightOptions = useMemo(() => getNightOptions(), []);
-
-  const availableNightEntries = useMemo(() => {
-    const entries = nightEntryOptions.filter((entry) =>
-      nightOptions.includes(entry.night),
-    );
-
-    return entries.length
-      ? entries
-      : nightOptions.map((night) => ({
-          label: night,
-          night,
-          description: "夜の気配から選ぶ一献へ",
-        }));
-  }, [nightOptions]);
+  const availableNightEntries = useMemo(() => getNightMoodOptions(), []);
 
   const todayEntrances = useMemo(
     () => dailyPick(availableNightEntries, 3),
@@ -453,15 +398,43 @@ export default function Page() {
           <div className="space-y-8">
             <div>
               <p className="text-sm text-[#d8bd7a]">
-                日本酒を、夜から選ぶ。
+                日本酒と家庭料理のペアリング帳
               </p>
               <h1 className="font-display-ja mt-4 max-w-3xl text-4xl font-normal leading-tight text-[#fff8e9] sm:text-6xl">
-                <span className="inline-block">どんな夜に、</span>
-                <span className="inline-block">飲みますか。</span>
+                <span className="inline-block">今夜の一杯を、</span>
+                <span className="inline-block">料理から。</span>
               </h1>
               <p className="mt-5 max-w-3xl text-base leading-8 text-[#d8d0bf] sm:text-lg">
-                こんな夜が来たら、この一本を開けたい。家庭料理、気分、産地、味わい、夜の気配から、食卓に似合う一献を静かに探すためのペアリング帳です。
+                日本酒と家庭料理のペアリングを探せる「宵の一献」。今日の料理、日本酒の銘柄、産地や味わい、今夜の気分から、食卓に似合う一本を選べます。
               </p>
+            </div>
+
+            <div className="grid max-w-4xl gap-3 md:grid-cols-3">
+              {[
+                {
+                  title: "料理から探す",
+                  text: "肉じゃが、焼き魚、冷奴など、今日の一皿に合う日本酒へ。",
+                },
+                {
+                  title: "日本酒から探す",
+                  text: "銘柄、蔵元、産地、味わいから、合わせる料理を見つけます。",
+                },
+                {
+                  title: "今夜の気分から探す",
+                  text: "疲れた夜、少し贅沢したい夜など、気分に合う一献へ。",
+                },
+              ].map((item) => (
+                <a
+                  key={item.title}
+                  href="#search"
+                  className="rounded-lg border border-[#f8f0df]/12 bg-[#0b1729]/62 p-4 transition hover:border-[#d8bd7a]/55 hover:bg-[#d8bd7a]/10"
+                >
+                  <p className="text-sm text-[#d8bd7a]">{item.title}</p>
+                  <p className="mt-2 text-sm leading-6 text-[#d8d0bf]">
+                    {item.text}
+                  </p>
+                </a>
+              ))}
             </div>
 
             <div className="grid max-w-3xl gap-3 sm:grid-cols-3">
@@ -470,7 +443,7 @@ export default function Page() {
                   {siteStats.visibleSakeCount}本
                 </p>
                 <p className="mt-1 text-sm text-[#bdb5a5]">
-                  夜からめくる一献
+                  日本酒を掲載
                 </p>
               </div>
               <div className="border-l border-[#d8bd7a]/50 pl-4">
@@ -478,7 +451,7 @@ export default function Page() {
                   {siteStats.prefectures}都道府県
                 </p>
                 <p className="mt-1 text-sm text-[#bdb5a5]">
-                  県産で絞り込める
+                  産地から探せる
                 </p>
               </div>
               <div className="border-l border-[#d8bd7a]/50 pl-4">
@@ -486,7 +459,7 @@ export default function Page() {
                   {siteStats.uniqueDishes}品
                 </p>
                 <p className="mt-1 text-sm text-[#bdb5a5]">
-                  家庭料理からつながる
+                  家庭料理と合わせる
                 </p>
               </div>
             </div>
@@ -506,9 +479,9 @@ export default function Page() {
                 className="h-32 w-full object-cover object-[center_72%] sm:h-36 lg:h-40"
               />
             </div>
-            <p className="text-sm text-[#d8bd7a]">今宵の入り口</p>
+            <p className="text-sm text-[#d8bd7a]">今夜の気分から探す</p>
             <p className="mt-2 text-sm leading-6 text-[#bdb5a5]">
-              いまの気分に近い夜から、合う一献を探します。
+              その夜に似合う、一献を。選ぶと検索結果へ進みます。
             </p>
             <div className="mt-4 space-y-3">
               {todayEntrances.map((entry) => (
@@ -568,7 +541,7 @@ export default function Page() {
               } lg:block`}
             >
               <div className="flex items-center justify-between gap-3">
-                <p className="text-sm text-[#d8bd7a]">一献を探す</p>
+                <p className="text-sm text-[#d8bd7a]">日本酒と料理を探す</p>
                 <span className="text-xs text-[#bdb5a5]">
                   {filteredItems.length}本
                 </span>
@@ -593,7 +566,10 @@ export default function Page() {
               </MotionButton>
 
               <div className="mt-4 rounded-lg border border-[#f8f0df]/10 bg-[#020814]/45 p-3">
-                <p className="text-sm text-[#d8bd7a]">組み合わせ条件</p>
+                <p className="text-sm text-[#d8bd7a]">料理・日本酒から探す</p>
+                <p className="mt-1 text-xs leading-5 text-[#bdb5a5]">
+                  料理、産地、味わいを組み合わせて絞り込めます。
+                </p>
                 <div className="mt-3 grid gap-2">
                   {searchFields.map((field) => (
                     <label key={field.key} className="block">
@@ -618,10 +594,13 @@ export default function Page() {
               </div>
 
               <div className="mt-4 rounded-lg border border-[#d8bd7a]/20 bg-[#101c31]/70 p-3">
-                <p className="text-sm text-[#d8bd7a]">夜の言葉</p>
+                <p className="text-sm text-[#d8bd7a]">今夜の気分から探す</p>
+                <p className="mt-1 text-xs leading-5 text-[#bdb5a5]">
+                  その夜に似合う、一献を。
+                </p>
                 <label className="mt-3 block">
                   <span className="mb-1 block text-xs text-[#bdb5a5]">
-                    夜の気配を選ぶ
+                    気分を選ぶ
                   </span>
                   <select
                     value={filters.night}
@@ -629,8 +608,10 @@ export default function Page() {
                     className="w-full rounded-lg border border-[#f8f0df]/12 bg-[#020814]/80 px-3 py-2.5 text-sm text-[#fff8e9] outline-none focus:border-[#d8bd7a]"
                   >
                     <option>{ALL}</option>
-                    {nightOptions.map((option) => (
-                      <option key={option}>{option}</option>
+                    {availableNightEntries.map((entry) => (
+                      <option key={entry.night} value={entry.night}>
+                        {entry.label}
+                      </option>
                     ))}
                   </select>
                 </label>

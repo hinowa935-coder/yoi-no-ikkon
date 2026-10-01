@@ -4,6 +4,7 @@ import TrackedExternalLink from "../../components/TrackedExternalLink";
 import {
   SITE_NAME,
   SITE_URL,
+  buildPairingReason,
   buildResourceLinks,
   getRelatedSake,
   getSakeById,
@@ -21,7 +22,7 @@ export async function generateMetadata({ params }) {
   const item = getSakeById(slug);
   if (!item) return {};
 
-  const title = `${item.productName || item.sake}｜${SITE_NAME}`;
+  const title = `${item.productName || item.sake}`;
   const description = `${item.brewery}（${item.prefecture}${item.region ? `・${item.region}` : ""}）の一献。${item.nightType}に合う料理や味わい、温度帯を紹介します。`;
   const url = `${SITE_URL}/sake/${item.id}`;
 
@@ -140,7 +141,7 @@ export default async function SakeDetailPage({ params }) {
           </div>
 
           <div className="rounded-lg border border-[#f8f0df]/12 bg-[#0b1729]/82 p-5">
-            <h2 className="font-display-ja text-2xl font-normal">料理から広がる夜</h2>
+            <h2 className="font-display-ja text-2xl font-normal">この日本酒に合う料理</h2>
             <div className="mt-5 flex flex-wrap gap-2">
               {item.dishes.map((dish) => (
                 <a
@@ -151,6 +152,12 @@ export default async function SakeDetailPage({ params }) {
                   {dish}
                 </a>
               ))}
+            </div>
+            <div className="mt-5 rounded-lg border border-[#f8f0df]/10 bg-[#020814]/45 p-4">
+              <p className="text-sm text-[#d8bd7a]">なぜ合う？</p>
+              <p className="mt-2 text-sm leading-7 text-[#d8d0bf]">
+                {buildPairingReason(item, item.dishes[0])}
+              </p>
             </div>
             <div className="mt-6">
               <p className="text-sm text-[#d8bd7a]">購入・公式情報</p>
