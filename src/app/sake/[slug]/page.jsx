@@ -6,9 +6,10 @@ import {
   SITE_URL,
   buildPairingReason,
   buildResourceLinks,
+  buildSakeDescription,
+  buildYoiCopy,
   getRelatedSake,
   getSakeById,
-  polishEssay,
   toPathSegment,
   visibleSakePairings,
 } from "../../../data/siteData";
@@ -79,7 +80,7 @@ export default async function SakeDetailPage({ params }) {
     brand: item.sake,
     manufacturer: item.brewery,
     category: "日本酒",
-    description: polishEssay(item.essay),
+    description: buildSakeDescription(item),
     url: `${SITE_URL}/sake/${item.id}`,
     areaServed: item.prefecture,
   };
@@ -110,8 +111,11 @@ export default async function SakeDetailPage({ params }) {
           <h1 className="font-display-ja mt-4 text-4xl font-normal leading-tight sm:text-6xl">
             {item.productName || item.sake}
           </h1>
-          <p className="font-display-ja mt-6 max-w-3xl border-l border-[#d8bd7a]/50 pl-5 text-lg leading-9 text-[#fff4d8]">
-            {polishEssay(item.essay)}
+          <p className="mt-6 max-w-3xl border-l border-[#d8bd7a]/50 pl-5 text-base leading-8 text-[#fff4d8] sm:text-lg">
+            {buildSakeDescription(item)}
+          </p>
+          <p className="mt-3 text-sm text-[#bdb5a5]">
+            宵の言葉: {buildYoiCopy(item)}
           </p>
           <div className="mt-6 flex flex-wrap gap-3">
             <a
