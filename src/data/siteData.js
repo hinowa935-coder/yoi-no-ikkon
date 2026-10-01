@@ -1,5 +1,6 @@
 import { extraSakePairings } from "./extraSakePairings.js";
 import { reviewPairingProduct } from "./sakePairingReview.js";
+import { sakeResearchPhase1ById } from "./sakeResearchPhase1.js";
 import { sakePairings } from "./sakePairings.js";
 
 export const SITE_URL = "https://yoi-no-ikkon.vercel.app";
@@ -198,7 +199,47 @@ const rawVisibleSakePairings = sakePairings
   .filter((item) => item.prefecture !== "沖縄県")
   .concat(extraSakePairings);
 
-export const visibleSakePairings = rawVisibleSakePairings.map(reviewPairingProduct);
+function applySakeResearchData(item) {
+  const research = sakeResearchPhase1ById[item.id];
+  if (!research) return item;
+
+  const sourceUrls = new Set();
+  const researchSources = (research.sources || []).filter((source) => {
+    if (!source?.url || sourceUrls.has(source.url)) return false;
+    sourceUrls.add(source.url);
+    return true;
+  });
+  const officialSource = researchSources.find((source) => source.type === "breweryOfficial");
+  const officialSocialSource = researchSources.find((source) => source.type === "officialSocial");
+
+  return {
+    ...item,
+    productName: research.identity?.productName || item.productName || item.sake,
+    brandName: research.identity?.brandName || item.brandName || item.sake,
+    officialUrl:
+      item.officialUrl ||
+      research.identity?.officialBrandUrl ||
+      officialSource?.url ||
+      officialSocialSource?.url ||
+      "",
+    productUrl:
+      item.productUrl ||
+      research.identity?.officialProductUrl ||
+      officialSource?.url ||
+      "",
+    officialPairings: research.officialPairings || [],
+    yoiPairings: item.dishes || [],
+    sources: researchSources,
+    lastVerifiedAt: research.lastVerifiedAt,
+    dataConfidence: research.dataConfidence,
+    needsIdentification: Boolean(research.needsIdentification),
+    sakeResearch: research,
+  };
+}
+
+export const visibleSakePairings = rawVisibleSakePairings
+  .map(reviewPairingProduct)
+  .map(applySakeResearchData);
 
 export function unique(values) {
   return Array.from(new Set(values.filter(Boolean)));
@@ -624,6 +665,10 @@ export function getFoodProfile(name) {
 }
 
 export function buildSakeFeatureTags(item, limit = 4) {
+  if (item.sakeResearch?.featureTags?.length) {
+    return unique(item.sakeResearch.featureTags).slice(0, limit);
+  }
+
   const source = [...(item.taste || []), ...(item.style || []), ...(item.temperature || [])];
   const tags = [];
   const push = (label, ...needles) => {
@@ -656,6 +701,10 @@ export function buildSakeFeatureTags(item, limit = 4) {
 }
 
 export function buildSakeListSummary(item, focusDish = "") {
+  if (!focusDish && item.sakeResearch?.shortDescription) {
+    return item.sakeResearch.shortDescription;
+  }
+
   const profile = [...(item.taste || []), ...(item.style || [])];
   const dishText = focusDish || item.dishes?.[0] || "家庭料理";
   const temperatureText = (item.temperature || []).slice(0, 2).join("、");
@@ -690,6 +739,10 @@ export function buildSakeListSummary(item, focusDish = "") {
 }
 
 export function buildSakeDescription(item, focusDish = "") {
+  if (!focusDish && item.sakeResearch?.shortDescription) {
+    return item.sakeResearch.shortDescription;
+  }
+
   const profile = [...(item.taste || []), ...(item.style || [])];
   const dishes = focusDish ? [focusDish] : (item.dishes || []).slice(0, 2);
   const dishText = focusDish || (dishes.length ? `${dishes.join("や")}など` : "普段の家庭料理");
@@ -886,6 +939,7 @@ export function getSiteStats() {
     moods: unique(visibleSakePairings.flatMap((item) => item.moods || [])).length,
     nightTags: unique(visibleSakePairings.map((item) => item.nightType)).length,
     temperatures: unique(visibleSakePairings.flatMap((item) => item.temperature || [])).length,
+    researchedSakeCount: visibleSakePairings.filter((item) => item.sakeResearch).length,
   };
 }
 
