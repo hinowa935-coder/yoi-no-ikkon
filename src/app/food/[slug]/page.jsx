@@ -24,8 +24,8 @@ export async function generateMetadata({ params }) {
   const food = getFoodBySlug(slug);
   if (!food) return {};
 
-  const title = `${food.name}に合う日本酒`;
-  const description = `${food.name}に合わせたい日本酒を、味わい・温度帯・今夜の気分から紹介します。家庭料理から一献を探すページです。`;
+  const title = `${food.name}に合う日本酒｜おすすめのペアリング｜${SITE_NAME}`;
+  const description = `${food.name}に合わせたい日本酒を、味わい・温度帯・今夜の気分から紹介します。家庭料理と日本酒のペアリングを探すページです。`;
   const url = `${SITE_URL}/food/${toPathSegment(food.name)}`;
 
   return {
@@ -198,7 +198,7 @@ export default async function FoodPage({ params }) {
                   </p>
                 </div>
                 <p className="mt-4 text-xs text-[#bdb5a5]">
-                  宵の言葉: {buildYoiCopy(item)} / {item.temperature.join("、")}
+                  {buildYoiCopy(item)} / {item.temperature.join("、")}
                 </p>
               </a>
             ))}
@@ -233,7 +233,7 @@ export default async function FoodPage({ params }) {
               </p>
             </div>
             <div className="rounded-lg border border-[#f8f0df]/12 bg-[#0b1729]/82 p-5">
-              <h2 className="font-display-ja text-2xl font-normal">近い料理</h2>
+              <h2 className="font-display-ja text-2xl font-normal">ほかの料理を探す</h2>
               <div className="mt-4 grid gap-2">
                 {relatedFoods.map((name) => (
                   <a
