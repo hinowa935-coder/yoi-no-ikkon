@@ -3,10 +3,11 @@ import ShareButton from "../../components/ShareButton";
 import {
   SITE_NAME,
   SITE_URL,
+  buildSakeDescription,
+  buildYoiCopy,
   getNightBySlug,
   getNightMoodEntry,
   getNightOptions,
-  polishEssay,
   toPathSegment,
   unique,
 } from "../../../data/siteData";
@@ -141,10 +142,13 @@ export default async function NightPage({ params }) {
                   {item.productName || item.sake}
                 </h2>
                 <p className="mt-3 text-sm leading-7 text-[#d8d0bf]">
-                  {polishEssay(item.essay)}
+                  {buildSakeDescription(item)}
                 </p>
                 <p className="mt-4 text-xs text-[#bdb5a5]">
-                  {item.dishes.slice(0, 3).join("、")}
+                  宵の言葉: {buildYoiCopy(item)}
+                </p>
+                <p className="mt-2 text-xs text-[#bdb5a5]">
+                  合う料理: {item.dishes.slice(0, 3).join("、")}
                 </p>
               </a>
             ))}
