@@ -27,6 +27,54 @@ const searchFields = [
   { key: "taste", label: "味わい", options: tasteOptions },
 ];
 
+const nightEntryOptions = [
+  {
+    label: "疲れをほどく夜",
+    night: "夜更けの安堵",
+    description: "やわらかく落ち着く一献へ",
+  },
+  {
+    label: "少し贅沢したい夜",
+    night: "夜半の褒美酒",
+    description: "香りと余韻に浸る一献へ",
+  },
+  {
+    label: "ひとりで静かに飲みたい夜",
+    night: "静謐の一献",
+    description: "静けさに寄り添う一献へ",
+  },
+  {
+    label: "雨音を聞きながら飲む夜",
+    night: "雨夜に寄り添う",
+    description: "しっとりした余白の一献へ",
+  },
+  {
+    label: "友人とゆっくり話したい夜",
+    night: "深宵の語らい",
+    description: "会話に寄り添う一献へ",
+  },
+  {
+    label: "軽く一杯だけ飲みたい夜",
+    night: "小夜のひと息",
+    description: "軽やかに整う一献へ",
+  },
+  {
+    label: "さっぱり気分を変えたい夜",
+    night: "夜風の一杯",
+    description: "涼やかに抜ける一献へ",
+  },
+  {
+    label: "家でぬくもりたい夜",
+    night: "灯下のぬくもり",
+    description: "あたたかくほどける一献へ",
+  },
+  {
+    label: "週末を静かに迎える夜",
+    night: "宵待ちの杯",
+    description: "ゆっくり始める一献へ",
+  },
+];
+
 function includesKeyword(values, keyword) {
   if (!keyword || keyword === ALL) return true;
   return values.some((value) => String(value).includes(keyword));
@@ -309,7 +357,24 @@ export default function Page() {
 
   const nightOptions = useMemo(() => getNightOptions(), []);
 
-  const todayEntrances = useMemo(() => dailyPick(nightOptions, 3), [nightOptions]);
+  const availableNightEntries = useMemo(() => {
+    const entries = nightEntryOptions.filter((entry) =>
+      nightOptions.includes(entry.night),
+    );
+
+    return entries.length
+      ? entries
+      : nightOptions.map((night) => ({
+          label: night,
+          night,
+          description: "夜の気配から選ぶ一献へ",
+        }));
+  }, [nightOptions]);
+
+  const todayEntrances = useMemo(
+    () => dailyPick(availableNightEntries, 3),
+    [availableNightEntries],
+  );
 
   const filteredItems = useMemo(() => {
     const keyword = freeKeyword.trim();
@@ -376,12 +441,6 @@ export default function Page() {
           </div>
           <nav className="flex items-center gap-2 text-sm">
             <a
-              href="#night"
-              className="hidden rounded-full border border-[#f8f0df]/12 px-4 py-2 text-[#d8d0bf] transition hover:border-[#d8bd7a]/60 hover:bg-[#d8bd7a]/10 hover:text-[#fff8e9] sm:inline-flex"
-            >
-              夜から
-            </a>
-            <a
               href="#search"
               className="rounded-full border border-[#d8bd7a]/35 px-4 py-2 text-[#f2dfad] transition hover:border-[#d8bd7a]/70 hover:bg-[#d8bd7a]/10"
             >
@@ -390,7 +449,7 @@ export default function Page() {
           </nav>
         </header>
 
-        <section className="grid gap-7 py-8 lg:grid-cols-[1fr_280px] lg:items-start lg:py-10">
+        <section className="grid gap-7 py-8 lg:grid-cols-[1fr_320px] lg:items-start lg:py-10">
           <div className="space-y-8">
             <div>
               <p className="text-sm text-[#d8bd7a]">
@@ -433,7 +492,7 @@ export default function Page() {
             </div>
           </div>
 
-          <div className="w-full max-w-[280px] justify-self-center rounded-lg border border-[#f8f0df]/12 bg-[#0b1729]/82 p-4 sm:justify-self-end">
+          <div className="w-full max-w-[320px] justify-self-center rounded-lg border border-[#f8f0df]/12 bg-[#0b1729]/82 p-4 sm:justify-self-end">
             <div className="mb-4 overflow-hidden rounded-lg border border-[#f8f0df]/10 bg-[#020814]/45">
               <motion.img
                 src="/images/ochoko-moon-reflection-only.png"
@@ -448,10 +507,13 @@ export default function Page() {
               />
             </div>
             <p className="text-sm text-[#d8bd7a]">今宵の入り口</p>
+            <p className="mt-2 text-sm leading-6 text-[#bdb5a5]">
+              いまの気分に近い夜から、合う一献を探します。
+            </p>
             <div className="mt-4 space-y-3">
-              {todayEntrances.map((label) => (
+              {todayEntrances.map((entry) => (
                 <MotionButton
-                  key={label}
+                  key={entry.night}
                   type="button"
                   onClick={() => {
                     setFilters({
@@ -459,11 +521,12 @@ export default function Page() {
                       mood: ALL,
                       area: ALL,
                       taste: ALL,
-                      night: label,
+                      night: entry.night,
                     });
                     setFreeKeyword("");
                     trackEvent("night_entry_click", {
-                      night_id: label,
+                      night_id: entry.night,
+                      entry_label: entry.label,
                       source_page: "home",
                     });
                     document
@@ -472,32 +535,17 @@ export default function Page() {
                   }}
                   className="w-full rounded-lg border border-[#f8f0df]/12 bg-[#f8f0df]/5 px-4 py-4 text-left text-[#fff8e9] transition hover:border-[#d8bd7a]/60 hover:bg-[#d8bd7a]/10"
                 >
-                  {label}
+                  <span className="block text-base leading-6">{entry.label}</span>
+                  <span className="mt-1 block text-xs leading-5 text-[#bdb5a5]">
+                    {entry.description}
+                  </span>
+                  <span className="mt-2 block text-xs text-[#d8bd7a]">
+                    {entry.night}
+                  </span>
                 </MotionButton>
               ))}
             </div>
           </div>
-        </section>
-
-        <section
-          id="night"
-          className="grid gap-4 border-y border-[#f8f0df]/10 py-7 sm:grid-cols-3"
-        >
-          {todayEntrances.map((label) => (
-            <a
-              key={label}
-              href={`/night/${toPathSegment(label)}`}
-              className="rounded-lg border border-[#f8f0df]/12 bg-[#0b1729]/70 p-5 transition hover:border-[#d8bd7a]/55 hover:bg-[#d8bd7a]/10"
-            >
-              <p className="text-xs text-[#d8bd7a]">夜から探す</p>
-              <h2 className="font-display-ja mt-3 text-xl font-normal leading-8 text-[#fff8e9]">
-                {label}
-              </h2>
-              <p className="mt-3 text-sm leading-7 text-[#bdb5a5]">
-                夜の気配から、合う料理と一献へ。
-              </p>
-            </a>
-          ))}
         </section>
 
         <section
