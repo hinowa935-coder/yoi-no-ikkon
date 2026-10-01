@@ -1,4 +1,4 @@
-const CACHE_VERSION = "yoi-no-ikkon-v1";
+const CACHE_VERSION = "yoi-no-ikkon-v2";
 const SHELL_ASSETS = [
   "/",
   "/manifest.webmanifest",
