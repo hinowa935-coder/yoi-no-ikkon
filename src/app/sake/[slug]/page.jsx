@@ -5,6 +5,8 @@ import {
   SITE_NAME,
   SITE_URL,
   buildPairingReason,
+  buildPurchaseLinks,
+  buildPurchaseTrackingParams,
   buildResourceLinks,
   buildSakeDescription,
   buildYoiCopy,
@@ -23,8 +25,8 @@ export async function generateMetadata({ params }) {
   const item = getSakeById(slug);
   if (!item) return {};
 
-  const title = `${item.productName || item.sake}`;
-  const description = `${item.brewery}（${item.prefecture}${item.region ? `・${item.region}` : ""}）の一献。${item.nightType}に合う料理や味わい、温度帯を紹介します。`;
+  const title = `${item.productName || item.sake}｜合う料理・飲み方｜${SITE_NAME}`;
+  const description = `${item.brewery}（${item.prefecture}${item.region ? `・${item.region}` : ""}）の日本酒。家庭料理とのペアリング、味わい、おすすめ温度、購入先の探し方を紹介します。`;
   const url = `${SITE_URL}/sake/${item.id}`;
 
   return {
@@ -73,6 +75,7 @@ export default async function SakeDetailPage({ params }) {
 
   const related = getRelatedSake(item);
   const resourceLinks = buildResourceLinks(item);
+  const purchaseLinks = buildPurchaseLinks(item);
   const jsonLd = {
     "@context": "https://schema.org",
     "@type": "Product",
@@ -114,15 +117,12 @@ export default async function SakeDetailPage({ params }) {
           <p className="mt-6 max-w-3xl border-l border-[#d8bd7a]/50 pl-5 text-base leading-8 text-[#fff4d8] sm:text-lg">
             {buildSakeDescription(item)}
           </p>
-          <p className="mt-3 text-sm text-[#bdb5a5]">
-            宵の言葉: {buildYoiCopy(item)}
-          </p>
           <div className="mt-6 flex flex-wrap gap-3">
             <a
               href={`/night/${toPathSegment(item.nightType)}`}
               className="rounded-full border border-[#d8bd7a]/35 px-4 py-2 text-sm text-[#f2dfad] transition hover:border-[#d8bd7a]/70 hover:bg-[#d8bd7a]/10"
             >
-              {item.nightType}
+              {buildYoiCopy(item)}
             </a>
             <ShareButton
               title={`${item.productName || item.sake}｜${SITE_NAME}`}
@@ -164,26 +164,50 @@ export default async function SakeDetailPage({ params }) {
               </p>
             </div>
             <div className="mt-6">
-              <p className="text-sm text-[#d8bd7a]">購入・公式情報</p>
+              <p className="text-sm text-[#d8bd7a]">この日本酒を探す</p>
+              <p className="mt-2 text-sm leading-7 text-[#bdb5a5]">
+                商品ページが変わっても探しやすいよう、検索リンクと公式情報を分けて置いています。
+              </p>
               <div className="mt-3 flex flex-wrap gap-2">
-                {resourceLinks.map((link) => (
+                {purchaseLinks.map((link) => (
                   <TrackedExternalLink
                     key={link.href}
                     href={link.href}
+                    event="purchase_link_click"
                     parameters={{
-                      product_id: item.id,
-                      product_type: "sake",
-                      provider: link.provider,
-                      source_page: "sake_detail",
-                      sake_id: item.id,
-                      night_id: item.nightType,
+                      ...buildPurchaseTrackingParams(item, link, "sake_detail", {
+                        foodId: item.dishes[0],
+                        moodId: item.nightType,
+                      }),
                     }}
                     className="rounded-full border border-[#d8bd7a]/30 px-3 py-1.5 text-sm text-[#f2dfad] transition hover:border-[#d8bd7a]/70 hover:bg-[#d8bd7a]/10"
                   >
                     {link.label}
                   </TrackedExternalLink>
                 ))}
+                {resourceLinks.map((link) => (
+                  <TrackedExternalLink
+                    key={link.href}
+                    href={link.href}
+                    event="official_link_click"
+                    parameters={{
+                      sakeId: item.id,
+                      sakeName: item.productName || item.sake,
+                      prefecture: item.prefecture,
+                      provider: link.provider,
+                      entrySource: "sake_detail",
+                    }}
+                    className="rounded-full border border-[#f8f0df]/14 px-3 py-1.5 text-sm text-[#d8d0bf] transition hover:border-[#d8bd7a]/60 hover:bg-[#d8bd7a]/10 hover:text-[#fff8e9]"
+                  >
+                    {link.label}
+                  </TrackedExternalLink>
+                ))}
               </div>
+              {purchaseLinks.some((link) => link.affiliate) ? (
+                <p className="mt-3 text-xs leading-5 text-[#8f8879]">
+                  一部リンクにはアフィリエイトを含む場合があります。
+                </p>
+              ) : null}
             </div>
           </div>
         </section>
