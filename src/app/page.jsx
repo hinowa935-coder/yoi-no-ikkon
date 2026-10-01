@@ -6,11 +6,12 @@ import {
   FAVORITES_KEY,
   buildPairingReason,
   buildResourceLinks,
+  buildSakeDescription,
+  buildYoiCopy,
   dishOptions,
   getNightMoodOptions,
   getSiteStats,
   moodOptions,
-  polishEssay,
   prefectureOrder,
   tasteOptions,
   toPathSegment,
@@ -23,7 +24,7 @@ const siteStats = getSiteStats();
 
 const searchFields = [
   { key: "dish", label: "料理から探す", options: dishOptions },
-  { key: "mood", label: "気分タグ", options: moodOptions },
+  { key: "mood", label: "気分", options: moodOptions },
   { key: "area", label: "産地から探す", options: prefectureOrder },
   { key: "taste", label: "味わいから探す", options: tasteOptions },
 ];
@@ -194,8 +195,12 @@ function SakeCard({
         </a>
       </div>
 
-      <p className="font-display-ja mt-4 border-l border-[#d8bd7a]/50 pl-4 text-sm leading-7 text-[#fff4d8] sm:text-base sm:leading-8">
-        {polishEssay(item.essay)}
+      <p className="mt-4 border-l border-[#d8bd7a]/50 pl-4 text-sm leading-7 text-[#fff4d8] sm:text-base sm:leading-8">
+        {buildSakeDescription(item)}
+      </p>
+
+      <p className="mt-3 text-xs leading-5 text-[#bdb5a5]">
+        宵の言葉: {buildYoiCopy(item)}
       </p>
 
       <div className="mt-4 text-sm text-[#d8d0bf]">
@@ -512,9 +517,6 @@ export default function Page() {
                   <span className="mt-1 block text-xs leading-5 text-[#bdb5a5]">
                     {entry.description}
                   </span>
-                  <span className="mt-2 block text-xs text-[#d8bd7a]">
-                    {entry.night}
-                  </span>
                 </MotionButton>
               ))}
             </div>
@@ -594,13 +596,13 @@ export default function Page() {
               </div>
 
               <div className="mt-4 rounded-lg border border-[#d8bd7a]/20 bg-[#101c31]/70 p-3">
-                <p className="text-sm text-[#d8bd7a]">今夜の気分から探す</p>
+                <p className="text-sm text-[#d8bd7a]">気分</p>
                 <p className="mt-1 text-xs leading-5 text-[#bdb5a5]">
-                  その夜に似合う、一献を。
+                  いまの気分に近いものを選びます。
                 </p>
                 <label className="mt-3 block">
                   <span className="mb-1 block text-xs text-[#bdb5a5]">
-                    気分を選ぶ
+                    気分
                   </span>
                   <select
                     value={filters.night}
