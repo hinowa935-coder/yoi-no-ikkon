@@ -9,6 +9,7 @@ import {
   buildPurchaseTrackingParams,
   buildResourceLinks,
   buildSakeDescription,
+  buildSakeFeatureTags,
   buildYoiCopy,
   getRelatedSake,
   getSakeById,
@@ -76,6 +77,7 @@ export default async function SakeDetailPage({ params }) {
   const related = getRelatedSake(item);
   const resourceLinks = buildResourceLinks(item);
   const purchaseLinks = buildPurchaseLinks(item);
+  const featureTags = buildSakeFeatureTags(item, 5);
   const jsonLd = {
     "@context": "https://schema.org",
     "@type": "Product",
@@ -117,6 +119,16 @@ export default async function SakeDetailPage({ params }) {
           <p className="mt-6 max-w-3xl border-l border-[#d8bd7a]/50 pl-5 text-base leading-8 text-[#fff4d8] sm:text-lg">
             {buildSakeDescription(item)}
           </p>
+          <div className="mt-5 flex flex-wrap gap-2">
+            {featureTags.map((tag) => (
+              <span
+                key={tag}
+                className="rounded-full border border-[#f8f0df]/12 px-3 py-1.5 text-sm text-[#d8d0bf]"
+              >
+                {tag}
+              </span>
+            ))}
+          </div>
           <div className="mt-6 flex flex-wrap gap-3">
             <a
               href={`/night/${toPathSegment(item.nightType)}`}
@@ -164,10 +176,19 @@ export default async function SakeDetailPage({ params }) {
               </p>
             </div>
             <div className="mt-6">
-              <p className="text-sm text-[#d8bd7a]">この日本酒を探す</p>
+              <p className="text-sm text-[#d8bd7a]">公式情報・購入先</p>
               <p className="mt-2 text-sm leading-7 text-[#bdb5a5]">
-                商品ページが変わっても探しやすいよう、検索リンクと公式情報を分けて置いています。
+                {resourceLinks.length > 0
+                  ? "公式情報を優先して確認できます。購入先は登録済みの販売ページがある場合だけ表示します。"
+                  : "購入先は登録済みの販売ページがある場合だけ表示します。"}
               </p>
+              {purchaseLinks.length === 0 ? (
+                <p className="mt-3 rounded-lg border border-[#f8f0df]/10 bg-[#020814]/45 p-3 text-sm leading-7 text-[#d8d0bf]">
+                  {resourceLinks.length > 0
+                    ? "登録済みの購入リンクはまだありません。蔵元・公式情報から、最新の取扱いや販売状況を確認してください。"
+                    : "登録済みの購入リンクはまだありません。公式情報を確認でき次第、リンクを追加していきます。"}
+                </p>
+              ) : null}
               <div className="mt-3 flex flex-wrap gap-2">
                 {purchaseLinks.map((link) => (
                   <TrackedExternalLink

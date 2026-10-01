@@ -6,7 +6,8 @@ import {
   SITE_URL,
   buildPairingReason,
   buildRecipeLinks,
-  buildSakeDescription,
+  buildSakeFeatureTags,
+  buildSakeListSummary,
   buildYoiCopy,
   getFoodBySlug,
   getFoodOptions,
@@ -143,31 +144,6 @@ export default async function FoodPage({ params }) {
               ) : null}
             </div>
           ) : null}
-          {recipeLinks.length > 0 ? (
-            <div className="mt-5 border-t border-[#f8f0df]/10 pt-4">
-              <p className="text-sm text-[#d8bd7a]">作ってみる</p>
-              <p className="mt-2 text-sm leading-7 text-[#d8d0bf]">
-                外部サイトで、この料理の作り方を確認できます。
-              </p>
-              <div className="mt-3 flex flex-wrap gap-2">
-                {recipeLinks.map((link) => (
-                  <TrackedExternalLink
-                    key={link.href}
-                    href={link.href}
-                    event="recipe_click"
-                    parameters={{
-                      food_id: food.name,
-                      provider: link.provider,
-                      source_page: "food_detail",
-                    }}
-                    className="rounded-full border border-[#d8bd7a]/30 px-3 py-2 text-sm text-[#f2dfad] transition hover:border-[#d8bd7a]/70 hover:bg-[#d8bd7a]/10"
-                  >
-                    {link.label}
-                  </TrackedExternalLink>
-                ))}
-              </div>
-            </div>
-          ) : null}
         </section>
 
         <section className="grid gap-4 lg:grid-cols-[1fr_320px]">
@@ -188,8 +164,18 @@ export default async function FoodPage({ params }) {
                 <h2 className="font-display-ja mt-2 text-xl font-normal leading-8">
                   {item.productName || item.sake}
                 </h2>
+                <div className="mt-3 flex flex-wrap gap-2">
+                  {buildSakeFeatureTags(item, 3).map((tag) => (
+                    <span
+                      key={tag}
+                      className="rounded-full border border-[#f8f0df]/12 px-3 py-1 text-xs text-[#d8d0bf]"
+                    >
+                      {tag}
+                    </span>
+                  ))}
+                </div>
                 <p className="mt-3 text-sm leading-7 text-[#d8d0bf]">
-                  {buildSakeDescription(item, food.name)}
+                  {buildSakeListSummary(item, food.name)}
                 </p>
                 <div className="mt-4 rounded-lg border border-[#f8f0df]/10 bg-[#020814]/45 p-3">
                   <p className="text-xs text-[#d8bd7a]">なぜ合う？</p>
@@ -248,6 +234,32 @@ export default async function FoodPage({ params }) {
             </div>
           </aside>
         </section>
+
+        {recipeLinks.length > 0 ? (
+          <section className="mt-6 rounded-lg border border-[#f8f0df]/12 bg-[#0b1729]/82 p-5">
+            <p className="text-sm text-[#d8bd7a]">作り方を見る</p>
+            <p className="mt-3 max-w-3xl text-sm leading-7 text-[#d8d0bf]">
+              外部レシピサイトで、この料理の作り方を確認できます。ペアリングを決めたあと、買い物や下ごしらえの確認に使えます。
+            </p>
+            <div className="mt-4 flex flex-wrap gap-2">
+              {recipeLinks.map((link) => (
+                <TrackedExternalLink
+                  key={link.href}
+                  href={link.href}
+                  event="recipe_click"
+                  parameters={{
+                    food_id: food.name,
+                    provider: link.provider,
+                    source_page: "food_detail",
+                  }}
+                  className="rounded-full border border-[#d8bd7a]/30 px-3 py-2 text-sm text-[#f2dfad] transition hover:border-[#d8bd7a]/70 hover:bg-[#d8bd7a]/10"
+                >
+                  {link.label}
+                </TrackedExternalLink>
+              ))}
+            </div>
+          </section>
+        ) : null}
       </div>
     </main>
   );

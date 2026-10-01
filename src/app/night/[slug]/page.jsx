@@ -3,7 +3,8 @@ import ShareButton from "../../components/ShareButton";
 import {
   SITE_NAME,
   SITE_URL,
-  buildSakeDescription,
+  buildSakeFeatureTags,
+  buildSakeListSummary,
   buildYoiCopy,
   getNightBySlug,
   getNightMoodEntry,
@@ -108,9 +109,11 @@ export default async function NightPage({ params }) {
           <p className="mt-6 max-w-3xl text-base leading-8 text-[#d8d0bf] sm:text-lg">
             いまの気分に合う日本酒と家庭料理を、静かに選ぶページです。食べたい料理からも、飲みたい一本からも探せます。
           </p>
-          <p className="mt-3 text-sm text-[#bdb5a5]">
-            夜のタグ: {night.name}
-          </p>
+          {moodEntry?.description ? (
+            <p className="mt-3 text-sm text-[#bdb5a5]">
+              {moodEntry.description}
+            </p>
+          ) : null}
           <div className="mt-6 flex flex-wrap gap-3">
             <ShareButton
               title={`${displayName}に合う日本酒｜${SITE_NAME}`}
@@ -141,8 +144,18 @@ export default async function NightPage({ params }) {
                 <h2 className="font-display-ja mt-2 text-xl font-normal leading-8">
                   {item.productName || item.sake}
                 </h2>
+                <div className="mt-3 flex flex-wrap gap-2">
+                  {buildSakeFeatureTags(item, 3).map((tag) => (
+                    <span
+                      key={tag}
+                      className="rounded-full border border-[#f8f0df]/12 px-3 py-1 text-xs text-[#d8d0bf]"
+                    >
+                      {tag}
+                    </span>
+                  ))}
+                </div>
                 <p className="mt-3 text-sm leading-7 text-[#d8d0bf]">
-                  {buildSakeDescription(item)}
+                  {buildSakeListSummary(item)}
                 </p>
                 <p className="mt-4 text-xs text-[#bdb5a5]">
                   {buildYoiCopy(item)}

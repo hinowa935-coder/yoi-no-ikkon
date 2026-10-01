@@ -361,7 +361,6 @@ export function buildResourceLinks(item) {
         ? "official_lineup"
         : "reference",
   );
-  if (links.length === 0) push("Webで探す", item.webSearchUrl, "search");
 
   return links;
 }
@@ -371,28 +370,8 @@ export function buildPurchaseLinks(item) {
     ? item.purchaseLinks
     : [];
   const seen = new Set();
-  const query = encodeURIComponent(`${item.productName || item.sake} 日本酒`);
-  const fallbackLinks = [
-    {
-      store: "楽天市場",
-      label: "楽天市場で探す",
-      url: `https://search.rakuten.co.jp/search/mall/${query}/`,
-      affiliate: false,
-      linkType: "search",
-      source: "rakuten_search",
-    },
-    {
-      store: "Amazon",
-      label: "Amazonで探す",
-      url: `https://www.amazon.co.jp/s?k=${query}`,
-      affiliate: false,
-      linkType: "search",
-      source: "amazon_search",
-    },
-  ];
 
   return registeredLinks
-    .concat(fallbackLinks)
     .map((link) => ({ ...link, url: link.url || link.href }))
     .filter((link) => link?.url && !seen.has(link.url) && seen.add(link.url))
     .map((link) => ({
@@ -642,6 +621,72 @@ export function getFoodProfile(name) {
     recipeLabel: recipeData.recipeLabel || "",
     recipeProvider: recipeData.recipeProvider || "",
   };
+}
+
+export function buildSakeFeatureTags(item, limit = 4) {
+  const source = [...(item.taste || []), ...(item.style || []), ...(item.temperature || [])];
+  const tags = [];
+  const push = (label, ...needles) => {
+    if (tags.includes(label)) return;
+    if (needles.some((needle) => includesAny(source, [needle]))) tags.push(label);
+  };
+
+  push("すっきり", "すっきり", "キレ");
+  push("辛口寄り", "辛口");
+  push("米の旨味", "米の旨味", "旨口", "純米");
+  push("食中酒向き", "食中酒");
+  push("酸を楽しむ", "酸味", "爽やか");
+  push("軽やか", "軽やか");
+  push("香り華やか", "フルーティ", "華やか", "吟醸香");
+  push("やさしい甘み", "甘み", "甘口");
+  push("燗向き", "燗向き", "ぬる燗", "熱燗");
+  push("コク深い", "濃醇", "熟成", "山廃");
+  push("発泡感", "発泡", "スパークリング");
+  push("にごり", "にごり");
+
+  if (tags.length < limit) {
+    source
+      .filter(Boolean)
+      .filter((value) => !tags.includes(value))
+      .slice(0, limit - tags.length)
+      .forEach((value) => tags.push(value));
+  }
+
+  return tags.slice(0, limit);
+}
+
+export function buildSakeListSummary(item, focusDish = "") {
+  const profile = [...(item.taste || []), ...(item.style || [])];
+  const dishText = focusDish || item.dishes?.[0] || "家庭料理";
+  const temperatureText = (item.temperature || []).slice(0, 2).join("、");
+  const tempPhrase = temperatureText ? `${temperatureText}で` : "食事に合わせて";
+  const has = (...words) => includesAny(profile, words);
+
+  if (has("発泡", "スパークリング", "にごり", "生酒")) {
+    return `${tempPhrase}個性を楽しみやすい一本。${dishText}と合わせると、食卓に軽いアクセントが生まれます。`;
+  }
+
+  if (has("すっきり", "辛口", "キレ")) {
+    return `後口が軽く、${dishText}の味を重く残しにくい一本。食事中の杯として選びやすいタイプです。`;
+  }
+
+  if (has("酸味", "爽やか", "軽やか")) {
+    return `酸の輪郭があり、${dishText}の後味をすっきり整えます。軽く飲みたい夜にも向きます。`;
+  }
+
+  if (has("米の旨味", "旨口", "純米", "食中酒")) {
+    return `米の旨みを感じやすく、${dishText}の味を穏やかに受け止めます。家庭料理に寄り添う一本です。`;
+  }
+
+  if (has("フルーティ", "華やか", "甘み")) {
+    return `香りや甘みを楽しみやすい一本。${dishText}に合わせると、食卓にやわらかな華やぎが出ます。`;
+  }
+
+  if (has("燗向き", "濃醇", "熟成", "山廃")) {
+    return `${temperatureText || "常温や燗"}で旨みを楽しみやすい一本。${dishText}のような味のある料理に合います。`;
+  }
+
+  return `${item.prefecture}の食卓向きの日本酒。${dishText}など、登録された家庭料理と合わせて楽しめます。`;
 }
 
 export function buildSakeDescription(item, focusDish = "") {

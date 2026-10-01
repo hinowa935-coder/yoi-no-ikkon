@@ -8,7 +8,8 @@ import {
   buildPurchaseLinks,
   buildPurchaseTrackingParams,
   buildResourceLinks,
-  buildSakeDescription,
+  buildSakeFeatureTags,
+  buildSakeListSummary,
   buildYoiCopy,
   dishOptions,
   getNightMoodOptions,
@@ -123,6 +124,7 @@ function SakeCard({
   const resourceLinks = buildResourceLinks(item);
   const purchaseLinks = buildPurchaseLinks(item);
   const yoiCopy = buildYoiCopy(item);
+  const featureTags = buildSakeFeatureTags(item);
 
   return (
     <motion.article
@@ -169,8 +171,16 @@ function SakeCard({
             type="button"
             onClick={() => onToggleFavorite(item.id)}
             aria-pressed={isFavorite}
-            aria-label={isFavorite ? "お気に入りから外す" : "お気に入りに入れる"}
-            title={isFavorite ? "お気に入りから外す" : "お気に入りに入れる"}
+            aria-label={
+              isFavorite
+                ? "おちょこを外す（お気に入り解除）"
+                : "おちょこを付ける（お気に入りに保存）"
+            }
+            title={
+              isFavorite
+                ? "おちょこを外す（お気に入り解除）"
+                : "おちょこを付ける（お気に入りに保存）"
+            }
             className={`grid h-10 w-10 shrink-0 place-items-center rounded-full border transition ${
               isFavorite
                 ? "border-[#d8bd7a]/75 bg-[#d8bd7a]/18 text-[#f4d98e]"
@@ -198,8 +208,19 @@ function SakeCard({
       </div>
 
       <p className="mt-4 border-l border-[#d8bd7a]/50 pl-4 text-sm leading-7 text-[#fff4d8] sm:text-base sm:leading-8">
-        {buildSakeDescription(item)}
+        {buildSakeListSummary(item)}
       </p>
+
+      <div className="mt-3 flex flex-wrap gap-2">
+        {featureTags.map((tag) => (
+          <span
+            key={tag}
+            className="rounded-full border border-[#f8f0df]/12 px-3 py-1 text-xs text-[#d8d0bf]"
+          >
+            {tag}
+          </span>
+        ))}
+      </div>
 
       <div className="mt-4 text-sm text-[#d8d0bf]">
         <p className="text-[#d8bd7a]">合う料理</p>
@@ -259,27 +280,40 @@ function SakeCard({
               {buildPairingReason(item, item.dishes[0])}
             </p>
           </div>
-          <div className="flex flex-wrap gap-2">
-            {purchaseLinks.map((link) => (
-              <a
-                key={link.href}
-                href={link.href}
-                target="_blank"
-                rel="noreferrer"
-                onClick={() =>
-                  trackEvent(
-                    "purchase_link_click",
-                    buildPurchaseTrackingParams(item, link, "home_card", {
-                      foodId: item.dishes[0],
-                      moodId: item.nightType,
-                    }),
-                  )
-                }
-                className="inline-flex w-fit rounded-full border border-[#d8bd7a]/30 px-3 py-1.5 text-xs text-[#f2dfad] transition hover:border-[#d8bd7a]/70 hover:bg-[#d8bd7a]/10 hover:text-[#fff8e9]"
-              >
-                {link.label}
-              </a>
-            ))}
+          <div>
+            <p className="text-[#d8bd7a]">公式情報・購入先</p>
+            {purchaseLinks.length > 0 ? (
+              <p className="mt-2 text-xs leading-5 text-[#bdb5a5]">
+                登録済みの販売ページだけを表示しています。
+              </p>
+            ) : (
+              <p className="mt-2 text-xs leading-5 text-[#bdb5a5]">
+                {resourceLinks.length > 0
+                  ? "登録済みの購入リンクはまだありません。蔵元・公式情報から最新情報を確認できます。"
+                  : "登録済みの購入リンクはまだありません。公式情報を確認でき次第、リンクを追加していきます。"}
+              </p>
+            )}
+            <div className="mt-3 flex flex-wrap gap-2">
+              {purchaseLinks.map((link) => (
+                <a
+                  key={link.href}
+                  href={link.href}
+                  target="_blank"
+                  rel="noreferrer"
+                  onClick={() =>
+                    trackEvent(
+                      "purchase_link_click",
+                      buildPurchaseTrackingParams(item, link, "home_card", {
+                        foodId: item.dishes[0],
+                        moodId: item.nightType,
+                      }),
+                    )
+                  }
+                  className="inline-flex w-fit rounded-full border border-[#d8bd7a]/30 px-3 py-1.5 text-xs text-[#f2dfad] transition hover:border-[#d8bd7a]/70 hover:bg-[#d8bd7a]/10 hover:text-[#fff8e9]"
+                >
+                  {link.label}
+                </a>
+              ))}
             {resourceLinks.map((link) => (
               <a
                 key={link.href}
@@ -306,6 +340,7 @@ function SakeCard({
             >
               詳細ページを見る
             </a>
+            </div>
           </div>
         </div>
       ) : null}
@@ -581,9 +616,12 @@ export default function Page() {
               >
                 <OchokoIcon filled={showFavoritesOnly} />
                 {showFavoritesOnly
-                  ? "おちょこを付けた酒だけ表示中"
-                  : "おちょこを付けた酒だけ"}
+                  ? "お気に入り（おちょこ）だけ表示中"
+                  : "お気に入り（おちょこ）だけ"}
               </MotionButton>
+              <p className="mt-2 text-xs leading-5 text-[#8f8879]">
+                気になる一献におちょこを付けると、あとから見返せます。
+              </p>
 
               <div className="mt-4 rounded-lg border border-[#f8f0df]/10 bg-[#020814]/45 p-3">
                 <p className="text-sm text-[#d8bd7a]">料理・日本酒から探す</p>
@@ -696,7 +734,9 @@ export default function Page() {
                 }`}
               >
                 <OchokoIcon filled={showFavoritesOnly} />
-                {showFavoritesOnly ? "おちょこ表示中" : "おちょこ付きのみ"}
+                {showFavoritesOnly
+                  ? "お気に入り（おちょこ）表示中"
+                  : "お気に入り（おちょこ）だけ"}
               </MotionButton>
             </div>
 
