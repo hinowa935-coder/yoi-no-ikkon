@@ -23,7 +23,7 @@ export async function generateMetadata({ params }) {
 
   const moodEntry = getNightMoodEntry(night.name);
   const displayName = moodEntry?.label || night.name;
-  const title = `${displayName}に合う日本酒`;
+  const title = `${displayName}に合う日本酒｜今夜の気分から探す｜${SITE_NAME}`;
   const description = `${displayName}に似合う日本酒と家庭料理のペアリングを紹介します。今夜の気分から一献を選ぶページです。`;
   const url = `${SITE_URL}/night/${toPathSegment(night.name)}`;
 
@@ -145,7 +145,7 @@ export default async function NightPage({ params }) {
                   {buildSakeDescription(item)}
                 </p>
                 <p className="mt-4 text-xs text-[#bdb5a5]">
-                  宵の言葉: {buildYoiCopy(item)}
+                  {buildYoiCopy(item)}
                 </p>
                 <p className="mt-2 text-xs text-[#bdb5a5]">
                   合う料理: {item.dishes.slice(0, 3).join("、")}
