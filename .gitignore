@@ -5,3 +5,13 @@ node_modules/
 *.log
 dist/
 build/
+
+# Source captures are audit material, not application templates or publish assets.
+docs/phase21-sources/*.html
+docs/phase21-sources/*.txt
+docs/phase21-sources/*.pdf
+docs/phase21-sources/*.png
+docs/phase3/sources/**/*.html
+docs/phase3/sources/**/*.txt
+docs/phase3/sources/**/*.pdf
+docs/phase3/sources/**/*.png

@@ -3,6 +3,7 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
+    "postbuild": "node scripts/normalize-static-export.mjs",
     "start": "next start",
     "lint": "next lint",
     "audit:data": "node scripts/audit-data.mjs"

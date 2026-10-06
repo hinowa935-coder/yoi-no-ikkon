@@ -1,5 +1,6 @@
 import "./globals.css";
 import PwaRegister from "./components/PwaRegister";
+import { FavoritesProvider } from "./components/Ochoko.jsx";
 
 export const metadata = {
   metadataBase: new URL("https://yoi-no-ikkon.vercel.app"),
@@ -68,7 +69,7 @@ export default function RootLayout({ children }) {
   return (
     <html lang="ja">
       <body>
-        {children}
+        <FavoritesProvider>{children}</FavoritesProvider>
         <PwaRegister />
       </body>
     </html>

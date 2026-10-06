@@ -5,6 +5,7 @@ import {
   toPathSegment,
   visibleSakePairings,
 } from "../data/siteData";
+import { discoveryNights } from "../data/discovery.js";
 
 export default function sitemap() {
   const now = new Date();
@@ -16,6 +17,7 @@ export default function sitemap() {
       changeFrequency: "daily",
       priority: 1,
     },
+    ...["/discover", "/food", "/search", ...discoveryNights.map(n => `/nights/${n.id}`)].map(path => ({ url: `${SITE_URL}${path}`, changeFrequency: "daily", priority: 0.8 })),
     ...visibleSakePairings.map((item) => ({
       url: `${SITE_URL}/sake/${item.id}`,
       lastModified: now,

@@ -1,259 +1,44 @@
 import { notFound } from "next/navigation";
-import ShareButton from "../../components/ShareButton";
-import TrackedExternalLink from "../../components/TrackedExternalLink";
-import {
-  SITE_NAME,
-  SITE_URL,
-  buildPairingReason,
-  buildPurchaseLinks,
-  buildPurchaseTrackingParams,
-  buildResourceLinks,
-  buildSakeDescription,
-  buildSakeFeatureTags,
-  buildYoiCopy,
-  getRelatedSake,
-  getSakeById,
-  toPathSegment,
-  visibleSakePairings,
-} from "../../../data/siteData";
+import Link from "next/link";
+import DiscoveryShell from "../../components/DiscoveryShell.jsx";
+import { FavoriteButton } from "../../components/Ochoko.jsx";
+import TrackedExternalLink from "../../components/TrackedExternalLink.jsx";
+import ShareButton from "../../components/ShareButton.jsx";
+import PairingPending from "../../components/PairingPending.jsx";
+import { SITE_NAME, SITE_URL, visibleSakePairings, legacyReferences, resolveSakeReference, getSakeById, buildSakeListSummary, buildSakeLocation, buildSakeFeatureTags, buildSakeEditorialTags, buildResourceLinks, buildPurchaseLinks, toPathSegment } from "../../../data/siteData.js";
+import { displaySpec } from "../../../data/specDisplay.js";
+import { dishesForSake, nightsForSake } from "../../../data/discovery.js";
 
 export function generateStaticParams() {
-  return visibleSakePairings.map((item) => ({ slug: item.id }));
+  return [...new Set([...visibleSakePairings.map(i => i.id), ...legacyReferences.map(e => e.legacyId)])].map(slug => ({ slug }));
 }
-
 export async function generateMetadata({ params }) {
   const { slug } = await params;
   const item = getSakeById(slug);
-  if (!item) return {};
-
-  const title = `${item.productName || item.sake}｜合う料理・飲み方｜${SITE_NAME}`;
-  const description = `${item.brewery}（${item.prefecture}${item.region ? `・${item.region}` : ""}）の日本酒。家庭料理とのペアリング、味わい、おすすめ温度、購入先の探し方を紹介します。`;
-  const url = `${SITE_URL}/sake/${item.id}`;
-
-  return {
-    title,
-    description,
-    alternates: { canonical: url },
-    openGraph: {
-      title,
-      description,
-      url,
-      siteName: SITE_NAME,
-      type: "article",
-      images: [{ url: `${SITE_URL}/og-default.svg`, width: 1200, height: 630 }],
-    },
-    twitter: {
-      card: "summary_large_image",
-      title,
-      description,
-      images: [`${SITE_URL}/og-default.svg`],
-    },
-  };
+  const ref = resolveSakeReference(slug);
+  if (item) return { title: `${item.productName}に合う料理と飲み方`, description: buildSakeListSummary(item), alternates: { canonical: `/sake/${item.id}` }, openGraph: { title: item.productName, url: `${SITE_URL}/sake/${item.id}` } };
+  if (ref.status !== "unknown") return { title: ref.archivedName, robots: { index: false }, alternates: { canonical: `/sake/${slug}` } };
+  return {};
 }
-
-function TagList({ title, values }) {
-  return (
-    <div>
-      <p className="text-sm text-[#d8bd7a]">{title}</p>
-      <div className="mt-3 flex flex-wrap gap-2">
-        {values.map((value) => (
-          <span
-            key={value}
-            className="rounded-full border border-[#f8f0df]/12 px-3 py-1.5 text-xs text-[#d8d0bf]"
-          >
-            {value}
-          </span>
-        ))}
-      </div>
-    </div>
-  );
-}
-
-export default async function SakeDetailPage({ params }) {
+export default async function SakePage({ params }) {
   const { slug } = await params;
+  const ref = resolveSakeReference(slug);
+  if (ref.status === "same_product_alias") {
+    const href = `/sake/${ref.canonicalId}`;
+    return <DiscoveryShell><meta httpEquiv="refresh" content={`0;url=${href}`} /><section className="archived-product"><h1>{getSakeById(ref.canonicalId).productName}</h1><p>この商品のページへ移動します。</p><Link className="yoi-button" href={href}>商品ページを開く →</Link></section></DiscoveryShell>;
+  }
   const item = getSakeById(slug);
-  if (!item) notFound();
-
-  const related = getRelatedSake(item);
-  const resourceLinks = buildResourceLinks(item);
-  const purchaseLinks = buildPurchaseLinks(item);
-  const featureTags = buildSakeFeatureTags(item, 5);
-  const jsonLd = {
-    "@context": "https://schema.org",
-    "@type": "Product",
-    name: item.productName || item.sake,
-    brand: item.sake,
-    manufacturer: item.brewery,
-    category: "日本酒",
-    description: buildSakeDescription(item),
-    url: `${SITE_URL}/sake/${item.id}`,
-    areaServed: item.prefecture,
-  };
-
-  return (
-    <main className="yoi-bg min-h-screen text-[#fff8e9]">
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
-      />
-      <div className="mx-auto w-full max-w-5xl px-5 py-6 sm:px-8 lg:px-10">
-        <header className="flex items-center justify-between border-b border-[#f8f0df]/10 pb-5">
-          <a href="/" className="text-sm text-[#d8bd7a]">
-            宵の一献
-          </a>
-          <a
-            href="/#search"
-            className="rounded-full border border-[#d8bd7a]/35 px-4 py-2 text-sm text-[#f2dfad] transition hover:border-[#d8bd7a]/70 hover:bg-[#d8bd7a]/10"
-          >
-            検索へ戻る
-          </a>
-        </header>
-
-        <section className="py-10">
-          <p className="text-sm text-[#d8bd7a]">
-            {item.prefecture} / {item.region} / {item.brewery}
-          </p>
-          <h1 className="font-display-ja mt-4 text-4xl font-normal leading-tight sm:text-6xl">
-            {item.productName || item.sake}
-          </h1>
-          <p className="mt-6 max-w-3xl border-l border-[#d8bd7a]/50 pl-5 text-base leading-8 text-[#fff4d8] sm:text-lg">
-            {buildSakeDescription(item)}
-          </p>
-          <div className="mt-5 flex flex-wrap gap-2">
-            {featureTags.map((tag) => (
-              <span
-                key={tag}
-                className="rounded-full border border-[#f8f0df]/12 px-3 py-1.5 text-sm text-[#d8d0bf]"
-              >
-                {tag}
-              </span>
-            ))}
-          </div>
-          <div className="mt-6 flex flex-wrap gap-3">
-            <a
-              href={`/night/${toPathSegment(item.nightType)}`}
-              className="rounded-full border border-[#d8bd7a]/35 px-4 py-2 text-sm text-[#f2dfad] transition hover:border-[#d8bd7a]/70 hover:bg-[#d8bd7a]/10"
-            >
-              {buildYoiCopy(item)}
-            </a>
-            <ShareButton
-              title={`${item.productName || item.sake}｜${SITE_NAME}`}
-              text={`${item.nightType}に似合う一献。`}
-              path={`/sake/${item.id}`}
-              eventName="share_sake"
-            />
-          </div>
-        </section>
-
-        <section className="grid gap-4 md:grid-cols-2">
-          <div className="rounded-lg border border-[#f8f0df]/12 bg-[#0b1729]/82 p-5">
-            <h2 className="font-display-ja text-2xl font-normal">一献の輪郭</h2>
-            <div className="mt-5 space-y-5">
-              <TagList title="味わい" values={item.taste || []} />
-              <TagList title="スタイル" values={item.style || []} />
-              <TagList title="おすすめ温度" values={item.temperature || []} />
-              <TagList title="気分" values={item.moods || []} />
-            </div>
-          </div>
-
-          <div className="rounded-lg border border-[#f8f0df]/12 bg-[#0b1729]/82 p-5">
-            <h2 className="font-display-ja text-2xl font-normal">この日本酒に合う料理</h2>
-            <div className="mt-5 flex flex-wrap gap-2">
-              {item.dishes.map((dish) => (
-                <a
-                  key={dish}
-                  href={`/food/${toPathSegment(dish)}`}
-                  className="rounded-full border border-[#f8f0df]/12 px-3 py-1.5 text-sm text-[#d8d0bf] transition hover:border-[#d8bd7a]/50 hover:text-[#fff8e9]"
-                >
-                  {dish}
-                </a>
-              ))}
-            </div>
-            <div className="mt-5 rounded-lg border border-[#f8f0df]/10 bg-[#020814]/45 p-4">
-              <p className="text-sm text-[#d8bd7a]">なぜ合う？</p>
-              <p className="mt-2 text-sm leading-7 text-[#d8d0bf]">
-                {buildPairingReason(item, item.dishes[0])}
-              </p>
-            </div>
-            <div className="mt-6">
-              <p className="text-sm text-[#d8bd7a]">公式情報・購入先</p>
-              <p className="mt-2 text-sm leading-7 text-[#bdb5a5]">
-                {resourceLinks.length > 0
-                  ? "公式情報を優先して確認できます。購入先は登録済みの販売ページがある場合だけ表示します。"
-                  : "購入先は登録済みの販売ページがある場合だけ表示します。"}
-              </p>
-              {purchaseLinks.length === 0 ? (
-                <p className="mt-3 rounded-lg border border-[#f8f0df]/10 bg-[#020814]/45 p-3 text-sm leading-7 text-[#d8d0bf]">
-                  {resourceLinks.length > 0
-                    ? "登録済みの購入リンクはまだありません。蔵元・公式情報から、最新の取扱いや販売状況を確認してください。"
-                    : "登録済みの購入リンクはまだありません。公式情報を確認でき次第、リンクを追加していきます。"}
-                </p>
-              ) : null}
-              <div className="mt-3 flex flex-wrap gap-2">
-                {purchaseLinks.map((link) => (
-                  <TrackedExternalLink
-                    key={link.href}
-                    href={link.href}
-                    event="purchase_link_click"
-                    parameters={{
-                      ...buildPurchaseTrackingParams(item, link, "sake_detail", {
-                        foodId: item.dishes[0],
-                        moodId: item.nightType,
-                      }),
-                    }}
-                    className="rounded-full border border-[#d8bd7a]/30 px-3 py-1.5 text-sm text-[#f2dfad] transition hover:border-[#d8bd7a]/70 hover:bg-[#d8bd7a]/10"
-                  >
-                    {link.label}
-                  </TrackedExternalLink>
-                ))}
-                {resourceLinks.map((link) => (
-                  <TrackedExternalLink
-                    key={link.href}
-                    href={link.href}
-                    event="official_link_click"
-                    parameters={{
-                      sakeId: item.id,
-                      sakeName: item.productName || item.sake,
-                      prefecture: item.prefecture,
-                      provider: link.provider,
-                      entrySource: "sake_detail",
-                    }}
-                    className="rounded-full border border-[#f8f0df]/14 px-3 py-1.5 text-sm text-[#d8d0bf] transition hover:border-[#d8bd7a]/60 hover:bg-[#d8bd7a]/10 hover:text-[#fff8e9]"
-                  >
-                    {link.label}
-                  </TrackedExternalLink>
-                ))}
-              </div>
-              {purchaseLinks.some((link) => link.affiliate) ? (
-                <p className="mt-3 text-xs leading-5 text-[#8f8879]">
-                  一部リンクにはアフィリエイトを含む場合があります。
-                </p>
-              ) : null}
-            </div>
-          </div>
-        </section>
-
-        <section className="py-10">
-          <h2 className="font-display-ja text-3xl font-normal">近い夜の一献</h2>
-          <div className="mt-5 grid gap-4 md:grid-cols-3">
-            {related.map((candidate) => (
-              <a
-                key={candidate.id}
-                href={`/sake/${candidate.id}`}
-                className="rounded-lg border border-[#f8f0df]/12 bg-[#0b1729]/70 p-4 transition hover:border-[#d8bd7a]/55 hover:bg-[#d8bd7a]/10"
-              >
-                <p className="text-xs text-[#d8bd7a]">{candidate.nightType}</p>
-                <h3 className="font-display-ja mt-2 text-lg font-normal leading-7">
-                  {candidate.productName || candidate.sake}
-                </h3>
-                <p className="mt-2 text-sm text-[#bdb5a5]">
-                  {candidate.prefecture} / {candidate.brewery}
-                </p>
-              </a>
-            ))}
-          </div>
-        </section>
-      </div>
-    </main>
-  );
+  if (!item) {
+    if (ref.status === "unknown") notFound();
+    const alternative = ref.suggestedReplacementId ? getSakeById(ref.suggestedReplacementId) : null;
+    return <DiscoveryShell><section className="archived-product"><p className="section-kicker">以前の掲載商品</p><h1>{ref.archivedName}</h1><p className="muted-copy">{ref.prefecture} / {ref.brewery}</p><p>この掲載は、現在の日本酒一覧には含まれていません。保存していたおちょこは、そのまま残しています。</p>{alternative && <div className="archive-alternative"><h2>別のお酒の候補</h2><p>以前の掲載商品とは別商品です。</p><Link className="text-link" href={`/sake/${alternative.id}`}>{alternative.productName} →</Link></div>}<FavoriteButton id={slug} /><Link className="text-link" href="/search">いまの日本酒一覧を見る →</Link></section></DiscoveryShell>;
+  }
+  const dishes = dishesForSake(item);
+  const nights = nightsForSake(item);
+  const r = item.sakeResearch;
+  const fields = [["原材料", r.specs.ingredients], ["原料米", r.specs.riceVariety], ["原料米産地", r.specs.riceOrigin], ["麹米・掛米", r.specs.riceByRole], ["精米歩合", r.specs.polishingRatio], ["麹米・掛米の精米歩合", r.specs.polishingByRole], ["アルコール度数", r.specs.alcoholPercentage], ["日本酒度", r.specs.nihonshudo], ["酸度", r.specs.acidity], ["アミノ酸度", r.specs.aminoAcidValue], ["酵母", r.specs.yeast], ["仕込水", r.specs.waterSource], ["熟成期間", r.specs.agingPeriod], ["飲用温度", r.servingTemperatures], ["飲用温度範囲", r.recommendedTemperatureRange], ["年度・版", r.vintage]].filter(([, v]) => v !== null && v !== undefined && (!Array.isArray(v) || v.length > 0));
+  const links = buildResourceLinks(item);
+  const purchases = buildPurchaseLinks(item);
+  const jsonLd = { "@context": "https://schema.org", "@type": "Product", name: item.productName, brand: { "@type": "Brand", name: item.brandName }, description: buildSakeListSummary(item), url: `${SITE_URL}/sake/${item.id}` };
+  return <DiscoveryShell><script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd).replaceAll("<", "\\u003c") }} /><section className="sake-detail-hero"><p className="section-kicker">{buildSakeLocation(item)}</p><h1>{item.productName}</h1><p className="sake-detail-intro">{buildSakeListSummary(item)}</p><div className="detail-actions"><FavoriteButton id={item.id} /><ShareButton title={`${item.productName}｜${SITE_NAME}`} text="今夜の料理に合わせたい一献。" path={`/sake/${item.id}`} eventName="share_sake" /></div></section><section className="detail-band"><p className="section-kicker">この酒なら、なに食べよう。</p><h2>{dishes[0] ? `今夜なら、${dishes[0].name}と。` : "料理から、もうひとつの出会いを。"}</h2><div className="reverse-dish-grid">{dishes.map(d => <article key={d.name}><h3><Link href={`/food/${toPathSegment(d.name)}`}>{d.name} →</Link></h3><p>{d.reason}</p><small>宵の一献の提案</small></article>)}</div>{!dishes.length && <PairingPending />}{r.officialPairings.length > 0 && <div className="official-pairings"><h3>蔵元が紹介する組み合わせ</h3><p>{r.officialPairings.join("、")}</p></div>}</section><section className="detail-band"><h2>こんな夜に。</h2><p className="muted-copy">食卓へ戻る、今夜の入口。</p><div className="night-inline">{nights.map(n => <Link key={n.id} className="yoi-button" href={`/nights/${n.id}`}>{n.name} →</Link>)}</div></section><section className="detail-band"><h2>このお酒について</h2><p className="muted-copy">{item.style.join(" / ")}</p><ul className="feature-tags">{r.verifiedFeatureTags.map(tag => <li key={tag}>{tag}</li>)}</ul>{buildSakeEditorialTags(item).length > 0 && <p className="muted-copy">宵の一献の見立て：{buildSakeEditorialTags(item).join("、")}</p>}{fields.length > 0 && <details className="specs-details"><summary>詳しい商品情報</summary><dl className="spec-table">{fields.map(([label, value]) => <div key={label}><dt>{label}</dt><dd>{displaySpec(value, label.includes("精米歩合") ? "%" : label === "アルコール度数" ? "度" : "")}</dd></div>)}</dl></details>}<h3 className="brewery-title">{item.brewery}</h3><p className="muted-copy">{item.prefecture}{item.region ? ` / ${item.region}` : ""}</p></section><section className="detail-band"><h2>このお酒を探す</h2><div className="resource-links">{purchases.concat(links).map(link => <TrackedExternalLink key={link.href} href={link.href} className="yoi-button" event="official_link_click" parameters={{ sake_id: item.id }}>{link.label} ↗</TrackedExternalLink>)}</div><details className="source-details"><summary>商品情報の出典</summary><ul>{r.sources.map((source, i) => <li key={`${source.url}:${i}`}><TrackedExternalLink href={source.url} event="source_opened" className="text-link">{source.type === "breweryOfficial" ? "蔵元公式" : "専門資料"}：{source.name || item.productName} ↗</TrackedExternalLink></li>)}</ul></details></section></DiscoveryShell>;
 }

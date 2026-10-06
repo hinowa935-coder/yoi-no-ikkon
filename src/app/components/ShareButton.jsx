@@ -1,6 +1,6 @@
 "use client";
 
-import { trackEvent } from "../../data/siteData";
+import { trackEvent } from "../../data/telemetry.js";
 
 export default function ShareButton({ title, text, path, eventName = "share" }) {
   const url =

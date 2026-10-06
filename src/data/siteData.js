@@ -1,7 +1,6 @@
-import { extraSakePairings } from "./extraSakePairings.js";
-import { reviewPairingProduct } from "./sakePairingReview.js";
-import { sakeResearchPhase1ById } from "./sakeResearchPhase1.js";
-import { sakePairings } from "./sakePairings.js";
+import publicCatalog from "./discoveryCatalog.json" with { type: "json" };
+import { scorePairing } from "./discovery.js";
+import { buildSakeIntroduction } from "./sakeIntroduction.js";
 
 export const SITE_URL = "https://yoi-no-ikkon.vercel.app";
 export const SITE_NAME = "宵の一献";
@@ -195,51 +194,19 @@ export const nightMoodOptions = [
   },
 ];
 
-const rawVisibleSakePairings = sakePairings
-  .filter((item) => item.prefecture !== "沖縄県")
-  .concat(extraSakePairings);
-
-function applySakeResearchData(item) {
-  const research = sakeResearchPhase1ById[item.id];
-  if (!research) return item;
-
-  const sourceUrls = new Set();
-  const researchSources = (research.sources || []).filter((source) => {
-    if (!source?.url || sourceUrls.has(source.url)) return false;
-    sourceUrls.add(source.url);
-    return true;
-  });
-  const officialSource = researchSources.find((source) => source.type === "breweryOfficial");
-  const officialSocialSource = researchSources.find((source) => source.type === "officialSocial");
-
-  return {
-    ...item,
-    productName: research.identity?.productName || item.productName || item.sake,
-    brandName: research.identity?.brandName || item.brandName || item.sake,
-    officialUrl:
-      item.officialUrl ||
-      research.identity?.officialBrandUrl ||
-      officialSource?.url ||
-      officialSocialSource?.url ||
-      "",
-    productUrl:
-      item.productUrl ||
-      research.identity?.officialProductUrl ||
-      officialSource?.url ||
-      "",
-    officialPairings: research.officialPairings || [],
-    yoiPairings: item.dishes || [],
-    sources: researchSources,
-    lastVerifiedAt: research.lastVerifiedAt,
-    dataConfidence: research.dataConfidence,
-    needsIdentification: Boolean(research.needsIdentification),
-    sakeResearch: research,
-  };
+export const visibleSakePairings = publicCatalog.items;
+export const legacyReferences = publicCatalog.references;
+export function resolveSakeReference(id) {
+  if (visibleSakePairings.some(item => item.id === id)) return { status: "active", canonicalId: id };
+  return legacyReferences.find(entry => entry.legacyId === id) || { status: "unknown" };
 }
-
-export const visibleSakePairings = rawVisibleSakePairings
-  .map(reviewPairingProduct)
-  .map(applySakeResearchData);
+export function migrateFavoriteIds(ids) {
+  if (!Array.isArray(ids)) return [];
+  return [...new Set(ids.filter(id => typeof id === "string").map(id => {
+    const ref = resolveSakeReference(id);
+    return ref.status === "same_product_alias" ? ref.canonicalId : id;
+  }))];
+}
 
 export function unique(values) {
   return Array.from(new Set(values.filter(Boolean)));
@@ -284,25 +251,26 @@ function findOptionBySlug(options, slug) {
 }
 
 export function getSakeById(id) {
-  return visibleSakePairings.find((item) => item.id === id);
+  const ref = resolveSakeReference(id);
+  return visibleSakePairings.find((item) => item.id === (ref.canonicalId || id));
 }
 
 export function getNightBySlug(slug) {
   const name = findOptionBySlug(getNightOptions(), slug);
   if (!name) return null;
   const items = visibleSakePairings.filter((item) => item.nightType === name);
-  return items.length ? { name, items } : null;
+  return { name, items };
 }
 
 export function getFoodBySlug(slug) {
   const name = findOptionBySlug(getFoodOptions(), slug);
   if (!name) return null;
   const items = visibleSakePairings.filter((item) => item.dishes?.includes(name));
-  return items.length ? { name, items } : null;
+  return { name, items };
 }
 
 export function getNightOptions() {
-  const existing = unique(visibleSakePairings.map((item) => item.nightType));
+  const existing = publicCatalog.nightNames;
   return curatedNightOptions
     .filter((option) => existing.includes(option))
     .concat(existing.filter((option) => !curatedNightOptions.includes(option)));
@@ -326,7 +294,7 @@ export function getNightMoodEntry(name) {
 }
 
 export function getFoodOptions() {
-  return unique(visibleSakePairings.flatMap((item) => item.dishes || [])).sort(
+  return unique([...publicCatalog.foodNames, ...visibleSakePairings.flatMap((item) => item.dishes || [])]).sort(
     (a, b) => a.localeCompare(b, "ja"),
   );
 }
@@ -374,6 +342,14 @@ export function isSameSite(leftUrl, rightUrl) {
 }
 
 export function buildResourceLinks(item) {
+  if (item.catalogVersion === "v1") {
+    const sources = item.sources.filter(source => source.scope === "product" || source.type === "breweryOfficial");
+    const seen = new Set();
+    return sources.filter(s => s.url && !seen.has(s.url) && seen.add(s.url)).slice(0, 4).map(source => ({
+      href: source.url, provider: source.type,
+      label: source.type === "breweryOfficial" ? (source.scope === "product" ? "蔵元の商品情報" : "蔵元公式サイト") : "専門店・商品資料",
+    }));
+  }
   const links = [];
   const seen = new Set();
 
@@ -455,6 +431,7 @@ export function buildRecipeLinks(dish) {
 }
 
 export function buildPairingReason(item, dish = "家庭料理") {
+  if (item.catalogVersion === "v1") return scorePairing(item, dish).reason || "料理の味付けに合わせて、少量ずつ楽しんでみてください。";
   const tastes = item.taste || [];
   const styles = item.style || [];
   const profile = [...tastes, ...styles];
@@ -664,7 +641,19 @@ export function getFoodProfile(name) {
   };
 }
 
+export function buildSakeEditorialTags(item) {
+  return (item.sakeResearch?.editorialTags || []).filter(tag => !/要商品詳細確認|要商品特定|次回調査|needsIdentification|confidence|evidence不足|取得不足/.test(tag));
+}
+
 export function buildSakeFeatureTags(item, limit = 4) {
+  if (item.catalogVersion === "v1") return unique([...(item.sakeResearch.verifiedFeatureTags || []), ...buildSakeEditorialTags(item)]).slice(0, limit);
+  if (item.sakeResearch?.verifiedFeatureTags?.length || item.sakeResearch?.editorialTags?.length) {
+    return unique([
+      ...(item.sakeResearch.verifiedFeatureTags || []),
+      ...(item.sakeResearch.editorialTags || []),
+    ]).slice(0, limit);
+  }
+
   if (item.sakeResearch?.featureTags?.length) {
     return unique(item.sakeResearch.featureTags).slice(0, limit);
   }
@@ -700,7 +689,14 @@ export function buildSakeFeatureTags(item, limit = 4) {
   return tags.slice(0, limit);
 }
 
+export function buildSakeLocation(item) {
+  return [item.prefecture, item.brewery].filter(Boolean).join(" / ");
+}
+
 export function buildSakeListSummary(item, focusDish = "") {
+  if (item.catalogVersion === "v1") {
+    return buildSakeIntroduction(item).text;
+  }
   if (!focusDish && item.sakeResearch?.shortDescription) {
     return item.sakeResearch.shortDescription;
   }
@@ -739,6 +735,7 @@ export function buildSakeListSummary(item, focusDish = "") {
 }
 
 export function buildSakeDescription(item, focusDish = "") {
+  if (item.catalogVersion === "v1") return buildSakeListSummary(item, focusDish);
   if (!focusDish && item.sakeResearch?.shortDescription) {
     return item.sakeResearch.shortDescription;
   }
@@ -924,9 +921,9 @@ export function polishEssay(text = "") {
 
 export function getSiteStats() {
   return {
-    rawSakeCount: sakePairings.length,
-    visibleBaseCount: sakePairings.filter((item) => item.prefecture !== "沖縄県").length,
-    extraCount: extraSakePairings.length,
+    rawSakeCount: visibleSakePairings.length,
+    visibleBaseCount: visibleSakePairings.length,
+    extraCount: 0,
     visibleSakeCount: visibleSakePairings.length,
     breweries: unique(visibleSakePairings.map((item) => item.brewery)).length,
     prefectures: unique(visibleSakePairings.map((item) => item.prefecture)).length,
