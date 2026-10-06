@@ -1,6 +1,7 @@
 import publicCatalog from "./discoveryCatalog.json" with { type: "json" };
 import { scorePairing } from "./discovery.js";
 import { buildSakeIntroduction } from "./sakeIntroduction.js";
+import { publicTags } from "./publicDisplay.js";
 
 export const SITE_URL = "https://yoi-no-ikkon.vercel.app";
 export const SITE_NAME = "宵の一献";
@@ -642,20 +643,24 @@ export function getFoodProfile(name) {
 }
 
 export function buildSakeEditorialTags(item) {
-  return (item.sakeResearch?.editorialTags || []).filter(tag => !/要商品詳細確認|要商品特定|次回調査|needsIdentification|confidence|evidence不足|取得不足/.test(tag));
+  return publicTags(item.sakeResearch?.editorialTags || []);
+}
+
+export function buildSakeVerifiedTags(item) {
+  return publicTags(item.sakeResearch?.verifiedFeatureTags || []);
 }
 
 export function buildSakeFeatureTags(item, limit = 4) {
-  if (item.catalogVersion === "v1") return unique([...(item.sakeResearch.verifiedFeatureTags || []), ...buildSakeEditorialTags(item)]).slice(0, limit);
+  if (item.catalogVersion === "v1") return unique([...buildSakeVerifiedTags(item), ...buildSakeEditorialTags(item)]).slice(0, limit);
   if (item.sakeResearch?.verifiedFeatureTags?.length || item.sakeResearch?.editorialTags?.length) {
     return unique([
-      ...(item.sakeResearch.verifiedFeatureTags || []),
-      ...(item.sakeResearch.editorialTags || []),
+      ...buildSakeVerifiedTags(item),
+      ...buildSakeEditorialTags(item),
     ]).slice(0, limit);
   }
 
   if (item.sakeResearch?.featureTags?.length) {
-    return unique(item.sakeResearch.featureTags).slice(0, limit);
+    return unique(publicTags(item.sakeResearch.featureTags)).slice(0, limit);
   }
 
   const source = [...(item.taste || []), ...(item.style || []), ...(item.temperature || [])];
