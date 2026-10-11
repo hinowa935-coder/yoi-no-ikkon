@@ -1,10 +1,13 @@
-const CACHE_VERSION = "yoi-no-ikkon-v4";
+const CACHE_VERSION = "yoi-no-ikkon-v24";
 const SHELL_ASSETS = [
   "/manifest.webmanifest",
-  "/favicon.svg",
-  "/icons/icon-192.png",
-  "/icons/icon-512.png",
-  "/icons/apple-touch-icon.png",
+  "/favicon-v24.svg",
+  "/icons/icon-192-v24.png",
+  "/icons/icon-512-v24.png",
+  "/icons/maskable-192-v24.png",
+  "/icons/maskable-512-v24.png",
+  "/icons/apple-touch-icon-v24.png",
+  "/icons/favicon-32-v24.png",
 ];
 
 self.addEventListener("install", (event) => {
@@ -41,6 +44,7 @@ self.addEventListener("fetch", (event) => {
     url.pathname.startsWith("/icons/") ||
     url.pathname.startsWith("/images/") ||
     url.pathname === "/favicon.svg" ||
+    url.pathname === "/favicon-v24.svg" ||
     url.pathname === "/manifest.webmanifest";
 
   if (request.mode === "navigate") {
