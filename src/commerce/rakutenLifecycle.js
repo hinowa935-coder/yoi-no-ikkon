@@ -18,7 +18,8 @@ export function rakutenStagedState(item, ledger, now = Date.now()) {
     row.desktopRedirectReviewed === true && row.mobileRedirectReviewed === true && row.identityReviewed === true;
   const normalSafe = ordinaryUrlIsSafe(row.normalUrl) && new URL(row.normalUrl).hostname === "item.rakuten.co.jp";
   const status = pending && (!current || !confirmed || !normalSafe) ? "UNVERIFIED" : row.affiliateStatus;
-  return { status, normalProducts: current && row.identityReviewed === true && normalSafe ? [{
+  // An expired advertising review disables advertising, not the saved ordinary URL.
+  return { status, normalProducts: row.identityReviewed === true && normalSafe ? [{
     href: row.normalUrl, provider: "rakuten", affiliate: false, label: "楽天市場で商品を見る",
   }] : [] };
 }

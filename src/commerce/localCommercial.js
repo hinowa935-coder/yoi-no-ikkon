@@ -24,12 +24,12 @@ export function readLocalCommercialRegistry(env = {}, mode = "production") {
 }
 
 // Rejection only: originals are never rewritten, decoded into new links or logged.
-export function publicAffiliateHrefIsSafe(value, env = {}) {
+export function publicAffiliateHrefIsSafe(value, env = {}, { requireConfiguredCredentials = true } = {}) {
   if (typeof value !== "string" || value.length > 12000 || !isHttps(value, ["hb.afl.rakuten.co.jp", "a.r10.to"])) return false;
   const parsed = new URL(value);
   if (parsed.port || parsed.hash || /[\s\\\u0000-\u001f]/.test(value)) return false;
   const secrets = [env.RAKUTEN_APPLICATION_ID, env.RAKUTEN_ACCESS_KEY, env.RAKUTEN_AFFILIATE_ID].filter(s => typeof s === "string" && s.trim()).map(s => s.trim());
-  if (secrets.length !== 3) return false;
+  if (requireConfiguredCredentials && secrets.length !== 3) return false;
   const forms = new Set([value]);
   for (let round = 0; round < 4; round++) {
     for (const form of [...forms]) {

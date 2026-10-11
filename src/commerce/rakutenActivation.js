@@ -19,7 +19,8 @@ export function projectApprovedRakutenLink(item, staged, approvals, config, env 
         !identity.evidence.some(e => e.side === "retailer" && e.scope === "product" && e.sourceUrl === row.normalUrl) ||
         !/^AFFILIATE_[A-Z0-9_]+$/.test(row.creativeEnvKey || "")) return null;
     const url = env[row.creativeEnvKey];
-    if (!publicAffiliateHrefIsSafe(url, env) || sha256(url) !== row.creativeSha256) return null;
+    // Official saved creatives need no API credentials in the production environment.
+    if (!publicAffiliateHrefIsSafe(url, env, { requireConfiguredCredentials: false }) || sha256(url) !== row.creativeSha256) return null;
     return releaseApprovedOffer(item, { sakeId: item.id, provider: "rakuten", marketplace: "rakuten",
       productId: row.itemCode, capacityMl: row.capacityMl, storeName: row.storeName, capacityVariant: false,
       mode: "url", url, label: `楽天市場で${item.productName}を見る`, matchType: "commercial",
