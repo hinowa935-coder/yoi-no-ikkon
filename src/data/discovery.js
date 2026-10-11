@@ -1,6 +1,9 @@
 import catalog from "./discoveryCatalog.json" with { type: "json" };
 import { discoveryDishes, discoveryNights, foodDirections } from "./discoveryNights.js";
 import { naturalTasteTerm } from "./sakeIntroduction.js";
+import { refineMealPairingReason } from "./pairingCopy.js";
+import { refineGroundedPairing } from "./groundedPairingCopy.js";
+import { refineHighExposurePairing } from "./highExposurePairingCopy.js";
 
 export { discoveryDishes, discoveryNights, foodDirections };
 export const discoveryProducts = catalog.items;
@@ -60,7 +63,7 @@ export function scorePairing(item, dishName, nightId = "ordinary") {
       : `${official.name}に合うお酒。ご家庭では、${dish.name}と合わせてみる提案です。`,
     sourceUrls: (item.sakeResearch.pairingEvidence || []).filter(e => e.dish === official.name).map(e => e.sourceUrl) });
   if (item.yoiPairings.includes(dish.name)) signals.push({ kind: "existingEditorial", weight: 8,
-    reason: `${dish.name}と一緒に、晩ごはんの一杯を。`, sourceUrls: [] });
+    reason: item.editorialPairingEvidence?.find(e => e.dish === dish.name && e.provenance === "yoiEditorial")?.reason || `${dish.name}と一緒に、晩ごはんの一杯を。`, sourceUrls: [] });
   if (dish.rich && has(/旨味|旨み|うまみ|コク|濃醇/)) signals.push({ kind: "taste", weight: 7,
     reason: `${phrase(/旨味|旨み|うまみ|コク|濃醇/)}を、${dish.flavor}と一緒に楽しむ提案です。`, sourceUrls: tasteSources(item, /旨味|旨み|うまみ|コク|濃醇/) });
   if (dish.oily && has(/キレ|すっきり|スッキリ|軽快|爽快/)) signals.push({ kind: "taste", weight: 7,
@@ -74,6 +77,21 @@ export function scorePairing(item, dishName, nightId = "ordinary") {
   if (has(/食中酒/)) signals.push({ kind: "taste", weight: 6,
     reason: `食事と一緒に楽しめるお酒。今夜は${dish.name}と、味付けに合わせて試してみる提案です。`, sourceUrls: tasteSources(item, /食中酒/) });
   const strongest = signals.sort((a, b) => b.weight - a.weight)[0];
+  if (strongest) strongest.reason = refineMealPairingReason(strongest.reason, dish.name, strongest.kind);
+  if (strongest) {
+    const revised = refineGroundedPairing(strongest.reason, item, dish);
+    if (revised) {
+      strongest.reason = revised.reason;
+      strongest.sourceUrls = [...new Set([...strongest.sourceUrls, ...revised.sourceUrls])];
+    }
+  }
+  if (strongest) {
+    const revised = refineHighExposurePairing(strongest.reason, item, dish);
+    if (revised) {
+      strongest.reason = revised.reason;
+      strongest.sourceUrls = [...new Set([...strongest.sourceUrls, ...revised.sourceUrls])];
+    }
+  }
   const mood = night.moods.some(m => item.moods.includes(m)) ? 1 : 0;
   const warm = night.warm && item.temperature.some(t => /燗/.test(t)) ? 1 : 0;
   // Max, not sum: more published facts do not automatically mean a higher rank.

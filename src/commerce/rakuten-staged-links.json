@@ -1,0 +1,361 @@
+{
+  "schemaVersion": 1,
+  "links": [
+    {
+      "sakeId": "hakurakusei-tokubetsu-junmai",
+      "productFingerprint": "2dd3ed63c4dfb27b3b0fbb1dfa17415e68da0133498a754f3e8ba815c591ab8d",
+      "normalUrl": "https://item.rakuten.co.jp/hasegawasaketen/1001412/",
+      "registeredSite": "https://yoi-no-ikkon.vercel.app/",
+      "storeName": "はせがわ酒店",
+      "identityReview": {
+        "officialName": "伯楽星 特別純米",
+        "retailName": "伯楽星 特別純米",
+        "nameContext": {
+          "brand": "伯楽星",
+          "brewery": "新澤醸造店"
+        },
+        "strictPreserved": false,
+        "strictDecision": "CANDIDATE",
+        "strictConfidence": "low",
+        "reviewedBy": "Codex-assisted manual document audit; operator publication approval pending",
+        "reviewedAt": "2026-10-08T06:02:38.583Z",
+        "purchaseKind": "singleBottle",
+        "capacityMl": 720,
+        "evidence": [
+          {
+            "id": "official-body",
+            "side": "official",
+            "scope": "product",
+            "sourceUrl": "https://niizawa-brewery.co.jp/item/167/",
+            "sourceType": "breweryOfficial",
+            "acquisitionStatus": "confirmed_body_read",
+            "verifiedAt": "2026-10-07T22:54:00.000Z",
+            "meaning": "保存温度-5〜5℃は飲用温度ではない。冷卸・おりがらみ生酒とは別。"
+          },
+          {
+            "id": "retailer-body",
+            "side": "retailer",
+            "scope": "product",
+            "sourceUrl": "https://item.rakuten.co.jp/hasegawasaketen/1001412/",
+            "sourceType": "retailer",
+            "acquisitionStatus": "confirmed_body_read",
+            "verifiedAt": "2026-10-07T22:54:00.000Z",
+            "meaning": "新澤醸造店・伯楽星特別純米の本文。製造年月の写真は実発送BYを保証しない。"
+          }
+        ],
+        "core": {
+          "brewery": {
+            "matched": true,
+            "evidenceIds": [
+              "official-body",
+              "retailer-body"
+            ],
+            "meaning": "新澤醸造店の通常特別純米と店の個別商品名・蔵元が対応。生酒・冷卸とは異なる商品本文。ブランド一般の生詰説明は個別製法へ流用しない。"
+          },
+          "brand": {
+            "matched": true,
+            "evidenceIds": [
+              "official-body",
+              "retailer-body"
+            ],
+            "meaning": "新澤醸造店の通常特別純米と店の個別商品名・蔵元が対応。生酒・冷卸とは異なる商品本文。ブランド一般の生詰説明は個別製法へ流用しない。"
+          },
+          "classification": {
+            "matched": true,
+            "evidenceIds": [
+              "official-body",
+              "retailer-body"
+            ],
+            "meaning": "新澤醸造店の通常特別純米と店の個別商品名・蔵元が対応。生酒・冷卸とは異なる商品本文。ブランド一般の生詰説明は個別製法へ流用しない。"
+          },
+          "series": {
+            "matched": true,
+            "evidenceIds": [
+              "official-body",
+              "retailer-body"
+            ],
+            "meaning": "新澤醸造店の通常特別純米と店の個別商品名・蔵元が対応。生酒・冷卸とは異なる商品本文。ブランド一般の生詰説明は個別製法へ流用しない。"
+          }
+        },
+        "guards": {
+          "namaHiire": {
+            "result": "unknown_not_suspected",
+            "evidenceIds": [
+              "official-body",
+              "retailer-body"
+            ],
+            "meaning": "個別本文と通常/限定の商品文脈を人手で比較。namaHiireの不足は未記載のままであり、falseや仕様一致の断定ではない。 新澤醸造店の通常特別純米と店の個別商品名・蔵元が対応。生酒・冷卸とは異なる商品本文。ブランド一般の生詰説明は個別製法へ流用しない。"
+          },
+          "genshu": {
+            "result": "unknown_not_suspected",
+            "evidenceIds": [
+              "official-body",
+              "retailer-body"
+            ],
+            "meaning": "個別本文と通常/限定の商品文脈を人手で比較。genshuの不足は未記載のままであり、falseや仕様一致の断定ではない。 新澤醸造店の通常特別純米と店の個別商品名・蔵元が対応。生酒・冷卸とは異なる商品本文。ブランド一般の生詰説明は個別製法へ流用しない。"
+          },
+          "muroka": {
+            "result": "unknown_not_suspected",
+            "evidenceIds": [
+              "official-body",
+              "retailer-body"
+            ],
+            "meaning": "個別本文と通常/限定の商品文脈を人手で比較。murokaの不足は未記載のままであり、falseや仕様一致の断定ではない。 新澤醸造店の通常特別純米と店の個別商品名・蔵元が対応。生酒・冷卸とは異なる商品本文。ブランド一般の生詰説明は個別製法へ流用しない。"
+          },
+          "origarami": {
+            "result": "unknown_not_suspected",
+            "evidenceIds": [
+              "official-body",
+              "retailer-body"
+            ],
+            "meaning": "個別本文と通常/限定の商品文脈を人手で比較。origaramiの不足は未記載のままであり、falseや仕様一致の断定ではない。 新澤醸造店の通常特別純米と店の個別商品名・蔵元が対応。生酒・冷卸とは異なる商品本文。ブランド一般の生詰説明は個別製法へ流用しない。"
+          },
+          "nigori": {
+            "result": "unknown_not_suspected",
+            "evidenceIds": [
+              "official-body",
+              "retailer-body"
+            ],
+            "meaning": "個別本文と通常/限定の商品文脈を人手で比較。nigoriの不足は未記載のままであり、falseや仕様一致の断定ではない。 新澤醸造店の通常特別純米と店の個別商品名・蔵元が対応。生酒・冷卸とは異なる商品本文。ブランド一般の生詰説明は個別製法へ流用しない。"
+          },
+          "aged": {
+            "result": "unknown_not_suspected",
+            "evidenceIds": [
+              "official-body",
+              "retailer-body"
+            ],
+            "meaning": "個別本文と通常/限定の商品文脈を人手で比較。agedの不足は未記載のままであり、falseや仕様一致の断定ではない。 新澤醸造店の通常特別純米と店の個別商品名・蔵元が対応。生酒・冷卸とは異なる商品本文。ブランド一般の生詰説明は個別製法へ流用しない。"
+          },
+          "limitedSeasonal": {
+            "result": "unknown_not_suspected",
+            "evidenceIds": [
+              "official-body",
+              "retailer-body"
+            ],
+            "meaning": "個別本文と通常/限定の商品文脈を人手で比較。limitedSeasonalの不足は未記載のままであり、falseや仕様一致の断定ではない。 新澤醸造店の通常特別純米と店の個別商品名・蔵元が対応。生酒・冷卸とは異なる商品本文。ブランド一般の生詰説明は個別製法へ流用しない。"
+          },
+          "vintage": {
+            "result": "unknown_not_suspected",
+            "evidenceIds": [
+              "official-body",
+              "retailer-body"
+            ],
+            "meaning": "個別本文と通常/限定の商品文脈を人手で比較。vintageの不足は未記載のままであり、falseや仕様一致の断定ではない。 新澤醸造店の通常特別純米と店の個別商品名・蔵元が対応。生酒・冷卸とは異なる商品本文。ブランド一般の生詰説明は個別製法へ流用しない。"
+          },
+          "polishingDesign": {
+            "result": "unknown_not_suspected",
+            "evidenceIds": [
+              "official-body",
+              "retailer-body"
+            ],
+            "meaning": "個別本文と通常/限定の商品文脈を人手で比較。polishingDesignの不足は未記載のままであり、falseや仕様一致の断定ではない。 新澤醸造店の通常特別純米と店の個別商品名・蔵元が対応。生酒・冷卸とは異なる商品本文。ブランド一般の生詰説明は個別製法へ流用しない。"
+          },
+          "riceDesign": {
+            "result": "unknown_not_suspected",
+            "evidenceIds": [
+              "official-body",
+              "retailer-body"
+            ],
+            "meaning": "個別本文と通常/限定の商品文脈を人手で比較。riceDesignの不足は未記載のままであり、falseや仕様一致の断定ではない。 新澤醸造店の通常特別純米と店の個別商品名・蔵元が対応。生酒・冷卸とは異なる商品本文。ブランド一般の生詰説明は個別製法へ流用しない。"
+          }
+        },
+        "unresolvedIdentity": [],
+        "majorConflicts": [],
+        "differences": [],
+        "scope": "new_v3_commercial_review"
+      },
+      "identityReviewSha256": "fc8350d0d4bd2da118f2aa0568d61e0ab687a1cad419734abc08ccd592ee6bd3",
+      "creativeEnvKey": "AFFILIATE_RAKUTEN_PHASE18_HAKURAKUSEI_URL",
+      "itemCode": "hasegawasaketen:10000311",
+      "capacityMl": 720,
+      "affiliateStatus": "PENDING_APPROVAL",
+      "sourceTool": "rakutenOfficialTool",
+      "formalUrlConfirmed": true,
+      "creativeSha256": "a4af94c0522c288a75c5de7b07fa94d99404a364ac35d861068c7334ed7997e4",
+      "originalUnmodified": true,
+      "identityReviewed": true,
+      "desktopRedirectReviewed": true,
+      "mobileRedirectReviewed": true,
+      "verifiedAt": "2026-10-11T12:32:43.005Z",
+      "validUntil": "2026-10-12T12:32:43.005Z"
+    },
+    {
+      "sakeId": "kamo-kinshu-tokubetsu-junmai",
+      "productFingerprint": "b981fc4fa22fb7d8c06f4db95d0cbaf34b12ffb47d496cbfb9bbbc50ef97dfcc",
+      "normalUrl": "https://item.rakuten.co.jp/meishu-honpo/050130/",
+      "registeredSite": "https://yoi-no-ikkon.vercel.app/",
+      "storeName": "銘酒本舗 IMANAKA SAKESHOP",
+      "identityReview": {
+        "officialName": "賀茂金秀 特別純米",
+        "retailName": "賀茂金秀 特別純米",
+        "nameContext": {
+          "brand": "賀茂金秀",
+          "brewery": "金光酒造"
+        },
+        "strictPreserved": false,
+        "strictDecision": "CANDIDATE",
+        "strictConfidence": "low",
+        "reviewedBy": "Codex-assisted manual document audit; operator publication approval pending",
+        "reviewedAt": "2026-10-08T06:02:38.583Z",
+        "purchaseKind": "singleBottle",
+        "capacityMl": 1800,
+        "evidence": [
+          {
+            "id": "official-body",
+            "side": "official",
+            "scope": "lineup",
+            "sourceUrl": "https://www.kamokin.com/line_up/regular.html",
+            "sourceType": "breweryOfficial",
+            "acquisitionStatus": "confirmed_body_read",
+            "verifiedAt": "2026-10-07T22:54:00.000Z",
+            "meaning": "特別純米13原酒・特別純米辛口は別SKU。"
+          },
+          {
+            "id": "retailer-body",
+            "side": "retailer",
+            "scope": "product",
+            "sourceUrl": "https://item.rakuten.co.jp/meishu-honpo/050130/",
+            "sourceType": "retailer",
+            "acquisitionStatus": "confirmed_body_read",
+            "verifiedAt": "2026-10-07T22:54:00.000Z",
+            "meaning": "金光酒造・通常特別純米、麹赤磐雄町50%／掛八反錦60%。13原酒・辛口ではない。"
+          }
+        ],
+        "core": {
+          "brewery": {
+            "matched": true,
+            "evidenceIds": [
+              "official-body",
+              "retailer-body"
+            ],
+            "meaning": "金光酒造の通常16度、麹赤磐雄町50%／掛八反錦60%が個別本文で対応。13原酒・辛口・季節版を示す語は対象にない。"
+          },
+          "brand": {
+            "matched": true,
+            "evidenceIds": [
+              "official-body",
+              "retailer-body"
+            ],
+            "meaning": "金光酒造の通常16度、麹赤磐雄町50%／掛八反錦60%が個別本文で対応。13原酒・辛口・季節版を示す語は対象にない。"
+          },
+          "classification": {
+            "matched": true,
+            "evidenceIds": [
+              "official-body",
+              "retailer-body"
+            ],
+            "meaning": "金光酒造の通常16度、麹赤磐雄町50%／掛八反錦60%が個別本文で対応。13原酒・辛口・季節版を示す語は対象にない。"
+          },
+          "series": {
+            "matched": true,
+            "evidenceIds": [
+              "official-body",
+              "retailer-body"
+            ],
+            "meaning": "金光酒造の通常16度、麹赤磐雄町50%／掛八反錦60%が個別本文で対応。13原酒・辛口・季節版を示す語は対象にない。"
+          }
+        },
+        "guards": {
+          "namaHiire": {
+            "result": "unknown_not_suspected",
+            "evidenceIds": [
+              "official-body",
+              "retailer-body"
+            ],
+            "meaning": "個別本文と通常/限定の商品文脈を人手で比較。namaHiireの不足は未記載のままであり、falseや仕様一致の断定ではない。 金光酒造の通常16度、麹赤磐雄町50%／掛八反錦60%が個別本文で対応。13原酒・辛口・季節版を示す語は対象にない。"
+          },
+          "genshu": {
+            "result": "unknown_not_suspected",
+            "evidenceIds": [
+              "official-body",
+              "retailer-body"
+            ],
+            "meaning": "個別本文と通常/限定の商品文脈を人手で比較。genshuの不足は未記載のままであり、falseや仕様一致の断定ではない。 金光酒造の通常16度、麹赤磐雄町50%／掛八反錦60%が個別本文で対応。13原酒・辛口・季節版を示す語は対象にない。"
+          },
+          "muroka": {
+            "result": "unknown_not_suspected",
+            "evidenceIds": [
+              "official-body",
+              "retailer-body"
+            ],
+            "meaning": "個別本文と通常/限定の商品文脈を人手で比較。murokaの不足は未記載のままであり、falseや仕様一致の断定ではない。 金光酒造の通常16度、麹赤磐雄町50%／掛八反錦60%が個別本文で対応。13原酒・辛口・季節版を示す語は対象にない。"
+          },
+          "origarami": {
+            "result": "unknown_not_suspected",
+            "evidenceIds": [
+              "official-body",
+              "retailer-body"
+            ],
+            "meaning": "個別本文と通常/限定の商品文脈を人手で比較。origaramiの不足は未記載のままであり、falseや仕様一致の断定ではない。 金光酒造の通常16度、麹赤磐雄町50%／掛八反錦60%が個別本文で対応。13原酒・辛口・季節版を示す語は対象にない。"
+          },
+          "nigori": {
+            "result": "unknown_not_suspected",
+            "evidenceIds": [
+              "official-body",
+              "retailer-body"
+            ],
+            "meaning": "個別本文と通常/限定の商品文脈を人手で比較。nigoriの不足は未記載のままであり、falseや仕様一致の断定ではない。 金光酒造の通常16度、麹赤磐雄町50%／掛八反錦60%が個別本文で対応。13原酒・辛口・季節版を示す語は対象にない。"
+          },
+          "aged": {
+            "result": "unknown_not_suspected",
+            "evidenceIds": [
+              "official-body",
+              "retailer-body"
+            ],
+            "meaning": "個別本文と通常/限定の商品文脈を人手で比較。agedの不足は未記載のままであり、falseや仕様一致の断定ではない。 金光酒造の通常16度、麹赤磐雄町50%／掛八反錦60%が個別本文で対応。13原酒・辛口・季節版を示す語は対象にない。"
+          },
+          "limitedSeasonal": {
+            "result": "unknown_not_suspected",
+            "evidenceIds": [
+              "official-body",
+              "retailer-body"
+            ],
+            "meaning": "個別本文と通常/限定の商品文脈を人手で比較。limitedSeasonalの不足は未記載のままであり、falseや仕様一致の断定ではない。 金光酒造の通常16度、麹赤磐雄町50%／掛八反錦60%が個別本文で対応。13原酒・辛口・季節版を示す語は対象にない。"
+          },
+          "vintage": {
+            "result": "unknown_not_suspected",
+            "evidenceIds": [
+              "official-body",
+              "retailer-body"
+            ],
+            "meaning": "個別本文と通常/限定の商品文脈を人手で比較。vintageの不足は未記載のままであり、falseや仕様一致の断定ではない。 金光酒造の通常16度、麹赤磐雄町50%／掛八反錦60%が個別本文で対応。13原酒・辛口・季節版を示す語は対象にない。"
+          },
+          "polishingDesign": {
+            "result": "matched",
+            "evidenceIds": [
+              "official-body",
+              "retailer-body"
+            ],
+            "meaning": "個別本文と通常/限定の商品文脈を人手で比較。polishingDesignの不足は未記載のままであり、falseや仕様一致の断定ではない。 金光酒造の通常16度、麹赤磐雄町50%／掛八反錦60%が個別本文で対応。13原酒・辛口・季節版を示す語は対象にない。"
+          },
+          "riceDesign": {
+            "result": "matched",
+            "evidenceIds": [
+              "official-body",
+              "retailer-body"
+            ],
+            "meaning": "個別本文と通常/限定の商品文脈を人手で比較。riceDesignの不足は未記載のままであり、falseや仕様一致の断定ではない。 金光酒造の通常16度、麹赤磐雄町50%／掛八反錦60%が個別本文で対応。13原酒・辛口・季節版を示す語は対象にない。"
+          }
+        },
+        "unresolvedIdentity": [],
+        "majorConflicts": [],
+        "differences": [],
+        "scope": "new_v3_commercial_review"
+      },
+      "identityReviewSha256": "f707ce1eccd42b45278f830dbcc57db7896791f0074e886dfc5dcde56a89347d",
+      "creativeEnvKey": "AFFILIATE_RAKUTEN_PHASE18_KAMO_KINSHU_URL",
+      "itemCode": "meishu-honpo:10001492",
+      "capacityMl": 1800,
+      "affiliateStatus": "PENDING_APPROVAL",
+      "sourceTool": "rakutenOfficialTool",
+      "formalUrlConfirmed": true,
+      "creativeSha256": "34fbacc926cba15c41708ff23fe5ba7d859e4ee27bae0b56669a689beb72a028",
+      "originalUnmodified": true,
+      "identityReviewed": true,
+      "desktopRedirectReviewed": true,
+      "mobileRedirectReviewed": true,
+      "verifiedAt": "2026-10-11T12:32:43.005Z",
+      "validUntil": "2026-10-12T12:32:43.005Z"
+    }
+  ]
+}

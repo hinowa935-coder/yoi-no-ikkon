@@ -157,6 +157,7 @@ function hash(id) {
 
 // Individually edited passages are used only while their exact supporting facts match.
 const passages = {
+  "maboroshi-no-taki-junmai-ginjo-standard": { values: ["米の旨味", "酸味"], text: "酸味から米の旨味へと、味わいが広がる純米吟醸。冷やしても、燗にしても楽しめます。" },
   "nogomi-tokubetsu-junmai": { values: ["ほのかな吟醸香", "米の旨み"], text: "ほのかに香る吟醸香。米の旨みも楽しめる一本です。" },
   "shichida-junmai": { values: ["米由来の旨味", "軽やかな味わい"], text: "米由来の旨味を、軽やかな味わいで楽しめます。" },
   "azumaichi-junmai-ginjo": { values: ["穏やかな香り", "米の旨味"], text: "香りは穏やか。米の旨味を楽しめる酒です。" },

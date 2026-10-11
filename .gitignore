@@ -2,6 +2,10 @@
 out/
 node_modules/
 .env*
+!.env.example
+.cache/
+.qa/
+commerce.local.json
 *.log
 dist/
 build/

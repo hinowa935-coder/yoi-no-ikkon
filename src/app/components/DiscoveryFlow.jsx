@@ -5,6 +5,7 @@ import { daySeed, discoveryNights, discoveryDishes, foodDirections, suggestDishe
 import { trackEvent } from "../../data/telemetry.js";
 import DiscoverySakeCard from "./DiscoverySakeCard.jsx";
 import TrackedLink from "./TrackedLink.jsx";
+import { discoveryLocation } from "./discoveryLocation.js";
 
 export default function DiscoveryFlow({ seed: initialSeed, initialNight = "", initialDirection = "", initialDish = "" }) {
   const [seed, setSeed] = useState(initialSeed);
@@ -12,6 +13,12 @@ export default function DiscoveryFlow({ seed: initialSeed, initialNight = "", in
   const [nightId, setNightId] = useState(initialNight);
   const [directionId, setDirectionId] = useState(initialDirection);
   const [dishName, setDishName] = useState(initialDish);
+  useEffect(() => {
+    const next = discoveryLocation(window.location.href, { nightId, directionId, dishName });
+    if (next && next !== window.location.pathname + window.location.search + window.location.hash) {
+      window.history.replaceState(null, "", next);
+    }
+  }, [nightId, directionId, dishName]);
   const reduced = useReducedMotion();
   const night = discoveryNights.find(n => n.id === nightId);
   let dishes = night && directionId ? suggestDishes(nightId, directionId, seed) : [];

@@ -1,0 +1,489 @@
+[
+  {
+    "sakeId": "nogomi-tokubetsu-junmai",
+    "dishName": "焼き厚揚げ",
+    "before": "米の旨味を、大豆の旨味と香ばしさと一緒に楽しむ提案です。",
+    "after": "焼き厚揚げの大豆の旨味と香ばしさに、米の旨味を重ねて味わいます。",
+    "dishFlavor": "大豆の旨味と香ばしさ",
+    "dishMethod": "焼き物",
+    "sakeFact": {
+      "feature": "米の旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "米の旨味",
+        "sourceUrl": "https://sakeshop-hisaya.com/shopdetail/000000000119/",
+        "sourceType": "specialistRetailer",
+        "verifiedAt": "2026-10-04",
+        "meaning": "対象商品説明",
+        "productScope": "product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "shichida-junmai",
+    "dishName": "豚の角煮",
+    "before": "豚の角煮と相性のよい組み合わせ。合わせて楽しめます。",
+    "after": "豚の角煮は、蔵元がこのお酒に合う料理として挙げています。",
+    "dishFlavor": null,
+    "dishMethod": null,
+    "sakeFact": null,
+    "officialPairingEvidence": {
+      "dish": "豚の角煮",
+      "sourceUrl": "https://tenzan.co.jp/product/shichida-jyunmai/",
+      "sourceType": "breweryOfficial",
+      "verifiedAt": "2026-10-04",
+      "meaning": "合う料理欄",
+      "productScope": "product",
+      "use": "drinkingPairing"
+    }
+  },
+  {
+    "sakeId": "denshu-tokubetsu-junmai",
+    "dishName": "焼きしいたけ",
+    "before": "米の旨味を、きのこの旨味と香ばしさと一緒に楽しむ提案です。",
+    "after": "きのこの旨味と香ばしさを楽しむ焼きしいたけ。米の旨味を重ねる組み合わせです。",
+    "dishFlavor": "きのこの旨味と香ばしさ",
+    "dishMethod": "焼き物",
+    "sakeFact": {
+      "feature": "米の旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "米の旨味",
+        "sourceUrl": "https://kojima.ocnk.net/product/53",
+        "sourceType": "specialistRetailer",
+        "verifiedAt": "2026-10-03",
+        "meaning": "商品詳細L38",
+        "productScope": "product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "akabu-junmai",
+    "dishName": "焼き厚揚げ",
+    "before": "米の旨味を、大豆の旨味と香ばしさと一緒に楽しむ提案です。",
+    "after": "焼き厚揚げの大豆の旨味と香ばしさに、米の旨味を重ねて味わいます。",
+    "dishFlavor": "大豆の旨味と香ばしさ",
+    "dishMethod": "焼き物",
+    "sakeFact": {
+      "feature": "米の旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "米の旨味",
+        "sourceUrl": "https://www.akabu1.com/gallery/",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-03",
+        "meaning": "純米酒の項目に米の旨味を記載。",
+        "tag": "米の旨味",
+        "url": "https://www.akabu1.com/gallery/",
+        "basis": "純米酒の項目に米の旨味を記載。",
+        "recheckStatus": "reconfirmed",
+        "recheckAttemptedAt": "2026-10-03"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "nanbu-bijin-tokubetsu-junmai",
+    "dishName": "豆腐のきのこあん",
+    "before": "米の旨味を、きのことだしの旨味と一緒に楽しむ提案です。",
+    "after": "豆腐のきのこあんは、きのことだしの旨味を楽しむ一皿。米の旨味とともに味わいます。",
+    "dishFlavor": "きのことだしの旨味",
+    "dishMethod": "煮物",
+    "sakeFact": {
+      "feature": "米の旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "米の旨味",
+        "sourceUrl": "https://www.nanbubijin.co.jp/sake/nihonshu/tokubetsu-junmai/tokubetsu_junmaishu/",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-03",
+        "meaning": "対象商品に上品な米の旨味を記載。",
+        "tag": "米の旨味",
+        "url": "https://www.nanbubijin.co.jp/sake/nihonshu/tokubetsu-junmai/tokubetsu_junmaishu/",
+        "basis": "対象商品に上品な米の旨味を記載。",
+        "recheckStatus": "reconfirmed",
+        "recheckAttemptedAt": "2026-10-03"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "nanbu-bijin-tokubetsu-junmai",
+    "dishName": "豚の生姜焼き",
+    "before": "米の旨味を、甘辛いタレと生姜の香りと一緒に楽しむ提案です。",
+    "after": "甘辛いタレと生姜の香りを楽しむ豚の生姜焼きに、米の旨味を合わせます。",
+    "dishFlavor": "甘辛いタレと生姜の香り",
+    "dishMethod": "焼き物",
+    "sakeFact": {
+      "feature": "米の旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "米の旨味",
+        "sourceUrl": "https://www.nanbubijin.co.jp/sake/nihonshu/tokubetsu-junmai/tokubetsu_junmaishu/",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-03",
+        "meaning": "対象商品に上品な米の旨味を記載。",
+        "tag": "米の旨味",
+        "url": "https://www.nanbubijin.co.jp/sake/nihonshu/tokubetsu-junmai/tokubetsu_junmaishu/",
+        "basis": "対象商品に上品な米の旨味を記載。",
+        "recheckStatus": "reconfirmed",
+        "recheckAttemptedAt": "2026-10-03"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "sharaku-junmai-ginjo",
+    "dishName": "焼き厚揚げ",
+    "before": "米の旨味を、大豆の旨味と香ばしさと一緒に楽しむ提案です。",
+    "after": "焼き厚揚げの大豆の旨味と香ばしさに、米の旨味を重ねて味わいます。",
+    "dishFlavor": "大豆の旨味と香ばしさ",
+    "dishMethod": "焼き物",
+    "sakeFact": {
+      "feature": "米の旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "米の旨味",
+        "sourceUrl": "https://miyaizumi.co.jp/sake/",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L71",
+        "productScope": "product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "kidoizumi-gg3q4p",
+    "dishName": "ぶりの照り焼き",
+    "before": "米の旨味を、魚の脂と甘辛いタレと一緒に楽しむ提案です。",
+    "after": "ぶりの照り焼きは、魚の脂と甘辛いタレが楽しめる一皿。米の旨味を重ねて味わいます。",
+    "dishFlavor": "魚の脂と甘辛いタレ",
+    "dishMethod": "焼き魚",
+    "sakeFact": {
+      "feature": "米の旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "米の旨味",
+        "sourceUrl": "https://www.kidoizumi.jp/products/junmai-daigo1800/",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-03",
+        "meaning": "山田錦の旨味を紹介。",
+        "tag": "米の旨味",
+        "url": "https://www.kidoizumi.jp/products/junmai-daigo1800/",
+        "basis": "山田錦の旨味を紹介。",
+        "recheckStatus": "reconfirmed",
+        "recheckAttemptedAt": "2026-10-03"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "sentoku-i3yidq",
+    "dishName": "焼きしいたけ",
+    "before": "米の旨味を、きのこの旨味と香ばしさと一緒に楽しむ提案です。",
+    "after": "きのこの旨味と香ばしさを楽しむ焼きしいたけ。米の旨味を重ねる組み合わせです。",
+    "dishFlavor": "きのこの旨味と香ばしさ",
+    "dishMethod": "焼き物",
+    "sakeFact": {
+      "feature": "米の旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "米の旨味",
+        "sourceUrl": "https://www.miyazaki-sake.or.jp/nobeokahyuga/sentoku.html",
+        "sourceType": "industryAssociation",
+        "verifiedAt": "2026-10-03",
+        "meaning": "個別商品L33",
+        "productScope": "product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "maboroshi-no-taki-junmai-ginjo-standard",
+    "dishName": "ぶりの照り焼き",
+    "before": "米の旨味を、魚の脂と甘辛いタレと一緒に楽しむ提案です。",
+    "after": "ぶりの照り焼きは、魚の脂と甘辛いタレが楽しめる一皿。米の旨味を重ねて味わいます。",
+    "dishFlavor": "魚の脂と甘辛いタレ",
+    "dishMethod": "焼き魚",
+    "sakeFact": {
+      "feature": "米の旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "米の旨味",
+        "sourceUrl": "https://mabotaki.co.jp/product/stan/stan_05/",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-10",
+        "meaning": "酸味に続いて米の旨味が広がるという商品説明。"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "maboroshi-no-taki-junmai-ginjo-standard",
+    "dishName": "焼きしいたけ",
+    "before": "米の旨味を、きのこの旨味と香ばしさと一緒に楽しむ提案です。",
+    "after": "きのこの旨味と香ばしさを楽しむ焼きしいたけ。米の旨味を重ねる組み合わせです。",
+    "dishFlavor": "きのこの旨味と香ばしさ",
+    "dishMethod": "焼き物",
+    "sakeFact": {
+      "feature": "米の旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "米の旨味",
+        "sourceUrl": "https://mabotaki.co.jp/product/stan/stan_05/",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-10",
+        "meaning": "酸味に続いて米の旨味が広がるという商品説明。"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "maboroshi-no-taki-junmai-ginjo-standard",
+    "dishName": "焼き厚揚げ",
+    "before": "米の旨味を、大豆の旨味と香ばしさと一緒に楽しむ提案です。",
+    "after": "焼き厚揚げの大豆の旨味と香ばしさに、米の旨味を重ねて味わいます。",
+    "dishFlavor": "大豆の旨味と香ばしさ",
+    "dishMethod": "焼き物",
+    "sakeFact": {
+      "feature": "米の旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "米の旨味",
+        "sourceUrl": "https://mabotaki.co.jp/product/stan/stan_05/",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-10",
+        "meaning": "酸味に続いて米の旨味が広がるという商品説明。"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "jozan-junmai-3",
+    "dishName": "白菜と豚肉の重ね煮",
+    "before": "米の旨味を、白菜の甘みと豚肉の旨味と一緒に楽しむ提案です。",
+    "after": "白菜と豚肉の重ね煮には、米の旨味を。白菜の甘みと豚肉の旨味を重ねて楽しむ組み合わせです。",
+    "dishFlavor": "白菜の甘みと豚肉の旨味",
+    "dishMethod": "煮物",
+    "sakeFact": {
+      "feature": "米の旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "米の旨味",
+        "sourceUrl": "https://jozan.co.jp/product/detail.php?id=1",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-03",
+        "meaning": "対象生酒欄L84",
+        "productScope": "product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "ibi-white-1",
+    "dishName": "豚の生姜焼き",
+    "before": "旨味を、甘辛いタレと生姜の香りと一緒に楽しむ提案です。",
+    "after": "甘辛いタレと生姜の香りを楽しむ豚の生姜焼きに、お酒の旨味を合わせます。",
+    "dishFlavor": "甘辛いタレと生姜の香り",
+    "dishMethod": "焼き物",
+    "sakeFact": {
+      "feature": "旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "旨味",
+        "sourceUrl": "https://www.sugiharasake.jp/product/",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-04",
+        "meaning": "無色の特別純米酒欄",
+        "productScope": "product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "kinryo-uc9ijh-3",
+    "dishName": "焼き厚揚げ",
+    "before": "穏やかな旨味を、大豆の旨味と香ばしさと一緒に楽しむ提案です。",
+    "after": "焼き厚揚げの大豆の旨味と香ばしさに、お酒の穏やかな旨味を重ねて味わいます。",
+    "dishFlavor": "大豆の旨味と香ばしさ",
+    "dishMethod": "焼き物",
+    "sakeFact": {
+      "feature": "穏やかな旨味",
+      "kind": "officialFlavorField",
+      "evidence": {
+        "field": "flavorProfile.umami",
+        "value": "穏やかな旨味",
+        "sourceUrl": "https://www.nishino-kinryo.co.jp/store/products/detail.php?product_id=136",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-03",
+        "meaning": "対象商品本文のumamiの説明を短縮",
+        "productScope": "product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "shizengo-tokubetsu-junmai-v1",
+    "dishName": "白菜と豚肉の重ね煮",
+    "before": "米の旨味を、白菜の甘みと豚肉の旨味と一緒に楽しむ提案です。",
+    "after": "白菜と豚肉の重ね煮には、米の旨味を。白菜の甘みと豚肉の旨味を重ねて楽しむ組み合わせです。",
+    "dishFlavor": "白菜の甘みと豚肉の旨味",
+    "dishMethod": "煮物",
+    "sakeFact": {
+      "feature": "米の旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "米の旨味",
+        "sourceUrl": "https://www.daikichi-sizengo.co.jp/%E8%87%AA%E7%84%B6%E9%83%B7/%E8%87%AA%E7%84%B6%E9%83%B7/",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L145 米の旨み、表記のみ正規化。",
+        "productScope": "product",
+        "sourceTier": "primary",
+        "sourceDetailType": "official_product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "eikun-tokubetsu-junmai-homarefuji-v1",
+    "dishName": "豆腐のきのこあん",
+    "before": "米の旨味を、きのことだしの旨味と一緒に楽しむ提案です。",
+    "after": "豆腐のきのこあんは、きのことだしの旨味を楽しむ一皿。米の旨味とともに味わいます。",
+    "dishFlavor": "きのことだしの旨味",
+    "dishMethod": "煮物",
+    "sakeFact": {
+      "feature": "米の旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "米の旨味",
+        "sourceUrl": "https://eikun.co.jp/product/tokubetu-junmai-homarefuji/",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L25 商品の米の旨味。",
+        "productScope": "product",
+        "sourceTier": "primary",
+        "sourceDetailType": "official_product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "tamagawa-tokubetsu-junmai-v1",
+    "dishName": "ぶりの照り焼き",
+    "before": "旨味を、魚の脂と甘辛いタレと一緒に楽しむ提案です。",
+    "after": "ぶりの照り焼きは、魚の脂と甘辛いタレが楽しめる一皿。お酒の旨味を重ねて味わいます。",
+    "dishFlavor": "魚の脂と甘辛いタレ",
+    "dishMethod": "焼き魚",
+    "sakeFact": {
+      "feature": "旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "旨味",
+        "sourceUrl": "https://www.sake-tamagawa.com/prd_post/var05/",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L42 旨酒を旨味に正規化。",
+        "productScope": "product",
+        "sourceTier": "primary",
+        "sourceDetailType": "official_product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "iyo-kagiya-junmai-aka-label-v1",
+    "dishName": "ぶりの照り焼き",
+    "before": "米の旨味を、魚の脂と甘辛いタレと一緒に楽しむ提案です。",
+    "after": "ぶりの照り焼きは、魚の脂と甘辛いタレが楽しめる一皿。米の旨味を重ねて味わいます。",
+    "dishFlavor": "魚の脂と甘辛いタレ",
+    "dishMethod": "焼き魚",
+    "sakeFact": {
+      "feature": "米の旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "米の旨味",
+        "sourceUrl": "https://www.seiryosyuzo.com/brands/standard",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L81 直接記載。",
+        "productScope": "product",
+        "sourceTier": "primary",
+        "sourceDetailType": "official_product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "houken-junmai-ginjo-hattannishiki-standard-v1",
+    "dishName": "豆腐のきのこあん",
+    "before": "米の旨味を、きのことだしの旨味と一緒に楽しむ提案です。",
+    "after": "豆腐のきのこあんは、きのことだしの旨味を楽しむ一皿。米の旨味とともに味わいます。",
+    "dishFlavor": "きのことだしの旨味",
+    "dishMethod": "煮物",
+    "sakeFact": {
+      "feature": "米の旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "米の旨味",
+        "sourceUrl": "https://www.yamanaka-sake.shop/view/item/000000000263?category_page_id=ct1608",
+        "sourceType": "trustedRetailer",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L312 米の旨みを正規化。",
+        "productScope": "product",
+        "sourceTier": "secondary",
+        "sourceDetailType": "specialist_retailer_product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "kenkonichi-chokarakuchi-junmai-ginjo-genshu-hiire-v1",
+    "dishName": "豆腐のきのこあん",
+    "before": "旨味を、きのことだしの旨味と一緒に楽しむ提案です。",
+    "after": "豆腐のきのこあんは、きのことだしの旨味を楽しむ一皿。お酒の旨味とともに味わいます。",
+    "dishFlavor": "きのことだしの旨味",
+    "dishMethod": "煮物",
+    "sakeFact": {
+      "feature": "旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "旨味",
+        "sourceUrl": "https://www.yajima-jizake.co.jp/products/detail.php?product_id=12999",
+        "sourceType": "trustedRetailer",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L47 旨みの正規化。",
+        "productScope": "product",
+        "sourceTier": "secondary",
+        "sourceDetailType": "specialist_retail_product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "taiten-shiragiku-junmai-shiragiku-standard-v1",
+    "dishName": "ぶりの照り焼き",
+    "before": "米の旨味を、魚の脂と甘辛いタレと一緒に楽しむ提案です。",
+    "after": "ぶりの照り焼きは、魚の脂と甘辛いタレが楽しめる一皿。米の旨味を重ねて味わいます。",
+    "dishFlavor": "魚の脂と甘辛いタレ",
+    "dishMethod": "焼き魚",
+    "sakeFact": {
+      "feature": "米の旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "米の旨味",
+        "sourceUrl": "https://shiragiku-shop.com/items/5f9a42afda019c3057b87d15",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L27 米の旨みを正規化。",
+        "productScope": "product",
+        "sourceTier": "primary",
+        "sourceDetailType": "official_product"
+      }
+    },
+    "officialPairingEvidence": null
+  }
+]

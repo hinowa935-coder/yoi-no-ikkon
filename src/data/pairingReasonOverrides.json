@@ -1,0 +1,6220 @@
+[
+  {
+    "sakeId": "nogomi-tokubetsu-junmai",
+    "dishName": "鶏の唐揚げ",
+    "before": "米の旨味を、鶏肉の旨味と衣の香ばしさと一緒に楽しむ提案です。",
+    "after": "鶏の唐揚げは、鶏肉の旨味と衣の香ばしさを楽しむひと皿。米の旨味を重ねて味わいます。",
+    "dishFlavor": "鶏肉の旨味と衣の香ばしさ",
+    "dishMethod": "揚げ物",
+    "sakeFact": {
+      "feature": "米の旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "米の旨味",
+        "sourceUrl": "https://sakeshop-hisaya.com/shopdetail/000000000119/",
+        "sourceType": "specialistRetailer",
+        "verifiedAt": "2026-10-04",
+        "meaning": "対象商品説明",
+        "productScope": "product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "nogomi-tokubetsu-junmai",
+    "dishName": "焼き餃子",
+    "before": "米の旨味を、肉の旨味と焼き目の香ばしさと一緒に楽しむ提案です。",
+    "after": "焼き餃子の肉の旨味と焼き目の香ばしさに、米の旨味を合わせて楽しみます。",
+    "dishFlavor": "肉の旨味と焼き目の香ばしさ",
+    "dishMethod": "焼き物",
+    "sakeFact": {
+      "feature": "米の旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "米の旨味",
+        "sourceUrl": "https://sakeshop-hisaya.com/shopdetail/000000000119/",
+        "sourceType": "specialistRetailer",
+        "verifiedAt": "2026-10-04",
+        "meaning": "対象商品説明",
+        "productScope": "product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "shichida-junmai",
+    "dishName": "鶏の唐揚げ",
+    "before": "米由来の旨味を、鶏肉の旨味と衣の香ばしさと一緒に楽しむ提案です。",
+    "after": "鶏の唐揚げは、鶏肉の旨味と衣の香ばしさを楽しむひと皿。米由来の旨味を重ねて味わいます。",
+    "dishFlavor": "鶏肉の旨味と衣の香ばしさ",
+    "dishMethod": "揚げ物",
+    "sakeFact": {
+      "feature": "米由来の旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "米由来の旨味",
+        "sourceUrl": "https://tenzan.co.jp/product/shichida-jyunmai/",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-04",
+        "meaning": "対象商品説明",
+        "productScope": "product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "shichida-junmai",
+    "dishName": "焼き餃子",
+    "before": "米由来の旨味を、肉の旨味と焼き目の香ばしさと一緒に楽しむ提案です。",
+    "after": "焼き餃子の肉の旨味と焼き目の香ばしさに、米由来の旨味を合わせて楽しみます。",
+    "dishFlavor": "肉の旨味と焼き目の香ばしさ",
+    "dishMethod": "焼き物",
+    "sakeFact": {
+      "feature": "米由来の旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "米由来の旨味",
+        "sourceUrl": "https://tenzan.co.jp/product/shichida-jyunmai/",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-04",
+        "meaning": "対象商品説明",
+        "productScope": "product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "shichida-junmai",
+    "dishName": "肉じゃが",
+    "before": "肉じゃがと相性のよい組み合わせ。合わせて楽しめます。",
+    "after": "肉じゃがは、蔵元がこのお酒に合う料理として挙げる一品。甘辛い煮汁に、米由来の旨味を重ねて楽しみます。",
+    "dishFlavor": "甘辛い煮汁",
+    "dishMethod": "煮物",
+    "sakeFact": {
+      "feature": "米由来の旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "米由来の旨味",
+        "sourceUrl": "https://tenzan.co.jp/product/shichida-jyunmai/",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-04",
+        "meaning": "対象商品説明",
+        "productScope": "product"
+      }
+    },
+    "officialPairingEvidence": {
+      "dish": "肉じゃが",
+      "sourceUrl": "https://tenzan.co.jp/product/shichida-jyunmai/",
+      "sourceType": "breweryOfficial",
+      "verifiedAt": "2026-10-04",
+      "meaning": "合う料理欄",
+      "productScope": "product",
+      "use": "drinkingPairing"
+    }
+  },
+  {
+    "sakeId": "azumaichi-junmai-ginjo",
+    "dishName": "鶏の唐揚げ",
+    "before": "米の旨味を、鶏肉の旨味と衣の香ばしさと一緒に楽しむ提案です。",
+    "after": "鶏の唐揚げは、鶏肉の旨味と衣の香ばしさを楽しむひと皿。米の旨味を重ねて味わいます。",
+    "dishFlavor": "鶏肉の旨味と衣の香ばしさ",
+    "dishMethod": "揚げ物",
+    "sakeFact": {
+      "feature": "米の旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "米の旨味",
+        "sourceUrl": "https://azumaichi.com/top/products/seishu/",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-04",
+        "meaning": "対象純米吟醸の説明",
+        "productScope": "product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "azumaichi-junmai-ginjo",
+    "dishName": "焼き餃子",
+    "before": "米の旨味を、肉の旨味と焼き目の香ばしさと一緒に楽しむ提案です。",
+    "after": "焼き餃子の肉の旨味と焼き目の香ばしさに、米の旨味を合わせて楽しみます。",
+    "dishFlavor": "肉の旨味と焼き目の香ばしさ",
+    "dishMethod": "焼き物",
+    "sakeFact": {
+      "feature": "米の旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "米の旨味",
+        "sourceUrl": "https://azumaichi.com/top/products/seishu/",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-04",
+        "meaning": "対象純米吟醸の説明",
+        "productScope": "product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "azumacho-junmai",
+    "dishName": "鶏の唐揚げ",
+    "before": "米の旨味を、鶏肉の旨味と衣の香ばしさと一緒に楽しむ提案です。",
+    "after": "鶏の唐揚げは、鶏肉の旨味と衣の香ばしさを楽しむひと皿。米の旨味を重ねて味わいます。",
+    "dishFlavor": "鶏肉の旨味と衣の香ばしさ",
+    "dishMethod": "揚げ物",
+    "sakeFact": {
+      "feature": "米の旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "米の旨味",
+        "sourceUrl": "https://www.azumacho.co.jp/products/junmai_azumacho.html",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-04",
+        "meaning": "対象酒の特徴",
+        "productScope": "product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "azumacho-junmai",
+    "dishName": "焼き餃子",
+    "before": "米の旨味を、肉の旨味と焼き目の香ばしさと一緒に楽しむ提案です。",
+    "after": "焼き餃子の肉の旨味と焼き目の香ばしさに、米の旨味を合わせて楽しみます。",
+    "dishFlavor": "肉の旨味と焼き目の香ばしさ",
+    "dishMethod": "焼き物",
+    "sakeFact": {
+      "feature": "米の旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "米の旨味",
+        "sourceUrl": "https://www.azumacho.co.jp/products/junmai_azumacho.html",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-04",
+        "meaning": "対象酒の特徴",
+        "productScope": "product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "wakanami-junmai",
+    "dishName": "鶏の唐揚げ",
+    "before": "米の旨味を、鶏肉の旨味と衣の香ばしさと一緒に楽しむ提案です。",
+    "after": "鶏の唐揚げは、鶏肉の旨味と衣の香ばしさを楽しむひと皿。米の旨味を重ねて味わいます。",
+    "dishFlavor": "鶏肉の旨味と衣の香ばしさ",
+    "dishMethod": "揚げ物",
+    "sakeFact": {
+      "feature": "米の旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "米の旨味",
+        "sourceUrl": "https://j-s-p.or.jp/kuramoto/wakanami",
+        "sourceType": "industryAssociation",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L45",
+        "productScope": "product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "wakanami-junmai",
+    "dishName": "焼き餃子",
+    "before": "米の旨味を、肉の旨味と焼き目の香ばしさと一緒に楽しむ提案です。",
+    "after": "焼き餃子の肉の旨味と焼き目の香ばしさに、米の旨味を合わせて楽しみます。",
+    "dishFlavor": "肉の旨味と焼き目の香ばしさ",
+    "dishMethod": "焼き物",
+    "sakeFact": {
+      "feature": "米の旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "米の旨味",
+        "sourceUrl": "https://j-s-p.or.jp/kuramoto/wakanami",
+        "sourceType": "industryAssociation",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L45",
+        "productScope": "product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "denshu-tokubetsu-junmai",
+    "dishName": "鶏の唐揚げ",
+    "before": "米の旨味を、鶏肉の旨味と衣の香ばしさと一緒に楽しむ提案です。",
+    "after": "鶏の唐揚げは、鶏肉の旨味と衣の香ばしさを楽しむひと皿。米の旨味を重ねて味わいます。",
+    "dishFlavor": "鶏肉の旨味と衣の香ばしさ",
+    "dishMethod": "揚げ物",
+    "sakeFact": {
+      "feature": "米の旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "米の旨味",
+        "sourceUrl": "https://kojima.ocnk.net/product/53",
+        "sourceType": "specialistRetailer",
+        "verifiedAt": "2026-10-03",
+        "meaning": "商品詳細L38",
+        "productScope": "product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "denshu-tokubetsu-junmai",
+    "dishName": "焼き餃子",
+    "before": "米の旨味を、肉の旨味と焼き目の香ばしさと一緒に楽しむ提案です。",
+    "after": "焼き餃子の肉の旨味と焼き目の香ばしさに、米の旨味を合わせて楽しみます。",
+    "dishFlavor": "肉の旨味と焼き目の香ばしさ",
+    "dishMethod": "焼き物",
+    "sakeFact": {
+      "feature": "米の旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "米の旨味",
+        "sourceUrl": "https://kojima.ocnk.net/product/53",
+        "sourceType": "specialistRetailer",
+        "verifiedAt": "2026-10-03",
+        "meaning": "商品詳細L38",
+        "productScope": "product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "akabu-junmai",
+    "dishName": "きゅうりの浅漬け",
+    "before": "今夜はきゅうりの浅漬けと一緒に。食事とともに楽しめる一杯です。",
+    "after": "野菜の軽い塩味を楽しむきゅうりの浅漬けに、米の旨味を合わせます。",
+    "dishFlavor": "野菜の軽い塩味",
+    "dishMethod": "漬物",
+    "sakeFact": {
+      "feature": "米の旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "米の旨味",
+        "sourceUrl": "https://www.akabu1.com/gallery/",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-03",
+        "meaning": "純米酒の項目に米の旨味を記載。",
+        "tag": "米の旨味",
+        "url": "https://www.akabu1.com/gallery/",
+        "basis": "純米酒の項目に米の旨味を記載。",
+        "recheckStatus": "reconfirmed",
+        "recheckAttemptedAt": "2026-10-03"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "akabu-junmai",
+    "dishName": "鶏の唐揚げ",
+    "before": "米の旨味を、鶏肉の旨味と衣の香ばしさと一緒に楽しむ提案です。",
+    "after": "鶏の唐揚げは、鶏肉の旨味と衣の香ばしさを楽しむひと皿。米の旨味を重ねて味わいます。",
+    "dishFlavor": "鶏肉の旨味と衣の香ばしさ",
+    "dishMethod": "揚げ物",
+    "sakeFact": {
+      "feature": "米の旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "米の旨味",
+        "sourceUrl": "https://www.akabu1.com/gallery/",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-03",
+        "meaning": "純米酒の項目に米の旨味を記載。",
+        "tag": "米の旨味",
+        "url": "https://www.akabu1.com/gallery/",
+        "basis": "純米酒の項目に米の旨味を記載。",
+        "recheckStatus": "reconfirmed",
+        "recheckAttemptedAt": "2026-10-03"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "akabu-junmai",
+    "dishName": "枝豆",
+    "before": "今夜は枝豆と一緒に。食事とともに楽しめる一杯です。",
+    "after": "豆の甘みと塩気を楽しむ枝豆に、米の旨味を合わせます。",
+    "dishFlavor": "豆の甘みと塩気",
+    "dishMethod": "茹で物",
+    "sakeFact": {
+      "feature": "米の旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "米の旨味",
+        "sourceUrl": "https://www.akabu1.com/gallery/",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-03",
+        "meaning": "純米酒の項目に米の旨味を記載。",
+        "tag": "米の旨味",
+        "url": "https://www.akabu1.com/gallery/",
+        "basis": "純米酒の項目に米の旨味を記載。",
+        "recheckStatus": "reconfirmed",
+        "recheckAttemptedAt": "2026-10-03"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "akabu-junmai",
+    "dishName": "焼き餃子",
+    "before": "米の旨味を、肉の旨味と焼き目の香ばしさと一緒に楽しむ提案です。",
+    "after": "焼き餃子の肉の旨味と焼き目の香ばしさに、米の旨味を合わせて楽しみます。",
+    "dishFlavor": "肉の旨味と焼き目の香ばしさ",
+    "dishMethod": "焼き物",
+    "sakeFact": {
+      "feature": "米の旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "米の旨味",
+        "sourceUrl": "https://www.akabu1.com/gallery/",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-03",
+        "meaning": "純米酒の項目に米の旨味を記載。",
+        "tag": "米の旨味",
+        "url": "https://www.akabu1.com/gallery/",
+        "basis": "純米酒の項目に米の旨味を記載。",
+        "recheckStatus": "reconfirmed",
+        "recheckAttemptedAt": "2026-10-03"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "akabu-junmai",
+    "dishName": "湯豆腐",
+    "before": "今夜は湯豆腐と一緒に。食事とともに楽しめる一杯です。",
+    "after": "湯豆腐は、豆腐とだしの穏やかな味を楽しむひと皿。米の旨味を重ねて味わいます。",
+    "dishFlavor": "豆腐とだしの穏やかな味",
+    "dishMethod": "鍋物",
+    "sakeFact": {
+      "feature": "米の旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "米の旨味",
+        "sourceUrl": "https://www.akabu1.com/gallery/",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-03",
+        "meaning": "純米酒の項目に米の旨味を記載。",
+        "tag": "米の旨味",
+        "url": "https://www.akabu1.com/gallery/",
+        "basis": "純米酒の項目に米の旨味を記載。",
+        "recheckStatus": "reconfirmed",
+        "recheckAttemptedAt": "2026-10-03"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "nanbu-bijin-tokubetsu-junmai",
+    "dishName": "きゅうりの浅漬け",
+    "before": "今夜はきゅうりの浅漬けと一緒に。食事とともに楽しめる一杯です。",
+    "after": "野菜の軽い塩味を楽しむきゅうりの浅漬けに、米の旨味を合わせます。",
+    "dishFlavor": "野菜の軽い塩味",
+    "dishMethod": "漬物",
+    "sakeFact": {
+      "feature": "米の旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "米の旨味",
+        "sourceUrl": "https://www.nanbubijin.co.jp/sake/nihonshu/tokubetsu-junmai/tokubetsu_junmaishu/",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-03",
+        "meaning": "対象商品に上品な米の旨味を記載。",
+        "tag": "米の旨味",
+        "url": "https://www.nanbubijin.co.jp/sake/nihonshu/tokubetsu-junmai/tokubetsu_junmaishu/",
+        "basis": "対象商品に上品な米の旨味を記載。",
+        "recheckStatus": "reconfirmed",
+        "recheckAttemptedAt": "2026-10-03"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "nanbu-bijin-tokubetsu-junmai",
+    "dishName": "鶏の唐揚げ",
+    "before": "米の旨味を、鶏肉の旨味と衣の香ばしさと一緒に楽しむ提案です。",
+    "after": "鶏の唐揚げは、鶏肉の旨味と衣の香ばしさを楽しむひと皿。米の旨味を重ねて味わいます。",
+    "dishFlavor": "鶏肉の旨味と衣の香ばしさ",
+    "dishMethod": "揚げ物",
+    "sakeFact": {
+      "feature": "米の旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "米の旨味",
+        "sourceUrl": "https://www.nanbubijin.co.jp/sake/nihonshu/tokubetsu-junmai/tokubetsu_junmaishu/",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-03",
+        "meaning": "対象商品に上品な米の旨味を記載。",
+        "tag": "米の旨味",
+        "url": "https://www.nanbubijin.co.jp/sake/nihonshu/tokubetsu-junmai/tokubetsu_junmaishu/",
+        "basis": "対象商品に上品な米の旨味を記載。",
+        "recheckStatus": "reconfirmed",
+        "recheckAttemptedAt": "2026-10-03"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "nanbu-bijin-tokubetsu-junmai",
+    "dishName": "枝豆",
+    "before": "今夜は枝豆と一緒に。食事とともに楽しめる一杯です。",
+    "after": "豆の甘みと塩気を楽しむ枝豆に、米の旨味を合わせます。",
+    "dishFlavor": "豆の甘みと塩気",
+    "dishMethod": "茹で物",
+    "sakeFact": {
+      "feature": "米の旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "米の旨味",
+        "sourceUrl": "https://www.nanbubijin.co.jp/sake/nihonshu/tokubetsu-junmai/tokubetsu_junmaishu/",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-03",
+        "meaning": "対象商品に上品な米の旨味を記載。",
+        "tag": "米の旨味",
+        "url": "https://www.nanbubijin.co.jp/sake/nihonshu/tokubetsu-junmai/tokubetsu_junmaishu/",
+        "basis": "対象商品に上品な米の旨味を記載。",
+        "recheckStatus": "reconfirmed",
+        "recheckAttemptedAt": "2026-10-03"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "nanbu-bijin-tokubetsu-junmai",
+    "dishName": "焼き餃子",
+    "before": "米の旨味を、肉の旨味と焼き目の香ばしさと一緒に楽しむ提案です。",
+    "after": "焼き餃子の肉の旨味と焼き目の香ばしさに、米の旨味を合わせて楽しみます。",
+    "dishFlavor": "肉の旨味と焼き目の香ばしさ",
+    "dishMethod": "焼き物",
+    "sakeFact": {
+      "feature": "米の旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "米の旨味",
+        "sourceUrl": "https://www.nanbubijin.co.jp/sake/nihonshu/tokubetsu-junmai/tokubetsu_junmaishu/",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-03",
+        "meaning": "対象商品に上品な米の旨味を記載。",
+        "tag": "米の旨味",
+        "url": "https://www.nanbubijin.co.jp/sake/nihonshu/tokubetsu-junmai/tokubetsu_junmaishu/",
+        "basis": "対象商品に上品な米の旨味を記載。",
+        "recheckStatus": "reconfirmed",
+        "recheckAttemptedAt": "2026-10-03"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "nanbu-bijin-tokubetsu-junmai",
+    "dishName": "湯豆腐",
+    "before": "今夜は湯豆腐と一緒に。食事とともに楽しめる一杯です。",
+    "after": "湯豆腐は、豆腐とだしの穏やかな味を楽しむひと皿。米の旨味を重ねて味わいます。",
+    "dishFlavor": "豆腐とだしの穏やかな味",
+    "dishMethod": "鍋物",
+    "sakeFact": {
+      "feature": "米の旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "米の旨味",
+        "sourceUrl": "https://www.nanbubijin.co.jp/sake/nihonshu/tokubetsu-junmai/tokubetsu_junmaishu/",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-03",
+        "meaning": "対象商品に上品な米の旨味を記載。",
+        "tag": "米の旨味",
+        "url": "https://www.nanbubijin.co.jp/sake/nihonshu/tokubetsu-junmai/tokubetsu_junmaishu/",
+        "basis": "対象商品に上品な米の旨味を記載。",
+        "recheckStatus": "reconfirmed",
+        "recheckAttemptedAt": "2026-10-03"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "ippaku-suissei-tokubetsu-junmai",
+    "dishName": "鶏の唐揚げ",
+    "before": "米の旨味を、鶏肉の旨味と衣の香ばしさと一緒に楽しむ提案です。",
+    "after": "鶏の唐揚げは、鶏肉の旨味と衣の香ばしさを楽しむひと皿。米の旨味を重ねて味わいます。",
+    "dishFlavor": "鶏肉の旨味と衣の香ばしさ",
+    "dishMethod": "揚げ物",
+    "sakeFact": {
+      "feature": "米の旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "米の旨味",
+        "sourceUrl": "https://www.fukurokuju.jp/products/",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-03",
+        "meaning": "対象商品に米の旨味の広がりを記載。",
+        "tag": "米の旨味",
+        "url": "https://www.fukurokuju.jp/products/",
+        "basis": "対象商品に米の旨味の広がりを記載。",
+        "recheckStatus": "reconfirmed",
+        "recheckAttemptedAt": "2026-10-03"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "ippaku-suissei-tokubetsu-junmai",
+    "dishName": "焼き餃子",
+    "before": "米の旨味を、肉の旨味と焼き目の香ばしさと一緒に楽しむ提案です。",
+    "after": "焼き餃子の肉の旨味と焼き目の香ばしさに、米の旨味を合わせて楽しみます。",
+    "dishFlavor": "肉の旨味と焼き目の香ばしさ",
+    "dishMethod": "焼き物",
+    "sakeFact": {
+      "feature": "米の旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "米の旨味",
+        "sourceUrl": "https://www.fukurokuju.jp/products/",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-03",
+        "meaning": "対象商品に米の旨味の広がりを記載。",
+        "tag": "米の旨味",
+        "url": "https://www.fukurokuju.jp/products/",
+        "basis": "対象商品に米の旨味の広がりを記載。",
+        "recheckStatus": "reconfirmed",
+        "recheckAttemptedAt": "2026-10-03"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "sharaku-junmai-ginjo",
+    "dishName": "鶏の唐揚げ",
+    "before": "米の旨味を、鶏肉の旨味と衣の香ばしさと一緒に楽しむ提案です。",
+    "after": "鶏の唐揚げは、鶏肉の旨味と衣の香ばしさを楽しむひと皿。米の旨味を重ねて味わいます。",
+    "dishFlavor": "鶏肉の旨味と衣の香ばしさ",
+    "dishMethod": "揚げ物",
+    "sakeFact": {
+      "feature": "米の旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "米の旨味",
+        "sourceUrl": "https://miyaizumi.co.jp/sake/",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L71",
+        "productScope": "product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "sharaku-junmai-ginjo",
+    "dishName": "焼き餃子",
+    "before": "米の旨味を、肉の旨味と焼き目の香ばしさと一緒に楽しむ提案です。",
+    "after": "焼き餃子の肉の旨味と焼き目の香ばしさに、米の旨味を合わせて楽しみます。",
+    "dishFlavor": "肉の旨味と焼き目の香ばしさ",
+    "dishMethod": "焼き物",
+    "sakeFact": {
+      "feature": "米の旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "米の旨味",
+        "sourceUrl": "https://miyaizumi.co.jp/sake/",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L71",
+        "productScope": "product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "kikuhime-yamahai-junmai",
+    "dishName": "鶏の唐揚げ",
+    "before": "濃醇な味わいを、鶏肉の旨味と衣の香ばしさと一緒に楽しむ提案です。",
+    "after": "鶏の唐揚げは、鶏肉の旨味と衣の香ばしさを楽しむひと皿。米の旨味を重ねて味わいます。",
+    "dishFlavor": "鶏肉の旨味と衣の香ばしさ",
+    "dishMethod": "揚げ物",
+    "sakeFact": {
+      "feature": "米の旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "米の旨味",
+        "sourceUrl": "https://www.kikuhime.co.jp/products/%E5%B1%B1%E5%BB%83%E7%B4%94%E7%B1%B3/",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L41",
+        "productScope": "product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "kikuhime-yamahai-junmai",
+    "dishName": "焼き餃子",
+    "before": "濃醇な味わいを、肉の旨味と焼き目の香ばしさと一緒に楽しむ提案です。",
+    "after": "焼き餃子の肉の旨味と焼き目の香ばしさに、米の旨味を合わせて楽しみます。",
+    "dishFlavor": "肉の旨味と焼き目の香ばしさ",
+    "dishMethod": "焼き物",
+    "sakeFact": {
+      "feature": "米の旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "米の旨味",
+        "sourceUrl": "https://www.kikuhime.co.jp/products/%E5%B1%B1%E5%BB%83%E7%B4%94%E7%B1%B3/",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L41",
+        "productScope": "product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "suigei-tokubetsu-junmai",
+    "dishName": "きゅうりの浅漬け",
+    "before": "今夜はきゅうりの浅漬けと一緒に。食事とともに楽しめる一杯です。",
+    "after": "野菜の軽い塩味を楽しむきゅうりの浅漬けに、米の旨味を合わせます。",
+    "dishFlavor": "野菜の軽い塩味",
+    "dishMethod": "漬物",
+    "sakeFact": {
+      "feature": "米の旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "米の旨味",
+        "sourceUrl": "https://suigei.co.jp/collection/564.html",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-03",
+        "meaning": "対象商品の米の旨味を記載。",
+        "tag": "米の旨味",
+        "url": "https://suigei.co.jp/collection/564.html",
+        "basis": "対象商品の米の旨味を記載。",
+        "recheckStatus": "reconfirmed",
+        "recheckAttemptedAt": "2026-10-03"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "suigei-tokubetsu-junmai",
+    "dishName": "鶏の唐揚げ",
+    "before": "米の旨味を、鶏肉の旨味と衣の香ばしさと一緒に楽しむ提案です。",
+    "after": "鶏の唐揚げは、鶏肉の旨味と衣の香ばしさを楽しむひと皿。米の旨味を重ねて味わいます。",
+    "dishFlavor": "鶏肉の旨味と衣の香ばしさ",
+    "dishMethod": "揚げ物",
+    "sakeFact": {
+      "feature": "米の旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "米の旨味",
+        "sourceUrl": "https://suigei.co.jp/collection/564.html",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-03",
+        "meaning": "対象商品の米の旨味を記載。",
+        "tag": "米の旨味",
+        "url": "https://suigei.co.jp/collection/564.html",
+        "basis": "対象商品の米の旨味を記載。",
+        "recheckStatus": "reconfirmed",
+        "recheckAttemptedAt": "2026-10-03"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "suigei-tokubetsu-junmai",
+    "dishName": "枝豆",
+    "before": "今夜は枝豆と一緒に。食事とともに楽しめる一杯です。",
+    "after": "豆の甘みと塩気を楽しむ枝豆に、米の旨味を合わせます。",
+    "dishFlavor": "豆の甘みと塩気",
+    "dishMethod": "茹で物",
+    "sakeFact": {
+      "feature": "米の旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "米の旨味",
+        "sourceUrl": "https://suigei.co.jp/collection/564.html",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-03",
+        "meaning": "対象商品の米の旨味を記載。",
+        "tag": "米の旨味",
+        "url": "https://suigei.co.jp/collection/564.html",
+        "basis": "対象商品の米の旨味を記載。",
+        "recheckStatus": "reconfirmed",
+        "recheckAttemptedAt": "2026-10-03"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "suigei-tokubetsu-junmai",
+    "dishName": "焼き餃子",
+    "before": "米の旨味を、肉の旨味と焼き目の香ばしさと一緒に楽しむ提案です。",
+    "after": "焼き餃子の肉の旨味と焼き目の香ばしさに、米の旨味を合わせて楽しみます。",
+    "dishFlavor": "肉の旨味と焼き目の香ばしさ",
+    "dishMethod": "焼き物",
+    "sakeFact": {
+      "feature": "米の旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "米の旨味",
+        "sourceUrl": "https://suigei.co.jp/collection/564.html",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-03",
+        "meaning": "対象商品の米の旨味を記載。",
+        "tag": "米の旨味",
+        "url": "https://suigei.co.jp/collection/564.html",
+        "basis": "対象商品の米の旨味を記載。",
+        "recheckStatus": "reconfirmed",
+        "recheckAttemptedAt": "2026-10-03"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "suigei-tokubetsu-junmai",
+    "dishName": "湯豆腐",
+    "before": "今夜は湯豆腐と一緒に。食事とともに楽しめる一杯です。",
+    "after": "湯豆腐は、豆腐とだしの穏やかな味を楽しむひと皿。米の旨味を重ねて味わいます。",
+    "dishFlavor": "豆腐とだしの穏やかな味",
+    "dishMethod": "鍋物",
+    "sakeFact": {
+      "feature": "米の旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "米の旨味",
+        "sourceUrl": "https://suigei.co.jp/collection/564.html",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-03",
+        "meaning": "対象商品の米の旨味を記載。",
+        "tag": "米の旨味",
+        "url": "https://suigei.co.jp/collection/564.html",
+        "basis": "対象商品の米の旨味を記載。",
+        "recheckStatus": "reconfirmed",
+        "recheckAttemptedAt": "2026-10-03"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "hiran-nigori",
+    "dishName": "鶏の唐揚げ",
+    "before": "米の旨味を、鶏肉の旨味と衣の香ばしさと一緒に楽しむ提案です。",
+    "after": "鶏の唐揚げは、鶏肉の旨味と衣の香ばしさを楽しむひと皿。米の旨味を重ねて味わいます。",
+    "dishFlavor": "鶏肉の旨味と衣の香ばしさ",
+    "dishMethod": "揚げ物",
+    "sakeFact": {
+      "feature": "米の旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "米の旨味",
+        "sourceUrl": "https://mori-shuzou.jp/nihonshu/hiran-%E3%81%AB%E3%81%93%E3%81%BE%E3%82%8B/",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-03",
+        "meaning": "対象商品はにこまるの旨味を生かすと記載。",
+        "tag": "米の旨味",
+        "url": "https://mori-shuzou.jp/nihonshu/hiran-%E3%81%AB%E3%81%93%E3%81%BE%E3%82%8B/",
+        "basis": "対象商品はにこまるの旨味を生かすと記載。",
+        "recheckStatus": "reconfirmed",
+        "recheckAttemptedAt": "2026-10-03"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "hiran-nigori",
+    "dishName": "焼き餃子",
+    "before": "米の旨味を、肉の旨味と焼き目の香ばしさと一緒に楽しむ提案です。",
+    "after": "焼き餃子の肉の旨味と焼き目の香ばしさに、米の旨味を合わせて楽しみます。",
+    "dishFlavor": "肉の旨味と焼き目の香ばしさ",
+    "dishMethod": "焼き物",
+    "sakeFact": {
+      "feature": "米の旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "米の旨味",
+        "sourceUrl": "https://mori-shuzou.jp/nihonshu/hiran-%E3%81%AB%E3%81%93%E3%81%BE%E3%82%8B/",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-03",
+        "meaning": "対象商品はにこまるの旨味を生かすと記載。",
+        "tag": "米の旨味",
+        "url": "https://mori-shuzou.jp/nihonshu/hiran-%E3%81%AB%E3%81%93%E3%81%BE%E3%82%8B/",
+        "basis": "対象商品はにこまるの旨味を生かすと記載。",
+        "recheckStatus": "reconfirmed",
+        "recheckAttemptedAt": "2026-10-03"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "asahibaki-iaxjez",
+    "dishName": "鶏の唐揚げ",
+    "before": "米の旨味を、鶏肉の旨味と衣の香ばしさと一緒に楽しむ提案です。",
+    "after": "鶏の唐揚げは、鶏肉の旨味と衣の香ばしさを楽しむひと皿。米の旨味を重ねて味わいます。",
+    "dishFlavor": "鶏肉の旨味と衣の香ばしさ",
+    "dishMethod": "揚げ物",
+    "sakeFact": {
+      "feature": "米の旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "米の旨味",
+        "sourceUrl": "https://www.asabiraki-net.jp/item/206/",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-03",
+        "meaning": "L54の味わい説明",
+        "productScope": "product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "asahibaki-iaxjez",
+    "dishName": "焼き餃子",
+    "before": "米の旨味を、肉の旨味と焼き目の香ばしさと一緒に楽しむ提案です。",
+    "after": "焼き餃子の肉の旨味と焼き目の香ばしさに、米の旨味を合わせて楽しみます。",
+    "dishFlavor": "肉の旨味と焼き目の香ばしさ",
+    "dishMethod": "焼き物",
+    "sakeFact": {
+      "feature": "米の旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "米の旨味",
+        "sourceUrl": "https://www.asabiraki-net.jp/item/206/",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-03",
+        "meaning": "L54の味わい説明",
+        "productScope": "product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "tsuki-no-wa-iaxjez",
+    "dishName": "鶏の唐揚げ",
+    "before": "旨味を、鶏肉の旨味と衣の香ばしさと一緒に楽しむ提案です。",
+    "after": "鶏の唐揚げは、鶏肉の旨味と衣の香ばしさを楽しむひと皿。お酒の旨味を重ねて味わいます。",
+    "dishFlavor": "鶏肉の旨味と衣の香ばしさ",
+    "dishMethod": "揚げ物",
+    "sakeFact": {
+      "feature": "旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "旨味",
+        "sourceUrl": "https://www.tsukinowa-iwate.com/wakasaya/detail9.html",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-03",
+        "meaning": "L10",
+        "productScope": "product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "tsuki-no-wa-iaxjez",
+    "dishName": "焼き餃子",
+    "before": "旨味を、肉の旨味と焼き目の香ばしさと一緒に楽しむ提案です。",
+    "after": "焼き餃子の肉の旨味と焼き目の香ばしさに、お酒の旨味を合わせて楽しみます。",
+    "dishFlavor": "肉の旨味と焼き目の香ばしさ",
+    "dishMethod": "焼き物",
+    "sakeFact": {
+      "feature": "旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "旨味",
+        "sourceUrl": "https://www.tsukinowa-iwate.com/wakasaya/detail9.html",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-03",
+        "meaning": "L10",
+        "productScope": "product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "urakasumi-i3yhce",
+    "dishName": "鶏の唐揚げ",
+    "before": "米の旨味を、鶏肉の旨味と衣の香ばしさと一緒に楽しむ提案です。",
+    "after": "鶏の唐揚げは、鶏肉の旨味と衣の香ばしさを楽しむひと皿。米の旨味を重ねて味わいます。",
+    "dishFlavor": "鶏肉の旨味と衣の香ばしさ",
+    "dishMethod": "揚げ物",
+    "sakeFact": {
+      "feature": "米の旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "米の旨味",
+        "sourceUrl": "https://www.urakasumi.com/items/junmai/",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-03",
+        "meaning": "商品説明に米の旨味を記載。",
+        "tag": "米の旨味",
+        "url": "https://www.urakasumi.com/items/junmai/",
+        "basis": "商品説明に米の旨味を記載。",
+        "recheckStatus": "reconfirmed",
+        "recheckAttemptedAt": "2026-10-03"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "urakasumi-i3yhce",
+    "dishName": "焼き餃子",
+    "before": "米の旨味を、肉の旨味と焼き目の香ばしさと一緒に楽しむ提案です。",
+    "after": "焼き餃子の肉の旨味と焼き目の香ばしさに、米の旨味を合わせて楽しみます。",
+    "dishFlavor": "肉の旨味と焼き目の香ばしさ",
+    "dishMethod": "焼き物",
+    "sakeFact": {
+      "feature": "米の旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "米の旨味",
+        "sourceUrl": "https://www.urakasumi.com/items/junmai/",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-03",
+        "meaning": "商品説明に米の旨味を記載。",
+        "tag": "米の旨味",
+        "url": "https://www.urakasumi.com/items/junmai/",
+        "basis": "商品説明に米の旨味を記載。",
+        "recheckStatus": "reconfirmed",
+        "recheckAttemptedAt": "2026-10-03"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "suminoe-i3yhce",
+    "dishName": "鶏の唐揚げ",
+    "before": "米の旨味を、鶏肉の旨味と衣の香ばしさと一緒に楽しむ提案です。",
+    "after": "鶏の唐揚げは、鶏肉の旨味と衣の香ばしさを楽しむひと皿。米の旨味を重ねて味わいます。",
+    "dishFlavor": "鶏肉の旨味と衣の香ばしさ",
+    "dishMethod": "揚げ物",
+    "sakeFact": {
+      "feature": "米の旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "米の旨味",
+        "sourceUrl": "https://www.hasegawasaketen.com/eshop/products/detail/1959",
+        "sourceType": "specialistRetailer",
+        "verifiedAt": "2026-10-03",
+        "meaning": "個別商品L172",
+        "productScope": "product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "suminoe-i3yhce",
+    "dishName": "焼き餃子",
+    "before": "米の旨味を、肉の旨味と焼き目の香ばしさと一緒に楽しむ提案です。",
+    "after": "焼き餃子の肉の旨味と焼き目の香ばしさに、米の旨味を合わせて楽しみます。",
+    "dishFlavor": "肉の旨味と焼き目の香ばしさ",
+    "dishMethod": "焼き物",
+    "sakeFact": {
+      "feature": "米の旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "米の旨味",
+        "sourceUrl": "https://www.hasegawasaketen.com/eshop/products/detail/1959",
+        "sourceType": "specialistRetailer",
+        "verifiedAt": "2026-10-03",
+        "meaning": "個別商品L172",
+        "productScope": "product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "mansaku-no-hana-o23n5c",
+    "dishName": "鶏の唐揚げ",
+    "before": "米の旨味を、鶏肉の旨味と衣の香ばしさと一緒に楽しむ提案です。",
+    "after": "鶏の唐揚げは、鶏肉の旨味と衣の香ばしさを楽しむひと皿。米の旨味を重ねて味わいます。",
+    "dishFlavor": "鶏肉の旨味と衣の香ばしさ",
+    "dishMethod": "揚げ物",
+    "sakeFact": {
+      "feature": "米の旨味",
+      "kind": "officialFlavorField",
+      "evidence": {
+        "field": "flavorProfile.umami",
+        "value": "米の旨味",
+        "sourceUrl": "https://hinomaru-sake.com/item/junmaiginjo-mansaku",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-03",
+        "meaning": "L45",
+        "productScope": "product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "mansaku-no-hana-o23n5c",
+    "dishName": "焼き餃子",
+    "before": "米の旨味を、肉の旨味と焼き目の香ばしさと一緒に楽しむ提案です。",
+    "after": "焼き餃子の肉の旨味と焼き目の香ばしさに、米の旨味を合わせて楽しみます。",
+    "dishFlavor": "肉の旨味と焼き目の香ばしさ",
+    "dishMethod": "焼き物",
+    "sakeFact": {
+      "feature": "米の旨味",
+      "kind": "officialFlavorField",
+      "evidence": {
+        "field": "flavorProfile.umami",
+        "value": "米の旨味",
+        "sourceUrl": "https://hinomaru-sake.com/item/junmaiginjo-mansaku",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-03",
+        "meaning": "L45",
+        "productScope": "product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "yamagata-masamune-i9diua",
+    "dishName": "鶏の唐揚げ",
+    "before": "豊かな旨味を、鶏肉の旨味と衣の香ばしさと一緒に楽しむ提案です。",
+    "after": "鶏の唐揚げは、鶏肉の旨味と衣の香ばしさを楽しむひと皿。お酒の豊かな旨味を重ねて味わいます。",
+    "dishFlavor": "鶏肉の旨味と衣の香ばしさ",
+    "dishMethod": "揚げ物",
+    "sakeFact": {
+      "feature": "豊かな旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "豊かな旨味",
+        "sourceUrl": "https://yamagata-masamune.jp/item-detail/1113660",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-03",
+        "meaning": "個別商品L59",
+        "productScope": "product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "yamagata-masamune-i9diua",
+    "dishName": "焼き餃子",
+    "before": "豊かな旨味を、肉の旨味と焼き目の香ばしさと一緒に楽しむ提案です。",
+    "after": "焼き餃子の肉の旨味と焼き目の香ばしさに、お酒の豊かな旨味を合わせて楽しみます。",
+    "dishFlavor": "肉の旨味と焼き目の香ばしさ",
+    "dishMethod": "焼き物",
+    "sakeFact": {
+      "feature": "豊かな旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "豊かな旨味",
+        "sourceUrl": "https://yamagata-masamune.jp/item-detail/1113660",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-03",
+        "meaning": "個別商品L59",
+        "productScope": "product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "daina-kjnkdk",
+    "dishName": "鶏の唐揚げ",
+    "before": "穏やかな旨みを、鶏肉の旨味と衣の香ばしさと一緒に楽しむ提案です。",
+    "after": "鶏の唐揚げは、鶏肉の旨味と衣の香ばしさを楽しむひと皿。お酒の穏やかな旨みを重ねて味わいます。",
+    "dishFlavor": "鶏肉の旨味と衣の香ばしさ",
+    "dishMethod": "揚げ物",
+    "sakeFact": {
+      "feature": "穏やかな旨み",
+      "kind": "officialFlavorField",
+      "evidence": {
+        "field": "flavorProfile.umami",
+        "value": "穏やかな旨み",
+        "sourceUrl": "https://kikunosato-sake.com/product/",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-03",
+        "meaning": "対象商品の旨味の本文: \"穏やかな旨み\"。位置: 大那 特別純米 生酛造り L153–163",
+        "productScope": "product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "daina-kjnkdk",
+    "dishName": "焼き餃子",
+    "before": "穏やかな旨みを、肉の旨味と焼き目の香ばしさと一緒に楽しむ提案です。",
+    "after": "焼き餃子の肉の旨味と焼き目の香ばしさに、お酒の穏やかな旨みを合わせて楽しみます。",
+    "dishFlavor": "肉の旨味と焼き目の香ばしさ",
+    "dishMethod": "焼き物",
+    "sakeFact": {
+      "feature": "穏やかな旨み",
+      "kind": "officialFlavorField",
+      "evidence": {
+        "field": "flavorProfile.umami",
+        "value": "穏やかな旨み",
+        "sourceUrl": "https://kikunosato-sake.com/product/",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-03",
+        "meaning": "対象商品の旨味の本文: \"穏やかな旨み\"。位置: 大那 特別純米 生酛造り L153–163",
+        "productScope": "product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "mizubasho-p7oucs",
+    "dishName": "きゅうりの浅漬け",
+    "before": "今夜はきゅうりの浅漬けと一緒に。食事とともに楽しめる一杯です。",
+    "after": "野菜の軽い塩味を楽しむきゅうりの浅漬けに、米の旨味を合わせます。",
+    "dishFlavor": "野菜の軽い塩味",
+    "dishMethod": "漬物",
+    "sakeFact": {
+      "feature": "米の旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "米の旨味",
+        "sourceUrl": "https://www.mizubasho.jp/item_category/fullyear/",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-03",
+        "meaning": "純米吟醸の項目で山田錦の旨味を説明。",
+        "tag": "米の旨味",
+        "url": "https://www.mizubasho.jp/item_category/fullyear/",
+        "basis": "純米吟醸の項目で山田錦の旨味を説明。",
+        "recheckStatus": "reconfirmed",
+        "recheckAttemptedAt": "2026-10-03"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "mizubasho-p7oucs",
+    "dishName": "鶏の唐揚げ",
+    "before": "米の旨味を、鶏肉の旨味と衣の香ばしさと一緒に楽しむ提案です。",
+    "after": "鶏の唐揚げは、鶏肉の旨味と衣の香ばしさを楽しむひと皿。米の旨味を重ねて味わいます。",
+    "dishFlavor": "鶏肉の旨味と衣の香ばしさ",
+    "dishMethod": "揚げ物",
+    "sakeFact": {
+      "feature": "米の旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "米の旨味",
+        "sourceUrl": "https://www.mizubasho.jp/item_category/fullyear/",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-03",
+        "meaning": "純米吟醸の項目で山田錦の旨味を説明。",
+        "tag": "米の旨味",
+        "url": "https://www.mizubasho.jp/item_category/fullyear/",
+        "basis": "純米吟醸の項目で山田錦の旨味を説明。",
+        "recheckStatus": "reconfirmed",
+        "recheckAttemptedAt": "2026-10-03"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "mizubasho-p7oucs",
+    "dishName": "枝豆",
+    "before": "今夜は枝豆と一緒に。食事とともに楽しめる一杯です。",
+    "after": "豆の甘みと塩気を楽しむ枝豆に、米の旨味を合わせます。",
+    "dishFlavor": "豆の甘みと塩気",
+    "dishMethod": "茹で物",
+    "sakeFact": {
+      "feature": "米の旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "米の旨味",
+        "sourceUrl": "https://www.mizubasho.jp/item_category/fullyear/",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-03",
+        "meaning": "純米吟醸の項目で山田錦の旨味を説明。",
+        "tag": "米の旨味",
+        "url": "https://www.mizubasho.jp/item_category/fullyear/",
+        "basis": "純米吟醸の項目で山田錦の旨味を説明。",
+        "recheckStatus": "reconfirmed",
+        "recheckAttemptedAt": "2026-10-03"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "mizubasho-p7oucs",
+    "dishName": "焼き餃子",
+    "before": "米の旨味を、肉の旨味と焼き目の香ばしさと一緒に楽しむ提案です。",
+    "after": "焼き餃子の肉の旨味と焼き目の香ばしさに、米の旨味を合わせて楽しみます。",
+    "dishFlavor": "肉の旨味と焼き目の香ばしさ",
+    "dishMethod": "焼き物",
+    "sakeFact": {
+      "feature": "米の旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "米の旨味",
+        "sourceUrl": "https://www.mizubasho.jp/item_category/fullyear/",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-03",
+        "meaning": "純米吟醸の項目で山田錦の旨味を説明。",
+        "tag": "米の旨味",
+        "url": "https://www.mizubasho.jp/item_category/fullyear/",
+        "basis": "純米吟醸の項目で山田錦の旨味を説明。",
+        "recheckStatus": "reconfirmed",
+        "recheckAttemptedAt": "2026-10-03"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "mizubasho-p7oucs",
+    "dishName": "湯豆腐",
+    "before": "湯豆腐と一緒に、晩ごはんの一杯を。",
+    "after": "湯豆腐は、豆腐とだしの穏やかな味を楽しむひと皿。米の旨味を重ねて味わいます。",
+    "dishFlavor": "豆腐とだしの穏やかな味",
+    "dishMethod": "鍋物",
+    "sakeFact": {
+      "feature": "米の旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "米の旨味",
+        "sourceUrl": "https://www.mizubasho.jp/item_category/fullyear/",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-03",
+        "meaning": "純米吟醸の項目で山田錦の旨味を説明。",
+        "tag": "米の旨味",
+        "url": "https://www.mizubasho.jp/item_category/fullyear/",
+        "basis": "純米吟醸の項目で山田錦の旨味を説明。",
+        "recheckStatus": "reconfirmed",
+        "recheckAttemptedAt": "2026-10-03"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "tanigawadake-p7oucs",
+    "dishName": "鶏の唐揚げ",
+    "before": "米の旨味を、鶏肉の旨味と衣の香ばしさと一緒に楽しむ提案です。",
+    "after": "鶏の唐揚げは、鶏肉の旨味と衣の香ばしさを楽しむひと皿。米の旨味を重ねて味わいます。",
+    "dishFlavor": "鶏肉の旨味と衣の香ばしさ",
+    "dishMethod": "揚げ物",
+    "sakeFact": {
+      "feature": "米の旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "米の旨味",
+        "sourceUrl": "https://www.tanigawadake.jp/item_category/fullyear/",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-03",
+        "meaning": "対象商品の米の旨味を紹介。",
+        "tag": "米の旨味",
+        "url": "https://www.tanigawadake.jp/item_category/fullyear/",
+        "basis": "対象商品の米の旨味を紹介。",
+        "recheckStatus": "reconfirmed",
+        "recheckAttemptedAt": "2026-10-03"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "tanigawadake-p7oucs",
+    "dishName": "焼き餃子",
+    "before": "米の旨味を、肉の旨味と焼き目の香ばしさと一緒に楽しむ提案です。",
+    "after": "焼き餃子の肉の旨味と焼き目の香ばしさに、米の旨味を合わせて楽しみます。",
+    "dishFlavor": "肉の旨味と焼き目の香ばしさ",
+    "dishMethod": "焼き物",
+    "sakeFact": {
+      "feature": "米の旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "米の旨味",
+        "sourceUrl": "https://www.tanigawadake.jp/item_category/fullyear/",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-03",
+        "meaning": "対象商品の米の旨味を紹介。",
+        "tag": "米の旨味",
+        "url": "https://www.tanigawadake.jp/item_category/fullyear/",
+        "basis": "対象商品の米の旨味を紹介。",
+        "recheckStatus": "reconfirmed",
+        "recheckAttemptedAt": "2026-10-03"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "kidoizumi-gg3q4p",
+    "dishName": "鶏の唐揚げ",
+    "before": "米の旨味を、鶏肉の旨味と衣の香ばしさと一緒に楽しむ提案です。",
+    "after": "鶏の唐揚げは、鶏肉の旨味と衣の香ばしさを楽しむひと皿。米の旨味を重ねて味わいます。",
+    "dishFlavor": "鶏肉の旨味と衣の香ばしさ",
+    "dishMethod": "揚げ物",
+    "sakeFact": {
+      "feature": "米の旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "米の旨味",
+        "sourceUrl": "https://www.kidoizumi.jp/products/junmai-daigo1800/",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-03",
+        "meaning": "山田錦の旨味を紹介。",
+        "tag": "米の旨味",
+        "url": "https://www.kidoizumi.jp/products/junmai-daigo1800/",
+        "basis": "山田錦の旨味を紹介。",
+        "recheckStatus": "reconfirmed",
+        "recheckAttemptedAt": "2026-10-03"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "kidoizumi-gg3q4p",
+    "dishName": "焼き餃子",
+    "before": "米の旨味を、肉の旨味と焼き目の香ばしさと一緒に楽しむ提案です。",
+    "after": "焼き餃子の肉の旨味と焼き目の香ばしさに、米の旨味を合わせて楽しみます。",
+    "dishFlavor": "肉の旨味と焼き目の香ばしさ",
+    "dishMethod": "焼き物",
+    "sakeFact": {
+      "feature": "米の旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "米の旨味",
+        "sourceUrl": "https://www.kidoizumi.jp/products/junmai-daigo1800/",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-03",
+        "meaning": "山田錦の旨味を紹介。",
+        "tag": "米の旨味",
+        "url": "https://www.kidoizumi.jp/products/junmai-daigo1800/",
+        "basis": "山田錦の旨味を紹介。",
+        "recheckStatus": "reconfirmed",
+        "recheckAttemptedAt": "2026-10-03"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "sawanoi-kflfjg",
+    "dishName": "鶏の唐揚げ",
+    "before": "コクを、鶏肉の旨味と衣の香ばしさと一緒に楽しむ提案です。",
+    "after": "鶏の唐揚げは、鶏肉の旨味と衣の香ばしさを楽しむひと皿。お酒の旨味を重ねて味わいます。",
+    "dishFlavor": "鶏肉の旨味と衣の香ばしさ",
+    "dishMethod": "揚げ物",
+    "sakeFact": {
+      "feature": "旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "旨味",
+        "sourceUrl": "https://www.sawanoi-sake.com/item/item-623/",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-03",
+        "meaning": "対象商品の旨味を明記。",
+        "tag": "旨味",
+        "url": "https://www.sawanoi-sake.com/item/item-623/",
+        "basis": "対象商品の旨味を明記。",
+        "recheckStatus": "reconfirmed",
+        "recheckAttemptedAt": "2026-10-03"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "sawanoi-kflfjg",
+    "dishName": "焼き餃子",
+    "before": "コクを、肉の旨味と焼き目の香ばしさと一緒に楽しむ提案です。",
+    "after": "焼き餃子の肉の旨味と焼き目の香ばしさに、お酒の旨味を合わせて楽しみます。",
+    "dishFlavor": "肉の旨味と焼き目の香ばしさ",
+    "dishMethod": "焼き物",
+    "sakeFact": {
+      "feature": "旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "旨味",
+        "sourceUrl": "https://www.sawanoi-sake.com/item/item-623/",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-03",
+        "meaning": "対象商品の旨味を明記。",
+        "tag": "旨味",
+        "url": "https://www.sawanoi-sake.com/item/item-623/",
+        "basis": "対象商品の旨味を明記。",
+        "recheckStatus": "reconfirmed",
+        "recheckAttemptedAt": "2026-10-03"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "kasen-kflfjg",
+    "dishName": "鶏の唐揚げ",
+    "before": "旨味を、鶏肉の旨味と衣の香ばしさと一緒に楽しむ提案です。",
+    "after": "鶏の唐揚げは、鶏肉の旨味と衣の香ばしさを楽しむひと皿。お酒の旨味を重ねて味わいます。",
+    "dishFlavor": "鶏肉の旨味と衣の香ばしさ",
+    "dishMethod": "揚げ物",
+    "sakeFact": {
+      "feature": "旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "旨味",
+        "sourceUrl": "https://www.tamurashuzojo.com/product/detail/E00114103",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-04",
+        "meaning": "原本script[type=text/x-template]#product-detail-form内アイテム紹介。動的差込みではない静的本文",
+        "productScope": "product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "kasen-kflfjg",
+    "dishName": "焼き餃子",
+    "before": "旨味を、肉の旨味と焼き目の香ばしさと一緒に楽しむ提案です。",
+    "after": "焼き餃子の肉の旨味と焼き目の香ばしさに、お酒の旨味を合わせて楽しみます。",
+    "dishFlavor": "肉の旨味と焼き目の香ばしさ",
+    "dishMethod": "焼き物",
+    "sakeFact": {
+      "feature": "旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "旨味",
+        "sourceUrl": "https://www.tamurashuzojo.com/product/detail/E00114103",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-04",
+        "meaning": "原本script[type=text/x-template]#product-detail-form内アイテム紹介。動的差込みではない静的本文",
+        "productScope": "product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "tanzawasan-nz2hmwijh",
+    "dishName": "きゅうりの浅漬け",
+    "before": "野菜の軽い塩味と、酒の味わいを一緒に楽しむ提案です。",
+    "after": "野菜の軽い塩味を楽しむきゅうりの浅漬けに、お酒の優しい旨味を合わせます。",
+    "dishFlavor": "野菜の軽い塩味",
+    "dishMethod": "漬物",
+    "sakeFact": {
+      "feature": "優しい旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "優しい旨味",
+        "sourceUrl": "https://kawanishiya.stores.jp/items/5f3a3dc5afaa9d4b2da3f22e",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L35",
+        "productScope": "product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "tanzawasan-nz2hmwijh",
+    "dishName": "鶏の唐揚げ",
+    "before": "優しい旨味を、鶏肉の旨味と衣の香ばしさと一緒に楽しむ提案です。",
+    "after": "鶏の唐揚げは、鶏肉の旨味と衣の香ばしさを楽しむひと皿。お酒の優しい旨味を重ねて味わいます。",
+    "dishFlavor": "鶏肉の旨味と衣の香ばしさ",
+    "dishMethod": "揚げ物",
+    "sakeFact": {
+      "feature": "優しい旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "優しい旨味",
+        "sourceUrl": "https://kawanishiya.stores.jp/items/5f3a3dc5afaa9d4b2da3f22e",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L35",
+        "productScope": "product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "tanzawasan-nz2hmwijh",
+    "dishName": "枝豆",
+    "before": "豆の甘みと塩気と、酒の味わいを一緒に楽しむ提案です。",
+    "after": "豆の甘みと塩気を楽しむ枝豆に、お酒の優しい旨味を合わせます。",
+    "dishFlavor": "豆の甘みと塩気",
+    "dishMethod": "茹で物",
+    "sakeFact": {
+      "feature": "優しい旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "優しい旨味",
+        "sourceUrl": "https://kawanishiya.stores.jp/items/5f3a3dc5afaa9d4b2da3f22e",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L35",
+        "productScope": "product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "tanzawasan-nz2hmwijh",
+    "dishName": "焼き餃子",
+    "before": "優しい旨味を、肉の旨味と焼き目の香ばしさと一緒に楽しむ提案です。",
+    "after": "焼き餃子の肉の旨味と焼き目の香ばしさに、お酒の優しい旨味を合わせて楽しみます。",
+    "dishFlavor": "肉の旨味と焼き目の香ばしさ",
+    "dishMethod": "焼き物",
+    "sakeFact": {
+      "feature": "優しい旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "優しい旨味",
+        "sourceUrl": "https://kawanishiya.stores.jp/items/5f3a3dc5afaa9d4b2da3f22e",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L35",
+        "productScope": "product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "tanzawasan-nz2hmwijh",
+    "dishName": "湯豆腐",
+    "before": "豆腐とだしの穏やかな味と、酒の味わいを一緒に楽しむ提案です。",
+    "after": "湯豆腐は、豆腐とだしの穏やかな味を楽しむひと皿。お酒の優しい旨味を重ねて味わいます。",
+    "dishFlavor": "豆腐とだしの穏やかな味",
+    "dishMethod": "鍋物",
+    "sakeFact": {
+      "feature": "優しい旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "優しい旨味",
+        "sourceUrl": "https://kawanishiya.stores.jp/items/5f3a3dc5afaa9d4b2da3f22e",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L35",
+        "productScope": "product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "tateyama-i4si9d",
+    "dishName": "鶏の唐揚げ",
+    "before": "豊かな旨味を、鶏肉の旨味と衣の香ばしさと一緒に楽しむ提案です。",
+    "after": "鶏の唐揚げは、鶏肉の旨味と衣の香ばしさを楽しむひと皿。お酒の豊かな旨味を重ねて味わいます。",
+    "dishFlavor": "鶏肉の旨味と衣の香ばしさ",
+    "dishMethod": "揚げ物",
+    "sakeFact": {
+      "feature": "豊かな旨味",
+      "kind": "officialFlavorField",
+      "evidence": {
+        "field": "flavorProfile.umami",
+        "value": "豊かな旨味",
+        "sourceUrl": "https://www.sake-tateyama.com/product_category/tateyama720-jyung/",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-03",
+        "meaning": "当該商品本文の旨味表現",
+        "productScope": "product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "tateyama-i4si9d",
+    "dishName": "焼き餃子",
+    "before": "豊かな旨味を、肉の旨味と焼き目の香ばしさと一緒に楽しむ提案です。",
+    "after": "焼き餃子の肉の旨味と焼き目の香ばしさに、お酒の豊かな旨味を合わせて楽しみます。",
+    "dishFlavor": "肉の旨味と焼き目の香ばしさ",
+    "dishMethod": "焼き物",
+    "sakeFact": {
+      "feature": "豊かな旨味",
+      "kind": "officialFlavorField",
+      "evidence": {
+        "field": "flavorProfile.umami",
+        "value": "豊かな旨味",
+        "sourceUrl": "https://www.sake-tateyama.com/product_category/tateyama720-jyung/",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-03",
+        "meaning": "当該商品本文の旨味表現",
+        "productScope": "product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "kagatobi-nozijh",
+    "dishName": "鶏の唐揚げ",
+    "before": "米の旨味を、鶏肉の旨味と衣の香ばしさと一緒に楽しむ提案です。",
+    "after": "鶏の唐揚げは、鶏肉の旨味と衣の香ばしさを楽しむひと皿。米の旨味を重ねて味わいます。",
+    "dishFlavor": "鶏肉の旨味と衣の香ばしさ",
+    "dishMethod": "揚げ物",
+    "sakeFact": {
+      "feature": "米の旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "米の旨味",
+        "sourceUrl": "https://www.fukumitsuya.co.jp/sake/kagatobi/",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-03",
+        "meaning": "通常品L262",
+        "productScope": "product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "kagatobi-nozijh",
+    "dishName": "焼き餃子",
+    "before": "米の旨味を、肉の旨味と焼き目の香ばしさと一緒に楽しむ提案です。",
+    "after": "焼き餃子の肉の旨味と焼き目の香ばしさに、米の旨味を合わせて楽しみます。",
+    "dishFlavor": "肉の旨味と焼き目の香ばしさ",
+    "dishMethod": "焼き物",
+    "sakeFact": {
+      "feature": "米の旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "米の旨味",
+        "sourceUrl": "https://www.fukumitsuya.co.jp/sake/kagatobi/",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-03",
+        "meaning": "通常品L262",
+        "productScope": "product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "shichiken-i9dko8",
+    "dishName": "鶏の唐揚げ",
+    "before": "米の旨味を、鶏肉の旨味と衣の香ばしさと一緒に楽しむ提案です。",
+    "after": "鶏の唐揚げは、鶏肉の旨味と衣の香ばしさを楽しむひと皿。米の旨味を重ねて味わいます。",
+    "dishFlavor": "鶏肉の旨味と衣の香ばしさ",
+    "dishMethod": "揚げ物",
+    "sakeFact": {
+      "feature": "米の旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "米の旨味",
+        "sourceUrl": "https://www.sake-shichiken.co.jp/products/syousyu",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-03",
+        "meaning": "対象商品の米本来の旨味を紹介。",
+        "tag": "米の旨味",
+        "url": "https://www.sake-shichiken.co.jp/products/syousyu",
+        "basis": "対象商品の米本来の旨味を紹介。",
+        "recheckStatus": "reconfirmed",
+        "recheckAttemptedAt": "2026-10-03"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "shichiken-i9dko8",
+    "dishName": "焼き餃子",
+    "before": "米の旨味を、肉の旨味と焼き目の香ばしさと一緒に楽しむ提案です。",
+    "after": "焼き餃子の肉の旨味と焼き目の香ばしさに、米の旨味を合わせて楽しみます。",
+    "dishFlavor": "肉の旨味と焼き目の香ばしさ",
+    "dishMethod": "焼き物",
+    "sakeFact": {
+      "feature": "米の旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "米の旨味",
+        "sourceUrl": "https://www.sake-shichiken.co.jp/products/syousyu",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-03",
+        "meaning": "対象商品の米本来の旨味を紹介。",
+        "tag": "米の旨味",
+        "url": "https://www.sake-shichiken.co.jp/products/syousyu",
+        "basis": "対象商品の米本来の旨味を紹介。",
+        "recheckStatus": "reconfirmed",
+        "recheckAttemptedAt": "2026-10-03"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "tenkanishiki-fexsst",
+    "dishName": "鶏の唐揚げ",
+    "before": "旨味を、鶏肉の旨味と衣の香ばしさと一緒に楽しむ提案です。",
+    "after": "鶏の唐揚げは、鶏肉の旨味と衣の香ばしさを楽しむひと皿。お酒の旨味を重ねて味わいます。",
+    "dishFlavor": "鶏肉の旨味と衣の香ばしさ",
+    "dishMethod": "揚げ物",
+    "sakeFact": {
+      "feature": "旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "旨味",
+        "sourceUrl": "https://jizake-mie.jp/SHOP/tenka-jungin-720.html",
+        "sourceType": "specialistRetailer",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L78",
+        "productScope": "product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "tenkanishiki-fexsst",
+    "dishName": "焼き餃子",
+    "before": "旨味を、肉の旨味と焼き目の香ばしさと一緒に楽しむ提案です。",
+    "after": "焼き餃子の肉の旨味と焼き目の香ばしさに、お酒の旨味を合わせて楽しみます。",
+    "dishFlavor": "肉の旨味と焼き目の香ばしさ",
+    "dishMethod": "焼き物",
+    "sakeFact": {
+      "feature": "旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "旨味",
+        "sourceUrl": "https://jizake-mie.jp/SHOP/tenka-jungin-720.html",
+        "sourceType": "specialistRetailer",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L78",
+        "productScope": "product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "kiku-masamune-g39ip7",
+    "dishName": "鶏の唐揚げ",
+    "before": "旨味を、鶏肉の旨味と衣の香ばしさと一緒に楽しむ提案です。",
+    "after": "鶏の唐揚げは、鶏肉の旨味と衣の香ばしさを楽しむひと皿。お酒の旨味を重ねて味わいます。",
+    "dishFlavor": "鶏肉の旨味と衣の香ばしさ",
+    "dishMethod": "揚げ物",
+    "sakeFact": {
+      "feature": "旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "旨味",
+        "sourceUrl": "https://www.kikumasamune.co.jp/products/taru/334_juntaru_1_8.html",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-03",
+        "meaning": "純米酒らしい余韻のあるうまみを説明。",
+        "tag": "旨味",
+        "url": "https://www.kikumasamune.co.jp/products/taru/334_juntaru_1_8.html",
+        "basis": "純米酒らしい余韻のあるうまみを説明。",
+        "recheckStatus": "reconfirmed",
+        "recheckAttemptedAt": "2026-10-03"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "kiku-masamune-g39ip7",
+    "dishName": "焼き餃子",
+    "before": "旨味を、肉の旨味と焼き目の香ばしさと一緒に楽しむ提案です。",
+    "after": "焼き餃子の肉の旨味と焼き目の香ばしさに、お酒の旨味を合わせて楽しみます。",
+    "dishFlavor": "肉の旨味と焼き目の香ばしさ",
+    "dishMethod": "焼き物",
+    "sakeFact": {
+      "feature": "旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "旨味",
+        "sourceUrl": "https://www.kikumasamune.co.jp/products/taru/334_juntaru_1_8.html",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-03",
+        "meaning": "純米酒らしい余韻のあるうまみを説明。",
+        "tag": "旨味",
+        "url": "https://www.kikumasamune.co.jp/products/taru/334_juntaru_1_8.html",
+        "basis": "純米酒らしい余韻のあるうまみを説明。",
+        "recheckStatus": "reconfirmed",
+        "recheckAttemptedAt": "2026-10-03"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "kuroushi-gp8l70i9d",
+    "dishName": "きゅうりの浅漬け",
+    "before": "今夜はきゅうりの浅漬けと一緒に。食事とともに楽しめる一杯です。",
+    "after": "野菜の軽い塩味を楽しむきゅうりの浅漬けに、米の旨味を合わせます。",
+    "dishFlavor": "野菜の軽い塩味",
+    "dishMethod": "漬物",
+    "sakeFact": {
+      "feature": "米の旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "米の旨味",
+        "sourceUrl": "https://kuroushi.co.jp/products/kuroushi",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-03",
+        "meaning": "通常純米酒黒牛の項目に米の旨味を引き出した味と記載。",
+        "tag": "米の旨味",
+        "url": "https://kuroushi.co.jp/products/kuroushi",
+        "basis": "通常純米酒黒牛の項目に米の旨味を引き出した味と記載。",
+        "recheckStatus": "reconfirmed",
+        "recheckAttemptedAt": "2026-10-03"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "kuroushi-gp8l70i9d",
+    "dishName": "鶏の唐揚げ",
+    "before": "米の旨味を、鶏肉の旨味と衣の香ばしさと一緒に楽しむ提案です。",
+    "after": "鶏の唐揚げは、鶏肉の旨味と衣の香ばしさを楽しむひと皿。米の旨味を重ねて味わいます。",
+    "dishFlavor": "鶏肉の旨味と衣の香ばしさ",
+    "dishMethod": "揚げ物",
+    "sakeFact": {
+      "feature": "米の旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "米の旨味",
+        "sourceUrl": "https://kuroushi.co.jp/products/kuroushi",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-03",
+        "meaning": "通常純米酒黒牛の項目に米の旨味を引き出した味と記載。",
+        "tag": "米の旨味",
+        "url": "https://kuroushi.co.jp/products/kuroushi",
+        "basis": "通常純米酒黒牛の項目に米の旨味を引き出した味と記載。",
+        "recheckStatus": "reconfirmed",
+        "recheckAttemptedAt": "2026-10-03"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "kuroushi-gp8l70i9d",
+    "dishName": "枝豆",
+    "before": "今夜は枝豆と一緒に。食事とともに楽しめる一杯です。",
+    "after": "豆の甘みと塩気を楽しむ枝豆に、米の旨味を合わせます。",
+    "dishFlavor": "豆の甘みと塩気",
+    "dishMethod": "茹で物",
+    "sakeFact": {
+      "feature": "米の旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "米の旨味",
+        "sourceUrl": "https://kuroushi.co.jp/products/kuroushi",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-03",
+        "meaning": "通常純米酒黒牛の項目に米の旨味を引き出した味と記載。",
+        "tag": "米の旨味",
+        "url": "https://kuroushi.co.jp/products/kuroushi",
+        "basis": "通常純米酒黒牛の項目に米の旨味を引き出した味と記載。",
+        "recheckStatus": "reconfirmed",
+        "recheckAttemptedAt": "2026-10-03"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "kuroushi-gp8l70i9d",
+    "dishName": "焼き餃子",
+    "before": "米の旨味を、肉の旨味と焼き目の香ばしさと一緒に楽しむ提案です。",
+    "after": "焼き餃子の肉の旨味と焼き目の香ばしさに、米の旨味を合わせて楽しみます。",
+    "dishFlavor": "肉の旨味と焼き目の香ばしさ",
+    "dishMethod": "焼き物",
+    "sakeFact": {
+      "feature": "米の旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "米の旨味",
+        "sourceUrl": "https://kuroushi.co.jp/products/kuroushi",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-03",
+        "meaning": "通常純米酒黒牛の項目に米の旨味を引き出した味と記載。",
+        "tag": "米の旨味",
+        "url": "https://kuroushi.co.jp/products/kuroushi",
+        "basis": "通常純米酒黒牛の項目に米の旨味を引き出した味と記載。",
+        "recheckStatus": "reconfirmed",
+        "recheckAttemptedAt": "2026-10-03"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "kuroushi-gp8l70i9d",
+    "dishName": "湯豆腐",
+    "before": "今夜は湯豆腐と一緒に。食事とともに楽しめる一杯です。",
+    "after": "湯豆腐は、豆腐とだしの穏やかな味を楽しむひと皿。米の旨味を重ねて味わいます。",
+    "dishFlavor": "豆腐とだしの穏やかな味",
+    "dishMethod": "鍋物",
+    "sakeFact": {
+      "feature": "米の旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "米の旨味",
+        "sourceUrl": "https://kuroushi.co.jp/products/kuroushi",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-03",
+        "meaning": "通常純米酒黒牛の項目に米の旨味を引き出した味と記載。",
+        "tag": "米の旨味",
+        "url": "https://kuroushi.co.jp/products/kuroushi",
+        "basis": "通常純米酒黒牛の項目に米の旨味を引き出した味と記載。",
+        "recheckStatus": "reconfirmed",
+        "recheckAttemptedAt": "2026-10-03"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "fukucho-io3id2",
+    "dishName": "鶏の唐揚げ",
+    "before": "旨味を、鶏肉の旨味と衣の香ばしさと一緒に楽しむ提案です。",
+    "after": "鶏の唐揚げは、鶏肉の旨味と衣の香ばしさを楽しむひと皿。お酒の旨味を重ねて味わいます。",
+    "dishFlavor": "鶏肉の旨味と衣の香ばしさ",
+    "dishMethod": "揚げ物",
+    "sakeFact": {
+      "feature": "旨味",
+      "kind": "officialFlavorField",
+      "evidence": {
+        "field": "flavorProfile.umami",
+        "value": "旨味",
+        "sourceUrl": "https://fukucho.jp/collections/classics/products/hattanso-junmaiginjo",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-03",
+        "meaning": "L174",
+        "productScope": "product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "fukucho-io3id2",
+    "dishName": "焼き餃子",
+    "before": "旨味を、肉の旨味と焼き目の香ばしさと一緒に楽しむ提案です。",
+    "after": "焼き餃子の肉の旨味と焼き目の香ばしさに、お酒の旨味を合わせて楽しみます。",
+    "dishFlavor": "肉の旨味と焼き目の香ばしさ",
+    "dishMethod": "焼き物",
+    "sakeFact": {
+      "feature": "旨味",
+      "kind": "officialFlavorField",
+      "evidence": {
+        "field": "flavorProfile.umami",
+        "value": "旨味",
+        "sourceUrl": "https://fukucho.jp/collections/classics/products/hattanso-junmaiginjo",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-03",
+        "meaning": "L174",
+        "productScope": "product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "imakomachi-iwjid2",
+    "dishName": "鶏の唐揚げ",
+    "before": "優しい旨味を、鶏肉の旨味と衣の香ばしさと一緒に楽しむ提案です。",
+    "after": "鶏の唐揚げは、鶏肉の旨味と衣の香ばしさを楽しむひと皿。お酒の優しい旨味を重ねて味わいます。",
+    "dishFlavor": "鶏肉の旨味と衣の香ばしさ",
+    "dishMethod": "揚げ物",
+    "sakeFact": {
+      "feature": "優しい旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "優しい旨味",
+        "sourceUrl": "https://www.imakomachi.com/product.php",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-03",
+        "meaning": "山笑の味わいに優しい旨みを説明",
+        "productScope": "product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "imakomachi-iwjid2",
+    "dishName": "焼き餃子",
+    "before": "優しい旨味を、肉の旨味と焼き目の香ばしさと一緒に楽しむ提案です。",
+    "after": "焼き餃子の肉の旨味と焼き目の香ばしさに、お酒の優しい旨味を合わせて楽しみます。",
+    "dishFlavor": "肉の旨味と焼き目の香ばしさ",
+    "dishMethod": "焼き物",
+    "sakeFact": {
+      "feature": "優しい旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "優しい旨味",
+        "sourceUrl": "https://www.imakomachi.com/product.php",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-03",
+        "meaning": "山笑の味わいに優しい旨みを説明",
+        "productScope": "product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "kyohina-j6jhwb",
+    "dishName": "きゅうりの浅漬け",
+    "before": "今夜はきゅうりの浅漬けと一緒に。食事とともに楽しめる一杯です。",
+    "after": "野菜の軽い塩味を楽しむきゅうりの浅漬けに、米の旨味を合わせます。",
+    "dishFlavor": "野菜の軽い塩味",
+    "dishMethod": "漬物",
+    "sakeFact": {
+      "feature": "米の旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "米の旨味",
+        "sourceUrl": "https://shop.sakaroku-syuzo.co.jp/c-item-detail?ic=255000",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-03",
+        "meaning": "対象商品本文",
+        "productScope": "product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "kyohina-j6jhwb",
+    "dishName": "鶏の唐揚げ",
+    "before": "米の旨味を、鶏肉の旨味と衣の香ばしさと一緒に楽しむ提案です。",
+    "after": "鶏の唐揚げは、鶏肉の旨味と衣の香ばしさを楽しむひと皿。米の旨味を重ねて味わいます。",
+    "dishFlavor": "鶏肉の旨味と衣の香ばしさ",
+    "dishMethod": "揚げ物",
+    "sakeFact": {
+      "feature": "米の旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "米の旨味",
+        "sourceUrl": "https://shop.sakaroku-syuzo.co.jp/c-item-detail?ic=255000",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-03",
+        "meaning": "対象商品本文",
+        "productScope": "product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "kyohina-j6jhwb",
+    "dishName": "枝豆",
+    "before": "今夜は枝豆と一緒に。食事とともに楽しめる一杯です。",
+    "after": "豆の甘みと塩気を楽しむ枝豆に、米の旨味を合わせます。",
+    "dishFlavor": "豆の甘みと塩気",
+    "dishMethod": "茹で物",
+    "sakeFact": {
+      "feature": "米の旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "米の旨味",
+        "sourceUrl": "https://shop.sakaroku-syuzo.co.jp/c-item-detail?ic=255000",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-03",
+        "meaning": "対象商品本文",
+        "productScope": "product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "kyohina-j6jhwb",
+    "dishName": "焼き餃子",
+    "before": "米の旨味を、肉の旨味と焼き目の香ばしさと一緒に楽しむ提案です。",
+    "after": "焼き餃子の肉の旨味と焼き目の香ばしさに、米の旨味を合わせて楽しみます。",
+    "dishFlavor": "肉の旨味と焼き目の香ばしさ",
+    "dishMethod": "焼き物",
+    "sakeFact": {
+      "feature": "米の旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "米の旨味",
+        "sourceUrl": "https://shop.sakaroku-syuzo.co.jp/c-item-detail?ic=255000",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-03",
+        "meaning": "対象商品本文",
+        "productScope": "product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "kyohina-j6jhwb",
+    "dishName": "湯豆腐",
+    "before": "今夜は湯豆腐と一緒に。食事とともに楽しめる一杯です。",
+    "after": "湯豆腐は、豆腐とだしの穏やかな味を楽しむひと皿。米の旨味を重ねて味わいます。",
+    "dishFlavor": "豆腐とだしの穏やかな味",
+    "dishMethod": "鍋物",
+    "sakeFact": {
+      "feature": "米の旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "米の旨味",
+        "sourceUrl": "https://shop.sakaroku-syuzo.co.jp/c-item-detail?ic=255000",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-03",
+        "meaning": "対象商品本文",
+        "productScope": "product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "zuiyo-mfekdo",
+    "dishName": "鶏の唐揚げ",
+    "before": "鶏の唐揚げと一緒に、晩ごはんの一杯を。",
+    "after": "鶏の唐揚げは、鶏肉の旨味と衣の香ばしさを楽しむひと皿。お酒の旨味を重ねて味わいます。",
+    "dishFlavor": "鶏肉の旨味と衣の香ばしさ",
+    "dishMethod": "揚げ物",
+    "sakeFact": {
+      "feature": "旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "旨味",
+        "sourceUrl": "https://www.zuiyo.co.jp/products/nihonshu/38/",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-03",
+        "meaning": "個別商品L39",
+        "productScope": "product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "zuiyo-mfekdo",
+    "dishName": "焼き餃子",
+    "before": "焼き餃子と一緒に、晩ごはんの一杯を。",
+    "after": "焼き餃子の肉の旨味と焼き目の香ばしさに、お酒の旨味を合わせて楽しみます。",
+    "dishFlavor": "肉の旨味と焼き目の香ばしさ",
+    "dishMethod": "焼き物",
+    "sakeFact": {
+      "feature": "旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "旨味",
+        "sourceUrl": "https://www.zuiyo.co.jp/products/nihonshu/38/",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-03",
+        "meaning": "個別商品L39",
+        "productScope": "product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "nishinoseki-hlzg7a",
+    "dishName": "鶏の唐揚げ",
+    "before": "優しい旨味を、鶏肉の旨味と衣の香ばしさと一緒に楽しむ提案です。",
+    "after": "鶏の唐揚げは、鶏肉の旨味と衣の香ばしさを楽しむひと皿。お酒の優しい旨味を重ねて味わいます。",
+    "dishFlavor": "鶏肉の旨味と衣の香ばしさ",
+    "dishMethod": "揚げ物",
+    "sakeFact": {
+      "feature": "優しい旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "優しい旨味",
+        "sourceUrl": "https://www.nishinoseki.com/product/tezukurijunmai/",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-03",
+        "meaning": "個別見出しL27",
+        "productScope": "product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "nishinoseki-hlzg7a",
+    "dishName": "焼き餃子",
+    "before": "優しい旨味を、肉の旨味と焼き目の香ばしさと一緒に楽しむ提案です。",
+    "after": "焼き餃子の肉の旨味と焼き目の香ばしさに、お酒の優しい旨味を合わせて楽しみます。",
+    "dishFlavor": "肉の旨味と焼き目の香ばしさ",
+    "dishMethod": "焼き物",
+    "sakeFact": {
+      "feature": "優しい旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "優しい旨味",
+        "sourceUrl": "https://www.nishinoseki.com/product/tezukurijunmai/",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-03",
+        "meaning": "個別見出しL27",
+        "productScope": "product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "wakabotan-hlzg7a",
+    "dishName": "鶏の唐揚げ",
+    "before": "米の旨味を、鶏肉の旨味と衣の香ばしさと一緒に楽しむ提案です。",
+    "after": "鶏の唐揚げは、鶏肉の旨味と衣の香ばしさを楽しむひと皿。米の旨味を重ねて味わいます。",
+    "dishFlavor": "鶏肉の旨味と衣の香ばしさ",
+    "dishMethod": "揚げ物",
+    "sakeFact": {
+      "feature": "米の旨味",
+      "kind": "officialFlavorField",
+      "evidence": {
+        "field": "flavorProfile.umami",
+        "value": "米の旨味",
+        "sourceUrl": "https://www.sanwa-shurui.co.jp/factory/karashima/product/154.html",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-03",
+        "meaning": "2026年4月L73",
+        "productScope": "product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "wakabotan-hlzg7a",
+    "dishName": "焼き餃子",
+    "before": "米の旨味を、肉の旨味と焼き目の香ばしさと一緒に楽しむ提案です。",
+    "after": "焼き餃子の肉の旨味と焼き目の香ばしさに、米の旨味を合わせて楽しみます。",
+    "dishFlavor": "肉の旨味と焼き目の香ばしさ",
+    "dishMethod": "焼き物",
+    "sakeFact": {
+      "feature": "米の旨味",
+      "kind": "officialFlavorField",
+      "evidence": {
+        "field": "flavorProfile.umami",
+        "value": "米の旨味",
+        "sourceUrl": "https://www.sanwa-shurui.co.jp/factory/karashima/product/154.html",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-03",
+        "meaning": "2026年4月L73",
+        "productScope": "product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "yatsushika-hlzg7a",
+    "dishName": "きゅうりの浅漬け",
+    "before": "今夜はきゅうりの浅漬けと一緒に。食事とともに楽しめる一杯です。",
+    "after": "野菜の軽い塩味を楽しむきゅうりの浅漬けに、米の旨味を合わせます。",
+    "dishFlavor": "野菜の軽い塩味",
+    "dishMethod": "漬物",
+    "sakeFact": {
+      "feature": "米の旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "米の旨味",
+        "sourceUrl": "https://www.yatsushika-club.com/SHOP/YA810.html",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-03",
+        "meaning": "通常対象説明L96-97",
+        "productScope": "product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "yatsushika-hlzg7a",
+    "dishName": "鶏の唐揚げ",
+    "before": "米の旨味を、鶏肉の旨味と衣の香ばしさと一緒に楽しむ提案です。",
+    "after": "鶏の唐揚げは、鶏肉の旨味と衣の香ばしさを楽しむひと皿。米の旨味を重ねて味わいます。",
+    "dishFlavor": "鶏肉の旨味と衣の香ばしさ",
+    "dishMethod": "揚げ物",
+    "sakeFact": {
+      "feature": "米の旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "米の旨味",
+        "sourceUrl": "https://www.yatsushika-club.com/SHOP/YA810.html",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-03",
+        "meaning": "通常対象説明L96-97",
+        "productScope": "product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "yatsushika-hlzg7a",
+    "dishName": "枝豆",
+    "before": "今夜は枝豆と一緒に。食事とともに楽しめる一杯です。",
+    "after": "豆の甘みと塩気を楽しむ枝豆に、米の旨味を合わせます。",
+    "dishFlavor": "豆の甘みと塩気",
+    "dishMethod": "茹で物",
+    "sakeFact": {
+      "feature": "米の旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "米の旨味",
+        "sourceUrl": "https://www.yatsushika-club.com/SHOP/YA810.html",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-03",
+        "meaning": "通常対象説明L96-97",
+        "productScope": "product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "yatsushika-hlzg7a",
+    "dishName": "焼き餃子",
+    "before": "米の旨味を、肉の旨味と焼き目の香ばしさと一緒に楽しむ提案です。",
+    "after": "焼き餃子の肉の旨味と焼き目の香ばしさに、米の旨味を合わせて楽しみます。",
+    "dishFlavor": "肉の旨味と焼き目の香ばしさ",
+    "dishMethod": "焼き物",
+    "sakeFact": {
+      "feature": "米の旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "米の旨味",
+        "sourceUrl": "https://www.yatsushika-club.com/SHOP/YA810.html",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-03",
+        "meaning": "通常対象説明L96-97",
+        "productScope": "product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "yatsushika-hlzg7a",
+    "dishName": "湯豆腐",
+    "before": "今夜は湯豆腐と一緒に。食事とともに楽しめる一杯です。",
+    "after": "湯豆腐は、豆腐とだしの穏やかな味を楽しむひと皿。米の旨味を重ねて味わいます。",
+    "dishFlavor": "豆腐とだしの穏やかな味",
+    "dishMethod": "鍋物",
+    "sakeFact": {
+      "feature": "米の旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "米の旨味",
+        "sourceUrl": "https://www.yatsushika-club.com/SHOP/YA810.html",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-03",
+        "meaning": "通常対象説明L96-97",
+        "productScope": "product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "sentoku-i3yidq",
+    "dishName": "鶏の唐揚げ",
+    "before": "米の旨味を、鶏肉の旨味と衣の香ばしさと一緒に楽しむ提案です。",
+    "after": "鶏の唐揚げは、鶏肉の旨味と衣の香ばしさを楽しむひと皿。米の旨味を重ねて味わいます。",
+    "dishFlavor": "鶏肉の旨味と衣の香ばしさ",
+    "dishMethod": "揚げ物",
+    "sakeFact": {
+      "feature": "米の旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "米の旨味",
+        "sourceUrl": "https://www.miyazaki-sake.or.jp/nobeokahyuga/sentoku.html",
+        "sourceType": "industryAssociation",
+        "verifiedAt": "2026-10-03",
+        "meaning": "個別商品L33",
+        "productScope": "product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "sentoku-i3yidq",
+    "dishName": "焼き餃子",
+    "before": "米の旨味を、肉の旨味と焼き目の香ばしさと一緒に楽しむ提案です。",
+    "after": "焼き餃子の肉の旨味と焼き目の香ばしさに、米の旨味を合わせて楽しみます。",
+    "dishFlavor": "肉の旨味と焼き目の香ばしさ",
+    "dishMethod": "焼き物",
+    "sakeFact": {
+      "feature": "米の旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "米の旨味",
+        "sourceUrl": "https://www.miyazaki-sake.or.jp/nobeokahyuga/sentoku.html",
+        "sourceType": "industryAssociation",
+        "verifiedAt": "2026-10-03",
+        "meaning": "個別商品L33",
+        "productScope": "product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "akabu-junmai-1",
+    "dishName": "きゅうりの浅漬け",
+    "before": "今夜はきゅうりの浅漬けと一緒に。食事とともに楽しめる一杯です。",
+    "after": "野菜の軽い塩味を楽しむきゅうりの浅漬けに、米の旨味を合わせます。",
+    "dishFlavor": "野菜の軽い塩味",
+    "dishMethod": "漬物",
+    "sakeFact": {
+      "feature": "米の旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "米の旨味",
+        "sourceUrl": "https://www.akabu1.com/gallery/",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-03",
+        "meaning": "純米酒欄の米の旨味の説明",
+        "productScope": "product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "akabu-junmai-1",
+    "dishName": "鶏の唐揚げ",
+    "before": "米の旨味を、鶏肉の旨味と衣の香ばしさと一緒に楽しむ提案です。",
+    "after": "鶏の唐揚げは、鶏肉の旨味と衣の香ばしさを楽しむひと皿。米の旨味を重ねて味わいます。",
+    "dishFlavor": "鶏肉の旨味と衣の香ばしさ",
+    "dishMethod": "揚げ物",
+    "sakeFact": {
+      "feature": "米の旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "米の旨味",
+        "sourceUrl": "https://www.akabu1.com/gallery/",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-03",
+        "meaning": "純米酒欄の米の旨味の説明",
+        "productScope": "product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "akabu-junmai-1",
+    "dishName": "枝豆",
+    "before": "今夜は枝豆と一緒に。食事とともに楽しめる一杯です。",
+    "after": "豆の甘みと塩気を楽しむ枝豆に、米の旨味を合わせます。",
+    "dishFlavor": "豆の甘みと塩気",
+    "dishMethod": "茹で物",
+    "sakeFact": {
+      "feature": "米の旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "米の旨味",
+        "sourceUrl": "https://www.akabu1.com/gallery/",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-03",
+        "meaning": "純米酒欄の米の旨味の説明",
+        "productScope": "product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "akabu-junmai-1",
+    "dishName": "焼き餃子",
+    "before": "米の旨味を、肉の旨味と焼き目の香ばしさと一緒に楽しむ提案です。",
+    "after": "焼き餃子の肉の旨味と焼き目の香ばしさに、米の旨味を合わせて楽しみます。",
+    "dishFlavor": "肉の旨味と焼き目の香ばしさ",
+    "dishMethod": "焼き物",
+    "sakeFact": {
+      "feature": "米の旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "米の旨味",
+        "sourceUrl": "https://www.akabu1.com/gallery/",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-03",
+        "meaning": "純米酒欄の米の旨味の説明",
+        "productScope": "product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "akabu-junmai-1",
+    "dishName": "湯豆腐",
+    "before": "今夜は湯豆腐と一緒に。食事とともに楽しめる一杯です。",
+    "after": "湯豆腐は、豆腐とだしの穏やかな味を楽しむひと皿。米の旨味を重ねて味わいます。",
+    "dishFlavor": "豆腐とだしの穏やかな味",
+    "dishMethod": "鍋物",
+    "sakeFact": {
+      "feature": "米の旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "米の旨味",
+        "sourceUrl": "https://www.akabu1.com/gallery/",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-03",
+        "meaning": "純米酒欄の米の旨味の説明",
+        "productScope": "product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "kikko-hanabishi-hdomtl-4",
+    "dishName": "鶏の唐揚げ",
+    "before": "旨味を、鶏肉の旨味と衣の香ばしさと一緒に楽しむ提案です。",
+    "after": "鶏の唐揚げは、鶏肉の旨味と衣の香ばしさを楽しむひと皿。お酒の旨味を重ねて味わいます。",
+    "dishFlavor": "鶏肉の旨味と衣の香ばしさ",
+    "dishMethod": "揚げ物",
+    "sakeFact": {
+      "feature": "旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "旨味",
+        "sourceUrl": "https://www.sugiura.biz/product/34",
+        "sourceType": "specialistRetailer",
+        "verifiedAt": "2026-10-04",
+        "meaning": "商品詳細の旨味の記載",
+        "productScope": "product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "kikko-hanabishi-hdomtl-4",
+    "dishName": "焼き餃子",
+    "before": "旨味を、肉の旨味と焼き目の香ばしさと一緒に楽しむ提案です。",
+    "after": "焼き餃子の肉の旨味と焼き目の香ばしさに、お酒の旨味を合わせて楽しみます。",
+    "dishFlavor": "肉の旨味と焼き目の香ばしさ",
+    "dishMethod": "焼き物",
+    "sakeFact": {
+      "feature": "旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "旨味",
+        "sourceUrl": "https://www.sugiura.biz/product/34",
+        "sourceType": "specialistRetailer",
+        "verifiedAt": "2026-10-04",
+        "meaning": "商品詳細の旨味の記載",
+        "productScope": "product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "kinkon-kflfjg-2",
+    "dishName": "鶏の唐揚げ",
+    "before": "米の旨味を、鶏肉の旨味と衣の香ばしさと一緒に楽しむ提案です。",
+    "after": "鶏の唐揚げは、鶏肉の旨味と衣の香ばしさを楽しむひと皿。米の旨味を重ねて味わいます。",
+    "dishFlavor": "鶏肉の旨味と衣の香ばしさ",
+    "dishMethod": "揚げ物",
+    "sakeFact": {
+      "feature": "米の旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "米の旨味",
+        "sourceUrl": "https://www.toshimaya.co.jp/products/%E9%87%91%E5%A9%9A-%E7%B4%94%E7%B1%B3%E9%85%92.html",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-04",
+        "meaning": "当該商品説明",
+        "productScope": "product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "kinkon-kflfjg-2",
+    "dishName": "焼き餃子",
+    "before": "米の旨味を、肉の旨味と焼き目の香ばしさと一緒に楽しむ提案です。",
+    "after": "焼き餃子の肉の旨味と焼き目の香ばしさに、米の旨味を合わせて楽しみます。",
+    "dishFlavor": "肉の旨味と焼き目の香ばしさ",
+    "dishMethod": "焼き物",
+    "sakeFact": {
+      "feature": "米の旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "米の旨味",
+        "sourceUrl": "https://www.toshimaya.co.jp/products/%E9%87%91%E5%A9%9A-%E7%B4%94%E7%B1%B3%E9%85%92.html",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-04",
+        "meaning": "当該商品説明",
+        "productScope": "product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "koshino-kanbai-white-label-3",
+    "dishName": "鶏の唐揚げ",
+    "before": "旨味を、鶏肉の旨味と衣の香ばしさと一緒に楽しむ提案です。",
+    "after": "鶏の唐揚げは、鶏肉の旨味と衣の香ばしさを楽しむひと皿。お酒の旨味を重ねて味わいます。",
+    "dishFlavor": "鶏肉の旨味と衣の香ばしさ",
+    "dishMethod": "揚げ物",
+    "sakeFact": {
+      "feature": "旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "旨味",
+        "sourceUrl": "https://koshinokanbai.co.jp/products/kimotokeishubo_tokujoshu",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L82",
+        "productScope": "product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "koshino-kanbai-white-label-3",
+    "dishName": "焼き餃子",
+    "before": "旨味を、肉の旨味と焼き目の香ばしさと一緒に楽しむ提案です。",
+    "after": "焼き餃子の肉の旨味と焼き目の香ばしさに、お酒の旨味を合わせて楽しみます。",
+    "dishFlavor": "肉の旨味と焼き目の香ばしさ",
+    "dishMethod": "焼き物",
+    "sakeFact": {
+      "feature": "旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "旨味",
+        "sourceUrl": "https://koshinokanbai.co.jp/products/kimotokeishubo_tokujoshu",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L82",
+        "productScope": "product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "koshino-kanbai-white-label-3",
+    "dishName": "湯豆腐",
+    "before": "湯豆腐と一緒に、晩ごはんの一杯を。",
+    "after": "湯豆腐は、豆腐とだしの穏やかな味を楽しむひと皿。お酒の旨味を重ねて味わいます。",
+    "dishFlavor": "豆腐とだしの穏やかな味",
+    "dishMethod": "鍋物",
+    "sakeFact": {
+      "feature": "旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "旨味",
+        "sourceUrl": "https://koshinokanbai.co.jp/products/kimotokeishubo_tokujoshu",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L82",
+        "productScope": "product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "maboroshi-no-taki-junmai-ginjo-standard",
+    "dishName": "鶏の唐揚げ",
+    "before": "米の旨味を、鶏肉の旨味と衣の香ばしさと一緒に楽しむ提案です。",
+    "after": "鶏の唐揚げは、鶏肉の旨味と衣の香ばしさを楽しむひと皿。米の旨味を重ねて味わいます。",
+    "dishFlavor": "鶏肉の旨味と衣の香ばしさ",
+    "dishMethod": "揚げ物",
+    "sakeFact": {
+      "feature": "米の旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "米の旨味",
+        "sourceUrl": "https://mabotaki.co.jp/product/stan/stan_05/",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-10",
+        "meaning": "酸味に続いて米の旨味が広がるという商品説明。"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "maboroshi-no-taki-junmai-ginjo-standard",
+    "dishName": "焼き餃子",
+    "before": "米の旨味を、肉の旨味と焼き目の香ばしさと一緒に楽しむ提案です。",
+    "after": "焼き餃子の肉の旨味と焼き目の香ばしさに、米の旨味を合わせて楽しみます。",
+    "dishFlavor": "肉の旨味と焼き目の香ばしさ",
+    "dishMethod": "焼き物",
+    "sakeFact": {
+      "feature": "米の旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "米の旨味",
+        "sourceUrl": "https://mabotaki.co.jp/product/stan/stan_05/",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-10",
+        "meaning": "酸味に続いて米の旨味が広がるという商品説明。"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "jozan-junmai-3",
+    "dishName": "きゅうりの浅漬け",
+    "before": "今夜はきゅうりの浅漬けと一緒に。食事とともに楽しめる一杯です。",
+    "after": "野菜の軽い塩味を楽しむきゅうりの浅漬けに、米の旨味を合わせます。",
+    "dishFlavor": "野菜の軽い塩味",
+    "dishMethod": "漬物",
+    "sakeFact": {
+      "feature": "米の旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "米の旨味",
+        "sourceUrl": "https://jozan.co.jp/product/detail.php?id=1",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-03",
+        "meaning": "対象生酒欄L84",
+        "productScope": "product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "jozan-junmai-3",
+    "dishName": "鶏の唐揚げ",
+    "before": "米の旨味を、鶏肉の旨味と衣の香ばしさと一緒に楽しむ提案です。",
+    "after": "鶏の唐揚げは、鶏肉の旨味と衣の香ばしさを楽しむひと皿。米の旨味を重ねて味わいます。",
+    "dishFlavor": "鶏肉の旨味と衣の香ばしさ",
+    "dishMethod": "揚げ物",
+    "sakeFact": {
+      "feature": "米の旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "米の旨味",
+        "sourceUrl": "https://jozan.co.jp/product/detail.php?id=1",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-03",
+        "meaning": "対象生酒欄L84",
+        "productScope": "product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "jozan-junmai-3",
+    "dishName": "枝豆",
+    "before": "今夜は枝豆と一緒に。食事とともに楽しめる一杯です。",
+    "after": "豆の甘みと塩気を楽しむ枝豆に、米の旨味を合わせます。",
+    "dishFlavor": "豆の甘みと塩気",
+    "dishMethod": "茹で物",
+    "sakeFact": {
+      "feature": "米の旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "米の旨味",
+        "sourceUrl": "https://jozan.co.jp/product/detail.php?id=1",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-03",
+        "meaning": "対象生酒欄L84",
+        "productScope": "product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "jozan-junmai-3",
+    "dishName": "焼き餃子",
+    "before": "米の旨味を、肉の旨味と焼き目の香ばしさと一緒に楽しむ提案です。",
+    "after": "焼き餃子の肉の旨味と焼き目の香ばしさに、米の旨味を合わせて楽しみます。",
+    "dishFlavor": "肉の旨味と焼き目の香ばしさ",
+    "dishMethod": "焼き物",
+    "sakeFact": {
+      "feature": "米の旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "米の旨味",
+        "sourceUrl": "https://jozan.co.jp/product/detail.php?id=1",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-03",
+        "meaning": "対象生酒欄L84",
+        "productScope": "product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "jozan-junmai-3",
+    "dishName": "湯豆腐",
+    "before": "今夜は湯豆腐と一緒に。食事とともに楽しめる一杯です。",
+    "after": "湯豆腐は、豆腐とだしの穏やかな味を楽しむひと皿。米の旨味を重ねて味わいます。",
+    "dishFlavor": "豆腐とだしの穏やかな味",
+    "dishMethod": "鍋物",
+    "sakeFact": {
+      "feature": "米の旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "米の旨味",
+        "sourceUrl": "https://jozan.co.jp/product/detail.php?id=1",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-03",
+        "meaning": "対象生酒欄L84",
+        "productScope": "product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "shunnoten-i9dko8-2",
+    "dishName": "鶏の唐揚げ",
+    "before": "旨味を、鶏肉の旨味と衣の香ばしさと一緒に楽しむ提案です。",
+    "after": "鶏の唐揚げは、鶏肉の旨味と衣の香ばしさを楽しむひと皿。お酒の旨味を重ねて味わいます。",
+    "dishFlavor": "鶏肉の旨味と衣の香ばしさ",
+    "dishMethod": "揚げ物",
+    "sakeFact": {
+      "feature": "旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "旨味",
+        "sourceUrl": "https://www.shunnoten.co.jp/shop/products/detail/11",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L66",
+        "productScope": "product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "shunnoten-i9dko8-2",
+    "dishName": "焼き餃子",
+    "before": "旨味を、肉の旨味と焼き目の香ばしさと一緒に楽しむ提案です。",
+    "after": "焼き餃子の肉の旨味と焼き目の香ばしさに、お酒の旨味を合わせて楽しみます。",
+    "dishFlavor": "肉の旨味と焼き目の香ばしさ",
+    "dishMethod": "焼き物",
+    "sakeFact": {
+      "feature": "旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "旨味",
+        "sourceUrl": "https://www.shunnoten.co.jp/shop/products/detail/11",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L66",
+        "productScope": "product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "tanizakura-i9dko8-3",
+    "dishName": "鶏の唐揚げ",
+    "before": "米の旨味を、鶏肉の旨味と衣の香ばしさと一緒に楽しむ提案です。",
+    "after": "鶏の唐揚げは、鶏肉の旨味と衣の香ばしさを楽しむひと皿。米の旨味を重ねて味わいます。",
+    "dishFlavor": "鶏肉の旨味と衣の香ばしさ",
+    "dishMethod": "揚げ物",
+    "sakeFact": {
+      "feature": "米の旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "米の旨味",
+        "sourceUrl": "https://www.tanizakura.com/shopdetail/001000000006/",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L69",
+        "productScope": "product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "tanizakura-i9dko8-3",
+    "dishName": "焼き餃子",
+    "before": "米の旨味を、肉の旨味と焼き目の香ばしさと一緒に楽しむ提案です。",
+    "after": "焼き餃子の肉の旨味と焼き目の香ばしさに、米の旨味を合わせて楽しみます。",
+    "dishFlavor": "肉の旨味と焼き目の香ばしさ",
+    "dishMethod": "焼き物",
+    "sakeFact": {
+      "feature": "米の旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "米の旨味",
+        "sourceUrl": "https://www.tanizakura.com/shopdetail/001000000006/",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L69",
+        "productScope": "product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "kawanakajima-genmai-junmai-ginjo-4",
+    "dishName": "鶏の唐揚げ",
+    "before": "米本来の旨味を、鶏肉の旨味と衣の香ばしさと一緒に楽しむ提案です。",
+    "after": "鶏の唐揚げは、鶏肉の旨味と衣の香ばしさを楽しむひと皿。米本来の旨味を重ねて味わいます。",
+    "dishFlavor": "鶏肉の旨味と衣の香ばしさ",
+    "dishMethod": "揚げ物",
+    "sakeFact": {
+      "feature": "米本来の旨味",
+      "kind": "officialFlavorField",
+      "evidence": {
+        "field": "flavorProfile.umami",
+        "value": "米本来の旨味",
+        "sourceUrl": "https://shusen.jp/goods",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-03",
+        "meaning": "当該欄の旨味表現",
+        "productScope": "product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "kawanakajima-genmai-junmai-ginjo-4",
+    "dishName": "焼き餃子",
+    "before": "米本来の旨味を、肉の旨味と焼き目の香ばしさと一緒に楽しむ提案です。",
+    "after": "焼き餃子の肉の旨味と焼き目の香ばしさに、米本来の旨味を合わせて楽しみます。",
+    "dishFlavor": "肉の旨味と焼き目の香ばしさ",
+    "dishMethod": "焼き物",
+    "sakeFact": {
+      "feature": "米本来の旨味",
+      "kind": "officialFlavorField",
+      "evidence": {
+        "field": "flavorProfile.umami",
+        "value": "米本来の旨味",
+        "sourceUrl": "https://shusen.jp/goods",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-03",
+        "meaning": "当該欄の旨味表現",
+        "productScope": "product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "ibi-white-1",
+    "dishName": "鶏の唐揚げ",
+    "before": "旨味を、鶏肉の旨味と衣の香ばしさと一緒に楽しむ提案です。",
+    "after": "鶏の唐揚げは、鶏肉の旨味と衣の香ばしさを楽しむひと皿。お酒の旨味を重ねて味わいます。",
+    "dishFlavor": "鶏肉の旨味と衣の香ばしさ",
+    "dishMethod": "揚げ物",
+    "sakeFact": {
+      "feature": "旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "旨味",
+        "sourceUrl": "https://www.sugiharasake.jp/product/",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-04",
+        "meaning": "無色の特別純米酒欄",
+        "productScope": "product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "ibi-white-1",
+    "dishName": "焼き餃子",
+    "before": "旨味を、肉の旨味と焼き目の香ばしさと一緒に楽しむ提案です。",
+    "after": "焼き餃子の肉の旨味と焼き目の香ばしさに、お酒の旨味を合わせて楽しみます。",
+    "dishFlavor": "肉の旨味と焼き目の香ばしさ",
+    "dishMethod": "焼き物",
+    "sakeFact": {
+      "feature": "旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "旨味",
+        "sourceUrl": "https://www.sugiharasake.jp/product/",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-04",
+        "meaning": "無色の特別純米酒欄",
+        "productScope": "product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "kamikokoro-iapi9d-4",
+    "dishName": "鶏の唐揚げ",
+    "before": "米の旨味を、鶏肉の旨味と衣の香ばしさと一緒に楽しむ提案です。",
+    "after": "鶏の唐揚げは、鶏肉の旨味と衣の香ばしさを楽しむひと皿。米の旨味を重ねて味わいます。",
+    "dishFlavor": "鶏肉の旨味と衣の香ばしさ",
+    "dishMethod": "揚げ物",
+    "sakeFact": {
+      "feature": "米の旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "米の旨味",
+        "sourceUrl": "https://kamikokoro.co.jp/fuyunotsuki.html",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-03",
+        "meaning": "通常商品L75・79",
+        "productScope": "product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "kamikokoro-iapi9d-4",
+    "dishName": "焼き餃子",
+    "before": "米の旨味を、肉の旨味と焼き目の香ばしさと一緒に楽しむ提案です。",
+    "after": "焼き餃子の肉の旨味と焼き目の香ばしさに、米の旨味を合わせて楽しみます。",
+    "dishFlavor": "肉の旨味と焼き目の香ばしさ",
+    "dishMethod": "焼き物",
+    "sakeFact": {
+      "feature": "米の旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "米の旨味",
+        "sourceUrl": "https://kamikokoro.co.jp/fuyunotsuki.html",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-03",
+        "meaning": "通常商品L75・79",
+        "productScope": "product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "ugonotsuki-junmai-ginjo-1",
+    "dishName": "鶏の唐揚げ",
+    "before": "旨味を、鶏肉の旨味と衣の香ばしさと一緒に楽しむ提案です。",
+    "after": "鶏の唐揚げは、鶏肉の旨味と衣の香ばしさを楽しむひと皿。お酒の旨味を重ねて味わいます。",
+    "dishFlavor": "鶏肉の旨味と衣の香ばしさ",
+    "dishMethod": "揚げ物",
+    "sakeFact": {
+      "feature": "旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "旨味",
+        "sourceUrl": "https://www.ikenosaketen.shop/shopdetail/000000003159/",
+        "sourceType": "specialistRetailer",
+        "verifiedAt": "2026-10-03",
+        "meaning": "対象説明L249",
+        "productScope": "product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "ugonotsuki-junmai-ginjo-1",
+    "dishName": "焼き餃子",
+    "before": "旨味を、肉の旨味と焼き目の香ばしさと一緒に楽しむ提案です。",
+    "after": "焼き餃子の肉の旨味と焼き目の香ばしさに、お酒の旨味を合わせて楽しみます。",
+    "dishFlavor": "肉の旨味と焼き目の香ばしさ",
+    "dishMethod": "焼き物",
+    "sakeFact": {
+      "feature": "旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "旨味",
+        "sourceUrl": "https://www.ikenosaketen.shop/shopdetail/000000003159/",
+        "sourceType": "specialistRetailer",
+        "verifiedAt": "2026-10-03",
+        "meaning": "対象説明L249",
+        "productScope": "product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "kinryo-uc9ijh-3",
+    "dishName": "鶏の唐揚げ",
+    "before": "穏やかな旨味を、鶏肉の旨味と衣の香ばしさと一緒に楽しむ提案です。",
+    "after": "鶏の唐揚げは、鶏肉の旨味と衣の香ばしさを楽しむひと皿。お酒の穏やかな旨味を重ねて味わいます。",
+    "dishFlavor": "鶏肉の旨味と衣の香ばしさ",
+    "dishMethod": "揚げ物",
+    "sakeFact": {
+      "feature": "穏やかな旨味",
+      "kind": "officialFlavorField",
+      "evidence": {
+        "field": "flavorProfile.umami",
+        "value": "穏やかな旨味",
+        "sourceUrl": "https://www.nishino-kinryo.co.jp/store/products/detail.php?product_id=136",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-03",
+        "meaning": "対象商品本文のumamiの説明を短縮",
+        "productScope": "product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "kinryo-uc9ijh-3",
+    "dishName": "焼き餃子",
+    "before": "穏やかな旨味を、肉の旨味と焼き目の香ばしさと一緒に楽しむ提案です。",
+    "after": "焼き餃子の肉の旨味と焼き目の香ばしさに、お酒の穏やかな旨味を合わせて楽しみます。",
+    "dishFlavor": "肉の旨味と焼き目の香ばしさ",
+    "dishMethod": "焼き物",
+    "sakeFact": {
+      "feature": "穏やかな旨味",
+      "kind": "officialFlavorField",
+      "evidence": {
+        "field": "flavorProfile.umami",
+        "value": "穏やかな旨味",
+        "sourceUrl": "https://www.nishino-kinryo.co.jp/store/products/detail.php?product_id=136",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-03",
+        "meaning": "対象商品本文のumamiの説明を短縮",
+        "productScope": "product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "niida-shizenshu-junmai-genshu",
+    "dishName": "鶏の唐揚げ",
+    "before": "米の旨味を、鶏肉の旨味と衣の香ばしさと一緒に楽しむ提案です。",
+    "after": "鶏の唐揚げは、鶏肉の旨味と衣の香ばしさを楽しむひと皿。米の旨味を重ねて味わいます。",
+    "dishFlavor": "鶏肉の旨味と衣の香ばしさ",
+    "dishMethod": "揚げ物",
+    "sakeFact": {
+      "feature": "米の旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "米の旨味",
+        "tag": "米の旨味",
+        "sourceUrl": "https://niida1711.shop/items/5b0ce9715f786674d6001556",
+        "url": "https://niida1711.shop/items/5b0ce9715f786674d6001556",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-03",
+        "meaning": "汲出し四段による米の旨味を説明",
+        "basis": "汲出し四段による米の旨味を説明",
+        "productScope": "product",
+        "reviewPhase": "2.1",
+        "recheckStatus": "reconfirmed",
+        "recheckAttemptedAt": "2026-10-03"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "niida-shizenshu-junmai-genshu",
+    "dishName": "焼き餃子",
+    "before": "米の旨味を、肉の旨味と焼き目の香ばしさと一緒に楽しむ提案です。",
+    "after": "焼き餃子の肉の旨味と焼き目の香ばしさに、米の旨味を合わせて楽しみます。",
+    "dishFlavor": "肉の旨味と焼き目の香ばしさ",
+    "dishMethod": "焼き物",
+    "sakeFact": {
+      "feature": "米の旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "米の旨味",
+        "tag": "米の旨味",
+        "sourceUrl": "https://niida1711.shop/items/5b0ce9715f786674d6001556",
+        "url": "https://niida1711.shop/items/5b0ce9715f786674d6001556",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-03",
+        "meaning": "汲出し四段による米の旨味を説明",
+        "basis": "汲出し四段による米の旨味を説明",
+        "productScope": "product",
+        "reviewPhase": "2.1",
+        "recheckStatus": "reconfirmed",
+        "recheckAttemptedAt": "2026-10-03"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "gunmaizumi-yamahai-junmai",
+    "dishName": "きゅうりの浅漬け",
+    "before": "今夜はきゅうりの浅漬けと一緒に。食事とともに楽しめる一杯です。",
+    "after": "野菜の軽い塩味を楽しむきゅうりの浅漬けに、米の旨味を合わせます。",
+    "dishFlavor": "野菜の軽い塩味",
+    "dishMethod": "漬物",
+    "sakeFact": {
+      "feature": "米の旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "米の旨味",
+        "sourceUrl": "https://www.shimaokasyuzo.com/products/",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L94",
+        "productScope": "product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "gunmaizumi-yamahai-junmai",
+    "dishName": "鶏の唐揚げ",
+    "before": "米の旨味を、鶏肉の旨味と衣の香ばしさと一緒に楽しむ提案です。",
+    "after": "鶏の唐揚げは、鶏肉の旨味と衣の香ばしさを楽しむひと皿。米の旨味を重ねて味わいます。",
+    "dishFlavor": "鶏肉の旨味と衣の香ばしさ",
+    "dishMethod": "揚げ物",
+    "sakeFact": {
+      "feature": "米の旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "米の旨味",
+        "sourceUrl": "https://www.shimaokasyuzo.com/products/",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L94",
+        "productScope": "product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "gunmaizumi-yamahai-junmai",
+    "dishName": "枝豆",
+    "before": "今夜は枝豆と一緒に。食事とともに楽しめる一杯です。",
+    "after": "豆の甘みと塩気を楽しむ枝豆に、米の旨味を合わせます。",
+    "dishFlavor": "豆の甘みと塩気",
+    "dishMethod": "茹で物",
+    "sakeFact": {
+      "feature": "米の旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "米の旨味",
+        "sourceUrl": "https://www.shimaokasyuzo.com/products/",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L94",
+        "productScope": "product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "gunmaizumi-yamahai-junmai",
+    "dishName": "焼き餃子",
+    "before": "米の旨味を、肉の旨味と焼き目の香ばしさと一緒に楽しむ提案です。",
+    "after": "焼き餃子の肉の旨味と焼き目の香ばしさに、米の旨味を合わせて楽しみます。",
+    "dishFlavor": "肉の旨味と焼き目の香ばしさ",
+    "dishMethod": "焼き物",
+    "sakeFact": {
+      "feature": "米の旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "米の旨味",
+        "sourceUrl": "https://www.shimaokasyuzo.com/products/",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L94",
+        "productScope": "product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "gunmaizumi-yamahai-junmai",
+    "dishName": "湯豆腐",
+    "before": "湯豆腐と一緒に、晩ごはんの一杯を。",
+    "after": "湯豆腐は、豆腐とだしの穏やかな味を楽しむひと皿。米の旨味を重ねて味わいます。",
+    "dishFlavor": "豆腐とだしの穏やかな味",
+    "dishMethod": "鍋物",
+    "sakeFact": {
+      "feature": "米の旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "米の旨味",
+        "sourceUrl": "https://www.shimaokasyuzo.com/products/",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L94",
+        "productScope": "product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "hiraizumi-jukusei-yamahai-junmai-v1",
+    "dishName": "鶏の唐揚げ",
+    "before": "旨味を、鶏肉の旨味と衣の香ばしさと一緒に楽しむ提案です。",
+    "after": "鶏の唐揚げは、鶏肉の旨味と衣の香ばしさを楽しむひと皿。お酒の旨味を重ねて味わいます。",
+    "dishFlavor": "鶏肉の旨味と衣の香ばしさ",
+    "dishMethod": "揚げ物",
+    "sakeFact": {
+      "feature": "旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "旨味",
+        "sourceUrl": "https://www.hiraizumi.co.jp/item/",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L20 正規化。",
+        "productScope": "product",
+        "sourceTier": "primary",
+        "sourceDetailType": "official_product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "hiraizumi-jukusei-yamahai-junmai-v1",
+    "dishName": "焼き餃子",
+    "before": "旨味を、肉の旨味と焼き目の香ばしさと一緒に楽しむ提案です。",
+    "after": "焼き餃子の肉の旨味と焼き目の香ばしさに、お酒の旨味を合わせて楽しみます。",
+    "dishFlavor": "肉の旨味と焼き目の香ばしさ",
+    "dishMethod": "焼き物",
+    "sakeFact": {
+      "feature": "旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "旨味",
+        "sourceUrl": "https://www.hiraizumi.co.jp/item/",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L20 正規化。",
+        "productScope": "product",
+        "sourceTier": "primary",
+        "sourceDetailType": "official_product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "kinteki-junmai-ginjo-v1",
+    "dishName": "きゅうりの浅漬け",
+    "before": "今夜はきゅうりの浅漬けと一緒に。食事とともに楽しめる一杯です。",
+    "after": "野菜の軽い塩味を楽しむきゅうりの浅漬けに、お酒の豊かな旨味を合わせます。",
+    "dishFlavor": "野菜の軽い塩味",
+    "dishMethod": "漬物",
+    "sakeFact": {
+      "feature": "豊かな旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "豊かな旨味",
+        "sourceUrl": "https://kinteki.shop/items/61bef6cc7d278d583b2dfe3a",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L26 直接記載。",
+        "productScope": "product",
+        "sourceTier": "primary",
+        "sourceDetailType": "official_product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "kinteki-junmai-ginjo-v1",
+    "dishName": "鶏の唐揚げ",
+    "before": "豊かな旨味を、鶏肉の旨味と衣の香ばしさと一緒に楽しむ提案です。",
+    "after": "鶏の唐揚げは、鶏肉の旨味と衣の香ばしさを楽しむひと皿。お酒の豊かな旨味を重ねて味わいます。",
+    "dishFlavor": "鶏肉の旨味と衣の香ばしさ",
+    "dishMethod": "揚げ物",
+    "sakeFact": {
+      "feature": "豊かな旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "豊かな旨味",
+        "sourceUrl": "https://kinteki.shop/items/61bef6cc7d278d583b2dfe3a",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L26 直接記載。",
+        "productScope": "product",
+        "sourceTier": "primary",
+        "sourceDetailType": "official_product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "kinteki-junmai-ginjo-v1",
+    "dishName": "枝豆",
+    "before": "今夜は枝豆と一緒に。食事とともに楽しめる一杯です。",
+    "after": "豆の甘みと塩気を楽しむ枝豆に、お酒の豊かな旨味を合わせます。",
+    "dishFlavor": "豆の甘みと塩気",
+    "dishMethod": "茹で物",
+    "sakeFact": {
+      "feature": "豊かな旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "豊かな旨味",
+        "sourceUrl": "https://kinteki.shop/items/61bef6cc7d278d583b2dfe3a",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L26 直接記載。",
+        "productScope": "product",
+        "sourceTier": "primary",
+        "sourceDetailType": "official_product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "kinteki-junmai-ginjo-v1",
+    "dishName": "焼き餃子",
+    "before": "豊かな旨味を、肉の旨味と焼き目の香ばしさと一緒に楽しむ提案です。",
+    "after": "焼き餃子の肉の旨味と焼き目の香ばしさに、お酒の豊かな旨味を合わせて楽しみます。",
+    "dishFlavor": "肉の旨味と焼き目の香ばしさ",
+    "dishMethod": "焼き物",
+    "sakeFact": {
+      "feature": "豊かな旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "豊かな旨味",
+        "sourceUrl": "https://kinteki.shop/items/61bef6cc7d278d583b2dfe3a",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L26 直接記載。",
+        "productScope": "product",
+        "sourceTier": "primary",
+        "sourceDetailType": "official_product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "kinteki-junmai-ginjo-v1",
+    "dishName": "湯豆腐",
+    "before": "今夜は湯豆腐と一緒に。食事とともに楽しめる一杯です。",
+    "after": "湯豆腐は、豆腐とだしの穏やかな味を楽しむひと皿。お酒の豊かな旨味を重ねて味わいます。",
+    "dishFlavor": "豆腐とだしの穏やかな味",
+    "dishMethod": "鍋物",
+    "sakeFact": {
+      "feature": "豊かな旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "豊かな旨味",
+        "sourceUrl": "https://kinteki.shop/items/61bef6cc7d278d583b2dfe3a",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L26 直接記載。",
+        "productScope": "product",
+        "sourceTier": "primary",
+        "sourceDetailType": "official_product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "chikumanishiki-karakuchi-tokubetsu-junmai-v1",
+    "dishName": "鶏の唐揚げ",
+    "before": "濃醇な味わいを、鶏肉の旨味と衣の香ばしさと一緒に楽しむ提案です。",
+    "after": "鶏の唐揚げは、鶏肉の旨味と衣の香ばしさを楽しむひと皿。米の旨味を重ねて味わいます。",
+    "dishFlavor": "鶏肉の旨味と衣の香ばしさ",
+    "dishMethod": "揚げ物",
+    "sakeFact": {
+      "feature": "米の旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "米の旨味",
+        "sourceUrl": "https://www.chikumanishiki.com/products/chikumanishiki.php",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L43 正規化。",
+        "productScope": "product",
+        "sourceTier": "primary",
+        "sourceDetailType": "official_product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "chikumanishiki-karakuchi-tokubetsu-junmai-v1",
+    "dishName": "焼き餃子",
+    "before": "濃醇な味わいを、肉の旨味と焼き目の香ばしさと一緒に楽しむ提案です。",
+    "after": "焼き餃子の肉の旨味と焼き目の香ばしさに、米の旨味を合わせて楽しみます。",
+    "dishFlavor": "肉の旨味と焼き目の香ばしさ",
+    "dishMethod": "焼き物",
+    "sakeFact": {
+      "feature": "米の旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "米の旨味",
+        "sourceUrl": "https://www.chikumanishiki.com/products/chikumanishiki.php",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L43 正規化。",
+        "productScope": "product",
+        "sourceTier": "primary",
+        "sourceDetailType": "official_product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "shizengo-tokubetsu-junmai-v1",
+    "dishName": "鶏の唐揚げ",
+    "before": "米の旨味を、鶏肉の旨味と衣の香ばしさと一緒に楽しむ提案です。",
+    "after": "鶏の唐揚げは、鶏肉の旨味と衣の香ばしさを楽しむひと皿。米の旨味を重ねて味わいます。",
+    "dishFlavor": "鶏肉の旨味と衣の香ばしさ",
+    "dishMethod": "揚げ物",
+    "sakeFact": {
+      "feature": "米の旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "米の旨味",
+        "sourceUrl": "https://www.daikichi-sizengo.co.jp/%E8%87%AA%E7%84%B6%E9%83%B7/%E8%87%AA%E7%84%B6%E9%83%B7/",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L145 米の旨み、表記のみ正規化。",
+        "productScope": "product",
+        "sourceTier": "primary",
+        "sourceDetailType": "official_product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "shizengo-tokubetsu-junmai-v1",
+    "dishName": "焼き餃子",
+    "before": "米の旨味を、肉の旨味と焼き目の香ばしさと一緒に楽しむ提案です。",
+    "after": "焼き餃子の肉の旨味と焼き目の香ばしさに、米の旨味を合わせて楽しみます。",
+    "dishFlavor": "肉の旨味と焼き目の香ばしさ",
+    "dishMethod": "焼き物",
+    "sakeFact": {
+      "feature": "米の旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "米の旨味",
+        "sourceUrl": "https://www.daikichi-sizengo.co.jp/%E8%87%AA%E7%84%B6%E9%83%B7/%E8%87%AA%E7%84%B6%E9%83%B7/",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L145 米の旨み、表記のみ正規化。",
+        "productScope": "product",
+        "sourceTier": "primary",
+        "sourceDetailType": "official_product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "eikun-tokubetsu-junmai-homarefuji-v1",
+    "dishName": "きゅうりの浅漬け",
+    "before": "今夜はきゅうりの浅漬けと一緒に。食事とともに楽しめる一杯です。",
+    "after": "野菜の軽い塩味を楽しむきゅうりの浅漬けに、米の旨味を合わせます。",
+    "dishFlavor": "野菜の軽い塩味",
+    "dishMethod": "漬物",
+    "sakeFact": {
+      "feature": "米の旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "米の旨味",
+        "sourceUrl": "https://eikun.co.jp/product/tokubetu-junmai-homarefuji/",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L25 商品の米の旨味。",
+        "productScope": "product",
+        "sourceTier": "primary",
+        "sourceDetailType": "official_product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "eikun-tokubetsu-junmai-homarefuji-v1",
+    "dishName": "鶏の唐揚げ",
+    "before": "米の旨味を、鶏肉の旨味と衣の香ばしさと一緒に楽しむ提案です。",
+    "after": "鶏の唐揚げは、鶏肉の旨味と衣の香ばしさを楽しむひと皿。米の旨味を重ねて味わいます。",
+    "dishFlavor": "鶏肉の旨味と衣の香ばしさ",
+    "dishMethod": "揚げ物",
+    "sakeFact": {
+      "feature": "米の旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "米の旨味",
+        "sourceUrl": "https://eikun.co.jp/product/tokubetu-junmai-homarefuji/",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L25 商品の米の旨味。",
+        "productScope": "product",
+        "sourceTier": "primary",
+        "sourceDetailType": "official_product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "eikun-tokubetsu-junmai-homarefuji-v1",
+    "dishName": "枝豆",
+    "before": "今夜は枝豆と一緒に。食事とともに楽しめる一杯です。",
+    "after": "豆の甘みと塩気を楽しむ枝豆に、米の旨味を合わせます。",
+    "dishFlavor": "豆の甘みと塩気",
+    "dishMethod": "茹で物",
+    "sakeFact": {
+      "feature": "米の旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "米の旨味",
+        "sourceUrl": "https://eikun.co.jp/product/tokubetu-junmai-homarefuji/",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L25 商品の米の旨味。",
+        "productScope": "product",
+        "sourceTier": "primary",
+        "sourceDetailType": "official_product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "eikun-tokubetsu-junmai-homarefuji-v1",
+    "dishName": "焼き餃子",
+    "before": "米の旨味を、肉の旨味と焼き目の香ばしさと一緒に楽しむ提案です。",
+    "after": "焼き餃子の肉の旨味と焼き目の香ばしさに、米の旨味を合わせて楽しみます。",
+    "dishFlavor": "肉の旨味と焼き目の香ばしさ",
+    "dishMethod": "焼き物",
+    "sakeFact": {
+      "feature": "米の旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "米の旨味",
+        "sourceUrl": "https://eikun.co.jp/product/tokubetu-junmai-homarefuji/",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L25 商品の米の旨味。",
+        "productScope": "product",
+        "sourceTier": "primary",
+        "sourceDetailType": "official_product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "eikun-tokubetsu-junmai-homarefuji-v1",
+    "dishName": "湯豆腐",
+    "before": "今夜は湯豆腐と一緒に。食事とともに楽しめる一杯です。",
+    "after": "湯豆腐は、豆腐とだしの穏やかな味を楽しむひと皿。米の旨味を重ねて味わいます。",
+    "dishFlavor": "豆腐とだしの穏やかな味",
+    "dishMethod": "鍋物",
+    "sakeFact": {
+      "feature": "米の旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "米の旨味",
+        "sourceUrl": "https://eikun.co.jp/product/tokubetu-junmai-homarefuji/",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L25 商品の米の旨味。",
+        "productScope": "product",
+        "sourceTier": "primary",
+        "sourceDetailType": "official_product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "tamagawa-tokubetsu-junmai-v1",
+    "dishName": "鶏の唐揚げ",
+    "before": "旨味を、鶏肉の旨味と衣の香ばしさと一緒に楽しむ提案です。",
+    "after": "鶏の唐揚げは、鶏肉の旨味と衣の香ばしさを楽しむひと皿。お酒の旨味を重ねて味わいます。",
+    "dishFlavor": "鶏肉の旨味と衣の香ばしさ",
+    "dishMethod": "揚げ物",
+    "sakeFact": {
+      "feature": "旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "旨味",
+        "sourceUrl": "https://www.sake-tamagawa.com/prd_post/var05/",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L42 旨酒を旨味に正規化。",
+        "productScope": "product",
+        "sourceTier": "primary",
+        "sourceDetailType": "official_product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "tamagawa-tokubetsu-junmai-v1",
+    "dishName": "焼き餃子",
+    "before": "旨味を、肉の旨味と焼き目の香ばしさと一緒に楽しむ提案です。",
+    "after": "焼き餃子の肉の旨味と焼き目の香ばしさに、お酒の旨味を合わせて楽しみます。",
+    "dishFlavor": "肉の旨味と焼き目の香ばしさ",
+    "dishMethod": "焼き物",
+    "sakeFact": {
+      "feature": "旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "旨味",
+        "sourceUrl": "https://www.sake-tamagawa.com/prd_post/var05/",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L42 旨酒を旨味に正規化。",
+        "productScope": "product",
+        "sourceTier": "primary",
+        "sourceDetailType": "official_product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "tamagawa-kimoto-kounotori-v1",
+    "dishName": "鶏の唐揚げ",
+    "before": "旨味を、鶏肉の旨味と衣の香ばしさと一緒に楽しむ提案です。",
+    "after": "鶏の唐揚げは、鶏肉の旨味と衣の香ばしさを楽しむひと皿。お酒の旨味を重ねて味わいます。",
+    "dishFlavor": "鶏肉の旨味と衣の香ばしさ",
+    "dishMethod": "揚げ物",
+    "sakeFact": {
+      "feature": "旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "旨味",
+        "sourceUrl": "https://www.sake-tamagawa.com/prd_post/var04/",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L42 旨みの表記を正規化。",
+        "productScope": "product",
+        "sourceTier": "primary",
+        "sourceDetailType": "official_product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "tamagawa-kimoto-kounotori-v1",
+    "dishName": "焼き餃子",
+    "before": "旨味を、肉の旨味と焼き目の香ばしさと一緒に楽しむ提案です。",
+    "after": "焼き餃子の肉の旨味と焼き目の香ばしさに、お酒の旨味を合わせて楽しみます。",
+    "dishFlavor": "肉の旨味と焼き目の香ばしさ",
+    "dishMethod": "焼き物",
+    "sakeFact": {
+      "feature": "旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "旨味",
+        "sourceUrl": "https://www.sake-tamagawa.com/prd_post/var04/",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L42 旨みの表記を正規化。",
+        "productScope": "product",
+        "sourceTier": "primary",
+        "sourceDetailType": "official_product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "kariho-yamahai-junmai-chokarakuchi-v1",
+    "dishName": "鶏の唐揚げ",
+    "before": "旨味を、鶏肉の旨味と衣の香ばしさと一緒に楽しむ提案です。",
+    "after": "鶏の唐揚げは、鶏肉の旨味と衣の香ばしさを楽しむひと皿。お酒の旨味を重ねて味わいます。",
+    "dishFlavor": "鶏肉の旨味と衣の香ばしさ",
+    "dishMethod": "揚げ物",
+    "sakeFact": {
+      "feature": "旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "旨味",
+        "sourceUrl": "https://shop.igeta.jp/shopdetail/000000000029/ct7/page1/recommend/",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L63 旨味。",
+        "productScope": "product",
+        "sourceTier": "primary",
+        "sourceDetailType": "official_product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "kariho-yamahai-junmai-chokarakuchi-v1",
+    "dishName": "焼き餃子",
+    "before": "旨味を、肉の旨味と焼き目の香ばしさと一緒に楽しむ提案です。",
+    "after": "焼き餃子の肉の旨味と焼き目の香ばしさに、お酒の旨味を合わせて楽しみます。",
+    "dishFlavor": "肉の旨味と焼き目の香ばしさ",
+    "dishMethod": "焼き物",
+    "sakeFact": {
+      "feature": "旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "旨味",
+        "sourceUrl": "https://shop.igeta.jp/shopdetail/000000000029/ct7/page1/recommend/",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L63 旨味。",
+        "productScope": "product",
+        "sourceTier": "primary",
+        "sourceDetailType": "official_product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "bojimaya-junmai-ginjo-muroka-nama-v1",
+    "dishName": "鶏の唐揚げ",
+    "before": "旨味を、鶏肉の旨味と衣の香ばしさと一緒に楽しむ提案です。",
+    "after": "鶏の唐揚げは、鶏肉の旨味と衣の香ばしさを楽しむひと皿。お酒の旨味を重ねて味わいます。",
+    "dishFlavor": "鶏肉の旨味と衣の香ばしさ",
+    "dishMethod": "揚げ物",
+    "sakeFact": {
+      "feature": "旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "旨味",
+        "sourceUrl": "https://tokoroshuzo.com/bj008/",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L44 旨味。",
+        "productScope": "product",
+        "sourceTier": "primary",
+        "sourceDetailType": "official_product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "bojimaya-junmai-ginjo-muroka-nama-v1",
+    "dishName": "焼き餃子",
+    "before": "旨味を、肉の旨味と焼き目の香ばしさと一緒に楽しむ提案です。",
+    "after": "焼き餃子の肉の旨味と焼き目の香ばしさに、お酒の旨味を合わせて楽しみます。",
+    "dishFlavor": "肉の旨味と焼き目の香ばしさ",
+    "dishMethod": "焼き物",
+    "sakeFact": {
+      "feature": "旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "旨味",
+        "sourceUrl": "https://tokoroshuzo.com/bj008/",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L44 旨味。",
+        "productScope": "product",
+        "sourceTier": "primary",
+        "sourceDetailType": "official_product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "rokujuyoshu-junmai-ginjo-yamadanishiki-v1",
+    "dishName": "鶏の唐揚げ",
+    "before": "旨味を、鶏肉の旨味と衣の香ばしさと一緒に楽しむ提案です。",
+    "after": "鶏の唐揚げは、鶏肉の旨味と衣の香ばしさを楽しむひと皿。お酒の旨味を重ねて味わいます。",
+    "dishFlavor": "鶏肉の旨味と衣の香ばしさ",
+    "dishMethod": "揚げ物",
+    "sakeFact": {
+      "feature": "旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "旨味",
+        "sourceUrl": "https://rokujuyoshu.com/product/",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L80 明示された味。",
+        "productScope": "product",
+        "sourceTier": "primary",
+        "sourceDetailType": "official_product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "rokujuyoshu-junmai-ginjo-yamadanishiki-v1",
+    "dishName": "焼き餃子",
+    "before": "旨味を、肉の旨味と焼き目の香ばしさと一緒に楽しむ提案です。",
+    "after": "焼き餃子の肉の旨味と焼き目の香ばしさに、お酒の旨味を合わせて楽しみます。",
+    "dishFlavor": "肉の旨味と焼き目の香ばしさ",
+    "dishMethod": "焼き物",
+    "sakeFact": {
+      "feature": "旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "旨味",
+        "sourceUrl": "https://rokujuyoshu.com/product/",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L80 明示された味。",
+        "productScope": "product",
+        "sourceTier": "primary",
+        "sourceDetailType": "official_product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "fukutsuru-junmai-ginjo-v1",
+    "dishName": "鶏の唐揚げ",
+    "before": "米の旨味を、鶏肉の旨味と衣の香ばしさと一緒に楽しむ提案です。",
+    "after": "鶏の唐揚げは、鶏肉の旨味と衣の香ばしさを楽しむひと皿。米の旨味を重ねて味わいます。",
+    "dishFlavor": "鶏肉の旨味と衣の香ばしさ",
+    "dishMethod": "揚げ物",
+    "sakeFact": {
+      "feature": "米の旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "米の旨味",
+        "sourceUrl": "https://fukudashuzo.base.shop/items/71024917",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L59 米本来の旨味を正規化。",
+        "productScope": "product",
+        "sourceTier": "primary",
+        "sourceDetailType": "official_product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "fukutsuru-junmai-ginjo-v1",
+    "dishName": "焼き餃子",
+    "before": "米の旨味を、肉の旨味と焼き目の香ばしさと一緒に楽しむ提案です。",
+    "after": "焼き餃子の肉の旨味と焼き目の香ばしさに、米の旨味を合わせて楽しみます。",
+    "dishFlavor": "肉の旨味と焼き目の香ばしさ",
+    "dishMethod": "焼き物",
+    "sakeFact": {
+      "feature": "米の旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "米の旨味",
+        "sourceUrl": "https://fukudashuzo.base.shop/items/71024917",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L59 米本来の旨味を正規化。",
+        "productScope": "product",
+        "sourceTier": "primary",
+        "sourceDetailType": "official_product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "rokujuyoshu-tividq-3",
+    "dishName": "鶏の唐揚げ",
+    "before": "旨味を、鶏肉の旨味と衣の香ばしさと一緒に楽しむ提案です。",
+    "after": "鶏の唐揚げは、鶏肉の旨味と衣の香ばしさを楽しむひと皿。お酒の旨味を重ねて味わいます。",
+    "dishFlavor": "鶏肉の旨味と衣の香ばしさ",
+    "dishMethod": "揚げ物",
+    "sakeFact": {
+      "feature": "旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "旨味",
+        "sourceUrl": "https://rokujuyoshu.com/product/",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L231 直接記載。",
+        "productScope": "product",
+        "sourceTier": "primary",
+        "sourceDetailType": "official_product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "rokujuyoshu-tividq-3",
+    "dishName": "焼き餃子",
+    "before": "旨味を、肉の旨味と焼き目の香ばしさと一緒に楽しむ提案です。",
+    "after": "焼き餃子の肉の旨味と焼き目の香ばしさに、お酒の旨味を合わせて楽しみます。",
+    "dishFlavor": "肉の旨味と焼き目の香ばしさ",
+    "dishMethod": "焼き物",
+    "sakeFact": {
+      "feature": "旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "旨味",
+        "sourceUrl": "https://rokujuyoshu.com/product/",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L231 直接記載。",
+        "productScope": "product",
+        "sourceTier": "primary",
+        "sourceDetailType": "official_product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "rokujuyoshu-tividq-3",
+    "dishName": "湯豆腐",
+    "before": "湯豆腐と一緒に、晩ごはんの一杯を。",
+    "after": "湯豆腐は、豆腐とだしの穏やかな味を楽しむひと皿。お酒の旨味を重ねて味わいます。",
+    "dishFlavor": "豆腐とだしの穏やかな味",
+    "dishMethod": "鍋物",
+    "sakeFact": {
+      "feature": "旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "旨味",
+        "sourceUrl": "https://rokujuyoshu.com/product/",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L231 直接記載。",
+        "productScope": "product",
+        "sourceTier": "primary",
+        "sourceDetailType": "official_product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "nishinoseki-junmai-ginjo-bigin-v1",
+    "dishName": "鶏の唐揚げ",
+    "before": "旨味を、鶏肉の旨味と衣の香ばしさと一緒に楽しむ提案です。",
+    "after": "鶏の唐揚げは、鶏肉の旨味と衣の香ばしさを楽しむひと皿。お酒の旨味を重ねて味わいます。",
+    "dishFlavor": "鶏肉の旨味と衣の香ばしさ",
+    "dishMethod": "揚げ物",
+    "sakeFact": {
+      "feature": "旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "旨味",
+        "sourceUrl": "https://www.nishinoseki.com/product/junginshu/",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L27 直接記載。",
+        "productScope": "product",
+        "sourceTier": "primary",
+        "sourceDetailType": "official_product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "nishinoseki-junmai-ginjo-bigin-v1",
+    "dishName": "焼き餃子",
+    "before": "旨味を、肉の旨味と焼き目の香ばしさと一緒に楽しむ提案です。",
+    "after": "焼き餃子の肉の旨味と焼き目の香ばしさに、お酒の旨味を合わせて楽しみます。",
+    "dishFlavor": "肉の旨味と焼き目の香ばしさ",
+    "dishMethod": "焼き物",
+    "sakeFact": {
+      "feature": "旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "旨味",
+        "sourceUrl": "https://www.nishinoseki.com/product/junginshu/",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L27 直接記載。",
+        "productScope": "product",
+        "sourceTier": "primary",
+        "sourceDetailType": "official_product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "kozaemon-bizen-omachi-hiire-v1",
+    "dishName": "鶏の唐揚げ",
+    "before": "旨みを、鶏肉の旨味と衣の香ばしさと一緒に楽しむ提案です。",
+    "after": "鶏の唐揚げは、鶏肉の旨味と衣の香ばしさを楽しむひと皿。お酒の旨みを重ねて味わいます。",
+    "dishFlavor": "鶏肉の旨味と衣の香ばしさ",
+    "dishMethod": "揚げ物",
+    "sakeFact": {
+      "feature": "旨み",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "旨み",
+        "sourceUrl": "https://kozaemon.jp/menu/853558",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L19–23 直接記載。",
+        "productScope": "product",
+        "sourceTier": "primary",
+        "sourceDetailType": "official_product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "kozaemon-bizen-omachi-hiire-v1",
+    "dishName": "焼き餃子",
+    "before": "旨みを、肉の旨味と焼き目の香ばしさと一緒に楽しむ提案です。",
+    "after": "焼き餃子の肉の旨味と焼き目の香ばしさに、お酒の旨みを合わせて楽しみます。",
+    "dishFlavor": "肉の旨味と焼き目の香ばしさ",
+    "dishMethod": "焼き物",
+    "sakeFact": {
+      "feature": "旨み",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "旨み",
+        "sourceUrl": "https://kozaemon.jp/menu/853558",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L19–23 直接記載。",
+        "productScope": "product",
+        "sourceTier": "primary",
+        "sourceDetailType": "official_product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "mikadomatsu-shacho-no-sake-v1",
+    "dishName": "きゅうりの浅漬け",
+    "before": "今夜はきゅうりの浅漬けと一緒に。食事とともに楽しめる一杯です。",
+    "after": "野菜の軽い塩味を楽しむきゅうりの浅漬けに、お酒の旨みを合わせます。",
+    "dishFlavor": "野菜の軽い塩味",
+    "dishMethod": "漬物",
+    "sakeFact": {
+      "feature": "旨み",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "旨み",
+        "sourceUrl": "https://www.mikadomatsu.com/item/",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L84 直接記載。",
+        "productScope": "product",
+        "sourceTier": "primary",
+        "sourceDetailType": "official_product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "mikadomatsu-shacho-no-sake-v1",
+    "dishName": "鶏の唐揚げ",
+    "before": "旨みを、鶏肉の旨味と衣の香ばしさと一緒に楽しむ提案です。",
+    "after": "鶏の唐揚げは、鶏肉の旨味と衣の香ばしさを楽しむひと皿。お酒の旨みを重ねて味わいます。",
+    "dishFlavor": "鶏肉の旨味と衣の香ばしさ",
+    "dishMethod": "揚げ物",
+    "sakeFact": {
+      "feature": "旨み",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "旨み",
+        "sourceUrl": "https://www.mikadomatsu.com/item/",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L84 直接記載。",
+        "productScope": "product",
+        "sourceTier": "primary",
+        "sourceDetailType": "official_product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "mikadomatsu-shacho-no-sake-v1",
+    "dishName": "枝豆",
+    "before": "今夜は枝豆と一緒に。食事とともに楽しめる一杯です。",
+    "after": "豆の甘みと塩気を楽しむ枝豆に、お酒の旨みを合わせます。",
+    "dishFlavor": "豆の甘みと塩気",
+    "dishMethod": "茹で物",
+    "sakeFact": {
+      "feature": "旨み",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "旨み",
+        "sourceUrl": "https://www.mikadomatsu.com/item/",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L84 直接記載。",
+        "productScope": "product",
+        "sourceTier": "primary",
+        "sourceDetailType": "official_product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "mikadomatsu-shacho-no-sake-v1",
+    "dishName": "焼き餃子",
+    "before": "旨みを、肉の旨味と焼き目の香ばしさと一緒に楽しむ提案です。",
+    "after": "焼き餃子の肉の旨味と焼き目の香ばしさに、お酒の旨みを合わせて楽しみます。",
+    "dishFlavor": "肉の旨味と焼き目の香ばしさ",
+    "dishMethod": "焼き物",
+    "sakeFact": {
+      "feature": "旨み",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "旨み",
+        "sourceUrl": "https://www.mikadomatsu.com/item/",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L84 直接記載。",
+        "productScope": "product",
+        "sourceTier": "primary",
+        "sourceDetailType": "official_product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "mikadomatsu-shacho-no-sake-v1",
+    "dishName": "湯豆腐",
+    "before": "今夜は湯豆腐と一緒に。食事とともに楽しめる一杯です。",
+    "after": "湯豆腐は、豆腐とだしの穏やかな味を楽しむひと皿。お酒の旨みを重ねて味わいます。",
+    "dishFlavor": "豆腐とだしの穏やかな味",
+    "dishMethod": "鍋物",
+    "sakeFact": {
+      "feature": "旨み",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "旨み",
+        "sourceUrl": "https://www.mikadomatsu.com/item/",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L84 直接記載。",
+        "productScope": "product",
+        "sourceTier": "primary",
+        "sourceDetailType": "official_product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "izumibashi-momoiro-kurotonbo-shinriki-v1",
+    "dishName": "鶏の唐揚げ",
+    "before": "優しい旨みを、鶏肉の旨味と衣の香ばしさと一緒に楽しむ提案です。",
+    "after": "鶏の唐揚げは、鶏肉の旨味と衣の香ばしさを楽しむひと皿。お酒の優しい旨みを重ねて味わいます。",
+    "dishFlavor": "鶏肉の旨味と衣の香ばしさ",
+    "dishMethod": "揚げ物",
+    "sakeFact": {
+      "feature": "優しい旨み",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "優しい旨み",
+        "sourceUrl": "https://izumibashi.com/product/momoiro_black_dragonfly/",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L38 形容まで直接記載。",
+        "productScope": "product",
+        "sourceTier": "primary",
+        "sourceDetailType": "official_product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "izumibashi-momoiro-kurotonbo-shinriki-v1",
+    "dishName": "焼き餃子",
+    "before": "優しい旨みを、肉の旨味と焼き目の香ばしさと一緒に楽しむ提案です。",
+    "after": "焼き餃子の肉の旨味と焼き目の香ばしさに、お酒の優しい旨みを合わせて楽しみます。",
+    "dishFlavor": "肉の旨味と焼き目の香ばしさ",
+    "dishMethod": "焼き物",
+    "sakeFact": {
+      "feature": "優しい旨み",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "優しい旨み",
+        "sourceUrl": "https://izumibashi.com/product/momoiro_black_dragonfly/",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L38 形容まで直接記載。",
+        "productScope": "product",
+        "sourceTier": "primary",
+        "sourceDetailType": "official_product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "gozenshu-junmai-mimasaka-v1",
+    "dishName": "鶏の唐揚げ",
+    "before": "旨味を、鶏肉の旨味と衣の香ばしさと一緒に楽しむ提案です。",
+    "after": "鶏の唐揚げは、鶏肉の旨味と衣の香ばしさを楽しむひと皿。お酒の旨味を重ねて味わいます。",
+    "dishFlavor": "鶏肉の旨味と衣の香ばしさ",
+    "dishMethod": "揚げ物",
+    "sakeFact": {
+      "feature": "旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "旨味",
+        "sourceUrl": "https://www.gozenshu.co.jp/SHOP/tuji-008.html",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L33 旨みを正規化。",
+        "productScope": "product",
+        "sourceTier": "primary",
+        "sourceDetailType": "official_product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "gozenshu-junmai-mimasaka-v1",
+    "dishName": "焼き餃子",
+    "before": "旨味を、肉の旨味と焼き目の香ばしさと一緒に楽しむ提案です。",
+    "after": "焼き餃子の肉の旨味と焼き目の香ばしさに、お酒の旨味を合わせて楽しみます。",
+    "dishFlavor": "肉の旨味と焼き目の香ばしさ",
+    "dishMethod": "焼き物",
+    "sakeFact": {
+      "feature": "旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "旨味",
+        "sourceUrl": "https://www.gozenshu.co.jp/SHOP/tuji-008.html",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L33 旨みを正規化。",
+        "productScope": "product",
+        "sourceTier": "primary",
+        "sourceDetailType": "official_product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "kawatsuru-junmai-ooseto-hiire-v1",
+    "dishName": "きゅうりの浅漬け",
+    "before": "今夜はきゅうりの浅漬けと一緒に。食事とともに楽しめる一杯です。",
+    "after": "野菜の軽い塩味を楽しむきゅうりの浅漬けに、米の旨味を合わせます。",
+    "dishFlavor": "野菜の軽い塩味",
+    "dishMethod": "漬物",
+    "sakeFact": {
+      "feature": "米の旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "米の旨味",
+        "sourceUrl": "https://kawatsuru.com/product/product02/",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L29 直接記載。",
+        "productScope": "product",
+        "sourceTier": "primary",
+        "sourceDetailType": "official_product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "kawatsuru-junmai-ooseto-hiire-v1",
+    "dishName": "鶏の唐揚げ",
+    "before": "米の旨味を、鶏肉の旨味と衣の香ばしさと一緒に楽しむ提案です。",
+    "after": "鶏の唐揚げは、鶏肉の旨味と衣の香ばしさを楽しむひと皿。米の旨味を重ねて味わいます。",
+    "dishFlavor": "鶏肉の旨味と衣の香ばしさ",
+    "dishMethod": "揚げ物",
+    "sakeFact": {
+      "feature": "米の旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "米の旨味",
+        "sourceUrl": "https://kawatsuru.com/product/product02/",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L29 直接記載。",
+        "productScope": "product",
+        "sourceTier": "primary",
+        "sourceDetailType": "official_product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "kawatsuru-junmai-ooseto-hiire-v1",
+    "dishName": "枝豆",
+    "before": "今夜は枝豆と一緒に。食事とともに楽しめる一杯です。",
+    "after": "豆の甘みと塩気を楽しむ枝豆に、米の旨味を合わせます。",
+    "dishFlavor": "豆の甘みと塩気",
+    "dishMethod": "茹で物",
+    "sakeFact": {
+      "feature": "米の旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "米の旨味",
+        "sourceUrl": "https://kawatsuru.com/product/product02/",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L29 直接記載。",
+        "productScope": "product",
+        "sourceTier": "primary",
+        "sourceDetailType": "official_product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "kawatsuru-junmai-ooseto-hiire-v1",
+    "dishName": "焼き餃子",
+    "before": "米の旨味を、肉の旨味と焼き目の香ばしさと一緒に楽しむ提案です。",
+    "after": "焼き餃子の肉の旨味と焼き目の香ばしさに、米の旨味を合わせて楽しみます。",
+    "dishFlavor": "肉の旨味と焼き目の香ばしさ",
+    "dishMethod": "焼き物",
+    "sakeFact": {
+      "feature": "米の旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "米の旨味",
+        "sourceUrl": "https://kawatsuru.com/product/product02/",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L29 直接記載。",
+        "productScope": "product",
+        "sourceTier": "primary",
+        "sourceDetailType": "official_product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "kawatsuru-junmai-ooseto-hiire-v1",
+    "dishName": "湯豆腐",
+    "before": "今夜は湯豆腐と一緒に。食事とともに楽しめる一杯です。",
+    "after": "湯豆腐は、豆腐とだしの穏やかな味を楽しむひと皿。米の旨味を重ねて味わいます。",
+    "dishFlavor": "豆腐とだしの穏やかな味",
+    "dishMethod": "鍋物",
+    "sakeFact": {
+      "feature": "米の旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "米の旨味",
+        "sourceUrl": "https://kawatsuru.com/product/product02/",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L29 直接記載。",
+        "productScope": "product",
+        "sourceTier": "primary",
+        "sourceDetailType": "official_product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "sakehitosuji-junmai-ginjo-kinrei-v1",
+    "dishName": "鶏の唐揚げ",
+    "before": "米の旨味を、鶏肉の旨味と衣の香ばしさと一緒に楽しむ提案です。",
+    "after": "鶏の唐揚げは、鶏肉の旨味と衣の香ばしさを楽しむひと皿。米の旨味を重ねて味わいます。",
+    "dishFlavor": "鶏肉の旨味と衣の香ばしさ",
+    "dishMethod": "揚げ物",
+    "sakeFact": {
+      "feature": "米の旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "米の旨味",
+        "sourceUrl": "https://shop.sakehitosuji.co.jp/product/junmaiginjo-kinrei/",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L156–157 直接記載。",
+        "productScope": "product",
+        "sourceTier": "primary",
+        "sourceDetailType": "official_product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "sakehitosuji-junmai-ginjo-kinrei-v1",
+    "dishName": "焼き餃子",
+    "before": "米の旨味を、肉の旨味と焼き目の香ばしさと一緒に楽しむ提案です。",
+    "after": "焼き餃子の肉の旨味と焼き目の香ばしさに、米の旨味を合わせて楽しみます。",
+    "dishFlavor": "肉の旨味と焼き目の香ばしさ",
+    "dishMethod": "焼き物",
+    "sakeFact": {
+      "feature": "米の旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "米の旨味",
+        "sourceUrl": "https://shop.sakehitosuji.co.jp/product/junmaiginjo-kinrei/",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L156–157 直接記載。",
+        "productScope": "product",
+        "sourceTier": "primary",
+        "sourceDetailType": "official_product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "akaiwaomachi-junmai-daiginjo-standard-v1",
+    "dishName": "鶏の唐揚げ",
+    "before": "旨味を、鶏肉の旨味と衣の香ばしさと一緒に楽しむ提案です。",
+    "after": "鶏の唐揚げは、鶏肉の旨味と衣の香ばしさを楽しむひと皿。お酒の旨味を重ねて味わいます。",
+    "dishFlavor": "鶏肉の旨味と衣の香ばしさ",
+    "dishMethod": "揚げ物",
+    "sakeFact": {
+      "feature": "旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "旨味",
+        "sourceUrl": "https://sakehitosuji.thebase.in/items/27058415",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L62 直接記載。",
+        "productScope": "product",
+        "sourceTier": "primary",
+        "sourceDetailType": "official_product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "akaiwaomachi-junmai-daiginjo-standard-v1",
+    "dishName": "焼き餃子",
+    "before": "旨味を、肉の旨味と焼き目の香ばしさと一緒に楽しむ提案です。",
+    "after": "焼き餃子の肉の旨味と焼き目の香ばしさに、お酒の旨味を合わせて楽しみます。",
+    "dishFlavor": "肉の旨味と焼き目の香ばしさ",
+    "dishMethod": "焼き物",
+    "sakeFact": {
+      "feature": "旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "旨味",
+        "sourceUrl": "https://sakehitosuji.thebase.in/items/27058415",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L62 直接記載。",
+        "productScope": "product",
+        "sourceTier": "primary",
+        "sourceDetailType": "official_product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "iyo-kagiya-junmai-aka-label-v1",
+    "dishName": "鶏の唐揚げ",
+    "before": "米の旨味を、鶏肉の旨味と衣の香ばしさと一緒に楽しむ提案です。",
+    "after": "鶏の唐揚げは、鶏肉の旨味と衣の香ばしさを楽しむひと皿。米の旨味を重ねて味わいます。",
+    "dishFlavor": "鶏肉の旨味と衣の香ばしさ",
+    "dishMethod": "揚げ物",
+    "sakeFact": {
+      "feature": "米の旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "米の旨味",
+        "sourceUrl": "https://www.seiryosyuzo.com/brands/standard",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L81 直接記載。",
+        "productScope": "product",
+        "sourceTier": "primary",
+        "sourceDetailType": "official_product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "iyo-kagiya-junmai-aka-label-v1",
+    "dishName": "焼き餃子",
+    "before": "米の旨味を、肉の旨味と焼き目の香ばしさと一緒に楽しむ提案です。",
+    "after": "焼き餃子の肉の旨味と焼き目の香ばしさに、米の旨味を合わせて楽しみます。",
+    "dishFlavor": "肉の旨味と焼き目の香ばしさ",
+    "dishMethod": "焼き物",
+    "sakeFact": {
+      "feature": "米の旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "米の旨味",
+        "sourceUrl": "https://www.seiryosyuzo.com/brands/standard",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L81 直接記載。",
+        "productScope": "product",
+        "sourceTier": "primary",
+        "sourceDetailType": "official_product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "seiryozen-tokubetsu-junmai-the-plains-v1",
+    "dishName": "鶏の唐揚げ",
+    "before": "米の旨味を、鶏肉の旨味と衣の香ばしさと一緒に楽しむ提案です。",
+    "after": "鶏の唐揚げは、鶏肉の旨味と衣の香ばしさを楽しむひと皿。米の旨味を重ねて味わいます。",
+    "dishFlavor": "鶏肉の旨味と衣の香ばしさ",
+    "dishMethod": "揚げ物",
+    "sakeFact": {
+      "feature": "米の旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "米の旨味",
+        "sourceUrl": "https://www.seiryosyuzo.com/blog/6011",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L90 旨みを旨味へ正規化。",
+        "productScope": "product",
+        "sourceTier": "primary",
+        "sourceDetailType": "official_product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "seiryozen-tokubetsu-junmai-the-plains-v1",
+    "dishName": "焼き餃子",
+    "before": "米の旨味を、肉の旨味と焼き目の香ばしさと一緒に楽しむ提案です。",
+    "after": "焼き餃子の肉の旨味と焼き目の香ばしさに、米の旨味を合わせて楽しみます。",
+    "dishFlavor": "肉の旨味と焼き目の香ばしさ",
+    "dishMethod": "焼き物",
+    "sakeFact": {
+      "feature": "米の旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "米の旨味",
+        "sourceUrl": "https://www.seiryosyuzo.com/blog/6011",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L90 旨みを旨味へ正規化。",
+        "productScope": "product",
+        "sourceTier": "primary",
+        "sourceDetailType": "official_product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "takakiya-karakuchi-tokubetsu-junmai-v1",
+    "dishName": "鶏の唐揚げ",
+    "before": "旨味を、鶏肉の旨味と衣の香ばしさと一緒に楽しむ提案です。",
+    "after": "鶏の唐揚げは、鶏肉の旨味と衣の香ばしさを楽しむひと皿。お酒の旨味を重ねて味わいます。",
+    "dishFlavor": "鶏肉の旨味と衣の香ばしさ",
+    "dishMethod": "揚げ物",
+    "sakeFact": {
+      "feature": "旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "旨味",
+        "sourceUrl": "https://www.sakenokimata.jp/item/sake/387",
+        "sourceType": "trustedRetailer",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L37 旨みを旨味へ正規化。",
+        "productScope": "product",
+        "sourceTier": "secondary",
+        "sourceDetailType": "specialist_retailer_product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "takakiya-karakuchi-tokubetsu-junmai-v1",
+    "dishName": "焼き餃子",
+    "before": "旨味を、肉の旨味と焼き目の香ばしさと一緒に楽しむ提案です。",
+    "after": "焼き餃子の肉の旨味と焼き目の香ばしさに、お酒の旨味を合わせて楽しみます。",
+    "dishFlavor": "肉の旨味と焼き目の香ばしさ",
+    "dishMethod": "焼き物",
+    "sakeFact": {
+      "feature": "旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "旨味",
+        "sourceUrl": "https://www.sakenokimata.jp/item/sake/387",
+        "sourceType": "trustedRetailer",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L37 旨みを旨味へ正規化。",
+        "productScope": "product",
+        "sourceTier": "secondary",
+        "sourceDetailType": "specialist_retailer_product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "tonbo-tokubetsu-junmai-standard-v1",
+    "dishName": "きゅうりの浅漬け",
+    "before": "今夜はきゅうりの浅漬けと一緒に。食事とともに楽しめる一杯です。",
+    "after": "野菜の軽い塩味を楽しむきゅうりの浅漬けに、お酒の旨味を合わせます。",
+    "dishFlavor": "野菜の軽い塩味",
+    "dishMethod": "漬物",
+    "sakeFact": {
+      "feature": "旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "旨味",
+        "sourceUrl": "https://www.tomozoe-honten.co.jp/view/item/000000000114",
+        "sourceType": "trustedRetailer",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L35 商品別の米の旨味。",
+        "productScope": "product",
+        "sourceTier": "secondary",
+        "sourceDetailType": "specialist_retailer_product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "tonbo-tokubetsu-junmai-standard-v1",
+    "dishName": "鶏の唐揚げ",
+    "before": "旨味を、鶏肉の旨味と衣の香ばしさと一緒に楽しむ提案です。",
+    "after": "鶏の唐揚げは、鶏肉の旨味と衣の香ばしさを楽しむひと皿。お酒の旨味を重ねて味わいます。",
+    "dishFlavor": "鶏肉の旨味と衣の香ばしさ",
+    "dishMethod": "揚げ物",
+    "sakeFact": {
+      "feature": "旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "旨味",
+        "sourceUrl": "https://www.tomozoe-honten.co.jp/view/item/000000000114",
+        "sourceType": "trustedRetailer",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L35 商品別の米の旨味。",
+        "productScope": "product",
+        "sourceTier": "secondary",
+        "sourceDetailType": "specialist_retailer_product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "tonbo-tokubetsu-junmai-standard-v1",
+    "dishName": "枝豆",
+    "before": "今夜は枝豆と一緒に。食事とともに楽しめる一杯です。",
+    "after": "豆の甘みと塩気を楽しむ枝豆に、お酒の旨味を合わせます。",
+    "dishFlavor": "豆の甘みと塩気",
+    "dishMethod": "茹で物",
+    "sakeFact": {
+      "feature": "旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "旨味",
+        "sourceUrl": "https://www.tomozoe-honten.co.jp/view/item/000000000114",
+        "sourceType": "trustedRetailer",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L35 商品別の米の旨味。",
+        "productScope": "product",
+        "sourceTier": "secondary",
+        "sourceDetailType": "specialist_retailer_product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "tonbo-tokubetsu-junmai-standard-v1",
+    "dishName": "焼き餃子",
+    "before": "旨味を、肉の旨味と焼き目の香ばしさと一緒に楽しむ提案です。",
+    "after": "焼き餃子の肉の旨味と焼き目の香ばしさに、お酒の旨味を合わせて楽しみます。",
+    "dishFlavor": "肉の旨味と焼き目の香ばしさ",
+    "dishMethod": "焼き物",
+    "sakeFact": {
+      "feature": "旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "旨味",
+        "sourceUrl": "https://www.tomozoe-honten.co.jp/view/item/000000000114",
+        "sourceType": "trustedRetailer",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L35 商品別の米の旨味。",
+        "productScope": "product",
+        "sourceTier": "secondary",
+        "sourceDetailType": "specialist_retailer_product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "tonbo-tokubetsu-junmai-standard-v1",
+    "dishName": "湯豆腐",
+    "before": "今夜は湯豆腐と一緒に。食事とともに楽しめる一杯です。",
+    "after": "湯豆腐は、豆腐とだしの穏やかな味を楽しむひと皿。お酒の旨味を重ねて味わいます。",
+    "dishFlavor": "豆腐とだしの穏やかな味",
+    "dishMethod": "鍋物",
+    "sakeFact": {
+      "feature": "旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "旨味",
+        "sourceUrl": "https://www.tomozoe-honten.co.jp/view/item/000000000114",
+        "sourceType": "trustedRetailer",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L35 商品別の米の旨味。",
+        "productScope": "product",
+        "sourceTier": "secondary",
+        "sourceDetailType": "specialist_retailer_product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "kitanonishiki-maruta-tokubetsu-junmai-v1",
+    "dishName": "きゅうりの浅漬け",
+    "before": "今夜はきゅうりの浅漬けと一緒に。食事とともに楽しめる一杯です。",
+    "after": "野菜の軽い塩味を楽しむきゅうりの浅漬けに、米の旨味を合わせます。",
+    "dishFlavor": "野菜の軽い塩味",
+    "dishMethod": "漬物",
+    "sakeFact": {
+      "feature": "米の旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "米の旨味",
+        "sourceUrl": "https://kitanonishik.official.ec/items/13254699",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L53 直接記載。",
+        "productScope": "product",
+        "sourceTier": "primary",
+        "sourceDetailType": "official_product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "kitanonishiki-maruta-tokubetsu-junmai-v1",
+    "dishName": "枝豆",
+    "before": "今夜は枝豆と一緒に。食事とともに楽しめる一杯です。",
+    "after": "豆の甘みと塩気を楽しむ枝豆に、米の旨味を合わせます。",
+    "dishFlavor": "豆の甘みと塩気",
+    "dishMethod": "茹で物",
+    "sakeFact": {
+      "feature": "米の旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "米の旨味",
+        "sourceUrl": "https://kitanonishik.official.ec/items/13254699",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L53 直接記載。",
+        "productScope": "product",
+        "sourceTier": "primary",
+        "sourceDetailType": "official_product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "kitanonishiki-maruta-tokubetsu-junmai-v1",
+    "dishName": "湯豆腐",
+    "before": "今夜は湯豆腐と一緒に。食事とともに楽しめる一杯です。",
+    "after": "湯豆腐は、豆腐とだしの穏やかな味を楽しむひと皿。米の旨味を重ねて味わいます。",
+    "dishFlavor": "豆腐とだしの穏やかな味",
+    "dishMethod": "鍋物",
+    "sakeFact": {
+      "feature": "米の旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "米の旨味",
+        "sourceUrl": "https://kitanonishik.official.ec/items/13254699",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L53 直接記載。",
+        "productScope": "product",
+        "sourceTier": "primary",
+        "sourceDetailType": "official_product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "kurawanka-junmai-usunigori-v1",
+    "dishName": "鶏の唐揚げ",
+    "before": "米の旨味を、鶏肉の旨味と衣の香ばしさと一緒に楽しむ提案です。",
+    "after": "鶏の唐揚げは、鶏肉の旨味と衣の香ばしさを楽しむひと皿。米の旨味を重ねて味わいます。",
+    "dishFlavor": "鶏肉の旨味と衣の香ばしさ",
+    "dishMethod": "揚げ物",
+    "sakeFact": {
+      "feature": "米の旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "米の旨味",
+        "sourceUrl": "https://www.katanosakura.com/item/a047/",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L43 直接記載。",
+        "productScope": "product",
+        "sourceTier": "primary",
+        "sourceDetailType": "official_product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "kurawanka-junmai-usunigori-v1",
+    "dishName": "焼き餃子",
+    "before": "米の旨味を、肉の旨味と焼き目の香ばしさと一緒に楽しむ提案です。",
+    "after": "焼き餃子の肉の旨味と焼き目の香ばしさに、米の旨味を合わせて楽しみます。",
+    "dishFlavor": "肉の旨味と焼き目の香ばしさ",
+    "dishMethod": "焼き物",
+    "sakeFact": {
+      "feature": "米の旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "米の旨味",
+        "sourceUrl": "https://www.katanosakura.com/item/a047/",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L43 直接記載。",
+        "productScope": "product",
+        "sourceTier": "primary",
+        "sourceDetailType": "official_product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "tsuchida-12-standard-v1",
+    "dishName": "きゅうりの浅漬け",
+    "before": "今夜はきゅうりの浅漬けと一緒に。食事とともに楽しめる一杯です。",
+    "after": "野菜の軽い塩味を楽しむきゅうりの浅漬けに、お酒の旨味を合わせます。",
+    "dishFlavor": "野菜の軽い塩味",
+    "dishMethod": "漬物",
+    "sakeFact": {
+      "feature": "旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "旨味",
+        "sourceUrl": "https://cart.homare.biz/i/S0085",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L43 直接記載。",
+        "productScope": "product",
+        "sourceTier": "primary",
+        "sourceDetailType": "official_product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "tsuchida-12-standard-v1",
+    "dishName": "鶏の唐揚げ",
+    "before": "コクを、鶏肉の旨味と衣の香ばしさと一緒に楽しむ提案です。",
+    "after": "鶏の唐揚げは、鶏肉の旨味と衣の香ばしさを楽しむひと皿。お酒の旨味を重ねて味わいます。",
+    "dishFlavor": "鶏肉の旨味と衣の香ばしさ",
+    "dishMethod": "揚げ物",
+    "sakeFact": {
+      "feature": "旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "旨味",
+        "sourceUrl": "https://cart.homare.biz/i/S0085",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L43 直接記載。",
+        "productScope": "product",
+        "sourceTier": "primary",
+        "sourceDetailType": "official_product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "tsuchida-12-standard-v1",
+    "dishName": "枝豆",
+    "before": "今夜は枝豆と一緒に。食事とともに楽しめる一杯です。",
+    "after": "豆の甘みと塩気を楽しむ枝豆に、お酒の旨味を合わせます。",
+    "dishFlavor": "豆の甘みと塩気",
+    "dishMethod": "茹で物",
+    "sakeFact": {
+      "feature": "旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "旨味",
+        "sourceUrl": "https://cart.homare.biz/i/S0085",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L43 直接記載。",
+        "productScope": "product",
+        "sourceTier": "primary",
+        "sourceDetailType": "official_product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "tsuchida-12-standard-v1",
+    "dishName": "焼き餃子",
+    "before": "コクを、肉の旨味と焼き目の香ばしさと一緒に楽しむ提案です。",
+    "after": "焼き餃子の肉の旨味と焼き目の香ばしさに、お酒の旨味を合わせて楽しみます。",
+    "dishFlavor": "肉の旨味と焼き目の香ばしさ",
+    "dishMethod": "焼き物",
+    "sakeFact": {
+      "feature": "旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "旨味",
+        "sourceUrl": "https://cart.homare.biz/i/S0085",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L43 直接記載。",
+        "productScope": "product",
+        "sourceTier": "primary",
+        "sourceDetailType": "official_product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "tsuchida-12-standard-v1",
+    "dishName": "湯豆腐",
+    "before": "今夜は湯豆腐と一緒に。食事とともに楽しめる一杯です。",
+    "after": "湯豆腐は、豆腐とだしの穏やかな味を楽しむひと皿。お酒の旨味を重ねて味わいます。",
+    "dishFlavor": "豆腐とだしの穏やかな味",
+    "dishMethod": "鍋物",
+    "sakeFact": {
+      "feature": "旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "旨味",
+        "sourceUrl": "https://cart.homare.biz/i/S0085",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L43 直接記載。",
+        "productScope": "product",
+        "sourceTier": "primary",
+        "sourceDetailType": "official_product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "toyonoume-yoiyoi-junmai-ginjo-v1",
+    "dishName": "鶏の唐揚げ",
+    "before": "米の旨味を、鶏肉の旨味と衣の香ばしさと一緒に楽しむ提案です。",
+    "after": "鶏の唐揚げは、鶏肉の旨味と衣の香ばしさを楽しむひと皿。米の旨味を重ねて味わいます。",
+    "dishFlavor": "鶏肉の旨味と衣の香ばしさ",
+    "dishMethod": "揚げ物",
+    "sakeFact": {
+      "feature": "米の旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "米の旨味",
+        "sourceUrl": "https://toyonoume.com/products/toyonoume/",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L45 旨みの表記正規化。",
+        "productScope": "product",
+        "sourceTier": "primary",
+        "sourceDetailType": "official_product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "toyonoume-yoiyoi-junmai-ginjo-v1",
+    "dishName": "焼き餃子",
+    "before": "米の旨味を、肉の旨味と焼き目の香ばしさと一緒に楽しむ提案です。",
+    "after": "焼き餃子の肉の旨味と焼き目の香ばしさに、米の旨味を合わせて楽しみます。",
+    "dishFlavor": "肉の旨味と焼き目の香ばしさ",
+    "dishMethod": "焼き物",
+    "sakeFact": {
+      "feature": "米の旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "米の旨味",
+        "sourceUrl": "https://toyonoume.com/products/toyonoume/",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L45 旨みの表記正規化。",
+        "productScope": "product",
+        "sourceTier": "primary",
+        "sourceDetailType": "official_product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "yachihoko-junmai-ginjo-standard-v1",
+    "dishName": "鶏の唐揚げ",
+    "before": "米の旨味を、鶏肉の旨味と衣の香ばしさと一緒に楽しむ提案です。",
+    "after": "鶏の唐揚げは、鶏肉の旨味と衣の香ばしさを楽しむひと皿。米の旨味を重ねて味わいます。",
+    "dishFlavor": "鶏肉の旨味と衣の香ばしさ",
+    "dishMethod": "揚げ物",
+    "sakeFact": {
+      "feature": "米の旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "米の旨味",
+        "sourceUrl": "https://shimane-sake.or.jp/sakebrewery/asahi/",
+        "sourceType": "industryOrganization",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L47 米の旨みを正規化。",
+        "productScope": "product",
+        "sourceTier": "primary",
+        "sourceDetailType": "industry_product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "yachihoko-junmai-ginjo-standard-v1",
+    "dishName": "焼き餃子",
+    "before": "米の旨味を、肉の旨味と焼き目の香ばしさと一緒に楽しむ提案です。",
+    "after": "焼き餃子の肉の旨味と焼き目の香ばしさに、米の旨味を合わせて楽しみます。",
+    "dishFlavor": "肉の旨味と焼き目の香ばしさ",
+    "dishMethod": "焼き物",
+    "sakeFact": {
+      "feature": "米の旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "米の旨味",
+        "sourceUrl": "https://shimane-sake.or.jp/sakebrewery/asahi/",
+        "sourceType": "industryOrganization",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L47 米の旨みを正規化。",
+        "productScope": "product",
+        "sourceTier": "primary",
+        "sourceDetailType": "industry_product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "kirei-karakuchi-junmai-hachiju-hiire-v1",
+    "dishName": "鶏の唐揚げ",
+    "before": "米の旨味を、鶏肉の旨味と衣の香ばしさと一緒に楽しむ提案です。",
+    "after": "鶏の唐揚げは、鶏肉の旨味と衣の香ばしさを楽しむひと皿。米の旨味を重ねて味わいます。",
+    "dishFlavor": "鶏肉の旨味と衣の香ばしさ",
+    "dishMethod": "揚げ物",
+    "sakeFact": {
+      "feature": "米の旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "米の旨味",
+        "sourceUrl": "https://www.sake-nozaki.jp/product/1029",
+        "sourceType": "trustedRetailer",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L21 直接記載。",
+        "productScope": "product",
+        "sourceTier": "secondary",
+        "sourceDetailType": "specialist_retailer_product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "kirei-karakuchi-junmai-hachiju-hiire-v1",
+    "dishName": "焼き餃子",
+    "before": "米の旨味を、肉の旨味と焼き目の香ばしさと一緒に楽しむ提案です。",
+    "after": "焼き餃子の肉の旨味と焼き目の香ばしさに、米の旨味を合わせて楽しみます。",
+    "dishFlavor": "肉の旨味と焼き目の香ばしさ",
+    "dishMethod": "焼き物",
+    "sakeFact": {
+      "feature": "米の旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "米の旨味",
+        "sourceUrl": "https://www.sake-nozaki.jp/product/1029",
+        "sourceType": "trustedRetailer",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L21 直接記載。",
+        "productScope": "product",
+        "sourceTier": "secondary",
+        "sourceDetailType": "specialist_retailer_product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "houken-junmai-ginjo-hattannishiki-standard-v1",
+    "dishName": "鶏の唐揚げ",
+    "before": "米の旨味を、鶏肉の旨味と衣の香ばしさと一緒に楽しむ提案です。",
+    "after": "鶏の唐揚げは、鶏肉の旨味と衣の香ばしさを楽しむひと皿。米の旨味を重ねて味わいます。",
+    "dishFlavor": "鶏肉の旨味と衣の香ばしさ",
+    "dishMethod": "揚げ物",
+    "sakeFact": {
+      "feature": "米の旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "米の旨味",
+        "sourceUrl": "https://www.yamanaka-sake.shop/view/item/000000000263?category_page_id=ct1608",
+        "sourceType": "trustedRetailer",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L312 米の旨みを正規化。",
+        "productScope": "product",
+        "sourceTier": "secondary",
+        "sourceDetailType": "specialist_retailer_product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "houken-junmai-ginjo-hattannishiki-standard-v1",
+    "dishName": "焼き餃子",
+    "before": "米の旨味を、肉の旨味と焼き目の香ばしさと一緒に楽しむ提案です。",
+    "after": "焼き餃子の肉の旨味と焼き目の香ばしさに、米の旨味を合わせて楽しみます。",
+    "dishFlavor": "肉の旨味と焼き目の香ばしさ",
+    "dishMethod": "焼き物",
+    "sakeFact": {
+      "feature": "米の旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "米の旨味",
+        "sourceUrl": "https://www.yamanaka-sake.shop/view/item/000000000263?category_page_id=ct1608",
+        "sourceType": "trustedRetailer",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L312 米の旨みを正規化。",
+        "productScope": "product",
+        "sourceTier": "secondary",
+        "sourceDetailType": "specialist_retailer_product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "kokuryu-icchorai-jungin-standard-v1",
+    "dishName": "鶏の唐揚げ",
+    "before": "旨味を、鶏肉の旨味と衣の香ばしさと一緒に楽しむ提案です。",
+    "after": "鶏の唐揚げは、鶏肉の旨味と衣の香ばしさを楽しむひと皿。お酒の旨味を重ねて味わいます。",
+    "dishFlavor": "鶏肉の旨味と衣の香ばしさ",
+    "dishMethod": "揚げ物",
+    "sakeFact": {
+      "feature": "旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "旨味",
+        "sourceUrl": "https://www.kagimoto.com/shopdetail/000000003725/",
+        "sourceType": "trustedRetailer",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L317 旨味を短縮。",
+        "productScope": "product",
+        "sourceTier": "secondary",
+        "sourceDetailType": "specialist_retailer_product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "kokuryu-icchorai-jungin-standard-v1",
+    "dishName": "焼き餃子",
+    "before": "旨味を、肉の旨味と焼き目の香ばしさと一緒に楽しむ提案です。",
+    "after": "焼き餃子の肉の旨味と焼き目の香ばしさに、お酒の旨味を合わせて楽しみます。",
+    "dishFlavor": "肉の旨味と焼き目の香ばしさ",
+    "dishMethod": "焼き物",
+    "sakeFact": {
+      "feature": "旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "旨味",
+        "sourceUrl": "https://www.kagimoto.com/shopdetail/000000003725/",
+        "sourceType": "trustedRetailer",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L317 旨味を短縮。",
+        "productScope": "product",
+        "sourceTier": "secondary",
+        "sourceDetailType": "specialist_retailer_product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "toyobijin-junmai-ginjo-50-standard-v1",
+    "dishName": "鶏の唐揚げ",
+    "before": "旨味を、鶏肉の旨味と衣の香ばしさと一緒に楽しむ提案です。",
+    "after": "鶏の唐揚げは、鶏肉の旨味と衣の香ばしさを楽しむひと皿。お酒の旨味を重ねて味わいます。",
+    "dishFlavor": "鶏肉の旨味と衣の香ばしさ",
+    "dishMethod": "揚げ物",
+    "sakeFact": {
+      "feature": "旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "旨味",
+        "sourceUrl": "https://www.hasegawasaketen.com/eshop/products/detail/2184",
+        "sourceType": "trustedRetailer",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L176 旨みを正規化。",
+        "productScope": "product",
+        "sourceTier": "secondary",
+        "sourceDetailType": "specialist_retail_product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "toyobijin-junmai-ginjo-50-standard-v1",
+    "dishName": "焼き餃子",
+    "before": "旨味を、肉の旨味と焼き目の香ばしさと一緒に楽しむ提案です。",
+    "after": "焼き餃子の肉の旨味と焼き目の香ばしさに、お酒の旨味を合わせて楽しみます。",
+    "dishFlavor": "肉の旨味と焼き目の香ばしさ",
+    "dishMethod": "焼き物",
+    "sakeFact": {
+      "feature": "旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "旨味",
+        "sourceUrl": "https://www.hasegawasaketen.com/eshop/products/detail/2184",
+        "sourceType": "trustedRetailer",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L176 旨みを正規化。",
+        "productScope": "product",
+        "sourceTier": "secondary",
+        "sourceDetailType": "specialist_retail_product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "tenmei-orange-funashibori-junmai-hiire-standard-v1",
+    "dishName": "鶏の唐揚げ",
+    "before": "旨味を、鶏肉の旨味と衣の香ばしさと一緒に楽しむ提案です。",
+    "after": "鶏の唐揚げは、鶏肉の旨味と衣の香ばしさを楽しむひと皿。お酒の旨味を重ねて味わいます。",
+    "dishFlavor": "鶏肉の旨味と衣の香ばしさ",
+    "dishMethod": "揚げ物",
+    "sakeFact": {
+      "feature": "旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "旨味",
+        "sourceUrl": "https://www.jizake.com/c/sake/tenmei/Sake7202_1800",
+        "sourceType": "trustedRetailer",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L251 旨味を短縮。",
+        "productScope": "product",
+        "sourceTier": "secondary",
+        "sourceDetailType": "specialist_retail_product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "tenmei-orange-funashibori-junmai-hiire-standard-v1",
+    "dishName": "焼き餃子",
+    "before": "旨味を、肉の旨味と焼き目の香ばしさと一緒に楽しむ提案です。",
+    "after": "焼き餃子の肉の旨味と焼き目の香ばしさに、お酒の旨味を合わせて楽しみます。",
+    "dishFlavor": "肉の旨味と焼き目の香ばしさ",
+    "dishMethod": "焼き物",
+    "sakeFact": {
+      "feature": "旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "旨味",
+        "sourceUrl": "https://www.jizake.com/c/sake/tenmei/Sake7202_1800",
+        "sourceType": "trustedRetailer",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L251 旨味を短縮。",
+        "productScope": "product",
+        "sourceTier": "secondary",
+        "sourceDetailType": "specialist_retail_product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "hiran-nikomaru-hiire-standard-v1",
+    "dishName": "鶏の唐揚げ",
+    "before": "旨味を、鶏肉の旨味と衣の香ばしさと一緒に楽しむ提案です。",
+    "after": "鶏の唐揚げは、鶏肉の旨味と衣の香ばしさを楽しむひと皿。お酒の旨味を重ねて味わいます。",
+    "dishFlavor": "鶏肉の旨味と衣の香ばしさ",
+    "dishMethod": "揚げ物",
+    "sakeFact": {
+      "feature": "旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "旨味",
+        "sourceUrl": "https://mori-shuzou.jp/nihonshu/",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L195 旨味の短縮。",
+        "productScope": "product",
+        "sourceTier": "primary",
+        "sourceDetailType": "official_product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "hiran-nikomaru-hiire-standard-v1",
+    "dishName": "焼き餃子",
+    "before": "旨味を、肉の旨味と焼き目の香ばしさと一緒に楽しむ提案です。",
+    "after": "焼き餃子の肉の旨味と焼き目の香ばしさに、お酒の旨味を合わせて楽しみます。",
+    "dishFlavor": "肉の旨味と焼き目の香ばしさ",
+    "dishMethod": "焼き物",
+    "sakeFact": {
+      "feature": "旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "旨味",
+        "sourceUrl": "https://mori-shuzou.jp/nihonshu/",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L195 旨味の短縮。",
+        "productScope": "product",
+        "sourceTier": "primary",
+        "sourceDetailType": "official_product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "hitakami-sakana-label-tokubetsu-junmai-hiire-v1",
+    "dishName": "きゅうりの浅漬け",
+    "before": "今夜はきゅうりの浅漬けと一緒に。食事とともに楽しめる一杯です。",
+    "after": "野菜の軽い塩味を楽しむきゅうりの浅漬けに、お酒の旨味を合わせます。",
+    "dishFlavor": "野菜の軽い塩味",
+    "dishMethod": "漬物",
+    "sakeFact": {
+      "feature": "旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "旨味",
+        "sourceUrl": "https://www.sake-kagiya.com/view/item/000000002769",
+        "sourceType": "trustedRetailer",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L204 旨味の正規化。",
+        "productScope": "product",
+        "sourceTier": "secondary",
+        "sourceDetailType": "specialist_retail_product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "hitakami-sakana-label-tokubetsu-junmai-hiire-v1",
+    "dishName": "鶏の唐揚げ",
+    "before": "旨味を、鶏肉の旨味と衣の香ばしさと一緒に楽しむ提案です。",
+    "after": "鶏の唐揚げは、鶏肉の旨味と衣の香ばしさを楽しむひと皿。お酒の旨味を重ねて味わいます。",
+    "dishFlavor": "鶏肉の旨味と衣の香ばしさ",
+    "dishMethod": "揚げ物",
+    "sakeFact": {
+      "feature": "旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "旨味",
+        "sourceUrl": "https://www.sake-kagiya.com/view/item/000000002769",
+        "sourceType": "trustedRetailer",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L204 旨味の正規化。",
+        "productScope": "product",
+        "sourceTier": "secondary",
+        "sourceDetailType": "specialist_retail_product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "hitakami-sakana-label-tokubetsu-junmai-hiire-v1",
+    "dishName": "枝豆",
+    "before": "今夜は枝豆と一緒に。食事とともに楽しめる一杯です。",
+    "after": "豆の甘みと塩気を楽しむ枝豆に、お酒の旨味を合わせます。",
+    "dishFlavor": "豆の甘みと塩気",
+    "dishMethod": "茹で物",
+    "sakeFact": {
+      "feature": "旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "旨味",
+        "sourceUrl": "https://www.sake-kagiya.com/view/item/000000002769",
+        "sourceType": "trustedRetailer",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L204 旨味の正規化。",
+        "productScope": "product",
+        "sourceTier": "secondary",
+        "sourceDetailType": "specialist_retail_product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "hitakami-sakana-label-tokubetsu-junmai-hiire-v1",
+    "dishName": "焼き餃子",
+    "before": "旨味を、肉の旨味と焼き目の香ばしさと一緒に楽しむ提案です。",
+    "after": "焼き餃子の肉の旨味と焼き目の香ばしさに、お酒の旨味を合わせて楽しみます。",
+    "dishFlavor": "肉の旨味と焼き目の香ばしさ",
+    "dishMethod": "焼き物",
+    "sakeFact": {
+      "feature": "旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "旨味",
+        "sourceUrl": "https://www.sake-kagiya.com/view/item/000000002769",
+        "sourceType": "trustedRetailer",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L204 旨味の正規化。",
+        "productScope": "product",
+        "sourceTier": "secondary",
+        "sourceDetailType": "specialist_retail_product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "hitakami-sakana-label-tokubetsu-junmai-hiire-v1",
+    "dishName": "湯豆腐",
+    "before": "今夜は湯豆腐と一緒に。食事とともに楽しめる一杯です。",
+    "after": "湯豆腐は、豆腐とだしの穏やかな味を楽しむひと皿。お酒の旨味を重ねて味わいます。",
+    "dishFlavor": "豆腐とだしの穏やかな味",
+    "dishMethod": "鍋物",
+    "sakeFact": {
+      "feature": "旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "旨味",
+        "sourceUrl": "https://www.sake-kagiya.com/view/item/000000002769",
+        "sourceType": "trustedRetailer",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L204 旨味の正規化。",
+        "productScope": "product",
+        "sourceTier": "secondary",
+        "sourceDetailType": "specialist_retail_product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "kenkonichi-chokarakuchi-junmai-ginjo-genshu-hiire-v1",
+    "dishName": "鶏の唐揚げ",
+    "before": "旨味を、鶏肉の旨味と衣の香ばしさと一緒に楽しむ提案です。",
+    "after": "鶏の唐揚げは、鶏肉の旨味と衣の香ばしさを楽しむひと皿。お酒の旨味を重ねて味わいます。",
+    "dishFlavor": "鶏肉の旨味と衣の香ばしさ",
+    "dishMethod": "揚げ物",
+    "sakeFact": {
+      "feature": "旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "旨味",
+        "sourceUrl": "https://www.yajima-jizake.co.jp/products/detail.php?product_id=12999",
+        "sourceType": "trustedRetailer",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L47 旨みの正規化。",
+        "productScope": "product",
+        "sourceTier": "secondary",
+        "sourceDetailType": "specialist_retail_product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "kenkonichi-chokarakuchi-junmai-ginjo-genshu-hiire-v1",
+    "dishName": "焼き餃子",
+    "before": "旨味を、肉の旨味と焼き目の香ばしさと一緒に楽しむ提案です。",
+    "after": "焼き餃子の肉の旨味と焼き目の香ばしさに、お酒の旨味を合わせて楽しみます。",
+    "dishFlavor": "肉の旨味と焼き目の香ばしさ",
+    "dishMethod": "焼き物",
+    "sakeFact": {
+      "feature": "旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "旨味",
+        "sourceUrl": "https://www.yajima-jizake.co.jp/products/detail.php?product_id=12999",
+        "sourceType": "trustedRetailer",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L47 旨みの正規化。",
+        "productScope": "product",
+        "sourceTier": "secondary",
+        "sourceDetailType": "specialist_retail_product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "taiten-shiragiku-junmai-shiragiku-standard-v1",
+    "dishName": "鶏の唐揚げ",
+    "before": "米の旨味を、鶏肉の旨味と衣の香ばしさと一緒に楽しむ提案です。",
+    "after": "鶏の唐揚げは、鶏肉の旨味と衣の香ばしさを楽しむひと皿。米の旨味を重ねて味わいます。",
+    "dishFlavor": "鶏肉の旨味と衣の香ばしさ",
+    "dishMethod": "揚げ物",
+    "sakeFact": {
+      "feature": "米の旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "米の旨味",
+        "sourceUrl": "https://shiragiku-shop.com/items/5f9a42afda019c3057b87d15",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L27 米の旨みを正規化。",
+        "productScope": "product",
+        "sourceTier": "primary",
+        "sourceDetailType": "official_product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "taiten-shiragiku-junmai-shiragiku-standard-v1",
+    "dishName": "焼き餃子",
+    "before": "米の旨味を、肉の旨味と焼き目の香ばしさと一緒に楽しむ提案です。",
+    "after": "焼き餃子の肉の旨味と焼き目の香ばしさに、米の旨味を合わせて楽しみます。",
+    "dishFlavor": "肉の旨味と焼き目の香ばしさ",
+    "dishMethod": "焼き物",
+    "sakeFact": {
+      "feature": "米の旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "米の旨味",
+        "sourceUrl": "https://shiragiku-shop.com/items/5f9a42afda019c3057b87d15",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L27 米の旨みを正規化。",
+        "productScope": "product",
+        "sourceTier": "primary",
+        "sourceDetailType": "official_product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "takachiyo-karakuchi-junmai-miyamanishiki-plus19-hiire-v1",
+    "dishName": "鶏の唐揚げ",
+    "before": "米の旨味を、鶏肉の旨味と衣の香ばしさと一緒に楽しむ提案です。",
+    "after": "鶏の唐揚げは、鶏肉の旨味と衣の香ばしさを楽しむひと皿。米の旨味を重ねて味わいます。",
+    "dishFlavor": "鶏肉の旨味と衣の香ばしさ",
+    "dishMethod": "揚げ物",
+    "sakeFact": {
+      "feature": "米の旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "米の旨味",
+        "sourceUrl": "https://www.maidoyasaketen.com/products/1678",
+        "sourceType": "trustedRetailer",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L61 米の旨味を直接記載。",
+        "productScope": "product",
+        "sourceTier": "B",
+        "sourceDetailType": "specialist_product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "takachiyo-karakuchi-junmai-miyamanishiki-plus19-hiire-v1",
+    "dishName": "焼き餃子",
+    "before": "米の旨味を、肉の旨味と焼き目の香ばしさと一緒に楽しむ提案です。",
+    "after": "焼き餃子の肉の旨味と焼き目の香ばしさに、米の旨味を合わせて楽しみます。",
+    "dishFlavor": "肉の旨味と焼き目の香ばしさ",
+    "dishMethod": "焼き物",
+    "sakeFact": {
+      "feature": "米の旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "米の旨味",
+        "sourceUrl": "https://www.maidoyasaketen.com/products/1678",
+        "sourceType": "trustedRetailer",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L61 米の旨味を直接記載。",
+        "productScope": "product",
+        "sourceTier": "B",
+        "sourceDetailType": "specialist_product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "kasen-maboroshi-no-sake-tokubetsu-honjozo-standard-v1",
+    "dishName": "鶏の唐揚げ",
+    "before": "旨味を、鶏肉の旨味と衣の香ばしさと一緒に楽しむ提案です。",
+    "after": "鶏の唐揚げは、鶏肉の旨味と衣の香ばしさを楽しむひと皿。お酒の旨味を重ねて味わいます。",
+    "dishFlavor": "鶏肉の旨味と衣の香ばしさ",
+    "dishMethod": "揚げ物",
+    "sakeFact": {
+      "feature": "旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "旨味",
+        "sourceUrl": "https://www.e-mark-iishina.metro.tokyo.lg.jp/foods/detail/id%3D165",
+        "sourceType": "publicInstitution",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L25 個別商品の旨味表記。",
+        "productScope": "product",
+        "sourceTier": "primary",
+        "sourceDetailType": "public_product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "kasen-maboroshi-no-sake-tokubetsu-honjozo-standard-v1",
+    "dishName": "焼き餃子",
+    "before": "旨味を、肉の旨味と焼き目の香ばしさと一緒に楽しむ提案です。",
+    "after": "焼き餃子の肉の旨味と焼き目の香ばしさに、お酒の旨味を合わせて楽しみます。",
+    "dishFlavor": "肉の旨味と焼き目の香ばしさ",
+    "dishMethod": "焼き物",
+    "sakeFact": {
+      "feature": "旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "旨味",
+        "sourceUrl": "https://www.e-mark-iishina.metro.tokyo.lg.jp/foods/detail/id%3D165",
+        "sourceType": "publicInstitution",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L25 個別商品の旨味表記。",
+        "productScope": "product",
+        "sourceTier": "primary",
+        "sourceDetailType": "public_product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "akishika-junmai-inaho-yamadanishiki-75-v1",
+    "dishName": "鶏の唐揚げ",
+    "before": "米の旨味を、鶏肉の旨味と衣の香ばしさと一緒に楽しむ提案です。",
+    "after": "鶏の唐揚げは、鶏肉の旨味と衣の香ばしさを楽しむひと皿。米の旨味を重ねて味わいます。",
+    "dishFlavor": "鶏肉の旨味と衣の香ばしさ",
+    "dishMethod": "揚げ物",
+    "sakeFact": {
+      "feature": "米の旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "米の旨味",
+        "sourceUrl": "https://www.kagimoto.com/shopdetail/000000003721/",
+        "sourceType": "trustedRetailer",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L309 個別の米の旨さを意味追加なく要約。",
+        "productScope": "product",
+        "sourceTier": "B",
+        "sourceDetailType": "retailer_product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "akishika-junmai-inaho-yamadanishiki-75-v1",
+    "dishName": "焼き餃子",
+    "before": "米の旨味を、肉の旨味と焼き目の香ばしさと一緒に楽しむ提案です。",
+    "after": "焼き餃子の肉の旨味と焼き目の香ばしさに、米の旨味を合わせて楽しみます。",
+    "dishFlavor": "肉の旨味と焼き目の香ばしさ",
+    "dishMethod": "焼き物",
+    "sakeFact": {
+      "feature": "米の旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "米の旨味",
+        "sourceUrl": "https://www.kagimoto.com/shopdetail/000000003721/",
+        "sourceType": "trustedRetailer",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L309 個別の米の旨さを意味追加なく要約。",
+        "productScope": "product",
+        "sourceTier": "B",
+        "sourceDetailType": "retailer_product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "yorokobi-gaijin-tezukuri-junmai-hiire-standard-v1",
+    "dishName": "鶏の唐揚げ",
+    "before": "旨味を、鶏肉の旨味と衣の香ばしさと一緒に楽しむ提案です。",
+    "after": "鶏の唐揚げは、鶏肉の旨味と衣の香ばしさを楽しむひと皿。お酒の旨味を重ねて味わいます。",
+    "dishFlavor": "鶏肉の旨味と衣の香ばしさ",
+    "dishMethod": "揚げ物",
+    "sakeFact": {
+      "feature": "旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "旨味",
+        "sourceUrl": "https://www.shichikura.com/item/3067-3068/",
+        "sourceType": "trustedRetailer",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L45 個別商品説明の旨みを正規化。",
+        "productScope": "product",
+        "sourceTier": "B",
+        "sourceDetailType": "retailer_product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "yorokobi-gaijin-tezukuri-junmai-hiire-standard-v1",
+    "dishName": "焼き餃子",
+    "before": "旨味を、肉の旨味と焼き目の香ばしさと一緒に楽しむ提案です。",
+    "after": "焼き餃子の肉の旨味と焼き目の香ばしさに、お酒の旨味を合わせて楽しみます。",
+    "dishFlavor": "肉の旨味と焼き目の香ばしさ",
+    "dishMethod": "焼き物",
+    "sakeFact": {
+      "feature": "旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "旨味",
+        "sourceUrl": "https://www.shichikura.com/item/3067-3068/",
+        "sourceType": "trustedRetailer",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L45 個別商品説明の旨みを正規化。",
+        "productScope": "product",
+        "sourceTier": "B",
+        "sourceDetailType": "retailer_product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "homare-gaijin-junmai-ginjo-hiire-r7by-v1",
+    "dishName": "きゅうりの浅漬け",
+    "before": "今夜はきゅうりの浅漬けと一緒に。食事とともに楽しめる一杯です。",
+    "after": "野菜の軽い塩味を楽しむきゅうりの浅漬けに、米の旨味を合わせます。",
+    "dishFlavor": "野菜の軽い塩味",
+    "dishMethod": "漬物",
+    "sakeFact": {
+      "feature": "米の旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "米の旨味",
+        "sourceUrl": "https://sakeroman.com/products/yorokobigaijin-homaregaijin-junmaiginjo-hiire-r7by",
+        "sourceType": "trustedRetailer",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L66 個別米の旨み。",
+        "productScope": "product",
+        "sourceTier": "B",
+        "sourceDetailType": "retailer_product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "homare-gaijin-junmai-ginjo-hiire-r7by-v1",
+    "dishName": "鶏の唐揚げ",
+    "before": "米の旨味を、鶏肉の旨味と衣の香ばしさと一緒に楽しむ提案です。",
+    "after": "鶏の唐揚げは、鶏肉の旨味と衣の香ばしさを楽しむひと皿。米の旨味を重ねて味わいます。",
+    "dishFlavor": "鶏肉の旨味と衣の香ばしさ",
+    "dishMethod": "揚げ物",
+    "sakeFact": {
+      "feature": "米の旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "米の旨味",
+        "sourceUrl": "https://sakeroman.com/products/yorokobigaijin-homaregaijin-junmaiginjo-hiire-r7by",
+        "sourceType": "trustedRetailer",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L66 個別米の旨み。",
+        "productScope": "product",
+        "sourceTier": "B",
+        "sourceDetailType": "retailer_product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "homare-gaijin-junmai-ginjo-hiire-r7by-v1",
+    "dishName": "枝豆",
+    "before": "今夜は枝豆と一緒に。食事とともに楽しめる一杯です。",
+    "after": "豆の甘みと塩気を楽しむ枝豆に、米の旨味を合わせます。",
+    "dishFlavor": "豆の甘みと塩気",
+    "dishMethod": "茹で物",
+    "sakeFact": {
+      "feature": "米の旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "米の旨味",
+        "sourceUrl": "https://sakeroman.com/products/yorokobigaijin-homaregaijin-junmaiginjo-hiire-r7by",
+        "sourceType": "trustedRetailer",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L66 個別米の旨み。",
+        "productScope": "product",
+        "sourceTier": "B",
+        "sourceDetailType": "retailer_product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "homare-gaijin-junmai-ginjo-hiire-r7by-v1",
+    "dishName": "焼き餃子",
+    "before": "米の旨味を、肉の旨味と焼き目の香ばしさと一緒に楽しむ提案です。",
+    "after": "焼き餃子の肉の旨味と焼き目の香ばしさに、米の旨味を合わせて楽しみます。",
+    "dishFlavor": "肉の旨味と焼き目の香ばしさ",
+    "dishMethod": "焼き物",
+    "sakeFact": {
+      "feature": "米の旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "米の旨味",
+        "sourceUrl": "https://sakeroman.com/products/yorokobigaijin-homaregaijin-junmaiginjo-hiire-r7by",
+        "sourceType": "trustedRetailer",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L66 個別米の旨み。",
+        "productScope": "product",
+        "sourceTier": "B",
+        "sourceDetailType": "retailer_product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "homare-gaijin-junmai-ginjo-hiire-r7by-v1",
+    "dishName": "湯豆腐",
+    "before": "今夜は湯豆腐と一緒に。食事とともに楽しめる一杯です。",
+    "after": "湯豆腐は、豆腐とだしの穏やかな味を楽しむひと皿。米の旨味を重ねて味わいます。",
+    "dishFlavor": "豆腐とだしの穏やかな味",
+    "dishMethod": "鍋物",
+    "sakeFact": {
+      "feature": "米の旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "米の旨味",
+        "sourceUrl": "https://sakeroman.com/products/yorokobigaijin-homaregaijin-junmaiginjo-hiire-r7by",
+        "sourceType": "trustedRetailer",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L66 個別米の旨み。",
+        "productScope": "product",
+        "sourceTier": "B",
+        "sourceDetailType": "retailer_product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "aramasa-no6-r-type-nama-standard-v1",
+    "dishName": "鶏の唐揚げ",
+    "before": "旨味を、鶏肉の旨味と衣の香ばしさと一緒に楽しむ提案です。",
+    "after": "鶏の唐揚げは、鶏肉の旨味と衣の香ばしさを楽しむひと皿。お酒の旨味を重ねて味わいます。",
+    "dishFlavor": "鶏肉の旨味と衣の香ばしさ",
+    "dishMethod": "揚げ物",
+    "sakeFact": {
+      "feature": "旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "旨味",
+        "sourceUrl": "https://takekuma.co.jp/store/item/item-seisyu/aramasa-4543",
+        "sourceType": "trustedRetailer",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L46 生酒らしい旨味の要約。",
+        "productScope": "product",
+        "sourceTier": "B",
+        "sourceDetailType": "retailer_product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "aramasa-no6-r-type-nama-standard-v1",
+    "dishName": "焼き餃子",
+    "before": "旨味を、肉の旨味と焼き目の香ばしさと一緒に楽しむ提案です。",
+    "after": "焼き餃子の肉の旨味と焼き目の香ばしさに、お酒の旨味を合わせて楽しみます。",
+    "dishFlavor": "肉の旨味と焼き目の香ばしさ",
+    "dishMethod": "焼き物",
+    "sakeFact": {
+      "feature": "旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "旨味",
+        "sourceUrl": "https://takekuma.co.jp/store/item/item-seisyu/aramasa-4543",
+        "sourceType": "trustedRetailer",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L46 生酒らしい旨味の要約。",
+        "productScope": "product",
+        "sourceTier": "B",
+        "sourceDetailType": "retailer_product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "yui-omachi-junmai-ginjo-nama-genshu-raifuku-v1",
+    "dishName": "鶏の唐揚げ",
+    "before": "米の旨味を、鶏肉の旨味と衣の香ばしさと一緒に楽しむ提案です。",
+    "after": "鶏の唐揚げは、鶏肉の旨味と衣の香ばしさを楽しむひと皿。米の旨味を重ねて味わいます。",
+    "dishFlavor": "鶏肉の旨味と衣の香ばしさ",
+    "dishMethod": "揚げ物",
+    "sakeFact": {
+      "feature": "米の旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "米の旨味",
+        "sourceUrl": "https://www.mashidaya.co.jp/SHOP/6646.html",
+        "sourceType": "trustedRetailer",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L53 米の旨味を短縮。",
+        "productScope": "product",
+        "sourceTier": "B",
+        "sourceDetailType": "retailer_product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "yui-omachi-junmai-ginjo-nama-genshu-raifuku-v1",
+    "dishName": "焼き餃子",
+    "before": "米の旨味を、肉の旨味と焼き目の香ばしさと一緒に楽しむ提案です。",
+    "after": "焼き餃子の肉の旨味と焼き目の香ばしさに、米の旨味を合わせて楽しみます。",
+    "dishFlavor": "肉の旨味と焼き目の香ばしさ",
+    "dishMethod": "焼き物",
+    "sakeFact": {
+      "feature": "米の旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "米の旨味",
+        "sourceUrl": "https://www.mashidaya.co.jp/SHOP/6646.html",
+        "sourceType": "trustedRetailer",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L53 米の旨味を短縮。",
+        "productScope": "product",
+        "sourceTier": "B",
+        "sourceDetailType": "retailer_product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "kirei-banjisakazukinonaka-junmai-hiire-v1",
+    "dishName": "鶏の唐揚げ",
+    "before": "旨味を、鶏肉の旨味と衣の香ばしさと一緒に楽しむ提案です。",
+    "after": "鶏の唐揚げは、鶏肉の旨味と衣の香ばしさを楽しむひと皿。お酒の旨味を重ねて味わいます。",
+    "dishFlavor": "鶏肉の旨味と衣の香ばしさ",
+    "dishMethod": "揚げ物",
+    "sakeFact": {
+      "feature": "旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "旨味",
+        "sourceUrl": "https://item.rakuten.co.jp/sakeroman/kirei_005/",
+        "sourceType": "trustedRetailer",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L28 個別のほどよい旨みを短縮。",
+        "productScope": "product",
+        "sourceTier": "B",
+        "sourceDetailType": "retailer_product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "kirei-banjisakazukinonaka-junmai-hiire-v1",
+    "dishName": "焼き餃子",
+    "before": "旨味を、肉の旨味と焼き目の香ばしさと一緒に楽しむ提案です。",
+    "after": "焼き餃子の肉の旨味と焼き目の香ばしさに、お酒の旨味を合わせて楽しみます。",
+    "dishFlavor": "肉の旨味と焼き目の香ばしさ",
+    "dishMethod": "焼き物",
+    "sakeFact": {
+      "feature": "旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "旨味",
+        "sourceUrl": "https://item.rakuten.co.jp/sakeroman/kirei_005/",
+        "sourceType": "trustedRetailer",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L28 個別のほどよい旨みを短縮。",
+        "productScope": "product",
+        "sourceTier": "B",
+        "sourceDetailType": "retailer_product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "kameman-plus9-karakuchi-junmai-v1",
+    "dishName": "きゅうりの浅漬け",
+    "before": "今夜はきゅうりの浅漬けと一緒に。食事とともに楽しめる一杯です。",
+    "after": "野菜の軽い塩味を楽しむきゅうりの浅漬けに、米の旨味を合わせます。",
+    "dishFlavor": "野菜の軽い塩味",
+    "dishMethod": "漬物",
+    "sakeFact": {
+      "feature": "米の旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "米の旨味",
+        "sourceUrl": "https://www.kameman.co.jp/products/detail.php?product_id=114",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L29 公式米の旨みを正規化。",
+        "productScope": "product",
+        "sourceTier": "primary",
+        "sourceDetailType": "official_product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "kameman-plus9-karakuchi-junmai-v1",
+    "dishName": "鶏の唐揚げ",
+    "before": "米の旨味を、鶏肉の旨味と衣の香ばしさと一緒に楽しむ提案です。",
+    "after": "鶏の唐揚げは、鶏肉の旨味と衣の香ばしさを楽しむひと皿。米の旨味を重ねて味わいます。",
+    "dishFlavor": "鶏肉の旨味と衣の香ばしさ",
+    "dishMethod": "揚げ物",
+    "sakeFact": {
+      "feature": "米の旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "米の旨味",
+        "sourceUrl": "https://www.kameman.co.jp/products/detail.php?product_id=114",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L29 公式米の旨みを正規化。",
+        "productScope": "product",
+        "sourceTier": "primary",
+        "sourceDetailType": "official_product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "kameman-plus9-karakuchi-junmai-v1",
+    "dishName": "枝豆",
+    "before": "今夜は枝豆と一緒に。食事とともに楽しめる一杯です。",
+    "after": "豆の甘みと塩気を楽しむ枝豆に、米の旨味を合わせます。",
+    "dishFlavor": "豆の甘みと塩気",
+    "dishMethod": "茹で物",
+    "sakeFact": {
+      "feature": "米の旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "米の旨味",
+        "sourceUrl": "https://www.kameman.co.jp/products/detail.php?product_id=114",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L29 公式米の旨みを正規化。",
+        "productScope": "product",
+        "sourceTier": "primary",
+        "sourceDetailType": "official_product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "kameman-plus9-karakuchi-junmai-v1",
+    "dishName": "焼き餃子",
+    "before": "米の旨味を、肉の旨味と焼き目の香ばしさと一緒に楽しむ提案です。",
+    "after": "焼き餃子の肉の旨味と焼き目の香ばしさに、米の旨味を合わせて楽しみます。",
+    "dishFlavor": "肉の旨味と焼き目の香ばしさ",
+    "dishMethod": "焼き物",
+    "sakeFact": {
+      "feature": "米の旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "米の旨味",
+        "sourceUrl": "https://www.kameman.co.jp/products/detail.php?product_id=114",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L29 公式米の旨みを正規化。",
+        "productScope": "product",
+        "sourceTier": "primary",
+        "sourceDetailType": "official_product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "kameman-plus9-karakuchi-junmai-v1",
+    "dishName": "湯豆腐",
+    "before": "今夜は湯豆腐と一緒に。食事とともに楽しめる一杯です。",
+    "after": "湯豆腐は、豆腐とだしの穏やかな味を楽しむひと皿。米の旨味を重ねて味わいます。",
+    "dishFlavor": "豆腐とだしの穏やかな味",
+    "dishMethod": "鍋物",
+    "sakeFact": {
+      "feature": "米の旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "米の旨味",
+        "sourceUrl": "https://www.kameman.co.jp/products/detail.php?product_id=114",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L29 公式米の旨みを正規化。",
+        "productScope": "product",
+        "sourceTier": "primary",
+        "sourceDetailType": "official_product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "sakuta-tokubetsu-junmai-keiyaku-v1",
+    "dishName": "鶏の唐揚げ",
+    "before": "米の旨味を、鶏肉の旨味と衣の香ばしさと一緒に楽しむ提案です。",
+    "after": "鶏の唐揚げは、鶏肉の旨味と衣の香ばしさを楽しむひと皿。米の旨味を重ねて味わいます。",
+    "dishFlavor": "鶏肉の旨味と衣の香ばしさ",
+    "dishMethod": "揚げ物",
+    "sakeFact": {
+      "feature": "米の旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "米の旨味",
+        "sourceUrl": "https://morishou.co.jp/product.html",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L245 / L256 確かな米の旨み。",
+        "productScope": "product",
+        "sourceTier": "primary",
+        "sourceDetailType": "official_product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "sakuta-tokubetsu-junmai-keiyaku-v1",
+    "dishName": "焼き餃子",
+    "before": "米の旨味を、肉の旨味と焼き目の香ばしさと一緒に楽しむ提案です。",
+    "after": "焼き餃子の肉の旨味と焼き目の香ばしさに、米の旨味を合わせて楽しみます。",
+    "dishFlavor": "肉の旨味と焼き目の香ばしさ",
+    "dishMethod": "焼き物",
+    "sakeFact": {
+      "feature": "米の旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "米の旨味",
+        "sourceUrl": "https://morishou.co.jp/product.html",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L245 / L256 確かな米の旨み。",
+        "productScope": "product",
+        "sourceTier": "primary",
+        "sourceDetailType": "official_product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "hisagotaiko-junmai-ginjo-led-v1",
+    "dishName": "鶏の唐揚げ",
+    "before": "米の旨味を、鶏肉の旨味と衣の香ばしさと一緒に楽しむ提案です。",
+    "after": "鶏の唐揚げは、鶏肉の旨味と衣の香ばしさを楽しむひと皿。米の旨味を重ねて味わいます。",
+    "dishFlavor": "鶏肉の旨味と衣の香ばしさ",
+    "dishMethod": "揚げ物",
+    "sakeFact": {
+      "feature": "米の旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "米の旨味",
+        "sourceUrl": "https://nissin-shurui.com/?pid=182866348",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L104 米の旨味。",
+        "productScope": "product",
+        "sourceTier": "primary",
+        "sourceDetailType": "official_product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "hisagotaiko-junmai-ginjo-led-v1",
+    "dishName": "焼き餃子",
+    "before": "米の旨味を、肉の旨味と焼き目の香ばしさと一緒に楽しむ提案です。",
+    "after": "焼き餃子の肉の旨味と焼き目の香ばしさに、米の旨味を合わせて楽しみます。",
+    "dishFlavor": "肉の旨味と焼き目の香ばしさ",
+    "dishMethod": "焼き物",
+    "sakeFact": {
+      "feature": "米の旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "米の旨味",
+        "sourceUrl": "https://nissin-shurui.com/?pid=182866348",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L104 米の旨味。",
+        "productScope": "product",
+        "sourceTier": "primary",
+        "sourceDetailType": "official_product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "narutotai-junmai-tomoe-v1",
+    "dishName": "鶏の唐揚げ",
+    "before": "米の旨味を、鶏肉の旨味と衣の香ばしさと一緒に楽しむ提案です。",
+    "after": "鶏の唐揚げは、鶏肉の旨味と衣の香ばしさを楽しむひと皿。米の旨味を重ねて味わいます。",
+    "dishFlavor": "鶏肉の旨味と衣の香ばしさ",
+    "dishMethod": "揚げ物",
+    "sakeFact": {
+      "feature": "米の旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "米の旨味",
+        "sourceUrl": "https://www.narutotai-sake.jp/SHOP/13008_13007_13006_tomoejm.html",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L99 個別旨味。",
+        "productScope": "product",
+        "sourceTier": "primary",
+        "sourceDetailType": "official_product"
+      }
+    },
+    "officialPairingEvidence": null
+  },
+  {
+    "sakeId": "narutotai-junmai-tomoe-v1",
+    "dishName": "焼き餃子",
+    "before": "焼き餃子と相性のよい組み合わせ。合わせて楽しめます。",
+    "after": "焼き餃子は、蔵元がこのお酒に合う料理として挙げる一品。肉の旨味と焼き目の香ばしさに、米の旨味を合わせて楽しみます。",
+    "dishFlavor": "肉の旨味と焼き目の香ばしさ",
+    "dishMethod": "焼き物",
+    "sakeFact": {
+      "feature": "米の旨味",
+      "kind": "verifiedFeatureTag",
+      "evidence": {
+        "feature": "米の旨味",
+        "sourceUrl": "https://www.narutotai-sake.jp/SHOP/13008_13007_13006_tomoejm.html",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L99 個別旨味。",
+        "productScope": "product",
+        "sourceTier": "primary",
+        "sourceDetailType": "official_product"
+      }
+    },
+    "officialPairingEvidence": {
+      "dish": "焼き餃子",
+      "sourceUrl": "https://www.narutotai-sake.jp/SHOP/13008_13007_13006_tomoejm.html",
+      "sourceType": "breweryOfficial",
+      "verifiedAt": "2026-10-04",
+      "meaning": "L96 公式の個別マリアージュ記事 / L100 和食との相性。SNS感想欄は根拠に含めない。",
+      "productScope": "product",
+      "sourceTier": "primary",
+      "sourceDetailType": "official_product",
+      "use": "drinkingPairing"
+    }
+  }
+]
