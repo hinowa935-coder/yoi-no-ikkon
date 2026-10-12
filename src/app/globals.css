@@ -109,7 +109,7 @@ main.min-h-screen::after {
 }
 
 /* Discovery surfaces share the existing night palette and washi backdrop. */
-.discovery-shell { max-width: 1120px; margin: auto; padding: 24px 32px 0; }
+.discovery-shell { max-width: 1120px; margin: auto; padding: calc(24px + env(safe-area-inset-top, 0px)) max(32px, env(safe-area-inset-right, 0px)) 0 max(32px, env(safe-area-inset-left, 0px)); }
 .discovery-shell h1, .discovery-shell h2, .discovery-shell h3,
 .discovery-shell p, .discovery-shell span { letter-spacing: 0; }
 .discovery-shell a, .discovery-shell button, .discovery-shell summary { -webkit-tap-highlight-color: transparent; }
@@ -118,8 +118,8 @@ main.min-h-screen::after {
 .discovery-shell select:focus-visible { outline: 2px solid #edd496; outline-offset: 4px; }
 .discovery-shell button, .discovery-shell summary, .discovery-shell select { cursor: pointer; }
 .discovery-header { display: flex; align-items: center; justify-content: space-between; gap: 20px; padding-bottom: 20px; border-bottom: 1px solid #f8f0df20; }
-.brand { display: grid; gap: 3px; font-family: var(--font-display-ja); font-size: 23px; white-space: nowrap; }
-.brand-roman { font-family: var(--font-body-ja); font-size: 10px; color: #d8bd7a; }
+.brand { display: grid; gap: 3px; font-family: var(--font-display-ja); font-size: 26px; white-space: nowrap; }
+.brand-roman { font-family: var(--font-body-ja); font-size: 11px; color: #d8bd7a; }
 .discovery-header nav { display: flex; gap: 24px; font-size: 13px; color: #e3d7b8; align-items: center; }
 .discovery-header nav a { min-height: 44px; display: flex; align-items: center; }
 .nav-ochoko { gap: 6px; }
@@ -133,11 +133,11 @@ main.min-h-screen::after {
 .icon-search::before { content: ""; position: absolute; width: 14px; height: 14px; border: 1.5px solid currentColor; border-radius: 50%; left: 2px; top: 2px; }
 .icon-search::after { content: ""; position: absolute; width: 8px; height: 1.5px; background: currentColor; transform: rotate(45deg); left: 15px; top: 18px; }
 .icon-tonight::before { content: ""; position: absolute; width: 19px; height: 19px; border-radius: 50%; box-shadow: -5px 3px 0 0 currentColor; left: 6px; top: 0; }
-.discovery-hero { padding: 44px 0 32px; }
+.discovery-hero { padding: 52px 0 40px; }
 .section-kicker { color: #d8bd7a; font-size: 12px; margin-bottom: 16px; }
 .hero-brand { font-family: var(--font-display-ja); font-size: 26px; margin: 0 0 18px; }
-.discovery-hero h1 { font-size: 48px; line-height: 1.55; max-width: 900px; margin: 0; }
-.discovery-hero h1 span { display: inline-block; }
+.discovery-hero h1 { font-size: 44px; line-height: 1.65; max-width: 720px; margin: 0; }
+.discovery-hero h1 span { display: block; }
 .discovery-hero h1 span:first-child { display: block; }
 .hero-sub { color: #d8d0bf; font-size: 16px; line-height: 1.8; margin-top: 22px; }
 .entrance-section { padding: 8px 0 40px; }
@@ -235,6 +235,7 @@ main.min-h-screen::after {
 .product-label-image .label-resizable { max-width: min(100%, 280px); height: auto; }
 .product-label-image .label-original-size { max-width: none; height: revert; }
 .affiliate-disclosure, .site-advertising-note { color: #d8d0bf; font-size: 13px; line-height: 1.8; }
+.discovery-shell .site-advertising-note { color: #b9bdc7; font-size: 12px; line-height: 1.7; margin: 10px 0 0; }
 .affiliate-disclosure { margin-bottom: 18px; }
 .affiliate-offer-list { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 240px), 1fr)); gap: 0 28px; margin-bottom: 18px; }
 .affiliate-offer { min-width: 0; padding: 16px 0; border-bottom: 1px solid #f8f0df20; overflow-wrap: anywhere; }
@@ -276,19 +277,19 @@ main.min-h-screen::after {
 @media (max-width: 760px) {
   :root { --mobile-navigation-height: 68px; }
   html { scroll-padding-bottom: calc(var(--mobile-navigation-height) + env(safe-area-inset-bottom, 0px) + 20px); }
-  .discovery-shell { padding: 18px 20px calc(var(--mobile-navigation-height) + env(safe-area-inset-bottom, 0px) + 20px); }
+  .discovery-shell { padding: calc(18px + env(safe-area-inset-top, 0px)) max(20px, env(safe-area-inset-right, 0px)) calc(var(--mobile-navigation-height) + env(safe-area-inset-bottom, 0px) + 20px) max(20px, env(safe-area-inset-left, 0px)); }
   .discovery-header .navigation-header { display: none; }
   .navigation-bottom { position: fixed; z-index: 40; bottom: 0; left: 0; right: 0; display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); padding: 4px 12px calc(4px + env(safe-area-inset-bottom, 0px)); height: calc(var(--mobile-navigation-height) + env(safe-area-inset-bottom, 0px)); background: #09172bf5; border-top: 1px solid #edd49638; color: #e3d7b8; backdrop-filter: blur(12px); }
   .navigation-bottom .primary-nav-link { display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 3px; min-width: 0; min-height: 52px; font-size: 12px; line-height: 1.5; text-decoration: none; }
   .navigation-bottom .primary-nav-link:focus-visible { outline: 2px solid #edd496; outline-offset: -3px; }
   .ochoko-toast { bottom: calc(var(--mobile-navigation-height) + env(safe-area-inset-bottom, 0px) + 12px); }
   .discovery-header { gap: 12px; padding-bottom: 14px; }
-  .brand { font-size: 22px; }
+  .brand { font-size: 25px; }
   .discovery-header nav { font-size: 11px; gap: 14px; }
-  .brand-roman { font-size: 8px; }
-  .discovery-hero { padding: 32px 0 24px; }
+  .brand-roman { font-size: 9px; }
+  .discovery-hero { padding: 36px 0 30px; }
   .hero-brand { font-size: 22px; margin-bottom: 12px; }
-  .discovery-hero h1 { font-size: 34px; line-height: 1.6; }
+  .discovery-hero h1 { font-size: 28px; line-height: 1.75; }
   .discovery-hero h1 span { display: block; }
   .hero-sub { font-size: 13px; line-height: 2; margin-top: 16px; }
   .entrance-layout { grid-template-columns: 1fr; gap: 8px; }
@@ -330,4 +331,8 @@ main.min-h-screen::after {
   .spec-table > div { grid-template-columns: 120px 1fr; gap: 14px; font-size: 13px; }
   .discovery-footer { margin-top: 36px; gap: 12px; }
   .archived-favorites li { align-items: start; }
+}
+
+@media (max-width: 359px) {
+  .discovery-hero h1 { font-size: 24px; }
 }

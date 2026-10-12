@@ -6,5 +6,29 @@ import { daySeed } from "../data/discovery.js";
 import DailyPick from "./components/DailyPick.jsx";
 
 export default function Page() {
-  return <DiscoveryShell><LegacySearchRedirect /><section className="discovery-hero"><p className="section-kicker">日本酒と家庭料理のペアリング</p><p className="hero-brand">宵の一献</p><h1><span>こんな夜なら、</span><span>なに食べよう。</span><span>なに飲もう。</span></h1><p className="hero-sub">料理と気分から、偶然いい酒に出会える場所。</p></section><section className="entrance-section"><h2>今夜、どう探す？</h2><div className="entrance-layout"><TrackedLink href="/discover" className="entrance-primary" event="discovery_start" parameters={{ source: "home" }}><span><strong>今夜の気分から</strong><small>今夜の過ごし方から、料理と一杯を。</small></span><ChevronRight /></TrackedLink><div className="entrance-secondary"><TrackedLink href="/food" event="discovery_start" parameters={{ source: "food" }}><span><strong>料理から</strong><small>今夜の献立に合う一本を。</small></span><ChevronRight /></TrackedLink><TrackedLink href="/search" event="search_opened"><span><strong>日本酒から</strong><small>気になる一本から、今夜の料理を。</small></span><ChevronRight /></TrackedLink></div></div></section><DailyPick initialSeed={daySeed()} /></DiscoveryShell>;
+  return <DiscoveryShell>
+    <LegacySearchRedirect />
+    <section className="discovery-hero">
+      <p className="section-kicker">日本酒 × 家庭料理</p>
+      <h1><span>今宵、ひと酔い。</span><span>食卓に、良い出逢いを。</span></h1>
+      <p className="hero-sub">料理や気分から、<br />まだ知らない一献へ。</p>
+    </section>
+    <section className="entrance-section">
+      <h2>一献を探す。</h2>
+      <div className="entrance-layout">
+        <TrackedLink href="/discover" className="entrance-primary" event="discovery_start" parameters={{ source: "home" }}>
+          <span><strong>今夜の気分から</strong><small>過ごし方から、料理と一献を。</small></span><ChevronRight />
+        </TrackedLink>
+        <div className="entrance-secondary">
+          <TrackedLink href="/food" event="discovery_start" parameters={{ source: "food" }}>
+            <span><strong>料理から</strong><small>献立に合う一本を。</small></span><ChevronRight />
+          </TrackedLink>
+          <TrackedLink href="/search" event="search_opened">
+            <span><strong>日本酒から</strong><small>気になる一本から、料理を。</small></span><ChevronRight />
+          </TrackedLink>
+        </div>
+      </div>
+    </section>
+    <DailyPick initialSeed={daySeed()} />
+  </DiscoveryShell>;
 }
