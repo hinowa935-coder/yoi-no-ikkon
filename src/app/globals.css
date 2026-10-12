@@ -137,8 +137,10 @@ main.min-h-screen::after {
 .section-kicker { color: #d8bd7a; font-size: 12px; margin-bottom: 16px; }
 .hero-brand { font-family: var(--font-display-ja); font-size: 26px; margin: 0 0 18px; }
 .discovery-hero h1 { font-size: 44px; line-height: 1.65; max-width: 720px; margin: 0; }
-.discovery-hero h1 span { display: block; }
-.discovery-hero h1 span:first-child { display: block; }
+.discovery-hero { --yoi-accent: #c09a60; }
+.discovery-hero h1 > span { display: block; }
+.discovery-hero .yoi-accent { color: var(--yoi-accent); }
+.hero-signature { font-family: "Baskerville", "Times New Roman", serif; font-size: 16px; font-weight: 400; line-height: 1.6; letter-spacing: 0; margin: 18px 0 0; color: inherit; }
 .hero-sub { color: #d8d0bf; font-size: 16px; line-height: 1.8; margin-top: 22px; }
 .entrance-section { padding: 8px 0 40px; }
 .discovery-shell h2 { font-size: 26px; line-height: 1.65; margin-bottom: 20px; overflow-wrap: anywhere; }
@@ -290,7 +292,7 @@ main.min-h-screen::after {
   .discovery-hero { padding: 36px 0 30px; }
   .hero-brand { font-size: 22px; margin-bottom: 12px; }
   .discovery-hero h1 { font-size: 28px; line-height: 1.75; }
-  .discovery-hero h1 span { display: block; }
+  .discovery-hero h1 > span { display: block; }
   .hero-sub { font-size: 13px; line-height: 2; margin-top: 16px; }
   .entrance-layout { grid-template-columns: 1fr; gap: 8px; }
   .entrance-primary { padding: 20px; min-height: 100px; gap: 16px; }
