@@ -1,3 +1,4 @@
+import { ChevronRight } from "../../components/InterfaceIcons.jsx";
 import { notFound } from "next/navigation";
 import Link from "next/link";
 import DiscoveryShell from "../../components/DiscoveryShell.jsx";
@@ -66,7 +67,7 @@ export default async function SakePage({ params }) {
     </section>
     <section className="detail-band">
       <p className="section-kicker">このお酒と食べたいもの</p><h2>{dishes[0] ? `今夜なら、${dishes[0].name}と。` : "料理から、もうひとつの出会いを。"}</h2>
-      <div className="reverse-dish-grid">{dishes.map(d => <article key={d.name}><h3><Link href={`/food/${toPathSegment(d.name)}`}>{d.name} →</Link></h3><p>{d.reason}</p><small>宵の一献の提案</small></article>)}</div>
+      <div className="reverse-dish-grid">{dishes.map(d => <article key={d.name}><h3><Link href={`/food/${toPathSegment(d.name)}`}><span>{d.name}</span><ChevronRight /></Link></h3><p>{d.reason}</p><small>宵の一献の提案</small></article>)}</div>
       {!dishes.length && <PairingPending />}
       {r.officialPairings.length > 0 && <div className="official-pairings"><h3>蔵元が紹介する組み合わせ</h3><p>{r.officialPairings.join("、")}</p></div>}
     </section>
