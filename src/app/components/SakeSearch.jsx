@@ -1,5 +1,6 @@
 "use client";
-import { useMemo, useState } from "react";
+import { useEffect, useMemo, useRef, useState } from "react";
+import { emptySearchFilters, readSearchLocation, writeSearchLocation } from "./searchLocation.js";
 import Link from "next/link";
 import { visibleSakePairings, prefectureOrder, dishOptions, tasteOptions, buildSakeListSummary, buildSakeLocation, buildSakeFeatureTags, buildSakeVerifiedTags, toPathSegment, buildResourceLinks, buildPurchaseLinks } from "../../data/siteData.js";
 import { discoveryNights, dishesForSake, nightsForSake, scorePairing } from "../../data/discovery.js";
@@ -28,10 +29,54 @@ export function SearchCard({ item }) {
 }
 export default function SakeSearch() {
   const [keyword, setKeyword] = useState("");
-  const [filters, setFilters] = useState({ prefecture: "", dish: "", taste: "", classification: "", temperature: "", night: "" });
+  const [filters, setFilters] = useState(emptySearchFilters);
   const [onlySaved, setOnlySaved] = useState(false);
   const [limit, setLimit] = useState(24);
   const { ids, ready } = useFavorites();
+  const [restored, setRestored] = useState(false);
+  const restoreScroll = useRef(null);
+  useEffect(() => {
+    const restore = () => {
+      let saved = null;
+      try { saved = JSON.parse(sessionStorage.getItem("yoi-search-v1")); } catch {}
+      const explicit = window.location.search.length > 1;
+      const search = explicit ? window.location.search : saved?.search || "";
+      const state = readSearchLocation(search);
+      setKeyword(state.keyword); setFilters(state.filters); setOnlySaved(state.onlySaved); setLimit(state.limit);
+      restoreScroll.current = saved?.search === search && Number.isFinite(saved?.scroll) ? Math.max(0, saved.scroll) : null;
+      setRestored(true);
+    };
+    restore();
+    window.addEventListener("popstate", restore);
+    return () => window.removeEventListener("popstate", restore);
+  }, []);
+  useEffect(() => {
+    if (!restored) return;
+    const search = writeSearchLocation(window.location.search, { keyword, filters, onlySaved, limit });
+    window.history.replaceState(window.history.state, "", window.location.pathname + search + window.location.hash);
+    const save = () => {
+      try { sessionStorage.setItem("yoi-search-v1", JSON.stringify({ search, scroll: window.scrollY })); } catch {}
+    };
+    // Save before navigation; do not overwrite the position while favorites are still loading.
+    const capture = () => { if (restoreScroll.current === null) save(); };
+    if (restoreScroll.current === null) save();
+    window.addEventListener("scroll", capture, { passive: true });
+    window.addEventListener("pagehide", capture);
+    document.addEventListener("click", capture, true);
+    return () => {
+      window.removeEventListener("scroll", capture);
+      window.removeEventListener("pagehide", capture);
+      document.removeEventListener("click", capture, true);
+    };
+  }, [restored, keyword, filters, onlySaved, limit]);
+  useEffect(() => {
+    if (!restored || !ready || restoreScroll.current === null) return;
+    const frame = requestAnimationFrame(() => {
+      window.scrollTo({ top: restoreScroll.current, behavior: "instant" });
+      restoreScroll.current = null;
+    });
+    return () => cancelAnimationFrame(frame);
+  }, [restored, ready, keyword, filters, onlySaved, limit]);
   const classifications = [...new Set(visibleSakePairings.flatMap(i => i.style))].sort();
   const temperatures = [...new Set(visibleSakePairings.flatMap(i => i.temperature))];
   const filtered = useMemo(() => visibleSakePairings.filter(item => {
