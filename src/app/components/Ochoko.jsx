@@ -3,11 +3,10 @@
 import { createContext, useContext, useEffect, useState } from "react";
 import { FAVORITES_KEY, migrateFavorites } from "../../data/favoriteReferences.js";
 import { trackEvent } from "../../data/telemetry.js";
+import { OchokoIcon } from "./InterfaceIcons.jsx";
+export { OchokoIcon } from "./InterfaceIcons.jsx";
 
 const Favorites = createContext(null);
-export function OchokoIcon({ filled = false }) {
-  return <svg width="24" height="24" viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M4 7h16l-3 11H7L4 7Z" stroke="currentColor" strokeWidth="1.5" fill={filled ? "currentColor" : "none"} /><ellipse cx="12" cy="7" rx="8" ry="2.5" stroke="currentColor" strokeWidth="1.5" /><path d="M9 20h6" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" /></svg>;
-}
 export function FavoritesProvider({ children }) {
   const [ids, setIds] = useState([]);
   const [ready, setReady] = useState(false);
