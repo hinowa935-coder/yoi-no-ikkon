@@ -153,6 +153,8 @@ main.min-h-screen::after {
 .reverse-dish-grid h3 a { display: flex; justify-content: space-between; align-items: center; gap: 12px; }
 .reverse-dish-grid h3 a > span { min-width: 0; overflow-wrap: anywhere; }
 .discovery-conditions { color: #d8bd7a; font-size: 13px; line-height: 1.8; margin-bottom: 12px; }
+.brewery-information .resource-links { display: flex; flex-wrap: wrap; gap: 8px 24px; }
+.pairing-nights { margin-top: 32px; padding-top: 24px; border-top: 1px solid #f8f0df25; }
 #sake-recommendations { scroll-margin-top: 100px; }
 .primary-nav-link > svg { flex: 0 0 24px; }
 .entrance-layout strong { font-family: var(--font-display-ja); font-weight: 400; font-size: 22px; display: block; }

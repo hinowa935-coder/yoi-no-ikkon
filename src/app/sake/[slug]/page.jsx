@@ -6,7 +6,7 @@ import { FavoriteButton } from "../../components/Ochoko.jsx";
 import TrackedExternalLink from "../../components/TrackedExternalLink.jsx";
 import ShareButton from "../../components/ShareButton.jsx";
 import PairingPending from "../../components/PairingPending.jsx";
-import { SITE_NAME, SITE_URL, visibleSakePairings, legacyReferences, resolveSakeReference, getSakeById, buildSakeListSummary, buildSakeLocation, buildSakeVerifiedTags, buildSakeEditorialTags, buildResourceLinks, toPathSegment } from "../../../data/siteData.js";
+import { SITE_NAME, SITE_URL, visibleSakePairings, legacyReferences, resolveSakeReference, getSakeById, buildSakeListSummary, buildSakeVerifiedTags, buildSakeEditorialTags, buildResourceLinks, toPathSegment } from "../../../data/siteData.js";
 import { publicSourceName } from "../../../data/publicDisplay.js";
 import { displaySpec } from "../../../data/specDisplay.js";
 import { dishesForSake, nightsForSake } from "../../../data/discovery.js";
@@ -41,7 +41,7 @@ export default async function SakePage({ params }) {
   const nights = nightsForSake(item);
   const r = item.sakeResearch;
   const formatFields = entries => entries.map(([label, value]) => [label, displaySpec(value, label.includes("精米歩合") ? "%" : label === "アルコール度数" ? "度" : "")]).filter(([, text]) => text);
-  const essentials = formatFields([["原料米", r.specs.riceVariety], ["精米歩合", r.specs.polishingRatio], ["アルコール度数", r.specs.alcoholPercentage], ["飲用温度", r.servingTemperatures], ["飲用温度範囲", r.recommendedTemperatureRange]]);
+  const essentials = formatFields([["蔵元", item.brewery], ["都道府県", item.prefecture], ["特定名称", r.classification.tokuteiMeishoshu || item.style.join(" / ")], ["原料米", r.specs.riceVariety], ["精米歩合", r.specs.polishingRatio], ["アルコール度数", r.specs.alcoholPercentage], ["飲用温度", r.servingTemperatures], ["飲用温度範囲", r.recommendedTemperatureRange]]);
   const fields = formatFields([["原材料", r.specs.ingredients], ["原料米産地", r.specs.riceOrigin], ["麹米・掛米", r.specs.riceByRole], ["麹米・掛米の精米歩合", r.specs.polishingByRole], ["日本酒度", r.specs.nihonshudo], ["酸度", r.specs.acidity], ["アミノ酸度", r.specs.aminoAcidValue], ["酵母", r.specs.yeast], ["仕込水", r.specs.waterSource], ["熟成期間", r.specs.agingPeriod], ["年度・版", r.vintage]]);
   const commerce = commerceForSake(item);
   const links = buildResourceLinks(item);
@@ -50,34 +50,33 @@ export default async function SakePage({ params }) {
     <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd).replaceAll("<", "\\u003c") }} />
     <section className="sake-detail-hero">
       <p className="section-kicker">{item.prefecture}</p><h1>{item.productName}</h1>
+      <ProductLabelImage image={commerce.image} />
       <div className="detail-actions"><FavoriteButton id={item.id} /><ShareButton title={`${item.productName}｜${SITE_NAME}`} text="今夜の料理に合わせたい一献。" path={`/sake/${item.id}`} eventName="share_sake" /></div>
     </section>
     <section className="detail-band sake-overview" aria-labelledby="sake-about">
       <h2 id="sake-about">このお酒について</h2>
       <p className="sake-detail-intro">{buildSakeListSummary(item)}</p>
-      <p className="muted-copy">{r.classification.tokuteiMeishoshu || item.style.join(" / ")}</p>
       <ul className="feature-tags">{buildSakeVerifiedTags(item).map(tag => <li key={tag}>{tag}</li>)}</ul>
       {buildSakeEditorialTags(item).length > 0 && <p className="muted-copy">宵の一献の見立て：{buildSakeEditorialTags(item).join("、")}</p>}
       {essentials.length > 0 && <dl className="spec-table sake-essentials">{essentials.map(([label, value]) => <div key={label}><dt>{label}</dt><dd>{value}</dd></div>)}</dl>}
+      {fields.length > 0 && <details className="specs-details"><summary>詳しい商品情報</summary><dl className="spec-table">{fields.map(([label, value]) => <div key={label}><dt>{label}</dt><dd>{value}</dd></div>)}</dl></details>}
     </section>
-    <ProductLabelImage image={commerce.image} />
     <section className="detail-band purchase-discovery" aria-labelledby="sake-purchase">
       <h2 id="sake-purchase">このお酒を探す</h2>
       <PurchaseOptions offers={commerce.offers} links={commerce.discoveryLinks} />
     </section>
-    <section className="detail-band">
-      <p className="section-kicker">このお酒と食べたいもの</p><h2>{dishes[0] ? `今夜なら、${dishes[0].name}と。` : "料理から、もうひとつの出会いを。"}</h2>
+    <section className="detail-band brewery-information" aria-labelledby="sake-brewery">
+      <h2 id="sake-brewery">蔵元について</h2><h3 className="brewery-title">{item.brewery}</h3>
+      {item.prefecture && <p className="muted-copy">所在地（都道府県）：{item.prefecture}</p>}
+      <div className="resource-links">{links.map(link => <TrackedExternalLink key={link.href} href={link.href} className="text-link" event="official_link_click" parameters={{ sake_id: item.id }}>{link.label === "蔵元公式サイト" ? "公式サイトを見る" : link.label} ↗</TrackedExternalLink>)}</div>
+      <details className="source-details"><summary>商品情報の出典</summary><ul>{r.sources.map((source, i) => <li key={`${source.url}:${i}`}><TrackedExternalLink href={source.url} event="source_opened" className="text-link">{source.type === "breweryOfficial" ? "蔵元公式" : "専門資料"}：{publicSourceName(source, item.productName)} ↗</TrackedExternalLink></li>)}</ul></details>
+    </section>
+    <section className="detail-band sake-pairings" aria-labelledby="sake-pairings">
+      <p className="section-kicker">このお酒と食べたいもの</p><h2 id="sake-pairings">{dishes[0] ? `今夜なら、${dishes[0].name}と。` : "料理から、もうひとつの出会いを。"}</h2>
       <div className="reverse-dish-grid">{dishes.map(d => <article key={d.name}><h3><Link href={`/food/${toPathSegment(d.name)}`}><span>{d.name}</span><ChevronRight /></Link></h3><p>{d.reason}</p><small>宵の一献の提案</small></article>)}</div>
       {!dishes.length && <PairingPending />}
       {r.officialPairings.length > 0 && <div className="official-pairings"><h3>蔵元が紹介する組み合わせ</h3><p>{r.officialPairings.join("、")}</p></div>}
-    </section>
-    <section className="detail-band"><h2>こんな夜に。</h2><p className="muted-copy">食卓へ戻る、今夜の入口。</p><div className="night-inline">{nights.map(n => <Link key={n.id} className="yoi-button" href={`/nights/${n.id}`}>{n.name} →</Link>)}</div></section>
-    <section className="detail-band"><h2>蔵元・産地</h2><h3 className="brewery-title">{item.brewery}</h3><p className="muted-copy">{buildSakeLocation(item)}</p></section>
-    {fields.length > 0 && <section className="detail-band"><details className="specs-details"><summary>詳しい商品情報</summary><dl className="spec-table">{fields.map(([label, value]) => <div key={label}><dt>{label}</dt><dd>{value}</dd></div>)}</dl></details></section>}
-    <section className="detail-band">
-      <h2>商品情報・蔵元のサイト</h2>
-      <div className="resource-links">{links.map(link => <TrackedExternalLink key={link.href} href={link.href} className="yoi-button" event="official_link_click" parameters={{ sake_id: item.id }}>{link.label} ↗</TrackedExternalLink>)}</div>
-      <details className="source-details"><summary>商品情報の出典</summary><ul>{r.sources.map((source, i) => <li key={`${source.url}:${i}`}><TrackedExternalLink href={source.url} event="source_opened" className="text-link">{source.type === "breweryOfficial" ? "蔵元公式" : "専門資料"}：{publicSourceName(source, item.productName)} ↗</TrackedExternalLink></li>)}</ul></details>
+      <div className="pairing-nights"><h3>こんな夜に。</h3><p className="muted-copy">食卓へ戻る、今夜の入口。</p><div className="night-inline">{nights.map(n => <Link key={n.id} className="yoi-button" href={`/nights/${n.id}`}>{n.name} →</Link>)}</div></div>
     </section>
   </DiscoveryShell>;
 }
