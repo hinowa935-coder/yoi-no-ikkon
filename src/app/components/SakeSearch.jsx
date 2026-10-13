@@ -10,6 +10,7 @@ import TrackedLink from "./TrackedLink.jsx";
 import PairingPending from "./PairingPending.jsx";
 import {temperatureLabels,temperatureOptions,temperatureGroups} from '../../data/temperatureUX.js';
 import {matchesSearch,sortSearch} from '../../data/searchFiltering.js';
+import { editorialNightAssignments, editorialNightNote } from '../../data/editorialNightAssignments.js';
 
 export function SearchCard({ item }) {
   const dishes = dishesForSake(item);
@@ -24,6 +25,7 @@ export function SearchCard({ item }) {
     <details className="card-details"><summary>料理・温度などを見る</summary><dl>
       {dishes.length > 0 && <><dt>このお酒に合う料理</dt><dd>{dishes.map(d => <Link key={d.name} href={`/food/${toPathSegment(d.name)}`}>{d.name} </Link>)}</dd></>}
       <dt>こんな夜に</dt><dd>{nightsForSake(item).map(n => <Link key={n.id} href={`/discover?night=${n.id}`}>{n.name} </Link>)}</dd>
+      {editorialNightAssignments[item.id] && <><dt>夜の提案について</dt><dd>{editorialNightNote}</dd></>}
       {item.temperature.length > 0 && <><dt>おすすめ温度</dt><dd>{temperatureLabels(item.temperature).join("、")}</dd></>}
       {buildSakeVerifiedTags(item).length > 0 && <><dt>特徴</dt><dd>{buildSakeVerifiedTags(item).join("、")}</dd></>}
     </dl>{links.concat(purchase).map(link => <a key={link.href} className="text-link" href={link.href} target="_blank" rel="noreferrer" onClick={() => trackEvent("official_link_click", { sake_id: item.id })}>{link.label} ↗</a>)}<Link className="text-link" href={`/sake/${item.id}`}>このお酒を知る →</Link></details>

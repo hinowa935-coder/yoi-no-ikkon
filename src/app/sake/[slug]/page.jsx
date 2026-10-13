@@ -11,6 +11,7 @@ import { publicSourceName } from "../../../data/publicDisplay.js";
 import { displaySpec } from "../../../data/specDisplay.js";
 import { temperatureLabels } from "../../../data/temperatureUX.js";
 import { dishesForSake, nightsForSake } from "../../../data/discovery.js";
+import { editorialNightAssignments, editorialNightNote } from '../../../data/editorialNightAssignments.js';
 import { commerceForSake } from "../../../commerce/server.js";
 import { ProductLabelImage, PurchaseOptions } from "../../components/AffiliateCommerce.jsx";
 
@@ -77,7 +78,7 @@ export default async function SakePage({ params }) {
       <div className="reverse-dish-grid">{dishes.map(d => <article key={d.name}><h3><Link href={`/food/${toPathSegment(d.name)}`}><span>{d.name}</span><ChevronRight /></Link></h3><p>{d.reason}</p><small>宵の一献の提案</small></article>)}</div>
       {!dishes.length && <PairingPending />}
       {r.officialPairings.length > 0 && <div className="official-pairings"><h3>蔵元が紹介する組み合わせ</h3><p>{r.officialPairings.join("、")}</p></div>}
-      {nights.length>0 && <div className="pairing-nights"><h3>こんな夜に</h3><div className="night-inline">{nights.map(n => <Link key={n.id} className="yoi-button" href={`/nights/${n.id}`}>{n.name} →</Link>)}</div></div>}
+      {nights.length>0 && <div className="pairing-nights"><h3>こんな夜に</h3>{editorialNightAssignments[item.id] && <p className="muted-copy">{editorialNightNote}</p>}<div className="night-inline">{nights.map(n => <Link key={n.id} className="yoi-button" href={`/nights/${n.id}`}>{n.name} →</Link>)}</div></div>}
     </section>
   </DiscoveryShell>;
 }

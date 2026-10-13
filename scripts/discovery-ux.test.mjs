@@ -32,7 +32,7 @@ test('all 19 nights are selectable and season priority is deterministic',()=>{
   assert(['moon','autumn'].includes(orderedNights('season','2026-10-14')[0].id));
   assert.equal(orderedNights('season','2026-06-10')[0].id,'rain');
 });
-test('night affinity never uses product name, designation or unsourced tags; temperature alone is insufficient',()=>{
+test('sourced affinity does not infer taste from names or unsourced tags; temperature alone is insufficient',()=>{
   const unknown={id:'fixture',productName:'雨 雪 月 大吟醸',sakeResearch:{verifiedFeatureTags:['旨味'],featureEvidence:[],flavorProfile:{},fieldEvidence:[],servingTemperatures:['ぬる燗']}};
   for(const n of discoveryNights)assert.equal(nightAffinity(unknown,n.id).score,0);
   const p=discoveryProducts.find(p=>nightAffinity(p,'dinner').score>0);

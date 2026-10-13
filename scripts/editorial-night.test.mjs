@@ -1,0 +1,29 @@
+import test from 'node:test';
+import assert from 'node:assert/strict';
+import {discoveryProducts, discoveryNights, nightsForSake, nightAffinity} from '../src/data/discovery.js';
+import {editorialNightAssignments} from '../src/data/editorialNightAssignments.js';
+
+test('100 explicit impression assignments remain separate from verified facts and temperature',()=>{
+  assert.equal(Object.keys(editorialNightAssignments).length,100);
+  for(const [id,assignment] of Object.entries(editorialNightAssignments)) {
+    const item=discoveryProducts.find(p=>p.id===id);
+    assert(item);
+    assert(discoveryNights.some(n=>n.id===assignment.nightId));
+    const result=nightAffinity(item,assignment.nightId);
+    assert.equal(result.provenance,'editorialImpression');
+    assert.deepEqual(result.signals,[]);
+    assert.deepEqual(result.temperatureSourceUrls,[]);
+    assert.equal(result.temperatureMatch,false);
+    assert.equal(assignment.packageReviewed,false);
+    assert(assignment.reason.length>10);
+    assert(nightsForSake(item).some(n=>n.id===assignment.nightId));
+    assert.equal(nightAffinity(item,assignment.nightId,{[id]:{[assignment.nightId]:{exclude:true}}}).score,0);
+  }
+  assert.equal(discoveryProducts.filter(p=>!nightsForSake(p).length).length,0);
+});
+
+test('unregistered identities do not receive inferred night assignments',()=>{
+  for(const night of discoveryNights) {
+    assert.equal(nightAffinity({id:'unknown-editorial-fixture',productName:'雪 月 桜',prefecture:'北海道'},night.id).score,0);
+  }
+});

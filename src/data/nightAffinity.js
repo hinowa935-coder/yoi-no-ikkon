@@ -1,4 +1,5 @@
 import { normalizeTemperature } from './temperatureUX.js';
+import { editorialNightAssignments } from './editorialNightAssignments.js';
 
 // Editorial preferences, not measured intensity or new Verified attributes.
 export const nightProfiles = {
@@ -43,6 +44,14 @@ export function nightAffinity(item, nightId, overrides=nightOverrides) {
   const result = {score:override?.exclude?0:Math.max(0,Math.min(100,score+(override?.adjustment || 0))),signals,
     temperatureMatch,temperatureSourceUrls:temperatureMatch?temperatureSources.map(e=>e.sourceUrl):[],
     provenance:'editorialPreferenceFromSourcedFacts',override:override || null};
+  const editorial = editorialNightAssignments[item.id];
+  if (!result.score && !override?.exclude && editorial?.nightId === nightId) {
+    result.score = 24;
+    result.provenance = editorial.provenance;
+    result.editorialReason = editorial.reason;
+    result.temperatureMatch = false;
+    result.temperatureSourceUrls = [];
+  }
   if(overrides===nightOverrides){if(!cache.has(item))cache.set(item,new Map());cache.get(item).set(nightId,result);}
   return result;
 }
