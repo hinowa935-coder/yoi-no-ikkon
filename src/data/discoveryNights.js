@@ -1,4 +1,5 @@
-export const discoveryNights = [
+import {nightProfiles,nightTemperaturePreferences} from './nightAffinity.js';
+const nights = [
   { id: "after-work", name: "仕事を頑張った夜", description: "今日の自分に、おつかれさまを。", moods: ["疲れた夜", "週末"] },
   { id: "quiet", name: "ひとり静かな夜", description: "自分のペースで、ひと皿と一杯。", moods: ["一人飲み", "静かな晩酌"] },
   { id: "rain", name: "雨の夜", description: "雨音を聞きながら、今日は家でゆっくり。", moods: ["雨の日", "静かな晩酌"] },
@@ -9,6 +10,36 @@ export const discoveryNights = [
   { id: "dinner", name: "しっかり食べて飲みたい夜", description: "主菜をひとつ。今夜は、ちゃんと晩ごはん。", moods: ["しっかり食べたい"] },
   { id: "ordinary", name: "なんでもない夜", description: "特別なことはなくても、一杯あるとうれしい。", moods: ["静かな晩酌", "家族の食卓"] },
 ];
+
+const additions = [
+  {id:'reset',name:'気持ちを切り替えたい夜',description:'ひと息ついて、食卓から気分を変える。',moods:['気分を変えたい']},
+  {id:'celebrate',name:'うれしいことがあった夜',description:'小さなうれしさを、一杯とともに。',moods:['祝い']},
+  {id:'lingering',name:'余韻に浸りたい夜',description:'話や音楽の余韻を、ゆっくり楽しむ。',moods:['静かな晩酌']},
+  {id:'spring',name:'春の夜',description:'春のひと皿と、軽やかな一杯を。',moods:[],season:['spring']},
+  {id:'humid',name:'蒸し暑い夜',description:'涼しい食卓で、ひと息つきたい。',moods:[],season:['summer'],weather:['humid']},
+  {id:'festival',name:'夏祭りの帰りの夜',description:'にぎわいのあと、家でひと皿。',moods:[],season:['summer']},
+  {id:'moon',name:'月がきれいな夜',description:'窓の外を眺めながら、ゆっくり一献。',moods:[],season:['autumn']},
+  {id:'autumn',name:'秋風が心地いい夜',description:'秋の風に、あたたかな食卓を。',moods:[],season:['autumn']},
+  {id:'snow',name:'雪の夜',description:'家のぬくもりで、静かに楽しむ。',moods:[],season:['winter'],weather:['snow']},
+  {id:'year-end',name:'年の瀬の夜',description:'一年を振り返りながら、いつもの食卓で。',moods:[],season:['winter']},
+];
+export const discoveryNights = [...nights,...additions].map(n=>({...n,
+  group:['rain','cold',...additions.filter(a=>a.season).map(a=>a.id)].includes(n.id)?'season':'mood',
+  attributes:{mood:n.moods,company:n.id==='quiet'?'alone':n.id==='together'?'together':null,
+    season:n.season || (n.id==='cold'?['winter']:n.id==='rain'?['rainy']:[]),weather:n.weather || (n.id==='rain'?['rain']:[]),
+    appetite:n.id==='dinner'?'high':n.id==='just-one'?'light':null,drinkingPace:['quiet','together','lingering'].includes(n.id)?'slow':null,
+    mealWeight:n.id==='dinner'?'heavy':n.id==='just-one'?'light':null,occasion:n.id==='celebrate'?'celebration':null,
+    preferredTemperature:nightTemperaturePreferences[n.id] || [],flavorDirection:nightProfiles[n.id]},
+  aliases:n.id==='after-work'?['疲れた夜','仕事で疲れた夜','頑張った夜']:n.moods,
+}));
+export function seasonForSeed(seed) {
+  const month=Number(String(seed).slice(5,7));
+  return month>=3&&month<=5?'spring':month===6?'rainy':month>=7&&month<=8?'summer':month>=9&&month<=11?'autumn':'winter';
+}
+export function orderedNights(group,seed) {
+  const season=seasonForSeed(seed);
+  return discoveryNights.filter(n=>n.group===group).sort((a,b)=>Number(b.attributes.season.includes(season))-Number(a.attributes.season.includes(season)));
+}
 
 export const foodDirections = [
   { id: "warm", name: "あたたかいもの" },

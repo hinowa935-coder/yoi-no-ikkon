@@ -6,7 +6,7 @@
     "build": "next build",
     "postbuild": "node scripts/postbuild.mjs",
     "start": "next start",
-    "lint": "next lint",
+    "lint": "node scripts/lint-ux.mjs",
     "audit:data": "node scripts/audit-data.mjs",
     "verify:commerce": "node scripts/verify-affiliate-coverage.mjs",
     "verify:security": "node scripts/verify-dependency-security.mjs"

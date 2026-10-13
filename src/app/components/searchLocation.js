@@ -1,4 +1,4 @@
-export const searchFilterKeys = ["prefecture", "dish", "taste", "classification", "temperature", "night"];
+export const searchFilterKeys = ["prefecture", "dish", "taste", "classification", "temperature", "night", "sort"];
 export const emptySearchFilters = () => Object.fromEntries(searchFilterKeys.map(key => [key, ""]));
 export function readSearchLocation(search) {
   const params = new URLSearchParams(search);

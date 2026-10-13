@@ -2,7 +2,7 @@
 
 import { trackEvent } from "../../data/telemetry.js";
 
-export default function ShareButton({ title, text, path, eventName = "share" }) {
+export default function ShareButton({ title, text, path, eventName = "share", label }) {
   const url =
     typeof window === "undefined"
       ? path
@@ -25,7 +25,7 @@ export default function ShareButton({ title, text, path, eventName = "share" }) 
       onClick={share}
       className="rounded-full border border-[#d8bd7a]/35 px-4 py-2 text-sm text-[#f2dfad] transition hover:border-[#d8bd7a]/70 hover:bg-[#d8bd7a]/10"
     >
-      この夜をシェアする
+      {label || (eventName === 'share_sake' ? 'この一献をシェアする' : eventName === 'share_food' ? 'この組み合わせをシェアする' : 'この夜をシェアする')}
     </button>
   );
 }

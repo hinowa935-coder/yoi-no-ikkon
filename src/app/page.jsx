@@ -18,7 +18,7 @@ export default function Page() {
       <h2>一献を探す。</h2>
       <div className="entrance-layout">
         <TrackedLink href="/discover" className="entrance-primary" event="discovery_start" parameters={{ source: "home" }}>
-          <span><strong>今夜の気分から</strong><small>過ごし方から、料理と一献を。</small></span><ChevronRight />
+          <span><strong>夜の気分から</strong><small>過ごし方から、料理と一献を。</small></span><ChevronRight />
         </TrackedLink>
         <div className="entrance-secondary">
           <TrackedLink href="/food" event="discovery_start" parameters={{ source: "food" }}>

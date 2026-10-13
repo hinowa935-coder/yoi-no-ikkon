@@ -9,6 +9,7 @@ import PairingPending from "../../components/PairingPending.jsx";
 import { SITE_NAME, SITE_URL, visibleSakePairings, legacyReferences, resolveSakeReference, getSakeById, buildSakeListSummary, buildSakeVerifiedTags, buildSakeEditorialTags, buildResourceLinks, toPathSegment } from "../../../data/siteData.js";
 import { publicSourceName } from "../../../data/publicDisplay.js";
 import { displaySpec } from "../../../data/specDisplay.js";
+import { temperatureLabels } from "../../../data/temperatureUX.js";
 import { dishesForSake, nightsForSake } from "../../../data/discovery.js";
 import { commerceForSake } from "../../../commerce/server.js";
 import { ProductLabelImage, PurchaseOptions } from "../../components/AffiliateCommerce.jsx";
@@ -41,7 +42,7 @@ export default async function SakePage({ params }) {
   const nights = nightsForSake(item);
   const r = item.sakeResearch;
   const formatFields = entries => entries.map(([label, value]) => [label, displaySpec(value, label.includes("精米歩合") ? "%" : label === "アルコール度数" ? "度" : "")]).filter(([, text]) => text);
-  const essentials = formatFields([["蔵元", item.brewery], ["都道府県", item.prefecture], ["特定名称", r.classification.tokuteiMeishoshu || item.style.join(" / ")], ["原料米", r.specs.riceVariety], ["精米歩合", r.specs.polishingRatio], ["アルコール度数", r.specs.alcoholPercentage], ["飲用温度", r.servingTemperatures], ["飲用温度範囲", r.recommendedTemperatureRange]]);
+  const essentials = formatFields([["蔵元", item.brewery], ["都道府県", item.prefecture], ["特定名称", r.classification.tokuteiMeishoshu || item.style.join(" / ")], ["原料米", r.specs.riceVariety], ["精米歩合", r.specs.polishingRatio], ["アルコール度数", r.specs.alcoholPercentage], ["飲用温度", temperatureLabels(r.servingTemperatures)], ["飲用温度範囲", r.recommendedTemperatureRange]]);
   const fields = formatFields([["原材料", r.specs.ingredients], ["原料米産地", r.specs.riceOrigin], ["麹米・掛米", r.specs.riceByRole], ["麹米・掛米の精米歩合", r.specs.polishingByRole], ["日本酒度", r.specs.nihonshudo], ["酸度", r.specs.acidity], ["アミノ酸度", r.specs.aminoAcidValue], ["酵母", r.specs.yeast], ["仕込水", r.specs.waterSource], ["熟成期間", r.specs.agingPeriod], ["年度・版", r.vintage]]);
   const commerce = commerceForSake(item);
   const links = buildResourceLinks(item);
@@ -76,7 +77,7 @@ export default async function SakePage({ params }) {
       <div className="reverse-dish-grid">{dishes.map(d => <article key={d.name}><h3><Link href={`/food/${toPathSegment(d.name)}`}><span>{d.name}</span><ChevronRight /></Link></h3><p>{d.reason}</p><small>宵の一献の提案</small></article>)}</div>
       {!dishes.length && <PairingPending />}
       {r.officialPairings.length > 0 && <div className="official-pairings"><h3>蔵元が紹介する組み合わせ</h3><p>{r.officialPairings.join("、")}</p></div>}
-      <div className="pairing-nights"><h3>こんな夜に。</h3><p className="muted-copy">食卓へ戻る、今夜の入口。</p><div className="night-inline">{nights.map(n => <Link key={n.id} className="yoi-button" href={`/nights/${n.id}`}>{n.name} →</Link>)}</div></div>
+      {nights.length>0 && <div className="pairing-nights"><h3>こんな夜に</h3><div className="night-inline">{nights.map(n => <Link key={n.id} className="yoi-button" href={`/nights/${n.id}`}>{n.name} →</Link>)}</div></div>}
     </section>
   </DiscoveryShell>;
 }

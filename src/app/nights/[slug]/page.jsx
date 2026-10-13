@@ -1,6 +1,8 @@
 import { notFound } from "next/navigation";
 import DiscoveryShell from "../../components/DiscoveryShell.jsx";
 import DiscoveryFlow from "../../components/DiscoveryFlow.jsx";
+import DiscoveryQueryFlow from "../../components/DiscoveryQueryFlow.jsx";
+import { Suspense } from "react";
 import { daySeed, discoveryNights } from "../../../data/discovery.js";
 export function generateStaticParams() { return discoveryNights.map(n => ({ slug: n.id })); }
 export async function generateMetadata({ params }) {
@@ -12,5 +14,6 @@ export default async function NightDiscovery({ params }) {
   const { slug } = await params;
   const night = discoveryNights.find(n => n.id === slug);
   if (!night) notFound();
-  return <DiscoveryShell><DiscoveryFlow seed={daySeed()} initialNight={night.id} /></DiscoveryShell>;
+  const seed=daySeed();
+  return <DiscoveryShell><Suspense fallback={<DiscoveryFlow seed={seed} initialNight={night.id} />}><DiscoveryQueryFlow seed={seed} initialNight={night.id} /></Suspense></DiscoveryShell>;
 }

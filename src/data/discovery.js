@@ -4,6 +4,8 @@ import { naturalTasteTerm } from "./sakeIntroduction.js";
 import { refineMealPairingReason } from "./pairingCopy.js";
 import { refineGroundedPairing } from "./groundedPairingCopy.js";
 import { refineHighExposurePairing } from "./highExposurePairingCopy.js";
+import { nightAffinity } from "./nightAffinity.js";
+export { nightAffinity } from "./nightAffinity.js";
 
 export { discoveryDishes, discoveryNights, foodDirections };
 export const discoveryProducts = catalog.items;
@@ -48,7 +50,7 @@ function officialMatch(item, dish) {
 }
 export function scorePairing(item, dishName, nightId = "ordinary") {
   const dish = dishProfile(dishName);
-  const night = discoveryNights.find(n => n.id === nightId) || discoveryNights.at(-1);
+  const night = discoveryNights.find(n => n.id === nightId) || discoveryNights.find(n=>n.id==='ordinary');
   const facts = [...(item.sakeResearch.verifiedFeatureTags || []), ...Object.values(item.sakeResearch.flavorProfile || {}).flat().filter(Boolean)];
   const has = re => facts.some(fact => re.test(fact));
   const phrase = re => {
@@ -92,10 +94,9 @@ export function scorePairing(item, dishName, nightId = "ordinary") {
       strongest.sourceUrls = [...new Set([...strongest.sourceUrls, ...revised.sourceUrls])];
     }
   }
-  const mood = night.moods.some(m => item.moods.includes(m)) ? 1 : 0;
-  const warm = night.warm && item.temperature.some(t => /燗/.test(t)) ? 1 : 0;
+  const affinity = nightAffinity(item, night.id);
   // Max, not sum: more published facts do not automatically mean a higher rank.
-  return { score: (strongest?.weight || 0) + mood + warm, strength: strongest?.weight || 0,
+  return { score: (strongest?.weight || 0) + affinity.score / 25, nightAffinity: affinity, strength: strongest?.weight || 0,
     reason: strongest?.reason || "", basis: strongest?.kind || null, signals,
     sourceUrls: strongest?.sourceUrls || [], provenance: "editorialAlgorithm", officialExact: Boolean(official?.exact) };
 }
@@ -104,12 +105,18 @@ function tasteSources(item, re) {
     .concat((item.sakeResearch.fieldEvidence || []).filter(e => e.field.startsWith("flavorProfile.") && re.test(String(e.value))).map(e => e.sourceUrl)))];
 }
 export function recommendationPool(dish, nightId = "ordinary") {
-  const candidates = discoveryProducts.filter(isDiscoverySake).map(item => ({ item, ...scorePairing(item, dish, nightId) })).filter(r => r.strength >= 6);
+  const candidates = discoveryProducts.filter(isDiscoverySake).map(item => ({ item, ...scorePairing(item, dish, nightId) })).filter(r => r.strength >= 6 && r.nightAffinity.score > 0);
   const top = Math.max(0, ...candidates.map(r => r.score));
   return candidates.filter(r => r.score >= Math.max(6, top - 5));
 }
 export function recommendSake(dish, nightId = "ordinary", seed = "v1", limit = 3) {
-  const pool = recommendationPool(dish, nightId).sort((a, b) =>
+  const eligible = recommendationPool(dish, nightId);
+  const strongestNight = Math.max(0,...eligible.map(r=>r.nightAffinity.score));
+  // Rotate within a grounded affinity band, rather than repeating one maximum-score sake everywhere.
+  let threshold=Math.max(1,strongestNight-35);
+  let band=eligible.filter(r=>r.nightAffinity.score>=threshold);
+  while(new Set(band.map(r=>r.item.brewery)).size<limit && threshold>1){threshold=Math.max(1,threshold-10);band=eligible.filter(r=>r.nightAffinity.score>=threshold);}
+  const pool = band.sort((a, b) =>
     rotationHash(`${seed}:${nightId}:${dish}:${a.item.id}`) - rotationHash(`${seed}:${nightId}:${dish}:${b.item.id}`)).slice(0, 60);
   const chosen = [];
   while (pool.length && chosen.length < limit) {
@@ -119,9 +126,9 @@ export function recommendSake(dish, nightId = "ordinary", seed = "v1", limit = 3
   }
   return chosen;
 }
-export function suggestDishes(nightId, directionId, seed = "v1") {
+export function suggestDishes(nightId, directionId, seed = "v1", limit = 6) {
   return discoveryDishes.filter(d => d.directions.includes(directionId) && recommendationPool(d.name, nightId).length >= 3)
-    .sort((a, b) => rotationHash(`${seed}:${nightId}:${a.name}`) - rotationHash(`${seed}:${nightId}:${b.name}`)).slice(0, 6);
+    .sort((a, b) => rotationHash(`${seed}:${nightId}:${a.name}`) - rotationHash(`${seed}:${nightId}:${b.name}`)).slice(0, limit);
 }
 export function dishesForSake(item, seed = "v1") {
   const names = [...new Set([...item.yoiPairings, ...discoveryDishes.map(d => d.name),
@@ -130,8 +137,8 @@ export function dishesForSake(item, seed = "v1") {
     .sort((a, b) => b.score - a.score || rotationHash(`${seed}:${a.name}`) - rotationHash(`${seed}:${b.name}`)).slice(0, 6);
 }
 export function nightsForSake(item) {
-  return [...discoveryNights].sort((a, b) =>
-    b.moods.filter(m => item.moods.includes(m)).length - a.moods.filter(m => item.moods.includes(m)).length).slice(0, 3);
+  return discoveryNights.map(n=>({...n,affinity:nightAffinity(item,n.id)})).filter(n=>n.affinity.score>0)
+    .sort((a,b)=>b.affinity.score-a.affinity.score).slice(0,3);
 }
 export function dailyRecommendation(seed) {
   const night = discoveryNights[rotationHash(seed) % discoveryNights.length];
