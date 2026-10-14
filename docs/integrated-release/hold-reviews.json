@@ -1,0 +1,42 @@
+[
+  {
+    "sakeId": "sohomare-kimoto-tokubetsu-junmai",
+    "itemCode": "kimijimaya-online:10000149",
+    "reason": "惣譽/惣誉は蔵元の字体差。生もと仕込特別純米720mlを区別。",
+    "normalUrl": "https://item.rakuten.co.jp/kimijimaya-online/1001376/",
+    "officialUrl": "https://sohomare.co.jp/lineup03.php",
+    "verifiedAt": "2026-10-14T12:38:49.305Z"
+  },
+  {
+    "sakeId": "kizakura-yamahai-tokubetsu-junmai-yamadanishiki-standard",
+    "itemCode": "kizakurasake:10000181",
+    "reason": "公式販売名が生もと山廃で一致。山廃を別スターターと誤判定していた。",
+    "normalUrl": "https://item.rakuten.co.jp/kizakurasake/30000073/",
+    "officialUrl": "https://www.kizakura-shop.com/view/item/000000000243",
+    "verifiedAt": "2026-10-14T12:38:49.307Z"
+  },
+  {
+    "sakeId": "choryo-yoshinosugi-tarusake-standard",
+    "itemCode": "drink-senmonten:10005245",
+    "reason": "蔵元・吉野杉の樽酒・720mlが一致。販売タイトルの分類省略は公式分類との矛盾ではない。",
+    "normalUrl": "https://item.rakuten.co.jp/drink-senmonten/1320000052/",
+    "officialUrl": "https://www.choryo.co.jp/?pid=157239009",
+    "verifiedAt": "2026-10-14T12:38:49.308Z"
+  },
+  {
+    "sakeId": "shoutoku-karaku-tokubetsu-junmai-karakuchi-genshu-standard",
+    "itemCode": "kyono-genzigura:10002237",
+    "reason": "招德/招徳は字体差。特別純米 花洛 辛口原酒720mlが一致。",
+    "normalUrl": "https://item.rakuten.co.jp/kyono-genzigura/karakuzyunmai720/",
+    "officialUrl": "https://shoutoku-shop.com/?pid=183305815",
+    "verifiedAt": "2026-10-14T12:38:49.309Z"
+  },
+  {
+    "sakeId": "taisetsunokura-junmai-standard",
+    "itemCode": "watashoweb:10000312",
+    "reason": "大雪乃蔵の蔵元対応は公式商品単位情報で確認。純米1.8Lと別シリーズ絹雪を区別。",
+    "normalUrl": "https://item.rakuten.co.jp/watashoweb/0006-57592/",
+    "officialUrl": "https://www.oenon.jp/product/sake/junmai/junmai-taisetsunokura.html",
+    "verifiedAt": "2026-10-14T12:38:49.309Z"
+  }
+]

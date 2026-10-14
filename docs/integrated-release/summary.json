@@ -1,0 +1,206 @@
+{
+  "generatedAt": "2026-10-14T12:50:31.414Z",
+  "rows": [
+    [
+      "保存済み対象45件",
+      "Phase25 replacements.jsonの45件を使用。新規選び直しなし。"
+    ],
+    [
+      "本番差し替え完了",
+      "本番QA待ち（実装45件、ローカルQA成功）"
+    ],
+    [
+      "最終登録数",
+      492
+    ],
+    [
+      "旧商品のactive残存",
+      0
+    ],
+    [
+      "旧URL対応",
+      "45件の旧商品アーカイブ200。別商品への自動redirectは0件。歴史的別名も残す。"
+    ],
+    [
+      "おちょこ",
+      "旧IDと旧名称を維持。新商品へ自動migrationしない。新旧45件の回帰検査あり。"
+    ],
+    [
+      "新商品の楽天照合",
+      45
+    ],
+    [
+      "新規正式楽天直リンク",
+      39
+    ],
+    [
+      "新規正式楽天画像",
+      39
+    ],
+    [
+      "新45件の検索fallback",
+      6
+    ],
+    [
+      "新規採用の購入不能",
+      "0件。採用39件で販売ボタン・単品・容量を確認。公式生成取得不可3件はfallback。"
+    ],
+    [
+      "新Amazon検索更新",
+      45
+    ],
+    [
+      "新蔵元リンク監査・更新",
+      "45件の購入台帳更新、うち確認できた購入先18件。その他は参考/出典として保持。"
+    ],
+    [
+      "全492蔵元・取扱店監査",
+      "{\"A\":29,\"B\":100,\"C\":2,\"D\":8,\"E\":353}。Eは非購入先または未確認で購入枠に不掲載。楽天チャネルとは別判定。"
+    ],
+    [
+      "到達不能・未確認購入先除外",
+      "21件。403等は消滅断定しない。"
+    ],
+    [
+      "参考情報と購入先の分離",
+      "353登録でメーカー購入先を非表示。参考・記事・商品情報の原出典は削除しない。到達不能21件を含む。"
+    ],
+    [
+      "容量表示",
+      "購入先ごとに既知値のみ。蔵元等26件、楽天315件の確認済み容量を表示。複数/不明はnull。"
+    ],
+    [
+      "カード外部リンク",
+      "画像脇に楽天の商品を見る・外部サイト目的名。詳しく見るは常時表示。元広告HTML変更なし。"
+    ],
+    [
+      "Discover文脈",
+      "night/direction/dish/day/dishesを詳細へ渡し、料理・理由・三本へ戻るを表示。直接流入では強制しない。"
+    ],
+    [
+      "料理理由監査",
+      "139728組を機械確認。根菜の煮物の魚料理への誤拡張を禁止。別料理名検出1件は公式提案を明示した編集説明なので維持。"
+    ],
+    [
+      "モバイル検索",
+      "上部余白・閉じた条件概要を圧縮。360px以下は80px原画像を縦配置。320/375pxで確認。"
+    ],
+    [
+      "既存279直リンク保護",
+      "276件を不変保持。旧商品差し替えに伴う3件のみactive台帳から除外。新商品へ流用なし。"
+    ],
+    [
+      "既存271画像保護",
+      "268件の元HTML・ハッシュ・承認を不変保持。退役3件のみactive台帳から除外。"
+    ],
+    [
+      "最終楽天直リンク",
+      315
+    ],
+    [
+      "最終正式商品画像",
+      307
+    ],
+    [
+      "最終楽天検索fallback",
+      177
+    ],
+    [
+      "テスト",
+      "公開チェックアウト32/32成功。492全名称/蔵元検索、旧保存ID、19夜、分類/温度、PR/CSP/失効、文脈復帰を含む。"
+    ],
+    [
+      "build",
+      "Next16.3.8 Webpack成功。1155静的生成、postbuild1153公開HTML監査成功。Turbopack既知問題の再調査なし。"
+    ],
+    [
+      "typecheck",
+      "tsc --noEmit成功。"
+    ],
+    [
+      "lint",
+      "既存lint-ux（TS構文・競合・公開debug検査）成功。ESLint実行という意味ではない。"
+    ],
+    [
+      "secret scan",
+      "7081ファイル、設定済み3値の生値/URLエンコード/base64検査、漏出0件。私有キャッシュ・.envは公開/stageしない。"
+    ],
+    [
+      "deployment / commit",
+      "公開準備完了。本番QA後に追記。"
+    ],
+    [
+      "production確認",
+      "本番確認待ち。ローカル492商品・旧45URLは全成功。"
+    ],
+    [
+      "残課題",
+      "新6件はfallback（容量/セット/選択容量未確定3、正式生成取得不可3）。メーカー等21件は到達未確認。実機Safari/PWAは今回未実施、変更せずブラウザ幅で確認。"
+    ]
+  ],
+  "held": [
+    {
+      "sakeId": "tosatsuru-honzo-karakuchi-standard",
+      "name": "土佐鶴 本醸辛口",
+      "decision": "B",
+      "reason": "identity_or_capacity_unresolved",
+      "normalUrl": null,
+      "imageRegistered": false,
+      "verifiedAt": "2026-10-14T12:41:52.146Z"
+    },
+    {
+      "sakeId": "kizakura-yamahai-tokubetsu-junmai-yamadanishiki-standard",
+      "name": "黄桜 生もと山廃 特別純米酒 山田錦",
+      "decision": "B",
+      "reason": "official_tool_unavailable",
+      "normalUrl": null,
+      "imageRegistered": false,
+      "verifiedAt": "2026-10-14T12:41:52.147Z"
+    },
+    {
+      "sakeId": "tomio-gion-komachi-junmai-ginjo-standard",
+      "name": "富翁 純米吟醸 祇園小町",
+      "decision": "B",
+      "reason": "official_tool_unavailable",
+      "normalUrl": null,
+      "imageRegistered": false,
+      "verifiedAt": "2026-10-14T12:41:52.148Z"
+    },
+    {
+      "sakeId": "echigozakura-daiginjo-standard",
+      "name": "大吟醸 越後桜",
+      "decision": "B",
+      "reason": "official_tool_unavailable",
+      "normalUrl": null,
+      "imageRegistered": false,
+      "verifiedAt": "2026-10-14T12:41:52.148Z"
+    },
+    {
+      "sakeId": "mifuku-yamahai-junmai-ginjo-iginjunsei-standard",
+      "name": "美冨久 山廃純米吟醸 いぎん純聖",
+      "decision": "B",
+      "reason": "identity_or_capacity_unresolved",
+      "normalUrl": null,
+      "imageRegistered": false,
+      "verifiedAt": "2026-10-14T12:41:52.150Z"
+    },
+    {
+      "sakeId": "sho-chiku-bai-yamadanishiki-tokubetsu-junmai-karakuchi-standard",
+      "name": "特撰松竹梅 山田錦 特別純米 辛口",
+      "decision": "B",
+      "reason": "identity_or_capacity_unresolved",
+      "normalUrl": null,
+      "imageRegistered": false,
+      "verifiedAt": "2026-10-14T12:41:52.151Z"
+    }
+  ],
+  "categories": {
+    "A": 29,
+    "B": 100,
+    "C": 2,
+    "D": 8,
+    "E": 353
+  },
+  "images": 307,
+  "release": null
+}

@@ -1,5 +1,6 @@
 // Explicit editorial scene choices for the 100 previously unassigned products.
 // These are not sensory evidence, serving advice, or observations of package images.
+import catalog from './discoveryCatalog.json' with {type:'json'};
 const choices = [
   ['koimari-saki','together','前という名前に、誰かと次の時間へ進む場面を重ねる'],
   ['manrei-junmai','ordinary','万齢という名前に、日々を重ねる晩酌の場面を重ねる'],
@@ -101,9 +102,13 @@ const choices = [
   ['ine-to-agave-doburoku6-v1','autumn','稲という名前から、収穫の季節を思う夜を提案。清酒推薦対象には変更しない'],
   ['goshun-honmaru-honjozo-v1','spring','呉春という名前から、春の夜を提案'],
   ['ainosato-junmai-ginsan-hiire-v1','quiet','藍の郷という名前から、夜の落ち着いた景色を提案'],
+  ['taiheizan-tenko-junmai-daiginjo-standard','ordinary','天巧を家庭の食卓で少しずつ楽しむ、なんでもない夜の編集提案。味や温度の公式推奨ではない'],
+  ['tosatsuru-honzo-karakuchi-standard','ordinary','土佐鶴を日々の晩ごはんに添える、なんでもない夜の編集提案。味や温度の公式推奨ではない'],
+  ['hakuinmasamune-karakuchi-junmai-standard','quiet','白隠正宗と家庭料理を、自分のペースで楽しむ静かな夜の編集提案。温度の公式推奨ではない'],
 ];
 
 export const editorialNightNote = '名前や産地などの印象から選んだ、宵の一献の提案です。味わいや飲用温度の公式推奨ではありません。';
-export const editorialNightAssignments = Object.fromEntries(choices.map(([id, nightId, reason]) => [id, {
+const activeIds=new Set(catalog.items.map(i=>i.id));
+export const editorialNightAssignments = Object.fromEntries(choices.filter(([id])=>activeIds.has(id)).map(([id, nightId, reason]) => [id, {
   nightId, reason, provenance: 'editorialImpression', packageReviewed: false,
 }]));

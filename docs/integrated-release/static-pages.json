@@ -1,0 +1,4440 @@
+{
+  "checkedAt": "2026-10-14T12:48:56.226Z",
+  "base": "local_static_export",
+  "active": 492,
+  "archives": 45,
+  "direct": 315,
+  "images": 307,
+  "fallback": 177,
+  "errors": [],
+  "rows": [
+    {
+      "sakeId": "nogomi-tokubetsu-junmai",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "shichida-junmai",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "B"
+    },
+    {
+      "sakeId": "koimari-saki",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "azumaichi-junmai-ginjo",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "B"
+    },
+    {
+      "sakeId": "nabeshima-junmai-ginjo",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "search",
+      "image": false,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "amabuki-flower-yeast",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": false,
+      "merchant": "B"
+    },
+    {
+      "sakeId": "koeigiku-snow-crescent",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "search",
+      "image": false,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "azumacho-junmai",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "search",
+      "image": false,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "manrei-junmai",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "search",
+      "image": false,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "kihotsuru-junmai-ginjo",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "search",
+      "image": false,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "niwa-no-uguisu-junmai-ginjo",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "wakanami-junmai",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "search",
+      "image": false,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "miinokotobuki-junmai-ginjo",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "chiebijin-junmai",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "reizan-junmai",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "search",
+      "image": false,
+      "merchant": "B"
+    },
+    {
+      "sakeId": "sasshu-masamune-junmai",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "amaneko-white-koji",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "search",
+      "image": false,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "denshu-tokubetsu-junmai",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "mutsu-hassen-red-label",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "B"
+    },
+    {
+      "sakeId": "akabu-junmai",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "nanbu-bijin-tokubetsu-junmai",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "B"
+    },
+    {
+      "sakeId": "yamamoto-pure-black",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "search",
+      "image": false,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "yuki-no-bosha-junmai-ginjo",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": false,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "ippaku-suissei-tokubetsu-junmai",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "sharaku-junmai-ginjo",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "aizu-chujo-junmai",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "hakurakusei-tokubetsu-junmai",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "kenkonichi-tokubetsu-junmai",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "juyondai-honmaru",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "search",
+      "image": false,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "dewazakura-oka-ginjo",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "hakkaisan-tokubetsu-honjozo",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "B"
+    },
+    {
+      "sakeId": "kubota-senju",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "B"
+    },
+    {
+      "sakeId": "koshino-kanbai-white-label",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "A"
+    },
+    {
+      "sakeId": "shimeharitsuru-tsuki",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "murayu-kuro",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "search",
+      "image": false,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "matsunokotobuki-junmai-ginjo",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "search",
+      "image": false,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "oze-no-yukidoke-junmai-daiginjo",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "B"
+    },
+    {
+      "sakeId": "gokeiji-junmai-ginjo",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "masumi-karakuchi-kiippon",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "B"
+    },
+    {
+      "sakeId": "shinshu-kirei-junmai-ginjo",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "search",
+      "image": false,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "yoakemae-tatsuno-junmai",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "born-gold",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "jozan-junmai",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "tedorigawa-yamahai-junmai",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "kikuhime-yamahai-junmai",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "tengumai-yamahai-junmai",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "masuizumi-junmai-ginjo",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": false,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "kachikoma-junmai",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "search",
+      "image": false,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "hayashi-junmai-ginjo",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "search",
+      "image": false,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "kamoshibito-kuheiji-eau-du-desir",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "search",
+      "image": false,
+      "merchant": "B"
+    },
+    {
+      "sakeId": "gikyo-tokubetsu-junmai",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "houraisen-wa-junmai-ginjo",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "A"
+    },
+    {
+      "sakeId": "zaku-miyabi-no-tomo",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "kikusui-funaguchi-honjozo-nama-genshu-standard",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "B"
+    },
+    {
+      "sakeId": "iso-jiman-honjozo",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "kaiun-tokubetsu-junmai",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": false,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "kaze-no-mori-alpha",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "search",
+      "image": false,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "umenoyado-junmai",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "B"
+    },
+    {
+      "sakeId": "tamanohikari-junmai-ginjo-shukon-standard",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "B"
+    },
+    {
+      "sakeId": "kid-junmai-ginjo",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "ugonotsuki-junmai-ginjo",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "B"
+    },
+    {
+      "sakeId": "kamo-kinshu-tokubetsu-junmai",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "dassai-45",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "ohmine-three-grain",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "search",
+      "image": false,
+      "merchant": "A"
+    },
+    {
+      "sakeId": "suigei-tokubetsu-junmai",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "B"
+    },
+    {
+      "sakeId": "kameizumi-cel24",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "search",
+      "image": false,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "hirotogawa-tokubetsu-junmai",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "tenbi-junmai-ginjo",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "hiran-nigori",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "search",
+      "image": false,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "tsuchida-kimoto",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "nichinichi-yamada-nishiki",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "search",
+      "image": false,
+      "merchant": "A"
+    },
+    {
+      "sakeId": "koeigiku-gekkou",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "search",
+      "image": false,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "ibi-white",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "search",
+      "image": false,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "kachikoma-modern-premium",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "juyondai-modern-premium",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "dassai-23",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "otokoyama-kimoto-junmai",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "kokushi-muso-junmai",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "A"
+    },
+    {
+      "sakeId": "fukutsukasa-junmai",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "kita-no-katsu-taikai",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "search",
+      "image": false,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "kamikawa-taisetsu-junmai",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "search",
+      "image": false,
+      "merchant": "B"
+    },
+    {
+      "sakeId": "gohou-junmai",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "hato-masamune-tw2kq6",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "momokawa-tw2kq6",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "B"
+    },
+    {
+      "sakeId": "asahibaki-iaxjez",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "kiku-no-tsukasa-iaxjez",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "search",
+      "image": false,
+      "merchant": "B"
+    },
+    {
+      "sakeId": "hamachidori-iaxjez",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "tsuki-no-wa-iaxjez",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "search",
+      "image": false,
+      "merchant": "B"
+    },
+    {
+      "sakeId": "atago-no-matsu-i3yhce",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "urakasumi-i3yhce",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "B"
+    },
+    {
+      "sakeId": "suminoe-i3yhce",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "D"
+    },
+    {
+      "sakeId": "miyakanbai-i3yhce",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "mansaku-no-hana-o23n5c",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "B"
+    },
+    {
+      "sakeId": "kudoki-jozu-i9diua",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "jokigen-i9diua",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "yamagata-masamune-i9diua",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "B"
+    },
+    {
+      "sakeId": "hatsumago-i9diua",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "search",
+      "image": false,
+      "merchant": "B"
+    },
+    {
+      "sakeId": "daishichi-junmai-kimoto-standard",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "wataribune-pwohce",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "daina-kjnkdk",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "search",
+      "image": false,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "shichisui-kjnkdk",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "B"
+    },
+    {
+      "sakeId": "mizubasho-p7oucs",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "search",
+      "image": false,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "ruka-p7oucs",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "B"
+    },
+    {
+      "sakeId": "tanigawadake-p7oucs",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "sara-hdomtl",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "search",
+      "image": false,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "jozen-mizunogotoshi-junmai-ginjo-standard",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "echigozakura-daiginjo-standard",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "search",
+      "image": false,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "kinoene-gg3q4p",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "B"
+    },
+    {
+      "sakeId": "taiheizan-tenko-junmai-daiginjo-standard",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "kidoizumi-gg3q4p",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "fukuiwai-gg3q4p",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "search",
+      "image": false,
+      "merchant": "B"
+    },
+    {
+      "sakeId": "okunokami-kflfjg",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "search",
+      "image": false,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "kinkon-kflfjg",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "search",
+      "image": false,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "sawanoi-kflfjg",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "B"
+    },
+    {
+      "sakeId": "kasen-kflfjg",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "tamajiman-kflfjg",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "edo-kaijo-kflfjg",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "search",
+      "image": false,
+      "merchant": "A"
+    },
+    {
+      "sakeId": "izumibashi-nz2hmwijh",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "B"
+    },
+    {
+      "sakeId": "zarusou-hourai-nz2hmwijh",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "tanzawasan-nz2hmwijh",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "search",
+      "image": false,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "matsu-midori-nz2hmwijh",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "hakoneyama-nz2hmwijh",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "abe-k34lzz",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "search",
+      "image": false,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "tateyama-i4si9d",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "ginban-i4si9d",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "search",
+      "image": false,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "jokigen-ishikawa-nozijh",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "kagatobi-nozijh",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "B"
+    },
+    {
+      "sakeId": "ippongi-o0ffit",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "B"
+    },
+    {
+      "sakeId": "hanagaki-o0ffit",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "A"
+    },
+    {
+      "sakeId": "maibijin-o0ffit",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "search",
+      "image": false,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "mushohai-junmai-ginjo-standard",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "A"
+    },
+    {
+      "sakeId": "shunnoten-i9dko8",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "A"
+    },
+    {
+      "sakeId": "kizakura-yamahai-tokubetsu-junmai-yamadanishiki-standard",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "search",
+      "image": false,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "kai-no-kaiun-i9dko8",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "taikan-i9dko8",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "search",
+      "image": false,
+      "merchant": "A"
+    },
+    {
+      "sakeId": "hyakushun-ia8tng",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "search",
+      "image": false,
+      "merchant": "B"
+    },
+    {
+      "sakeId": "michisakari-ia8tng",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "nito-j6jnol",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "oku-j6jnol",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "search",
+      "image": false,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "tenkanishiki-fexsst",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "search",
+      "image": false,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "shichihonyari-lvvrsw",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "B"
+    },
+    {
+      "sakeId": "matsu-no-tsukasa-lvvrsw",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "kirakucho-lvvrsw",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "haginotsuyu-lvvrsw",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "search",
+      "image": false,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "eikun-kyoto-fjg",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "B"
+    },
+    {
+      "sakeId": "tsuki-no-katsura-fjg",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "goshun-hlztnu",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "katano-sakura-hlztnu",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "rikyubai-hlztnu",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "search",
+      "image": false,
+      "merchant": "B"
+    },
+    {
+      "sakeId": "amanosake-hlztnu",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "A"
+    },
+    {
+      "sakeId": "tatsuriki-g39ip7",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "search",
+      "image": false,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "kenbishi-g39ip7",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "search",
+      "image": false,
+      "merchant": "B"
+    },
+    {
+      "sakeId": "kiku-masamune-g39ip7",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "B"
+    },
+    {
+      "sakeId": "hakutsuru-g39ip7",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "B"
+    },
+    {
+      "sakeId": "okura-hmwprj",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "search",
+      "image": false,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "harushika-hmwprj",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "kuroushi-gp8l70i9d",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "kurumazaka-gp8l70i9d",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": false,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "minakata-gp8l70i9d",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "bentenmusume-uzpgk6",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "search",
+      "image": false,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "hiokizakura-uzpgk6",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "search",
+      "image": false,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "chiyomusubi-uzpgk6",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "A"
+    },
+    {
+      "sakeId": "takaisami-uzpgk6",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "search",
+      "image": false,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "suwaizumi-uzpgk6",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "sanin-togo-uzpgk6",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "search",
+      "image": false,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "rihaku-id2kl5",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "search",
+      "image": false,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "kagatsuru-junmai-josen-standard",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "jujiasahi-id2kl5",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "search",
+      "image": false,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "gassan-id2kl5",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "B"
+    },
+    {
+      "sakeId": "izumo-fuji-id2kl5",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "search",
+      "image": false,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "sanzen-iapi9d",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "A"
+    },
+    {
+      "sakeId": "kamikokoro-iapi9d",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "tagaji-iapi9d",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "search",
+      "image": false,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "fukucho-io3id2",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "search",
+      "image": false,
+      "merchant": "B"
+    },
+    {
+      "sakeId": "ryusei-io3id2",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "search",
+      "image": false,
+      "merchant": "A"
+    },
+    {
+      "sakeId": "harada-i9dgkj",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "wakamusume-i9dgkj",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "search",
+      "image": false,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "miyoshikiku-iwjid2",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "search",
+      "image": false,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "narutotai-iwjid2",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "imakomachi-iwjid2",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "search",
+      "image": false,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "housui-iwjid2",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "search",
+      "image": false,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "gotenzakura-iwjid2",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "kawatsuru-uc9ijh",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "search",
+      "image": false,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "kinryo-uc9ijh",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "C"
+    },
+    {
+      "sakeId": "tosatsuru-honzo-karakuchi-standard",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "search",
+      "image": false,
+      "merchant": "B"
+    },
+    {
+      "sakeId": "sanuki-cloudy-uc9ijh",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "search",
+      "image": false,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "yamatan-masamune-j6jhwb",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "umenishiki-j6jhwb",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "kyohina-j6jhwb",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "B"
+    },
+    {
+      "sakeId": "sukigokoro-j6jhwb",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "B"
+    },
+    {
+      "sakeId": "bijofu-ul4nol",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "tosa-shiragiku-ul4nol",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "search",
+      "image": false,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "shigemasu-o0fiap",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "B"
+    },
+    {
+      "sakeId": "asahigiku-o0fiap",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "kinokawa-tividq",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "A"
+    },
+    {
+      "sakeId": "koro-mfekdo",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "zuiyo-mfekdo",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "B"
+    },
+    {
+      "sakeId": "tsujun-mfekdo",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "search",
+      "image": false,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "nishinoseki-hlzg7a",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "takakiya-hlzg7a",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "search",
+      "image": false,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "wakabotan-hlzg7a",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "search",
+      "image": false,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "yatsushika-hlzg7a",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "B"
+    },
+    {
+      "sakeId": "senbazuru-hlzg7a",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "sentoku-i3yidq",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "ranman-junmai-managudako-standard",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "B"
+    },
+    {
+      "sakeId": "ayanishiki-i3yidq",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "hanakagura-i3yidq",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "tenbu-vb3g28id2",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "satsumaji-vb3g28id2",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "tenbu-junmai-daiginjo",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "taisetsunokura-junmai-standard",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "denshu-tokubetsu-junmai-1",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "houhai-junmai-ginjo-3",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "kamotsuru-chotokusem-tokuto-tokubetsu-honjozo",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "hideyoshi-junmai-standard",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "B"
+    },
+    {
+      "sakeId": "asahibaki-iaxjez-3",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "hakurakusei-tokubetsu-junmai-1",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "aramasa-junmai-1",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "search",
+      "image": false,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "dewazakura-oka-ginjo-2",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "search",
+      "image": false,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "hiroki-tokubetsu-junmai-1",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "search",
+      "image": false,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "raifuku-junmai-ginjo-1",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "search",
+      "image": false,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "ichinokura-tokubetsu-junmai-karakuchi",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "denyu-tokubetsu-junmai-standard",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "oze-no-yukidoke-junmai-daiginjo-1",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "search",
+      "image": false,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "hanaabi-junmai-daiginjo-1",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "search",
+      "image": false,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "sara-hdomtl-2",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "search",
+      "image": false,
+      "merchant": "B"
+    },
+    {
+      "sakeId": "shinkame-hdomtl-3",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "B"
+    },
+    {
+      "sakeId": "kikko-hanabishi-hdomtl-4",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "D"
+    },
+    {
+      "sakeId": "kinoene-gg3q4p-2",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "B"
+    },
+    {
+      "sakeId": "naruka-gg3q4p-4",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "search",
+      "image": false,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "kidoizumi-gg3q4p-5",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "search",
+      "image": false,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "kinkon-kflfjg-2",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "kasen-kflfjg-4",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "hakkaisan-tokubetsu-honjozo-1",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "B"
+    },
+    {
+      "sakeId": "kubota-senju-2",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "B"
+    },
+    {
+      "sakeId": "koshino-kanbai-white-label-3",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "search",
+      "image": false,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "sanshoraku-junmai-standard",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "haneya-junmai-ginjo-2",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "search",
+      "image": false,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "kachikoma-junmai-3",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "maboroshi-no-taki-junmai-ginjo-standard",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "tengumai-yamahai-junmai-3",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "B"
+    },
+    {
+      "sakeId": "jokigen-ishikawa-nozijh-4",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "kokuryu-junmai-ginjo-1",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "born-gold-2",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "jozan-junmai-3",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "search",
+      "image": false,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "ippongi-o0ffit-4",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "B"
+    },
+    {
+      "sakeId": "hanagaki-o0ffit-5",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "search",
+      "image": false,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "shichiken-i9dko8-1",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "search",
+      "image": false,
+      "merchant": "A"
+    },
+    {
+      "sakeId": "shunnoten-i9dko8-2",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "A"
+    },
+    {
+      "sakeId": "tanizakura-i9dko8-3",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "masumi-karakuchi-kiippon-1",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "B"
+    },
+    {
+      "sakeId": "shinshu-kirei-junmai-ginjo-2",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "search",
+      "image": false,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "daishinsyu-junmai-ginjo-3",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "search",
+      "image": false,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "kawanakajima-genmai-junmai-ginjo-4",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "ibi-white-1",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "search",
+      "image": false,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "tsushimaya-ia8tng-2",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "search",
+      "image": false,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "kunizakari-handago-junmai-ginjo-1801",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "kaiun-tokubetsu-junmai-2",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "hatsukame-karakuchi-junmai-3",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "search",
+      "image": false,
+      "merchant": "B"
+    },
+    {
+      "sakeId": "eikun-junmai-ginjo-4",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "kamoshibito-kuheiji-eau-du-desir-1",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "search",
+      "image": false,
+      "merchant": "B"
+    },
+    {
+      "sakeId": "gokyo-junmai-standard",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "A"
+    },
+    {
+      "sakeId": "jikon-tokubetsu-junmai-1",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "search",
+      "image": false,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "zaku-miyabi-no-tomo-2",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "furosen-lvvrsw-1",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "shichihonyari-lvvrsw-2",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "matsu-no-tsukasa-lvvrsw-3",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "search",
+      "image": false,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "kirakucho-lvvrsw-4",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "search",
+      "image": false,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "sawaya-matsumoto-shuhari-1",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "B"
+    },
+    {
+      "sakeId": "nichinichi-yamada-nishiki-3",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "search",
+      "image": false,
+      "merchant": "A"
+    },
+    {
+      "sakeId": "goshun-hlztnu-2",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "search",
+      "image": false,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "okuharima-yamahai-junmai-1",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "sensuke-junmai-ginjo-3",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "suishin-inaho-junmai-ginjo-standard",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "mimurosugi-roman-series-2",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "search",
+      "image": false,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "umenoyado-junmai-3",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "search",
+      "image": false,
+      "merchant": "B"
+    },
+    {
+      "sakeId": "shirayuki-josen-junmai-standard",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "B"
+    },
+    {
+      "sakeId": "kid-junmai-ginjo-1",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "kurumazaka-gp8l70i9d-3",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "search",
+      "image": false,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "rashomon-gp8l70i9d-4",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "search",
+      "image": false,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "hiokizakura-uzpgk6-2",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "search",
+      "image": false,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "chiyomusubi-uzpgk6-3",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "A"
+    },
+    {
+      "sakeId": "takaisami-uzpgk6-4",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "search",
+      "image": false,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "rihaku-id2kl5-2",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "search",
+      "image": false,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "sanzen-iapi9d-1",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "B"
+    },
+    {
+      "sakeId": "kamikokoro-iapi9d-4",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "search",
+      "image": false,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "taiten-shiragiku-iapi9d-5",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "ugonotsuki-junmai-ginjo-1",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "B"
+    },
+    {
+      "sakeId": "kamo-kinshu-tokubetsu-junmai-2",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "search",
+      "image": false,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "fukucho-io3id2-4",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "search",
+      "image": false,
+      "merchant": "A"
+    },
+    {
+      "sakeId": "dassai-45-1",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "ohmine-three-grain-2",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "search",
+      "image": false,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "nihonsakari-souhana-junmai-ginjo-standard",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "kinryo-uc9ijh-3",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "C"
+    },
+    {
+      "sakeId": "ayakiku-uc9ijh-4",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "sanuki-cloudy-uc9ijh-5",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "search",
+      "image": false,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "ishizuchi-junmai-ginjo-1",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "yamatan-masamune-j6jhwb-2",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "kyohina-j6jhwb-5",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "B"
+    },
+    {
+      "sakeId": "bijofu-ul4nol-3",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "miinokotobuki-junmai-ginjo-4",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "nogomi-tokubetsu-junmai-1",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "yokoyama-tividq-2",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "sawanotsuru-junmai-yamadanishiki-standard",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "B"
+    },
+    {
+      "sakeId": "gazan-junmai-daiginjo-standard",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "chiebijin-junmai-1",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "search",
+      "image": false,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "okunomatsu-tokubetsu-junmai-standard",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "B"
+    },
+    {
+      "sakeId": "otokoyama-fukkoshu",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "B"
+    },
+    {
+      "sakeId": "tatenokawa-seiryu",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "A"
+    },
+    {
+      "sakeId": "tatenokawa-kyuryu",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "B"
+    },
+    {
+      "sakeId": "niida-shizenshu-junmai-genshu",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "search",
+      "image": false,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "gunmaizumi-yamahai-junmai",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "harushika-chokarakuchi-junmai",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "kinkon-juemon-junmai-muroka-genshu",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "search",
+      "image": false,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "ohyama-tokubetsu-junmai-tomizu-standard",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "warakugoson-junmai-ginjo-standard",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "tamadeizumi-junmai-ginjo",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "search",
+      "image": false,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "kanhokuto-tokubetsu-junmai",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "hiraizumi-yamahai-tokubetsu-junmai-v1",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "B"
+    },
+    {
+      "sakeId": "hiraizumi-jukusei-yamahai-junmai-v1",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "B"
+    },
+    {
+      "sakeId": "morinokura-junmai-v1",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "komagura-haruka-gonen-junmai-koshu-v1",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "kinteki-junmai-ginjo-v1",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "chikumanishiki-karakuchi-tokubetsu-junmai-v1",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "B"
+    },
+    {
+      "sakeId": "ishizuchi-junmai-ginjo-yamadanishiki50-v1",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "chitosetsuru-junmai-ginjo-kitashizuku-v1",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "B"
+    },
+    {
+      "sakeId": "sawaya-matsumoto-shuhari-gohyakumangoku-v1",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "search",
+      "image": false,
+      "merchant": "B"
+    },
+    {
+      "sakeId": "tenbu-junmai-v1",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "ganki-hitotsubi-junmai-v1",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "gakki-masamune-honjozo-nakadori-v1",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "shizengo-tokubetsu-junmai-v1",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "houhai-tokubetsu-junmai-v1",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "search",
+      "image": false,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "nito-junmai-ginjo-yamadanishiki55-v1",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "eikun-tokubetsu-junmai-homarefuji-v1",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "buyu-karakuchi-junmai-v1",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "kunimare-tokubetsu-junmai-standard",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "B"
+    },
+    {
+      "sakeId": "otokoyama-kuniyoshinona-v1",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "hatsumiyo-honjozo-v1",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "hananoka-kikka-v1",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "search",
+      "image": false,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "taito-tokubetsu-junmai-v1",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "search",
+      "image": false,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "raifuku-junmai-ginjo-yamadanishiki-hiire-v1",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "search",
+      "image": false,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "tamagawa-tokubetsu-junmai-v1",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "search",
+      "image": false,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "tamagawa-kimoto-kounotori-v1",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "search",
+      "image": false,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "kariho-yamahai-junmai-chokarakuchi-v1",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "search",
+      "image": false,
+      "merchant": "B"
+    },
+    {
+      "sakeId": "roman-junmai-ginjo-ichikai-hiire-2025by-v1",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "michizakura-junmai-rclass-v1",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "hououbiden-tsurugi-hiire-v1",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "shiramayumi-tokubetsu-junmai-hidahomare-standard",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "B"
+    },
+    {
+      "sakeId": "morishima-miyamanishiki-junmai-ginjo-hiire-v1",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "daishinshu-tenouchi-namazume-v1",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "search",
+      "image": false,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "tenryo-tobikiri-tokubetsu-junmai",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "A"
+    },
+    {
+      "sakeId": "bojimaya-junmai-ginjo-muroka-nama-v1",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "search",
+      "image": false,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "sugata-kire-tokubetsu-junmai-v1",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "tsukasabotan-niyodo-blue-junmai-standard",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "sensuke-chokarakuchi-junmai-ginjo-genshu-ichibi-v1",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "search",
+      "image": false,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "mikotsuru-junmai-ginjo-hitogokochi-hiire-v1",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "search",
+      "image": false,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "ryozeki-junmai-ginjo-v1",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "B"
+    },
+    {
+      "sakeId": "hanzo-tokubetsu-junmai-karakuchi-v1",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "sasaichi-yata-v1",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "search",
+      "image": false,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "sasaichi-yata-junmai-daiginjo-v1",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "rokujuyoshu-junmai-ginjo-yamadanishiki-v1",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "hakutaka-kinmatsu-tokubetsu-junmai",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "fukutsuru-junmai-ginjo-v1",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "B"
+    },
+    {
+      "sakeId": "hakuinmasamune-karakuchi-junmai-standard",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "yokoyama-silver7-namazume-v1",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "search",
+      "image": false,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "rokujuyoshu-tividq-3",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "search",
+      "image": false,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "nishinoseki-junmai-ginjo-bigin-v1",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": false,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "hatsukame-karakara-beppin-v1",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "wakabotan-hatcho-hinohikari-v1",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "search",
+      "image": false,
+      "merchant": "B"
+    },
+    {
+      "sakeId": "haneya-kirabi-nama-genshu-v1",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "kurokabuto-green-label-v1",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "search",
+      "image": false,
+      "merchant": "A"
+    },
+    {
+      "sakeId": "mimurosugi-tokubetsu-junmai-tsuyuhakaze-v1",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "search",
+      "image": false,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "kozaemon-bizen-omachi-hiire-v1",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "search",
+      "image": false,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "mifuku-yamahai-junmai-ginjo-iginjunsei-standard",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "search",
+      "image": false,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "daijiro-yamada-junmai-ginjo-hiire-v1",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "search",
+      "image": false,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "choryo-yoshinosugi-tarusake-standard",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "miyozakura-leaf-junmai-ginjo-v1",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "okuharima-okamishizuku-hiire-v1",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "search",
+      "image": false,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "fudo-ichido-hiire-tokubetsu-junmai-v1",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "search",
+      "image": false,
+      "merchant": "B"
+    },
+    {
+      "sakeId": "fudo-ichido-hiire-junmai-daiginjo-v1",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "B"
+    },
+    {
+      "sakeId": "mikadomatsu-shacho-no-sake-v1",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "search",
+      "image": false,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "niseko-suisei-junmai-ginjo-hiire-v1",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "tanzawasan-shuho-v1",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "search",
+      "image": false,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "zaru-so-hourai-junmai-green-v1",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "search",
+      "image": false,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "izumibashi-momoiro-kurotonbo-shinriki-v1",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "search",
+      "image": false,
+      "merchant": "B"
+    },
+    {
+      "sakeId": "sagaminada-tokubetsu-junmai-karakuchi-hiire-v1",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "B"
+    },
+    {
+      "sakeId": "gozenshu-junmai-mimasaka-v1",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "gozenshu-junmai-ginjo-nyoisan-omachi-v1",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "search",
+      "image": false,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "shidaizumi-junmai-ginjo-yaizu-shumai-2026-v1",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "kawatsuru-junmai-ooseto-hiire-v1",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "bentenmusume-junmai-yamahai-gouriki-v1",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "search",
+      "image": false,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "umenishiki-ginjo-tsuunosake-v1",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "toyonoaki-junmai-ginjo-matsuezukushi-standard",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "akaiwaomachi-junmai-daiginjo-standard-v1",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "B"
+    },
+    {
+      "sakeId": "nichiei-junmai-ginjo-ishikawamon-standard",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "A"
+    },
+    {
+      "sakeId": "kinpai-junmai-yokozuna-standard",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "shiraito-70-v1",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "search",
+      "image": false,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "suigei-junmai-daiginjo-hyogo-yamadanishiki50-v1",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "B"
+    },
+    {
+      "sakeId": "iyo-kagiya-junmai-aka-label-v1",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "seiryozen-tokubetsu-junmai-the-plains-v1",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "narutotai-onto-the-table-junmai-ginjo-v1",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "search",
+      "image": false,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "niwanouguisu-tokubetsu-junmai-standard-v1",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "niwanouguisu-junmai-ginjo-nuruhada-v1",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "tenbu-junmai-ginjo-uzen-sakemirai-v1",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "search",
+      "image": false,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "takakiya-karakuchi-tokubetsu-junmai-v1",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "tonbo-tokubetsu-junmai-standard-v1",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "kitanonishiki-maruta-tokubetsu-junmai-v1",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "B"
+    },
+    {
+      "sakeId": "kurawanka-junmai-usunigori-v1",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "tsuchida-12-standard-v1",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "search",
+      "image": false,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "shosetsu-junmai-ginjo-yamadanishiki-standard-v1",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "toyonoume-yoiyoi-junmai-ginjo-v1",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "search",
+      "image": false,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "tomio-gion-komachi-junmai-ginjo-standard",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "search",
+      "image": false,
+      "merchant": "B"
+    },
+    {
+      "sakeId": "minami-junmai-ginjo-matsuyamamitsui-standard-v1",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "houraisen-bi-junmai-daiginjo-standard-v1",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "A"
+    },
+    {
+      "sakeId": "takijiman-hayase-karakuchi-junmai-v1",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "kazenomori-akitsuho-657-standard-v1",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "search",
+      "image": false,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "kirei-karakuchi-junmai-hachiju-hiire-v1",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "search",
+      "image": false,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "nanbubijin-junmai-daiginjo-sakemirai-standard-v1",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "B"
+    },
+    {
+      "sakeId": "sogen-notonokuni-junmai-standard-v1",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "sogen-genshin-junmai-daiginjo-standard-v1",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "houken-junmai-hattannishiki-green-v1",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "D"
+    },
+    {
+      "sakeId": "houken-junmai-ginjo-hattannishiki-standard-v1",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "D"
+    },
+    {
+      "sakeId": "kokuryu-icchorai-jungin-standard-v1",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "sawanoi-junmai-daikarakuchi-standard-v1",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "B"
+    },
+    {
+      "sakeId": "biwanosasanami-matsu-junmai-daiginjo-hiire-v1",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "search",
+      "image": false,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "shirakiku-vibrant-junmai-hiire-standard-v1",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "search",
+      "image": false,
+      "merchant": "A"
+    },
+    {
+      "sakeId": "sagaminada-junmai-ginjo-miyamanishiki-standard-v1",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "B"
+    },
+    {
+      "sakeId": "toyobijin-junmai-ginjo-50-standard-v1",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "tenmei-orange-funashibori-junmai-hiire-standard-v1",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "hiran-nikomaru-hiire-standard-v1",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "shinomine-takeyama-junmai-yamadanishiki-chokarakuchi-hiire-v1",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "shinomine-rinrin-setoomachi-junmai-ginjo-muroka-nama-genshu-v1",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "tenon-junmai-standard-ichikai-hiire-v1",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "B"
+    },
+    {
+      "sakeId": "tosa-shiragiku-zankara-tokubetsu-junmai-standard-v1",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "ozeki-tokusen-tokubetsu-junmai-yamadanishiki-standard",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "B"
+    },
+    {
+      "sakeId": "housui-tokubetsu-junmai-standard-v1",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "hitakami-sakana-label-tokubetsu-junmai-hiire-v1",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "D"
+    },
+    {
+      "sakeId": "hitakami-chokarakuchi-junmai-standard-v1",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "kenkonichi-chokarakuchi-junmai-ginjo-genshu-hiire-v1",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "ouroku-ryu-tokubetsu-honjozo-honnama-v1",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "search",
+      "image": false,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "umebijin-junmai-ginjo-sakurahime-standard",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "B"
+    },
+    {
+      "sakeId": "taiten-shiragiku-junmai-shiragiku-standard-v1",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "sohomare-kimoto-tokubetsu-junmai",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "garyubai-junmai-daiginjo-gohyakumangoku45-fukurotsuri-v1",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "search",
+      "image": false,
+      "merchant": "B"
+    },
+    {
+      "sakeId": "kagura-junmai-daiginjo-shiro-muroka-mukasui-nama-v1",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": false,
+      "merchant": "B"
+    },
+    {
+      "sakeId": "kagura-junmai-daiginjo-shiro-muroka-mukasui-ichibi-v1",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "search",
+      "image": false,
+      "merchant": "B"
+    },
+    {
+      "sakeId": "hourai-junmai-ginjo-kaden-tezukuri-v1",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "B"
+    },
+    {
+      "sakeId": "kawanakajima-tokubetsu-junmai-standard-v1",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "kirari-junmai-genshu-hiire-standard-v1",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "takachiyo-karakuchi-junmai-miyamanishiki-plus19-hiire-v1",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "D"
+    },
+    {
+      "sakeId": "teishu-kanpaku-karakuchi-honjozo-v1",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "search",
+      "image": false,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "shoutoku-karaku-tokubetsu-junmai-karakuchi-genshu-standard",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "jikon-tokubetsu-junmai-hiire-standard-v1",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "search",
+      "image": false,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "jikon-junmai-ginjo-yamadanishiki-hiire-standard-v1",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "jikon-junmai-ginjo-omachi-hiire-standard-v1",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "sho-chiku-bai-yamadanishiki-tokubetsu-junmai-karakuchi-standard",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "search",
+      "image": false,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "kankiku-ocean99-toumi-arrival-hiire-v1",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "kasen-maboroshi-no-sake-tokubetsu-honjozo-standard-v1",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "hiroki-tokubetsu-junmai-namazume-standard-v1",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "search",
+      "image": false,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "gikyo-enishi-junmai-aged-blend-v1",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "search",
+      "image": false,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "banshu-ikkon-junmai-chokarakuchi-hiire-v1",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "akishika-junmai-inaho-yamadanishiki-75-v1",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "akishika-yamahai-junmai-yamadanishiki-70-muroka-genshu-hiire-v1",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": false,
+      "merchant": "D"
+    },
+    {
+      "sakeId": "chochin-tokubetsu-junmai-gold-standard-v1",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "search",
+      "image": false,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "eikofuji-jungetsu-junmai-standard-v1",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "search",
+      "image": false,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "senkin-classic-nishiki-origarami-hiire-v1",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "search",
+      "image": false,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "senkin-modern-ichishiki-hiire-v1",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "search",
+      "image": false,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "senkin-retro-ichishiki-hiire-v1",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "search",
+      "image": false,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "senkin-organic-nature-2026-hiire-v1",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "search",
+      "image": false,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "yorokobi-gaijin-tezukuri-junmai-hiire-standard-v1",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "homare-gaijin-junmai-ginjo-hiire-r7by-v1",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "search",
+      "image": false,
+      "merchant": "D"
+    },
+    {
+      "sakeId": "aramasa-no6-r-type-nama-standard-v1",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "aramasa-viridian-hiire-standard-v1",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "kamonishiki-nifudazake-kisuisen-binhiire-v1",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "search",
+      "image": false,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "yui-omachi-junmai-ginjo-nama-genshu-raifuku-v1",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "search",
+      "image": false,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "yui-omachi-junmai-ginjo-chokarakuchi-raifuku-v1",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "okunokami-junmai-ginjo-muchosei-nama-v1",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "search",
+      "image": false,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "ubusuna-yamada-nishiki-ninojo-2025-nama-v1",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "search",
+      "image": false,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "tabika-junmai-funashibori-ichikai-hiire-v1",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "search",
+      "image": false,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "kirei-banjisakazukinonaka-junmai-hiire-v1",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "wakaze-the-classic-yamagata-v1",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "search",
+      "image": false,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "kameman-plus9-karakuchi-junmai-v1",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "search",
+      "image": false,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "hokuan-daikoku-junmai70-v1",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "sakuta-tokubetsu-junmai-keiyaku-v1",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "hisagotaiko-junmai-ginjo-led-v1",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "search",
+      "image": false,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "librom-mint-craft-sake-v1",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "search",
+      "image": false,
+      "merchant": "A"
+    },
+    {
+      "sakeId": "ine-to-agave-doburoku6-v1",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "search",
+      "image": false,
+      "merchant": "A"
+    },
+    {
+      "sakeId": "goshun-honmaru-honjozo-v1",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "zuiyo-honjozo-chokarakuchi-v1",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "B"
+    },
+    {
+      "sakeId": "narutotai-junmai-tomoe-v1",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "E"
+    },
+    {
+      "sakeId": "gekkeikan-horin-junmai-daiginjo-standard",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "direct",
+      "image": true,
+      "merchant": "B"
+    },
+    {
+      "sakeId": "azumanofumoto-junmai-ginjo-yamagata-selection-v1",
+      "status": 200,
+      "identity": true,
+      "metadata": true,
+      "rakuten": "search",
+      "image": false,
+      "merchant": "E"
+    }
+  ]
+}

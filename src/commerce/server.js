@@ -15,6 +15,8 @@ import { rakutenStagedState } from "./rakutenLifecycle.js";
 import { projectApprovedRakutenLink } from "./rakutenActivation.js";
 import finalApprovals from './generated/commerce-final-approvals.json';
 import {projectFinalCommerce} from './finalCommerce.js';
+import merchantAudit from './generated/merchant-links.json';
+import replacementIds from './generated/replacement-ids.json';
 
 // Server components only: credentials and review records never reach client props.
 export function commerceForSake(item) {
@@ -38,11 +40,13 @@ export function commerceForSake(item) {
     record.links.filter(link => Date.parse(link.validUntil) > Date.now() && !disabled.includes(link.provider));
   const staged = rakutenStagedState(item, rakutenStagedLinks);
   const matchedNormal=final.normal;
-  const registeredNormal=buildPurchaseLinks(item).filter(l=>!l.href.includes('item.rakuten.co.jp')||matchedNormal.length);
-  const officialUrl=item.officialUrl||item.productUrl;
-  const officialLink=officialUrl?[{sakeId:item.id,url:officialUrl,provider:'merchant',matchType:'official',destinationType:'official_site',isAffiliate:false,label:'蔵元・取扱店を見る'}]:[];
+  const registeredNormal=buildPurchaseLinks(item).filter(l=>/rakuten\.co\.jp|amazon\.co\.jp|shopping\.yahoo\.co\.jp/.test(new URL(l.href).hostname)&&(!l.href.includes('item.rakuten.co.jp')||matchedNormal.length)&&!(replacementIds.includes(item.id)&&new URL(l.href).hostname.endsWith('amazon.co.jp')));
+  const audited=merchantAudit.records[item.id];
+  const officialLink=audited&&['A','B','C','D'].includes(audited.type)&&audited.url?[{...audited,sakeId:item.id,matchType:'audited_purchase_destination'}]:[];
   const purchase = selectPurchaseLinks(item, { offers, normalProducts: [...matchedNormal,...registeredNormal, ...(staged?.normalProducts || [])],
-    discoveryLinks: [...links,...officialLink], stagedStatuses: staged ? { rakuten: staged.status } : {} });
+    discoveryLinks: [...links.filter(l=>l.provider!=='merchant'),...officialLink], stagedStatuses: staged ? { rakuten: staged.status } : {} });
+  // Audited manufacturer/dealer destinations take precedence over legacy normal-link ranking.
+  purchase.normalLinks=[...purchase.normalLinks.filter(l=>l.provider!=='merchant'),...officialLink];
   let image = projectLabelImage(item, activeRegistry, exactOffers, Date.now(), process.env, config);
   if (image?.isAdvertisement && process.env.NODE_ENV !== "development") {
     image = releaseApprovedOffer(item, image, releaseApprovals, config.registeredSite);

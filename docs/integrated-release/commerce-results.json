@@ -1,0 +1,409 @@
+{
+  "results": [
+    {
+      "sakeId": "tenryo-tobikiri-tokubetsu-junmai",
+      "name": "特別純米 飛切り",
+      "decision": "A",
+      "reason": "current_commercial_identity_and_sale_confirmed",
+      "normalUrl": "https://item.rakuten.co.jp/saketakuhida/1628751591n/",
+      "imageRegistered": true,
+      "verifiedAt": "2026-10-14T12:41:52.134Z"
+    },
+    {
+      "sakeId": "sanshoraku-junmai-standard",
+      "name": "三笑楽 純米酒",
+      "decision": "A",
+      "reason": "current_commercial_identity_and_sale_confirmed",
+      "normalUrl": "https://item.rakuten.co.jp/ono-sake/4514655001085/",
+      "imageRegistered": true,
+      "verifiedAt": "2026-10-14T12:41:52.139Z"
+    },
+    {
+      "sakeId": "sohomare-kimoto-tokubetsu-junmai",
+      "name": "惣誉 生酛仕込 特別純米",
+      "decision": "A",
+      "reason": "current_commercial_identity_and_sale_confirmed",
+      "normalUrl": "https://item.rakuten.co.jp/kimijimaya-online/1001376/",
+      "imageRegistered": true,
+      "verifiedAt": "2026-10-14T12:41:52.141Z"
+    },
+    {
+      "sakeId": "ichinokura-tokubetsu-junmai-karakuchi",
+      "name": "一ノ蔵 特別純米酒 辛口",
+      "decision": "A",
+      "reason": "current_commercial_identity_and_sale_confirmed",
+      "normalUrl": "https://item.rakuten.co.jp/watashoweb/0006-56241/",
+      "imageRegistered": true,
+      "verifiedAt": "2026-10-14T12:41:52.142Z"
+    },
+    {
+      "sakeId": "daishichi-junmai-kimoto-standard",
+      "name": "大七 純米生酛",
+      "decision": "A",
+      "reason": "current_commercial_identity_and_sale_confirmed",
+      "normalUrl": "https://item.rakuten.co.jp/akabekonosato-cowbe/166397115/",
+      "imageRegistered": true,
+      "verifiedAt": "2026-10-14T12:41:52.142Z"
+    },
+    {
+      "sakeId": "jozen-mizunogotoshi-junmai-ginjo-standard",
+      "name": "上善如水 純米吟醸",
+      "decision": "A",
+      "reason": "current_commercial_identity_and_sale_confirmed",
+      "normalUrl": "https://item.rakuten.co.jp/jozen/102315/",
+      "imageRegistered": true,
+      "verifiedAt": "2026-10-14T12:41:52.143Z"
+    },
+    {
+      "sakeId": "okunomatsu-tokubetsu-junmai-standard",
+      "name": "奥の松 特別純米",
+      "decision": "A",
+      "reason": "current_commercial_identity_and_sale_confirmed",
+      "normalUrl": "https://item.rakuten.co.jp/ihei/23212/",
+      "imageRegistered": true,
+      "verifiedAt": "2026-10-14T12:41:52.143Z"
+    },
+    {
+      "sakeId": "ranman-junmai-managudako-standard",
+      "name": "純米まなぐ凧",
+      "decision": "A",
+      "reason": "current_commercial_identity_and_sale_confirmed",
+      "normalUrl": "https://item.rakuten.co.jp/sake-gets/10008925/",
+      "imageRegistered": true,
+      "verifiedAt": "2026-10-14T12:41:52.143Z"
+    },
+    {
+      "sakeId": "tamanohikari-junmai-ginjo-shukon-standard",
+      "name": "玉乃光 純米吟醸 酒魂",
+      "decision": "A",
+      "reason": "current_commercial_identity_and_sale_confirmed",
+      "normalUrl": "https://item.rakuten.co.jp/kurastyle/12086732/",
+      "imageRegistered": true,
+      "verifiedAt": "2026-10-14T12:41:52.144Z"
+    },
+    {
+      "sakeId": "kunimare-tokubetsu-junmai-standard",
+      "name": "国稀 特別純米",
+      "decision": "A",
+      "reason": "current_commercial_identity_and_sale_confirmed",
+      "normalUrl": "https://item.rakuten.co.jp/gourmet-m/sa104/",
+      "imageRegistered": true,
+      "verifiedAt": "2026-10-14T12:41:52.144Z"
+    },
+    {
+      "sakeId": "kamotsuru-chotokusem-tokuto-tokubetsu-honjozo",
+      "name": "賀茂鶴 超特撰特等酒",
+      "decision": "A",
+      "reason": "current_commercial_identity_and_sale_confirmed",
+      "normalUrl": "https://item.rakuten.co.jp/shochuya-doragon/kamo-36/",
+      "imageRegistered": true,
+      "verifiedAt": "2026-10-14T12:41:52.145Z"
+    },
+    {
+      "sakeId": "gekkeikan-horin-junmai-daiginjo-standard",
+      "name": "鳳麟 純米大吟醸",
+      "decision": "A",
+      "reason": "current_commercial_identity_and_sale_confirmed",
+      "normalUrl": "https://item.rakuten.co.jp/soukaidrink/4901030020531/",
+      "imageRegistered": true,
+      "verifiedAt": "2026-10-14T12:41:52.145Z"
+    },
+    {
+      "sakeId": "kunizakari-handago-junmai-ginjo-1801",
+      "name": "國盛 純米吟醸 半田郷 酵母1801",
+      "decision": "A",
+      "reason": "current_commercial_identity_and_sale_confirmed",
+      "normalUrl": "https://item.rakuten.co.jp/kunizakari/10000168/",
+      "imageRegistered": true,
+      "verifiedAt": "2026-10-14T12:41:52.145Z"
+    },
+    {
+      "sakeId": "tosatsuru-honzo-karakuchi-standard",
+      "name": "土佐鶴 本醸辛口",
+      "decision": "B",
+      "reason": "identity_or_capacity_unresolved",
+      "normalUrl": null,
+      "imageRegistered": false,
+      "verifiedAt": "2026-10-14T12:41:52.146Z"
+    },
+    {
+      "sakeId": "hakutaka-kinmatsu-tokubetsu-junmai",
+      "name": "金松白鷹 特別純米",
+      "decision": "A",
+      "reason": "current_commercial_identity_and_sale_confirmed",
+      "normalUrl": "https://item.rakuten.co.jp/cocodecow/r777jy/",
+      "imageRegistered": true,
+      "verifiedAt": "2026-10-14T12:41:52.146Z"
+    },
+    {
+      "sakeId": "sawanotsuru-junmai-yamadanishiki-standard",
+      "name": "沢の鶴 純米酒 山田錦",
+      "decision": "A",
+      "reason": "current_commercial_identity_and_sale_confirmed",
+      "normalUrl": "https://item.rakuten.co.jp/premoa/4901808032735/",
+      "imageRegistered": true,
+      "verifiedAt": "2026-10-14T12:41:52.146Z"
+    },
+    {
+      "sakeId": "shiramayumi-tokubetsu-junmai-hidahomare-standard",
+      "name": "白真弓 特別純米 ひだほまれ",
+      "decision": "A",
+      "reason": "current_commercial_identity_and_sale_confirmed",
+      "normalUrl": "https://item.rakuten.co.jp/saketakuhida/100001546/",
+      "imageRegistered": true,
+      "verifiedAt": "2026-10-14T12:41:52.146Z"
+    },
+    {
+      "sakeId": "ozeki-tokusen-tokubetsu-junmai-yamadanishiki-standard",
+      "name": "大関 特撰 特別純米酒 山田錦",
+      "decision": "A",
+      "reason": "current_commercial_identity_and_sale_confirmed",
+      "normalUrl": "https://item.rakuten.co.jp/issyusouden/10028721/",
+      "imageRegistered": true,
+      "verifiedAt": "2026-10-14T12:41:52.147Z"
+    },
+    {
+      "sakeId": "tsukasabotan-niyodo-blue-junmai-standard",
+      "name": "司牡丹 仁淀ブルー",
+      "decision": "A",
+      "reason": "current_commercial_identity_and_sale_confirmed",
+      "normalUrl": "https://item.rakuten.co.jp/chokuhan/sake-tsukasa-niyodo/",
+      "imageRegistered": true,
+      "verifiedAt": "2026-10-14T12:41:52.147Z"
+    },
+    {
+      "sakeId": "kikusui-funaguchi-honjozo-nama-genshu-standard",
+      "name": "菊水ふなぐち",
+      "decision": "A",
+      "reason": "current_commercial_identity_and_sale_confirmed",
+      "normalUrl": "https://item.rakuten.co.jp/nondonkai/10000253/",
+      "imageRegistered": true,
+      "verifiedAt": "2026-10-14T12:41:52.147Z"
+    },
+    {
+      "sakeId": "kizakura-yamahai-tokubetsu-junmai-yamadanishiki-standard",
+      "name": "黄桜 生もと山廃 特別純米酒 山田錦",
+      "decision": "B",
+      "reason": "official_tool_unavailable",
+      "normalUrl": null,
+      "imageRegistered": false,
+      "verifiedAt": "2026-10-14T12:41:52.147Z"
+    },
+    {
+      "sakeId": "gokyo-junmai-standard",
+      "name": "五橋 純米酒",
+      "decision": "A",
+      "reason": "current_commercial_identity_and_sale_confirmed",
+      "normalUrl": "https://item.rakuten.co.jp/maruishi/10006471/",
+      "imageRegistered": true,
+      "verifiedAt": "2026-10-14T12:41:52.147Z"
+    },
+    {
+      "sakeId": "suishin-inaho-junmai-ginjo-standard",
+      "name": "純米吟醸 醉心稲穂",
+      "decision": "A",
+      "reason": "current_commercial_identity_and_sale_confirmed",
+      "normalUrl": "https://item.rakuten.co.jp/ricaoh/190326/",
+      "imageRegistered": true,
+      "verifiedAt": "2026-10-14T12:41:52.147Z"
+    },
+    {
+      "sakeId": "tomio-gion-komachi-junmai-ginjo-standard",
+      "name": "富翁 純米吟醸 祇園小町",
+      "decision": "B",
+      "reason": "official_tool_unavailable",
+      "normalUrl": null,
+      "imageRegistered": false,
+      "verifiedAt": "2026-10-14T12:41:52.148Z"
+    },
+    {
+      "sakeId": "echigozakura-daiginjo-standard",
+      "name": "大吟醸 越後桜",
+      "decision": "B",
+      "reason": "official_tool_unavailable",
+      "normalUrl": null,
+      "imageRegistered": false,
+      "verifiedAt": "2026-10-14T12:41:52.148Z"
+    },
+    {
+      "sakeId": "nihonsakari-souhana-junmai-ginjo-standard",
+      "name": "超特撰 惣花 純米吟醸",
+      "decision": "A",
+      "reason": "current_commercial_identity_and_sale_confirmed",
+      "normalUrl": "https://item.rakuten.co.jp/azumazuru/1020006/",
+      "imageRegistered": true,
+      "verifiedAt": "2026-10-14T12:41:52.148Z"
+    },
+    {
+      "sakeId": "choryo-yoshinosugi-tarusake-standard",
+      "name": "吉野杉の樽酒",
+      "decision": "A",
+      "reason": "current_commercial_identity_and_sale_confirmed",
+      "normalUrl": "https://item.rakuten.co.jp/drink-senmonten/1320000052/",
+      "imageRegistered": true,
+      "verifiedAt": "2026-10-14T12:41:52.148Z"
+    },
+    {
+      "sakeId": "shoutoku-karaku-tokubetsu-junmai-karakuchi-genshu-standard",
+      "name": "特別純米 花洛 辛口原酒",
+      "decision": "A",
+      "reason": "current_commercial_identity_and_sale_confirmed",
+      "normalUrl": "https://item.rakuten.co.jp/kyono-genzigura/karakuzyunmai720/",
+      "imageRegistered": true,
+      "verifiedAt": "2026-10-14T12:41:52.148Z"
+    },
+    {
+      "sakeId": "shirayuki-josen-junmai-standard",
+      "name": "上撰 白雪 純米酒",
+      "decision": "A",
+      "reason": "current_commercial_identity_and_sale_confirmed",
+      "normalUrl": "https://item.rakuten.co.jp/drink-senmonten/1320000107/",
+      "imageRegistered": true,
+      "verifiedAt": "2026-10-14T12:41:52.148Z"
+    },
+    {
+      "sakeId": "gazan-junmai-daiginjo-standard",
+      "name": "純米大吟醸 我山",
+      "decision": "A",
+      "reason": "current_commercial_identity_and_sale_confirmed",
+      "normalUrl": "https://item.rakuten.co.jp/issyusouden/19321733/",
+      "imageRegistered": true,
+      "verifiedAt": "2026-10-14T12:41:52.149Z"
+    },
+    {
+      "sakeId": "nichiei-junmai-ginjo-ishikawamon-standard",
+      "name": "日榮 純米吟醸 石川門",
+      "decision": "A",
+      "reason": "current_commercial_identity_and_sale_confirmed",
+      "normalUrl": "https://item.rakuten.co.jp/kanazawa-honpo/nakamura_02/",
+      "imageRegistered": true,
+      "verifiedAt": "2026-10-14T12:41:52.149Z"
+    },
+    {
+      "sakeId": "kinpai-junmai-yokozuna-standard",
+      "name": "金盃 純米酒 横綱",
+      "decision": "A",
+      "reason": "current_commercial_identity_and_sale_confirmed",
+      "normalUrl": "https://item.rakuten.co.jp/auc-kinpai/00300020/",
+      "imageRegistered": true,
+      "verifiedAt": "2026-10-14T12:41:52.149Z"
+    },
+    {
+      "sakeId": "taisetsunokura-junmai-standard",
+      "name": "純米 大雪乃蔵",
+      "decision": "A",
+      "reason": "current_commercial_identity_and_sale_confirmed",
+      "normalUrl": "https://item.rakuten.co.jp/watashoweb/0006-57592/",
+      "imageRegistered": true,
+      "verifiedAt": "2026-10-14T12:41:52.149Z"
+    },
+    {
+      "sakeId": "umebijin-junmai-ginjo-sakurahime-standard",
+      "name": "純米吟醸 梅美人 さくらひめ酵母",
+      "decision": "A",
+      "reason": "current_commercial_identity_and_sale_confirmed",
+      "normalUrl": "https://item.rakuten.co.jp/e-bussan/10000332-4/",
+      "imageRegistered": true,
+      "verifiedAt": "2026-10-14T12:41:52.149Z"
+    },
+    {
+      "sakeId": "ohyama-tokubetsu-junmai-tomizu-standard",
+      "name": "大山 特別純米酒 十水",
+      "decision": "A",
+      "reason": "current_commercial_identity_and_sale_confirmed",
+      "normalUrl": "https://item.rakuten.co.jp/ichiishop/10008652/",
+      "imageRegistered": true,
+      "verifiedAt": "2026-10-14T12:41:52.150Z"
+    },
+    {
+      "sakeId": "hideyoshi-junmai-standard",
+      "name": "秀よし 純米酒",
+      "decision": "A",
+      "reason": "current_commercial_identity_and_sale_confirmed",
+      "normalUrl": "https://item.rakuten.co.jp/issyusouden/17205772/",
+      "imageRegistered": true,
+      "verifiedAt": "2026-10-14T12:41:52.150Z"
+    },
+    {
+      "sakeId": "mifuku-yamahai-junmai-ginjo-iginjunsei-standard",
+      "name": "美冨久 山廃純米吟醸 いぎん純聖",
+      "decision": "B",
+      "reason": "identity_or_capacity_unresolved",
+      "normalUrl": null,
+      "imageRegistered": false,
+      "verifiedAt": "2026-10-14T12:41:52.150Z"
+    },
+    {
+      "sakeId": "toyonoaki-junmai-ginjo-matsuezukushi-standard",
+      "name": "豊の秋 純米吟醸 松江づくし",
+      "decision": "A",
+      "reason": "current_commercial_identity_and_sale_confirmed",
+      "normalUrl": "https://item.rakuten.co.jp/yamaguchikaiseidou/10002150/",
+      "imageRegistered": true,
+      "verifiedAt": "2026-10-14T12:41:52.150Z"
+    },
+    {
+      "sakeId": "warakugoson-junmai-ginjo-standard",
+      "name": "和楽互尊 純米吟醸",
+      "decision": "A",
+      "reason": "current_commercial_identity_and_sale_confirmed",
+      "normalUrl": "https://item.rakuten.co.jp/nagaokashi/103607/",
+      "imageRegistered": true,
+      "verifiedAt": "2026-10-14T12:41:52.150Z"
+    },
+    {
+      "sakeId": "mushohai-junmai-ginjo-standard",
+      "name": "純米吟醸 無上盃",
+      "decision": "A",
+      "reason": "current_commercial_identity_and_sale_confirmed",
+      "normalUrl": "https://item.rakuten.co.jp/sakemuseum/136247/",
+      "imageRegistered": true,
+      "verifiedAt": "2026-10-14T12:41:52.150Z"
+    },
+    {
+      "sakeId": "kagatsuru-junmai-josen-standard",
+      "name": "加賀鶴 純米酒 上撰",
+      "decision": "A",
+      "reason": "current_commercial_identity_and_sale_confirmed",
+      "normalUrl": "https://item.rakuten.co.jp/konchikitai/kagatsuru-jyousen720ml/",
+      "imageRegistered": true,
+      "verifiedAt": "2026-10-14T12:41:52.151Z"
+    },
+    {
+      "sakeId": "sho-chiku-bai-yamadanishiki-tokubetsu-junmai-karakuchi-standard",
+      "name": "特撰松竹梅 山田錦 特別純米 辛口",
+      "decision": "B",
+      "reason": "identity_or_capacity_unresolved",
+      "normalUrl": null,
+      "imageRegistered": false,
+      "verifiedAt": "2026-10-14T12:41:52.151Z"
+    },
+    {
+      "sakeId": "denyu-tokubetsu-junmai-standard",
+      "name": "田友 特別純米",
+      "decision": "A",
+      "reason": "current_commercial_identity_and_sale_confirmed",
+      "normalUrl": "https://item.rakuten.co.jp/uonuma/10002583/",
+      "imageRegistered": true,
+      "verifiedAt": "2026-10-14T12:41:52.151Z"
+    },
+    {
+      "sakeId": "taiheizan-tenko-junmai-daiginjo-standard",
+      "name": "太平山 純米大吟醸 天巧",
+      "decision": "A",
+      "reason": "current_commercial_identity_and_sale_confirmed",
+      "normalUrl": "https://item.rakuten.co.jp/issyusouden/11716731/",
+      "imageRegistered": true,
+      "verifiedAt": "2026-10-14T12:41:52.151Z"
+    },
+    {
+      "sakeId": "hakuinmasamune-karakuchi-junmai-standard",
+      "name": "白隠正宗 辛口純米酒",
+      "decision": "A",
+      "reason": "current_commercial_identity_and_sale_confirmed",
+      "normalUrl": "https://item.rakuten.co.jp/izukawa-ya/hakuin_fuji720/",
+      "imageRegistered": true,
+      "verifiedAt": "2026-10-14T12:41:52.151Z"
+    }
+  ]
+}

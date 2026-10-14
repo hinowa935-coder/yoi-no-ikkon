@@ -13,12 +13,22 @@ import {matchesSearch,sortSearch} from '../../data/searchFiltering.js';
 import { editorialNightAssignments, editorialNightNote } from '../../data/editorialNightAssignments.js';
 import ProductWindow from './ProductWindow.jsx';
 import purchaseMatches from '../../commerce/generated/purchase-matches.json';
+import merchantLinks from '../../commerce/generated/merchant-links.json';
+import replacementIds from '../../commerce/generated/replacement-ids.json';
+import discoveryLinks from '../../commerce/generated/discovery-links.json';
 
 export function SearchCard({ item }) {
   const dishes = dishesForSake(item);
-  const links = buildResourceLinks(item);
-  const purchase = buildPurchaseLinks(item).filter(l=>!l.href.includes('shopping.yahoo.co.jp')&&
+  const merchant = merchantLinks.records[item.id];
+  const links = buildResourceLinks(item).map(l=>merchant?.type==='E'&&l.href===merchant.originalUrl?{...l,label:'出典・参考を見る'}:l);
+  const purchase = buildPurchaseLinks(item).filter(l=>/rakuten|amazon/.test(new URL(l.href).hostname)&&
+    !(replacementIds.includes(item.id)&&new URL(l.href).hostname.includes('amazon'))&&
     (!l.href.includes('item.rakuten.co.jp')||purchaseMatches[item.id]?.directLinkAllowed===true));
+  if(replacementIds.includes(item.id)){
+    const amazon=discoveryLinks[item.id]?.links.find(l=>l.provider==='amazon');
+    if(amazon)purchase.push({href:amazon.url,label:amazon.label});
+  }
+  if(merchant?.url&&merchant.type!=='E')purchase.push({href:merchant.url,label:merchant.label});
   return <article className="discovery-sake">
     <div className="sake-card-top"><p>{buildSakeLocation(item)}</p><FavoriteButton id={item.id} compact /></div>
     <h3><TrackedLink href={`/sake/${item.id}`} event="sake_opened" parameters={{ sake_id: item.id }}>{item.productName}</TrackedLink></h3>
@@ -26,6 +36,7 @@ export function SearchCard({ item }) {
     <p className="sake-intro">{buildSakeListSummary(item)}</p>
     <ul className="feature-tags">{buildSakeFeatureTags(item, 3).map(tag => <li key={tag}>{tag}</li>)}</ul>
     {dishes.length ? <ul className="dish-links">{dishes.slice(0, 3).map(d => <li key={d.name}><Link href={`/food/${toPathSegment(d.name)}`}>{d.name}</Link></li>)}</ul> : <PairingPending />}
+    <Link className="text-link sake-detail-link" href={`/sake/${item.id}`}>詳しく見る →</Link>
     <details className="card-details"><summary>料理・温度などを見る</summary><dl>
       {dishes.length > 0 && <><dt>このお酒に合う料理</dt><dd>{dishes.map(d => <Link key={d.name} href={`/food/${toPathSegment(d.name)}`}>{d.name} </Link>)}</dd></>}
       <dt>こんな夜に</dt><dd>{nightsForSake(item).map(n => <Link key={n.id} href={`/discover?night=${n.id}`}>{n.name} </Link>)}</dd>

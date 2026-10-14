@@ -9,6 +9,7 @@ import { trackEvent } from "../../data/telemetry.js";
 import DiscoverySakeCard from "./DiscoverySakeCard.jsx";
 import TrackedLink from "./TrackedLink.jsx";
 import { discoveryLocation } from "./discoveryLocation.js";
+import {sakeDiscoveryHref} from '../../data/discoveryContext.js';
 
 export default function DiscoveryFlow({seed, initialNight="", initialDirection="", initialDish="", initialDishLimit=6}) {
   const router=useRouter();
@@ -54,6 +55,6 @@ export default function DiscoveryFlow({seed, initialNight="", initialDirection="
     {dishes.length>0 && <section id="dish-choices" className="flow-step"><p className="section-kicker">03 / ひと皿を選ぶ</p><h2>このあたりは、どうでしょう。</h2><div className="dish-choice-grid">{dishes.map(d=><button className={`dish-choice ${dishName===d.name?'is-selected':''}`} key={d.name} aria-pressed={dishName===d.name} onClick={()=>chooseDish(d.name)}><span>{d.name}</span><small>{d.flavor}</small><ChevronRight /></button>)}</div>
       <div className="dish-more-actions">{allDishes.length>dishes.length && <button className="yoi-button" onClick={()=>commit({nightId,directionId,dishName,dishLimit:dishLimit+6},true)}>ほかの料理を見る</button>}<TrackedLink href="/food" className="text-link" event="discovery_start" parameters={{source:'all_foods'}}>料理をすべて見る →</TrackedLink></div>
     </section>}
-    {picks.length>0 && <section id="sake-recommendations" className="flow-step" tabIndex={-1} aria-live="polite"><p className="section-kicker">04 / ひと皿から、一献へ</p><p className="discovery-conditions">選んだ条件：{night.name}・{dishName}</p><h2>{dishName}に合わせる、この三本。</h2><p className="muted-copy">料理と味わい、飲み方を手がかりに選びました。</p><motion.div key={`${nightId}:${dishName}`} initial={reduced?false:{opacity:0,y:8}} animate={{opacity:1,y:0}} transition={{duration:0.35}} className="recommendation-grid">{picks.map(r=><DiscoverySakeCard key={r.item.id} item={r.item} reason={r.reason} />)}</motion.div></section>}
+    {picks.length>0 && <section id="sake-recommendations" className="flow-step" tabIndex={-1} aria-live="polite"><p className="section-kicker">04 / ひと皿から、一献へ</p><p className="discovery-conditions">選んだ条件：{night.name}・{dishName}</p><h2>{dishName}に合わせる、この三本。</h2><p className="muted-copy">料理と味わい、飲み方を手がかりに選びました。</p><motion.div key={`${nightId}:${dishName}`} initial={reduced?false:{opacity:0,y:8}} animate={{opacity:1,y:0}} transition={{duration:0.35}} className="recommendation-grid">{picks.map(r=><DiscoverySakeCard key={r.item.id} item={r.item} reason={r.reason} contextHref={sakeDiscoveryHref(r.item.id,{nightId,directionId,dishName,seed,dishLimit})} context={{nightId,foodId:dishName,sourcePage:'/discover'}} />)}</motion.div></section>}
   </div>;
 }

@@ -1,0 +1,3326 @@
+{
+  "reviewed": 45,
+  "currentOfficialRecheck": 21,
+  "savedEvidenceReused": 24,
+  "updates": {
+    "sakeId": "ichinokura-tokubetsu-junmai-karakuchi",
+    "specFields": 7,
+    "officialPairings": 4,
+    "servingTemperatures": 2
+  },
+  "rows": [
+    {
+      "sakeId": "tenryo-tobikiri-tokubetsu-junmai",
+      "name": "特別純米 飛切り",
+      "qualityReview": "CURRENT_OFFICIAL_PAGE_RECHECK",
+      "verifiedAt": "2026-10-14",
+      "sources": [
+        {
+          "url": "https://www.tenryou.co.jp/product/58",
+          "type": "breweryOfficial",
+          "scope": "product",
+          "name": "特別純米 飛切り",
+          "verifiedAt": "2026-10-12"
+        }
+      ],
+      "classification": {
+        "ginjo": false,
+        "junmaiGinjo": false,
+        "daiginjo": false,
+        "junmaiDaiginjo": false,
+        "ginjoFamily": false,
+        "daiginjoFamily": false,
+        "aged": null,
+        "tokuteiMeishoshu": "特別純米酒",
+        "junmai": true,
+        "nonJunmai": false,
+        "kimoto": null,
+        "yamahai": null,
+        "nama": null,
+        "hiire": null,
+        "nigori": null,
+        "sparkling": null,
+        "genshu": null,
+        "muroka": null
+      },
+      "specs": {
+        "ingredients": [],
+        "riceVariety": [
+          "ひだほまれ"
+        ],
+        "riceOrigin": "岐阜県飛騨産",
+        "riceByRole": null,
+        "polishingRatio": null,
+        "polishingByRole": null,
+        "alcoholPercentage": null,
+        "nihonshudo": null,
+        "acidity": null,
+        "aminoAcidValue": null,
+        "yeast": null,
+        "waterSource": null,
+        "kojiMold": null,
+        "agingPeriod": null,
+        "agingTemperature": null
+      },
+      "temperatures": [
+        "常温",
+        "ぬる燗",
+        "ロック",
+        "燗酒"
+      ],
+      "notes": "主商品説明の米・味・温度・料理を再確認。取得できない数値はnullを維持。",
+      "featureEvidenceComplete": true,
+      "previousAudit": "SAVED_EVIDENCE_STRUCTURE_AUDIT_NOT_FULL_WEB_RECHECK",
+      "unfilledSpecFields": [
+        "ingredients",
+        "riceByRole",
+        "polishingRatio",
+        "polishingByRole",
+        "alcoholPercentage",
+        "nihonshudo",
+        "acidity",
+        "aminoAcidValue",
+        "yeast",
+        "waterSource",
+        "kojiMold",
+        "agingPeriod",
+        "agingTemperature"
+      ]
+    },
+    {
+      "sakeId": "sanshoraku-junmai-standard",
+      "name": "三笑楽 純米酒",
+      "qualityReview": "CURRENT_OFFICIAL_PAGE_RECHECK",
+      "verifiedAt": "2026-10-14",
+      "sources": [
+        {
+          "url": "https://www.sansyouraku.jp/products/cn5/product04.html",
+          "type": "breweryOfficial",
+          "scope": "product",
+          "name": "三笑楽 純米酒",
+          "verifiedAt": "2026-10-12"
+        }
+      ],
+      "classification": {
+        "ginjo": false,
+        "junmaiGinjo": false,
+        "daiginjo": false,
+        "junmaiDaiginjo": false,
+        "ginjoFamily": false,
+        "daiginjoFamily": false,
+        "aged": null,
+        "tokuteiMeishoshu": "純米酒",
+        "junmai": true,
+        "nonJunmai": false,
+        "kimoto": null,
+        "yamahai": null,
+        "nama": null,
+        "hiire": null,
+        "nigori": null,
+        "sparkling": null,
+        "genshu": null,
+        "muroka": null
+      },
+      "specs": {
+        "ingredients": [],
+        "riceVariety": [
+          "五百万石",
+          "酒造好適米"
+        ],
+        "riceOrigin": "富山県なんと産五百万石、富山県産酒造好適米",
+        "riceByRole": null,
+        "polishingRatio": "65%",
+        "polishingByRole": null,
+        "alcoholPercentage": "15度",
+        "nihonshudo": null,
+        "acidity": null,
+        "aminoAcidValue": null,
+        "yeast": "協会7号",
+        "waterSource": null,
+        "kojiMold": null,
+        "agingPeriod": null,
+        "agingTemperature": null
+      },
+      "temperatures": [],
+      "notes": "保存済み商品単位の出典・分類・味・温度・公式/編集料理の分離を確認。不明値は推測しない。",
+      "featureEvidenceComplete": true,
+      "previousAudit": "SAVED_EVIDENCE_STRUCTURE_AUDIT_NOT_FULL_WEB_RECHECK",
+      "unfilledSpecFields": [
+        "ingredients",
+        "riceByRole",
+        "polishingByRole",
+        "nihonshudo",
+        "acidity",
+        "aminoAcidValue",
+        "waterSource",
+        "kojiMold",
+        "agingPeriod",
+        "agingTemperature"
+      ]
+    },
+    {
+      "sakeId": "sohomare-kimoto-tokubetsu-junmai",
+      "name": "惣誉 生酛仕込 特別純米",
+      "qualityReview": "CURRENT_OFFICIAL_PAGE_RECHECK",
+      "verifiedAt": "2026-10-14",
+      "sources": [
+        {
+          "url": "https://sohomare.co.jp/lineup03.php",
+          "type": "breweryOfficial",
+          "scope": "product",
+          "name": "惣誉 生酛仕込 特別純米",
+          "verifiedAt": "2026-10-12"
+        }
+      ],
+      "classification": {
+        "ginjo": false,
+        "junmaiGinjo": false,
+        "daiginjo": false,
+        "junmaiDaiginjo": false,
+        "ginjoFamily": false,
+        "daiginjoFamily": false,
+        "aged": null,
+        "tokuteiMeishoshu": "特別純米酒",
+        "junmai": true,
+        "nonJunmai": false,
+        "kimoto": true,
+        "yamahai": null,
+        "nama": null,
+        "hiire": null,
+        "nigori": null,
+        "sparkling": null,
+        "genshu": null,
+        "muroka": null
+      },
+      "specs": {
+        "ingredients": [],
+        "riceVariety": [
+          "山田錦"
+        ],
+        "riceOrigin": "特A地区",
+        "riceByRole": null,
+        "polishingRatio": "60%",
+        "polishingByRole": null,
+        "alcoholPercentage": "15度",
+        "nihonshudo": "+4〜+5",
+        "acidity": null,
+        "aminoAcidValue": null,
+        "yeast": null,
+        "waterSource": null,
+        "kojiMold": null,
+        "agingPeriod": null,
+        "agingTemperature": null
+      },
+      "temperatures": [
+        "冷酒",
+        "上燗"
+      ],
+      "notes": "同ページ内の特別純米欄だけを照合。他の純米吟醸等の値を流用しない。",
+      "featureEvidenceComplete": true,
+      "previousAudit": "SAVED_EVIDENCE_STRUCTURE_AUDIT_NOT_FULL_WEB_RECHECK",
+      "unfilledSpecFields": [
+        "ingredients",
+        "riceByRole",
+        "polishingByRole",
+        "acidity",
+        "aminoAcidValue",
+        "yeast",
+        "waterSource",
+        "kojiMold",
+        "agingPeriod",
+        "agingTemperature"
+      ]
+    },
+    {
+      "sakeId": "ichinokura-tokubetsu-junmai-karakuchi",
+      "name": "一ノ蔵 特別純米酒 辛口",
+      "qualityReview": "CURRENT_OFFICIAL_PAGE_RECHECK",
+      "verifiedAt": "2026-10-14",
+      "sources": [
+        {
+          "url": "https://ichinokura.co.jp/pickup-product/jyunkara",
+          "type": "breweryOfficial",
+          "scope": "product",
+          "name": "一ノ蔵 特別純米酒 辛口",
+          "verifiedAt": "2026-10-12"
+        },
+        {
+          "url": "https://ec.ichinokura.co.jp/products/junmaikarakuchi",
+          "type": "breweryOfficial",
+          "scope": "product",
+          "name": "一ノ蔵 特別純米酒 辛口",
+          "verifiedAt": "2026-10-12"
+        }
+      ],
+      "classification": {
+        "ginjo": false,
+        "junmaiGinjo": false,
+        "daiginjo": false,
+        "junmaiDaiginjo": false,
+        "ginjoFamily": false,
+        "daiginjoFamily": false,
+        "aged": null,
+        "tokuteiMeishoshu": "特別純米酒",
+        "junmai": true,
+        "nonJunmai": false,
+        "kimoto": null,
+        "yamahai": null,
+        "nama": null,
+        "hiire": null,
+        "nigori": null,
+        "sparkling": null,
+        "genshu": null,
+        "muroka": null
+      },
+      "specs": {
+        "ingredients": [],
+        "riceVariety": [
+          "ササニシキ",
+          "蔵の華"
+        ],
+        "riceOrigin": "宮城県産",
+        "riceByRole": null,
+        "polishingRatio": "60%",
+        "polishingByRole": null,
+        "alcoholPercentage": "15度",
+        "nihonshudo": "+1〜+3",
+        "acidity": "1.5〜1.7",
+        "aminoAcidValue": "1.3〜1.5",
+        "yeast": null,
+        "waterSource": null,
+        "kojiMold": null,
+        "agingPeriod": null,
+        "agingTemperature": null
+      },
+      "temperatures": [
+        "冷酒",
+        "熱燗"
+      ],
+      "notes": "公式通販本文のスペック7項目・冷酒/熱燗・具体的料理4件を補完。容量選択には単品とケースがある。",
+      "featureEvidenceComplete": true,
+      "previousAudit": "SAVED_EVIDENCE_STRUCTURE_AUDIT_NOT_FULL_WEB_RECHECK",
+      "unfilledSpecFields": [
+        "ingredients",
+        "riceByRole",
+        "polishingByRole",
+        "yeast",
+        "waterSource",
+        "kojiMold",
+        "agingPeriod",
+        "agingTemperature"
+      ]
+    },
+    {
+      "sakeId": "daishichi-junmai-kimoto-standard",
+      "name": "大七 純米生酛",
+      "qualityReview": "CURRENT_OFFICIAL_PAGE_RECHECK",
+      "verifiedAt": "2026-10-14",
+      "sources": [
+        {
+          "url": "https://www.daishichi.com/sake/junmaikimoto.html",
+          "type": "breweryOfficial",
+          "scope": "product",
+          "name": "大七 純米生酛",
+          "verifiedAt": "2026-10-12"
+        }
+      ],
+      "classification": {
+        "ginjo": false,
+        "junmaiGinjo": false,
+        "daiginjo": false,
+        "junmaiDaiginjo": false,
+        "ginjoFamily": false,
+        "daiginjoFamily": false,
+        "aged": null,
+        "tokuteiMeishoshu": "純米酒",
+        "junmai": true,
+        "nonJunmai": false,
+        "kimoto": true,
+        "yamahai": null,
+        "nama": null,
+        "hiire": null,
+        "nigori": null,
+        "sparkling": null,
+        "genshu": null,
+        "muroka": null
+      },
+      "specs": {
+        "ingredients": [
+          "米（国産）",
+          "米麹（国産米）"
+        ],
+        "riceVariety": [
+          "五百万石等"
+        ],
+        "riceOrigin": null,
+        "riceByRole": null,
+        "polishingRatio": "超扁平精米69%",
+        "polishingByRole": null,
+        "alcoholPercentage": "15度",
+        "nihonshudo": null,
+        "acidity": null,
+        "aminoAcidValue": null,
+        "yeast": null,
+        "waterSource": null,
+        "kojiMold": null,
+        "agingPeriod": null,
+        "agingTemperature": null
+      },
+      "temperatures": [
+        "常温",
+        "ぬる燗",
+        "熱燗"
+      ],
+      "notes": "保存済み商品単位の出典・分類・味・温度・公式/編集料理の分離を確認。不明値は推測しない。",
+      "featureEvidenceComplete": true,
+      "previousAudit": "SAVED_EVIDENCE_STRUCTURE_AUDIT_NOT_FULL_WEB_RECHECK",
+      "unfilledSpecFields": [
+        "riceOrigin",
+        "riceByRole",
+        "polishingByRole",
+        "nihonshudo",
+        "acidity",
+        "aminoAcidValue",
+        "yeast",
+        "waterSource",
+        "kojiMold",
+        "agingPeriod",
+        "agingTemperature"
+      ]
+    },
+    {
+      "sakeId": "jozen-mizunogotoshi-junmai-ginjo-standard",
+      "name": "上善如水 純米吟醸",
+      "qualityReview": "CURRENT_OFFICIAL_PAGE_RECHECK",
+      "verifiedAt": "2026-10-14",
+      "sources": [
+        {
+          "url": "https://www.jozen.co.jp/top/items/item.asp?id=11053&o=10801",
+          "type": "breweryOfficial",
+          "scope": "product",
+          "name": "上善如水 純米吟醸",
+          "verifiedAt": "2026-10-12"
+        },
+        {
+          "url": "https://item.rakuten.co.jp/jozen/102315/",
+          "type": "breweryOfficial",
+          "scope": "product",
+          "name": "上善如水 純米吟醸",
+          "verifiedAt": "2026-10-12"
+        }
+      ],
+      "classification": {
+        "ginjo": false,
+        "junmaiGinjo": true,
+        "daiginjo": false,
+        "junmaiDaiginjo": false,
+        "ginjoFamily": true,
+        "daiginjoFamily": false,
+        "aged": null,
+        "tokuteiMeishoshu": "純米吟醸酒",
+        "junmai": true,
+        "nonJunmai": false,
+        "kimoto": null,
+        "yamahai": null,
+        "nama": null,
+        "hiire": null,
+        "nigori": null,
+        "sparkling": null,
+        "genshu": null,
+        "muroka": null
+      },
+      "specs": {
+        "ingredients": [
+          "米（国産）",
+          "米麹（国産米）"
+        ],
+        "riceVariety": [],
+        "riceOrigin": null,
+        "riceByRole": null,
+        "polishingRatio": "55%",
+        "polishingByRole": null,
+        "alcoholPercentage": "14度以上15度未満",
+        "nihonshudo": "+4",
+        "acidity": "1.3",
+        "aminoAcidValue": "1.3",
+        "yeast": null,
+        "waterSource": null,
+        "kojiMold": null,
+        "agingPeriod": null,
+        "agingTemperature": null
+      },
+      "temperatures": [
+        "冷酒"
+      ],
+      "notes": "公式商品ページと保存済み公式楽天ショップ証拠を併用。酸度等を別商品から追加しない。",
+      "featureEvidenceComplete": true,
+      "previousAudit": "SAVED_EVIDENCE_STRUCTURE_AUDIT_NOT_FULL_WEB_RECHECK",
+      "unfilledSpecFields": [
+        "riceVariety",
+        "riceOrigin",
+        "riceByRole",
+        "polishingByRole",
+        "yeast",
+        "waterSource",
+        "kojiMold",
+        "agingPeriod",
+        "agingTemperature"
+      ]
+    },
+    {
+      "sakeId": "okunomatsu-tokubetsu-junmai-standard",
+      "name": "奥の松 特別純米",
+      "qualityReview": "CURRENT_OFFICIAL_PAGE_RECHECK",
+      "verifiedAt": "2026-10-14",
+      "sources": [
+        {
+          "url": "https://www.okunomatsu.co.jp/product-page/junmai-13210",
+          "type": "breweryOfficial",
+          "scope": "product",
+          "name": "奥の松 特別純米",
+          "verifiedAt": "2026-10-12"
+        }
+      ],
+      "classification": {
+        "ginjo": false,
+        "junmaiGinjo": false,
+        "daiginjo": false,
+        "junmaiDaiginjo": false,
+        "ginjoFamily": false,
+        "daiginjoFamily": false,
+        "aged": null,
+        "tokuteiMeishoshu": "特別純米酒",
+        "junmai": true,
+        "nonJunmai": false,
+        "kimoto": null,
+        "yamahai": null,
+        "nama": null,
+        "hiire": null,
+        "nigori": null,
+        "sparkling": null,
+        "genshu": null,
+        "muroka": null
+      },
+      "specs": {
+        "ingredients": [],
+        "riceVariety": [],
+        "riceOrigin": null,
+        "riceByRole": null,
+        "polishingRatio": "60%",
+        "polishingByRole": null,
+        "alcoholPercentage": "15度",
+        "nihonshudo": "±0",
+        "acidity": null,
+        "aminoAcidValue": null,
+        "yeast": null,
+        "waterSource": null,
+        "kojiMold": null,
+        "agingPeriod": null,
+        "agingTemperature": null
+      },
+      "temperatures": [
+        "冷酒",
+        "常温",
+        "ぬる燗"
+      ],
+      "notes": "公式の商品欄を再確認。300mlのみの生貯蔵表記を720mlへ流用しない。",
+      "featureEvidenceComplete": true,
+      "previousAudit": "SAVED_EVIDENCE_STRUCTURE_AUDIT_NOT_FULL_WEB_RECHECK",
+      "unfilledSpecFields": [
+        "ingredients",
+        "riceVariety",
+        "riceOrigin",
+        "riceByRole",
+        "polishingByRole",
+        "acidity",
+        "aminoAcidValue",
+        "yeast",
+        "waterSource",
+        "kojiMold",
+        "agingPeriod",
+        "agingTemperature"
+      ]
+    },
+    {
+      "sakeId": "ranman-junmai-managudako-standard",
+      "name": "純米まなぐ凧",
+      "qualityReview": "CURRENT_OFFICIAL_PAGE_RECHECK",
+      "verifiedAt": "2026-10-14",
+      "sources": [
+        {
+          "url": "https://www.ranman.co.jp/ranman/product/standard/",
+          "type": "breweryOfficial",
+          "scope": "product",
+          "name": "純米まなぐ凧",
+          "verifiedAt": "2026-10-12"
+        },
+        {
+          "url": "https://item.rakuten.co.jp/bisyuranman/10000090/",
+          "type": "breweryOfficial",
+          "scope": "product",
+          "name": "純米まなぐ凧",
+          "verifiedAt": "2026-10-12"
+        }
+      ],
+      "classification": {
+        "ginjo": false,
+        "junmaiGinjo": false,
+        "daiginjo": false,
+        "junmaiDaiginjo": false,
+        "ginjoFamily": false,
+        "daiginjoFamily": false,
+        "aged": null,
+        "tokuteiMeishoshu": "純米酒",
+        "junmai": true,
+        "nonJunmai": false,
+        "kimoto": null,
+        "yamahai": null,
+        "nama": null,
+        "hiire": null,
+        "nigori": null,
+        "sparkling": null,
+        "genshu": null,
+        "muroka": null
+      },
+      "specs": {
+        "ingredients": [],
+        "riceVariety": [
+          "あきたこまち"
+        ],
+        "riceOrigin": "秋田県湯沢市産",
+        "riceByRole": null,
+        "polishingRatio": null,
+        "polishingByRole": null,
+        "alcoholPercentage": "14度以上15度未満",
+        "nihonshudo": "±0",
+        "acidity": "1.5",
+        "aminoAcidValue": "1.1",
+        "yeast": null,
+        "waterSource": null,
+        "kojiMold": null,
+        "agingPeriod": null,
+        "agingTemperature": null
+      },
+      "temperatures": [
+        "冷酒",
+        "ぬる燗"
+      ],
+      "notes": "保存済み商品単位の出典・分類・味・温度・公式/編集料理の分離を確認。不明値は推測しない。",
+      "featureEvidenceComplete": true,
+      "previousAudit": "SAVED_EVIDENCE_STRUCTURE_AUDIT_NOT_FULL_WEB_RECHECK",
+      "unfilledSpecFields": [
+        "ingredients",
+        "riceByRole",
+        "polishingRatio",
+        "polishingByRole",
+        "yeast",
+        "waterSource",
+        "kojiMold",
+        "agingPeriod",
+        "agingTemperature"
+      ]
+    },
+    {
+      "sakeId": "tamanohikari-junmai-ginjo-shukon-standard",
+      "name": "玉乃光 純米吟醸 酒魂",
+      "qualityReview": "CURRENT_OFFICIAL_PAGE_RECHECK",
+      "verifiedAt": "2026-10-14",
+      "sources": [
+        {
+          "url": "https://tamanohikari.co.jp/products/231.html",
+          "type": "breweryOfficial",
+          "scope": "product",
+          "name": "玉乃光 純米吟醸 酒魂",
+          "verifiedAt": "2026-10-12"
+        }
+      ],
+      "classification": {
+        "ginjo": false,
+        "junmaiGinjo": true,
+        "daiginjo": false,
+        "junmaiDaiginjo": false,
+        "ginjoFamily": true,
+        "daiginjoFamily": false,
+        "aged": null,
+        "tokuteiMeishoshu": "純米吟醸酒",
+        "junmai": true,
+        "nonJunmai": false,
+        "kimoto": null,
+        "yamahai": null,
+        "nama": null,
+        "hiire": null,
+        "nigori": null,
+        "sparkling": null,
+        "genshu": null,
+        "muroka": null
+      },
+      "specs": {
+        "ingredients": [],
+        "riceVariety": [],
+        "riceOrigin": "国産米100%",
+        "riceByRole": null,
+        "polishingRatio": "60%",
+        "polishingByRole": null,
+        "alcoholPercentage": "15度",
+        "nihonshudo": null,
+        "acidity": null,
+        "aminoAcidValue": null,
+        "yeast": null,
+        "waterSource": null,
+        "kojiMold": null,
+        "agingPeriod": null,
+        "agingTemperature": null
+      },
+      "temperatures": [],
+      "notes": "保存済み商品単位の出典・分類・味・温度・公式/編集料理の分離を確認。不明値は推測しない。",
+      "featureEvidenceComplete": true,
+      "previousAudit": "SAVED_EVIDENCE_STRUCTURE_AUDIT_NOT_FULL_WEB_RECHECK",
+      "unfilledSpecFields": [
+        "ingredients",
+        "riceVariety",
+        "riceByRole",
+        "polishingByRole",
+        "nihonshudo",
+        "acidity",
+        "aminoAcidValue",
+        "yeast",
+        "waterSource",
+        "kojiMold",
+        "agingPeriod",
+        "agingTemperature"
+      ]
+    },
+    {
+      "sakeId": "kunimare-tokubetsu-junmai-standard",
+      "name": "国稀 特別純米",
+      "qualityReview": "CURRENT_OFFICIAL_PAGE_RECHECK",
+      "verifiedAt": "2026-10-14",
+      "sources": [
+        {
+          "url": "https://www.kunimare.co.jp/online_shop/products/detail/25",
+          "type": "breweryOfficial",
+          "scope": "product",
+          "name": "国稀 特別純米",
+          "verifiedAt": "2026-10-12"
+        }
+      ],
+      "classification": {
+        "ginjo": false,
+        "junmaiGinjo": false,
+        "daiginjo": false,
+        "junmaiDaiginjo": false,
+        "ginjoFamily": false,
+        "daiginjoFamily": false,
+        "aged": null,
+        "tokuteiMeishoshu": "特別純米酒",
+        "junmai": true,
+        "nonJunmai": false,
+        "kimoto": null,
+        "yamahai": null,
+        "nama": null,
+        "hiire": null,
+        "nigori": null,
+        "sparkling": null,
+        "genshu": null,
+        "muroka": null
+      },
+      "specs": {
+        "ingredients": [
+          "米（国産）",
+          "米麹（国産米）"
+        ],
+        "riceVariety": [
+          "五百万石"
+        ],
+        "riceOrigin": null,
+        "riceByRole": null,
+        "polishingRatio": "55%",
+        "polishingByRole": null,
+        "alcoholPercentage": "15.5度",
+        "nihonshudo": null,
+        "acidity": null,
+        "aminoAcidValue": null,
+        "yeast": null,
+        "waterSource": null,
+        "kojiMold": null,
+        "agingPeriod": null,
+        "agingTemperature": null
+      },
+      "temperatures": [],
+      "notes": "保存済み商品単位の出典・分類・味・温度・公式/編集料理の分離を確認。不明値は推測しない。",
+      "featureEvidenceComplete": true,
+      "previousAudit": "SAVED_EVIDENCE_STRUCTURE_AUDIT_NOT_FULL_WEB_RECHECK",
+      "unfilledSpecFields": [
+        "riceOrigin",
+        "riceByRole",
+        "polishingByRole",
+        "nihonshudo",
+        "acidity",
+        "aminoAcidValue",
+        "yeast",
+        "waterSource",
+        "kojiMold",
+        "agingPeriod",
+        "agingTemperature"
+      ]
+    },
+    {
+      "sakeId": "kamotsuru-chotokusem-tokuto-tokubetsu-honjozo",
+      "name": "賀茂鶴 超特撰特等酒",
+      "qualityReview": "CURRENT_OFFICIAL_PAGE_RECHECK",
+      "verifiedAt": "2026-10-14",
+      "sources": [
+        {
+          "url": "https://shop.kamotsuru.jp/SHOP/tokutou1800.html",
+          "type": "breweryOfficial",
+          "scope": "product",
+          "name": "賀茂鶴 超特撰特等酒",
+          "verifiedAt": "2026-10-12"
+        }
+      ],
+      "classification": {
+        "ginjo": false,
+        "junmaiGinjo": false,
+        "daiginjo": false,
+        "junmaiDaiginjo": false,
+        "ginjoFamily": false,
+        "daiginjoFamily": false,
+        "aged": null,
+        "tokuteiMeishoshu": "特別本醸造酒",
+        "junmai": false,
+        "nonJunmai": true,
+        "kimoto": null,
+        "yamahai": null,
+        "nama": null,
+        "hiire": null,
+        "nigori": null,
+        "sparkling": null,
+        "genshu": null,
+        "muroka": null
+      },
+      "specs": {
+        "ingredients": [],
+        "riceVariety": [],
+        "riceOrigin": "広島県産酒造好適米",
+        "riceByRole": null,
+        "polishingRatio": null,
+        "polishingByRole": null,
+        "alcoholPercentage": null,
+        "nihonshudo": null,
+        "acidity": null,
+        "aminoAcidValue": null,
+        "yeast": null,
+        "waterSource": null,
+        "kojiMold": null,
+        "agingPeriod": null,
+        "agingTemperature": null
+      },
+      "temperatures": [
+        "燗酒"
+      ],
+      "notes": "保存済み商品単位の出典・分類・味・温度・公式/編集料理の分離を確認。不明値は推測しない。",
+      "featureEvidenceComplete": true,
+      "previousAudit": "SAVED_EVIDENCE_STRUCTURE_AUDIT_NOT_FULL_WEB_RECHECK",
+      "unfilledSpecFields": [
+        "ingredients",
+        "riceVariety",
+        "riceByRole",
+        "polishingRatio",
+        "polishingByRole",
+        "alcoholPercentage",
+        "nihonshudo",
+        "acidity",
+        "aminoAcidValue",
+        "yeast",
+        "waterSource",
+        "kojiMold",
+        "agingPeriod",
+        "agingTemperature"
+      ]
+    },
+    {
+      "sakeId": "gekkeikan-horin-junmai-daiginjo-standard",
+      "name": "鳳麟 純米大吟醸",
+      "qualityReview": "CURRENT_OFFICIAL_PAGE_RECHECK",
+      "verifiedAt": "2026-10-14",
+      "sources": [
+        {
+          "url": "https://www.gekkeikan.co.jp/products/type01/horin_daiginjo/",
+          "type": "breweryOfficial",
+          "scope": "product",
+          "name": "鳳麟 純米大吟醸",
+          "verifiedAt": "2026-10-12"
+        },
+        {
+          "url": "https://www.gekkeikan.co.jp/horin/",
+          "type": "breweryOfficial",
+          "scope": "product",
+          "name": "鳳麟 純米大吟醸",
+          "verifiedAt": "2026-10-12"
+        }
+      ],
+      "classification": {
+        "ginjo": false,
+        "junmaiGinjo": false,
+        "daiginjo": false,
+        "junmaiDaiginjo": true,
+        "ginjoFamily": true,
+        "daiginjoFamily": true,
+        "aged": null,
+        "tokuteiMeishoshu": "純米大吟醸酒",
+        "junmai": true,
+        "nonJunmai": false,
+        "kimoto": null,
+        "yamahai": null,
+        "nama": null,
+        "hiire": null,
+        "nigori": null,
+        "sparkling": null,
+        "genshu": null,
+        "muroka": null
+      },
+      "specs": {
+        "ingredients": "米（国産）、米こうじ（国産米）",
+        "riceVariety": [
+          "山田錦",
+          "五百万石"
+        ],
+        "riceOrigin": null,
+        "riceByRole": null,
+        "polishingRatio": null,
+        "polishingByRole": null,
+        "alcoholPercentage": "16度以上17度未満",
+        "nihonshudo": null,
+        "acidity": null,
+        "aminoAcidValue": null,
+        "yeast": null,
+        "waterSource": null,
+        "kojiMold": null,
+        "agingPeriod": null,
+        "agingTemperature": null
+      },
+      "temperatures": [
+        "冷酒"
+      ],
+      "notes": "公式製品・ブランドページの純米大吟醸欄を照合。純米吟醸の値と混在させない。",
+      "featureEvidenceComplete": true,
+      "previousAudit": "SAVED_EVIDENCE_STRUCTURE_AUDIT_NOT_FULL_WEB_RECHECK",
+      "unfilledSpecFields": [
+        "riceOrigin",
+        "riceByRole",
+        "polishingRatio",
+        "polishingByRole",
+        "nihonshudo",
+        "acidity",
+        "aminoAcidValue",
+        "yeast",
+        "waterSource",
+        "kojiMold",
+        "agingPeriod",
+        "agingTemperature"
+      ]
+    },
+    {
+      "sakeId": "kunizakari-handago-junmai-ginjo-1801",
+      "name": "國盛 純米吟醸 半田郷 酵母1801",
+      "qualityReview": "CURRENT_OFFICIAL_PAGE_RECHECK",
+      "verifiedAt": "2026-10-14",
+      "sources": [
+        {
+          "url": "https://www.nakanoshuzou.jp/feature/handago/pc/",
+          "type": "breweryOfficial",
+          "scope": "product",
+          "name": "國盛 純米吟醸 半田郷 酵母1801",
+          "verifiedAt": "2026-10-12"
+        }
+      ],
+      "classification": {
+        "ginjo": false,
+        "junmaiGinjo": true,
+        "daiginjo": false,
+        "junmaiDaiginjo": false,
+        "ginjoFamily": true,
+        "daiginjoFamily": false,
+        "aged": null,
+        "tokuteiMeishoshu": "純米吟醸酒",
+        "junmai": true,
+        "nonJunmai": false,
+        "kimoto": null,
+        "yamahai": null,
+        "nama": null,
+        "hiire": null,
+        "nigori": null,
+        "sparkling": null,
+        "genshu": null,
+        "muroka": null
+      },
+      "specs": {
+        "ingredients": "米（国産）・米こうじ（国産米）",
+        "riceVariety": [],
+        "riceOrigin": null,
+        "riceByRole": null,
+        "polishingRatio": "55%",
+        "polishingByRole": null,
+        "alcoholPercentage": "15度",
+        "nihonshudo": "+2.0前後",
+        "acidity": "1.4前後",
+        "aminoAcidValue": "1.3前後",
+        "yeast": "協会1801号",
+        "waterSource": null,
+        "kojiMold": null,
+        "agingPeriod": null,
+        "agingTemperature": null
+      },
+      "temperatures": [
+        "冷酒"
+      ],
+      "notes": "酵母1801と通常半田郷を区別。数値の前後表記を維持。",
+      "featureEvidenceComplete": true,
+      "previousAudit": "SAVED_EVIDENCE_STRUCTURE_AUDIT_NOT_FULL_WEB_RECHECK",
+      "unfilledSpecFields": [
+        "riceVariety",
+        "riceOrigin",
+        "riceByRole",
+        "polishingByRole",
+        "waterSource",
+        "kojiMold",
+        "agingPeriod",
+        "agingTemperature"
+      ]
+    },
+    {
+      "sakeId": "tosatsuru-honzo-karakuchi-standard",
+      "name": "土佐鶴 本醸辛口",
+      "qualityReview": "CURRENT_OFFICIAL_PAGE_RECHECK",
+      "verifiedAt": "2026-10-14",
+      "sources": [
+        {
+          "url": "https://www.tosatsuru.jp/i/NH-605",
+          "type": "breweryOfficial",
+          "scope": "product",
+          "name": "土佐鶴 本醸辛口",
+          "verifiedAt": "2026-10-12"
+        }
+      ],
+      "classification": {
+        "ginjo": false,
+        "junmaiGinjo": false,
+        "daiginjo": false,
+        "junmaiDaiginjo": false,
+        "ginjoFamily": false,
+        "daiginjoFamily": false,
+        "aged": null,
+        "tokuteiMeishoshu": "本醸造酒",
+        "junmai": false,
+        "nonJunmai": true,
+        "kimoto": null,
+        "yamahai": null,
+        "nama": null,
+        "hiire": null,
+        "nigori": null,
+        "sparkling": null,
+        "genshu": null,
+        "muroka": null
+      },
+      "specs": {
+        "ingredients": "米・米麹・醸造アルコール",
+        "riceVariety": [
+          "あけぼの",
+          "福光他"
+        ],
+        "riceOrigin": "国産",
+        "riceByRole": null,
+        "polishingRatio": "65%",
+        "polishingByRole": null,
+        "alcoholPercentage": "15度以上16度未満",
+        "nihonshudo": "+10（標準）",
+        "acidity": "1.4（標準）",
+        "aminoAcidValue": null,
+        "yeast": null,
+        "waterSource": null,
+        "kojiMold": null,
+        "agingPeriod": null,
+        "agingTemperature": null
+      },
+      "temperatures": [],
+      "notes": "保存済み商品単位の出典・分類・味・温度・公式/編集料理の分離を確認。不明値は推測しない。",
+      "featureEvidenceComplete": true,
+      "previousAudit": "SAVED_EVIDENCE_STRUCTURE_AUDIT_NOT_FULL_WEB_RECHECK",
+      "unfilledSpecFields": [
+        "riceByRole",
+        "polishingByRole",
+        "aminoAcidValue",
+        "yeast",
+        "waterSource",
+        "kojiMold",
+        "agingPeriod",
+        "agingTemperature"
+      ]
+    },
+    {
+      "sakeId": "hakutaka-kinmatsu-tokubetsu-junmai",
+      "name": "金松白鷹 特別純米",
+      "qualityReview": "CURRENT_OFFICIAL_PAGE_RECHECK",
+      "verifiedAt": "2026-10-14",
+      "sources": [
+        {
+          "url": "https://hakutaka.jp/item.html",
+          "type": "breweryOfficial",
+          "scope": "product",
+          "name": "金松白鷹 特別純米",
+          "verifiedAt": "2026-10-12"
+        }
+      ],
+      "classification": {
+        "ginjo": false,
+        "junmaiGinjo": false,
+        "daiginjo": false,
+        "junmaiDaiginjo": false,
+        "ginjoFamily": false,
+        "daiginjoFamily": false,
+        "aged": null,
+        "tokuteiMeishoshu": "特別純米酒",
+        "junmai": true,
+        "nonJunmai": false,
+        "kimoto": true,
+        "yamahai": null,
+        "nama": null,
+        "hiire": null,
+        "nigori": null,
+        "sparkling": null,
+        "genshu": null,
+        "muroka": null
+      },
+      "specs": {
+        "ingredients": [],
+        "riceVariety": [],
+        "riceOrigin": null,
+        "riceByRole": null,
+        "polishingRatio": null,
+        "polishingByRole": null,
+        "alcoholPercentage": null,
+        "nihonshudo": null,
+        "acidity": null,
+        "aminoAcidValue": null,
+        "yeast": null,
+        "waterSource": null,
+        "kojiMold": null,
+        "agingPeriod": null,
+        "agingTemperature": null
+      },
+      "temperatures": [],
+      "notes": "保存済み商品単位の出典・分類・味・温度・公式/編集料理の分離を確認。不明値は推測しない。",
+      "featureEvidenceComplete": true,
+      "previousAudit": "SAVED_EVIDENCE_STRUCTURE_AUDIT_NOT_FULL_WEB_RECHECK",
+      "unfilledSpecFields": [
+        "ingredients",
+        "riceVariety",
+        "riceOrigin",
+        "riceByRole",
+        "polishingRatio",
+        "polishingByRole",
+        "alcoholPercentage",
+        "nihonshudo",
+        "acidity",
+        "aminoAcidValue",
+        "yeast",
+        "waterSource",
+        "kojiMold",
+        "agingPeriod",
+        "agingTemperature"
+      ]
+    },
+    {
+      "sakeId": "sawanotsuru-junmai-yamadanishiki-standard",
+      "name": "沢の鶴 純米酒 山田錦",
+      "qualityReview": "CURRENT_OFFICIAL_PAGE_RECHECK",
+      "verifiedAt": "2026-10-14",
+      "sources": [
+        {
+          "url": "https://www.sawanotsuru.co.jp/c/nihonshu/junmai/gd117",
+          "type": "breweryOfficial",
+          "scope": "product",
+          "name": "沢の鶴 純米酒 山田錦",
+          "verifiedAt": "2026-10-12"
+        }
+      ],
+      "classification": {
+        "ginjo": false,
+        "junmaiGinjo": false,
+        "daiginjo": false,
+        "junmaiDaiginjo": false,
+        "ginjoFamily": false,
+        "daiginjoFamily": false,
+        "aged": null,
+        "tokuteiMeishoshu": "純米酒",
+        "junmai": true,
+        "nonJunmai": false,
+        "kimoto": null,
+        "yamahai": null,
+        "nama": null,
+        "hiire": null,
+        "nigori": null,
+        "sparkling": null,
+        "genshu": null,
+        "muroka": null
+      },
+      "specs": {
+        "ingredients": "米・米麹",
+        "riceVariety": [
+          "山田錦55%",
+          "一般米45%"
+        ],
+        "riceOrigin": null,
+        "riceByRole": null,
+        "polishingRatio": null,
+        "polishingByRole": {
+          "koji": "65%",
+          "kake": "75%"
+        },
+        "alcoholPercentage": "14.5度",
+        "nihonshudo": "+3.0",
+        "acidity": "1.4",
+        "aminoAcidValue": "1.4",
+        "yeast": null,
+        "waterSource": "宮水（六甲山系の天然水）",
+        "kojiMold": null,
+        "agingPeriod": null,
+        "agingTemperature": null
+      },
+      "temperatures": [
+        "冷酒",
+        "上燗"
+      ],
+      "notes": "麹65/掛75を分離。山田錦55%/一般米45%は原料米割合で精米歩合ではない。",
+      "featureEvidenceComplete": true,
+      "previousAudit": "SAVED_EVIDENCE_STRUCTURE_AUDIT_NOT_FULL_WEB_RECHECK",
+      "unfilledSpecFields": [
+        "riceOrigin",
+        "riceByRole",
+        "polishingRatio",
+        "yeast",
+        "kojiMold",
+        "agingPeriod",
+        "agingTemperature"
+      ]
+    },
+    {
+      "sakeId": "shiramayumi-tokubetsu-junmai-hidahomare-standard",
+      "name": "白真弓 特別純米 ひだほまれ",
+      "qualityReview": "CURRENT_OFFICIAL_PAGE_RECHECK",
+      "verifiedAt": "2026-10-14",
+      "sources": [
+        {
+          "url": "https://www.yancha.com/shop/junmai03.html",
+          "type": "breweryOfficial",
+          "scope": "product",
+          "name": "白真弓 特別純米 ひだほまれ",
+          "verifiedAt": "2026-10-12"
+        }
+      ],
+      "classification": {
+        "ginjo": false,
+        "junmaiGinjo": false,
+        "daiginjo": false,
+        "junmaiDaiginjo": false,
+        "ginjoFamily": false,
+        "daiginjoFamily": false,
+        "aged": null,
+        "tokuteiMeishoshu": "特別純米酒",
+        "junmai": true,
+        "nonJunmai": false,
+        "kimoto": null,
+        "yamahai": null,
+        "nama": null,
+        "hiire": null,
+        "nigori": null,
+        "sparkling": null,
+        "genshu": null,
+        "muroka": null
+      },
+      "specs": {
+        "ingredients": [],
+        "riceVariety": [
+          "ひだほまれ"
+        ],
+        "riceOrigin": null,
+        "riceByRole": null,
+        "polishingRatio": "60%",
+        "polishingByRole": null,
+        "alcoholPercentage": "15度",
+        "nihonshudo": "+1",
+        "acidity": "2.0",
+        "aminoAcidValue": null,
+        "yeast": "9号",
+        "waterSource": null,
+        "kojiMold": null,
+        "agingPeriod": null,
+        "agingTemperature": null
+      },
+      "temperatures": [
+        "冷酒",
+        "ぬる燗"
+      ],
+      "notes": "保存済み商品単位の出典・分類・味・温度・公式/編集料理の分離を確認。不明値は推測しない。",
+      "featureEvidenceComplete": true,
+      "previousAudit": "SAVED_EVIDENCE_STRUCTURE_AUDIT_NOT_FULL_WEB_RECHECK",
+      "unfilledSpecFields": [
+        "ingredients",
+        "riceOrigin",
+        "riceByRole",
+        "polishingByRole",
+        "aminoAcidValue",
+        "waterSource",
+        "kojiMold",
+        "agingPeriod",
+        "agingTemperature"
+      ]
+    },
+    {
+      "sakeId": "ozeki-tokusen-tokubetsu-junmai-yamadanishiki-standard",
+      "name": "大関 特撰 特別純米酒 山田錦",
+      "qualityReview": "CURRENT_OFFICIAL_PAGE_RECHECK",
+      "verifiedAt": "2026-10-14",
+      "sources": [
+        {
+          "url": "https://www.ozeki.co.jp/product/nihonshu/yamadanishiki/",
+          "type": "breweryOfficial",
+          "scope": "product",
+          "name": "大関 特撰 特別純米酒 山田錦",
+          "verifiedAt": "2026-10-12"
+        }
+      ],
+      "classification": {
+        "ginjo": false,
+        "junmaiGinjo": false,
+        "daiginjo": false,
+        "junmaiDaiginjo": false,
+        "ginjoFamily": false,
+        "daiginjoFamily": false,
+        "aged": null,
+        "tokuteiMeishoshu": "特別純米酒",
+        "junmai": true,
+        "nonJunmai": false,
+        "kimoto": null,
+        "yamahai": null,
+        "nama": null,
+        "hiire": null,
+        "nigori": null,
+        "sparkling": null,
+        "genshu": null,
+        "muroka": null
+      },
+      "specs": {
+        "ingredients": "米（国産）、米こうじ（国産米）",
+        "riceVariety": [
+          "山田錦"
+        ],
+        "riceOrigin": "兵庫県",
+        "riceByRole": null,
+        "polishingRatio": "70%",
+        "polishingByRole": null,
+        "alcoholPercentage": "14%",
+        "nihonshudo": "+3",
+        "acidity": "1.6",
+        "aminoAcidValue": null,
+        "yeast": null,
+        "waterSource": null,
+        "kojiMold": null,
+        "agingPeriod": null,
+        "agingTemperature": null
+      },
+      "temperatures": [],
+      "notes": "保存済み商品単位の出典・分類・味・温度・公式/編集料理の分離を確認。不明値は推測しない。",
+      "featureEvidenceComplete": true,
+      "previousAudit": "SAVED_EVIDENCE_STRUCTURE_AUDIT_NOT_FULL_WEB_RECHECK",
+      "unfilledSpecFields": [
+        "riceByRole",
+        "polishingByRole",
+        "aminoAcidValue",
+        "yeast",
+        "waterSource",
+        "kojiMold",
+        "agingPeriod",
+        "agingTemperature"
+      ]
+    },
+    {
+      "sakeId": "tsukasabotan-niyodo-blue-junmai-standard",
+      "name": "司牡丹 仁淀ブルー",
+      "qualityReview": "CURRENT_OFFICIAL_PAGE_RECHECK",
+      "verifiedAt": "2026-10-14",
+      "sources": [
+        {
+          "url": "https://www.tsukasabotan.co.jp/standard/niyodoblue.html",
+          "type": "breweryOfficial",
+          "scope": "product",
+          "name": "司牡丹 仁淀ブルー",
+          "verifiedAt": "2026-10-12"
+        }
+      ],
+      "classification": {
+        "ginjo": false,
+        "junmaiGinjo": false,
+        "daiginjo": false,
+        "junmaiDaiginjo": false,
+        "ginjoFamily": false,
+        "daiginjoFamily": false,
+        "aged": null,
+        "tokuteiMeishoshu": "純米酒",
+        "junmai": true,
+        "nonJunmai": false,
+        "kimoto": null,
+        "yamahai": null,
+        "nama": false,
+        "hiire": null,
+        "nigori": null,
+        "sparkling": null,
+        "genshu": null,
+        "muroka": null
+      },
+      "specs": {
+        "ingredients": "米（国産）・米こうじ（国産米）",
+        "riceVariety": [],
+        "riceOrigin": null,
+        "riceByRole": null,
+        "polishingRatio": null,
+        "polishingByRole": {
+          "koji": "65%",
+          "kake": "65%"
+        },
+        "alcoholPercentage": "16度以上17度未満",
+        "nihonshudo": "+6前後",
+        "acidity": "1.7前後",
+        "aminoAcidValue": null,
+        "yeast": "協会7号",
+        "waterSource": "仁淀川水系の伏流水",
+        "kojiMold": null,
+        "agingPeriod": null,
+        "agingTemperature": null
+      },
+      "temperatures": [],
+      "notes": "保存済み商品単位の出典・分類・味・温度・公式/編集料理の分離を確認。不明値は推測しない。",
+      "featureEvidenceComplete": true,
+      "previousAudit": "SAVED_EVIDENCE_STRUCTURE_AUDIT_NOT_FULL_WEB_RECHECK",
+      "unfilledSpecFields": [
+        "riceVariety",
+        "riceOrigin",
+        "riceByRole",
+        "polishingRatio",
+        "aminoAcidValue",
+        "kojiMold",
+        "agingPeriod",
+        "agingTemperature"
+      ]
+    },
+    {
+      "sakeId": "kikusui-funaguchi-honjozo-nama-genshu-standard",
+      "name": "菊水ふなぐち",
+      "qualityReview": "CURRENT_OFFICIAL_PAGE_RECHECK",
+      "verifiedAt": "2026-10-14",
+      "sources": [
+        {
+          "url": "https://www.kikusui-sake.com/home/jp/products/funaguchi/",
+          "type": "breweryOfficial",
+          "scope": "product",
+          "name": "菊水ふなぐち",
+          "verifiedAt": "2026-10-12"
+        }
+      ],
+      "classification": {
+        "ginjo": false,
+        "junmaiGinjo": false,
+        "daiginjo": false,
+        "junmaiDaiginjo": false,
+        "ginjoFamily": false,
+        "daiginjoFamily": false,
+        "aged": null,
+        "tokuteiMeishoshu": "本醸造酒",
+        "junmai": false,
+        "nonJunmai": true,
+        "kimoto": null,
+        "yamahai": null,
+        "nama": true,
+        "hiire": null,
+        "nigori": null,
+        "sparkling": null,
+        "genshu": true,
+        "muroka": null
+      },
+      "specs": {
+        "ingredients": "米、米こうじ、醸造アルコール",
+        "riceVariety": [],
+        "riceOrigin": "新潟県産米100%",
+        "riceByRole": null,
+        "polishingRatio": "70%",
+        "polishingByRole": null,
+        "alcoholPercentage": "19度",
+        "nihonshudo": null,
+        "acidity": null,
+        "aminoAcidValue": null,
+        "yeast": null,
+        "waterSource": null,
+        "kojiMold": null,
+        "agingPeriod": null,
+        "agingTemperature": null
+      },
+      "temperatures": [],
+      "notes": "200ml本醸造生原酒。熟成/吟醸等の別ふなぐちシリーズを区別。",
+      "featureEvidenceComplete": true,
+      "previousAudit": "SAVED_EVIDENCE_STRUCTURE_AUDIT_NOT_FULL_WEB_RECHECK",
+      "unfilledSpecFields": [
+        "riceVariety",
+        "riceByRole",
+        "polishingByRole",
+        "nihonshudo",
+        "acidity",
+        "aminoAcidValue",
+        "yeast",
+        "waterSource",
+        "kojiMold",
+        "agingPeriod",
+        "agingTemperature"
+      ]
+    },
+    {
+      "sakeId": "kizakura-yamahai-tokubetsu-junmai-yamadanishiki-standard",
+      "name": "黄桜 生もと山廃 特別純米酒 山田錦",
+      "qualityReview": "CURRENT_OFFICIAL_PAGE_RECHECK",
+      "verifiedAt": "2026-10-14",
+      "sources": [
+        {
+          "url": "https://www.kizakura-shop.com/view/item/000000000243",
+          "type": "breweryOfficial",
+          "scope": "product",
+          "name": "黄桜 生もと山廃 特別純米酒 山田錦",
+          "verifiedAt": "2026-10-12"
+        }
+      ],
+      "classification": {
+        "ginjo": false,
+        "junmaiGinjo": false,
+        "daiginjo": false,
+        "junmaiDaiginjo": false,
+        "ginjoFamily": false,
+        "daiginjoFamily": false,
+        "aged": null,
+        "tokuteiMeishoshu": "特別純米酒",
+        "junmai": true,
+        "nonJunmai": false,
+        "kimoto": null,
+        "yamahai": true,
+        "nama": null,
+        "hiire": null,
+        "nigori": null,
+        "sparkling": null,
+        "genshu": null,
+        "muroka": null
+      },
+      "specs": {
+        "ingredients": "米（国産）、米麹（国産米）",
+        "riceVariety": [
+          "山田錦"
+        ],
+        "riceOrigin": null,
+        "riceByRole": null,
+        "polishingRatio": "65%",
+        "polishingByRole": null,
+        "alcoholPercentage": "15度",
+        "nihonshudo": "±0（標準値）",
+        "acidity": "1.4（標準値）",
+        "aminoAcidValue": "1.5（標準値）",
+        "yeast": null,
+        "waterSource": null,
+        "kojiMold": null,
+        "agingPeriod": null,
+        "agingTemperature": null
+      },
+      "temperatures": [
+        "冷酒",
+        "常温",
+        "ぬる燗",
+        "上燗"
+      ],
+      "notes": "保存済み商品単位の出典・分類・味・温度・公式/編集料理の分離を確認。不明値は推測しない。",
+      "featureEvidenceComplete": true,
+      "previousAudit": "SAVED_EVIDENCE_STRUCTURE_AUDIT_NOT_FULL_WEB_RECHECK",
+      "unfilledSpecFields": [
+        "riceOrigin",
+        "riceByRole",
+        "polishingByRole",
+        "yeast",
+        "waterSource",
+        "kojiMold",
+        "agingPeriod",
+        "agingTemperature"
+      ]
+    },
+    {
+      "sakeId": "gokyo-junmai-standard",
+      "name": "五橋 純米酒",
+      "qualityReview": "SAVED_PHASE25_OFFICIAL_EVIDENCE_REUSED",
+      "verifiedAt": "2026-10-14",
+      "sources": [
+        {
+          "url": "https://www.gokyo.shop/view/item/000000000025",
+          "type": "breweryOfficial",
+          "scope": "product",
+          "name": "五橋 純米酒",
+          "verifiedAt": "2026-10-12"
+        }
+      ],
+      "classification": {
+        "ginjo": false,
+        "junmaiGinjo": false,
+        "daiginjo": false,
+        "junmaiDaiginjo": false,
+        "ginjoFamily": false,
+        "daiginjoFamily": false,
+        "aged": null,
+        "tokuteiMeishoshu": "純米酒",
+        "junmai": true,
+        "nonJunmai": false,
+        "kimoto": null,
+        "yamahai": null,
+        "nama": null,
+        "hiire": null,
+        "nigori": null,
+        "sparkling": null,
+        "genshu": null,
+        "muroka": null
+      },
+      "specs": {
+        "ingredients": "米（山口県産）・米こうじ（山口県産米）",
+        "riceVariety": [],
+        "riceOrigin": "山口県",
+        "riceByRole": null,
+        "polishingRatio": "60%",
+        "polishingByRole": null,
+        "alcoholPercentage": "15度",
+        "nihonshudo": null,
+        "acidity": null,
+        "aminoAcidValue": null,
+        "yeast": null,
+        "waterSource": "山口県・錦川伏流軟水",
+        "kojiMold": null,
+        "agingPeriod": null,
+        "agingTemperature": null
+      },
+      "temperatures": [
+        "ぬる燗"
+      ],
+      "notes": "保存済み商品単位の出典・分類・味・温度・公式/編集料理の分離を確認。不明値は推測しない。",
+      "featureEvidenceComplete": true,
+      "previousAudit": "SAVED_EVIDENCE_STRUCTURE_AUDIT_NOT_FULL_WEB_RECHECK",
+      "unfilledSpecFields": [
+        "riceVariety",
+        "riceByRole",
+        "polishingByRole",
+        "nihonshudo",
+        "acidity",
+        "aminoAcidValue",
+        "yeast",
+        "kojiMold",
+        "agingPeriod",
+        "agingTemperature"
+      ]
+    },
+    {
+      "sakeId": "suishin-inaho-junmai-ginjo-standard",
+      "name": "純米吟醸 醉心稲穂",
+      "qualityReview": "SAVED_PHASE25_OFFICIAL_EVIDENCE_REUSED",
+      "verifiedAt": "2026-10-14",
+      "sources": [
+        {
+          "url": "https://www.suishinsake.co.jp/3037",
+          "type": "breweryOfficial",
+          "scope": "product",
+          "name": "純米吟醸 醉心稲穂",
+          "verifiedAt": "2026-10-12"
+        },
+        {
+          "url": "https://suishinyamane.com/item-detail/1179996",
+          "type": "breweryOfficial",
+          "scope": "product",
+          "name": "純米吟醸 醉心稲穂",
+          "verifiedAt": "2026-10-12"
+        }
+      ],
+      "classification": {
+        "ginjo": false,
+        "junmaiGinjo": true,
+        "daiginjo": false,
+        "junmaiDaiginjo": false,
+        "ginjoFamily": true,
+        "daiginjoFamily": false,
+        "aged": null,
+        "tokuteiMeishoshu": "純米吟醸酒",
+        "junmai": true,
+        "nonJunmai": false,
+        "kimoto": null,
+        "yamahai": null,
+        "nama": null,
+        "hiire": null,
+        "nigori": null,
+        "sparkling": null,
+        "genshu": null,
+        "muroka": null
+      },
+      "specs": {
+        "ingredients": "米（国産）・米こうじ（国産米）",
+        "riceVariety": [],
+        "riceOrigin": null,
+        "riceByRole": null,
+        "polishingRatio": "60%",
+        "polishingByRole": null,
+        "alcoholPercentage": "15度",
+        "nihonshudo": "+2.5",
+        "acidity": "1.6",
+        "aminoAcidValue": null,
+        "yeast": null,
+        "waterSource": null,
+        "kojiMold": null,
+        "agingPeriod": null,
+        "agingTemperature": null
+      },
+      "temperatures": [
+        "冷酒",
+        "ぬる燗"
+      ],
+      "notes": "保存済み商品単位の出典・分類・味・温度・公式/編集料理の分離を確認。不明値は推測しない。",
+      "featureEvidenceComplete": true,
+      "previousAudit": "SAVED_EVIDENCE_STRUCTURE_AUDIT_NOT_FULL_WEB_RECHECK",
+      "unfilledSpecFields": [
+        "riceVariety",
+        "riceOrigin",
+        "riceByRole",
+        "polishingByRole",
+        "aminoAcidValue",
+        "yeast",
+        "waterSource",
+        "kojiMold",
+        "agingPeriod",
+        "agingTemperature"
+      ]
+    },
+    {
+      "sakeId": "tomio-gion-komachi-junmai-ginjo-standard",
+      "name": "富翁 純米吟醸 祇園小町",
+      "qualityReview": "SAVED_PHASE25_OFFICIAL_EVIDENCE_REUSED",
+      "verifiedAt": "2026-10-14",
+      "sources": [
+        {
+          "url": "https://www.tomio-sake.co.jp/post_product/sake202/",
+          "type": "breweryOfficial",
+          "scope": "product",
+          "name": "富翁 純米吟醸 祇園小町",
+          "verifiedAt": "2026-10-12"
+        }
+      ],
+      "classification": {
+        "ginjo": false,
+        "junmaiGinjo": true,
+        "daiginjo": false,
+        "junmaiDaiginjo": false,
+        "ginjoFamily": true,
+        "daiginjoFamily": false,
+        "aged": null,
+        "tokuteiMeishoshu": "純米吟醸酒",
+        "junmai": true,
+        "nonJunmai": false,
+        "kimoto": null,
+        "yamahai": null,
+        "nama": null,
+        "hiire": null,
+        "nigori": null,
+        "sparkling": null,
+        "genshu": null,
+        "muroka": null
+      },
+      "specs": {
+        "ingredients": "米・米こうじ（国内産米100％使用）",
+        "riceVariety": [],
+        "riceOrigin": "国内産米",
+        "riceByRole": null,
+        "polishingRatio": "58%",
+        "polishingByRole": null,
+        "alcoholPercentage": "15度",
+        "nihonshudo": "+3.0",
+        "acidity": "1.3",
+        "aminoAcidValue": null,
+        "yeast": null,
+        "waterSource": null,
+        "kojiMold": null,
+        "agingPeriod": null,
+        "agingTemperature": null
+      },
+      "temperatures": [],
+      "notes": "保存済み商品単位の出典・分類・味・温度・公式/編集料理の分離を確認。不明値は推測しない。",
+      "featureEvidenceComplete": true,
+      "previousAudit": "SAVED_EVIDENCE_STRUCTURE_AUDIT_NOT_FULL_WEB_RECHECK",
+      "unfilledSpecFields": [
+        "riceVariety",
+        "riceByRole",
+        "polishingByRole",
+        "aminoAcidValue",
+        "yeast",
+        "waterSource",
+        "kojiMold",
+        "agingPeriod",
+        "agingTemperature"
+      ]
+    },
+    {
+      "sakeId": "echigozakura-daiginjo-standard",
+      "name": "大吟醸 越後桜",
+      "qualityReview": "SAVED_PHASE25_OFFICIAL_EVIDENCE_REUSED",
+      "verifiedAt": "2026-10-14",
+      "sources": [
+        {
+          "url": "https://www.echigozakura.co.jp/echigosakura.html",
+          "type": "breweryOfficial",
+          "scope": "product",
+          "name": "大吟醸 越後桜",
+          "verifiedAt": "2026-10-12"
+        }
+      ],
+      "classification": {
+        "ginjo": false,
+        "junmaiGinjo": false,
+        "daiginjo": true,
+        "junmaiDaiginjo": false,
+        "ginjoFamily": true,
+        "daiginjoFamily": true,
+        "aged": null,
+        "tokuteiMeishoshu": "大吟醸酒",
+        "junmai": false,
+        "nonJunmai": true,
+        "kimoto": null,
+        "yamahai": null,
+        "nama": null,
+        "hiire": null,
+        "nigori": null,
+        "sparkling": null,
+        "genshu": null,
+        "muroka": null
+      },
+      "specs": {
+        "ingredients": "米（国産）、米こうじ（国産米）、醸造アルコール",
+        "riceVariety": [],
+        "riceOrigin": "国産",
+        "riceByRole": null,
+        "polishingRatio": "50%",
+        "polishingByRole": null,
+        "alcoholPercentage": "15度",
+        "nihonshudo": null,
+        "acidity": null,
+        "aminoAcidValue": null,
+        "yeast": null,
+        "waterSource": null,
+        "kojiMold": null,
+        "agingPeriod": null,
+        "agingTemperature": null
+      },
+      "temperatures": [],
+      "notes": "保存済み商品単位の出典・分類・味・温度・公式/編集料理の分離を確認。不明値は推測しない。",
+      "featureEvidenceComplete": true,
+      "previousAudit": "SAVED_EVIDENCE_STRUCTURE_AUDIT_NOT_FULL_WEB_RECHECK",
+      "unfilledSpecFields": [
+        "riceVariety",
+        "riceByRole",
+        "polishingByRole",
+        "nihonshudo",
+        "acidity",
+        "aminoAcidValue",
+        "yeast",
+        "waterSource",
+        "kojiMold",
+        "agingPeriod",
+        "agingTemperature"
+      ]
+    },
+    {
+      "sakeId": "nihonsakari-souhana-junmai-ginjo-standard",
+      "name": "超特撰 惣花 純米吟醸",
+      "qualityReview": "SAVED_PHASE25_OFFICIAL_EVIDENCE_REUSED",
+      "verifiedAt": "2026-10-14",
+      "sources": [
+        {
+          "url": "https://www.nihonsakari.co.jp/products/p/327",
+          "type": "breweryOfficial",
+          "scope": "product",
+          "name": "超特撰 惣花 純米吟醸",
+          "verifiedAt": "2026-10-12"
+        }
+      ],
+      "classification": {
+        "ginjo": false,
+        "junmaiGinjo": true,
+        "daiginjo": false,
+        "junmaiDaiginjo": false,
+        "ginjoFamily": true,
+        "daiginjoFamily": false,
+        "aged": null,
+        "tokuteiMeishoshu": "純米吟醸酒",
+        "junmai": true,
+        "nonJunmai": false,
+        "kimoto": null,
+        "yamahai": null,
+        "nama": null,
+        "hiire": null,
+        "nigori": null,
+        "sparkling": null,
+        "genshu": null,
+        "muroka": null
+      },
+      "specs": {
+        "ingredients": [],
+        "riceVariety": [],
+        "riceOrigin": null,
+        "riceByRole": null,
+        "polishingRatio": "55%",
+        "polishingByRole": null,
+        "alcoholPercentage": "15度以上16度未満",
+        "nihonshudo": "-4.0",
+        "acidity": "1.6",
+        "aminoAcidValue": "1.4",
+        "yeast": "独自の惣花酵母",
+        "waterSource": null,
+        "kojiMold": null,
+        "agingPeriod": null,
+        "agingTemperature": null
+      },
+      "temperatures": [
+        "冷酒",
+        "常温",
+        "ぬる燗"
+      ],
+      "notes": "保存済み商品単位の出典・分類・味・温度・公式/編集料理の分離を確認。不明値は推測しない。",
+      "featureEvidenceComplete": true,
+      "previousAudit": "SAVED_EVIDENCE_STRUCTURE_AUDIT_NOT_FULL_WEB_RECHECK",
+      "unfilledSpecFields": [
+        "ingredients",
+        "riceVariety",
+        "riceOrigin",
+        "riceByRole",
+        "polishingByRole",
+        "waterSource",
+        "kojiMold",
+        "agingPeriod",
+        "agingTemperature"
+      ]
+    },
+    {
+      "sakeId": "choryo-yoshinosugi-tarusake-standard",
+      "name": "吉野杉の樽酒",
+      "qualityReview": "SAVED_PHASE25_OFFICIAL_EVIDENCE_REUSED",
+      "verifiedAt": "2026-10-14",
+      "sources": [
+        {
+          "url": "https://www.choryo.co.jp/?pid=157239009",
+          "type": "breweryOfficial",
+          "scope": "product",
+          "name": "吉野杉の樽酒",
+          "verifiedAt": "2026-10-12"
+        }
+      ],
+      "classification": {
+        "ginjo": null,
+        "junmaiGinjo": null,
+        "daiginjo": null,
+        "junmaiDaiginjo": null,
+        "ginjoFamily": null,
+        "daiginjoFamily": null,
+        "aged": null,
+        "tokuteiMeishoshu": null,
+        "junmai": null,
+        "nonJunmai": null,
+        "kimoto": null,
+        "yamahai": null,
+        "nama": null,
+        "hiire": null,
+        "nigori": null,
+        "sparkling": null,
+        "genshu": null,
+        "muroka": null
+      },
+      "specs": {
+        "ingredients": [],
+        "riceVariety": [],
+        "riceOrigin": "国産米",
+        "riceByRole": null,
+        "polishingRatio": null,
+        "polishingByRole": null,
+        "alcoholPercentage": "15度以上16度未満",
+        "nihonshudo": "±0（目標値）",
+        "acidity": "1.2（目標値）",
+        "aminoAcidValue": null,
+        "yeast": null,
+        "waterSource": null,
+        "kojiMold": null,
+        "agingPeriod": null,
+        "agingTemperature": null
+      },
+      "temperatures": [],
+      "notes": "保存済み商品単位の出典・分類・味・温度・公式/編集料理の分離を確認。不明値は推測しない。",
+      "featureEvidenceComplete": true,
+      "previousAudit": "SAVED_EVIDENCE_STRUCTURE_AUDIT_NOT_FULL_WEB_RECHECK",
+      "unfilledSpecFields": [
+        "ingredients",
+        "riceVariety",
+        "riceByRole",
+        "polishingRatio",
+        "polishingByRole",
+        "aminoAcidValue",
+        "yeast",
+        "waterSource",
+        "kojiMold",
+        "agingPeriod",
+        "agingTemperature"
+      ]
+    },
+    {
+      "sakeId": "shoutoku-karaku-tokubetsu-junmai-karakuchi-genshu-standard",
+      "name": "特別純米 花洛 辛口原酒",
+      "qualityReview": "SAVED_PHASE25_OFFICIAL_EVIDENCE_REUSED",
+      "verifiedAt": "2026-10-14",
+      "sources": [
+        {
+          "url": "https://shoutoku-shop.com/?pid=183305815",
+          "type": "breweryOfficial",
+          "scope": "product",
+          "name": "特別純米 花洛 辛口原酒",
+          "verifiedAt": "2026-10-12"
+        }
+      ],
+      "classification": {
+        "ginjo": false,
+        "junmaiGinjo": false,
+        "daiginjo": false,
+        "junmaiDaiginjo": false,
+        "ginjoFamily": false,
+        "daiginjoFamily": false,
+        "aged": null,
+        "tokuteiMeishoshu": "特別純米酒",
+        "junmai": true,
+        "nonJunmai": false,
+        "kimoto": null,
+        "yamahai": null,
+        "nama": null,
+        "hiire": null,
+        "nigori": null,
+        "sparkling": null,
+        "genshu": true,
+        "muroka": null
+      },
+      "specs": {
+        "ingredients": [],
+        "riceVariety": [],
+        "riceOrigin": "京都府産米（契約栽培米100%）",
+        "riceByRole": null,
+        "polishingRatio": "60%",
+        "polishingByRole": null,
+        "alcoholPercentage": "18度",
+        "nihonshudo": null,
+        "acidity": null,
+        "aminoAcidValue": null,
+        "yeast": null,
+        "waterSource": null,
+        "kojiMold": null,
+        "agingPeriod": null,
+        "agingTemperature": null
+      },
+      "temperatures": [
+        "冷酒",
+        "燗酒",
+        "ロック"
+      ],
+      "notes": "保存済み商品単位の出典・分類・味・温度・公式/編集料理の分離を確認。不明値は推測しない。",
+      "featureEvidenceComplete": true,
+      "previousAudit": "SAVED_EVIDENCE_STRUCTURE_AUDIT_NOT_FULL_WEB_RECHECK",
+      "unfilledSpecFields": [
+        "ingredients",
+        "riceVariety",
+        "riceByRole",
+        "polishingByRole",
+        "nihonshudo",
+        "acidity",
+        "aminoAcidValue",
+        "yeast",
+        "waterSource",
+        "kojiMold",
+        "agingPeriod",
+        "agingTemperature"
+      ]
+    },
+    {
+      "sakeId": "shirayuki-josen-junmai-standard",
+      "name": "上撰 白雪 純米酒",
+      "qualityReview": "SAVED_PHASE25_OFFICIAL_EVIDENCE_REUSED",
+      "verifiedAt": "2026-10-14",
+      "sources": [
+        {
+          "url": "https://konishi.co.jp/product/junmai/",
+          "type": "breweryOfficial",
+          "scope": "product",
+          "name": "上撰 白雪 純米酒",
+          "verifiedAt": "2026-10-12"
+        }
+      ],
+      "classification": {
+        "ginjo": false,
+        "junmaiGinjo": false,
+        "daiginjo": false,
+        "junmaiDaiginjo": false,
+        "ginjoFamily": false,
+        "daiginjoFamily": false,
+        "aged": null,
+        "tokuteiMeishoshu": "純米酒",
+        "junmai": true,
+        "nonJunmai": false,
+        "kimoto": null,
+        "yamahai": null,
+        "nama": null,
+        "hiire": null,
+        "nigori": null,
+        "sparkling": null,
+        "genshu": null,
+        "muroka": null
+      },
+      "specs": {
+        "ingredients": [],
+        "riceVariety": [],
+        "riceOrigin": "国産米",
+        "riceByRole": null,
+        "polishingRatio": null,
+        "polishingByRole": null,
+        "alcoholPercentage": "14度以上15度未満",
+        "nihonshudo": null,
+        "acidity": null,
+        "aminoAcidValue": null,
+        "yeast": null,
+        "waterSource": null,
+        "kojiMold": null,
+        "agingPeriod": null,
+        "agingTemperature": null
+      },
+      "temperatures": [
+        "上燗"
+      ],
+      "notes": "保存済み商品単位の出典・分類・味・温度・公式/編集料理の分離を確認。不明値は推測しない。",
+      "featureEvidenceComplete": true,
+      "previousAudit": "SAVED_EVIDENCE_STRUCTURE_AUDIT_NOT_FULL_WEB_RECHECK",
+      "unfilledSpecFields": [
+        "ingredients",
+        "riceVariety",
+        "riceByRole",
+        "polishingRatio",
+        "polishingByRole",
+        "nihonshudo",
+        "acidity",
+        "aminoAcidValue",
+        "yeast",
+        "waterSource",
+        "kojiMold",
+        "agingPeriod",
+        "agingTemperature"
+      ]
+    },
+    {
+      "sakeId": "gazan-junmai-daiginjo-standard",
+      "name": "純米大吟醸 我山",
+      "qualityReview": "SAVED_PHASE25_OFFICIAL_EVIDENCE_REUSED",
+      "verifiedAt": "2026-10-14",
+      "sources": [
+        {
+          "url": "https://www.tsurumi-jp.com/products/",
+          "type": "breweryOfficial",
+          "scope": "product",
+          "name": "純米大吟醸 我山",
+          "verifiedAt": "2026-10-12"
+        }
+      ],
+      "classification": {
+        "ginjo": false,
+        "junmaiGinjo": false,
+        "daiginjo": false,
+        "junmaiDaiginjo": true,
+        "ginjoFamily": true,
+        "daiginjoFamily": true,
+        "aged": null,
+        "tokuteiMeishoshu": "純米大吟醸酒",
+        "junmai": true,
+        "nonJunmai": false,
+        "kimoto": null,
+        "yamahai": null,
+        "nama": null,
+        "hiire": null,
+        "nigori": null,
+        "sparkling": null,
+        "genshu": null,
+        "muroka": null
+      },
+      "specs": {
+        "ingredients": [],
+        "riceVariety": [
+          "山田錦"
+        ],
+        "riceOrigin": "兵庫県特A地区",
+        "riceByRole": null,
+        "polishingRatio": 35,
+        "polishingByRole": null,
+        "alcoholPercentage": 16,
+        "nihonshudo": "-1〜-3",
+        "acidity": "1.2〜1.4",
+        "aminoAcidValue": null,
+        "yeast": null,
+        "waterSource": null,
+        "kojiMold": null,
+        "agingPeriod": null,
+        "agingTemperature": null
+      },
+      "temperatures": [],
+      "notes": "保存済み商品単位の出典・分類・味・温度・公式/編集料理の分離を確認。不明値は推測しない。",
+      "featureEvidenceComplete": true,
+      "previousAudit": "SAVED_EVIDENCE_STRUCTURE_AUDIT_NOT_FULL_WEB_RECHECK",
+      "unfilledSpecFields": [
+        "ingredients",
+        "riceByRole",
+        "polishingByRole",
+        "aminoAcidValue",
+        "yeast",
+        "waterSource",
+        "kojiMold",
+        "agingPeriod",
+        "agingTemperature"
+      ]
+    },
+    {
+      "sakeId": "nichiei-junmai-ginjo-ishikawamon-standard",
+      "name": "日榮 純米吟醸 石川門",
+      "qualityReview": "SAVED_PHASE25_OFFICIAL_EVIDENCE_REUSED",
+      "verifiedAt": "2026-10-14",
+      "sources": [
+        {
+          "url": "https://www.nakamura-shuzou.co.jp/view/item/000000000029",
+          "type": "breweryOfficial",
+          "scope": "product",
+          "name": "日榮 純米吟醸 石川門",
+          "verifiedAt": "2026-10-12"
+        }
+      ],
+      "classification": {
+        "ginjo": false,
+        "junmaiGinjo": true,
+        "daiginjo": false,
+        "junmaiDaiginjo": false,
+        "ginjoFamily": true,
+        "daiginjoFamily": false,
+        "aged": null,
+        "tokuteiMeishoshu": "純米吟醸酒",
+        "junmai": true,
+        "nonJunmai": false,
+        "kimoto": null,
+        "yamahai": null,
+        "nama": null,
+        "hiire": null,
+        "nigori": null,
+        "sparkling": null,
+        "genshu": null,
+        "muroka": null
+      },
+      "specs": {
+        "ingredients": [],
+        "riceVariety": [
+          "石川門"
+        ],
+        "riceOrigin": "石川県",
+        "riceByRole": null,
+        "polishingRatio": 60,
+        "polishingByRole": null,
+        "alcoholPercentage": 15,
+        "nihonshudo": null,
+        "acidity": null,
+        "aminoAcidValue": null,
+        "yeast": null,
+        "waterSource": null,
+        "kojiMold": null,
+        "agingPeriod": null,
+        "agingTemperature": null
+      },
+      "temperatures": [],
+      "notes": "保存済み商品単位の出典・分類・味・温度・公式/編集料理の分離を確認。不明値は推測しない。",
+      "featureEvidenceComplete": true,
+      "previousAudit": "SAVED_EVIDENCE_STRUCTURE_AUDIT_NOT_FULL_WEB_RECHECK",
+      "unfilledSpecFields": [
+        "ingredients",
+        "riceByRole",
+        "polishingByRole",
+        "nihonshudo",
+        "acidity",
+        "aminoAcidValue",
+        "yeast",
+        "waterSource",
+        "kojiMold",
+        "agingPeriod",
+        "agingTemperature"
+      ]
+    },
+    {
+      "sakeId": "kinpai-junmai-yokozuna-standard",
+      "name": "金盃 純米酒 横綱",
+      "qualityReview": "SAVED_PHASE25_OFFICIAL_EVIDENCE_REUSED",
+      "verifiedAt": "2026-10-14",
+      "sources": [
+        {
+          "url": "https://item.rakuten.co.jp/auc-kinpai/00300020/",
+          "type": "breweryOfficial",
+          "scope": "product",
+          "name": "金盃 純米酒 横綱",
+          "verifiedAt": "2026-10-13"
+        },
+        {
+          "url": "https://www.rakuten.co.jp/auc-kinpai/info.html?l-id=shoptop_shopmenu_company",
+          "type": "breweryOfficial",
+          "scope": "product",
+          "name": "金盃 純米酒 横綱",
+          "verifiedAt": "2026-10-13"
+        }
+      ],
+      "classification": {
+        "ginjo": false,
+        "junmaiGinjo": false,
+        "daiginjo": false,
+        "junmaiDaiginjo": false,
+        "ginjoFamily": false,
+        "daiginjoFamily": false,
+        "aged": null,
+        "tokuteiMeishoshu": "純米酒",
+        "junmai": true,
+        "nonJunmai": false,
+        "kimoto": null,
+        "yamahai": null,
+        "nama": null,
+        "hiire": null,
+        "nigori": null,
+        "sparkling": null,
+        "genshu": null,
+        "muroka": null
+      },
+      "specs": {
+        "ingredients": [],
+        "riceVariety": [],
+        "riceOrigin": null,
+        "riceByRole": null,
+        "polishingRatio": null,
+        "polishingByRole": null,
+        "alcoholPercentage": null,
+        "nihonshudo": null,
+        "acidity": null,
+        "aminoAcidValue": null,
+        "yeast": null,
+        "waterSource": null,
+        "kojiMold": null,
+        "agingPeriod": null,
+        "agingTemperature": null
+      },
+      "temperatures": [],
+      "notes": "保存済み商品単位の出典・分類・味・温度・公式/編集料理の分離を確認。不明値は推測しない。",
+      "featureEvidenceComplete": true,
+      "previousAudit": "SAVED_EVIDENCE_STRUCTURE_AUDIT_NOT_FULL_WEB_RECHECK",
+      "unfilledSpecFields": [
+        "ingredients",
+        "riceVariety",
+        "riceOrigin",
+        "riceByRole",
+        "polishingRatio",
+        "polishingByRole",
+        "alcoholPercentage",
+        "nihonshudo",
+        "acidity",
+        "aminoAcidValue",
+        "yeast",
+        "waterSource",
+        "kojiMold",
+        "agingPeriod",
+        "agingTemperature"
+      ]
+    },
+    {
+      "sakeId": "taisetsunokura-junmai-standard",
+      "name": "純米 大雪乃蔵",
+      "qualityReview": "SAVED_PHASE25_OFFICIAL_EVIDENCE_REUSED",
+      "verifiedAt": "2026-10-14",
+      "sources": [
+        {
+          "url": "https://www.oenon.jp/product/sake/junmai/junmai-taisetsunokura.html",
+          "type": "breweryOfficial",
+          "scope": "product",
+          "name": "純米 大雪乃蔵",
+          "verifiedAt": "2026-10-13"
+        },
+        {
+          "url": "https://www.oenon.jp/product/sake/sake-brewery/godo.html",
+          "type": "breweryOfficial",
+          "scope": "product",
+          "name": "純米 大雪乃蔵",
+          "verifiedAt": "2026-10-13"
+        }
+      ],
+      "classification": {
+        "ginjo": false,
+        "junmaiGinjo": false,
+        "daiginjo": false,
+        "junmaiDaiginjo": false,
+        "ginjoFamily": false,
+        "daiginjoFamily": false,
+        "aged": null,
+        "tokuteiMeishoshu": "純米酒",
+        "junmai": true,
+        "nonJunmai": false,
+        "kimoto": null,
+        "yamahai": null,
+        "nama": null,
+        "hiire": null,
+        "nigori": null,
+        "sparkling": null,
+        "genshu": null,
+        "muroka": null
+      },
+      "specs": {
+        "ingredients": [],
+        "riceVariety": [],
+        "riceOrigin": "北海道産米",
+        "riceByRole": null,
+        "polishingRatio": null,
+        "polishingByRole": null,
+        "alcoholPercentage": "15度以上16度未満",
+        "nihonshudo": 3,
+        "acidity": 1.4,
+        "aminoAcidValue": null,
+        "yeast": null,
+        "waterSource": null,
+        "kojiMold": null,
+        "agingPeriod": null,
+        "agingTemperature": null
+      },
+      "temperatures": [
+        "常温",
+        "ぬる燗",
+        "熱燗"
+      ],
+      "notes": "保存済み商品単位の出典・分類・味・温度・公式/編集料理の分離を確認。不明値は推測しない。",
+      "featureEvidenceComplete": true,
+      "previousAudit": "SAVED_EVIDENCE_STRUCTURE_AUDIT_NOT_FULL_WEB_RECHECK",
+      "unfilledSpecFields": [
+        "ingredients",
+        "riceVariety",
+        "riceByRole",
+        "polishingRatio",
+        "polishingByRole",
+        "aminoAcidValue",
+        "yeast",
+        "waterSource",
+        "kojiMold",
+        "agingPeriod",
+        "agingTemperature"
+      ]
+    },
+    {
+      "sakeId": "umebijin-junmai-ginjo-sakurahime-standard",
+      "name": "純米吟醸 梅美人 さくらひめ酵母",
+      "qualityReview": "SAVED_PHASE25_OFFICIAL_EVIDENCE_REUSED",
+      "verifiedAt": "2026-10-14",
+      "sources": [
+        {
+          "url": "https://umebijin.official.ec/items/73209182",
+          "type": "breweryOfficial",
+          "scope": "product",
+          "name": "純米吟醸 梅美人 さくらひめ酵母",
+          "verifiedAt": "2026-10-13"
+        }
+      ],
+      "classification": {
+        "ginjo": false,
+        "junmaiGinjo": true,
+        "daiginjo": false,
+        "junmaiDaiginjo": false,
+        "ginjoFamily": true,
+        "daiginjoFamily": false,
+        "aged": null,
+        "tokuteiMeishoshu": "純米吟醸酒",
+        "junmai": true,
+        "nonJunmai": false,
+        "kimoto": null,
+        "yamahai": null,
+        "nama": null,
+        "hiire": null,
+        "nigori": null,
+        "sparkling": null,
+        "genshu": null,
+        "muroka": null
+      },
+      "specs": {
+        "ingredients": [
+          "米",
+          "米麹"
+        ],
+        "riceVariety": [],
+        "riceOrigin": null,
+        "riceByRole": null,
+        "polishingRatio": 50,
+        "polishingByRole": null,
+        "alcoholPercentage": "15度以上16度未満",
+        "nihonshudo": -1,
+        "acidity": 1.4,
+        "aminoAcidValue": null,
+        "yeast": "さくらひめ酵母 TYPE-3 Well Balance",
+        "waterSource": null,
+        "kojiMold": null,
+        "agingPeriod": null,
+        "agingTemperature": null
+      },
+      "temperatures": [
+        "常温",
+        "冷酒"
+      ],
+      "notes": "保存済み商品単位の出典・分類・味・温度・公式/編集料理の分離を確認。不明値は推測しない。",
+      "featureEvidenceComplete": true,
+      "previousAudit": "SAVED_EVIDENCE_STRUCTURE_AUDIT_NOT_FULL_WEB_RECHECK",
+      "unfilledSpecFields": [
+        "riceVariety",
+        "riceOrigin",
+        "riceByRole",
+        "polishingByRole",
+        "aminoAcidValue",
+        "waterSource",
+        "kojiMold",
+        "agingPeriod",
+        "agingTemperature"
+      ]
+    },
+    {
+      "sakeId": "ohyama-tokubetsu-junmai-tomizu-standard",
+      "name": "大山 特別純米酒 十水",
+      "qualityReview": "SAVED_PHASE25_OFFICIAL_EVIDENCE_REUSED",
+      "verifiedAt": "2026-10-14",
+      "sources": [
+        {
+          "url": "https://www.sake-ohyama.co.jp/prefecture/",
+          "type": "breweryOfficial",
+          "scope": "product",
+          "name": "大山 特別純米酒 十水",
+          "verifiedAt": "2026-10-13"
+        }
+      ],
+      "classification": {
+        "ginjo": false,
+        "junmaiGinjo": false,
+        "daiginjo": false,
+        "junmaiDaiginjo": false,
+        "ginjoFamily": false,
+        "daiginjoFamily": false,
+        "aged": null,
+        "tokuteiMeishoshu": "特別純米酒",
+        "junmai": true,
+        "nonJunmai": false,
+        "kimoto": null,
+        "yamahai": null,
+        "nama": null,
+        "hiire": null,
+        "nigori": null,
+        "sparkling": null,
+        "genshu": null,
+        "muroka": null
+      },
+      "specs": {
+        "ingredients": [],
+        "riceVariety": [
+          "はえぬき"
+        ],
+        "riceOrigin": "山形県",
+        "riceByRole": null,
+        "polishingRatio": 60,
+        "polishingByRole": null,
+        "alcoholPercentage": 15,
+        "nihonshudo": "-5.5〜-4.5",
+        "acidity": "1.55〜1.65",
+        "aminoAcidValue": null,
+        "yeast": null,
+        "waterSource": null,
+        "kojiMold": null,
+        "agingPeriod": null,
+        "agingTemperature": null
+      },
+      "temperatures": [],
+      "notes": "保存済み商品単位の出典・分類・味・温度・公式/編集料理の分離を確認。不明値は推測しない。",
+      "featureEvidenceComplete": true,
+      "previousAudit": "SAVED_EVIDENCE_STRUCTURE_AUDIT_NOT_FULL_WEB_RECHECK",
+      "unfilledSpecFields": [
+        "ingredients",
+        "riceByRole",
+        "polishingByRole",
+        "aminoAcidValue",
+        "yeast",
+        "waterSource",
+        "kojiMold",
+        "agingPeriod",
+        "agingTemperature"
+      ]
+    },
+    {
+      "sakeId": "hideyoshi-junmai-standard",
+      "name": "秀よし 純米酒",
+      "qualityReview": "SAVED_PHASE25_OFFICIAL_EVIDENCE_REUSED",
+      "verifiedAt": "2026-10-14",
+      "sources": [
+        {
+          "url": "https://www.hideyoshi.co.jp/product-standard/",
+          "type": "breweryOfficial",
+          "scope": "product",
+          "name": "秀よし 純米酒",
+          "verifiedAt": "2026-10-13"
+        },
+        {
+          "url": "https://www.hideyoshi.co.jp/company/",
+          "type": "breweryOfficial",
+          "scope": "product",
+          "name": "秀よし 純米酒",
+          "verifiedAt": "2026-10-13"
+        }
+      ],
+      "classification": {
+        "ginjo": false,
+        "junmaiGinjo": false,
+        "daiginjo": false,
+        "junmaiDaiginjo": false,
+        "ginjoFamily": false,
+        "daiginjoFamily": false,
+        "aged": null,
+        "tokuteiMeishoshu": "純米酒",
+        "junmai": true,
+        "nonJunmai": false,
+        "kimoto": null,
+        "yamahai": null,
+        "nama": null,
+        "hiire": null,
+        "nigori": null,
+        "sparkling": null,
+        "genshu": null,
+        "muroka": null
+      },
+      "specs": {
+        "ingredients": [],
+        "riceVariety": [
+          "めんこいな"
+        ],
+        "riceOrigin": null,
+        "riceByRole": null,
+        "polishingRatio": null,
+        "polishingByRole": null,
+        "alcoholPercentage": 15,
+        "nihonshudo": 2.5,
+        "acidity": 1.2,
+        "aminoAcidValue": null,
+        "yeast": null,
+        "waterSource": null,
+        "kojiMold": null,
+        "agingPeriod": null,
+        "agingTemperature": null
+      },
+      "temperatures": [
+        "ぬる燗"
+      ],
+      "notes": "保存済み商品単位の出典・分類・味・温度・公式/編集料理の分離を確認。不明値は推測しない。",
+      "featureEvidenceComplete": true,
+      "previousAudit": "SAVED_EVIDENCE_STRUCTURE_AUDIT_NOT_FULL_WEB_RECHECK",
+      "unfilledSpecFields": [
+        "ingredients",
+        "riceOrigin",
+        "riceByRole",
+        "polishingRatio",
+        "polishingByRole",
+        "aminoAcidValue",
+        "yeast",
+        "waterSource",
+        "kojiMold",
+        "agingPeriod",
+        "agingTemperature"
+      ]
+    },
+    {
+      "sakeId": "mifuku-yamahai-junmai-ginjo-iginjunsei-standard",
+      "name": "美冨久 山廃純米吟醸 いぎん純聖",
+      "qualityReview": "SAVED_PHASE25_OFFICIAL_EVIDENCE_REUSED",
+      "verifiedAt": "2026-10-14",
+      "sources": [
+        {
+          "url": "https://mifuku-shop.jp/SHOP/118.html",
+          "type": "breweryOfficial",
+          "scope": "product",
+          "name": "美冨久 山廃純米吟醸 いぎん純聖",
+          "verifiedAt": "2026-10-13"
+        },
+        {
+          "url": "https://mifuku-shop.jp/",
+          "type": "breweryOfficial",
+          "scope": "product",
+          "name": "美冨久 山廃純米吟醸 いぎん純聖",
+          "verifiedAt": "2026-10-13"
+        }
+      ],
+      "classification": {
+        "ginjo": false,
+        "junmaiGinjo": true,
+        "daiginjo": false,
+        "junmaiDaiginjo": false,
+        "ginjoFamily": true,
+        "daiginjoFamily": false,
+        "aged": null,
+        "tokuteiMeishoshu": "純米吟醸酒",
+        "junmai": true,
+        "nonJunmai": false,
+        "kimoto": null,
+        "yamahai": true,
+        "nama": null,
+        "hiire": null,
+        "nigori": null,
+        "sparkling": null,
+        "genshu": null,
+        "muroka": null
+      },
+      "specs": {
+        "ingredients": [],
+        "riceVariety": [],
+        "riceOrigin": null,
+        "riceByRole": null,
+        "polishingRatio": "55%",
+        "polishingByRole": null,
+        "alcoholPercentage": 17,
+        "nihonshudo": null,
+        "acidity": null,
+        "aminoAcidValue": null,
+        "yeast": null,
+        "waterSource": null,
+        "kojiMold": null,
+        "agingPeriod": null,
+        "agingTemperature": null
+      },
+      "temperatures": [
+        "燗酒"
+      ],
+      "notes": "保存済み商品単位の出典・分類・味・温度・公式/編集料理の分離を確認。不明値は推測しない。",
+      "featureEvidenceComplete": true,
+      "previousAudit": "SAVED_EVIDENCE_STRUCTURE_AUDIT_NOT_FULL_WEB_RECHECK",
+      "unfilledSpecFields": [
+        "ingredients",
+        "riceVariety",
+        "riceOrigin",
+        "riceByRole",
+        "polishingByRole",
+        "nihonshudo",
+        "acidity",
+        "aminoAcidValue",
+        "yeast",
+        "waterSource",
+        "kojiMold",
+        "agingPeriod",
+        "agingTemperature"
+      ]
+    },
+    {
+      "sakeId": "toyonoaki-junmai-ginjo-matsuezukushi-standard",
+      "name": "豊の秋 純米吟醸 松江づくし",
+      "qualityReview": "SAVED_PHASE25_OFFICIAL_EVIDENCE_REUSED",
+      "verifiedAt": "2026-10-14",
+      "sources": [
+        {
+          "url": "https://www.toyonoaki.com/product/603/",
+          "type": "breweryOfficial",
+          "scope": "product",
+          "name": "豊の秋 純米吟醸 松江づくし",
+          "verifiedAt": "2026-10-13"
+        },
+        {
+          "url": "https://www.toyonoaki.com/product/",
+          "type": "breweryOfficial",
+          "scope": "product",
+          "name": "豊の秋 純米吟醸 松江づくし",
+          "verifiedAt": "2026-10-13"
+        }
+      ],
+      "classification": {
+        "ginjo": false,
+        "junmaiGinjo": true,
+        "daiginjo": false,
+        "junmaiDaiginjo": false,
+        "ginjoFamily": true,
+        "daiginjoFamily": false,
+        "aged": null,
+        "tokuteiMeishoshu": "純米吟醸酒",
+        "junmai": true,
+        "nonJunmai": false,
+        "kimoto": null,
+        "yamahai": null,
+        "nama": null,
+        "hiire": null,
+        "nigori": null,
+        "sparkling": null,
+        "genshu": null,
+        "muroka": null
+      },
+      "specs": {
+        "ingredients": [],
+        "riceVariety": [
+          "山田錦"
+        ],
+        "riceOrigin": "島根県松江市産",
+        "riceByRole": null,
+        "polishingRatio": "55%",
+        "polishingByRole": null,
+        "alcoholPercentage": 15,
+        "nihonshudo": null,
+        "acidity": null,
+        "aminoAcidValue": null,
+        "yeast": null,
+        "waterSource": null,
+        "kojiMold": null,
+        "agingPeriod": null,
+        "agingTemperature": null
+      },
+      "temperatures": [
+        "冷酒"
+      ],
+      "notes": "保存済み商品単位の出典・分類・味・温度・公式/編集料理の分離を確認。不明値は推測しない。",
+      "featureEvidenceComplete": true,
+      "previousAudit": "SAVED_EVIDENCE_STRUCTURE_AUDIT_NOT_FULL_WEB_RECHECK",
+      "unfilledSpecFields": [
+        "ingredients",
+        "riceByRole",
+        "polishingByRole",
+        "nihonshudo",
+        "acidity",
+        "aminoAcidValue",
+        "yeast",
+        "waterSource",
+        "kojiMold",
+        "agingPeriod",
+        "agingTemperature"
+      ]
+    },
+    {
+      "sakeId": "warakugoson-junmai-ginjo-standard",
+      "name": "和楽互尊 純米吟醸",
+      "qualityReview": "SAVED_PHASE25_OFFICIAL_EVIDENCE_REUSED",
+      "verifiedAt": "2026-10-14",
+      "sources": [
+        {
+          "url": "https://ikeura-shuzo.com/product-list",
+          "type": "breweryOfficial",
+          "scope": "product",
+          "name": "和楽互尊 純米吟醸",
+          "verifiedAt": "2026-10-13"
+        },
+        {
+          "url": "https://ikeura-shuzo.com/company/gaiyo",
+          "type": "breweryOfficial",
+          "scope": "product",
+          "name": "和楽互尊 純米吟醸",
+          "verifiedAt": "2026-10-13"
+        }
+      ],
+      "classification": {
+        "ginjo": false,
+        "junmaiGinjo": true,
+        "daiginjo": false,
+        "junmaiDaiginjo": false,
+        "ginjoFamily": true,
+        "daiginjoFamily": false,
+        "aged": null,
+        "tokuteiMeishoshu": "純米吟醸酒",
+        "junmai": true,
+        "nonJunmai": false,
+        "kimoto": null,
+        "yamahai": null,
+        "nama": null,
+        "hiire": null,
+        "nigori": null,
+        "sparkling": null,
+        "genshu": null,
+        "muroka": null
+      },
+      "specs": {
+        "ingredients": [],
+        "riceVariety": [
+          "高嶺錦"
+        ],
+        "riceOrigin": null,
+        "riceByRole": {
+          "koji": "高嶺錦",
+          "kake": "高嶺錦"
+        },
+        "polishingRatio": "50%",
+        "polishingByRole": {
+          "koji": "50%",
+          "kake": "50%"
+        },
+        "alcoholPercentage": 15.5,
+        "nihonshudo": 5,
+        "acidity": 1.4,
+        "aminoAcidValue": null,
+        "yeast": null,
+        "waterSource": null,
+        "kojiMold": null,
+        "agingPeriod": null,
+        "agingTemperature": null
+      },
+      "temperatures": [
+        "冷酒",
+        "ぬる燗"
+      ],
+      "notes": "保存済み商品単位の出典・分類・味・温度・公式/編集料理の分離を確認。不明値は推測しない。",
+      "featureEvidenceComplete": true,
+      "previousAudit": "SAVED_EVIDENCE_STRUCTURE_AUDIT_NOT_FULL_WEB_RECHECK",
+      "unfilledSpecFields": [
+        "ingredients",
+        "riceOrigin",
+        "aminoAcidValue",
+        "yeast",
+        "waterSource",
+        "kojiMold",
+        "agingPeriod",
+        "agingTemperature"
+      ]
+    },
+    {
+      "sakeId": "mushohai-junmai-ginjo-standard",
+      "name": "純米吟醸 無上盃",
+      "qualityReview": "SAVED_PHASE25_OFFICIAL_EVIDENCE_REUSED",
+      "verifiedAt": "2026-10-14",
+      "sources": [
+        {
+          "url": "https://nara-toyosawa.myshopify.com/products/%E6%9C%9F%E9%96%93%E9%99%90%E5%AE%9A-%E5%A4%8F%E3%81%AE%E7%84%A1%E4%B8%8A%E7%9B%83-%E3%82%B3%E3%83%94%E3%83%BC",
+          "type": "breweryOfficial",
+          "scope": "product",
+          "name": "純米吟醸 無上盃",
+          "verifiedAt": "2026-10-13"
+        },
+        {
+          "url": "https://www.nara-toyosawa.jp/",
+          "type": "breweryOfficial",
+          "scope": "product",
+          "name": "純米吟醸 無上盃",
+          "verifiedAt": "2026-10-13"
+        }
+      ],
+      "classification": {
+        "ginjo": false,
+        "junmaiGinjo": true,
+        "daiginjo": false,
+        "junmaiDaiginjo": false,
+        "ginjoFamily": true,
+        "daiginjoFamily": false,
+        "aged": null,
+        "tokuteiMeishoshu": "純米吟醸酒",
+        "junmai": true,
+        "nonJunmai": false,
+        "kimoto": null,
+        "yamahai": null,
+        "nama": null,
+        "hiire": null,
+        "nigori": null,
+        "sparkling": null,
+        "genshu": null,
+        "muroka": null
+      },
+      "specs": {
+        "ingredients": [],
+        "riceVariety": [
+          "山田錦"
+        ],
+        "riceOrigin": null,
+        "riceByRole": null,
+        "polishingRatio": "60%",
+        "polishingByRole": null,
+        "alcoholPercentage": "15度以上16度未満",
+        "nihonshudo": 3,
+        "acidity": 1.4,
+        "aminoAcidValue": null,
+        "yeast": "K1801",
+        "waterSource": null,
+        "kojiMold": null,
+        "agingPeriod": null,
+        "agingTemperature": null
+      },
+      "temperatures": [],
+      "notes": "保存済み商品単位の出典・分類・味・温度・公式/編集料理の分離を確認。不明値は推測しない。",
+      "featureEvidenceComplete": true,
+      "previousAudit": "SAVED_EVIDENCE_STRUCTURE_AUDIT_NOT_FULL_WEB_RECHECK",
+      "unfilledSpecFields": [
+        "ingredients",
+        "riceOrigin",
+        "riceByRole",
+        "polishingByRole",
+        "aminoAcidValue",
+        "waterSource",
+        "kojiMold",
+        "agingPeriod",
+        "agingTemperature"
+      ]
+    },
+    {
+      "sakeId": "kagatsuru-junmai-josen-standard",
+      "name": "加賀鶴 純米酒 上撰",
+      "qualityReview": "SAVED_PHASE25_OFFICIAL_EVIDENCE_REUSED",
+      "verifiedAt": "2026-10-14",
+      "sources": [
+        {
+          "url": "https://kagatsuru.com/?pid=111129050",
+          "type": "breweryOfficial",
+          "scope": "product",
+          "name": "加賀鶴 純米酒 上撰",
+          "verifiedAt": "2026-10-13"
+        }
+      ],
+      "classification": {
+        "ginjo": false,
+        "junmaiGinjo": false,
+        "daiginjo": false,
+        "junmaiDaiginjo": false,
+        "ginjoFamily": false,
+        "daiginjoFamily": false,
+        "aged": null,
+        "tokuteiMeishoshu": "純米酒",
+        "junmai": true,
+        "nonJunmai": false,
+        "kimoto": null,
+        "yamahai": null,
+        "nama": null,
+        "hiire": null,
+        "nigori": null,
+        "sparkling": null,
+        "genshu": null,
+        "muroka": null
+      },
+      "specs": {
+        "ingredients": [],
+        "riceVariety": [
+          "五百万石"
+        ],
+        "riceOrigin": null,
+        "riceByRole": null,
+        "polishingRatio": "65%",
+        "polishingByRole": null,
+        "alcoholPercentage": 15.3,
+        "nihonshudo": 1,
+        "acidity": 1.6,
+        "aminoAcidValue": 1.6,
+        "yeast": null,
+        "waterSource": null,
+        "kojiMold": null,
+        "agingPeriod": null,
+        "agingTemperature": null
+      },
+      "temperatures": [],
+      "notes": "保存済み商品単位の出典・分類・味・温度・公式/編集料理の分離を確認。不明値は推測しない。",
+      "featureEvidenceComplete": true,
+      "previousAudit": "SAVED_EVIDENCE_STRUCTURE_AUDIT_NOT_FULL_WEB_RECHECK",
+      "unfilledSpecFields": [
+        "ingredients",
+        "riceOrigin",
+        "riceByRole",
+        "polishingByRole",
+        "yeast",
+        "waterSource",
+        "kojiMold",
+        "agingPeriod",
+        "agingTemperature"
+      ]
+    },
+    {
+      "sakeId": "sho-chiku-bai-yamadanishiki-tokubetsu-junmai-karakuchi-standard",
+      "name": "特撰松竹梅 山田錦 特別純米 辛口",
+      "qualityReview": "SAVED_PHASE25_OFFICIAL_EVIDENCE_REUSED",
+      "verifiedAt": "2026-10-14",
+      "sources": [
+        {
+          "url": "https://www.takarashuzo.co.jp/tkr-shohin/cmn_p_detail.php?p_prodid=2428",
+          "type": "breweryOfficial",
+          "scope": "product",
+          "name": "特撰松竹梅 山田錦 特別純米 辛口",
+          "verifiedAt": "2026-10-13"
+        }
+      ],
+      "classification": {
+        "ginjo": false,
+        "junmaiGinjo": false,
+        "daiginjo": false,
+        "junmaiDaiginjo": false,
+        "ginjoFamily": false,
+        "daiginjoFamily": false,
+        "aged": null,
+        "tokuteiMeishoshu": "特別純米酒",
+        "junmai": true,
+        "nonJunmai": false,
+        "kimoto": null,
+        "yamahai": null,
+        "nama": null,
+        "hiire": null,
+        "nigori": null,
+        "sparkling": null,
+        "genshu": null,
+        "muroka": null
+      },
+      "specs": {
+        "ingredients": [],
+        "riceVariety": [
+          "山田錦"
+        ],
+        "riceOrigin": "国産",
+        "riceByRole": null,
+        "polishingRatio": "70%",
+        "polishingByRole": null,
+        "alcoholPercentage": 14,
+        "nihonshudo": null,
+        "acidity": null,
+        "aminoAcidValue": null,
+        "yeast": null,
+        "waterSource": null,
+        "kojiMold": null,
+        "agingPeriod": null,
+        "agingTemperature": null
+      },
+      "temperatures": [],
+      "notes": "保存済み商品単位の出典・分類・味・温度・公式/編集料理の分離を確認。不明値は推測しない。",
+      "featureEvidenceComplete": true,
+      "previousAudit": "SAVED_EVIDENCE_STRUCTURE_AUDIT_NOT_FULL_WEB_RECHECK",
+      "unfilledSpecFields": [
+        "ingredients",
+        "riceByRole",
+        "polishingByRole",
+        "nihonshudo",
+        "acidity",
+        "aminoAcidValue",
+        "yeast",
+        "waterSource",
+        "kojiMold",
+        "agingPeriod",
+        "agingTemperature"
+      ]
+    },
+    {
+      "sakeId": "denyu-tokubetsu-junmai-standard",
+      "name": "田友 特別純米",
+      "qualityReview": "SAVED_PHASE25_OFFICIAL_EVIDENCE_REUSED",
+      "verifiedAt": "2026-10-14",
+      "sources": [
+        {
+          "url": "https://hatsuume.co.jp/products/denyu-tokubetsu-junmai/",
+          "type": "breweryOfficial",
+          "scope": "product",
+          "name": "田友 特別純米",
+          "verifiedAt": "2026-10-13"
+        }
+      ],
+      "classification": {
+        "ginjo": false,
+        "junmaiGinjo": false,
+        "daiginjo": false,
+        "junmaiDaiginjo": false,
+        "ginjoFamily": false,
+        "daiginjoFamily": false,
+        "aged": null,
+        "tokuteiMeishoshu": "特別純米酒",
+        "junmai": true,
+        "nonJunmai": false,
+        "kimoto": null,
+        "yamahai": null,
+        "nama": null,
+        "hiire": null,
+        "nigori": null,
+        "sparkling": null,
+        "genshu": null,
+        "muroka": null
+      },
+      "specs": {
+        "ingredients": [],
+        "riceVariety": [
+          "越淡麗"
+        ],
+        "riceOrigin": "新潟県小千谷市",
+        "riceByRole": null,
+        "polishingRatio": "60%",
+        "polishingByRole": null,
+        "alcoholPercentage": 16,
+        "nihonshudo": null,
+        "acidity": null,
+        "aminoAcidValue": null,
+        "yeast": null,
+        "waterSource": null,
+        "kojiMold": null,
+        "agingPeriod": null,
+        "agingTemperature": null
+      },
+      "temperatures": [],
+      "notes": "保存済み商品単位の出典・分類・味・温度・公式/編集料理の分離を確認。不明値は推測しない。",
+      "featureEvidenceComplete": true,
+      "previousAudit": "SAVED_EVIDENCE_STRUCTURE_AUDIT_NOT_FULL_WEB_RECHECK",
+      "unfilledSpecFields": [
+        "ingredients",
+        "riceByRole",
+        "polishingByRole",
+        "nihonshudo",
+        "acidity",
+        "aminoAcidValue",
+        "yeast",
+        "waterSource",
+        "kojiMold",
+        "agingPeriod",
+        "agingTemperature"
+      ]
+    },
+    {
+      "sakeId": "taiheizan-tenko-junmai-daiginjo-standard",
+      "name": "太平山 純米大吟醸 天巧",
+      "qualityReview": "SAVED_PHASE25_OFFICIAL_EVIDENCE_REUSED",
+      "verifiedAt": "2026-10-14",
+      "sources": [
+        {
+          "url": "https://shop.kodamajozo.jp/products/detail.php?product_id=3337",
+          "type": "breweryOfficial",
+          "scope": "product",
+          "name": "太平山 純米大吟醸 天巧",
+          "verifiedAt": "2026-10-13"
+        }
+      ],
+      "classification": {
+        "ginjo": false,
+        "junmaiGinjo": false,
+        "daiginjo": false,
+        "junmaiDaiginjo": true,
+        "ginjoFamily": true,
+        "daiginjoFamily": true,
+        "aged": null,
+        "tokuteiMeishoshu": "純米大吟醸酒",
+        "junmai": true,
+        "nonJunmai": false,
+        "kimoto": true,
+        "yamahai": null,
+        "nama": null,
+        "hiire": null,
+        "nigori": null,
+        "sparkling": null,
+        "genshu": null,
+        "muroka": null
+      },
+      "specs": {
+        "ingredients": [],
+        "riceVariety": [
+          "山田錦"
+        ],
+        "riceOrigin": null,
+        "riceByRole": null,
+        "polishingRatio": "40%",
+        "polishingByRole": null,
+        "alcoholPercentage": 16,
+        "nihonshudo": 2,
+        "acidity": null,
+        "aminoAcidValue": null,
+        "yeast": null,
+        "waterSource": null,
+        "kojiMold": null,
+        "agingPeriod": null,
+        "agingTemperature": null
+      },
+      "temperatures": [],
+      "notes": "保存済み商品単位の出典・分類・味・温度・公式/編集料理の分離を確認。不明値は推測しない。",
+      "featureEvidenceComplete": true,
+      "previousAudit": "SAVED_EVIDENCE_STRUCTURE_AUDIT_NOT_FULL_WEB_RECHECK",
+      "unfilledSpecFields": [
+        "ingredients",
+        "riceOrigin",
+        "riceByRole",
+        "polishingByRole",
+        "acidity",
+        "aminoAcidValue",
+        "yeast",
+        "waterSource",
+        "kojiMold",
+        "agingPeriod",
+        "agingTemperature"
+      ]
+    },
+    {
+      "sakeId": "hakuinmasamune-karakuchi-junmai-standard",
+      "name": "白隠正宗 辛口純米酒",
+      "qualityReview": "SAVED_PHASE25_OFFICIAL_EVIDENCE_REUSED",
+      "verifiedAt": "2026-10-14",
+      "sources": [
+        {
+          "url": "https://www.hakuinmasamune.com/",
+          "type": "breweryOfficial",
+          "scope": "product",
+          "name": "白隠正宗 辛口純米酒",
+          "verifiedAt": "2026-10-13"
+        }
+      ],
+      "classification": {
+        "ginjo": false,
+        "junmaiGinjo": false,
+        "daiginjo": false,
+        "junmaiDaiginjo": false,
+        "ginjoFamily": false,
+        "daiginjoFamily": false,
+        "aged": null,
+        "tokuteiMeishoshu": "純米酒",
+        "junmai": true,
+        "nonJunmai": false,
+        "kimoto": null,
+        "yamahai": null,
+        "nama": null,
+        "hiire": null,
+        "nigori": null,
+        "sparkling": null,
+        "genshu": null,
+        "muroka": null
+      },
+      "specs": {
+        "ingredients": [],
+        "riceVariety": [
+          "令和誉富士または山田錦"
+        ],
+        "riceOrigin": null,
+        "riceByRole": null,
+        "polishingRatio": "65%",
+        "polishingByRole": null,
+        "alcoholPercentage": 15,
+        "nihonshudo": null,
+        "acidity": null,
+        "aminoAcidValue": null,
+        "yeast": null,
+        "waterSource": null,
+        "kojiMold": null,
+        "agingPeriod": null,
+        "agingTemperature": null
+      },
+      "temperatures": [],
+      "notes": "保存済み商品単位の出典・分類・味・温度・公式/編集料理の分離を確認。不明値は推測しない。",
+      "featureEvidenceComplete": true,
+      "previousAudit": "SAVED_EVIDENCE_STRUCTURE_AUDIT_NOT_FULL_WEB_RECHECK",
+      "unfilledSpecFields": [
+        "ingredients",
+        "riceOrigin",
+        "riceByRole",
+        "polishingByRole",
+        "nihonshudo",
+        "acidity",
+        "aminoAcidValue",
+        "yeast",
+        "waterSource",
+        "kojiMold",
+        "agingPeriod",
+        "agingTemperature"
+      ]
+    }
+  ]
+}

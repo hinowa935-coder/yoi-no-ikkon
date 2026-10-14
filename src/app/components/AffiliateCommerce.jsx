@@ -36,7 +36,7 @@ export function PurchaseDiscoveryLinks({ links, showNote = true }) {
   return <div className="purchase-discovery-links">
     <div className="purchase-search-list">{links.map(link => <AffiliateTracker key={`${link.provider}:${link.url}`} offer={link}>
       <a href={link.url} target="_blank" rel="noopener" className={link.destinationType === "product_page" ? "yoi-button" : "text-link"}>{purchaseLabel(link)} ↗</a>
-      {link.matchType === "variant" && <p className="offer-capacity">容量違い{link.capacityMl ? ` / ${link.capacityMl}ml` : ""}</p>}
+      {(link.capacityMl||link.matchType === "variant") && <p className="offer-capacity">{link.matchType==='variant'?'容量違い / ':''}{link.capacityMl?`${link.capacityMl}ml`:''}</p>}
     </AffiliateTracker>)}</div>
     {showNote && <p className="muted-copy purchase-discovery-note">外部サイトへ移動します。{links.some(l => l.destinationType === "search_results") && "検索結果には別の仕様のお酒も含まれます。"}商品名・年度・容量・価格・在庫はリンク先でご確認ください。</p>}
   </div>;

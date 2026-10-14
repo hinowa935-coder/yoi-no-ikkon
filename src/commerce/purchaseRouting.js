@@ -53,7 +53,7 @@ const order = (a, b) => rank(a) - rank(b) || storeRank(a) - storeRank(b);
 export function selectPurchaseLinks(item, { offers = [], normalProducts = [], discoveryLinks = [], stagedStatuses = {} } = {}, now = Date.now()) {
   const normal = [
     ...normalProducts.filter(l => l.affiliate === false).map(l => ({ sakeId: item.id, provider: storeOf(l),
-      url: l.href, label: l.label, isAffiliate: false, destinationType: "product_page" })),
+      url: l.href, label: l.label, capacityMl:l.capacityMl||null, isAffiliate: false, destinationType: "product_page" })),
     ...discoveryLinks.filter(l => l.isAffiliate === false),
   ].filter(l => ordinaryUrlIsSafe(l.url) && (!l.validUntil || Date.parse(l.validUntil) > now)).sort(order);
   const active = offers.filter(o => o.isAffiliate === true && (!o.affiliateStatus || o.affiliateStatus === "ACTIVE") && Date.parse(o.validUntil) > now).sort(order);

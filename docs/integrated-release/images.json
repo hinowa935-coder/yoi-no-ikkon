@@ -1,0 +1,1851 @@
+{
+  "checkedAt": "2026-10-14T12:42:39.347Z",
+  "method": "HEAD to original official creative image URL; no image body downloaded or rewritten",
+  "checked": 307,
+  "success": 307,
+  "unconfirmed": 0,
+  "rows": [
+    {
+      "sakeId": "shichida-junmai",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "kubota-senju",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "zaku-miyabi-no-tomo",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "dassai-23",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "chiebijin-junmai",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "dewazakura-oka-ginjo",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "born-gold",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "dassai-45",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "otokoyama-kimoto-junmai",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "kai-no-kaiun-i9dko8",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "amanosake-hlztnu",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "gassan-id2kl5",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "bijofu-ul4nol",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "ayanishiki-i3yidq",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "dassai-45-1",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "ayakiku-uc9ijh-4",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "bijofu-ul4nol-3",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "harushika-chokarakuchi-junmai",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "chitosetsuru-junmai-ginjo-kitashizuku-v1",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "buyu-karakuchi-junmai-v1",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "sasaichi-yata-junmai-daiginjo-v1",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "fudo-ichido-hiire-junmai-daiginjo-v1",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "kurawanka-junmai-usunigori-v1",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "koshino-kanbai-white-label",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "chikumanishiki-karakuchi-tokubetsu-junmai-v1",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "hatsumiyo-honjozo-v1",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "akaiwaomachi-junmai-daiginjo-standard-v1",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "nogomi-tokubetsu-junmai",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "koimari-saki",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "azumaichi-junmai-ginjo",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "niwa-no-uguisu-junmai-ginjo",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "miinokotobuki-junmai-ginjo",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "sasshu-masamune-junmai",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "denshu-tokubetsu-junmai",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "mutsu-hassen-red-label",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "akabu-junmai",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "nanbu-bijin-tokubetsu-junmai",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "ippaku-suissei-tokubetsu-junmai",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "sharaku-junmai-ginjo",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "aizu-chujo-junmai",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "hakurakusei-tokubetsu-junmai",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "kenkonichi-tokubetsu-junmai",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "hakkaisan-tokubetsu-honjozo",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "shimeharitsuru-tsuki",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "oze-no-yukidoke-junmai-daiginjo",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "gokeiji-junmai-ginjo",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "masumi-karakuchi-kiippon",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "yoakemae-tatsuno-junmai",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "jozan-junmai",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "tedorigawa-yamahai-junmai",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "kikuhime-yamahai-junmai",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "tengumai-yamahai-junmai",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "gikyo-tokubetsu-junmai",
+      "status": 200,
+      "type": "image/png",
+      "error": null
+    },
+    {
+      "sakeId": "houraisen-wa-junmai-ginjo",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "iso-jiman-honjozo",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "umenoyado-junmai",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "kid-junmai-ginjo",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "ugonotsuki-junmai-ginjo",
+      "status": 200,
+      "type": "image/png",
+      "error": null
+    },
+    {
+      "sakeId": "kamo-kinshu-tokubetsu-junmai",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "suigei-tokubetsu-junmai",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "hirotogawa-tokubetsu-junmai",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "tenbi-junmai-ginjo",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "tsuchida-kimoto",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "kachikoma-modern-premium",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "juyondai-modern-premium",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "kokushi-muso-junmai",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "fukutsukasa-junmai",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "gohou-junmai",
+      "status": 200,
+      "type": "image/png",
+      "error": null
+    },
+    {
+      "sakeId": "hato-masamune-tw2kq6",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "momokawa-tw2kq6",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "asahibaki-iaxjez",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "hamachidori-iaxjez",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "atago-no-matsu-i3yhce",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "urakasumi-i3yhce",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "suminoe-i3yhce",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "miyakanbai-i3yhce",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "mansaku-no-hana-o23n5c",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "kudoki-jozu-i9diua",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "jokigen-i9diua",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "yamagata-masamune-i9diua",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "wataribune-pwohce",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "shichisui-kjnkdk",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "ruka-p7oucs",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "tanigawadake-p7oucs",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "kinoene-gg3q4p",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "kidoizumi-gg3q4p",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "sawanoi-kflfjg",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "kasen-kflfjg",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "tamajiman-kflfjg",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "izumibashi-nz2hmwijh",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "zarusou-hourai-nz2hmwijh",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "matsu-midori-nz2hmwijh",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "hakoneyama-nz2hmwijh",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "tateyama-i4si9d",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "jokigen-ishikawa-nozijh",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "kagatobi-nozijh",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "ippongi-o0ffit",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "hanagaki-o0ffit",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "shunnoten-i9dko8",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "michisakari-ia8tng",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "nito-j6jnol",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "shichihonyari-lvvrsw",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "matsu-no-tsukasa-lvvrsw",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "kirakucho-lvvrsw",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "eikun-kyoto-fjg",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "tsuki-no-katsura-fjg",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "goshun-hlztnu",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "katano-sakura-hlztnu",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "kiku-masamune-g39ip7",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "hakutsuru-g39ip7",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "harushika-hmwprj",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "kuroushi-gp8l70i9d",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "minakata-gp8l70i9d",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "chiyomusubi-uzpgk6",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "suwaizumi-uzpgk6",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "sanzen-iapi9d",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "kamikokoro-iapi9d",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "harada-i9dgkj",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "narutotai-iwjid2",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "gotenzakura-iwjid2",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "kinryo-uc9ijh",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "yamatan-masamune-j6jhwb",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "umenishiki-j6jhwb",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "kyohina-j6jhwb",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "sukigokoro-j6jhwb",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "shigemasu-o0fiap",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "asahigiku-o0fiap",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "kinokawa-tividq",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "koro-mfekdo",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "zuiyo-mfekdo",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "nishinoseki-hlzg7a",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "yatsushika-hlzg7a",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "senbazuru-hlzg7a",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "sentoku-i3yidq",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "hanakagura-i3yidq",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "tenbu-vb3g28id2",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "satsumaji-vb3g28id2",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "tenbu-junmai-daiginjo",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "denshu-tokubetsu-junmai-1",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "houhai-junmai-ginjo-3",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "asahibaki-iaxjez-3",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "hakurakusei-tokubetsu-junmai-1",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "shinkame-hdomtl-3",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "kikko-hanabishi-hdomtl-4",
+      "status": 200,
+      "type": "image/png",
+      "error": null
+    },
+    {
+      "sakeId": "kinoene-gg3q4p-2",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "kinkon-kflfjg-2",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "kasen-kflfjg-4",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "hakkaisan-tokubetsu-honjozo-1",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "kubota-senju-2",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "kachikoma-junmai-3",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "maboroshi-no-taki-junmai-ginjo-standard",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "tengumai-yamahai-junmai-3",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "jokigen-ishikawa-nozijh-4",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "kokuryu-junmai-ginjo-1",
+      "status": 200,
+      "type": "image/png",
+      "error": null
+    },
+    {
+      "sakeId": "born-gold-2",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "ippongi-o0ffit-4",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "shunnoten-i9dko8-2",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "tanizakura-i9dko8-3",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "masumi-karakuchi-kiippon-1",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "kawanakajima-genmai-junmai-ginjo-4",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "kaiun-tokubetsu-junmai-2",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "eikun-junmai-ginjo-4",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "zaku-miyabi-no-tomo-2",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "furosen-lvvrsw-1",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "shichihonyari-lvvrsw-2",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "sawaya-matsumoto-shuhari-1",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "okuharima-yamahai-junmai-1",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "sensuke-junmai-ginjo-3",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "kid-junmai-ginjo-1",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "chiyomusubi-uzpgk6-3",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "sanzen-iapi9d-1",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "taiten-shiragiku-iapi9d-5",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "ugonotsuki-junmai-ginjo-1",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "kinryo-uc9ijh-3",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "ishizuchi-junmai-ginjo-1",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "yamatan-masamune-j6jhwb-2",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "kyohina-j6jhwb-5",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "miinokotobuki-junmai-ginjo-4",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "nogomi-tokubetsu-junmai-1",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "yokoyama-tividq-2",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "otokoyama-fukkoshu",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "tatenokawa-seiryu",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "tatenokawa-kyuryu",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "gunmaizumi-yamahai-junmai",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "kanhokuto-tokubetsu-junmai",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "hiraizumi-yamahai-tokubetsu-junmai-v1",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "hiraizumi-jukusei-yamahai-junmai-v1",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "morinokura-junmai-v1",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "komagura-haruka-gonen-junmai-koshu-v1",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "kinteki-junmai-ginjo-v1",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "ishizuchi-junmai-ginjo-yamadanishiki50-v1",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "tenbu-junmai-v1",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "ganki-hitotsubi-junmai-v1",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "gakki-masamune-honjozo-nakadori-v1",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "shizengo-tokubetsu-junmai-v1",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "nito-junmai-ginjo-yamadanishiki55-v1",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "eikun-tokubetsu-junmai-homarefuji-v1",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "otokoyama-kuniyoshinona-v1",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "roman-junmai-ginjo-ichikai-hiire-2025by-v1",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "michizakura-junmai-rclass-v1",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "hououbiden-tsurugi-hiire-v1",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "morishima-miyamanishiki-junmai-ginjo-hiire-v1",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "sugata-kire-tokubetsu-junmai-v1",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "ryozeki-junmai-ginjo-v1",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "hanzo-tokubetsu-junmai-karakuchi-v1",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "rokujuyoshu-junmai-ginjo-yamadanishiki-v1",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "fukutsuru-junmai-ginjo-v1",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "hatsukame-karakara-beppin-v1",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "haneya-kirabi-nama-genshu-v1",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "miyozakura-leaf-junmai-ginjo-v1",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "niseko-suisei-junmai-ginjo-hiire-v1",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "sagaminada-tokubetsu-junmai-karakuchi-hiire-v1",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "gozenshu-junmai-mimasaka-v1",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "shidaizumi-junmai-ginjo-yaizu-shumai-2026-v1",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "kawatsuru-junmai-ooseto-hiire-v1",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "umenishiki-ginjo-tsuunosake-v1",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "suigei-junmai-daiginjo-hyogo-yamadanishiki50-v1",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "iyo-kagiya-junmai-aka-label-v1",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "seiryozen-tokubetsu-junmai-the-plains-v1",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "niwanouguisu-tokubetsu-junmai-standard-v1",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "niwanouguisu-junmai-ginjo-nuruhada-v1",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "takakiya-karakuchi-tokubetsu-junmai-v1",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "tonbo-tokubetsu-junmai-standard-v1",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "kitanonishiki-maruta-tokubetsu-junmai-v1",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "shosetsu-junmai-ginjo-yamadanishiki-standard-v1",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "minami-junmai-ginjo-matsuyamamitsui-standard-v1",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "houraisen-bi-junmai-daiginjo-standard-v1",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "takijiman-hayase-karakuchi-junmai-v1",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "nanbubijin-junmai-daiginjo-sakemirai-standard-v1",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "sogen-notonokuni-junmai-standard-v1",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "sogen-genshin-junmai-daiginjo-standard-v1",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "houken-junmai-hattannishiki-green-v1",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "houken-junmai-ginjo-hattannishiki-standard-v1",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "kokuryu-icchorai-jungin-standard-v1",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "sawanoi-junmai-daikarakuchi-standard-v1",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "sagaminada-junmai-ginjo-miyamanishiki-standard-v1",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "toyobijin-junmai-ginjo-50-standard-v1",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "tenmei-orange-funashibori-junmai-hiire-standard-v1",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "hiran-nikomaru-hiire-standard-v1",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "shinomine-takeyama-junmai-yamadanishiki-chokarakuchi-hiire-v1",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "shinomine-rinrin-setoomachi-junmai-ginjo-muroka-nama-genshu-v1",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "tenon-junmai-standard-ichikai-hiire-v1",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "tosa-shiragiku-zankara-tokubetsu-junmai-standard-v1",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "housui-tokubetsu-junmai-standard-v1",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "hitakami-sakana-label-tokubetsu-junmai-hiire-v1",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "hitakami-chokarakuchi-junmai-standard-v1",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "kenkonichi-chokarakuchi-junmai-ginjo-genshu-hiire-v1",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "taiten-shiragiku-junmai-shiragiku-standard-v1",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "hourai-junmai-ginjo-kaden-tezukuri-v1",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "kawanakajima-tokubetsu-junmai-standard-v1",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "kirari-junmai-genshu-hiire-standard-v1",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "takachiyo-karakuchi-junmai-miyamanishiki-plus19-hiire-v1",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "jikon-junmai-ginjo-yamadanishiki-hiire-standard-v1",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "jikon-junmai-ginjo-omachi-hiire-standard-v1",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "kankiku-ocean99-toumi-arrival-hiire-v1",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "kasen-maboroshi-no-sake-tokubetsu-honjozo-standard-v1",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "banshu-ikkon-junmai-chokarakuchi-hiire-v1",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "akishika-junmai-inaho-yamadanishiki-75-v1",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "yorokobi-gaijin-tezukuri-junmai-hiire-standard-v1",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "aramasa-no6-r-type-nama-standard-v1",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "aramasa-viridian-hiire-standard-v1",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "yui-omachi-junmai-ginjo-chokarakuchi-raifuku-v1",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "kirei-banjisakazukinonaka-junmai-hiire-v1",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "hokuan-daikoku-junmai70-v1",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "sakuta-tokubetsu-junmai-keiyaku-v1",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "goshun-honmaru-honjozo-v1",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "zuiyo-honjozo-chokarakuchi-v1",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "narutotai-junmai-tomoe-v1",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "tenryo-tobikiri-tokubetsu-junmai",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "sanshoraku-junmai-standard",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "ichinokura-tokubetsu-junmai-karakuchi",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "daishichi-junmai-kimoto-standard",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "jozen-mizunogotoshi-junmai-ginjo-standard",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "okunomatsu-tokubetsu-junmai-standard",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "ranman-junmai-managudako-standard",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "tamanohikari-junmai-ginjo-shukon-standard",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "kunimare-tokubetsu-junmai-standard",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "kamotsuru-chotokusem-tokuto-tokubetsu-honjozo",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "gekkeikan-horin-junmai-daiginjo-standard",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "kunizakari-handago-junmai-ginjo-1801",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "hakutaka-kinmatsu-tokubetsu-junmai",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "sawanotsuru-junmai-yamadanishiki-standard",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "shiramayumi-tokubetsu-junmai-hidahomare-standard",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "ozeki-tokusen-tokubetsu-junmai-yamadanishiki-standard",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "tsukasabotan-niyodo-blue-junmai-standard",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "kikusui-funaguchi-honjozo-nama-genshu-standard",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "gokyo-junmai-standard",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "suishin-inaho-junmai-ginjo-standard",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "nihonsakari-souhana-junmai-ginjo-standard",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "shirayuki-josen-junmai-standard",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "gazan-junmai-daiginjo-standard",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "nichiei-junmai-ginjo-ishikawamon-standard",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "kinpai-junmai-yokozuna-standard",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "umebijin-junmai-ginjo-sakurahime-standard",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "ohyama-tokubetsu-junmai-tomizu-standard",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "hideyoshi-junmai-standard",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "toyonoaki-junmai-ginjo-matsuezukushi-standard",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "warakugoson-junmai-ginjo-standard",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "mushohai-junmai-ginjo-standard",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "kagatsuru-junmai-josen-standard",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "denyu-tokubetsu-junmai-standard",
+      "status": 200,
+      "type": "image/png",
+      "error": null
+    },
+    {
+      "sakeId": "taiheizan-tenko-junmai-daiginjo-standard",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "hakuinmasamune-karakuchi-junmai-standard",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "sohomare-kimoto-tokubetsu-junmai",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "choryo-yoshinosugi-tarusake-standard",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "shoutoku-karaku-tokubetsu-junmai-karakuchi-genshu-standard",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    },
+    {
+      "sakeId": "taisetsunokura-junmai-standard",
+      "status": 200,
+      "type": "image/jpeg",
+      "error": null
+    }
+  ]
+}

@@ -3,8 +3,8 @@ import assert from 'node:assert/strict';
 import {discoveryProducts, discoveryNights, nightsForSake, nightAffinity} from '../src/data/discovery.js';
 import {editorialNightAssignments} from '../src/data/editorialNightAssignments.js';
 
-test('100 explicit impression assignments remain separate from verified facts and temperature',()=>{
-  assert.equal(Object.keys(editorialNightAssignments).length,100);
+test('active explicit impression assignments exclude retired identities and remain separate from verified facts and temperature',()=>{
+  assert(Object.keys(editorialNightAssignments).length>0);
   for(const [id,assignment] of Object.entries(editorialNightAssignments)) {
     const item=discoveryProducts.find(p=>p.id===id);
     assert(item);

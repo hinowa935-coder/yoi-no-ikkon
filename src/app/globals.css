@@ -360,5 +360,33 @@ main.min-h-screen::after {
 .product-window.is-compact .product-window-stage > svg { width: 32px; height: 32px; }
 .product-window.is-compact figcaption { min-height: 22px; font-size: 10px; padding: 4px 0 0; }
 .discovery-sake h3 a { display: block; }
+.product-window.is-placeholder:not(.is-compact) { display: flex; align-items: center; gap: 14px; width: min(100%, 560px); min-height: 96px; }
+.product-window.is-placeholder:not(.is-compact) .product-window-stage { flex: 0 0 52px; height: 52px; background: transparent; }
+.product-window.is-placeholder:not(.is-compact) figcaption { min-height: 0; padding: 4px 0; }
+.product-window.is-compact figcaption a { display: block; color: var(--gold, #c7ad68); font-size: 11px; line-height: 1.5; padding-top: 5px; }
+.sake-detail-link { display: inline-flex; min-height: 44px; align-items: center; clear: both; }
+.discovery-context { margin: 12px 0; padding: 14px 0; border-block: 1px solid #f8f0df28; }
+.discovery-context p { margin: 5px 0; }
+@media (max-width: 600px) {
+  .search-page { padding-top: 16px; }
+  .search-page > .section-kicker { margin-bottom: 6px; }
+  .discovery-shell .search-page > h1.phrase-heading { font-size: 26px; line-height: 1.4; margin: 8px 0 12px; }
+  .search-page .search-keyword { margin: 12px 0; }
+  .search-page .search-keyword input { min-height: 44px; padding: 10px 12px; }
+  .search-page .temperature-shortcuts { margin-block: 8px; }
+  .search-page .search-filters { padding-block: 6px; }
+  .search-page .search-filters > summary { padding-block: 4px; }
+  .search-page .active-search-conditions { margin-block: 8px; }
+  .search-page .search-filters summary .filter-overview { display: none; }
+  .search-page .search-sort label { margin: 10px 0; }
+  .search-page .search-toolbar { margin: 12px 0; }
+}
+@media (max-width: 360px) {
+  .discovery-sake { padding: 14px; }
+  .discovery-sake .product-window.is-compact { float: none; margin: 8px 0 12px; width: 108px; }
+  .discovery-sake .sake-intro { clear: both; }
+  .search-toolbar .saved-toggle { width: 100%; }
+  .product-window.is-placeholder:not(.is-compact) { gap: 8px; padding: 10px; }
+}
 .purchase-provider { padding: 12px 0; }
 .purchase-provider.is-rakuten { border-left: 2px solid #b9a160; padding-left: 14px; }

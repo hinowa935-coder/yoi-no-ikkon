@@ -15,6 +15,9 @@ import { editorialNightAssignments, editorialNightNote } from '../../../data/edi
 import { commerceForSake } from "../../../commerce/server.js";
 import { ProductLabelImage, PurchaseOptions } from "../../components/AffiliateCommerce.jsx";
 import ProductWindow from '../../components/ProductWindow.jsx';
+import {Suspense} from 'react';
+import SakeDiscoveryContext from '../../components/SakeDiscoveryContext.jsx';
+import merchantAudit from '../../../commerce/generated/merchant-links.json';
 
 export function generateStaticParams() {
   return [...new Set([...visibleSakePairings.map(i => i.id), ...legacyReferences.map(e => e.legacyId)])].map(slug => ({ slug }));
@@ -54,6 +57,7 @@ export default async function SakePage({ params }) {
     <section className="sake-detail-hero">
       <p className="section-kicker">{item.prefecture}</p><h1>{item.productName}</h1>
       <p className="muted-copy">{item.brewery} / {item.prefecture}</p>
+      <Suspense fallback={null}><SakeDiscoveryContext item={item} /></Suspense>
       {commerce.image ? <ProductLabelImage image={commerce.image} /> : <ProductWindow item={item} />}
       <div className="detail-actions"><FavoriteButton id={item.id} /><ShareButton title={`${item.productName}｜${SITE_NAME}`} text="今夜の料理に合わせたい一献。" path={`/sake/${item.id}`} eventName="share_sake" /></div>
     </section>
@@ -72,11 +76,11 @@ export default async function SakePage({ params }) {
     <section className="detail-band brewery-information" aria-labelledby="sake-brewery">
       <h2 id="sake-brewery">蔵元について</h2><h3 className="brewery-title">{item.brewery}</h3>
       {item.prefecture && <p className="muted-copy">所在地（都道府県）：{item.prefecture}</p>}
-      <div className="resource-links">{links.map(link => <TrackedExternalLink key={link.href} href={link.href} className="text-link" event="official_link_click" parameters={{ sake_id: item.id }}>{link.label === "蔵元公式サイト" ? "公式サイトを見る" : link.label} ↗</TrackedExternalLink>)}</div>
+      <div className="resource-links">{links.map(link => <TrackedExternalLink key={link.href} href={link.href} className="text-link" event="official_link_click" parameters={{ sake_id: item.id }}>{merchantAudit.records[item.id]?.type==='E'&&merchantAudit.records[item.id]?.originalUrl===link.href?'出典・参考を見る':link.label === "蔵元公式サイト" ? "公式サイトを見る" : link.label} ↗</TrackedExternalLink>)}</div>
       <details className="source-details"><summary>商品情報の出典</summary><ul>{r.sources.map((source, i) => <li key={`${source.url}:${i}`}><TrackedExternalLink href={source.url} event="source_opened" className="text-link">{source.type === "breweryOfficial" ? "蔵元公式" : "専門資料"}：{publicSourceName(source, item.productName)} ↗</TrackedExternalLink></li>)}</ul></details>
     </section>
     <section className="detail-band sake-pairings" aria-labelledby="sake-pairings">
-      <p className="section-kicker">このお酒と食べたいもの</p><h2 id="sake-pairings">{dishes[0] ? `今夜なら、${dishes[0].name}と。` : "料理から、もうひとつの出会いを。"}</h2>
+      <p className="section-kicker">このお酒と食べたいもの</p><Suspense fallback={<h2 id="sake-pairings">{dishes[0] ? `今夜なら、${dishes[0].name}と。` : "料理から、もうひとつの出会いを。"}</h2>}><SakeDiscoveryContext item={item} placement="pairing" fallback={<h2 id="sake-pairings">{dishes[0] ? `今夜なら、${dishes[0].name}と。` : "料理から、もうひとつの出会いを。"}</h2>} /></Suspense>
       <div className="reverse-dish-grid">{dishes.map(d => <article key={d.name}><h3><Link href={`/food/${toPathSegment(d.name)}`}><span>{d.name}</span><ChevronRight /></Link></h3><p>{d.reason}</p><small>宵の一献の提案</small></article>)}</div>
       {!dishes.length && <PairingPending />}
       {r.officialPairings.length > 0 && <div className="official-pairings"><h3>蔵元が紹介する組み合わせ</h3><p>{r.officialPairings.join("、")}</p></div>}

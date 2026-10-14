@@ -1,0 +1,42 @@
+{
+  "checkedAt": "2026-10-14T12:41:53.216Z",
+  "products": 492,
+  "newProducts": 45,
+  "unchangedProducts": 447,
+  "prefectures": 46,
+  "retiredActiveProducts": 0,
+  "preserved": {
+    "src/commerce/generated/purchase-matches.json": 283,
+    "src/commerce/generated/product-media.json": 268,
+    "src/commerce/generated/commerce-final-approvals.json": 268
+  },
+  "direct": 315,
+  "images": 307,
+  "pairingsAudited": 139728,
+  "pairingFlags": [
+    {
+      "sakeId": "gazan-junmai-daiginjo-standard",
+      "dish": "刺身",
+      "reason": "刺身の食卓に、芳醇な香りと米の旨味を添える組み合わせです。蔵元の鯛の昆布締めとの提案を手がかりに、宵の一献では刺身を選びました。",
+      "mentionedDishes": [
+        "昆布締め"
+      ]
+    }
+  ],
+  "oldUrlsHandled": 45,
+  "favoritePolicy": "archived identity retained; no automatic replacement",
+  "rankingPolicy": "no commerce imports or commerce score sorting added",
+  "pairingFlagReview": [
+    {
+      "sakeId": "gazan-junmai-daiginjo-standard",
+      "dish": "刺身",
+      "reason": "刺身の食卓に、芳醇な香りと米の旨味を添える組み合わせです。蔵元の鯛の昆布締めとの提案を手がかりに、宵の一献では刺身を選びました。",
+      "mentionedDishes": [
+        "昆布締め"
+      ],
+      "decision": "KEEP",
+      "reasonForDecision": "元料理を蔵元の提案と明示し、刺身は編集提案として区別している。別料理の取り違えではない。"
+    }
+  ],
+  "status": "PASS"
+}

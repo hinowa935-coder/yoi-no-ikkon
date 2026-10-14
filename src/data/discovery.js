@@ -45,7 +45,8 @@ function officialMatch(item, dish) {
     [/豆腐料理/, /豆腐|冷奴|厚揚げ/],
     [/焼き魚/, /焼き鯖|塩焼き|焼き鮭/],
   ];
-  const name = item.officialPairings.find(pair => categories.some(([pairRe, dishRe]) => pairRe.test(pair) && dishRe.test(dish.name)));
+  const broadCategories=new Set(['魚料理','魚介料理','肉料理','揚げ物','煮物','豆腐料理','焼き魚']);
+  const name = item.officialPairings.find(pair => broadCategories.has(pair)&&categories.some(([pairRe, dishRe]) => pairRe.test(pair) && dishRe.test(dish.name)));
   return name ? { name, exact: false } : null;
 }
 export function scorePairing(item, dishName, nightId = "ordinary") {
