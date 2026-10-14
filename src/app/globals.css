@@ -347,3 +347,17 @@ main.min-h-screen::after {
 @media (max-width: 359px) {
   .discovery-hero h1 { font-size: 24px; }
 }
+
+.product-window { width: min(100%, 320px); margin: 24px auto; padding: 12px; border: 1px solid #8e8058; border-radius: 6px; background: #101b2b; box-shadow: 0 4px 12px #0002; }
+.product-window-stage { height: 264px; display: grid; place-items: center; background: #eeefec; border-radius: 2px; }
+.product-window-stage > svg { width: 48px; height: 48px; color: #757665; }
+.product-window-stage img { display: block; max-width: none; object-fit: contain; }
+.product-window figcaption { min-height: 76px; padding: 12px 2px 2px; font-family: sans-serif; font-size: 12px; line-height: 1.7; }
+.product-window figcaption strong, .product-window figcaption span { display: block; }
+.product-window figcaption span { margin-top: 4px; color: #c6c6be; }
+.product-window.is-compact { float: right; width: 108px; margin: 4px 0 12px 16px; padding: 7px; }
+.product-window.is-compact .product-window-stage { height: 88px; }
+.product-window.is-compact .product-window-stage > svg { width: 32px; height: 32px; }
+.product-window.is-compact figcaption { min-height: 22px; font-size: 10px; padding: 4px 0 0; }
+.purchase-provider { padding: 12px 0; }
+.purchase-provider.is-rakuten { border-left: 2px solid #b9a160; padding-left: 14px; }

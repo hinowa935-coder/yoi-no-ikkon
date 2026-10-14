@@ -4,11 +4,13 @@ import TrackedLink from "./TrackedLink.jsx";
 import { buildSakeFeatureTags, buildSakeListSummary, buildSakeLocation } from "../../data/siteData.js";
 import {temperatureLabels} from '../../data/temperatureUX.js';
 import { editorialNightAssignments, editorialNightNote } from '../../data/editorialNightAssignments.js';
+import ProductWindow from './ProductWindow.jsx';
 
 export default function DiscoverySakeCard({ item, reason, dishes = [] }) {
   const temperature=temperatureLabels(item.temperature).slice(0,2).join('、');
   return <article className="discovery-sake">
     <div className="sake-card-top"><p>{buildSakeLocation(item)}</p><FavoriteButton id={item.id} compact /></div>
+    <ProductWindow item={item} compact />
     <h3><TrackedLink href={`/sake/${item.id}`} event="sake_opened" parameters={{sake_id:item.id}}>{item.productName}</TrackedLink></h3>
     <p className="sake-intro">{buildSakeListSummary(item)}</p><ul className="feature-tags">{buildSakeFeatureTags(item,3).map(tag=><li key={tag}>{tag}</li>)}</ul>
     {reason && <div className="pairing-reason"><span>宵の一献の提案</span><p>{reason}</p></div>}

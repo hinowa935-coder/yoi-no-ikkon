@@ -11,13 +11,17 @@ import PairingPending from "./PairingPending.jsx";
 import {temperatureLabels,temperatureOptions,temperatureGroups} from '../../data/temperatureUX.js';
 import {matchesSearch,sortSearch} from '../../data/searchFiltering.js';
 import { editorialNightAssignments, editorialNightNote } from '../../data/editorialNightAssignments.js';
+import ProductWindow from './ProductWindow.jsx';
+import purchaseMatches from '../../commerce/generated/purchase-matches.json';
 
 export function SearchCard({ item }) {
   const dishes = dishesForSake(item);
   const links = buildResourceLinks(item);
-  const purchase = buildPurchaseLinks(item);
+  const purchase = buildPurchaseLinks(item).filter(l=>!l.href.includes('shopping.yahoo.co.jp')&&
+    (!l.href.includes('item.rakuten.co.jp')||purchaseMatches[item.id]?.directLinkAllowed===true));
   return <article className="discovery-sake">
     <div className="sake-card-top"><p>{buildSakeLocation(item)}</p><FavoriteButton id={item.id} compact /></div>
+    <ProductWindow item={item} compact />
     <h3><TrackedLink href={`/sake/${item.id}`} event="sake_opened" parameters={{ sake_id: item.id }}>{item.productName}</TrackedLink></h3>
     <p className="sake-intro">{buildSakeListSummary(item)}</p>
     <ul className="feature-tags">{buildSakeFeatureTags(item, 3).map(tag => <li key={tag}>{tag}</li>)}</ul>

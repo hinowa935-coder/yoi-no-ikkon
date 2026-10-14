@@ -14,6 +14,7 @@ import { dishesForSake, nightsForSake } from "../../../data/discovery.js";
 import { editorialNightAssignments, editorialNightNote } from '../../../data/editorialNightAssignments.js';
 import { commerceForSake } from "../../../commerce/server.js";
 import { ProductLabelImage, PurchaseOptions } from "../../components/AffiliateCommerce.jsx";
+import ProductWindow from '../../components/ProductWindow.jsx';
 
 export function generateStaticParams() {
   return [...new Set([...visibleSakePairings.map(i => i.id), ...legacyReferences.map(e => e.legacyId)])].map(slug => ({ slug }));
@@ -52,7 +53,8 @@ export default async function SakePage({ params }) {
     <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd).replaceAll("<", "\\u003c") }} />
     <section className="sake-detail-hero">
       <p className="section-kicker">{item.prefecture}</p><h1>{item.productName}</h1>
-      <ProductLabelImage image={commerce.image} />
+      <p className="muted-copy">{item.brewery} / {item.prefecture}</p>
+      {commerce.image ? <ProductLabelImage image={commerce.image} /> : <ProductWindow item={item} />}
       <div className="detail-actions"><FavoriteButton id={item.id} /><ShareButton title={`${item.productName}｜${SITE_NAME}`} text="今夜の料理に合わせたい一献。" path={`/sake/${item.id}`} eventName="share_sake" /></div>
     </section>
     <section className="detail-band sake-overview" aria-labelledby="sake-about">
@@ -64,8 +66,8 @@ export default async function SakePage({ params }) {
       {fields.length > 0 && <details className="specs-details"><summary>詳しい商品情報</summary><dl className="spec-table">{fields.map(([label, value]) => <div key={label}><dt>{label}</dt><dd>{value}</dd></div>)}</dl></details>}
     </section>
     <section className="detail-band purchase-discovery" aria-labelledby="sake-purchase">
-      <h2 id="sake-purchase">このお酒を探す</h2>
-      <PurchaseOptions offers={commerce.offers} links={commerce.discoveryLinks} />
+      <h2 id="sake-purchase">購入先</h2>
+      <PurchaseOptions offers={commerce.offers} links={commerce.discoveryLinks} item={item} />
     </section>
     <section className="detail-band brewery-information" aria-labelledby="sake-brewery">
       <h2 id="sake-brewery">蔵元について</h2><h3 className="brewery-title">{item.brewery}</h3>

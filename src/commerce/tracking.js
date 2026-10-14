@@ -1,4 +1,5 @@
 import { trackEvent } from "../data/telemetry.js";
+import {emitAffiliateClick} from './entryTracking.js';
 
 export function affiliateEvent(name, offer, emit = trackEvent) {
   if (!["affiliate_section_viewed", "affiliate_offer_clicked"].includes(name)) return;
@@ -10,7 +11,7 @@ export function affiliateEvent(name, offer, emit = trackEvent) {
     properties.matchType = offer.matchType;
   }
   if (offer.destinationType !== undefined) {
-    if (!["product_page", "search_results", "dealer_directory", "official_store", "retailer"].includes(offer.destinationType)) return;
+    if (!["product_page", "search_results", "dealer_directory", "official_store", "official_site", "retailer"].includes(offer.destinationType)) return;
     properties.destinationType = offer.destinationType;
   }
   if (typeof offer.isAffiliate === "boolean") properties.linkKind = offer.isAffiliate ? "affiliate" : "ordinary";
@@ -24,6 +25,7 @@ export function observeAffiliate(element, offer, emit = trackEvent) {
     if (!event.target.closest?.("a")) return;
     if (Date.parse(offer.validUntil) <= Date.now()) { event.preventDefault(); element.hidden = true; return; }
     affiliateEvent("affiliate_offer_clicked", offer, emit);
+    emitAffiliateClick(offer,emit);
   };
   element.addEventListener("click", click);
   element.addEventListener("auxclick", click);

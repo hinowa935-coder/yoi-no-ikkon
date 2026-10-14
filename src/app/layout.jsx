@@ -1,6 +1,8 @@
 import "./globals.css";
 import PwaRegister from "./components/PwaRegister";
 import { FavoritesProvider } from "./components/Ochoko.jsx";
+import CommerceMediaProvider from './components/CommerceMediaProvider.jsx';
+import {readCommerceConfig} from '../commerce/providers.js';
 
 export const metadata = {
   metadataBase: new URL("https://yoi-no-ikkon.vercel.app"),
@@ -67,10 +69,12 @@ export const viewport = {
 };
 
 export default function RootLayout({ children }) {
+  const commerce=readCommerceConfig(process.env);
+  const mediaEnabled=commerce.enabled&&commerce.enabledProviders.includes('rakuten')&&commerce.routes.rakuten==='rakuten'&&commerce.registeredSite==='https://yoi-no-ikkon.vercel.app/';
   return (
     <html lang="ja">
       <body>
-        <FavoritesProvider>{children}</FavoritesProvider>
+        <CommerceMediaProvider enabled={mediaEnabled}><FavoritesProvider>{children}</FavoritesProvider></CommerceMediaProvider>
         <PwaRegister />
       </body>
     </html>
