@@ -14,9 +14,10 @@ const matches=JSON.parse(fs.readFileSync('src/commerce/generated/purchase-matche
 const config={enabled:true,registeredSite:'https://yoi-no-ikkon.vercel.app/',enabledProviders:['rakuten'],routes:{rakuten:'rakuten'}};
 test('all approved images retain original tool HTML and the same product and capacity',()=>{
   assert(Object.keys(media).length>0);
-  assert.equal(Object.keys(media).length,Object.values(matches).filter(m=>m.directLinkAllowed).length);
+  assert(Object.keys(media).length<=Object.values(matches).filter(m=>m.directLinkAllowed).length);
   for(const [id,image]of Object.entries(media)) {
     const item=visibleSakePairings.find(p=>p.id===id);
+    assert.equal(matches[id].directLinkAllowed,true);
     assert(productMediaFor(item));assert.equal(sha256(image.html),image.originalSha256);
     let anchors=[],images=[];
     const visit=n=>{const a=Object.fromEntries((n.attrs||[]).map(p=>[p.name,p.value]));
@@ -32,6 +33,14 @@ test('all approved images retain original tool HTML and the same product and cap
     assert.equal(projectFinalCommerce(item,config).offer?.matchConfidence,'high');
     assert.equal(projectFinalCommerce({...item,productName:'different'},config).offer,null);
     assert.deepEqual(projectFinalCommerce({...item,productName:'different'},config).normal,[]);
+  }
+});
+
+test('confirmed normal direct links without official creatives keep the placeholder and do not become affiliate links',()=>{
+  for(const [id,match]of Object.entries(matches).filter(([id,m])=>m.directLinkAllowed&&!media[id])){
+    const item=visibleSakePairings.find(p=>p.id===id),view=projectFinalCommerce(item,config);
+    assert.equal(view.normal.length,1);assert.equal(view.normal[0].href,match.normalUrl);assert.equal(view.normal[0].affiliate,false);
+    assert.equal(view.offer,null);assert.equal(productMediaFor(item),null);
   }
 });
 test('medium, unknown, wrong image, wrong capacity and unknown source never supply product media',()=>{
