@@ -74,3 +74,10 @@ test('expired clicks are prevented and image error fallback does not require mod
   const expired={hidden:false,addEventListener(){throw Error('expired listener');}};
   observeAffiliate(expired,{validUntil:'2000-01-01'});assert(expired.hidden);
 });
+test('CSP admits both the official image gateway and its observed image CDN without broadening scripts or connections',()=>{
+  const config=JSON.parse(fs.readFileSync('vercel.json'));
+  const policy=config.headers[0].headers.find(h=>h.key==='Content-Security-Policy').value;
+  const img=policy.split(';').find(d=>d.trim().startsWith('img-src'));
+  assert(img.includes('https://hbb.afl.rakuten.co.jp'));assert(img.includes('https://thumbnail.image.rakuten.co.jp'));
+  assert(!img.includes('*'));assert(policy.includes("connect-src 'self'"));assert(policy.includes("script-src-attr 'none'"));
+});
