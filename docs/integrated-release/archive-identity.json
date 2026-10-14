@@ -1,0 +1,319 @@
+{
+  "rows": [
+    {
+      "legacyId": "bojimaya-gohyakumangoku-junmai-ginjo-hiire-v1",
+      "archivedName": "房島屋 純米吟醸五百万石火入れ",
+      "brewery": "所酒造合資会社",
+      "prefecture": "岐阜県",
+      "source": "immutable pre-release registered identity; not replacement product"
+    },
+    {
+      "legacyId": "masuizumi-junmai-ginjo-1",
+      "archivedName": "満寿泉 純米大吟醸",
+      "brewery": "株式会社桝田酒造店",
+      "prefecture": "富山県",
+      "source": "immutable pre-release registered identity; not replacement product"
+    },
+    {
+      "legacyId": "matsunokotobuki-ginjo-standard-v1",
+      "archivedName": "松の寿 吟醸酒",
+      "brewery": "株式会社松井酒造店",
+      "prefecture": "栃木県",
+      "source": "immutable pre-release registered identity; not replacement product"
+    },
+    {
+      "legacyId": "gokeiji-junmai-ginjo-3",
+      "archivedName": "御慶事 純米吟醸 辛口 本生ver.",
+      "brewery": "青木酒造株式会社",
+      "prefecture": "茨城県",
+      "source": "immutable pre-release registered identity; not replacement product"
+    },
+    {
+      "legacyId": "hirotogawa-o0fid2",
+      "archivedName": "廣戸川 純米吟醸",
+      "brewery": "松崎酒造株式会社",
+      "prefecture": "福島県",
+      "source": "immutable pre-release registered identity; not replacement product"
+    },
+    {
+      "legacyId": "kikko-hanabishi-hdomtl",
+      "archivedName": "亀甲花菱 特別純米酒",
+      "brewery": "清水酒造株式会社",
+      "prefecture": "埼玉県",
+      "source": "immutable pre-release registered identity; not replacement product"
+    },
+    {
+      "legacyId": "sentoku-i3yidq-1",
+      "archivedName": "大吟醸 千徳",
+      "brewery": "千徳酒造株式会社",
+      "prefecture": "宮崎県",
+      "source": "immutable pre-release registered identity; not replacement product"
+    },
+    {
+      "legacyId": "hatsumiyo-i3yidq",
+      "archivedName": "初御代 純米吟醸",
+      "brewery": "雲海酒造株式会社",
+      "prefecture": "宮崎県",
+      "source": "immutable pre-release registered identity; not replacement product"
+    },
+    {
+      "legacyId": "banshu-ikkon-junmai-ginjo",
+      "archivedName": "播州一献 純米吟醸 楓のしずく",
+      "brewery": "山陽盃酒造",
+      "prefecture": "兵庫県",
+      "source": "immutable pre-release registered identity; not replacement product"
+    },
+    {
+      "legacyId": "buyu-sakagura-ginjo-v1",
+      "archivedName": "武勇 酒蔵吟醸（酒吟）",
+      "brewery": "株式会社武勇",
+      "prefecture": "茨城県",
+      "source": "immutable pre-release registered identity; not replacement product"
+    },
+    {
+      "legacyId": "hato-masamune-tw2kq6-4",
+      "archivedName": "鳩正宗 吟麗 純米大吟醸 中取り",
+      "brewery": "鳩正宗株式会社",
+      "prefecture": "青森県",
+      "source": "immutable pre-release registered identity; not replacement product"
+    },
+    {
+      "legacyId": "ainosato-junmai-ginsan-hiire-v1",
+      "archivedName": "藍の郷 純米酒 ぎんさん（火入れ）",
+      "brewery": "南陽醸造",
+      "prefecture": "埼玉県",
+      "source": "immutable pre-release registered identity; not replacement product"
+    },
+    {
+      "legacyId": "iso-jiman-honjozo-1",
+      "archivedName": "磯自慢 エメラルド 大吟醸純米50",
+      "brewery": "磯自慢酒造",
+      "prefecture": "静岡県",
+      "source": "immutable pre-release registered identity; not replacement product"
+    },
+    {
+      "legacyId": "ayakiku-uc9ijh",
+      "archivedName": "綾菊 純米吟醸",
+      "brewery": "綾菊酒造",
+      "prefecture": "香川県",
+      "source": "immutable pre-release registered identity; not replacement product"
+    },
+    {
+      "legacyId": "fukutsuru-tokubetsu-junmai-v1",
+      "archivedName": "福鶴 特別純米酒",
+      "brewery": "福田酒造株式会社",
+      "prefecture": "長崎県",
+      "source": "immutable pre-release registered identity; not replacement product"
+    },
+    {
+      "legacyId": "hana-no-ka-junmai-daiginjo-1",
+      "archivedName": "花の香 桜花 純米大吟醸",
+      "brewery": "花の香酒造株式会社",
+      "prefecture": "熊本県",
+      "source": "immutable pre-release registered identity; not replacement product"
+    },
+    {
+      "legacyId": "hououbiden-junmai-ginjo-hiire-v1",
+      "archivedName": "鳳凰美田 純米吟醸酒 火入",
+      "brewery": "小林酒造株式会社",
+      "prefecture": "栃木県",
+      "source": "immutable pre-release registered identity; not replacement product"
+    },
+    {
+      "legacyId": "kuroushi-junmai-ginjo-yamadanishiki-standard-v1",
+      "archivedName": "純米吟醸 黒牛",
+      "brewery": "株式会社名手酒造店",
+      "prefecture": "和歌山県",
+      "source": "immutable pre-release registered identity; not replacement product"
+    },
+    {
+      "legacyId": "sugata-tokubetsu-junmai-ginpu-v1",
+      "archivedName": "姿 特別純米 吟風",
+      "brewery": "飯沼銘醸株式会社",
+      "prefecture": "栃木県",
+      "source": "immutable pre-release registered identity; not replacement product"
+    },
+    {
+      "legacyId": "takijiman-junmai",
+      "archivedName": "純米吟醸 瀧自慢",
+      "brewery": "瀧自慢酒造",
+      "prefecture": "三重県",
+      "source": "immutable pre-release registered identity; not replacement product"
+    },
+    {
+      "legacyId": "tanizakura-i9dko8",
+      "archivedName": "谷櫻 純米吟醸 生貯蔵原酒",
+      "brewery": "谷櫻酒造",
+      "prefecture": "山梨県",
+      "source": "immutable pre-release registered identity; not replacement product"
+    },
+    {
+      "legacyId": "chochin-j6jnol-5",
+      "archivedName": "長珍 生詰純米大吟醸",
+      "brewery": "長珍酒造",
+      "prefecture": "愛知県",
+      "source": "immutable pre-release registered identity; not replacement product"
+    },
+    {
+      "legacyId": "tatsuriki-g39ip7-4",
+      "archivedName": "龍力 正統派超辛純米酒 生酒",
+      "brewery": "株式会社本田商店",
+      "prefecture": "兵庫県",
+      "source": "immutable pre-release registered identity; not replacement product"
+    },
+    {
+      "legacyId": "yachihoko-junmai-ginjo-standard-v1",
+      "archivedName": "八千矛 純米吟醸",
+      "brewery": "旭日酒造有限会社",
+      "prefecture": "島根県",
+      "source": "immutable pre-release registered identity; not replacement product"
+    },
+    {
+      "legacyId": "biwa-no-sasanami-hdomtl",
+      "archivedName": "琵琶のささ浪 純米吟醸",
+      "brewery": "麻原酒造",
+      "prefecture": "埼玉県",
+      "source": "immutable pre-release registered identity; not replacement product"
+    },
+    {
+      "legacyId": "imakomachi-iwjid2-3",
+      "archivedName": "今小町 純米大吟醸 穰",
+      "brewery": "中和商店",
+      "prefecture": "徳島県",
+      "source": "immutable pre-release registered identity; not replacement product"
+    },
+    {
+      "legacyId": "daijiro-ginfubuki-junmai-hiire-v1",
+      "archivedName": "大治郎 純米 吟吹雪 火入",
+      "brewery": "畑酒造有限会社",
+      "prefecture": "滋賀県",
+      "source": "immutable pre-release registered identity; not replacement product"
+    },
+    {
+      "legacyId": "kakaa-tenka-amakuchi-honjozo-v1",
+      "archivedName": "あまくち かかあ天下 本醸造",
+      "brewery": "株式会社町田酒造店",
+      "prefecture": "群馬県",
+      "source": "immutable pre-release registered identity; not replacement product"
+    },
+    {
+      "legacyId": "okura-hmwprj-5",
+      "archivedName": "金鼓 純米大吟醸",
+      "brewery": "株式会社大倉本家",
+      "prefecture": "奈良県",
+      "source": "immutable pre-release registered identity; not replacement product"
+    },
+    {
+      "legacyId": "taito-junmai-3",
+      "archivedName": "純米吟醸 泰斗",
+      "brewery": "千代の園酒造株式会社",
+      "prefecture": "熊本県",
+      "source": "immutable pre-release registered identity; not replacement product"
+    },
+    {
+      "legacyId": "shiraito-45-v1",
+      "archivedName": "白糸45",
+      "brewery": "有限会社白糸酒造",
+      "prefecture": "福岡県",
+      "source": "immutable pre-release registered identity; not replacement product"
+    },
+    {
+      "legacyId": "shiraito-55-v1",
+      "archivedName": "白糸55",
+      "brewery": "有限会社白糸酒造",
+      "prefecture": "福岡県",
+      "source": "immutable pre-release registered identity; not replacement product"
+    },
+    {
+      "legacyId": "otokoyama-kimoto-junmai-1",
+      "archivedName": "男山 樽酒（生もと純米）",
+      "brewery": "男山株式会社",
+      "prefecture": "北海道",
+      "source": "immutable pre-release registered identity; not replacement product"
+    },
+    {
+      "legacyId": "ouroku-honjozo-namazume-v1",
+      "archivedName": "王祿 本醸造 生詰",
+      "brewery": "王祿酒造有限会社",
+      "prefecture": "島根県",
+      "source": "immutable pre-release registered identity; not replacement product"
+    },
+    {
+      "legacyId": "matsu-no-tsukasa-daiginjo-ultimus",
+      "archivedName": "松の司 大吟醸 Ultimus",
+      "brewery": "松瀬酒造株式会社",
+      "prefecture": "滋賀県",
+      "source": "immutable pre-release registered identity; not replacement product"
+    },
+    {
+      "legacyId": "akabu-junmai-1",
+      "archivedName": "AKABU 純米酒",
+      "brewery": "赤武酒造株式会社",
+      "prefecture": "岩手県",
+      "source": "immutable pre-release registered identity; not replacement product"
+    },
+    {
+      "legacyId": "furosen-yamahai-bizen-omachi-hiire-v1",
+      "archivedName": "不老泉 山廃仕込 純米吟醸 備前雄町 火入酒",
+      "brewery": "上原酒造株式会社",
+      "prefecture": "滋賀県",
+      "source": "immutable pre-release registered identity; not replacement product"
+    },
+    {
+      "legacyId": "sakehitosuji-junmai-ginjo-kinrei-v1",
+      "archivedName": "酒一筋 純米吟醸 金麗",
+      "brewery": "利守酒造株式会社",
+      "prefecture": "岡山県",
+      "source": "immutable pre-release registered identity; not replacement product"
+    },
+    {
+      "legacyId": "sanzen-junmai-daiginjo-yamadanishiki-25",
+      "archivedName": "燦然 純米大吟醸 山田錦25磨",
+      "brewery": "菊池酒造株式会社",
+      "prefecture": "岡山県",
+      "source": "immutable pre-release registered identity; not replacement product"
+    },
+    {
+      "legacyId": "shichiken-i9dko8",
+      "archivedName": "七賢 向秀",
+      "brewery": "山梨銘醸",
+      "prefecture": "山梨県",
+      "source": "immutable pre-release registered identity; not replacement product"
+    },
+    {
+      "legacyId": "tenon-id2kl5",
+      "archivedName": "天穏 生もと純米原酒",
+      "brewery": "板倉酒造有限会社",
+      "prefecture": "島根県",
+      "source": "immutable pre-release registered identity; not replacement product"
+    },
+    {
+      "legacyId": "matsuo-jiman-remake-junmai-ginjo-v1",
+      "archivedName": "松尾自慢 Re:make 純米吟醸",
+      "brewery": "合資会社寒菊銘醸",
+      "prefecture": "千葉県",
+      "source": "immutable pre-release registered identity; not replacement product"
+    },
+    {
+      "legacyId": "morishima-pwohce-4",
+      "archivedName": "富士大観 大吟醸原酒 本生かすみ酒",
+      "brewery": "森島酒造株式会社",
+      "prefecture": "茨城県",
+      "source": "immutable pre-release registered identity; not replacement product"
+    },
+    {
+      "legacyId": "naruka-gg3q4p",
+      "archivedName": "鳴海 純米吟醸 直詰め生【赤】",
+      "brewery": "東灘醸造",
+      "prefecture": null,
+      "source": "immutable pre-release registered identity; not replacement product"
+    },
+    {
+      "legacyId": "yokoyama-goju-black-namazume-v1",
+      "archivedName": "横山五十 純米大吟醸 BLACK 生詰",
+      "brewery": "重家酒造株式会社",
+      "prefecture": "長崎県",
+      "source": "immutable pre-release registered identity; not replacement product"
+    }
+  ]
+}

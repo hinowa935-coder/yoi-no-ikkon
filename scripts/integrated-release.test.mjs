@@ -21,6 +21,9 @@ test('all 45 retired favorites retain their own identity and never silently beco
  const ids=read('src/commerce/generated/replacement-ids.json'),refs=read('src/data/discoveryCatalog.json').references.filter(r=>ids.includes(r.suggestedReplacementId));
  assert(refs.length>=45); // Historical aliases also remain attached to their archived identity.
  assert(ids.every(id=>refs.some(r=>r.suggestedReplacementId===id)));
+ const priorIdentities=read('docs/integrated-release/archive-identity.json').rows;
+ assert.equal(priorIdentities.length,45);
+ for(const c of priorIdentities){const r=refs.find(r=>r.legacyId===c.legacyId);assert(r);assert.equal(r.brewery,c.brewery);assert.equal(r.prefecture,c.prefecture);}
  for(const r of refs){assert.equal(r.status,'replaced_archive');assert.equal(r.automaticFavoriteMigration,false);assert.deepEqual(migrateFavorites([r.legacyId]),[r.legacyId]);assert.notEqual(resolveFavorite(r.legacyId).status,'same_product_alias');}
 });
 test('new 45 identities are unique, sourced and have independent Amazon search destinations',()=>{
