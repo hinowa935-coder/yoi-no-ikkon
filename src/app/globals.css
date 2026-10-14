@@ -359,5 +359,6 @@ main.min-h-screen::after {
 .product-window.is-compact .product-window-stage { height: 88px; }
 .product-window.is-compact .product-window-stage > svg { width: 32px; height: 32px; }
 .product-window.is-compact figcaption { min-height: 22px; font-size: 10px; padding: 4px 0 0; }
+.discovery-sake h3 a { display: block; }
 .purchase-provider { padding: 12px 0; }
 .purchase-provider.is-rakuten { border-left: 2px solid #b9a160; padding-left: 14px; }

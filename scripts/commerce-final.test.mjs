@@ -81,3 +81,10 @@ test('CSP admits both the official image gateway and its observed image CDN with
   assert(img.includes('https://hbb.afl.rakuten.co.jp'));assert(img.includes('https://thumbnail.image.rakuten.co.jp'));
   assert(!img.includes('*'));assert(policy.includes("connect-src 'self'"));assert(policy.includes("script-src-attr 'none'"));
 });
+test('long product names keep the full card width before the compact image',()=>{
+  for(const file of ['DiscoverySakeCard.jsx','SakeSearch.jsx']){
+    const source=fs.readFileSync(`src/app/components/${file}`,'utf8');
+    assert(source.indexOf('<h3>')<source.indexOf('<ProductWindow'));
+  }
+  assert(fs.readFileSync('src/app/globals.css','utf8').includes('.discovery-sake h3 a { display: block; }'));
+});
