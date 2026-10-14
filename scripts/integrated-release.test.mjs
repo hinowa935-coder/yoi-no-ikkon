@@ -11,6 +11,12 @@ const read=p=>JSON.parse(fs.readFileSync(p));
 test('every active product can be found by its own name and brewery',()=>{
  for(const item of visibleSakePairings){assert(matchesSearch(item,{keyword:item.productName}),item.id);assert(matchesSearch(item,{keyword:item.brewery}),item.id);}
 });
+test('Ichinokura official temperature and dishes are also synchronized to search and recommendation fields',()=>{
+ const i=visibleSakePairings.find(i=>i.id==='ichinokura-tokubetsu-junmai-karakuchi');
+ assert.deepEqual(i.temperature,i.sakeResearch.servingTemperatures);
+ assert.deepEqual(i.officialPairings,i.sakeResearch.officialPairings);
+ assert(matchesSearch(i,{filters:{temperature:'group:warm'}}));
+});
 test('all 45 retired favorites retain their own identity and never silently become another SKU',()=>{
  const ids=read('src/commerce/generated/replacement-ids.json'),refs=read('src/data/discoveryCatalog.json').references.filter(r=>ids.includes(r.suggestedReplacementId));
  assert(refs.length>=45); // Historical aliases also remain attached to their archived identity.
@@ -21,6 +27,8 @@ test('new 45 identities are unique, sourced and have independent Amazon search d
  const ids=read('src/commerce/generated/replacement-ids.json'),links=read('src/commerce/generated/discovery-links.json');
  assert.equal(ids.length,45);assert.equal(new Set(ids).size,45);
  for(const id of ids){const item=visibleSakePairings.find(i=>i.id===id);assert(item);assert(item.sakeResearch.sources.length);
+  assert.deepEqual(item.temperature,item.sakeResearch.servingTemperatures);
+  assert.deepEqual(item.officialPairings,item.sakeResearch.officialPairings);
   const link=links[id].links.find(l=>l.provider==='amazon');assert.equal(new URL(link.url).pathname,'/s');assert.equal(new URL(link.url).searchParams.get('k'),item.productName);assert.equal(link.isAffiliate,false);}
 });
 test('merchant evidence is separate from purchase destinations and capacity is nullable',()=>{
