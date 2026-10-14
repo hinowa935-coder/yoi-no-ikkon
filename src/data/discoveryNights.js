@@ -37,8 +37,21 @@ export function seasonForSeed(seed) {
   return month>=3&&month<=5?'spring':month===6?'rainy':month>=7&&month<=8?'summer':month>=9&&month<=11?'autumn':'winter';
 }
 export function orderedNights(group,seed) {
-  const season=seasonForSeed(seed);
-  return discoveryNights.filter(n=>n.group===group).sort((a,b)=>Number(b.attributes.season.includes(season))-Number(a.attributes.season.includes(season)));
+  return discoveryNights.filter(n=>n.group===group).sort((a,b)=>Number(isNightInSeason(b.id,seed))-Number(isNightInSeason(a.id,seed)));
+}
+
+export const nightRecommendationMonths = {
+  spring:[3,4,5], rain:[5,6,7], humid:[6,7,8,9], festival:[7,8],
+  moon:[9,10,11], autumn:[9,10,11], cold:[11,12,1,2,3], snow:[12,1,2], 'year-end':[12],
+};
+export function isNightInSeason(id,day) {
+  const months=nightRecommendationMonths[id];
+  if(!months)return true;
+  const month=/^\d{4}-(\d{2})-\d{2}$/.exec(String(day))?.[1];
+  return months.includes(Number(month));
+}
+export function recommendedNights(day) {
+  return discoveryNights.filter(n=>isNightInSeason(n.id,day));
 }
 
 export const foodDirections = [

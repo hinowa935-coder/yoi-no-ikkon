@@ -12,6 +12,7 @@ import {temperatureLabels,temperatureOptions,temperatureGroups} from '../../data
 import {matchesSearch,sortSearch} from '../../data/searchFiltering.js';
 import { editorialNightAssignments, editorialNightNote } from '../../data/editorialNightAssignments.js';
 import ProductWindow from './ProductWindow.jsx';
+import SeasonalNightLinks from './SeasonalNightLinks.jsx';
 import purchaseMatches from '../../commerce/generated/purchase-matches.json';
 import merchantLinks from '../../commerce/generated/merchant-links.json';
 import replacementIds from '../../commerce/generated/replacement-ids.json';
@@ -39,7 +40,7 @@ export function SearchCard({ item }) {
     <Link className="text-link sake-detail-link" href={`/sake/${item.id}`}>詳しく見る →</Link>
     <details className="card-details"><summary>料理・温度などを見る</summary><dl>
       {dishes.length > 0 && <><dt>このお酒に合う料理</dt><dd>{dishes.map(d => <Link key={d.name} href={`/food/${toPathSegment(d.name)}`}>{d.name} </Link>)}</dd></>}
-      <dt>こんな夜に</dt><dd>{nightsForSake(item).map(n => <Link key={n.id} href={`/discover?night=${n.id}`}>{n.name} </Link>)}</dd>
+      <dt>こんな夜に</dt><dd><SeasonalNightLinks nights={nightsForSake(item,Infinity).map(({id,name})=>({id,name}))} inline /></dd>
       {editorialNightAssignments[item.id] && <><dt>夜の提案について</dt><dd>{editorialNightNote}</dd></>}
       {item.temperature.length > 0 && <><dt>おすすめ温度</dt><dd>{temperatureLabels(item.temperature).join("、")}</dd></>}
       {buildSakeVerifiedTags(item).length > 0 && <><dt>特徴</dt><dd>{buildSakeVerifiedTags(item).join("、")}</dd></>}

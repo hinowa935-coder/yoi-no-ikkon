@@ -1,5 +1,5 @@
 import catalog from "./discoveryCatalog.json" with { type: "json" };
-import { discoveryDishes, discoveryNights, foodDirections } from "./discoveryNights.js";
+import { discoveryDishes, discoveryNights, foodDirections, recommendedNights } from "./discoveryNights.js";
 import { naturalTasteTerm } from "./sakeIntroduction.js";
 import { refineMealPairingReason } from "./pairingCopy.js";
 import { refineGroundedPairing } from "./groundedPairingCopy.js";
@@ -137,12 +137,13 @@ export function dishesForSake(item, seed = "v1") {
   return names.map(name => ({ ...dishProfile(name), ...scorePairing(item, name) })).filter(d => d.strength >= 6)
     .sort((a, b) => b.score - a.score || rotationHash(`${seed}:${a.name}`) - rotationHash(`${seed}:${b.name}`)).slice(0, 6);
 }
-export function nightsForSake(item) {
+export function nightsForSake(item,limit=3) {
   return discoveryNights.map(n=>({...n,affinity:nightAffinity(item,n.id)})).filter(n=>n.affinity.score>0)
-    .sort((a,b)=>b.affinity.score-a.affinity.score).slice(0,3);
+    .sort((a,b)=>b.affinity.score-a.affinity.score).slice(0,limit);
 }
 export function dailyRecommendation(seed) {
-  const night = discoveryNights[rotationHash(seed) % discoveryNights.length];
+  const eligible= recommendedNights(seed);
+  const night = eligible[rotationHash(seed) % eligible.length];
   const direction = foodDirections[rotationHash(`${seed}:food`) % foodDirections.length];
   const dish = suggestDishes(night.id, direction.id, seed)[0];
   return { night, direction, dish, recommendation: recommendSake(dish.name, night.id, seed)[0] };

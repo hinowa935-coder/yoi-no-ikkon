@@ -11,7 +11,7 @@ import TrackedLink from "./TrackedLink.jsx";
 import { discoveryLocation } from "./discoveryLocation.js";
 import {sakeDiscoveryHref} from '../../data/discoveryContext.js';
 
-export default function DiscoveryFlow({seed, initialNight="", initialDirection="", initialDish="", initialDishLimit=6}) {
+export default function DiscoveryFlow({seed, seasonSeed=seed, initialNight="", initialDirection="", initialDish="", initialDishLimit=6}) {
   const router=useRouter();
   const [nightId,setNightId]=useState(initialNight);
   const [directionId,setDirectionId]=useState(initialDirection);
@@ -49,7 +49,7 @@ export default function DiscoveryFlow({seed, initialNight="", initialDirection="
   return <div className="discovery-flow">
     <section><p className="section-kicker">01 / 夜の気分から</p><h1>どんな夜を過ごす？</h1>
       <div className="night-group-switch" role="group" aria-label="夜の選び方">{[['mood','気分・過ごし方'],['season','季節・天候']].map(([id,label])=><button className="yoi-button" key={id} aria-pressed={group===id} onClick={()=>setGroup(id)}>{label}</button>)}</div>
-      <div className="night-grid">{orderedNights(group,seed).map(n=><button className={`night-choice ${nightId===n.id?'is-selected':''}`} key={n.id} aria-pressed={nightId===n.id} onClick={()=>chooseNight(n.id)}><span>{n.name}</span><small>{n.description}</small><ChevronRight className="choice-arrow" /></button>)}</div>
+      <div className="night-grid">{orderedNights(group,seasonSeed).map(n=><button className={`night-choice ${nightId===n.id?'is-selected':''}`} key={n.id} aria-pressed={nightId===n.id} onClick={()=>chooseNight(n.id)}><span>{n.name}</span><small>{n.description}</small><ChevronRight className="choice-arrow" /></button>)}</div>
     </section>
     {night && <section id="food-direction" className="flow-step"><p className="section-kicker">02 / {night.name}</p><h2>何を食べたい？</h2><p className="muted-copy">{night.description}</p><div className="direction-grid">{foodDirections.map(d=><button className={`yoi-button ${directionId===d.id?'is-selected':''}`} key={d.id} aria-pressed={directionId===d.id} onClick={()=>chooseDirection(d.id)}>{d.name}</button>)}</div></section>}
     {dishes.length>0 && <section id="dish-choices" className="flow-step"><p className="section-kicker">03 / ひと皿を選ぶ</p><h2>このあたりは、どうでしょう。</h2><div className="dish-choice-grid">{dishes.map(d=><button className={`dish-choice ${dishName===d.name?'is-selected':''}`} key={d.name} aria-pressed={dishName===d.name} onClick={()=>chooseDish(d.name)}><span>{d.name}</span><small>{d.flavor}</small><ChevronRight /></button>)}</div>

@@ -2,7 +2,6 @@ import { ChevronRight } from "./components/InterfaceIcons.jsx";
 import DiscoveryShell from "./components/DiscoveryShell.jsx";
 import LegacySearchRedirect from "./components/LegacySearchRedirect.jsx";
 import TrackedLink from "./components/TrackedLink.jsx";
-import { daySeed } from "../data/discovery.js";
 import DailyPick from "./components/DailyPick.jsx";
 
 export default function Page() {
@@ -30,6 +29,6 @@ export default function Page() {
         </div>
       </div>
     </section>
-    <DailyPick initialSeed={daySeed()} />
+    <DailyPick />
   </DiscoveryShell>;
 }

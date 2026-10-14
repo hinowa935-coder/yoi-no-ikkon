@@ -15,6 +15,7 @@ import { editorialNightAssignments, editorialNightNote } from '../../../data/edi
 import { commerceForSake } from "../../../commerce/server.js";
 import { ProductLabelImage, PurchaseOptions } from "../../components/AffiliateCommerce.jsx";
 import ProductWindow from '../../components/ProductWindow.jsx';
+import SeasonalNightLinks from '../../components/SeasonalNightLinks.jsx';
 import {Suspense} from 'react';
 import SakeDiscoveryContext from '../../components/SakeDiscoveryContext.jsx';
 import merchantAudit from '../../../commerce/generated/merchant-links.json';
@@ -44,7 +45,7 @@ export default async function SakePage({ params }) {
     return <DiscoveryShell><section className="archived-product"><p className="section-kicker">以前の掲載商品</p><h1>{ref.archivedName}</h1><p className="muted-copy">{ref.prefecture} / {ref.brewery}</p><p>この掲載は、現在の日本酒一覧には含まれていません。保存していたおちょこは、そのまま残しています。</p>{alternative && <div className="archive-alternative"><h2>別のお酒の候補</h2><p>以前の掲載商品とは別商品です。</p><Link className="text-link" href={`/sake/${alternative.id}`}>{alternative.productName} →</Link></div>}<FavoriteButton id={slug} /><Link className="text-link" href="/search">いまの日本酒一覧を見る →</Link></section></DiscoveryShell>;
   }
   const dishes = dishesForSake(item);
-  const nights = nightsForSake(item);
+  const nights = nightsForSake(item,Infinity).map(({id,name})=>({id,name}));
   const r = item.sakeResearch;
   const formatFields = entries => entries.map(([label, value]) => [label, displaySpec(value, label.includes("精米歩合") ? "%" : label === "アルコール度数" ? "度" : "")]).filter(([, text]) => text);
   const essentials = formatFields([["蔵元", item.brewery], ["都道府県", item.prefecture], ["特定名称", r.classification.tokuteiMeishoshu || item.style.join(" / ")], ["原料米", r.specs.riceVariety], ["精米歩合", r.specs.polishingRatio], ["アルコール度数", r.specs.alcoholPercentage], ["飲用温度", temperatureLabels(r.servingTemperatures)], ["飲用温度範囲", r.recommendedTemperatureRange]]);
@@ -84,7 +85,7 @@ export default async function SakePage({ params }) {
       <div className="reverse-dish-grid">{dishes.map(d => <article key={d.name}><h3><Link href={`/food/${toPathSegment(d.name)}`}><span>{d.name}</span><ChevronRight /></Link></h3><p>{d.reason}</p><small>宵の一献の提案</small></article>)}</div>
       {!dishes.length && <PairingPending />}
       {r.officialPairings.length > 0 && <div className="official-pairings"><h3>蔵元が紹介する組み合わせ</h3><p>{r.officialPairings.join("、")}</p></div>}
-      {nights.length>0 && <div className="pairing-nights"><h3>こんな夜に</h3>{editorialNightAssignments[item.id] && <p className="muted-copy">{editorialNightNote}</p>}<div className="night-inline">{nights.map(n => <Link key={n.id} className="yoi-button" href={`/nights/${n.id}`}>{n.name} →</Link>)}</div></div>}
+      {nights.length>0 && <div className="pairing-nights"><h3>こんな夜に</h3>{editorialNightAssignments[item.id] && <p className="muted-copy">{editorialNightNote}</p>}<SeasonalNightLinks nights={nights} /></div>}
     </section>
   </DiscoveryShell>;
 }
