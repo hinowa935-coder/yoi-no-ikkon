@@ -44,9 +44,10 @@ export function FavoritesProvider({ children }) {
   return <Favorites.Provider value={{ ids, ready, toggle }}>{children}<div role="status" aria-live="polite" className={message ? "ochoko-toast" : "sr-only"}>{message}</div></Favorites.Provider>;
 }
 export function useFavorites() { return useContext(Favorites); }
-export function FavoriteButton({ id, compact = false }) {
+export function FavoriteButton({ id, compact = false, productName = '' }) {
   const { ids, ready, toggle } = useFavorites();
   const saved = ids.includes(id);
   const label = saved ? "おちょこから外す" : "おちょこに入れる";
-  return <button type="button" className={`yoi-button ochoko-button ${saved ? "is-selected" : ""}`} disabled={!ready} aria-pressed={saved} aria-label={label} title={label} onClick={() => toggle(id)}><OchokoIcon filled={saved} />{!compact && <span>{saved ? "おちょこに入っています" : label}</span>}</button>;
+  const accessibleLabel=productName?`${productName}を${label}`:label;
+  return <button type="button" className={`yoi-button ochoko-button ${saved ? "is-selected" : ""}`} disabled={!ready} aria-pressed={saved} aria-label={accessibleLabel} title={accessibleLabel} onClick={() => toggle(id)}><OchokoIcon filled={saved} />{!compact && <span>{saved ? "おちょこに入っています" : label}</span>}</button>;
 }

@@ -16,6 +16,7 @@ import { commerceForSake } from "../../../commerce/server.js";
 import { ProductLabelImage, PurchaseOptions } from "../../components/AffiliateCommerce.jsx";
 import ProductWindow from '../../components/ProductWindow.jsx';
 import SeasonalNightLinks from '../../components/SeasonalNightLinks.jsx';
+import {buildCardPresentation} from '../../../data/cardPresentation.js';
 import {Suspense} from 'react';
 import SakeDiscoveryContext from '../../components/SakeDiscoveryContext.jsx';
 import merchantAudit from '../../../commerce/generated/merchant-links.json';
@@ -56,7 +57,7 @@ export default async function SakePage({ params }) {
   return <DiscoveryShell>
     <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd).replaceAll("<", "\\u003c") }} />
     <section className="sake-detail-hero">
-      <p className="section-kicker">{item.prefecture}</p><h1>{item.productName}</h1>
+      <h1>{item.productName}</h1><p className="detail-catchphrase">{buildCardPresentation(item).cardCatchphrase}</p>
       <p className="muted-copy">{item.brewery} / {item.prefecture}</p>
       <Suspense fallback={null}><SakeDiscoveryContext item={item} /></Suspense>
       {commerce.image ? <ProductLabelImage image={commerce.image} /> : <ProductWindow item={item} />}

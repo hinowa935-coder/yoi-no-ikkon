@@ -2,17 +2,15 @@
 import { useEffect, useMemo, useRef, useState } from "react";
 import { emptySearchFilters, readSearchLocation, writeSearchLocation } from "./searchLocation.js";
 import Link from "next/link";
-import { visibleSakePairings, prefectureOrder, dishOptions, tasteOptions, buildSakeListSummary, buildSakeLocation, buildSakeFeatureTags, buildSakeVerifiedTags, toPathSegment, buildResourceLinks, buildPurchaseLinks } from "../../data/siteData.js";
+import { visibleSakePairings, prefectureOrder, dishOptions, tasteOptions, buildSakeVerifiedTags, toPathSegment, buildResourceLinks, buildPurchaseLinks } from "../../data/siteData.js";
 import { discoveryNights, dishesForSake, nightsForSake } from "../../data/discovery.js";
-import { useFavorites, FavoriteButton, OchokoIcon } from "./Ochoko.jsx";
+import { useFavorites, OchokoIcon } from "./Ochoko.jsx";
 import { trackEvent } from "../../data/telemetry.js";
-import TrackedLink from "./TrackedLink.jsx";
-import PairingPending from "./PairingPending.jsx";
 import {temperatureLabels,temperatureOptions,temperatureGroups} from '../../data/temperatureUX.js';
 import {matchesSearch,sortSearch} from '../../data/searchFiltering.js';
 import { editorialNightAssignments, editorialNightNote } from '../../data/editorialNightAssignments.js';
-import ProductWindow from './ProductWindow.jsx';
 import SeasonalNightLinks from './SeasonalNightLinks.jsx';
+import SakeCardPreview from './SakeCardPreview.jsx';
 import purchaseMatches from '../../commerce/generated/purchase-matches.json';
 import merchantLinks from '../../commerce/generated/merchant-links.json';
 import replacementIds from '../../commerce/generated/replacement-ids.json';
@@ -30,22 +28,16 @@ export function SearchCard({ item }) {
     if(amazon)purchase.push({href:amazon.url,label:amazon.label});
   }
   if(merchant?.url&&merchant.type!=='E')purchase.push({href:merchant.url,label:merchant.label});
-  return <article className="discovery-sake">
-    <div className="sake-card-top"><p>{buildSakeLocation(item)}</p><FavoriteButton id={item.id} compact /></div>
-    <h3><TrackedLink href={`/sake/${item.id}`} event="sake_opened" parameters={{ sake_id: item.id }}>{item.productName}</TrackedLink></h3>
-    <ProductWindow item={item} compact />
-    <p className="sake-intro">{buildSakeListSummary(item)}</p>
-    <ul className="feature-tags">{buildSakeFeatureTags(item, 3).map(tag => <li key={tag}>{tag}</li>)}</ul>
-    {dishes.length ? <ul className="dish-links">{dishes.slice(0, 3).map(d => <li key={d.name}><Link href={`/food/${toPathSegment(d.name)}`}>{d.name}</Link></li>)}</ul> : <PairingPending />}
-    <Link className="text-link sake-detail-link" href={`/sake/${item.id}`}>詳しく見る →</Link>
+  const resources=[...new Map(links.concat(purchase).map(link=>[link.href,link])).values()];
+  return <SakeCardPreview item={item} reason={dishes[0]?.reason}>
     <details className="card-details"><summary>料理・温度などを見る</summary><dl>
       {dishes.length > 0 && <><dt>このお酒に合う料理</dt><dd>{dishes.map(d => <Link key={d.name} href={`/food/${toPathSegment(d.name)}`}>{d.name} </Link>)}</dd></>}
       <dt>こんな夜に</dt><dd><SeasonalNightLinks nights={nightsForSake(item,Infinity).map(({id,name})=>({id,name}))} inline /></dd>
       {editorialNightAssignments[item.id] && <><dt>夜の提案について</dt><dd>{editorialNightNote}</dd></>}
       {item.temperature.length > 0 && <><dt>おすすめ温度</dt><dd>{temperatureLabels(item.temperature).join("、")}</dd></>}
       {buildSakeVerifiedTags(item).length > 0 && <><dt>特徴</dt><dd>{buildSakeVerifiedTags(item).join("、")}</dd></>}
-    </dl>{links.concat(purchase).map(link => <a key={link.href} className="text-link" href={link.href} target="_blank" rel="noreferrer" onClick={() => trackEvent("official_link_click", { sake_id: item.id })}>{link.label} ↗</a>)}<Link className="text-link" href={`/sake/${item.id}`}>このお酒を知る →</Link></details>
-  </article>;
+    </dl>{resources.map(link => <a key={link.href} className="text-link" href={link.href} target="_blank" rel="noreferrer" onClick={() => trackEvent("official_link_click", { sake_id: item.id })}>{link.label} ↗</a>)}<Link className="text-link" href={`/sake/${item.id}`}>このお酒を知る →</Link></details>
+  </SakeCardPreview>;
 }
 export default function SakeSearch() {
   const [keyword, setKeyword] = useState("");
@@ -103,14 +95,14 @@ export default function SakeSearch() {
   const change = (key, value) => { setFilters(current => ({ ...current, [key]: value })); setLimit(24); };
   const fields = [
     ["prefecture", "産地", prefectureOrder], ["dish", "料理", dishOptions], ["taste", "味わい", tasteOptions],
-    ["classification", "種類", classifications], ["temperature", "飲み方・温度", [...temperatureGroups.map(([id,label])=>[`group:${id}`,label]),...temperatures]], ["night", "夜の気分", discoveryNights.map(n => [n.id, n.name])],
+    ["classification", "種類", classifications], ["temperature", "飲み方", [...temperatureGroups.map(([id,label])=>[`group:${id}`,label]),...temperatures]], ["night", "夜の気分", discoveryNights.map(n => [n.id, n.name])],
   ];
   const fieldValue=(key,options)=>{const option=options.find(o=>(Array.isArray(o)?o[0]:o)===filters[key]);return option?(Array.isArray(option)?option[1]:option):filters[key] || 'すべて';};
   const selected=fields.filter(([key])=>filters[key]).map(([key,name,options])=>({key,label:`${name}：${fieldValue(key,options)}`}));
   const reset=()=>{setFilters(emptySearchFilters());setKeyword('');setOnlySaved(false);setLimit(24);};
   return <section id="search" className="search-page"><p className="section-kicker">日本酒から探す</p><h1 className="phrase-heading"><span>気になる一本から、</span><span>食卓の料理を。</span></h1>
     <label className="search-keyword"><span>商品名・蔵元・料理など</span><input type="search" value={keyword} onChange={e=>{setKeyword(e.target.value);setLimit(24);}} placeholder="例：鍋島、肉じゃが、冷酒" /></label>
-    <div className="temperature-shortcuts" role="group" aria-label="温度から絞り込む">{temperatureGroups.map(([id,label])=><button key={id} className="filter-chip" aria-pressed={filters.temperature===`group:${id}`} onClick={()=>change('temperature',filters.temperature===`group:${id}`?'':`group:${id}`)}>{label}</button>)}</div>
+    <div className="drinking-style"><span>飲み方</span><div className="temperature-shortcuts" role="group" aria-label="飲み方">{temperatureGroups.map(([id,label])=><button key={id} className="filter-chip" aria-pressed={filters.temperature===`group:${id}`} onClick={()=>change('temperature',filters.temperature===`group:${id}`?'':`group:${id}`)}>{label}</button>)}</div></div>
     <details className="search-filters"><summary><span>検索条件を選ぶ</span><span className="filter-overview">{fields.map(([key,name,options])=><span key={key}>{name}<small>{fieldValue(key,options)}</small></span>)}</span></summary><div className="filter-grid">{fields.map(([key,name,options])=><label key={key}><span>{name}</span><select aria-label={name} value={filters[key]} onChange={e=>change(key,e.target.value)}><option value="">すべて</option>{filters[key]&&!options.some(o=>(Array.isArray(o)?o[0]:o)===filters[key])&&<option value={filters[key]}>{filters[key]}</option>}{options.map(option=><option key={Array.isArray(option)?option[0]:option} value={Array.isArray(option)?option[0]:option}>{Array.isArray(option)?option[1]:option}</option>)}</select></label>)}</div></details>
     {(selected.length>0||keyword||onlySaved) && <div className="active-search-conditions" aria-label="選択中の条件">{keyword&&<button className="filter-chip" onClick={()=>{setKeyword('');setLimit(24);}} aria-label={`検索語 ${keyword}を解除`}>{keyword} ×</button>}{selected.map(({key,label})=><button key={key} className="filter-chip" onClick={()=>change(key,'')} aria-label={`${label}を解除`}>{label} ×</button>)}{onlySaved&&<button className="filter-chip" onClick={()=>setOnlySaved(false)}>おちょこの中だけ ×</button>}<button className="text-link" onClick={reset}>すべて解除</button></div>}
     <div className="search-sort"><label>並び順<select aria-label="並び順" value={filters.sort} onChange={e=>change('sort',e.target.value)}><option value="">掲載順</option><option value="prefecture">都道府県順</option><option value="region">産地・蔵元順</option></select></label></div>

@@ -58,7 +58,9 @@ export const foodDirections = [
   { id: "warm", name: "あたたかいもの" },
   { id: "fresh", name: "さっぱりしたもの" },
   { id: "hearty", name: "しっかり食べたい" },
-  { id: "small", name: "つまむくらいでいい" },
+  { id: "small", name: "軽くつまみたい" },
+  { id: "grilled", name: "香ばしいもの" },
+  { id: "comfort", name: "ほっとするもの" },
 ];
 
 // Food attributes are editorial descriptions of existing home dishes, not sake facts.
@@ -87,4 +89,7 @@ export const discoveryDishes = [
   { name: "きゅうりの浅漬け", directions: ["small", "fresh"], method: "漬物", flavor: "野菜の軽い塩味", delicate: true },
   { name: "ほうれん草のおひたし", directions: ["small", "fresh"], method: "おひたし", flavor: "青菜とだしの穏やかな味", delicate: true },
   { name: "焼き厚揚げ", directions: ["small", "warm"], method: "焼き物", flavor: "大豆の旨味と香ばしさ", rich: true },
-];
+].map(d=>({...d,directions:[...d.directions,
+  ...(/焼|香ばし/.test(d.method+' '+d.flavor)?['grilled']:[]),
+  ...(/だし|煮汁|白菜/.test(d.flavor)?['comfort']:[]),
+]}));

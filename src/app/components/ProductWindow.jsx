@@ -1,5 +1,5 @@
 "use client";
-import {useEffect,useState} from 'react';
+import {useEffect,useRef,useState} from 'react';
 import {OchokoIcon} from './InterfaceIcons.jsx';
 import {productMediaFor} from '../../commerce/productMedia.js';
 import {emitAffiliateClick} from '../../commerce/entryTracking.js';
@@ -11,6 +11,7 @@ export default function ProductWindow({item,compact=false,context={}}) {
   const [failed,setFailed]=useState(false);
   const [expired,setExpired]=useState(false);
   const [ready,setReady]=useState(false);
+  const creative=useRef(null);
   useEffect(()=>{
     setReady(true);
     if(!image)return;
@@ -20,6 +21,12 @@ export default function ProductWindow({item,compact=false,context={}}) {
     return ()=>clearTimeout(timer);
   },[image]);
   const visible=enabled && image && ready && !failed && !expired;
+  useEffect(()=>{
+    if(!visible||!creative.current)return;
+    // Accessibility metadata only; never rewrite the issued creative source or URLs.
+    for(const img of creative.current.querySelectorAll('img'))if(!img.alt)img.alt=`${item.productName}の商品画像`;
+    for(const link of creative.current.querySelectorAll('a'))link.setAttribute('aria-label',`楽天で${item.productName}の商品を見る（外部サイト・広告）`);
+  },[visible,item.productName,compact]);
   const click=event=>{
     if(!event.target.closest?.('a'))return;
     if(Date.parse(image.validUntil)<=Date.now()){event.preventDefault();setExpired(true);return;}
@@ -28,7 +35,7 @@ export default function ProductWindow({item,compact=false,context={}}) {
   };
   return <figure className={`product-window ${compact?'is-compact':''} ${visible?'has-image':'is-placeholder'}`} aria-label={`${item.productName}の商品画像`}>
     <div className="product-window-stage">{visible ?
-      <div className="official-product-creative" role="group" aria-label={`${item.productName}を楽天市場で見る（外部サイト・広告）`} onClick={click} onAuxClick={click} onErrorCapture={()=>setFailed(true)}
+      <div ref={creative} className="official-product-creative" role="group" aria-label={`${item.productName}を楽天市場で見る（外部サイト・広告）`} onClick={click} onAuxClick={click} onErrorCapture={()=>setFailed(true)}
         dangerouslySetInnerHTML={{__html:compact?image.compactHtml:image.html}} /> : <OchokoIcon />}</div>
     {!compact && (visible ? <figcaption><span>広告 / 楽天市場の商品画像。{image.capacityMl}ml</span><a href={image.affiliateUrl} target="_blank" rel="sponsored noopener" aria-label={`${item.productName}の楽天商品を見る（外部サイト）`} onClick={click}>楽天の商品を見る ↗</a></figcaption> :
       <figcaption><strong>商品画像は準備中です</strong><span>購入先でラベル・商品情報をご確認いただけます。</span></figcaption>)}

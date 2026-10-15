@@ -390,3 +390,101 @@ main.min-h-screen::after {
 }
 .purchase-provider { padding: 12px 0; }
 .purchase-provider.is-rakuten { border-left: 2px solid #b9a160; padding-left: 14px; }
+
+/* Compact comparison surfaces; original affiliate creative dimensions are untouched. */
+.choice-icon { display: inline-flex; align-items: center; justify-content: center; flex: 0 0 24px; width: 24px; height: 24px; color: #d8bd7a; }
+.choice-word { display: inline-block; }
+.discovery-hero { padding: 34px 0 24px; }
+.discovery-hero h1 { font-size: 36px; line-height: 1.55; }
+.discovery-hero .section-kicker { margin-bottom: 10px; }
+.hero-signature { margin-top: 12px; font-size: 14px; }
+.hero-sub { margin: 12px 0 0; font-size: 14px; }
+.hero-sub br { display: none; }
+.home-night-entrance { padding: 8px 0 24px; }
+.home-night-entrance .section-kicker { margin-bottom: 6px; }
+.home-night-grid { display: grid; grid-template-columns: repeat(3,minmax(0,1fr)); gap: 12px; }
+.desire-choice { display: grid; grid-template-columns: 24px minmax(0,1fr) 14px; gap: 12px; align-items: center; min-height: 88px; padding: 16px; text-align: left; border: 1px solid #d8bd7a50; border-radius: 6px; background: #10203660; }
+.desire-choice > span:not(.choice-icon) { min-width: 0; font-family: var(--font-body-ja); font-size: 16px; line-height: 1.6; overflow-wrap: anywhere; }
+.desire-choice > .interface-chevron { width: 14px; }
+.desire-choice:hover { border-color: #d8bd7a; background: #d8bd7a10; }
+.home-other-entrances { display: grid; grid-template-columns: 1fr 1fr; gap: 24px; margin-top: 18px; }
+.home-other-entrances a { display: flex; align-items: center; gap: 12px; min-height: 52px; padding: 10px 0; border-bottom: 1px solid #f8f0df30; font-size: 15px; }
+.home-other-entrances .interface-chevron { margin-left: auto; }
+.seasonal-entrance { margin-top: 8px; font-size: 13px; }
+.visual-night-grid .night-choice { padding: 16px; min-height: 88px; }
+.visual-night-grid .night-choice > span:first-child { display: inline-flex; }
+.visual-direction-grid { grid-template-columns: repeat(3,minmax(0,1fr)); }
+.visual-direction-grid .yoi-button { display: flex; align-items: center; justify-content: flex-start; gap: 12px; padding: 14px 16px; min-height: 64px; text-align: left; }
+.visual-dish { grid-template-columns: 26px minmax(0,1fr) 14px; align-items: center; padding: 14px; min-height: 82px; gap: 6px 10px; }
+.dish-choice.visual-dish > .choice-icon { grid-column: 1; grid-row: 1 / span 2; }
+.dish-choice.visual-dish > .dish-choice-name { grid-column: 2; grid-row: 1; font-family: var(--font-display-ja); font-size: 17px; line-height: 1.5; overflow-wrap: anywhere; }
+.dish-choice.visual-dish > small { grid-column: 2; grid-row: 2; font-size: 12px; line-height: 1.5; }
+.dish-choice.visual-dish > .interface-chevron { grid-column: 3; grid-row: 1 / span 2; width: 14px; }
+.food-choice-grid .visual-dish { min-height: 64px; padding-block: 10px; }
+.food-choice-grid .dish-choice-name small { display: block; font-family: var(--font-body-ja); color: #c6c7c8; margin-top: 2px; font-size: 12px; }
+.compact-sake-card { padding: 14px; align-self: start; }
+.compact-card-main { display: grid; grid-template-columns: 100px minmax(0,1fr); gap: 12px; align-items: start; }
+.compact-card-main > .product-window.is-compact { float: none; width: 100px; margin: 0; padding: 6px; border-radius: 4px; }
+.compact-card-main .product-window.is-compact figcaption { font-size: 11px; line-height: 1.5; }
+.compact-card-main .product-window.is-compact figcaption a { min-height: 36px; line-height: 1.5; padding-top: 4px; }
+.compact-card-copy { min-width: 0; }
+.compact-card-copy .card-catchphrase { color: #e6ca90; font-family: var(--font-body-ja); font-size: 14px; line-height: 1.65; margin: 0 0 8px; overflow-wrap: anywhere; }
+.compact-sake-card .compact-card-copy h3 { font-size: 18px; line-height: 1.5; margin: 0 0 8px; }
+.compact-sake-card .card-taste-tags { margin: 0; gap: 4px 8px; }
+.compact-sake-card .card-taste-tags li { font-size: 12px; line-height: 1.5; padding-bottom: 2px; color: #d1c7af; }
+.compact-sake-card .card-pairing-excerpt { margin: 12px 0 0; color: #d8d0bf; font-family: var(--font-body-ja); font-size: 13px; line-height: 1.6; display: -webkit-box; -webkit-box-orient: vertical; -webkit-line-clamp: 2; overflow: hidden; }
+.compact-card-footer { display: grid; grid-template-columns: minmax(0,1fr) 44px auto; align-items: center; gap: 8px; margin-top: 8px; }
+.compact-card-footer .card-location { min-width: 0; font-family: var(--font-body-ja); font-size: 12px; line-height: 1.6; color: #bcb8ad; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.compact-card-footer .ochoko-button { width: 44px; height: 44px; padding: 8px; }
+.compact-card-footer .sake-detail-link { font-size: 13px; gap: 4px; white-space: nowrap; }
+.compact-sake-card .card-details { margin-top: 8px; }
+.compact-sake-card .card-details summary { padding: 10px 0; }
+.detail-catchphrase { font-family: var(--font-display-ja); font-size: 21px; color: #e6ca90; line-height: 1.7; margin: 8px 0 14px; max-width: 34em; }
+.sake-detail-hero > h1 { margin-bottom: 8px !important; }
+.drinking-style { margin: 12px 0; }
+.drinking-style > span { font-size: 13px; color: #cdc6b6; }
+.drinking-style .temperature-shortcuts { margin: 8px 0; }
+.recommendations-title > span { display: inline-block; }
+
+@media (min-width: 761px) and (max-width: 1050px) {
+  .recommendation-grid, .search-result-grid { grid-template-columns: repeat(2,minmax(0,1fr)); }
+}
+@media (max-width: 760px) {
+  .discovery-hero { padding: 22px 0 18px; }
+  .discovery-hero h1 { font-size: 26px; line-height: 1.6; }
+  .hero-signature { font-size: 13px; margin-top: 8px; }
+  .hero-sub { font-size: 13px; line-height: 1.7; margin-top: 10px; }
+  .home-night-grid, .visual-night-grid { grid-template-columns: repeat(2,minmax(0,1fr)); gap: 10px; }
+  .home-night-entrance h2 { font-size: 22px; margin-bottom: 14px; }
+  .desire-choice, .visual-night-grid .night-choice { grid-template-columns: 24px minmax(0,1fr); gap: 10px; padding: 12px; min-height: 90px; }
+  .desire-choice > .interface-chevron { display: none; }
+  .desire-choice > span:not(.choice-icon) { font-size: 15px; line-height: 1.55; }
+  .home-other-entrances { gap: 16px; margin-top: 12px; }
+  .home-other-entrances a { font-size: 13px; gap: 8px; }
+  .visual-direction-grid { grid-template-columns: repeat(2,minmax(0,1fr)); gap: 10px; }
+  .visual-direction-grid .yoi-button { gap: 10px; min-height: 60px; font-size: 14px; padding: 12px; }
+  .dish-choice-grid { margin-top: 18px; }
+  .dish-choice.visual-dish { grid-template-columns: 24px minmax(0,1fr); min-height: 96px; gap: 5px 8px; padding: 12px; }
+  .dish-choice.visual-dish > .interface-chevron { display: none; }
+  .dish-choice.visual-dish > .dish-choice-name { font-size: 16px; }
+  .food-choice-grid .dish-choice.visual-dish { min-height: 78px; }
+  .compact-sake-card { padding: 12px; }
+  .compact-card-main { gap: 12px; }
+  .recommendation-grid, .search-result-grid { gap: 12px; }
+  .detail-catchphrase { font-size: 18px; }
+}
+@media (max-width: 360px) {
+  .desire-choice, .visual-night-grid .night-choice { grid-template-columns: 1fr; justify-items: start; gap: 6px; min-height: 96px; }
+  .desire-choice > span:not(.choice-icon) { font-size: 15px; }
+  .dish-choice.visual-dish { grid-template-columns: minmax(0,1fr); min-height: 116px; }
+  .dish-choice.visual-dish > .choice-icon { grid-column: 1; grid-row: 1; }
+  .dish-choice.visual-dish > .dish-choice-name { grid-column: 1; grid-row: 2; }
+  .dish-choice.visual-dish > small { grid-column: 1; grid-row: 3; }
+  .food-choice-grid .dish-choice.visual-dish { min-height: 78px; grid-template-columns: 20px minmax(0,1fr); padding: 10px; }
+  .food-choice-grid .dish-choice.visual-dish > .choice-icon { grid-column: 1; grid-row: 1 / span 2; width: 20px; height: 20px; }
+  .food-choice-grid .dish-choice.visual-dish > .choice-icon svg { width: 20px; height: 20px; }
+  .food-choice-grid .dish-choice.visual-dish > .dish-choice-name { grid-column: 2; grid-row: 1; }
+  .compact-card-main { gap: 10px; }
+  .compact-card-copy .card-catchphrase { font-size: 14px; }
+  .compact-sake-card .compact-card-copy h3 { font-size: 17px; }
+}

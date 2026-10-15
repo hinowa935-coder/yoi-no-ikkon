@@ -4,7 +4,7 @@ const names = [
   ['room', '冷や・常温', 20, 'room'], ['sun', '日向燗', 30, 'warm'], ['skin', '人肌燗', 35, 'warm'],
   ['lukewarm', 'ぬる燗', 40, 'warm'], ['upper', '上燗', 45, 'warm'], ['hot', '熱燗', 50, 'warm'], ['extra-hot', '飛び切り燗', 55, 'warm'],
 ];
-export const temperatureGroups = [['cold', '冷たい'], ['room', '常温'], ['warm', '温かい']];
+export const temperatureGroups = [['cold', '冷酒'], ['room', '常温'], ['warm', '熱燗']];
 export function normalizeTemperature(raw) {
   const value = String(raw).trim();
   const named = names.find(([,name]) => value.includes(name === '冷や・常温' ? '常温' : name));
