@@ -1,41 +1,30 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
 import fs from 'node:fs';
-import { aboutTitle, aboutDescription, aboutSections, aboutClosing, homeAbout } from '../src/app/about/content.js';
-
-const read = path => fs.readFileSync(path, 'utf8');
-const normalize = text => text.replace(/\r/g, '').replace(/\s+/g, ' ').trim();
-
-test('About preserves the operator-approved draft in full and in order', () => {
-  const actual = [`# ${aboutTitle}`, ...aboutSections.flatMap(section => [`## ${section.heading}`, ...section.paragraphs]), ...aboutClosing].join('\n\n');
-  assert.equal(normalize(actual), normalize(read('docs/about-tone/approved-copy.md')));
-  assert.equal(aboutSections.length, 7);
-  assert(aboutSections.flatMap(section => section.paragraphs).includes('まだ始めてもいないので、偉そうなことは言えません。'));
+import {aboutTitle,aboutDescription,aboutIntroduction,aboutPaths,aboutMaker,aboutInterests,aboutDetails,aboutClosing,homeAbout} from '../src/app/about/content.js';
+const read=path=>fs.readFileSync(path,'utf8');
+test('Home uses exactly the two operator-supplied sentences after the discovery entrances',()=>{
+ assert.equal(homeAbout.heading,'酒を飲む側から、米をつくる側へ。');
+ assert.deepEqual(homeAbout.paragraphs,['佐賀で米づくりに携わります。','米づくりの現場で知ったことを、少しずつ宵の一献にも。']);
+ const page=read('src/app/page.jsx');assert(page.indexOf('<DailyPick />')<page.indexOf('className="home-about"'));assert(page.includes('href="/about"'));
 });
-
-test('About metadata has an absolute title, canonical, and no noindex', () => {
-  const source = read('src/app/about/page.jsx');
-  assert(source.includes('title: { absolute:'));
-  assert(source.includes("canonical: '/about'"));
-  assert(!source.includes('noindex'));
-  assert.equal(aboutDescription, '夜の気分や家庭料理から日本酒を選ぶ「宵の一献」を作った理由と、東京を離れて佐賀で農業を始める運営者について。');
-  assert(read('app/about/page.jsx').includes('default, metadata'));
-  assert(read('src/app/sitemap.js').includes('`${SITE_URL}/about`'));
+test('About keeps the maker and concept visible, with three ways and five concrete interests',()=>{
+ assert.equal(aboutTitle,'宵の一献について');assert.equal(aboutIntroduction.heading,'こんな夜なら、何を食べよう。何を飲もう。');
+ assert.equal(aboutPaths.length,3);assert.deepEqual(aboutInterests.map(i=>i.heading),['酒','米','食','土地','器']);
+ const maker=aboutMaker.paragraphs.join('');for(const text of ['東京','佐賀','米づくり','知らない','農家だから分かる','ごはんも米。','日本酒も米。','現場'])assert(maker.includes(text));
+ assert(!maker.includes('収入'));assert(maker.length<350);
+ const page=read('src/app/about/page.jsx');assert(page.includes('className="about-prose about-maker"'));assert(!page.includes('Wine'));assert(page.includes('OchokoIcon'));
 });
-
-test('Home puts the supplied introduction below all primary exploration entrances', () => {
-  const source = read('src/app/page.jsx');
-  assert(source.indexOf('<DailyPick />') < source.indexOf('className="home-about"'));
-  assert(source.includes('href="/about"'));
-  assert.equal(homeAbout.heading, '酒を飲む側から、米をつくる側へ。');
-  assert.deepEqual(homeAbout.paragraphs, [
-    '東京で会社員として働く生活をやめて、地元の佐賀で農業を始めます。',
-    'まだ分からないことばかりですが、そこで知ったことや感じたことも、少しずつ宵の一献に持って帰ってこられたらと思っています。',
-  ]);
+test('About has four native, closed disclosures with persistent summaries and no internal backlog copy',()=>{
+ assert.deepEqual(aboutDetails.map(d=>d.heading),['料理について','おすすめの考え方','購入リンクについて','まだ、つくっている途中です']);
+ for(const detail of aboutDetails){assert(detail.summary);assert(detail.paragraphs.length>0);}
+ const page=read('src/app/about/page.jsx');assert(page.includes('<details'));assert(!/<details[^>]*\bopen(?:\s|=|>)/.test(page));assert(page.includes('{detail.summary}'));assert(page.includes('ChevronDown'));assert(!page.includes('use client'));
+ assert(!JSON.stringify(aboutDetails).includes('料理の名前が重複'));assert(!JSON.stringify(aboutDetails).includes('商品画像が見つからな'));
+ const purchase=aboutDetails.find(d=>d.id==='purchase');assert(purchase.summary.includes('広告収益'));assert(purchase.paragraphs.join('').includes('収益が入る'));assert(purchase.paragraphs.join('').includes('上位に表示する'));
+ assert.equal(aboutClosing[2],'そんなときに、ふと思い出してもらえる場所に。');
 });
-
-test('Footer preserves advertising and purchase disclosures alongside the new About link', () => {
-  const source = read('src/app/components/DiscoveryShell.jsx');
-  for (const value of ['href="/about"', 'href="/about/advertising"', 'PURCHASE_INFORMATION_NOTICE', 'AFFILIATE_FOOTER_ACTIVE', 'AFFILIATE_FOOTER_INACTIVE', 'AMAZON_DISCLOSURE', '<RakutenCredit />', 'お酒は20歳になってから。']) assert(source.includes(value), value);
-  assert(!read('src/app/about/page.jsx').includes('use client'));
+test('About SEO, footer advertising and existing URL routes remain intact',()=>{
+ const page=read('src/app/about/page.jsx');assert(page.includes('title: { absolute:'));assert(page.includes("canonical: '/about'"));assert(!page.includes('noindex'));assert(aboutDescription.includes('米づくり'));
+ assert(read('app/about/page.jsx').includes('default, metadata'));assert(read('src/app/sitemap.js').includes('`${SITE_URL}/about`'));
+ const shell=read('src/app/components/DiscoveryShell.jsx');for(const value of ['href="/about"','href="/about/advertising"','PURCHASE_INFORMATION_NOTICE','AFFILIATE_FOOTER_ACTIVE','AFFILIATE_FOOTER_INACTIVE','AMAZON_DISCLOSURE','<RakutenCredit />','お酒は20歳になってから。'])assert(shell.includes(value));
 });

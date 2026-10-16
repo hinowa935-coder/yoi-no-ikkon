@@ -1,10 +1,51 @@
 @import "tailwindcss";
 
-.about-page { max-width: 42rem; margin: 0 auto; padding: 40px 0 8px; }
-.about-page h1 { font-size: 28px; line-height: 1.6; margin: 0 0 32px; }
-.about-page h2 { font-size: 22px; line-height: 1.7; margin: 0 0 24px; overflow-wrap: anywhere; }
-.about-page section + section, .about-closing { margin-top: 48px; }
+.about-page { --about-gold: #d8bd7a; max-width: 54rem; margin: 0 auto; padding: 40px 0 8px; }
+.discovery-shell .about-page #about-title { font-size: 28px; line-height: 1.6; max-width: 42rem; margin: 0 auto 36px; }
+.discovery-shell .about-page h2 { font-size: 22px; line-height: 1.7; margin: 0 0 24px; overflow-wrap: anywhere; text-wrap: pretty; }
+.about-page > section + section, .about-details, .about-closing { margin-top: 48px; }
 .about-page p { font-family: var(--font-body-ja); font-size: 16px; line-height: 1.95; margin: 0 0 20px; white-space: pre-line; overflow-wrap: anywhere; }
+.about-page .about-prose { max-width: 42rem; margin-left: auto; margin-right: auto; }
+.about-page .about-emphasis { color: var(--about-gold); margin-top: 28px; }
+.about-paths, .about-interests { list-style: none; padding: 0; margin: 0; display: grid; gap: 16px; }
+.about-paths { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+.about-paths li { display: flex; gap: 12px; align-items: flex-start; padding: 20px 16px; border: 1px solid #d8bd7a33; border-radius: 4px; min-width: 0; }
+.about-icon { display: inline-flex; color: var(--about-gold); width: 24px; height: 24px; flex: 0 0 24px; }
+.about-page .about-paths h3 { margin: 0 0 10px; font-size: 17px; line-height: 1.6; }
+.about-page .about-paths p, .about-page .about-interests p { font-size: 14px; line-height: 1.8; margin: 0; }
+.about-interests { grid-template-columns: repeat(5, minmax(0, 1fr)); gap: 20px; }
+.about-interests li { border-top: 1px solid #d8bd7a33; padding-top: 20px; min-width: 0; }
+.about-page .about-interests h3 { font-size: 19px; margin: 14px 0 8px; }
+.about-page .about-interest-note { margin-top: 28px; font-size: 15px; }
+.about-detail { border-top: 1px solid #d8bd7a33; }
+.about-detail:last-child { border-bottom: 1px solid #d8bd7a33; }
+.discovery-shell .about-detail > summary { display: flex; justify-content: space-between; align-items: center; gap: 20px; min-height: 100px; padding: 22px 0; list-style: none; }
+.about-detail > summary::-webkit-details-marker { display: none; }
+.about-detail > summary::marker { content: ''; }
+.about-detail-label { display: grid; gap: 8px; min-width: 0; }
+.about-detail-title { font-size: 18px; line-height: 1.6; color: #f8f0df; }
+.about-detail-summary { font-size: 14px; line-height: 1.8; color: #c7c5bf; }
+.about-detail-chevron { flex-shrink: 0; color: var(--about-gold); transition: transform 180ms ease; }
+.about-detail[open] .about-detail-chevron { transform: rotate(180deg); }
+.about-detail-body { padding: 0 0 14px; }
+.about-page .about-detail-body p { font-size: 15px; }
+.about-page .about-closing { margin-top: 56px; padding-top: 12px; }
+.about-closing h2 span { display: block; }
+.about-page .about-closing p { font-size: 14px; color: #c7c5bf; }
+.about-closing .text-link { display: inline-flex; gap: 8px; align-items: center; min-height: 44px; font-size: 14px; }
+@media (hover: hover) { .about-detail > summary:hover { background: #d8bd7a08; } }
+@media (max-width: 768px) {
+  .about-paths { grid-template-columns: 1fr; gap: 12px; }
+  .about-interests { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 24px 20px; }
+  .about-page > section + section, .about-details { margin-top: 36px; }
+}
+@media (max-width: 480px) {
+  .about-page { padding-top: 28px; }
+  .discovery-shell .about-page h2 { font-size: 20px; }
+  .about-page p { font-size: 15px; line-height: 1.9; margin-bottom: 18px; }
+}
+@media (max-width: 360px) { .about-interests { grid-template-columns: 1fr; } }
+@media (prefers-reduced-motion: reduce) { .about-detail-chevron { transition: none; } }
 .home-about { border-top: 1px solid #f8f0df25; padding: 28px 0 0; margin-top: 36px; }
 .home-about h2 { font-size: 20px; line-height: 1.7; margin: 0 0 16px; }
 .home-about p { font-size: 14px; line-height: 1.85; margin: 0 0 14px; max-width: 42rem; }

@@ -1,0 +1,655 @@
+{
+  "checkedAt": "2026-10-16T21:20:20.685Z",
+  "base": "http://127.0.0.1:3196",
+  "checks": [
+    {
+      "name": "webkit-320: four disclosures start closed",
+      "passed": true
+    },
+    {
+      "name": "webkit-320: maker remains visible outside disclosures",
+      "passed": true
+    },
+    {
+      "name": "webkit-320: three paths and five illustrated interests",
+      "passed": true
+    },
+    {
+      "name": "webkit-320: responsive paths",
+      "passed": true,
+      "detail": {
+        "columns": 1
+      }
+    },
+    {
+      "name": "webkit-320: no horizontal overflow",
+      "passed": true
+    },
+    {
+      "name": "webkit-320: food persistent summary",
+      "passed": true
+    },
+    {
+      "name": "webkit-320: food expanded body",
+      "passed": true
+    },
+    {
+      "name": "webkit-320: food chevron rotates",
+      "passed": true
+    },
+    {
+      "name": "webkit-320: food collapses again",
+      "passed": true
+    },
+    {
+      "name": "webkit-320: recommendation persistent summary",
+      "passed": true
+    },
+    {
+      "name": "webkit-320: recommendation expanded body",
+      "passed": true
+    },
+    {
+      "name": "webkit-320: recommendation chevron rotates",
+      "passed": true
+    },
+    {
+      "name": "webkit-320: recommendation collapses again",
+      "passed": true
+    },
+    {
+      "name": "webkit-320: purchase persistent summary",
+      "passed": true
+    },
+    {
+      "name": "webkit-320: purchase expanded body",
+      "passed": true
+    },
+    {
+      "name": "webkit-320: purchase chevron rotates",
+      "passed": true
+    },
+    {
+      "name": "webkit-320: purchase collapses again",
+      "passed": true
+    },
+    {
+      "name": "webkit-320: work-in-progress persistent summary",
+      "passed": true
+    },
+    {
+      "name": "webkit-320: work-in-progress expanded body",
+      "passed": true
+    },
+    {
+      "name": "webkit-320: work-in-progress chevron rotates",
+      "passed": true
+    },
+    {
+      "name": "webkit-320: work-in-progress collapses again",
+      "passed": true
+    },
+    {
+      "name": "webkit-320: no income or internal backlog copy",
+      "passed": true
+    },
+    {
+      "name": "webkit-320: canonical retained",
+      "passed": true
+    },
+    {
+      "name": "webkit-320: exact home copy",
+      "passed": true
+    },
+    {
+      "name": "webkit-320: home link reaches About",
+      "passed": true
+    },
+    {
+      "name": "webkit-320: return link works",
+      "passed": true
+    },
+    {
+      "name": "webkit-360: four disclosures start closed",
+      "passed": true
+    },
+    {
+      "name": "webkit-360: maker remains visible outside disclosures",
+      "passed": true
+    },
+    {
+      "name": "webkit-360: three paths and five illustrated interests",
+      "passed": true
+    },
+    {
+      "name": "webkit-360: responsive paths",
+      "passed": true,
+      "detail": {
+        "columns": 1
+      }
+    },
+    {
+      "name": "webkit-360: no horizontal overflow",
+      "passed": true
+    },
+    {
+      "name": "webkit-360: food persistent summary",
+      "passed": true
+    },
+    {
+      "name": "webkit-360: food expanded body",
+      "passed": true
+    },
+    {
+      "name": "webkit-360: food chevron rotates",
+      "passed": true
+    },
+    {
+      "name": "webkit-360: food collapses again",
+      "passed": true
+    },
+    {
+      "name": "webkit-360: recommendation persistent summary",
+      "passed": true
+    },
+    {
+      "name": "webkit-360: recommendation expanded body",
+      "passed": true
+    },
+    {
+      "name": "webkit-360: recommendation chevron rotates",
+      "passed": true
+    },
+    {
+      "name": "webkit-360: recommendation collapses again",
+      "passed": true
+    },
+    {
+      "name": "webkit-360: purchase persistent summary",
+      "passed": true
+    },
+    {
+      "name": "webkit-360: purchase expanded body",
+      "passed": true
+    },
+    {
+      "name": "webkit-360: purchase chevron rotates",
+      "passed": true
+    },
+    {
+      "name": "webkit-360: purchase collapses again",
+      "passed": true
+    },
+    {
+      "name": "webkit-360: work-in-progress persistent summary",
+      "passed": true
+    },
+    {
+      "name": "webkit-360: work-in-progress expanded body",
+      "passed": true
+    },
+    {
+      "name": "webkit-360: work-in-progress chevron rotates",
+      "passed": true
+    },
+    {
+      "name": "webkit-360: work-in-progress collapses again",
+      "passed": true
+    },
+    {
+      "name": "webkit-360: no income or internal backlog copy",
+      "passed": true
+    },
+    {
+      "name": "webkit-360: canonical retained",
+      "passed": true
+    },
+    {
+      "name": "webkit-360: exact home copy",
+      "passed": true
+    },
+    {
+      "name": "webkit-360: home link reaches About",
+      "passed": true
+    },
+    {
+      "name": "webkit-360: return link works",
+      "passed": true
+    },
+    {
+      "name": "webkit-375: four disclosures start closed",
+      "passed": true
+    },
+    {
+      "name": "webkit-375: maker remains visible outside disclosures",
+      "passed": true
+    },
+    {
+      "name": "webkit-375: three paths and five illustrated interests",
+      "passed": true
+    },
+    {
+      "name": "webkit-375: responsive paths",
+      "passed": true,
+      "detail": {
+        "columns": 1
+      }
+    },
+    {
+      "name": "webkit-375: no horizontal overflow",
+      "passed": true
+    },
+    {
+      "name": "webkit-375: food persistent summary",
+      "passed": true
+    },
+    {
+      "name": "webkit-375: food expanded body",
+      "passed": true
+    },
+    {
+      "name": "webkit-375: food chevron rotates",
+      "passed": true
+    },
+    {
+      "name": "webkit-375: food collapses again",
+      "passed": true
+    },
+    {
+      "name": "webkit-375: recommendation persistent summary",
+      "passed": true
+    },
+    {
+      "name": "webkit-375: recommendation expanded body",
+      "passed": true
+    },
+    {
+      "name": "webkit-375: recommendation chevron rotates",
+      "passed": true
+    },
+    {
+      "name": "webkit-375: recommendation collapses again",
+      "passed": true
+    },
+    {
+      "name": "webkit-375: purchase persistent summary",
+      "passed": true
+    },
+    {
+      "name": "webkit-375: purchase expanded body",
+      "passed": true
+    },
+    {
+      "name": "webkit-375: purchase chevron rotates",
+      "passed": true
+    },
+    {
+      "name": "webkit-375: purchase collapses again",
+      "passed": true
+    },
+    {
+      "name": "webkit-375: work-in-progress persistent summary",
+      "passed": true
+    },
+    {
+      "name": "webkit-375: work-in-progress expanded body",
+      "passed": true
+    },
+    {
+      "name": "webkit-375: work-in-progress chevron rotates",
+      "passed": true
+    },
+    {
+      "name": "webkit-375: work-in-progress collapses again",
+      "passed": true
+    },
+    {
+      "name": "webkit-375: no income or internal backlog copy",
+      "passed": true
+    },
+    {
+      "name": "webkit-375: canonical retained",
+      "passed": true
+    },
+    {
+      "name": "webkit-375: exact home copy",
+      "passed": true
+    },
+    {
+      "name": "webkit-375: home link reaches About",
+      "passed": true
+    },
+    {
+      "name": "webkit-375: return link works",
+      "passed": true
+    },
+    {
+      "name": "webkit-390: four disclosures start closed",
+      "passed": true
+    },
+    {
+      "name": "webkit-390: maker remains visible outside disclosures",
+      "passed": true
+    },
+    {
+      "name": "webkit-390: three paths and five illustrated interests",
+      "passed": true
+    },
+    {
+      "name": "webkit-390: responsive paths",
+      "passed": true,
+      "detail": {
+        "columns": 1
+      }
+    },
+    {
+      "name": "webkit-390: no horizontal overflow",
+      "passed": true
+    },
+    {
+      "name": "webkit-390: food persistent summary",
+      "passed": true
+    },
+    {
+      "name": "webkit-390: food expanded body",
+      "passed": true
+    },
+    {
+      "name": "webkit-390: food chevron rotates",
+      "passed": true
+    },
+    {
+      "name": "webkit-390: food collapses again",
+      "passed": true
+    },
+    {
+      "name": "webkit-390: recommendation persistent summary",
+      "passed": true
+    },
+    {
+      "name": "webkit-390: recommendation expanded body",
+      "passed": true
+    },
+    {
+      "name": "webkit-390: recommendation chevron rotates",
+      "passed": true
+    },
+    {
+      "name": "webkit-390: recommendation collapses again",
+      "passed": true
+    },
+    {
+      "name": "webkit-390: purchase persistent summary",
+      "passed": true
+    },
+    {
+      "name": "webkit-390: purchase expanded body",
+      "passed": true
+    },
+    {
+      "name": "webkit-390: purchase chevron rotates",
+      "passed": true
+    },
+    {
+      "name": "webkit-390: purchase collapses again",
+      "passed": true
+    },
+    {
+      "name": "webkit-390: work-in-progress persistent summary",
+      "passed": true
+    },
+    {
+      "name": "webkit-390: work-in-progress expanded body",
+      "passed": true
+    },
+    {
+      "name": "webkit-390: work-in-progress chevron rotates",
+      "passed": true
+    },
+    {
+      "name": "webkit-390: work-in-progress collapses again",
+      "passed": true
+    },
+    {
+      "name": "webkit-390: no income or internal backlog copy",
+      "passed": true
+    },
+    {
+      "name": "webkit-390: canonical retained",
+      "passed": true
+    },
+    {
+      "name": "webkit-390: exact home copy",
+      "passed": true
+    },
+    {
+      "name": "webkit-390: home link reaches About",
+      "passed": true
+    },
+    {
+      "name": "webkit-390: return link works",
+      "passed": true
+    },
+    {
+      "name": "webkit-430: four disclosures start closed",
+      "passed": true
+    },
+    {
+      "name": "webkit-430: maker remains visible outside disclosures",
+      "passed": true
+    },
+    {
+      "name": "webkit-430: three paths and five illustrated interests",
+      "passed": true
+    },
+    {
+      "name": "webkit-430: responsive paths",
+      "passed": true,
+      "detail": {
+        "columns": 1
+      }
+    },
+    {
+      "name": "webkit-430: no horizontal overflow",
+      "passed": true
+    },
+    {
+      "name": "webkit-430: food persistent summary",
+      "passed": true
+    },
+    {
+      "name": "webkit-430: food expanded body",
+      "passed": true
+    },
+    {
+      "name": "webkit-430: food chevron rotates",
+      "passed": true
+    },
+    {
+      "name": "webkit-430: food collapses again",
+      "passed": true
+    },
+    {
+      "name": "webkit-430: recommendation persistent summary",
+      "passed": true
+    },
+    {
+      "name": "webkit-430: recommendation expanded body",
+      "passed": true
+    },
+    {
+      "name": "webkit-430: recommendation chevron rotates",
+      "passed": true
+    },
+    {
+      "name": "webkit-430: recommendation collapses again",
+      "passed": true
+    },
+    {
+      "name": "webkit-430: purchase persistent summary",
+      "passed": true
+    },
+    {
+      "name": "webkit-430: purchase expanded body",
+      "passed": true
+    },
+    {
+      "name": "webkit-430: purchase chevron rotates",
+      "passed": true
+    },
+    {
+      "name": "webkit-430: purchase collapses again",
+      "passed": true
+    },
+    {
+      "name": "webkit-430: work-in-progress persistent summary",
+      "passed": true
+    },
+    {
+      "name": "webkit-430: work-in-progress expanded body",
+      "passed": true
+    },
+    {
+      "name": "webkit-430: work-in-progress chevron rotates",
+      "passed": true
+    },
+    {
+      "name": "webkit-430: work-in-progress collapses again",
+      "passed": true
+    },
+    {
+      "name": "webkit-430: no income or internal backlog copy",
+      "passed": true
+    },
+    {
+      "name": "webkit-430: canonical retained",
+      "passed": true
+    },
+    {
+      "name": "webkit-430: exact home copy",
+      "passed": true
+    },
+    {
+      "name": "webkit-430: home link reaches About",
+      "passed": true
+    },
+    {
+      "name": "webkit-430: return link works",
+      "passed": true
+    },
+    {
+      "name": "chromium-1280: four disclosures start closed",
+      "passed": true
+    },
+    {
+      "name": "chromium-1280: maker remains visible outside disclosures",
+      "passed": true
+    },
+    {
+      "name": "chromium-1280: three paths and five illustrated interests",
+      "passed": true
+    },
+    {
+      "name": "chromium-1280: responsive paths",
+      "passed": true,
+      "detail": {
+        "columns": 3
+      }
+    },
+    {
+      "name": "chromium-1280: no horizontal overflow",
+      "passed": true
+    },
+    {
+      "name": "chromium-1280: food persistent summary",
+      "passed": true
+    },
+    {
+      "name": "chromium-1280: food expanded body",
+      "passed": true
+    },
+    {
+      "name": "chromium-1280: food chevron rotates",
+      "passed": true
+    },
+    {
+      "name": "chromium-1280: food collapses again",
+      "passed": true
+    },
+    {
+      "name": "chromium-1280: recommendation persistent summary",
+      "passed": true
+    },
+    {
+      "name": "chromium-1280: recommendation expanded body",
+      "passed": true
+    },
+    {
+      "name": "chromium-1280: recommendation chevron rotates",
+      "passed": true
+    },
+    {
+      "name": "chromium-1280: recommendation collapses again",
+      "passed": true
+    },
+    {
+      "name": "chromium-1280: purchase persistent summary",
+      "passed": true
+    },
+    {
+      "name": "chromium-1280: purchase expanded body",
+      "passed": true
+    },
+    {
+      "name": "chromium-1280: purchase chevron rotates",
+      "passed": true
+    },
+    {
+      "name": "chromium-1280: purchase collapses again",
+      "passed": true
+    },
+    {
+      "name": "chromium-1280: work-in-progress persistent summary",
+      "passed": true
+    },
+    {
+      "name": "chromium-1280: work-in-progress expanded body",
+      "passed": true
+    },
+    {
+      "name": "chromium-1280: work-in-progress chevron rotates",
+      "passed": true
+    },
+    {
+      "name": "chromium-1280: work-in-progress collapses again",
+      "passed": true
+    },
+    {
+      "name": "chromium-1280: no income or internal backlog copy",
+      "passed": true
+    },
+    {
+      "name": "chromium-1280: canonical retained",
+      "passed": true
+    },
+    {
+      "name": "chromium-1280: native keyboard expansion",
+      "passed": true
+    },
+    {
+      "name": "chromium-1280: exact home copy",
+      "passed": true
+    },
+    {
+      "name": "chromium-1280: home link reaches About",
+      "passed": true
+    },
+    {
+      "name": "chromium-1280: return link works",
+      "passed": true
+    }
+  ],
+  "errors": [],
+  "functionalChecksPassed": true,
+  "realIPhoneTested": false
+}

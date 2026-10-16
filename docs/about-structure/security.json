@@ -1,0 +1,404 @@
+{
+  "checkedAt": "2026-10-16T21:20:23.750Z",
+  "sourceCommit": "3694f6e7912a70646f7fd746f6c9c0bfe6bd9a48",
+  "protectedFiles": [
+    {
+      "file": "package-lock.json",
+      "unchanged": true
+    },
+    {
+      "file": "package.json",
+      "unchanged": true
+    },
+    {
+      "file": "public/favicon-v24.svg",
+      "unchanged": true
+    },
+    {
+      "file": "public/favicon.svg",
+      "unchanged": true
+    },
+    {
+      "file": "public/icons/apple-touch-icon-v24.png",
+      "unchanged": true
+    },
+    {
+      "file": "public/icons/apple-touch-icon.png",
+      "unchanged": true
+    },
+    {
+      "file": "public/icons/favicon-32-v24.png",
+      "unchanged": true
+    },
+    {
+      "file": "public/icons/favicon-32.png",
+      "unchanged": true
+    },
+    {
+      "file": "public/icons/icon-192-v24.png",
+      "unchanged": true
+    },
+    {
+      "file": "public/icons/icon-192.png",
+      "unchanged": true
+    },
+    {
+      "file": "public/icons/icon-512-v24.png",
+      "unchanged": true
+    },
+    {
+      "file": "public/icons/icon-512.png",
+      "unchanged": true
+    },
+    {
+      "file": "public/icons/icon-source.svg",
+      "unchanged": true
+    },
+    {
+      "file": "public/icons/maskable-192-v24.png",
+      "unchanged": true
+    },
+    {
+      "file": "public/icons/maskable-192.png",
+      "unchanged": true
+    },
+    {
+      "file": "public/icons/maskable-512-v24.png",
+      "unchanged": true
+    },
+    {
+      "file": "public/icons/maskable-512.png",
+      "unchanged": true
+    },
+    {
+      "file": "public/images/ochoko-moon-crescent.png",
+      "unchanged": true
+    },
+    {
+      "file": "public/images/ochoko-moon-reflection-only.png",
+      "unchanged": true
+    },
+    {
+      "file": "public/images/ochoko-moon.png",
+      "unchanged": true
+    },
+    {
+      "file": "public/manifest.webmanifest",
+      "unchanged": true
+    },
+    {
+      "file": "public/og-default.svg",
+      "unchanged": true
+    },
+    {
+      "file": "public/sw.js",
+      "unchanged": true
+    },
+    {
+      "file": "src/app/components/DiscoveryShell.jsx",
+      "unchanged": true
+    },
+    {
+      "file": "src/app/components/InterfaceIcons.jsx",
+      "unchanged": true
+    },
+    {
+      "file": "src/app/components/PrimaryNavigation.jsx",
+      "unchanged": true
+    },
+    {
+      "file": "src/app/page.jsx",
+      "unchanged": true
+    },
+    {
+      "file": "src/commerce/discovery.js",
+      "unchanged": true
+    },
+    {
+      "file": "src/commerce/entryTracking.js",
+      "unchanged": true
+    },
+    {
+      "file": "src/commerce/finalCommerce.js",
+      "unchanged": true
+    },
+    {
+      "file": "src/commerce/foodSpecialties.json",
+      "unchanged": true
+    },
+    {
+      "file": "src/commerce/foodSpecialtyModel.js",
+      "unchanged": true
+    },
+    {
+      "file": "src/commerce/generated/commerce-final-approvals.json",
+      "unchanged": true
+    },
+    {
+      "file": "src/commerce/generated/discovery-links.json",
+      "unchanged": true
+    },
+    {
+      "file": "src/commerce/generated/merchant-links.json",
+      "unchanged": true
+    },
+    {
+      "file": "src/commerce/generated/product-media.json",
+      "unchanged": true
+    },
+    {
+      "file": "src/commerce/generated/purchase-matches.json",
+      "unchanged": true
+    },
+    {
+      "file": "src/commerce/generated/replacement-ids.json",
+      "unchanged": true
+    },
+    {
+      "file": "src/commerce/localCommercial.js",
+      "unchanged": true
+    },
+    {
+      "file": "src/commerce/localPilot.js",
+      "unchanged": true
+    },
+    {
+      "file": "src/commerce/offerModel.js",
+      "unchanged": true
+    },
+    {
+      "file": "src/commerce/productMedia.js",
+      "unchanged": true
+    },
+    {
+      "file": "src/commerce/providers.js",
+      "unchanged": true
+    },
+    {
+      "file": "src/commerce/purchaseNotice.js",
+      "unchanged": true
+    },
+    {
+      "file": "src/commerce/purchasePresentation.js",
+      "unchanged": true
+    },
+    {
+      "file": "src/commerce/purchaseRouting.js",
+      "unchanged": true
+    },
+    {
+      "file": "src/commerce/rakuten-staged-links.json",
+      "unchanged": true
+    },
+    {
+      "file": "src/commerce/rakutenActivation.js",
+      "unchanged": true
+    },
+    {
+      "file": "src/commerce/rakutenLifecycle.js",
+      "unchanged": true
+    },
+    {
+      "file": "src/commerce/registry.json",
+      "unchanged": true
+    },
+    {
+      "file": "src/commerce/release-approvals.json",
+      "unchanged": true
+    },
+    {
+      "file": "src/commerce/searchOffers.js",
+      "unchanged": true
+    },
+    {
+      "file": "src/commerce/server.js",
+      "unchanged": true
+    },
+    {
+      "file": "src/commerce/skuPolicy.js",
+      "unchanged": true
+    },
+    {
+      "file": "src/commerce/tracking.js",
+      "unchanged": true
+    },
+    {
+      "file": "src/commerce/validation.js",
+      "unchanged": true
+    },
+    {
+      "file": "src/data/cardPresentation.js",
+      "unchanged": true
+    },
+    {
+      "file": "src/data/catalogAdditions.json",
+      "unchanged": true
+    },
+    {
+      "file": "src/data/catalogLifecycle.json",
+      "unchanged": true
+    },
+    {
+      "file": "src/data/discovery.js",
+      "unchanged": true
+    },
+    {
+      "file": "src/data/discoveryCatalog.json",
+      "unchanged": true
+    },
+    {
+      "file": "src/data/discoveryContext.js",
+      "unchanged": true
+    },
+    {
+      "file": "src/data/discoveryNights.js",
+      "unchanged": true
+    },
+    {
+      "file": "src/data/editorialNightAssignments.js",
+      "unchanged": true
+    },
+    {
+      "file": "src/data/extraSakePairings.js",
+      "unchanged": true
+    },
+    {
+      "file": "src/data/favoriteReferences.js",
+      "unchanged": true
+    },
+    {
+      "file": "src/data/favoriteReferences.json",
+      "unchanged": true
+    },
+    {
+      "file": "src/data/foodCatalog.js",
+      "unchanged": true
+    },
+    {
+      "file": "src/data/foodCatalog.json",
+      "unchanged": true
+    },
+    {
+      "file": "src/data/groundedPairingCopy.js",
+      "unchanged": true
+    },
+    {
+      "file": "src/data/highExposurePairingCopy.js",
+      "unchanged": true
+    },
+    {
+      "file": "src/data/highExposurePairingOverrides.json",
+      "unchanged": true
+    },
+    {
+      "file": "src/data/legacySiteData.js",
+      "unchanged": true
+    },
+    {
+      "file": "src/data/nightAffinity.js",
+      "unchanged": true
+    },
+    {
+      "file": "src/data/pairingCopy.js",
+      "unchanged": true
+    },
+    {
+      "file": "src/data/pairingReasonOverrides.json",
+      "unchanged": true
+    },
+    {
+      "file": "src/data/prefectureSakeCandidates.js",
+      "unchanged": true
+    },
+    {
+      "file": "src/data/publicDisplay.js",
+      "unchanged": true
+    },
+    {
+      "file": "src/data/researchSchema.js",
+      "unchanged": true
+    },
+    {
+      "file": "src/data/sakeIntroduction.js",
+      "unchanged": true
+    },
+    {
+      "file": "src/data/sakePairingReview.js",
+      "unchanged": true
+    },
+    {
+      "file": "src/data/sakePairings.js",
+      "unchanged": true
+    },
+    {
+      "file": "src/data/sakeResearchPhase1.js",
+      "unchanged": true
+    },
+    {
+      "file": "src/data/sakeResearchPhase2.js",
+      "unchanged": true
+    },
+    {
+      "file": "src/data/sakeResearchPhase21.js",
+      "unchanged": true
+    },
+    {
+      "file": "src/data/sakeResearchPhase3.js",
+      "unchanged": true
+    },
+    {
+      "file": "src/data/sakeResearchPhase3Data.json",
+      "unchanged": true
+    },
+    {
+      "file": "src/data/sakeResearchRecovery.js",
+      "unchanged": true
+    },
+    {
+      "file": "src/data/sakeResearchRecoveryData.json",
+      "unchanged": true
+    },
+    {
+      "file": "src/data/searchFiltering.js",
+      "unchanged": true
+    },
+    {
+      "file": "src/data/siteData.js",
+      "unchanged": true
+    },
+    {
+      "file": "src/data/specDisplay.js",
+      "unchanged": true
+    },
+    {
+      "file": "src/data/telemetry.js",
+      "unchanged": true
+    },
+    {
+      "file": "src/data/temperatureUX.js",
+      "unchanged": true
+    },
+    {
+      "file": "src/data/visualChoices.js",
+      "unchanged": true
+    },
+    {
+      "file": "vercel.json",
+      "unchanged": true
+    }
+  ],
+  "nonAboutCssUnchanged": true,
+  "secrets": {
+    "scannedFiles": 7143,
+    "unreadableFiles": 0,
+    "findings": [],
+    "passed": true,
+    "configuredValuesChecked": [
+      "RAKUTEN_APPLICATION_ID",
+      "RAKUTEN_ACCESS_KEY",
+      "RAKUTEN_AFFILIATE_ID"
+    ],
+    "limitation": null
+  },
+  "passed": true
+}
