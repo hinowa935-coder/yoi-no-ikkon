@@ -1,0 +1,55 @@
+{
+  "checkedAt": "2026-10-16T14:13:56.509Z",
+  "secrets": {
+    "scannedFiles": 7170,
+    "unreadableFiles": 0,
+    "findings": [],
+    "passed": true,
+    "configuredValuesChecked": [
+      "RAKUTEN_APPLICATION_ID",
+      "RAKUTEN_ACCESS_KEY",
+      "RAKUTEN_AFFILIATE_ID"
+    ],
+    "limitation": null
+  },
+  "immutable": [
+    {
+      "file": "vercel.json",
+      "unchanged": true
+    },
+    {
+      "file": "public/sw.js",
+      "unchanged": true
+    },
+    {
+      "file": "public/manifest.webmanifest",
+      "unchanged": true
+    },
+    {
+      "file": "src/data/favoriteReferences.js",
+      "unchanged": true
+    },
+    {
+      "file": "src/data/discovery.js",
+      "unchanged": true
+    },
+    {
+      "file": "src/data/discoveryNights.js",
+      "unchanged": true
+    },
+    {
+      "file": "src/app/page.jsx",
+      "unchanged": true
+    },
+    {
+      "file": "src/app/about/content.js",
+      "unchanged": true
+    }
+  ],
+  "originalLinks": 352,
+  "originalImages": 344,
+  "immutableProducts": 491,
+  "ignored": true,
+  "noTrackedEnv": true,
+  "passed": true
+}

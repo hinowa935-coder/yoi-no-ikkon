@@ -4169,41 +4169,6 @@
       }
     ]
   },
-  "ginban-i4si9d": {
-    "productFingerprint": "26dc49f8fb484f1e325782dc982d54051e55086be1cee4b57e9d3804868ab78a",
-    "links": [
-      {
-        "sakeId": "ginban-i4si9d",
-        "provider": "amazon",
-        "matchType": "search",
-        "destinationType": "search_results",
-        "isAffiliate": false,
-        "url": "https://www.amazon.co.jp/s?k=%E9%8A%80%E7%9B%A4%20%E7%B4%94%E7%B1%B3%E5%A4%A7%E5%90%9F%E9%86%B8%20%E7%B1%B3%E3%81%AE%E8%8A%AF%20%E5%8E%9F%E9%85%92",
-        "label": "Amazonでこのお酒を探す",
-        "validUntil": "2027-01-06"
-      },
-      {
-        "sakeId": "ginban-i4si9d",
-        "provider": "rakuten",
-        "matchType": "search",
-        "destinationType": "search_results",
-        "isAffiliate": false,
-        "url": "https://search.rakuten.co.jp/search/mall/%E9%8A%80%E7%9B%A4%20%E7%B4%94%E7%B1%B3%E5%A4%A7%E5%90%9F%E9%86%B8%20%E7%B1%B3%E3%81%AE%E8%8A%AF%20%E5%8E%9F%E9%85%92/",
-        "label": "楽天市場でこのお酒を探す",
-        "validUntil": "2027-01-06"
-      },
-      {
-        "sakeId": "ginban-i4si9d",
-        "provider": "yahoo",
-        "matchType": "search",
-        "destinationType": "search_results",
-        "isAffiliate": false,
-        "url": "https://shopping.yahoo.co.jp/search?p=%E9%8A%80%E7%9B%A4%20%E7%B4%94%E7%B1%B3%E5%A4%A7%E5%90%9F%E9%86%B8%20%E7%B1%B3%E3%81%AE%E8%8A%AF%20%E5%8E%9F%E9%85%92",
-        "label": "Yahoo!ショッピングでこのお酒を探す",
-        "validUntil": "2027-01-06"
-      }
-    ]
-  },
   "jokigen-ishikawa-nozijh": {
     "productFingerprint": "e4a2a6b7e69cbf5d3392053407036d3fda414dce369657be148a331b05d030de",
     "links": [
@@ -17226,6 +17191,31 @@
         "url": "https://www.amazon.co.jp/s?k=%E7%99%BE%E6%98%A5%20%E7%B4%94%E7%B1%B3%E4%B8%8A%E6%92%B0",
         "label": "Amazonで探す",
         "validUntil": "2027-01-14T05:53:02.396Z"
+      }
+    ]
+  },
+  "ginban-chotokusen-komenoshin-standard-v1": {
+    "productFingerprint": "0294409f0016492f251b1f91deb19351ce2cd3a857c5ffadd682657f7faad7ad",
+    "links": [
+      {
+        "sakeId": "ginban-chotokusen-komenoshin-standard-v1",
+        "provider": "rakuten",
+        "matchType": "search",
+        "destinationType": "search_results",
+        "isAffiliate": false,
+        "url": "https://search.rakuten.co.jp/search/mall/%E9%8A%80%E7%9B%A4%20%E8%B6%85%E7%89%B9%E6%92%B0%20%E7%B1%B3%E3%81%AE%E8%8A%AF/",
+        "label": "楽天でこの銘柄を探す",
+        "validUntil": "2027-01-14T13:52:42.025Z"
+      },
+      {
+        "sakeId": "ginban-chotokusen-komenoshin-standard-v1",
+        "provider": "amazon",
+        "matchType": "search",
+        "destinationType": "search_results",
+        "isAffiliate": false,
+        "url": "https://www.amazon.co.jp/s?k=%E9%8A%80%E7%9B%A4%20%E8%B6%85%E7%89%B9%E6%92%B0%20%E7%B1%B3%E3%81%AE%E8%8A%AF",
+        "label": "Amazonで探す",
+        "validUntil": "2027-01-14T13:52:42.025Z"
       }
     ]
   }

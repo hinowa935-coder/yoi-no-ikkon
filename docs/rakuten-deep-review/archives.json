@@ -1,0 +1,178 @@
+{
+  "rows": [
+    {
+      "id": "ginban-i4si9d",
+      "catalogVersion": "v1",
+      "productName": "銀盤 純米大吟醸 米の芯 原酒",
+      "sake": "銀盤",
+      "brandName": "銀盤",
+      "brewery": "銀盤酒造株式会社",
+      "prefecture": null,
+      "region": "富山県",
+      "areaGroup": "北陸",
+      "style": [
+        "純米大吟醸酒"
+      ],
+      "taste": [
+        "原酒"
+      ],
+      "temperature": [],
+      "moods": [
+        "静かな晩酌",
+        "軽く飲みたい",
+        "しっかり食べたい",
+        "あたたまりたい",
+        "さっぱりしたい"
+      ],
+      "dishes": [
+        "きゅうりのたたき",
+        "鮭雑炊",
+        "鶏飯風雑炊",
+        "なすとひき肉の味噌炒め",
+        "昆布締め"
+      ],
+      "yoiPairings": [
+        "きゅうりのたたき",
+        "鮭雑炊",
+        "鶏飯風雑炊",
+        "なすとひき肉の味噌炒め",
+        "昆布締め"
+      ],
+      "dishCategories": [
+        "鶏料理",
+        "炒め物",
+        "野菜料理",
+        "ご飯もの"
+      ],
+      "nightType": "星影の余韻",
+      "essay": "",
+      "productUrl": "https://ginban.co.jp/archives/products_category/cat01",
+      "officialUrl": "https://ginban.co.jp/archives/products_category/cat01",
+      "officialPairings": [],
+      "sources": [
+        {
+          "url": "https://ginban.co.jp/archives/products_category/cat01",
+          "type": "breweryOfficial",
+          "name": "銀盤 純米大吟醸 米の芯 原酒",
+          "scope": "product",
+          "verifiedAt": "2026-10-03"
+        }
+      ],
+      "purchaseLinks": [],
+      "dataConfidence": "high",
+      "needsIdentification": false,
+      "sakeResearch": {
+        "identity": {
+          "productName": "銀盤 純米大吟醸 米の芯 原酒",
+          "brandName": "銀盤",
+          "brewery": "銀盤酒造株式会社",
+          "prefecture": null,
+          "officialProductUrl": "https://ginban.co.jp/archives/products_category/cat01"
+        },
+        "classification": {
+          "ginjo": false,
+          "junmaiGinjo": false,
+          "daiginjo": false,
+          "junmaiDaiginjo": true,
+          "ginjoFamily": true,
+          "daiginjoFamily": true,
+          "aged": null,
+          "tokuteiMeishoshu": "純米大吟醸酒",
+          "junmai": true,
+          "nonJunmai": false,
+          "kimoto": null,
+          "yamahai": null,
+          "nama": null,
+          "hiire": null,
+          "nigori": null,
+          "sparkling": null,
+          "genshu": true,
+          "muroka": null
+        },
+        "specs": {
+          "ingredients": [],
+          "riceVariety": [],
+          "riceOrigin": null,
+          "riceByRole": null,
+          "polishingRatio": "35%",
+          "polishingByRole": null,
+          "alcoholPercentage": 17,
+          "nihonshudo": null,
+          "acidity": null,
+          "aminoAcidValue": null,
+          "yeast": null,
+          "waterSource": null,
+          "kojiMold": null,
+          "agingPeriod": null,
+          "agingTemperature": null
+        },
+        "flavorProfile": {
+          "sweetness": null,
+          "aroma": "深い吟醸香",
+          "umami": null,
+          "acidity": null,
+          "body": "まろやか",
+          "finish": "すっきりとした味わい"
+        },
+        "verifiedFeatureTags": [
+          "原酒"
+        ],
+        "editorialTags": [],
+        "featureEvidence": [
+          {
+            "feature": "原酒",
+            "sourceUrl": "https://ginban.co.jp/archives/products_category/cat01",
+            "sourceType": "breweryOfficial",
+            "verifiedAt": "2026-10-03",
+            "meaning": "米の芯 原酒欄",
+            "productScope": "product"
+          }
+        ],
+        "fieldEvidence": [
+          {
+            "field": "flavorProfile.aroma",
+            "value": "深い吟醸香",
+            "sourceUrl": "https://ginban.co.jp/archives/products_category/cat01",
+            "sourceType": "breweryOfficial",
+            "verifiedAt": "2026-10-03",
+            "meaning": "原酒欄の商品説明",
+            "productScope": "product"
+          },
+          {
+            "field": "flavorProfile.body",
+            "value": "まろやか",
+            "sourceUrl": "https://ginban.co.jp/archives/products_category/cat01",
+            "sourceType": "breweryOfficial",
+            "verifiedAt": "2026-10-03",
+            "meaning": "原酒欄の商品説明",
+            "productScope": "product"
+          },
+          {
+            "field": "flavorProfile.finish",
+            "value": "すっきりとした味わい",
+            "sourceUrl": "https://ginban.co.jp/archives/products_category/cat01",
+            "sourceType": "breweryOfficial",
+            "verifiedAt": "2026-10-03",
+            "meaning": "原酒欄の商品説明",
+            "productScope": "product"
+          }
+        ],
+        "sources": [
+          {
+            "url": "https://ginban.co.jp/archives/products_category/cat01",
+            "type": "breweryOfficial",
+            "name": "銀盤 純米大吟醸 米の芯 原酒",
+            "scope": "product",
+            "verifiedAt": "2026-10-03"
+          }
+        ],
+        "servingTemperatures": [],
+        "recommendedTemperatureRange": [],
+        "temperatureRecommendations": [],
+        "officialPairings": [],
+        "pairingEvidence": [],
+        "vintage": null
+      }
+    }
+  ]
+}

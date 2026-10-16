@@ -1,0 +1,16 @@
+{
+  "rows": [
+    {
+      "sakeId": "kurumazaka-gp8l70i9d-3",
+      "normalUrl": "https://item.rakuten.co.jp/auc-yumeikan/2573/",
+      "itemCode": "auc-yumeikan:10001996",
+      "method": "current_browser_visible_dom",
+      "uniqueProductName": "車坂 純米酒 1800ml",
+      "productNumber": "2573",
+      "enabledPurchaseButtons": 1,
+      "purchasable": true,
+      "checkedAt": "2026-10-16T14:02:38.004Z",
+      "note": "Legacy page has no item-page-app-data JSON. Visible single product 2573 and one enabled purchase-procedure button were inspected without clicking."
+    }
+  ]
+}

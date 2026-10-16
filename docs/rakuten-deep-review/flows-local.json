@@ -1,0 +1,278 @@
+{
+  "checkedAt": "2026-10-16T14:02:05.850Z",
+  "base": "http://127.0.0.1:3196",
+  "checks": [
+    {
+      "name": "webkit: home has six actionable desires",
+      "pass": true
+    },
+    {
+      "name": "webkit: home goes directly to Q2",
+      "pass": true,
+      "detail": "http://127.0.0.1:3196/discover?night=quiet#food-direction"
+    },
+    {
+      "name": "webkit: six mood options retain original night IDs",
+      "pass": true
+    },
+    {
+      "name": "webkit: Q3 yields three comparison cards",
+      "pass": true
+    },
+    {
+      "name": "webkit: warm dish expansion preserves the night",
+      "pass": true
+    },
+    {
+      "name": "webkit: detail href preserves context",
+      "pass": true,
+      "detail": [
+        "from",
+        "night",
+        "direction",
+        "dish",
+        "day",
+        "dishes"
+      ]
+    },
+    {
+      "name": "webkit: detail has catch and selected dish",
+      "pass": true
+    },
+    {
+      "name": "webkit: browser back retains exact selection",
+      "pass": true
+    },
+    {
+      "name": "webkit: internal return preserves dish and night",
+      "pass": true
+    },
+    {
+      "name": "webkit: out of season snow remains available",
+      "pass": true
+    },
+    {
+      "name": "webkit: all seasonal choices remain",
+      "pass": true
+    },
+    {
+      "name": "webkit: three drinking labels",
+      "pass": true
+    },
+    {
+      "name": "webkit: prefecture filter retains current products",
+      "pass": true
+    },
+    {
+      "name": "webkit: prefecture sort is available",
+      "pass": true
+    },
+    {
+      "name": "webkit: 冷酒 filter works",
+      "pass": true
+    },
+    {
+      "name": "webkit: 常温 filter works",
+      "pass": true
+    },
+    {
+      "name": "webkit: 熱燗 filter works",
+      "pass": true
+    },
+    {
+      "name": "webkit: query and results survive detail and back",
+      "pass": true,
+      "detail": {
+        "query": "鍋島",
+        "url": "http://127.0.0.1:3196/search?q=%E9%8D%8B%E5%B3%B6"
+      }
+    },
+    {
+      "name": "webkit: zero results remains explicit",
+      "pass": true
+    },
+    {
+      "name": "webkit: official image has accessible alternatives",
+      "pass": true
+    },
+    {
+      "name": "webkit: original image remains unscaled",
+      "pass": true,
+      "detail": {
+        "naturalWidth": 80,
+        "naturalHeight": 80,
+        "srcHost": "hbb.afl.rakuten.co.jp",
+        "width": 80,
+        "height": 80
+      }
+    },
+    {
+      "name": "webkit: external destination stays Rakuten",
+      "pass": true
+    },
+    {
+      "name": "webkit: favorite survives navigation",
+      "pass": true
+    },
+    {
+      "name": "webkit: favorite survives reload",
+      "pass": true
+    },
+    {
+      "name": "webkit: favorite removes normally",
+      "pass": true
+    },
+    {
+      "name": "webkit: food search has visual, named result",
+      "pass": true
+    },
+    {
+      "name": "webkit: food detail retains pairing",
+      "pass": true
+    },
+    {
+      "name": "webkit: long product name is complete and fits",
+      "pass": true
+    },
+    {
+      "name": "webkit: missing image keeps compact placeholder",
+      "pass": true
+    },
+    {
+      "name": "chromium: home has six actionable desires",
+      "pass": true
+    },
+    {
+      "name": "chromium: home goes directly to Q2",
+      "pass": true,
+      "detail": "http://127.0.0.1:3196/discover?night=quiet#food-direction"
+    },
+    {
+      "name": "chromium: six mood options retain original night IDs",
+      "pass": true
+    },
+    {
+      "name": "chromium: Q3 yields three comparison cards",
+      "pass": true
+    },
+    {
+      "name": "chromium: warm dish expansion preserves the night",
+      "pass": true
+    },
+    {
+      "name": "chromium: detail href preserves context",
+      "pass": true,
+      "detail": [
+        "from",
+        "night",
+        "direction",
+        "dish",
+        "day",
+        "dishes"
+      ]
+    },
+    {
+      "name": "chromium: detail has catch and selected dish",
+      "pass": true
+    },
+    {
+      "name": "chromium: browser back retains exact selection",
+      "pass": true
+    },
+    {
+      "name": "chromium: internal return preserves dish and night",
+      "pass": true
+    },
+    {
+      "name": "chromium: out of season snow remains available",
+      "pass": true
+    },
+    {
+      "name": "chromium: all seasonal choices remain",
+      "pass": true
+    },
+    {
+      "name": "chromium: three drinking labels",
+      "pass": true
+    },
+    {
+      "name": "chromium: prefecture filter retains current products",
+      "pass": true
+    },
+    {
+      "name": "chromium: prefecture sort is available",
+      "pass": true
+    },
+    {
+      "name": "chromium: 冷酒 filter works",
+      "pass": true
+    },
+    {
+      "name": "chromium: 常温 filter works",
+      "pass": true
+    },
+    {
+      "name": "chromium: 熱燗 filter works",
+      "pass": true
+    },
+    {
+      "name": "chromium: query and results survive detail and back",
+      "pass": true,
+      "detail": {
+        "query": "鍋島",
+        "url": "http://127.0.0.1:3196/search?q=%E9%8D%8B%E5%B3%B6"
+      }
+    },
+    {
+      "name": "chromium: zero results remains explicit",
+      "pass": true
+    },
+    {
+      "name": "chromium: official image has accessible alternatives",
+      "pass": true
+    },
+    {
+      "name": "chromium: original image remains unscaled",
+      "pass": true,
+      "detail": {
+        "naturalWidth": 80,
+        "naturalHeight": 80,
+        "srcHost": "hbb.afl.rakuten.co.jp",
+        "width": 80,
+        "height": 80
+      }
+    },
+    {
+      "name": "chromium: external destination stays Rakuten",
+      "pass": true
+    },
+    {
+      "name": "chromium: favorite survives navigation",
+      "pass": true
+    },
+    {
+      "name": "chromium: favorite survives reload",
+      "pass": true
+    },
+    {
+      "name": "chromium: favorite removes normally",
+      "pass": true
+    },
+    {
+      "name": "chromium: food search has visual, named result",
+      "pass": true
+    },
+    {
+      "name": "chromium: food detail retains pairing",
+      "pass": true
+    },
+    {
+      "name": "chromium: long product name is complete and fits",
+      "pass": true
+    },
+    {
+      "name": "chromium: missing image keeps compact placeholder",
+      "pass": true
+    }
+  ]
+}

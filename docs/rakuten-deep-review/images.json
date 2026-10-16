@@ -1,0 +1,2598 @@
+{
+  "checkedAt": "2026-10-16T14:12:20.295Z",
+  "method": "Fresh HEAD of original issued primary image URLs; no image bodies saved, no URL rewriting, 1150ms interval.",
+  "expected": 370,
+  "checked": 370,
+  "rows": [
+    {
+      "sakeId": "shichida-junmai",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:05:13.480Z"
+    },
+    {
+      "sakeId": "kubota-senju",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:05:14.586Z"
+    },
+    {
+      "sakeId": "zaku-miyabi-no-tomo",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:05:15.752Z"
+    },
+    {
+      "sakeId": "dassai-23",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:05:16.904Z"
+    },
+    {
+      "sakeId": "chiebijin-junmai",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:05:18.065Z"
+    },
+    {
+      "sakeId": "dewazakura-oka-ginjo",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:05:19.234Z"
+    },
+    {
+      "sakeId": "born-gold",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:05:20.379Z"
+    },
+    {
+      "sakeId": "dassai-45",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:05:21.544Z"
+    },
+    {
+      "sakeId": "otokoyama-kimoto-junmai",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:05:22.689Z"
+    },
+    {
+      "sakeId": "kai-no-kaiun-i9dko8",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:05:23.851Z"
+    },
+    {
+      "sakeId": "amanosake-hlztnu",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:05:25.025Z"
+    },
+    {
+      "sakeId": "gassan-id2kl5",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:05:26.170Z"
+    },
+    {
+      "sakeId": "bijofu-ul4nol",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:05:27.328Z"
+    },
+    {
+      "sakeId": "ayanishiki-i3yidq",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:05:28.490Z"
+    },
+    {
+      "sakeId": "dassai-45-1",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:05:29.647Z"
+    },
+    {
+      "sakeId": "ayakiku-uc9ijh-4",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:05:30.807Z"
+    },
+    {
+      "sakeId": "bijofu-ul4nol-3",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:05:31.985Z"
+    },
+    {
+      "sakeId": "harushika-chokarakuchi-junmai",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:05:33.124Z"
+    },
+    {
+      "sakeId": "chitosetsuru-junmai-ginjo-kitashizuku-v1",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:05:34.294Z"
+    },
+    {
+      "sakeId": "buyu-karakuchi-junmai-v1",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:05:35.447Z"
+    },
+    {
+      "sakeId": "sasaichi-yata-junmai-daiginjo-v1",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:05:36.600Z"
+    },
+    {
+      "sakeId": "fudo-ichido-hiire-junmai-daiginjo-v1",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:05:37.751Z"
+    },
+    {
+      "sakeId": "kurawanka-junmai-usunigori-v1",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:05:38.931Z"
+    },
+    {
+      "sakeId": "koshino-kanbai-white-label",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:05:40.072Z"
+    },
+    {
+      "sakeId": "chikumanishiki-karakuchi-tokubetsu-junmai-v1",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:05:41.231Z"
+    },
+    {
+      "sakeId": "hatsumiyo-honjozo-v1",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:05:42.388Z"
+    },
+    {
+      "sakeId": "akaiwaomachi-junmai-daiginjo-standard-v1",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:05:43.544Z"
+    },
+    {
+      "sakeId": "nogomi-tokubetsu-junmai",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:05:44.699Z"
+    },
+    {
+      "sakeId": "koimari-saki",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:05:45.859Z"
+    },
+    {
+      "sakeId": "azumaichi-junmai-ginjo",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:05:47.027Z"
+    },
+    {
+      "sakeId": "niwa-no-uguisu-junmai-ginjo",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:05:48.172Z"
+    },
+    {
+      "sakeId": "miinokotobuki-junmai-ginjo",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:05:49.331Z"
+    },
+    {
+      "sakeId": "sasshu-masamune-junmai",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:05:50.497Z"
+    },
+    {
+      "sakeId": "denshu-tokubetsu-junmai",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:05:51.657Z"
+    },
+    {
+      "sakeId": "mutsu-hassen-red-label",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:05:52.833Z"
+    },
+    {
+      "sakeId": "akabu-junmai",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:05:53.979Z"
+    },
+    {
+      "sakeId": "nanbu-bijin-tokubetsu-junmai",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:05:55.157Z"
+    },
+    {
+      "sakeId": "ippaku-suissei-tokubetsu-junmai",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:05:56.296Z"
+    },
+    {
+      "sakeId": "sharaku-junmai-ginjo",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:05:57.451Z"
+    },
+    {
+      "sakeId": "aizu-chujo-junmai",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:05:58.608Z"
+    },
+    {
+      "sakeId": "hakurakusei-tokubetsu-junmai",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:05:59.763Z"
+    },
+    {
+      "sakeId": "kenkonichi-tokubetsu-junmai",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:06:00.919Z"
+    },
+    {
+      "sakeId": "hakkaisan-tokubetsu-honjozo",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:06:02.075Z"
+    },
+    {
+      "sakeId": "shimeharitsuru-tsuki",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:06:03.223Z"
+    },
+    {
+      "sakeId": "oze-no-yukidoke-junmai-daiginjo",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:06:04.381Z"
+    },
+    {
+      "sakeId": "gokeiji-junmai-ginjo",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:06:05.535Z"
+    },
+    {
+      "sakeId": "masumi-karakuchi-kiippon",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:06:06.686Z"
+    },
+    {
+      "sakeId": "yoakemae-tatsuno-junmai",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:06:07.848Z"
+    },
+    {
+      "sakeId": "jozan-junmai",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:06:08.999Z"
+    },
+    {
+      "sakeId": "tedorigawa-yamahai-junmai",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:06:10.163Z"
+    },
+    {
+      "sakeId": "kikuhime-yamahai-junmai",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:06:11.319Z"
+    },
+    {
+      "sakeId": "tengumai-yamahai-junmai",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:06:12.463Z"
+    },
+    {
+      "sakeId": "gikyo-tokubetsu-junmai",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:06:13.609Z"
+    },
+    {
+      "sakeId": "houraisen-wa-junmai-ginjo",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:06:14.769Z"
+    },
+    {
+      "sakeId": "iso-jiman-honjozo",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:06:15.925Z"
+    },
+    {
+      "sakeId": "umenoyado-junmai",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:06:17.079Z"
+    },
+    {
+      "sakeId": "kid-junmai-ginjo",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:06:18.240Z"
+    },
+    {
+      "sakeId": "ugonotsuki-junmai-ginjo",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:06:19.403Z"
+    },
+    {
+      "sakeId": "kamo-kinshu-tokubetsu-junmai",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:06:20.571Z"
+    },
+    {
+      "sakeId": "suigei-tokubetsu-junmai",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:06:21.715Z"
+    },
+    {
+      "sakeId": "hirotogawa-tokubetsu-junmai",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:06:22.860Z"
+    },
+    {
+      "sakeId": "tenbi-junmai-ginjo",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:06:24.013Z"
+    },
+    {
+      "sakeId": "tsuchida-kimoto",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:06:25.180Z"
+    },
+    {
+      "sakeId": "kachikoma-modern-premium",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:06:26.328Z"
+    },
+    {
+      "sakeId": "juyondai-modern-premium",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:06:27.480Z"
+    },
+    {
+      "sakeId": "kokushi-muso-junmai",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:06:28.644Z"
+    },
+    {
+      "sakeId": "fukutsukasa-junmai",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:06:29.793Z"
+    },
+    {
+      "sakeId": "gohou-junmai",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:06:30.948Z"
+    },
+    {
+      "sakeId": "hato-masamune-tw2kq6",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:06:32.116Z"
+    },
+    {
+      "sakeId": "momokawa-tw2kq6",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:06:33.288Z"
+    },
+    {
+      "sakeId": "asahibaki-iaxjez",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:06:34.424Z"
+    },
+    {
+      "sakeId": "hamachidori-iaxjez",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:06:35.597Z"
+    },
+    {
+      "sakeId": "atago-no-matsu-i3yhce",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:06:36.735Z"
+    },
+    {
+      "sakeId": "urakasumi-i3yhce",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:06:37.904Z"
+    },
+    {
+      "sakeId": "suminoe-i3yhce",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:06:39.066Z"
+    },
+    {
+      "sakeId": "miyakanbai-i3yhce",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:06:40.234Z"
+    },
+    {
+      "sakeId": "mansaku-no-hana-o23n5c",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:06:41.387Z"
+    },
+    {
+      "sakeId": "kudoki-jozu-i9diua",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:06:42.544Z"
+    },
+    {
+      "sakeId": "jokigen-i9diua",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:06:43.688Z"
+    },
+    {
+      "sakeId": "yamagata-masamune-i9diua",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:06:44.851Z"
+    },
+    {
+      "sakeId": "wataribune-pwohce",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:06:46.005Z"
+    },
+    {
+      "sakeId": "shichisui-kjnkdk",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:06:47.149Z"
+    },
+    {
+      "sakeId": "ruka-p7oucs",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:06:48.308Z"
+    },
+    {
+      "sakeId": "tanigawadake-p7oucs",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:06:49.471Z"
+    },
+    {
+      "sakeId": "kinoene-gg3q4p",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:06:50.639Z"
+    },
+    {
+      "sakeId": "kidoizumi-gg3q4p",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:06:51.799Z"
+    },
+    {
+      "sakeId": "sawanoi-kflfjg",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:06:52.946Z"
+    },
+    {
+      "sakeId": "kasen-kflfjg",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:06:54.100Z"
+    },
+    {
+      "sakeId": "tamajiman-kflfjg",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:06:55.281Z"
+    },
+    {
+      "sakeId": "izumibashi-nz2hmwijh",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:06:56.424Z"
+    },
+    {
+      "sakeId": "zarusou-hourai-nz2hmwijh",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:06:57.584Z"
+    },
+    {
+      "sakeId": "matsu-midori-nz2hmwijh",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:06:58.749Z"
+    },
+    {
+      "sakeId": "hakoneyama-nz2hmwijh",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:06:59.892Z"
+    },
+    {
+      "sakeId": "tateyama-i4si9d",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:07:01.045Z"
+    },
+    {
+      "sakeId": "jokigen-ishikawa-nozijh",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:07:02.204Z"
+    },
+    {
+      "sakeId": "kagatobi-nozijh",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:07:03.361Z"
+    },
+    {
+      "sakeId": "ippongi-o0ffit",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:07:04.515Z"
+    },
+    {
+      "sakeId": "hanagaki-o0ffit",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:07:05.670Z"
+    },
+    {
+      "sakeId": "shunnoten-i9dko8",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:07:06.826Z"
+    },
+    {
+      "sakeId": "michisakari-ia8tng",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:07:07.980Z"
+    },
+    {
+      "sakeId": "nito-j6jnol",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:07:09.153Z"
+    },
+    {
+      "sakeId": "shichihonyari-lvvrsw",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:07:10.290Z"
+    },
+    {
+      "sakeId": "matsu-no-tsukasa-lvvrsw",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:07:11.456Z"
+    },
+    {
+      "sakeId": "kirakucho-lvvrsw",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:07:12.605Z"
+    },
+    {
+      "sakeId": "eikun-kyoto-fjg",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:07:13.754Z"
+    },
+    {
+      "sakeId": "tsuki-no-katsura-fjg",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:07:14.915Z"
+    },
+    {
+      "sakeId": "goshun-hlztnu",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:07:16.081Z"
+    },
+    {
+      "sakeId": "katano-sakura-hlztnu",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:07:17.235Z"
+    },
+    {
+      "sakeId": "kiku-masamune-g39ip7",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:07:18.396Z"
+    },
+    {
+      "sakeId": "hakutsuru-g39ip7",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:07:19.551Z"
+    },
+    {
+      "sakeId": "harushika-hmwprj",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:07:20.719Z"
+    },
+    {
+      "sakeId": "kuroushi-gp8l70i9d",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:07:21.858Z"
+    },
+    {
+      "sakeId": "minakata-gp8l70i9d",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:07:23.023Z"
+    },
+    {
+      "sakeId": "chiyomusubi-uzpgk6",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:07:24.175Z"
+    },
+    {
+      "sakeId": "suwaizumi-uzpgk6",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:07:25.342Z"
+    },
+    {
+      "sakeId": "sanzen-iapi9d",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:07:26.491Z"
+    },
+    {
+      "sakeId": "kamikokoro-iapi9d",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:07:27.652Z"
+    },
+    {
+      "sakeId": "harada-i9dgkj",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:07:28.799Z"
+    },
+    {
+      "sakeId": "narutotai-iwjid2",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:07:29.959Z"
+    },
+    {
+      "sakeId": "gotenzakura-iwjid2",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:07:31.130Z"
+    },
+    {
+      "sakeId": "kinryo-uc9ijh",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:07:32.279Z"
+    },
+    {
+      "sakeId": "yamatan-masamune-j6jhwb",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:07:33.455Z"
+    },
+    {
+      "sakeId": "umenishiki-j6jhwb",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:07:34.599Z"
+    },
+    {
+      "sakeId": "kyohina-j6jhwb",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:07:35.771Z"
+    },
+    {
+      "sakeId": "sukigokoro-j6jhwb",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:07:36.922Z"
+    },
+    {
+      "sakeId": "shigemasu-o0fiap",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:07:38.084Z"
+    },
+    {
+      "sakeId": "asahigiku-o0fiap",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:07:39.231Z"
+    },
+    {
+      "sakeId": "kinokawa-tividq",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:07:40.383Z"
+    },
+    {
+      "sakeId": "koro-mfekdo",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:07:41.551Z"
+    },
+    {
+      "sakeId": "zuiyo-mfekdo",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:07:42.699Z"
+    },
+    {
+      "sakeId": "nishinoseki-hlzg7a",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:07:43.853Z"
+    },
+    {
+      "sakeId": "yatsushika-hlzg7a",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:07:45.018Z"
+    },
+    {
+      "sakeId": "senbazuru-hlzg7a",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:07:46.175Z"
+    },
+    {
+      "sakeId": "sentoku-i3yidq",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:07:47.329Z"
+    },
+    {
+      "sakeId": "hanakagura-i3yidq",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:07:48.491Z"
+    },
+    {
+      "sakeId": "tenbu-vb3g28id2",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:07:49.658Z"
+    },
+    {
+      "sakeId": "satsumaji-vb3g28id2",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:07:50.814Z"
+    },
+    {
+      "sakeId": "tenbu-junmai-daiginjo",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:07:51.973Z"
+    },
+    {
+      "sakeId": "denshu-tokubetsu-junmai-1",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:07:53.122Z"
+    },
+    {
+      "sakeId": "houhai-junmai-ginjo-3",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:07:54.276Z"
+    },
+    {
+      "sakeId": "asahibaki-iaxjez-3",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:07:55.430Z"
+    },
+    {
+      "sakeId": "hakurakusei-tokubetsu-junmai-1",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:07:56.598Z"
+    },
+    {
+      "sakeId": "shinkame-hdomtl-3",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:07:57.755Z"
+    },
+    {
+      "sakeId": "kikko-hanabishi-hdomtl-4",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:07:58.912Z"
+    },
+    {
+      "sakeId": "kinoene-gg3q4p-2",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:08:00.069Z"
+    },
+    {
+      "sakeId": "kinkon-kflfjg-2",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:08:01.241Z"
+    },
+    {
+      "sakeId": "kasen-kflfjg-4",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:08:02.391Z"
+    },
+    {
+      "sakeId": "hakkaisan-tokubetsu-honjozo-1",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:08:03.543Z"
+    },
+    {
+      "sakeId": "kubota-senju-2",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:08:04.749Z"
+    },
+    {
+      "sakeId": "kachikoma-junmai-3",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:08:05.855Z"
+    },
+    {
+      "sakeId": "maboroshi-no-taki-junmai-ginjo-standard",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:08:07.014Z"
+    },
+    {
+      "sakeId": "tengumai-yamahai-junmai-3",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:08:08.163Z"
+    },
+    {
+      "sakeId": "jokigen-ishikawa-nozijh-4",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:08:09.322Z"
+    },
+    {
+      "sakeId": "kokuryu-junmai-ginjo-1",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:08:10.473Z"
+    },
+    {
+      "sakeId": "born-gold-2",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:08:11.631Z"
+    },
+    {
+      "sakeId": "ippongi-o0ffit-4",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:08:12.787Z"
+    },
+    {
+      "sakeId": "shunnoten-i9dko8-2",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:08:13.943Z"
+    },
+    {
+      "sakeId": "tanizakura-i9dko8-3",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:08:15.104Z"
+    },
+    {
+      "sakeId": "masumi-karakuchi-kiippon-1",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:08:16.258Z"
+    },
+    {
+      "sakeId": "kawanakajima-genmai-junmai-ginjo-4",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:08:17.453Z"
+    },
+    {
+      "sakeId": "kaiun-tokubetsu-junmai-2",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:08:18.581Z"
+    },
+    {
+      "sakeId": "eikun-junmai-ginjo-4",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:08:19.739Z"
+    },
+    {
+      "sakeId": "zaku-miyabi-no-tomo-2",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:08:20.903Z"
+    },
+    {
+      "sakeId": "furosen-lvvrsw-1",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:08:22.047Z"
+    },
+    {
+      "sakeId": "shichihonyari-lvvrsw-2",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:08:23.203Z"
+    },
+    {
+      "sakeId": "sawaya-matsumoto-shuhari-1",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:08:24.347Z"
+    },
+    {
+      "sakeId": "okuharima-yamahai-junmai-1",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:08:25.527Z"
+    },
+    {
+      "sakeId": "sensuke-junmai-ginjo-3",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:08:26.680Z"
+    },
+    {
+      "sakeId": "kid-junmai-ginjo-1",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:08:27.833Z"
+    },
+    {
+      "sakeId": "chiyomusubi-uzpgk6-3",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:08:28.983Z"
+    },
+    {
+      "sakeId": "sanzen-iapi9d-1",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:08:30.147Z"
+    },
+    {
+      "sakeId": "taiten-shiragiku-iapi9d-5",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:08:31.318Z"
+    },
+    {
+      "sakeId": "ugonotsuki-junmai-ginjo-1",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:08:32.482Z"
+    },
+    {
+      "sakeId": "kinryo-uc9ijh-3",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:08:33.627Z"
+    },
+    {
+      "sakeId": "ishizuchi-junmai-ginjo-1",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:08:34.782Z"
+    },
+    {
+      "sakeId": "yamatan-masamune-j6jhwb-2",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:08:35.938Z"
+    },
+    {
+      "sakeId": "kyohina-j6jhwb-5",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:08:37.095Z"
+    },
+    {
+      "sakeId": "miinokotobuki-junmai-ginjo-4",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:08:38.251Z"
+    },
+    {
+      "sakeId": "nogomi-tokubetsu-junmai-1",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:08:39.425Z"
+    },
+    {
+      "sakeId": "yokoyama-tividq-2",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:08:40.570Z"
+    },
+    {
+      "sakeId": "otokoyama-fukkoshu",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:08:41.735Z"
+    },
+    {
+      "sakeId": "tatenokawa-seiryu",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:08:42.890Z"
+    },
+    {
+      "sakeId": "tatenokawa-kyuryu",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:08:44.050Z"
+    },
+    {
+      "sakeId": "gunmaizumi-yamahai-junmai",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:08:45.216Z"
+    },
+    {
+      "sakeId": "kanhokuto-tokubetsu-junmai",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:08:46.377Z"
+    },
+    {
+      "sakeId": "hiraizumi-yamahai-tokubetsu-junmai-v1",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:08:47.528Z"
+    },
+    {
+      "sakeId": "hiraizumi-jukusei-yamahai-junmai-v1",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:08:48.675Z"
+    },
+    {
+      "sakeId": "morinokura-junmai-v1",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:08:49.844Z"
+    },
+    {
+      "sakeId": "komagura-haruka-gonen-junmai-koshu-v1",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:08:51.010Z"
+    },
+    {
+      "sakeId": "kinteki-junmai-ginjo-v1",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:08:52.164Z"
+    },
+    {
+      "sakeId": "ishizuchi-junmai-ginjo-yamadanishiki50-v1",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:08:53.319Z"
+    },
+    {
+      "sakeId": "tenbu-junmai-v1",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:08:54.479Z"
+    },
+    {
+      "sakeId": "ganki-hitotsubi-junmai-v1",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:08:55.641Z"
+    },
+    {
+      "sakeId": "gakki-masamune-honjozo-nakadori-v1",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:08:56.802Z"
+    },
+    {
+      "sakeId": "shizengo-tokubetsu-junmai-v1",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:08:57.962Z"
+    },
+    {
+      "sakeId": "nito-junmai-ginjo-yamadanishiki55-v1",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:08:59.103Z"
+    },
+    {
+      "sakeId": "eikun-tokubetsu-junmai-homarefuji-v1",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:09:00.260Z"
+    },
+    {
+      "sakeId": "otokoyama-kuniyoshinona-v1",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:09:01.415Z"
+    },
+    {
+      "sakeId": "roman-junmai-ginjo-ichikai-hiire-2025by-v1",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:09:02.574Z"
+    },
+    {
+      "sakeId": "michizakura-junmai-rclass-v1",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:09:03.722Z"
+    },
+    {
+      "sakeId": "hououbiden-tsurugi-hiire-v1",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:09:04.887Z"
+    },
+    {
+      "sakeId": "morishima-miyamanishiki-junmai-ginjo-hiire-v1",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:09:06.038Z"
+    },
+    {
+      "sakeId": "sugata-kire-tokubetsu-junmai-v1",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:09:07.203Z"
+    },
+    {
+      "sakeId": "ryozeki-junmai-ginjo-v1",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:09:08.355Z"
+    },
+    {
+      "sakeId": "hanzo-tokubetsu-junmai-karakuchi-v1",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:09:09.522Z"
+    },
+    {
+      "sakeId": "rokujuyoshu-junmai-ginjo-yamadanishiki-v1",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:09:10.667Z"
+    },
+    {
+      "sakeId": "fukutsuru-junmai-ginjo-v1",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:09:11.818Z"
+    },
+    {
+      "sakeId": "hatsukame-karakara-beppin-v1",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:09:12.990Z"
+    },
+    {
+      "sakeId": "haneya-kirabi-nama-genshu-v1",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:09:14.143Z"
+    },
+    {
+      "sakeId": "miyozakura-leaf-junmai-ginjo-v1",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:09:15.294Z"
+    },
+    {
+      "sakeId": "niseko-suisei-junmai-ginjo-hiire-v1",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:09:16.453Z"
+    },
+    {
+      "sakeId": "sagaminada-tokubetsu-junmai-karakuchi-hiire-v1",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:09:17.614Z"
+    },
+    {
+      "sakeId": "gozenshu-junmai-mimasaka-v1",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:09:18.758Z"
+    },
+    {
+      "sakeId": "shidaizumi-junmai-ginjo-yaizu-shumai-2026-v1",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:09:19.911Z"
+    },
+    {
+      "sakeId": "kawatsuru-junmai-ooseto-hiire-v1",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:09:21.071Z"
+    },
+    {
+      "sakeId": "umenishiki-ginjo-tsuunosake-v1",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:09:22.234Z"
+    },
+    {
+      "sakeId": "suigei-junmai-daiginjo-hyogo-yamadanishiki50-v1",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:09:23.383Z"
+    },
+    {
+      "sakeId": "iyo-kagiya-junmai-aka-label-v1",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:09:24.550Z"
+    },
+    {
+      "sakeId": "seiryozen-tokubetsu-junmai-the-plains-v1",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:09:25.725Z"
+    },
+    {
+      "sakeId": "niwanouguisu-tokubetsu-junmai-standard-v1",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:09:26.863Z"
+    },
+    {
+      "sakeId": "niwanouguisu-junmai-ginjo-nuruhada-v1",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:09:28.017Z"
+    },
+    {
+      "sakeId": "takakiya-karakuchi-tokubetsu-junmai-v1",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:09:29.161Z"
+    },
+    {
+      "sakeId": "tonbo-tokubetsu-junmai-standard-v1",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:09:30.316Z"
+    },
+    {
+      "sakeId": "kitanonishiki-maruta-tokubetsu-junmai-v1",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:09:31.471Z"
+    },
+    {
+      "sakeId": "shosetsu-junmai-ginjo-yamadanishiki-standard-v1",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:09:32.626Z"
+    },
+    {
+      "sakeId": "minami-junmai-ginjo-matsuyamamitsui-standard-v1",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:09:33.774Z"
+    },
+    {
+      "sakeId": "houraisen-bi-junmai-daiginjo-standard-v1",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:09:34.917Z"
+    },
+    {
+      "sakeId": "takijiman-hayase-karakuchi-junmai-v1",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:09:36.077Z"
+    },
+    {
+      "sakeId": "nanbubijin-junmai-daiginjo-sakemirai-standard-v1",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:09:37.234Z"
+    },
+    {
+      "sakeId": "sogen-notonokuni-junmai-standard-v1",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:09:38.390Z"
+    },
+    {
+      "sakeId": "sogen-genshin-junmai-daiginjo-standard-v1",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:09:39.534Z"
+    },
+    {
+      "sakeId": "houken-junmai-hattannishiki-green-v1",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:09:40.684Z"
+    },
+    {
+      "sakeId": "houken-junmai-ginjo-hattannishiki-standard-v1",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:09:41.845Z"
+    },
+    {
+      "sakeId": "kokuryu-icchorai-jungin-standard-v1",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:09:43.015Z"
+    },
+    {
+      "sakeId": "sawanoi-junmai-daikarakuchi-standard-v1",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:09:44.166Z"
+    },
+    {
+      "sakeId": "sagaminada-junmai-ginjo-miyamanishiki-standard-v1",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:09:45.328Z"
+    },
+    {
+      "sakeId": "toyobijin-junmai-ginjo-50-standard-v1",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:09:46.482Z"
+    },
+    {
+      "sakeId": "tenmei-orange-funashibori-junmai-hiire-standard-v1",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:09:47.651Z"
+    },
+    {
+      "sakeId": "hiran-nikomaru-hiire-standard-v1",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:09:48.802Z"
+    },
+    {
+      "sakeId": "shinomine-takeyama-junmai-yamadanishiki-chokarakuchi-hiire-v1",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:09:49.947Z"
+    },
+    {
+      "sakeId": "shinomine-rinrin-setoomachi-junmai-ginjo-muroka-nama-genshu-v1",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:09:51.105Z"
+    },
+    {
+      "sakeId": "tenon-junmai-standard-ichikai-hiire-v1",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:09:52.261Z"
+    },
+    {
+      "sakeId": "tosa-shiragiku-zankara-tokubetsu-junmai-standard-v1",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:09:53.421Z"
+    },
+    {
+      "sakeId": "housui-tokubetsu-junmai-standard-v1",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:09:54.581Z"
+    },
+    {
+      "sakeId": "hitakami-sakana-label-tokubetsu-junmai-hiire-v1",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:09:55.738Z"
+    },
+    {
+      "sakeId": "hitakami-chokarakuchi-junmai-standard-v1",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:09:56.902Z"
+    },
+    {
+      "sakeId": "kenkonichi-chokarakuchi-junmai-ginjo-genshu-hiire-v1",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:09:58.060Z"
+    },
+    {
+      "sakeId": "taiten-shiragiku-junmai-shiragiku-standard-v1",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:09:59.209Z"
+    },
+    {
+      "sakeId": "hourai-junmai-ginjo-kaden-tezukuri-v1",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:10:00.367Z"
+    },
+    {
+      "sakeId": "kawanakajima-tokubetsu-junmai-standard-v1",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:10:01.521Z"
+    },
+    {
+      "sakeId": "kirari-junmai-genshu-hiire-standard-v1",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:10:02.679Z"
+    },
+    {
+      "sakeId": "takachiyo-karakuchi-junmai-miyamanishiki-plus19-hiire-v1",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:10:03.827Z"
+    },
+    {
+      "sakeId": "jikon-junmai-ginjo-yamadanishiki-hiire-standard-v1",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:10:04.975Z"
+    },
+    {
+      "sakeId": "jikon-junmai-ginjo-omachi-hiire-standard-v1",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:10:06.137Z"
+    },
+    {
+      "sakeId": "kankiku-ocean99-toumi-arrival-hiire-v1",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:10:07.309Z"
+    },
+    {
+      "sakeId": "kasen-maboroshi-no-sake-tokubetsu-honjozo-standard-v1",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:10:08.447Z"
+    },
+    {
+      "sakeId": "banshu-ikkon-junmai-chokarakuchi-hiire-v1",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:10:09.605Z"
+    },
+    {
+      "sakeId": "akishika-junmai-inaho-yamadanishiki-75-v1",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:10:10.744Z"
+    },
+    {
+      "sakeId": "yorokobi-gaijin-tezukuri-junmai-hiire-standard-v1",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:10:11.910Z"
+    },
+    {
+      "sakeId": "aramasa-no6-r-type-nama-standard-v1",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:10:13.077Z"
+    },
+    {
+      "sakeId": "aramasa-viridian-hiire-standard-v1",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:10:14.229Z"
+    },
+    {
+      "sakeId": "yui-omachi-junmai-ginjo-chokarakuchi-raifuku-v1",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:10:15.388Z"
+    },
+    {
+      "sakeId": "kirei-banjisakazukinonaka-junmai-hiire-v1",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:10:16.550Z"
+    },
+    {
+      "sakeId": "hokuan-daikoku-junmai70-v1",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:10:17.709Z"
+    },
+    {
+      "sakeId": "sakuta-tokubetsu-junmai-keiyaku-v1",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:10:18.856Z"
+    },
+    {
+      "sakeId": "goshun-honmaru-honjozo-v1",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:10:20.021Z"
+    },
+    {
+      "sakeId": "zuiyo-honjozo-chokarakuchi-v1",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:10:21.181Z"
+    },
+    {
+      "sakeId": "narutotai-junmai-tomoe-v1",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:10:22.334Z"
+    },
+    {
+      "sakeId": "tenryo-tobikiri-tokubetsu-junmai",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:10:23.495Z"
+    },
+    {
+      "sakeId": "sanshoraku-junmai-standard",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:10:24.656Z"
+    },
+    {
+      "sakeId": "sohomare-kimoto-tokubetsu-junmai",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:10:25.814Z"
+    },
+    {
+      "sakeId": "ichinokura-tokubetsu-junmai-karakuchi",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:10:26.975Z"
+    },
+    {
+      "sakeId": "daishichi-junmai-kimoto-standard",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:10:28.125Z"
+    },
+    {
+      "sakeId": "jozen-mizunogotoshi-junmai-ginjo-standard",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:10:29.275Z"
+    },
+    {
+      "sakeId": "okunomatsu-tokubetsu-junmai-standard",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:10:30.433Z"
+    },
+    {
+      "sakeId": "ranman-junmai-managudako-standard",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:10:31.590Z"
+    },
+    {
+      "sakeId": "tamanohikari-junmai-ginjo-shukon-standard",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:10:32.745Z"
+    },
+    {
+      "sakeId": "kunimare-tokubetsu-junmai-standard",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:10:33.902Z"
+    },
+    {
+      "sakeId": "kamotsuru-chotokusem-tokuto-tokubetsu-honjozo",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:10:35.059Z"
+    },
+    {
+      "sakeId": "gekkeikan-horin-junmai-daiginjo-standard",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:10:36.219Z"
+    },
+    {
+      "sakeId": "kunizakari-handago-junmai-ginjo-1801",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:10:37.375Z"
+    },
+    {
+      "sakeId": "hakutaka-kinmatsu-tokubetsu-junmai",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:10:38.540Z"
+    },
+    {
+      "sakeId": "sawanotsuru-junmai-yamadanishiki-standard",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:10:39.687Z"
+    },
+    {
+      "sakeId": "shiramayumi-tokubetsu-junmai-hidahomare-standard",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:10:40.844Z"
+    },
+    {
+      "sakeId": "ozeki-tokusen-tokubetsu-junmai-yamadanishiki-standard",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:10:41.993Z"
+    },
+    {
+      "sakeId": "tsukasabotan-niyodo-blue-junmai-standard",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:10:43.153Z"
+    },
+    {
+      "sakeId": "kikusui-funaguchi-honjozo-nama-genshu-standard",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:10:44.315Z"
+    },
+    {
+      "sakeId": "gokyo-junmai-standard",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:10:46.484Z"
+    },
+    {
+      "sakeId": "suishin-inaho-junmai-ginjo-standard",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:10:46.617Z"
+    },
+    {
+      "sakeId": "nihonsakari-souhana-junmai-ginjo-standard",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:10:47.786Z"
+    },
+    {
+      "sakeId": "choryo-yoshinosugi-tarusake-standard",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:10:48.938Z"
+    },
+    {
+      "sakeId": "shoutoku-karaku-tokubetsu-junmai-karakuchi-genshu-standard",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:10:50.090Z"
+    },
+    {
+      "sakeId": "shirayuki-josen-junmai-standard",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:10:51.248Z"
+    },
+    {
+      "sakeId": "gazan-junmai-daiginjo-standard",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:10:52.407Z"
+    },
+    {
+      "sakeId": "nichiei-junmai-ginjo-ishikawamon-standard",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:10:53.555Z"
+    },
+    {
+      "sakeId": "kinpai-junmai-yokozuna-standard",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:10:54.713Z"
+    },
+    {
+      "sakeId": "taisetsunokura-junmai-standard",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:10:55.860Z"
+    },
+    {
+      "sakeId": "umebijin-junmai-ginjo-sakurahime-standard",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:10:57.015Z"
+    },
+    {
+      "sakeId": "ohyama-tokubetsu-junmai-tomizu-standard",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:10:58.175Z"
+    },
+    {
+      "sakeId": "hideyoshi-junmai-standard",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:10:59.326Z"
+    },
+    {
+      "sakeId": "toyonoaki-junmai-ginjo-matsuezukushi-standard",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:11:00.477Z"
+    },
+    {
+      "sakeId": "warakugoson-junmai-ginjo-standard",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:11:01.638Z"
+    },
+    {
+      "sakeId": "mushohai-junmai-ginjo-standard",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:11:02.789Z"
+    },
+    {
+      "sakeId": "kagatsuru-junmai-josen-standard",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:11:03.940Z"
+    },
+    {
+      "sakeId": "denyu-tokubetsu-junmai-standard",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:11:05.094Z"
+    },
+    {
+      "sakeId": "taiheizan-tenko-junmai-daiginjo-standard",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:11:06.253Z"
+    },
+    {
+      "sakeId": "hakuinmasamune-karakuchi-junmai-standard",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:11:07.409Z"
+    },
+    {
+      "sakeId": "nabeshima-junmai-ginjo",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:11:08.558Z"
+    },
+    {
+      "sakeId": "reizan-junmai",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:11:09.718Z"
+    },
+    {
+      "sakeId": "yamamoto-pure-black",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:11:10.863Z"
+    },
+    {
+      "sakeId": "kachikoma-junmai",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:11:12.025Z"
+    },
+    {
+      "sakeId": "kamoshibito-kuheiji-eau-du-desir",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:11:13.193Z"
+    },
+    {
+      "sakeId": "nichinichi-yamada-nishiki",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:11:14.362Z"
+    },
+    {
+      "sakeId": "kita-no-katsu-taikai",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:11:15.522Z"
+    },
+    {
+      "sakeId": "tsuki-no-wa-iaxjez",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:11:16.681Z"
+    },
+    {
+      "sakeId": "daina-kjnkdk",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:11:17.835Z"
+    },
+    {
+      "sakeId": "mizubasho-p7oucs",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:11:18.985Z"
+    },
+    {
+      "sakeId": "echigozakura-daiginjo-standard",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:11:20.146Z"
+    },
+    {
+      "sakeId": "okunokami-kflfjg",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:11:21.303Z"
+    },
+    {
+      "sakeId": "fukucho-io3id2",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:11:22.458Z"
+    },
+    {
+      "sakeId": "tosatsuru-honzo-karakuchi-standard",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:11:23.625Z"
+    },
+    {
+      "sakeId": "tosa-shiragiku-ul4nol",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:11:24.775Z"
+    },
+    {
+      "sakeId": "aramasa-junmai-1",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:11:25.939Z"
+    },
+    {
+      "sakeId": "hiroki-tokubetsu-junmai-1",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:11:27.102Z"
+    },
+    {
+      "sakeId": "shichiken-i9dko8-1",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:11:28.251Z"
+    },
+    {
+      "sakeId": "goshun-hlztnu-2",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:11:29.389Z"
+    },
+    {
+      "sakeId": "rihaku-id2kl5-2",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:11:30.544Z"
+    },
+    {
+      "sakeId": "kamo-kinshu-tokubetsu-junmai-2",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:11:31.710Z"
+    },
+    {
+      "sakeId": "fukucho-io3id2-4",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:11:32.869Z"
+    },
+    {
+      "sakeId": "kinkon-juemon-junmai-muroka-genshu",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:11:34.026Z"
+    },
+    {
+      "sakeId": "houhai-tokubetsu-junmai-v1",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:11:35.169Z"
+    },
+    {
+      "sakeId": "raifuku-junmai-ginjo-yamadanishiki-hiire-v1",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:11:36.333Z"
+    },
+    {
+      "sakeId": "tamagawa-tokubetsu-junmai-v1",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:11:37.488Z"
+    },
+    {
+      "sakeId": "sensuke-chokarakuchi-junmai-ginjo-genshu-ichibi-v1",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:11:38.640Z"
+    },
+    {
+      "sakeId": "kozaemon-bizen-omachi-hiire-v1",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:11:39.797Z"
+    },
+    {
+      "sakeId": "zaru-so-hourai-junmai-green-v1",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:11:40.955Z"
+    },
+    {
+      "sakeId": "tenbu-junmai-ginjo-uzen-sakemirai-v1",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:11:42.105Z"
+    },
+    {
+      "sakeId": "tomio-gion-komachi-junmai-ginjo-standard",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:11:43.269Z"
+    },
+    {
+      "sakeId": "kirei-karakuchi-junmai-hachiju-hiire-v1",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:11:44.420Z"
+    },
+    {
+      "sakeId": "jikon-tokubetsu-junmai-hiire-standard-v1",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:11:45.575Z"
+    },
+    {
+      "sakeId": "gikyo-enishi-junmai-aged-blend-v1",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:11:46.732Z"
+    },
+    {
+      "sakeId": "tsujun-semi-junmai-ginjo-standard",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:11:47.881Z"
+    },
+    {
+      "sakeId": "hisagotaiko-ginjo-awa-yamadanishiki-standard",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:11:49.055Z"
+    },
+    {
+      "sakeId": "hyakushun-junmai-josen-standard",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:11:50.205Z"
+    },
+    {
+      "sakeId": "okunokami-junmai-ginjo-muchosei-nama-v1",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:11:51.360Z"
+    },
+    {
+      "sakeId": "azumacho-junmai",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:11:52.513Z"
+    },
+    {
+      "sakeId": "kiku-no-tsukasa-iaxjez",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:11:53.681Z"
+    },
+    {
+      "sakeId": "taikan-i9dko8",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:11:54.832Z"
+    },
+    {
+      "sakeId": "kenbishi-g39ip7",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:11:55.995Z"
+    },
+    {
+      "sakeId": "wakabotan-hlzg7a",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:11:57.156Z"
+    },
+    {
+      "sakeId": "nichinichi-yamada-nishiki-3",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:11:58.313Z"
+    },
+    {
+      "sakeId": "kurumazaka-gp8l70i9d-3",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:11:59.466Z"
+    },
+    {
+      "sakeId": "niida-shizenshu-junmai-genshu",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:12:00.633Z"
+    },
+    {
+      "sakeId": "sawaya-matsumoto-shuhari-gohyakumangoku-v1",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:12:01.788Z"
+    },
+    {
+      "sakeId": "kariho-yamahai-junmai-chokarakuchi-v1",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:12:02.938Z"
+    },
+    {
+      "sakeId": "daishinshu-tenouchi-namazume-v1",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:12:04.088Z"
+    },
+    {
+      "sakeId": "rokujuyoshu-tividq-3",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:12:05.239Z"
+    },
+    {
+      "sakeId": "wakabotan-hatcho-hinohikari-v1",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:12:06.400Z"
+    },
+    {
+      "sakeId": "kurokabuto-green-label-v1",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:12:07.559Z"
+    },
+    {
+      "sakeId": "mifuku-yamahai-junmai-ginjo-iginjunsei-standard",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:12:08.720Z"
+    },
+    {
+      "sakeId": "mikadomatsu-shacho-no-sake-v1",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:12:09.870Z"
+    },
+    {
+      "sakeId": "gozenshu-junmai-ginjo-nyoisan-omachi-v1",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:12:11.038Z"
+    },
+    {
+      "sakeId": "kazenomori-akitsuho-657-standard-v1",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:12:12.191Z"
+    },
+    {
+      "sakeId": "umenoyado-junmai-3",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:12:13.343Z"
+    },
+    {
+      "sakeId": "kizakura-yamahai-tokubetsu-junmai-yamadanishiki-standard",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:12:14.503Z"
+    },
+    {
+      "sakeId": "ine-to-agave-doburoku6-v1",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:12:15.660Z"
+    },
+    {
+      "sakeId": "kinkon-kflfjg",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:12:16.810Z"
+    },
+    {
+      "sakeId": "senkin-modern-ichishiki-hiire-v1",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:12:17.973Z"
+    },
+    {
+      "sakeId": "senkin-retro-ichishiki-hiire-v1",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:12:19.135Z"
+    },
+    {
+      "sakeId": "ginban-chotokusen-komenoshin-standard-v1",
+      "status": 200,
+      "host": "thumbnail.image.rakuten.co.jp",
+      "imageResponse": true,
+      "checkedAt": "2026-10-16T14:12:20.295Z"
+    }
+  ]
+}

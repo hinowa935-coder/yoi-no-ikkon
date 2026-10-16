@@ -1,0 +1,1020 @@
+{
+  "checkedAt": "2026-10-16T14:02:20.741Z",
+  "base": "http://127.0.0.1:3196",
+  "results": [
+    {
+      "engine": "webkit",
+      "width": 390,
+      "sakeId": "okunokami-junmai-ginjo-muchosei-nama-v1",
+      "view": "detail",
+      "observation": {
+        "naturalWidth": 240,
+        "naturalHeight": 240,
+        "width": 240,
+        "height": 240,
+        "display": "block",
+        "visibility": "visible",
+        "opacity": "1",
+        "host": "hbb.afl.rakuten.co.jp"
+      },
+      "samePurchaseDestination": true,
+      "pass": true
+    },
+    {
+      "engine": "webkit",
+      "width": 390,
+      "sakeId": "azumacho-junmai",
+      "view": "detail",
+      "observation": {
+        "naturalWidth": 240,
+        "naturalHeight": 180,
+        "width": 240,
+        "height": 180,
+        "display": "block",
+        "visibility": "visible",
+        "opacity": "1",
+        "host": "hbb.afl.rakuten.co.jp"
+      },
+      "samePurchaseDestination": true,
+      "pass": true
+    },
+    {
+      "engine": "webkit",
+      "width": 390,
+      "sakeId": "kiku-no-tsukasa-iaxjez",
+      "view": "detail",
+      "observation": {
+        "naturalWidth": 240,
+        "naturalHeight": 240,
+        "width": 240,
+        "height": 240,
+        "display": "block",
+        "visibility": "visible",
+        "opacity": "1",
+        "host": "hbb.afl.rakuten.co.jp"
+      },
+      "samePurchaseDestination": true,
+      "pass": true
+    },
+    {
+      "engine": "webkit",
+      "width": 390,
+      "sakeId": "taikan-i9dko8",
+      "view": "detail",
+      "observation": {
+        "naturalWidth": 240,
+        "naturalHeight": 240,
+        "width": 240,
+        "height": 240,
+        "display": "block",
+        "visibility": "visible",
+        "opacity": "1",
+        "host": "hbb.afl.rakuten.co.jp"
+      },
+      "samePurchaseDestination": true,
+      "pass": true
+    },
+    {
+      "engine": "webkit",
+      "width": 390,
+      "sakeId": "kenbishi-g39ip7",
+      "view": "detail",
+      "observation": {
+        "naturalWidth": 83,
+        "naturalHeight": 240,
+        "width": 83,
+        "height": 240,
+        "display": "block",
+        "visibility": "visible",
+        "opacity": "1",
+        "host": "hbb.afl.rakuten.co.jp"
+      },
+      "samePurchaseDestination": true,
+      "pass": true
+    },
+    {
+      "engine": "webkit",
+      "width": 390,
+      "sakeId": "wakabotan-hlzg7a",
+      "view": "detail",
+      "observation": {
+        "naturalWidth": 240,
+        "naturalHeight": 240,
+        "width": 240,
+        "height": 240,
+        "display": "block",
+        "visibility": "visible",
+        "opacity": "1",
+        "host": "hbb.afl.rakuten.co.jp"
+      },
+      "samePurchaseDestination": true,
+      "pass": true
+    },
+    {
+      "engine": "webkit",
+      "width": 390,
+      "sakeId": "nichinichi-yamada-nishiki-3",
+      "view": "detail",
+      "observation": {
+        "naturalWidth": 240,
+        "naturalHeight": 240,
+        "width": 240,
+        "height": 240,
+        "display": "block",
+        "visibility": "visible",
+        "opacity": "1",
+        "host": "hbb.afl.rakuten.co.jp"
+      },
+      "samePurchaseDestination": true,
+      "pass": true
+    },
+    {
+      "engine": "webkit",
+      "width": 390,
+      "sakeId": "kurumazaka-gp8l70i9d-3",
+      "view": "detail",
+      "observation": {
+        "naturalWidth": 69,
+        "naturalHeight": 240,
+        "width": 69,
+        "height": 240,
+        "display": "block",
+        "visibility": "visible",
+        "opacity": "1",
+        "host": "hbb.afl.rakuten.co.jp"
+      },
+      "samePurchaseDestination": true,
+      "pass": true
+    },
+    {
+      "engine": "webkit",
+      "width": 390,
+      "sakeId": "niida-shizenshu-junmai-genshu",
+      "view": "detail",
+      "observation": {
+        "naturalWidth": 240,
+        "naturalHeight": 240,
+        "width": 240,
+        "height": 240,
+        "display": "block",
+        "visibility": "visible",
+        "opacity": "1",
+        "host": "hbb.afl.rakuten.co.jp"
+      },
+      "samePurchaseDestination": true,
+      "pass": true
+    },
+    {
+      "engine": "webkit",
+      "width": 390,
+      "sakeId": "sawaya-matsumoto-shuhari-gohyakumangoku-v1",
+      "view": "detail",
+      "observation": {
+        "naturalWidth": 240,
+        "naturalHeight": 240,
+        "width": 240,
+        "height": 240,
+        "display": "block",
+        "visibility": "visible",
+        "opacity": "1",
+        "host": "hbb.afl.rakuten.co.jp"
+      },
+      "samePurchaseDestination": true,
+      "pass": true
+    },
+    {
+      "engine": "webkit",
+      "width": 390,
+      "sakeId": "kariho-yamahai-junmai-chokarakuchi-v1",
+      "view": "detail",
+      "observation": {
+        "naturalWidth": 159,
+        "naturalHeight": 240,
+        "width": 159,
+        "height": 240,
+        "display": "block",
+        "visibility": "visible",
+        "opacity": "1",
+        "host": "hbb.afl.rakuten.co.jp"
+      },
+      "samePurchaseDestination": true,
+      "pass": true
+    },
+    {
+      "engine": "webkit",
+      "width": 390,
+      "sakeId": "daishinshu-tenouchi-namazume-v1",
+      "view": "detail",
+      "observation": {
+        "naturalWidth": 240,
+        "naturalHeight": 240,
+        "width": 240,
+        "height": 240,
+        "display": "block",
+        "visibility": "visible",
+        "opacity": "1",
+        "host": "hbb.afl.rakuten.co.jp"
+      },
+      "samePurchaseDestination": true,
+      "pass": true
+    },
+    {
+      "engine": "webkit",
+      "width": 390,
+      "sakeId": "rokujuyoshu-tividq-3",
+      "view": "detail",
+      "observation": {
+        "naturalWidth": 239,
+        "naturalHeight": 240,
+        "width": 239,
+        "height": 240,
+        "display": "block",
+        "visibility": "visible",
+        "opacity": "1",
+        "host": "hbb.afl.rakuten.co.jp"
+      },
+      "samePurchaseDestination": true,
+      "pass": true
+    },
+    {
+      "engine": "webkit",
+      "width": 390,
+      "sakeId": "wakabotan-hatcho-hinohikari-v1",
+      "view": "detail",
+      "observation": {
+        "naturalWidth": 240,
+        "naturalHeight": 240,
+        "width": 240,
+        "height": 240,
+        "display": "block",
+        "visibility": "visible",
+        "opacity": "1",
+        "host": "hbb.afl.rakuten.co.jp"
+      },
+      "samePurchaseDestination": true,
+      "pass": true
+    },
+    {
+      "engine": "webkit",
+      "width": 390,
+      "sakeId": "kurokabuto-green-label-v1",
+      "view": "detail",
+      "observation": {
+        "naturalWidth": 81,
+        "naturalHeight": 240,
+        "width": 81,
+        "height": 240,
+        "display": "block",
+        "visibility": "visible",
+        "opacity": "1",
+        "host": "hbb.afl.rakuten.co.jp"
+      },
+      "samePurchaseDestination": true,
+      "pass": true
+    },
+    {
+      "engine": "webkit",
+      "width": 390,
+      "sakeId": "mifuku-yamahai-junmai-ginjo-iginjunsei-standard",
+      "view": "detail",
+      "observation": {
+        "naturalWidth": 240,
+        "naturalHeight": 240,
+        "width": 240,
+        "height": 240,
+        "display": "block",
+        "visibility": "visible",
+        "opacity": "1",
+        "host": "hbb.afl.rakuten.co.jp"
+      },
+      "samePurchaseDestination": true,
+      "pass": true
+    },
+    {
+      "engine": "webkit",
+      "width": 390,
+      "sakeId": "mikadomatsu-shacho-no-sake-v1",
+      "view": "detail",
+      "observation": {
+        "naturalWidth": 134,
+        "naturalHeight": 240,
+        "width": 134,
+        "height": 240,
+        "display": "block",
+        "visibility": "visible",
+        "opacity": "1",
+        "host": "hbb.afl.rakuten.co.jp"
+      },
+      "samePurchaseDestination": true,
+      "pass": true
+    },
+    {
+      "engine": "webkit",
+      "width": 390,
+      "sakeId": "gozenshu-junmai-ginjo-nyoisan-omachi-v1",
+      "view": "detail",
+      "observation": {
+        "naturalWidth": 240,
+        "naturalHeight": 240,
+        "width": 240,
+        "height": 240,
+        "display": "block",
+        "visibility": "visible",
+        "opacity": "1",
+        "host": "hbb.afl.rakuten.co.jp"
+      },
+      "samePurchaseDestination": true,
+      "pass": true
+    },
+    {
+      "engine": "webkit",
+      "width": 390,
+      "sakeId": "kazenomori-akitsuho-657-standard-v1",
+      "view": "detail",
+      "observation": {
+        "naturalWidth": 240,
+        "naturalHeight": 240,
+        "width": 240,
+        "height": 240,
+        "display": "block",
+        "visibility": "visible",
+        "opacity": "1",
+        "host": "hbb.afl.rakuten.co.jp"
+      },
+      "samePurchaseDestination": true,
+      "pass": true
+    },
+    {
+      "engine": "webkit",
+      "width": 390,
+      "sakeId": "umenoyado-junmai-3",
+      "view": "detail",
+      "observation": {
+        "naturalWidth": 240,
+        "naturalHeight": 240,
+        "width": 240,
+        "height": 240,
+        "display": "block",
+        "visibility": "visible",
+        "opacity": "1",
+        "host": "hbb.afl.rakuten.co.jp"
+      },
+      "samePurchaseDestination": true,
+      "pass": true
+    },
+    {
+      "engine": "webkit",
+      "width": 390,
+      "sakeId": "kizakura-yamahai-tokubetsu-junmai-yamadanishiki-standard",
+      "view": "detail",
+      "observation": {
+        "naturalWidth": 240,
+        "naturalHeight": 240,
+        "width": 240,
+        "height": 240,
+        "display": "block",
+        "visibility": "visible",
+        "opacity": "1",
+        "host": "hbb.afl.rakuten.co.jp"
+      },
+      "samePurchaseDestination": true,
+      "pass": true
+    },
+    {
+      "engine": "webkit",
+      "width": 390,
+      "sakeId": "ine-to-agave-doburoku6-v1",
+      "view": "detail",
+      "observation": {
+        "naturalWidth": 240,
+        "naturalHeight": 240,
+        "width": 240,
+        "height": 240,
+        "display": "block",
+        "visibility": "visible",
+        "opacity": "1",
+        "host": "hbb.afl.rakuten.co.jp"
+      },
+      "samePurchaseDestination": true,
+      "pass": true
+    },
+    {
+      "engine": "webkit",
+      "width": 390,
+      "sakeId": "kinkon-kflfjg",
+      "view": "detail",
+      "observation": {
+        "naturalWidth": 240,
+        "naturalHeight": 240,
+        "width": 240,
+        "height": 240,
+        "display": "block",
+        "visibility": "visible",
+        "opacity": "1",
+        "host": "hbb.afl.rakuten.co.jp"
+      },
+      "samePurchaseDestination": true,
+      "pass": true
+    },
+    {
+      "engine": "webkit",
+      "width": 390,
+      "sakeId": "senkin-modern-ichishiki-hiire-v1",
+      "view": "detail",
+      "observation": {
+        "naturalWidth": 240,
+        "naturalHeight": 240,
+        "width": 240,
+        "height": 240,
+        "display": "block",
+        "visibility": "visible",
+        "opacity": "1",
+        "host": "hbb.afl.rakuten.co.jp"
+      },
+      "samePurchaseDestination": true,
+      "pass": true
+    },
+    {
+      "engine": "webkit",
+      "width": 390,
+      "sakeId": "senkin-retro-ichishiki-hiire-v1",
+      "view": "detail",
+      "observation": {
+        "naturalWidth": 180,
+        "naturalHeight": 240,
+        "width": 180,
+        "height": 240,
+        "display": "block",
+        "visibility": "visible",
+        "opacity": "1",
+        "host": "hbb.afl.rakuten.co.jp"
+      },
+      "samePurchaseDestination": true,
+      "pass": true
+    },
+    {
+      "engine": "webkit",
+      "width": 390,
+      "sakeId": "ginban-chotokusen-komenoshin-standard-v1",
+      "view": "detail",
+      "observation": {
+        "naturalWidth": 175,
+        "naturalHeight": 240,
+        "width": 175,
+        "height": 240,
+        "display": "block",
+        "visibility": "visible",
+        "opacity": "1",
+        "host": "hbb.afl.rakuten.co.jp"
+      },
+      "samePurchaseDestination": true,
+      "pass": true
+    },
+    {
+      "engine": "webkit",
+      "view": "replacement",
+      "sakeId": "ginban-chotokusen-komenoshin-standard-v1",
+      "pass": true
+    },
+    {
+      "engine": "webkit",
+      "view": "archive",
+      "sakeId": "ginban-i4si9d",
+      "pass": true
+    },
+    {
+      "engine": "webkit",
+      "view": "archive-favorites-no-migration",
+      "pass": true
+    },
+    {
+      "engine": "webkit",
+      "view": "search-image",
+      "pass": true
+    },
+    {
+      "engine": "webkit",
+      "view": "favorite-image",
+      "pass": true
+    },
+    {
+      "engine": "webkit",
+      "view": "held-placeholder",
+      "pass": true
+    },
+    {
+      "engine": "webkit",
+      "width": 375,
+      "view": "narrow-image",
+      "pass": true
+    },
+    {
+      "engine": "webkit",
+      "width": 320,
+      "view": "narrow-image",
+      "pass": true
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "sakeId": "okunokami-junmai-ginjo-muchosei-nama-v1",
+      "view": "detail",
+      "observation": {
+        "naturalWidth": 240,
+        "naturalHeight": 240,
+        "width": 240,
+        "height": 240,
+        "display": "block",
+        "visibility": "visible",
+        "opacity": "1",
+        "host": "hbb.afl.rakuten.co.jp"
+      },
+      "samePurchaseDestination": true,
+      "pass": true
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "sakeId": "azumacho-junmai",
+      "view": "detail",
+      "observation": {
+        "naturalWidth": 240,
+        "naturalHeight": 180,
+        "width": 240,
+        "height": 180,
+        "display": "block",
+        "visibility": "visible",
+        "opacity": "1",
+        "host": "hbb.afl.rakuten.co.jp"
+      },
+      "samePurchaseDestination": true,
+      "pass": true
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "sakeId": "kiku-no-tsukasa-iaxjez",
+      "view": "detail",
+      "observation": {
+        "naturalWidth": 240,
+        "naturalHeight": 240,
+        "width": 240,
+        "height": 240,
+        "display": "block",
+        "visibility": "visible",
+        "opacity": "1",
+        "host": "hbb.afl.rakuten.co.jp"
+      },
+      "samePurchaseDestination": true,
+      "pass": true
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "sakeId": "taikan-i9dko8",
+      "view": "detail",
+      "observation": {
+        "naturalWidth": 240,
+        "naturalHeight": 240,
+        "width": 240,
+        "height": 240,
+        "display": "block",
+        "visibility": "visible",
+        "opacity": "1",
+        "host": "hbb.afl.rakuten.co.jp"
+      },
+      "samePurchaseDestination": true,
+      "pass": true
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "sakeId": "kenbishi-g39ip7",
+      "view": "detail",
+      "observation": {
+        "naturalWidth": 83,
+        "naturalHeight": 240,
+        "width": 83,
+        "height": 240,
+        "display": "block",
+        "visibility": "visible",
+        "opacity": "1",
+        "host": "hbb.afl.rakuten.co.jp"
+      },
+      "samePurchaseDestination": true,
+      "pass": true
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "sakeId": "wakabotan-hlzg7a",
+      "view": "detail",
+      "observation": {
+        "naturalWidth": 240,
+        "naturalHeight": 240,
+        "width": 240,
+        "height": 240,
+        "display": "block",
+        "visibility": "visible",
+        "opacity": "1",
+        "host": "hbb.afl.rakuten.co.jp"
+      },
+      "samePurchaseDestination": true,
+      "pass": true
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "sakeId": "nichinichi-yamada-nishiki-3",
+      "view": "detail",
+      "observation": {
+        "naturalWidth": 240,
+        "naturalHeight": 240,
+        "width": 240,
+        "height": 240,
+        "display": "block",
+        "visibility": "visible",
+        "opacity": "1",
+        "host": "hbb.afl.rakuten.co.jp"
+      },
+      "samePurchaseDestination": true,
+      "pass": true
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "sakeId": "kurumazaka-gp8l70i9d-3",
+      "view": "detail",
+      "observation": {
+        "naturalWidth": 69,
+        "naturalHeight": 240,
+        "width": 69,
+        "height": 240,
+        "display": "block",
+        "visibility": "visible",
+        "opacity": "1",
+        "host": "hbb.afl.rakuten.co.jp"
+      },
+      "samePurchaseDestination": true,
+      "pass": true
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "sakeId": "niida-shizenshu-junmai-genshu",
+      "view": "detail",
+      "observation": {
+        "naturalWidth": 240,
+        "naturalHeight": 240,
+        "width": 240,
+        "height": 240,
+        "display": "block",
+        "visibility": "visible",
+        "opacity": "1",
+        "host": "hbb.afl.rakuten.co.jp"
+      },
+      "samePurchaseDestination": true,
+      "pass": true
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "sakeId": "sawaya-matsumoto-shuhari-gohyakumangoku-v1",
+      "view": "detail",
+      "observation": {
+        "naturalWidth": 240,
+        "naturalHeight": 240,
+        "width": 240,
+        "height": 240,
+        "display": "block",
+        "visibility": "visible",
+        "opacity": "1",
+        "host": "hbb.afl.rakuten.co.jp"
+      },
+      "samePurchaseDestination": true,
+      "pass": true
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "sakeId": "kariho-yamahai-junmai-chokarakuchi-v1",
+      "view": "detail",
+      "observation": {
+        "naturalWidth": 159,
+        "naturalHeight": 240,
+        "width": 159,
+        "height": 240,
+        "display": "block",
+        "visibility": "visible",
+        "opacity": "1",
+        "host": "hbb.afl.rakuten.co.jp"
+      },
+      "samePurchaseDestination": true,
+      "pass": true
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "sakeId": "daishinshu-tenouchi-namazume-v1",
+      "view": "detail",
+      "observation": {
+        "naturalWidth": 240,
+        "naturalHeight": 240,
+        "width": 240,
+        "height": 240,
+        "display": "block",
+        "visibility": "visible",
+        "opacity": "1",
+        "host": "hbb.afl.rakuten.co.jp"
+      },
+      "samePurchaseDestination": true,
+      "pass": true
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "sakeId": "rokujuyoshu-tividq-3",
+      "view": "detail",
+      "observation": {
+        "naturalWidth": 239,
+        "naturalHeight": 240,
+        "width": 239,
+        "height": 240,
+        "display": "block",
+        "visibility": "visible",
+        "opacity": "1",
+        "host": "hbb.afl.rakuten.co.jp"
+      },
+      "samePurchaseDestination": true,
+      "pass": true
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "sakeId": "wakabotan-hatcho-hinohikari-v1",
+      "view": "detail",
+      "observation": {
+        "naturalWidth": 240,
+        "naturalHeight": 240,
+        "width": 240,
+        "height": 240,
+        "display": "block",
+        "visibility": "visible",
+        "opacity": "1",
+        "host": "hbb.afl.rakuten.co.jp"
+      },
+      "samePurchaseDestination": true,
+      "pass": true
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "sakeId": "kurokabuto-green-label-v1",
+      "view": "detail",
+      "observation": {
+        "naturalWidth": 81,
+        "naturalHeight": 240,
+        "width": 81,
+        "height": 240,
+        "display": "block",
+        "visibility": "visible",
+        "opacity": "1",
+        "host": "hbb.afl.rakuten.co.jp"
+      },
+      "samePurchaseDestination": true,
+      "pass": true
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "sakeId": "mifuku-yamahai-junmai-ginjo-iginjunsei-standard",
+      "view": "detail",
+      "observation": {
+        "naturalWidth": 240,
+        "naturalHeight": 240,
+        "width": 240,
+        "height": 240,
+        "display": "block",
+        "visibility": "visible",
+        "opacity": "1",
+        "host": "hbb.afl.rakuten.co.jp"
+      },
+      "samePurchaseDestination": true,
+      "pass": true
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "sakeId": "mikadomatsu-shacho-no-sake-v1",
+      "view": "detail",
+      "observation": {
+        "naturalWidth": 134,
+        "naturalHeight": 240,
+        "width": 134,
+        "height": 240,
+        "display": "block",
+        "visibility": "visible",
+        "opacity": "1",
+        "host": "hbb.afl.rakuten.co.jp"
+      },
+      "samePurchaseDestination": true,
+      "pass": true
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "sakeId": "gozenshu-junmai-ginjo-nyoisan-omachi-v1",
+      "view": "detail",
+      "observation": {
+        "naturalWidth": 240,
+        "naturalHeight": 240,
+        "width": 240,
+        "height": 240,
+        "display": "block",
+        "visibility": "visible",
+        "opacity": "1",
+        "host": "hbb.afl.rakuten.co.jp"
+      },
+      "samePurchaseDestination": true,
+      "pass": true
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "sakeId": "kazenomori-akitsuho-657-standard-v1",
+      "view": "detail",
+      "observation": {
+        "naturalWidth": 240,
+        "naturalHeight": 240,
+        "width": 240,
+        "height": 240,
+        "display": "block",
+        "visibility": "visible",
+        "opacity": "1",
+        "host": "hbb.afl.rakuten.co.jp"
+      },
+      "samePurchaseDestination": true,
+      "pass": true
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "sakeId": "umenoyado-junmai-3",
+      "view": "detail",
+      "observation": {
+        "naturalWidth": 240,
+        "naturalHeight": 240,
+        "width": 240,
+        "height": 240,
+        "display": "block",
+        "visibility": "visible",
+        "opacity": "1",
+        "host": "hbb.afl.rakuten.co.jp"
+      },
+      "samePurchaseDestination": true,
+      "pass": true
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "sakeId": "kizakura-yamahai-tokubetsu-junmai-yamadanishiki-standard",
+      "view": "detail",
+      "observation": {
+        "naturalWidth": 240,
+        "naturalHeight": 240,
+        "width": 240,
+        "height": 240,
+        "display": "block",
+        "visibility": "visible",
+        "opacity": "1",
+        "host": "hbb.afl.rakuten.co.jp"
+      },
+      "samePurchaseDestination": true,
+      "pass": true
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "sakeId": "ine-to-agave-doburoku6-v1",
+      "view": "detail",
+      "observation": {
+        "naturalWidth": 240,
+        "naturalHeight": 240,
+        "width": 240,
+        "height": 240,
+        "display": "block",
+        "visibility": "visible",
+        "opacity": "1",
+        "host": "hbb.afl.rakuten.co.jp"
+      },
+      "samePurchaseDestination": true,
+      "pass": true
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "sakeId": "kinkon-kflfjg",
+      "view": "detail",
+      "observation": {
+        "naturalWidth": 240,
+        "naturalHeight": 240,
+        "width": 240,
+        "height": 240,
+        "display": "block",
+        "visibility": "visible",
+        "opacity": "1",
+        "host": "hbb.afl.rakuten.co.jp"
+      },
+      "samePurchaseDestination": true,
+      "pass": true
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "sakeId": "senkin-modern-ichishiki-hiire-v1",
+      "view": "detail",
+      "observation": {
+        "naturalWidth": 240,
+        "naturalHeight": 240,
+        "width": 240,
+        "height": 240,
+        "display": "block",
+        "visibility": "visible",
+        "opacity": "1",
+        "host": "hbb.afl.rakuten.co.jp"
+      },
+      "samePurchaseDestination": true,
+      "pass": true
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "sakeId": "senkin-retro-ichishiki-hiire-v1",
+      "view": "detail",
+      "observation": {
+        "naturalWidth": 180,
+        "naturalHeight": 240,
+        "width": 180,
+        "height": 240,
+        "display": "block",
+        "visibility": "visible",
+        "opacity": "1",
+        "host": "hbb.afl.rakuten.co.jp"
+      },
+      "samePurchaseDestination": true,
+      "pass": true
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "sakeId": "ginban-chotokusen-komenoshin-standard-v1",
+      "view": "detail",
+      "observation": {
+        "naturalWidth": 175,
+        "naturalHeight": 240,
+        "width": 175,
+        "height": 240,
+        "display": "block",
+        "visibility": "visible",
+        "opacity": "1",
+        "host": "hbb.afl.rakuten.co.jp"
+      },
+      "samePurchaseDestination": true,
+      "pass": true
+    },
+    {
+      "engine": "chromium",
+      "view": "replacement",
+      "sakeId": "ginban-chotokusen-komenoshin-standard-v1",
+      "pass": true
+    },
+    {
+      "engine": "chromium",
+      "view": "archive",
+      "sakeId": "ginban-i4si9d",
+      "pass": true
+    },
+    {
+      "engine": "chromium",
+      "view": "archive-favorites-no-migration",
+      "pass": true
+    },
+    {
+      "engine": "chromium",
+      "view": "search-image",
+      "pass": true
+    },
+    {
+      "engine": "chromium",
+      "view": "favorite-image",
+      "pass": true
+    },
+    {
+      "engine": "chromium",
+      "view": "held-placeholder",
+      "pass": true
+    }
+  ],
+  "passed": true,
+  "realDevicePwaTested": false
+}

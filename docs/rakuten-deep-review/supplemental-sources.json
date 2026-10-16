@@ -1,0 +1,965 @@
+{
+  "rows": [
+    {
+      "sakeId": "koeigiku-snow-crescent",
+      "url": "https://ontable.jp/shopdetail/000000002338/",
+      "status": 200,
+      "retrieved": true,
+      "checkedAt": "2026-10-16T10:53:58.547Z",
+      "pageCache": "52e2a9c02c2a1588fea5fb31bc42d38f79e85fd72cbf464ef5bd02fd9879e012",
+      "titles": [
+        "光栄菊酒造【日本酒】光栄菊 スノー クレッセント 雄山錦 無濾過生原酒<720ml>★桜本商店オンラインショップ【オンターブル】"
+      ],
+      "scope": "supplemental_current_page_not_automatic_sku_verification"
+    },
+    {
+      "sakeId": "wakanami-junmai",
+      "url": "https://wakanami.jimdofree.com/",
+      "status": 200,
+      "retrieved": true,
+      "checkedAt": "2026-10-16T10:53:59.479Z",
+      "pageCache": "94747536b768e69041b311f7b8997e4c5f0ed18fd02e47cb773376646708ec49",
+      "titles": [
+        "若波酒造合名会社 - 蔵元HP"
+      ],
+      "scope": "supplemental_current_page_not_automatic_sku_verification"
+    },
+    {
+      "sakeId": "wakanami-junmai",
+      "url": "https://j-s-p.or.jp/kuramoto/wakanami",
+      "status": 200,
+      "retrieved": true,
+      "checkedAt": "2026-10-16T10:54:00.631Z",
+      "pageCache": "93d5f4a0f115feac6e02faede63f1d6810e5e683b8b6a59c143934002cad8644",
+      "titles": [
+        "若波酒造合名会社 -JSP",
+        "若波酒造合名会社"
+      ],
+      "scope": "supplemental_current_page_not_automatic_sku_verification"
+    },
+    {
+      "sakeId": "amaneko-white-koji",
+      "url": "https://www.aramasa.jp/collection/lab.html",
+      "status": null,
+      "retrieved": false,
+      "checkedAt": "2026-10-16T10:54:01.513Z",
+      "pageCache": "4b22167d12db1a550ff49303bbf7a9180e1d3984e82779948dd020e0f2972e5f",
+      "titles": [],
+      "scope": "supplemental_current_page_not_automatic_sku_verification"
+    },
+    {
+      "sakeId": "amaneko-white-koji",
+      "url": "https://takekuma.co.jp/store/item/item-seisyu/aramasa-4710",
+      "status": 200,
+      "retrieved": true,
+      "checkedAt": "2026-10-16T10:54:02.968Z",
+      "pageCache": "3408ec583d82234bd1e7bf264bf1ec1762fb02a214e9cb55bba91ddf11a02eb0",
+      "titles": [
+        "新政 亜麻猫 720mL | 送料無料サービス有！酒専門通販【たけくま酒店 ONLINE STORE】",
+        "新政　亜麻猫　720mL"
+      ],
+      "scope": "supplemental_current_page_not_automatic_sku_verification"
+    },
+    {
+      "sakeId": "juyondai-honmaru",
+      "url": "https://www.sakenomy.jp/sake/TST0000043425/",
+      "status": 200,
+      "retrieved": true,
+      "checkedAt": "2026-10-16T10:54:03.944Z",
+      "pageCache": "cc59eb1ea6689978ee72a1d9945f1578c15edac253b026b200cba4fe63f79129",
+      "titles": [
+        "十四代 本丸 | Sakenomy - 日本酒を知り、日本を知る",
+        "じゅうよんだい ほんまる 十四代 本丸"
+      ],
+      "scope": "supplemental_current_page_not_automatic_sku_verification"
+    },
+    {
+      "sakeId": "juyondai-honmaru",
+      "url": "https://www.city.murayama.lg.jp/kigyo/gyoshu/sake/takagi.html",
+      "status": 200,
+      "retrieved": true,
+      "checkedAt": "2026-10-16T10:54:05.039Z",
+      "pageCache": "aeeafa717827b57bb07a1c800ece1ad9e92ab78f45dee0881b16d5df7f2e280d",
+      "titles": [
+        "高木酒造　株式会社　村山市",
+        "高木酒造　株式会社"
+      ],
+      "scope": "supplemental_current_page_not_automatic_sku_verification"
+    },
+    {
+      "sakeId": "murayu-kuro",
+      "url": "https://www.kanedai.com/list/view/553",
+      "status": 200,
+      "retrieved": true,
+      "checkedAt": "2026-10-16T10:54:06.380Z",
+      "pageCache": "e27956cb825d1db210669967ae59b384e1d871d89adb9bae75361819ac605cfa",
+      "titles": [
+        "村祐 「黒」　純米大吟醸　無濾過本生",
+        ""
+      ],
+      "scope": "supplemental_current_page_not_automatic_sku_verification"
+    },
+    {
+      "sakeId": "koeigiku-gekkou",
+      "url": "https://ontable.jp/shopdetail/000000002172/",
+      "status": 200,
+      "retrieved": true,
+      "checkedAt": "2026-10-16T10:54:07.945Z",
+      "pageCache": "87d29463cc8113c16b36e45cc57fb0d9d5e5fa973b09776fc0a3436e9bffb170",
+      "titles": [
+        "光栄菊酒造【日本酒】光栄菊 月光 天然乳酸菌仕込み 無濾過生原酒<720ml>★桜本商店オンラインショップ【オンターブル】"
+      ],
+      "scope": "supplemental_current_page_not_automatic_sku_verification"
+    },
+    {
+      "sakeId": "kamikawa-taisetsu-junmai",
+      "url": "https://www.akisada.jp/product/1015",
+      "status": 200,
+      "retrieved": true,
+      "checkedAt": "2026-10-16T10:54:08.525Z",
+      "pageCache": "4ca8aef9f73ab066d528ad47861f2d46e630d322b16de034198bd33039ec63f7",
+      "titles": [
+        "上川大雪　特別純米　彗星　720ml  - 秋貞商店",
+        "上川大雪　特別純米　彗星　720ml"
+      ],
+      "scope": "supplemental_current_page_not_automatic_sku_verification"
+    },
+    {
+      "sakeId": "kamikawa-taisetsu-junmai",
+      "url": "https://kamikawa-taisetsu.co.jp/company/",
+      "status": 200,
+      "retrieved": true,
+      "checkedAt": "2026-10-16T10:54:09.863Z",
+      "pageCache": "c4e4ebf5390680e6556ae3667b36d591daaa9a14f3985c260c0041f5daa50cde",
+      "titles": [
+        "会社概要 - 上川大雪酒造株式会社上川大雪酒造株式会社"
+      ],
+      "scope": "supplemental_current_page_not_automatic_sku_verification"
+    },
+    {
+      "sakeId": "hatsumago-i9diua",
+      "url": "https://isobe-sake.com/products/hatsumago_kouki",
+      "status": 200,
+      "retrieved": true,
+      "checkedAt": "2026-10-16T10:54:11.332Z",
+      "pageCache": "e6f174060b064faa1998a0653a44586a9d091ff31e9b6912d83ae6a920855de7",
+      "titles": [
+        "初孫 光輝2236 純米大吟醸 720ml/1800ml｜日本酒専門店 - いそべ酒店",
+        "初孫(はつまご) 光輝2236 生酛純米大吟醸 720ml/1800ml",
+        "【初孫 光輝2236 生酛純米大吟醸】"
+      ],
+      "scope": "supplemental_current_page_not_automatic_sku_verification"
+    },
+    {
+      "sakeId": "hatsumago-i9diua",
+      "url": "https://www.hatsumago.co.jp/company/",
+      "status": 200,
+      "retrieved": true,
+      "checkedAt": "2026-10-16T10:54:14.204Z",
+      "pageCache": "67d2099db7c38585da9f8b067feaf10202a361d8301a0586464610a799389057",
+      "titles": [
+        "社長挨拶 - 東北銘醸株式会社",
+        "社長挨拶"
+      ],
+      "scope": "supplemental_current_page_not_automatic_sku_verification"
+    },
+    {
+      "sakeId": "sara-hdomtl",
+      "url": "https://www.syusendo-horiichi.co.jp/SHOP/16225.html",
+      "status": 200,
+      "retrieved": true,
+      "checkedAt": "2026-10-16T10:54:14.686Z",
+      "pageCache": "d38d784c907c9986ed2a806e7bee1d3820a399f5ed2bb12606b5ce5b196709e9",
+      "titles": [
+        "彩來　Sara　特別純米　無ろ過生原酒　花澄み　720ml",
+        "",
+        "【一本限定】 彩來　Sara　特別純米　無ろ過生原酒　花澄み　720ml"
+      ],
+      "scope": "supplemental_current_page_not_automatic_sku_verification"
+    },
+    {
+      "sakeId": "tanzawasan-nz2hmwijh",
+      "url": "https://kawanishiya.stores.jp/items/5f3a3dc5afaa9d4b2da3f22e",
+      "status": 403,
+      "retrieved": false,
+      "checkedAt": "2026-10-16T10:35:06.564Z",
+      "pageCache": "a00d8ff82b91f2a38a94154dc692ad651bd7c16c1b637f50efcb9a4ed0ed421a",
+      "titles": [
+        "Captcha Challenge - STORES",
+        "ロボットによる操作ではないことを確認します。"
+      ],
+      "scope": "supplemental_current_page_not_automatic_sku_verification"
+    },
+    {
+      "sakeId": "tanzawasan-nz2hmwijh",
+      "url": "https://kawanishiya.wixsite.com/kawanishiya/contact",
+      "status": 200,
+      "retrieved": true,
+      "checkedAt": "2026-10-16T10:54:15.453Z",
+      "pageCache": "d27066393ded982721418f3602cfcce9d6a57793b6c08a15e7aeb0073216844d",
+      "titles": [
+        "コンタクト | kawanishiya",
+        "川西屋",
+        "​酒造店"
+      ],
+      "scope": "supplemental_current_page_not_automatic_sku_verification"
+    },
+    {
+      "sakeId": "abe-k34lzz",
+      "url": "https://store.sakejump.com/products/1030001",
+      "status": 200,
+      "retrieved": true,
+      "checkedAt": "2026-10-16T10:54:17.018Z",
+      "pageCache": "0615a4c0811d0daae5b26f3deda8f0a869f6c9d50045fca2878693901ebffc1b",
+      "titles": [
+        "STANDARD | あべ – sakejump online",
+        "STANDARD | あべ"
+      ],
+      "scope": "supplemental_current_page_not_automatic_sku_verification"
+    },
+    {
+      "sakeId": "tenkanishiki-fexsst",
+      "url": "https://jizake-mie.jp/SHOP/tenka-jungin-720.html",
+      "status": 200,
+      "retrieved": true,
+      "checkedAt": "2026-10-16T10:54:18.635Z",
+      "pageCache": "db466ccb7a4522f8a0140158452d35ee2d8f40b43acc7cb26b41d82344135357",
+      "titles": [
+        "天下錦 純米吟醸 MK-1 無濾過 火入 日本酒 | 福持酒造 三重県名張 | 特約店 三重県の地酒専門酒屋べんのや",
+        "",
+        "天下錦 純米吟醸 MK-1 無濾過 火入 日本酒 720ml 福持酒造 三重県名張 日本酒 通販　【クール便指定】"
+      ],
+      "scope": "supplemental_current_page_not_automatic_sku_verification"
+    },
+    {
+      "sakeId": "tenkanishiki-fexsst",
+      "url": "https://japansake.or.jp/sakagura/jp/mie/fukumochi-shuzoujou/",
+      "status": 200,
+      "retrieved": true,
+      "checkedAt": "2026-10-16T10:54:19.163Z",
+      "pageCache": "e32b2281e613d59ad343331c796c79e67e85bbaadfbb5890ee544551a22c5b76",
+      "titles": [
+        "（株）福持酒造場 | 酒蔵検索",
+        "（株）福持酒造場"
+      ],
+      "scope": "supplemental_current_page_not_automatic_sku_verification"
+    },
+    {
+      "sakeId": "takaisami-uzpgk6",
+      "url": "https://www.tottori-guide.jp/tourism/tour/view/192",
+      "status": 200,
+      "retrieved": true,
+      "checkedAt": "2026-10-16T10:54:20.341Z",
+      "pageCache": "185c7634606971b6b9cfeb3be653f3d4c8ac1f457d15cd3b9de7fb0ef01ce724",
+      "titles": [
+        "とっとり旅 【公式】鳥取県観光旅行情報サイト",
+        "鷹勇"
+      ],
+      "scope": "supplemental_current_page_not_automatic_sku_verification"
+    },
+    {
+      "sakeId": "takaisami-uzpgk6",
+      "url": "https://onlinestore.ume1929.co.jp/2022/02/21/%E9%B7%B9%E5%8B%87%E8%BE%9B%E5%8F%A3%E7%B4%94%E7%B1%B3%E9%85%92/",
+      "status": 200,
+      "retrieved": true,
+      "checkedAt": "2026-10-16T10:54:21.937Z",
+      "pageCache": "613baa66b650515a6c0cd0d52b1e375834573313434c07c21883a1517a8cd47d",
+      "titles": [
+        "鷹勇辛口純米酒 720ml - ウメハラオンラインストア",
+        "",
+        "鷹勇辛口純米酒 720ml"
+      ],
+      "scope": "supplemental_current_page_not_automatic_sku_verification"
+    },
+    {
+      "sakeId": "jujiasahi-id2kl5",
+      "url": "https://shimane-sake.or.jp/sakebrewery/asahi/",
+      "status": 200,
+      "retrieved": true,
+      "checkedAt": "2026-10-16T10:54:22.406Z",
+      "pageCache": "aff30e07495b03dae3b55e91e867f1968479d3896c9b8a47fe8cc349064f0069",
+      "titles": [
+        "旭日酒造有限会社 - 島根県酒造組合 | 日本酒発祥の地『島根』",
+        ""
+      ],
+      "scope": "supplemental_current_page_not_automatic_sku_verification"
+    },
+    {
+      "sakeId": "jujiasahi-id2kl5",
+      "url": "https://shimane-sake.or.jp/sakebrewery/asahi",
+      "status": 200,
+      "retrieved": true,
+      "checkedAt": "2026-10-16T10:54:24.018Z",
+      "pageCache": "72d75f37fcf334159126b74fbd68db2a5adc12af5b9174a88f090aafbc4f42c4",
+      "titles": [
+        "旭日酒造有限会社 - 島根県酒造組合 | 日本酒発祥の地『島根』",
+        ""
+      ],
+      "scope": "supplemental_current_page_not_automatic_sku_verification"
+    },
+    {
+      "sakeId": "tagaji-iapi9d",
+      "url": "https://www.iiosake.com/product/375",
+      "status": 200,
+      "retrieved": true,
+      "checkedAt": "2026-10-16T10:54:24.867Z",
+      "pageCache": "03ede09badfc5fe805cd834197e4f4c3f781fe1296656e50bbaf552478636c7e",
+      "titles": [
+        "裏多賀治　純米大吟醸朝日　無濾過生原酒　1.8L｜十八盛酒造",
+        "裏多賀治　純米大吟醸朝日　無濾過生原酒　1.8L"
+      ],
+      "scope": "supplemental_current_page_not_automatic_sku_verification"
+    },
+    {
+      "sakeId": "tagaji-iapi9d",
+      "url": "https://juhachi.jp/",
+      "status": 200,
+      "retrieved": true,
+      "checkedAt": "2026-10-16T10:54:27.753Z",
+      "pageCache": "c1d1b4081187bbee1979964e500987fa163371b46798c22204ddaabc6605ec01",
+      "titles": [
+        "【十八盛酒造株式会社】瀬戸内の穏やかな気候のもと岡山米で醸すこだわりの酒",
+        "十八盛酒造は、倉敷市児島という瀬戸内際にある蔵です。昔から瀬戸内の魚介類に合う旨味のあるお酒を造っています。"
+      ],
+      "scope": "supplemental_current_page_not_automatic_sku_verification"
+    },
+    {
+      "sakeId": "miyoshikiku-iwjid2",
+      "url": "https://www.iiosake.com/product/1722",
+      "status": 200,
+      "retrieved": true,
+      "checkedAt": "2026-10-16T10:54:27.825Z",
+      "pageCache": "e910bdc59fcac024f22b69488b4636b8fe606db2239e84d842019ae1acc6bd14",
+      "titles": [
+        "三芳菊　等外山田錦　零 ZERO　1.8L｜三芳菊酒造",
+        "三芳菊　等外山田錦　零 ZERO　無濾過生原酒　1.8Ｌ"
+      ],
+      "scope": "supplemental_current_page_not_automatic_sku_verification"
+    },
+    {
+      "sakeId": "takakiya-hlzg7a",
+      "url": "https://www.sakenomy.jp/sake/TST0000011192/",
+      "status": 200,
+      "retrieved": true,
+      "checkedAt": "2026-10-16T10:54:29.061Z",
+      "pageCache": "8afebce7f37f2675252b48f007b7f9a4b3b73fe6cdad92c3fe7aceae80a50bf9",
+      "titles": [
+        "鷹来屋 特別純米酒 山廃 (季節限定酒) | Sakenomy - 日本酒を知り、日本を知る",
+        "たかきや とくべつじゅんまいしゅ やまはい きせつげんていしゅ 鷹来屋 特別純米酒 山廃 (季節限定酒)"
+      ],
+      "scope": "supplemental_current_page_not_automatic_sku_verification"
+    },
+    {
+      "sakeId": "takakiya-hlzg7a",
+      "url": "https://www.takakiya.co.jp/product.php",
+      "status": 200,
+      "retrieved": true,
+      "checkedAt": "2026-10-16T10:54:30.145Z",
+      "pageCache": "1e4e5526a83edab3be60c84120f919545e3a298fa36dfca2aea8176539fbd541",
+      "titles": [
+        "商品紹介｜鷹来屋｜浜嶋酒造合資会社 大分県豊後大野",
+        ""
+      ],
+      "scope": "supplemental_current_page_not_automatic_sku_verification"
+    },
+    {
+      "sakeId": "oze-no-yukidoke-junmai-daiginjo-1",
+      "url": "https://www.sakenomy.jp/sake/TST0000041894/",
+      "status": 200,
+      "retrieved": true,
+      "checkedAt": "2026-10-16T10:54:31.363Z",
+      "pageCache": "292f84d7ed0a24e9bad31a527267c8f760140b4f0ab3e1e5e33475f4f8afac15",
+      "titles": [
+        "尾瀬の雪どけ 純米大吟醸 桃色にごり | Sakenomy - 日本酒を知り、日本を知る",
+        "おぜのゆきどけ じゅんまいだいぎんじょう ももいろにごり 尾瀬の雪どけ 純米大吟醸 桃色にごり"
+      ],
+      "scope": "supplemental_current_page_not_automatic_sku_verification"
+    },
+    {
+      "sakeId": "hanaabi-junmai-daiginjo-1",
+      "url": "https://www.syusendo-horiichi.co.jp/SHOP/1224500.html",
+      "status": 200,
+      "retrieved": true,
+      "checkedAt": "2026-10-16T10:54:33.015Z",
+      "pageCache": "c5df30414d9213d98d10623cb920b115b0d5f88b69320eb7be484748c23152d9",
+      "titles": [
+        "花陽浴（はなあび）　純米大吟醸　越後五百万石 　無濾過生  720ml",
+        "",
+        "【店頭抽選販売】花陽浴（はなあび）　純米大吟醸　越後五百万石 　無濾過生  720ml"
+      ],
+      "scope": "supplemental_current_page_not_automatic_sku_verification"
+    },
+    {
+      "sakeId": "sara-hdomtl-2",
+      "url": "https://www.kakinuma-tokyo.co.jp/products/sara-the-starry-night-vesper",
+      "status": 200,
+      "retrieved": true,
+      "checkedAt": "2026-10-16T10:54:33.994Z",
+      "pageCache": "f95d2a369bd7934fc484e56d3eca0582e4f0de756553bfdbbcfc954621fe71f7",
+      "titles": [
+        "彩來 the starry night Vesper\n – 日本酒と焼酎 かき沼オンラインストア",
+        "彩來 the starry night Vesper"
+      ],
+      "scope": "supplemental_current_page_not_automatic_sku_verification"
+    },
+    {
+      "sakeId": "sara-hdomtl-2",
+      "url": "https://www.kitanishishuzo.co.jp/",
+      "status": 200,
+      "retrieved": true,
+      "checkedAt": "2026-10-16T10:54:35.767Z",
+      "pageCache": "855b3c181b70d6333d31f2ec414c5751cec2432a76e01dca8b225330bb64bc2f",
+      "titles": [
+        "北西酒造株式会社 – 明治27年創業 老舗酒造",
+        ""
+      ],
+      "scope": "supplemental_current_page_not_automatic_sku_verification"
+    },
+    {
+      "sakeId": "rashomon-gp8l70i9d-4",
+      "url": "https://www.iisake.net/shopdetail/000000002845/",
+      "status": 200,
+      "retrieved": true,
+      "checkedAt": "2026-10-16T10:54:36.106Z",
+      "pageCache": "8ccab57f5f5953817edb5c1a9f0b72aa9899e95c896c9c4355c9de4474e3cd35",
+      "titles": [
+        "【数量限定】羅生門≪無濾過たれくち≫純米大吟醸生原酒 720ml | 羅生門...｜田端酒造,羅生門 純米大吟醸 |  | 紀の酒専門店　松尾酒店",
+        ""
+      ],
+      "scope": "supplemental_current_page_not_automatic_sku_verification"
+    },
+    {
+      "sakeId": "takaisami-uzpgk6-4",
+      "url": "https://www.sakaya1.com/SHOP/nta015.html?mode=detail",
+      "status": 200,
+      "retrieved": true,
+      "checkedAt": "2026-10-16T10:54:37.474Z",
+      "pageCache": "8eced004b2968088600589e6e6b83a873041c89b18896fe381729572eb5fd66d",
+      "titles": [
+        "鷹勇　純米にごり酒　火入れ　地酒通販　日本酒ショップくるみや",
+        "",
+        "鷹勇　純米にごり酒　火入れ　1.8L"
+      ],
+      "scope": "supplemental_current_page_not_automatic_sku_verification"
+    },
+    {
+      "sakeId": "takaisami-uzpgk6-4",
+      "url": "https://onlinestore.ume1929.co.jp/2022/02/21/%E9%B7%B9%E5%8B%87%E8%BE%9B%E5%8F%A3%E7%B4%94%E7%B1%B3%E9%85%92/",
+      "status": 200,
+      "retrieved": true,
+      "checkedAt": "2026-10-16T10:54:21.937Z",
+      "pageCache": "613baa66b650515a6c0cd0d52b1e375834573313434c07c21883a1517a8cd47d",
+      "titles": [
+        "鷹勇辛口純米酒 720ml - ウメハラオンラインストア",
+        "",
+        "鷹勇辛口純米酒 720ml"
+      ],
+      "scope": "supplemental_current_page_not_automatic_sku_verification"
+    },
+    {
+      "sakeId": "chiebijin-junmai-1",
+      "url": "https://chiebijin.com/2024/12/10/%E3%81%A1%E3%81%88%E3%81%B3%E3%81%98%E3%82%93-%E7%94%9F%E9%85%9B%E7%B4%94%E7%B1%B3/",
+      "status": 404,
+      "retrieved": false,
+      "checkedAt": "2026-10-16T10:36:07.115Z",
+      "pageCache": "e5b53eceba861e1e6756aa67c45ff502c308b96b85def39764f7f0fabcf9d3ff",
+      "titles": [
+        "ページが見つかりませんでした  |  智恵美人×ちえびじん 醸造元 / 有限会社 中野酒造",
+        "ページは見つかりませんでした"
+      ],
+      "scope": "supplemental_current_page_not_automatic_sku_verification"
+    },
+    {
+      "sakeId": "chiebijin-junmai-1",
+      "url": "https://chiebijin.com/company/",
+      "status": 200,
+      "retrieved": true,
+      "checkedAt": "2026-10-16T10:54:38.441Z",
+      "pageCache": "6e65c8d5ce293d3043ea334d722b0f471c16d5526d1c2beacf0a32ef4e743c9a",
+      "titles": [
+        "会社概要  |  智恵美人×ちえびじん 醸造元 / 有限会社 中野酒造",
+        "会社概要"
+      ],
+      "scope": "supplemental_current_page_not_automatic_sku_verification"
+    },
+    {
+      "sakeId": "niida-shizenshu-junmai-genshu",
+      "url": "https://niida1711.shop/items/5b0ce9a150bbc3461c001548",
+      "status": 403,
+      "retrieved": false,
+      "checkedAt": "2026-10-16T10:54:39.430Z",
+      "pageCache": "2315026f263ca438d81c1bd3494b12c7ee405de5eacda1791389b4f88a8b95c5",
+      "titles": [
+        "Captcha Challenge - STORES",
+        "ロボットによる操作ではないことを確認します。"
+      ],
+      "scope": "supplemental_current_page_not_automatic_sku_verification"
+    },
+    {
+      "sakeId": "niida-shizenshu-junmai-genshu",
+      "url": "https://www.sake-kagiya.com/view/item/000000003132",
+      "status": 200,
+      "retrieved": true,
+      "checkedAt": "2026-10-16T10:54:40.744Z",
+      "pageCache": "6e3dd5f020edf4c69c649c199ad10ac2c6d6cc6660b3a5d50dc133836f83b7bc",
+      "titles": [
+        "にいだしぜんしゅ 純米原酒 1.8L | にいだしぜんしゅ（仁井田本家） | 酒専門店鍵や",
+        "にいだしぜんしゅ 純米原酒 1.8L"
+      ],
+      "scope": "supplemental_current_page_not_automatic_sku_verification"
+    },
+    {
+      "sakeId": "niida-shizenshu-junmai-genshu",
+      "url": "https://niida1711.shop/items/5b0ce9715f786674d6001556",
+      "status": 403,
+      "retrieved": false,
+      "checkedAt": "2026-10-16T10:36:08.091Z",
+      "pageCache": "77e60ea76d5024344d7816df85fe2ea6948d57f38ecd27f4d44a2793d9940832",
+      "titles": [
+        "Captcha Challenge - STORES",
+        "ロボットによる操作ではないことを確認します。"
+      ],
+      "scope": "supplemental_current_page_not_automatic_sku_verification"
+    },
+    {
+      "sakeId": "kurokabuto-green-label-v1",
+      "url": "https://shop-ikekame.com/products/%E7%B4%94%E7%B1%B3%E5%90%9F%E9%86%B8%E9%BB%92%E5%85%9C%E5%A4%A2%E4%B8%80%E7%8C%AE",
+      "status": 200,
+      "retrieved": true,
+      "checkedAt": "2026-10-16T10:36:24.059Z",
+      "pageCache": "7cda391cdea2505ce365733e05b848566a36bf3a7a1e857f3d2bda2e641b0bd1",
+      "titles": [
+        "黒兜　Green Label　純米吟醸| 池亀酒造 | 福岡久留米の蔵元から地酒を直送。1万5千円以上の購入で送料無料",
+        "黒兜　Green Label　純米吟醸"
+      ],
+      "scope": "supplemental_current_page_not_automatic_sku_verification"
+    },
+    {
+      "sakeId": "tanzawasan-shuho-v1",
+      "url": "https://kawanishiya.stores.jp/items/5f3a3cded3f1672af1abd1a7",
+      "status": 403,
+      "retrieved": false,
+      "checkedAt": "2026-10-16T10:36:32.179Z",
+      "pageCache": "42dc6ec2fa475e719fac51aac6bb535992a1bc36ab29ba6e7636afb594434a39",
+      "titles": [
+        "Captcha Challenge - STORES",
+        "ロボットによる操作ではないことを確認します。"
+      ],
+      "scope": "supplemental_current_page_not_automatic_sku_verification"
+    },
+    {
+      "sakeId": "tanzawasan-shuho-v1",
+      "url": "https://kawanishiya.stores.jp/",
+      "status": 403,
+      "retrieved": false,
+      "checkedAt": "2026-10-16T10:54:41.735Z",
+      "pageCache": "6e05fbccfbceedc8948375a8e5536ef2310714ae8a76d16a2134c0760822066c",
+      "titles": [
+        "Captcha Challenge - STORES",
+        "ロボットによる操作ではないことを確認します。"
+      ],
+      "scope": "supplemental_current_page_not_automatic_sku_verification"
+    },
+    {
+      "sakeId": "shiraito-70-v1",
+      "url": "https://shiraito.stores.jp/items/6a435cfc3e49aa37f0b2d551",
+      "status": 403,
+      "retrieved": false,
+      "checkedAt": "2026-10-16T10:36:35.666Z",
+      "pageCache": "bf45e4a4136d9780fba93b3695fb216e99e43e42911d8c4943cf12e111ac751e",
+      "titles": [
+        "Captcha Challenge - STORES",
+        "ロボットによる操作ではないことを確認します。"
+      ],
+      "scope": "supplemental_current_page_not_automatic_sku_verification"
+    },
+    {
+      "sakeId": "shiraito-70-v1",
+      "url": "https://shiraito.stores.jp/about",
+      "status": 403,
+      "retrieved": false,
+      "checkedAt": "2026-10-16T10:54:42.908Z",
+      "pageCache": "c396255637e216062edac59302dfff93b7cada746c76450941c82efcae78cb72",
+      "titles": [
+        "Captcha Challenge - STORES",
+        "ロボットによる操作ではないことを確認します。"
+      ],
+      "scope": "supplemental_current_page_not_automatic_sku_verification"
+    },
+    {
+      "sakeId": "hiroki-tokubetsu-junmai-namazume-standard-v1",
+      "url": "https://www.imanaka-sakeshop.com/shopdetail/000000004388/",
+      "status": 200,
+      "retrieved": true,
+      "checkedAt": "2026-10-16T10:54:44.163Z",
+      "pageCache": "ee92a148deec373c48898de5b1ca5ca2f64a4882e88a81e43b842f12efb702b2",
+      "titles": [
+        "飛露喜 特別純米 生詰 1800ml ひろき 廣木酒造 | 日本酒（地酒）,都道府県で探す,東北地方の日本酒（地酒）,福島県の日本酒（地酒）,廣木酒造本店（飛露喜） | 今仲酒店",
+        "",
+        "飛露喜 特別純米 生詰 1800ml ひろき 廣木酒造"
+      ],
+      "scope": "supplemental_current_page_not_automatic_sku_verification"
+    },
+    {
+      "sakeId": "hiroki-tokubetsu-junmai-namazume-standard-v1",
+      "url": "https://sakecompetition.com/result/topsake_2026.html",
+      "status": 200,
+      "retrieved": true,
+      "checkedAt": "2026-10-16T10:54:45.282Z",
+      "pageCache": "3bf3c963b23605938ce97ff611805a9cce950eb2289b9802a23a09c64564bbe1",
+      "titles": [
+        "上位入賞-SAKE COMPETITION",
+        ""
+      ],
+      "scope": "supplemental_current_page_not_automatic_sku_verification"
+    },
+    {
+      "sakeId": "chochin-tokubetsu-junmai-gold-standard-v1",
+      "url": "https://www.belgianbeer.co.jp/products/detail.php?product_id=1135",
+      "status": 403,
+      "retrieved": false,
+      "checkedAt": "2026-10-16T10:54:46.538Z",
+      "pageCache": "5244a06521828b0a09f5db0a5fd2ed23ac0255cea215dd2640cf496a84703343",
+      "titles": [
+        "https://www.belgianbeer.co.jp | お客様様のご利用環境の確認中 (人間かBOTか)",
+        "安全なサイトを目指して  \nベルギービールJapanのセキュリティ"
+      ],
+      "scope": "supplemental_current_page_not_automatic_sku_verification"
+    },
+    {
+      "sakeId": "chochin-tokubetsu-junmai-gold-standard-v1",
+      "url": "https://www.sakenokimata.jp/item/sake/323",
+      "status": 200,
+      "retrieved": true,
+      "checkedAt": "2026-10-16T10:54:47.575Z",
+      "pageCache": "7195567271725412c1521a0f516716d90841ae5e02a4989f0eeae6529b92f0eb",
+      "titles": [
+        "長珍　特別純米酒｜酒のきまた",
+        "",
+        "長珍　特別純米酒"
+      ],
+      "scope": "supplemental_current_page_not_automatic_sku_verification"
+    },
+    {
+      "sakeId": "chochin-tokubetsu-junmai-gold-standard-v1",
+      "url": "https://saketomo.tv-aichi.co.jp/knowledge/20250718_tyotinsyuzokengaku.html",
+      "status": 200,
+      "retrieved": true,
+      "checkedAt": "2026-10-16T10:54:48.716Z",
+      "pageCache": "e7df269e7364be852ab952fc320724b96c92ee6fa412fc9e899abf15a64701a2",
+      "titles": [
+        "「長珍」長珍酒造株式会社　\"信長の台所\"で受け継がれる基本に忠実な「手仕事」での酒造り～ SAKETOMO的酒蔵見学・愛知編⑪｜SAKETOMO",
+        "「長珍」長珍酒造株式会社　\"信長の台所\"で受け継がれる基本に忠実な「手仕事」での酒造り～ SAKETOMO的酒蔵見学・愛知編⑪"
+      ],
+      "scope": "supplemental_current_page_not_automatic_sku_verification"
+    },
+    {
+      "sakeId": "eikofuji-jungetsu-junmai-standard-v1",
+      "url": "https://tohokusake.com/?pid=158160220",
+      "status": 200,
+      "retrieved": true,
+      "checkedAt": "2026-10-16T10:54:50.244Z",
+      "pageCache": "33aae757c663006b5783db2840b9874af971babdfadef4377bf9f7505c13f2ff",
+      "titles": [
+        "栄光冨士 純米酒 純月 720ml / 1800ml | 山形県産の酒造好適米で仕込んだスッキリとした味わいの純米酒 - 東北の地酒専門店｜田口酒店 東北酒倶楽部",
+        ""
+      ],
+      "scope": "supplemental_current_page_not_automatic_sku_verification"
+    },
+    {
+      "sakeId": "eikofuji-jungetsu-junmai-standard-v1",
+      "url": "https://www.e-sakenom.com/fuji_WEB002/",
+      "status": 200,
+      "retrieved": true,
+      "checkedAt": "2026-10-16T10:54:51.066Z",
+      "pageCache": "d8d4fb06c6600baa6ad46586d036ca3013b5ec5b48e9d7d46bbba042ea0c4440",
+      "titles": [
+        "［公式］栄光冨士｜冨士酒造株式会社"
+      ],
+      "scope": "supplemental_current_page_not_automatic_sku_verification"
+    },
+    {
+      "sakeId": "senkin-classic-nishiki-origarami-hiire-v1",
+      "url": "https://www.jizake.com/c/sake/senkin/ns180048",
+      "status": 200,
+      "retrieved": true,
+      "checkedAt": "2026-10-16T10:54:52.422Z",
+      "pageCache": "90df3bcde55e874a3a37d72b6db2351ee339a6ca5306231b4344574da906222b",
+      "titles": [
+        "◇仙禽　クラシック　弐式(オリガラミ)　火入れ　 | 日本酒専門店　佐野屋 JIZAKE.COM",
+        "日本酒・地酒の専門通販 | 佐野屋 - JIZAKE.com -",
+        "クラシックの名に恥じない、伝統を継ぎ、未来へ紡ぐ一本！ \n  \n   ◇仙禽　クラシック　弐式(オリガラミ)　火入れ"
+      ],
+      "scope": "supplemental_current_page_not_automatic_sku_verification"
+    },
+    {
+      "sakeId": "senkin-classic-nishiki-origarami-hiire-v1",
+      "url": "https://www.senkin.co.jp/",
+      "status": 200,
+      "retrieved": true,
+      "checkedAt": "2026-10-16T10:54:53.369Z",
+      "pageCache": "ea5047751305e608630f9e5fab2f931a293f01d42bf1ae0d19aa3a4e664c73ef",
+      "titles": [
+        "仙禽|SENKIN|オフィシャルサイト"
+      ],
+      "scope": "supplemental_current_page_not_automatic_sku_verification"
+    },
+    {
+      "sakeId": "senkin-modern-ichishiki-hiire-v1",
+      "url": "https://www.senkin.co.jp/",
+      "status": 200,
+      "retrieved": true,
+      "checkedAt": "2026-10-16T10:54:53.369Z",
+      "pageCache": "ea5047751305e608630f9e5fab2f931a293f01d42bf1ae0d19aa3a4e664c73ef",
+      "titles": [
+        "仙禽|SENKIN|オフィシャルサイト"
+      ],
+      "scope": "supplemental_current_page_not_automatic_sku_verification"
+    },
+    {
+      "sakeId": "senkin-modern-ichishiki-hiire-v1",
+      "url": "https://shop.inomotosaketen.jp/view/item/000000000764?category_page_id=ct43",
+      "status": 200,
+      "retrieved": true,
+      "checkedAt": "2026-10-16T10:54:54.727Z",
+      "pageCache": "625030d7dfc95e93438af2b5e19a2ea8e9af78d848c888f522e3153049fd1419",
+      "titles": [
+        "仙禽 モダン 壱式(火入れ) 720ML | 日本酒,全国の日本酒,仙禽 | いのもと酒店オンラインストア",
+        ""
+      ],
+      "scope": "supplemental_current_page_not_automatic_sku_verification"
+    },
+    {
+      "sakeId": "senkin-retro-ichishiki-hiire-v1",
+      "url": "https://shop.inomotosaketen.jp/view/item/000000000773",
+      "status": 200,
+      "retrieved": true,
+      "checkedAt": "2026-10-16T10:54:55.723Z",
+      "pageCache": "f5de2d15833cd496b52ba92041f8876ad027a7e97a06c95954e4d7e2635b15c8",
+      "titles": [
+        "仙禽 レトロ 壱式（火入れ）720ML | 日本酒,全国の日本酒 | いのもと酒店オンラインストア",
+        ""
+      ],
+      "scope": "supplemental_current_page_not_automatic_sku_verification"
+    },
+    {
+      "sakeId": "senkin-retro-ichishiki-hiire-v1",
+      "url": "https://www.senkin.co.jp/",
+      "status": 200,
+      "retrieved": true,
+      "checkedAt": "2026-10-16T10:54:53.369Z",
+      "pageCache": "ea5047751305e608630f9e5fab2f931a293f01d42bf1ae0d19aa3a4e664c73ef",
+      "titles": [
+        "仙禽|SENKIN|オフィシャルサイト"
+      ],
+      "scope": "supplemental_current_page_not_automatic_sku_verification"
+    },
+    {
+      "sakeId": "senkin-organic-nature-2026-hiire-v1",
+      "url": "https://www.jizake.com/c/sake/senkin/Sake4020_720/",
+      "status": 200,
+      "retrieved": true,
+      "checkedAt": "2026-10-16T10:54:56.925Z",
+      "pageCache": "d4066b434ca67176ab7e8ade1857d47516e3a1c5a9893fd98463cd751d790ca0",
+      "titles": [
+        "◇仙禽　オーガニック・ナチュール　2026　火入れ　720ml | 日本酒専門店　佐野屋 JIZAKE.COM",
+        "日本酒・地酒の専門通販 | 佐野屋 - JIZAKE.com -",
+        "昔の生もと仕込を忠実に再現！オーガニック米を使用した酒！ \n  \n   ◇仙禽　オーガニック・ナチュール　2026　火入れ　720ml"
+      ],
+      "scope": "supplemental_current_page_not_automatic_sku_verification"
+    },
+    {
+      "sakeId": "senkin-organic-nature-2026-hiire-v1",
+      "url": "https://www.senkin.co.jp/",
+      "status": 200,
+      "retrieved": true,
+      "checkedAt": "2026-10-16T10:54:53.369Z",
+      "pageCache": "ea5047751305e608630f9e5fab2f931a293f01d42bf1ae0d19aa3a4e664c73ef",
+      "titles": [
+        "仙禽|SENKIN|オフィシャルサイト"
+      ],
+      "scope": "supplemental_current_page_not_automatic_sku_verification"
+    },
+    {
+      "sakeId": "homare-gaijin-junmai-ginjo-hiire-r7by-v1",
+      "url": "https://sakeroman.com/products/yorokobigaijin-homaregaijin-junmaiginjo-hiire-r7by",
+      "status": 200,
+      "retrieved": true,
+      "checkedAt": "2026-10-16T10:54:58.279Z",
+      "pageCache": "91520bb43bb87bf162a6d54219f36be120f98a82a7804b9d92408fd0fc99dab0",
+      "titles": [
+        "悦凱陣（よろこびがいじん）誉凱陣（ほまれがいじん）純米吟醸 火入れ（令和7醸造年度）\n – 地酒専門店 酒のうちやま",
+        "悦凱陣（よろこびがいじん）誉凱陣（ほまれがいじん）純米吟醸 火入れ（令和7醸造年度）"
+      ],
+      "scope": "supplemental_current_page_not_automatic_sku_verification"
+    },
+    {
+      "sakeId": "homare-gaijin-junmai-ginjo-hiire-r7by-v1",
+      "url": "https://www.shichikura.com/item/3067-3068/",
+      "status": 200,
+      "retrieved": true,
+      "checkedAt": "2026-10-16T10:54:59.532Z",
+      "pageCache": "e0e299cbb1ebe730233d3b3cfd9f2dae6b517d23b0b725fecf1a5e0f7241402e",
+      "titles": [
+        "悦凱陣（よろこびがいじん）　手造り純米　火入 商品詳細｜蔵元直送の地酒専門店｜酒舗 七蔵",
+        ""
+      ],
+      "scope": "supplemental_current_page_not_automatic_sku_verification"
+    },
+    {
+      "sakeId": "kamonishiki-nifudazake-kisuisen-binhiire-v1",
+      "url": "https://www.yajima-jizake.co.jp/products/detail.php?product_id=12231",
+      "status": 200,
+      "retrieved": true,
+      "checkedAt": "2026-10-16T10:55:00.631Z",
+      "pageCache": "42ae2c5050ff693295091c1972a008f175b621f87af7597e6c685151755d85e7",
+      "titles": [
+        "加茂錦　荷札酒　黄水仙　瓶火入　1800ml | 日本酒・地酒 自然派ワイン 本格焼酎 通販 | 矢島酒店"
+      ],
+      "scope": "supplemental_current_page_not_automatic_sku_verification"
+    },
+    {
+      "sakeId": "kamonishiki-nifudazake-kisuisen-binhiire-v1",
+      "url": "https://kamonishiki.com/about/",
+      "status": 200,
+      "retrieved": true,
+      "checkedAt": "2026-10-16T10:55:02.616Z",
+      "pageCache": "f8a7331e5fe52dc0bb63b8fe59a67f55e8092743a064315ef89f16ae67168b98",
+      "titles": [
+        "加茂錦について　About Kamonishiki | 加茂錦酒造株式会社"
+      ],
+      "scope": "supplemental_current_page_not_automatic_sku_verification"
+    },
+    {
+      "sakeId": "yui-omachi-junmai-ginjo-nama-genshu-raifuku-v1",
+      "url": "https://www.mashidaya.co.jp/SHOP/6646.html",
+      "status": 200,
+      "retrieved": true,
+      "checkedAt": "2026-10-16T10:55:03.135Z",
+      "pageCache": "6599708865bcab9b755c971bd35d49847626642c18f1015f1e04fd30a9c4bbc9",
+      "titles": [
+        "結ゆい 純米吟醸 雄町 来福酒造 720ml",
+        "",
+        "結ゆい 純米吟醸 雄町 来福酒造 生原酒 720ml",
+        "商品カテゴリ"
+      ],
+      "scope": "supplemental_current_page_not_automatic_sku_verification"
+    },
+    {
+      "sakeId": "yui-omachi-junmai-ginjo-nama-genshu-raifuku-v1",
+      "url": "https://raifuku.co.jp/",
+      "status": 200,
+      "retrieved": true,
+      "checkedAt": "2026-10-16T10:55:04.305Z",
+      "pageCache": "07f77e114f828a9d14981da9a4158905099d8982a1f6d6b1f170172e5e651ecc",
+      "titles": [
+        "来福酒造株式会社【公式】 | ～真向勝負～来福の物語。三百年、品質一本。1716 年（享保元年）創業｜茨城県筑西市",
+        "",
+        "来福ブログ",
+        "メインメニュー",
+        "来福酒造SNS",
+        "来福酒造へのAccess",
+        "来福酒造株式会社（本社）",
+        "来福酒造　販売部　大吉蔵"
+      ],
+      "scope": "supplemental_current_page_not_automatic_sku_verification"
+    },
+    {
+      "sakeId": "ubusuna-yamada-nishiki-ninojo-2025-nama-v1",
+      "url": "https://ontable.jp/shopdetail/000000001801/sake065/page1/order/",
+      "status": 200,
+      "retrieved": true,
+      "checkedAt": "2026-10-16T10:55:05.397Z",
+      "pageCache": "36338b062df4d67b07b4bff50ec0d13ee847b56322695cc2034612bb54bd5a94",
+      "titles": [
+        "花の香酒造★10月14日10時～【日本酒】産土 Ubusuna (うぶすな) 2025 山田錦 二農醸 生酒<720ml>※お1人様1本限り★桜本商店オンラインショップ【オンターブル】"
+      ],
+      "scope": "supplemental_current_page_not_automatic_sku_verification"
+    },
+    {
+      "sakeId": "ubusuna-yamada-nishiki-ninojo-2025-nama-v1",
+      "url": "https://www.hananoka.co.jp/",
+      "status": 200,
+      "retrieved": true,
+      "checkedAt": "2026-10-16T10:55:06.357Z",
+      "pageCache": "5daf9a3f6c022d96d06a67f0f53f701abcae529416d67e8a840f63ed0c15bf63",
+      "titles": [
+        "花の香酒造株式会社（公式サイト） – 産土の酒づくり熊本県の酒蔵",
+        "Hananoka"
+      ],
+      "scope": "supplemental_current_page_not_automatic_sku_verification"
+    },
+    {
+      "sakeId": "tabika-junmai-funashibori-ichikai-hiire-v1",
+      "url": "https://www.yamatoya-e.com/SHOP/tabika30560.html",
+      "status": 200,
+      "retrieved": true,
+      "checkedAt": "2026-10-16T10:55:07.540Z",
+      "pageCache": "a543e10ae89982108a1a2ef4317156eff9f2234bd68fcabb1ba1f54f49af8bd0",
+      "titles": [
+        "田光（たびか）純米 槽搾り　 1800ml　日本酒・焼酎の通販｜大和屋酒舗",
+        "",
+        "田光（たびか）純米 槽搾り　 1800ml"
+      ],
+      "scope": "supplemental_current_page_not_automatic_sku_verification"
+    },
+    {
+      "sakeId": "tabika-junmai-funashibori-ichikai-hiire-v1",
+      "url": "https://sasas.jp/view/item/000000000257",
+      "status": 200,
+      "retrieved": true,
+      "checkedAt": "2026-10-16T10:55:08.563Z",
+      "pageCache": "f97d83701bc589b60b1966ca12297b297f9ca1f94ba2e936a7bc4afe82f64c4f",
+      "titles": [
+        "田光 槽搾り 純米酒 一回瓶火入 1800ml｜早川酒造（三重）｜新川屋 佐々木酒店 SASAS.JP",
+        "田光 槽搾り 純米酒 一回瓶火入 1800ml ※クール便推奨"
+      ],
+      "scope": "supplemental_current_page_not_automatic_sku_verification"
+    },
+    {
+      "sakeId": "wakaze-the-classic-yamagata-v1",
+      "url": "https://www.wakaze-store.com/collections/the-classic/products/the-classic-jp",
+      "status": null,
+      "retrieved": false,
+      "checkedAt": "2026-10-16T10:36:52.874Z",
+      "pageCache": "d35141e9cd45cd74397a5fd2a384d150c1e6981c828f33b30929ad0502060742",
+      "titles": [],
+      "scope": "supplemental_current_page_not_automatic_sku_verification"
+    },
+    {
+      "sakeId": "wakaze-the-classic-yamagata-v1",
+      "url": "https://www.wakaze-store.com/products/the-classic-12set",
+      "status": null,
+      "retrieved": false,
+      "checkedAt": "2026-10-16T10:55:09.603Z",
+      "pageCache": "ba441b64c10f420e86b1227225fe83e506b3c8cf3576d63e706351efa8ffff25",
+      "titles": [],
+      "scope": "supplemental_current_page_not_automatic_sku_verification"
+    },
+    {
+      "sakeId": "azumanofumoto-junmai-ginjo-yamagata-selection-v1",
+      "url": "https://azumanofumoto.stores.jp/items/6995193de7836e0069217b4a",
+      "status": 403,
+      "retrieved": false,
+      "checkedAt": "2026-10-16T10:36:57.532Z",
+      "pageCache": "03ae9d7c9166daed622396db855c1857d7bb93efcfbfb378ddc90ee5e9d110fd",
+      "titles": [
+        "Captcha Challenge - STORES",
+        "ロボットによる操作ではないことを確認します。"
+      ],
+      "scope": "supplemental_current_page_not_automatic_sku_verification"
+    },
+    {
+      "sakeId": "azumanofumoto-junmai-ginjo-yamagata-selection-v1",
+      "url": "https://www.azumanofumoto.co.jp/company/",
+      "status": 200,
+      "retrieved": true,
+      "checkedAt": "2026-10-16T10:55:10.820Z",
+      "pageCache": "ec75566d7e62f503b407b2183d044474766be6ecd717fcf8769bcfcbf9da03a5",
+      "titles": [
+        "会社概要│東の麓酒造"
+      ],
+      "scope": "supplemental_current_page_not_automatic_sku_verification"
+    }
+  ]
+}
