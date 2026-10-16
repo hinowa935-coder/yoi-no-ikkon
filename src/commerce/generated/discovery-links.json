@@ -4484,41 +4484,6 @@
       }
     ]
   },
-  "hyakushun-ia8tng": {
-    "productFingerprint": "ae593e6fad7de705fbb3d4f2deafec0562b320873945a5a0611d37e5f156975d",
-    "links": [
-      {
-        "sakeId": "hyakushun-ia8tng",
-        "provider": "amazon",
-        "matchType": "search",
-        "destinationType": "search_results",
-        "isAffiliate": false,
-        "url": "https://www.amazon.co.jp/s?k=%E7%99%BE%E6%98%A5%20%E7%B4%94%E7%B1%B3%E5%90%9F%E9%86%B8",
-        "label": "Amazonでこのお酒を探す",
-        "validUntil": "2027-01-06"
-      },
-      {
-        "sakeId": "hyakushun-ia8tng",
-        "provider": "rakuten",
-        "matchType": "search",
-        "destinationType": "search_results",
-        "isAffiliate": false,
-        "url": "https://search.rakuten.co.jp/search/mall/%E7%99%BE%E6%98%A5%20%E7%B4%94%E7%B1%B3%E5%90%9F%E9%86%B8/",
-        "label": "楽天市場でこのお酒を探す",
-        "validUntil": "2027-01-06"
-      },
-      {
-        "sakeId": "hyakushun-ia8tng",
-        "provider": "yahoo",
-        "matchType": "search",
-        "destinationType": "search_results",
-        "isAffiliate": false,
-        "url": "https://shopping.yahoo.co.jp/search?p=%E7%99%BE%E6%98%A5%20%E7%B4%94%E7%B1%B3%E5%90%9F%E9%86%B8",
-        "label": "Yahoo!ショッピングでこのお酒を探す",
-        "validUntil": "2027-01-06"
-      }
-    ]
-  },
   "michisakari-ia8tng": {
     "productFingerprint": "c959e34d34f2589eafc0f0741b148686d4d47734503ce7892569f8ee1e6bc512",
     "links": [
@@ -6579,41 +6544,6 @@
         "destinationType": "search_results",
         "isAffiliate": false,
         "url": "https://shopping.yahoo.co.jp/search?p=%E8%8A%B3%E9%86%87%E7%B4%94%E7%B1%B3%E9%85%92%20%E7%91%9E%E9%B7%B9",
-        "label": "Yahoo!ショッピングでこのお酒を探す",
-        "validUntil": "2027-01-06"
-      }
-    ]
-  },
-  "tsujun-mfekdo": {
-    "productFingerprint": "81f5c0fe8ff0b04be544d020490c6f33eb478e85ad53c5c985732eea9f9f816d",
-    "links": [
-      {
-        "sakeId": "tsujun-mfekdo",
-        "provider": "amazon",
-        "matchType": "search",
-        "destinationType": "search_results",
-        "isAffiliate": false,
-        "url": "https://www.amazon.co.jp/s?k=%E7%B4%94%E7%B1%B3%E5%A4%A7%E5%90%9F%E9%86%B8%20%E9%80%9A%E6%BD%A4",
-        "label": "Amazonでこのお酒を探す",
-        "validUntil": "2027-01-06"
-      },
-      {
-        "sakeId": "tsujun-mfekdo",
-        "provider": "rakuten",
-        "matchType": "search",
-        "destinationType": "search_results",
-        "isAffiliate": false,
-        "url": "https://search.rakuten.co.jp/search/mall/%E7%B4%94%E7%B1%B3%E5%A4%A7%E5%90%9F%E9%86%B8%20%E9%80%9A%E6%BD%A4/",
-        "label": "楽天市場でこのお酒を探す",
-        "validUntil": "2027-01-06"
-      },
-      {
-        "sakeId": "tsujun-mfekdo",
-        "provider": "yahoo",
-        "matchType": "search",
-        "destinationType": "search_results",
-        "isAffiliate": false,
-        "url": "https://shopping.yahoo.co.jp/search?p=%E7%B4%94%E7%B1%B3%E5%A4%A7%E5%90%9F%E9%86%B8%20%E9%80%9A%E6%BD%A4",
         "label": "Yahoo!ショッピングでこのお酒を探す",
         "validUntil": "2027-01-06"
       }
@@ -15439,41 +15369,6 @@
       }
     ]
   },
-  "hisagotaiko-junmai-ginjo-led-v1": {
-    "productFingerprint": "bd44955fab0807d6e6bd16a69b9a00fde23f2d43dcd5355f0ce8ad8c9b66ba7b",
-    "links": [
-      {
-        "sakeId": "hisagotaiko-junmai-ginjo-led-v1",
-        "provider": "amazon",
-        "matchType": "search",
-        "destinationType": "search_results",
-        "isAffiliate": false,
-        "url": "https://www.amazon.co.jp/s?k=%E7%93%A2%E5%A4%AA%E9%96%A4%20%E7%B4%94%E7%B1%B3%E5%90%9F%E9%86%B8",
-        "label": "Amazonでこのお酒を探す",
-        "validUntil": "2027-01-06"
-      },
-      {
-        "sakeId": "hisagotaiko-junmai-ginjo-led-v1",
-        "provider": "rakuten",
-        "matchType": "search",
-        "destinationType": "search_results",
-        "isAffiliate": false,
-        "url": "https://search.rakuten.co.jp/search/mall/%E7%93%A2%E5%A4%AA%E9%96%A4%20%E7%B4%94%E7%B1%B3%E5%90%9F%E9%86%B8/",
-        "label": "楽天市場でこのお酒を探す",
-        "validUntil": "2027-01-06"
-      },
-      {
-        "sakeId": "hisagotaiko-junmai-ginjo-led-v1",
-        "provider": "yahoo",
-        "matchType": "search",
-        "destinationType": "search_results",
-        "isAffiliate": false,
-        "url": "https://shopping.yahoo.co.jp/search?p=%E7%93%A2%E5%A4%AA%E9%96%A4%20%E7%B4%94%E7%B1%B3%E5%90%9F%E9%86%B8",
-        "label": "Yahoo!ショッピングでこのお酒を探す",
-        "validUntil": "2027-01-06"
-      }
-    ]
-  },
   "librom-mint-craft-sake-v1": {
     "productFingerprint": "370280818c7745db84440a73aff1106086ad6bd6c99f937d12e754cdf0f7c664",
     "links": [
@@ -17256,6 +17151,81 @@
         "url": "https://shopping.yahoo.co.jp/search?p=%E7%99%BD%E9%9A%A0%E6%AD%A3%E5%AE%97%20%E8%BE%9B%E5%8F%A3%E7%B4%94%E7%B1%B3%E9%85%92",
         "label": "Yahoo!ショッピングで探す",
         "validUntil": "2027-01-12T12:41:52.151Z"
+      }
+    ]
+  },
+  "tsujun-semi-junmai-ginjo-standard": {
+    "productFingerprint": "57bbedf72efdd7b9e53bdf2a98c8539330b6044a29b7914e3850fe0410fd7b90",
+    "links": [
+      {
+        "sakeId": "tsujun-semi-junmai-ginjo-standard",
+        "provider": "rakuten",
+        "matchType": "search",
+        "destinationType": "search_results",
+        "isAffiliate": false,
+        "url": "https://search.rakuten.co.jp/search/mall/%E9%80%9A%E6%BD%A4%20%E7%B4%94%E7%B1%B3%E5%90%9F%E9%86%B8%E9%85%92%20%E8%9D%89/",
+        "label": "楽天でこの銘柄を探す",
+        "validUntil": "2027-01-14T05:42:37.421Z"
+      },
+      {
+        "sakeId": "tsujun-semi-junmai-ginjo-standard",
+        "provider": "amazon",
+        "matchType": "search",
+        "destinationType": "search_results",
+        "isAffiliate": false,
+        "url": "https://www.amazon.co.jp/s?k=%E9%80%9A%E6%BD%A4%20%E7%B4%94%E7%B1%B3%E5%90%9F%E9%86%B8%E9%85%92%20%E8%9D%89",
+        "label": "Amazonで探す",
+        "validUntil": "2027-01-14T05:42:37.421Z"
+      }
+    ]
+  },
+  "hisagotaiko-ginjo-awa-yamadanishiki-standard": {
+    "productFingerprint": "8542073148aca3faf8cd089a6384d8c93cbca946d48a823379b591c61db8aaa1",
+    "links": [
+      {
+        "sakeId": "hisagotaiko-ginjo-awa-yamadanishiki-standard",
+        "provider": "rakuten",
+        "matchType": "search",
+        "destinationType": "search_results",
+        "isAffiliate": false,
+        "url": "https://search.rakuten.co.jp/search/mall/%E7%93%A2%E5%A4%AA%E9%96%A4%20%E5%90%9F%E9%86%B8%20%E9%98%BF%E6%B3%A2%E5%B1%B1%E7%94%B0%E9%8C%A6/",
+        "label": "楽天でこの銘柄を探す",
+        "validUntil": "2027-01-14T05:42:37.422Z"
+      },
+      {
+        "sakeId": "hisagotaiko-ginjo-awa-yamadanishiki-standard",
+        "provider": "amazon",
+        "matchType": "search",
+        "destinationType": "search_results",
+        "isAffiliate": false,
+        "url": "https://www.amazon.co.jp/s?k=%E7%93%A2%E5%A4%AA%E9%96%A4%20%E5%90%9F%E9%86%B8%20%E9%98%BF%E6%B3%A2%E5%B1%B1%E7%94%B0%E9%8C%A6",
+        "label": "Amazonで探す",
+        "validUntil": "2027-01-14T05:42:37.422Z"
+      }
+    ]
+  },
+  "hyakushun-junmai-josen-standard": {
+    "productFingerprint": "f8a90c0744cad76b3c461f3dc1ccb973647d098095449bca8d078b8231938314",
+    "links": [
+      {
+        "sakeId": "hyakushun-junmai-josen-standard",
+        "provider": "rakuten",
+        "matchType": "search",
+        "destinationType": "search_results",
+        "isAffiliate": false,
+        "url": "https://search.rakuten.co.jp/search/mall/%E7%99%BE%E6%98%A5%20%E7%B4%94%E7%B1%B3%E4%B8%8A%E6%92%B0/",
+        "label": "楽天でこの銘柄を探す",
+        "validUntil": "2027-01-14T05:42:37.422Z"
+      },
+      {
+        "sakeId": "hyakushun-junmai-josen-standard",
+        "provider": "amazon",
+        "matchType": "search",
+        "destinationType": "search_results",
+        "isAffiliate": false,
+        "url": "https://www.amazon.co.jp/s?k=%E7%99%BE%E6%98%A5%20%E7%B4%94%E7%B1%B3%E4%B8%8A%E6%92%B0",
+        "label": "Amazonで探す",
+        "validUntil": "2027-01-14T05:42:37.422Z"
       }
     ]
   }
