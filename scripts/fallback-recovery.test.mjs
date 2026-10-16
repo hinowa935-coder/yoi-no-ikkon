@@ -4,10 +4,10 @@ import fs from 'node:fs';
 const read=p=>JSON.parse(fs.readFileSync(new URL('../'+p,import.meta.url)));
 const catalog=read('src/data/discoveryCatalog.json'),matches=read('src/commerce/generated/purchase-matches.json'),media=read('src/commerce/generated/product-media.json');
 const pairs=[['tsujun-mfekdo','tsujun-semi-junmai-ginjo-standard'],['hisagotaiko-junmai-ginjo-led-v1','hisagotaiko-ginjo-awa-yamadanishiki-standard'],['hyakushun-ia8tng','hyakushun-junmai-josen-standard']];
-test('fallback recovery keeps 492 identities and adds forty linked original creatives',()=>{
+test('fallback recovery keeps 492 identities and adds thirty-seven linked original creatives',()=>{
  assert.equal(catalog.items.length,492);assert.equal(new Set(catalog.items.map(i=>i.id)).size,492);
- assert.equal(Object.values(matches).filter(m=>m.directLinkAllowed).length,355);assert.equal(Object.keys(media.records).length,347);
- const additions=Object.values(matches).filter(m=>m.source==='fallbackRecoveryCurrentCommercialMatch');assert.equal(additions.length,40);
+ assert.equal(Object.values(matches).filter(m=>m.directLinkAllowed).length,352);assert.equal(Object.keys(media.records).length,344);
+ const additions=Object.values(matches).filter(m=>m.source==='fallbackRecoveryCurrentCommercialMatch');assert.equal(additions.length,37);
  for(const m of additions){assert.equal(m.matchType,'COMMERCIAL_MATCH');assert.equal(m.identityVerified,false);const image=media.records[m.sakeId];assert.equal(image.productUrl,m.normalUrl);assert.equal(image.itemCode,m.itemCode);assert.equal(image.imageCapacityMl,m.capacityMl);assert.equal(image.originalUnmodified,true);}
 });
 test('three replacements have new IDs and preserve old favorites as archives without automatic migration',()=>{
@@ -23,5 +23,5 @@ test('new product designations and rice roles are not inherited from the retired
 });
 test('Nabeshima uses an available alternative shop without accepting the wrong series',()=>{
  assert.equal(matches['nabeshima-junmai-ginjo'].normalUrl,'https://item.rakuten.co.jp/chagatapark/183643210/');assert.equal(matches['nabeshima-junmai-ginjo'].capacityMl,1800);
- for(const id of ['matsunokotobuki-junmai-ginjo','taikan-i9dko8'])assert(!matches[id]?.directLinkAllowed);
+ for(const id of ['matsunokotobuki-junmai-ginjo','taikan-i9dko8','kurumazaka-gp8l70i9d-3','niida-shizenshu-junmai-genshu','okunokami-junmai-ginjo-muchosei-nama-v1'])assert(!matches[id]?.directLinkAllowed);
 });
