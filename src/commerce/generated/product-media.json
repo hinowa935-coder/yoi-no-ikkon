@@ -11100,6 +11100,36 @@
       "compactHeight": 80,
       "verifiedAt": "2026-10-16T13:52:42.011Z",
       "validUntil": "2026-11-15T13:52:42.012Z"
+    },
+    "koshino-kagetora-junmai-standard-v1": {
+      "sakeName": "越乃景虎 純米酒",
+      "brewery": "諸橋酒造株式会社",
+      "brandName": "越乃景虎",
+      "sourceType": "rakutenOfficialTool",
+      "matchConfidence": "high",
+      "productFingerprint": "1d84f929950de43a779406cb7302c170000fb91a8e9fa01ebac0466c2e478db1",
+      "productUrl": "https://item.rakuten.co.jp/syuraku-shop/11811/",
+      "imageProductUrl": "https://item.rakuten.co.jp/syuraku-shop/11811/",
+      "capacityMl": 720,
+      "imageCapacityMl": 720,
+      "itemCode": "syuraku-shop:10000236",
+      "src": "https://hbb.afl.rakuten.co.jp/hgb/588df6a0.2553f3f8.588df6a1.38fa40d1/?me_id=1286285&item_id=10000236&pc=https%3A%2F%2Fthumbnail.image.rakuten.co.jp%2F%400_gold%2Fsyuraku-shop%2Fitem%2F11811_01.jpg%3F_ex%3D240x240&s=240x240&t=pict",
+      "html": "<a href=\"https://hb.afl.rakuten.co.jp/ichiba/588df6a0.2553f3f8.588df6a1.38fa40d1/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsyuraku-shop%2F11811%2F&link_type=pict&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0Iiwic2l6ZSI6IjI0MHgyNDAiLCJuYW0iOjEsIm5hbXAiOiJyaWdodCIsImNvbSI6MSwiY29tcCI6ImRvd24iLCJwcmljZSI6MCwiYm9yIjoxLCJjb2wiOjEsImJidG4iOjEsInByb2QiOjAsImFtcCI6ZmFsc2V9\" target=\"_blank\" rel=\"nofollow sponsored noopener\" style=\"word-wrap:break-word;\"><img src=\"https://hbb.afl.rakuten.co.jp/hgb/588df6a0.2553f3f8.588df6a1.38fa40d1/?me_id=1286285&item_id=10000236&pc=https%3A%2F%2Fthumbnail.image.rakuten.co.jp%2F%400_gold%2Fsyuraku-shop%2Fitem%2F11811_01.jpg%3F_ex%3D240x240&s=240x240&t=pict\" border=\"0\" style=\"margin:2px\" alt=\"\" title=\"\"></a>",
+      "compactHtml": "<a href=\"https://hb.afl.rakuten.co.jp/ichiba/588df6a0.2553f3f8.588df6a1.38fa40d1/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsyuraku-shop%2F11811%2F&link_type=pict&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0Iiwic2l6ZSI6IjgweDgwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjAsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D\" target=\"_blank\" rel=\"nofollow sponsored noopener\" style=\"word-wrap:break-word;\"><img src=\"https://hbb.afl.rakuten.co.jp/hgb/588df6a0.2553f3f8.588df6a1.38fa40d1/?me_id=1286285&item_id=10000236&pc=https%3A%2F%2Fthumbnail.image.rakuten.co.jp%2F%400_gold%2Fsyuraku-shop%2Fitem%2F11811_01.jpg%3F_ex%3D80x80&s=80x80&t=pict\" border=\"0\" style=\"margin:2px\" alt=\"\" title=\"\"></a>",
+      "compactSrc": "https://hbb.afl.rakuten.co.jp/hgb/588df6a0.2553f3f8.588df6a1.38fa40d1/?me_id=1286285&item_id=10000236&pc=https%3A%2F%2Fthumbnail.image.rakuten.co.jp%2F%400_gold%2Fsyuraku-shop%2Fitem%2F11811_01.jpg%3F_ex%3D80x80&s=80x80&t=pict",
+      "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/588df6a0.2553f3f8.588df6a1.38fa40d1/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsyuraku-shop%2F11811%2F&link_type=pict&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0Iiwic2l6ZSI6IjI0MHgyNDAiLCJuYW0iOjEsIm5hbXAiOiJyaWdodCIsImNvbSI6MSwiY29tcCI6ImRvd24iLCJwcmljZSI6MCwiYm9yIjoxLCJjb2wiOjEsImJidG4iOjEsInByb2QiOjAsImFtcCI6ZmFsc2V9",
+      "originalSha256": "dbc25becf942198763550c7bb145c0371b8319d1569dca814da78e6cd42d7e05",
+      "compactOriginalSha256": "817d1f36be0f47da28a13211967bc4b72708bf53e8dd5e9d1f79c8e63a7c8a95",
+      "originalUnmodified": true,
+      "permissionConfirmed": true,
+      "permissionSource": "https://affiliate.rakuten.co.jp/guideline/rule/",
+      "registeredSite": "https://yoi-no-ikkon.vercel.app/",
+      "width": 240,
+      "height": 240,
+      "compactWidth": 80,
+      "compactHeight": 80,
+      "verifiedAt": "2026-10-16T15:16:00.578Z",
+      "validUntil": "2026-11-15T15:16:00.579Z"
     }
   }
 }

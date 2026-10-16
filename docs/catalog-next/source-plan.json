@@ -1,0 +1,658 @@
+{
+  "schemaVersion": 1,
+  "schedulerEnabled": false,
+  "frequencyProposal": "weekly",
+  "automaticPublicationAllowed": false,
+  "productionMutationAllowed": false,
+  "searchSources": [
+    {
+      "breweryId": "brewery-097994689d4675ad",
+      "breweryName": "諸橋酒造",
+      "brand": "越乃景虎",
+      "rakutenQueries": [
+        "越乃景虎 日本酒",
+        "諸橋酒造 日本酒"
+      ],
+      "officialNewsUrl": null,
+      "officialNewsStatus": "NOT_INDEPENDENTLY_REVIEWED",
+      "automaticVerifiedUpdate": false
+    },
+    {
+      "breweryId": "brewery-0f9eade92f82de3d",
+      "breweryName": "蔵王酒造",
+      "brand": "蔵王",
+      "rakutenQueries": [
+        "蔵王 日本酒",
+        "蔵王酒造 日本酒"
+      ],
+      "officialNewsUrl": null,
+      "officialNewsStatus": "NOT_INDEPENDENTLY_REVIEWED",
+      "automaticVerifiedUpdate": false
+    },
+    {
+      "breweryId": "brewery-ea82cad5bbc7004a",
+      "breweryName": "塩川酒造",
+      "brand": "越乃幻の酒",
+      "rakutenQueries": [
+        "越乃幻の酒 日本酒",
+        "塩川酒造 日本酒"
+      ],
+      "officialNewsUrl": null,
+      "officialNewsStatus": "NOT_INDEPENDENTLY_REVIEWED",
+      "automaticVerifiedUpdate": false
+    },
+    {
+      "breweryId": "brewery-a4409dc7befdfb4d",
+      "breweryName": "中野BC",
+      "brand": "長久",
+      "rakutenQueries": [
+        "長久 日本酒",
+        "中野BC 日本酒"
+      ],
+      "officialNewsUrl": null,
+      "officialNewsStatus": "NOT_INDEPENDENTLY_REVIEWED",
+      "automaticVerifiedUpdate": false
+    },
+    {
+      "breweryId": "brewery-161d31b1e6df2d99",
+      "breweryName": "鮎正宗酒造",
+      "brand": "鮎正宗",
+      "rakutenQueries": [
+        "鮎正宗 日本酒",
+        "鮎正宗酒造 日本酒"
+      ],
+      "officialNewsUrl": null,
+      "officialNewsStatus": "NOT_INDEPENDENTLY_REVIEWED",
+      "automaticVerifiedUpdate": false
+    },
+    {
+      "breweryId": "brewery-97ae0beeebdd068f",
+      "breweryName": "千代の光酒造",
+      "brand": "千代の光",
+      "rakutenQueries": [
+        "千代の光 日本酒",
+        "千代の光酒造 日本酒"
+      ],
+      "officialNewsUrl": null,
+      "officialNewsStatus": "NOT_INDEPENDENTLY_REVIEWED",
+      "automaticVerifiedUpdate": false
+    },
+    {
+      "breweryId": "brewery-84f1103bcc55273e",
+      "breweryName": "宇都宮酒造",
+      "brand": "四季桜",
+      "rakutenQueries": [
+        "四季桜 日本酒",
+        "宇都宮酒造 日本酒"
+      ],
+      "officialNewsUrl": null,
+      "officialNewsStatus": "NOT_INDEPENDENTLY_REVIEWED",
+      "automaticVerifiedUpdate": false
+    },
+    {
+      "breweryId": "brewery-5822989735d6318a",
+      "breweryName": "マスカガミ",
+      "brand": "萬寿鏡",
+      "rakutenQueries": [
+        "萬寿鏡 日本酒",
+        "マスカガミ 日本酒"
+      ],
+      "officialNewsUrl": null,
+      "officialNewsStatus": "NOT_INDEPENDENTLY_REVIEWED",
+      "automaticVerifiedUpdate": false
+    },
+    {
+      "breweryId": "brewery-5b4e92ae12486562",
+      "breweryName": "山中酒造店",
+      "brand": "一人娘",
+      "rakutenQueries": [
+        "一人娘 日本酒",
+        "山中酒造店 日本酒"
+      ],
+      "officialNewsUrl": null,
+      "officialNewsStatus": "NOT_INDEPENDENTLY_REVIEWED",
+      "automaticVerifiedUpdate": false
+    },
+    {
+      "breweryId": "brewery-59feca3c44746735",
+      "breweryName": "四家酒造店",
+      "brand": "又兵衛",
+      "rakutenQueries": [
+        "又兵衛 日本酒",
+        "四家酒造店 日本酒"
+      ],
+      "officialNewsUrl": null,
+      "officialNewsStatus": "NOT_INDEPENDENTLY_REVIEWED",
+      "automaticVerifiedUpdate": false
+    },
+    {
+      "breweryId": "brewery-c57de89fb1db0de8",
+      "breweryName": "万大醸造",
+      "brand": "脇田屋",
+      "rakutenQueries": [
+        "脇田屋 日本酒",
+        "万大醸造 日本酒"
+      ],
+      "officialNewsUrl": null,
+      "officialNewsStatus": "NOT_INDEPENDENTLY_REVIEWED",
+      "automaticVerifiedUpdate": false
+    },
+    {
+      "breweryId": "brewery-4a670855e4a84277",
+      "breweryName": "魚沼酒造",
+      "brand": "天神囃子",
+      "rakutenQueries": [
+        "天神囃子 日本酒",
+        "魚沼酒造 日本酒"
+      ],
+      "officialNewsUrl": null,
+      "officialNewsStatus": "NOT_INDEPENDENTLY_REVIEWED",
+      "automaticVerifiedUpdate": false
+    },
+    {
+      "breweryId": "brewery-52e0ea3e78c4bd88",
+      "breweryName": "後藤酒造場",
+      "brand": "颯",
+      "rakutenQueries": [
+        "颯 日本酒",
+        "後藤酒造場 日本酒"
+      ],
+      "officialNewsUrl": null,
+      "officialNewsStatus": "NOT_INDEPENDENTLY_REVIEWED",
+      "automaticVerifiedUpdate": false
+    },
+    {
+      "breweryId": "brewery-f642f3e196315de7",
+      "breweryName": "ほまれ酒造",
+      "brand": "会津ほまれ",
+      "rakutenQueries": [
+        "会津ほまれ 日本酒",
+        "ほまれ酒造 日本酒"
+      ],
+      "officialNewsUrl": null,
+      "officialNewsStatus": "NOT_INDEPENDENTLY_REVIEWED",
+      "automaticVerifiedUpdate": false
+    },
+    {
+      "breweryId": "brewery-c32056c2ac3016f7",
+      "breweryName": "国権酒造",
+      "brand": "国権",
+      "rakutenQueries": [
+        "国権 日本酒",
+        "国権酒造 日本酒"
+      ],
+      "officialNewsUrl": null,
+      "officialNewsStatus": "NOT_INDEPENDENTLY_REVIEWED",
+      "automaticVerifiedUpdate": false
+    },
+    {
+      "breweryId": "brewery-50e4398e782a014d",
+      "breweryName": "大澤酒造",
+      "brand": "明鏡止水",
+      "rakutenQueries": [
+        "明鏡止水 日本酒",
+        "大澤酒造 日本酒"
+      ],
+      "officialNewsUrl": null,
+      "officialNewsStatus": "NOT_INDEPENDENTLY_REVIEWED",
+      "automaticVerifiedUpdate": false
+    },
+    {
+      "breweryId": "brewery-694ff26a6621c420",
+      "breweryName": "美吉野醸造",
+      "brand": "花巴",
+      "rakutenQueries": [
+        "花巴 日本酒",
+        "美吉野醸造 日本酒"
+      ],
+      "officialNewsUrl": null,
+      "officialNewsStatus": "NOT_INDEPENDENTLY_REVIEWED",
+      "automaticVerifiedUpdate": false
+    },
+    {
+      "breweryId": "brewery-35fd3a8ffa279702",
+      "breweryName": "高野酒造",
+      "brand": "越路吹雪",
+      "rakutenQueries": [
+        "越路吹雪 日本酒",
+        "高野酒造 日本酒"
+      ],
+      "officialNewsUrl": null,
+      "officialNewsStatus": "NOT_INDEPENDENTLY_REVIEWED",
+      "automaticVerifiedUpdate": false
+    },
+    {
+      "breweryId": "brewery-bc2028b3d5fcdfb7",
+      "breweryName": "新藤酒造",
+      "brand": "雅山流",
+      "rakutenQueries": [
+        "雅山流 日本酒",
+        "新藤酒造 日本酒"
+      ],
+      "officialNewsUrl": null,
+      "officialNewsStatus": "NOT_INDEPENDENTLY_REVIEWED",
+      "automaticVerifiedUpdate": false
+    },
+    {
+      "breweryId": "brewery-5348510c14158aad",
+      "breweryName": "名城酒造",
+      "brand": "官兵衛",
+      "rakutenQueries": [
+        "官兵衛 日本酒",
+        "名城酒造 日本酒"
+      ],
+      "officialNewsUrl": null,
+      "officialNewsStatus": "NOT_INDEPENDENTLY_REVIEWED",
+      "automaticVerifiedUpdate": false
+    },
+    {
+      "breweryId": "brewery-3418d84e0f5cc9b4",
+      "breweryName": "北鹿",
+      "brand": "北鹿",
+      "rakutenQueries": [
+        "北鹿 日本酒",
+        "北鹿 日本酒"
+      ],
+      "officialNewsUrl": null,
+      "officialNewsStatus": "NOT_INDEPENDENTLY_REVIEWED",
+      "automaticVerifiedUpdate": false
+    },
+    {
+      "breweryId": "brewery-18b2702b4e5f28db",
+      "breweryName": "榎酒造",
+      "brand": "華鳩",
+      "rakutenQueries": [
+        "華鳩 日本酒",
+        "榎酒造 日本酒"
+      ],
+      "officialNewsUrl": null,
+      "officialNewsStatus": "NOT_INDEPENDENTLY_REVIEWED",
+      "automaticVerifiedUpdate": false
+    },
+    {
+      "breweryId": "brewery-3aa778efa9fb0a1e",
+      "breweryName": "越後酒造場",
+      "brand": "越乃八豊",
+      "rakutenQueries": [
+        "越乃八豊 日本酒",
+        "越後酒造場 日本酒"
+      ],
+      "officialNewsUrl": null,
+      "officialNewsStatus": "NOT_INDEPENDENTLY_REVIEWED",
+      "automaticVerifiedUpdate": false
+    },
+    {
+      "breweryId": "brewery-9e28e1d92108c589",
+      "breweryName": "熊澤酒造",
+      "brand": "天青",
+      "rakutenQueries": [
+        "天青 日本酒",
+        "熊澤酒造 日本酒"
+      ],
+      "officialNewsUrl": null,
+      "officialNewsStatus": "NOT_INDEPENDENTLY_REVIEWED",
+      "automaticVerifiedUpdate": false
+    },
+    {
+      "breweryId": "brewery-339a9a71db517f4b",
+      "breweryName": "末廣酒造",
+      "brand": "末広",
+      "rakutenQueries": [
+        "末広 日本酒",
+        "末廣酒造 日本酒"
+      ],
+      "officialNewsUrl": null,
+      "officialNewsStatus": "NOT_INDEPENDENTLY_REVIEWED",
+      "automaticVerifiedUpdate": false
+    },
+    {
+      "breweryId": "brewery-ab16526587cced3b",
+      "breweryName": "梅津酒造",
+      "brand": "冨玲",
+      "rakutenQueries": [
+        "冨玲 日本酒",
+        "梅津酒造 日本酒"
+      ],
+      "officialNewsUrl": null,
+      "officialNewsStatus": "NOT_INDEPENDENTLY_REVIEWED",
+      "automaticVerifiedUpdate": false
+    },
+    {
+      "breweryId": "brewery-95fbfc1d5332d570",
+      "breweryName": "若林酒造",
+      "brand": "開春",
+      "rakutenQueries": [
+        "開春 日本酒",
+        "若林酒造 日本酒"
+      ],
+      "officialNewsUrl": null,
+      "officialNewsStatus": "NOT_INDEPENDENTLY_REVIEWED",
+      "automaticVerifiedUpdate": false
+    },
+    {
+      "breweryId": "brewery-17b2c23d6c9924db",
+      "breweryName": "尾畑酒造",
+      "brand": "真野鶴",
+      "rakutenQueries": [
+        "真野鶴 日本酒",
+        "尾畑酒造 日本酒"
+      ],
+      "officialNewsUrl": null,
+      "officialNewsStatus": "NOT_INDEPENDENTLY_REVIEWED",
+      "automaticVerifiedUpdate": false
+    },
+    {
+      "breweryId": "brewery-5393acfca952082d",
+      "breweryName": "宮崎本店",
+      "brand": "宮の雪",
+      "rakutenQueries": [
+        "宮の雪 日本酒",
+        "宮崎本店 日本酒"
+      ],
+      "officialNewsUrl": null,
+      "officialNewsStatus": "NOT_INDEPENDENTLY_REVIEWED",
+      "automaticVerifiedUpdate": false
+    },
+    {
+      "breweryId": "brewery-f64c5133eb8cdf90",
+      "breweryName": "宮崎酒造店",
+      "brand": "峯の精",
+      "rakutenQueries": [
+        "峯の精 日本酒",
+        "宮崎酒造店 日本酒"
+      ],
+      "officialNewsUrl": null,
+      "officialNewsStatus": "NOT_INDEPENDENTLY_REVIEWED",
+      "automaticVerifiedUpdate": false
+    },
+    {
+      "breweryId": "brewery-60ad6e2553b3e2a2",
+      "breweryName": "小豆島酒造",
+      "brand": "うとうと",
+      "rakutenQueries": [
+        "うとうと 日本酒",
+        "小豆島酒造 日本酒"
+      ],
+      "officialNewsUrl": null,
+      "officialNewsStatus": "NOT_INDEPENDENTLY_REVIEWED",
+      "automaticVerifiedUpdate": false
+    },
+    {
+      "breweryId": "brewery-403ebd039c5adec0",
+      "breweryName": "司菊酒造",
+      "brand": "きらい",
+      "rakutenQueries": [
+        "きらい 日本酒",
+        "司菊酒造 日本酒"
+      ],
+      "officialNewsUrl": null,
+      "officialNewsStatus": "NOT_INDEPENDENTLY_REVIEWED",
+      "automaticVerifiedUpdate": false
+    },
+    {
+      "breweryId": "brewery-4aff281b8d5bad7a",
+      "breweryName": "土佐酒造",
+      "brand": "桂月",
+      "rakutenQueries": [
+        "桂月 日本酒",
+        "土佐酒造 日本酒"
+      ],
+      "officialNewsUrl": null,
+      "officialNewsStatus": "NOT_INDEPENDENTLY_REVIEWED",
+      "automaticVerifiedUpdate": false
+    },
+    {
+      "breweryId": "brewery-4943914898c7530d",
+      "breweryName": "函館五稜乃蔵",
+      "brand": "五稜",
+      "rakutenQueries": [
+        "五稜 日本酒",
+        "函館五稜乃蔵 日本酒"
+      ],
+      "officialNewsUrl": null,
+      "officialNewsStatus": "NOT_INDEPENDENTLY_REVIEWED",
+      "automaticVerifiedUpdate": false
+    },
+    {
+      "breweryId": "brewery-8e040980a9e18884",
+      "breweryName": "尾崎酒造",
+      "brand": "安東水軍",
+      "rakutenQueries": [
+        "安東水軍 日本酒",
+        "尾崎酒造 日本酒"
+      ],
+      "officialNewsUrl": null,
+      "officialNewsStatus": "NOT_INDEPENDENTLY_REVIEWED",
+      "automaticVerifiedUpdate": false
+    },
+    {
+      "breweryId": "brewery-b5d9cb031eccec70",
+      "breweryName": "八戸酒類",
+      "brand": "八鶴",
+      "rakutenQueries": [
+        "八鶴 日本酒",
+        "八戸酒類 日本酒"
+      ],
+      "officialNewsUrl": null,
+      "officialNewsStatus": "NOT_INDEPENDENTLY_REVIEWED",
+      "automaticVerifiedUpdate": false
+    },
+    {
+      "breweryId": "brewery-39c89e95af8f68e7",
+      "breweryName": "玉田酒造店",
+      "brand": "蟹田",
+      "rakutenQueries": [
+        "蟹田 日本酒",
+        "玉田酒造店 日本酒"
+      ],
+      "officialNewsUrl": null,
+      "officialNewsStatus": "NOT_INDEPENDENTLY_REVIEWED",
+      "automaticVerifiedUpdate": false
+    },
+    {
+      "breweryId": "brewery-68aa415049034bbe",
+      "breweryName": "貴娘酒造",
+      "brand": "咲耶美",
+      "rakutenQueries": [
+        "咲耶美 日本酒",
+        "貴娘酒造 日本酒"
+      ],
+      "officialNewsUrl": null,
+      "officialNewsStatus": "NOT_INDEPENDENTLY_REVIEWED",
+      "automaticVerifiedUpdate": false
+    },
+    {
+      "breweryId": "brewery-e98b4f5a5701f606",
+      "breweryName": "近藤酒造",
+      "brand": "赤城山",
+      "rakutenQueries": [
+        "赤城山 日本酒",
+        "近藤酒造 日本酒"
+      ],
+      "officialNewsUrl": null,
+      "officialNewsStatus": "NOT_INDEPENDENTLY_REVIEWED",
+      "automaticVerifiedUpdate": false
+    },
+    {
+      "breweryId": "brewery-583166136c048921",
+      "breweryName": "山川酒造",
+      "brand": "利根川育ち",
+      "rakutenQueries": [
+        "利根川育ち 日本酒",
+        "山川酒造 日本酒"
+      ],
+      "officialNewsUrl": null,
+      "officialNewsStatus": "NOT_INDEPENDENTLY_REVIEWED",
+      "automaticVerifiedUpdate": false
+    },
+    {
+      "breweryId": "brewery-18f219e28fd8cb60",
+      "breweryName": "寺田本家",
+      "brand": "五人娘",
+      "rakutenQueries": [
+        "五人娘 日本酒",
+        "寺田本家 日本酒"
+      ],
+      "officialNewsUrl": null,
+      "officialNewsStatus": "NOT_INDEPENDENTLY_REVIEWED",
+      "automaticVerifiedUpdate": false
+    },
+    {
+      "breweryId": "brewery-eccdea396113e717",
+      "breweryName": "梅一輪酒造",
+      "brand": "梅一輪",
+      "rakutenQueries": [
+        "梅一輪 日本酒",
+        "梅一輪酒造 日本酒"
+      ],
+      "officialNewsUrl": null,
+      "officialNewsStatus": "NOT_INDEPENDENTLY_REVIEWED",
+      "automaticVerifiedUpdate": false
+    },
+    {
+      "breweryId": "brewery-c9fd176ae56554ac",
+      "breweryName": "小泉酒造",
+      "brand": "東魁盛",
+      "rakutenQueries": [
+        "東魁盛 日本酒",
+        "小泉酒造 日本酒"
+      ],
+      "officialNewsUrl": null,
+      "officialNewsStatus": "NOT_INDEPENDENTLY_REVIEWED",
+      "automaticVerifiedUpdate": false
+    },
+    {
+      "breweryId": "brewery-7eb7ac9c6945b7a1",
+      "breweryName": "岩瀬酒造",
+      "brand": "岩の井",
+      "rakutenQueries": [
+        "岩の井 日本酒",
+        "岩瀬酒造 日本酒"
+      ],
+      "officialNewsUrl": null,
+      "officialNewsStatus": "NOT_INDEPENDENTLY_REVIEWED",
+      "automaticVerifiedUpdate": false
+    },
+    {
+      "breweryId": "brewery-b1389f24d2e62abb",
+      "breweryName": "吉野酒造",
+      "brand": "腰古井",
+      "rakutenQueries": [
+        "腰古井 日本酒",
+        "吉野酒造 日本酒"
+      ],
+      "officialNewsUrl": null,
+      "officialNewsStatus": "NOT_INDEPENDENTLY_REVIEWED",
+      "automaticVerifiedUpdate": false
+    },
+    {
+      "breweryId": "brewery-748044d2004325cf",
+      "breweryName": "吉川醸造",
+      "brand": "菊勇",
+      "rakutenQueries": [
+        "菊勇 日本酒",
+        "吉川醸造 日本酒"
+      ],
+      "officialNewsUrl": null,
+      "officialNewsStatus": "NOT_INDEPENDENTLY_REVIEWED",
+      "automaticVerifiedUpdate": false
+    },
+    {
+      "breweryId": "brewery-58ea75eb2a59a50e",
+      "breweryName": "黄金井酒造",
+      "brand": "盛升",
+      "rakutenQueries": [
+        "盛升 日本酒",
+        "黄金井酒造 日本酒"
+      ],
+      "officialNewsUrl": null,
+      "officialNewsStatus": "NOT_INDEPENDENTLY_REVIEWED",
+      "automaticVerifiedUpdate": false
+    },
+    {
+      "breweryId": "brewery-24a99c928836faf0",
+      "breweryName": "北雪酒造",
+      "brand": "北雪",
+      "rakutenQueries": [
+        "北雪 日本酒",
+        "北雪酒造 日本酒"
+      ],
+      "officialNewsUrl": null,
+      "officialNewsStatus": "NOT_INDEPENDENTLY_REVIEWED",
+      "automaticVerifiedUpdate": false
+    },
+    {
+      "breweryId": "brewery-45771ec01aaada28",
+      "breweryName": "長生社",
+      "brand": "信濃鶴",
+      "rakutenQueries": [
+        "信濃鶴 日本酒",
+        "長生社 日本酒"
+      ],
+      "officialNewsUrl": null,
+      "officialNewsStatus": "NOT_INDEPENDENTLY_REVIEWED",
+      "automaticVerifiedUpdate": false
+    },
+    {
+      "breweryId": "brewery-755a7c59a9c1b720",
+      "breweryName": "喜久水酒造",
+      "brand": "喜久水",
+      "rakutenQueries": [
+        "喜久水 日本酒",
+        "喜久水酒造 日本酒"
+      ],
+      "officialNewsUrl": null,
+      "officialNewsStatus": "NOT_INDEPENDENTLY_REVIEWED",
+      "automaticVerifiedUpdate": false
+    },
+    {
+      "breweryId": "brewery-da74acae973738f9",
+      "breweryName": "長野銘醸",
+      "brand": "姨捨政宗",
+      "rakutenQueries": [
+        "姨捨政宗 日本酒",
+        "長野銘醸 日本酒"
+      ],
+      "officialNewsUrl": null,
+      "officialNewsStatus": "NOT_INDEPENDENTLY_REVIEWED",
+      "automaticVerifiedUpdate": false
+    },
+    {
+      "breweryId": "brewery-cb6b36088f248968",
+      "breweryName": "玉泉堂酒造",
+      "brand": "美濃菊",
+      "rakutenQueries": [
+        "美濃菊 日本酒",
+        "玉泉堂酒造 日本酒"
+      ],
+      "officialNewsUrl": null,
+      "officialNewsStatus": "NOT_INDEPENDENTLY_REVIEWED",
+      "automaticVerifiedUpdate": false
+    },
+    {
+      "breweryId": "brewery-c1cc04164b82ae88",
+      "breweryName": "二木酒造",
+      "brand": "笑いじょうご",
+      "rakutenQueries": [
+        "笑いじょうご 日本酒",
+        "二木酒造 日本酒"
+      ],
+      "officialNewsUrl": null,
+      "officialNewsStatus": "NOT_INDEPENDENTLY_REVIEWED",
+      "automaticVerifiedUpdate": false
+    }
+  ],
+  "seasonalQueries": [
+    "日本酒 春酒",
+    "日本酒 夏酒",
+    "日本酒 ひやおろし",
+    "日本酒 秋あがり",
+    "日本酒 新酒",
+    "日本酒 しぼりたて",
+    "日本酒 にごり",
+    "日本酒 おりがらみ"
+  ],
+  "executionStatus": "PLANNED_NOT_SCHEDULED",
+  "queryLimitPerRunProposal": 12,
+  "rateLimitMs": 1150
+}

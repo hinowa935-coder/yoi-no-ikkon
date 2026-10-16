@@ -1,0 +1,1911 @@
+{
+  "item": {
+    "id": "koshino-kagetora-junmai-standard-v1",
+    "catalogVersion": "v1",
+    "productName": "越乃景虎 純米酒",
+    "sake": "越乃景虎",
+    "brandName": "越乃景虎",
+    "brewery": "諸橋酒造株式会社",
+    "prefecture": "新潟県",
+    "region": "長岡市",
+    "areaGroup": "東海・北陸",
+    "style": [
+      "純米酒"
+    ],
+    "taste": [
+      "米の旨味",
+      "まろやか",
+      "すっきりした後口"
+    ],
+    "temperature": [
+      "冷や",
+      "ぬる燗"
+    ],
+    "moods": [],
+    "dishes": [
+      "焼き魚",
+      "湯豆腐",
+      "肉じゃが"
+    ],
+    "yoiPairings": [
+      "焼き魚",
+      "湯豆腐",
+      "肉じゃが"
+    ],
+    "dishCategories": [],
+    "nightType": "",
+    "essay": "",
+    "productUrl": null,
+    "officialUrl": null,
+    "officialPairings": [],
+    "sources": [
+      {
+        "url": "https://item.rakuten.co.jp/syuraku-shop/11811/",
+        "type": "specialty_retailer",
+        "scope": "product",
+        "name": "酒楽SHOP 越乃景虎 純米酒",
+        "verifiedAt": "2026-10-17"
+      },
+      {
+        "url": "https://www.sakesake.com/item/kurabetu1/19/1-19-5.html",
+        "type": "specialty_retailer",
+        "scope": "product",
+        "name": "地酒サンマート 越乃景虎 純米酒",
+        "verifiedAt": "2026-10-17"
+      },
+      {
+        "url": "https://www.niigata-sake.or.jp/kuramoto/morohashi",
+        "type": "industry",
+        "scope": "brewery_identity_only",
+        "name": "新潟県酒造組合 諸橋酒造",
+        "verifiedAt": "2026-10-17"
+      }
+    ],
+    "purchaseLinks": [],
+    "dataConfidence": "medium",
+    "needsIdentification": false,
+    "sakeResearch": {
+      "id": "koshino-kagetora-junmai-standard-v1",
+      "registeredName": "越乃景虎 純米酒",
+      "identity": {
+        "productName": "越乃景虎 純米酒",
+        "brandName": "越乃景虎",
+        "brewery": "諸橋酒造株式会社",
+        "prefecture": "新潟県",
+        "officialProductUrl": null
+      },
+      "classification": {
+        "ginjo": false,
+        "junmaiGinjo": false,
+        "daiginjo": false,
+        "junmaiDaiginjo": false,
+        "ginjoFamily": false,
+        "daiginjoFamily": false,
+        "aged": null,
+        "tokuteiMeishoshu": "純米酒",
+        "junmai": true,
+        "nonJunmai": false,
+        "kimoto": null,
+        "yamahai": null,
+        "nama": null,
+        "hiire": null,
+        "nigori": null,
+        "sparkling": null,
+        "genshu": null,
+        "muroka": null
+      },
+      "specs": {
+        "ingredients": [],
+        "riceVariety": [
+          "五百万石",
+          "地米"
+        ],
+        "riceOrigin": null,
+        "riceByRole": null,
+        "polishingRatio": "65%",
+        "polishingByRole": null,
+        "alcoholPercentage": "15〜16度",
+        "nihonshudo": "+3",
+        "acidity": "1.6",
+        "aminoAcidValue": "1.2",
+        "yeast": null,
+        "waterSource": null,
+        "kojiMold": null,
+        "agingPeriod": null,
+        "agingTemperature": null
+      },
+      "flavorProfile": {
+        "sweetness": null,
+        "aroma": "優しい香り",
+        "umami": "米の旨味",
+        "acidity": null,
+        "body": "まろやか",
+        "finish": "すっきりした後口"
+      },
+      "verifiedFeatureTags": [
+        "米の旨味",
+        "まろやか",
+        "すっきりした後口"
+      ],
+      "editorialTags": [],
+      "featureEvidence": [
+        {
+          "feature": "米の旨味",
+          "sourceUrl": "https://www.sakesake.com/item/kurabetu1/19/1-19-5.html",
+          "sourceType": "specialty_retailer",
+          "verifiedAt": "2026-10-17",
+          "meaning": "当該純米酒の味わい説明。楽天の当該純米酒の説明でも同じ意味を確認。",
+          "corroboratingSources": [
+            "https://item.rakuten.co.jp/syuraku-shop/11811/"
+          ]
+        },
+        {
+          "feature": "まろやか",
+          "sourceUrl": "https://www.sakesake.com/item/kurabetu1/19/1-19-5.html",
+          "sourceType": "specialty_retailer",
+          "verifiedAt": "2026-10-17",
+          "meaning": "当該純米酒の味わい説明。楽天の当該純米酒の説明でも同じ意味を確認。",
+          "corroboratingSources": [
+            "https://item.rakuten.co.jp/syuraku-shop/11811/"
+          ]
+        },
+        {
+          "feature": "すっきりした後口",
+          "sourceUrl": "https://www.sakesake.com/item/kurabetu1/19/1-19-5.html",
+          "sourceType": "specialty_retailer",
+          "verifiedAt": "2026-10-17",
+          "meaning": "当該純米酒の味わい説明。楽天の当該純米酒の説明でも同じ意味を確認。",
+          "corroboratingSources": [
+            "https://item.rakuten.co.jp/syuraku-shop/11811/"
+          ]
+        }
+      ],
+      "fieldEvidence": [
+        {
+          "field": "identity.productName",
+          "value": "越乃景虎 純米酒",
+          "sourceUrl": "https://item.rakuten.co.jp/syuraku-shop/11811/",
+          "sourceType": "rakuten_retail",
+          "verifiedAt": "2026-10-17",
+          "meaning": "越乃景虎 純米酒の商品単位の記載を整理。別の特別純米・純米原酒・生酒の値は使わない。"
+        },
+        {
+          "field": "identity.brandName",
+          "value": "越乃景虎",
+          "sourceUrl": "https://www.niigata-sake.or.jp/kuramoto/morohashi",
+          "sourceType": "industry",
+          "verifiedAt": "2026-10-17",
+          "meaning": "越乃景虎 純米酒の商品単位の記載を整理。別の特別純米・純米原酒・生酒の値は使わない。"
+        },
+        {
+          "field": "identity.brewery",
+          "value": "諸橋酒造株式会社",
+          "sourceUrl": "https://www.niigata-sake.or.jp/kuramoto/morohashi",
+          "sourceType": "industry",
+          "verifiedAt": "2026-10-17",
+          "meaning": "越乃景虎 純米酒の商品単位の記載を整理。別の特別純米・純米原酒・生酒の値は使わない。"
+        },
+        {
+          "field": "identity.prefecture",
+          "value": "新潟県",
+          "sourceUrl": "https://www.niigata-sake.or.jp/kuramoto/morohashi",
+          "sourceType": "industry",
+          "verifiedAt": "2026-10-17",
+          "meaning": "越乃景虎 純米酒の商品単位の記載を整理。別の特別純米・純米原酒・生酒の値は使わない。"
+        },
+        {
+          "field": "specs.riceVariety",
+          "value": [
+            "五百万石",
+            "地米"
+          ],
+          "sourceUrl": "https://www.sakesake.com/item/kurabetu1/19/1-19-5.html",
+          "sourceType": "specialty_retailer",
+          "verifiedAt": "2026-10-17",
+          "meaning": "越乃景虎 純米酒の商品単位の記載を整理。別の特別純米・純米原酒・生酒の値は使わない。"
+        },
+        {
+          "field": "specs.polishingRatio",
+          "value": "65%",
+          "sourceUrl": "https://www.sakesake.com/item/kurabetu1/19/1-19-5.html",
+          "sourceType": "specialty_retailer",
+          "verifiedAt": "2026-10-17",
+          "meaning": "越乃景虎 純米酒の商品単位の記載を整理。別の特別純米・純米原酒・生酒の値は使わない。"
+        },
+        {
+          "field": "specs.alcoholPercentage",
+          "value": "15〜16度",
+          "sourceUrl": "https://www.sakesake.com/item/kurabetu1/19/1-19-5.html",
+          "sourceType": "specialty_retailer",
+          "verifiedAt": "2026-10-17",
+          "meaning": "越乃景虎 純米酒の商品単位の記載を整理。別の特別純米・純米原酒・生酒の値は使わない。"
+        },
+        {
+          "field": "specs.nihonshudo",
+          "value": "+3",
+          "sourceUrl": "https://www.sakesake.com/item/kurabetu1/19/1-19-5.html",
+          "sourceType": "specialty_retailer",
+          "verifiedAt": "2026-10-17",
+          "meaning": "越乃景虎 純米酒の商品単位の記載を整理。別の特別純米・純米原酒・生酒の値は使わない。"
+        },
+        {
+          "field": "specs.acidity",
+          "value": "1.6",
+          "sourceUrl": "https://www.sakesake.com/item/kurabetu1/19/1-19-5.html",
+          "sourceType": "specialty_retailer",
+          "verifiedAt": "2026-10-17",
+          "meaning": "越乃景虎 純米酒の商品単位の記載を整理。別の特別純米・純米原酒・生酒の値は使わない。"
+        },
+        {
+          "field": "specs.aminoAcidValue",
+          "value": "1.2",
+          "sourceUrl": "https://www.sakesake.com/item/kurabetu1/19/1-19-5.html",
+          "sourceType": "specialty_retailer",
+          "verifiedAt": "2026-10-17",
+          "meaning": "越乃景虎 純米酒の商品単位の記載を整理。別の特別純米・純米原酒・生酒の値は使わない。"
+        },
+        {
+          "field": "flavorProfile.aroma",
+          "value": "優しい香り",
+          "sourceUrl": "https://item.rakuten.co.jp/syuraku-shop/11811/",
+          "sourceType": "rakuten_retail",
+          "verifiedAt": "2026-10-17",
+          "meaning": "越乃景虎 純米酒の商品単位の記載を整理。別の特別純米・純米原酒・生酒の値は使わない。"
+        },
+        {
+          "field": "flavorProfile.umami",
+          "value": "米の旨味",
+          "sourceUrl": "https://www.sakesake.com/item/kurabetu1/19/1-19-5.html",
+          "sourceType": "specialty_retailer",
+          "verifiedAt": "2026-10-17",
+          "meaning": "越乃景虎 純米酒の商品単位の記載を整理。別の特別純米・純米原酒・生酒の値は使わない。"
+        },
+        {
+          "field": "flavorProfile.body",
+          "value": "まろやか",
+          "sourceUrl": "https://www.sakesake.com/item/kurabetu1/19/1-19-5.html",
+          "sourceType": "specialty_retailer",
+          "verifiedAt": "2026-10-17",
+          "meaning": "越乃景虎 純米酒の商品単位の記載を整理。別の特別純米・純米原酒・生酒の値は使わない。"
+        },
+        {
+          "field": "flavorProfile.finish",
+          "value": "すっきりした後口",
+          "sourceUrl": "https://www.sakesake.com/item/kurabetu1/19/1-19-5.html",
+          "sourceType": "specialty_retailer",
+          "verifiedAt": "2026-10-17",
+          "meaning": "越乃景虎 純米酒の商品単位の記載を整理。別の特別純米・純米原酒・生酒の値は使わない。"
+        },
+        {
+          "field": "classification.tokuteiMeishoshu",
+          "value": "純米酒",
+          "sourceUrl": "https://item.rakuten.co.jp/syuraku-shop/11811/",
+          "sourceType": "rakuten_retail",
+          "verifiedAt": "2026-10-17",
+          "meaning": "越乃景虎 純米酒の商品単位の記載を整理。別の特別純米・純米原酒・生酒の値は使わない。"
+        },
+        {
+          "field": "servingTemperatures",
+          "value": [
+            "冷や",
+            "ぬる燗"
+          ],
+          "sourceUrl": "https://www.sakesake.com/item/kurabetu1/19/1-19-5.html",
+          "sourceType": "specialty_retailer",
+          "verifiedAt": "2026-10-17",
+          "meaning": "越乃景虎 純米酒の商品単位の記載を整理。別の特別純米・純米原酒・生酒の値は使わない。"
+        },
+        {
+          "field": "classification.junmai",
+          "value": true,
+          "sourceUrl": "https://item.rakuten.co.jp/syuraku-shop/11811/",
+          "sourceType": "rakuten_retail",
+          "verifiedAt": "2026-10-17",
+          "meaning": "直接確認した特定名称純米酒の排他・親子関係を正規化。越乃景虎 純米酒の商品単位の記載を整理。別の特別純米・純米原酒・生酒の値は使わない。",
+          "derivedFrom": "classification.tokuteiMeishoshu"
+        },
+        {
+          "field": "classification.nonJunmai",
+          "value": false,
+          "sourceUrl": "https://item.rakuten.co.jp/syuraku-shop/11811/",
+          "sourceType": "rakuten_retail",
+          "verifiedAt": "2026-10-17",
+          "meaning": "直接確認した特定名称純米酒の排他・親子関係を正規化。越乃景虎 純米酒の商品単位の記載を整理。別の特別純米・純米原酒・生酒の値は使わない。",
+          "derivedFrom": "classification.tokuteiMeishoshu"
+        },
+        {
+          "field": "classification.ginjo",
+          "value": false,
+          "sourceUrl": "https://item.rakuten.co.jp/syuraku-shop/11811/",
+          "sourceType": "rakuten_retail",
+          "verifiedAt": "2026-10-17",
+          "meaning": "直接確認した特定名称純米酒の排他・親子関係を正規化。越乃景虎 純米酒の商品単位の記載を整理。別の特別純米・純米原酒・生酒の値は使わない。",
+          "derivedFrom": "classification.tokuteiMeishoshu"
+        },
+        {
+          "field": "classification.junmaiGinjo",
+          "value": false,
+          "sourceUrl": "https://item.rakuten.co.jp/syuraku-shop/11811/",
+          "sourceType": "rakuten_retail",
+          "verifiedAt": "2026-10-17",
+          "meaning": "直接確認した特定名称純米酒の排他・親子関係を正規化。越乃景虎 純米酒の商品単位の記載を整理。別の特別純米・純米原酒・生酒の値は使わない。",
+          "derivedFrom": "classification.tokuteiMeishoshu"
+        },
+        {
+          "field": "classification.daiginjo",
+          "value": false,
+          "sourceUrl": "https://item.rakuten.co.jp/syuraku-shop/11811/",
+          "sourceType": "rakuten_retail",
+          "verifiedAt": "2026-10-17",
+          "meaning": "直接確認した特定名称純米酒の排他・親子関係を正規化。越乃景虎 純米酒の商品単位の記載を整理。別の特別純米・純米原酒・生酒の値は使わない。",
+          "derivedFrom": "classification.tokuteiMeishoshu"
+        },
+        {
+          "field": "classification.junmaiDaiginjo",
+          "value": false,
+          "sourceUrl": "https://item.rakuten.co.jp/syuraku-shop/11811/",
+          "sourceType": "rakuten_retail",
+          "verifiedAt": "2026-10-17",
+          "meaning": "直接確認した特定名称純米酒の排他・親子関係を正規化。越乃景虎 純米酒の商品単位の記載を整理。別の特別純米・純米原酒・生酒の値は使わない。",
+          "derivedFrom": "classification.tokuteiMeishoshu"
+        },
+        {
+          "field": "classification.ginjoFamily",
+          "value": false,
+          "sourceUrl": "https://item.rakuten.co.jp/syuraku-shop/11811/",
+          "sourceType": "rakuten_retail",
+          "verifiedAt": "2026-10-17",
+          "meaning": "直接確認した特定名称純米酒の排他・親子関係を正規化。越乃景虎 純米酒の商品単位の記載を整理。別の特別純米・純米原酒・生酒の値は使わない。",
+          "derivedFrom": "classification.tokuteiMeishoshu"
+        },
+        {
+          "field": "classification.daiginjoFamily",
+          "value": false,
+          "sourceUrl": "https://item.rakuten.co.jp/syuraku-shop/11811/",
+          "sourceType": "rakuten_retail",
+          "verifiedAt": "2026-10-17",
+          "meaning": "直接確認した特定名称純米酒の排他・親子関係を正規化。越乃景虎 純米酒の商品単位の記載を整理。別の特別純米・純米原酒・生酒の値は使わない。",
+          "derivedFrom": "classification.tokuteiMeishoshu"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://item.rakuten.co.jp/syuraku-shop/11811/",
+          "type": "specialty_retailer",
+          "scope": "product",
+          "name": "酒楽SHOP 越乃景虎 純米酒",
+          "verifiedAt": "2026-10-17"
+        },
+        {
+          "url": "https://www.sakesake.com/item/kurabetu1/19/1-19-5.html",
+          "type": "specialty_retailer",
+          "scope": "product",
+          "name": "地酒サンマート 越乃景虎 純米酒",
+          "verifiedAt": "2026-10-17"
+        },
+        {
+          "url": "https://www.niigata-sake.or.jp/kuramoto/morohashi",
+          "type": "industry",
+          "scope": "brewery_identity_only",
+          "name": "新潟県酒造組合 諸橋酒造",
+          "verifiedAt": "2026-10-17"
+        }
+      ],
+      "servingTemperatures": [
+        "冷や",
+        "ぬる燗"
+      ],
+      "recommendedTemperatureRange": [],
+      "temperatureRecommendations": [],
+      "officialPairings": [],
+      "pairingEvidence": [],
+      "vintage": null,
+      "needsIdentification": false,
+      "dataConfidence": "medium",
+      "researchStatus": "researched",
+      "lastVerifiedAt": "2026-10-17",
+      "researchPhase": "3",
+      "auditPhase": "3",
+      "sourceAttempts": [],
+      "auditNotes": [],
+      "aromaNotes": [],
+      "tasteNotes": [],
+      "featureTags": [
+        "米の旨味",
+        "まろやか",
+        "すっきりした後口"
+      ],
+      "shortDescription": "やさしい香りと、まろやかな米の旨み。後口はすっきりとした純米酒です。"
+    },
+    "editorialPairingEvidence": [
+      {
+        "dish": "焼き魚",
+        "reason": "焼き魚の香ばしさに、まろやかな米の旨みを。すっきりした後口とともに、交互に味わう組み合わせです。",
+        "provenance": "yoiEditorial",
+        "sourceUrls": [
+          "https://www.sakesake.com/item/kurabetu1/19/1-19-5.html",
+          "https://item.rakuten.co.jp/syuraku-shop/11811/"
+        ],
+        "sourceScope": "Sake characteristics are sourced. Dishes are new Yoi editorial proposals, not official or community recommendations."
+      },
+      {
+        "dish": "湯豆腐",
+        "reason": "湯豆腐の穏やかな味わいに、やわらかな口当たりを重ねて。鍋を囲んでゆっくり楽しむ一杯です。",
+        "provenance": "yoiEditorial",
+        "sourceUrls": [
+          "https://www.sakesake.com/item/kurabetu1/19/1-19-5.html",
+          "https://item.rakuten.co.jp/syuraku-shop/11811/"
+        ],
+        "sourceScope": "Sake characteristics are sourced. Dishes are new Yoi editorial proposals, not official or community recommendations."
+      },
+      {
+        "dish": "肉じゃが",
+        "reason": "肉じゃがをつまみながら、米の旨みをゆっくり。すっきりした後口が、次のひと口につなぎます。",
+        "provenance": "yoiEditorial",
+        "sourceUrls": [
+          "https://www.sakesake.com/item/kurabetu1/19/1-19-5.html",
+          "https://item.rakuten.co.jp/syuraku-shop/11811/"
+        ],
+        "sourceScope": "Sake characteristics are sourced. Dishes are new Yoi editorial proposals, not official or community recommendations."
+      }
+    ],
+    "communityEvidence": [
+      {
+        "evidenceId": "kagetora-review-395123",
+        "skuId": "koshino-kagetora-junmai-standard-v1",
+        "sourceType": "review",
+        "sourceUrl": "https://www.saketime.jp/reviews/395123/",
+        "checkedAt": "2026-10-16T15:15:59.832Z",
+        "publishedAt": "2026-09-24",
+        "retrieved": true,
+        "skuMatch": true,
+        "versionMatched": true,
+        "versionScope": "定番純米酒の表記と65%/15〜16度が対応。製造ロット一致は未確認。",
+        "experienced": true,
+        "specificTasting": true,
+        "independenceGroup": "saketime-review-395123",
+        "contentFingerprint": "saketime-review-395123",
+        "traits": [
+          {
+            "field": "umami",
+            "value": "旨味"
+          },
+          {
+            "field": "bitterness",
+            "value": "苦味"
+          },
+          {
+            "field": "acidity",
+            "value": "酸味"
+          }
+        ],
+        "pairings": [],
+        "temperatures": [],
+        "summary": "開栓後、日を置いて飲むうちに旨みの印象が変わったという感想。",
+        "notVerified": true
+      },
+      {
+        "evidenceId": "kagetora-blog-20260520",
+        "skuId": "koshino-kagetora-junmai-standard-v1",
+        "sourceType": "review",
+        "sourceUrl": "https://www.seihiguchi.com/2026/05/blog-post.html",
+        "checkedAt": "2026-10-16T15:15:59.832Z",
+        "publishedAt": "2026-05-20",
+        "retrieved": true,
+        "skuMatch": true,
+        "versionMatched": null,
+        "versionScope": "定番純米酒の名称のみ。現行ラベル・仕様の独立照合は未完了。",
+        "experienced": true,
+        "specificTasting": true,
+        "independenceGroup": "seihiguchi.com",
+        "contentFingerprint": "kagetora-blog-20260520",
+        "traits": [
+          {
+            "field": "body",
+            "value": "バランス"
+          }
+        ],
+        "summary": "食事とともに飲み、まとまりのよさを感じたという感想。",
+        "pairings": [],
+        "temperatures": [],
+        "notVerified": true
+      },
+      {
+        "evidenceId": "kagetora-rakuten-temperature-20240110",
+        "skuId": "koshino-kagetora-junmai-standard-v1",
+        "sourceType": "rakuten_review",
+        "sourceUrl": "https://item.rakuten.co.jp/syuraku-shop/11811/",
+        "checkedAt": "2026-10-16T15:15:59.832Z",
+        "publishedAt": "2024-01-10",
+        "retrieved": true,
+        "skuMatch": true,
+        "versionMatched": null,
+        "versionScope": "当該単品ページの購入者レビュー。製造年度不明のため温度の補助情報のみ。",
+        "experienced": true,
+        "specificTasting": true,
+        "independenceGroup": "rakuten-review-temperature-20240110",
+        "contentFingerprint": "kagetora-rakuten-temperature-20240110",
+        "traits": [],
+        "temperatures": [
+          "温燗"
+        ],
+        "pairings": [],
+        "summary": "温めて飲んだ際に好印象だったという声。",
+        "notVerified": true
+      }
+    ],
+    "sensoryConsensus": {
+      "fields": {
+        "sweetness": {
+          "value": null,
+          "confidence": "low",
+          "evidenceIds": [],
+          "independentSources": 0,
+          "contested": false
+        },
+        "acidity": {
+          "value": null,
+          "confidence": "low",
+          "evidenceIds": [
+            "kagetora-review-395123"
+          ],
+          "independentSources": 1,
+          "contested": false
+        },
+        "umami": {
+          "value": null,
+          "confidence": "low",
+          "evidenceIds": [
+            "kagetora-review-395123"
+          ],
+          "independentSources": 1,
+          "contested": false
+        },
+        "aroma": {
+          "value": null,
+          "confidence": "low",
+          "evidenceIds": [],
+          "independentSources": 0,
+          "contested": false
+        },
+        "body": {
+          "value": null,
+          "confidence": "low",
+          "evidenceIds": [],
+          "independentSources": 0,
+          "contested": false
+        },
+        "finish": {
+          "value": null,
+          "confidence": "low",
+          "evidenceIds": [],
+          "independentSources": 0,
+          "contested": false
+        },
+        "bitterness": {
+          "value": null,
+          "confidence": "low",
+          "evidenceIds": [
+            "kagetora-review-395123"
+          ],
+          "independentSources": 1,
+          "contested": false
+        },
+        "carbonation": {
+          "value": null,
+          "confidence": "low",
+          "evidenceIds": [],
+          "independentSources": 0,
+          "contested": false
+        },
+        "alcoholImpression": {
+          "value": null,
+          "confidence": "low",
+          "evidenceIds": [],
+          "independentSources": 0,
+          "contested": false
+        }
+      },
+      "acceptedEvidenceIds": [
+        "kagetora-review-395123"
+      ],
+      "excluded": [
+        {
+          "evidenceId": "kagetora-blog-20260520",
+          "reason": "SKU_OR_VERSION_UNCONFIRMED"
+        },
+        {
+          "evidenceId": "kagetora-rakuten-temperature-20240110",
+          "reason": "SKU_OR_VERSION_UNCONFIRMED"
+        }
+      ],
+      "provenance": "editorial_sensory_consensus",
+      "notVerifiedSpecifications": true
+    },
+    "communityPairings": [],
+    "officialTemperature": [],
+    "communityTemperature": [
+      {
+        "values": [
+          "温燗"
+        ],
+        "evidenceId": "kagetora-rakuten-temperature-20240110",
+        "confidence": "low",
+        "notOfficial": true
+      }
+    ],
+    "retailerTemperature": [
+      {
+        "values": [
+          "冷や",
+          "ぬる燗"
+        ],
+        "sourceUrl": "https://www.sakesake.com/item/kurabetu1/19/1-19-5.html",
+        "notOfficial": true
+      }
+    ],
+    "capacityMl": 720
+  },
+  "research": {
+    "id": "koshino-kagetora-junmai-standard-v1",
+    "registeredName": "越乃景虎 純米酒",
+    "identity": {
+      "productName": "越乃景虎 純米酒",
+      "brandName": "越乃景虎",
+      "brewery": "諸橋酒造株式会社",
+      "prefecture": "新潟県",
+      "officialProductUrl": null
+    },
+    "classification": {
+      "ginjo": false,
+      "junmaiGinjo": false,
+      "daiginjo": false,
+      "junmaiDaiginjo": false,
+      "ginjoFamily": false,
+      "daiginjoFamily": false,
+      "aged": null,
+      "tokuteiMeishoshu": "純米酒",
+      "junmai": true,
+      "nonJunmai": false,
+      "kimoto": null,
+      "yamahai": null,
+      "nama": null,
+      "hiire": null,
+      "nigori": null,
+      "sparkling": null,
+      "genshu": null,
+      "muroka": null
+    },
+    "specs": {
+      "ingredients": [],
+      "riceVariety": [
+        "五百万石",
+        "地米"
+      ],
+      "riceOrigin": null,
+      "riceByRole": null,
+      "polishingRatio": "65%",
+      "polishingByRole": null,
+      "alcoholPercentage": "15〜16度",
+      "nihonshudo": "+3",
+      "acidity": "1.6",
+      "aminoAcidValue": "1.2",
+      "yeast": null,
+      "waterSource": null,
+      "kojiMold": null,
+      "agingPeriod": null,
+      "agingTemperature": null
+    },
+    "flavorProfile": {
+      "sweetness": null,
+      "aroma": "優しい香り",
+      "umami": "米の旨味",
+      "acidity": null,
+      "body": "まろやか",
+      "finish": "すっきりした後口"
+    },
+    "verifiedFeatureTags": [
+      "米の旨味",
+      "まろやか",
+      "すっきりした後口"
+    ],
+    "editorialTags": [],
+    "featureEvidence": [
+      {
+        "feature": "米の旨味",
+        "sourceUrl": "https://www.sakesake.com/item/kurabetu1/19/1-19-5.html",
+        "sourceType": "specialty_retailer",
+        "verifiedAt": "2026-10-17",
+        "meaning": "当該純米酒の味わい説明。楽天の当該純米酒の説明でも同じ意味を確認。",
+        "corroboratingSources": [
+          "https://item.rakuten.co.jp/syuraku-shop/11811/"
+        ]
+      },
+      {
+        "feature": "まろやか",
+        "sourceUrl": "https://www.sakesake.com/item/kurabetu1/19/1-19-5.html",
+        "sourceType": "specialty_retailer",
+        "verifiedAt": "2026-10-17",
+        "meaning": "当該純米酒の味わい説明。楽天の当該純米酒の説明でも同じ意味を確認。",
+        "corroboratingSources": [
+          "https://item.rakuten.co.jp/syuraku-shop/11811/"
+        ]
+      },
+      {
+        "feature": "すっきりした後口",
+        "sourceUrl": "https://www.sakesake.com/item/kurabetu1/19/1-19-5.html",
+        "sourceType": "specialty_retailer",
+        "verifiedAt": "2026-10-17",
+        "meaning": "当該純米酒の味わい説明。楽天の当該純米酒の説明でも同じ意味を確認。",
+        "corroboratingSources": [
+          "https://item.rakuten.co.jp/syuraku-shop/11811/"
+        ]
+      }
+    ],
+    "fieldEvidence": [
+      {
+        "field": "identity.productName",
+        "value": "越乃景虎 純米酒",
+        "sourceUrl": "https://item.rakuten.co.jp/syuraku-shop/11811/",
+        "sourceType": "rakuten_retail",
+        "verifiedAt": "2026-10-17",
+        "meaning": "越乃景虎 純米酒の商品単位の記載を整理。別の特別純米・純米原酒・生酒の値は使わない。"
+      },
+      {
+        "field": "identity.brandName",
+        "value": "越乃景虎",
+        "sourceUrl": "https://www.niigata-sake.or.jp/kuramoto/morohashi",
+        "sourceType": "industry",
+        "verifiedAt": "2026-10-17",
+        "meaning": "越乃景虎 純米酒の商品単位の記載を整理。別の特別純米・純米原酒・生酒の値は使わない。"
+      },
+      {
+        "field": "identity.brewery",
+        "value": "諸橋酒造株式会社",
+        "sourceUrl": "https://www.niigata-sake.or.jp/kuramoto/morohashi",
+        "sourceType": "industry",
+        "verifiedAt": "2026-10-17",
+        "meaning": "越乃景虎 純米酒の商品単位の記載を整理。別の特別純米・純米原酒・生酒の値は使わない。"
+      },
+      {
+        "field": "identity.prefecture",
+        "value": "新潟県",
+        "sourceUrl": "https://www.niigata-sake.or.jp/kuramoto/morohashi",
+        "sourceType": "industry",
+        "verifiedAt": "2026-10-17",
+        "meaning": "越乃景虎 純米酒の商品単位の記載を整理。別の特別純米・純米原酒・生酒の値は使わない。"
+      },
+      {
+        "field": "specs.riceVariety",
+        "value": [
+          "五百万石",
+          "地米"
+        ],
+        "sourceUrl": "https://www.sakesake.com/item/kurabetu1/19/1-19-5.html",
+        "sourceType": "specialty_retailer",
+        "verifiedAt": "2026-10-17",
+        "meaning": "越乃景虎 純米酒の商品単位の記載を整理。別の特別純米・純米原酒・生酒の値は使わない。"
+      },
+      {
+        "field": "specs.polishingRatio",
+        "value": "65%",
+        "sourceUrl": "https://www.sakesake.com/item/kurabetu1/19/1-19-5.html",
+        "sourceType": "specialty_retailer",
+        "verifiedAt": "2026-10-17",
+        "meaning": "越乃景虎 純米酒の商品単位の記載を整理。別の特別純米・純米原酒・生酒の値は使わない。"
+      },
+      {
+        "field": "specs.alcoholPercentage",
+        "value": "15〜16度",
+        "sourceUrl": "https://www.sakesake.com/item/kurabetu1/19/1-19-5.html",
+        "sourceType": "specialty_retailer",
+        "verifiedAt": "2026-10-17",
+        "meaning": "越乃景虎 純米酒の商品単位の記載を整理。別の特別純米・純米原酒・生酒の値は使わない。"
+      },
+      {
+        "field": "specs.nihonshudo",
+        "value": "+3",
+        "sourceUrl": "https://www.sakesake.com/item/kurabetu1/19/1-19-5.html",
+        "sourceType": "specialty_retailer",
+        "verifiedAt": "2026-10-17",
+        "meaning": "越乃景虎 純米酒の商品単位の記載を整理。別の特別純米・純米原酒・生酒の値は使わない。"
+      },
+      {
+        "field": "specs.acidity",
+        "value": "1.6",
+        "sourceUrl": "https://www.sakesake.com/item/kurabetu1/19/1-19-5.html",
+        "sourceType": "specialty_retailer",
+        "verifiedAt": "2026-10-17",
+        "meaning": "越乃景虎 純米酒の商品単位の記載を整理。別の特別純米・純米原酒・生酒の値は使わない。"
+      },
+      {
+        "field": "specs.aminoAcidValue",
+        "value": "1.2",
+        "sourceUrl": "https://www.sakesake.com/item/kurabetu1/19/1-19-5.html",
+        "sourceType": "specialty_retailer",
+        "verifiedAt": "2026-10-17",
+        "meaning": "越乃景虎 純米酒の商品単位の記載を整理。別の特別純米・純米原酒・生酒の値は使わない。"
+      },
+      {
+        "field": "flavorProfile.aroma",
+        "value": "優しい香り",
+        "sourceUrl": "https://item.rakuten.co.jp/syuraku-shop/11811/",
+        "sourceType": "rakuten_retail",
+        "verifiedAt": "2026-10-17",
+        "meaning": "越乃景虎 純米酒の商品単位の記載を整理。別の特別純米・純米原酒・生酒の値は使わない。"
+      },
+      {
+        "field": "flavorProfile.umami",
+        "value": "米の旨味",
+        "sourceUrl": "https://www.sakesake.com/item/kurabetu1/19/1-19-5.html",
+        "sourceType": "specialty_retailer",
+        "verifiedAt": "2026-10-17",
+        "meaning": "越乃景虎 純米酒の商品単位の記載を整理。別の特別純米・純米原酒・生酒の値は使わない。"
+      },
+      {
+        "field": "flavorProfile.body",
+        "value": "まろやか",
+        "sourceUrl": "https://www.sakesake.com/item/kurabetu1/19/1-19-5.html",
+        "sourceType": "specialty_retailer",
+        "verifiedAt": "2026-10-17",
+        "meaning": "越乃景虎 純米酒の商品単位の記載を整理。別の特別純米・純米原酒・生酒の値は使わない。"
+      },
+      {
+        "field": "flavorProfile.finish",
+        "value": "すっきりした後口",
+        "sourceUrl": "https://www.sakesake.com/item/kurabetu1/19/1-19-5.html",
+        "sourceType": "specialty_retailer",
+        "verifiedAt": "2026-10-17",
+        "meaning": "越乃景虎 純米酒の商品単位の記載を整理。別の特別純米・純米原酒・生酒の値は使わない。"
+      },
+      {
+        "field": "classification.tokuteiMeishoshu",
+        "value": "純米酒",
+        "sourceUrl": "https://item.rakuten.co.jp/syuraku-shop/11811/",
+        "sourceType": "rakuten_retail",
+        "verifiedAt": "2026-10-17",
+        "meaning": "越乃景虎 純米酒の商品単位の記載を整理。別の特別純米・純米原酒・生酒の値は使わない。"
+      },
+      {
+        "field": "servingTemperatures",
+        "value": [
+          "冷や",
+          "ぬる燗"
+        ],
+        "sourceUrl": "https://www.sakesake.com/item/kurabetu1/19/1-19-5.html",
+        "sourceType": "specialty_retailer",
+        "verifiedAt": "2026-10-17",
+        "meaning": "越乃景虎 純米酒の商品単位の記載を整理。別の特別純米・純米原酒・生酒の値は使わない。"
+      },
+      {
+        "field": "classification.junmai",
+        "value": true,
+        "sourceUrl": "https://item.rakuten.co.jp/syuraku-shop/11811/",
+        "sourceType": "rakuten_retail",
+        "verifiedAt": "2026-10-17",
+        "meaning": "直接確認した特定名称純米酒の排他・親子関係を正規化。越乃景虎 純米酒の商品単位の記載を整理。別の特別純米・純米原酒・生酒の値は使わない。",
+        "derivedFrom": "classification.tokuteiMeishoshu"
+      },
+      {
+        "field": "classification.nonJunmai",
+        "value": false,
+        "sourceUrl": "https://item.rakuten.co.jp/syuraku-shop/11811/",
+        "sourceType": "rakuten_retail",
+        "verifiedAt": "2026-10-17",
+        "meaning": "直接確認した特定名称純米酒の排他・親子関係を正規化。越乃景虎 純米酒の商品単位の記載を整理。別の特別純米・純米原酒・生酒の値は使わない。",
+        "derivedFrom": "classification.tokuteiMeishoshu"
+      },
+      {
+        "field": "classification.ginjo",
+        "value": false,
+        "sourceUrl": "https://item.rakuten.co.jp/syuraku-shop/11811/",
+        "sourceType": "rakuten_retail",
+        "verifiedAt": "2026-10-17",
+        "meaning": "直接確認した特定名称純米酒の排他・親子関係を正規化。越乃景虎 純米酒の商品単位の記載を整理。別の特別純米・純米原酒・生酒の値は使わない。",
+        "derivedFrom": "classification.tokuteiMeishoshu"
+      },
+      {
+        "field": "classification.junmaiGinjo",
+        "value": false,
+        "sourceUrl": "https://item.rakuten.co.jp/syuraku-shop/11811/",
+        "sourceType": "rakuten_retail",
+        "verifiedAt": "2026-10-17",
+        "meaning": "直接確認した特定名称純米酒の排他・親子関係を正規化。越乃景虎 純米酒の商品単位の記載を整理。別の特別純米・純米原酒・生酒の値は使わない。",
+        "derivedFrom": "classification.tokuteiMeishoshu"
+      },
+      {
+        "field": "classification.daiginjo",
+        "value": false,
+        "sourceUrl": "https://item.rakuten.co.jp/syuraku-shop/11811/",
+        "sourceType": "rakuten_retail",
+        "verifiedAt": "2026-10-17",
+        "meaning": "直接確認した特定名称純米酒の排他・親子関係を正規化。越乃景虎 純米酒の商品単位の記載を整理。別の特別純米・純米原酒・生酒の値は使わない。",
+        "derivedFrom": "classification.tokuteiMeishoshu"
+      },
+      {
+        "field": "classification.junmaiDaiginjo",
+        "value": false,
+        "sourceUrl": "https://item.rakuten.co.jp/syuraku-shop/11811/",
+        "sourceType": "rakuten_retail",
+        "verifiedAt": "2026-10-17",
+        "meaning": "直接確認した特定名称純米酒の排他・親子関係を正規化。越乃景虎 純米酒の商品単位の記載を整理。別の特別純米・純米原酒・生酒の値は使わない。",
+        "derivedFrom": "classification.tokuteiMeishoshu"
+      },
+      {
+        "field": "classification.ginjoFamily",
+        "value": false,
+        "sourceUrl": "https://item.rakuten.co.jp/syuraku-shop/11811/",
+        "sourceType": "rakuten_retail",
+        "verifiedAt": "2026-10-17",
+        "meaning": "直接確認した特定名称純米酒の排他・親子関係を正規化。越乃景虎 純米酒の商品単位の記載を整理。別の特別純米・純米原酒・生酒の値は使わない。",
+        "derivedFrom": "classification.tokuteiMeishoshu"
+      },
+      {
+        "field": "classification.daiginjoFamily",
+        "value": false,
+        "sourceUrl": "https://item.rakuten.co.jp/syuraku-shop/11811/",
+        "sourceType": "rakuten_retail",
+        "verifiedAt": "2026-10-17",
+        "meaning": "直接確認した特定名称純米酒の排他・親子関係を正規化。越乃景虎 純米酒の商品単位の記載を整理。別の特別純米・純米原酒・生酒の値は使わない。",
+        "derivedFrom": "classification.tokuteiMeishoshu"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://item.rakuten.co.jp/syuraku-shop/11811/",
+        "type": "specialty_retailer",
+        "scope": "product",
+        "name": "酒楽SHOP 越乃景虎 純米酒",
+        "verifiedAt": "2026-10-17"
+      },
+      {
+        "url": "https://www.sakesake.com/item/kurabetu1/19/1-19-5.html",
+        "type": "specialty_retailer",
+        "scope": "product",
+        "name": "地酒サンマート 越乃景虎 純米酒",
+        "verifiedAt": "2026-10-17"
+      },
+      {
+        "url": "https://www.niigata-sake.or.jp/kuramoto/morohashi",
+        "type": "industry",
+        "scope": "brewery_identity_only",
+        "name": "新潟県酒造組合 諸橋酒造",
+        "verifiedAt": "2026-10-17"
+      }
+    ],
+    "servingTemperatures": [
+      "冷や",
+      "ぬる燗"
+    ],
+    "recommendedTemperatureRange": [],
+    "temperatureRecommendations": [],
+    "officialPairings": [],
+    "pairingEvidence": [],
+    "vintage": null,
+    "needsIdentification": false,
+    "dataConfidence": "medium",
+    "researchStatus": "researched",
+    "lastVerifiedAt": "2026-10-17",
+    "researchPhase": "3",
+    "auditPhase": "3",
+    "sourceAttempts": [],
+    "auditNotes": [],
+    "aromaNotes": [],
+    "tasteNotes": [],
+    "featureTags": [
+      "米の旨味",
+      "まろやか",
+      "すっきりした後口"
+    ],
+    "shortDescription": "やさしい香りと、まろやかな米の旨み。後口はすっきりとした純米酒です。"
+  },
+  "candidate": {
+    "candidateProductId": "candidate-68df239216be16a4",
+    "breweryId": "brewery-097994689d4675ad",
+    "breweryName": "諸橋酒造",
+    "prefecture": "新潟県",
+    "region": null,
+    "city": null,
+    "officialUrl": null,
+    "brand": "越乃景虎",
+    "candidateProductName": "越乃景虎 こしのかげとら 純米酒 720ml 新潟県 諸橋酒造 日本酒 コンビニ受取対応商品 あす楽 お酒 お歳暮 プレゼント",
+    "formalProductName": "越乃景虎 純米酒",
+    "state": "PAIRING_READY",
+    "discoverySource": "rakuten_api",
+    "sourceCommit": "d136f30ca3759d81980420b7ca0c7ecb9369d301",
+    "breweryIdentityStatus": "RETAIL_MENTION_REQUIRES_INDEPENDENT_CONFIRMATION",
+    "breweryUnlistedStatus": "NORMALIZED_REGISTERED_NAME_NOT_FOUND_NOT_CORPORATE_GROUP_AUDIT",
+    "rakutenCandidates": [
+      {
+        "itemCode": "syuraku-shop:10000236",
+        "name": "越乃景虎 こしのかげとら 純米酒 720ml 新潟県 諸橋酒造 日本酒 コンビニ受取対応商品 あす楽 お酒 お歳暮 プレゼント",
+        "normalUrl": "https://item.rakuten.co.jp/syuraku-shop/11811/",
+        "shop": "酒楽SHOP",
+        "capacityDecision": "NOT_INDEPENDENTLY_REVIEWED",
+        "apiAvailability": 1
+      }
+    ],
+    "selectedItemCode": "syuraku-shop:10000236",
+    "normalUrl": "https://item.rakuten.co.jp/syuraku-shop/11811/",
+    "capacityMl": 720,
+    "productType": "純米酒",
+    "seasonality": [],
+    "officialEvidence": [
+      {
+        "sourceType": "industry",
+        "sourceUrl": "https://www.niigata-sake.or.jp/kuramoto/morohashi",
+        "checkedAt": "2026-10-16T15:15:59.832Z",
+        "retrieved": true,
+        "scope": "brewery_identity_only"
+      }
+    ],
+    "retailerEvidence": [
+      {
+        "sourceType": "rakuten_retail",
+        "sourceUrl": "https://item.rakuten.co.jp/syuraku-shop/11811/",
+        "checkedAt": "2026-10-16T14:43:41.775Z",
+        "retrieved": true,
+        "scope": "API description only; live product page and independent SKU review still required",
+        "producerMention": true
+      }
+    ],
+    "communityEvidence": [
+      {
+        "evidenceId": "kagetora-review-395123",
+        "skuId": "koshino-kagetora-junmai-standard-v1",
+        "sourceType": "review",
+        "sourceUrl": "https://www.saketime.jp/reviews/395123/",
+        "checkedAt": "2026-10-16T15:15:59.832Z",
+        "publishedAt": "2026-09-24",
+        "retrieved": true,
+        "skuMatch": true,
+        "versionMatched": true,
+        "versionScope": "定番純米酒の表記と65%/15〜16度が対応。製造ロット一致は未確認。",
+        "experienced": true,
+        "specificTasting": true,
+        "independenceGroup": "saketime-review-395123",
+        "contentFingerprint": "saketime-review-395123",
+        "traits": [
+          {
+            "field": "umami",
+            "value": "旨味"
+          },
+          {
+            "field": "bitterness",
+            "value": "苦味"
+          },
+          {
+            "field": "acidity",
+            "value": "酸味"
+          }
+        ],
+        "pairings": [],
+        "temperatures": [],
+        "summary": "開栓後、日を置いて飲むうちに旨みの印象が変わったという感想。",
+        "notVerified": true
+      },
+      {
+        "evidenceId": "kagetora-blog-20260520",
+        "skuId": "koshino-kagetora-junmai-standard-v1",
+        "sourceType": "review",
+        "sourceUrl": "https://www.seihiguchi.com/2026/05/blog-post.html",
+        "checkedAt": "2026-10-16T15:15:59.832Z",
+        "publishedAt": "2026-05-20",
+        "retrieved": true,
+        "skuMatch": true,
+        "versionMatched": null,
+        "versionScope": "定番純米酒の名称のみ。現行ラベル・仕様の独立照合は未完了。",
+        "experienced": true,
+        "specificTasting": true,
+        "independenceGroup": "seihiguchi.com",
+        "contentFingerprint": "kagetora-blog-20260520",
+        "traits": [
+          {
+            "field": "body",
+            "value": "バランス"
+          }
+        ],
+        "summary": "食事とともに飲み、まとまりのよさを感じたという感想。",
+        "pairings": [],
+        "temperatures": [],
+        "notVerified": true
+      },
+      {
+        "evidenceId": "kagetora-rakuten-temperature-20240110",
+        "skuId": "koshino-kagetora-junmai-standard-v1",
+        "sourceType": "rakuten_review",
+        "sourceUrl": "https://item.rakuten.co.jp/syuraku-shop/11811/",
+        "checkedAt": "2026-10-16T15:15:59.832Z",
+        "publishedAt": "2024-01-10",
+        "retrieved": true,
+        "skuMatch": true,
+        "versionMatched": null,
+        "versionScope": "当該単品ページの購入者レビュー。製造年度不明のため温度の補助情報のみ。",
+        "experienced": true,
+        "specificTasting": true,
+        "independenceGroup": "rakuten-review-temperature-20240110",
+        "contentFingerprint": "kagetora-rakuten-temperature-20240110",
+        "traits": [],
+        "temperatures": [
+          "温燗"
+        ],
+        "pairings": [],
+        "summary": "温めて飲んだ際に好印象だったという声。",
+        "notVerified": true
+      }
+    ],
+    "sensoryEvidence": [
+      {
+        "evidenceId": "kagetora-review-395123",
+        "skuId": "koshino-kagetora-junmai-standard-v1",
+        "sourceType": "review",
+        "sourceUrl": "https://www.saketime.jp/reviews/395123/",
+        "checkedAt": "2026-10-16T15:15:59.832Z",
+        "publishedAt": "2026-09-24",
+        "retrieved": true,
+        "skuMatch": true,
+        "versionMatched": true,
+        "versionScope": "定番純米酒の表記と65%/15〜16度が対応。製造ロット一致は未確認。",
+        "experienced": true,
+        "specificTasting": true,
+        "independenceGroup": "saketime-review-395123",
+        "contentFingerprint": "saketime-review-395123",
+        "traits": [
+          {
+            "field": "umami",
+            "value": "旨味"
+          },
+          {
+            "field": "bitterness",
+            "value": "苦味"
+          },
+          {
+            "field": "acidity",
+            "value": "酸味"
+          }
+        ],
+        "pairings": [],
+        "temperatures": [],
+        "summary": "開栓後、日を置いて飲むうちに旨みの印象が変わったという感想。",
+        "notVerified": true
+      },
+      {
+        "evidenceId": "kagetora-blog-20260520",
+        "skuId": "koshino-kagetora-junmai-standard-v1",
+        "sourceType": "review",
+        "sourceUrl": "https://www.seihiguchi.com/2026/05/blog-post.html",
+        "checkedAt": "2026-10-16T15:15:59.832Z",
+        "publishedAt": "2026-05-20",
+        "retrieved": true,
+        "skuMatch": true,
+        "versionMatched": null,
+        "versionScope": "定番純米酒の名称のみ。現行ラベル・仕様の独立照合は未完了。",
+        "experienced": true,
+        "specificTasting": true,
+        "independenceGroup": "seihiguchi.com",
+        "contentFingerprint": "kagetora-blog-20260520",
+        "traits": [
+          {
+            "field": "body",
+            "value": "バランス"
+          }
+        ],
+        "summary": "食事とともに飲み、まとまりのよさを感じたという感想。",
+        "pairings": [],
+        "temperatures": [],
+        "notVerified": true
+      },
+      {
+        "evidenceId": "kagetora-rakuten-temperature-20240110",
+        "skuId": "koshino-kagetora-junmai-standard-v1",
+        "sourceType": "rakuten_review",
+        "sourceUrl": "https://item.rakuten.co.jp/syuraku-shop/11811/",
+        "checkedAt": "2026-10-16T15:15:59.832Z",
+        "publishedAt": "2024-01-10",
+        "retrieved": true,
+        "skuMatch": true,
+        "versionMatched": null,
+        "versionScope": "当該単品ページの購入者レビュー。製造年度不明のため温度の補助情報のみ。",
+        "experienced": true,
+        "specificTasting": true,
+        "independenceGroup": "rakuten-review-temperature-20240110",
+        "contentFingerprint": "kagetora-rakuten-temperature-20240110",
+        "traits": [],
+        "temperatures": [
+          "温燗"
+        ],
+        "pairings": [],
+        "summary": "温めて飲んだ際に好印象だったという声。",
+        "notVerified": true
+      }
+    ],
+    "sensoryConsensus": {
+      "fields": {
+        "sweetness": {
+          "value": null,
+          "confidence": "low",
+          "evidenceIds": [],
+          "independentSources": 0,
+          "contested": false
+        },
+        "acidity": {
+          "value": null,
+          "confidence": "low",
+          "evidenceIds": [
+            "kagetora-review-395123"
+          ],
+          "independentSources": 1,
+          "contested": false
+        },
+        "umami": {
+          "value": null,
+          "confidence": "low",
+          "evidenceIds": [
+            "kagetora-review-395123"
+          ],
+          "independentSources": 1,
+          "contested": false
+        },
+        "aroma": {
+          "value": null,
+          "confidence": "low",
+          "evidenceIds": [],
+          "independentSources": 0,
+          "contested": false
+        },
+        "body": {
+          "value": null,
+          "confidence": "low",
+          "evidenceIds": [],
+          "independentSources": 0,
+          "contested": false
+        },
+        "finish": {
+          "value": null,
+          "confidence": "low",
+          "evidenceIds": [],
+          "independentSources": 0,
+          "contested": false
+        },
+        "bitterness": {
+          "value": null,
+          "confidence": "low",
+          "evidenceIds": [
+            "kagetora-review-395123"
+          ],
+          "independentSources": 1,
+          "contested": false
+        },
+        "carbonation": {
+          "value": null,
+          "confidence": "low",
+          "evidenceIds": [],
+          "independentSources": 0,
+          "contested": false
+        },
+        "alcoholImpression": {
+          "value": null,
+          "confidence": "low",
+          "evidenceIds": [],
+          "independentSources": 0,
+          "contested": false
+        }
+      },
+      "acceptedEvidenceIds": [
+        "kagetora-review-395123"
+      ],
+      "excluded": [
+        {
+          "evidenceId": "kagetora-blog-20260520",
+          "reason": "SKU_OR_VERSION_UNCONFIRMED"
+        },
+        {
+          "evidenceId": "kagetora-rakuten-temperature-20240110",
+          "reason": "SKU_OR_VERSION_UNCONFIRMED"
+        }
+      ],
+      "provenance": "editorial_sensory_consensus",
+      "notVerifiedSpecifications": true
+    },
+    "communityPairings": [],
+    "editorialPairings": [
+      {
+        "dish": "焼き魚",
+        "reason": "焼き魚の香ばしさに、まろやかな米の旨みを。すっきりした後口とともに、交互に味わう組み合わせです。",
+        "provenance": "yoiEditorial",
+        "sourceUrls": [
+          "https://www.sakesake.com/item/kurabetu1/19/1-19-5.html",
+          "https://item.rakuten.co.jp/syuraku-shop/11811/"
+        ],
+        "sourceScope": "Sake characteristics are sourced. Dishes are new Yoi editorial proposals, not official or community recommendations."
+      },
+      {
+        "dish": "湯豆腐",
+        "reason": "湯豆腐の穏やかな味わいに、やわらかな口当たりを重ねて。鍋を囲んでゆっくり楽しむ一杯です。",
+        "provenance": "yoiEditorial",
+        "sourceUrls": [
+          "https://www.sakesake.com/item/kurabetu1/19/1-19-5.html",
+          "https://item.rakuten.co.jp/syuraku-shop/11811/"
+        ],
+        "sourceScope": "Sake characteristics are sourced. Dishes are new Yoi editorial proposals, not official or community recommendations."
+      },
+      {
+        "dish": "肉じゃが",
+        "reason": "肉じゃがをつまみながら、米の旨みをゆっくり。すっきりした後口が、次のひと口につなぎます。",
+        "provenance": "yoiEditorial",
+        "sourceUrls": [
+          "https://www.sakesake.com/item/kurabetu1/19/1-19-5.html",
+          "https://item.rakuten.co.jp/syuraku-shop/11811/"
+        ],
+        "sourceScope": "Sake characteristics are sourced. Dishes are new Yoi editorial proposals, not official or community recommendations."
+      }
+    ],
+    "officialPairings": [],
+    "officialTemperature": [],
+    "communityTemperature": [],
+    "specStatus": "SPEC_READY",
+    "sensoryStatus": "SENSORY_READY",
+    "pairingStatus": "PAIRING_READY",
+    "commercialStatus": "LIVE_PURCHASE_CONFIRMED",
+    "imageStatus": "FORMAL_IMAGE_CAPTURED_VALIDATION_PENDING",
+    "holdReason": [
+      "Formal image/link validation and local QA pending"
+    ],
+    "identityDecision": {
+      "breweryConfirmed": true,
+      "productConfirmed": true,
+      "skuConfirmed": true,
+      "majorConflicts": [],
+      "scope": "定番の純米酒。純米原酒・生酒・特別純米と区別。ロットの一致は主張しない。"
+    },
+    "specDecision": null,
+    "sensoryDecision": null,
+    "pairingDecision": null,
+    "commercialDecision": {
+      "checkedAt": "2026-10-16T14:54:30.654Z",
+      "formalAffiliate": false,
+      "sameSku": true
+    },
+    "catalogDecision": "LOCAL_QA_PENDING",
+    "differenceNotes": [
+      {
+        "field": "riceVariety",
+        "officialValue": null,
+        "retailObservedValue": [
+          "五百万石",
+          "五百万石・地米"
+        ],
+        "differenceNote": "蔵元の主要仕様は未確認。酒楽SHOPは五百万石、サンマートは五百万石・地米。原料米シリーズの違いを示す名称差はなく、五百万石100%とはしない。"
+      }
+    ],
+    "confidence": "medium",
+    "lastCheckedAt": "2026-10-16T15:15:59.832Z",
+    "officialIndividualProductPage": "NOT_CONFIRMED",
+    "specConfidence": "medium",
+    "specEvidence": [
+      {
+        "sourceUrl": "https://item.rakuten.co.jp/syuraku-shop/11811/",
+        "sourceType": "rakuten_retail",
+        "checkedAt": "2026-10-16T15:15:59.832Z",
+        "retrieved": true
+      },
+      {
+        "sourceUrl": "https://www.sakesake.com/item/kurabetu1/19/1-19-5.html",
+        "sourceType": "specialty_retailer",
+        "checkedAt": "2026-10-16T15:15:59.832Z",
+        "retrieved": true
+      }
+    ],
+    "sensoryConfidence": "medium",
+    "sensoryReadinessBasis": "Two product-specific specialty retailer descriptions; community consensus is separately low and does not replace these facts.",
+    "nightEvidence": [
+      {
+        "nightId": "after-work",
+        "score": 27,
+        "signals": [
+          {
+            "axis": "umami",
+            "value": "米の旨味",
+            "sourceUrl": "https://www.sakesake.com/item/kurabetu1/19/1-19-5.html"
+          }
+        ],
+        "temperatureMatch": false,
+        "temperatureSourceUrls": [],
+        "provenance": "editorialPreferenceFromSourcedFacts",
+        "override": null
+      },
+      {
+        "nightId": "quiet",
+        "score": 27,
+        "signals": [
+          {
+            "axis": "soft",
+            "value": "まろやか",
+            "sourceUrl": "https://www.sakesake.com/item/kurabetu1/19/1-19-5.html"
+          }
+        ],
+        "temperatureMatch": false,
+        "temperatureSourceUrls": [],
+        "provenance": "editorialPreferenceFromSourcedFacts",
+        "override": null
+      },
+      {
+        "nightId": "just-one",
+        "score": 27,
+        "signals": [
+          {
+            "axis": "clean",
+            "value": "すっきりした後口",
+            "sourceUrl": "https://www.sakesake.com/item/kurabetu1/19/1-19-5.html"
+          }
+        ],
+        "temperatureMatch": false,
+        "temperatureSourceUrls": [],
+        "provenance": "editorialPreferenceFromSourcedFacts",
+        "override": null
+      },
+      {
+        "nightId": "dinner",
+        "score": 20,
+        "signals": [
+          {
+            "axis": "umami",
+            "value": "米の旨味",
+            "sourceUrl": "https://www.sakesake.com/item/kurabetu1/19/1-19-5.html"
+          }
+        ],
+        "temperatureMatch": false,
+        "temperatureSourceUrls": [],
+        "provenance": "editorialPreferenceFromSourcedFacts",
+        "override": null
+      },
+      {
+        "nightId": "reset",
+        "score": 27,
+        "signals": [
+          {
+            "axis": "clean",
+            "value": "すっきりした後口",
+            "sourceUrl": "https://www.sakesake.com/item/kurabetu1/19/1-19-5.html"
+          }
+        ],
+        "temperatureMatch": false,
+        "temperatureSourceUrls": [],
+        "provenance": "editorialPreferenceFromSourcedFacts",
+        "override": null
+      },
+      {
+        "nightId": "lingering",
+        "score": 20,
+        "signals": [
+          {
+            "axis": "umami",
+            "value": "米の旨味",
+            "sourceUrl": "https://www.sakesake.com/item/kurabetu1/19/1-19-5.html"
+          }
+        ],
+        "temperatureMatch": false,
+        "temperatureSourceUrls": [],
+        "provenance": "editorialPreferenceFromSourcedFacts",
+        "override": null
+      },
+      {
+        "nightId": "ordinary",
+        "score": 27,
+        "signals": [
+          {
+            "axis": "umami",
+            "value": "米の旨味",
+            "sourceUrl": "https://www.sakesake.com/item/kurabetu1/19/1-19-5.html"
+          }
+        ],
+        "temperatureMatch": false,
+        "temperatureSourceUrls": [],
+        "provenance": "editorialPreferenceFromSourcedFacts",
+        "override": null
+      },
+      {
+        "nightId": "spring",
+        "score": 27,
+        "signals": [
+          {
+            "axis": "soft",
+            "value": "まろやか",
+            "sourceUrl": "https://www.sakesake.com/item/kurabetu1/19/1-19-5.html"
+          }
+        ],
+        "temperatureMatch": false,
+        "temperatureSourceUrls": [],
+        "provenance": "editorialPreferenceFromSourcedFacts",
+        "override": null
+      },
+      {
+        "nightId": "rain",
+        "score": 53,
+        "signals": [
+          {
+            "axis": "soft",
+            "value": "まろやか",
+            "sourceUrl": "https://www.sakesake.com/item/kurabetu1/19/1-19-5.html"
+          },
+          {
+            "axis": "umami",
+            "value": "米の旨味",
+            "sourceUrl": "https://www.sakesake.com/item/kurabetu1/19/1-19-5.html"
+          }
+        ],
+        "temperatureMatch": false,
+        "temperatureSourceUrls": [],
+        "provenance": "editorialPreferenceFromSourcedFacts",
+        "override": null
+      },
+      {
+        "nightId": "humid",
+        "score": 27,
+        "signals": [
+          {
+            "axis": "clean",
+            "value": "すっきりした後口",
+            "sourceUrl": "https://www.sakesake.com/item/kurabetu1/19/1-19-5.html"
+          }
+        ],
+        "temperatureMatch": false,
+        "temperatureSourceUrls": [],
+        "provenance": "editorialPreferenceFromSourcedFacts",
+        "override": null
+      },
+      {
+        "nightId": "festival",
+        "score": 27,
+        "signals": [
+          {
+            "axis": "clean",
+            "value": "すっきりした後口",
+            "sourceUrl": "https://www.sakesake.com/item/kurabetu1/19/1-19-5.html"
+          }
+        ],
+        "temperatureMatch": false,
+        "temperatureSourceUrls": [],
+        "provenance": "editorialPreferenceFromSourcedFacts",
+        "override": null
+      },
+      {
+        "nightId": "autumn",
+        "score": 73,
+        "signals": [
+          {
+            "axis": "umami",
+            "value": "米の旨味",
+            "sourceUrl": "https://www.sakesake.com/item/kurabetu1/19/1-19-5.html"
+          },
+          {
+            "axis": "soft",
+            "value": "まろやか",
+            "sourceUrl": "https://www.sakesake.com/item/kurabetu1/19/1-19-5.html"
+          }
+        ],
+        "temperatureMatch": true,
+        "temperatureSourceUrls": [
+          "https://www.sakesake.com/item/kurabetu1/19/1-19-5.html"
+        ],
+        "provenance": "editorialPreferenceFromSourcedFacts",
+        "override": null
+      },
+      {
+        "nightId": "cold",
+        "score": 60,
+        "signals": [
+          {
+            "axis": "umami",
+            "value": "米の旨味",
+            "sourceUrl": "https://www.sakesake.com/item/kurabetu1/19/1-19-5.html"
+          }
+        ],
+        "temperatureMatch": true,
+        "temperatureSourceUrls": [
+          "https://www.sakesake.com/item/kurabetu1/19/1-19-5.html"
+        ],
+        "provenance": "editorialPreferenceFromSourcedFacts",
+        "override": null
+      },
+      {
+        "nightId": "snow",
+        "score": 73,
+        "signals": [
+          {
+            "axis": "soft",
+            "value": "まろやか",
+            "sourceUrl": "https://www.sakesake.com/item/kurabetu1/19/1-19-5.html"
+          },
+          {
+            "axis": "umami",
+            "value": "米の旨味",
+            "sourceUrl": "https://www.sakesake.com/item/kurabetu1/19/1-19-5.html"
+          }
+        ],
+        "temperatureMatch": true,
+        "temperatureSourceUrls": [
+          "https://www.sakesake.com/item/kurabetu1/19/1-19-5.html"
+        ],
+        "provenance": "editorialPreferenceFromSourcedFacts",
+        "override": null
+      },
+      {
+        "nightId": "year-end",
+        "score": 20,
+        "signals": [
+          {
+            "axis": "umami",
+            "value": "米の旨味",
+            "sourceUrl": "https://www.sakesake.com/item/kurabetu1/19/1-19-5.html"
+          }
+        ],
+        "temperatureMatch": false,
+        "temperatureSourceUrls": [],
+        "provenance": "editorialPreferenceFromSourcedFacts",
+        "override": null
+      }
+    ],
+    "duplicateChecked": true,
+    "qaPassed": false,
+    "publishedSakeId": "koshino-kagetora-junmai-standard-v1",
+    "imageDecision": {
+      "sameSku": true,
+      "capacityMl": 720,
+      "originalUnmodified": true,
+      "originalSha256": "dbc25becf942198763550c7bb145c0371b8319d1569dca814da78e6cd42d7e05",
+      "validUntil": "2026-11-15T15:04:16.425Z"
+    }
+  },
+  "nightEvidence": [
+    {
+      "nightId": "after-work",
+      "score": 27,
+      "signals": [
+        {
+          "axis": "umami",
+          "value": "米の旨味",
+          "sourceUrl": "https://www.sakesake.com/item/kurabetu1/19/1-19-5.html"
+        }
+      ],
+      "temperatureMatch": false,
+      "temperatureSourceUrls": [],
+      "provenance": "editorialPreferenceFromSourcedFacts",
+      "override": null
+    },
+    {
+      "nightId": "quiet",
+      "score": 27,
+      "signals": [
+        {
+          "axis": "soft",
+          "value": "まろやか",
+          "sourceUrl": "https://www.sakesake.com/item/kurabetu1/19/1-19-5.html"
+        }
+      ],
+      "temperatureMatch": false,
+      "temperatureSourceUrls": [],
+      "provenance": "editorialPreferenceFromSourcedFacts",
+      "override": null
+    },
+    {
+      "nightId": "just-one",
+      "score": 27,
+      "signals": [
+        {
+          "axis": "clean",
+          "value": "すっきりした後口",
+          "sourceUrl": "https://www.sakesake.com/item/kurabetu1/19/1-19-5.html"
+        }
+      ],
+      "temperatureMatch": false,
+      "temperatureSourceUrls": [],
+      "provenance": "editorialPreferenceFromSourcedFacts",
+      "override": null
+    },
+    {
+      "nightId": "dinner",
+      "score": 20,
+      "signals": [
+        {
+          "axis": "umami",
+          "value": "米の旨味",
+          "sourceUrl": "https://www.sakesake.com/item/kurabetu1/19/1-19-5.html"
+        }
+      ],
+      "temperatureMatch": false,
+      "temperatureSourceUrls": [],
+      "provenance": "editorialPreferenceFromSourcedFacts",
+      "override": null
+    },
+    {
+      "nightId": "reset",
+      "score": 27,
+      "signals": [
+        {
+          "axis": "clean",
+          "value": "すっきりした後口",
+          "sourceUrl": "https://www.sakesake.com/item/kurabetu1/19/1-19-5.html"
+        }
+      ],
+      "temperatureMatch": false,
+      "temperatureSourceUrls": [],
+      "provenance": "editorialPreferenceFromSourcedFacts",
+      "override": null
+    },
+    {
+      "nightId": "lingering",
+      "score": 20,
+      "signals": [
+        {
+          "axis": "umami",
+          "value": "米の旨味",
+          "sourceUrl": "https://www.sakesake.com/item/kurabetu1/19/1-19-5.html"
+        }
+      ],
+      "temperatureMatch": false,
+      "temperatureSourceUrls": [],
+      "provenance": "editorialPreferenceFromSourcedFacts",
+      "override": null
+    },
+    {
+      "nightId": "ordinary",
+      "score": 27,
+      "signals": [
+        {
+          "axis": "umami",
+          "value": "米の旨味",
+          "sourceUrl": "https://www.sakesake.com/item/kurabetu1/19/1-19-5.html"
+        }
+      ],
+      "temperatureMatch": false,
+      "temperatureSourceUrls": [],
+      "provenance": "editorialPreferenceFromSourcedFacts",
+      "override": null
+    },
+    {
+      "nightId": "spring",
+      "score": 27,
+      "signals": [
+        {
+          "axis": "soft",
+          "value": "まろやか",
+          "sourceUrl": "https://www.sakesake.com/item/kurabetu1/19/1-19-5.html"
+        }
+      ],
+      "temperatureMatch": false,
+      "temperatureSourceUrls": [],
+      "provenance": "editorialPreferenceFromSourcedFacts",
+      "override": null
+    },
+    {
+      "nightId": "rain",
+      "score": 53,
+      "signals": [
+        {
+          "axis": "soft",
+          "value": "まろやか",
+          "sourceUrl": "https://www.sakesake.com/item/kurabetu1/19/1-19-5.html"
+        },
+        {
+          "axis": "umami",
+          "value": "米の旨味",
+          "sourceUrl": "https://www.sakesake.com/item/kurabetu1/19/1-19-5.html"
+        }
+      ],
+      "temperatureMatch": false,
+      "temperatureSourceUrls": [],
+      "provenance": "editorialPreferenceFromSourcedFacts",
+      "override": null
+    },
+    {
+      "nightId": "humid",
+      "score": 27,
+      "signals": [
+        {
+          "axis": "clean",
+          "value": "すっきりした後口",
+          "sourceUrl": "https://www.sakesake.com/item/kurabetu1/19/1-19-5.html"
+        }
+      ],
+      "temperatureMatch": false,
+      "temperatureSourceUrls": [],
+      "provenance": "editorialPreferenceFromSourcedFacts",
+      "override": null
+    },
+    {
+      "nightId": "festival",
+      "score": 27,
+      "signals": [
+        {
+          "axis": "clean",
+          "value": "すっきりした後口",
+          "sourceUrl": "https://www.sakesake.com/item/kurabetu1/19/1-19-5.html"
+        }
+      ],
+      "temperatureMatch": false,
+      "temperatureSourceUrls": [],
+      "provenance": "editorialPreferenceFromSourcedFacts",
+      "override": null
+    },
+    {
+      "nightId": "autumn",
+      "score": 73,
+      "signals": [
+        {
+          "axis": "umami",
+          "value": "米の旨味",
+          "sourceUrl": "https://www.sakesake.com/item/kurabetu1/19/1-19-5.html"
+        },
+        {
+          "axis": "soft",
+          "value": "まろやか",
+          "sourceUrl": "https://www.sakesake.com/item/kurabetu1/19/1-19-5.html"
+        }
+      ],
+      "temperatureMatch": true,
+      "temperatureSourceUrls": [
+        "https://www.sakesake.com/item/kurabetu1/19/1-19-5.html"
+      ],
+      "provenance": "editorialPreferenceFromSourcedFacts",
+      "override": null
+    },
+    {
+      "nightId": "cold",
+      "score": 60,
+      "signals": [
+        {
+          "axis": "umami",
+          "value": "米の旨味",
+          "sourceUrl": "https://www.sakesake.com/item/kurabetu1/19/1-19-5.html"
+        }
+      ],
+      "temperatureMatch": true,
+      "temperatureSourceUrls": [
+        "https://www.sakesake.com/item/kurabetu1/19/1-19-5.html"
+      ],
+      "provenance": "editorialPreferenceFromSourcedFacts",
+      "override": null
+    },
+    {
+      "nightId": "snow",
+      "score": 73,
+      "signals": [
+        {
+          "axis": "soft",
+          "value": "まろやか",
+          "sourceUrl": "https://www.sakesake.com/item/kurabetu1/19/1-19-5.html"
+        },
+        {
+          "axis": "umami",
+          "value": "米の旨味",
+          "sourceUrl": "https://www.sakesake.com/item/kurabetu1/19/1-19-5.html"
+        }
+      ],
+      "temperatureMatch": true,
+      "temperatureSourceUrls": [
+        "https://www.sakesake.com/item/kurabetu1/19/1-19-5.html"
+      ],
+      "provenance": "editorialPreferenceFromSourcedFacts",
+      "override": null
+    },
+    {
+      "nightId": "year-end",
+      "score": 20,
+      "signals": [
+        {
+          "axis": "umami",
+          "value": "米の旨味",
+          "sourceUrl": "https://www.sakesake.com/item/kurabetu1/19/1-19-5.html"
+        }
+      ],
+      "temperatureMatch": false,
+      "temperatureSourceUrls": [],
+      "provenance": "editorialPreferenceFromSourcedFacts",
+      "override": null
+    }
+  ],
+  "verifiedSpecsNotFromReviews": true,
+  "minorDifferences": 1,
+  "majorDifferencesExcluded": 0
+}

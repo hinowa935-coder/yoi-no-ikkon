@@ -1,0 +1,188 @@
+{
+  "skuId": "koshino-kagetora-junmai-standard-v1",
+  "evidence": [
+    {
+      "evidenceId": "kagetora-review-395123",
+      "skuId": "koshino-kagetora-junmai-standard-v1",
+      "sourceType": "review",
+      "sourceUrl": "https://www.saketime.jp/reviews/395123/",
+      "checkedAt": "2026-10-16T15:15:59.832Z",
+      "publishedAt": "2026-09-24",
+      "retrieved": true,
+      "skuMatch": true,
+      "versionMatched": true,
+      "versionScope": "定番純米酒の表記と65%/15〜16度が対応。製造ロット一致は未確認。",
+      "experienced": true,
+      "specificTasting": true,
+      "independenceGroup": "saketime-review-395123",
+      "contentFingerprint": "saketime-review-395123",
+      "traits": [
+        {
+          "field": "umami",
+          "value": "旨味"
+        },
+        {
+          "field": "bitterness",
+          "value": "苦味"
+        },
+        {
+          "field": "acidity",
+          "value": "酸味"
+        }
+      ],
+      "pairings": [],
+      "temperatures": [],
+      "summary": "開栓後、日を置いて飲むうちに旨みの印象が変わったという感想。",
+      "notVerified": true
+    },
+    {
+      "evidenceId": "kagetora-blog-20260520",
+      "skuId": "koshino-kagetora-junmai-standard-v1",
+      "sourceType": "review",
+      "sourceUrl": "https://www.seihiguchi.com/2026/05/blog-post.html",
+      "checkedAt": "2026-10-16T15:15:59.832Z",
+      "publishedAt": "2026-05-20",
+      "retrieved": true,
+      "skuMatch": true,
+      "versionMatched": null,
+      "versionScope": "定番純米酒の名称のみ。現行ラベル・仕様の独立照合は未完了。",
+      "experienced": true,
+      "specificTasting": true,
+      "independenceGroup": "seihiguchi.com",
+      "contentFingerprint": "kagetora-blog-20260520",
+      "traits": [
+        {
+          "field": "body",
+          "value": "バランス"
+        }
+      ],
+      "summary": "食事とともに飲み、まとまりのよさを感じたという感想。",
+      "pairings": [],
+      "temperatures": [],
+      "notVerified": true
+    },
+    {
+      "evidenceId": "kagetora-rakuten-temperature-20240110",
+      "skuId": "koshino-kagetora-junmai-standard-v1",
+      "sourceType": "rakuten_review",
+      "sourceUrl": "https://item.rakuten.co.jp/syuraku-shop/11811/",
+      "checkedAt": "2026-10-16T15:15:59.832Z",
+      "publishedAt": "2024-01-10",
+      "retrieved": true,
+      "skuMatch": true,
+      "versionMatched": null,
+      "versionScope": "当該単品ページの購入者レビュー。製造年度不明のため温度の補助情報のみ。",
+      "experienced": true,
+      "specificTasting": true,
+      "independenceGroup": "rakuten-review-temperature-20240110",
+      "contentFingerprint": "kagetora-rakuten-temperature-20240110",
+      "traits": [],
+      "temperatures": [
+        "温燗"
+      ],
+      "pairings": [],
+      "summary": "温めて飲んだ際に好印象だったという声。",
+      "notVerified": true
+    }
+  ],
+  "consensus": {
+    "fields": {
+      "sweetness": {
+        "value": null,
+        "confidence": "low",
+        "evidenceIds": [],
+        "independentSources": 0,
+        "contested": false
+      },
+      "acidity": {
+        "value": null,
+        "confidence": "low",
+        "evidenceIds": [
+          "kagetora-review-395123"
+        ],
+        "independentSources": 1,
+        "contested": false
+      },
+      "umami": {
+        "value": null,
+        "confidence": "low",
+        "evidenceIds": [
+          "kagetora-review-395123"
+        ],
+        "independentSources": 1,
+        "contested": false
+      },
+      "aroma": {
+        "value": null,
+        "confidence": "low",
+        "evidenceIds": [],
+        "independentSources": 0,
+        "contested": false
+      },
+      "body": {
+        "value": null,
+        "confidence": "low",
+        "evidenceIds": [],
+        "independentSources": 0,
+        "contested": false
+      },
+      "finish": {
+        "value": null,
+        "confidence": "low",
+        "evidenceIds": [],
+        "independentSources": 0,
+        "contested": false
+      },
+      "bitterness": {
+        "value": null,
+        "confidence": "low",
+        "evidenceIds": [
+          "kagetora-review-395123"
+        ],
+        "independentSources": 1,
+        "contested": false
+      },
+      "carbonation": {
+        "value": null,
+        "confidence": "low",
+        "evidenceIds": [],
+        "independentSources": 0,
+        "contested": false
+      },
+      "alcoholImpression": {
+        "value": null,
+        "confidence": "low",
+        "evidenceIds": [],
+        "independentSources": 0,
+        "contested": false
+      }
+    },
+    "acceptedEvidenceIds": [
+      "kagetora-review-395123"
+    ],
+    "excluded": [
+      {
+        "evidenceId": "kagetora-blog-20260520",
+        "reason": "SKU_OR_VERSION_UNCONFIRMED"
+      },
+      {
+        "evidenceId": "kagetora-rakuten-temperature-20240110",
+        "reason": "SKU_OR_VERSION_UNCONFIRMED"
+      }
+    ],
+    "provenance": "editorial_sensory_consensus",
+    "notVerifiedSpecifications": true
+  },
+  "communityPairings": [],
+  "communityTemperature": [
+    {
+      "values": [
+        "温燗"
+      ],
+      "evidenceId": "kagetora-rakuten-temperature-20240110",
+      "confidence": "low",
+      "notOfficial": true
+    }
+  ],
+  "officialTemperature": []
+}

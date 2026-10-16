@@ -1,0 +1,73 @@
+{
+  "rows": [
+    {
+      "sakeId": "koshino-kagetora-junmai-standard-v1",
+      "normalUrl": "https://item.rakuten.co.jp/syuraku-shop/11811/",
+      "checks": [
+        {
+          "device": "desktop",
+          "status": 200,
+          "exactDestination": true,
+          "stock": {
+            "title": "【楽天市場】越乃景虎 こしのかげとら 純米酒 720ml 新潟県 諸橋酒造 日本酒 コンビニ受取対応商品 あす楽 お酒 お歳暮 プレゼント：酒楽SHOP",
+            "httpStatus": 200,
+            "sameDestination": true,
+            "itemId": "10000236",
+            "itemMatches": true,
+            "purchaseCondition": "enabled",
+            "stockCondition": null,
+            "soldOut": false,
+            "purchaseControls": true,
+            "purchasable": true,
+            "state": "purchase_enabled"
+          },
+          "legacyBrowserConfirmed": false,
+          "purchasable": true,
+          "checkedAt": "2026-10-16T15:02:32.819Z"
+        },
+        {
+          "device": "mobile",
+          "status": 200,
+          "exactDestination": true,
+          "stock": {
+            "title": "【楽天市場】越乃景虎 こしのかげとら 純米酒 720ml 新潟県 諸橋酒造 日本酒 コンビニ受取対応商品 あす楽 お酒 お歳暮 プレゼント : 酒楽SHOP",
+            "httpStatus": 200,
+            "sameDestination": true,
+            "itemId": null,
+            "itemMatches": false,
+            "purchaseCondition": null,
+            "stockCondition": null,
+            "soldOut": false,
+            "purchaseControls": false,
+            "purchasable": false,
+            "state": "item_identity_unconfirmed"
+          },
+          "legacyBrowserConfirmed": false,
+          "purchasable": false,
+          "checkedAt": "2026-10-16T15:02:33.745Z"
+        }
+      ],
+      "image": {
+        "checks": [
+          {
+            "name": "primary",
+            "status": 200,
+            "finalHost": "thumbnail.image.rakuten.co.jp",
+            "passed": true
+          },
+          {
+            "name": "compact",
+            "status": 200,
+            "finalHost": "thumbnail.image.rakuten.co.jp",
+            "passed": true
+          }
+        ],
+        "passed": true
+      },
+      "mobileProductPageConfirmed": true,
+      "stockConfirmedOn": "desktop_or_explicit_single_product_browser_review",
+      "mobileStockIndependentlyParsed": false,
+      "passed": true
+    }
+  ]
+}

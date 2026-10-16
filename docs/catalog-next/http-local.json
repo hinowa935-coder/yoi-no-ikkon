@@ -1,0 +1,77 @@
+{
+  "checkedAt": "2026-10-16T15:31:24.775Z",
+  "base": "http://127.0.0.1:3196",
+  "rows": [
+    {
+      "route": "/",
+      "status": 200,
+      "cspUnchanged": true,
+      "passed": true
+    },
+    {
+      "route": "/about",
+      "status": 200,
+      "cspUnchanged": true,
+      "passed": true
+    },
+    {
+      "route": "/search",
+      "status": 200,
+      "cspUnchanged": true,
+      "passed": true
+    },
+    {
+      "route": "/discover",
+      "status": 200,
+      "cspUnchanged": true,
+      "passed": true
+    },
+    {
+      "route": "/ochoko",
+      "status": 200,
+      "cspUnchanged": true,
+      "passed": true
+    },
+    {
+      "route": "/food",
+      "status": 200,
+      "cspUnchanged": true,
+      "passed": true
+    },
+    {
+      "route": "/sake/koshino-kagetora-junmai-standard-v1",
+      "status": 200,
+      "cspUnchanged": true,
+      "passed": true,
+      "newIdentityPresent": true
+    },
+    {
+      "route": "/sake/ginban-i4si9d",
+      "status": 200,
+      "cspUnchanged": true,
+      "passed": true,
+      "archiveRetained": true
+    },
+    {
+      "route": "/sitemap.xml",
+      "count": 493,
+      "passed": true
+    },
+    {
+      "route": "/.env.local",
+      "status": 404,
+      "passed": true
+    },
+    {
+      "route": "/data/catalog-operations/candidates.json",
+      "status": 404,
+      "passed": true
+    },
+    {
+      "route": "/docs/catalog-next/candidate-pool.json",
+      "status": 404,
+      "passed": true
+    }
+  ],
+  "passed": true
+}

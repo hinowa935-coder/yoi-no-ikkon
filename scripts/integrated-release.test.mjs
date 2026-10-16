@@ -7,6 +7,7 @@ import {sakeDiscoveryHref,sakeDiscoveryContext} from '../src/data/discoveryConte
 import {recordSakeEntry,emitAffiliateClick} from '../src/commerce/entryTracking.js';
 import {matchesSearch} from '../src/data/searchFiltering.js';
 import {migrateFavorites,resolveFavorite} from '../src/data/favoriteReferences.js';
+import {expectedTotalItems} from './lib/catalog-fixture.mjs';
 const read=p=>JSON.parse(fs.readFileSync(p));
 test('every active product can be found by its own name and brewery',()=>{
  for(const item of visibleSakePairings){assert(matchesSearch(item,{keyword:item.productName}),item.id);assert(matchesSearch(item,{keyword:item.brewery}),item.id);}
@@ -35,7 +36,7 @@ test('new 45 identities are unique, sourced and have independent Amazon search d
   const link=links[id].links.find(l=>l.provider==='amazon');assert.equal(new URL(link.url).pathname,'/s');assert.equal(new URL(link.url).searchParams.get('k'),item.productName);assert.equal(link.isAffiliate,false);}
 });
 test('merchant evidence is separate from purchase destinations and capacity is nullable',()=>{
- const records=read('src/commerce/generated/merchant-links.json').records;assert.equal(Object.keys(records).length,492);
+ const records=read('src/commerce/generated/merchant-links.json').records;assert.equal(Object.keys(records).length,expectedTotalItems);
  assert.equal(records['nogomi-tokubetsu-junmai'].type,'E');
  for(const r of Object.values(records)){if(r.type==='E')assert.equal(r.url,null);else assert(r.url?.startsWith('https://'));assert(r.capacityMl===null||r.capacityMl>0);}
 });

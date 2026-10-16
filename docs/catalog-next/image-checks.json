@@ -1,0 +1,39 @@
+{
+  "priorImages": {
+    "checkedAt": "2026-10-16T14:12:20.295Z",
+    "count": 370,
+    "unchanged": true,
+    "unconfirmed": 0,
+    "source": "docs/rakuten-deep-review/images.json"
+  },
+  "newImages": {
+    "products": 1,
+    "originalSizes": [
+      240,
+      80
+    ],
+    "checks": [
+      {
+        "name": "primary",
+        "status": 200,
+        "finalHost": "thumbnail.image.rakuten.co.jp",
+        "passed": true
+      },
+      {
+        "name": "compact",
+        "status": 200,
+        "finalHost": "thumbnail.image.rakuten.co.jp",
+        "passed": true
+      }
+    ]
+  },
+  "newBrowserViewports": [
+    320,
+    360,
+    375,
+    390,
+    430,
+    1280
+  ],
+  "allPriorImagesRecrawled": false
+}

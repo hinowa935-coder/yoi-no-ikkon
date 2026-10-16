@@ -1,0 +1,44 @@
+{
+  "checkedAt": "2026-10-16T15:32:02.048Z",
+  "immutable": [
+    {
+      "file": "src/data/discoveryCatalog.json",
+      "unchanged": true
+    },
+    {
+      "file": "src/data/favoriteReferences.json",
+      "unchanged": true
+    },
+    {
+      "file": "vercel.json",
+      "unchanged": true
+    },
+    {
+      "file": "public/sw.js",
+      "unchanged": true
+    },
+    {
+      "file": "public/manifest.webmanifest",
+      "unchanged": true
+    }
+  ],
+  "originalProducts": 492,
+  "originalLinks": 378,
+  "originalImages": 370,
+  "originalApprovalCount": 370,
+  "ignored": true,
+  "noTrackedEnv": true,
+  "secrets": {
+    "scannedFiles": 7168,
+    "unreadableFiles": 0,
+    "findings": [],
+    "passed": true,
+    "configuredValuesChecked": [
+      "RAKUTEN_APPLICATION_ID",
+      "RAKUTEN_ACCESS_KEY",
+      "RAKUTEN_AFFILIATE_ID"
+    ],
+    "limitation": null
+  },
+  "passed": true
+}

@@ -1,0 +1,113 @@
+{
+  "checkedAt": "2026-10-16T15:32:02.696Z",
+  "sourceCommit": "d136f30ca3759d81980420b7ca0c7ecb9369d301",
+  "startProducts": 492,
+  "startBrewerySlots": 342,
+  "finalProducts": 493,
+  "finalBrewerySlots": 343,
+  "rawBreweryNames": 389,
+  "prefectures": 46,
+  "unknownPrefectureRegistrations": 11,
+  "breweriesAdded": 1,
+  "productsAdded": 1,
+  "poolBreweries": 53,
+  "poolProducts": 53,
+  "unlistedIndependentlyConfirmed": 1,
+  "unlistedNamePrescreen": 53,
+  "unlistedOtherSources": 0,
+  "prescreenIsNotIdentityConfirmation": true,
+  "officialIndividualProductNotConfirmed": 1,
+  "officialIndividualPageUnchecked": 52,
+  "officialIndividualPageMissingProven": 0,
+  "adoptedWithoutOfficialIndividualPage": 1,
+  "minorDifferencesAllowed": 1,
+  "majorDifferencesRejectedAsProduction": 0,
+  "sameSkuConfirmed": 1,
+  "newFormalImages": 1,
+  "sensoryEvidenceProducts": 1,
+  "communityEvidenceProducts": 1,
+  "communityEvidenceNotes": 3,
+  "qualifiedCommunityEvidence": 1,
+  "strongConsensusAxes": 0,
+  "communityPairingsAdopted": 0,
+  "editorialPairingsCompleted": 3,
+  "pairingReadyProducts": 1,
+  "productionReady": 1,
+  "seasonalPublished": 0,
+  "seasonalCandidates": 18,
+  "held": 52,
+  "direct": 379,
+  "images": 371,
+  "fallback": 114,
+  "newDirectRate": 1,
+  "newImageRate": 1,
+  "api": {
+    "initialLiveRequests": 44,
+    "queryCaches": 44,
+    "errors": 0,
+    "uniqueItemObservations": 1287,
+    "limiterIntervalMs": 1150,
+    "initialRequestTimingLogRetained": false,
+    "subsequentCachedRunRequests": 0
+  },
+  "monitor": {
+    "initialLivePages": 53,
+    "retrieved": 49,
+    "stockConfirmed": 49,
+    "failedOrUnknown": 4,
+    "unchangedReplayNewEvents": 0,
+    "queueEvents": 54,
+    "schedulerEnabled": false,
+    "productionMutationAllowed": false
+  },
+  "tests": {
+    "passed": 92,
+    "failed": 0
+  },
+  "typecheck": {
+    "passed": true
+  },
+  "lint": {
+    "passed": true,
+    "kind": "Existing syntax/conflict/public-debug checks, not ESLint"
+  },
+  "build": {
+    "passed": true,
+    "engine": "Webpack",
+    "next": "16.3.8",
+    "tasks": 1162,
+    "htmlPages": 1160,
+    "initialSandboxEperm": true,
+    "unrelatedConfigChanged": false
+  },
+  "audit": {
+    "productionVulnerabilities": 0,
+    "dependenciesChanged": false
+  },
+  "internal": {
+    "pages": 1160,
+    "links": 19368,
+    "broken": 0
+  },
+  "localQa": {
+    "browser": 66,
+    "flows": 58,
+    "passed": true
+  },
+  "secretScan": {
+    "scannedFiles": 7168,
+    "unreadableFiles": 0,
+    "findings": [],
+    "passed": true,
+    "configuredValuesChecked": [
+      "RAKUTEN_APPLICATION_ID",
+      "RAKUTEN_ACCESS_KEY",
+      "RAKUTEN_AFFILIATE_ID"
+    ],
+    "limitation": null
+  },
+  "production": {
+    "status": "PENDING",
+    "passed": false
+  }
+}

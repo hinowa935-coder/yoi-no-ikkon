@@ -3,6 +3,7 @@ import assert from "node:assert/strict";
 import { INTERNAL_COPY, publicTags, publicSourceName, publicSpecText } from "../src/data/publicDisplay.js";
 import { displaySpec } from "../src/data/specDisplay.js";
 import { visibleSakePairings, buildSakeVerifiedTags, buildSakeEditorialTags, buildSakeFeatureTags } from "../src/data/siteData.js";
+import {expectedActiveItems} from './lib/catalog-fixture.mjs';
 
 test("internal tags never become verified or editorial display tags", () => {
   const item = { catalogVersion: "v1", sakeResearch: { verifiedFeatureTags: ["旨味", "needsIdentification", "調査済み", "SKU未確認"], editorialTags: ["食中酒向き", "要商品詳細確認", "次回調査"] } };
@@ -35,8 +36,8 @@ test("research source aliases use a truthful site label without changing URL", (
   assert.equal(JSON.stringify(source), before);
   assert.equal(publicSourceName({ name: "公式カタログ", url: "https://example.com/catalog.pdf" }), "公式カタログ");
 });
-test("all 492 products: public tags, specs and source labels have no internal notes", () => {
-  assert.equal(visibleSakePairings.length, 492);
+test("all active products: public tags, specs and source labels have no internal notes", () => {
+  assert.equal(visibleSakePairings.length, expectedActiveItems.length);
   for (const item of visibleSakePairings) {
     const before = JSON.stringify(item);
     for (const tag of [...buildSakeVerifiedTags(item), ...buildSakeEditorialTags(item), ...buildSakeFeatureTags(item)]) assert.doesNotMatch(tag, INTERNAL_COPY, item.id);

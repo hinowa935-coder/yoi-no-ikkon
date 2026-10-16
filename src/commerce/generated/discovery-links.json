@@ -17218,5 +17218,20 @@
         "validUntil": "2027-01-14T13:52:42.025Z"
       }
     ]
+  },
+  "koshino-kagetora-junmai-standard-v1": {
+    "productFingerprint": "1d84f929950de43a779406cb7302c170000fb91a8e9fa01ebac0466c2e478db1",
+    "links": [
+      {
+        "sakeId": "koshino-kagetora-junmai-standard-v1",
+        "provider": "amazon",
+        "matchType": "search",
+        "destinationType": "search_results",
+        "isAffiliate": false,
+        "url": "https://www.amazon.co.jp/s?k=%E8%B6%8A%E4%B9%83%E6%99%AF%E8%99%8E%20%E7%B4%94%E7%B1%B3%E9%85%92",
+        "label": "Amazonでこのお酒を探す",
+        "validUntil": "2026-11-15T15:16:00.579Z"
+      }
+    ]
   }
 }

@@ -1,0 +1,24 @@
+{
+  "checkedAt": "2026-10-16T15:29:29.356Z",
+  "tests": {
+    "passed": 92,
+    "failed": 0
+  },
+  "typecheck": {
+    "exitCode": 0
+  },
+  "lint": {
+    "exitCode": 0,
+    "files": 100,
+    "kind": "syntax conflict and public debug checks"
+  },
+  "audit": {
+    "allDependencyVulnerabilities": 0
+  },
+  "build": {
+    "passed": true,
+    "engine": "Webpack",
+    "tasks": 1162,
+    "htmlPages": 1160
+  }
+}

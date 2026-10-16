@@ -1,4 +1,7 @@
 import catalog from "./discoveryCatalog.json" with { type: "json" };
+import catalogAdditions from './catalogAdditions.json' with {type:'json'};
+import lifecycle from './catalogLifecycle.json' with {type:'json'};
+import {activeCatalog} from '../catalog/operations.js';
 import { discoveryDishes, discoveryNights, foodDirections, recommendedNights } from "./discoveryNights.js";
 import { naturalTasteTerm } from "./sakeIntroduction.js";
 import { refineMealPairingReason } from "./pairingCopy.js";
@@ -9,7 +12,7 @@ import { canonicalFoodName, canonicalFoodNames, canonicalizeFoodText, getCanonic
 export { nightAffinity } from "./nightAffinity.js";
 
 export { discoveryDishes, discoveryNights, foodDirections };
-export const discoveryProducts = catalog.items;
+export const discoveryProducts = activeCatalog([...catalog.items,...catalogAdditions.items],lifecycle.records);
 export function isDiscoverySake(item) {
   const otherCategories = new Set(["リキュール", "クラフトサケ", "どぶろく", "その他の醸造酒", "果実酒", "焼酎"]);
   const facts = [item.sakeResearch.identity.beverageCategory, ...(item.sakeResearch.verifiedFeatureTags || [])];

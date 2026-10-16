@@ -1,0 +1,76 @@
+{
+  "checkedAt": "2026-10-16T15:00:42.603Z",
+  "attempts": [
+    {
+      "sourceType": "industry",
+      "sourceUrl": "https://www.niigata-sake.or.jp/kuramoto/morohashi",
+      "checkedAt": "2026-10-16T15:00:35.446Z",
+      "status": 200,
+      "retrieved": true
+    },
+    {
+      "sourceType": "specialty_retailer",
+      "sourceUrl": "https://www.sakesake.com/item/kurabetu1/19/1-19-5.html",
+      "checkedAt": "2026-10-16T15:00:36.607Z",
+      "status": 200,
+      "retrieved": true
+    },
+    {
+      "sourceType": "rakuten_retail",
+      "sourceUrl": "https://item.rakuten.co.jp/syuraku-shop/11811/",
+      "checkedAt": "2026-10-16T15:00:37.767Z",
+      "status": 200,
+      "retrieved": true
+    },
+    {
+      "sourceType": "review",
+      "sourceUrl": "https://www.saketime.jp/reviews/395123/",
+      "checkedAt": "2026-10-16T15:00:38.929Z",
+      "status": 200,
+      "retrieved": true
+    },
+    {
+      "sourceType": "review",
+      "sourceUrl": "https://www.seihiguchi.com/2026/05/blog-post.html",
+      "checkedAt": "2026-10-16T15:00:40.088Z",
+      "status": 200,
+      "retrieved": true
+    },
+    {
+      "sourceType": "official",
+      "sourceUrl": "https://www.hanatomoe.com/news/%E8%8A%B1%E5%B7%B4-%E5%B1%B1%E5%BB%83%E7%A7%8B%E3%81%82%E3%81%8C%E3%82%8A-%E6%B0%B4%E9%85%9B%E7%A7%8B%E3%81%82%E3%81%8C%E3%82%8A2025by%E5%87%BA%E8%8D%B7%E9%96%8B%E5%A7%8B/",
+      "checkedAt": "2026-10-16T15:00:41.247Z",
+      "status": 200,
+      "retrieved": true
+    },
+    {
+      "sourceType": "rakuten_retail",
+      "sourceUrl": "https://item.rakuten.co.jp/umeshu/1121-13-1800/",
+      "checkedAt": "2026-10-16T15:00:42.408Z",
+      "status": 200,
+      "retrieved": true
+    },
+    {
+      "sourceType": "official",
+      "sourceUrl": "https://www.morohashi-shuzo.co.jp/",
+      "checkedAt": "2026-10-16T15:26:10.155Z",
+      "retrieved": false,
+      "error": "WEB_FETCH_TIMEOUT_NOT_ABSENCE"
+    }
+  ],
+  "browserReadEvidence": [
+    {
+      "sourceUrl": "https://www.saketime.jp/reviews/395123/",
+      "sourceType": "review",
+      "retrieved": true,
+      "method": "visible_browser_read",
+      "checkedAt": "2026-10-16T15:00:42.603Z",
+      "product": "越乃景虎 純米酒",
+      "observedSpecs": [
+        "65%",
+        "15-16度"
+      ],
+      "rawReviewRepublished": false
+    }
+  ]
+}

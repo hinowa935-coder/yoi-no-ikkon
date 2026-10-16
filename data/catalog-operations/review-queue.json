@@ -1,0 +1,389 @@
+{
+  "checkedAt": "2026-10-16T15:27:47.470Z",
+  "automaticPublicationAllowed": false,
+  "events": [
+    {
+      "type": "NEW_BREWERY",
+      "candidateProductId": "candidate-68df239216be16a4",
+      "checkedAt": "2026-10-16T14:54:30.654Z",
+      "automaticPublicationAllowed": false,
+      "productionMutationAllowed": false
+    },
+    {
+      "type": "NEW_BREWERY",
+      "candidateProductId": "candidate-d062c177acd7ed80",
+      "checkedAt": "2026-10-16T14:54:31.815Z",
+      "automaticPublicationAllowed": false,
+      "productionMutationAllowed": false
+    },
+    {
+      "type": "NEW_BREWERY",
+      "candidateProductId": "candidate-9db35c8c839321fd",
+      "checkedAt": "2026-10-16T14:54:32.978Z",
+      "automaticPublicationAllowed": false,
+      "productionMutationAllowed": false
+    },
+    {
+      "type": "NEW_BREWERY",
+      "candidateProductId": "candidate-11b5e915498949df",
+      "checkedAt": "2026-10-16T14:54:34.142Z",
+      "automaticPublicationAllowed": false,
+      "productionMutationAllowed": false
+    },
+    {
+      "type": "NEW_BREWERY",
+      "candidateProductId": "candidate-40af21396f132657",
+      "checkedAt": "2026-10-16T14:54:35.306Z",
+      "automaticPublicationAllowed": false,
+      "productionMutationAllowed": false
+    },
+    {
+      "type": "NEW_BREWERY",
+      "candidateProductId": "candidate-550e2fc57e08c173",
+      "checkedAt": "2026-10-16T14:54:36.469Z",
+      "automaticPublicationAllowed": false,
+      "productionMutationAllowed": false
+    },
+    {
+      "type": "NEW_BREWERY",
+      "candidateProductId": "candidate-35d902f6158d6848",
+      "checkedAt": "2026-10-16T14:54:37.625Z",
+      "automaticPublicationAllowed": false,
+      "productionMutationAllowed": false
+    },
+    {
+      "type": "NEW_BREWERY",
+      "candidateProductId": "candidate-f8f50d2d0b5d0488",
+      "checkedAt": "2026-10-16T14:54:38.787Z",
+      "automaticPublicationAllowed": false,
+      "productionMutationAllowed": false
+    },
+    {
+      "type": "NEW_BREWERY",
+      "candidateProductId": "candidate-1de4f992f2a2074c",
+      "checkedAt": "2026-10-16T14:54:39.949Z",
+      "automaticPublicationAllowed": false,
+      "productionMutationAllowed": false
+    },
+    {
+      "type": "NEW_BREWERY",
+      "candidateProductId": "candidate-540bfe1be26303f6",
+      "checkedAt": "2026-10-16T14:54:41.105Z",
+      "automaticPublicationAllowed": false,
+      "productionMutationAllowed": false
+    },
+    {
+      "type": "NEW_BREWERY",
+      "candidateProductId": "candidate-48d1c0cb44622ae4",
+      "checkedAt": "2026-10-16T14:54:42.266Z",
+      "automaticPublicationAllowed": false,
+      "productionMutationAllowed": false
+    },
+    {
+      "type": "NEW_BREWERY",
+      "candidateProductId": "candidate-0fceb86e34f0033d",
+      "checkedAt": "2026-10-16T14:54:43.428Z",
+      "automaticPublicationAllowed": false,
+      "productionMutationAllowed": false
+    },
+    {
+      "type": "NEW_BREWERY",
+      "candidateProductId": "candidate-24caf801948a078a",
+      "checkedAt": "2026-10-16T14:54:44.588Z",
+      "automaticPublicationAllowed": false,
+      "productionMutationAllowed": false
+    },
+    {
+      "type": "NEW_BREWERY",
+      "candidateProductId": "candidate-89b9d83a6860c9b4",
+      "checkedAt": "2026-10-16T14:54:45.743Z",
+      "automaticPublicationAllowed": false,
+      "productionMutationAllowed": false
+    },
+    {
+      "type": "NEW_BREWERY",
+      "candidateProductId": "candidate-dc2f4b6c4f190a80",
+      "checkedAt": "2026-10-16T14:54:46.907Z",
+      "automaticPublicationAllowed": false,
+      "productionMutationAllowed": false
+    },
+    {
+      "type": "NEW_BREWERY",
+      "candidateProductId": "candidate-240b7754eed6d831",
+      "checkedAt": "2026-10-16T14:54:48.072Z",
+      "automaticPublicationAllowed": false,
+      "productionMutationAllowed": false
+    },
+    {
+      "type": "NEW_BREWERY",
+      "candidateProductId": "candidate-6ca309a3bfb13d0e",
+      "checkedAt": "2026-10-16T14:54:49.230Z",
+      "automaticPublicationAllowed": false,
+      "productionMutationAllowed": false
+    },
+    {
+      "type": "NEW_BREWERY",
+      "candidateProductId": "candidate-f4acc13edf4d8a36",
+      "checkedAt": "2026-10-16T14:54:50.392Z",
+      "automaticPublicationAllowed": false,
+      "productionMutationAllowed": false
+    },
+    {
+      "type": "NEW_BREWERY",
+      "candidateProductId": "candidate-aece3f6e77aabdd0",
+      "checkedAt": "2026-10-16T14:54:51.551Z",
+      "automaticPublicationAllowed": false,
+      "productionMutationAllowed": false
+    },
+    {
+      "type": "NEW_BREWERY",
+      "candidateProductId": "candidate-25953637e2661a96",
+      "checkedAt": "2026-10-16T14:54:52.709Z",
+      "automaticPublicationAllowed": false,
+      "productionMutationAllowed": false
+    },
+    {
+      "type": "NEW_BREWERY",
+      "candidateProductId": "candidate-e62a2f02bc3ce3f5",
+      "checkedAt": "2026-10-16T14:54:53.866Z",
+      "automaticPublicationAllowed": false,
+      "productionMutationAllowed": false
+    },
+    {
+      "type": "NEW_BREWERY",
+      "candidateProductId": "candidate-4870fcfaae78e73d",
+      "checkedAt": "2026-10-16T14:54:55.029Z",
+      "automaticPublicationAllowed": false,
+      "productionMutationAllowed": false
+    },
+    {
+      "type": "NEW_BREWERY",
+      "candidateProductId": "candidate-d0f2ee87613be918",
+      "checkedAt": "2026-10-16T14:54:56.190Z",
+      "automaticPublicationAllowed": false,
+      "productionMutationAllowed": false
+    },
+    {
+      "type": "NEW_BREWERY",
+      "candidateProductId": "candidate-4e6fe8c7965db28e",
+      "checkedAt": "2026-10-16T14:54:57.352Z",
+      "automaticPublicationAllowed": false,
+      "productionMutationAllowed": false
+    },
+    {
+      "type": "NEW_BREWERY",
+      "candidateProductId": "candidate-20ddf0948509aa6d",
+      "checkedAt": "2026-10-16T14:54:58.513Z",
+      "automaticPublicationAllowed": false,
+      "productionMutationAllowed": false
+    },
+    {
+      "type": "NEW_BREWERY",
+      "candidateProductId": "candidate-82bc80b5de60da9b",
+      "checkedAt": "2026-10-16T14:54:59.674Z",
+      "automaticPublicationAllowed": false,
+      "productionMutationAllowed": false
+    },
+    {
+      "type": "NEW_BREWERY",
+      "candidateProductId": "candidate-4ace4f6edcc2d4d5",
+      "checkedAt": "2026-10-16T14:55:00.832Z",
+      "automaticPublicationAllowed": false,
+      "productionMutationAllowed": false
+    },
+    {
+      "type": "RETRIEVAL_FAILED",
+      "reason": "Failed retrieval is not sold-out, season end, discontinuation or absence.",
+      "candidateProductId": "candidate-a53f4ddbd21c8bf4",
+      "checkedAt": "2026-10-16T14:55:01.990Z",
+      "automaticPublicationAllowed": false,
+      "productionMutationAllowed": false
+    },
+    {
+      "type": "NEW_BREWERY",
+      "candidateProductId": "candidate-6454418caef48440",
+      "checkedAt": "2026-10-16T14:55:03.153Z",
+      "automaticPublicationAllowed": false,
+      "productionMutationAllowed": false
+    },
+    {
+      "type": "NEW_BREWERY",
+      "candidateProductId": "candidate-6b13f6c14aa9358a",
+      "checkedAt": "2026-10-16T14:55:04.315Z",
+      "automaticPublicationAllowed": false,
+      "productionMutationAllowed": false
+    },
+    {
+      "type": "RETRIEVAL_FAILED",
+      "reason": "Failed retrieval is not sold-out, season end, discontinuation or absence.",
+      "candidateProductId": "candidate-55e89b3353b24172",
+      "checkedAt": "2026-10-16T14:55:05.475Z",
+      "automaticPublicationAllowed": false,
+      "productionMutationAllowed": false
+    },
+    {
+      "type": "RETRIEVAL_FAILED",
+      "reason": "Failed retrieval is not sold-out, season end, discontinuation or absence.",
+      "candidateProductId": "candidate-f003f03225ea03f5",
+      "checkedAt": "2026-10-16T14:55:06.636Z",
+      "automaticPublicationAllowed": false,
+      "productionMutationAllowed": false
+    },
+    {
+      "type": "NEW_BREWERY",
+      "candidateProductId": "candidate-b78b83216cf4e260",
+      "checkedAt": "2026-10-16T14:55:07.801Z",
+      "automaticPublicationAllowed": false,
+      "productionMutationAllowed": false
+    },
+    {
+      "type": "NEW_BREWERY",
+      "candidateProductId": "candidate-7cdbf0aaa66ee591",
+      "checkedAt": "2026-10-16T14:55:08.960Z",
+      "automaticPublicationAllowed": false,
+      "productionMutationAllowed": false
+    },
+    {
+      "type": "NEW_BREWERY",
+      "candidateProductId": "candidate-8e0e54654f8f00bc",
+      "checkedAt": "2026-10-16T14:55:10.115Z",
+      "automaticPublicationAllowed": false,
+      "productionMutationAllowed": false
+    },
+    {
+      "type": "NEW_BREWERY",
+      "candidateProductId": "candidate-115a79822b3d2d5c",
+      "checkedAt": "2026-10-16T14:55:11.274Z",
+      "automaticPublicationAllowed": false,
+      "productionMutationAllowed": false
+    },
+    {
+      "type": "NEW_BREWERY",
+      "candidateProductId": "candidate-854076ffb688a40f",
+      "checkedAt": "2026-10-16T14:55:12.430Z",
+      "automaticPublicationAllowed": false,
+      "productionMutationAllowed": false
+    },
+    {
+      "type": "NEW_BREWERY",
+      "candidateProductId": "candidate-0d1d9edf17d24d2e",
+      "checkedAt": "2026-10-16T14:55:13.592Z",
+      "automaticPublicationAllowed": false,
+      "productionMutationAllowed": false
+    },
+    {
+      "type": "NEW_BREWERY",
+      "candidateProductId": "candidate-2e98447d247fcac4",
+      "checkedAt": "2026-10-16T14:55:14.749Z",
+      "automaticPublicationAllowed": false,
+      "productionMutationAllowed": false
+    },
+    {
+      "type": "NEW_BREWERY",
+      "candidateProductId": "candidate-24333cc5c7fa1237",
+      "checkedAt": "2026-10-16T14:55:15.910Z",
+      "automaticPublicationAllowed": false,
+      "productionMutationAllowed": false
+    },
+    {
+      "type": "NEW_BREWERY",
+      "candidateProductId": "candidate-dacc93b8599aa90e",
+      "checkedAt": "2026-10-16T14:55:17.069Z",
+      "automaticPublicationAllowed": false,
+      "productionMutationAllowed": false
+    },
+    {
+      "type": "NEW_BREWERY",
+      "candidateProductId": "candidate-1a4b893e8f8b58d6",
+      "checkedAt": "2026-10-16T14:55:18.233Z",
+      "automaticPublicationAllowed": false,
+      "productionMutationAllowed": false
+    },
+    {
+      "type": "NEW_BREWERY",
+      "candidateProductId": "candidate-b511aa7dbe7315c0",
+      "checkedAt": "2026-10-16T14:55:19.398Z",
+      "automaticPublicationAllowed": false,
+      "productionMutationAllowed": false
+    },
+    {
+      "type": "NEW_BREWERY",
+      "candidateProductId": "candidate-7eeb65ab5944ef43",
+      "checkedAt": "2026-10-16T14:55:20.558Z",
+      "automaticPublicationAllowed": false,
+      "productionMutationAllowed": false
+    },
+    {
+      "type": "NEW_BREWERY",
+      "candidateProductId": "candidate-4c161e703bf3533f",
+      "checkedAt": "2026-10-16T14:55:21.714Z",
+      "automaticPublicationAllowed": false,
+      "productionMutationAllowed": false
+    },
+    {
+      "type": "RETRIEVAL_FAILED",
+      "reason": "Failed retrieval is not sold-out, season end, discontinuation or absence.",
+      "candidateProductId": "candidate-3dd83f6decb6db74",
+      "checkedAt": "2026-10-16T14:55:22.877Z",
+      "automaticPublicationAllowed": false,
+      "productionMutationAllowed": false
+    },
+    {
+      "type": "NEW_BREWERY",
+      "candidateProductId": "candidate-8440b2acfb155bb4",
+      "checkedAt": "2026-10-16T14:55:24.042Z",
+      "automaticPublicationAllowed": false,
+      "productionMutationAllowed": false
+    },
+    {
+      "type": "NEW_BREWERY",
+      "candidateProductId": "candidate-8e97432ee30d07f9",
+      "checkedAt": "2026-10-16T14:55:25.201Z",
+      "automaticPublicationAllowed": false,
+      "productionMutationAllowed": false
+    },
+    {
+      "type": "NEW_BREWERY",
+      "candidateProductId": "candidate-aa1f388b0b69872b",
+      "checkedAt": "2026-10-16T14:55:26.364Z",
+      "automaticPublicationAllowed": false,
+      "productionMutationAllowed": false
+    },
+    {
+      "type": "NEW_BREWERY",
+      "candidateProductId": "candidate-f42989aff176dccc",
+      "checkedAt": "2026-10-16T14:55:27.527Z",
+      "automaticPublicationAllowed": false,
+      "productionMutationAllowed": false
+    },
+    {
+      "type": "NEW_BREWERY",
+      "candidateProductId": "candidate-56b74a3e9430b7a6",
+      "checkedAt": "2026-10-16T14:55:28.689Z",
+      "automaticPublicationAllowed": false,
+      "productionMutationAllowed": false
+    },
+    {
+      "type": "NEW_BREWERY",
+      "candidateProductId": "candidate-3f4eefab2ebd5303",
+      "checkedAt": "2026-10-16T14:55:29.849Z",
+      "automaticPublicationAllowed": false,
+      "productionMutationAllowed": false
+    },
+    {
+      "type": "NEW_BREWERY",
+      "candidateProductId": "candidate-cee9c8873335fa72",
+      "checkedAt": "2026-10-16T14:55:31.010Z",
+      "automaticPublicationAllowed": false,
+      "productionMutationAllowed": false
+    },
+    {
+      "type": "NEW_COMMERCIAL_IMAGE",
+      "candidateProductId": "candidate-68df239216be16a4",
+      "sourceFingerprint": "6cfceec3d929de838978bf09d5d1824eac8126bdf091c3f407eaf2b646bfa339",
+      "checkedAt": "2026-10-16T14:54:30.654Z",
+      "automaticPublicationAllowed": false,
+      "productionMutationAllowed": false
+    }
+  ]
+}

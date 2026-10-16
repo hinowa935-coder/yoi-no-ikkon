@@ -9990,6 +9990,33 @@
       "validUntil": "2026-11-15T13:52:42.012Z",
       "sourceUrl": "https://item.rakuten.co.jp/toyamanojizakeya/10000011/",
       "approvalSource": "User instruction cb36a1ea-5b35-44de-ad3b-ae5650577898; production authorized after QA"
+    },
+    {
+      "sakeId": "koshino-kagetora-junmai-standard-v1",
+      "productFingerprint": "1d84f929950de43a779406cb7302c170000fb91a8e9fa01ebac0466c2e478db1",
+      "provider": "rakuten",
+      "marketplace": "rakuten",
+      "productId": "syuraku-shop:10000236",
+      "capacityMl": 720,
+      "destinationType": "product_page",
+      "registeredSite": "https://yoi-no-ikkon.vercel.app/",
+      "creativeSha256": "04b25ba2b0b9e13bef86006706fed3d5a29d43ebf319bafa5da254c002adbaac",
+      "generatedByOfficialTool": true,
+      "originalUnmodified": true,
+      "programEligibilityConfirmed": true,
+      "mediaRegistrationConfirmed": true,
+      "displayMethodAllowed": true,
+      "desktopRedirectReviewed": true,
+      "mobileRedirectReviewed": true,
+      "identityReviewed": true,
+      "finalUrl": "https://item.rakuten.co.jp/syuraku-shop/11811/",
+      "scope": "production",
+      "approved": true,
+      "reviewedBy": "operator-preapproved-catalog-next-curated-cohort",
+      "verifiedAt": "2026-10-16T15:16:00.578Z",
+      "validUntil": "2026-11-15T15:16:00.579Z",
+      "sourceUrl": "https://item.rakuten.co.jp/syuraku-shop/11811/",
+      "approvalSource": "User instruction ad69df95-ef60-44cf-b5a6-744964bd180e: curated publication after QA, never scheduler publication."
     }
   ]
 }

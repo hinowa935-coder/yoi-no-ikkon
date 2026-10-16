@@ -1,0 +1,359 @@
+{
+  "checkedAt": "2026-10-16T15:31:11.323Z",
+  "base": "http://127.0.0.1:3196",
+  "results": [
+    {
+      "name": "webkit-320: original image and layout",
+      "pass": true,
+      "detail": {
+        "originalSrc": true,
+        "naturalWidth": 240,
+        "naturalHeight": 240,
+        "width": 240,
+        "height": 240,
+        "display": "block",
+        "visibility": "visible",
+        "opacity": "1"
+      }
+    },
+    {
+      "name": "webkit-320: name, grade, capacity and source",
+      "pass": true
+    },
+    {
+      "name": "webkit-320: original affiliate destination",
+      "pass": true
+    },
+    {
+      "name": "webkit-320: one qualified review, not consensus",
+      "pass": true
+    },
+    {
+      "name": "webkit-320: curated dishes and existing grounded suggestions, no official inventions",
+      "pass": true
+    },
+    {
+      "name": "webkit-320: canonical",
+      "pass": true
+    },
+    {
+      "name": "webkit-320: favorite retains new identity",
+      "pass": true
+    },
+    {
+      "name": "webkit-320: favorite survives reload",
+      "pass": true
+    },
+    {
+      "name": "webkit-320: search includes only the new exact registration",
+      "pass": true
+    },
+    {
+      "name": "webkit-320: back retains query and results",
+      "pass": true,
+      "detail": {
+        "route": "http://127.0.0.1:3196/search?q=%E8%B6%8A%E4%B9%83%E6%99%AF%E8%99%8E",
+        "count": 1
+      }
+    },
+    {
+      "name": "webkit-320: existing placeholder retained",
+      "pass": true
+    },
+    {
+      "name": "webkit-360: original image and layout",
+      "pass": true,
+      "detail": {
+        "originalSrc": true,
+        "naturalWidth": 240,
+        "naturalHeight": 240,
+        "width": 240,
+        "height": 240,
+        "display": "block",
+        "visibility": "visible",
+        "opacity": "1"
+      }
+    },
+    {
+      "name": "webkit-360: name, grade, capacity and source",
+      "pass": true
+    },
+    {
+      "name": "webkit-360: original affiliate destination",
+      "pass": true
+    },
+    {
+      "name": "webkit-360: one qualified review, not consensus",
+      "pass": true
+    },
+    {
+      "name": "webkit-360: curated dishes and existing grounded suggestions, no official inventions",
+      "pass": true
+    },
+    {
+      "name": "webkit-360: canonical",
+      "pass": true
+    },
+    {
+      "name": "webkit-360: favorite retains new identity",
+      "pass": true
+    },
+    {
+      "name": "webkit-360: favorite survives reload",
+      "pass": true
+    },
+    {
+      "name": "webkit-360: search includes only the new exact registration",
+      "pass": true
+    },
+    {
+      "name": "webkit-360: back retains query and results",
+      "pass": true,
+      "detail": {
+        "route": "http://127.0.0.1:3196/search?q=%E8%B6%8A%E4%B9%83%E6%99%AF%E8%99%8E",
+        "count": 1
+      }
+    },
+    {
+      "name": "webkit-360: existing placeholder retained",
+      "pass": true
+    },
+    {
+      "name": "webkit-375: original image and layout",
+      "pass": true,
+      "detail": {
+        "originalSrc": true,
+        "naturalWidth": 240,
+        "naturalHeight": 240,
+        "width": 240,
+        "height": 240,
+        "display": "block",
+        "visibility": "visible",
+        "opacity": "1"
+      }
+    },
+    {
+      "name": "webkit-375: name, grade, capacity and source",
+      "pass": true
+    },
+    {
+      "name": "webkit-375: original affiliate destination",
+      "pass": true
+    },
+    {
+      "name": "webkit-375: one qualified review, not consensus",
+      "pass": true
+    },
+    {
+      "name": "webkit-375: curated dishes and existing grounded suggestions, no official inventions",
+      "pass": true
+    },
+    {
+      "name": "webkit-375: canonical",
+      "pass": true
+    },
+    {
+      "name": "webkit-375: favorite retains new identity",
+      "pass": true
+    },
+    {
+      "name": "webkit-375: favorite survives reload",
+      "pass": true
+    },
+    {
+      "name": "webkit-375: search includes only the new exact registration",
+      "pass": true
+    },
+    {
+      "name": "webkit-375: back retains query and results",
+      "pass": true,
+      "detail": {
+        "route": "http://127.0.0.1:3196/search?q=%E8%B6%8A%E4%B9%83%E6%99%AF%E8%99%8E",
+        "count": 1
+      }
+    },
+    {
+      "name": "webkit-375: existing placeholder retained",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: original image and layout",
+      "pass": true,
+      "detail": {
+        "originalSrc": true,
+        "naturalWidth": 240,
+        "naturalHeight": 240,
+        "width": 240,
+        "height": 240,
+        "display": "block",
+        "visibility": "visible",
+        "opacity": "1"
+      }
+    },
+    {
+      "name": "webkit-390: name, grade, capacity and source",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: original affiliate destination",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: one qualified review, not consensus",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: curated dishes and existing grounded suggestions, no official inventions",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: canonical",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: favorite retains new identity",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: favorite survives reload",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: search includes only the new exact registration",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: back retains query and results",
+      "pass": true,
+      "detail": {
+        "route": "http://127.0.0.1:3196/search?q=%E8%B6%8A%E4%B9%83%E6%99%AF%E8%99%8E",
+        "count": 1
+      }
+    },
+    {
+      "name": "webkit-390: existing placeholder retained",
+      "pass": true
+    },
+    {
+      "name": "webkit-430: original image and layout",
+      "pass": true,
+      "detail": {
+        "originalSrc": true,
+        "naturalWidth": 240,
+        "naturalHeight": 240,
+        "width": 240,
+        "height": 240,
+        "display": "block",
+        "visibility": "visible",
+        "opacity": "1"
+      }
+    },
+    {
+      "name": "webkit-430: name, grade, capacity and source",
+      "pass": true
+    },
+    {
+      "name": "webkit-430: original affiliate destination",
+      "pass": true
+    },
+    {
+      "name": "webkit-430: one qualified review, not consensus",
+      "pass": true
+    },
+    {
+      "name": "webkit-430: curated dishes and existing grounded suggestions, no official inventions",
+      "pass": true
+    },
+    {
+      "name": "webkit-430: canonical",
+      "pass": true
+    },
+    {
+      "name": "webkit-430: favorite retains new identity",
+      "pass": true
+    },
+    {
+      "name": "webkit-430: favorite survives reload",
+      "pass": true
+    },
+    {
+      "name": "webkit-430: search includes only the new exact registration",
+      "pass": true
+    },
+    {
+      "name": "webkit-430: back retains query and results",
+      "pass": true,
+      "detail": {
+        "route": "http://127.0.0.1:3196/search?q=%E8%B6%8A%E4%B9%83%E6%99%AF%E8%99%8E",
+        "count": 1
+      }
+    },
+    {
+      "name": "webkit-430: existing placeholder retained",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280: original image and layout",
+      "pass": true,
+      "detail": {
+        "originalSrc": true,
+        "naturalWidth": 240,
+        "naturalHeight": 240,
+        "width": 240,
+        "height": 240,
+        "display": "block",
+        "visibility": "visible",
+        "opacity": "1"
+      }
+    },
+    {
+      "name": "chromium-1280: name, grade, capacity and source",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280: original affiliate destination",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280: one qualified review, not consensus",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280: curated dishes and existing grounded suggestions, no official inventions",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280: canonical",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280: favorite retains new identity",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280: favorite survives reload",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280: search includes only the new exact registration",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280: back retains query and results",
+      "pass": true,
+      "detail": {
+        "route": "http://127.0.0.1:3196/search?q=%E8%B6%8A%E4%B9%83%E6%99%AF%E8%99%8E",
+        "count": 1
+      }
+    },
+    {
+      "name": "chromium-1280: existing placeholder retained",
+      "pass": true
+    }
+  ],
+  "errors": [],
+  "bootstrapWarnings": [],
+  "passed": true,
+  "realDevicePwaTested": false,
+  "externalPurchaseClicks": false
+}

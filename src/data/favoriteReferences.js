@@ -1,7 +1,8 @@
 import refs from "./favoriteReferences.json" with { type: "json" };
+import additions from './catalogAdditions.json' with {type:'json'};
 export const FAVORITES_KEY = "yoi-no-ikkon-favorites";
 export function resolveFavorite(id) {
-  if (refs.activeIds.includes(id)) return { status: "active", canonicalId: id };
+  if (refs.activeIds.includes(id)||additions.items.some(i=>i.id===id)) return { status: "active", canonicalId: id };
   return refs.references.find(entry => entry.legacyId === id) || { status: "unknown" };
 }
 export function migrateFavorites(ids) {

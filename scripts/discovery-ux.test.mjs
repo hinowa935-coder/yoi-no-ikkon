@@ -7,9 +7,10 @@ import {normalizeTemperature,temperatureLabels,matchesTemperature,temperatureOpt
 import {matchesSearch,normalizeSearchText,sortSearch} from '../src/data/searchFiltering.js';
 import {readSearchLocation,writeSearchLocation,emptySearchFilters} from '../src/app/components/searchLocation.js';
 import {discoveryLocation} from '../src/app/components/discoveryLocation.js';
+import {expectedActiveItems} from './lib/catalog-fixture.mjs';
 
-test('492 unique current products; no source data is mutated by normalization or affinity',()=>{
-  assert.equal(discoveryProducts.length,492);assert.equal(new Set(discoveryProducts.map(p=>p.id)).size,492);
+test('all active products are unique; no source data is mutated by normalization or affinity',()=>{
+  assert.equal(discoveryProducts.length,expectedActiveItems.length);assert.equal(new Set(discoveryProducts.map(p=>p.id)).size,expectedActiveItems.length);
   const before=JSON.stringify(discoveryProducts);
   for(const p of discoveryProducts){temperatureLabels(p.temperature);for(const n of discoveryNights)nightAffinity(p,n.id);}
   assert.equal(JSON.stringify(discoveryProducts),before);
@@ -57,7 +58,7 @@ test('search filters, legacy Japanese query, literal metacharacters, sorts, zero
   assert(!matchesSearch(p,{keyword:'zzzz-no-product'}));assert(!matchesSearch(p,{filters:{taste:'['}}));
   assert(matchesSearch(p,{onlySaved:true,ids:[p.id]}));assert(!matchesSearch(p,{onlySaved:true,ids:[]}));
   for(const group of ['cold','room','warm'])assert(discoveryProducts.filter(p=>matchesSearch(p,{filters:{temperature:`group:${group}`}})).length>0);
-  const sorted=sortSearch(discoveryProducts,'prefecture',['北海道','青森県']);assert.equal(sorted.length,492);
+  const sorted=sortSearch(discoveryProducts,'prefecture',['北海道','青森県']);assert.equal(sorted.length,expectedActiveItems.length);
   const filters={...emptySearchFilters(),prefecture:'佐賀県',temperature:'group:warm',sort:'prefecture'};
   const state={keyword:'鍋島',filters,onlySaved:true,limit:48};assert.deepEqual(readSearchLocation(writeSearchLocation('',state)),state);
 });
@@ -68,8 +69,8 @@ test('Discover URL retains night, direction, dish, deterministic day, expansion 
   assert.equal(p.get('night'),'rain');assert.equal(p.get('dish'),'肉じゃが');assert.equal(p.get('day'),state.seed);assert.equal(p.get('dishes'),'12');assert.equal(p.get('utm_source'),'test');
   assert(!discoveryLocation('https://yoi-no-ikkon.vercel.app/discover',{...state,dishLimit:6}).includes('dishes='));
 });
-test('generated sitemap source lists only canonical 492 products; legacy aliases remain separate',()=>{
+test('generated sitemap source lists only active canonical products; legacy aliases remain separate',()=>{
   const catalog=JSON.parse(fs.readFileSync(new URL('../src/data/discoveryCatalog.json',import.meta.url)));
-  assert.deepEqual(discoveryProducts.map(p=>p.id),catalog.items.map(p=>p.id));
+  assert.deepEqual(discoveryProducts.map(p=>p.id),expectedActiveItems.map(p=>p.id));
   const text=fs.readFileSync(new URL('../src/app/sitemap.js',import.meta.url),'utf8');assert(text.includes('visibleSakePairings.map'));
 });

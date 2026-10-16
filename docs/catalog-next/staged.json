@@ -1,0 +1,40 @@
+{
+  "checkedAt": "2026-10-16T15:16:00.578Z",
+  "sourceCommit": "d136f30ca3759d81980420b7ca0c7ecb9369d301",
+  "productionPublished": false,
+  "rows": [
+    {
+      "sakeId": "koshino-kagetora-junmai-standard-v1",
+      "candidateProductId": "candidate-68df239216be16a4",
+      "name": "越乃景虎 純米酒",
+      "normalUrl": "https://item.rakuten.co.jp/syuraku-shop/11811/",
+      "capacityMl": 720,
+      "imageOriginalSha256": "dbc25becf942198763550c7bb145c0371b8319d1569dca814da78e6cd42d7e05",
+      "visualEvidence": "Brown 720ml bottle, white 越乃景虎 純米酒 label. Not the named raw, special-junmai or seasonal series.",
+      "gate": {
+        "ready": false,
+        "checks": {
+          "brewery": true,
+          "product": true,
+          "classification": true,
+          "identity": true,
+          "specs": true,
+          "specEvidence": true,
+          "capacity": true,
+          "stock": true,
+          "affiliate": true,
+          "image": true,
+          "sensory": true,
+          "pairing": true,
+          "night": true,
+          "duplicate": true,
+          "qa": false
+        },
+        "missing": [
+          "qa"
+        ],
+        "automaticPublicationAllowed": false
+      }
+    }
+  ]
+}

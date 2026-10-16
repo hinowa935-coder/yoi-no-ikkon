@@ -1,4 +1,7 @@
 import publicCatalog from "./discoveryCatalog.json" with { type: "json" };
+import catalogAdditions from './catalogAdditions.json' with {type:'json'};
+import catalogLifecycle from "./catalogLifecycle.json" with { type: "json" };
+import {activeCatalog} from '../catalog/operations.js';
 import { scorePairing } from "./discovery.js";
 import { buildSakeIntroduction } from "./sakeIntroduction.js";
 import { publicTags } from "./publicDisplay.js";
@@ -196,10 +199,13 @@ export const nightMoodOptions = [
   },
 ];
 
-export const visibleSakePairings = publicCatalog.items;
+export const allSakePairings = [...publicCatalog.items,...catalogAdditions.items];
+if(new Set(allSakePairings.map(i=>i.id)).size!==allSakePairings.length)throw Error('Duplicate catalog identity');
+export const visibleSakePairings = activeCatalog(allSakePairings,catalogLifecycle.records);
+export function sakeCatalogStatus(id){return catalogLifecycle.records[id]?.status||'ACTIVE';}
 export const legacyReferences = publicCatalog.references;
 export function resolveSakeReference(id) {
-  if (visibleSakePairings.some(item => item.id === id)) return { status: "active", canonicalId: id };
+  if (allSakePairings.some(item => item.id === id)) return { status: sakeCatalogStatus(id).toLowerCase(), canonicalId: id };
   return legacyReferences.find(entry => entry.legacyId === id) || { status: "unknown" };
 }
 export function migrateFavoriteIds(ids) {
@@ -254,7 +260,7 @@ function findOptionBySlug(options, slug) {
 
 export function getSakeById(id) {
   const ref = resolveSakeReference(id);
-  return visibleSakePairings.find((item) => item.id === (ref.canonicalId || id));
+  return allSakePairings.find((item) => item.id === (ref.canonicalId || id));
 }
 
 export function getNightBySlug(slug) {
@@ -343,11 +349,11 @@ export function isSameSite(leftUrl, rightUrl) {
 
 export function buildResourceLinks(item) {
   if (item.catalogVersion === "v1") {
-    const sources = item.sources.filter(source => source.scope === "product" || source.type === "breweryOfficial");
+    const sources = item.sources.filter(source => source.scope === "product" || source.type === "breweryOfficial" || source.scope === 'brewery_identity_only');
     const seen = new Set();
     return sources.filter(s => s.url && !seen.has(s.url) && seen.add(s.url)).slice(0, 4).map(source => ({
       href: source.url, provider: source.type,
-      label: source.type === "breweryOfficial" ? (source.scope === "product" ? "蔵元の商品情報" : "蔵元公式サイト") : "専門店・商品資料",
+      label: source.type === 'industry'&&source.scope==='brewery_identity_only'?'酒造組合の蔵元情報':source.type === "breweryOfficial" ? (source.scope === "product" ? "蔵元の商品情報" : "蔵元公式サイト") : "専門店・商品資料",
     }));
   }
   const links = [];

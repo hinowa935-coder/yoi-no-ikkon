@@ -5383,5 +5383,20 @@
     "validUntil": "2026-11-15T13:52:42.012Z",
     "source": "deepFallbackCurrentCommercialMatch",
     "identityVerified": false
+  },
+  "koshino-kagetora-junmai-standard-v1": {
+    "sakeId": "koshino-kagetora-junmai-standard-v1",
+    "sakeName": "越乃景虎 純米酒",
+    "productFingerprint": "1d84f929950de43a779406cb7302c170000fb91a8e9fa01ebac0466c2e478db1",
+    "itemCode": "syuraku-shop:10000236",
+    "normalUrl": "https://item.rakuten.co.jp/syuraku-shop/11811/",
+    "capacityMl": 720,
+    "matchConfidence": "high",
+    "matchType": "COMMERCIAL_MATCH",
+    "directLinkAllowed": true,
+    "checkedAt": "2026-10-16T15:16:00.578Z",
+    "validUntil": "2026-11-15T15:16:00.579Z",
+    "source": "catalogNextReviewedCurrentProduct",
+    "identityVerified": false
   }
 }
