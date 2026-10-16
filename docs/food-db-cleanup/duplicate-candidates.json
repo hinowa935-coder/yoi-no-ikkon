@@ -1,0 +1,692 @@
+{
+  "rows": [
+    {
+      "names": [
+        "アジフライ",
+        "あじフライ"
+      ],
+      "ids": [
+        "item-bxzivf",
+        "item-314sr"
+      ],
+      "type": "A",
+      "decision": "MERGED",
+      "reason": "魚名のかな表記のみ",
+      "confidence": "high"
+    },
+    {
+      "names": [
+        "カキフライ",
+        "牡蠣フライ"
+      ],
+      "ids": [
+        "item-1sq9nxp",
+        "item-1wwkrut"
+      ],
+      "type": "A",
+      "decision": "MERGED",
+      "reason": "魚介名の漢字・カタカナ差のみ",
+      "confidence": "high"
+    },
+    {
+      "names": [
+        "かつおのたたき",
+        "鰹のたたき"
+      ],
+      "ids": [
+        "item-1gtkpzb",
+        "item-1ykl2rf"
+      ],
+      "type": "A",
+      "decision": "MERGED",
+      "reason": "魚名の漢字・かな差のみ",
+      "confidence": "high"
+    },
+    {
+      "names": [
+        "きのこの炊き込みご飯",
+        "炊き込みご飯"
+      ],
+      "ids": [
+        "item-1u8ymom",
+        "item-v1n9b4"
+      ],
+      "type": "C",
+      "decision": "RETAINED",
+      "reason": "類似語はあるが食材・調理法・地域の同一性が未確定。自動統合しない",
+      "confidence": "low"
+    },
+    {
+      "names": [
+        "キャベツの塩昆布和え",
+        "塩昆布キャベツ"
+      ],
+      "ids": [
+        "item-t16d3u",
+        "item-1g4ik4y"
+      ],
+      "type": "A",
+      "decision": "MERGED",
+      "reason": "食材と調理法が同じ名称の語順差",
+      "confidence": "high"
+    },
+    {
+      "names": [
+        "ししゃも焼き",
+        "焼きししゃも"
+      ],
+      "ids": [
+        "item-fhfci1",
+        "item-1oko38p"
+      ],
+      "type": "A",
+      "decision": "MERGED",
+      "reason": "同じ魚の焼き物の語順差",
+      "confidence": "high"
+    },
+    {
+      "names": [
+        "しらすご飯",
+        "しらす丼"
+      ],
+      "ids": [
+        "item-1ijw7lh",
+        "item-v2g1vk"
+      ],
+      "type": "C",
+      "decision": "RETAINED",
+      "reason": "混ぜご飯か丼かを名称だけで断定しない",
+      "confidence": "low"
+    },
+    {
+      "names": [
+        "すき焼き",
+        "焼きなす"
+      ],
+      "ids": [
+        "item-3f6jco",
+        "item-quxw37"
+      ],
+      "type": "C",
+      "decision": "RETAINED",
+      "reason": "類似語はあるが食材・調理法・地域の同一性が未確定。自動統合しない",
+      "confidence": "low"
+    },
+    {
+      "names": [
+        "だし巻き卵",
+        "卵焼き"
+      ],
+      "ids": [
+        "item-snidmz",
+        "item-1go4563"
+      ],
+      "type": "C",
+      "decision": "RETAINED",
+      "reason": "だしの設計の違い",
+      "confidence": "low"
+    },
+    {
+      "names": [
+        "たらちり鍋",
+        "鱈ちり"
+      ],
+      "ids": [
+        "item-5ngw57",
+        "item-1702we0"
+      ],
+      "type": "B",
+      "decision": "MERGED",
+      "reason": "鱈を使うちり鍋の一般的略称",
+      "confidence": "medium"
+    },
+    {
+      "names": [
+        "チキン南蛮",
+        "チキン南蛮風"
+      ],
+      "ids": [
+        "item-85tuip",
+        "item-1escrbf"
+      ],
+      "type": "C",
+      "decision": "RETAINED",
+      "reason": "郷土料理とアレンジを区別",
+      "confidence": "low"
+    },
+    {
+      "names": [
+        "とり天",
+        "鶏天"
+      ],
+      "ids": [
+        "item-wbgvnu",
+        "item-9d91bp"
+      ],
+      "type": "B",
+      "decision": "MERGED",
+      "reason": "鶏肉の天ぷらという同じ料理。から揚げには統合しない",
+      "confidence": "medium"
+    },
+    {
+      "names": [
+        "なすとひき肉の味噌炒め",
+        "なす味噌炒め"
+      ],
+      "ids": [
+        "item-ctq9l4",
+        "item-1h053iu"
+      ],
+      "type": "C",
+      "decision": "RETAINED",
+      "reason": "ひき肉の有無",
+      "confidence": "low"
+    },
+    {
+      "names": [
+        "なすの揚げびたし",
+        "なすの揚げ浸し"
+      ],
+      "ids": [
+        "item-cty4x5",
+        "item-7fm3u3"
+      ],
+      "type": "A",
+      "decision": "MERGED",
+      "reason": "送り仮名と表記のみ",
+      "confidence": "high"
+    },
+    {
+      "names": [
+        "ぶりの照り焼き",
+        "鶏の照り焼き"
+      ],
+      "ids": [
+        "item-f0o1nz",
+        "item-1i89m16"
+      ],
+      "type": "C",
+      "decision": "RETAINED",
+      "reason": "類似語はあるが食材・調理法・地域の同一性が未確定。自動統合しない",
+      "confidence": "low"
+    },
+    {
+      "names": [
+        "れんこんきんぴら",
+        "れんこんのきんぴら"
+      ],
+      "ids": [
+        "item-1jyl1j1",
+        "item-z77cor"
+      ],
+      "type": "A",
+      "decision": "MERGED",
+      "reason": "助詞の有無のみ",
+      "confidence": "high"
+    },
+    {
+      "names": [
+        "貝焼き味噌",
+        "鶏の味噌焼き"
+      ],
+      "ids": [
+        "item-ae8vro",
+        "item-2thfcc"
+      ],
+      "type": "C",
+      "decision": "RETAINED",
+      "reason": "類似語はあるが食材・調理法・地域の同一性が未確定。自動統合しない",
+      "confidence": "low"
+    },
+    {
+      "names": [
+        "貝焼き味噌",
+        "焼き味噌"
+      ],
+      "ids": [
+        "item-ae8vro",
+        "item-8kt19"
+      ],
+      "type": "C",
+      "decision": "RETAINED",
+      "reason": "類似語はあるが食材・調理法・地域の同一性が未確定。自動統合しない",
+      "confidence": "low"
+    },
+    {
+      "names": [
+        "牛ごぼう煮",
+        "鶏ごぼう煮"
+      ],
+      "ids": [
+        "item-w147vq",
+        "item-xdorvu"
+      ],
+      "type": "C",
+      "decision": "RETAINED",
+      "reason": "類似語はあるが食材・調理法・地域の同一性が未確定。自動統合しない",
+      "confidence": "low"
+    },
+    {
+      "names": [
+        "鶏ごぼう",
+        "鶏ごぼう煮"
+      ],
+      "ids": [
+        "item-24dp1c",
+        "item-xdorvu"
+      ],
+      "type": "C",
+      "decision": "RETAINED",
+      "reason": "類似語はあるが食材・調理法・地域の同一性が未確定。自動統合しない",
+      "confidence": "low"
+    },
+    {
+      "names": [
+        "鶏つくね",
+        "鶏つくね汁"
+      ],
+      "ids": [
+        "item-15hf1h6",
+        "item-1nw9675"
+      ],
+      "type": "C",
+      "decision": "RETAINED",
+      "reason": "類似語はあるが食材・調理法・地域の同一性が未確定。自動統合しない",
+      "confidence": "low"
+    },
+    {
+      "names": [
+        "鶏つくね",
+        "鶏つくね鍋"
+      ],
+      "ids": [
+        "item-15hf1h6",
+        "item-1kvpcyr"
+      ],
+      "type": "C",
+      "decision": "RETAINED",
+      "reason": "類似語はあるが食材・調理法・地域の同一性が未確定。自動統合しない",
+      "confidence": "low"
+    },
+    {
+      "names": [
+        "鶏つくね汁",
+        "鶏つくね鍋"
+      ],
+      "ids": [
+        "item-1nw9675",
+        "item-1kvpcyr"
+      ],
+      "type": "C",
+      "decision": "RETAINED",
+      "reason": "汁物と鍋の違い",
+      "confidence": "low"
+    },
+    {
+      "names": [
+        "鶏の照り焼き",
+        "鶏もも肉の照り焼き"
+      ],
+      "ids": [
+        "item-1i89m16",
+        "item-i6tnpz"
+      ],
+      "type": "C",
+      "decision": "RETAINED",
+      "reason": "部位を明示した料理を消さない",
+      "confidence": "low"
+    },
+    {
+      "names": [
+        "鶏の照り焼き",
+        "焼き鳥"
+      ],
+      "ids": [
+        "item-1i89m16",
+        "item-qez57p"
+      ],
+      "type": "C",
+      "decision": "RETAINED",
+      "reason": "串焼きと照り焼きの違い",
+      "confidence": "low"
+    },
+    {
+      "names": [
+        "鶏の唐揚げ",
+        "豚こま唐揚げ"
+      ],
+      "ids": [
+        "item-11txxuc",
+        "item-nu1pe0"
+      ],
+      "type": "C",
+      "decision": "RETAINED",
+      "reason": "主食材の違い",
+      "confidence": "low"
+    },
+    {
+      "names": [
+        "鶏の南蛮漬け",
+        "鮭の南蛮漬け"
+      ],
+      "ids": [
+        "item-dm58te",
+        "item-1wqr8ac"
+      ],
+      "type": "C",
+      "decision": "RETAINED",
+      "reason": "類似語はあるが食材・調理法・地域の同一性が未確定。自動統合しない",
+      "confidence": "low"
+    },
+    {
+      "names": [
+        "鶏の味噌焼き",
+        "焼き味噌"
+      ],
+      "ids": [
+        "item-2thfcc",
+        "item-8kt19"
+      ],
+      "type": "C",
+      "decision": "RETAINED",
+      "reason": "類似語はあるが食材・調理法・地域の同一性が未確定。自動統合しない",
+      "confidence": "low"
+    },
+    {
+      "names": [
+        "昆布締め",
+        "鯛の昆布じめ"
+      ],
+      "ids": [
+        "item-2wasz5",
+        "item-hf2hro"
+      ],
+      "type": "C",
+      "decision": "RETAINED",
+      "reason": "総称と特定の魚を区別",
+      "confidence": "low"
+    },
+    {
+      "names": [
+        "鮭の塩焼き",
+        "焼き鮭"
+      ],
+      "ids": [
+        "item-1aro9ta",
+        "item-avnlz1"
+      ],
+      "type": "C",
+      "decision": "RETAINED",
+      "reason": "塩味付けの有無が未確定",
+      "confidence": "low"
+    },
+    {
+      "names": [
+        "鯖の竜田揚げ",
+        "唐揚げ"
+      ],
+      "ids": [
+        "item-173epeh",
+        "item-1vk0s13"
+      ],
+      "type": "C",
+      "decision": "RETAINED",
+      "reason": "料理法と食材の違い",
+      "confidence": "low"
+    },
+    {
+      "names": [
+        "手羽元と大根の煮物",
+        "大根と鶏手羽の煮物"
+      ],
+      "ids": [
+        "item-7s9ogh",
+        "item-1we659n"
+      ],
+      "type": "C",
+      "decision": "RETAINED",
+      "reason": "類似語はあるが食材・調理法・地域の同一性が未確定。自動統合しない",
+      "confidence": "low"
+    },
+    {
+      "names": [
+        "小松菜と油揚げの煮びたし",
+        "水菜と油揚げの煮びたし"
+      ],
+      "ids": [
+        "item-ge65ga",
+        "item-1apsvtd"
+      ],
+      "type": "C",
+      "decision": "RETAINED",
+      "reason": "類似語はあるが食材・調理法・地域の同一性が未確定。自動統合しない",
+      "confidence": "low"
+    },
+    {
+      "names": [
+        "焼き厚揚げ",
+        "焼き油揚げ"
+      ],
+      "ids": [
+        "item-18hmhqk",
+        "item-1n2ysp5"
+      ],
+      "type": "C",
+      "decision": "RETAINED",
+      "reason": "類似語はあるが食材・調理法・地域の同一性が未確定。自動統合しない",
+      "confidence": "low"
+    },
+    {
+      "names": [
+        "焼き味噌おにぎり",
+        "味噌焼きおにぎり"
+      ],
+      "ids": [
+        "item-1p5i0qq",
+        "item-vmh5ia"
+      ],
+      "type": "A",
+      "decision": "MERGED",
+      "reason": "同じ味噌を使う焼きおにぎりの語順差",
+      "confidence": "high"
+    },
+    {
+      "names": [
+        "蒸し鶏のねぎだれ",
+        "蒸し鶏のねぎ塩だれ"
+      ],
+      "ids": [
+        "item-gobkfe",
+        "item-1s2yef5"
+      ],
+      "type": "C",
+      "decision": "RETAINED",
+      "reason": "たれの違い",
+      "confidence": "low"
+    },
+    {
+      "names": [
+        "水菜のおひたし",
+        "白菜のおひたし"
+      ],
+      "ids": [
+        "item-1dbhyuv",
+        "item-tta7ls"
+      ],
+      "type": "C",
+      "decision": "RETAINED",
+      "reason": "類似語はあるが食材・調理法・地域の同一性が未確定。自動統合しない",
+      "confidence": "low"
+    },
+    {
+      "names": [
+        "湯豆腐",
+        "冷奴"
+      ],
+      "ids": [
+        "item-1qvzseg",
+        "item-1gwo1eu"
+      ],
+      "type": "C",
+      "decision": "RETAINED",
+      "reason": "冷たい料理と温かい鍋を区別",
+      "confidence": "low"
+    },
+    {
+      "names": [
+        "豆腐ときのこのあんかけ",
+        "豆腐のきのこあん"
+      ],
+      "ids": [
+        "item-eazkgw",
+        "item-msq2qm"
+      ],
+      "type": "B",
+      "decision": "MERGED",
+      "reason": "豆腐にきのこあんを合わせる同じ料理の呼称",
+      "confidence": "medium"
+    },
+    {
+      "names": [
+        "豆腐の薬味のせ",
+        "冷奴"
+      ],
+      "ids": [
+        "item-op99dt",
+        "item-1gwo1eu"
+      ],
+      "type": "C",
+      "decision": "RETAINED",
+      "reason": "温冷を名称だけで断定しない",
+      "confidence": "low"
+    },
+    {
+      "names": [
+        "豚肉と白菜の重ね煮",
+        "白菜と豚肉の重ね煮"
+      ],
+      "ids": [
+        "item-n9b8uv",
+        "item-x563mz"
+      ],
+      "type": "A",
+      "decision": "MERGED",
+      "reason": "同じ食材・重ね煮の語順差",
+      "confidence": "high"
+    },
+    {
+      "names": [
+        "薬味たっぷり冷ややっこ",
+        "冷奴"
+      ],
+      "ids": [
+        "item-10otki6",
+        "item-1gwo1eu"
+      ],
+      "type": "B",
+      "decision": "MERGED",
+      "reason": "定番の薬味を添える冷奴。生姜だれ・梅しそなど別味付けは維持",
+      "confidence": "medium"
+    },
+    {
+      "names": [
+        "薬味たっぷり冷ややっこ",
+        "冷奴の薬味のせ"
+      ],
+      "ids": [
+        "item-10otki6",
+        "item-1e9q3qu"
+      ],
+      "type": "B",
+      "decision": "MERGED",
+      "reason": "定番の薬味を添える冷奴。生姜だれ・梅しそなど別味付けは維持",
+      "confidence": "medium"
+    },
+    {
+      "names": [
+        "冷奴",
+        "冷奴の薬味のせ"
+      ],
+      "ids": [
+        "item-1gwo1eu",
+        "item-1e9q3qu"
+      ],
+      "type": "B",
+      "decision": "MERGED",
+      "reason": "定番の薬味を添える冷奴。生姜だれ・梅しそなど別味付けは維持",
+      "confidence": "medium"
+    }
+  ],
+  "retainedExamples": [
+    [
+      "冷奴",
+      "湯豆腐",
+      "冷たい料理と温かい鍋を区別"
+    ],
+    [
+      "唐揚げ",
+      "鯖の竜田揚げ",
+      "料理法と食材の違い"
+    ],
+    [
+      "焼き鳥",
+      "鶏の照り焼き",
+      "串焼きと照り焼きの違い"
+    ],
+    [
+      "鶏の唐揚げ",
+      "豚こま唐揚げ",
+      "主食材の違い"
+    ],
+    [
+      "しらすご飯",
+      "しらす丼",
+      "混ぜご飯か丼かを名称だけで断定しない"
+    ],
+    [
+      "焼き鮭",
+      "鮭の塩焼き",
+      "塩味付けの有無が未確定"
+    ],
+    [
+      "鶏の照り焼き",
+      "鶏もも肉の照り焼き",
+      "部位を明示した料理を消さない"
+    ],
+    [
+      "豆腐の薬味のせ",
+      "冷奴",
+      "温冷を名称だけで断定しない"
+    ],
+    [
+      "蒸し鶏のねぎだれ",
+      "蒸し鶏のねぎ塩だれ",
+      "たれの違い"
+    ],
+    [
+      "なす味噌炒め",
+      "なすとひき肉の味噌炒め",
+      "ひき肉の有無"
+    ],
+    [
+      "昆布締め",
+      "鯛の昆布じめ",
+      "総称と特定の魚を区別"
+    ],
+    [
+      "卵焼き",
+      "だし巻き卵",
+      "だしの設計の違い"
+    ],
+    [
+      "チキン南蛮",
+      "チキン南蛮風",
+      "郷土料理とアレンジを区別"
+    ],
+    [
+      "鶏つくね汁",
+      "鶏つくね鍋",
+      "汁物と鍋の違い"
+    ]
+  ]
+}

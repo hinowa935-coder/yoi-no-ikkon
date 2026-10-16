@@ -1,0 +1,100 @@
+{
+  "checkedAt": "2026-10-16T08:51:56.061Z",
+  "before": 310,
+  "after": 296,
+  "duplicateCandidatePairs": 44,
+  "automaticMergeGroups": 9,
+  "automaticRemoved": 9,
+  "ruleMergeGroups": 4,
+  "ruleRemoved": 5,
+  "retainedCandidatePairs": 29,
+  "aliases": 48,
+  "redirects": 14,
+  "regionalDishes": 32,
+  "descriptions": 68,
+  "descriptionClasses": {
+    "A": 228,
+    "B": 36,
+    "C": 32
+  },
+  "legacyGenericDescriptionsRetired": 310,
+  "recipeLinks": 75,
+  "recipeDishes": 74,
+  "recipeProviderCounts": {
+    "白ごはん.com": 45,
+    "農林水産省": 29,
+    "キッコーマン": 1
+  },
+  "oldActiveRecipeSearchLinks": 5,
+  "referenceLinks": 36,
+  "referenceDishes": 32,
+  "externalUniqueUrls": 82,
+  "specialtyCandidates": 22,
+  "specialtyDishes": 21,
+  "specialtyApproved": 22,
+  "rakutenSpecialties": 22,
+  "amazonSpecialties": 0,
+  "regionalInformationAdded": 32,
+  "discoverReferences": 24,
+  "discoverRewrittenNames": 0,
+  "discoveryCanonicalResolverUpdated": true,
+  "recommendationDishesAudited": 296,
+  "sakeProductsUnchanged": 492,
+  "mergedEvidenceEntries": 145,
+  "orphanReferences": [],
+  "orphanDeleted": 0,
+  "duplicateRecommendations": [],
+  "emptyRecommendationPools": [],
+  "aliasReasons": [],
+  "protectedFiles": [
+    {
+      "file": "src/data/discoveryCatalog.json",
+      "unchanged": true
+    },
+    {
+      "file": "src/data/favoriteReferences.json",
+      "unchanged": true
+    },
+    {
+      "file": "src/commerce/generated/purchase-matches.json",
+      "unchanged": true
+    },
+    {
+      "file": "src/commerce/generated/product-media.json",
+      "unchanged": true
+    },
+    {
+      "file": "src/commerce/generated/commerce-final-approvals.json",
+      "unchanged": true
+    },
+    {
+      "file": "src/commerce/generated/discovery-links.json",
+      "unchanged": true
+    },
+    {
+      "file": "src/commerce/generated/merchant-links.json",
+      "unchanged": true
+    },
+    {
+      "file": "public/sw.js",
+      "unchanged": true
+    },
+    {
+      "file": "public/manifest.webmanifest",
+      "unchanged": true
+    },
+    {
+      "file": "src/data/discoveryNights.js",
+      "unchanged": true
+    }
+  ],
+  "headersAndBuildConfigUnchanged": true,
+  "canonicalMetadataRoutes": 296,
+  "aliasMetadataNoindex": 14,
+  "recipeSchemaAdded": false,
+  "analytics": [
+    "recipe_link_click",
+    "food_reference_click",
+    "specialty_affiliate_click"
+  ]
+}

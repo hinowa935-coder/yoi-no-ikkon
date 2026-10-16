@@ -1,5 +1,6 @@
 import {dishesForSake,nightAffinity} from './discovery.js';
 import {matchesTemperature} from './temperatureUX.js';
+import {foodSearchTerms} from './foodCatalog.js';
 export const normalizeSearchText=value=>String(value).normalize('NFKC').toLocaleLowerCase().replace(/[ァ-ヶ]/g,c=>String.fromCharCode(c.charCodeAt(0)-0x60));
 export function matchesSearch(item,{keyword='',filters={},onlySaved=false,ids=[]}) {
   if(onlySaved&&!ids.includes(item.id))return false;
@@ -12,7 +13,7 @@ export function matchesSearch(item,{keyword='',filters={},onlySaved=false,ids=[]
   if(filters.night && nightAffinity(item,filters.night).score<=0)return false;
   const dishes=filters.dish||keyword?dishesForSake(item):[];
   if(filters.dish && !item.dishCategories.includes(filters.dish) && !dishes.some(d=>d.method.includes(filters.dish)||d.name.includes(filters.dish)||filters.dish==='家庭料理'))return false;
-  const text=normalizeSearchText([item.productName,item.sake,item.brewery,item.prefecture,item.region,...item.style,...item.taste,...item.temperature,...item.dishes,...item.officialPairings,...dishes.map(d=>d.name)].join(' '));
+  const text=normalizeSearchText([item.productName,item.sake,item.brewery,item.prefecture,item.region,...item.style,...item.taste,...item.temperature,...foodSearchTerms([...item.dishes,...item.officialPairings,...dishes.map(d=>d.name)])].join(' '));
   return normalizeSearchText(keyword).trim().split(/\s+/).filter(Boolean).every(word=>text.includes(word));
 }
 export function sortSearch(items,sort,prefectures) {

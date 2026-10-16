@@ -5,13 +5,103 @@
     {
       "source": "/(.*)",
       "headers": [
-        { "key": "X-Content-Type-Options", "value": "nosniff" },
-        { "key": "Referrer-Policy", "value": "strict-origin-when-cross-origin" },
-        { "key": "X-Frame-Options", "value": "DENY" },
-        { "key": "Permissions-Policy", "value": "camera=(), microphone=(), geolocation=()" },
-        { "key": "Strict-Transport-Security", "value": "max-age=31536000" },
-        { "key": "Content-Security-Policy", "value": "default-src 'self'; script-src 'self' 'unsafe-inline'; script-src-attr 'none'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https://hbb.afl.rakuten.co.jp https://thumbnail.image.rakuten.co.jp; font-src 'self'; connect-src 'self'; worker-src 'self'; manifest-src 'self'; object-src 'none'; base-uri 'none'; form-action 'self'; frame-ancestors 'none'" }
+        {
+          "key": "X-Content-Type-Options",
+          "value": "nosniff"
+        },
+        {
+          "key": "Referrer-Policy",
+          "value": "strict-origin-when-cross-origin"
+        },
+        {
+          "key": "X-Frame-Options",
+          "value": "DENY"
+        },
+        {
+          "key": "Permissions-Policy",
+          "value": "camera=(), microphone=(), geolocation=()"
+        },
+        {
+          "key": "Strict-Transport-Security",
+          "value": "max-age=31536000"
+        },
+        {
+          "key": "Content-Security-Policy",
+          "value": "default-src 'self'; script-src 'self' 'unsafe-inline'; script-src-attr 'none'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https://hbb.afl.rakuten.co.jp https://thumbnail.image.rakuten.co.jp; font-src 'self'; connect-src 'self'; worker-src 'self'; manifest-src 'self'; object-src 'none'; base-uri 'none'; form-action 'self'; frame-ancestors 'none'"
+        }
       ]
+    }
+  ],
+  "redirects": [
+    {
+      "source": "/food/item-314sr",
+      "destination": "/food/item-bxzivf",
+      "permanent": true
+    },
+    {
+      "source": "/food/item-1sq9nxp",
+      "destination": "/food/item-1wwkrut",
+      "permanent": true
+    },
+    {
+      "source": "/food/item-1ykl2rf",
+      "destination": "/food/item-1gtkpzb",
+      "permanent": true
+    },
+    {
+      "source": "/food/item-cty4x5",
+      "destination": "/food/item-7fm3u3",
+      "permanent": true
+    },
+    {
+      "source": "/food/item-1jyl1j1",
+      "destination": "/food/item-z77cor",
+      "permanent": true
+    },
+    {
+      "source": "/food/item-t16d3u",
+      "destination": "/food/item-1g4ik4y",
+      "permanent": true
+    },
+    {
+      "source": "/food/item-fhfci1",
+      "destination": "/food/item-1oko38p",
+      "permanent": true
+    },
+    {
+      "source": "/food/item-1p5i0qq",
+      "destination": "/food/item-vmh5ia",
+      "permanent": true
+    },
+    {
+      "source": "/food/item-n9b8uv",
+      "destination": "/food/item-x563mz",
+      "permanent": true
+    },
+    {
+      "source": "/food/item-9d91bp",
+      "destination": "/food/item-wbgvnu",
+      "permanent": true
+    },
+    {
+      "source": "/food/item-1702we0",
+      "destination": "/food/item-5ngw57",
+      "permanent": true
+    },
+    {
+      "source": "/food/item-eazkgw",
+      "destination": "/food/item-msq2qm",
+      "permanent": true
+    },
+    {
+      "source": "/food/item-10otki6",
+      "destination": "/food/item-1gwo1eu",
+      "permanent": true
+    },
+    {
+      "source": "/food/item-1e9q3qu",
+      "destination": "/food/item-1gwo1eu",
+      "permanent": true
     }
   ]
 }

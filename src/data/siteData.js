@@ -2,6 +2,7 @@ import publicCatalog from "./discoveryCatalog.json" with { type: "json" };
 import { scorePairing } from "./discovery.js";
 import { buildSakeIntroduction } from "./sakeIntroduction.js";
 import { publicTags } from "./publicDisplay.js";
+import { foodCatalog, getCanonicalFood, canonicalFoodName, foodLinkIsCurrent } from './foodCatalog.js';
 
 export const SITE_URL = "https://yoi-no-ikkon.vercel.app";
 export const SITE_NAME = "宵の一献";
@@ -264,10 +265,10 @@ export function getNightBySlug(slug) {
 }
 
 export function getFoodBySlug(slug) {
-  const name = findOptionBySlug(getFoodOptions(), slug);
-  if (!name) return null;
-  const items = visibleSakePairings.filter((item) => item.dishes?.includes(name));
-  return { name, items };
+  const food = getCanonicalFood(slug);
+  if (!food) return null;
+  const items = visibleSakePairings.filter(item => item.dishes?.some(name => canonicalFoodName(name) === food.name));
+  return { ...food, items };
 }
 
 export function getNightOptions() {
@@ -295,9 +296,7 @@ export function getNightMoodEntry(name) {
 }
 
 export function getFoodOptions() {
-  return unique([...publicCatalog.foodNames, ...visibleSakePairings.flatMap((item) => item.dishes || [])]).sort(
-    (a, b) => a.localeCompare(b, "ja"),
-  );
+  return foodCatalog.map(food => food.name).sort((a,b) => a.localeCompare(b,'ja'));
 }
 
 export function getRelatedByNight(name, limit = 8) {
@@ -308,7 +307,7 @@ export function getRelatedByNight(name, limit = 8) {
 
 export function getRelatedByFood(name, limit = 8) {
   return visibleSakePairings
-    .filter((item) => item.dishes?.includes(name))
+    .filter((item) => item.dishes?.some(dish => canonicalFoodName(dish) === canonicalFoodName(name)))
     .slice(0, limit);
 }
 
@@ -418,17 +417,7 @@ export function buildPurchaseTrackingParams(item, link, entrySource, context = {
 }
 
 export function buildRecipeLinks(dish) {
-  const profile = getFoodProfile(dish);
-
-  if (!profile.recipeUrl) return [];
-
-  return [
-    {
-      label: profile.recipeLabel || "作り方を見る ↗",
-      href: profile.recipeUrl,
-      provider: profile.recipeProvider || "recipe",
-    },
-  ];
+  return (getCanonicalFood(dish)?.recipeLinks || []).filter(link=>foodLinkIsCurrent(link)).map(link=>({ ...link, href:link.url, label:link.label || '作り方を見る' }));
 }
 
 export function buildPairingReason(item, dish = "家庭料理") {
@@ -506,50 +495,6 @@ export function buildPairingReason(item, dish = "家庭料理") {
   ]);
 }
 
-const recipeDataByDish = {
-  肉じゃが: {
-    recipeUrl: "https://www.kurashiru.com/search?query=%E8%82%89%E3%81%98%E3%82%83%E3%81%8C",
-    recipeLabel: "肉じゃがの作り方を見る ↗",
-    recipeProvider: "kurashiru",
-    cookingTime: "約30分",
-    servings: "2〜3人分",
-  },
-  冷奴: {
-    recipeUrl: "https://www.kurashiru.com/search?query=%E5%86%B7%E5%A5%B4",
-    recipeLabel: "冷奴の作り方を見る ↗",
-    recipeProvider: "kurashiru",
-    cookingTime: "約5分",
-    servings: "1〜2人分",
-  },
-  鶏の唐揚げ: {
-    recipeUrl: "https://www.kurashiru.com/search?query=%E9%B6%8F%E3%81%AE%E5%94%90%E6%8F%9A%E3%81%92",
-    recipeLabel: "鶏の唐揚げの作り方を見る ↗",
-    recipeProvider: "kurashiru",
-    cookingTime: "約30分",
-    servings: "2〜3人分",
-  },
-  焼き魚: {
-    recipeUrl: "https://www.kurashiru.com/search?query=%E7%84%BC%E3%81%8D%E9%AD%9A",
-    recipeLabel: "焼き魚の作り方を見る ↗",
-    recipeProvider: "kurashiru",
-    cookingTime: "約15分",
-    servings: "1〜2人分",
-  },
-  餃子: {
-    recipeUrl: "https://www.kurashiru.com/search?query=%E9%A4%83%E5%AD%90",
-    recipeLabel: "餃子の作り方を見る ↗",
-    recipeProvider: "kurashiru",
-    cookingTime: "約40分",
-    servings: "2〜3人分",
-  },
-  おでん: {
-    recipeUrl: "https://www.kurashiru.com/search?query=%E3%81%8A%E3%81%A7%E3%82%93",
-    recipeLabel: "おでんの作り方を見る ↗",
-    recipeProvider: "kurashiru",
-    cookingTime: "約60分",
-    servings: "3〜4人分",
-  },
-};
 
 function getDishPairingCue(dish = "家庭料理") {
   if (dish.includes("冷奴") || dish.includes("豆腐")) {
@@ -589,34 +534,6 @@ function getDishFlavorProfile(dish = "家庭料理") {
   };
 }
 
-function buildFoodDescription(name = "家庭料理") {
-  if (name.includes("冷奴") || name.includes("豆腐")) {
-    return `${name}は、豆腐のやさしい味を薬味やたれで楽しむ一品です。食卓の最初にも、軽い晩酌にも合わせやすい家庭料理です。`;
-  }
-  if (name.includes("唐揚げ") || name.includes("揚げ") || name.includes("フライ")) {
-    return `${name}は、香ばしさとほどよい油分が魅力の一皿です。後口を整える日本酒を合わせると、食べ進めやすくなります。`;
-  }
-  if (name.includes("焼き魚") || name.includes("塩焼き") || name.includes("干物")) {
-    return `${name}は、焼き目の香ばしさと塩気を楽しむ定番の家庭料理です。すっきりした酒や米の旨みがある酒とよく合います。`;
-  }
-  if (name.includes("煮") || name.includes("肉じゃが") || name.includes("筑前煮") || name.includes("おでん")) {
-    return `${name}は、だしや甘辛い味付けがしみた家庭料理です。米の旨みやコクのある日本酒が、味を受け止めてくれます。`;
-  }
-  if (name.includes("刺身") || name.includes("たたき") || name.includes("カルパッチョ")) {
-    return `${name}は、素材の旨みをそのまま楽しむ一品です。香りが強すぎず、後口のきれいな日本酒を選ぶと合わせやすいです。`;
-  }
-  if (name.includes("酢") || name.includes("南蛮") || name.includes("マリネ") || name.includes("梅")) {
-    return `${name}は、酸味や香りでさっぱり食べられる一品です。酸のある日本酒や軽やかなタイプと合わせると、味がまとまります。`;
-  }
-  if (name.includes("鍋") || name.includes("湯豆腐")) {
-    return `${name}は、温かいだしと具材の旨みを楽しむ料理です。常温や燗でもおいしい日本酒を合わせると、食卓が落ち着きます。`;
-  }
-  if (name.includes("照り焼き") || name.includes("生姜焼き") || name.includes("炒め")) {
-    return `${name}は、香ばしさと甘辛い味付けが食欲を誘う一皿です。キレのある酒や旨みのある酒が、味の濃さを整えます。`;
-  }
-
-  return `${name}は、日々の食卓に取り入れやすい家庭料理です。味付けや食感に合わせて、日本酒の香り、旨み、後口を選ぶと楽しみやすくなります。`;
-}
 
 function chooseById(item, values) {
   const seed = Array.from(item.id || item.sake || "").reduce(
@@ -627,19 +544,7 @@ function chooseById(item, values) {
 }
 
 export function getFoodProfile(name) {
-  const recipeData = recipeDataByDish[name] || {};
-
-  return {
-    name,
-    description: buildFoodDescription(name),
-    ingredients: [],
-    instructions: [],
-    cookingTime: recipeData.cookingTime || "",
-    servings: recipeData.servings || "",
-    recipeUrl: recipeData.recipeUrl || "",
-    recipeLabel: recipeData.recipeLabel || "",
-    recipeProvider: recipeData.recipeProvider || "",
-  };
+  return getCanonicalFood(name) || { name, description:'', recipeLinks:[], referenceLinks:[], regions:[] };
 }
 
 export function buildSakeEditorialTags(item) {

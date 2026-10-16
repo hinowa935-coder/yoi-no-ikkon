@@ -391,6 +391,25 @@ main.min-h-screen::after {
 .purchase-provider { padding: 12px 0; }
 .purchase-provider.is-rakuten { border-left: 2px solid #b9a160; padding-left: 14px; }
 
+.food-description { max-width: 40em; line-height: 1.9; }
+.food-region { color: #d8bd7a; font-size: 12px; line-height: 1.6; }
+.food-choice-grid .dish-choice-name .food-card-description { display: -webkit-box; -webkit-box-orient: vertical; -webkit-line-clamp: 2; overflow: hidden; line-height: 1.6; }
+.food-choice-grid .dish-choice-name .food-region { color: #d8bd7a; }
+.food-link-list { display: flex; flex-direction: column; align-items: flex-start; gap: 8px; }
+.food-external-link { display: inline-flex; align-items: center; min-height: 44px; max-width: 100%; overflow-wrap: anywhere; line-height: 1.7; }
+.food-references { margin-top: 22px; }
+.food-references h3 { font-size: 18px; margin-bottom: 8px; }
+.specialty-links ul { list-style: none; margin: 0; padding: 0; }
+.specialty-links li { display: flex; align-items: center; justify-content: space-between; gap: 16px; padding: 14px 0; border-bottom: 1px solid #f8f0df20; }
+.specialty-links li > div { min-width: 0; }
+.specialty-links strong { font-size: 15px; font-weight: 400; }
+.specialty-links .food-region { display: block; margin-top: 4px; }
+.specialty-links .food-external-link, .specialty-note { font-size: 13px; }
+@media (max-width: 480px) {
+  .specialty-links li { flex-direction: column; align-items: flex-start; gap: 4px; }
+  .food-description { font-size: 16px; }
+}
+
 /* Compact comparison surfaces; original affiliate creative dimensions are untouched. */
 .choice-icon { display: inline-flex; align-items: center; justify-content: center; flex: 0 0 24px; width: 24px; height: 24px; color: #d8bd7a; }
 .choice-word { display: inline-block; }

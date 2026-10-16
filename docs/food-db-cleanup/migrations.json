@@ -1,0 +1,364 @@
+{
+  "before": 310,
+  "after": 296,
+  "groups": [
+    {
+      "canonicalId": "item-bxzivf",
+      "canonicalName": "アジフライ",
+      "canonicalSlug": "item-bxzivf",
+      "mergedIds": [
+        "item-314sr"
+      ],
+      "mergedNames": [
+        "あじフライ"
+      ],
+      "aliases": [
+        "あじフライ",
+        "鯵フライ",
+        "鯵のフライ",
+        "アジのフライ",
+        "あじのフライ"
+      ],
+      "reason": "魚名のかな表記のみ",
+      "type": "A",
+      "confidence": "high",
+      "reviewedAt": "2026-10-16",
+      "reviewedBy": "codex-editorial-rule-review",
+      "sources": [
+        "https://www.sirogohan.com/recipe/ajihurai/"
+      ]
+    },
+    {
+      "canonicalId": "item-1wwkrut",
+      "canonicalName": "牡蠣フライ",
+      "canonicalSlug": "item-1wwkrut",
+      "mergedIds": [
+        "item-1sq9nxp"
+      ],
+      "mergedNames": [
+        "カキフライ"
+      ],
+      "aliases": [
+        "カキフライ",
+        "かきフライ"
+      ],
+      "reason": "魚介名の漢字・カタカナ差のみ",
+      "type": "A",
+      "confidence": "high",
+      "reviewedAt": "2026-10-16",
+      "reviewedBy": "codex-editorial-rule-review",
+      "sources": []
+    },
+    {
+      "canonicalId": "item-1gtkpzb",
+      "canonicalName": "かつおのたたき",
+      "canonicalSlug": "item-1gtkpzb",
+      "mergedIds": [
+        "item-1ykl2rf"
+      ],
+      "mergedNames": [
+        "鰹のたたき"
+      ],
+      "aliases": [
+        "鰹のたたき",
+        "カツオのたたき"
+      ],
+      "reason": "魚名の漢字・かな差のみ",
+      "type": "A",
+      "confidence": "high",
+      "reviewedAt": "2026-10-16",
+      "reviewedBy": "codex-editorial-rule-review",
+      "sources": [
+        "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/katuonotataki_kochi.html"
+      ]
+    },
+    {
+      "canonicalId": "item-7fm3u3",
+      "canonicalName": "なすの揚げ浸し",
+      "canonicalSlug": "item-7fm3u3",
+      "mergedIds": [
+        "item-cty4x5"
+      ],
+      "mergedNames": [
+        "なすの揚げびたし"
+      ],
+      "aliases": [
+        "なすの揚げびたし"
+      ],
+      "reason": "送り仮名と表記のみ",
+      "type": "A",
+      "confidence": "high",
+      "reviewedAt": "2026-10-16",
+      "reviewedBy": "codex-editorial-rule-review",
+      "sources": []
+    },
+    {
+      "canonicalId": "item-z77cor",
+      "canonicalName": "れんこんのきんぴら",
+      "canonicalSlug": "item-z77cor",
+      "mergedIds": [
+        "item-1jyl1j1"
+      ],
+      "mergedNames": [
+        "れんこんきんぴら"
+      ],
+      "aliases": [
+        "れんこんきんぴら",
+        "蓮根のきんぴら"
+      ],
+      "reason": "助詞の有無のみ",
+      "type": "A",
+      "confidence": "high",
+      "reviewedAt": "2026-10-16",
+      "reviewedBy": "codex-editorial-rule-review",
+      "sources": [
+        "https://www.sirogohan.com/recipe/renkonkinpira/"
+      ]
+    },
+    {
+      "canonicalId": "item-1g4ik4y",
+      "canonicalName": "塩昆布キャベツ",
+      "canonicalSlug": "item-1g4ik4y",
+      "mergedIds": [
+        "item-t16d3u"
+      ],
+      "mergedNames": [
+        "キャベツの塩昆布和え"
+      ],
+      "aliases": [
+        "キャベツの塩昆布和え"
+      ],
+      "reason": "食材と調理法が同じ名称の語順差",
+      "type": "A",
+      "confidence": "high",
+      "reviewedAt": "2026-10-16",
+      "reviewedBy": "codex-editorial-rule-review",
+      "sources": []
+    },
+    {
+      "canonicalId": "item-1oko38p",
+      "canonicalName": "焼きししゃも",
+      "canonicalSlug": "item-1oko38p",
+      "mergedIds": [
+        "item-fhfci1"
+      ],
+      "mergedNames": [
+        "ししゃも焼き"
+      ],
+      "aliases": [
+        "ししゃも焼き"
+      ],
+      "reason": "同じ魚の焼き物の語順差",
+      "type": "A",
+      "confidence": "high",
+      "reviewedAt": "2026-10-16",
+      "reviewedBy": "codex-editorial-rule-review",
+      "sources": []
+    },
+    {
+      "canonicalId": "item-vmh5ia",
+      "canonicalName": "味噌焼きおにぎり",
+      "canonicalSlug": "item-vmh5ia",
+      "mergedIds": [
+        "item-1p5i0qq"
+      ],
+      "mergedNames": [
+        "焼き味噌おにぎり"
+      ],
+      "aliases": [
+        "焼き味噌おにぎり"
+      ],
+      "reason": "同じ味噌を使う焼きおにぎりの語順差",
+      "type": "A",
+      "confidence": "high",
+      "reviewedAt": "2026-10-16",
+      "reviewedBy": "codex-editorial-rule-review",
+      "sources": [
+        "https://www.sirogohan.com/recipe/yakionigirimiso/"
+      ]
+    },
+    {
+      "canonicalId": "item-x563mz",
+      "canonicalName": "白菜と豚肉の重ね煮",
+      "canonicalSlug": "item-x563mz",
+      "mergedIds": [
+        "item-n9b8uv"
+      ],
+      "mergedNames": [
+        "豚肉と白菜の重ね煮"
+      ],
+      "aliases": [
+        "豚肉と白菜の重ね煮"
+      ],
+      "reason": "同じ食材・重ね煮の語順差",
+      "type": "A",
+      "confidence": "high",
+      "reviewedAt": "2026-10-16",
+      "reviewedBy": "codex-editorial-rule-review",
+      "sources": []
+    },
+    {
+      "canonicalId": "item-wbgvnu",
+      "canonicalName": "とり天",
+      "canonicalSlug": "item-wbgvnu",
+      "mergedIds": [
+        "item-9d91bp"
+      ],
+      "mergedNames": [
+        "鶏天"
+      ],
+      "aliases": [
+        "鶏天",
+        "とりてん"
+      ],
+      "reason": "鶏肉の天ぷらという同じ料理。から揚げには統合しない",
+      "type": "B",
+      "confidence": "medium",
+      "reviewedAt": "2026-10-16",
+      "reviewedBy": "codex-editorial-rule-review",
+      "sources": [
+        "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/toriten_oita.html"
+      ]
+    },
+    {
+      "canonicalId": "item-5ngw57",
+      "canonicalName": "たらちり鍋",
+      "canonicalSlug": "item-5ngw57",
+      "mergedIds": [
+        "item-1702we0"
+      ],
+      "mergedNames": [
+        "鱈ちり"
+      ],
+      "aliases": [
+        "鱈ちり"
+      ],
+      "reason": "鱈を使うちり鍋の一般的略称",
+      "type": "B",
+      "confidence": "medium",
+      "reviewedAt": "2026-10-16",
+      "reviewedBy": "codex-editorial-rule-review",
+      "sources": []
+    },
+    {
+      "canonicalId": "item-msq2qm",
+      "canonicalName": "豆腐のきのこあん",
+      "canonicalSlug": "item-msq2qm",
+      "mergedIds": [
+        "item-eazkgw"
+      ],
+      "mergedNames": [
+        "豆腐ときのこのあんかけ"
+      ],
+      "aliases": [
+        "豆腐ときのこのあんかけ"
+      ],
+      "reason": "豆腐にきのこあんを合わせる同じ料理の呼称",
+      "type": "B",
+      "confidence": "medium",
+      "reviewedAt": "2026-10-16",
+      "reviewedBy": "codex-editorial-rule-review",
+      "sources": []
+    },
+    {
+      "canonicalId": "item-1gwo1eu",
+      "canonicalName": "冷奴",
+      "canonicalSlug": "item-1gwo1eu",
+      "mergedIds": [
+        "item-10otki6",
+        "item-1e9q3qu"
+      ],
+      "mergedNames": [
+        "冷奴の薬味のせ",
+        "薬味たっぷり冷ややっこ"
+      ],
+      "aliases": [
+        "冷奴の薬味のせ",
+        "薬味たっぷり冷ややっこ",
+        "冷や奴",
+        "冷ややっこ",
+        "ひややっこ"
+      ],
+      "reason": "定番の薬味を添える冷奴。生姜だれ・梅しそなど別味付けは維持",
+      "type": "B",
+      "confidence": "medium",
+      "reviewedAt": "2026-10-16",
+      "reviewedBy": "codex-editorial-rule-review",
+      "sources": [
+        "https://www.kikkoman.co.jp/homecook/search/recipe/00057927/"
+      ]
+    }
+  ],
+  "redirects": [
+    {
+      "source": "/food/item-314sr",
+      "destination": "/food/item-bxzivf",
+      "permanent": true
+    },
+    {
+      "source": "/food/item-1sq9nxp",
+      "destination": "/food/item-1wwkrut",
+      "permanent": true
+    },
+    {
+      "source": "/food/item-1ykl2rf",
+      "destination": "/food/item-1gtkpzb",
+      "permanent": true
+    },
+    {
+      "source": "/food/item-cty4x5",
+      "destination": "/food/item-7fm3u3",
+      "permanent": true
+    },
+    {
+      "source": "/food/item-1jyl1j1",
+      "destination": "/food/item-z77cor",
+      "permanent": true
+    },
+    {
+      "source": "/food/item-t16d3u",
+      "destination": "/food/item-1g4ik4y",
+      "permanent": true
+    },
+    {
+      "source": "/food/item-fhfci1",
+      "destination": "/food/item-1oko38p",
+      "permanent": true
+    },
+    {
+      "source": "/food/item-1p5i0qq",
+      "destination": "/food/item-vmh5ia",
+      "permanent": true
+    },
+    {
+      "source": "/food/item-n9b8uv",
+      "destination": "/food/item-x563mz",
+      "permanent": true
+    },
+    {
+      "source": "/food/item-9d91bp",
+      "destination": "/food/item-wbgvnu",
+      "permanent": true
+    },
+    {
+      "source": "/food/item-1702we0",
+      "destination": "/food/item-5ngw57",
+      "permanent": true
+    },
+    {
+      "source": "/food/item-eazkgw",
+      "destination": "/food/item-msq2qm",
+      "permanent": true
+    },
+    {
+      "source": "/food/item-10otki6",
+      "destination": "/food/item-1gwo1eu",
+      "permanent": true
+    },
+    {
+      "source": "/food/item-1e9q3qu",
+      "destination": "/food/item-1gwo1eu",
+      "permanent": true
+    }
+  ]
+}

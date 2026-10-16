@@ -1,4 +1,5 @@
 import {discoveryNights,discoveryDishes,foodDirections,scorePairing} from './discovery.js';
+import {canonicalFoodName} from './foodCatalog.js';
 export function sakeDiscoveryHref(id,{nightId,directionId,dishName,seed,dishLimit=6}) {
   const query=new URLSearchParams({from:'discover',night:nightId,direction:directionId,dish:dishName,day:seed});
   if(dishLimit>6)query.set('dishes',String(dishLimit));
@@ -8,7 +9,7 @@ export function sakeDiscoveryContext(query,item) {
   if(query.get('from')!=='discover')return null;
   const night=discoveryNights.find(n=>n.id===query.get('night'));
   const direction=foodDirections.find(d=>d.id===query.get('direction'));
-  const dish=discoveryDishes.find(d=>d.name===query.get('dish')&&d.directions.includes(direction?.id));
+  const dish=discoveryDishes.find(d=>d.name===canonicalFoodName(query.get('dish'))&&d.directions.includes(direction?.id));
   const seed=query.get('day');
   if(!night||!direction||!dish||!/^\d{4}-\d{2}-\d{2}$/.test(seed||''))return null;
   const pairing=scorePairing(item,dish.name,night.id);

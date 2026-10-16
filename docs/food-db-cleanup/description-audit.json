@@ -1,0 +1,3238 @@
+{
+  "rows": [
+    {
+      "id": "item-bxzivf",
+      "name": "アジフライ",
+      "classification": "B",
+      "description": "アジに衣を付けて揚げる定番のおかず。魚の旨味と衣の香ばしさを、ソースやたれとともに楽しみます。",
+      "regional": false,
+      "sources": [
+        {
+          "url": "https://www.sirogohan.com/recipe/ajihurai/",
+          "type": "recipePublisher",
+          "name": "アジフライのレシピ/作り方：白ごはん.com",
+          "checkedAt": "2026-10-16T06:34:58.311Z"
+        }
+      ],
+      "reason": "料理の内容が分かる短い補助説明"
+    },
+    {
+      "id": "item-wtd20n",
+      "name": "いかそうめん",
+      "classification": "B",
+      "description": "いかを細く切り、そうめんに見立てた刺身。細切りならではの食感と、いかの穏やかな甘みを楽しみます。",
+      "regional": false,
+      "sources": [],
+      "reason": "料理の内容が分かる短い補助説明"
+    },
+    {
+      "id": "item-uea4vn",
+      "name": "いかなごくぎ煮",
+      "classification": "C",
+      "description": "イカナゴの稚魚を醤油や砂糖、生姜で甘辛く煮る、兵庫の郷土料理。小魚の旨味をしっかりした味付けで楽しみます。",
+      "regional": true,
+      "sources": [
+        {
+          "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/40_1_hyogo.html",
+          "type": "publicAgency",
+          "name": "イカナゴのくぎ煮 兵庫県 | うちの郷土料理：農林水産省",
+          "checkedAt": "2026-10-16T06:34:17.015Z"
+        }
+      ],
+      "reason": "郷土名・地域差を理解するための短い説明"
+    },
+    {
+      "id": "item-hxueoj",
+      "name": "いかにんじん",
+      "classification": "C",
+      "description": "細切りのにんじんとするめを、醤油を使うたれに漬ける福島の郷土料理。にんじんの歯触りとするめの旨味が重なります。",
+      "regional": true,
+      "sources": [
+        {
+          "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/30_1_fukushima.html",
+          "type": "publicAgency",
+          "name": "いかにんじん 福島県 | うちの郷土料理：農林水産省",
+          "checkedAt": "2026-10-16T06:34:18.098Z"
+        }
+      ],
+      "reason": "郷土名・地域差を理解するための短い説明"
+    },
+    {
+      "id": "item-9816mk",
+      "name": "いか唐揚げ",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-ppv3fm",
+      "name": "いちじく白和え",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-jvymnb",
+      "name": "いぶりがっこ",
+      "classification": "C",
+      "description": "燻した大根を米ぬかなどに漬け込む、秋田の漬物。噛むほどに広がる燻製の香りと、漬物ならではの歯応えを楽しみます。",
+      "regional": true,
+      "sources": [
+        {
+          "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/29_1_akita.html",
+          "type": "publicAgency",
+          "name": "いぶりがっこ 秋田県 | うちの郷土料理：農林水産省",
+          "checkedAt": "2026-10-16T06:34:14.907Z"
+        }
+      ],
+      "reason": "郷土名・地域差を理解するための短い説明"
+    },
+    {
+      "id": "item-1943ghu",
+      "name": "いわしの蒲焼き",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-9gvu20",
+      "name": "えびとブロッコリー炒め",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-1xp9fqf",
+      "name": "えび春巻き",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [
+        {
+          "url": "https://www.sirogohan.com/recipe/harumakiebi/",
+          "type": "recipePublisher",
+          "name": "えび春巻きのレシピ／じゃがいもと大葉などをプラスして！：白ごはん.com",
+          "checkedAt": "2026-10-16T06:34:55.158Z"
+        }
+      ],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-yxmzsn",
+      "name": "オクラのおひたし",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-1w1wueq",
+      "name": "おくら納豆",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-ohud5z",
+      "name": "おでん",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [
+        {
+          "url": "https://www.sirogohan.com/recipe/oden/",
+          "type": "recipePublisher",
+          "name": "おでんのレシピ/作り方：白ごはん.com",
+          "checkedAt": "2026-10-16T06:44:44.221Z"
+        }
+      ],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-1kpo6q7",
+      "name": "おばんざい盛り",
+      "classification": "B",
+      "description": "小さなおかずをいくつか盛り合わせた一皿。使う食材や味付けはさまざまで、その日の食卓や季節に合わせた味を楽しみます。",
+      "regional": false,
+      "sources": [],
+      "reason": "料理の内容が分かる短い補助説明"
+    },
+    {
+      "id": "item-1gtkpzb",
+      "name": "かつおのたたき",
+      "classification": "C",
+      "description": "表面を焼いたかつおを切り、薬味とたれで楽しむ高知ゆかりの料理。香ばしい表面と、内側の魚の味わいを一緒に楽しみます。",
+      "regional": true,
+      "sources": [
+        {
+          "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/katuonotataki_kochi.html",
+          "type": "publicAgency",
+          "name": "かつおのたたき 高知県 | うちの郷土料理：農林水産省",
+          "checkedAt": "2026-10-16T06:33:46.432Z"
+        }
+      ],
+      "reason": "郷土名・地域差を理解するための短い説明"
+    },
+    {
+      "id": "item-14jjrqa",
+      "name": "かに玉風卵焼き",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-1yj224t",
+      "name": "かぶのそぼろあん",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-xk8720",
+      "name": "かぶのそぼろ煮",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-12f2w3m",
+      "name": "かぶの浅漬け",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-aqqkc9",
+      "name": "かぼちゃの煮物",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [
+        {
+          "url": "https://www.sirogohan.com/recipe/kabocha/",
+          "type": "recipePublisher",
+          "name": "かぼちゃの煮物のレシピ/作り方：白ごはん.com",
+          "checkedAt": "2026-10-16T06:34:47.797Z"
+        }
+      ],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-1oqeudp",
+      "name": "かれいの煮つけ",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-18eu2t0",
+      "name": "きのこのバター醤油炒め",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-1akkb7y",
+      "name": "きのこのホイル焼き",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-1u8ymom",
+      "name": "きのこの炊き込みご飯",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [
+        {
+          "url": "https://www.sirogohan.com/recipe/kinokogohan/",
+          "type": "recipePublisher",
+          "name": "きのこご飯（炊き込みご飯）のレシピ/作り方：白ごはん.com",
+          "checkedAt": "2026-10-16T06:35:04.636Z"
+        }
+      ],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-1vh5p2e",
+      "name": "きのこ汁",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-otkikv",
+      "name": "きのこ味噌汁",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-imd7hg",
+      "name": "キャベツ千切り",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-1ig36g0",
+      "name": "キャロットラペ",
+      "classification": "B",
+      "description": "細切りのにんじんを、酢や油などで和えるサラダ。にんじんの歯触りと、さっぱりした酸味を楽しむ一皿です。",
+      "regional": false,
+      "sources": [],
+      "reason": "料理の内容が分かる短い補助説明"
+    },
+    {
+      "id": "item-7oonpf",
+      "name": "きゅうりとわかめの酢の物",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-n4oa1c",
+      "name": "きゅうりのたたき",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-12iwkd2",
+      "name": "きゅうりの酢の物",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-12zgkud",
+      "name": "きゅうりの浅漬け",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [
+        {
+          "url": "https://www.sirogohan.com/recipe/tukemono-kyuuri/",
+          "type": "recipePublisher",
+          "name": "きゅうり浅漬けのレシピ/作り方：白ごはん.com",
+          "checkedAt": "2026-10-16T06:35:07.788Z"
+        }
+      ],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-1cb8304",
+      "name": "きんぴらごぼう",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [
+        {
+          "url": "https://www.sirogohan.com/recipe/kinpira/",
+          "type": "recipePublisher",
+          "name": "きんぴらごぼうのレシピ/作り方：白ごはん.com",
+          "checkedAt": "2026-10-16T06:34:35.094Z"
+        }
+      ],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-66fo3h",
+      "name": "けんちょう",
+      "classification": "C",
+      "description": "大根やにんじん、崩した豆腐を炒めて煮る、山口の家庭料理。野菜の甘みと豆腐の味わいを、醤油の風味でまとめます。",
+      "regional": true,
+      "sources": [
+        {
+          "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/43_2_yamaguchi.html",
+          "type": "publicAgency",
+          "name": "けんちょう 山口県 | うちの郷土料理：農林水産省",
+          "checkedAt": "2026-10-16T06:34:19.107Z"
+        }
+      ],
+      "reason": "郷土名・地域差を理解するための短い説明"
+    },
+    {
+      "id": "item-1udx1zz",
+      "name": "コールスロー",
+      "classification": "B",
+      "description": "細切りのキャベツなどをドレッシングで和えるサラダ。野菜の歯触りを生かし、味付けは家庭ごとにさまざまです。",
+      "regional": false,
+      "sources": [],
+      "reason": "料理の内容が分かる短い補助説明"
+    },
+    {
+      "id": "item-i7ip23",
+      "name": "ごぼう唐揚げ",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [
+        {
+          "url": "https://www.sirogohan.com/recipe/goboukaraage/",
+          "type": "recipePublisher",
+          "name": "うま味広がる！ごぼうの唐揚げのレシピ/作り方：白ごはん.com",
+          "checkedAt": "2026-10-16T06:34:44.608Z"
+        }
+      ],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-6xeukp",
+      "name": "こんにゃく田楽",
+      "classification": "B",
+      "description": "こんにゃくに味噌だれを添えて楽しむ一品。弾力のある歯触りと、味噌のコクを一緒に味わいます。",
+      "regional": false,
+      "sources": [
+        {
+          "url": "https://www.sirogohan.com/recipe/konnyakudengaku/",
+          "type": "recipePublisher",
+          "name": "簡単なこんにゃく田楽のレシピ/作り方：白ごはん.com",
+          "checkedAt": "2026-10-16T06:34:56.225Z"
+        }
+      ],
+      "reason": "料理の内容が分かる短い補助説明"
+    },
+    {
+      "id": "item-1fe5ig4",
+      "name": "サーモンの柚子マリネ",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-fpo0tp",
+      "name": "ささみチーズフライ",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-1g4riyb",
+      "name": "ささみ梅和え",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-14iqtoc",
+      "name": "さつまいもの甘煮",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-zeowgi",
+      "name": "さつま揚げ",
+      "classification": "C",
+      "description": "魚のすり身を油で揚げた、鹿児島では「つけあげ」とも呼ばれる郷土食。魚の旨味と、ふっくらした食感を楽しみます。",
+      "regional": true,
+      "sources": [
+        {
+          "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/tsukeage_kagoshima.html",
+          "type": "publicAgency",
+          "name": "つけあげ 鹿児島県 | うちの郷土料理：農林水産省",
+          "checkedAt": "2026-10-16T06:33:44.400Z"
+        }
+      ],
+      "reason": "郷土名・地域差を理解するための短い説明"
+    },
+    {
+      "id": "item-14618wz",
+      "name": "さんまの塩焼き",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-1gnimcq",
+      "name": "しじみ汁",
+      "classification": "B",
+      "description": "しじみを使う汁物。味噌仕立てやすまし汁など地域・家庭ごとの形があり、貝のだしを味わいます。",
+      "regional": false,
+      "sources": [
+        {
+          "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/shijimijiru_shimane.html",
+          "type": "publicAgency",
+          "name": "しじみ汁 島根県 | うちの郷土料理：農林水産省",
+          "checkedAt": "2026-10-16T06:33:49.583Z"
+        }
+      ],
+      "reason": "料理の内容が分かる短い補助説明"
+    },
+    {
+      "id": "item-1xmh08h",
+      "name": "しめじのバター醤油",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-otwcw9",
+      "name": "〆のうどん",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-1a862mi",
+      "name": "じゃがいものそぼろ煮",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-fycky9",
+      "name": "じゃがいもの甘辛煮",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-1nv3byr",
+      "name": "じゃがバター",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-1m9frm4",
+      "name": "じゃこ天",
+      "classification": "C",
+      "description": "小魚を骨や皮ごとすり身にして揚げる、愛媛・南予の郷土食。魚の旨味と、骨を含む独特の歯触りが特徴です。",
+      "regional": true,
+      "sources": [
+        {
+          "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/jakoten_ehime.html",
+          "type": "publicAgency",
+          "name": "じゃこ天 愛媛県 | うちの郷土料理：農林水産省",
+          "checkedAt": "2026-10-16T06:34:07.547Z"
+        }
+      ],
+      "reason": "郷土名・地域差を理解するための短い説明"
+    },
+    {
+      "id": "item-ndby1z",
+      "name": "しょうゆ豆",
+      "classification": "C",
+      "description": "香川では炒ったそら豆を甘辛く漬け、長野では豆麹を使う発酵食品。同じ名前でも材料と作り方が異なる、二つの郷土の味です。",
+      "regional": true,
+      "sources": [
+        {
+          "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/shouyu_mame_kagawa.html",
+          "type": "publicAgency",
+          "name": "しょうゆ豆 香川県 | うちの郷土料理：農林水産省",
+          "checkedAt": "2026-10-16T06:34:06.494Z"
+        },
+        {
+          "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/shouyu_mame_nagano.html",
+          "type": "publicAgency",
+          "name": "しょうゆ豆／しょうゆの実 長野県 | うちの郷土料理：農林水産省",
+          "checkedAt": "2026-10-16T06:34:02.247Z"
+        }
+      ],
+      "reason": "郷土名・地域差を理解するための短い説明"
+    },
+    {
+      "id": "item-1ijw7lh",
+      "name": "しらすご飯",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-1jz1cmg",
+      "name": "しらす大根",
+      "classification": "B",
+      "description": "しらすと大根を組み合わせた小さなおかず。大根の切り方や仕立てはさまざまで、しらすの塩気や旨味を楽しめます。",
+      "regional": false,
+      "sources": [],
+      "reason": "料理の内容が分かる短い補助説明"
+    },
+    {
+      "id": "item-v2g1vk",
+      "name": "しらす丼",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [
+        {
+          "url": "https://www.sirogohan.com/recipe/sirasudon/",
+          "type": "recipePublisher",
+          "name": "5分で完成！簡単しらす丼のレシピ：白ごはん.com",
+          "checkedAt": "2026-10-16T06:34:51.997Z"
+        }
+      ],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-1i5vca8",
+      "name": "しらたきの明太炒め",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-3f6jco",
+      "name": "すき焼き",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [
+        {
+          "url": "https://www.sirogohan.com/recipe/sukiyaki/",
+          "type": "recipePublisher",
+          "name": "すき焼きのレシピ（おすすめ具材や割り下の味付けまで）：白ごはん.com",
+          "checkedAt": "2026-10-16T06:34:50.943Z"
+        }
+      ],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-11hrfdc",
+      "name": "たくあん",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-1xqnzj6",
+      "name": "たこの酢の物",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-1oavcuc",
+      "name": "たこ焼き",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [
+        {
+          "url": "https://www.sirogohan.com/recipe/takoyaki/",
+          "type": "recipePublisher",
+          "name": "だしをきかせた「絶品たこ焼き」を家で作ろう！（生地は焼き上がりがとろとろレシピ）：白ごはん.com",
+          "checkedAt": "2026-10-16T06:35:02.532Z"
+        }
+      ],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-1n9fhwm",
+      "name": "だしトマト",
+      "classification": "B",
+      "description": "トマトにだしの風味を合わせる一品。トマトの酸味と、だしの穏やかな味わいを一緒に楽しみます。",
+      "regional": false,
+      "sources": [],
+      "reason": "料理の内容が分かる短い補助説明"
+    },
+    {
+      "id": "item-snidmz",
+      "name": "だし巻き卵",
+      "classification": "B",
+      "description": "卵にだしを合わせて焼き、巻いて仕上げる一品。やわらかな食感と、卵やだしの風味を楽しみます。",
+      "regional": false,
+      "sources": [
+        {
+          "url": "https://www.sirogohan.com/recipe/dasimaki/",
+          "type": "recipePublisher",
+          "name": "だし巻き卵のレシピ/作り方：白ごはん.com",
+          "checkedAt": "2026-10-16T06:35:11.273Z"
+        }
+      ],
+      "reason": "料理の内容が分かる短い補助説明"
+    },
+    {
+      "id": "item-5ngw57",
+      "name": "たらちり鍋",
+      "classification": "B",
+      "description": "たらと野菜、豆腐などをだしで煮る鍋料理。具材の穏やかな味わいを、ぽん酢や薬味とともに楽しみます。",
+      "regional": false,
+      "sources": [],
+      "reason": "料理の内容が分かる短い補助説明"
+    },
+    {
+      "id": "item-1rh0pgn",
+      "name": "チーズ入り卵焼き",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-1qvavzj",
+      "name": "チキンカツ",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-85tuip",
+      "name": "チキン南蛮",
+      "classification": "C",
+      "description": "揚げた鶏肉を甘酢にくぐらせる、宮崎で親しまれる料理。タルタルソースを添える形もあり、衣にしみた甘酸っぱさが特徴です。",
+      "regional": true,
+      "sources": [
+        {
+          "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/chikin_nanban_miyazaki.html",
+          "type": "publicAgency",
+          "name": "チキン南蛮 宮崎県 | うちの郷土料理：農林水産省",
+          "checkedAt": "2026-10-16T06:33:56.968Z"
+        }
+      ],
+      "reason": "郷土名・地域差を理解するための短い説明"
+    },
+    {
+      "id": "item-1escrbf",
+      "name": "チキン南蛮風",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-16ysxnd",
+      "name": "ちくわの磯辺揚げ",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-blfxcb",
+      "name": "ツナときゅうりのサラダ",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-1ge0fp8",
+      "name": "ツナ入り卵焼き",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-7a4fn2",
+      "name": "てこね寿司",
+      "classification": "C",
+      "description": "醤油だれに漬けたかつおなどの魚を、酢飯と合わせる三重・志摩の郷土料理。魚の旨味とすし飯の酸味を一緒に楽しみます。",
+      "regional": true,
+      "sources": [
+        {
+          "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/tekone_zushi_mie.html",
+          "type": "publicAgency",
+          "name": "てこねずし 三重県 | うちの郷土料理：農林水産省",
+          "checkedAt": "2026-10-16T06:34:10.667Z"
+        }
+      ],
+      "reason": "郷土名・地域差を理解するための短い説明"
+    },
+    {
+      "id": "item-1luk72v",
+      "name": "とうふちくわ",
+      "classification": "C",
+      "description": "豆腐と魚のすり身を合わせて作る、鳥取の郷土食。一般的なちくわより豆腐の割合が多く、やわらかな口当たりを楽しめます。",
+      "regional": true,
+      "sources": [
+        {
+          "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/toufu_chikuwa_tottori.html",
+          "type": "publicAgency",
+          "name": "とうふちくわ 鳥取県 | うちの郷土料理：農林水産省",
+          "checkedAt": "2026-10-16T06:34:05.441Z"
+        }
+      ],
+      "reason": "郷土名・地域差を理解するための短い説明"
+    },
+    {
+      "id": "item-1h2tn7c",
+      "name": "どて煮",
+      "classification": "C",
+      "description": "もつなどを味噌でじっくり煮る、名古屋で親しまれる料理。味噌のコクと、やわらかく煮た具材の味わいを楽しみます。",
+      "regional": true,
+      "sources": [
+        {
+          "url": "https://www.sirogohan.com/recipe/dote/",
+          "type": "recipePublisher",
+          "name": "名古屋めし『豚もつのどて煮』レシピ：白ごはん.com",
+          "checkedAt": "2026-10-16T06:34:46.716Z"
+        }
+      ],
+      "reason": "郷土名・地域差を理解するための短い説明"
+    },
+    {
+      "id": "item-1tf1x88",
+      "name": "トマトと大葉の冷奴",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-l42zrb",
+      "name": "トマトのおかか和え",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-wbgvnu",
+      "name": "とり天",
+      "classification": "C",
+      "description": "下味を付けた鶏肉に天ぷらの衣をまとわせて揚げる、大分で親しまれる料理。から揚げとは異なる、ふんわりした衣が特徴です。",
+      "regional": true,
+      "sources": [
+        {
+          "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/toriten_oita.html",
+          "type": "publicAgency",
+          "name": "とり天 大分県 | うちの郷土料理：農林水産省",
+          "checkedAt": "2026-10-16T06:33:48.545Z"
+        }
+      ],
+      "reason": "郷土名・地域差を理解するための短い説明"
+    },
+    {
+      "id": "item-ctq9l4",
+      "name": "なすとひき肉の味噌炒め",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-gojckb",
+      "name": "なすの中華南蛮",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-7fm3u3",
+      "name": "なすの揚げ浸し",
+      "classification": "B",
+      "description": "油で揚げたなすを、だしや醤油を使うつゆに浸す料理。なすにしみたつゆと、やわらかな食感を楽しみます。",
+      "regional": false,
+      "sources": [],
+      "reason": "料理の内容が分かる短い補助説明"
+    },
+    {
+      "id": "item-1h053iu",
+      "name": "なす味噌炒め",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-18m89v1",
+      "name": "なめこの味噌汁",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-ynuhjb",
+      "name": "なめろう",
+      "classification": "C",
+      "description": "あじなどの魚を、味噌やねぎ、生姜と合わせてたたく千葉の郷土料理。魚の旨味に薬味の香りを重ねる、晩酌にも親しまれる一皿です。",
+      "regional": true,
+      "sources": [
+        {
+          "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/namerou_chiba.html",
+          "type": "publicAgency",
+          "name": "なめろう 千葉県 | うちの郷土料理：農林水産省",
+          "checkedAt": "2026-10-16T06:33:53.840Z"
+        }
+      ],
+      "reason": "郷土名・地域差を理解するための短い説明"
+    },
+    {
+      "id": "item-1bpshfp",
+      "name": "にら玉炒め",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-1xy87ci",
+      "name": "にんじんしりしり",
+      "classification": "C",
+      "description": "細くおろしたにんじんを炒め、卵などを合わせる沖縄の家庭料理。にんじんの甘みと、しんなりした食感を楽しむ一皿です。",
+      "regional": true,
+      "sources": [
+        {
+          "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/47_13_okinawa.html",
+          "type": "publicAgency",
+          "name": "人参シリシリー 沖縄県 | うちの郷土料理：農林水産省",
+          "checkedAt": "2026-10-16T06:34:13.893Z"
+        }
+      ],
+      "reason": "郷土名・地域差を理解するための短い説明"
+    },
+    {
+      "id": "item-1mh7wa",
+      "name": "ねぎ味噌焼き",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-1l59inr",
+      "name": "ハンバーグ和風ソース",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-xjkuw1",
+      "name": "ピーマンのおかか炒め",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-1xssba8",
+      "name": "ひじき煮",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-yocedz",
+      "name": "ひっつみ",
+      "classification": "C",
+      "description": "小麦粉を練った生地をちぎり、野菜などと汁で煮る岩手の郷土料理。具材のだしと、もちっとした生地を一緒に味わいます。",
+      "regional": true,
+      "sources": [
+        {
+          "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/28_1_iwate.html",
+          "type": "publicAgency",
+          "name": "ひっつみ／ひっつみ汁 岩手県 | うちの郷土料理：農林水産省",
+          "checkedAt": "2026-10-16T06:34:11.722Z"
+        }
+      ],
+      "reason": "郷土名・地域差を理解するための短い説明"
+    },
+    {
+      "id": "item-f0o1nz",
+      "name": "ぶりの照り焼き",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [
+        {
+          "url": "https://www.sirogohan.com/recipe/buriteri/",
+          "type": "recipePublisher",
+          "name": "ぶりの照り焼きのレシピ/作り方：白ごはん.com",
+          "checkedAt": "2026-10-16T06:34:49.886Z"
+        }
+      ],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-1h5tdlg",
+      "name": "ブロッコリーのごま和え",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-1xxh73q",
+      "name": "ほうとう",
+      "classification": "C",
+      "description": "幅広の麺を、かぼちゃなどの野菜と味噌仕立ての汁で煮る山梨の郷土料理。野菜の甘みが溶けた、とろみのある汁を楽しみます。",
+      "regional": true,
+      "sources": [
+        {
+          "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/houtou_yama_nashi.html",
+          "type": "publicAgency",
+          "name": "ほうとう 山梨県 | うちの郷土料理：農林水産省",
+          "checkedAt": "2026-10-16T06:34:00.169Z"
+        }
+      ],
+      "reason": "郷土名・地域差を理解するための短い説明"
+    },
+    {
+      "id": "item-4cb93g",
+      "name": "ほうれん草のおひたし",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [
+        {
+          "url": "https://www.sirogohan.com/recipe/ohitasi/",
+          "type": "recipePublisher",
+          "name": "ほうれん草のおひたしのレシピ/作り方：白ごはん.com",
+          "checkedAt": "2026-10-16T06:34:53.046Z"
+        }
+      ],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-atl0h",
+      "name": "ほうれん草の白和え",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [
+        {
+          "url": "https://www.sirogohan.com/recipe/siraaehouren/",
+          "type": "recipePublisher",
+          "name": "ほうれん草の白和えのレシピ/作り方：白ごはん.com",
+          "checkedAt": "2026-10-16T06:34:59.372Z"
+        }
+      ],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-bkg9kw",
+      "name": "ポテトサラダ",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [
+        {
+          "url": "https://www.sirogohan.com/recipe/potates/",
+          "type": "recipePublisher",
+          "name": "基本のポテトサラダのコツとレシピ/作り方：白ごはん.com",
+          "checkedAt": "2026-10-16T06:34:40.401Z"
+        }
+      ],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-1dogc3z",
+      "name": "ポテトの青のり炒め",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-182pjf0",
+      "name": "ポテトフライ",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-p2lsmn",
+      "name": "まぐろの山かけ",
+      "classification": "B",
+      "description": "まぐろに、すりおろした山芋や長芋を合わせる一品。魚の旨味となめらかなとろろを一緒に楽しみます。",
+      "regional": false,
+      "sources": [],
+      "reason": "料理の内容が分かる短い補助説明"
+    },
+    {
+      "id": "item-y9rev9",
+      "name": "ままかり酢漬け",
+      "classification": "C",
+      "description": "岡山などで親しまれる小魚のままかりを、酢に漬けた一品。魚の旨味にほどよい酸味を重ねた、食卓や晩酌の郷土の味です。",
+      "regional": true,
+      "sources": [
+        {
+          "url": "https://www.okayama-kanko.jp/spot/detail_11977.html",
+          "type": "tourismAuthority",
+          "name": "ままかり（ママカリ）｜スポット｜岡山観光WEB【公式】- 岡山県の観光・旅行情報ならココ！",
+          "checkedAt": "2026-10-16T06:35:16.826Z"
+        }
+      ],
+      "reason": "郷土名・地域差を理解するための短い説明"
+    },
+    {
+      "id": "item-bqtlke",
+      "name": "めはり寿司",
+      "classification": "C",
+      "description": "高菜の漬物でご飯を包む、和歌山など熊野地域で親しまれる料理。葉の塩気と香りを、ご飯とともに味わう素朴な一品です。",
+      "regional": true,
+      "sources": [
+        {
+          "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/mehari_zushi_wakayama.html",
+          "type": "publicAgency",
+          "name": "めはりずし 和歌山県 | うちの郷土料理：農林水産省",
+          "checkedAt": "2026-10-16T06:33:58.038Z"
+        }
+      ],
+      "reason": "郷土名・地域差を理解するための短い説明"
+    },
+    {
+      "id": "item-2feozw",
+      "name": "もずく酢",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [
+        {
+          "url": "https://www.sirogohan.com/recipe/mozukusu/",
+          "type": "recipePublisher",
+          "name": "基本のもずく酢＆三杯酢のレシピ/作り方：白ごはん.com",
+          "checkedAt": "2026-10-16T06:35:03.621Z"
+        }
+      ],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-16glcav",
+      "name": "もやしナムル",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [
+        {
+          "url": "https://www.sirogohan.com/recipe/namuru5/",
+          "type": "recipePublisher",
+          "name": "もやしのナムルのレシピ/作り方：白ごはん.com",
+          "checkedAt": "2026-10-16T06:34:26.645Z"
+        }
+      ],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-1s2342q",
+      "name": "れんこんチップス",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [
+        {
+          "url": "https://www.sirogohan.com/recipe/rentip/",
+          "type": "recipePublisher",
+          "name": "意外に簡単！れんこんチップスのレシピ/作り方：白ごはん.com",
+          "checkedAt": "2026-10-16T06:34:43.552Z"
+        }
+      ],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-z77cor",
+      "name": "れんこんのきんぴら",
+      "classification": "B",
+      "description": "れんこんを炒め、醤油やみりんなどで味付けするおかず。歯応えと、甘辛い味を楽しむ小さな一皿です。",
+      "regional": false,
+      "sources": [
+        {
+          "url": "https://www.sirogohan.com/recipe/renkonkinpira/",
+          "type": "recipePublisher",
+          "name": "れんこんのきんぴらのレシピ/作り方：白ごはん.com",
+          "checkedAt": "2026-10-16T06:34:57.257Z"
+        }
+      ],
+      "reason": "料理の内容が分かる短い補助説明"
+    },
+    {
+      "id": "item-axo113",
+      "name": "鯵のたたき",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-1iunux2",
+      "name": "塩さば焼き",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-ukwn3o",
+      "name": "塩むすび",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-1ygohfo",
+      "name": "塩昆布おにぎり",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-1g4ik4y",
+      "name": "塩昆布キャベツ",
+      "classification": "B",
+      "description": "キャベツを塩昆布で和える、食卓や晩酌の小さなおかず。キャベツの歯触りと、昆布の旨味を一緒に楽しみます。",
+      "regional": false,
+      "sources": [],
+      "reason": "料理の内容が分かる短い補助説明"
+    },
+    {
+      "id": "item-1wwkrut",
+      "name": "牡蠣フライ",
+      "classification": "B",
+      "description": "牡蠣に衣を付けて揚げる魚介のおかず。衣の歯触りと、牡蠣の濃い旨味を一緒に楽しみます。",
+      "regional": false,
+      "sources": [],
+      "reason": "料理の内容が分かる短い補助説明"
+    },
+    {
+      "id": "item-iyosjs",
+      "name": "海老しんじょう風",
+      "classification": "B",
+      "description": "海老のすり身などを使うしんじょうをイメージした一皿。やわらかな身と海老の風味を楽しむ、家庭向けのアレンジです。",
+      "regional": false,
+      "sources": [],
+      "reason": "料理の内容が分かる短い補助説明"
+    },
+    {
+      "id": "item-hhpkns",
+      "name": "海老とアボカドの白和え",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-b2rpak",
+      "name": "海老ときゅうりの酢の物",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-ae8vro",
+      "name": "貝焼き味噌",
+      "classification": "C",
+      "description": "帆立の貝殻を鍋代わりに、だしや味噌、卵などを加えて煮る青森の郷土料理。地域や家庭によって、入れる具材や仕立てが異なります。",
+      "regional": true,
+      "sources": [
+        {
+          "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/kaiyaki_miso_aomori.html",
+          "type": "publicAgency",
+          "name": "貝焼き味噌 青森県 | うちの郷土料理：農林水産省",
+          "checkedAt": "2026-10-16T06:33:50.629Z"
+        }
+      ],
+      "reason": "郷土名・地域差を理解するための短い説明"
+    },
+    {
+      "id": "item-1q22164",
+      "name": "柿の葉寿司",
+      "classification": "C",
+      "description": "魚をのせた酢飯を柿の葉で包む、奈良や和歌山、鳥取などに伝わる料理。地域ごとに使う魚や包み方が異なり、土地の味を楽しめます。",
+      "regional": true,
+      "sources": [
+        {
+          "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/kakinoha_zushi_wakayama.html",
+          "type": "publicAgency",
+          "name": "柿の葉寿司 和歌山県 | うちの郷土料理：農林水産省",
+          "checkedAt": "2026-10-16T06:33:59.079Z"
+        },
+        {
+          "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/kakinoha_zushi_nara.html",
+          "type": "publicAgency",
+          "name": "柿の葉寿司 奈良県 | うちの郷土料理：農林水産省",
+          "checkedAt": "2026-10-16T06:34:03.329Z"
+        },
+        {
+          "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/kakinoha_zushi_tottori.html",
+          "type": "publicAgency",
+          "name": "柿の葉寿司 鳥取県 | うちの郷土料理：農林水産省",
+          "checkedAt": "2026-10-16T06:34:04.358Z"
+        }
+      ],
+      "reason": "郷土名・地域差を理解するための短い説明"
+    },
+    {
+      "id": "item-fjfeqx",
+      "name": "寄せ鍋",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [
+        {
+          "url": "https://www.sirogohan.com/recipe/yosenabe/",
+          "type": "recipePublisher",
+          "name": "寄せ鍋のレシピ/つゆが美味しく仕上がる！：白ごはん.com",
+          "checkedAt": "2026-10-16T06:34:45.667Z"
+        }
+      ],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-w147vq",
+      "name": "牛ごぼう煮",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-n7dakt",
+      "name": "牛すじ豆腐",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-1mmm1b4",
+      "name": "牛肉と大根の甘辛煮",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-1darimd",
+      "name": "玉こんにゃく",
+      "classification": "C",
+      "description": "丸いこんにゃくを醤油味で煮る、山形で親しまれる料理。たれのしみたこんにゃくの、弾力のある歯触りを楽しむ一品です。",
+      "regional": true,
+      "sources": [
+        {
+          "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/tamakonnyaku_yamagata.html",
+          "type": "publicAgency",
+          "name": "玉こんにゃく 山形県 | うちの郷土料理：農林水産省",
+          "checkedAt": "2026-10-16T06:33:45.385Z"
+        }
+      ],
+      "reason": "郷土名・地域差を理解するための短い説明"
+    },
+    {
+      "id": "item-oaox6a",
+      "name": "玉ねぎスライス",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-24dp1c",
+      "name": "鶏ごぼう",
+      "classification": "B",
+      "description": "鶏肉とごぼうを組み合わせた家庭のおかず。味付けや仕立て方はさまざまで、ごぼうの香りと鶏の旨味を味わいます。",
+      "regional": false,
+      "sources": [],
+      "reason": "料理の内容が分かる短い補助説明"
+    },
+    {
+      "id": "item-xdorvu",
+      "name": "鶏ごぼう煮",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-15838pu",
+      "name": "鶏ささみのわさび和え",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-8d4bg",
+      "name": "鶏ささみの梅しそ巻き",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-q89525",
+      "name": "鶏じゃが",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [
+        {
+          "url": "https://www.sirogohan.com/recipe/nikujaga3/",
+          "type": "recipePublisher",
+          "name": "鶏じゃが（鶏肉で作る肉じゃが）の作り方：白ごはん.com",
+          "checkedAt": "2026-10-16T06:34:25.606Z"
+        }
+      ],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-ojkgnf",
+      "name": "鶏そぼろご飯",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-jsjkez",
+      "name": "鶏ちゃん",
+      "classification": "C",
+      "description": "たれで味付けした鶏肉を、キャベツなどの野菜と焼く岐阜の郷土料理。味噌や醤油など、地域や店によって味付けが異なります。",
+      "regional": true,
+      "sources": [
+        {
+          "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/38_2_gifu.html",
+          "type": "publicAgency",
+          "name": "鶏ちゃん 岐阜県 | うちの郷土料理：農林水産省",
+          "checkedAt": "2026-10-16T06:34:20.180Z"
+        }
+      ],
+      "reason": "郷土名・地域差を理解するための短い説明"
+    },
+    {
+      "id": "item-15hf1h6",
+      "name": "鶏つくね",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-1nw9675",
+      "name": "鶏つくね汁",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-1kvpcyr",
+      "name": "鶏つくね鍋",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-grdeyg",
+      "name": "鶏の塩焼き",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-1i89m16",
+      "name": "鶏の照り焼き",
+      "classification": "B",
+      "description": "鶏肉を焼き、醤油やみりんなどのたれを絡めるおかず。肉の旨味と、甘辛いたれを楽しむ一皿です。",
+      "regional": false,
+      "sources": [
+        {
+          "url": "https://www.sirogohan.com/recipe/teriyaki/",
+          "type": "recipePublisher",
+          "name": "鶏の照り焼き（照り焼きチキン）のレシピ/作り方：白ごはん.com",
+          "checkedAt": "2026-10-16T06:34:37.231Z"
+        }
+      ],
+      "reason": "料理の内容が分かる短い補助説明"
+    },
+    {
+      "id": "item-11txxuc",
+      "name": "鶏の唐揚げ",
+      "classification": "B",
+      "description": "下味を付けた鶏肉に粉をまぶして揚げる料理。香ばしい衣と鶏肉の旨味を楽しむ、食べ応えのあるおかずです。",
+      "regional": false,
+      "sources": [
+        {
+          "url": "https://www.sirogohan.com/recipe/karaage/",
+          "type": "recipePublisher",
+          "name": "定番の味！鶏の唐揚げのレシピ作り方：白ごはん.com",
+          "checkedAt": "2026-10-16T06:34:34.040Z"
+        }
+      ],
+      "reason": "料理の内容が分かる短い補助説明"
+    },
+    {
+      "id": "item-dm58te",
+      "name": "鶏の南蛮漬け",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-2thfcc",
+      "name": "鶏の味噌焼き",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-mke5ix",
+      "name": "鶏ハム",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-1e0ec3q",
+      "name": "鶏むねナゲット",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-kauxek",
+      "name": "鶏むねの酒蒸し",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-zgt0h4",
+      "name": "鶏むね肉のレモン蒸し",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-1gyfmy7",
+      "name": "鶏むね肉の塩麹焼き",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-yzi9xg",
+      "name": "鶏ももの山椒焼き",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-i6tnpz",
+      "name": "鶏もも肉の照り焼き",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-1qt5jkq",
+      "name": "鶏塩鍋",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-qusy9k",
+      "name": "鶏肝の生姜煮",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-zcz64u",
+      "name": "鶏肉と大根の煮物",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-qnyrzm",
+      "name": "鶏肉の味噌漬け焼き",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-1pomla",
+      "name": "鶏飯風雑炊",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-oobjpp",
+      "name": "厚揚げと小松菜の煮物",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-1yhrr7t",
+      "name": "厚揚げの含め煮",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-1uy1whf",
+      "name": "厚揚げの照り焼き",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-1yvdob9",
+      "name": "厚揚げの生姜焼き",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-1d4a9lj",
+      "name": "厚揚げの薬味のせ",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-a9vclw",
+      "name": "厚揚げ味噌チーズ焼き",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-5q1mkm",
+      "name": "黒はんぺんフライ",
+      "classification": "C",
+      "description": "いわしやさばなどのすり身を使う静岡の黒はんぺんに、衣を付けて揚げる料理。魚の風味と衣の香ばしさを楽しみます。",
+      "regional": true,
+      "sources": [
+        {
+          "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/36_1_shizuoka.html",
+          "type": "publicAgency",
+          "name": "黒はんぺんフライ 静岡県 | うちの郷土料理：農林水産省",
+          "checkedAt": "2026-10-16T06:34:21.262Z"
+        }
+      ],
+      "reason": "郷土名・地域差を理解するための短い説明"
+    },
+    {
+      "id": "item-2wasz5",
+      "name": "昆布締め",
+      "classification": "B",
+      "description": "魚などを昆布で挟み、風味を移して楽しむ一品。使う魚や締める時間によって、食感や味わいが変わります。",
+      "regional": false,
+      "sources": [],
+      "reason": "料理の内容が分かる短い補助説明"
+    },
+    {
+      "id": "item-1c734kk",
+      "name": "根菜ポトフ和風",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-3rar6q",
+      "name": "砂肝ポン酢",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-1f0fzua",
+      "name": "鮭のムニエル",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-1aro9ta",
+      "name": "鮭の塩焼き",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-1wqr8ac",
+      "name": "鮭の南蛮漬け",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [
+        {
+          "url": "https://www.sirogohan.com/recipe/sakenanban/",
+          "type": "recipePublisher",
+          "name": "揚げずに作る、鮭の南蛮漬けのレシピ/作り方：白ごはん.com",
+          "checkedAt": "2026-10-16T06:35:06.765Z"
+        }
+      ],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-ba83ir",
+      "name": "鮭雑炊",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-103fal0",
+      "name": "笹かまぼこ",
+      "classification": "C",
+      "description": "魚のすり身を笹の葉のような形にして焼く、宮城・仙台の名産品。魚の旨味と、弾力のある食感を楽しめる練り物です。",
+      "regional": true,
+      "sources": [
+        {
+          "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/sasa_kamaboko_no_isobeage_miyagi.html",
+          "type": "publicAgency",
+          "name": "笹かまぼこの磯部揚げ 宮城県 | うちの郷土料理：農林水産省",
+          "checkedAt": "2026-10-16T06:34:09.633Z"
+        }
+      ],
+      "reason": "郷土名・地域差を理解するための短い説明"
+    },
+    {
+      "id": "item-1oa2ibm",
+      "name": "雑炊",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-fgabu4",
+      "name": "鯖の味噌煮",
+      "classification": "B",
+      "description": "さばを味噌や生姜と一緒に煮る魚のおかず。魚の旨味に、味噌だれのコクを重ねて楽しむ一皿です。",
+      "regional": false,
+      "sources": [],
+      "reason": "料理の内容が分かる短い補助説明"
+    },
+    {
+      "id": "item-173epeh",
+      "name": "鯖の竜田揚げ",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-tz0jmu",
+      "name": "山芋短冊",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-10ivjqq",
+      "name": "刺身",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-4c8mkq",
+      "name": "枝豆",
+      "classification": "B",
+      "description": "さやごとゆでるなどして食べる、若い大豆。豆のやさしい甘みを楽しむ、食卓や晩酌で親しまれる一品です。",
+      "regional": false,
+      "sources": [],
+      "reason": "料理の内容が分かる短い補助説明"
+    },
+    {
+      "id": "item-1a9fhec",
+      "name": "枝豆ごはん",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [
+        {
+          "url": "https://www.sirogohan.com/recipe/edamamegohan/",
+          "type": "recipePublisher",
+          "name": "枝豆ごはんのレシピ/作り方：白ごはん.com",
+          "checkedAt": "2026-10-16T06:34:48.833Z"
+        }
+      ],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-1rmaigk",
+      "name": "枝豆の塩ゆで",
+      "classification": "B",
+      "description": "枝豆を塩を使ってゆでる一品。豆のやさしい甘みとほどよい塩気を楽しむ、家庭や晩酌で親しまれる料理です。",
+      "regional": false,
+      "sources": [],
+      "reason": "料理の内容が分かる短い補助説明"
+    },
+    {
+      "id": "item-9p27pk",
+      "name": "治部煮",
+      "classification": "C",
+      "description": "鴨肉や鶏肉に粉をまぶし、野菜や麩と煮る石川の郷土料理。とろみのある汁に、わさびを添えて楽しむのが特徴です。",
+      "regional": true,
+      "sources": [
+        {
+          "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/jibuni_ishikawa.html",
+          "type": "publicAgency",
+          "name": "じぶ煮 石川県 | うちの郷土料理：農林水産省",
+          "checkedAt": "2026-10-16T06:33:47.474Z"
+        }
+      ],
+      "reason": "郷土名・地域差を理解するための短い説明"
+    },
+    {
+      "id": "item-7s9ogh",
+      "name": "手羽元と大根の煮物",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-xt4xa7",
+      "name": "手羽元のさっぱり煮",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-3o8qkn",
+      "name": "春キャベツの浅漬け",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-1w35a0e",
+      "name": "春雨サラダ",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [
+        {
+          "url": "https://www.sirogohan.com/recipe/harusames/",
+          "type": "recipePublisher",
+          "name": "春雨サラダのレシピ/作り方：白ごはん.com",
+          "checkedAt": "2026-10-16T06:34:36.167Z"
+        }
+      ],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-4lu5es",
+      "name": "春巻き",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [
+        {
+          "url": "https://www.sirogohan.com/recipe/harumaki/",
+          "type": "recipePublisher",
+          "name": "基本の春巻きのレシピ/作り方：白ごはん.com",
+          "checkedAt": "2026-10-16T06:34:42.503Z"
+        }
+      ],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-sfu08i",
+      "name": "春菊のごま和え",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-ge65ga",
+      "name": "小松菜と油揚げの煮びたし",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-gpwcew",
+      "name": "小松菜のおひたし",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-1gtpkjn",
+      "name": "小松菜のからし和え",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-1iqbnct",
+      "name": "小松菜のナムル",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-1n879ul",
+      "name": "焼きおにぎり",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-1vjingi",
+      "name": "焼きおにぎり茶漬け",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-rlh0ld",
+      "name": "焼きしいたけ",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-1oko38p",
+      "name": "焼きししゃも",
+      "classification": "B",
+      "description": "ししゃもを焼いて楽しむ魚のおかず。魚の旨味と焼き目の香ばしさを味わう、手軽な晩酌の一皿です。",
+      "regional": false,
+      "sources": [],
+      "reason": "料理の内容が分かる短い補助説明"
+    },
+    {
+      "id": "item-quxw37",
+      "name": "焼きなす",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [
+        {
+          "url": "https://www.sirogohan.com/recipe/yakinasu/",
+          "type": "recipePublisher",
+          "name": "焼きなすのレシピ/作り方：白ごはん.com",
+          "checkedAt": "2026-10-16T06:34:28.753Z"
+        }
+      ],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-1lrsg7c",
+      "name": "焼き魚",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-18hmhqk",
+      "name": "焼き厚揚げ",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-avnlz1",
+      "name": "焼き鮭",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-l58wn0",
+      "name": "焼き鯖",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-qez57p",
+      "name": "焼き鳥",
+      "classification": "B",
+      "description": "鶏肉などを串に刺して焼く料理。塩やたれで味付けし、焼き目の香ばしさと鶏の旨味を楽しみます。",
+      "regional": false,
+      "sources": [],
+      "reason": "料理の内容が分かる短い補助説明"
+    },
+    {
+      "id": "item-t2y62i",
+      "name": "焼き鳥風ねぎま",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-1uggncb",
+      "name": "焼き豆腐の煮物",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-8kt19",
+      "name": "焼き味噌",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-1n2ysp5",
+      "name": "焼き油揚げ",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-6lf6gp",
+      "name": "焼き餃子",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [
+        {
+          "url": "https://www.sirogohan.com/recipe/gyouza/",
+          "type": "recipePublisher",
+          "name": "餃子のレシピ（白菜でもキャベツでも！）：白ごはん.com",
+          "checkedAt": "2026-10-16T06:44:45.146Z"
+        }
+      ],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-434gfh",
+      "name": "蒸しなすの香味だれ",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-13i1v8h",
+      "name": "蒸し鶏と香味野菜",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-gobkfe",
+      "name": "蒸し鶏のねぎだれ",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-1s2yef5",
+      "name": "蒸し鶏のねぎ塩だれ",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-1231dt2",
+      "name": "蒸し野菜のごまだれ",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-xt4hhv",
+      "name": "深川めし",
+      "classification": "C",
+      "description": "あさりなどの貝とご飯を合わせる東京・深川ゆかりの料理。汁をご飯にかける形と炊き込みご飯の形があり、貝の旨味を楽しめます。",
+      "regional": true,
+      "sources": [
+        {
+          "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/34_1_tokyo.html",
+          "type": "publicAgency",
+          "name": "深川めし／深川丼 東京都 | うちの郷土料理：農林水産省",
+          "checkedAt": "2026-10-16T06:34:22.291Z"
+        }
+      ],
+      "reason": "郷土名・地域差を理解するための短い説明"
+    },
+    {
+      "id": "item-eubukh",
+      "name": "深谷ねぎ焼き",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-11g7cqt",
+      "name": "真鯛のカルパッチョ",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-nyk9cb",
+      "name": "辛子蓮根",
+      "classification": "C",
+      "description": "れんこんの穴に辛子味噌を詰め、衣を付けて揚げる熊本の郷土料理。れんこんの歯応えと、つんとした辛子の風味が特徴です。",
+      "regional": true,
+      "sources": [
+        {
+          "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/karashi_renkon_kumamoto.html",
+          "type": "publicAgency",
+          "name": "からし蓮根 熊本県 | うちの郷土料理：農林水産省",
+          "checkedAt": "2026-10-16T06:33:52.764Z"
+        }
+      ],
+      "reason": "郷土名・地域差を理解するための短い説明"
+    },
+    {
+      "id": "item-1apsvtd",
+      "name": "水菜と油揚げの煮びたし",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [
+        {
+          "url": "https://www.sirogohan.com/recipe/mizuna/",
+          "type": "recipePublisher",
+          "name": "水菜と油揚げの煮びたしのレシピ/作り方：白ごはん.com",
+          "checkedAt": "2026-10-16T06:34:54.113Z"
+        }
+      ],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-1dbhyuv",
+      "name": "水菜のおひたし",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-v1n9b4",
+      "name": "炊き込みご飯",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-63yukp",
+      "name": "生ハム大根",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-xe5600",
+      "name": "青菜の辛子和え",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-1gordx6",
+      "name": "赤こんにゃく煮",
+      "classification": "C",
+      "description": "近江八幡で親しまれる赤いこんにゃくを、だしや醤油で煮る料理。見た目の赤さは唐辛子の辛さによるものではありません。",
+      "regional": true,
+      "sources": [
+        {
+          "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/aka_konnyaku_ni_shiga.html",
+          "type": "publicAgency",
+          "name": "赤こんにゃく煮 滋賀県 | うちの郷土料理：農林水産省",
+          "checkedAt": "2026-10-16T06:33:54.868Z"
+        }
+      ],
+      "reason": "郷土名・地域差を理解するための短い説明"
+    },
+    {
+      "id": "item-797onb",
+      "name": "切り干し大根煮",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-1s9xmks",
+      "name": "鯛の塩焼き",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-hf2hro",
+      "name": "鯛の昆布じめ",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-vxjuab",
+      "name": "鯛の酒蒸し",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-1e1tn91",
+      "name": "鯛刺し",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-16lyze3",
+      "name": "鯛茶漬け",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-1f32wck",
+      "name": "大根おろししらす",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-1w4tvux",
+      "name": "大根サラダ",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [
+        {
+          "url": "https://www.sirogohan.com/recipe/daikonsarada/",
+          "type": "recipePublisher",
+          "name": "大根サラダのレシピ/作り方：白ごはん.com",
+          "checkedAt": "2026-10-16T06:35:00.441Z"
+        }
+      ],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-a7lkax",
+      "name": "大根とツナのサラダ",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-1we659n",
+      "name": "大根と鶏手羽の煮物",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-1qoj2a3",
+      "name": "大根のそぼろ煮",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-1r8f01w",
+      "name": "大根の甘酢漬け",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-jjeu9j",
+      "name": "筑前煮",
+      "classification": "C",
+      "description": "鶏肉とれんこん、ごぼうなどを炒め煮にする料理。福岡や佐賀では「がめ煮」の名でも親しまれ、根菜と鶏肉の旨味を楽しみます。",
+      "regional": true,
+      "sources": [
+        {
+          "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/gameni_gukuoka.html",
+          "type": "publicAgency",
+          "name": "がめ煮 福岡県 | うちの郷土料理：農林水産省",
+          "checkedAt": "2026-10-16T06:34:08.597Z"
+        },
+        {
+          "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/45_9_saga.html",
+          "type": "publicAgency",
+          "name": "がめ煮 佐賀県 | うちの郷土料理：農林水産省",
+          "checkedAt": "2026-10-16T06:34:15.966Z"
+        }
+      ],
+      "reason": "郷土名・地域差を理解するための短い説明"
+    },
+    {
+      "id": "item-1oirnmr",
+      "name": "茶碗蒸し",
+      "classification": "B",
+      "description": "だしを合わせた卵液に具を入れ、器ごと蒸す料理。なめらかな口当たりと、卵やだしのやさしい味わいが特徴です。",
+      "regional": false,
+      "sources": [],
+      "reason": "料理の内容が分かる短い補助説明"
+    },
+    {
+      "id": "item-7mlgmv",
+      "name": "長ねぎの焼き浸し",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-8gfr9",
+      "name": "長芋の千切り",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-1xexu6m",
+      "name": "長芋の梅和え",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-1vk0s13",
+      "name": "唐揚げ",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-1qvzseg",
+      "name": "湯豆腐",
+      "classification": "B",
+      "description": "豆腐を昆布などのだしで温め、たれや薬味を添える鍋料理。豆腐の穏やかな味わいと、温かいだしを楽しみます。",
+      "regional": false,
+      "sources": [],
+      "reason": "料理の内容が分かる短い補助説明"
+    },
+    {
+      "id": "item-g70tda",
+      "name": "湯波煮",
+      "classification": "C",
+      "description": "日光などで親しまれる湯波を煮る料理。巻いて揚げた湯波の煮物などがあり、だしを含んだ大豆の風味を楽しめます。",
+      "regional": true,
+      "sources": [
+        {
+          "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/31_16_tochigi.html",
+          "type": "publicAgency",
+          "name": "揚げまき湯波の煮物 栃木県 | うちの郷土料理：農林水産省",
+          "checkedAt": "2026-10-16T06:34:12.793Z"
+        }
+      ],
+      "reason": "郷土名・地域差を理解するための短い説明"
+    },
+    {
+      "id": "item-1s2snsf",
+      "name": "豆乳鍋",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-uieq3v",
+      "name": "豆腐サラダ",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-1ypq9l7",
+      "name": "豆腐ステーキ",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-vn5eom",
+      "name": "豆腐チャンプルー",
+      "classification": "B",
+      "description": "豆腐を中心に、野菜などを炒め合わせる料理。豆腐の味わいと、炒めた具材の食感を一緒に楽しみます。",
+      "regional": false,
+      "sources": [],
+      "reason": "料理の内容が分かる短い補助説明"
+    },
+    {
+      "id": "item-13fu2gt",
+      "name": "豆腐のカプレーゼ風",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-msq2qm",
+      "name": "豆腐のきのこあん",
+      "classification": "B",
+      "description": "豆腐に、きのこを使ったあんを合わせる一皿。なめらかな豆腐と、とろみのあるだしを一緒に楽しみます。",
+      "regional": false,
+      "sources": [],
+      "reason": "料理の内容が分かる短い補助説明"
+    },
+    {
+      "id": "item-op99dt",
+      "name": "豆腐の薬味のせ",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-sfepe7",
+      "name": "豆腐の落とし揚げ",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-1tfzr7x",
+      "name": "栃尾の油揚げ",
+      "classification": "C",
+      "description": "新潟・栃尾で親しまれる、大きく厚みのある油揚げ。表面を焼いて薬味を添えるなど、大豆の風味と食べ応えを楽しみます。",
+      "regional": true,
+      "sources": [
+        {
+          "url": "https://niigata-kankou.or.jp/spot/detail_5820.html",
+          "type": "tourismAuthority",
+          "name": "栃尾の油揚げ（あぶらげ）｜新潟のスポット・体験｜【公式】新潟県のおすすめ観光・旅行情報！にいがた観光ナビ",
+          "checkedAt": "2026-10-16T06:35:14.545Z"
+        }
+      ],
+      "reason": "郷土名・地域差を理解するための短い説明"
+    },
+    {
+      "id": "item-fdbvdf",
+      "name": "豚キムチ",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-1yf4vmh",
+      "name": "豚こまとピーマンの味噌炒め",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-nu1pe0",
+      "name": "豚こま唐揚げ",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-1steqpp",
+      "name": "豚しゃぶキムチ",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-1wbiu6r",
+      "name": "豚しゃぶサラダ",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [
+        {
+          "url": "https://www.sirogohan.com/recipe/bshabus/",
+          "type": "recipePublisher",
+          "name": "さっぱり美味しい！豚しゃぶサラダのレシピ：白ごはん.com",
+          "checkedAt": "2026-10-16T06:34:23.538Z"
+        }
+      ],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-1abl20d",
+      "name": "豚の角煮",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [
+        {
+          "url": "https://www.sirogohan.com/recipe/kakuni/",
+          "type": "recipePublisher",
+          "name": "失敗しらずな豚の角煮のレシピ/作り方：白ごはん.com",
+          "checkedAt": "2026-10-16T06:34:30.922Z"
+        }
+      ],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-1n5dwfx",
+      "name": "豚の生姜焼き",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [
+        {
+          "url": "https://www.sirogohan.com/recipe/shougayaki/",
+          "type": "recipePublisher",
+          "name": "豚の生姜焼きのレシピ/作り方：白ごはん.com",
+          "checkedAt": "2026-10-16T06:34:31.957Z"
+        }
+      ],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-163j8kx",
+      "name": "豚バラなす味噌炒め",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-b4c63u",
+      "name": "豚バラ大根",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [
+        {
+          "url": "https://www.sirogohan.com/recipe/butabaradaikon/",
+          "type": "recipePublisher",
+          "name": "定番の人気おかず！豚バラ大根のレシピ/作り方：白ごはん.com",
+          "checkedAt": "2026-10-16T06:34:38.320Z"
+        }
+      ],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-pbgk2h",
+      "name": "豚角煮大根",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-13w7k4b",
+      "name": "肉じゃが",
+      "classification": "B",
+      "description": "じゃがいもと肉、玉ねぎなどを甘辛く煮る家庭料理。煮汁のしみた野菜と肉を一緒に味わいます。",
+      "regional": false,
+      "sources": [
+        {
+          "url": "https://www.sirogohan.com/recipe/nikujaga/",
+          "type": "recipePublisher",
+          "name": "だしなし簡単！肉じゃがの基本レシピ作り方：白ごはん.com",
+          "checkedAt": "2026-10-16T06:35:12.512Z"
+        }
+      ],
+      "reason": "料理の内容が分かる短い補助説明"
+    },
+    {
+      "id": "item-1nk7g06",
+      "name": "肉団子の甘酢あん",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-p7h2xu",
+      "name": "肉豆腐",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [
+        {
+          "url": "https://www.sirogohan.com/recipe/nikudouhu/",
+          "type": "recipePublisher",
+          "name": "肉豆腐のレシピ / 野菜もうまい！牛丼にしても美味しい！：白ごはん.com",
+          "checkedAt": "2026-10-16T06:34:39.336Z"
+        }
+      ],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-1euektq",
+      "name": "梅きゅうり",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-t8ir0z",
+      "name": "梅しそおにぎり",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-micaq3",
+      "name": "梅しそ冷奴",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-4xz1nf",
+      "name": "梅じゃこご飯",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-x563mz",
+      "name": "白菜と豚肉の重ね煮",
+      "classification": "B",
+      "description": "白菜と豚肉を重ねて煮る家庭料理。白菜の甘みと豚肉の旨味が溶けた煮汁まで楽しめます。",
+      "regional": false,
+      "sources": [],
+      "reason": "料理の内容が分かる短い補助説明"
+    },
+    {
+      "id": "item-tta7ls",
+      "name": "白菜のおひたし",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-19mqdkn",
+      "name": "白菜の煮びたし",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-ts9sh6",
+      "name": "白菜の浅漬け",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-egt8xf",
+      "name": "白菜の柚子漬け",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-1b5b3zo",
+      "name": "白菜ロール煮",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-1srpkxj",
+      "name": "白身魚のカルパッチョ",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-1l6b665",
+      "name": "白身魚のフライ",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-195ch45",
+      "name": "白身魚のムニエル",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-10twdb",
+      "name": "白身魚の昆布蒸し",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-qucd4x",
+      "name": "白身魚の昆布締め",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-1hsbwvk",
+      "name": "白身魚の酒蒸し",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-hfmj93",
+      "name": "白身魚の南蛮漬け",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-1vgsf9",
+      "name": "帆立と三つ葉の酢味噌",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-148tu1a",
+      "name": "帆立と白菜の酒蒸し",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-kz5kco",
+      "name": "帆立のバター焼き",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-gbjdky",
+      "name": "帆立バター醤油",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-9buyix",
+      "name": "蕪と柿のなます",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-1dpjynm",
+      "name": "麻婆豆腐",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [
+        {
+          "url": "https://www.sirogohan.com/recipe/ma-bo/",
+          "type": "recipePublisher",
+          "name": "麻婆豆腐のレシピ/最小限の材料で美味しく！：白ごはん.com",
+          "checkedAt": "2026-10-16T06:34:29.814Z"
+        }
+      ],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-e0hg5f",
+      "name": "味噌煮込み豆腐",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-92v041",
+      "name": "味噌汁",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-vmh5ia",
+      "name": "味噌焼きおにぎり",
+      "classification": "B",
+      "description": "おにぎりに味噌を塗って焼く一品。香ばしい表面とご飯の味を楽しむ、晩酌の締めにもなる料理です。",
+      "regional": false,
+      "sources": [
+        {
+          "url": "https://www.sirogohan.com/recipe/yakionigirimiso/",
+          "type": "recipePublisher",
+          "name": "味噌焼きおにぎりのレシピ/作り方：白ごはん.com",
+          "checkedAt": "2026-10-16T06:35:01.473Z"
+        }
+      ],
+      "reason": "料理の内容が分かる短い補助説明"
+    },
+    {
+      "id": "item-1jraaq0",
+      "name": "明太だし巻き",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-1n3rx9w",
+      "name": "明太ポテトサラダ",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-1prhp1w",
+      "name": "鳴門わかめ酢",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-1jebyq",
+      "name": "野沢菜炒め",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-146vaoa",
+      "name": "油揚げピザ風",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-17lpxjk",
+      "name": "揚げ出し豆腐",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [
+        {
+          "url": "https://www.sirogohan.com/recipe/agedasi/",
+          "type": "recipePublisher",
+          "name": "揚げ出し豆腐のレシピ/作り方：白ごはん.com",
+          "checkedAt": "2026-10-16T06:34:41.429Z"
+        }
+      ],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-ji8ld",
+      "name": "揚げ焼き餃子",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-rx9riv",
+      "name": "卵サンド",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-1ei9vty",
+      "name": "卵とじうどん",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-8ldgkb",
+      "name": "卵雑炊",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-1go4563",
+      "name": "卵焼き",
+      "classification": "B",
+      "description": "溶き卵を焼いて巻く、家庭で親しまれるおかず。甘めに仕上げたり塩気を生かしたり、地域や家庭ごとの味を楽しめます。",
+      "regional": false,
+      "sources": [
+        {
+          "url": "https://www.sirogohan.com/recipe/atuyaki/",
+          "type": "recipePublisher",
+          "name": "基本の卵焼き（厚焼き玉子）のレシピ/作り方：白ごはん.com",
+          "checkedAt": "2026-10-16T06:34:27.725Z"
+        }
+      ],
+      "reason": "料理の内容が分かる短い補助説明"
+    },
+    {
+      "id": "item-qlobqs",
+      "name": "里芋のそぼろ煮",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [
+        {
+          "url": "https://www.sirogohan.com/recipe/satoimosoboro/",
+          "type": "recipePublisher",
+          "name": "里芋のそぼろ煮のレシピ/里芋のメインおかずとしてもおすすめ！：白ごはん.com",
+          "checkedAt": "2026-10-16T06:35:11.456Z"
+        }
+      ],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-1tcwfzz",
+      "name": "冷やしトマト",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-17ad5fo",
+      "name": "冷やしピーマン",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-1gwo1eu",
+      "name": "冷奴",
+      "classification": "B",
+      "description": "冷たい豆腐に、ねぎや生姜、かつお節などの薬味を添える一品。たれや薬味によって、さっぱりとした味の変化を楽しめます。",
+      "regional": false,
+      "sources": [
+        {
+          "url": "https://www.kikkoman.co.jp/homecook/search/recipe/00057927/",
+          "type": "recipePublisher",
+          "name": "冷奴（基本のおかずつゆ使用）のレシピ・つくり方 | キッコーマン | ホームクッキング",
+          "checkedAt": "2026-10-16T06:35:13.435Z"
+        }
+      ],
+      "reason": "料理の内容が分かる短い補助説明"
+    },
+    {
+      "id": "item-16m4olz",
+      "name": "冷奴の生姜だれ",
+      "classification": "A",
+      "description": null,
+      "regional": false,
+      "sources": [],
+      "reason": "料理名だけでも内容を把握しやすい。根拠のない定型説明を増やさない"
+    },
+    {
+      "id": "item-i3j18y",
+      "name": "蓮根まんじゅう風",
+      "classification": "B",
+      "description": "れんこんを使うまんじゅうをイメージした一皿。具材や仕立て方はさまざまで、れんこんの味や食感を楽しみます。",
+      "regional": false,
+      "sources": [],
+      "reason": "料理の内容が分かる短い補助説明"
+    }
+  ]
+}

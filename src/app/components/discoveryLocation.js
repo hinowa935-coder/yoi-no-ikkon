@@ -1,7 +1,8 @@
+import {canonicalFoodName} from '../../data/foodCatalog.js';
 export function discoveryLocation(href, { nightId, directionId, dishName, seed, dishLimit }) {
   const url = new URL(href);
   if (url.pathname.replace(/\/$/, "") !== "/discover") return null;
-  for (const [key, value] of [["night", nightId], ["direction", directionId], ["dish", dishName]]) {
+  for (const [key, value] of [["night", nightId], ["direction", directionId], ["dish", canonicalFoodName(dishName)]]) {
     if (value) url.searchParams.set(key, value);
     else url.searchParams.delete(key);
   }

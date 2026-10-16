@@ -1,0 +1,1337 @@
+{
+  "checkedAt": "2026-10-16T09:08:12.047Z",
+  "base": "http://127.0.0.1:3196",
+  "startup": [
+    {
+      "width": 320,
+      "errors": [],
+      "serviceWorkers": "blocked for isolated food UI checks; full regression runs with service workers enabled"
+    },
+    {
+      "width": 360,
+      "errors": [],
+      "serviceWorkers": "blocked for isolated food UI checks; full regression runs with service workers enabled"
+    },
+    {
+      "width": 375,
+      "errors": [],
+      "serviceWorkers": "blocked for isolated food UI checks; full regression runs with service workers enabled"
+    },
+    {
+      "width": 390,
+      "errors": [],
+      "serviceWorkers": "blocked for isolated food UI checks; full regression runs with service workers enabled"
+    },
+    {
+      "width": 430,
+      "errors": [],
+      "serviceWorkers": "blocked for isolated food UI checks; full regression runs with service workers enabled"
+    },
+    {
+      "width": 1280,
+      "errors": [],
+      "serviceWorkers": "blocked for isolated food UI checks; full regression runs with service workers enabled"
+    }
+  ],
+  "results": [
+    {
+      "width": 320,
+      "name": "canonical count",
+      "passed": true
+    },
+    {
+      "width": 320,
+      "name": "alias アジフライ",
+      "passed": true
+    },
+    {
+      "width": 320,
+      "name": "alias あじフライ",
+      "passed": true
+    },
+    {
+      "width": 320,
+      "name": "alias 鯵フライ",
+      "passed": true
+    },
+    {
+      "width": 320,
+      "name": "canonical detail URL",
+      "passed": true
+    },
+    {
+      "width": 320,
+      "name": "recipe before specialties with no fabricated affiliate",
+      "passed": true
+    },
+    {
+      "width": 320,
+      "name": "three grounded recommendations",
+      "passed": true
+    },
+    {
+      "width": 320,
+      "name": "recipe direct HTTPS and safe new tab",
+      "passed": true
+    },
+    {
+      "width": 320,
+      "name": "regional explanation precedes sake; recipe and specialty follow",
+      "passed": true,
+      "detail": {
+        "description": 251.578125,
+        "recommendations": 662,
+        "recipe": 1935.359375,
+        "specialty": 2191.296875
+      }
+    },
+    {
+      "width": 320,
+      "name": "regional badge and meaningful specialty",
+      "passed": true
+    },
+    {
+      "width": 320,
+      "name": "official specialty affiliate with disclosure",
+      "passed": true
+    },
+    {
+      "width": 320,
+      "name": "no horizontal overflow at specialty",
+      "passed": true
+    },
+    {
+      "width": 320,
+      "name": "same-name regional recipes distinguished",
+      "passed": true
+    },
+    {
+      "width": 320,
+      "name": "regional gameni name remains visible",
+      "passed": true
+    },
+    {
+      "width": 320,
+      "name": "reference only is not mislabeled as recipe",
+      "passed": true
+    },
+    {
+      "width": 320,
+      "name": "unconfirmed recipes and commerce stay absent",
+      "passed": true
+    },
+    {
+      "width": 320,
+      "name": "regional card compact description and badge",
+      "passed": true
+    },
+    {
+      "width": 320,
+      "name": "zero result",
+      "passed": true
+    },
+    {
+      "width": 320,
+      "name": "normal-page JavaScript errors",
+      "passed": true,
+      "detail": {
+        "errors": [],
+        "failedRequests": [
+          {
+            "path": "/hgb/587948e7.5948eda6.587948e8.43b33f2d/",
+            "error": "Load request cancelled"
+          },
+          {
+            "path": "/sake/ranman-junmai-managudako-standard/__next.sake.$d$slug.__PAGE__.txt",
+            "error": "Load request cancelled"
+          },
+          {
+            "path": "/hgb/587948e7.5948eda6.587948e8.43b33f2d/",
+            "error": "Load request cancelled"
+          },
+          {
+            "path": "/hgb/58510f25.65cfa8cb.58510f26.bfca33c8/",
+            "error": "Load request cancelled"
+          },
+          {
+            "path": "/hgb/587c717b.3ac5fefa.587c717c.9f837f73/",
+            "error": "Load request cancelled"
+          },
+          {
+            "path": "/hgb/587c5337.5bbd1e21.587c5338.14668730/",
+            "error": "Load request cancelled"
+          },
+          {
+            "path": "/_next/static/chunks/app/nights/%5Bslug%5D/page-57d498ddd328662e.js",
+            "error": "Load request cancelled"
+          },
+          {
+            "path": "/_next/static/chunks/963-62d5a8a9d4a109df.js",
+            "error": "Load request cancelled"
+          }
+        ]
+      }
+    },
+    {
+      "width": 360,
+      "name": "canonical count",
+      "passed": true
+    },
+    {
+      "width": 360,
+      "name": "alias アジフライ",
+      "passed": true
+    },
+    {
+      "width": 360,
+      "name": "alias あじフライ",
+      "passed": true
+    },
+    {
+      "width": 360,
+      "name": "alias 鯵フライ",
+      "passed": true
+    },
+    {
+      "width": 360,
+      "name": "canonical detail URL",
+      "passed": true
+    },
+    {
+      "width": 360,
+      "name": "recipe before specialties with no fabricated affiliate",
+      "passed": true
+    },
+    {
+      "width": 360,
+      "name": "three grounded recommendations",
+      "passed": true
+    },
+    {
+      "width": 360,
+      "name": "recipe direct HTTPS and safe new tab",
+      "passed": true
+    },
+    {
+      "width": 360,
+      "name": "regional explanation precedes sake; recipe and specialty follow",
+      "passed": true,
+      "detail": {
+        "description": 251.578125,
+        "recommendations": 624.0625,
+        "recipe": 1878.453125,
+        "specialty": 2134.390625
+      }
+    },
+    {
+      "width": 360,
+      "name": "regional badge and meaningful specialty",
+      "passed": true
+    },
+    {
+      "width": 360,
+      "name": "official specialty affiliate with disclosure",
+      "passed": true
+    },
+    {
+      "width": 360,
+      "name": "no horizontal overflow at specialty",
+      "passed": true
+    },
+    {
+      "width": 360,
+      "name": "same-name regional recipes distinguished",
+      "passed": true
+    },
+    {
+      "width": 360,
+      "name": "regional gameni name remains visible",
+      "passed": true
+    },
+    {
+      "width": 360,
+      "name": "reference only is not mislabeled as recipe",
+      "passed": true
+    },
+    {
+      "width": 360,
+      "name": "unconfirmed recipes and commerce stay absent",
+      "passed": true
+    },
+    {
+      "width": 360,
+      "name": "regional card compact description and badge",
+      "passed": true
+    },
+    {
+      "width": 360,
+      "name": "zero result",
+      "passed": true
+    },
+    {
+      "width": 360,
+      "name": "normal-page JavaScript errors",
+      "passed": true,
+      "detail": {
+        "errors": [],
+        "failedRequests": [
+          {
+            "path": "/hgb/587948e7.5948eda6.587948e8.43b33f2d/",
+            "error": "Load request cancelled"
+          },
+          {
+            "path": "/hgb/58510f25.65cfa8cb.58510f26.bfca33c8/",
+            "error": "Load request cancelled"
+          },
+          {
+            "path": "/hgb/587c717b.3ac5fefa.587c717c.9f837f73/",
+            "error": "Load request cancelled"
+          },
+          {
+            "path": "/hgb/587948e7.5948eda6.587948e8.43b33f2d/",
+            "error": "Load request cancelled"
+          },
+          {
+            "path": "/hgb/587c5337.5bbd1e21.587c5338.14668730/",
+            "error": "Load request cancelled"
+          },
+          {
+            "path": "/sake/ranman-junmai-managudako-standard/__next.sake.$d$slug.__PAGE__.txt",
+            "error": "Load request cancelled"
+          },
+          {
+            "path": "/_next/static/chunks/app/sake/%5Bslug%5D/page-778a81f79bcf52b6.js",
+            "error": "Load request cancelled"
+          },
+          {
+            "path": "/_next/static/chunks/app/food/page-a6a320175ae1a890.js",
+            "error": "Load request cancelled"
+          },
+          {
+            "path": "/_next/static/chunks/232-67b5976860caaafc.js",
+            "error": "Load request cancelled"
+          },
+          {
+            "path": "/nights/ordinary/__next.nights.$d$slug.__PAGE__.txt",
+            "error": "Load request cancelled"
+          }
+        ]
+      }
+    },
+    {
+      "width": 375,
+      "name": "canonical count",
+      "passed": true
+    },
+    {
+      "width": 375,
+      "name": "alias アジフライ",
+      "passed": true
+    },
+    {
+      "width": 375,
+      "name": "alias あじフライ",
+      "passed": true
+    },
+    {
+      "width": 375,
+      "name": "alias 鯵フライ",
+      "passed": true
+    },
+    {
+      "width": 375,
+      "name": "canonical detail URL",
+      "passed": true
+    },
+    {
+      "width": 375,
+      "name": "recipe before specialties with no fabricated affiliate",
+      "passed": true
+    },
+    {
+      "width": 375,
+      "name": "three grounded recommendations",
+      "passed": true
+    },
+    {
+      "width": 375,
+      "name": "recipe direct HTTPS and safe new tab",
+      "passed": true
+    },
+    {
+      "width": 375,
+      "name": "regional explanation precedes sake; recipe and specialty follow",
+      "passed": true,
+      "detail": {
+        "description": 251.578125,
+        "recommendations": 624.0625,
+        "recipe": 1797.265625,
+        "specialty": 2053.203125
+      }
+    },
+    {
+      "width": 375,
+      "name": "regional badge and meaningful specialty",
+      "passed": true
+    },
+    {
+      "width": 375,
+      "name": "official specialty affiliate with disclosure",
+      "passed": true
+    },
+    {
+      "width": 375,
+      "name": "no horizontal overflow at specialty",
+      "passed": true
+    },
+    {
+      "width": 375,
+      "name": "same-name regional recipes distinguished",
+      "passed": true
+    },
+    {
+      "width": 375,
+      "name": "regional gameni name remains visible",
+      "passed": true
+    },
+    {
+      "width": 375,
+      "name": "reference only is not mislabeled as recipe",
+      "passed": true
+    },
+    {
+      "width": 375,
+      "name": "unconfirmed recipes and commerce stay absent",
+      "passed": true
+    },
+    {
+      "width": 375,
+      "name": "regional card compact description and badge",
+      "passed": true
+    },
+    {
+      "width": 375,
+      "name": "zero result",
+      "passed": true
+    },
+    {
+      "width": 375,
+      "name": "normal-page JavaScript errors",
+      "passed": true,
+      "detail": {
+        "errors": [],
+        "failedRequests": [
+          {
+            "path": "/hgb/587948e7.5948eda6.587948e8.43b33f2d/",
+            "error": "Load request cancelled"
+          },
+          {
+            "path": "/sake/homare-gaijin-junmai-ginjo-hiire-r7by-v1/__next.sake.$d$slug.__PAGE__.txt",
+            "error": "Load request cancelled"
+          },
+          {
+            "path": "/hgb/587c717b.3ac5fefa.587c717c.9f837f73/",
+            "error": "Load request cancelled"
+          },
+          {
+            "path": "/hgb/587c5337.5bbd1e21.587c5338.14668730/",
+            "error": "Load request cancelled"
+          },
+          {
+            "path": "/hgb/58510f25.65cfa8cb.58510f26.bfca33c8/",
+            "error": "Load request cancelled"
+          },
+          {
+            "path": "/sake/ranman-junmai-managudako-standard/__next._tree.txt",
+            "error": "Load request cancelled"
+          },
+          {
+            "path": "/hgb/587948e7.5948eda6.587948e8.43b33f2d/",
+            "error": "Load request cancelled"
+          },
+          {
+            "path": "/nights/just-one/__next.nights.$d$slug.__PAGE__.txt",
+            "error": "Load request cancelled"
+          },
+          {
+            "path": "/_next/static/chunks/app/food/page-a6a320175ae1a890.js",
+            "error": "Load request cancelled"
+          },
+          {
+            "path": "/nights/ordinary/__next.nights.$d$slug.__PAGE__.txt",
+            "error": "Load request cancelled"
+          },
+          {
+            "path": "/_next/static/chunks/232-67b5976860caaafc.js",
+            "error": "Load request cancelled"
+          }
+        ]
+      }
+    },
+    {
+      "width": 390,
+      "name": "canonical count",
+      "passed": true
+    },
+    {
+      "width": 390,
+      "name": "alias アジフライ",
+      "passed": true
+    },
+    {
+      "width": 390,
+      "name": "alias あじフライ",
+      "passed": true
+    },
+    {
+      "width": 390,
+      "name": "alias 鯵フライ",
+      "passed": true
+    },
+    {
+      "width": 390,
+      "name": "canonical detail URL",
+      "passed": true
+    },
+    {
+      "width": 390,
+      "name": "recipe before specialties with no fabricated affiliate",
+      "passed": true
+    },
+    {
+      "width": 390,
+      "name": "three grounded recommendations",
+      "passed": true
+    },
+    {
+      "width": 390,
+      "name": "recipe direct HTTPS and safe new tab",
+      "passed": true
+    },
+    {
+      "width": 390,
+      "name": "recipe analytics contains dish identity but no URL",
+      "passed": true
+    },
+    {
+      "width": 390,
+      "name": "regional explanation precedes sake; recipe and specialty follow",
+      "passed": true,
+      "detail": {
+        "description": 251.578125,
+        "recommendations": 624.0625,
+        "recipe": 1755.671875,
+        "specialty": 2011.609375
+      }
+    },
+    {
+      "width": 390,
+      "name": "regional badge and meaningful specialty",
+      "passed": true
+    },
+    {
+      "width": 390,
+      "name": "official specialty affiliate with disclosure",
+      "passed": true
+    },
+    {
+      "width": 390,
+      "name": "no horizontal overflow at specialty",
+      "passed": true
+    },
+    {
+      "width": 390,
+      "name": "specialty analytics is separate and excludes link data",
+      "passed": true
+    },
+    {
+      "width": 390,
+      "name": "same-name regional recipes distinguished",
+      "passed": true
+    },
+    {
+      "width": 390,
+      "name": "regional gameni name remains visible",
+      "passed": true
+    },
+    {
+      "width": 390,
+      "name": "reference only is not mislabeled as recipe",
+      "passed": true
+    },
+    {
+      "width": 390,
+      "name": "unconfirmed recipes and commerce stay absent",
+      "passed": true
+    },
+    {
+      "width": 390,
+      "name": "old URL item-314sr reaches canonical",
+      "passed": true,
+      "detail": {
+        "status": 200,
+        "mode": "static meta-refresh fallback"
+      }
+    },
+    {
+      "width": 390,
+      "name": "old URL item-1sq9nxp reaches canonical",
+      "passed": true,
+      "detail": {
+        "status": 200,
+        "mode": "static meta-refresh fallback"
+      }
+    },
+    {
+      "width": 390,
+      "name": "old URL item-1ykl2rf reaches canonical",
+      "passed": true,
+      "detail": {
+        "status": 200,
+        "mode": "static meta-refresh fallback"
+      }
+    },
+    {
+      "width": 390,
+      "name": "old URL item-cty4x5 reaches canonical",
+      "passed": true,
+      "detail": {
+        "status": 200,
+        "mode": "static meta-refresh fallback"
+      }
+    },
+    {
+      "width": 390,
+      "name": "old URL item-1jyl1j1 reaches canonical",
+      "passed": true,
+      "detail": {
+        "status": 200,
+        "mode": "static meta-refresh fallback"
+      }
+    },
+    {
+      "width": 390,
+      "name": "old URL item-t16d3u reaches canonical",
+      "passed": true,
+      "detail": {
+        "status": 200,
+        "mode": "static meta-refresh fallback"
+      }
+    },
+    {
+      "width": 390,
+      "name": "old URL item-fhfci1 reaches canonical",
+      "passed": true,
+      "detail": {
+        "status": 200,
+        "mode": "static meta-refresh fallback"
+      }
+    },
+    {
+      "width": 390,
+      "name": "old URL item-1p5i0qq reaches canonical",
+      "passed": true,
+      "detail": {
+        "status": 200,
+        "mode": "static meta-refresh fallback"
+      }
+    },
+    {
+      "width": 390,
+      "name": "old URL item-n9b8uv reaches canonical",
+      "passed": true,
+      "detail": {
+        "status": 200,
+        "mode": "static meta-refresh fallback"
+      }
+    },
+    {
+      "width": 390,
+      "name": "old URL item-9d91bp reaches canonical",
+      "passed": true,
+      "detail": {
+        "status": 200,
+        "mode": "static meta-refresh fallback"
+      }
+    },
+    {
+      "width": 390,
+      "name": "old URL item-1702we0 reaches canonical",
+      "passed": true,
+      "detail": {
+        "status": 200,
+        "mode": "static meta-refresh fallback"
+      }
+    },
+    {
+      "width": 390,
+      "name": "old URL item-eazkgw reaches canonical",
+      "passed": true,
+      "detail": {
+        "status": 200,
+        "mode": "static meta-refresh fallback"
+      }
+    },
+    {
+      "width": 390,
+      "name": "old URL item-10otki6 reaches canonical",
+      "passed": true,
+      "detail": {
+        "status": 200,
+        "mode": "static meta-refresh fallback"
+      }
+    },
+    {
+      "width": 390,
+      "name": "old URL item-1e9q3qu reaches canonical",
+      "passed": true,
+      "detail": {
+        "status": 200,
+        "mode": "static meta-refresh fallback"
+      }
+    },
+    {
+      "width": 390,
+      "name": "regional card compact description and badge",
+      "passed": true
+    },
+    {
+      "width": 390,
+      "name": "zero result",
+      "passed": true
+    },
+    {
+      "width": 390,
+      "name": "normal-page JavaScript errors",
+      "passed": true,
+      "detail": {
+        "errors": [],
+        "failedRequests": [
+          {
+            "path": "/food/__next.food.__PAGE__.txt",
+            "error": "Load request cancelled"
+          },
+          {
+            "path": "/_next/static/chunks/963-62d5a8a9d4a109df.js",
+            "error": "Load request cancelled"
+          },
+          {
+            "path": "/_next/static/chunks/app/nights/%5Bslug%5D/page-57d498ddd328662e.js",
+            "error": "Load request cancelled"
+          },
+          {
+            "path": "/_next/static/chunks/82-e3544e06919e0fe4.js",
+            "error": "Load request cancelled"
+          }
+        ]
+      }
+    },
+    {
+      "width": 430,
+      "name": "canonical count",
+      "passed": true
+    },
+    {
+      "width": 430,
+      "name": "alias アジフライ",
+      "passed": true
+    },
+    {
+      "width": 430,
+      "name": "alias あじフライ",
+      "passed": true
+    },
+    {
+      "width": 430,
+      "name": "alias 鯵フライ",
+      "passed": true
+    },
+    {
+      "width": 430,
+      "name": "canonical detail URL",
+      "passed": true
+    },
+    {
+      "width": 430,
+      "name": "recipe before specialties with no fabricated affiliate",
+      "passed": true
+    },
+    {
+      "width": 430,
+      "name": "three grounded recommendations",
+      "passed": true
+    },
+    {
+      "width": 430,
+      "name": "recipe direct HTTPS and safe new tab",
+      "passed": true
+    },
+    {
+      "width": 430,
+      "name": "regional explanation precedes sake; recipe and specialty follow",
+      "passed": true,
+      "detail": {
+        "description": 251.578125,
+        "recommendations": 624.0625,
+        "recipe": 1755.671875,
+        "specialty": 2011.609375
+      }
+    },
+    {
+      "width": 430,
+      "name": "regional badge and meaningful specialty",
+      "passed": true
+    },
+    {
+      "width": 430,
+      "name": "official specialty affiliate with disclosure",
+      "passed": true
+    },
+    {
+      "width": 430,
+      "name": "no horizontal overflow at specialty",
+      "passed": true
+    },
+    {
+      "width": 430,
+      "name": "same-name regional recipes distinguished",
+      "passed": true
+    },
+    {
+      "width": 430,
+      "name": "regional gameni name remains visible",
+      "passed": true
+    },
+    {
+      "width": 430,
+      "name": "reference only is not mislabeled as recipe",
+      "passed": true
+    },
+    {
+      "width": 430,
+      "name": "unconfirmed recipes and commerce stay absent",
+      "passed": true
+    },
+    {
+      "width": 430,
+      "name": "regional card compact description and badge",
+      "passed": true
+    },
+    {
+      "width": 430,
+      "name": "zero result",
+      "passed": true
+    },
+    {
+      "width": 430,
+      "name": "normal-page JavaScript errors",
+      "passed": true,
+      "detail": {
+        "errors": [],
+        "failedRequests": [
+          {
+            "path": "/hgb/587c717b.3ac5fefa.587c717c.9f837f73/",
+            "error": "Load request cancelled"
+          },
+          {
+            "path": "/sake/homare-gaijin-junmai-ginjo-hiire-r7by-v1/__next.sake.$d$slug.__PAGE__.txt",
+            "error": "Load request cancelled"
+          },
+          {
+            "path": "/hgb/587948e7.5948eda6.587948e8.43b33f2d/",
+            "error": "Load request cancelled"
+          },
+          {
+            "path": "/hgb/587c5337.5bbd1e21.587c5338.14668730/",
+            "error": "Load request cancelled"
+          },
+          {
+            "path": "/hgb/587948e7.5948eda6.587948e8.43b33f2d/",
+            "error": "Load request cancelled"
+          },
+          {
+            "path": "/hgb/58510f25.65cfa8cb.58510f26.bfca33c8/",
+            "error": "Load request cancelled"
+          },
+          {
+            "path": "/sake/ranman-junmai-managudako-standard/__next._tree.txt",
+            "error": "Load request cancelled"
+          },
+          {
+            "path": "/_next/static/chunks/app/food/page-a6a320175ae1a890.js",
+            "error": "Load request cancelled"
+          },
+          {
+            "path": "/_next/static/chunks/232-67b5976860caaafc.js",
+            "error": "Load request cancelled"
+          },
+          {
+            "path": "/_next/static/chunks/82-e3544e06919e0fe4.js",
+            "error": "Load request cancelled"
+          },
+          {
+            "path": "/_next/static/chunks/963-62d5a8a9d4a109df.js",
+            "error": "Load request cancelled"
+          },
+          {
+            "path": "/_next/static/chunks/app/nights/%5Bslug%5D/page-57d498ddd328662e.js",
+            "error": "Load request cancelled"
+          },
+          {
+            "path": "/_next/static/chunks/app/about/advertising/page-6dffc626a8a045ed.js",
+            "error": "Load request cancelled"
+          }
+        ]
+      }
+    },
+    {
+      "width": 1280,
+      "name": "canonical count",
+      "passed": true
+    },
+    {
+      "width": 1280,
+      "name": "alias アジフライ",
+      "passed": true
+    },
+    {
+      "width": 1280,
+      "name": "alias あじフライ",
+      "passed": true
+    },
+    {
+      "width": 1280,
+      "name": "alias 鯵フライ",
+      "passed": true
+    },
+    {
+      "width": 1280,
+      "name": "canonical detail URL",
+      "passed": true
+    },
+    {
+      "width": 1280,
+      "name": "recipe before specialties with no fabricated affiliate",
+      "passed": true
+    },
+    {
+      "width": 1280,
+      "name": "three grounded recommendations",
+      "passed": true
+    },
+    {
+      "width": 1280,
+      "name": "recipe direct HTTPS and safe new tab",
+      "passed": true
+    },
+    {
+      "width": 1280,
+      "name": "recipe analytics contains dish identity but no URL",
+      "passed": true
+    },
+    {
+      "width": 1280,
+      "name": "regional explanation precedes sake; recipe and specialty follow",
+      "passed": true,
+      "detail": {
+        "description": 295.28125,
+        "recommendations": 667.921875,
+        "recipe": 1238.5,
+        "specialty": 1519.390625
+      }
+    },
+    {
+      "width": 1280,
+      "name": "regional badge and meaningful specialty",
+      "passed": true
+    },
+    {
+      "width": 1280,
+      "name": "official specialty affiliate with disclosure",
+      "passed": true
+    },
+    {
+      "width": 1280,
+      "name": "no horizontal overflow at specialty",
+      "passed": true
+    },
+    {
+      "width": 1280,
+      "name": "specialty analytics is separate and excludes link data",
+      "passed": true
+    },
+    {
+      "width": 1280,
+      "name": "same-name regional recipes distinguished",
+      "passed": true
+    },
+    {
+      "width": 1280,
+      "name": "regional gameni name remains visible",
+      "passed": true
+    },
+    {
+      "width": 1280,
+      "name": "reference only is not mislabeled as recipe",
+      "passed": true
+    },
+    {
+      "width": 1280,
+      "name": "unconfirmed recipes and commerce stay absent",
+      "passed": true
+    },
+    {
+      "width": 1280,
+      "name": "regional card compact description and badge",
+      "passed": true
+    },
+    {
+      "width": 1280,
+      "name": "zero result",
+      "passed": true
+    },
+    {
+      "width": 1280,
+      "name": "normal-page JavaScript errors",
+      "passed": true,
+      "detail": {
+        "errors": [],
+        "failedRequests": [
+          {
+            "path": "/",
+            "error": "net::ERR_ABORTED"
+          },
+          {
+            "path": "/search",
+            "error": "net::ERR_ABORTED"
+          },
+          {
+            "path": "/ochoko",
+            "error": "net::ERR_ABORTED"
+          },
+          {
+            "path": "/discover",
+            "error": "net::ERR_ABORTED"
+          },
+          {
+            "path": "/discover",
+            "error": "net::ERR_ABORTED"
+          },
+          {
+            "path": "/discover",
+            "error": "net::ERR_ABORTED"
+          },
+          {
+            "path": "/discover",
+            "error": "net::ERR_ABORTED"
+          },
+          {
+            "path": "/food",
+            "error": "net::ERR_ABORTED"
+          },
+          {
+            "path": "/food/__next._tree.txt",
+            "error": "net::ERR_ABORTED"
+          },
+          {
+            "path": "/discover",
+            "error": "net::ERR_ABORTED"
+          },
+          {
+            "path": "/__next.__PAGE__.txt",
+            "error": "net::ERR_ABORTED"
+          },
+          {
+            "path": "/",
+            "error": "net::ERR_ABORTED"
+          },
+          {
+            "path": "/search",
+            "error": "net::ERR_ABORTED"
+          },
+          {
+            "path": "/ochoko",
+            "error": "net::ERR_ABORTED"
+          },
+          {
+            "path": "/food/item-bxzivf",
+            "error": "net::ERR_ABORTED"
+          },
+          {
+            "path": "/food/item-bxzivf/__next._tree.txt",
+            "error": "net::ERR_ABORTED"
+          },
+          {
+            "path": "/food/item-wtd20n",
+            "error": "net::ERR_ABORTED"
+          },
+          {
+            "path": "/food/item-uea4vn",
+            "error": "net::ERR_ABORTED"
+          },
+          {
+            "path": "/food/item-hxueoj",
+            "error": "net::ERR_ABORTED"
+          },
+          {
+            "path": "/about/advertising",
+            "error": "net::ERR_ABORTED"
+          },
+          {
+            "path": "/sake/homare-gaijin-junmai-ginjo-hiire-r7by-v1",
+            "error": "net::ERR_ABORTED"
+          },
+          {
+            "path": "/sake/ranman-junmai-managudako-standard",
+            "error": "net::ERR_ABORTED"
+          },
+          {
+            "path": "/sake/gohou-junmai",
+            "error": "net::ERR_ABORTED"
+          },
+          {
+            "path": "/",
+            "error": "net::ERR_ABORTED"
+          },
+          {
+            "path": "/search",
+            "error": "net::ERR_ABORTED"
+          },
+          {
+            "path": "/ochoko",
+            "error": "net::ERR_ABORTED"
+          },
+          {
+            "path": "/sake/shunnoten-i9dko8-2",
+            "error": "net::ERR_ABORTED"
+          },
+          {
+            "path": "/sake/kameman-plus9-karakuchi-junmai-v1",
+            "error": "net::ERR_ABORTED"
+          },
+          {
+            "path": "/sake/narutotai-junmai-tomoe-v1",
+            "error": "net::ERR_ABORTED"
+          },
+          {
+            "path": "/food",
+            "error": "net::ERR_ABORTED"
+          },
+          {
+            "path": "/about/advertising",
+            "error": "net::ERR_ABORTED"
+          },
+          {
+            "path": "/nights/dinner",
+            "error": "net::ERR_ABORTED"
+          },
+          {
+            "path": "/nights/just-one",
+            "error": "net::ERR_ABORTED"
+          },
+          {
+            "path": "/nights/dinner/__next._tree.txt",
+            "error": "net::ERR_ABORTED"
+          },
+          {
+            "path": "/nights/just-one/__next._tree.txt",
+            "error": "net::ERR_ABORTED"
+          },
+          {
+            "path": "/nights/ordinary",
+            "error": "net::ERR_ABORTED"
+          },
+          {
+            "path": "/nights/dinner/__next.nights.$d$slug.__PAGE__.txt",
+            "error": "net::ERR_ABORTED"
+          },
+          {
+            "path": "/",
+            "error": "net::ERR_ABORTED"
+          },
+          {
+            "path": "/search",
+            "error": "net::ERR_ABORTED"
+          },
+          {
+            "path": "/ochoko",
+            "error": "net::ERR_ABORTED"
+          },
+          {
+            "path": "/sake/kyohina-j6jhwb",
+            "error": "net::ERR_ABORTED"
+          },
+          {
+            "path": "/__next._tree.txt",
+            "error": "net::ERR_ABORTED"
+          },
+          {
+            "path": "/search/__next._tree.txt",
+            "error": "net::ERR_ABORTED"
+          },
+          {
+            "path": "/sake/suminoe-i3yhce",
+            "error": "net::ERR_ABORTED"
+          },
+          {
+            "path": "/sake/okunokami-kflfjg",
+            "error": "net::ERR_ABORTED"
+          },
+          {
+            "path": "/sake/suminoe-i3yhce/__next._tree.txt",
+            "error": "net::ERR_ABORTED"
+          },
+          {
+            "path": "/",
+            "error": "net::ERR_ABORTED"
+          },
+          {
+            "path": "/search",
+            "error": "net::ERR_ABORTED"
+          },
+          {
+            "path": "/ochoko",
+            "error": "net::ERR_ABORTED"
+          },
+          {
+            "path": "/sake/kubota-senju-2",
+            "error": "net::ERR_ABORTED"
+          },
+          {
+            "path": "/sake/kubota-senju-2/__next._tree.txt",
+            "error": "net::ERR_ABORTED"
+          },
+          {
+            "path": "/sake/mutsu-hassen-red-label",
+            "error": "net::ERR_ABORTED"
+          },
+          {
+            "path": "/sake/nanbu-bijin-tokubetsu-junmai",
+            "error": "net::ERR_ABORTED"
+          },
+          {
+            "path": "/",
+            "error": "net::ERR_ABORTED"
+          },
+          {
+            "path": "/search",
+            "error": "net::ERR_ABORTED"
+          },
+          {
+            "path": "/ochoko",
+            "error": "net::ERR_ABORTED"
+          },
+          {
+            "path": "/sake/suminoe-i3yhce",
+            "error": "net::ERR_ABORTED"
+          },
+          {
+            "path": "/sake/suigei-junmai-daiginjo-hyogo-yamadanishiki50-v1",
+            "error": "net::ERR_ABORTED"
+          },
+          {
+            "path": "/sake/ranman-junmai-managudako-standard",
+            "error": "net::ERR_ABORTED"
+          },
+          {
+            "path": "/",
+            "error": "net::ERR_ABORTED"
+          },
+          {
+            "path": "/search",
+            "error": "net::ERR_ABORTED"
+          },
+          {
+            "path": "/sake/daishichi-junmai-kimoto-standard",
+            "error": "net::ERR_ABORTED"
+          },
+          {
+            "path": "/ochoko",
+            "error": "net::ERR_ABORTED"
+          },
+          {
+            "path": "/__next._tree.txt",
+            "error": "net::ERR_ABORTED"
+          },
+          {
+            "path": "/sake/yamatan-masamune-j6jhwb-2",
+            "error": "net::ERR_ABORTED"
+          },
+          {
+            "path": "/sake/kawatsuru-junmai-ooseto-hiire-v1",
+            "error": "net::ERR_ABORTED"
+          },
+          {
+            "path": "/nights/dinner",
+            "error": "net::ERR_ABORTED"
+          },
+          {
+            "path": "/nights/after-work",
+            "error": "net::ERR_ABORTED"
+          },
+          {
+            "path": "/nights/ordinary",
+            "error": "net::ERR_ABORTED"
+          },
+          {
+            "path": "/nights/after-work/__next.nights.$d$slug.__PAGE__.txt",
+            "error": "net::ERR_ABORTED"
+          },
+          {
+            "path": "/",
+            "error": "net::ERR_ABORTED"
+          },
+          {
+            "path": "/search",
+            "error": "net::ERR_ABORTED"
+          },
+          {
+            "path": "/ochoko",
+            "error": "net::ERR_ABORTED"
+          },
+          {
+            "path": "/food/item-bxzivf",
+            "error": "net::ERR_ABORTED"
+          },
+          {
+            "path": "/ochoko/__next._tree.txt",
+            "error": "net::ERR_ABORTED"
+          },
+          {
+            "path": "/food/item-wtd20n",
+            "error": "net::ERR_ABORTED"
+          },
+          {
+            "path": "/food/item-uea4vn",
+            "error": "net::ERR_ABORTED"
+          },
+          {
+            "path": "/food/item-hxueoj",
+            "error": "net::ERR_ABORTED"
+          },
+          {
+            "path": "/about/advertising",
+            "error": "net::ERR_ABORTED"
+          }
+        ]
+      }
+    }
+  ],
+  "screenshots": [
+    "docs\\food-db-cleanup\\local-320-specialty.png",
+    "docs\\food-db-cleanup\\local-320-regional-card.png",
+    "docs\\food-db-cleanup\\local-360-specialty.png",
+    "docs\\food-db-cleanup\\local-360-regional-card.png",
+    "docs\\food-db-cleanup\\local-375-specialty.png",
+    "docs\\food-db-cleanup\\local-375-regional-card.png",
+    "docs\\food-db-cleanup\\local-390-aji.png",
+    "docs\\food-db-cleanup\\local-390-specialty.png",
+    "docs\\food-db-cleanup\\local-390-regional-card.png",
+    "docs\\food-db-cleanup\\local-430-specialty.png",
+    "docs\\food-db-cleanup\\local-430-regional-card.png",
+    "docs\\food-db-cleanup\\local-1280-aji.png",
+    "docs\\food-db-cleanup\\local-1280-specialty.png",
+    "docs\\food-db-cleanup\\local-1280-regional-card.png"
+  ],
+  "passed": true
+}

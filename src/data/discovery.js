@@ -5,6 +5,7 @@ import { refineMealPairingReason } from "./pairingCopy.js";
 import { refineGroundedPairing } from "./groundedPairingCopy.js";
 import { refineHighExposurePairing } from "./highExposurePairingCopy.js";
 import { nightAffinity } from "./nightAffinity.js";
+import { canonicalFoodName, canonicalFoodNames, canonicalizeFoodText, getCanonicalFood } from './foodCatalog.js';
 export { nightAffinity } from "./nightAffinity.js";
 
 export { discoveryDishes, discoveryNights, foodDirections };
@@ -23,6 +24,7 @@ export function daySeed(date = new Date()) {
   return new Intl.DateTimeFormat("en-CA", { timeZone: "Asia/Tokyo", year: "numeric", month: "2-digit", day: "2-digit" }).format(date);
 }
 export function dishProfile(name) {
+  name = canonicalFoodName(name);
   const curated = discoveryDishes.find(d => d.name === name);
   if (curated) return curated;
   const oily = /唐揚げ|揚げ|天ぷら|フライ|餃子|炒め/.test(name);
@@ -34,7 +36,7 @@ export function dishProfile(name) {
     flavor: oily ? "油のコク" : rich ? "だしやタレの旨味" : vinegar ? "さっぱりした酸味" : delicate ? "素材の穏やかな味" : "日々の食卓の味" };
 }
 function officialMatch(item, dish) {
-  const exact = item.officialPairings.find(name => name === dish.name);
+  const exact = item.officialPairings.find(name => canonicalFoodName(name) === dish.name);
   if (exact) return { name: exact, exact: true };
   // Only explicit category wording can be expanded to a home dish; label it editorial.
   const categories = [
@@ -65,8 +67,8 @@ export function scorePairing(item, dishName, nightId = "ordinary") {
     reason: official.exact ? `${dish.name}と相性のよい組み合わせ。合わせて楽しめます。`
       : `${official.name}に合うお酒。ご家庭では、${dish.name}と合わせてみる提案です。`,
     sourceUrls: (item.sakeResearch.pairingEvidence || []).filter(e => e.dish === official.name).map(e => e.sourceUrl) });
-  if (item.yoiPairings.includes(dish.name)) signals.push({ kind: "existingEditorial", weight: 8,
-    reason: item.editorialPairingEvidence?.find(e => e.dish === dish.name && e.provenance === "yoiEditorial")?.reason || `${dish.name}と一緒に、晩ごはんの一杯を。`, sourceUrls: [] });
+  if (item.yoiPairings.some(name=>canonicalFoodName(name)===dish.name)) signals.push({ kind: "existingEditorial", weight: 8,
+    reason: item.editorialPairingEvidence?.find(e => canonicalFoodName(e.dish) === dish.name && e.provenance === "yoiEditorial")?.reason || `${dish.name}と一緒に、晩ごはんの一杯を。`, sourceUrls: [] });
   if (dish.rich && has(/旨味|旨み|うまみ|コク|濃醇/)) signals.push({ kind: "taste", weight: 7,
     reason: `${phrase(/旨味|旨み|うまみ|コク|濃醇/)}を、${dish.flavor}と一緒に楽しむ提案です。`, sourceUrls: tasteSources(item, /旨味|旨み|うまみ|コク|濃醇/) });
   if (dish.oily && has(/キレ|すっきり|スッキリ|軽快|爽快/)) signals.push({ kind: "taste", weight: 7,
@@ -96,6 +98,7 @@ export function scorePairing(item, dishName, nightId = "ordinary") {
     }
   }
   const affinity = nightAffinity(item, night.id);
+  if (strongest) strongest.reason = canonicalizeFoodText(strongest.reason);
   // Max, not sum: more published facts do not automatically mean a higher rank.
   return { score: (strongest?.weight || 0) + affinity.score / 25, nightAffinity: affinity, strength: strongest?.weight || 0,
     reason: strongest?.reason || "", basis: strongest?.kind || null, signals,
@@ -111,6 +114,7 @@ export function recommendationPool(dish, nightId = "ordinary") {
   return candidates.filter(r => r.score >= Math.max(6, top - 5));
 }
 export function recommendSake(dish, nightId = "ordinary", seed = "v1", limit = 3) {
+  dish = canonicalFoodName(dish);
   const eligible = recommendationPool(dish, nightId);
   const strongestNight = Math.max(0,...eligible.map(r=>r.nightAffinity.score));
   // Rotate within a grounded affinity band, rather than repeating one maximum-score sake everywhere.
@@ -132,8 +136,8 @@ export function suggestDishes(nightId, directionId, seed = "v1", limit = 6) {
     .sort((a, b) => rotationHash(`${seed}:${nightId}:${a.name}`) - rotationHash(`${seed}:${nightId}:${b.name}`)).slice(0, limit);
 }
 export function dishesForSake(item, seed = "v1") {
-  const names = [...new Set([...item.yoiPairings, ...discoveryDishes.map(d => d.name),
-    ...item.officialPairings.filter(d => catalog.foodNames.includes(d))])];
+  const names = canonicalFoodNames([...item.yoiPairings, ...discoveryDishes.map(d => d.name),
+    ...item.officialPairings.filter(d => getCanonicalFood(d))]);
   return names.map(name => ({ ...dishProfile(name), ...scorePairing(item, name) })).filter(d => d.strength >= 6)
     .sort((a, b) => b.score - a.score || rotationHash(`${seed}:${a.name}`) - rotationHash(`${seed}:${b.name}`)).slice(0, 6);
 }
