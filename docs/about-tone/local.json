@@ -1,0 +1,606 @@
+{
+  "checkedAt": "2026-10-16T09:45:49.611Z",
+  "base": "http://127.0.0.1:3196",
+  "label": "local",
+  "checks": [
+    {
+      "name": "320: About HTTP 200",
+      "pass": true
+    },
+    {
+      "name": "320: exact entire approved article",
+      "pass": true
+    },
+    {
+      "name": "320: one h1 and seven h2",
+      "pass": true
+    },
+    {
+      "name": "320: exact metadata title",
+      "pass": true
+    },
+    {
+      "name": "320: exact description",
+      "pass": true
+    },
+    {
+      "name": "320: canonical",
+      "pass": true
+    },
+    {
+      "name": "320: indexable",
+      "pass": true
+    },
+    {
+      "name": "320: readable width and no horizontal clipping",
+      "pass": true
+    },
+    {
+      "name": "320: readable body size and line-height",
+      "pass": true
+    },
+    {
+      "name": "320: footer About and advertising coexist",
+      "pass": true
+    },
+    {
+      "name": "320: advertising disclosure retained",
+      "pass": true
+    },
+    {
+      "name": "320: footer wraps",
+      "pass": true
+    },
+    {
+      "name": "320: exact home introduction",
+      "pass": true
+    },
+    {
+      "name": "320: introduction below primary and daily entrances",
+      "pass": true
+    },
+    {
+      "name": "320: home introduction compact and uncut",
+      "pass": true
+    },
+    {
+      "name": "320: touch target at least 44px",
+      "pass": true
+    },
+    {
+      "name": "320: home link reaches About",
+      "pass": true
+    },
+    {
+      "name": "320: sitemap includes About",
+      "pass": true
+    },
+    {
+      "name": "320: no settled page or console errors",
+      "pass": true
+    },
+    {
+      "name": "360: About HTTP 200",
+      "pass": true
+    },
+    {
+      "name": "360: exact entire approved article",
+      "pass": true
+    },
+    {
+      "name": "360: one h1 and seven h2",
+      "pass": true
+    },
+    {
+      "name": "360: exact metadata title",
+      "pass": true
+    },
+    {
+      "name": "360: exact description",
+      "pass": true
+    },
+    {
+      "name": "360: canonical",
+      "pass": true
+    },
+    {
+      "name": "360: indexable",
+      "pass": true
+    },
+    {
+      "name": "360: readable width and no horizontal clipping",
+      "pass": true
+    },
+    {
+      "name": "360: readable body size and line-height",
+      "pass": true
+    },
+    {
+      "name": "360: footer About and advertising coexist",
+      "pass": true
+    },
+    {
+      "name": "360: advertising disclosure retained",
+      "pass": true
+    },
+    {
+      "name": "360: footer wraps",
+      "pass": true
+    },
+    {
+      "name": "360: exact home introduction",
+      "pass": true
+    },
+    {
+      "name": "360: introduction below primary and daily entrances",
+      "pass": true
+    },
+    {
+      "name": "360: home introduction compact and uncut",
+      "pass": true
+    },
+    {
+      "name": "360: touch target at least 44px",
+      "pass": true
+    },
+    {
+      "name": "360: home link reaches About",
+      "pass": true
+    },
+    {
+      "name": "360: sitemap includes About",
+      "pass": true
+    },
+    {
+      "name": "360: no settled page or console errors",
+      "pass": true
+    },
+    {
+      "name": "375: About HTTP 200",
+      "pass": true
+    },
+    {
+      "name": "375: exact entire approved article",
+      "pass": true
+    },
+    {
+      "name": "375: one h1 and seven h2",
+      "pass": true
+    },
+    {
+      "name": "375: exact metadata title",
+      "pass": true
+    },
+    {
+      "name": "375: exact description",
+      "pass": true
+    },
+    {
+      "name": "375: canonical",
+      "pass": true
+    },
+    {
+      "name": "375: indexable",
+      "pass": true
+    },
+    {
+      "name": "375: readable width and no horizontal clipping",
+      "pass": true
+    },
+    {
+      "name": "375: readable body size and line-height",
+      "pass": true
+    },
+    {
+      "name": "375: footer About and advertising coexist",
+      "pass": true
+    },
+    {
+      "name": "375: advertising disclosure retained",
+      "pass": true
+    },
+    {
+      "name": "375: footer wraps",
+      "pass": true
+    },
+    {
+      "name": "375: exact home introduction",
+      "pass": true
+    },
+    {
+      "name": "375: introduction below primary and daily entrances",
+      "pass": true
+    },
+    {
+      "name": "375: home introduction compact and uncut",
+      "pass": true
+    },
+    {
+      "name": "375: touch target at least 44px",
+      "pass": true
+    },
+    {
+      "name": "375: home link reaches About",
+      "pass": true
+    },
+    {
+      "name": "375: sitemap includes About",
+      "pass": true
+    },
+    {
+      "name": "375: no settled page or console errors",
+      "pass": true
+    },
+    {
+      "name": "390: About HTTP 200",
+      "pass": true
+    },
+    {
+      "name": "390: exact entire approved article",
+      "pass": true
+    },
+    {
+      "name": "390: one h1 and seven h2",
+      "pass": true
+    },
+    {
+      "name": "390: exact metadata title",
+      "pass": true
+    },
+    {
+      "name": "390: exact description",
+      "pass": true
+    },
+    {
+      "name": "390: canonical",
+      "pass": true
+    },
+    {
+      "name": "390: indexable",
+      "pass": true
+    },
+    {
+      "name": "390: readable width and no horizontal clipping",
+      "pass": true
+    },
+    {
+      "name": "390: readable body size and line-height",
+      "pass": true
+    },
+    {
+      "name": "390: footer About and advertising coexist",
+      "pass": true
+    },
+    {
+      "name": "390: advertising disclosure retained",
+      "pass": true
+    },
+    {
+      "name": "390: footer wraps",
+      "pass": true
+    },
+    {
+      "name": "390: exact home introduction",
+      "pass": true
+    },
+    {
+      "name": "390: introduction below primary and daily entrances",
+      "pass": true
+    },
+    {
+      "name": "390: home introduction compact and uncut",
+      "pass": true
+    },
+    {
+      "name": "390: touch target at least 44px",
+      "pass": true
+    },
+    {
+      "name": "390: home link reaches About",
+      "pass": true
+    },
+    {
+      "name": "390: sitemap includes About",
+      "pass": true
+    },
+    {
+      "name": "390: no settled page or console errors",
+      "pass": true
+    },
+    {
+      "name": "430: About HTTP 200",
+      "pass": true
+    },
+    {
+      "name": "430: exact entire approved article",
+      "pass": true
+    },
+    {
+      "name": "430: one h1 and seven h2",
+      "pass": true
+    },
+    {
+      "name": "430: exact metadata title",
+      "pass": true
+    },
+    {
+      "name": "430: exact description",
+      "pass": true
+    },
+    {
+      "name": "430: canonical",
+      "pass": true
+    },
+    {
+      "name": "430: indexable",
+      "pass": true
+    },
+    {
+      "name": "430: readable width and no horizontal clipping",
+      "pass": true
+    },
+    {
+      "name": "430: readable body size and line-height",
+      "pass": true
+    },
+    {
+      "name": "430: footer About and advertising coexist",
+      "pass": true
+    },
+    {
+      "name": "430: advertising disclosure retained",
+      "pass": true
+    },
+    {
+      "name": "430: footer wraps",
+      "pass": true
+    },
+    {
+      "name": "430: exact home introduction",
+      "pass": true
+    },
+    {
+      "name": "430: introduction below primary and daily entrances",
+      "pass": true
+    },
+    {
+      "name": "430: home introduction compact and uncut",
+      "pass": true
+    },
+    {
+      "name": "430: touch target at least 44px",
+      "pass": true
+    },
+    {
+      "name": "430: home link reaches About",
+      "pass": true
+    },
+    {
+      "name": "430: sitemap includes About",
+      "pass": true
+    },
+    {
+      "name": "430: no settled page or console errors",
+      "pass": true
+    },
+    {
+      "name": "1280: About HTTP 200",
+      "pass": true
+    },
+    {
+      "name": "1280: exact entire approved article",
+      "pass": true
+    },
+    {
+      "name": "1280: one h1 and seven h2",
+      "pass": true
+    },
+    {
+      "name": "1280: exact metadata title",
+      "pass": true
+    },
+    {
+      "name": "1280: exact description",
+      "pass": true
+    },
+    {
+      "name": "1280: canonical",
+      "pass": true
+    },
+    {
+      "name": "1280: indexable",
+      "pass": true
+    },
+    {
+      "name": "1280: readable width and no horizontal clipping",
+      "pass": true
+    },
+    {
+      "name": "1280: readable body size and line-height",
+      "pass": true
+    },
+    {
+      "name": "1280: footer About and advertising coexist",
+      "pass": true
+    },
+    {
+      "name": "1280: advertising disclosure retained",
+      "pass": true
+    },
+    {
+      "name": "1280: footer wraps",
+      "pass": true
+    },
+    {
+      "name": "1280: exact home introduction",
+      "pass": true
+    },
+    {
+      "name": "1280: introduction below primary and daily entrances",
+      "pass": true
+    },
+    {
+      "name": "1280: home introduction compact and uncut",
+      "pass": true
+    },
+    {
+      "name": "1280: link keyboard reachable with visible focus",
+      "pass": true
+    },
+    {
+      "name": "1280: home link reaches About",
+      "pass": true
+    },
+    {
+      "name": "1280: sitemap includes About",
+      "pass": true
+    },
+    {
+      "name": "1280: no settled page or console errors",
+      "pass": true
+    }
+  ],
+  "views": [
+    {
+      "width": 320,
+      "engine": "webkit",
+      "about": {
+        "width": 280,
+        "height": 8069.6875,
+        "overflow": 0,
+        "bodyFont": "Hiragino Sans, Yu Gothic, YuGothic, Noto Sans JP, Meiryo, system-ui, sans-serif",
+        "lineHeight": "31.200001px",
+        "fontSize": "16px",
+        "documentWidth": 320
+      },
+      "home": {
+        "width": 280,
+        "height": 326.328125,
+        "overflow": 0,
+        "bodyFont": "Hiragino Sans, Yu Gothic, YuGothic, Noto Sans JP, Meiryo, system-ui, sans-serif",
+        "lineHeight": "25.9px",
+        "fontSize": "14px",
+        "documentWidth": 320
+      },
+      "errors": []
+    },
+    {
+      "width": 360,
+      "engine": "webkit",
+      "about": {
+        "width": 320,
+        "height": 7290,
+        "overflow": 0,
+        "bodyFont": "Hiragino Sans, Yu Gothic, YuGothic, Noto Sans JP, Meiryo, system-ui, sans-serif",
+        "lineHeight": "31.200001px",
+        "fontSize": "16px",
+        "documentWidth": 360
+      },
+      "home": {
+        "width": 320,
+        "height": 326.328125,
+        "overflow": 0,
+        "bodyFont": "Hiragino Sans, Yu Gothic, YuGothic, Noto Sans JP, Meiryo, system-ui, sans-serif",
+        "lineHeight": "25.9px",
+        "fontSize": "14px",
+        "documentWidth": 360
+      },
+      "errors": []
+    },
+    {
+      "width": 375,
+      "engine": "webkit",
+      "about": {
+        "width": 335,
+        "height": 7134.0625,
+        "overflow": 0,
+        "bodyFont": "Hiragino Sans, Yu Gothic, YuGothic, Noto Sans JP, Meiryo, system-ui, sans-serif",
+        "lineHeight": "31.200001px",
+        "fontSize": "16px",
+        "documentWidth": 375
+      },
+      "home": {
+        "width": 335,
+        "height": 326.328125,
+        "overflow": 0,
+        "bodyFont": "Hiragino Sans, Yu Gothic, YuGothic, Noto Sans JP, Meiryo, system-ui, sans-serif",
+        "lineHeight": "25.9px",
+        "fontSize": "14px",
+        "documentWidth": 375
+      },
+      "errors": []
+    },
+    {
+      "width": 390,
+      "engine": "webkit",
+      "about": {
+        "width": 350,
+        "height": 7033.75,
+        "overflow": 0,
+        "bodyFont": "Hiragino Sans, Yu Gothic, YuGothic, Noto Sans JP, Meiryo, system-ui, sans-serif",
+        "lineHeight": "31.200001px",
+        "fontSize": "16px",
+        "documentWidth": 390
+      },
+      "home": {
+        "width": 350,
+        "height": 288.390625,
+        "overflow": 0,
+        "bodyFont": "Hiragino Sans, Yu Gothic, YuGothic, Noto Sans JP, Meiryo, system-ui, sans-serif",
+        "lineHeight": "25.9px",
+        "fontSize": "14px",
+        "documentWidth": 390
+      },
+      "errors": []
+    },
+    {
+      "width": 430,
+      "engine": "webkit",
+      "about": {
+        "width": 390,
+        "height": 6715.125,
+        "overflow": 0,
+        "bodyFont": "Hiragino Sans, Yu Gothic, YuGothic, Noto Sans JP, Meiryo, system-ui, sans-serif",
+        "lineHeight": "31.200001px",
+        "fontSize": "16px",
+        "documentWidth": 430
+      },
+      "home": {
+        "width": 390,
+        "height": 288.390625,
+        "overflow": 0,
+        "bodyFont": "Hiragino Sans, Yu Gothic, YuGothic, Noto Sans JP, Meiryo, system-ui, sans-serif",
+        "lineHeight": "25.9px",
+        "fontSize": "14px",
+        "documentWidth": 430
+      },
+      "errors": []
+    },
+    {
+      "width": 1280,
+      "engine": "chromium",
+      "about": {
+        "width": 672,
+        "height": 5259.25,
+        "overflow": 0,
+        "bodyFont": "\"Hiragino Sans\", \"Yu Gothic\", YuGothic, \"Noto Sans JP\", Meiryo, system-ui, sans-serif",
+        "lineHeight": "31.2px",
+        "fontSize": "16px",
+        "documentWidth": 1280
+      },
+      "home": {
+        "width": 1056,
+        "height": 241.5625,
+        "overflow": 0,
+        "bodyFont": "\"Hiragino Sans\", \"Yu Gothic\", YuGothic, \"Noto Sans JP\", Meiryo, system-ui, sans-serif",
+        "lineHeight": "25.9px",
+        "fontSize": "14px",
+        "documentWidth": 1280
+      },
+      "errors": []
+    }
+  ],
+  "startupWarnings": 0,
+  "realIPhoneTested": false,
+  "passed": true
+}

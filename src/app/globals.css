@@ -1,5 +1,15 @@
 @import "tailwindcss";
 
+.about-page { max-width: 42rem; margin: 0 auto; padding: 40px 0 8px; }
+.about-page h1 { font-size: 28px; line-height: 1.6; margin: 0 0 32px; }
+.about-page h2 { font-size: 22px; line-height: 1.7; margin: 0 0 24px; overflow-wrap: anywhere; }
+.about-page section + section, .about-closing { margin-top: 48px; }
+.about-page p { font-family: var(--font-body-ja); font-size: 16px; line-height: 1.95; margin: 0 0 20px; white-space: pre-line; overflow-wrap: anywhere; }
+.home-about { border-top: 1px solid #f8f0df25; padding: 28px 0 0; margin-top: 36px; }
+.home-about h2 { font-size: 20px; line-height: 1.7; margin: 0 0 16px; }
+.home-about p { font-size: 14px; line-height: 1.85; margin: 0 0 14px; max-width: 42rem; }
+.home-about .text-link { display: inline-flex; gap: 8px; align-items: center; min-height: 44px; font-size: 14px; }
+
 :root {
   color-scheme: dark;
   --font-body-ja: "Hiragino Sans", "Yu Gothic", "YuGothic",

@@ -2,6 +2,9 @@ import DiscoveryShell from "./components/DiscoveryShell.jsx";
 import LegacySearchRedirect from "./components/LegacySearchRedirect.jsx";
 import DailyPick from "./components/DailyPick.jsx";
 import HomeNightChoices from './components/HomeNightChoices.jsx';
+import Link from 'next/link';
+import { ArrowRight } from 'lucide-react';
+import { homeAbout } from './about/content.js';
 
 export default function Page() {
   return <DiscoveryShell>
@@ -14,5 +17,10 @@ export default function Page() {
     </section>
     <HomeNightChoices />
     <DailyPick />
+    <section className="home-about" aria-labelledby="home-about-title">
+      <h2 id="home-about-title">{homeAbout.heading}</h2>
+      {homeAbout.paragraphs.map((paragraph) => <p key={paragraph}>{paragraph}</p>)}
+      <Link href="/about" className="text-link">宵の一献について <ArrowRight size={16} aria-hidden="true" /></Link>
+    </section>
   </DiscoveryShell>;
 }

@@ -18,6 +18,7 @@ export default function sitemap() {
       priority: 1,
     },
     ...["/discover", "/food", "/search", ...discoveryNights.map(n => `/nights/${n.id}`)].map(path => ({ url: `${SITE_URL}${path}`, changeFrequency: "daily", priority: 0.8 })),
+    { url: `${SITE_URL}/about`, changeFrequency: "monthly", priority: 0.4 },
     { url: `${SITE_URL}/about/advertising`, changeFrequency: "monthly", priority: 0.3 },
     ...visibleSakePairings.map((item) => ({
       url: `${SITE_URL}/sake/${item.id}`,
