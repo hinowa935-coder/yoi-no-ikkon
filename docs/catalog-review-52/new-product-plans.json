@@ -187,10 +187,10 @@
             {
               "field": "identity.officialProductUrl",
               "value": "https://zaoshuzo-shop.com/items/619235977d5d8118e1b63095",
-              "sourceUrl": "https://item.rakuten.co.jp/ichibankanshop/4980868111611/",
-              "sourceType": "rakuten_retail",
+              "sourceUrl": "https://zaoshuzo-shop.com/items/619235977d5d8118e1b63095",
+              "sourceType": "official",
               "verifiedAt": "2026-10-18",
-              "meaning": "当該商品欄の記載。別商品・別シリーズ・口コミのスペックは流用しない。"
+              "meaning": "実際に読んだ公式の商品欄自身のURL。販売店ページを公式URLの直接出典としない。"
             },
             {
               "field": "classification.tokuteiMeishoshu",
@@ -717,10 +717,10 @@
           {
             "field": "identity.officialProductUrl",
             "value": "https://zaoshuzo-shop.com/items/619235977d5d8118e1b63095",
-            "sourceUrl": "https://item.rakuten.co.jp/ichibankanshop/4980868111611/",
-            "sourceType": "rakuten_retail",
+            "sourceUrl": "https://zaoshuzo-shop.com/items/619235977d5d8118e1b63095",
+            "sourceType": "official",
             "verifiedAt": "2026-10-18",
-            "meaning": "当該商品欄の記載。別商品・別シリーズ・口コミのスペックは流用しない。"
+            "meaning": "実際に読んだ公式の商品欄自身のURL。販売店ページを公式URLの直接出典としない。"
           },
           {
             "field": "classification.tokuteiMeishoshu",
@@ -1975,10 +1975,10 @@
             {
               "field": "identity.officialProductUrl",
               "value": "https://www.nakano-group.co.jp/product/nihonshu01/",
-              "sourceUrl": "https://item.rakuten.co.jp/kishuuitibanya/ns-021/",
-              "sourceType": "rakuten_retail",
+              "sourceUrl": "https://www.nakano-group.co.jp/product/nihonshu01/",
+              "sourceType": "official",
               "verifiedAt": "2026-10-18",
-              "meaning": "当該商品欄の記載。別商品・別シリーズ・口コミのスペックは流用しない。"
+              "meaning": "実際に読んだ公式の商品欄自身のURL。販売店ページを公式URLの直接出典としない。"
             },
             {
               "field": "classification.tokuteiMeishoshu",
@@ -2431,10 +2431,10 @@
           {
             "field": "identity.officialProductUrl",
             "value": "https://www.nakano-group.co.jp/product/nihonshu01/",
-            "sourceUrl": "https://item.rakuten.co.jp/kishuuitibanya/ns-021/",
-            "sourceType": "rakuten_retail",
+            "sourceUrl": "https://www.nakano-group.co.jp/product/nihonshu01/",
+            "sourceType": "official",
             "verifiedAt": "2026-10-18",
-            "meaning": "当該商品欄の記載。別商品・別シリーズ・口コミのスペックは流用しない。"
+            "meaning": "実際に読んだ公式の商品欄自身のURL。販売店ページを公式URLの直接出典としない。"
           },
           {
             "field": "classification.tokuteiMeishoshu",
@@ -3432,10 +3432,10 @@
             {
               "field": "identity.officialProductUrl",
               "value": "https://www.ayumasamune.com/product/index.html",
-              "sourceUrl": "https://item.rakuten.co.jp/arakinstore/10000020/",
-              "sourceType": "rakuten_retail",
+              "sourceUrl": "https://www.ayumasamune.com/product/index.html",
+              "sourceType": "official",
               "verifiedAt": "2026-10-18",
-              "meaning": "当該商品欄の記載。別商品・別シリーズ・口コミのスペックは流用しない。"
+              "meaning": "実際に読んだ公式の商品欄自身のURL。販売店ページを公式URLの直接出典としない。"
             },
             {
               "field": "classification.tokuteiMeishoshu",
@@ -3910,10 +3910,10 @@
           {
             "field": "identity.officialProductUrl",
             "value": "https://www.ayumasamune.com/product/index.html",
-            "sourceUrl": "https://item.rakuten.co.jp/arakinstore/10000020/",
-            "sourceType": "rakuten_retail",
+            "sourceUrl": "https://www.ayumasamune.com/product/index.html",
+            "sourceType": "official",
             "verifiedAt": "2026-10-18",
-            "meaning": "当該商品欄の記載。別商品・別シリーズ・口コミのスペックは流用しない。"
+            "meaning": "実際に読んだ公式の商品欄自身のURL。販売店ページを公式URLの直接出典としない。"
           },
           {
             "field": "classification.tokuteiMeishoshu",
@@ -6761,8 +6761,8 @@
         "dishCategories": [],
         "nightType": "",
         "essay": "",
-        "productUrl": "https://hitorimusume.co.jp/saketype/tokubetsuhonjozo/",
-        "officialUrl": "https://hitorimusume.co.jp/saketype/tokubetsuhonjozo/",
+        "productUrl": "https://hitorimusume.co.jp/products/4980110021309/",
+        "officialUrl": "https://hitorimusume.co.jp/products/4980110021309/",
         "officialPairings": [],
         "sources": [
           {
@@ -6789,7 +6789,7 @@
             "brandName": "一人娘",
             "brewery": "山中酒造店",
             "prefecture": "茨城県",
-            "officialProductUrl": "https://hitorimusume.co.jp/saketype/tokubetsuhonjozo/"
+            "officialProductUrl": "https://hitorimusume.co.jp/products/4980110021309/"
           },
           "classification": {
             "ginjo": false,
@@ -6905,11 +6905,11 @@
             },
             {
               "field": "identity.officialProductUrl",
-              "value": "https://hitorimusume.co.jp/saketype/tokubetsuhonjozo/",
-              "sourceUrl": "https://item.rakuten.co.jp/kuranosuke/3372/",
-              "sourceType": "rakuten_retail",
+              "value": "https://hitorimusume.co.jp/products/4980110021309/",
+              "sourceUrl": "https://hitorimusume.co.jp/products/4980110021309/",
+              "sourceType": "official",
               "verifiedAt": "2026-10-18",
-              "meaning": "当該商品欄の記載。別商品・別シリーズ・口コミのスペックは流用しない。"
+              "meaning": "実際に読んだ公式の商品欄自身のURL。販売店ページを公式URLの直接出典としない。"
             },
             {
               "field": "classification.tokuteiMeishoshu",
@@ -7252,7 +7252,7 @@
           "brandName": "一人娘",
           "brewery": "山中酒造店",
           "prefecture": "茨城県",
-          "officialProductUrl": "https://hitorimusume.co.jp/saketype/tokubetsuhonjozo/"
+          "officialProductUrl": "https://hitorimusume.co.jp/products/4980110021309/"
         },
         "classification": {
           "ginjo": false,
@@ -7368,11 +7368,11 @@
           },
           {
             "field": "identity.officialProductUrl",
-            "value": "https://hitorimusume.co.jp/saketype/tokubetsuhonjozo/",
-            "sourceUrl": "https://item.rakuten.co.jp/kuranosuke/3372/",
-            "sourceType": "rakuten_retail",
+            "value": "https://hitorimusume.co.jp/products/4980110021309/",
+            "sourceUrl": "https://hitorimusume.co.jp/products/4980110021309/",
+            "sourceType": "official",
             "verifiedAt": "2026-10-18",
-            "meaning": "当該商品欄の記載。別商品・別シリーズ・口コミのスペックは流用しない。"
+            "meaning": "実際に読んだ公式の商品欄自身のURL。販売店ページを公式URLの直接出典としない。"
           },
           {
             "field": "classification.tokuteiMeishoshu",
@@ -8235,10 +8235,10 @@
             {
               "field": "identity.officialProductUrl",
               "value": "https://www.izu-bandai.com/pages/wakitaya-tokubetsu-honjyouzo.html",
-              "sourceUrl": "https://item.rakuten.co.jp/nakajimaya/bdi005/",
-              "sourceType": "rakuten_retail",
+              "sourceUrl": "https://www.izu-bandai.com/pages/wakitaya-tokubetsu-honjyouzo.html",
+              "sourceType": "official",
               "verifiedAt": "2026-10-18",
-              "meaning": "当該商品欄の記載。別商品・別シリーズ・口コミのスペックは流用しない。"
+              "meaning": "実際に読んだ公式の商品欄自身のURL。販売店ページを公式URLの直接出典としない。"
             },
             {
               "field": "classification.tokuteiMeishoshu",
@@ -8687,10 +8687,10 @@
           {
             "field": "identity.officialProductUrl",
             "value": "https://www.izu-bandai.com/pages/wakitaya-tokubetsu-honjyouzo.html",
-            "sourceUrl": "https://item.rakuten.co.jp/nakajimaya/bdi005/",
-            "sourceType": "rakuten_retail",
+            "sourceUrl": "https://www.izu-bandai.com/pages/wakitaya-tokubetsu-honjyouzo.html",
+            "sourceType": "official",
             "verifiedAt": "2026-10-18",
-            "meaning": "当該商品欄の記載。別商品・別シリーズ・口コミのスペックは流用しない。"
+            "meaning": "実際に読んだ公式の商品欄自身のURL。販売店ページを公式URLの直接出典としない。"
           },
           {
             "field": "classification.tokuteiMeishoshu",
@@ -11245,10 +11245,10 @@
             {
               "field": "identity.officialProductUrl",
               "value": "https://shop.takano-shuzo.co.jp/items/103804777",
-              "sourceUrl": "https://item.rakuten.co.jp/takano-shuzo/10000002/",
-              "sourceType": "rakuten_retail",
+              "sourceUrl": "https://shop.takano-shuzo.co.jp/items/103804777",
+              "sourceType": "official",
               "verifiedAt": "2026-10-18",
-              "meaning": "当該商品欄の記載。別商品・別シリーズ・口コミのスペックは流用しない。"
+              "meaning": "実際に読んだ公式の商品欄自身のURL。販売店ページを公式URLの直接出典としない。"
             },
             {
               "field": "classification.tokuteiMeishoshu",
@@ -11724,10 +11724,10 @@
           {
             "field": "identity.officialProductUrl",
             "value": "https://shop.takano-shuzo.co.jp/items/103804777",
-            "sourceUrl": "https://item.rakuten.co.jp/takano-shuzo/10000002/",
-            "sourceType": "rakuten_retail",
+            "sourceUrl": "https://shop.takano-shuzo.co.jp/items/103804777",
+            "sourceType": "official",
             "verifiedAt": "2026-10-18",
-            "meaning": "当該商品欄の記載。別商品・別シリーズ・口コミのスペックは流用しない。"
+            "meaning": "実際に読んだ公式の商品欄自身のURL。販売店ページを公式URLの直接出典としない。"
           },
           {
             "field": "classification.tokuteiMeishoshu",
@@ -16503,8 +16503,8 @@
         "dishCategories": [],
         "nightType": "",
         "essay": "",
-        "productUrl": null,
-        "officialUrl": null,
+        "productUrl": "https://sake-suehiro.jp/collections/1001-3000/products/yamagin",
+        "officialUrl": "https://sake-suehiro.jp/collections/1001-3000/products/yamagin",
         "officialPairings": [],
         "sources": [
           {
@@ -16531,7 +16531,7 @@
             "brandName": "末廣",
             "brewery": "末廣酒造",
             "prefecture": "福島県",
-            "officialProductUrl": null
+            "officialProductUrl": "https://sake-suehiro.jp/collections/1001-3000/products/yamagin"
           },
           "classification": {
             "ginjo": false,
@@ -16790,6 +16790,14 @@
               "verifiedAt": "2026-10-18",
               "meaning": "直接確認した特定名称純米吟醸酒の排他・親子関係を正規化。当該商品欄の記載。別商品・別シリーズ・口コミのスペックは流用しない。",
               "derivedFrom": "classification.tokuteiMeishoshu"
+            },
+            {
+              "field": "identity.officialProductUrl",
+              "value": "https://sake-suehiro.jp/collections/1001-3000/products/yamagin",
+              "verifiedAt": "2026-10-18",
+              "sourceUrl": "https://sake-suehiro.jp/collections/1001-3000/products/yamagin",
+              "sourceType": "official_shop",
+              "meaning": "実際に読んだ公式の商品欄自身のURL。販売店ページを公式URLの直接出典としない。"
             }
           ],
           "sources": [
@@ -16977,7 +16985,7 @@
           "brandName": "末廣",
           "brewery": "末廣酒造",
           "prefecture": "福島県",
-          "officialProductUrl": null
+          "officialProductUrl": "https://sake-suehiro.jp/collections/1001-3000/products/yamagin"
         },
         "classification": {
           "ginjo": false,
@@ -17236,6 +17244,14 @@
             "verifiedAt": "2026-10-18",
             "meaning": "直接確認した特定名称純米吟醸酒の排他・親子関係を正規化。当該商品欄の記載。別商品・別シリーズ・口コミのスペックは流用しない。",
             "derivedFrom": "classification.tokuteiMeishoshu"
+          },
+          {
+            "field": "identity.officialProductUrl",
+            "value": "https://sake-suehiro.jp/collections/1001-3000/products/yamagin",
+            "verifiedAt": "2026-10-18",
+            "sourceUrl": "https://sake-suehiro.jp/collections/1001-3000/products/yamagin",
+            "sourceType": "official_shop",
+            "meaning": "実際に読んだ公式の商品欄自身のURL。販売店ページを公式URLの直接出典としない。"
           }
         ],
         "sources": [
@@ -18312,10 +18328,10 @@
             {
               "field": "identity.officialProductUrl",
               "value": "https://www.kaishun.co.jp/item",
-              "sourceUrl": "https://item.rakuten.co.jp/liquor-shop-sonoma/10002368/",
-              "sourceType": "rakuten_retail",
+              "sourceUrl": "https://www.kaishun.co.jp/item",
+              "sourceType": "official",
               "verifiedAt": "2026-10-18",
-              "meaning": "当該商品欄の記載。別商品・別シリーズ・口コミのスペックは流用しない。"
+              "meaning": "実際に読んだ公式の商品欄自身のURL。販売店ページを公式URLの直接出典としない。"
             },
             {
               "field": "classification.tokuteiMeishoshu",
@@ -18769,10 +18785,10 @@
           {
             "field": "identity.officialProductUrl",
             "value": "https://www.kaishun.co.jp/item",
-            "sourceUrl": "https://item.rakuten.co.jp/liquor-shop-sonoma/10002368/",
-            "sourceType": "rakuten_retail",
+            "sourceUrl": "https://www.kaishun.co.jp/item",
+            "sourceType": "official",
             "verifiedAt": "2026-10-18",
-            "meaning": "当該商品欄の記載。別商品・別シリーズ・口コミのスペックは流用しない。"
+            "meaning": "実際に読んだ公式の商品欄自身のURL。販売店ページを公式URLの直接出典としない。"
           },
           {
             "field": "classification.tokuteiMeishoshu",
@@ -20825,10 +20841,10 @@
             {
               "field": "identity.officialProductUrl",
               "value": "https://gin-sato.jp/smp/item/kirai-gin.html",
-              "sourceUrl": "https://item.rakuten.co.jp/bcs-ls/4909090270187/",
-              "sourceType": "rakuten_retail",
+              "sourceUrl": "https://gin-sato.jp/smp/item/kirai-gin.html",
+              "sourceType": "official",
               "verifiedAt": "2026-10-18",
-              "meaning": "当該商品欄の記載。別商品・別シリーズ・口コミのスペックは流用しない。"
+              "meaning": "実際に読んだ公式の商品欄自身のURL。販売店ページを公式URLの直接出典としない。"
             },
             {
               "field": "classification.tokuteiMeishoshu",
@@ -21266,10 +21282,10 @@
           {
             "field": "identity.officialProductUrl",
             "value": "https://gin-sato.jp/smp/item/kirai-gin.html",
-            "sourceUrl": "https://item.rakuten.co.jp/bcs-ls/4909090270187/",
-            "sourceType": "rakuten_retail",
+            "sourceUrl": "https://gin-sato.jp/smp/item/kirai-gin.html",
+            "sourceType": "official",
             "verifiedAt": "2026-10-18",
-            "meaning": "当該商品欄の記載。別商品・別シリーズ・口コミのスペックは流用しない。"
+            "meaning": "実際に読んだ公式の商品欄自身のURL。販売店ページを公式URLの直接出典としない。"
           },
           {
             "field": "classification.tokuteiMeishoshu",
@@ -22086,10 +22102,10 @@
             {
               "field": "identity.officialProductUrl",
               "value": "https://www.keigetsu.co.jp/products/p_karakuchi60",
-              "sourceUrl": "https://item.rakuten.co.jp/manroku/0105tos-ck60/",
-              "sourceType": "rakuten_retail",
+              "sourceUrl": "https://www.keigetsu.co.jp/products/p_karakuchi60",
+              "sourceType": "official",
               "verifiedAt": "2026-10-18",
-              "meaning": "当該商品欄の記載。別商品・別シリーズ・口コミのスペックは流用しない。"
+              "meaning": "実際に読んだ公式の商品欄自身のURL。販売店ページを公式URLの直接出典としない。"
             },
             {
               "field": "classification.tokuteiMeishoshu",
@@ -22585,10 +22601,10 @@
           {
             "field": "identity.officialProductUrl",
             "value": "https://www.keigetsu.co.jp/products/p_karakuchi60",
-            "sourceUrl": "https://item.rakuten.co.jp/manroku/0105tos-ck60/",
-            "sourceType": "rakuten_retail",
+            "sourceUrl": "https://www.keigetsu.co.jp/products/p_karakuchi60",
+            "sourceType": "official",
             "verifiedAt": "2026-10-18",
-            "meaning": "当該商品欄の記載。別商品・別シリーズ・口コミのスペックは流用しない。"
+            "meaning": "実際に読んだ公式の商品欄自身のURL。販売店ページを公式URLの直接出典としない。"
           },
           {
             "field": "classification.tokuteiMeishoshu",
@@ -23777,10 +23793,10 @@
             {
               "field": "identity.officialProductUrl",
               "value": "https://hachinohe-syurui.com/u/sake/detail/7",
-              "sourceUrl": "https://item.rakuten.co.jp/cepdor/hatiturujyunnmai/",
-              "sourceType": "specialty_retailer",
+              "sourceUrl": "https://hachinohe-syurui.com/u/sake/detail/7",
+              "sourceType": "official",
               "verifiedAt": "2026-10-18",
-              "meaning": "当該商品欄の記載。別商品・別シリーズ・口コミのスペックは流用しない。"
+              "meaning": "実際に読んだ公式の商品欄自身のURL。販売店ページを公式URLの直接出典としない。"
             },
             {
               "field": "classification.tokuteiMeishoshu",
@@ -24242,10 +24258,10 @@
           {
             "field": "identity.officialProductUrl",
             "value": "https://hachinohe-syurui.com/u/sake/detail/7",
-            "sourceUrl": "https://item.rakuten.co.jp/cepdor/hatiturujyunnmai/",
-            "sourceType": "specialty_retailer",
+            "sourceUrl": "https://hachinohe-syurui.com/u/sake/detail/7",
+            "sourceType": "official",
             "verifiedAt": "2026-10-18",
-            "meaning": "当該商品欄の記載。別商品・別シリーズ・口コミのスペックは流用しない。"
+            "meaning": "実際に読んだ公式の商品欄自身のURL。販売店ページを公式URLの直接出典としない。"
           },
           {
             "field": "classification.tokuteiMeishoshu",
@@ -25631,9 +25647,7 @@
         "communityTemperature": [],
         "capacityMl": 720,
         "seasonality": {
-          "types": [
-            "new_sake"
-          ],
+          "types": [],
           "preferredMonths": [],
           "vintage": "R7BY",
           "sourceUrl": "https://item.rakuten.co.jp/auc-horie/sakuyabi04/"
@@ -27829,10 +27843,10 @@
             {
               "field": "identity.officialProductUrl",
               "value": "https://www.teradahonke.co.jp/c/all/sake/gd18",
-              "sourceUrl": "https://item.rakuten.co.jp/shinpudo/01-terada-03-2/",
-              "sourceType": "rakuten_retail",
+              "sourceUrl": "https://www.teradahonke.co.jp/c/all/sake/gd18",
+              "sourceType": "official",
               "verifiedAt": "2026-10-18",
-              "meaning": "当該商品欄の記載。別商品・別シリーズ・口コミのスペックは流用しない。"
+              "meaning": "実際に読んだ公式の商品欄自身のURL。販売店ページを公式URLの直接出典としない。"
             },
             {
               "field": "classification.tokuteiMeishoshu",
@@ -28308,10 +28322,10 @@
           {
             "field": "identity.officialProductUrl",
             "value": "https://www.teradahonke.co.jp/c/all/sake/gd18",
-            "sourceUrl": "https://item.rakuten.co.jp/shinpudo/01-terada-03-2/",
-            "sourceType": "rakuten_retail",
+            "sourceUrl": "https://www.teradahonke.co.jp/c/all/sake/gd18",
+            "sourceType": "official",
             "verifiedAt": "2026-10-18",
-            "meaning": "当該商品欄の記載。別商品・別シリーズ・口コミのスペックは流用しない。"
+            "meaning": "実際に読んだ公式の商品欄自身のURL。販売店ページを公式URLの直接出典としない。"
           },
           {
             "field": "classification.tokuteiMeishoshu",
@@ -29466,10 +29480,10 @@
             {
               "field": "identity.officialProductUrl",
               "value": "https://www.koganeishuzou.com/esp/prd1012.html",
-              "sourceUrl": "https://item.rakuten.co.jp/liquorshopohno/18440/",
-              "sourceType": "rakuten_retail",
+              "sourceUrl": "https://www.koganeishuzou.com/esp/prd1012.html",
+              "sourceType": "official",
               "verifiedAt": "2026-10-18",
-              "meaning": "当該商品欄の記載。別商品・別シリーズ・口コミのスペックは流用しない。"
+              "meaning": "実際に読んだ公式の商品欄自身のURL。販売店ページを公式URLの直接出典としない。"
             },
             {
               "field": "classification.tokuteiMeishoshu",
@@ -29890,10 +29904,10 @@
           {
             "field": "identity.officialProductUrl",
             "value": "https://www.koganeishuzou.com/esp/prd1012.html",
-            "sourceUrl": "https://item.rakuten.co.jp/liquorshopohno/18440/",
-            "sourceType": "rakuten_retail",
+            "sourceUrl": "https://www.koganeishuzou.com/esp/prd1012.html",
+            "sourceType": "official",
             "verifiedAt": "2026-10-18",
-            "meaning": "当該商品欄の記載。別商品・別シリーズ・口コミのスペックは流用しない。"
+            "meaning": "実際に読んだ公式の商品欄自身のURL。販売店ページを公式URLの直接出典としない。"
           },
           {
             "field": "classification.tokuteiMeishoshu",
@@ -31035,10 +31049,10 @@
             {
               "field": "identity.officialProductUrl",
               "value": "https://sake-hokusetsu.com//enshinbunri/",
-              "sourceUrl": "https://item.rakuten.co.jp/niigata/hokusetsu-kou-enshin-720/",
-              "sourceType": "rakuten_retail",
+              "sourceUrl": "https://sake-hokusetsu.com//enshinbunri/",
+              "sourceType": "official",
               "verifiedAt": "2026-10-18",
-              "meaning": "当該商品欄の記載。別商品・別シリーズ・口コミのスペックは流用しない。"
+              "meaning": "実際に読んだ公式の商品欄自身のURL。販売店ページを公式URLの直接出典としない。"
             },
             {
               "field": "classification.tokuteiMeishoshu",
@@ -31475,10 +31489,10 @@
           {
             "field": "identity.officialProductUrl",
             "value": "https://sake-hokusetsu.com//enshinbunri/",
-            "sourceUrl": "https://item.rakuten.co.jp/niigata/hokusetsu-kou-enshin-720/",
-            "sourceType": "rakuten_retail",
+            "sourceUrl": "https://sake-hokusetsu.com//enshinbunri/",
+            "sourceType": "official",
             "verifiedAt": "2026-10-18",
-            "meaning": "当該商品欄の記載。別商品・別シリーズ・口コミのスペックは流用しない。"
+            "meaning": "実際に読んだ公式の商品欄自身のURL。販売店ページを公式URLの直接出典としない。"
           },
           {
             "field": "classification.tokuteiMeishoshu",
@@ -32524,10 +32538,10 @@
             {
               "field": "identity.officialProductUrl",
               "value": "https://www.obasute.co.jp/?p=1942",
-              "sourceUrl": "https://item.rakuten.co.jp/donguri-n/4933366092708/",
-              "sourceType": "rakuten_retail",
+              "sourceUrl": "https://www.obasute.co.jp/?p=1942",
+              "sourceType": "official",
               "verifiedAt": "2026-10-18",
-              "meaning": "当該商品欄の記載。別商品・別シリーズ・口コミのスペックは流用しない。"
+              "meaning": "実際に読んだ公式の商品欄自身のURL。販売店ページを公式URLの直接出典としない。"
             },
             {
               "field": "classification.tokuteiMeishoshu",
@@ -32961,10 +32975,10 @@
           {
             "field": "identity.officialProductUrl",
             "value": "https://www.obasute.co.jp/?p=1942",
-            "sourceUrl": "https://item.rakuten.co.jp/donguri-n/4933366092708/",
-            "sourceType": "rakuten_retail",
+            "sourceUrl": "https://www.obasute.co.jp/?p=1942",
+            "sourceType": "official",
             "verifiedAt": "2026-10-18",
-            "meaning": "当該商品欄の記載。別商品・別シリーズ・口コミのスペックは流用しない。"
+            "meaning": "実際に読んだ公式の商品欄自身のURL。販売店ページを公式URLの直接出典としない。"
           },
           {
             "field": "classification.tokuteiMeishoshu",
@@ -34120,10 +34134,10 @@
             {
               "field": "identity.officialProductUrl",
               "value": "https://nikishuzou.official.ec/items/114813084",
-              "sourceUrl": "https://item.rakuten.co.jp/saketakuhida/1632567000/",
-              "sourceType": "rakuten_retail",
+              "sourceUrl": "https://nikishuzou.official.ec/items/114813084",
+              "sourceType": "official",
               "verifiedAt": "2026-10-18",
-              "meaning": "当該商品欄の記載。別商品・別シリーズ・口コミのスペックは流用しない。"
+              "meaning": "実際に読んだ公式の商品欄自身のURL。販売店ページを公式URLの直接出典としない。"
             },
             {
               "field": "classification.tokuteiMeishoshu",
@@ -34563,10 +34577,10 @@
           {
             "field": "identity.officialProductUrl",
             "value": "https://nikishuzou.official.ec/items/114813084",
-            "sourceUrl": "https://item.rakuten.co.jp/saketakuhida/1632567000/",
-            "sourceType": "rakuten_retail",
+            "sourceUrl": "https://nikishuzou.official.ec/items/114813084",
+            "sourceType": "official",
             "verifiedAt": "2026-10-18",
-            "meaning": "当該商品欄の記載。別商品・別シリーズ・口コミのスペックは流用しない。"
+            "meaning": "実際に読んだ公式の商品欄自身のURL。販売店ページを公式URLの直接出典としない。"
           },
           {
             "field": "classification.tokuteiMeishoshu",

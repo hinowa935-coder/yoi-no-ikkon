@@ -1,0 +1,7 @@
+{
+  "id": "dpl_7wip9YHaMbbgi6nkhqzoJgsu2Acz",
+  "state": "CANCELED",
+  "commit": "5078affc86eed76abfd1ca6863565e4761b8c373",
+  "reason": "Correct official URL value provenance and non-inferred BY season metadata before publication",
+  "oldProductionPreserved": true
+}

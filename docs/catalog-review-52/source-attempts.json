@@ -83,10 +83,14 @@
       "sourceUrl": "https://jizakewine.com/sake/shikisakura/shikisakura.htm",
       "sourceType": "specialty_retailer",
       "retrieved": true,
-      "checkedAt": "2026-10-18T12:51:35.284Z",
+      "checkedAt": "2026-10-18T13:35:46.087Z",
       "status": 200,
       "method": "full_page",
-      "textHash": "8287845355af5fb2618588d565e0b4b938e527f5b6667f59419bffebc1c330e5"
+      "textHash": "fe7624fe5e2168f043afc9f4d53d9a9212b2987573402faadf67b05e522547e6",
+      "priorTextHash": "8287845355af5fb2618588d565e0b4b938e527f5b6667f59419bffebc1c330e5",
+      "priorDecodingValidated": false,
+      "charset": "x-sjis",
+      "decodingValid": true
     },
     {
       "n": 6,

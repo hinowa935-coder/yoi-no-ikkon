@@ -19,7 +19,7 @@
   "formalCreativeCaptures": 52,
   "formalImageTransportConfirmed": 52,
   "imageSpecificHolds": 3,
-  "minorDifferencesAccepted": 9,
+  "minorDifferencesAccepted": 8,
   "minorDifferenceCandidateIndexes": [
     1,
     8,
@@ -27,7 +27,6 @@
     35,
     39,
     40,
-    46,
     50,
     52
   ],
@@ -68,7 +67,7 @@
   "newProductFormalImageRate": 1,
   "existingProductsUnchanged": true,
   "tests": {
-    "passed": 101,
+    "passed": 102,
     "failed": 0
   },
   "typecheck": "passed",
@@ -87,7 +86,8 @@
       390,
       430,
       1280
-    ]
+    ],
+    "finalArtifact": "browser-local-final.json"
   },
   "internalLinks": {
     "checkedAt": "2026-10-18T13:33:51.328Z",
@@ -96,7 +96,7 @@
     "broken": []
   },
   "secretScan": {
-    "scannedFiles": 7310,
+    "scannedFiles": 7316,
     "unreadableFiles": 0,
     "findings": [],
     "passed": true,
@@ -109,5 +109,6 @@
   },
   "realIphoneTested": false,
   "automaticPublicationAllowed": false,
-  "weeklyMonitoringEnabled": false
+  "weeklyMonitoringEnabled": false,
+  "provenanceCorrectedBeforePublication": true
 }

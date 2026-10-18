@@ -1,0 +1,1804 @@
+{
+  "checkedAt": "2026-10-18T13:52:26.634Z",
+  "base": "http://127.0.0.1:3196",
+  "checks": [
+    {
+      "name": "webkit-320: zao-junmai-ginjo-catalog-v1 image",
+      "pass": true,
+      "detail": {
+        "originalSrc": true,
+        "naturalWidth": 240,
+        "naturalHeight": 240,
+        "width": 240,
+        "height": 240,
+        "display": "block",
+        "visibility": "visible",
+        "opacity": "1"
+      }
+    },
+    {
+      "name": "webkit-320: zao-junmai-ginjo-catalog-v1 identity and capacity",
+      "pass": true
+    },
+    {
+      "name": "webkit-320: zao-junmai-ginjo-catalog-v1 original purchase destination",
+      "pass": true
+    },
+    {
+      "name": "webkit-320: zao-junmai-ginjo-catalog-v1 no horizontal overflow",
+      "pass": true
+    },
+    {
+      "name": "webkit-320: zao-junmai-ginjo-catalog-v1 pairing and nights",
+      "pass": true
+    },
+    {
+      "name": "webkit-320: hokushika-akita-kasho-nigori-catalog-v1 image",
+      "pass": true,
+      "detail": {
+        "originalSrc": true,
+        "naturalWidth": 240,
+        "naturalHeight": 240,
+        "width": 240,
+        "height": 240,
+        "display": "block",
+        "visibility": "visible",
+        "opacity": "1"
+      }
+    },
+    {
+      "name": "webkit-320: hokushika-akita-kasho-nigori-catalog-v1 identity and capacity",
+      "pass": true
+    },
+    {
+      "name": "webkit-320: hokushika-akita-kasho-nigori-catalog-v1 original purchase destination",
+      "pass": true
+    },
+    {
+      "name": "webkit-320: hokushika-akita-kasho-nigori-catalog-v1 no horizontal overflow",
+      "pass": true
+    },
+    {
+      "name": "webkit-320: hokushika-akita-kasho-nigori-catalog-v1 pairing and nights",
+      "pass": true
+    },
+    {
+      "name": "webkit-320: favorite new ID",
+      "pass": true
+    },
+    {
+      "name": "webkit-320: favorite persists",
+      "pass": true
+    },
+    {
+      "name": "webkit-320: search includes addition",
+      "pass": true
+    },
+    {
+      "name": "webkit-320: back preserves query",
+      "pass": true
+    },
+    {
+      "name": "webkit-320: Discover normally recommends a new product",
+      "pass": true
+    },
+    {
+      "name": "webkit-320: food page still works",
+      "pass": true
+    },
+    {
+      "name": "webkit-320: existing placeholder retained",
+      "pass": true
+    },
+    {
+      "name": "webkit-360: zao-junmai-ginjo-catalog-v1 image",
+      "pass": true,
+      "detail": {
+        "originalSrc": true,
+        "naturalWidth": 240,
+        "naturalHeight": 240,
+        "width": 240,
+        "height": 240,
+        "display": "block",
+        "visibility": "visible",
+        "opacity": "1"
+      }
+    },
+    {
+      "name": "webkit-360: zao-junmai-ginjo-catalog-v1 identity and capacity",
+      "pass": true
+    },
+    {
+      "name": "webkit-360: zao-junmai-ginjo-catalog-v1 original purchase destination",
+      "pass": true
+    },
+    {
+      "name": "webkit-360: zao-junmai-ginjo-catalog-v1 no horizontal overflow",
+      "pass": true
+    },
+    {
+      "name": "webkit-360: zao-junmai-ginjo-catalog-v1 pairing and nights",
+      "pass": true
+    },
+    {
+      "name": "webkit-360: hokushika-akita-kasho-nigori-catalog-v1 image",
+      "pass": true,
+      "detail": {
+        "originalSrc": true,
+        "naturalWidth": 240,
+        "naturalHeight": 240,
+        "width": 240,
+        "height": 240,
+        "display": "block",
+        "visibility": "visible",
+        "opacity": "1"
+      }
+    },
+    {
+      "name": "webkit-360: hokushika-akita-kasho-nigori-catalog-v1 identity and capacity",
+      "pass": true
+    },
+    {
+      "name": "webkit-360: hokushika-akita-kasho-nigori-catalog-v1 original purchase destination",
+      "pass": true
+    },
+    {
+      "name": "webkit-360: hokushika-akita-kasho-nigori-catalog-v1 no horizontal overflow",
+      "pass": true
+    },
+    {
+      "name": "webkit-360: hokushika-akita-kasho-nigori-catalog-v1 pairing and nights",
+      "pass": true
+    },
+    {
+      "name": "webkit-360: favorite new ID",
+      "pass": true
+    },
+    {
+      "name": "webkit-360: favorite persists",
+      "pass": true
+    },
+    {
+      "name": "webkit-360: search includes addition",
+      "pass": true
+    },
+    {
+      "name": "webkit-360: back preserves query",
+      "pass": true
+    },
+    {
+      "name": "webkit-360: Discover normally recommends a new product",
+      "pass": true
+    },
+    {
+      "name": "webkit-360: food page still works",
+      "pass": true
+    },
+    {
+      "name": "webkit-360: existing placeholder retained",
+      "pass": true
+    },
+    {
+      "name": "webkit-375: zao-junmai-ginjo-catalog-v1 image",
+      "pass": true,
+      "detail": {
+        "originalSrc": true,
+        "naturalWidth": 240,
+        "naturalHeight": 240,
+        "width": 240,
+        "height": 240,
+        "display": "block",
+        "visibility": "visible",
+        "opacity": "1"
+      }
+    },
+    {
+      "name": "webkit-375: zao-junmai-ginjo-catalog-v1 identity and capacity",
+      "pass": true
+    },
+    {
+      "name": "webkit-375: zao-junmai-ginjo-catalog-v1 original purchase destination",
+      "pass": true
+    },
+    {
+      "name": "webkit-375: zao-junmai-ginjo-catalog-v1 no horizontal overflow",
+      "pass": true
+    },
+    {
+      "name": "webkit-375: zao-junmai-ginjo-catalog-v1 pairing and nights",
+      "pass": true
+    },
+    {
+      "name": "webkit-375: hokushika-akita-kasho-nigori-catalog-v1 image",
+      "pass": true,
+      "detail": {
+        "originalSrc": true,
+        "naturalWidth": 240,
+        "naturalHeight": 240,
+        "width": 240,
+        "height": 240,
+        "display": "block",
+        "visibility": "visible",
+        "opacity": "1"
+      }
+    },
+    {
+      "name": "webkit-375: hokushika-akita-kasho-nigori-catalog-v1 identity and capacity",
+      "pass": true
+    },
+    {
+      "name": "webkit-375: hokushika-akita-kasho-nigori-catalog-v1 original purchase destination",
+      "pass": true
+    },
+    {
+      "name": "webkit-375: hokushika-akita-kasho-nigori-catalog-v1 no horizontal overflow",
+      "pass": true
+    },
+    {
+      "name": "webkit-375: hokushika-akita-kasho-nigori-catalog-v1 pairing and nights",
+      "pass": true
+    },
+    {
+      "name": "webkit-375: favorite new ID",
+      "pass": true
+    },
+    {
+      "name": "webkit-375: favorite persists",
+      "pass": true
+    },
+    {
+      "name": "webkit-375: search includes addition",
+      "pass": true
+    },
+    {
+      "name": "webkit-375: back preserves query",
+      "pass": true
+    },
+    {
+      "name": "webkit-375: Discover normally recommends a new product",
+      "pass": true
+    },
+    {
+      "name": "webkit-375: food page still works",
+      "pass": true
+    },
+    {
+      "name": "webkit-375: existing placeholder retained",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: zao-junmai-ginjo-catalog-v1 image",
+      "pass": true,
+      "detail": {
+        "originalSrc": true,
+        "naturalWidth": 240,
+        "naturalHeight": 240,
+        "width": 240,
+        "height": 240,
+        "display": "block",
+        "visibility": "visible",
+        "opacity": "1"
+      }
+    },
+    {
+      "name": "webkit-390: zao-junmai-ginjo-catalog-v1 identity and capacity",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: zao-junmai-ginjo-catalog-v1 original purchase destination",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: zao-junmai-ginjo-catalog-v1 no horizontal overflow",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: zao-junmai-ginjo-catalog-v1 pairing and nights",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: chokyu-tokusen-honjozo-catalog-v1 image",
+      "pass": true,
+      "detail": {
+        "originalSrc": true,
+        "naturalWidth": 240,
+        "naturalHeight": 240,
+        "width": 240,
+        "height": 240,
+        "display": "block",
+        "visibility": "visible",
+        "opacity": "1"
+      }
+    },
+    {
+      "name": "webkit-390: chokyu-tokusen-honjozo-catalog-v1 identity and capacity",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: chokyu-tokusen-honjozo-catalog-v1 original purchase destination",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: chokyu-tokusen-honjozo-catalog-v1 no horizontal overflow",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: chokyu-tokusen-honjozo-catalog-v1 pairing and nights",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: ayumasamune-honjozo-catalog-v1 image",
+      "pass": true,
+      "detail": {
+        "originalSrc": true,
+        "naturalWidth": 240,
+        "naturalHeight": 240,
+        "width": 240,
+        "height": 240,
+        "display": "block",
+        "visibility": "visible",
+        "opacity": "1"
+      }
+    },
+    {
+      "name": "webkit-390: ayumasamune-honjozo-catalog-v1 identity and capacity",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: ayumasamune-honjozo-catalog-v1 original purchase destination",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: ayumasamune-honjozo-catalog-v1 no horizontal overflow",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: ayumasamune-honjozo-catalog-v1 pairing and nights",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: chiyonohikari-shin-tokubetsu-honjozo-catalog-v1 image",
+      "pass": true,
+      "detail": {
+        "originalSrc": true,
+        "naturalWidth": 240,
+        "naturalHeight": 240,
+        "width": 240,
+        "height": 240,
+        "display": "block",
+        "visibility": "visible",
+        "opacity": "1"
+      }
+    },
+    {
+      "name": "webkit-390: chiyonohikari-shin-tokubetsu-honjozo-catalog-v1 identity and capacity",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: chiyonohikari-shin-tokubetsu-honjozo-catalog-v1 original purchase destination",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: chiyonohikari-shin-tokubetsu-honjozo-catalog-v1 no horizontal overflow",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: chiyonohikari-shin-tokubetsu-honjozo-catalog-v1 pairing and nights",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: hitorimusume-sayaka-tokubetsu-honjozo-catalog-v1 image",
+      "pass": true,
+      "detail": {
+        "originalSrc": true,
+        "naturalWidth": 240,
+        "naturalHeight": 240,
+        "width": 240,
+        "height": 240,
+        "display": "block",
+        "visibility": "visible",
+        "opacity": "1"
+      }
+    },
+    {
+      "name": "webkit-390: hitorimusume-sayaka-tokubetsu-honjozo-catalog-v1 identity and capacity",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: hitorimusume-sayaka-tokubetsu-honjozo-catalog-v1 original purchase destination",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: hitorimusume-sayaka-tokubetsu-honjozo-catalog-v1 no horizontal overflow",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: hitorimusume-sayaka-tokubetsu-honjozo-catalog-v1 pairing and nights",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: wakitaya-tokubetsu-honjozo-catalog-v1 image",
+      "pass": true,
+      "detail": {
+        "originalSrc": true,
+        "naturalWidth": 240,
+        "naturalHeight": 240,
+        "width": 240,
+        "height": 240,
+        "display": "block",
+        "visibility": "visible",
+        "opacity": "1"
+      }
+    },
+    {
+      "name": "webkit-390: wakitaya-tokubetsu-honjozo-catalog-v1 identity and capacity",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: wakitaya-tokubetsu-honjozo-catalog-v1 original purchase destination",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: wakitaya-tokubetsu-honjozo-catalog-v1 no horizontal overflow",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: wakitaya-tokubetsu-honjozo-catalog-v1 pairing and nights",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: tenjinbayashi-tokubetsu-honjozo-catalog-v1 image",
+      "pass": true,
+      "detail": {
+        "originalSrc": true,
+        "naturalWidth": 240,
+        "naturalHeight": 240,
+        "width": 240,
+        "height": 240,
+        "display": "block",
+        "visibility": "visible",
+        "opacity": "1"
+      }
+    },
+    {
+      "name": "webkit-390: tenjinbayashi-tokubetsu-honjozo-catalog-v1 identity and capacity",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: tenjinbayashi-tokubetsu-honjozo-catalog-v1 original purchase destination",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: tenjinbayashi-tokubetsu-honjozo-catalog-v1 no horizontal overflow",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: tenjinbayashi-tokubetsu-honjozo-catalog-v1 pairing and nights",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: koshijifubuki-akiagari-2026-catalog-v1 image",
+      "pass": true,
+      "detail": {
+        "originalSrc": true,
+        "naturalWidth": 240,
+        "naturalHeight": 240,
+        "width": 240,
+        "height": 240,
+        "display": "block",
+        "visibility": "visible",
+        "opacity": "1"
+      }
+    },
+    {
+      "name": "webkit-390: koshijifubuki-akiagari-2026-catalog-v1 identity and capacity",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: koshijifubuki-akiagari-2026-catalog-v1 original purchase destination",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: koshijifubuki-akiagari-2026-catalog-v1 no horizontal overflow",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: koshijifubuki-akiagari-2026-catalog-v1 pairing and nights",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: kanbe-shiboritate-namachozo-catalog-v1 image",
+      "pass": true,
+      "detail": {
+        "originalSrc": true,
+        "naturalWidth": 240,
+        "naturalHeight": 240,
+        "width": 240,
+        "height": 240,
+        "display": "block",
+        "visibility": "visible",
+        "opacity": "1"
+      }
+    },
+    {
+      "name": "webkit-390: kanbe-shiboritate-namachozo-catalog-v1 identity and capacity",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: kanbe-shiboritate-namachozo-catalog-v1 original purchase destination",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: kanbe-shiboritate-namachozo-catalog-v1 no horizontal overflow",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: kanbe-shiboritate-namachozo-catalog-v1 pairing and nights",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: hokushika-akita-kasho-nigori-catalog-v1 image",
+      "pass": true,
+      "detail": {
+        "originalSrc": true,
+        "naturalWidth": 240,
+        "naturalHeight": 240,
+        "width": 240,
+        "height": 240,
+        "display": "block",
+        "visibility": "visible",
+        "opacity": "1"
+      }
+    },
+    {
+      "name": "webkit-390: hokushika-akita-kasho-nigori-catalog-v1 identity and capacity",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: hokushika-akita-kasho-nigori-catalog-v1 original purchase destination",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: hokushika-akita-kasho-nigori-catalog-v1 no horizontal overflow",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: hokushika-akita-kasho-nigori-catalog-v1 pairing and nights",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: koshino-happo-origarami-catalog-v1 image",
+      "pass": true,
+      "detail": {
+        "originalSrc": true,
+        "naturalWidth": 240,
+        "naturalHeight": 240,
+        "width": 240,
+        "height": 240,
+        "display": "block",
+        "visibility": "visible",
+        "opacity": "1"
+      }
+    },
+    {
+      "name": "webkit-390: koshino-happo-origarami-catalog-v1 identity and capacity",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: koshino-happo-origarami-catalog-v1 original purchase destination",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: koshino-happo-origarami-catalog-v1 no horizontal overflow",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: koshino-happo-origarami-catalog-v1 pairing and nights",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: suehiro-yamahai-junmai-ginjo-catalog-v1 image",
+      "pass": true,
+      "detail": {
+        "originalSrc": true,
+        "naturalWidth": 240,
+        "naturalHeight": 240,
+        "width": 240,
+        "height": 240,
+        "display": "block",
+        "visibility": "visible",
+        "opacity": "1"
+      }
+    },
+    {
+      "name": "webkit-390: suehiro-yamahai-junmai-ginjo-catalog-v1 identity and capacity",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: suehiro-yamahai-junmai-ginjo-catalog-v1 original purchase destination",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: suehiro-yamahai-junmai-ginjo-catalog-v1 no horizontal overflow",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: suehiro-yamahai-junmai-ginjo-catalog-v1 pairing and nights",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: kaishun-kimoto-yamaguchi-hiire-genshu-catalog-v1 image",
+      "pass": true,
+      "detail": {
+        "originalSrc": true,
+        "naturalWidth": 240,
+        "naturalHeight": 240,
+        "width": 240,
+        "height": 240,
+        "display": "block",
+        "visibility": "visible",
+        "opacity": "1"
+      }
+    },
+    {
+      "name": "webkit-390: kaishun-kimoto-yamaguchi-hiire-genshu-catalog-v1 identity and capacity",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: kaishun-kimoto-yamaguchi-hiire-genshu-catalog-v1 original purchase destination",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: kaishun-kimoto-yamaguchi-hiire-genshu-catalog-v1 no horizontal overflow",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: kaishun-kimoto-yamaguchi-hiire-genshu-catalog-v1 pairing and nights",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: utouto-junmai-catalog-v1 image",
+      "pass": true,
+      "detail": {
+        "originalSrc": true,
+        "naturalWidth": 180,
+        "naturalHeight": 240,
+        "width": 180,
+        "height": 240,
+        "display": "block",
+        "visibility": "visible",
+        "opacity": "1"
+      }
+    },
+    {
+      "name": "webkit-390: utouto-junmai-catalog-v1 identity and capacity",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: utouto-junmai-catalog-v1 original purchase destination",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: utouto-junmai-catalog-v1 no horizontal overflow",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: utouto-junmai-catalog-v1 pairing and nights",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: kirai-gin-junmai-daiginjo-180-catalog-v1 image",
+      "pass": true,
+      "detail": {
+        "originalSrc": true,
+        "naturalWidth": 240,
+        "naturalHeight": 240,
+        "width": 240,
+        "height": 240,
+        "display": "block",
+        "visibility": "visible",
+        "opacity": "1"
+      }
+    },
+    {
+      "name": "webkit-390: kirai-gin-junmai-daiginjo-180-catalog-v1 identity and capacity",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: kirai-gin-junmai-daiginjo-180-catalog-v1 original purchase destination",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: kirai-gin-junmai-daiginjo-180-catalog-v1 no horizontal overflow",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: kirai-gin-junmai-daiginjo-180-catalog-v1 pairing and nights",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: keigetsu-extra-dry-tokubetsu-junmai60-catalog-v1 image",
+      "pass": true,
+      "detail": {
+        "originalSrc": true,
+        "naturalWidth": 240,
+        "naturalHeight": 240,
+        "width": 240,
+        "height": 240,
+        "display": "block",
+        "visibility": "visible",
+        "opacity": "1"
+      }
+    },
+    {
+      "name": "webkit-390: keigetsu-extra-dry-tokubetsu-junmai60-catalog-v1 identity and capacity",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: keigetsu-extra-dry-tokubetsu-junmai60-catalog-v1 original purchase destination",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: keigetsu-extra-dry-tokubetsu-junmai60-catalog-v1 no horizontal overflow",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: keigetsu-extra-dry-tokubetsu-junmai60-catalog-v1 pairing and nights",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: hachitsuru-junmai-ginjo-catalog-v1 image",
+      "pass": true,
+      "detail": {
+        "originalSrc": true,
+        "naturalWidth": 240,
+        "naturalHeight": 240,
+        "width": 240,
+        "height": 240,
+        "display": "block",
+        "visibility": "visible",
+        "opacity": "1"
+      }
+    },
+    {
+      "name": "webkit-390: hachitsuru-junmai-ginjo-catalog-v1 identity and capacity",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: hachitsuru-junmai-ginjo-catalog-v1 original purchase destination",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: hachitsuru-junmai-ginjo-catalog-v1 no horizontal overflow",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: hachitsuru-junmai-ginjo-catalog-v1 pairing and nights",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: sakuyabi14-junmai-ginjo-jikagumi-r7by-catalog-v1 image",
+      "pass": true,
+      "detail": {
+        "originalSrc": true,
+        "naturalWidth": 240,
+        "naturalHeight": 240,
+        "width": 240,
+        "height": 240,
+        "display": "block",
+        "visibility": "visible",
+        "opacity": "1"
+      }
+    },
+    {
+      "name": "webkit-390: sakuyabi14-junmai-ginjo-jikagumi-r7by-catalog-v1 identity and capacity",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: sakuyabi14-junmai-ginjo-jikagumi-r7by-catalog-v1 original purchase destination",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: sakuyabi14-junmai-ginjo-jikagumi-r7by-catalog-v1 no horizontal overflow",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: sakuyabi14-junmai-ginjo-jikagumi-r7by-catalog-v1 pairing and nights",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: tonegawa-sodachi-junmai-ginjo-catalog-v1 image",
+      "pass": true,
+      "detail": {
+        "originalSrc": true,
+        "naturalWidth": 240,
+        "naturalHeight": 240,
+        "width": 240,
+        "height": 240,
+        "display": "block",
+        "visibility": "visible",
+        "opacity": "1"
+      }
+    },
+    {
+      "name": "webkit-390: tonegawa-sodachi-junmai-ginjo-catalog-v1 identity and capacity",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: tonegawa-sodachi-junmai-ginjo-catalog-v1 original purchase destination",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: tonegawa-sodachi-junmai-ginjo-catalog-v1 no horizontal overflow",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: tonegawa-sodachi-junmai-ginjo-catalog-v1 pairing and nights",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: gonin-musume-junmai-catalog-v1 image",
+      "pass": true,
+      "detail": {
+        "originalSrc": true,
+        "naturalWidth": 240,
+        "naturalHeight": 240,
+        "width": 240,
+        "height": 240,
+        "display": "block",
+        "visibility": "visible",
+        "opacity": "1"
+      }
+    },
+    {
+      "name": "webkit-390: gonin-musume-junmai-catalog-v1 identity and capacity",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: gonin-musume-junmai-catalog-v1 original purchase destination",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: gonin-musume-junmai-catalog-v1 no horizontal overflow",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: gonin-musume-junmai-catalog-v1 pairing and nights",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: sakari-masu-tokubetsu-junmai-catalog-v1 image",
+      "pass": true,
+      "detail": {
+        "originalSrc": true,
+        "naturalWidth": 240,
+        "naturalHeight": 180,
+        "width": 240,
+        "height": 180,
+        "display": "block",
+        "visibility": "visible",
+        "opacity": "1"
+      }
+    },
+    {
+      "name": "webkit-390: sakari-masu-tokubetsu-junmai-catalog-v1 identity and capacity",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: sakari-masu-tokubetsu-junmai-catalog-v1 original purchase destination",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: sakari-masu-tokubetsu-junmai-catalog-v1 no horizontal overflow",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: sakari-masu-tokubetsu-junmai-catalog-v1 pairing and nights",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: hokusetsu-hikari-centrifuge-junmai-daiginjo-catalog-v1 image",
+      "pass": true,
+      "detail": {
+        "originalSrc": true,
+        "naturalWidth": 240,
+        "naturalHeight": 240,
+        "width": 240,
+        "height": 240,
+        "display": "block",
+        "visibility": "visible",
+        "opacity": "1"
+      }
+    },
+    {
+      "name": "webkit-390: hokusetsu-hikari-centrifuge-junmai-daiginjo-catalog-v1 identity and capacity",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: hokusetsu-hikari-centrifuge-junmai-daiginjo-catalog-v1 original purchase destination",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: hokusetsu-hikari-centrifuge-junmai-daiginjo-catalog-v1 no horizontal overflow",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: hokusetsu-hikari-centrifuge-junmai-daiginjo-catalog-v1 pairing and nights",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: obasute-masamune-junmai-karakuchi-catalog-v1 image",
+      "pass": true,
+      "detail": {
+        "originalSrc": true,
+        "naturalWidth": 240,
+        "naturalHeight": 240,
+        "width": 240,
+        "height": 240,
+        "display": "block",
+        "visibility": "visible",
+        "opacity": "1"
+      }
+    },
+    {
+      "name": "webkit-390: obasute-masamune-junmai-karakuchi-catalog-v1 identity and capacity",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: obasute-masamune-junmai-karakuchi-catalog-v1 original purchase destination",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: obasute-masamune-junmai-karakuchi-catalog-v1 no horizontal overflow",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: obasute-masamune-junmai-karakuchi-catalog-v1 pairing and nights",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: waraijogo-junmai-daiginjo-catalog-v1 image",
+      "pass": true,
+      "detail": {
+        "originalSrc": true,
+        "naturalWidth": 240,
+        "naturalHeight": 240,
+        "width": 240,
+        "height": 240,
+        "display": "block",
+        "visibility": "visible",
+        "opacity": "1"
+      }
+    },
+    {
+      "name": "webkit-390: waraijogo-junmai-daiginjo-catalog-v1 identity and capacity",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: waraijogo-junmai-daiginjo-catalog-v1 original purchase destination",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: waraijogo-junmai-daiginjo-catalog-v1 no horizontal overflow",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: waraijogo-junmai-daiginjo-catalog-v1 pairing and nights",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: favorite new ID",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: favorite persists",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: search includes addition",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: back preserves query",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: Discover normally recommends a new product",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: food page still works",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: existing placeholder retained",
+      "pass": true
+    },
+    {
+      "name": "webkit-430: zao-junmai-ginjo-catalog-v1 image",
+      "pass": true,
+      "detail": {
+        "originalSrc": true,
+        "naturalWidth": 240,
+        "naturalHeight": 240,
+        "width": 240,
+        "height": 240,
+        "display": "block",
+        "visibility": "visible",
+        "opacity": "1"
+      }
+    },
+    {
+      "name": "webkit-430: zao-junmai-ginjo-catalog-v1 identity and capacity",
+      "pass": true
+    },
+    {
+      "name": "webkit-430: zao-junmai-ginjo-catalog-v1 original purchase destination",
+      "pass": true
+    },
+    {
+      "name": "webkit-430: zao-junmai-ginjo-catalog-v1 no horizontal overflow",
+      "pass": true
+    },
+    {
+      "name": "webkit-430: zao-junmai-ginjo-catalog-v1 pairing and nights",
+      "pass": true
+    },
+    {
+      "name": "webkit-430: hokushika-akita-kasho-nigori-catalog-v1 image",
+      "pass": true,
+      "detail": {
+        "originalSrc": true,
+        "naturalWidth": 240,
+        "naturalHeight": 240,
+        "width": 240,
+        "height": 240,
+        "display": "block",
+        "visibility": "visible",
+        "opacity": "1"
+      }
+    },
+    {
+      "name": "webkit-430: hokushika-akita-kasho-nigori-catalog-v1 identity and capacity",
+      "pass": true
+    },
+    {
+      "name": "webkit-430: hokushika-akita-kasho-nigori-catalog-v1 original purchase destination",
+      "pass": true
+    },
+    {
+      "name": "webkit-430: hokushika-akita-kasho-nigori-catalog-v1 no horizontal overflow",
+      "pass": true
+    },
+    {
+      "name": "webkit-430: hokushika-akita-kasho-nigori-catalog-v1 pairing and nights",
+      "pass": true
+    },
+    {
+      "name": "webkit-430: favorite new ID",
+      "pass": true
+    },
+    {
+      "name": "webkit-430: favorite persists",
+      "pass": true
+    },
+    {
+      "name": "webkit-430: search includes addition",
+      "pass": true
+    },
+    {
+      "name": "webkit-430: back preserves query",
+      "pass": true
+    },
+    {
+      "name": "webkit-430: Discover normally recommends a new product",
+      "pass": true
+    },
+    {
+      "name": "webkit-430: food page still works",
+      "pass": true
+    },
+    {
+      "name": "webkit-430: existing placeholder retained",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280: zao-junmai-ginjo-catalog-v1 image",
+      "pass": true,
+      "detail": {
+        "originalSrc": true,
+        "naturalWidth": 240,
+        "naturalHeight": 240,
+        "width": 240,
+        "height": 240,
+        "display": "block",
+        "visibility": "visible",
+        "opacity": "1"
+      }
+    },
+    {
+      "name": "chromium-1280: zao-junmai-ginjo-catalog-v1 identity and capacity",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280: zao-junmai-ginjo-catalog-v1 original purchase destination",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280: zao-junmai-ginjo-catalog-v1 no horizontal overflow",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280: zao-junmai-ginjo-catalog-v1 pairing and nights",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280: hokushika-akita-kasho-nigori-catalog-v1 image",
+      "pass": true,
+      "detail": {
+        "originalSrc": true,
+        "naturalWidth": 240,
+        "naturalHeight": 240,
+        "width": 240,
+        "height": 240,
+        "display": "block",
+        "visibility": "visible",
+        "opacity": "1"
+      }
+    },
+    {
+      "name": "chromium-1280: hokushika-akita-kasho-nigori-catalog-v1 identity and capacity",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280: hokushika-akita-kasho-nigori-catalog-v1 original purchase destination",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280: hokushika-akita-kasho-nigori-catalog-v1 no horizontal overflow",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280: hokushika-akita-kasho-nigori-catalog-v1 pairing and nights",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280: favorite new ID",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280: favorite persists",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280: search includes addition",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280: back preserves query",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280: Discover normally recommends a new product",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280: food page still works",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280: existing placeholder retained",
+      "pass": true
+    }
+  ],
+  "errors": [],
+  "bootstrapWarnings": [],
+  "networkFailures": [
+    {
+      "engine": "webkit",
+      "width": 320,
+      "phase": "bootstrap",
+      "path": "/discover",
+      "error": "Load request cancelled"
+    },
+    {
+      "engine": "webkit",
+      "width": 320,
+      "phase": "bootstrap",
+      "path": "/search",
+      "error": "Load request cancelled"
+    },
+    {
+      "engine": "webkit",
+      "width": 360,
+      "phase": "bootstrap",
+      "path": "/search",
+      "error": "Load request cancelled"
+    },
+    {
+      "engine": "webkit",
+      "width": 360,
+      "phase": "bootstrap",
+      "path": "/discover",
+      "error": "Load request cancelled"
+    },
+    {
+      "engine": "webkit",
+      "width": 375,
+      "phase": "bootstrap",
+      "path": "/discover",
+      "error": "Load request cancelled"
+    },
+    {
+      "engine": "webkit",
+      "width": 375,
+      "phase": "bootstrap",
+      "path": "/search",
+      "error": "Load request cancelled"
+    },
+    {
+      "engine": "webkit",
+      "width": 390,
+      "phase": "bootstrap",
+      "path": "/food",
+      "error": "Load request cancelled"
+    },
+    {
+      "engine": "webkit",
+      "width": 390,
+      "phase": "bootstrap",
+      "path": "/discover",
+      "error": "Load request cancelled"
+    },
+    {
+      "engine": "webkit",
+      "width": 390,
+      "phase": "bootstrap",
+      "path": "/search",
+      "error": "Load request cancelled"
+    },
+    {
+      "engine": "webkit",
+      "width": 430,
+      "phase": "bootstrap",
+      "path": "/search",
+      "error": "Load request cancelled"
+    },
+    {
+      "engine": "webkit",
+      "width": 430,
+      "phase": "bootstrap",
+      "path": "/discover",
+      "error": "Load request cancelled"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "phase": "bootstrap",
+      "path": "/",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "phase": "bootstrap",
+      "path": "/search",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "phase": "bootstrap",
+      "path": "/ochoko",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "phase": "bootstrap",
+      "path": "/discover",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "phase": "bootstrap",
+      "path": "/",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "phase": "bootstrap",
+      "path": "/search",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "phase": "bootstrap",
+      "path": "/ochoko",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "phase": "bootstrap",
+      "path": "/discover",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "phase": "bootstrap",
+      "path": "/discover",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "phase": "bootstrap",
+      "path": "/discover",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "phase": "bootstrap",
+      "path": "/discover",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "phase": "bootstrap",
+      "path": "/food",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "phase": "bootstrap",
+      "path": "/discover",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "phase": "bootstrap",
+      "path": "/discover/__next.discover.__PAGE__.txt",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "phase": "bootstrap",
+      "path": "/",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "phase": "bootstrap",
+      "path": "/search",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "phase": "bootstrap",
+      "path": "/ochoko",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "phase": "bootstrap",
+      "path": "/discover",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "phase": "bootstrap",
+      "path": "/discover",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "phase": "bootstrap",
+      "path": "/discover",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "phase": "bootstrap",
+      "path": "/discover",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "phase": "bootstrap",
+      "path": "/food",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "phase": "bootstrap",
+      "path": "/discover",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "phase": "regression",
+      "path": "/",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "phase": "regression",
+      "path": "/search",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "phase": "regression",
+      "path": "/ochoko",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "phase": "regression",
+      "path": "/",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "phase": "regression",
+      "path": "/search",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "phase": "regression",
+      "path": "/ochoko",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "phase": "regression",
+      "path": "/",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "phase": "regression",
+      "path": "/search",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "phase": "regression",
+      "path": "/ochoko",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "phase": "regression",
+      "path": "/",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "phase": "regression",
+      "path": "/search",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "phase": "regression",
+      "path": "/ochoko",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "phase": "regression",
+      "path": "/discover",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "phase": "regression",
+      "path": "/about",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "phase": "regression",
+      "path": "/about/advertising",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "phase": "regression",
+      "path": "/sake/zao-junmai-ginjo-catalog-v1",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "phase": "regression",
+      "path": "/",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "phase": "regression",
+      "path": "/search",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "phase": "regression",
+      "path": "/ochoko",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "phase": "regression",
+      "path": "/discover",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "phase": "regression",
+      "path": "/about",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "phase": "regression",
+      "path": "/about/advertising",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "phase": "regression",
+      "path": "/sake/zao-junmai-ginjo-catalog-v1",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "phase": "regression",
+      "path": "/",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "phase": "regression",
+      "path": "/search",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "phase": "regression",
+      "path": "/ochoko",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "phase": "regression",
+      "path": "/sake/zao-junmai-ginjo-catalog-v1",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "phase": "regression",
+      "path": "/about",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "phase": "regression",
+      "path": "/about/advertising",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "phase": "regression",
+      "path": "/",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "phase": "regression",
+      "path": "/search",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "phase": "regression",
+      "path": "/ochoko",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "phase": "regression",
+      "path": "/about",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "phase": "regression",
+      "path": "/about/advertising",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "phase": "regression",
+      "path": "/food",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "phase": "regression",
+      "path": "/sake/chokyu-tokusen-honjozo-catalog-v1",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "phase": "regression",
+      "path": "/sake/choryo-yoshinosugi-tarusake-standard",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "phase": "regression",
+      "path": "/sake/chikumanishiki-karakuchi-tokubetsu-junmai-v1",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "phase": "regression",
+      "path": "/sake/chokyu-tokusen-honjozo-catalog-v1",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "phase": "regression",
+      "path": "/sake/choryo-yoshinosugi-tarusake-standard",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "phase": "regression",
+      "path": "/sake/chikumanishiki-karakuchi-tokubetsu-junmai-v1",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "phase": "regression",
+      "path": "/",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "phase": "regression",
+      "path": "/search",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "phase": "regression",
+      "path": "/ochoko",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "phase": "regression",
+      "path": "/sake/kubota-senju-2",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "phase": "regression",
+      "path": "/sake/zuiyo-mfekdo",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "phase": "regression",
+      "path": "/sake/kyohina-j6jhwb",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "phase": "regression",
+      "path": "/sake/kyohina-j6jhwb/__next._tree.txt",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "phase": "regression",
+      "path": "/ochoko/__next.ochoko.__PAGE__.txt",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "phase": "regression",
+      "path": "/",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "phase": "regression",
+      "path": "/search",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "phase": "regression",
+      "path": "/ochoko",
+      "error": "net::ERR_ABORTED"
+    }
+  ],
+  "passed": true,
+  "realDeviceIphoneTested": false,
+  "externalPurchaseClicks": false,
+  "productVersion": "fixed52-cohort"
+}

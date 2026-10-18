@@ -8891,7 +8891,8 @@
       "isAffiliate": false,
       "destinationType": "official_shop",
       "url": null,
-      "label": "蔵元・取扱店を見る"
+      "label": "蔵元・取扱店を見る",
+      "productFingerprint": "2ff1ddbf7147ce320e0d4446337f809fea26ba45bd0de902c0af551239ef5c8c"
     },
     "chokyu-tokusen-honjozo-catalog-v1": {
       "sakeId": "chokyu-tokusen-honjozo-catalog-v1",
@@ -8909,7 +8910,8 @@
       "isAffiliate": false,
       "destinationType": "official_shop",
       "url": null,
-      "label": "蔵元・取扱店を見る"
+      "label": "蔵元・取扱店を見る",
+      "productFingerprint": "f73242d304791e53f1b966d02aebe8bcce2e151febdbaba083e5f30633ff4d70"
     },
     "ayumasamune-honjozo-catalog-v1": {
       "sakeId": "ayumasamune-honjozo-catalog-v1",
@@ -8927,7 +8929,8 @@
       "isAffiliate": false,
       "destinationType": "official_shop",
       "url": null,
-      "label": "蔵元・取扱店を見る"
+      "label": "蔵元・取扱店を見る",
+      "productFingerprint": "c09ca3504c6879eb60c28bf43c4511fc93d9435575c9c0eaea723d1bc6295946"
     },
     "chiyonohikari-shin-tokubetsu-honjozo-catalog-v1": {
       "sakeId": "chiyonohikari-shin-tokubetsu-honjozo-catalog-v1",
@@ -8945,7 +8948,8 @@
       "isAffiliate": false,
       "destinationType": "official_shop",
       "url": null,
-      "label": "蔵元・取扱店を見る"
+      "label": "蔵元・取扱店を見る",
+      "productFingerprint": "b83378bbab89ed0012dfff2c8992d2b0ba0cfdbdf4cf93fb150a8218b68dd293"
     },
     "hitorimusume-sayaka-tokubetsu-honjozo-catalog-v1": {
       "sakeId": "hitorimusume-sayaka-tokubetsu-honjozo-catalog-v1",
@@ -8963,7 +8967,8 @@
       "isAffiliate": false,
       "destinationType": "official_shop",
       "url": null,
-      "label": "蔵元・取扱店を見る"
+      "label": "蔵元・取扱店を見る",
+      "productFingerprint": "a5a5fd95c5950549bfb4fe1ef9247e76af2792d0a9a1c8f75b8aa7e166dd1237"
     },
     "wakitaya-tokubetsu-honjozo-catalog-v1": {
       "sakeId": "wakitaya-tokubetsu-honjozo-catalog-v1",
@@ -8981,7 +8986,8 @@
       "isAffiliate": false,
       "destinationType": "official_shop",
       "url": null,
-      "label": "蔵元・取扱店を見る"
+      "label": "蔵元・取扱店を見る",
+      "productFingerprint": "8ecbce6405fc78b898fe13c56ca7daa1b1322402c2e8495e1e630729ed0c0902"
     },
     "tenjinbayashi-tokubetsu-honjozo-catalog-v1": {
       "sakeId": "tenjinbayashi-tokubetsu-honjozo-catalog-v1",
@@ -8999,7 +9005,8 @@
       "isAffiliate": false,
       "destinationType": "official_shop",
       "url": null,
-      "label": "蔵元・取扱店を見る"
+      "label": "蔵元・取扱店を見る",
+      "productFingerprint": "495dd7a16cf83ae1801d95bcaf39098a689c809ee2248d6236756f868b9fb5f8"
     },
     "koshijifubuki-akiagari-2026-catalog-v1": {
       "sakeId": "koshijifubuki-akiagari-2026-catalog-v1",
@@ -9017,7 +9024,8 @@
       "isAffiliate": false,
       "destinationType": "official_shop",
       "url": null,
-      "label": "蔵元・取扱店を見る"
+      "label": "蔵元・取扱店を見る",
+      "productFingerprint": "30fb27bb47cfacc043bcd0657ede224d8fd77bf4fdc6beaa7b3c14646204f8f0"
     },
     "kanbe-shiboritate-namachozo-catalog-v1": {
       "sakeId": "kanbe-shiboritate-namachozo-catalog-v1",
@@ -9035,7 +9043,8 @@
       "isAffiliate": false,
       "destinationType": "official_shop",
       "url": null,
-      "label": "蔵元・取扱店を見る"
+      "label": "蔵元・取扱店を見る",
+      "productFingerprint": "c35f0036dceaa00d5b171a560af649a6226f9deef194a0ce9814268ed51857bc"
     },
     "hokushika-akita-kasho-nigori-catalog-v1": {
       "sakeId": "hokushika-akita-kasho-nigori-catalog-v1",
@@ -9053,7 +9062,8 @@
       "isAffiliate": false,
       "destinationType": "official_shop",
       "url": null,
-      "label": "蔵元・取扱店を見る"
+      "label": "蔵元・取扱店を見る",
+      "productFingerprint": "cf070267e2e667e9d199a4d8631b48d7c98c4bfd172e110e2bbfb0350cdffc12"
     },
     "koshino-happo-origarami-catalog-v1": {
       "sakeId": "koshino-happo-origarami-catalog-v1",
@@ -9071,7 +9081,8 @@
       "isAffiliate": false,
       "destinationType": "official_shop",
       "url": null,
-      "label": "蔵元・取扱店を見る"
+      "label": "蔵元・取扱店を見る",
+      "productFingerprint": "9de723896c3fa740a2bf02d7dc02658166cf9470c6421efd203d0247162b1971"
     },
     "suehiro-yamahai-junmai-ginjo-catalog-v1": {
       "sakeId": "suehiro-yamahai-junmai-ginjo-catalog-v1",
@@ -9089,7 +9100,8 @@
       "isAffiliate": false,
       "destinationType": "official_shop",
       "url": null,
-      "label": "蔵元・取扱店を見る"
+      "label": "蔵元・取扱店を見る",
+      "productFingerprint": "4e92492790baf4f6e47a8d5af968499d0d68f99b8846b9805b28a901f8369dd7"
     },
     "kaishun-kimoto-yamaguchi-hiire-genshu-catalog-v1": {
       "sakeId": "kaishun-kimoto-yamaguchi-hiire-genshu-catalog-v1",
@@ -9107,7 +9119,8 @@
       "isAffiliate": false,
       "destinationType": "official_shop",
       "url": null,
-      "label": "蔵元・取扱店を見る"
+      "label": "蔵元・取扱店を見る",
+      "productFingerprint": "fb680754ea9861e55c27e16ff3e95922fcc0334eba7d2151de24e3bd501ab35d"
     },
     "utouto-junmai-catalog-v1": {
       "sakeId": "utouto-junmai-catalog-v1",
@@ -9125,7 +9138,8 @@
       "isAffiliate": false,
       "destinationType": "official_shop",
       "url": null,
-      "label": "蔵元・取扱店を見る"
+      "label": "蔵元・取扱店を見る",
+      "productFingerprint": "ec75712a4cd3cdd1555bd78f35ee285022459a536a8063b2c67ee035239f1719"
     },
     "kirai-gin-junmai-daiginjo-180-catalog-v1": {
       "sakeId": "kirai-gin-junmai-daiginjo-180-catalog-v1",
@@ -9143,7 +9157,8 @@
       "isAffiliate": false,
       "destinationType": "official_shop",
       "url": null,
-      "label": "蔵元・取扱店を見る"
+      "label": "蔵元・取扱店を見る",
+      "productFingerprint": "bccd4fa7bcd58d91970bcfa104bc34b4a0a8f7751de980bd54aa5f6c098c654c"
     },
     "keigetsu-extra-dry-tokubetsu-junmai60-catalog-v1": {
       "sakeId": "keigetsu-extra-dry-tokubetsu-junmai60-catalog-v1",
@@ -9161,7 +9176,8 @@
       "isAffiliate": false,
       "destinationType": "official_shop",
       "url": null,
-      "label": "蔵元・取扱店を見る"
+      "label": "蔵元・取扱店を見る",
+      "productFingerprint": "78903fef0a0a24afbe0cc3a3a46907c6fb0c4cb08c3377c057c688b9de795d68"
     },
     "hachitsuru-junmai-ginjo-catalog-v1": {
       "sakeId": "hachitsuru-junmai-ginjo-catalog-v1",
@@ -9179,7 +9195,8 @@
       "isAffiliate": false,
       "destinationType": "official_shop",
       "url": null,
-      "label": "蔵元・取扱店を見る"
+      "label": "蔵元・取扱店を見る",
+      "productFingerprint": "94bf7c746b1a89065160f2bc04744bb6e6126f728af20a915dcc9f8c7d51de26"
     },
     "sakuyabi14-junmai-ginjo-jikagumi-r7by-catalog-v1": {
       "sakeId": "sakuyabi14-junmai-ginjo-jikagumi-r7by-catalog-v1",
@@ -9197,7 +9214,8 @@
       "isAffiliate": false,
       "destinationType": "official_shop",
       "url": null,
-      "label": "蔵元・取扱店を見る"
+      "label": "蔵元・取扱店を見る",
+      "productFingerprint": "766cc8a3eba7ef6f688a52695b47d5cd8ee8919eec9011efb64b712b3aa7bece"
     },
     "tonegawa-sodachi-junmai-ginjo-catalog-v1": {
       "sakeId": "tonegawa-sodachi-junmai-ginjo-catalog-v1",
@@ -9215,7 +9233,8 @@
       "isAffiliate": false,
       "destinationType": "official_shop",
       "url": null,
-      "label": "蔵元・取扱店を見る"
+      "label": "蔵元・取扱店を見る",
+      "productFingerprint": "f8283c36f925aa1f802d89066f3a120b7b82373d749266bd67ea9c434852f9cc"
     },
     "gonin-musume-junmai-catalog-v1": {
       "sakeId": "gonin-musume-junmai-catalog-v1",
@@ -9233,7 +9252,8 @@
       "isAffiliate": false,
       "destinationType": "official_shop",
       "url": null,
-      "label": "蔵元・取扱店を見る"
+      "label": "蔵元・取扱店を見る",
+      "productFingerprint": "a9ac2f5fb5d13280bf1b5f69be54e3dc578bae03413a245471ce6986c281f319"
     },
     "sakari-masu-tokubetsu-junmai-catalog-v1": {
       "sakeId": "sakari-masu-tokubetsu-junmai-catalog-v1",
@@ -9251,7 +9271,8 @@
       "isAffiliate": false,
       "destinationType": "official_shop",
       "url": null,
-      "label": "蔵元・取扱店を見る"
+      "label": "蔵元・取扱店を見る",
+      "productFingerprint": "0cec89af35bb519b0b0d53158924b6f290b12c097dbd06f314c922e7947caf6c"
     },
     "hokusetsu-hikari-centrifuge-junmai-daiginjo-catalog-v1": {
       "sakeId": "hokusetsu-hikari-centrifuge-junmai-daiginjo-catalog-v1",
@@ -9269,7 +9290,8 @@
       "isAffiliate": false,
       "destinationType": "official_shop",
       "url": null,
-      "label": "蔵元・取扱店を見る"
+      "label": "蔵元・取扱店を見る",
+      "productFingerprint": "0e619ca5f10d34cf9693e575b64238d498128147b627c3a481913ad4212767b7"
     },
     "obasute-masamune-junmai-karakuchi-catalog-v1": {
       "sakeId": "obasute-masamune-junmai-karakuchi-catalog-v1",
@@ -9287,7 +9309,8 @@
       "isAffiliate": false,
       "destinationType": "official_shop",
       "url": null,
-      "label": "蔵元・取扱店を見る"
+      "label": "蔵元・取扱店を見る",
+      "productFingerprint": "1fe61aae3836b06f71e8ab49217a1ca9984bedeb9cb1591cc919a267ec1fdea9"
     },
     "waraijogo-junmai-daiginjo-catalog-v1": {
       "sakeId": "waraijogo-junmai-daiginjo-catalog-v1",
@@ -9305,7 +9328,8 @@
       "isAffiliate": false,
       "destinationType": "official_shop",
       "url": null,
-      "label": "蔵元・取扱店を見る"
+      "label": "蔵元・取扱店を見る",
+      "productFingerprint": "2cfa279d477869ec2ccef8abe287fc2f51bb8be314e27cc7fbf982b66498f2ed"
     }
   }
 }

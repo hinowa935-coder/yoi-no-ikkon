@@ -64,3 +64,7 @@ test('review independence and old-version filters remain effective on actual coh
 test('an explicit ready/active state still requires every publication gate',()=>{
  for(const i of newItems){const c=pool.candidates.find(c=>c.publishedSakeId===i.id);const gate=publicationGate(c,{now:c.publicationApprovedAt||new Date().toISOString()});assert.deepEqual(gate.missing,c.qaPassed?[]:['qa']);}
 });
+test('official URL values cite the read official page and BY never implies a shinshu season',()=>{
+ for(const item of newItems){const r=item.sakeResearch,url=r.identity.officialProductUrl;if(!url)continue;const e=r.fieldEvidence.find(e=>e.field==='identity.officialProductUrl');assert.equal(e.value,url);assert.equal(e.sourceUrl,url);assert(['official','official_shop'].includes(e.sourceType));}
+ const sakuyabi=newItems.find(i=>i.id.startsWith('sakuyabi14-'));assert.equal(sakuyabi.seasonality.vintage,'R7BY');assert.deepEqual(sakuyabi.seasonality.types,[]);
+});

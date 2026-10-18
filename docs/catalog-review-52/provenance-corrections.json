@@ -1,0 +1,110 @@
+{
+  "checkedAt": "2026-10-18T13:47:17.630Z",
+  "newProductsOnly": true,
+  "changes": [
+    {
+      "id": "zao-junmai-ginjo-catalog-v1",
+      "field": "identity.officialProductUrl",
+      "sourceUrl": "https://zaoshuzo-shop.com/items/619235977d5d8118e1b63095",
+      "sourceType": "official"
+    },
+    {
+      "id": "chokyu-tokusen-honjozo-catalog-v1",
+      "field": "identity.officialProductUrl",
+      "sourceUrl": "https://www.nakano-group.co.jp/product/nihonshu01/",
+      "sourceType": "official"
+    },
+    {
+      "id": "ayumasamune-honjozo-catalog-v1",
+      "field": "identity.officialProductUrl",
+      "sourceUrl": "https://www.ayumasamune.com/product/index.html",
+      "sourceType": "official"
+    },
+    {
+      "id": "hitorimusume-sayaka-tokubetsu-honjozo-catalog-v1",
+      "field": "identity.officialProductUrl",
+      "sourceUrl": "https://hitorimusume.co.jp/products/4980110021309/",
+      "sourceType": "official"
+    },
+    {
+      "id": "wakitaya-tokubetsu-honjozo-catalog-v1",
+      "field": "identity.officialProductUrl",
+      "sourceUrl": "https://www.izu-bandai.com/pages/wakitaya-tokubetsu-honjyouzo.html",
+      "sourceType": "official"
+    },
+    {
+      "id": "koshijifubuki-akiagari-2026-catalog-v1",
+      "field": "identity.officialProductUrl",
+      "sourceUrl": "https://shop.takano-shuzo.co.jp/items/103804777",
+      "sourceType": "official"
+    },
+    {
+      "id": "suehiro-yamahai-junmai-ginjo-catalog-v1",
+      "field": "identity.officialProductUrl",
+      "sourceUrl": "https://sake-suehiro.jp/collections/1001-3000/products/yamagin",
+      "sourceType": "official_shop"
+    },
+    {
+      "id": "kaishun-kimoto-yamaguchi-hiire-genshu-catalog-v1",
+      "field": "identity.officialProductUrl",
+      "sourceUrl": "https://www.kaishun.co.jp/item",
+      "sourceType": "official"
+    },
+    {
+      "id": "kirai-gin-junmai-daiginjo-180-catalog-v1",
+      "field": "identity.officialProductUrl",
+      "sourceUrl": "https://gin-sato.jp/smp/item/kirai-gin.html",
+      "sourceType": "official"
+    },
+    {
+      "id": "keigetsu-extra-dry-tokubetsu-junmai60-catalog-v1",
+      "field": "identity.officialProductUrl",
+      "sourceUrl": "https://www.keigetsu.co.jp/products/p_karakuchi60",
+      "sourceType": "official"
+    },
+    {
+      "id": "hachitsuru-junmai-ginjo-catalog-v1",
+      "field": "identity.officialProductUrl",
+      "sourceUrl": "https://hachinohe-syurui.com/u/sake/detail/7",
+      "sourceType": "official"
+    },
+    {
+      "id": "sakuyabi14-junmai-ginjo-jikagumi-r7by-catalog-v1",
+      "field": "seasonality.types",
+      "after": [],
+      "reason": "R7BY is an edition identifier, not evidence of a shinshu season."
+    },
+    {
+      "id": "gonin-musume-junmai-catalog-v1",
+      "field": "identity.officialProductUrl",
+      "sourceUrl": "https://www.teradahonke.co.jp/c/all/sake/gd18",
+      "sourceType": "official"
+    },
+    {
+      "id": "sakari-masu-tokubetsu-junmai-catalog-v1",
+      "field": "identity.officialProductUrl",
+      "sourceUrl": "https://www.koganeishuzou.com/esp/prd1012.html",
+      "sourceType": "official"
+    },
+    {
+      "id": "hokusetsu-hikari-centrifuge-junmai-daiginjo-catalog-v1",
+      "field": "identity.officialProductUrl",
+      "sourceUrl": "https://sake-hokusetsu.com//enshinbunri/",
+      "sourceType": "official"
+    },
+    {
+      "id": "obasute-masamune-junmai-karakuchi-catalog-v1",
+      "field": "identity.officialProductUrl",
+      "sourceUrl": "https://www.obasute.co.jp/?p=1942",
+      "sourceType": "official"
+    },
+    {
+      "id": "waraijogo-junmai-daiginjo-catalog-v1",
+      "field": "identity.officialProductUrl",
+      "sourceUrl": "https://nikishuzou.official.ec/items/114813084",
+      "sourceType": "official"
+    }
+  ],
+  "original493Unchanged": true,
+  "imagesAndDestinationsUnmodified": true
+}
