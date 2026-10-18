@@ -2,6 +2,7 @@ import catalog from "./discoveryCatalog.json" with { type: "json" };
 import catalogAdditions from './catalogAdditions.json' with {type:'json'};
 import lifecycle from './catalogLifecycle.json' with {type:'json'};
 import {activeCatalog} from '../catalog/operations.js';
+import {seasonallyRecommended} from '../catalog/seasonality.js';
 import { discoveryDishes, discoveryNights, foodDirections, recommendedNights } from "./discoveryNights.js";
 import { naturalTasteTerm } from "./sakeIntroduction.js";
 import { refineMealPairingReason } from "./pairingCopy.js";
@@ -111,14 +112,14 @@ function tasteSources(item, re) {
   return [...new Set((item.sakeResearch.featureEvidence || []).filter(e => re.test(e.feature)).map(e => e.sourceUrl)
     .concat((item.sakeResearch.fieldEvidence || []).filter(e => e.field.startsWith("flavorProfile.") && re.test(String(e.value))).map(e => e.sourceUrl)))];
 }
-export function recommendationPool(dish, nightId = "ordinary") {
-  const candidates = discoveryProducts.filter(isDiscoverySake).map(item => ({ item, ...scorePairing(item, dish, nightId) })).filter(r => r.strength >= 6 && r.nightAffinity.score > 0);
+export function recommendationPool(dish, nightId = "ordinary", date = new Date()) {
+  const candidates = discoveryProducts.filter(isDiscoverySake).filter(item=>seasonallyRecommended(item,date)).map(item => ({ item, ...scorePairing(item, dish, nightId) })).filter(r => r.strength >= 6 && r.nightAffinity.score > 0);
   const top = Math.max(0, ...candidates.map(r => r.score));
   return candidates.filter(r => r.score >= Math.max(6, top - 5));
 }
 export function recommendSake(dish, nightId = "ordinary", seed = "v1", limit = 3) {
   dish = canonicalFoodName(dish);
-  const eligible = recommendationPool(dish, nightId);
+  const eligible = recommendationPool(dish, nightId, /^\d{4}-\d{2}-\d{2}$/.test(seed) ? seed : new Date());
   const strongestNight = Math.max(0,...eligible.map(r=>r.nightAffinity.score));
   // Rotate within a grounded affinity band, rather than repeating one maximum-score sake everywhere.
   let threshold=Math.max(1,strongestNight-35);

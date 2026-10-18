@@ -1,0 +1,44 @@
+{
+  "checkedAt": "2026-10-18T13:41:41.395Z",
+  "secrets": {
+    "scannedFiles": 7339,
+    "unreadableFiles": 0,
+    "findings": [],
+    "passed": true,
+    "configuredValuesChecked": [
+      "RAKUTEN_APPLICATION_ID",
+      "RAKUTEN_ACCESS_KEY",
+      "RAKUTEN_AFFILIATE_ID"
+    ],
+    "limitation": null
+  },
+  "ignored": true,
+  "noTrackedEnv": true,
+  "immutable": [
+    {
+      "file": "src/data/discoveryCatalog.json",
+      "unchanged": true
+    },
+    {
+      "file": "src/data/favoriteReferences.json",
+      "unchanged": true
+    },
+    {
+      "file": "src/data/catalogLifecycle.json",
+      "unchanged": true
+    },
+    {
+      "file": "src/app/about/content.js",
+      "unchanged": true
+    },
+    {
+      "file": "public/sw.js",
+      "unchanged": true
+    },
+    {
+      "file": "vercel.json",
+      "unchanged": true
+    }
+  ],
+  "passed": true
+}

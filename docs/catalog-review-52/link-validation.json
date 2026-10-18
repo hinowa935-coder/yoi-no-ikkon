@@ -1,0 +1,3706 @@
+{
+  "rows": [
+    {
+      "sakeId": "candidate-d062c177acd7ed80",
+      "normalUrl": "https://item.rakuten.co.jp/ichibankanshop/4980868111611/",
+      "checks": [
+        {
+          "device": "desktop",
+          "status": 200,
+          "exactDestination": true,
+          "stock": {
+            "title": "【楽天市場】日本酒 純米吟醸 蔵王 720ml 宮城の地酒 化粧箱入 ギフト 蔵王酒造 酒 清酒 甘口 お歳暮 お中元 贈答 贈り物：壱番館STORE",
+            "httpStatus": 200,
+            "sameDestination": true,
+            "itemId": "11186607",
+            "itemMatches": true,
+            "purchaseCondition": "enabled",
+            "stockCondition": null,
+            "soldOut": false,
+            "purchaseControls": true,
+            "purchasable": true,
+            "state": "purchase_enabled"
+          },
+          "legacyBrowserConfirmed": false,
+          "purchasable": true,
+          "checkedAt": "2026-10-18T13:00:53.468Z"
+        },
+        {
+          "device": "mobile",
+          "status": 200,
+          "exactDestination": true,
+          "stock": {
+            "title": "【楽天市場】日本酒 純米吟醸 蔵王 720ml 宮城の地酒 化粧箱入 ギフト 蔵王酒造 酒 清酒 甘口 お歳暮 お中元 贈答 贈り物 : 壱番館STORE",
+            "httpStatus": 200,
+            "sameDestination": true,
+            "itemId": null,
+            "itemMatches": false,
+            "purchaseCondition": null,
+            "stockCondition": null,
+            "soldOut": false,
+            "purchaseControls": false,
+            "purchasable": false,
+            "state": "item_identity_unconfirmed"
+          },
+          "legacyBrowserConfirmed": false,
+          "purchasable": false,
+          "checkedAt": "2026-10-18T13:00:54.499Z"
+        }
+      ],
+      "image": {
+        "checks": [
+          {
+            "name": "primary",
+            "status": 200,
+            "finalHost": "thumbnail.image.rakuten.co.jp",
+            "passed": true
+          },
+          {
+            "name": "compact",
+            "status": 200,
+            "finalHost": "thumbnail.image.rakuten.co.jp",
+            "passed": true
+          }
+        ],
+        "passed": true
+      },
+      "mobileProductPageConfirmed": true,
+      "stockConfirmedOn": "desktop_or_explicit_single_product_browser_review",
+      "mobileStockIndependentlyParsed": false,
+      "passed": true
+    },
+    {
+      "sakeId": "candidate-9db35c8c839321fd",
+      "normalUrl": "https://item.rakuten.co.jp/niigata/shiokawa-maboroshi/",
+      "checks": [
+        {
+          "device": "desktop",
+          "status": 200,
+          "exactDestination": true,
+          "stock": {
+            "title": "【楽天市場】日本酒  幻の酒米「亀の尾」100%使用! 純米吟醸 新潟【越乃幻の酒】720ml 化粧箱入り ギフト 男性 女性 旦那 義父 上司 新潟 誕生日 内祝い  お返し 結婚祝い おすすめ おしゃれ 記念品 お祝い 手土産 贈り物 高級 お酒 送料無料：幻の酒",
+            "httpStatus": 200,
+            "sameDestination": true,
+            "itemId": "10003295",
+            "itemMatches": true,
+            "purchaseCondition": "enabled",
+            "stockCondition": null,
+            "soldOut": false,
+            "purchaseControls": true,
+            "purchasable": true,
+            "state": "purchase_enabled"
+          },
+          "legacyBrowserConfirmed": false,
+          "purchasable": true,
+          "checkedAt": "2026-10-18T13:00:56.812Z"
+        },
+        {
+          "device": "mobile",
+          "status": 200,
+          "exactDestination": true,
+          "stock": {
+            "title": "【楽天市場】日本酒  幻の酒米「亀の尾」100%使用! 純米吟醸 新潟【越乃幻の酒】720ml 化粧箱入り ギフト 男性 女性 旦那 義父 上司 新潟 誕生日 内祝い  お返し 結婚祝い おすすめ おしゃれ 記念品 お祝い 手土産 贈り物 高級 お酒 送料無料 : 幻の酒",
+            "httpStatus": 200,
+            "sameDestination": true,
+            "itemId": null,
+            "itemMatches": false,
+            "purchaseCondition": null,
+            "stockCondition": null,
+            "soldOut": false,
+            "purchaseControls": false,
+            "purchasable": false,
+            "state": "item_identity_unconfirmed"
+          },
+          "legacyBrowserConfirmed": false,
+          "purchasable": false,
+          "checkedAt": "2026-10-18T13:00:58.012Z"
+        }
+      ],
+      "image": {
+        "checks": [
+          {
+            "name": "primary",
+            "status": 200,
+            "finalHost": "thumbnail.image.rakuten.co.jp",
+            "passed": true
+          },
+          {
+            "name": "compact",
+            "status": 200,
+            "finalHost": "thumbnail.image.rakuten.co.jp",
+            "passed": true
+          }
+        ],
+        "passed": true
+      },
+      "mobileProductPageConfirmed": true,
+      "stockConfirmedOn": "desktop_or_explicit_single_product_browser_review",
+      "mobileStockIndependentlyParsed": false,
+      "passed": true
+    },
+    {
+      "sakeId": "candidate-11b5e915498949df",
+      "normalUrl": "https://item.rakuten.co.jp/kishuuitibanya/ns-021/",
+      "checks": [
+        {
+          "device": "desktop",
+          "status": 200,
+          "exactDestination": true,
+          "stock": {
+            "title": "【楽天市場】長久 特撰 本醸造 1800ml日本酒 中野BC 和歌山県 紀州 地酒 ちょうきゅう ギフト プレゼント：紀州いちばん屋楽天市場店",
+            "httpStatus": 200,
+            "sameDestination": true,
+            "itemId": "10001190",
+            "itemMatches": true,
+            "purchaseCondition": "enabled",
+            "stockCondition": null,
+            "soldOut": false,
+            "purchaseControls": true,
+            "purchasable": true,
+            "state": "purchase_enabled"
+          },
+          "legacyBrowserConfirmed": false,
+          "purchasable": true,
+          "checkedAt": "2026-10-18T13:01:00.353Z"
+        },
+        {
+          "device": "mobile",
+          "status": 200,
+          "exactDestination": true,
+          "stock": {
+            "title": "【楽天市場】長久 特撰 本醸造 1800ml日本酒 中野BC 和歌山県 紀州 地酒 ちょうきゅう ギフト プレゼント : 紀州いちばん屋楽天市場店",
+            "httpStatus": 200,
+            "sameDestination": true,
+            "itemId": null,
+            "itemMatches": false,
+            "purchaseCondition": null,
+            "stockCondition": null,
+            "soldOut": false,
+            "purchaseControls": false,
+            "purchasable": false,
+            "state": "item_identity_unconfirmed"
+          },
+          "legacyBrowserConfirmed": false,
+          "purchasable": false,
+          "checkedAt": "2026-10-18T13:01:01.525Z"
+        }
+      ],
+      "image": {
+        "checks": [
+          {
+            "name": "primary",
+            "status": 200,
+            "finalHost": "thumbnail.image.rakuten.co.jp",
+            "passed": true
+          },
+          {
+            "name": "compact",
+            "status": 200,
+            "finalHost": "thumbnail.image.rakuten.co.jp",
+            "passed": true
+          }
+        ],
+        "passed": true
+      },
+      "mobileProductPageConfirmed": true,
+      "stockConfirmedOn": "desktop_or_explicit_single_product_browser_review",
+      "mobileStockIndependentlyParsed": false,
+      "passed": true
+    },
+    {
+      "sakeId": "candidate-40af21396f132657",
+      "normalUrl": "https://item.rakuten.co.jp/arakinstore/10000020/",
+      "checks": [
+        {
+          "device": "desktop",
+          "status": 200,
+          "exactDestination": true,
+          "stock": {
+            "title": "【楽天市場】鮎正宗 あゆまさむね（本醸造1800ml）美味しい日本酒 希少 日本酒 新潟 地酒 新潟県 新潟土産 すっきり 旨味 熱燗 冷酒 ロック 父の日 うまみ ギフト 贈答用 お酒 酒 美味しいお酒 カクテル：あらきん商店",
+            "httpStatus": 200,
+            "sameDestination": true,
+            "itemId": "10000020",
+            "itemMatches": true,
+            "purchaseCondition": "enabled",
+            "stockCondition": null,
+            "soldOut": false,
+            "purchaseControls": true,
+            "purchasable": true,
+            "state": "purchase_enabled"
+          },
+          "legacyBrowserConfirmed": false,
+          "purchasable": true,
+          "checkedAt": "2026-10-18T13:01:03.732Z"
+        },
+        {
+          "device": "mobile",
+          "status": 200,
+          "exactDestination": true,
+          "stock": {
+            "title": "【楽天市場】鮎正宗 あゆまさむね（本醸造1800ml）美味しい日本酒 希少 日本酒 新潟 地酒 新潟県 新潟土産 すっきり 旨味 熱燗 冷酒 ロック 父の日 うまみ ギフト 贈答用 お酒 酒 美味しいお酒 カクテル : あらきん商店",
+            "httpStatus": 200,
+            "sameDestination": true,
+            "itemId": null,
+            "itemMatches": false,
+            "purchaseCondition": null,
+            "stockCondition": null,
+            "soldOut": false,
+            "purchaseControls": false,
+            "purchasable": false,
+            "state": "item_identity_unconfirmed"
+          },
+          "legacyBrowserConfirmed": false,
+          "purchasable": false,
+          "checkedAt": "2026-10-18T13:01:04.938Z"
+        }
+      ],
+      "image": {
+        "checks": [
+          {
+            "name": "primary",
+            "status": 200,
+            "finalHost": "thumbnail.image.rakuten.co.jp",
+            "passed": true
+          },
+          {
+            "name": "compact",
+            "status": 200,
+            "finalHost": "thumbnail.image.rakuten.co.jp",
+            "passed": true
+          }
+        ],
+        "passed": true
+      },
+      "mobileProductPageConfirmed": true,
+      "stockConfirmedOn": "desktop_or_explicit_single_product_browser_review",
+      "mobileStockIndependentlyParsed": false,
+      "passed": true
+    },
+    {
+      "sakeId": "candidate-550e2fc57e08c173",
+      "normalUrl": "https://item.rakuten.co.jp/arakinstore/10000093/",
+      "checks": [
+        {
+          "device": "desktop",
+          "status": 200,
+          "exactDestination": true,
+          "stock": {
+            "title": "【楽天市場】千代の光 地酒 新潟県 ちよのひかり 真 日本酒 新潟 （特別本醸造1800ml）美味しい日本酒 希少 すっきり 旨味 熱燗 冷酒 ロック 新潟県 1.8L うまみ ギフト 一升瓶 贈答用 お酒 酒 美味しいお酒 カクテル：あらきん商店",
+            "httpStatus": 200,
+            "sameDestination": true,
+            "itemId": "10000093",
+            "itemMatches": true,
+            "purchaseCondition": "enabled",
+            "stockCondition": null,
+            "soldOut": false,
+            "purchaseControls": true,
+            "purchasable": true,
+            "state": "purchase_enabled"
+          },
+          "legacyBrowserConfirmed": false,
+          "purchasable": true,
+          "checkedAt": "2026-10-18T13:01:07.265Z"
+        },
+        {
+          "device": "mobile",
+          "status": 200,
+          "exactDestination": true,
+          "stock": {
+            "title": "【楽天市場】千代の光 地酒 新潟県 ちよのひかり 真 日本酒 新潟 （特別本醸造1800ml）美味しい日本酒 希少 すっきり 旨味 熱燗 冷酒 ロック 新潟県 1.8L うまみ ギフト 一升瓶 贈答用 お酒 酒 美味しいお酒 カクテル : あらきん商店",
+            "httpStatus": 200,
+            "sameDestination": true,
+            "itemId": null,
+            "itemMatches": false,
+            "purchaseCondition": null,
+            "stockCondition": null,
+            "soldOut": false,
+            "purchaseControls": false,
+            "purchasable": false,
+            "state": "item_identity_unconfirmed"
+          },
+          "legacyBrowserConfirmed": false,
+          "purchasable": false,
+          "checkedAt": "2026-10-18T13:01:08.448Z"
+        }
+      ],
+      "image": {
+        "checks": [
+          {
+            "name": "primary",
+            "status": 200,
+            "finalHost": "thumbnail.image.rakuten.co.jp",
+            "passed": true
+          },
+          {
+            "name": "compact",
+            "status": 200,
+            "finalHost": "thumbnail.image.rakuten.co.jp",
+            "passed": true
+          }
+        ],
+        "passed": true
+      },
+      "mobileProductPageConfirmed": true,
+      "stockConfirmedOn": "desktop_or_explicit_single_product_browser_review",
+      "mobileStockIndependentlyParsed": false,
+      "passed": true
+    },
+    {
+      "sakeId": "candidate-35d902f6158d6848",
+      "normalUrl": "https://item.rakuten.co.jp/ichibankanshop/4521474180044/",
+      "checks": [
+        {
+          "device": "desktop",
+          "status": 200,
+          "exactDestination": true,
+          "stock": {
+            "title": "【楽天市場】【クーポンで4038円】 四季桜 本醸造 黄ぶな 1800ml 特別本醸造酒 日本酒 お酒 本醸造酒 やや辛口 濃醇 栃木宇都宮 蔵元直送 清酒 地酒 酒 ギフト プレゼント お歳暮 お中元 【代引/同梱不可】：壱番館STORE",
+            "httpStatus": 200,
+            "sameDestination": true,
+            "itemId": "11167884",
+            "itemMatches": true,
+            "purchaseCondition": "enabled",
+            "stockCondition": null,
+            "soldOut": false,
+            "purchaseControls": true,
+            "purchasable": true,
+            "state": "purchase_enabled"
+          },
+          "legacyBrowserConfirmed": false,
+          "purchasable": true,
+          "checkedAt": "2026-10-18T13:01:10.728Z"
+        },
+        {
+          "device": "mobile",
+          "status": 200,
+          "exactDestination": true,
+          "stock": {
+            "title": "【楽天市場】【クーポンで4038円】 四季桜 本醸造 黄ぶな 1800ml 特別本醸造酒 日本酒 お酒 本醸造酒 やや辛口 濃醇 栃木宇都宮 蔵元直送 清酒 地酒 酒 ギフト プレゼント お歳暮 お中元 【代引/同梱不可】 : 壱番館STORE",
+            "httpStatus": 200,
+            "sameDestination": true,
+            "itemId": null,
+            "itemMatches": false,
+            "purchaseCondition": null,
+            "stockCondition": null,
+            "soldOut": false,
+            "purchaseControls": false,
+            "purchasable": false,
+            "state": "item_identity_unconfirmed"
+          },
+          "legacyBrowserConfirmed": false,
+          "purchasable": false,
+          "checkedAt": "2026-10-18T13:01:11.896Z"
+        }
+      ],
+      "image": {
+        "checks": [
+          {
+            "name": "primary",
+            "status": 200,
+            "finalHost": "thumbnail.image.rakuten.co.jp",
+            "passed": true
+          },
+          {
+            "name": "compact",
+            "status": 200,
+            "finalHost": "thumbnail.image.rakuten.co.jp",
+            "passed": true
+          }
+        ],
+        "passed": true
+      },
+      "mobileProductPageConfirmed": true,
+      "stockConfirmedOn": "desktop_or_explicit_single_product_browser_review",
+      "mobileStockIndependentlyParsed": false,
+      "passed": true
+    },
+    {
+      "sakeId": "candidate-f8f50d2d0b5d0488",
+      "normalUrl": "https://item.rakuten.co.jp/hosoe-saketen-r/mkm-hn-kamenozoki1800/",
+      "checks": [
+        {
+          "device": "desktop",
+          "status": 200,
+          "exactDestination": true,
+          "stock": {
+            "title": "【楽天市場】萬寿鏡 特別本醸造 甕覗 1800ml 専用箱入り【日本酒 地酒 新潟 プレゼント 贈り物 父の日 敬老の日 お中元】：細江酒店 楽天市場店",
+            "httpStatus": 200,
+            "sameDestination": true,
+            "itemId": "10000125",
+            "itemMatches": true,
+            "purchaseCondition": "enabled",
+            "stockCondition": null,
+            "soldOut": false,
+            "purchaseControls": true,
+            "purchasable": true,
+            "state": "purchase_enabled"
+          },
+          "legacyBrowserConfirmed": false,
+          "purchasable": true,
+          "checkedAt": "2026-10-18T13:01:14.304Z"
+        },
+        {
+          "device": "mobile",
+          "status": 200,
+          "exactDestination": true,
+          "stock": {
+            "title": "【楽天市場】萬寿鏡 特別本醸造 甕覗 1800ml 専用箱入り【日本酒 地酒 新潟 プレゼント 贈り物 父の日 敬老の日 お中元】 : 細江酒店 楽天市場店",
+            "httpStatus": 200,
+            "sameDestination": true,
+            "itemId": null,
+            "itemMatches": false,
+            "purchaseCondition": null,
+            "stockCondition": null,
+            "soldOut": false,
+            "purchaseControls": false,
+            "purchasable": false,
+            "state": "item_identity_unconfirmed"
+          },
+          "legacyBrowserConfirmed": false,
+          "purchasable": false,
+          "checkedAt": "2026-10-18T13:01:15.376Z"
+        }
+      ],
+      "image": {
+        "checks": [
+          {
+            "name": "primary",
+            "status": 200,
+            "finalHost": "thumbnail.image.rakuten.co.jp",
+            "passed": true
+          },
+          {
+            "name": "compact",
+            "status": 200,
+            "finalHost": "thumbnail.image.rakuten.co.jp",
+            "passed": true
+          }
+        ],
+        "passed": true
+      },
+      "mobileProductPageConfirmed": true,
+      "stockConfirmedOn": "desktop_or_explicit_single_product_browser_review",
+      "mobileStockIndependentlyParsed": false,
+      "passed": true
+    },
+    {
+      "sakeId": "candidate-1de4f992f2a2074c",
+      "normalUrl": "https://item.rakuten.co.jp/kuranosuke/3372/",
+      "checks": [
+        {
+          "device": "desktop",
+          "status": 200,
+          "exactDestination": true,
+          "stock": {
+            "title": "",
+            "httpStatus": 200,
+            "sameDestination": true,
+            "itemId": "10012012",
+            "itemMatches": true,
+            "purchaseCondition": "enabled",
+            "stockCondition": null,
+            "soldOut": false,
+            "purchaseControls": true,
+            "purchasable": true,
+            "state": "purchase_enabled"
+          },
+          "legacyBrowserConfirmed": false,
+          "purchasable": true,
+          "checkedAt": "2026-10-18T13:01:17.708Z"
+        },
+        {
+          "device": "mobile",
+          "status": 200,
+          "exactDestination": true,
+          "stock": {
+            "title": "【楽天市場】一人娘 さやか 特別本醸造 山中酒造店 1800ml 瓶 【cp】 【 日本酒 地酒 茨城 ひとりむすめ 淡麗辛口 超辛口 キレ 爽快 爽やか ゆめひたち 贈り物 】 : 酒の倉之助",
+            "httpStatus": 200,
+            "sameDestination": true,
+            "itemId": null,
+            "itemMatches": false,
+            "purchaseCondition": null,
+            "stockCondition": null,
+            "soldOut": false,
+            "purchaseControls": false,
+            "purchasable": false,
+            "state": "item_identity_unconfirmed"
+          },
+          "legacyBrowserConfirmed": false,
+          "purchasable": false,
+          "checkedAt": "2026-10-18T13:01:18.890Z"
+        }
+      ],
+      "image": {
+        "checks": [
+          {
+            "name": "primary",
+            "status": 200,
+            "finalHost": "thumbnail.image.rakuten.co.jp",
+            "passed": true
+          },
+          {
+            "name": "compact",
+            "status": 200,
+            "finalHost": "thumbnail.image.rakuten.co.jp",
+            "passed": true
+          }
+        ],
+        "passed": true
+      },
+      "mobileProductPageConfirmed": true,
+      "stockConfirmedOn": "explicit_named_single_product_browser_section",
+      "mobileStockIndependentlyParsed": false,
+      "passed": true,
+      "browserProductReview": {
+        "n": 8,
+        "sakeId": "candidate-1de4f992f2a2074c",
+        "normalUrl": "https://item.rakuten.co.jp/kuranosuke/3372/",
+        "itemCode": "kuranosuke:10012012",
+        "capacityMl": 1800,
+        "checkedAt": "2026-10-18T13:18:58.959Z",
+        "retrieved": true,
+        "purchasable": true,
+        "singleProductSectionReviewed": true,
+        "stockCount": null,
+        "mobileTitleTokens": [
+          "一人娘",
+          "さやか",
+          "特別本醸造",
+          "1800ml"
+        ],
+        "meaning": "3372の単品欄。購入手続き有効・在庫商品表示。",
+        "method": "read_only_rendered_browser_product_section"
+      }
+    },
+    {
+      "sakeId": "candidate-540bfe1be26303f6",
+      "normalUrl": "https://item.rakuten.co.jp/sakeishikawa/4947804601803/",
+      "checks": [
+        {
+          "device": "desktop",
+          "status": 200,
+          "exactDestination": true,
+          "stock": {
+            "title": "【楽天市場】又兵衛 本醸造 いわき丸 1800ml 四家酒造店 福島県 いわき 地酒 またべえ 1.8L 一升瓶 日本酒 本醸造酒 辛口 晩酌 家飲み 宅飲み ふくしまプライド ギフト プレゼント 贈り物 御祝 御礼 誕生日 父の日 敬老の日 お土産：ワイン＆ビール通販　酒のいしかわ",
+            "httpStatus": 200,
+            "sameDestination": true,
+            "itemId": "10000554",
+            "itemMatches": true,
+            "purchaseCondition": "enabled",
+            "stockCondition": null,
+            "soldOut": false,
+            "purchaseControls": true,
+            "purchasable": true,
+            "state": "purchase_enabled"
+          },
+          "legacyBrowserConfirmed": false,
+          "purchasable": true,
+          "checkedAt": "2026-10-18T13:01:21.180Z"
+        },
+        {
+          "device": "mobile",
+          "status": 200,
+          "exactDestination": true,
+          "stock": {
+            "title": "【楽天市場】又兵衛 本醸造 いわき丸 1800ml 四家酒造店 福島県 いわき 地酒 またべえ 1.8L 一升瓶 日本酒 本醸造酒 辛口 晩酌 家飲み 宅飲み ふくしまプライド ギフト プレゼント 贈り物 御祝 御礼 誕生日 父の日 敬老の日 お土産 : ワイン＆ビール通販　酒のいしかわ",
+            "httpStatus": 200,
+            "sameDestination": true,
+            "itemId": null,
+            "itemMatches": false,
+            "purchaseCondition": null,
+            "stockCondition": null,
+            "soldOut": false,
+            "purchaseControls": false,
+            "purchasable": false,
+            "state": "item_identity_unconfirmed"
+          },
+          "legacyBrowserConfirmed": false,
+          "purchasable": false,
+          "checkedAt": "2026-10-18T13:01:22.346Z"
+        }
+      ],
+      "image": {
+        "checks": [
+          {
+            "name": "primary",
+            "status": 200,
+            "finalHost": "thumbnail.image.rakuten.co.jp",
+            "passed": true
+          },
+          {
+            "name": "compact",
+            "status": 200,
+            "finalHost": "thumbnail.image.rakuten.co.jp",
+            "passed": true
+          }
+        ],
+        "passed": true
+      },
+      "mobileProductPageConfirmed": true,
+      "stockConfirmedOn": "desktop_or_explicit_single_product_browser_review",
+      "mobileStockIndependentlyParsed": false,
+      "passed": true
+    },
+    {
+      "sakeId": "candidate-48d1c0cb44622ae4",
+      "normalUrl": "https://item.rakuten.co.jp/nakajimaya/bdi005/",
+      "checks": [
+        {
+          "device": "desktop",
+          "status": 200,
+          "exactDestination": true,
+          "stock": {
+            "title": "【楽天市場】万大醸造 伊豆 脇田屋 特別本醸造 1800ml 万大醸造 本醸造酒 端麗辛口 静岡 伊豆 地酒 お土産 清酒 本醸造 脇田屋の会 東洋醸造 一升瓶：伊豆のワイン蔵　なかじまや",
+            "httpStatus": 200,
+            "sameDestination": true,
+            "itemId": "10000634",
+            "itemMatches": true,
+            "purchaseCondition": "enabled",
+            "stockCondition": null,
+            "soldOut": false,
+            "purchaseControls": true,
+            "purchasable": true,
+            "state": "purchase_enabled"
+          },
+          "legacyBrowserConfirmed": false,
+          "purchasable": true,
+          "checkedAt": "2026-10-18T13:01:24.634Z"
+        },
+        {
+          "device": "mobile",
+          "status": 200,
+          "exactDestination": true,
+          "stock": {
+            "title": "【楽天市場】万大醸造 伊豆 脇田屋 特別本醸造 1800ml 万大醸造 本醸造酒 端麗辛口 静岡 伊豆 地酒 お土産 清酒 本醸造 脇田屋の会 東洋醸造 一升瓶 : 伊豆のワイン蔵　なかじまや",
+            "httpStatus": 200,
+            "sameDestination": true,
+            "itemId": null,
+            "itemMatches": false,
+            "purchaseCondition": null,
+            "stockCondition": null,
+            "soldOut": false,
+            "purchaseControls": false,
+            "purchasable": false,
+            "state": "item_identity_unconfirmed"
+          },
+          "legacyBrowserConfirmed": false,
+          "purchasable": false,
+          "checkedAt": "2026-10-18T13:01:25.826Z"
+        }
+      ],
+      "image": {
+        "checks": [
+          {
+            "name": "primary",
+            "status": 200,
+            "finalHost": "thumbnail.image.rakuten.co.jp",
+            "passed": true
+          },
+          {
+            "name": "compact",
+            "status": 200,
+            "finalHost": "thumbnail.image.rakuten.co.jp",
+            "passed": true
+          }
+        ],
+        "passed": true
+      },
+      "mobileProductPageConfirmed": true,
+      "stockConfirmedOn": "desktop_or_explicit_single_product_browser_review",
+      "mobileStockIndependentlyParsed": false,
+      "passed": true
+    },
+    {
+      "sakeId": "candidate-0fceb86e34f0033d",
+      "normalUrl": "https://item.rakuten.co.jp/niigata-shop/0124-007-02/",
+      "checks": [
+        {
+          "device": "desktop",
+          "status": 200,
+          "exactDestination": true,
+          "stock": {
+            "title": "【楽天市場】天神囃子 特別本醸造酒 1800ml（1升）魚沼酒造【日本酒/清酒/甘口/辛口/淡麗/五百万石/こしいぶき/地酒】【お土産/手土産/プレゼント/ギフトに！贈り物】【送料無料】：新潟県公式ショップ 新潟直送計画",
+            "httpStatus": 200,
+            "sameDestination": true,
+            "itemId": "10001151",
+            "itemMatches": true,
+            "purchaseCondition": "enabled",
+            "stockCondition": null,
+            "soldOut": false,
+            "purchaseControls": true,
+            "purchasable": true,
+            "state": "purchase_enabled"
+          },
+          "legacyBrowserConfirmed": false,
+          "purchasable": true,
+          "checkedAt": "2026-10-18T13:01:28.153Z"
+        },
+        {
+          "device": "mobile",
+          "status": 200,
+          "exactDestination": true,
+          "stock": {
+            "title": "【楽天市場】天神囃子 特別本醸造酒 1800ml（1升）魚沼酒造【日本酒/清酒/甘口/辛口/淡麗/五百万石/こしいぶき/地酒】【お土産/手土産/プレゼント/ギフトに！贈り物】【送料無料】 : 新潟県公式ショップ 新潟直送計画",
+            "httpStatus": 200,
+            "sameDestination": true,
+            "itemId": null,
+            "itemMatches": false,
+            "purchaseCondition": null,
+            "stockCondition": null,
+            "soldOut": false,
+            "purchaseControls": false,
+            "purchasable": false,
+            "state": "item_identity_unconfirmed"
+          },
+          "legacyBrowserConfirmed": false,
+          "purchasable": false,
+          "checkedAt": "2026-10-18T13:01:29.362Z"
+        }
+      ],
+      "image": {
+        "checks": [
+          {
+            "name": "primary",
+            "status": 200,
+            "finalHost": "thumbnail.image.rakuten.co.jp",
+            "passed": true
+          },
+          {
+            "name": "compact",
+            "status": 200,
+            "finalHost": "thumbnail.image.rakuten.co.jp",
+            "passed": true
+          }
+        ],
+        "passed": true
+      },
+      "mobileProductPageConfirmed": true,
+      "stockConfirmedOn": "desktop_or_explicit_single_product_browser_review",
+      "mobileStockIndependentlyParsed": false,
+      "passed": true
+    },
+    {
+      "sakeId": "candidate-24caf801948a078a",
+      "normalUrl": "https://item.rakuten.co.jp/sake-mie/hayate-hiya-720/",
+      "checks": [
+        {
+          "device": "desktop",
+          "status": 200,
+          "exactDestination": true,
+          "stock": {
+            "title": "【楽天市場】颯 はやて 神の穂　秋純米　ひやおろし　720ml　【後藤酒造場：三重県桑名】　三重県　地酒　日本酒　通販：地酒「作」＆全国銘酒専門べんのや",
+            "httpStatus": 200,
+            "sameDestination": true,
+            "itemId": "10000603",
+            "itemMatches": true,
+            "purchaseCondition": "enabled",
+            "stockCondition": null,
+            "soldOut": false,
+            "purchaseControls": true,
+            "purchasable": true,
+            "state": "purchase_enabled"
+          },
+          "legacyBrowserConfirmed": false,
+          "purchasable": true,
+          "checkedAt": "2026-10-18T13:01:31.621Z"
+        },
+        {
+          "device": "mobile",
+          "status": 200,
+          "exactDestination": true,
+          "stock": {
+            "title": "【楽天市場】颯 はやて 神の穂　秋純米　ひやおろし　720ml　【後藤酒造場：三重県桑名】　三重県　地酒　日本酒　通販 : 地酒「作」＆全国銘酒専門べんのや",
+            "httpStatus": 200,
+            "sameDestination": true,
+            "itemId": null,
+            "itemMatches": false,
+            "purchaseCondition": null,
+            "stockCondition": null,
+            "soldOut": false,
+            "purchaseControls": false,
+            "purchasable": false,
+            "state": "item_identity_unconfirmed"
+          },
+          "legacyBrowserConfirmed": false,
+          "purchasable": false,
+          "checkedAt": "2026-10-18T13:01:32.788Z"
+        }
+      ],
+      "image": {
+        "checks": [
+          {
+            "name": "primary",
+            "status": 200,
+            "finalHost": "thumbnail.image.rakuten.co.jp",
+            "passed": true
+          },
+          {
+            "name": "compact",
+            "status": 200,
+            "finalHost": "thumbnail.image.rakuten.co.jp",
+            "passed": true
+          }
+        ],
+        "passed": true
+      },
+      "mobileProductPageConfirmed": true,
+      "stockConfirmedOn": "desktop_or_explicit_single_product_browser_review",
+      "mobileStockIndependentlyParsed": false,
+      "passed": true
+    },
+    {
+      "sakeId": "candidate-89b9d83a6860c9b4",
+      "normalUrl": "https://item.rakuten.co.jp/shunsake/hiyaoroshi_720/",
+      "checks": [
+        {
+          "device": "desktop",
+          "status": 200,
+          "exactDestination": true,
+          "stock": {
+            "title": "【楽天市場】【秋酒・季節限定酒】 特別純米 ひやおろし 720ml 氷温貯蔵 会津ほまれ 淡麗辛口 夢の香 ほまれ酒造 蔵元直営 冷酒 冷や 日本酒 お酒 ギフト お祝い 贈答 秋あがり 蔵元直送 贈り物 プレゼント 誕生日 熟成 おじいちゃん 還暦 数量限定 敬老の日 月見酒：會津ほまれ【蔵元直営】楽天市場店",
+            "httpStatus": 200,
+            "sameDestination": true,
+            "itemId": "10000005",
+            "itemMatches": true,
+            "purchaseCondition": "enabled",
+            "stockCondition": null,
+            "soldOut": false,
+            "purchaseControls": true,
+            "purchasable": true,
+            "state": "purchase_enabled"
+          },
+          "legacyBrowserConfirmed": false,
+          "purchasable": true,
+          "checkedAt": "2026-10-18T13:01:35.130Z"
+        },
+        {
+          "device": "mobile",
+          "status": 200,
+          "exactDestination": true,
+          "stock": {
+            "title": "【楽天市場】【秋酒・季節限定酒】 特別純米 ひやおろし 720ml 氷温貯蔵 会津ほまれ 淡麗辛口 夢の香 ほまれ酒造 蔵元直営 冷酒 冷や 日本酒 お酒 ギフト お祝い 贈答 秋あがり 蔵元直送 贈り物 プレゼント 誕生日 熟成 おじいちゃん 還暦 数量限定 敬老の日 月見酒 : 會津ほまれ【蔵元直営】楽天市場店",
+            "httpStatus": 200,
+            "sameDestination": true,
+            "itemId": null,
+            "itemMatches": false,
+            "purchaseCondition": null,
+            "stockCondition": null,
+            "soldOut": false,
+            "purchaseControls": false,
+            "purchasable": false,
+            "state": "item_identity_unconfirmed"
+          },
+          "legacyBrowserConfirmed": false,
+          "purchasable": false,
+          "checkedAt": "2026-10-18T13:01:36.284Z"
+        }
+      ],
+      "image": {
+        "checks": [
+          {
+            "name": "primary",
+            "status": 200,
+            "finalHost": "thumbnail.image.rakuten.co.jp",
+            "passed": true
+          },
+          {
+            "name": "compact",
+            "status": 200,
+            "finalHost": "thumbnail.image.rakuten.co.jp",
+            "passed": true
+          }
+        ],
+        "passed": true
+      },
+      "mobileProductPageConfirmed": true,
+      "stockConfirmedOn": "desktop_or_explicit_single_product_browser_review",
+      "mobileStockIndependentlyParsed": false,
+      "passed": true
+    },
+    {
+      "sakeId": "candidate-dc2f4b6c4f190a80",
+      "normalUrl": "https://item.rakuten.co.jp/jizake-watanabe/10007141/",
+      "checks": [
+        {
+          "device": "desktop",
+          "status": 200,
+          "exactDestination": true,
+          "stock": {
+            "title": "【楽天市場】国権（こっけん）純米吟醸 銀ラベル 秋あがり 福島県（国権酒造）【720ml／1800ml】［日本酒／上品な吟醸香／繊細で透明感がある味わい］：地酒ワタナベ",
+            "httpStatus": 200,
+            "sameDestination": true,
+            "itemId": "10007141",
+            "itemMatches": true,
+            "purchaseCondition": "enabled",
+            "stockCondition": null,
+            "soldOut": false,
+            "purchaseControls": true,
+            "purchasable": true,
+            "state": "purchase_enabled"
+          },
+          "legacyBrowserConfirmed": false,
+          "purchasable": true,
+          "checkedAt": "2026-10-18T13:01:38.636Z"
+        },
+        {
+          "device": "mobile",
+          "status": 200,
+          "exactDestination": true,
+          "stock": {
+            "title": "【楽天市場】国権（こっけん）純米吟醸 銀ラベル 秋あがり 福島県（国権酒造）【720ml／1800ml】［日本酒／上品な吟醸香／繊細で透明感がある味わい］ : 地酒ワタナベ",
+            "httpStatus": 200,
+            "sameDestination": true,
+            "itemId": null,
+            "itemMatches": false,
+            "purchaseCondition": null,
+            "stockCondition": null,
+            "soldOut": false,
+            "purchaseControls": false,
+            "purchasable": false,
+            "state": "item_identity_unconfirmed"
+          },
+          "legacyBrowserConfirmed": false,
+          "purchasable": false,
+          "checkedAt": "2026-10-18T13:01:39.737Z"
+        }
+      ],
+      "image": {
+        "checks": [
+          {
+            "name": "primary",
+            "status": 200,
+            "finalHost": "thumbnail.image.rakuten.co.jp",
+            "passed": true
+          },
+          {
+            "name": "compact",
+            "status": 200,
+            "finalHost": "thumbnail.image.rakuten.co.jp",
+            "passed": true
+          }
+        ],
+        "passed": true
+      },
+      "mobileProductPageConfirmed": true,
+      "stockConfirmedOn": "desktop_or_explicit_single_product_browser_review",
+      "mobileStockIndependentlyParsed": false,
+      "passed": true
+    },
+    {
+      "sakeId": "candidate-240b7754eed6d831",
+      "normalUrl": "https://item.rakuten.co.jp/jizake-watanabe/meikyousisui-ginori-aki-720/",
+      "checks": [
+        {
+          "device": "desktop",
+          "status": 200,
+          "exactDestination": true,
+          "stock": {
+            "title": "【楽天市場】明鏡止水（めいきょうしすい）純米吟醸 吟織 秋あがり 長野県（大澤酒造）【720ml／1800ml】［日本酒／シトラス系の香り／オリのほのかな甘み］：地酒ワタナベ",
+            "httpStatus": 200,
+            "sameDestination": true,
+            "itemId": "10012667",
+            "itemMatches": true,
+            "purchaseCondition": "enabled",
+            "stockCondition": null,
+            "soldOut": false,
+            "purchaseControls": true,
+            "purchasable": true,
+            "state": "purchase_enabled"
+          },
+          "legacyBrowserConfirmed": false,
+          "purchasable": true,
+          "checkedAt": "2026-10-18T13:01:42.049Z"
+        },
+        {
+          "device": "mobile",
+          "status": 200,
+          "exactDestination": true,
+          "stock": {
+            "title": "【楽天市場】明鏡止水（めいきょうしすい）純米吟醸 吟織 秋あがり 長野県（大澤酒造）【720ml／1800ml】［日本酒／シトラス系の香り／オリのほのかな甘み］ : 地酒ワタナベ",
+            "httpStatus": 200,
+            "sameDestination": true,
+            "itemId": null,
+            "itemMatches": false,
+            "purchaseCondition": null,
+            "stockCondition": null,
+            "soldOut": false,
+            "purchaseControls": false,
+            "purchasable": false,
+            "state": "item_identity_unconfirmed"
+          },
+          "legacyBrowserConfirmed": false,
+          "purchasable": false,
+          "checkedAt": "2026-10-18T13:01:43.216Z"
+        }
+      ],
+      "image": {
+        "checks": [
+          {
+            "name": "primary",
+            "status": 200,
+            "finalHost": "thumbnail.image.rakuten.co.jp",
+            "passed": true
+          },
+          {
+            "name": "compact",
+            "status": 200,
+            "finalHost": "thumbnail.image.rakuten.co.jp",
+            "passed": true
+          }
+        ],
+        "passed": true
+      },
+      "mobileProductPageConfirmed": true,
+      "stockConfirmedOn": "desktop_or_explicit_single_product_browser_review",
+      "mobileStockIndependentlyParsed": false,
+      "passed": true
+    },
+    {
+      "sakeId": "candidate-6ca309a3bfb13d0e",
+      "normalUrl": "https://item.rakuten.co.jp/umeshu/1121-13-1800/",
+      "checks": [
+        {
+          "device": "desktop",
+          "status": 200,
+          "exactDestination": true,
+          "stock": {
+            "title": "【楽天市場】花巴 山廃 秋あがり 1800ml【美吉野醸造／奈良県】【クール便推奨】【日本酒】：梅酒屋",
+            "httpStatus": 200,
+            "sameDestination": true,
+            "itemId": "10011486",
+            "itemMatches": true,
+            "purchaseCondition": "enabled",
+            "stockCondition": null,
+            "soldOut": false,
+            "purchaseControls": true,
+            "purchasable": true,
+            "state": "purchase_enabled"
+          },
+          "legacyBrowserConfirmed": false,
+          "purchasable": true,
+          "checkedAt": "2026-10-18T13:01:45.533Z"
+        },
+        {
+          "device": "mobile",
+          "status": 200,
+          "exactDestination": true,
+          "stock": {
+            "title": "【楽天市場】花巴 山廃 秋あがり 1800ml【美吉野醸造／奈良県】【クール便推奨】【日本酒】 : 梅酒屋",
+            "httpStatus": 200,
+            "sameDestination": true,
+            "itemId": null,
+            "itemMatches": false,
+            "purchaseCondition": null,
+            "stockCondition": null,
+            "soldOut": false,
+            "purchaseControls": false,
+            "purchasable": false,
+            "state": "item_identity_unconfirmed"
+          },
+          "legacyBrowserConfirmed": false,
+          "purchasable": false,
+          "checkedAt": "2026-10-18T13:01:46.696Z"
+        }
+      ],
+      "image": {
+        "checks": [
+          {
+            "name": "primary",
+            "status": 200,
+            "finalHost": "thumbnail.image.rakuten.co.jp",
+            "passed": true
+          },
+          {
+            "name": "compact",
+            "status": 200,
+            "finalHost": "thumbnail.image.rakuten.co.jp",
+            "passed": true
+          }
+        ],
+        "passed": true
+      },
+      "mobileProductPageConfirmed": true,
+      "stockConfirmedOn": "desktop_or_explicit_single_product_browser_review",
+      "mobileStockIndependentlyParsed": false,
+      "passed": true
+    },
+    {
+      "sakeId": "candidate-f4acc13edf4d8a36",
+      "normalUrl": "https://item.rakuten.co.jp/takano-shuzo/10000002/",
+      "checks": [
+        {
+          "device": "desktop",
+          "status": 200,
+          "exactDestination": true,
+          "stock": {
+            "title": "【楽天市場】【秋季限定】日本酒 越路吹雪 秋あがり 2026 純米吟醸酒 720ml 辛口 酒 お酒 日本酒 敬老の日 お歳暮 御歳暮 ギフト プレゼント 地酒 清酒 sake 季節限定 秋限定 ひやおろし 秋上がり 秋のお酒 リスラベル 紅葉 おしゃれ 蔵元直送 こしじふぶき 新潟 高野酒造：越後酒蔵 高野酒造 楽天市場店",
+            "httpStatus": 200,
+            "sameDestination": true,
+            "itemId": "10000002",
+            "itemMatches": true,
+            "purchaseCondition": "enabled",
+            "stockCondition": null,
+            "soldOut": false,
+            "purchaseControls": true,
+            "purchasable": true,
+            "state": "purchase_enabled"
+          },
+          "legacyBrowserConfirmed": false,
+          "purchasable": true,
+          "checkedAt": "2026-10-18T13:01:49.009Z"
+        },
+        {
+          "device": "mobile",
+          "status": 200,
+          "exactDestination": true,
+          "stock": {
+            "title": "【楽天市場】【秋季限定】日本酒 越路吹雪 秋あがり 2026 純米吟醸酒 720ml 辛口 酒 お酒 日本酒 敬老の日 お歳暮 御歳暮 ギフト プレゼント 地酒 清酒 sake 季節限定 秋限定 ひやおろし 秋上がり 秋のお酒 リスラベル 紅葉 おしゃれ 蔵元直送 こしじふぶき 新潟 高野酒造 : 越後酒蔵 高野酒造 楽天市場店",
+            "httpStatus": 200,
+            "sameDestination": true,
+            "itemId": null,
+            "itemMatches": false,
+            "purchaseCondition": null,
+            "stockCondition": null,
+            "soldOut": false,
+            "purchaseControls": false,
+            "purchasable": false,
+            "state": "item_identity_unconfirmed"
+          },
+          "legacyBrowserConfirmed": false,
+          "purchasable": false,
+          "checkedAt": "2026-10-18T13:01:50.210Z"
+        }
+      ],
+      "image": {
+        "checks": [
+          {
+            "name": "primary",
+            "status": 200,
+            "finalHost": "thumbnail.image.rakuten.co.jp",
+            "passed": true
+          },
+          {
+            "name": "compact",
+            "status": 200,
+            "finalHost": "thumbnail.image.rakuten.co.jp",
+            "passed": true
+          }
+        ],
+        "passed": true
+      },
+      "mobileProductPageConfirmed": true,
+      "stockConfirmedOn": "desktop_or_explicit_single_product_browser_review",
+      "mobileStockIndependentlyParsed": false,
+      "passed": true
+    },
+    {
+      "sakeId": "candidate-aece3f6e77aabdd0",
+      "normalUrl": "https://item.rakuten.co.jp/yamagatamaru/4541513472039/",
+      "checks": [
+        {
+          "device": "desktop",
+          "status": 200,
+          "exactDestination": true,
+          "stock": {
+            "title": "【楽天市場】別誂 雅山流 純米吟醸 秋あがり 紅葉 720ml【クール便】 山形県 新藤酒造 山形の地酒 日本酒：まるごと山形",
+            "httpStatus": 200,
+            "sameDestination": true,
+            "itemId": "10005591",
+            "itemMatches": true,
+            "purchaseCondition": "enabled",
+            "stockCondition": null,
+            "soldOut": false,
+            "purchaseControls": true,
+            "purchasable": true,
+            "state": "purchase_enabled"
+          },
+          "legacyBrowserConfirmed": false,
+          "purchasable": true,
+          "checkedAt": "2026-10-18T13:01:52.486Z"
+        },
+        {
+          "device": "mobile",
+          "status": 200,
+          "exactDestination": true,
+          "stock": {
+            "title": "【楽天市場】別誂 雅山流 純米吟醸 秋あがり 紅葉 720ml【クール便】 山形県 新藤酒造 山形の地酒 日本酒 : まるごと山形",
+            "httpStatus": 200,
+            "sameDestination": true,
+            "itemId": null,
+            "itemMatches": false,
+            "purchaseCondition": null,
+            "stockCondition": null,
+            "soldOut": false,
+            "purchaseControls": false,
+            "purchasable": false,
+            "state": "item_identity_unconfirmed"
+          },
+          "legacyBrowserConfirmed": false,
+          "purchasable": false,
+          "checkedAt": "2026-10-18T13:01:53.773Z"
+        }
+      ],
+      "image": {
+        "checks": [
+          {
+            "name": "primary",
+            "status": 200,
+            "finalHost": "thumbnail.image.rakuten.co.jp",
+            "passed": true
+          },
+          {
+            "name": "compact",
+            "status": 200,
+            "finalHost": "thumbnail.image.rakuten.co.jp",
+            "passed": true
+          }
+        ],
+        "passed": true
+      },
+      "mobileProductPageConfirmed": true,
+      "stockConfirmedOn": "desktop_or_explicit_single_product_browser_review",
+      "mobileStockIndependentlyParsed": false,
+      "passed": true
+    },
+    {
+      "sakeId": "candidate-25953637e2661a96",
+      "normalUrl": "https://item.rakuten.co.jp/izumise/011535/",
+      "checks": [
+        {
+          "device": "desktop",
+          "status": 200,
+          "exactDestination": true,
+          "stock": {
+            "title": "【楽天市場】【10/18限定 全品P3倍】日本酒 官兵衛 しぼりたて 1800ml 兵庫県 名城酒造 清酒 1.8L 一升 瓶 長S：日本のSAKE 　和泉清　 楽天市場店",
+            "httpStatus": 200,
+            "sameDestination": true,
+            "itemId": "10000688",
+            "itemMatches": true,
+            "purchaseCondition": "enabled",
+            "stockCondition": null,
+            "soldOut": false,
+            "purchaseControls": true,
+            "purchasable": true,
+            "state": "purchase_enabled"
+          },
+          "legacyBrowserConfirmed": false,
+          "purchasable": true,
+          "checkedAt": "2026-10-18T13:01:56.068Z"
+        },
+        {
+          "device": "mobile",
+          "status": 200,
+          "exactDestination": true,
+          "stock": {
+            "title": "【楽天市場】【10/18限定 全品P3倍】日本酒 官兵衛 しぼりたて 1800ml 兵庫県 名城酒造 清酒 1.8L 一升 瓶 長S : 日本のSAKE 　和泉清　 楽天市場店",
+            "httpStatus": 200,
+            "sameDestination": true,
+            "itemId": null,
+            "itemMatches": false,
+            "purchaseCondition": null,
+            "stockCondition": null,
+            "soldOut": false,
+            "purchaseControls": false,
+            "purchasable": false,
+            "state": "item_identity_unconfirmed"
+          },
+          "legacyBrowserConfirmed": false,
+          "purchasable": false,
+          "checkedAt": "2026-10-18T13:01:57.155Z"
+        }
+      ],
+      "image": {
+        "checks": [
+          {
+            "name": "primary",
+            "status": 200,
+            "finalHost": "thumbnail.image.rakuten.co.jp",
+            "passed": true
+          },
+          {
+            "name": "compact",
+            "status": 200,
+            "finalHost": "thumbnail.image.rakuten.co.jp",
+            "passed": true
+          }
+        ],
+        "passed": true
+      },
+      "mobileProductPageConfirmed": true,
+      "stockConfirmedOn": "desktop_or_explicit_single_product_browser_review",
+      "mobileStockIndependentlyParsed": false,
+      "passed": true
+    },
+    {
+      "sakeId": "candidate-e62a2f02bc3ce3f5",
+      "normalUrl": "https://item.rakuten.co.jp/lw-hana/113964/",
+      "checks": [
+        {
+          "device": "desktop",
+          "status": 200,
+          "exactDestination": true,
+          "stock": {
+            "title": "【楽天市場】【秋田県ナンバー１の受賞暦を誇る北鹿のにごり酒】北鹿 秋田 華匠 にごり酒 1.8L 日本酒 秋田県 濁り酒 甘口 清酒 国産 人気 定番 家飲み 晩酌 食中酒 プレゼント 内祝い お供え 贈答用 ギフト 男性 女性 60代 70代 80代 父の日：酒本舗はな",
+            "httpStatus": 200,
+            "sameDestination": true,
+            "itemId": "10005314",
+            "itemMatches": true,
+            "purchaseCondition": "enabled",
+            "stockCondition": null,
+            "soldOut": false,
+            "purchaseControls": true,
+            "purchasable": true,
+            "state": "purchase_enabled"
+          },
+          "legacyBrowserConfirmed": false,
+          "purchasable": true,
+          "checkedAt": "2026-10-18T13:01:59.470Z"
+        },
+        {
+          "device": "mobile",
+          "status": 200,
+          "exactDestination": true,
+          "stock": {
+            "title": "【楽天市場】【秋田県ナンバー１の受賞暦を誇る北鹿のにごり酒】北鹿 秋田 華匠 にごり酒 1.8L 日本酒 秋田県 濁り酒 甘口 清酒 国産 人気 定番 家飲み 晩酌 食中酒 プレゼント 内祝い お供え 贈答用 ギフト 男性 女性 60代 70代 80代 父の日 : 酒本舗はな",
+            "httpStatus": 200,
+            "sameDestination": true,
+            "itemId": null,
+            "itemMatches": false,
+            "purchaseCondition": null,
+            "stockCondition": null,
+            "soldOut": false,
+            "purchaseControls": false,
+            "purchasable": false,
+            "state": "item_identity_unconfirmed"
+          },
+          "legacyBrowserConfirmed": false,
+          "purchasable": false,
+          "checkedAt": "2026-10-18T13:02:00.631Z"
+        }
+      ],
+      "image": {
+        "checks": [
+          {
+            "name": "primary",
+            "status": 200,
+            "finalHost": "thumbnail.image.rakuten.co.jp",
+            "passed": true
+          },
+          {
+            "name": "compact",
+            "status": 200,
+            "finalHost": "thumbnail.image.rakuten.co.jp",
+            "passed": true
+          }
+        ],
+        "passed": true
+      },
+      "mobileProductPageConfirmed": true,
+      "stockConfirmedOn": "desktop_or_explicit_single_product_browser_review",
+      "mobileStockIndependentlyParsed": false,
+      "passed": true
+    },
+    {
+      "sakeId": "candidate-4870fcfaae78e73d",
+      "normalUrl": "https://item.rakuten.co.jp/enjoy-sake/10000355/",
+      "checks": [
+        {
+          "device": "desktop",
+          "status": 200,
+          "exactDestination": true,
+          "stock": {
+            "title": "【楽天市場】季節限定　華鳩　貴醸酒　生にごり　500ml　日本酒　広島　呉市　音戸　榎酒造：Let’s enjoy酒生活.酒文化 タナカ",
+            "httpStatus": 200,
+            "sameDestination": true,
+            "itemId": "10000355",
+            "itemMatches": true,
+            "purchaseCondition": "enabled",
+            "stockCondition": null,
+            "soldOut": false,
+            "purchaseControls": true,
+            "purchasable": true,
+            "state": "purchase_enabled"
+          },
+          "legacyBrowserConfirmed": false,
+          "purchasable": true,
+          "checkedAt": "2026-10-18T13:02:02.910Z"
+        },
+        {
+          "device": "mobile",
+          "status": 200,
+          "exactDestination": true,
+          "stock": {
+            "title": "【楽天市場】季節限定　華鳩　貴醸酒　生にごり　500ml　日本酒　広島　呉市　音戸　榎酒造 : Let’s enjoy酒生活.酒文化 タナカ",
+            "httpStatus": 200,
+            "sameDestination": true,
+            "itemId": null,
+            "itemMatches": false,
+            "purchaseCondition": null,
+            "stockCondition": null,
+            "soldOut": false,
+            "purchaseControls": false,
+            "purchasable": false,
+            "state": "item_identity_unconfirmed"
+          },
+          "legacyBrowserConfirmed": false,
+          "purchasable": false,
+          "checkedAt": "2026-10-18T13:02:04.089Z"
+        }
+      ],
+      "image": {
+        "checks": [
+          {
+            "name": "primary",
+            "status": 200,
+            "finalHost": "thumbnail.image.rakuten.co.jp",
+            "passed": true
+          },
+          {
+            "name": "compact",
+            "status": 200,
+            "finalHost": "thumbnail.image.rakuten.co.jp",
+            "passed": true
+          }
+        ],
+        "passed": true
+      },
+      "mobileProductPageConfirmed": true,
+      "stockConfirmedOn": "desktop_or_explicit_single_product_browser_review",
+      "mobileStockIndependentlyParsed": false,
+      "passed": true
+    },
+    {
+      "sakeId": "candidate-d0f2ee87613be918",
+      "normalUrl": "https://item.rakuten.co.jp/echigo/113006/",
+      "checks": [
+        {
+          "device": "desktop",
+          "status": 200,
+          "exactDestination": true,
+          "stock": {
+            "title": "【楽天市場】(産地直送)季節限定 越乃八豊 おりがらみ 720ml 越後酒造場 日本酒 純米吟醸と普通酒 ブレンド こしのはっぽう 冷やして 冷酒 やや辛口 うすにごり にごり酒 夏酒 新潟 日本酒 ギフト お土産 プレゼント：越後銘門酒会 新潟県の酒とグルメ",
+            "httpStatus": 200,
+            "sameDestination": true,
+            "itemId": "10011845",
+            "itemMatches": true,
+            "purchaseCondition": "enabled",
+            "stockCondition": null,
+            "soldOut": false,
+            "purchaseControls": true,
+            "purchasable": true,
+            "state": "purchase_enabled"
+          },
+          "legacyBrowserConfirmed": false,
+          "purchasable": true,
+          "checkedAt": "2026-10-18T13:02:06.463Z"
+        },
+        {
+          "device": "mobile",
+          "status": 200,
+          "exactDestination": true,
+          "stock": {
+            "title": "【楽天市場】(産地直送)季節限定 越乃八豊 おりがらみ 720ml 越後酒造場 日本酒 純米吟醸と普通酒 ブレンド こしのはっぽう 冷やして 冷酒 やや辛口 うすにごり にごり酒 夏酒 新潟 日本酒 ギフト お土産 プレゼント : 越後銘門酒会 新潟県の酒とグルメ",
+            "httpStatus": 200,
+            "sameDestination": true,
+            "itemId": null,
+            "itemMatches": false,
+            "purchaseCondition": null,
+            "stockCondition": null,
+            "soldOut": false,
+            "purchaseControls": false,
+            "purchasable": false,
+            "state": "item_identity_unconfirmed"
+          },
+          "legacyBrowserConfirmed": false,
+          "purchasable": false,
+          "checkedAt": "2026-10-18T13:02:07.629Z"
+        }
+      ],
+      "image": {
+        "checks": [
+          {
+            "name": "primary",
+            "status": 200,
+            "finalHost": "thumbnail.image.rakuten.co.jp",
+            "passed": true
+          },
+          {
+            "name": "compact",
+            "status": 200,
+            "finalHost": "thumbnail.image.rakuten.co.jp",
+            "passed": true
+          }
+        ],
+        "passed": true
+      },
+      "mobileProductPageConfirmed": true,
+      "stockConfirmedOn": "desktop_or_explicit_single_product_browser_review",
+      "mobileStockIndependentlyParsed": false,
+      "passed": true
+    },
+    {
+      "sakeId": "candidate-4e6fe8c7965db28e",
+      "normalUrl": "https://item.rakuten.co.jp/sake-akiyama/tensei_tj_ginbo_autumn_ori_720/",
+      "checks": [
+        {
+          "device": "desktop",
+          "status": 200,
+          "exactDestination": true,
+          "stock": {
+            "title": "【楽天市場】【日本酒】天青　吟望　秋　純米　おりがらみ　720ml：酒の秋山　楽天市場店",
+            "httpStatus": 200,
+            "sameDestination": true,
+            "itemId": "10000282",
+            "itemMatches": true,
+            "purchaseCondition": "enabled",
+            "stockCondition": null,
+            "soldOut": false,
+            "purchaseControls": true,
+            "purchasable": true,
+            "state": "purchase_enabled"
+          },
+          "legacyBrowserConfirmed": false,
+          "purchasable": true,
+          "checkedAt": "2026-10-18T13:02:09.893Z"
+        },
+        {
+          "device": "mobile",
+          "status": 200,
+          "exactDestination": true,
+          "stock": {
+            "title": "【楽天市場】【日本酒】天青　吟望　秋　純米　おりがらみ　720ml : 酒の秋山　楽天市場店",
+            "httpStatus": 200,
+            "sameDestination": true,
+            "itemId": null,
+            "itemMatches": false,
+            "purchaseCondition": null,
+            "stockCondition": null,
+            "soldOut": false,
+            "purchaseControls": false,
+            "purchasable": false,
+            "state": "item_identity_unconfirmed"
+          },
+          "legacyBrowserConfirmed": false,
+          "purchasable": false,
+          "checkedAt": "2026-10-18T13:02:11.064Z"
+        }
+      ],
+      "image": {
+        "checks": [
+          {
+            "name": "primary",
+            "status": 200,
+            "finalHost": "thumbnail.image.rakuten.co.jp",
+            "passed": true
+          },
+          {
+            "name": "compact",
+            "status": 200,
+            "finalHost": "thumbnail.image.rakuten.co.jp",
+            "passed": true
+          }
+        ],
+        "passed": true
+      },
+      "mobileProductPageConfirmed": true,
+      "stockConfirmedOn": "desktop_or_explicit_single_product_browser_review",
+      "mobileStockIndependentlyParsed": false,
+      "passed": true
+    },
+    {
+      "sakeId": "candidate-20ddf0948509aa6d",
+      "normalUrl": "https://item.rakuten.co.jp/hamadaya/1907041824/",
+      "checks": [
+        {
+          "device": "desktop",
+          "status": 200,
+          "exactDestination": true,
+          "stock": {
+            "title": "【楽天市場】【日本酒 720ml】 末広 山廃純米吟醸酒 Ｇ20大阪サミット夕食酒 箱 金文字黒ラベル無 常温品 会津末廣酒造 (福島県) 全国新酒鑑評会金賞受賞蔵：福島の酒応援店　浜田屋楽天市場店",
+            "httpStatus": 200,
+            "sameDestination": true,
+            "itemId": "10002708",
+            "itemMatches": true,
+            "purchaseCondition": "enabled",
+            "stockCondition": null,
+            "soldOut": false,
+            "purchaseControls": true,
+            "purchasable": true,
+            "state": "purchase_enabled"
+          },
+          "legacyBrowserConfirmed": false,
+          "purchasable": true,
+          "checkedAt": "2026-10-18T13:02:13.410Z"
+        },
+        {
+          "device": "mobile",
+          "status": 200,
+          "exactDestination": true,
+          "stock": {
+            "title": "【楽天市場】【日本酒 720ml】 末広 山廃純米吟醸酒 Ｇ20大阪サミット夕食酒 箱 金文字黒ラベル無 常温品 会津末廣酒造 (福島県) 全国新酒鑑評会金賞受賞蔵 : 福島の酒応援店　浜田屋楽天市場店",
+            "httpStatus": 200,
+            "sameDestination": true,
+            "itemId": null,
+            "itemMatches": false,
+            "purchaseCondition": null,
+            "stockCondition": null,
+            "soldOut": false,
+            "purchaseControls": false,
+            "purchasable": false,
+            "state": "item_identity_unconfirmed"
+          },
+          "legacyBrowserConfirmed": false,
+          "purchasable": false,
+          "checkedAt": "2026-10-18T13:02:14.595Z"
+        }
+      ],
+      "image": {
+        "checks": [
+          {
+            "name": "primary",
+            "status": 200,
+            "finalHost": "thumbnail.image.rakuten.co.jp",
+            "passed": true
+          },
+          {
+            "name": "compact",
+            "status": 200,
+            "finalHost": "thumbnail.image.rakuten.co.jp",
+            "passed": true
+          }
+        ],
+        "passed": true
+      },
+      "mobileProductPageConfirmed": true,
+      "stockConfirmedOn": "desktop_or_explicit_single_product_browser_review",
+      "mobileStockIndependentlyParsed": false,
+      "passed": true
+    },
+    {
+      "sakeId": "candidate-82bc80b5de60da9b",
+      "normalUrl": "https://item.rakuten.co.jp/sakenotanaka/1012/",
+      "checks": [
+        {
+          "device": "desktop",
+          "status": 200,
+          "exactDestination": true,
+          "stock": {
+            "title": "酒のたなか",
+            "httpStatus": 200,
+            "sameDestination": true,
+            "itemId": "10005976",
+            "itemMatches": true,
+            "purchaseCondition": "enabled",
+            "stockCondition": null,
+            "soldOut": false,
+            "purchaseControls": true,
+            "purchasable": true,
+            "state": "purchase_enabled"
+          },
+          "legacyBrowserConfirmed": false,
+          "purchasable": true,
+          "checkedAt": "2026-10-18T13:02:16.860Z"
+        },
+        {
+          "device": "mobile",
+          "status": 200,
+          "exactDestination": true,
+          "stock": {
+            "title": "【楽天市場】日本酒 生酛 仕込み 原酒 1800ml 冨玲 生酛造り 長期熟成 20度 15度 阿波山田錦 生もと 純米酒 梅津酒造 山卸し 乳酸菌 希少 銘柄 地酒 ギフト プレゼント お歳暮 お中元 酒のたなか : 酒を愉しもう屋　酒のたなか",
+            "httpStatus": 200,
+            "sameDestination": true,
+            "itemId": null,
+            "itemMatches": false,
+            "purchaseCondition": null,
+            "stockCondition": null,
+            "soldOut": false,
+            "purchaseControls": false,
+            "purchasable": false,
+            "state": "item_identity_unconfirmed"
+          },
+          "legacyBrowserConfirmed": false,
+          "purchasable": false,
+          "checkedAt": "2026-10-18T13:02:18.068Z"
+        }
+      ],
+      "image": {
+        "checks": [
+          {
+            "name": "primary",
+            "status": 200,
+            "finalHost": "thumbnail.image.rakuten.co.jp",
+            "passed": true
+          },
+          {
+            "name": "compact",
+            "status": 200,
+            "finalHost": "thumbnail.image.rakuten.co.jp",
+            "passed": true
+          }
+        ],
+        "passed": true
+      },
+      "mobileProductPageConfirmed": true,
+      "stockConfirmedOn": "explicit_named_single_product_browser_section",
+      "mobileStockIndependentlyParsed": false,
+      "passed": true,
+      "browserProductReview": {
+        "n": 25,
+        "sakeId": "candidate-82bc80b5de60da9b",
+        "normalUrl": "https://item.rakuten.co.jp/sakenotanaka/1012/",
+        "itemCode": "sakenotanaka:10005976",
+        "capacityMl": 1800,
+        "checkedAt": "2026-10-18T13:18:58.959Z",
+        "retrieved": true,
+        "purchasable": true,
+        "singleProductSectionReviewed": true,
+        "stockCount": 2,
+        "mobileTitleTokens": [
+          "冨玲",
+          "1800ml"
+        ],
+        "meaning": "原酒20度と加水15度は別選択。原酒選択肢の在庫2。画像共通のため公開保留。",
+        "method": "read_only_rendered_browser_product_section"
+      }
+    },
+    {
+      "sakeId": "candidate-4ace4f6edcc2d4d5",
+      "normalUrl": "https://item.rakuten.co.jp/liquor-shop-sonoma/10002368/",
+      "checks": [
+        {
+          "device": "desktop",
+          "status": 200,
+          "exactDestination": true,
+          "stock": {
+            "title": "【楽天市場】【製造年月日 2025.03】開春 生酛山口 火入原酒 1800ml【若林酒造 島根県 中国地方 純米酒 日本酒 お酒 一升瓶 生もと 長期熟成酒】：リカーショップ ソノマ",
+            "httpStatus": 200,
+            "sameDestination": true,
+            "itemId": "10006422",
+            "itemMatches": true,
+            "purchaseCondition": "enabled",
+            "stockCondition": null,
+            "soldOut": false,
+            "purchaseControls": true,
+            "purchasable": true,
+            "state": "purchase_enabled"
+          },
+          "legacyBrowserConfirmed": false,
+          "purchasable": true,
+          "checkedAt": "2026-10-18T13:02:20.381Z"
+        },
+        {
+          "device": "mobile",
+          "status": 200,
+          "exactDestination": true,
+          "stock": {
+            "title": "【楽天市場】【製造年月日 2025.03】開春 生酛山口 火入原酒 1800ml【若林酒造 島根県 中国地方 純米酒 日本酒 お酒 一升瓶 生もと 長期熟成酒】 : リカーショップ ソノマ",
+            "httpStatus": 200,
+            "sameDestination": true,
+            "itemId": null,
+            "itemMatches": false,
+            "purchaseCondition": null,
+            "stockCondition": null,
+            "soldOut": false,
+            "purchaseControls": false,
+            "purchasable": false,
+            "state": "item_identity_unconfirmed"
+          },
+          "legacyBrowserConfirmed": false,
+          "purchasable": false,
+          "checkedAt": "2026-10-18T13:02:21.500Z"
+        }
+      ],
+      "image": {
+        "checks": [
+          {
+            "name": "primary",
+            "status": 200,
+            "finalHost": "thumbnail.image.rakuten.co.jp",
+            "passed": true
+          },
+          {
+            "name": "compact",
+            "status": 200,
+            "finalHost": "thumbnail.image.rakuten.co.jp",
+            "passed": true
+          }
+        ],
+        "passed": true
+      },
+      "mobileProductPageConfirmed": true,
+      "stockConfirmedOn": "desktop_or_explicit_single_product_browser_review",
+      "mobileStockIndependentlyParsed": false,
+      "passed": true
+    },
+    {
+      "sakeId": "candidate-a53f4ddbd21c8bf4",
+      "normalUrl": "https://item.rakuten.co.jp/auc-8848-jizake/4935787205408/",
+      "checks": [
+        {
+          "device": "desktop",
+          "status": 200,
+          "exactDestination": true,
+          "stock": {
+            "title": "【楽天市場】日本酒　2 >\n尾畑酒造　真野鶴：地酒・焼酎専門林屋酒店",
+            "httpStatus": 200,
+            "sameDestination": true,
+            "itemId": null,
+            "itemMatches": false,
+            "purchaseCondition": null,
+            "stockCondition": null,
+            "soldOut": false,
+            "purchaseControls": false,
+            "purchasable": false,
+            "state": "item_identity_unconfirmed"
+          },
+          "legacyBrowserConfirmed": false,
+          "purchasable": false,
+          "checkedAt": "2026-10-18T13:02:24.470Z"
+        },
+        {
+          "device": "mobile",
+          "status": 200,
+          "exactDestination": true,
+          "stock": {
+            "title": "【楽天市場】【正規特約店】【KuraMaster金賞】真野鶴 かなでる/KANADEL 純米吟醸 生酛（生モト） largamente 火入れ 720ml 尾畑酒造 新潟 佐渡 日本酒 越淡麗 : 地酒・焼酎専門林屋酒店",
+            "httpStatus": 200,
+            "sameDestination": true,
+            "itemId": null,
+            "itemMatches": false,
+            "purchaseCondition": null,
+            "stockCondition": null,
+            "soldOut": false,
+            "purchaseControls": false,
+            "purchasable": false,
+            "state": "item_identity_unconfirmed"
+          },
+          "legacyBrowserConfirmed": false,
+          "purchasable": false,
+          "checkedAt": "2026-10-18T13:02:25.012Z"
+        }
+      ],
+      "image": {
+        "checks": [
+          {
+            "name": "primary",
+            "status": 200,
+            "finalHost": "thumbnail.image.rakuten.co.jp",
+            "passed": true
+          },
+          {
+            "name": "compact",
+            "status": 200,
+            "finalHost": "thumbnail.image.rakuten.co.jp",
+            "passed": true
+          }
+        ],
+        "passed": true
+      },
+      "mobileProductPageConfirmed": true,
+      "stockConfirmedOn": "explicit_named_single_product_browser_section",
+      "mobileStockIndependentlyParsed": false,
+      "passed": true,
+      "browserProductReview": {
+        "n": 27,
+        "sakeId": "candidate-a53f4ddbd21c8bf4",
+        "normalUrl": "https://item.rakuten.co.jp/auc-8848-jizake/4935787205408/",
+        "itemCode": "auc-8848-jizake:10003829",
+        "capacityMl": 720,
+        "checkedAt": "2026-10-18T13:18:58.959Z",
+        "retrieved": true,
+        "purchasable": true,
+        "singleProductSectionReviewed": true,
+        "stockCount": 1,
+        "mobileTitleTokens": [
+          "KANADEL",
+          "純米吟醸",
+          "720ml"
+        ],
+        "meaning": "対象KANADELの商品詳細・在庫1。超BLACKはページ内別掲載。",
+        "method": "read_only_rendered_browser_product_section"
+      }
+    },
+    {
+      "sakeId": "candidate-6454418caef48440",
+      "normalUrl": "https://item.rakuten.co.jp/fukutaya/miya-red720/",
+      "checks": [
+        {
+          "device": "desktop",
+          "status": 200,
+          "exactDestination": true,
+          "stock": {
+            "title": "【楽天市場】宮の雪 MIYANOYUKI みやのゆき 純米吟醸 生原酒 愛山 RED BADGE レッドバッジ 720ml 三重県 四日市市 宮崎本店  三重 地酒 日本酒 ※クール便指定キンミヤ焼酎造る蔵の日本酒：福田屋酒店",
+            "httpStatus": 200,
+            "sameDestination": true,
+            "itemId": "10013393",
+            "itemMatches": true,
+            "purchaseCondition": "enabled",
+            "stockCondition": null,
+            "soldOut": false,
+            "purchaseControls": true,
+            "purchasable": true,
+            "state": "purchase_enabled"
+          },
+          "legacyBrowserConfirmed": false,
+          "purchasable": true,
+          "checkedAt": "2026-10-18T13:02:27.297Z"
+        },
+        {
+          "device": "mobile",
+          "status": 200,
+          "exactDestination": true,
+          "stock": {
+            "title": "【楽天市場】宮の雪 MIYANOYUKI みやのゆき 純米吟醸 生原酒 愛山 RED BADGE レッドバッジ 720ml 三重県 四日市市 宮崎本店  三重 地酒 日本酒 ※クール便指定キンミヤ焼酎造る蔵の日本酒 : 福田屋酒店",
+            "httpStatus": 200,
+            "sameDestination": true,
+            "itemId": null,
+            "itemMatches": false,
+            "purchaseCondition": null,
+            "stockCondition": null,
+            "soldOut": false,
+            "purchaseControls": false,
+            "purchasable": false,
+            "state": "item_identity_unconfirmed"
+          },
+          "legacyBrowserConfirmed": false,
+          "purchasable": false,
+          "checkedAt": "2026-10-18T13:02:28.464Z"
+        }
+      ],
+      "image": {
+        "checks": [
+          {
+            "name": "primary",
+            "status": 200,
+            "finalHost": "thumbnail.image.rakuten.co.jp",
+            "passed": true
+          },
+          {
+            "name": "compact",
+            "status": 200,
+            "finalHost": "thumbnail.image.rakuten.co.jp",
+            "passed": true
+          }
+        ],
+        "passed": true
+      },
+      "mobileProductPageConfirmed": true,
+      "stockConfirmedOn": "desktop_or_explicit_single_product_browser_review",
+      "mobileStockIndependentlyParsed": false,
+      "passed": true
+    },
+    {
+      "sakeId": "candidate-6b13f6c14aa9358a",
+      "normalUrl": "https://item.rakuten.co.jp/chibasake/v_40312755454110/",
+      "checks": [
+        {
+          "device": "desktop",
+          "status": 200,
+          "exactDestination": true,
+          "stock": {
+            "title": "【楽天市場】【日本酒】金印 峯の精 宮崎酒造店 君津市（千葉県 お歳暮 御歳暮 お酒 グルメ プレゼント お土産 贈答用 誕生日 送料無料）：CHIBASAKE 楽天市場店",
+            "httpStatus": 200,
+            "sameDestination": true,
+            "itemId": "10000423",
+            "itemMatches": true,
+            "purchaseCondition": "enabled",
+            "stockCondition": null,
+            "soldOut": false,
+            "purchaseControls": true,
+            "purchasable": true,
+            "state": "purchase_enabled"
+          },
+          "legacyBrowserConfirmed": false,
+          "purchasable": true,
+          "checkedAt": "2026-10-18T13:02:30.756Z"
+        },
+        {
+          "device": "mobile",
+          "status": 200,
+          "exactDestination": true,
+          "stock": {
+            "title": "【楽天市場】【日本酒】金印 峯の精 宮崎酒造店 君津市（千葉県 お歳暮 御歳暮 お酒 グルメ プレゼント お土産 贈答用 誕生日 送料無料） : CHIBASAKE 楽天市場店",
+            "httpStatus": 200,
+            "sameDestination": true,
+            "itemId": null,
+            "itemMatches": false,
+            "purchaseCondition": null,
+            "stockCondition": null,
+            "soldOut": false,
+            "purchaseControls": false,
+            "purchasable": false,
+            "state": "item_identity_unconfirmed"
+          },
+          "legacyBrowserConfirmed": false,
+          "purchasable": false,
+          "checkedAt": "2026-10-18T13:02:31.938Z"
+        }
+      ],
+      "image": {
+        "checks": [
+          {
+            "name": "primary",
+            "status": 200,
+            "finalHost": "thumbnail.image.rakuten.co.jp",
+            "passed": true
+          },
+          {
+            "name": "compact",
+            "status": 200,
+            "finalHost": "thumbnail.image.rakuten.co.jp",
+            "passed": true
+          }
+        ],
+        "passed": true
+      },
+      "mobileProductPageConfirmed": true,
+      "stockConfirmedOn": "desktop_or_explicit_single_product_browser_review",
+      "mobileStockIndependentlyParsed": false,
+      "passed": true
+    },
+    {
+      "sakeId": "candidate-55e89b3353b24172",
+      "normalUrl": "https://item.rakuten.co.jp/auc-yumeikan/1067/",
+      "checks": [
+        {
+          "device": "desktop",
+          "status": 200,
+          "exactDestination": true,
+          "stock": {
+            "title": "【楽天市場】酒類 >\n日本酒1 >\n森國酒造（森） >\nうとうと：こだわりの酒屋遊銘館",
+            "httpStatus": 200,
+            "sameDestination": true,
+            "itemId": null,
+            "itemMatches": false,
+            "purchaseCondition": null,
+            "stockCondition": null,
+            "soldOut": false,
+            "purchaseControls": false,
+            "purchasable": false,
+            "state": "item_identity_unconfirmed"
+          },
+          "legacyBrowserConfirmed": false,
+          "purchasable": false,
+          "checkedAt": "2026-10-18T13:02:34.561Z"
+        },
+        {
+          "device": "mobile",
+          "status": 200,
+          "exactDestination": true,
+          "stock": {
+            "title": "【楽天市場】【小豆島の地酒「森」】うとうと 純米酒 1800ml【小豆島酒造】【瀬戸内の小豆島の地酒】【香川県】【フルーティー】【旨み系日本酒】【島仕込み】 : こだわりの酒屋遊銘館",
+            "httpStatus": 200,
+            "sameDestination": true,
+            "itemId": null,
+            "itemMatches": false,
+            "purchaseCondition": null,
+            "stockCondition": null,
+            "soldOut": false,
+            "purchaseControls": false,
+            "purchasable": false,
+            "state": "item_identity_unconfirmed"
+          },
+          "legacyBrowserConfirmed": false,
+          "purchasable": false,
+          "checkedAt": "2026-10-18T13:02:35.447Z"
+        }
+      ],
+      "image": {
+        "checks": [
+          {
+            "name": "primary",
+            "status": 200,
+            "finalHost": "thumbnail.image.rakuten.co.jp",
+            "passed": true
+          },
+          {
+            "name": "compact",
+            "status": 200,
+            "finalHost": "thumbnail.image.rakuten.co.jp",
+            "passed": true
+          }
+        ],
+        "passed": true
+      },
+      "mobileProductPageConfirmed": true,
+      "stockConfirmedOn": "explicit_named_single_product_browser_section",
+      "mobileStockIndependentlyParsed": false,
+      "passed": true,
+      "browserProductReview": {
+        "n": 30,
+        "sakeId": "candidate-55e89b3353b24172",
+        "normalUrl": "https://item.rakuten.co.jp/auc-yumeikan/1067/",
+        "itemCode": "auc-yumeikan:10001280",
+        "capacityMl": 1800,
+        "checkedAt": "2026-10-18T13:18:58.959Z",
+        "retrieved": true,
+        "purchasable": true,
+        "singleProductSectionReviewed": true,
+        "stockCount": 30,
+        "mobileTitleTokens": [
+          "うとうと",
+          "純米酒",
+          "1800ml"
+        ],
+        "meaning": "商品番号1067の対象欄は在庫30。別の1068/720mlの在庫28は使わない。",
+        "method": "read_only_rendered_browser_product_section"
+      }
+    },
+    {
+      "sakeId": "candidate-f003f03225ea03f5",
+      "normalUrl": "https://item.rakuten.co.jp/bcs-ls/4909090270187/",
+      "checks": [
+        {
+          "device": "desktop",
+          "status": 200,
+          "exactDestination": true,
+          "stock": {
+            "title": "【楽天市場】日本酒 >\n酒造メーカー・蔵元 >\n司菊酒造 >\nきらい：バッコス",
+            "httpStatus": 200,
+            "sameDestination": true,
+            "itemId": null,
+            "itemMatches": false,
+            "purchaseCondition": null,
+            "stockCondition": null,
+            "soldOut": false,
+            "purchaseControls": false,
+            "purchasable": false,
+            "state": "item_identity_unconfirmed"
+          },
+          "legacyBrowserConfirmed": false,
+          "purchasable": false,
+          "checkedAt": "2026-10-18T13:02:38.148Z"
+        },
+        {
+          "device": "mobile",
+          "status": 200,
+          "exactDestination": true,
+          "stock": {
+            "title": "【楽天市場】【お取り寄せtksgk】司菊酒造 純米大吟醸 きらい (銀) 180ml 4909090270187※2〜7営業日以降発送　【徳島県】【日本酒】 : バッコス",
+            "httpStatus": 200,
+            "sameDestination": true,
+            "itemId": null,
+            "itemMatches": false,
+            "purchaseCondition": null,
+            "stockCondition": null,
+            "soldOut": false,
+            "purchaseControls": false,
+            "purchasable": false,
+            "state": "item_identity_unconfirmed"
+          },
+          "legacyBrowserConfirmed": false,
+          "purchasable": false,
+          "checkedAt": "2026-10-18T13:02:38.982Z"
+        }
+      ],
+      "image": {
+        "checks": [
+          {
+            "name": "primary",
+            "status": 200,
+            "finalHost": "thumbnail.image.rakuten.co.jp",
+            "passed": true
+          },
+          {
+            "name": "compact",
+            "status": 200,
+            "finalHost": "thumbnail.image.rakuten.co.jp",
+            "passed": true
+          }
+        ],
+        "passed": true
+      },
+      "mobileProductPageConfirmed": true,
+      "stockConfirmedOn": "explicit_named_single_product_browser_section",
+      "mobileStockIndependentlyParsed": false,
+      "passed": true,
+      "browserProductReview": {
+        "n": 31,
+        "sakeId": "candidate-f003f03225ea03f5",
+        "normalUrl": "https://item.rakuten.co.jp/bcs-ls/4909090270187/",
+        "itemCode": "bcs-ls:10010844",
+        "capacityMl": 180,
+        "checkedAt": "2026-10-18T13:18:58.959Z",
+        "retrieved": true,
+        "purchasable": true,
+        "singleProductSectionReviewed": true,
+        "stockCount": 16,
+        "mobileTitleTokens": [
+          "きらい",
+          "純米大吟醸",
+          "180ml"
+        ],
+        "meaning": "JAN4909090270187の銀180ml欄で在庫16。黒/赤の売切れを流用しない。",
+        "method": "read_only_rendered_browser_product_section"
+      }
+    },
+    {
+      "sakeId": "candidate-b78b83216cf4e260",
+      "normalUrl": "https://item.rakuten.co.jp/manroku/0105tos-ck60/",
+      "checks": [
+        {
+          "device": "desktop",
+          "status": 200,
+          "exactDestination": true,
+          "stock": {
+            "title": "【楽天市場】日本酒 地酒 高知 土佐酒造 桂月 超辛口 特別純米酒60 720ml：FELICITY 地酒",
+            "httpStatus": 200,
+            "sameDestination": true,
+            "itemId": "10003065",
+            "itemMatches": true,
+            "purchaseCondition": "enabled",
+            "stockCondition": null,
+            "soldOut": false,
+            "purchaseControls": true,
+            "purchasable": true,
+            "state": "purchase_enabled"
+          },
+          "legacyBrowserConfirmed": false,
+          "purchasable": true,
+          "checkedAt": "2026-10-18T13:02:41.226Z"
+        },
+        {
+          "device": "mobile",
+          "status": 200,
+          "exactDestination": true,
+          "stock": {
+            "title": "【楽天市場】日本酒 地酒 高知 土佐酒造 桂月 超辛口 特別純米酒60 720ml : FELICITY 地酒",
+            "httpStatus": 200,
+            "sameDestination": true,
+            "itemId": null,
+            "itemMatches": false,
+            "purchaseCondition": null,
+            "stockCondition": null,
+            "soldOut": false,
+            "purchaseControls": false,
+            "purchasable": false,
+            "state": "item_identity_unconfirmed"
+          },
+          "legacyBrowserConfirmed": false,
+          "purchasable": false,
+          "checkedAt": "2026-10-18T13:02:42.432Z"
+        }
+      ],
+      "image": {
+        "checks": [
+          {
+            "name": "primary",
+            "status": 200,
+            "finalHost": "thumbnail.image.rakuten.co.jp",
+            "passed": true
+          },
+          {
+            "name": "compact",
+            "status": 200,
+            "finalHost": "thumbnail.image.rakuten.co.jp",
+            "passed": true
+          }
+        ],
+        "passed": true
+      },
+      "mobileProductPageConfirmed": true,
+      "stockConfirmedOn": "desktop_or_explicit_single_product_browser_review",
+      "mobileStockIndependentlyParsed": false,
+      "passed": true
+    },
+    {
+      "sakeId": "candidate-7cdbf0aaa66ee591",
+      "normalUrl": "https://item.rakuten.co.jp/hakodate-goryo-shop/10000005/",
+      "checks": [
+        {
+          "device": "desktop",
+          "status": 200,
+          "exactDestination": true,
+          "stock": {
+            "title": "【楽天市場】五稜 純米大吟醸 720ml 函館五稜乃蔵 北海道 函館 地酒 お酒 1本 日本酒 大甘口 720 純米酒 純米 大吟醸 純米大吟醸酒 甘口日本酒 おいしい 美味しい日本酒 美味しいお酒 高級地酒 ギフト 贈答品 お取り寄せ 女性向け お土産 誕生日 お酒好き プレゼント 贈り物 女性 化粧箱：函館五稜乃蔵ショップ",
+            "httpStatus": 200,
+            "sameDestination": true,
+            "itemId": "10000005",
+            "itemMatches": true,
+            "purchaseCondition": "enabled",
+            "stockCondition": null,
+            "soldOut": false,
+            "purchaseControls": true,
+            "purchasable": true,
+            "state": "purchase_enabled"
+          },
+          "legacyBrowserConfirmed": false,
+          "purchasable": true,
+          "checkedAt": "2026-10-18T13:02:44.803Z"
+        },
+        {
+          "device": "mobile",
+          "status": 200,
+          "exactDestination": true,
+          "stock": {
+            "title": "【楽天市場】五稜 純米大吟醸 720ml 函館五稜乃蔵 北海道 函館 地酒 お酒 1本 日本酒 大甘口 720 純米酒 純米 大吟醸 純米大吟醸酒 甘口日本酒 おいしい 美味しい日本酒 美味しいお酒 高級地酒 ギフト 贈答品 お取り寄せ 女性向け お土産 誕生日 お酒好き プレゼント 贈り物 女性 化粧箱 : 函館五稜乃蔵ショップ",
+            "httpStatus": 200,
+            "sameDestination": true,
+            "itemId": null,
+            "itemMatches": false,
+            "purchaseCondition": null,
+            "stockCondition": null,
+            "soldOut": false,
+            "purchaseControls": false,
+            "purchasable": false,
+            "state": "item_identity_unconfirmed"
+          },
+          "legacyBrowserConfirmed": false,
+          "purchasable": false,
+          "checkedAt": "2026-10-18T13:02:45.950Z"
+        }
+      ],
+      "image": {
+        "checks": [
+          {
+            "name": "primary",
+            "status": 200,
+            "finalHost": "thumbnail.image.rakuten.co.jp",
+            "passed": true
+          },
+          {
+            "name": "compact",
+            "status": 200,
+            "finalHost": "thumbnail.image.rakuten.co.jp",
+            "passed": true
+          }
+        ],
+        "passed": true
+      },
+      "mobileProductPageConfirmed": true,
+      "stockConfirmedOn": "desktop_or_explicit_single_product_browser_review",
+      "mobileStockIndependentlyParsed": false,
+      "passed": true
+    },
+    {
+      "sakeId": "candidate-8e0e54654f8f00bc",
+      "normalUrl": "https://item.rakuten.co.jp/nipponselect/f06860002/",
+      "checks": [
+        {
+          "device": "desktop",
+          "status": 200,
+          "exactDestination": true,
+          "stock": {
+            "title": "【楽天市場】日本酒 特別純米酒 特別純米酒「安東水軍」 尾崎酒造株式会社 青森県 世界自然遺産・白神山地の麓にある老舗酒蔵が造ったこだわりの地酒：産直お取り寄せＮセレクト",
+            "httpStatus": 200,
+            "sameDestination": true,
+            "itemId": "10009748",
+            "itemMatches": true,
+            "purchaseCondition": "enabled",
+            "stockCondition": null,
+            "soldOut": false,
+            "purchaseControls": true,
+            "purchasable": true,
+            "state": "purchase_enabled"
+          },
+          "legacyBrowserConfirmed": false,
+          "purchasable": true,
+          "checkedAt": "2026-10-18T13:02:48.191Z"
+        },
+        {
+          "device": "mobile",
+          "status": 200,
+          "exactDestination": true,
+          "stock": {
+            "title": "【楽天市場】日本酒 特別純米酒 特別純米酒「安東水軍」 尾崎酒造株式会社 青森県 世界自然遺産・白神山地の麓にある老舗酒蔵が造ったこだわりの地酒 : 産直お取り寄せＮセレクト",
+            "httpStatus": 200,
+            "sameDestination": true,
+            "itemId": null,
+            "itemMatches": false,
+            "purchaseCondition": null,
+            "stockCondition": null,
+            "soldOut": false,
+            "purchaseControls": false,
+            "purchasable": false,
+            "state": "item_identity_unconfirmed"
+          },
+          "legacyBrowserConfirmed": false,
+          "purchasable": false,
+          "checkedAt": "2026-10-18T13:02:49.354Z"
+        }
+      ],
+      "image": {
+        "checks": [
+          {
+            "name": "primary",
+            "status": 200,
+            "finalHost": "thumbnail.image.rakuten.co.jp",
+            "passed": true
+          },
+          {
+            "name": "compact",
+            "status": 200,
+            "finalHost": "thumbnail.image.rakuten.co.jp",
+            "passed": true
+          }
+        ],
+        "passed": true
+      },
+      "mobileProductPageConfirmed": true,
+      "stockConfirmedOn": "desktop_or_explicit_single_product_browser_review",
+      "mobileStockIndependentlyParsed": false,
+      "passed": true
+    },
+    {
+      "sakeId": "candidate-115a79822b3d2d5c",
+      "normalUrl": "https://item.rakuten.co.jp/cepdor/hatiturujyunnmai/",
+      "checks": [
+        {
+          "device": "desktop",
+          "status": 200,
+          "exactDestination": true,
+          "stock": {
+            "title": "【楽天市場】八鶴(はちつる) 純米吟醸 1.8L 日本酒 八戸酒類 青森 地酒 冷酒おすすめ 華想い使用 辛口 吟醸酒 一升瓶 東北の酒 ギフト 送料無料：お酒と食料品のセプドールアン",
+            "httpStatus": 200,
+            "sameDestination": true,
+            "itemId": "10003183",
+            "itemMatches": true,
+            "purchaseCondition": "enabled",
+            "stockCondition": null,
+            "soldOut": false,
+            "purchaseControls": true,
+            "purchasable": true,
+            "state": "purchase_enabled"
+          },
+          "legacyBrowserConfirmed": false,
+          "purchasable": true,
+          "checkedAt": "2026-10-18T13:02:51.648Z"
+        },
+        {
+          "device": "mobile",
+          "status": 200,
+          "exactDestination": true,
+          "stock": {
+            "title": "【楽天市場】八鶴(はちつる) 純米吟醸 1.8L 日本酒 八戸酒類 青森 地酒 冷酒おすすめ 華想い使用 辛口 吟醸酒 一升瓶 東北の酒 ギフト 送料無料 : お酒と食料品のセプドールアン",
+            "httpStatus": 200,
+            "sameDestination": true,
+            "itemId": null,
+            "itemMatches": false,
+            "purchaseCondition": null,
+            "stockCondition": null,
+            "soldOut": false,
+            "purchaseControls": false,
+            "purchasable": false,
+            "state": "item_identity_unconfirmed"
+          },
+          "legacyBrowserConfirmed": false,
+          "purchasable": false,
+          "checkedAt": "2026-10-18T13:02:52.798Z"
+        }
+      ],
+      "image": {
+        "checks": [
+          {
+            "name": "primary",
+            "status": 200,
+            "finalHost": "thumbnail.image.rakuten.co.jp",
+            "passed": true
+          },
+          {
+            "name": "compact",
+            "status": 200,
+            "finalHost": "thumbnail.image.rakuten.co.jp",
+            "passed": true
+          }
+        ],
+        "passed": true
+      },
+      "mobileProductPageConfirmed": true,
+      "stockConfirmedOn": "desktop_or_explicit_single_product_browser_review",
+      "mobileStockIndependentlyParsed": false,
+      "passed": true
+    },
+    {
+      "sakeId": "candidate-854076ffb688a40f",
+      "normalUrl": "https://item.rakuten.co.jp/bijonetmarche/stg-hatada001/",
+      "checks": [
+        {
+          "device": "desktop",
+          "status": 200,
+          "exactDestination": true,
+          "stock": {
+            "title": "【楽天市場】青森の地酒 はただ酒店 蟹田 純米吟醸 720ml 1本【専用化粧箱入り】青森県 東津軽郡外ヶ浜町：VISION-NETWORKマルシェ",
+            "httpStatus": 200,
+            "sameDestination": true,
+            "itemId": "10001042",
+            "itemMatches": true,
+            "purchaseCondition": "enabled",
+            "stockCondition": null,
+            "soldOut": false,
+            "purchaseControls": true,
+            "purchasable": true,
+            "state": "purchase_enabled"
+          },
+          "legacyBrowserConfirmed": false,
+          "purchasable": true,
+          "checkedAt": "2026-10-18T13:02:55.143Z"
+        },
+        {
+          "device": "mobile",
+          "status": 200,
+          "exactDestination": true,
+          "stock": {
+            "title": "【楽天市場】青森の地酒 はただ酒店 蟹田 純米吟醸 720ml 1本【専用化粧箱入り】青森県 東津軽郡外ヶ浜町 : VISION-NETWORKマルシェ",
+            "httpStatus": 200,
+            "sameDestination": true,
+            "itemId": null,
+            "itemMatches": false,
+            "purchaseCondition": null,
+            "stockCondition": null,
+            "soldOut": false,
+            "purchaseControls": false,
+            "purchasable": false,
+            "state": "item_identity_unconfirmed"
+          },
+          "legacyBrowserConfirmed": false,
+          "purchasable": false,
+          "checkedAt": "2026-10-18T13:02:56.275Z"
+        }
+      ],
+      "image": {
+        "checks": [
+          {
+            "name": "primary",
+            "status": 200,
+            "finalHost": "thumbnail.image.rakuten.co.jp",
+            "passed": true
+          },
+          {
+            "name": "compact",
+            "status": 200,
+            "finalHost": "thumbnail.image.rakuten.co.jp",
+            "passed": true
+          }
+        ],
+        "passed": true
+      },
+      "mobileProductPageConfirmed": true,
+      "stockConfirmedOn": "desktop_or_explicit_single_product_browser_review",
+      "mobileStockIndependentlyParsed": false,
+      "passed": true
+    },
+    {
+      "sakeId": "candidate-0d1d9edf17d24d2e",
+      "normalUrl": "https://item.rakuten.co.jp/auc-horie/sakuyabi04/",
+      "checks": [
+        {
+          "device": "desktop",
+          "status": 200,
+          "exactDestination": true,
+          "stock": {
+            "title": "群馬県　船尾瀧　日本酒　柴崎酒造　純米大吟醸　ピュア　お年賀　お歳暮　贈答品　お中元　父の日",
+            "httpStatus": 200,
+            "sameDestination": true,
+            "itemId": "10000549",
+            "itemMatches": true,
+            "purchaseCondition": "enabled",
+            "stockCondition": null,
+            "soldOut": false,
+            "purchaseControls": true,
+            "purchasable": true,
+            "state": "purchase_enabled"
+          },
+          "legacyBrowserConfirmed": false,
+          "purchasable": true,
+          "checkedAt": "2026-10-18T13:02:58.642Z"
+        },
+        {
+          "device": "mobile",
+          "status": 200,
+          "exactDestination": true,
+          "stock": {
+            "title": "【楽天市場】咲耶美 純米吟醸 直汲生原酒 14号酵母 720ml【R7BY】【クール便】【要冷蔵】【貴娘酒造】【さくやび】【群馬の地酒】クーポン : 酒処　ほりえ酒店",
+            "httpStatus": 200,
+            "sameDestination": true,
+            "itemId": null,
+            "itemMatches": false,
+            "purchaseCondition": null,
+            "stockCondition": null,
+            "soldOut": false,
+            "purchaseControls": false,
+            "purchasable": false,
+            "state": "item_identity_unconfirmed"
+          },
+          "legacyBrowserConfirmed": false,
+          "purchasable": false,
+          "checkedAt": "2026-10-18T13:02:59.791Z"
+        }
+      ],
+      "image": {
+        "checks": [
+          {
+            "name": "primary",
+            "status": 200,
+            "finalHost": "thumbnail.image.rakuten.co.jp",
+            "passed": true
+          },
+          {
+            "name": "compact",
+            "status": 200,
+            "finalHost": "thumbnail.image.rakuten.co.jp",
+            "passed": true
+          }
+        ],
+        "passed": true
+      },
+      "mobileProductPageConfirmed": true,
+      "stockConfirmedOn": "explicit_named_single_product_browser_section",
+      "mobileStockIndependentlyParsed": false,
+      "passed": true,
+      "browserProductReview": {
+        "n": 37,
+        "sakeId": "candidate-0d1d9edf17d24d2e",
+        "normalUrl": "https://item.rakuten.co.jp/auc-horie/sakuyabi04/",
+        "itemCode": "auc-horie:10000549",
+        "capacityMl": 720,
+        "checkedAt": "2026-10-18T13:18:58.959Z",
+        "retrieved": true,
+        "purchasable": true,
+        "singleProductSectionReviewed": true,
+        "stockCount": 12,
+        "mobileTitleTokens": [
+          "咲耶美",
+          "14号酵母",
+          "720ml"
+        ],
+        "meaning": "商品番号sakuyabi04・R7BY・14号酵母・在庫12。年齢確認選択は購入を行わない。",
+        "method": "read_only_rendered_browser_product_section"
+      }
+    },
+    {
+      "sakeId": "candidate-2e98447d247fcac4",
+      "normalUrl": "https://item.rakuten.co.jp/sake-kadoya/1062423/",
+      "checks": [
+        {
+          "device": "desktop",
+          "status": 200,
+          "exactDestination": true,
+          "stock": {
+            "title": "【楽天市場】日本酒 お酒 冷酒 プレゼント ギフト 純米酒 赤城山 特別純米酒 1800ml お中元 敬老の日 近藤酒造 群馬 地酒 銘酒 贈り物 プレゼント お酒 誕生日 内祝 お祝 お返し 卒業 就職 門出 昇進 定年退職 男性 父親 義父 上司 祖父 感謝 ありがとう あす楽 熨斗 カード：地酒の加登屋",
+            "httpStatus": 200,
+            "sameDestination": true,
+            "itemId": "10001294",
+            "itemMatches": true,
+            "purchaseCondition": "enabled",
+            "stockCondition": null,
+            "soldOut": false,
+            "purchaseControls": true,
+            "purchasable": true,
+            "state": "purchase_enabled"
+          },
+          "legacyBrowserConfirmed": false,
+          "purchasable": true,
+          "checkedAt": "2026-10-18T13:03:02.079Z"
+        },
+        {
+          "device": "mobile",
+          "status": 200,
+          "exactDestination": true,
+          "stock": {
+            "title": "【楽天市場】日本酒 お酒 冷酒 プレゼント ギフト 純米酒 赤城山 特別純米酒 1800ml お中元 敬老の日 近藤酒造 群馬 地酒 銘酒 贈り物 プレゼント お酒 誕生日 内祝 お祝 お返し 卒業 就職 門出 昇進 定年退職 男性 父親 義父 上司 祖父 感謝 ありがとう あす楽 熨斗 カード : 地酒の加登屋",
+            "httpStatus": 200,
+            "sameDestination": true,
+            "itemId": null,
+            "itemMatches": false,
+            "purchaseCondition": null,
+            "stockCondition": null,
+            "soldOut": false,
+            "purchaseControls": false,
+            "purchasable": false,
+            "state": "item_identity_unconfirmed"
+          },
+          "legacyBrowserConfirmed": false,
+          "purchasable": false,
+          "checkedAt": "2026-10-18T13:03:03.278Z"
+        }
+      ],
+      "image": {
+        "checks": [
+          {
+            "name": "primary",
+            "status": 200,
+            "finalHost": "thumbnail.image.rakuten.co.jp",
+            "passed": true
+          },
+          {
+            "name": "compact",
+            "status": 200,
+            "finalHost": "thumbnail.image.rakuten.co.jp",
+            "passed": true
+          }
+        ],
+        "passed": true
+      },
+      "mobileProductPageConfirmed": true,
+      "stockConfirmedOn": "desktop_or_explicit_single_product_browser_review",
+      "mobileStockIndependentlyParsed": false,
+      "passed": true
+    },
+    {
+      "sakeId": "candidate-24333cc5c7fa1237",
+      "normalUrl": "https://item.rakuten.co.jp/heartful/tonegawa-1800/",
+      "checks": [
+        {
+          "device": "desktop",
+          "status": 200,
+          "exactDestination": true,
+          "stock": {
+            "title": "【楽天市場】山川酒造  純米吟醸 利根川育ち 1800ml【地酒】【群馬県】【名産】【お返し】【お祝い】【ギフト】【ご挨拶】【快気祝い】【法事】【結婚】：ちよだ",
+            "httpStatus": 200,
+            "sameDestination": true,
+            "itemId": "10067870",
+            "itemMatches": true,
+            "purchaseCondition": "enabled",
+            "stockCondition": null,
+            "soldOut": false,
+            "purchaseControls": true,
+            "purchasable": true,
+            "state": "purchase_enabled"
+          },
+          "legacyBrowserConfirmed": false,
+          "purchasable": true,
+          "checkedAt": "2026-10-18T13:03:05.573Z"
+        },
+        {
+          "device": "mobile",
+          "status": 200,
+          "exactDestination": true,
+          "stock": {
+            "title": "【楽天市場】山川酒造  純米吟醸 利根川育ち 1800ml【地酒】【群馬県】【名産】【お返し】【お祝い】【ギフト】【ご挨拶】【快気祝い】【法事】【結婚】 : ちよだ",
+            "httpStatus": 200,
+            "sameDestination": true,
+            "itemId": null,
+            "itemMatches": false,
+            "purchaseCondition": null,
+            "stockCondition": null,
+            "soldOut": false,
+            "purchaseControls": false,
+            "purchasable": false,
+            "state": "item_identity_unconfirmed"
+          },
+          "legacyBrowserConfirmed": false,
+          "purchasable": false,
+          "checkedAt": "2026-10-18T13:03:06.735Z"
+        }
+      ],
+      "image": {
+        "checks": [
+          {
+            "name": "primary",
+            "status": 200,
+            "finalHost": "thumbnail.image.rakuten.co.jp",
+            "passed": true
+          },
+          {
+            "name": "compact",
+            "status": 200,
+            "finalHost": "thumbnail.image.rakuten.co.jp",
+            "passed": true
+          }
+        ],
+        "passed": true
+      },
+      "mobileProductPageConfirmed": true,
+      "stockConfirmedOn": "desktop_or_explicit_single_product_browser_review",
+      "mobileStockIndependentlyParsed": false,
+      "passed": true
+    },
+    {
+      "sakeId": "candidate-dacc93b8599aa90e",
+      "normalUrl": "https://item.rakuten.co.jp/shinpudo/01-terada-03-2/",
+      "checks": [
+        {
+          "device": "desktop",
+          "status": 200,
+          "exactDestination": true,
+          "stock": {
+            "title": "【楽天市場】自然酒[生もと]五人娘 純米酒720ml千葉県香取郡神崎町の地酒 寺田本家 辛口 無添加純米造り 無農薬米使用 自然酒 無ろ過  お礼の品 千葉県産 退職祝い おしゃれギフト 人気 御中元 お中元 父の日 母の日 御歳暮 お歳暮：お酒とスイーツの新風堂",
+            "httpStatus": 200,
+            "sameDestination": true,
+            "itemId": "10000097",
+            "itemMatches": true,
+            "purchaseCondition": "enabled",
+            "stockCondition": null,
+            "soldOut": false,
+            "purchaseControls": true,
+            "purchasable": true,
+            "state": "purchase_enabled"
+          },
+          "legacyBrowserConfirmed": false,
+          "purchasable": true,
+          "checkedAt": "2026-10-18T13:03:09.065Z"
+        },
+        {
+          "device": "mobile",
+          "status": 200,
+          "exactDestination": true,
+          "stock": {
+            "title": "【楽天市場】自然酒[生もと]五人娘 純米酒720ml千葉県香取郡神崎町の地酒 寺田本家 辛口 無添加純米造り 無農薬米使用 自然酒 無ろ過  お礼の品 千葉県産 退職祝い おしゃれギフト 人気 御中元 お中元 父の日 母の日 御歳暮 お歳暮 : お酒とスイーツの新風堂",
+            "httpStatus": 200,
+            "sameDestination": true,
+            "itemId": null,
+            "itemMatches": false,
+            "purchaseCondition": null,
+            "stockCondition": null,
+            "soldOut": false,
+            "purchaseControls": false,
+            "purchasable": false,
+            "state": "item_identity_unconfirmed"
+          },
+          "legacyBrowserConfirmed": false,
+          "purchasable": false,
+          "checkedAt": "2026-10-18T13:03:10.215Z"
+        }
+      ],
+      "image": {
+        "checks": [
+          {
+            "name": "primary",
+            "status": 200,
+            "finalHost": "thumbnail.image.rakuten.co.jp",
+            "passed": true
+          },
+          {
+            "name": "compact",
+            "status": 200,
+            "finalHost": "thumbnail.image.rakuten.co.jp",
+            "passed": true
+          }
+        ],
+        "passed": true
+      },
+      "mobileProductPageConfirmed": true,
+      "stockConfirmedOn": "desktop_or_explicit_single_product_browser_review",
+      "mobileStockIndependentlyParsed": false,
+      "passed": true
+    },
+    {
+      "sakeId": "candidate-1a4b893e8f8b58d6",
+      "normalUrl": "https://item.rakuten.co.jp/shinpudo/ume-ichihara720/",
+      "checks": [
+        {
+          "device": "desktop",
+          "status": 200,
+          "exactDestination": true,
+          "stock": {
+            "title": "【楽天市場】純米 梅一輪『市原のしずく』720mlうめいちりん 千葉県九十九里の地酒 辛口 淡麗 燗酒 冷や ロック 贈り物    お祝い  還暦祝い 古希お祝い お酒 お礼の品 千葉県産 退職祝い おしゃれギフト 人気 御中元 お中元 父の日 母の日 御歳暮 お歳暮：お酒とスイーツの新風堂",
+            "httpStatus": 200,
+            "sameDestination": true,
+            "itemId": "10000979",
+            "itemMatches": true,
+            "purchaseCondition": "enabled",
+            "stockCondition": null,
+            "soldOut": false,
+            "purchaseControls": true,
+            "purchasable": true,
+            "state": "purchase_enabled"
+          },
+          "legacyBrowserConfirmed": false,
+          "purchasable": true,
+          "checkedAt": "2026-10-18T13:03:12.550Z"
+        },
+        {
+          "device": "mobile",
+          "status": 200,
+          "exactDestination": true,
+          "stock": {
+            "title": "【楽天市場】純米 梅一輪『市原のしずく』720mlうめいちりん 千葉県九十九里の地酒 辛口 淡麗 燗酒 冷や ロック 贈り物    お祝い  還暦祝い 古希お祝い お酒 お礼の品 千葉県産 退職祝い おしゃれギフト 人気 御中元 お中元 父の日 母の日 御歳暮 お歳暮 : お酒とスイーツの新風堂",
+            "httpStatus": 200,
+            "sameDestination": true,
+            "itemId": null,
+            "itemMatches": false,
+            "purchaseCondition": null,
+            "stockCondition": null,
+            "soldOut": false,
+            "purchaseControls": false,
+            "purchasable": false,
+            "state": "item_identity_unconfirmed"
+          },
+          "legacyBrowserConfirmed": false,
+          "purchasable": false,
+          "checkedAt": "2026-10-18T13:03:13.735Z"
+        }
+      ],
+      "image": {
+        "checks": [
+          {
+            "name": "primary",
+            "status": 200,
+            "finalHost": "thumbnail.image.rakuten.co.jp",
+            "passed": true
+          },
+          {
+            "name": "compact",
+            "status": 200,
+            "finalHost": "thumbnail.image.rakuten.co.jp",
+            "passed": true
+          }
+        ],
+        "passed": true
+      },
+      "mobileProductPageConfirmed": true,
+      "stockConfirmedOn": "desktop_or_explicit_single_product_browser_review",
+      "mobileStockIndependentlyParsed": false,
+      "passed": true
+    },
+    {
+      "sakeId": "candidate-b511aa7dbe7315c0",
+      "normalUrl": "https://item.rakuten.co.jp/b-miyoshi/tokai-omachi60-1800/",
+      "checks": [
+        {
+          "device": "desktop",
+          "status": 200,
+          "exactDestination": true,
+          "stock": {
+            "title": "【楽天市場】東魁盛 特別純米 雄町 1800ml 日本酒 地酒 限定品 人気銘柄 美味しい日本酒 千葉県 小泉酒造 美好屋酒店 有名 人気 飲みやすい ギフト プレゼント お祝い 贈り物 誕生日 退職祝い 結婚祝い 還暦祝い 内祝い 手土産：美好屋酒店 ～美酒を求めて～",
+            "httpStatus": 200,
+            "sameDestination": true,
+            "itemId": "10004935",
+            "itemMatches": true,
+            "purchaseCondition": "enabled",
+            "stockCondition": null,
+            "soldOut": false,
+            "purchaseControls": true,
+            "purchasable": true,
+            "state": "purchase_enabled"
+          },
+          "legacyBrowserConfirmed": false,
+          "purchasable": true,
+          "checkedAt": "2026-10-18T13:03:16.104Z"
+        },
+        {
+          "device": "mobile",
+          "status": 200,
+          "exactDestination": true,
+          "stock": {
+            "title": "【楽天市場】東魁盛 特別純米 雄町 1800ml 日本酒 地酒 限定品 人気銘柄 美味しい日本酒 千葉県 小泉酒造 美好屋酒店 有名 人気 飲みやすい ギフト プレゼント お祝い 贈り物 誕生日 退職祝い 結婚祝い 還暦祝い 内祝い 手土産 : 美好屋酒店 〜美酒を求めて〜",
+            "httpStatus": 200,
+            "sameDestination": true,
+            "itemId": null,
+            "itemMatches": false,
+            "purchaseCondition": null,
+            "stockCondition": null,
+            "soldOut": false,
+            "purchaseControls": false,
+            "purchasable": false,
+            "state": "item_identity_unconfirmed"
+          },
+          "legacyBrowserConfirmed": false,
+          "purchasable": false,
+          "checkedAt": "2026-10-18T13:03:17.260Z"
+        }
+      ],
+      "image": {
+        "checks": [
+          {
+            "name": "primary",
+            "status": 200,
+            "finalHost": "thumbnail.image.rakuten.co.jp",
+            "passed": true
+          },
+          {
+            "name": "compact",
+            "status": 200,
+            "finalHost": "thumbnail.image.rakuten.co.jp",
+            "passed": true
+          }
+        ],
+        "passed": true
+      },
+      "mobileProductPageConfirmed": true,
+      "stockConfirmedOn": "desktop_or_explicit_single_product_browser_review",
+      "mobileStockIndependentlyParsed": false,
+      "passed": true
+    },
+    {
+      "sakeId": "candidate-7eeb65ab5944ef43",
+      "normalUrl": "https://item.rakuten.co.jp/b-miyoshi/i240-500-1800/",
+      "checks": [
+        {
+          "device": "desktop",
+          "status": 200,
+          "exactDestination": true,
+          "stock": {
+            "title": "【楽天市場】岩の井 i240 純米大吟醸無濾過生原酒 五百万石 1401号酵母 1800ml 日本酒 地酒 お酒 限定品 人気銘柄 美味しい日本酒 千葉県 岩瀬酒造 美好屋酒店 有名 人気 飲みやすい ギフト プレゼント お祝い 贈り物 誕生日 退職祝い 結婚祝い 還暦祝い 内祝い 手土産：美好屋酒店 ～美酒を求めて～",
+            "httpStatus": 200,
+            "sameDestination": true,
+            "itemId": "10004092",
+            "itemMatches": true,
+            "purchaseCondition": "enabled",
+            "stockCondition": null,
+            "soldOut": false,
+            "purchaseControls": true,
+            "purchasable": true,
+            "state": "purchase_enabled"
+          },
+          "legacyBrowserConfirmed": false,
+          "purchasable": true,
+          "checkedAt": "2026-10-18T13:03:19.490Z"
+        },
+        {
+          "device": "mobile",
+          "status": 200,
+          "exactDestination": true,
+          "stock": {
+            "title": "【楽天市場】岩の井 i240 純米大吟醸無濾過生原酒 五百万石 1401号酵母 1800ml 日本酒 地酒 お酒 限定品 人気銘柄 美味しい日本酒 千葉県 岩瀬酒造 美好屋酒店 有名 人気 飲みやすい ギフト プレゼント お祝い 贈り物 誕生日 退職祝い 結婚祝い 還暦祝い 内祝い 手土産 : 美好屋酒店 〜美酒を求めて〜",
+            "httpStatus": 200,
+            "sameDestination": true,
+            "itemId": null,
+            "itemMatches": false,
+            "purchaseCondition": null,
+            "stockCondition": null,
+            "soldOut": false,
+            "purchaseControls": false,
+            "purchasable": false,
+            "state": "item_identity_unconfirmed"
+          },
+          "legacyBrowserConfirmed": false,
+          "purchasable": false,
+          "checkedAt": "2026-10-18T13:03:20.702Z"
+        }
+      ],
+      "image": {
+        "checks": [
+          {
+            "name": "primary",
+            "status": 200,
+            "finalHost": "thumbnail.image.rakuten.co.jp",
+            "passed": true
+          },
+          {
+            "name": "compact",
+            "status": 200,
+            "finalHost": "thumbnail.image.rakuten.co.jp",
+            "passed": true
+          }
+        ],
+        "passed": true
+      },
+      "mobileProductPageConfirmed": true,
+      "stockConfirmedOn": "desktop_or_explicit_single_product_browser_review",
+      "mobileStockIndependentlyParsed": false,
+      "passed": true
+    },
+    {
+      "sakeId": "candidate-4c161e703bf3533f",
+      "normalUrl": "https://item.rakuten.co.jp/shinpudo/kosigoi-2/",
+      "checks": [
+        {
+          "device": "desktop",
+          "status": 200,
+          "exactDestination": true,
+          "stock": {
+            "title": "【楽天市場】腰古井 純米酒1.8Lこしごい 千葉県勝浦の地酒  辛口 淡麗     お祝い 祝い 還暦祝い 古希お祝い 退職祝い お礼の品 千葉県産 おしゃれギフト 人気 御中元 お中元 父の日 母の日 御歳暮 お歳暮：お酒とスイーツの新風堂",
+            "httpStatus": 200,
+            "sameDestination": true,
+            "itemId": "10000634",
+            "itemMatches": true,
+            "purchaseCondition": "enabled",
+            "stockCondition": null,
+            "soldOut": false,
+            "purchaseControls": true,
+            "purchasable": true,
+            "state": "purchase_enabled"
+          },
+          "legacyBrowserConfirmed": false,
+          "purchasable": true,
+          "checkedAt": "2026-10-18T13:03:22.979Z"
+        },
+        {
+          "device": "mobile",
+          "status": 200,
+          "exactDestination": true,
+          "stock": {
+            "title": "【楽天市場】腰古井 純米酒1.8Lこしごい 千葉県勝浦の地酒  辛口 淡麗     お祝い 祝い 還暦祝い 古希お祝い 退職祝い お礼の品 千葉県産 おしゃれギフト 人気 御中元 お中元 父の日 母の日 御歳暮 お歳暮 : お酒とスイーツの新風堂",
+            "httpStatus": 200,
+            "sameDestination": true,
+            "itemId": null,
+            "itemMatches": false,
+            "purchaseCondition": null,
+            "stockCondition": null,
+            "soldOut": false,
+            "purchaseControls": false,
+            "purchasable": false,
+            "state": "item_identity_unconfirmed"
+          },
+          "legacyBrowserConfirmed": false,
+          "purchasable": false,
+          "checkedAt": "2026-10-18T13:03:24.133Z"
+        }
+      ],
+      "image": {
+        "checks": [
+          {
+            "name": "primary",
+            "status": 200,
+            "finalHost": "thumbnail.image.rakuten.co.jp",
+            "passed": true
+          },
+          {
+            "name": "compact",
+            "status": 200,
+            "finalHost": "thumbnail.image.rakuten.co.jp",
+            "passed": true
+          }
+        ],
+        "passed": true
+      },
+      "mobileProductPageConfirmed": true,
+      "stockConfirmedOn": "desktop_or_explicit_single_product_browser_review",
+      "mobileStockIndependentlyParsed": false,
+      "passed": true
+    },
+    {
+      "sakeId": "candidate-3dd83f6decb6db74",
+      "normalUrl": "https://item.rakuten.co.jp/star/11000816/",
+      "checks": [
+        {
+          "device": "desktop",
+          "status": 200,
+          "exactDestination": true,
+          "stock": {
+            "title": "【楽天市場】蔵元直送地酒 >\n神奈川県　吉川醸造：スターリカーズ楽天市場店",
+            "httpStatus": 200,
+            "sameDestination": true,
+            "itemId": null,
+            "itemMatches": false,
+            "purchaseCondition": null,
+            "stockCondition": null,
+            "soldOut": false,
+            "purchaseControls": false,
+            "purchasable": false,
+            "state": "item_identity_unconfirmed"
+          },
+          "legacyBrowserConfirmed": false,
+          "purchasable": false,
+          "checkedAt": "2026-10-18T13:03:26.691Z"
+        },
+        {
+          "device": "mobile",
+          "status": 200,
+          "exactDestination": true,
+          "stock": {
+            "title": "【楽天市場】吉川醸造 菊勇 いつもの純米酒 1800ｍl神奈川県純米酒 神奈川県産直 神奈川県産地酒 地酒 地酒1升瓶 1升瓶 1.8L ご挨拶 贈答品 御誕生日祝 就職祝 退職祝 御祝 御礼 御供 SAKE sake 辛口 日本酒辛口 ギフト ハロウィン : スターリカーズ楽天市場店",
+            "httpStatus": 200,
+            "sameDestination": true,
+            "itemId": null,
+            "itemMatches": false,
+            "purchaseCondition": null,
+            "stockCondition": null,
+            "soldOut": false,
+            "purchaseControls": false,
+            "purchasable": false,
+            "state": "item_identity_unconfirmed"
+          },
+          "legacyBrowserConfirmed": false,
+          "purchasable": false,
+          "checkedAt": "2026-10-18T13:03:27.642Z"
+        }
+      ],
+      "image": {
+        "checks": [
+          {
+            "name": "primary",
+            "status": 200,
+            "finalHost": "thumbnail.image.rakuten.co.jp",
+            "passed": true
+          },
+          {
+            "name": "compact",
+            "status": 200,
+            "finalHost": "thumbnail.image.rakuten.co.jp",
+            "passed": true
+          }
+        ],
+        "passed": true
+      },
+      "mobileProductPageConfirmed": false,
+      "stockConfirmedOn": "desktop_or_explicit_single_product_browser_review",
+      "mobileStockIndependentlyParsed": false,
+      "passed": false
+    },
+    {
+      "sakeId": "candidate-8440b2acfb155bb4",
+      "normalUrl": "https://item.rakuten.co.jp/liquorshopohno/18440/",
+      "checks": [
+        {
+          "device": "desktop",
+          "status": 200,
+          "exactDestination": true,
+          "stock": {
+            "title": "【楽天市場】黄金井酒造 盛升 特別純米酒 1800ml 1.8L 一升 神奈川 地酒 日本酒 清酒 純米酒：リカーショップおおの　楽天市場店",
+            "httpStatus": 200,
+            "sameDestination": true,
+            "itemId": "10000130",
+            "itemMatches": true,
+            "purchaseCondition": "enabled",
+            "stockCondition": null,
+            "soldOut": false,
+            "purchaseControls": true,
+            "purchasable": true,
+            "state": "purchase_enabled"
+          },
+          "legacyBrowserConfirmed": false,
+          "purchasable": true,
+          "checkedAt": "2026-10-18T13:03:29.901Z"
+        },
+        {
+          "device": "mobile",
+          "status": 200,
+          "exactDestination": true,
+          "stock": {
+            "title": "【楽天市場】黄金井酒造 盛升 特別純米酒 1800ml 1.8L 一升 神奈川 地酒 日本酒 清酒 純米酒 : リカーショップおおの　楽天市場店",
+            "httpStatus": 200,
+            "sameDestination": true,
+            "itemId": null,
+            "itemMatches": false,
+            "purchaseCondition": null,
+            "stockCondition": null,
+            "soldOut": false,
+            "purchaseControls": false,
+            "purchasable": false,
+            "state": "item_identity_unconfirmed"
+          },
+          "legacyBrowserConfirmed": false,
+          "purchasable": false,
+          "checkedAt": "2026-10-18T13:03:31.090Z"
+        }
+      ],
+      "image": {
+        "checks": [
+          {
+            "name": "primary",
+            "status": 200,
+            "finalHost": "thumbnail.image.rakuten.co.jp",
+            "passed": true
+          },
+          {
+            "name": "compact",
+            "status": 200,
+            "finalHost": "thumbnail.image.rakuten.co.jp",
+            "passed": true
+          }
+        ],
+        "passed": true
+      },
+      "mobileProductPageConfirmed": true,
+      "stockConfirmedOn": "desktop_or_explicit_single_product_browser_review",
+      "mobileStockIndependentlyParsed": false,
+      "passed": true
+    },
+    {
+      "sakeId": "candidate-8e97432ee30d07f9",
+      "normalUrl": "https://item.rakuten.co.jp/niigata/hokusetsu-kou-enshin-720/",
+      "checks": [
+        {
+          "device": "desktop",
+          "status": 200,
+          "exactDestination": true,
+          "stock": {
+            "title": "【楽天市場】日本酒  ギフト プレゼント 純米大吟醸 【北雪 越淡麗「光」遠心分離】 720ml 化粧箱入り 男性 女性 旦那 義父 上司 新潟地酒 高級 誕生日 内祝い お返し 結婚祝い  おすすめ おしゃれ 記念品 お祝い 手土産 贈り物：幻の酒",
+            "httpStatus": 200,
+            "sameDestination": true,
+            "itemId": "10002997",
+            "itemMatches": true,
+            "purchaseCondition": "enabled",
+            "stockCondition": null,
+            "soldOut": false,
+            "purchaseControls": true,
+            "purchasable": true,
+            "state": "purchase_enabled"
+          },
+          "legacyBrowserConfirmed": false,
+          "purchasable": true,
+          "checkedAt": "2026-10-18T13:03:33.396Z"
+        },
+        {
+          "device": "mobile",
+          "status": 200,
+          "exactDestination": true,
+          "stock": {
+            "title": "【楽天市場】日本酒  ギフト プレゼント 純米大吟醸 【北雪 越淡麗「光」遠心分離】 720ml 化粧箱入り 男性 女性 旦那 義父 上司 新潟地酒 高級 誕生日 内祝い お返し 結婚祝い  おすすめ おしゃれ 記念品 お祝い 手土産 贈り物 : 幻の酒",
+            "httpStatus": 200,
+            "sameDestination": true,
+            "itemId": null,
+            "itemMatches": false,
+            "purchaseCondition": null,
+            "stockCondition": null,
+            "soldOut": false,
+            "purchaseControls": false,
+            "purchasable": false,
+            "state": "item_identity_unconfirmed"
+          },
+          "legacyBrowserConfirmed": false,
+          "purchasable": false,
+          "checkedAt": "2026-10-18T13:03:34.627Z"
+        }
+      ],
+      "image": {
+        "checks": [
+          {
+            "name": "primary",
+            "status": 200,
+            "finalHost": "thumbnail.image.rakuten.co.jp",
+            "passed": true
+          },
+          {
+            "name": "compact",
+            "status": 200,
+            "finalHost": "thumbnail.image.rakuten.co.jp",
+            "passed": true
+          }
+        ],
+        "passed": true
+      },
+      "mobileProductPageConfirmed": true,
+      "stockConfirmedOn": "desktop_or_explicit_single_product_browser_review",
+      "mobileStockIndependentlyParsed": false,
+      "passed": true
+    },
+    {
+      "sakeId": "candidate-aa1f388b0b69872b",
+      "normalUrl": "https://item.rakuten.co.jp/emon-otodoke/10000866nagano/",
+      "checks": [
+        {
+          "device": "desktop",
+          "status": 200,
+          "exactDestination": true,
+          "stock": {
+            "title": "【楽天市場】信濃鶴　純米吟醸55頑卓がんたく　1800ｍｌ瓶長生社　全国新酒鑑評会金賞受賞蔵信州の地酒1.8ＬオールNAGANOモール：いいもん　楽天市場店",
+            "httpStatus": 200,
+            "sameDestination": true,
+            "itemId": "10010820",
+            "itemMatches": true,
+            "purchaseCondition": "enabled",
+            "stockCondition": null,
+            "soldOut": false,
+            "purchaseControls": true,
+            "purchasable": true,
+            "state": "purchase_enabled"
+          },
+          "legacyBrowserConfirmed": false,
+          "purchasable": true,
+          "checkedAt": "2026-10-18T13:03:36.942Z"
+        },
+        {
+          "device": "mobile",
+          "status": 200,
+          "exactDestination": true,
+          "stock": {
+            "title": "【楽天市場】信濃鶴　純米吟醸55頑卓がんたく　1800ｍｌ瓶長生社　全国新酒鑑評会金賞受賞蔵信州の地酒1.8ＬオールNAGANOモール : いいもん　楽天市場店",
+            "httpStatus": 200,
+            "sameDestination": true,
+            "itemId": null,
+            "itemMatches": false,
+            "purchaseCondition": null,
+            "stockCondition": null,
+            "soldOut": false,
+            "purchaseControls": false,
+            "purchasable": false,
+            "state": "item_identity_unconfirmed"
+          },
+          "legacyBrowserConfirmed": false,
+          "purchasable": false,
+          "checkedAt": "2026-10-18T13:03:38.080Z"
+        }
+      ],
+      "image": {
+        "checks": [
+          {
+            "name": "primary",
+            "status": 200,
+            "finalHost": "thumbnail.image.rakuten.co.jp",
+            "passed": true
+          },
+          {
+            "name": "compact",
+            "status": 200,
+            "finalHost": "thumbnail.image.rakuten.co.jp",
+            "passed": true
+          }
+        ],
+        "passed": true
+      },
+      "mobileProductPageConfirmed": true,
+      "stockConfirmedOn": "desktop_or_explicit_single_product_browser_review",
+      "mobileStockIndependentlyParsed": false,
+      "passed": true
+    },
+    {
+      "sakeId": "candidate-f42989aff176dccc",
+      "normalUrl": "https://item.rakuten.co.jp/kikusuisake/1729656600/",
+      "checks": [
+        {
+          "device": "desktop",
+          "status": 200,
+          "exactDestination": true,
+          "stock": {
+            "title": "【楽天市場】テロワール 純米大吟醸 最高級 日本酒 ギフト 送料無料 長野の地酒 喜久水  生原酒 箱入り 720ML プレゼント お歳暮 お中元 手土産 ギフト 父の日 母の日 バレンタイン 敬老の日 内祝い 送料無料 ハレの日 お正月 忘年会 新年会 結婚祝い お祝い 誕生日 飲み会 宴会 宴：喜久水酒造　楽天市場店",
+            "httpStatus": 200,
+            "sameDestination": true,
+            "itemId": "10000142",
+            "itemMatches": true,
+            "purchaseCondition": "enabled",
+            "stockCondition": null,
+            "soldOut": false,
+            "purchaseControls": true,
+            "purchasable": true,
+            "state": "purchase_enabled"
+          },
+          "legacyBrowserConfirmed": false,
+          "purchasable": true,
+          "checkedAt": "2026-10-18T13:03:40.388Z"
+        },
+        {
+          "device": "mobile",
+          "status": 200,
+          "exactDestination": true,
+          "stock": {
+            "title": "【楽天市場】テロワール 純米大吟醸 最高級 日本酒 ギフト 送料無料 長野の地酒 喜久水  生原酒 箱入り 720ML プレゼント お歳暮 お中元 手土産 ギフト 父の日 母の日 バレンタイン 敬老の日 内祝い 送料無料 ハレの日 お正月 忘年会 新年会 結婚祝い お祝い 誕生日 飲み会 宴会 宴 : 喜久水酒造　楽天市場店",
+            "httpStatus": 200,
+            "sameDestination": true,
+            "itemId": null,
+            "itemMatches": false,
+            "purchaseCondition": null,
+            "stockCondition": null,
+            "soldOut": false,
+            "purchaseControls": false,
+            "purchasable": false,
+            "state": "item_identity_unconfirmed"
+          },
+          "legacyBrowserConfirmed": false,
+          "purchasable": false,
+          "checkedAt": "2026-10-18T13:03:41.618Z"
+        }
+      ],
+      "image": {
+        "checks": [
+          {
+            "name": "primary",
+            "status": 200,
+            "finalHost": "thumbnail.image.rakuten.co.jp",
+            "passed": true
+          },
+          {
+            "name": "compact",
+            "status": 200,
+            "finalHost": "thumbnail.image.rakuten.co.jp",
+            "passed": true
+          }
+        ],
+        "passed": true
+      },
+      "mobileProductPageConfirmed": true,
+      "stockConfirmedOn": "desktop_or_explicit_single_product_browser_review",
+      "mobileStockIndependentlyParsed": false,
+      "passed": true
+    },
+    {
+      "sakeId": "candidate-56b74a3e9430b7a6",
+      "normalUrl": "https://item.rakuten.co.jp/donguri-n/4933366092708/",
+      "checks": [
+        {
+          "device": "desktop",
+          "status": 200,
+          "exactDestination": true,
+          "stock": {
+            "title": "【楽天市場】姨捨政宗 純米辛口 720ml（信州長野のお土産 土産 おみやげ お取り寄せ ご当地 ギフト おさけ お酒 地酒 日本酒 清酒 純米酒 長野県）：お土産どんぐり長野",
+            "httpStatus": 200,
+            "sameDestination": true,
+            "itemId": "10003923",
+            "itemMatches": true,
+            "purchaseCondition": "enabled",
+            "stockCondition": null,
+            "soldOut": false,
+            "purchaseControls": true,
+            "purchasable": true,
+            "state": "purchase_enabled"
+          },
+          "legacyBrowserConfirmed": false,
+          "purchasable": true,
+          "checkedAt": "2026-10-18T13:03:43.879Z"
+        },
+        {
+          "device": "mobile",
+          "status": 200,
+          "exactDestination": true,
+          "stock": {
+            "title": "【楽天市場】姨捨政宗 純米辛口 720ml（信州長野のお土産 土産 おみやげ お取り寄せ ご当地 ギフト おさけ お酒 地酒 日本酒 清酒 純米酒 長野県） : お土産どんぐり長野",
+            "httpStatus": 200,
+            "sameDestination": true,
+            "itemId": null,
+            "itemMatches": false,
+            "purchaseCondition": null,
+            "stockCondition": null,
+            "soldOut": false,
+            "purchaseControls": false,
+            "purchasable": false,
+            "state": "item_identity_unconfirmed"
+          },
+          "legacyBrowserConfirmed": false,
+          "purchasable": false,
+          "checkedAt": "2026-10-18T13:03:45.032Z"
+        }
+      ],
+      "image": {
+        "checks": [
+          {
+            "name": "primary",
+            "status": 200,
+            "finalHost": "thumbnail.image.rakuten.co.jp",
+            "passed": true
+          },
+          {
+            "name": "compact",
+            "status": 200,
+            "finalHost": "thumbnail.image.rakuten.co.jp",
+            "passed": true
+          }
+        ],
+        "passed": true
+      },
+      "mobileProductPageConfirmed": true,
+      "stockConfirmedOn": "desktop_or_explicit_single_product_browser_review",
+      "mobileStockIndependentlyParsed": false,
+      "passed": true
+    },
+    {
+      "sakeId": "candidate-3f4eefab2ebd5303",
+      "normalUrl": "https://item.rakuten.co.jp/led-neworder/akty-4972170204259/",
+      "checks": [
+        {
+          "device": "desktop",
+          "status": 200,
+          "exactDestination": true,
+          "stock": {
+            "title": "【楽天市場】日本酒 美濃菊 純米大吟醸 飛彈誉 720ml 箱入 [12068342] 岐阜 養老 玉泉堂酒造 岐阜の地酒 父の日 母の日 敬老の日 暦祝い 誕生日 お祝い ギフト：ミノクニ商店",
+            "httpStatus": 200,
+            "sameDestination": true,
+            "itemId": "10053443",
+            "itemMatches": true,
+            "purchaseCondition": "enabled",
+            "stockCondition": null,
+            "soldOut": false,
+            "purchaseControls": true,
+            "purchasable": true,
+            "state": "purchase_enabled"
+          },
+          "legacyBrowserConfirmed": false,
+          "purchasable": true,
+          "checkedAt": "2026-10-18T13:03:47.332Z"
+        },
+        {
+          "device": "mobile",
+          "status": 200,
+          "exactDestination": true,
+          "stock": {
+            "title": "【楽天市場】日本酒 美濃菊 純米大吟醸 飛彈誉 720ml 箱入 [12068342] 岐阜 養老 玉泉堂酒造 岐阜の地酒 父の日 母の日 敬老の日 暦祝い 誕生日 お祝い ギフト : ミノクニ商店",
+            "httpStatus": 200,
+            "sameDestination": true,
+            "itemId": null,
+            "itemMatches": false,
+            "purchaseCondition": null,
+            "stockCondition": null,
+            "soldOut": false,
+            "purchaseControls": false,
+            "purchasable": false,
+            "state": "item_identity_unconfirmed"
+          },
+          "legacyBrowserConfirmed": false,
+          "purchasable": false,
+          "checkedAt": "2026-10-18T13:03:48.525Z"
+        }
+      ],
+      "image": {
+        "checks": [
+          {
+            "name": "primary",
+            "status": 200,
+            "finalHost": "thumbnail.image.rakuten.co.jp",
+            "passed": true
+          },
+          {
+            "name": "compact",
+            "status": 200,
+            "finalHost": "thumbnail.image.rakuten.co.jp",
+            "passed": true
+          }
+        ],
+        "passed": true
+      },
+      "mobileProductPageConfirmed": true,
+      "stockConfirmedOn": "desktop_or_explicit_single_product_browser_review",
+      "mobileStockIndependentlyParsed": false,
+      "passed": true
+    },
+    {
+      "sakeId": "candidate-cee9c8873335fa72",
+      "normalUrl": "https://item.rakuten.co.jp/saketakuhida/1632567000/",
+      "checks": [
+        {
+          "device": "desktop",
+          "status": 200,
+          "exactDestination": true,
+          "stock": {
+            "title": "【楽天市場】純米大吟醸 笑いじょうご 720ml　清酒 お酒  日本酒 岐阜県 飛騨高山 地酒 二木酒造  お土産 贈り物：飛騨高山　酒のtakumi",
+            "httpStatus": 200,
+            "sameDestination": true,
+            "itemId": "10000381",
+            "itemMatches": true,
+            "purchaseCondition": "enabled",
+            "stockCondition": null,
+            "soldOut": false,
+            "purchaseControls": true,
+            "purchasable": true,
+            "state": "purchase_enabled"
+          },
+          "legacyBrowserConfirmed": false,
+          "purchasable": true,
+          "checkedAt": "2026-10-18T13:03:50.817Z"
+        },
+        {
+          "device": "mobile",
+          "status": 200,
+          "exactDestination": true,
+          "stock": {
+            "title": "【楽天市場】純米大吟醸 笑いじょうご 720ml　清酒 お酒  日本酒 岐阜県 飛騨高山 地酒 二木酒造  お土産 贈り物 : 飛騨高山　酒のtakumi",
+            "httpStatus": 200,
+            "sameDestination": true,
+            "itemId": null,
+            "itemMatches": false,
+            "purchaseCondition": null,
+            "stockCondition": null,
+            "soldOut": false,
+            "purchaseControls": false,
+            "purchasable": false,
+            "state": "item_identity_unconfirmed"
+          },
+          "legacyBrowserConfirmed": false,
+          "purchasable": false,
+          "checkedAt": "2026-10-18T13:03:52.034Z"
+        }
+      ],
+      "image": {
+        "checks": [
+          {
+            "name": "primary",
+            "status": 200,
+            "finalHost": "thumbnail.image.rakuten.co.jp",
+            "passed": true
+          },
+          {
+            "name": "compact",
+            "status": 200,
+            "finalHost": "thumbnail.image.rakuten.co.jp",
+            "passed": true
+          }
+        ],
+        "passed": true
+      },
+      "mobileProductPageConfirmed": true,
+      "stockConfirmedOn": "desktop_or_explicit_single_product_browser_review",
+      "mobileStockIndependentlyParsed": false,
+      "passed": true
+    }
+  ]
+}

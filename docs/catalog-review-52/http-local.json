@@ -1,0 +1,244 @@
+{
+  "checkedAt": "2026-10-18T13:33:45.875Z",
+  "base": "http://127.0.0.1:3196",
+  "rows": [
+    {
+      "route": "/",
+      "status": 200,
+      "cspUnchanged": true,
+      "identityPresent": true,
+      "passed": true
+    },
+    {
+      "route": "/about",
+      "status": 200,
+      "cspUnchanged": true,
+      "identityPresent": true,
+      "passed": true
+    },
+    {
+      "route": "/search",
+      "status": 200,
+      "cspUnchanged": true,
+      "identityPresent": true,
+      "passed": true
+    },
+    {
+      "route": "/discover",
+      "status": 200,
+      "cspUnchanged": true,
+      "identityPresent": true,
+      "passed": true
+    },
+    {
+      "route": "/ochoko",
+      "status": 200,
+      "cspUnchanged": true,
+      "identityPresent": true,
+      "passed": true
+    },
+    {
+      "route": "/food",
+      "status": 200,
+      "cspUnchanged": true,
+      "identityPresent": true,
+      "passed": true
+    },
+    {
+      "route": "/sake/zao-junmai-ginjo-catalog-v1",
+      "status": 200,
+      "cspUnchanged": true,
+      "identityPresent": true,
+      "passed": true
+    },
+    {
+      "route": "/sake/chokyu-tokusen-honjozo-catalog-v1",
+      "status": 200,
+      "cspUnchanged": true,
+      "identityPresent": true,
+      "passed": true
+    },
+    {
+      "route": "/sake/ayumasamune-honjozo-catalog-v1",
+      "status": 200,
+      "cspUnchanged": true,
+      "identityPresent": true,
+      "passed": true
+    },
+    {
+      "route": "/sake/chiyonohikari-shin-tokubetsu-honjozo-catalog-v1",
+      "status": 200,
+      "cspUnchanged": true,
+      "identityPresent": true,
+      "passed": true
+    },
+    {
+      "route": "/sake/hitorimusume-sayaka-tokubetsu-honjozo-catalog-v1",
+      "status": 200,
+      "cspUnchanged": true,
+      "identityPresent": true,
+      "passed": true
+    },
+    {
+      "route": "/sake/wakitaya-tokubetsu-honjozo-catalog-v1",
+      "status": 200,
+      "cspUnchanged": true,
+      "identityPresent": true,
+      "passed": true
+    },
+    {
+      "route": "/sake/tenjinbayashi-tokubetsu-honjozo-catalog-v1",
+      "status": 200,
+      "cspUnchanged": true,
+      "identityPresent": true,
+      "passed": true
+    },
+    {
+      "route": "/sake/koshijifubuki-akiagari-2026-catalog-v1",
+      "status": 200,
+      "cspUnchanged": true,
+      "identityPresent": true,
+      "passed": true
+    },
+    {
+      "route": "/sake/kanbe-shiboritate-namachozo-catalog-v1",
+      "status": 200,
+      "cspUnchanged": true,
+      "identityPresent": true,
+      "passed": true
+    },
+    {
+      "route": "/sake/hokushika-akita-kasho-nigori-catalog-v1",
+      "status": 200,
+      "cspUnchanged": true,
+      "identityPresent": true,
+      "passed": true
+    },
+    {
+      "route": "/sake/koshino-happo-origarami-catalog-v1",
+      "status": 200,
+      "cspUnchanged": true,
+      "identityPresent": true,
+      "passed": true
+    },
+    {
+      "route": "/sake/suehiro-yamahai-junmai-ginjo-catalog-v1",
+      "status": 200,
+      "cspUnchanged": true,
+      "identityPresent": true,
+      "passed": true
+    },
+    {
+      "route": "/sake/kaishun-kimoto-yamaguchi-hiire-genshu-catalog-v1",
+      "status": 200,
+      "cspUnchanged": true,
+      "identityPresent": true,
+      "passed": true
+    },
+    {
+      "route": "/sake/utouto-junmai-catalog-v1",
+      "status": 200,
+      "cspUnchanged": true,
+      "identityPresent": true,
+      "passed": true
+    },
+    {
+      "route": "/sake/kirai-gin-junmai-daiginjo-180-catalog-v1",
+      "status": 200,
+      "cspUnchanged": true,
+      "identityPresent": true,
+      "passed": true
+    },
+    {
+      "route": "/sake/keigetsu-extra-dry-tokubetsu-junmai60-catalog-v1",
+      "status": 200,
+      "cspUnchanged": true,
+      "identityPresent": true,
+      "passed": true
+    },
+    {
+      "route": "/sake/hachitsuru-junmai-ginjo-catalog-v1",
+      "status": 200,
+      "cspUnchanged": true,
+      "identityPresent": true,
+      "passed": true
+    },
+    {
+      "route": "/sake/sakuyabi14-junmai-ginjo-jikagumi-r7by-catalog-v1",
+      "status": 200,
+      "cspUnchanged": true,
+      "identityPresent": true,
+      "passed": true
+    },
+    {
+      "route": "/sake/tonegawa-sodachi-junmai-ginjo-catalog-v1",
+      "status": 200,
+      "cspUnchanged": true,
+      "identityPresent": true,
+      "passed": true
+    },
+    {
+      "route": "/sake/gonin-musume-junmai-catalog-v1",
+      "status": 200,
+      "cspUnchanged": true,
+      "identityPresent": true,
+      "passed": true
+    },
+    {
+      "route": "/sake/sakari-masu-tokubetsu-junmai-catalog-v1",
+      "status": 200,
+      "cspUnchanged": true,
+      "identityPresent": true,
+      "passed": true
+    },
+    {
+      "route": "/sake/hokusetsu-hikari-centrifuge-junmai-daiginjo-catalog-v1",
+      "status": 200,
+      "cspUnchanged": true,
+      "identityPresent": true,
+      "passed": true
+    },
+    {
+      "route": "/sake/obasute-masamune-junmai-karakuchi-catalog-v1",
+      "status": 200,
+      "cspUnchanged": true,
+      "identityPresent": true,
+      "passed": true
+    },
+    {
+      "route": "/sake/waraijogo-junmai-daiginjo-catalog-v1",
+      "status": 200,
+      "cspUnchanged": true,
+      "identityPresent": true,
+      "passed": true
+    },
+    {
+      "route": "/sake/koshino-kagetora-junmai-standard-v1",
+      "status": 200,
+      "cspUnchanged": true,
+      "identityPresent": true,
+      "passed": true
+    },
+    {
+      "route": "/sitemap.xml",
+      "count": 517,
+      "passed": true
+    },
+    {
+      "route": "/.env.local",
+      "status": 404,
+      "passed": true
+    },
+    {
+      "route": "/data/catalog-operations/candidates.json",
+      "status": 404,
+      "passed": true
+    },
+    {
+      "route": "/docs/catalog-review-52/adjudications.json",
+      "status": 404,
+      "passed": true
+    }
+  ],
+  "passed": true
+}

@@ -1,0 +1,161 @@
+{
+  "rows": [
+    {
+      "id": "kamoshibito-kuheiji-eau-du-desir",
+      "name": "醸し人九平次 山田錦 EAU DU DÉSIR",
+      "brewery": "萬乗醸造",
+      "registeredPrefecture": null,
+      "registeredRegion": "名古屋市緑区",
+      "sourceUrl": "https://kuheiji.co.jp/kamoshibito/desir-et-sauvage/",
+      "retrieved": true,
+      "checkedAt": "2026-10-18T13:30:52.183Z",
+      "prefectureMentions": [],
+      "modified": false
+    },
+    {
+      "id": "kaiun-tokubetsu-junmai",
+      "name": "開運 特別純米",
+      "brewery": "土井酒造場",
+      "registeredPrefecture": null,
+      "registeredRegion": "掛川市",
+      "sourceUrl": "https://kaiunsake.com/item/3446.html",
+      "retrieved": true,
+      "checkedAt": "2026-10-18T13:30:52.652Z",
+      "prefectureMentions": [
+        "兵庫県"
+      ],
+      "modified": false
+    },
+    {
+      "id": "daina-kjnkdk",
+      "name": "大那 特別純米 生酛造り（火入れ）",
+      "brewery": "菊の里酒造",
+      "registeredPrefecture": null,
+      "registeredRegion": "栃木県",
+      "sourceUrl": "https://kikunosato-sake.com/product/",
+      "retrieved": true,
+      "checkedAt": "2026-10-18T13:30:53.485Z",
+      "prefectureMentions": [
+        "栃木県",
+        "兵庫県"
+      ],
+      "modified": false
+    },
+    {
+      "id": "shichisui-kjnkdk",
+      "name": "七水 純米大吟醸45",
+      "brewery": "虎屋本店",
+      "registeredPrefecture": null,
+      "registeredRegion": "栃木県",
+      "sourceUrl": "https://toratora.co.jp/?p=1032",
+      "retrieved": true,
+      "checkedAt": "2026-10-18T13:30:54.075Z",
+      "prefectureMentions": [
+        "栃木県"
+      ],
+      "modified": false
+    },
+    {
+      "id": "ruka-p7oucs",
+      "name": "流輝 純米吟醸 無ろ過生 山田錦",
+      "brewery": "松屋酒造",
+      "registeredPrefecture": null,
+      "registeredRegion": "群馬県",
+      "sourceUrl": "https://matsuya-sakebrewery.jp/product/ruka-1/",
+      "retrieved": true,
+      "checkedAt": "2026-10-18T13:30:55.308Z",
+      "prefectureMentions": [
+        "兵庫県",
+        "滋賀県"
+      ],
+      "modified": false
+    },
+    {
+      "id": "abe-k34lzz",
+      "name": "STANDARD | あべ",
+      "brewery": "阿部酒造",
+      "registeredPrefecture": null,
+      "registeredRegion": "新潟県",
+      "sourceUrl": "https://store.sakejump.com/products/1030001",
+      "retrieved": true,
+      "checkedAt": "2026-10-18T13:30:55.507Z",
+      "prefectureMentions": [
+        "新潟県",
+        "東京都"
+      ],
+      "modified": false
+    },
+    {
+      "id": "michisakari-ia8tng",
+      "name": "三千盛 純米大吟醸 業物／Wazamono",
+      "brewery": "株式会社三千盛",
+      "registeredPrefecture": null,
+      "registeredRegion": "岐阜県",
+      "sourceUrl": "https://www.michisakari.com/product/archives/50",
+      "retrieved": true,
+      "checkedAt": "2026-10-18T13:30:56.035Z",
+      "prefectureMentions": [],
+      "modified": false
+    },
+    {
+      "id": "naruka-gg3q4p-4",
+      "name": "鳴海 純米大吟醸 直詰め生 総の舞50",
+      "brewery": "東灘醸造",
+      "registeredPrefecture": null,
+      "registeredRegion": "千葉県",
+      "sourceUrl": "https://azumanada.net/products/naruka/",
+      "retrieved": true,
+      "checkedAt": "2026-10-18T13:30:56.334Z",
+      "prefectureMentions": [
+        "岡山県",
+        "千葉県",
+        "兵庫県",
+        "秋田県",
+        "富山県"
+      ],
+      "modified": false
+    },
+    {
+      "id": "kaiun-tokubetsu-junmai-2",
+      "name": "開運 純米吟醸 山田錦",
+      "brewery": "土井酒造場",
+      "registeredPrefecture": null,
+      "registeredRegion": "掛川市",
+      "sourceUrl": "https://kaiunsake.com/item/3418.html",
+      "retrieved": true,
+      "checkedAt": "2026-10-18T13:30:56.412Z",
+      "prefectureMentions": [
+        "兵庫県"
+      ],
+      "modified": false
+    },
+    {
+      "id": "eikun-junmai-ginjo-4",
+      "name": "紫の英君 純米吟醸 山田錦",
+      "brewery": "英君酒造株式会社",
+      "registeredPrefecture": null,
+      "registeredRegion": "静岡市清水区",
+      "sourceUrl": "https://eikun.co.jp/product/murasaki-eikun/",
+      "retrieved": true,
+      "checkedAt": "2026-10-18T13:30:56.817Z",
+      "prefectureMentions": [
+        "岡山県"
+      ],
+      "modified": false
+    },
+    {
+      "id": "kamoshibito-kuheiji-eau-du-desir-1",
+      "name": "醸し人九平次 別誂",
+      "brewery": "萬乗醸造",
+      "registeredPrefecture": null,
+      "registeredRegion": "名古屋市緑区",
+      "sourceUrl": "https://kuheiji.co.jp/kamoshibito/collection/",
+      "retrieved": true,
+      "checkedAt": "2026-10-18T13:30:58.035Z",
+      "prefectureMentions": [],
+      "modified": false
+    }
+  ],
+  "notNewProducts": true,
+  "noDatabaseChange": true
+}

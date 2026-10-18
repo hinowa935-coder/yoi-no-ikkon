@@ -1,0 +1,113 @@
+{
+  "checkedAt": "2026-10-18T13:39:37.655Z",
+  "publicationApprovalScope": "user-approved-fixed52-cohort-only",
+  "productionPublished": false,
+  "before": {
+    "products": 493,
+    "breweries": 340,
+    "directLinks": 379,
+    "formalImages": 371
+  },
+  "targets": 52,
+  "targetBreweries": 52,
+  "reviewed": 52,
+  "identityConfirmed": 37,
+  "identityUnresolved": 15,
+  "retailConfirmed": 51,
+  "alternativeMerchantRescues": 0,
+  "soldOutHolds": 0,
+  "formalCreativeCaptures": 52,
+  "formalImageTransportConfirmed": 52,
+  "imageSpecificHolds": 3,
+  "minorDifferencesAccepted": 9,
+  "minorDifferenceCandidateIndexes": [
+    1,
+    8,
+    32,
+    35,
+    39,
+    40,
+    46,
+    50,
+    52
+  ],
+  "majorSpecificationContradictions": [
+    6,
+    12,
+    51
+  ],
+  "majorVariantRejected": 0,
+  "sensoryReadyProducts": 24,
+  "communityEvidence": 8,
+  "communityConsensusProducts": 1,
+  "communityPairings": 0,
+  "editorialPairings": 72,
+  "officialPairings": 11,
+  "pairingReady": 24,
+  "productionReady": 24,
+  "approvedActive": 24,
+  "newBreweries": 24,
+  "held": 28,
+  "candidateRemaining": 28,
+  "outcomes": {
+    "ACTIVE": 24,
+    "SPEC_UNRESOLVED": 14,
+    "SENSORY_EVIDENCE_INSUFFICIENT": 10,
+    "WAITING_FOR_COMMERCIAL_IMAGE": 3,
+    "OFFICIAL_CONFIRMATION_WEAK": 1
+  },
+  "after": {
+    "products": 517,
+    "breweries": 364,
+    "prefectures": 46,
+    "missingPrefecture": "沖縄県",
+    "directLinks": 403,
+    "formalImages": 395
+  },
+  "newProductDirectLinkRate": 1,
+  "newProductFormalImageRate": 1,
+  "existingProductsUnchanged": true,
+  "tests": {
+    "passed": 101,
+    "failed": 0
+  },
+  "typecheck": "passed",
+  "lint": "passed (existing custom lint, not ESLint)",
+  "webpackBuild": "passed",
+  "initialSandboxBuild": "EPERM mkdir; same build succeeded with ordinary Windows permission; no app workaround",
+  "browserLocal": {
+    "passed": true,
+    "checks": 212,
+    "errors": 0,
+    "bootstrapWarnings": 0,
+    "widths": [
+      320,
+      360,
+      375,
+      390,
+      430,
+      1280
+    ]
+  },
+  "internalLinks": {
+    "checkedAt": "2026-10-18T13:33:51.328Z",
+    "pages": 1184,
+    "internalLinks": 19717,
+    "broken": []
+  },
+  "secretScan": {
+    "scannedFiles": 7310,
+    "unreadableFiles": 0,
+    "findings": [],
+    "passed": true,
+    "configuredValuesChecked": [
+      "RAKUTEN_APPLICATION_ID",
+      "RAKUTEN_ACCESS_KEY",
+      "RAKUTEN_AFFILIATE_ID"
+    ],
+    "limitation": null
+  },
+  "realIphoneTested": false,
+  "automaticPublicationAllowed": false,
+  "weeklyMonitoringEnabled": false
+}

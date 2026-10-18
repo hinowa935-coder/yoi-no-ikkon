@@ -1,0 +1,118 @@
+{
+  "rows": [
+    {
+      "n": 8,
+      "sakeId": "candidate-1de4f992f2a2074c",
+      "normalUrl": "https://item.rakuten.co.jp/kuranosuke/3372/",
+      "itemCode": "kuranosuke:10012012",
+      "capacityMl": 1800,
+      "checkedAt": "2026-10-18T13:18:58.959Z",
+      "retrieved": true,
+      "purchasable": true,
+      "singleProductSectionReviewed": true,
+      "stockCount": null,
+      "mobileTitleTokens": [
+        "一人娘",
+        "さやか",
+        "特別本醸造",
+        "1800ml"
+      ],
+      "meaning": "3372の単品欄。購入手続き有効・在庫商品表示。",
+      "method": "read_only_rendered_browser_product_section"
+    },
+    {
+      "n": 25,
+      "sakeId": "candidate-82bc80b5de60da9b",
+      "normalUrl": "https://item.rakuten.co.jp/sakenotanaka/1012/",
+      "itemCode": "sakenotanaka:10005976",
+      "capacityMl": 1800,
+      "checkedAt": "2026-10-18T13:18:58.959Z",
+      "retrieved": true,
+      "purchasable": true,
+      "singleProductSectionReviewed": true,
+      "stockCount": 2,
+      "mobileTitleTokens": [
+        "冨玲",
+        "1800ml"
+      ],
+      "meaning": "原酒20度と加水15度は別選択。原酒選択肢の在庫2。画像共通のため公開保留。",
+      "method": "read_only_rendered_browser_product_section"
+    },
+    {
+      "n": 27,
+      "sakeId": "candidate-a53f4ddbd21c8bf4",
+      "normalUrl": "https://item.rakuten.co.jp/auc-8848-jizake/4935787205408/",
+      "itemCode": "auc-8848-jizake:10003829",
+      "capacityMl": 720,
+      "checkedAt": "2026-10-18T13:18:58.959Z",
+      "retrieved": true,
+      "purchasable": true,
+      "singleProductSectionReviewed": true,
+      "stockCount": 1,
+      "mobileTitleTokens": [
+        "KANADEL",
+        "純米吟醸",
+        "720ml"
+      ],
+      "meaning": "対象KANADELの商品詳細・在庫1。超BLACKはページ内別掲載。",
+      "method": "read_only_rendered_browser_product_section"
+    },
+    {
+      "n": 30,
+      "sakeId": "candidate-55e89b3353b24172",
+      "normalUrl": "https://item.rakuten.co.jp/auc-yumeikan/1067/",
+      "itemCode": "auc-yumeikan:10001280",
+      "capacityMl": 1800,
+      "checkedAt": "2026-10-18T13:18:58.959Z",
+      "retrieved": true,
+      "purchasable": true,
+      "singleProductSectionReviewed": true,
+      "stockCount": 30,
+      "mobileTitleTokens": [
+        "うとうと",
+        "純米酒",
+        "1800ml"
+      ],
+      "meaning": "商品番号1067の対象欄は在庫30。別の1068/720mlの在庫28は使わない。",
+      "method": "read_only_rendered_browser_product_section"
+    },
+    {
+      "n": 31,
+      "sakeId": "candidate-f003f03225ea03f5",
+      "normalUrl": "https://item.rakuten.co.jp/bcs-ls/4909090270187/",
+      "itemCode": "bcs-ls:10010844",
+      "capacityMl": 180,
+      "checkedAt": "2026-10-18T13:18:58.959Z",
+      "retrieved": true,
+      "purchasable": true,
+      "singleProductSectionReviewed": true,
+      "stockCount": 16,
+      "mobileTitleTokens": [
+        "きらい",
+        "純米大吟醸",
+        "180ml"
+      ],
+      "meaning": "JAN4909090270187の銀180ml欄で在庫16。黒/赤の売切れを流用しない。",
+      "method": "read_only_rendered_browser_product_section"
+    },
+    {
+      "n": 37,
+      "sakeId": "candidate-0d1d9edf17d24d2e",
+      "normalUrl": "https://item.rakuten.co.jp/auc-horie/sakuyabi04/",
+      "itemCode": "auc-horie:10000549",
+      "capacityMl": 720,
+      "checkedAt": "2026-10-18T13:18:58.959Z",
+      "retrieved": true,
+      "purchasable": true,
+      "singleProductSectionReviewed": true,
+      "stockCount": 12,
+      "mobileTitleTokens": [
+        "咲耶美",
+        "14号酵母",
+        "720ml"
+      ],
+      "meaning": "商品番号sakuyabi04・R7BY・14号酵母・在庫12。年齢確認選択は購入を行わない。",
+      "method": "read_only_rendered_browser_product_section"
+    }
+  ]
+}

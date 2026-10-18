@@ -1,0 +1,919 @@
+{
+  "checkedAt": "2026-10-18T13:25:55.945Z",
+  "sourceCommit": "1469d4e8c5dc93110f7b3e866a7d56449eaae36c",
+  "productionPublished": false,
+  "rows": [
+    {
+      "sakeId": "zao-junmai-ginjo-catalog-v1",
+      "candidateProductId": "candidate-d062c177acd7ed80",
+      "name": "純米吟醸 蔵王",
+      "capacityMl": 720,
+      "normalUrl": "https://item.rakuten.co.jp/ichibankanshop/4980868111611/",
+      "visualEvidence": {
+        "reviewed": true,
+        "method": "original_formal_affiliate_creative_gallery",
+        "observation": "緑瓶・白蔵王ラベルと箱720ml",
+        "capacityCompatible": true
+      },
+      "imageOriginalSha256": "4eecdd9327c316d707b14010da70e0cd981528c639279355224662b6152dbed9",
+      "gate": {
+        "ready": false,
+        "checks": {
+          "brewery": true,
+          "product": true,
+          "classification": true,
+          "identity": true,
+          "specs": true,
+          "specEvidence": true,
+          "capacity": true,
+          "stock": true,
+          "affiliate": true,
+          "image": true,
+          "sensory": true,
+          "pairing": true,
+          "night": true,
+          "duplicate": true,
+          "qa": false
+        },
+        "missing": [
+          "qa"
+        ],
+        "automaticPublicationAllowed": false
+      }
+    },
+    {
+      "sakeId": "chokyu-tokusen-honjozo-catalog-v1",
+      "candidateProductId": "candidate-11b5e915498949df",
+      "name": "長久 特撰 本醸造",
+      "capacityMl": 1800,
+      "normalUrl": "https://item.rakuten.co.jp/kishuuitibanya/ns-021/",
+      "visualEvidence": {
+        "reviewed": true,
+        "method": "original_formal_affiliate_creative_gallery",
+        "observation": "茶瓶・長久特撰ラベル",
+        "capacityCompatible": true
+      },
+      "imageOriginalSha256": "db8e97fdba1797b4cd1b93418696d6b3b8cdf4e8f9cb346cbe1914d2f1ed2a35",
+      "gate": {
+        "ready": false,
+        "checks": {
+          "brewery": true,
+          "product": true,
+          "classification": true,
+          "identity": true,
+          "specs": true,
+          "specEvidence": true,
+          "capacity": true,
+          "stock": true,
+          "affiliate": true,
+          "image": true,
+          "sensory": true,
+          "pairing": true,
+          "night": true,
+          "duplicate": true,
+          "qa": false
+        },
+        "missing": [
+          "qa"
+        ],
+        "automaticPublicationAllowed": false
+      }
+    },
+    {
+      "sakeId": "ayumasamune-honjozo-catalog-v1",
+      "candidateProductId": "candidate-40af21396f132657",
+      "name": "鮎正宗 本醸造",
+      "capacityMl": 1800,
+      "normalUrl": "https://item.rakuten.co.jp/arakinstore/10000020/",
+      "visualEvidence": {
+        "reviewed": true,
+        "method": "original_formal_affiliate_creative_gallery",
+        "observation": "茶瓶・鮎本醸造白ラベル1800ml",
+        "capacityCompatible": true
+      },
+      "imageOriginalSha256": "9fcd7dcbf0753ac2f57f9168b2ea408a3c964d364dca0ec5b4e177dc1dcaded5",
+      "gate": {
+        "ready": false,
+        "checks": {
+          "brewery": true,
+          "product": true,
+          "classification": true,
+          "identity": true,
+          "specs": true,
+          "specEvidence": true,
+          "capacity": true,
+          "stock": true,
+          "affiliate": true,
+          "image": true,
+          "sensory": true,
+          "pairing": true,
+          "night": true,
+          "duplicate": true,
+          "qa": false
+        },
+        "missing": [
+          "qa"
+        ],
+        "automaticPublicationAllowed": false
+      }
+    },
+    {
+      "sakeId": "chiyonohikari-shin-tokubetsu-honjozo-catalog-v1",
+      "candidateProductId": "candidate-550e2fc57e08c173",
+      "name": "千代の光 真 特別本醸造",
+      "capacityMl": 1800,
+      "normalUrl": "https://item.rakuten.co.jp/arakinstore/10000093/",
+      "visualEvidence": {
+        "reviewed": true,
+        "method": "original_formal_affiliate_creative_gallery",
+        "observation": "茶瓶・黒地に真の白文字",
+        "capacityCompatible": true
+      },
+      "imageOriginalSha256": "ab0848033c0b19803d1707003b2aba3c207b70e6e09f226e75569ac5a2dbb20c",
+      "gate": {
+        "ready": false,
+        "checks": {
+          "brewery": true,
+          "product": true,
+          "classification": true,
+          "identity": true,
+          "specs": true,
+          "specEvidence": true,
+          "capacity": true,
+          "stock": true,
+          "affiliate": true,
+          "image": true,
+          "sensory": true,
+          "pairing": true,
+          "night": true,
+          "duplicate": true,
+          "qa": false
+        },
+        "missing": [
+          "qa"
+        ],
+        "automaticPublicationAllowed": false
+      }
+    },
+    {
+      "sakeId": "hitorimusume-sayaka-tokubetsu-honjozo-catalog-v1",
+      "candidateProductId": "candidate-1de4f992f2a2074c",
+      "name": "一人娘 さやか 特別本醸造",
+      "capacityMl": 1800,
+      "normalUrl": "https://item.rakuten.co.jp/kuranosuke/3372/",
+      "visualEvidence": {
+        "reviewed": true,
+        "method": "original_formal_affiliate_creative_gallery",
+        "observation": "茶瓶・さやか白ラベルと箱",
+        "capacityCompatible": true
+      },
+      "imageOriginalSha256": "7535764688aaea4b597a2b2d30c08ceebb4b7c9af85106e4e0927bef71193ae3",
+      "gate": {
+        "ready": false,
+        "checks": {
+          "brewery": true,
+          "product": true,
+          "classification": true,
+          "identity": true,
+          "specs": true,
+          "specEvidence": true,
+          "capacity": true,
+          "stock": true,
+          "affiliate": true,
+          "image": true,
+          "sensory": true,
+          "pairing": true,
+          "night": true,
+          "duplicate": true,
+          "qa": false
+        },
+        "missing": [
+          "qa"
+        ],
+        "automaticPublicationAllowed": false
+      }
+    },
+    {
+      "sakeId": "wakitaya-tokubetsu-honjozo-catalog-v1",
+      "candidateProductId": "candidate-48d1c0cb44622ae4",
+      "name": "脇田屋 特別本醸造",
+      "capacityMl": 1800,
+      "normalUrl": "https://item.rakuten.co.jp/nakajimaya/bdi005/",
+      "visualEvidence": {
+        "reviewed": true,
+        "method": "original_formal_affiliate_creative_gallery",
+        "observation": "緑瓶・脇田屋の白ラベル",
+        "capacityCompatible": true
+      },
+      "imageOriginalSha256": "8161ea73438ba65c188ccab4e8acc2ea404ead0dfa9101e6ba523eb08a1ee57f",
+      "gate": {
+        "ready": false,
+        "checks": {
+          "brewery": true,
+          "product": true,
+          "classification": true,
+          "identity": true,
+          "specs": true,
+          "specEvidence": true,
+          "capacity": true,
+          "stock": true,
+          "affiliate": true,
+          "image": true,
+          "sensory": true,
+          "pairing": true,
+          "night": true,
+          "duplicate": true,
+          "qa": false
+        },
+        "missing": [
+          "qa"
+        ],
+        "automaticPublicationAllowed": false
+      }
+    },
+    {
+      "sakeId": "tenjinbayashi-tokubetsu-honjozo-catalog-v1",
+      "candidateProductId": "candidate-0fceb86e34f0033d",
+      "name": "天神囃子 特別本醸造",
+      "capacityMl": 1800,
+      "normalUrl": "https://item.rakuten.co.jp/niigata-shop/0124-007-02/",
+      "visualEvidence": {
+        "reviewed": true,
+        "method": "original_formal_affiliate_creative_gallery",
+        "observation": "茶瓶・天神囃子特別本醸造1.8L",
+        "capacityCompatible": true
+      },
+      "imageOriginalSha256": "6f20190c0206167f0e3728afef51e430677441de40bd4bee0b2d9e675a56cd26",
+      "gate": {
+        "ready": false,
+        "checks": {
+          "brewery": true,
+          "product": true,
+          "classification": true,
+          "identity": true,
+          "specs": true,
+          "specEvidence": true,
+          "capacity": true,
+          "stock": true,
+          "affiliate": true,
+          "image": true,
+          "sensory": true,
+          "pairing": true,
+          "night": true,
+          "duplicate": true,
+          "qa": false
+        },
+        "missing": [
+          "qa"
+        ],
+        "automaticPublicationAllowed": false
+      }
+    },
+    {
+      "sakeId": "koshijifubuki-akiagari-2026-catalog-v1",
+      "candidateProductId": "candidate-f4acc13edf4d8a36",
+      "name": "越路吹雪 秋あがり 純米吟醸 2026",
+      "capacityMl": 720,
+      "normalUrl": "https://item.rakuten.co.jp/takano-shuzo/10000002/",
+      "visualEvidence": {
+        "reviewed": true,
+        "method": "original_formal_affiliate_creative_gallery",
+        "observation": "リスと紅葉の橙色秋あがり720ml",
+        "capacityCompatible": true
+      },
+      "imageOriginalSha256": "7890f01c640f26c78c284b9cf3c24b2b52ae55147ee83a3e0e15081618f137f6",
+      "gate": {
+        "ready": false,
+        "checks": {
+          "brewery": true,
+          "product": true,
+          "classification": true,
+          "identity": true,
+          "specs": true,
+          "specEvidence": true,
+          "capacity": true,
+          "stock": true,
+          "affiliate": true,
+          "image": true,
+          "sensory": true,
+          "pairing": true,
+          "night": true,
+          "duplicate": true,
+          "qa": false
+        },
+        "missing": [
+          "qa"
+        ],
+        "automaticPublicationAllowed": false
+      }
+    },
+    {
+      "sakeId": "kanbe-shiboritate-namachozo-catalog-v1",
+      "candidateProductId": "candidate-25953637e2661a96",
+      "name": "官兵衛 しぼりたて 生貯蔵酒",
+      "capacityMl": 1800,
+      "normalUrl": "https://item.rakuten.co.jp/izumise/011535/",
+      "visualEvidence": {
+        "reviewed": true,
+        "method": "original_formal_affiliate_creative_gallery",
+        "observation": "緑瓶・しぼりたて生貯蔵ラベル",
+        "capacityCompatible": true
+      },
+      "imageOriginalSha256": "f803ef8bd200895545c8a20c70444f4b383cd791644f467be68c555f586f143f",
+      "gate": {
+        "ready": false,
+        "checks": {
+          "brewery": true,
+          "product": true,
+          "classification": true,
+          "identity": true,
+          "specs": true,
+          "specEvidence": true,
+          "capacity": true,
+          "stock": true,
+          "affiliate": true,
+          "image": true,
+          "sensory": true,
+          "pairing": true,
+          "night": true,
+          "duplicate": true,
+          "qa": false
+        },
+        "missing": [
+          "qa"
+        ],
+        "automaticPublicationAllowed": false
+      }
+    },
+    {
+      "sakeId": "hokushika-akita-kasho-nigori-catalog-v1",
+      "candidateProductId": "candidate-e62a2f02bc3ce3f5",
+      "name": "北鹿 秋田華匠 にごり酒",
+      "capacityMl": 1800,
+      "normalUrl": "https://item.rakuten.co.jp/lw-hana/113964/",
+      "visualEvidence": {
+        "reviewed": true,
+        "method": "original_formal_affiliate_creative_gallery",
+        "observation": "緑瓶白にごり・秋田華匠すっきり旨甘口",
+        "capacityCompatible": true
+      },
+      "imageOriginalSha256": "b1cfe5259f5bd49650a853070f4f17326122f5aecae6744783a3f61567776405",
+      "gate": {
+        "ready": false,
+        "checks": {
+          "brewery": true,
+          "product": true,
+          "classification": true,
+          "identity": true,
+          "specs": true,
+          "specEvidence": true,
+          "capacity": true,
+          "stock": true,
+          "affiliate": true,
+          "image": true,
+          "sensory": true,
+          "pairing": true,
+          "night": true,
+          "duplicate": true,
+          "qa": false
+        },
+        "missing": [
+          "qa"
+        ],
+        "automaticPublicationAllowed": false
+      }
+    },
+    {
+      "sakeId": "koshino-happo-origarami-catalog-v1",
+      "candidateProductId": "candidate-d0f2ee87613be918",
+      "name": "越乃八豊 おりがらみ",
+      "capacityMl": 720,
+      "normalUrl": "https://item.rakuten.co.jp/echigo/113006/",
+      "visualEvidence": {
+        "reviewed": true,
+        "method": "original_formal_affiliate_creative_gallery",
+        "observation": "透明瓶青ラベル・おりがらみ",
+        "capacityCompatible": true
+      },
+      "imageOriginalSha256": "b27f0fceec937906c027207861681966fd4e5edabfcb1b14407903f3d423eff5",
+      "gate": {
+        "ready": false,
+        "checks": {
+          "brewery": true,
+          "product": true,
+          "classification": true,
+          "identity": true,
+          "specs": true,
+          "specEvidence": true,
+          "capacity": true,
+          "stock": true,
+          "affiliate": true,
+          "image": true,
+          "sensory": true,
+          "pairing": true,
+          "night": true,
+          "duplicate": true,
+          "qa": false
+        },
+        "missing": [
+          "qa"
+        ],
+        "automaticPublicationAllowed": false
+      }
+    },
+    {
+      "sakeId": "suehiro-yamahai-junmai-ginjo-catalog-v1",
+      "candidateProductId": "candidate-20ddf0948509aa6d",
+      "name": "末廣 山廃純米吟醸",
+      "capacityMl": 720,
+      "normalUrl": "https://item.rakuten.co.jp/hamadaya/1907041824/",
+      "visualEvidence": {
+        "reviewed": true,
+        "method": "original_formal_affiliate_creative_gallery",
+        "observation": "黒地金文字・山廃純米吟醸",
+        "capacityCompatible": true
+      },
+      "imageOriginalSha256": "55742be3cff41d0de900d69ce4d2fff30259f70e17d4f9397a1319adba4af956",
+      "gate": {
+        "ready": false,
+        "checks": {
+          "brewery": true,
+          "product": true,
+          "classification": true,
+          "identity": true,
+          "specs": true,
+          "specEvidence": true,
+          "capacity": true,
+          "stock": true,
+          "affiliate": true,
+          "image": true,
+          "sensory": true,
+          "pairing": true,
+          "night": true,
+          "duplicate": true,
+          "qa": false
+        },
+        "missing": [
+          "qa"
+        ],
+        "automaticPublicationAllowed": false
+      }
+    },
+    {
+      "sakeId": "kaishun-kimoto-yamaguchi-hiire-genshu-catalog-v1",
+      "candidateProductId": "candidate-4ace4f6edcc2d4d5",
+      "name": "開春 生酛山口 純米原酒 火入れ",
+      "capacityMl": 1800,
+      "normalUrl": "https://item.rakuten.co.jp/liquor-shop-sonoma/10002368/",
+      "visualEvidence": {
+        "reviewed": true,
+        "method": "original_formal_affiliate_creative_gallery",
+        "observation": "茶瓶黒地・開春生酛山口原酒",
+        "capacityCompatible": true
+      },
+      "imageOriginalSha256": "4b7e595eebcd9d052fc7195d68c7899f2ed98ed96c82e2df118e67c9ee86b873",
+      "gate": {
+        "ready": false,
+        "checks": {
+          "brewery": true,
+          "product": true,
+          "classification": true,
+          "identity": true,
+          "specs": true,
+          "specEvidence": true,
+          "capacity": true,
+          "stock": true,
+          "affiliate": true,
+          "image": true,
+          "sensory": true,
+          "pairing": true,
+          "night": true,
+          "duplicate": true,
+          "qa": false
+        },
+        "missing": [
+          "qa"
+        ],
+        "automaticPublicationAllowed": false
+      }
+    },
+    {
+      "sakeId": "utouto-junmai-catalog-v1",
+      "candidateProductId": "candidate-55e89b3353b24172",
+      "name": "うとうと 純米酒",
+      "capacityMl": 1800,
+      "normalUrl": "https://item.rakuten.co.jp/auc-yumeikan/1067/",
+      "visualEvidence": {
+        "reviewed": true,
+        "method": "original_formal_affiliate_creative_gallery",
+        "observation": "茶瓶・森うとうと純米1800ml",
+        "capacityCompatible": true
+      },
+      "imageOriginalSha256": "18840104f4b929e962365cccd9e6045c7afbf523f2b9aadd78692d4be0c60c02",
+      "gate": {
+        "ready": false,
+        "checks": {
+          "brewery": true,
+          "product": true,
+          "classification": true,
+          "identity": true,
+          "specs": true,
+          "specEvidence": true,
+          "capacity": true,
+          "stock": true,
+          "affiliate": true,
+          "image": true,
+          "sensory": true,
+          "pairing": true,
+          "night": true,
+          "duplicate": true,
+          "qa": false
+        },
+        "missing": [
+          "qa"
+        ],
+        "automaticPublicationAllowed": false
+      }
+    },
+    {
+      "sakeId": "kirai-gin-junmai-daiginjo-180-catalog-v1",
+      "candidateProductId": "candidate-f003f03225ea03f5",
+      "name": "きらい 銀 純米大吟醸",
+      "capacityMl": 180,
+      "normalUrl": "https://item.rakuten.co.jp/bcs-ls/4909090270187/",
+      "visualEvidence": {
+        "reviewed": true,
+        "method": "original_formal_affiliate_creative_gallery",
+        "observation": "銀ラベルきらい・商品JAN180ml対応",
+        "capacityCompatible": true
+      },
+      "imageOriginalSha256": "e41e0b959a334257ed443b16f97b680ae104cc51b829d7ad25bfa7dc45e3464e",
+      "gate": {
+        "ready": false,
+        "checks": {
+          "brewery": true,
+          "product": true,
+          "classification": true,
+          "identity": true,
+          "specs": true,
+          "specEvidence": true,
+          "capacity": true,
+          "stock": true,
+          "affiliate": true,
+          "image": true,
+          "sensory": true,
+          "pairing": true,
+          "night": true,
+          "duplicate": true,
+          "qa": false
+        },
+        "missing": [
+          "qa"
+        ],
+        "automaticPublicationAllowed": false
+      }
+    },
+    {
+      "sakeId": "keigetsu-extra-dry-tokubetsu-junmai60-catalog-v1",
+      "candidateProductId": "candidate-b78b83216cf4e260",
+      "name": "桂月 超辛口 特別純米酒60",
+      "capacityMl": 720,
+      "normalUrl": "https://item.rakuten.co.jp/manroku/0105tos-ck60/",
+      "visualEvidence": {
+        "reviewed": true,
+        "method": "original_formal_affiliate_creative_gallery",
+        "observation": "緑瓶・超辛口特別純米60",
+        "capacityCompatible": true
+      },
+      "imageOriginalSha256": "73745dba8069fe36d9f15265f4e123638e405bad32119e7fb30751ba9b6b65ac",
+      "gate": {
+        "ready": false,
+        "checks": {
+          "brewery": true,
+          "product": true,
+          "classification": true,
+          "identity": true,
+          "specs": true,
+          "specEvidence": true,
+          "capacity": true,
+          "stock": true,
+          "affiliate": true,
+          "image": true,
+          "sensory": true,
+          "pairing": true,
+          "night": true,
+          "duplicate": true,
+          "qa": false
+        },
+        "missing": [
+          "qa"
+        ],
+        "automaticPublicationAllowed": false
+      }
+    },
+    {
+      "sakeId": "hachitsuru-junmai-ginjo-catalog-v1",
+      "candidateProductId": "candidate-115a79822b3d2d5c",
+      "name": "八鶴 純米吟醸",
+      "capacityMl": 1800,
+      "normalUrl": "https://item.rakuten.co.jp/cepdor/hatiturujyunnmai/",
+      "visualEvidence": {
+        "reviewed": true,
+        "method": "original_formal_affiliate_creative_gallery",
+        "observation": "緑瓶白桃八鶴・1.8L",
+        "capacityCompatible": true
+      },
+      "imageOriginalSha256": "7c6fce9f3ec89712249ebe7b2324d73f6fc7ee25672933acaaaa589a3c35c3c8",
+      "gate": {
+        "ready": false,
+        "checks": {
+          "brewery": true,
+          "product": true,
+          "classification": true,
+          "identity": true,
+          "specs": true,
+          "specEvidence": true,
+          "capacity": true,
+          "stock": true,
+          "affiliate": true,
+          "image": true,
+          "sensory": true,
+          "pairing": true,
+          "night": true,
+          "duplicate": true,
+          "qa": false
+        },
+        "missing": [
+          "qa"
+        ],
+        "automaticPublicationAllowed": false
+      }
+    },
+    {
+      "sakeId": "sakuyabi14-junmai-ginjo-jikagumi-r7by-catalog-v1",
+      "candidateProductId": "candidate-0d1d9edf17d24d2e",
+      "name": "咲耶美 純米吟醸 直汲生原酒 14号酵母 R7BY",
+      "capacityMl": 720,
+      "normalUrl": "https://item.rakuten.co.jp/auc-horie/sakuyabi04/",
+      "visualEvidence": {
+        "reviewed": true,
+        "method": "original_formal_affiliate_creative_gallery",
+        "observation": "茶瓶緑咲耶美・直汲生原酒14号酵母720ml帯",
+        "capacityCompatible": true
+      },
+      "imageOriginalSha256": "16eb41bea50645a4f7336e19f87605eaf31f21dc82ab019bb768f7631cae9538",
+      "gate": {
+        "ready": false,
+        "checks": {
+          "brewery": true,
+          "product": true,
+          "classification": true,
+          "identity": true,
+          "specs": true,
+          "specEvidence": true,
+          "capacity": true,
+          "stock": true,
+          "affiliate": true,
+          "image": true,
+          "sensory": true,
+          "pairing": true,
+          "night": true,
+          "duplicate": true,
+          "qa": false
+        },
+        "missing": [
+          "qa"
+        ],
+        "automaticPublicationAllowed": false
+      }
+    },
+    {
+      "sakeId": "tonegawa-sodachi-junmai-ginjo-catalog-v1",
+      "candidateProductId": "candidate-24333cc5c7fa1237",
+      "name": "利根川育ち 純米吟醸",
+      "capacityMl": 1800,
+      "normalUrl": "https://item.rakuten.co.jp/heartful/tonegawa-1800/",
+      "visualEvidence": {
+        "reviewed": true,
+        "method": "original_formal_affiliate_creative_gallery",
+        "observation": "緑瓶白・利根川育ち純米吟醸",
+        "capacityCompatible": true
+      },
+      "imageOriginalSha256": "3a0ac48bca7bf488e53e70050a3d9bed9c7e78bfe88a789314b80950602138dc",
+      "gate": {
+        "ready": false,
+        "checks": {
+          "brewery": true,
+          "product": true,
+          "classification": true,
+          "identity": true,
+          "specs": true,
+          "specEvidence": true,
+          "capacity": true,
+          "stock": true,
+          "affiliate": true,
+          "image": true,
+          "sensory": true,
+          "pairing": true,
+          "night": true,
+          "duplicate": true,
+          "qa": false
+        },
+        "missing": [
+          "qa"
+        ],
+        "automaticPublicationAllowed": false
+      }
+    },
+    {
+      "sakeId": "gonin-musume-junmai-catalog-v1",
+      "candidateProductId": "candidate-dacc93b8599aa90e",
+      "name": "五人娘 純米酒",
+      "capacityMl": 720,
+      "normalUrl": "https://item.rakuten.co.jp/shinpudo/01-terada-03-2/",
+      "visualEvidence": {
+        "reviewed": true,
+        "method": "original_formal_affiliate_creative_gallery",
+        "observation": "茶瓶黒白・自然酒五人娘",
+        "capacityCompatible": true
+      },
+      "imageOriginalSha256": "9ffb26974e4172b363b1f505be05ba4fa6254da55d9257b6e819e74f69777502",
+      "gate": {
+        "ready": false,
+        "checks": {
+          "brewery": true,
+          "product": true,
+          "classification": true,
+          "identity": true,
+          "specs": true,
+          "specEvidence": true,
+          "capacity": true,
+          "stock": true,
+          "affiliate": true,
+          "image": true,
+          "sensory": true,
+          "pairing": true,
+          "night": true,
+          "duplicate": true,
+          "qa": false
+        },
+        "missing": [
+          "qa"
+        ],
+        "automaticPublicationAllowed": false
+      }
+    },
+    {
+      "sakeId": "sakari-masu-tokubetsu-junmai-catalog-v1",
+      "candidateProductId": "candidate-8440b2acfb155bb4",
+      "name": "盛升 特別純米酒",
+      "capacityMl": 1800,
+      "normalUrl": "https://item.rakuten.co.jp/liquorshopohno/18440/",
+      "visualEvidence": {
+        "reviewed": true,
+        "method": "original_formal_affiliate_creative_gallery",
+        "observation": "緑瓶・盛升特別純米",
+        "capacityCompatible": true
+      },
+      "imageOriginalSha256": "558dcff76f03558e067b9ceaa5542479049b0bccdd302a11ccb171a04d7beab8",
+      "gate": {
+        "ready": false,
+        "checks": {
+          "brewery": true,
+          "product": true,
+          "classification": true,
+          "identity": true,
+          "specs": true,
+          "specEvidence": true,
+          "capacity": true,
+          "stock": true,
+          "affiliate": true,
+          "image": true,
+          "sensory": true,
+          "pairing": true,
+          "night": true,
+          "duplicate": true,
+          "qa": false
+        },
+        "missing": [
+          "qa"
+        ],
+        "automaticPublicationAllowed": false
+      }
+    },
+    {
+      "sakeId": "hokusetsu-hikari-centrifuge-junmai-daiginjo-catalog-v1",
+      "candidateProductId": "candidate-8e97432ee30d07f9",
+      "name": "北雪 越淡麗 光 遠心分離 純米大吟醸",
+      "capacityMl": 720,
+      "normalUrl": "https://item.rakuten.co.jp/niigata/hokusetsu-kou-enshin-720/",
+      "visualEvidence": {
+        "reviewed": true,
+        "method": "original_formal_affiliate_creative_gallery",
+        "observation": "赤瓶黒金光遠心分離・720ml箱",
+        "capacityCompatible": true
+      },
+      "imageOriginalSha256": "2d27f778d077ff1e47b2116242b985a6b13fefa9581103720fb31a44f67da387",
+      "gate": {
+        "ready": false,
+        "checks": {
+          "brewery": true,
+          "product": true,
+          "classification": true,
+          "identity": true,
+          "specs": true,
+          "specEvidence": true,
+          "capacity": true,
+          "stock": true,
+          "affiliate": true,
+          "image": true,
+          "sensory": true,
+          "pairing": true,
+          "night": true,
+          "duplicate": true,
+          "qa": false
+        },
+        "missing": [
+          "qa"
+        ],
+        "automaticPublicationAllowed": false
+      }
+    },
+    {
+      "sakeId": "obasute-masamune-junmai-karakuchi-catalog-v1",
+      "candidateProductId": "candidate-56b74a3e9430b7a6",
+      "name": "純米辛口 姨捨正宗",
+      "capacityMl": 720,
+      "normalUrl": "https://item.rakuten.co.jp/donguri-n/4933366092708/",
+      "visualEvidence": {
+        "reviewed": true,
+        "method": "original_formal_affiliate_creative_gallery",
+        "observation": "茶瓶赤・純米辛口姨捨正宗720ml箱",
+        "capacityCompatible": true
+      },
+      "imageOriginalSha256": "0c53365b7b9150756c07934f7dd23227a6b58698ffa48e0fc8743c44c81a0670",
+      "gate": {
+        "ready": false,
+        "checks": {
+          "brewery": true,
+          "product": true,
+          "classification": true,
+          "identity": true,
+          "specs": true,
+          "specEvidence": true,
+          "capacity": true,
+          "stock": true,
+          "affiliate": true,
+          "image": true,
+          "sensory": true,
+          "pairing": true,
+          "night": true,
+          "duplicate": true,
+          "qa": false
+        },
+        "missing": [
+          "qa"
+        ],
+        "automaticPublicationAllowed": false
+      }
+    },
+    {
+      "sakeId": "waraijogo-junmai-daiginjo-catalog-v1",
+      "candidateProductId": "candidate-cee9c8873335fa72",
+      "name": "純米大吟醸 笑いじょうご",
+      "capacityMl": 720,
+      "normalUrl": "https://item.rakuten.co.jp/saketakuhida/1632567000/",
+      "visualEvidence": {
+        "reviewed": true,
+        "method": "original_formal_affiliate_creative_gallery",
+        "observation": "茶瓶白顔文字・笑いじょうご",
+        "capacityCompatible": true
+      },
+      "imageOriginalSha256": "ebc9f1b45f5b01fcab7490e8f8a2669f3b9261c9f6f123aa5940f038c1a1e4cf",
+      "gate": {
+        "ready": false,
+        "checks": {
+          "brewery": true,
+          "product": true,
+          "classification": true,
+          "identity": true,
+          "specs": true,
+          "specEvidence": true,
+          "capacity": true,
+          "stock": true,
+          "affiliate": true,
+          "image": true,
+          "sensory": true,
+          "pairing": true,
+          "night": true,
+          "duplicate": true,
+          "qa": false
+        },
+        "missing": [
+          "qa"
+        ],
+        "automaticPublicationAllowed": false
+      }
+    }
+  ]
+}
