@@ -1,0 +1,200 @@
+{
+  "businessDate": "2026-10-20",
+  "checkedAt": "2026-10-19T23:41:30.875Z",
+  "before": {
+    "checkedAt": "2026-10-19T22:57:39.776Z",
+    "businessDate": "2026-10-20",
+    "sourceCommit": "ff821a056803fb6744036f2e61886f84d05aa259",
+    "active": 517,
+    "totalCatalogProducts": 517,
+    "inactive": 0,
+    "archived": 0,
+    "legacyReferenceCount": 234,
+    "legacyReferenceStatuses": {
+      "replaced_archive": 218,
+      "same_product_alias": 14,
+      "excluded_archive": 2
+    },
+    "legacyReferencesAreNotFullCatalogRecords": true,
+    "breweries": 364,
+    "prefectures": 46,
+    "prefectureMissing": 11,
+    "directLinks": 403,
+    "formalImages": 395,
+    "candidateRemaining": 28,
+    "reviewedSeasonalProducts": 2,
+    "seasonalNameHints": 2,
+    "groups": {
+      "A": 395,
+      "B": 8,
+      "C": 0,
+      "D": 114
+    },
+    "directLinkRate": 0.7794970986460348,
+    "formalImageRate": 0.7640232108317214,
+    "stockIsNotReconfirmedByThisInventory": true,
+    "prefectureAwareBrewerySlots": 366
+  },
+  "after": {
+    "checkedAt": "2026-10-19T23:33:09.817Z",
+    "businessDate": "2026-10-20",
+    "sourceCommit": "ff821a056803fb6744036f2e61886f84d05aa259",
+    "active": 517,
+    "totalCatalogProducts": 517,
+    "inactive": 0,
+    "archived": 0,
+    "legacyReferenceCount": 234,
+    "legacyReferenceStatuses": {
+      "replaced_archive": 218,
+      "same_product_alias": 14,
+      "excluded_archive": 2
+    },
+    "legacyReferencesAreNotFullCatalogRecords": true,
+    "breweries": 364,
+    "prefectureAwareBrewerySlots": 366,
+    "sameNameDifferentPrefecture": [
+      {
+        "normalizedName": "高木酒造",
+        "prefectures": [
+          "山形県",
+          "高知県"
+        ],
+        "sakeIds": [
+          "juyondai-honmaru",
+          "juyondai-modern-premium",
+          "toyonoume-yoiyoi-junmai-ginjo-v1"
+        ]
+      },
+      {
+        "normalizedName": "小林酒造",
+        "prefectures": [
+          "栃木県",
+          "北海道"
+        ],
+        "sakeIds": [
+          "hououbiden-tsurugi-hiire-v1",
+          "kitanonishiki-maruta-tokubetsu-junmai-v1"
+        ]
+      }
+    ],
+    "prefectures": 46,
+    "prefectureMissing": 11,
+    "directLinks": 400,
+    "formalImages": 397,
+    "candidateRemaining": 28,
+    "reviewedSeasonalProducts": 2,
+    "seasonalNameHints": 2,
+    "groups": {
+      "A": 395,
+      "B": 5,
+      "C": 2,
+      "D": 115
+    },
+    "directLinkRate": 0.7736943907156673,
+    "formalImageRate": 0.7678916827852998,
+    "stockIsNotReconfirmedByThisInventory": true
+  },
+  "newProducts": 0,
+  "newBreweries": 0,
+  "seasonalAdditions": 0,
+  "standardAdditions": 0,
+  "inactiveChanges": 0,
+  "archiveChanges": 0,
+  "skuReplacements": 0,
+  "newCandidateProducts": 0,
+  "candidateRemaining": 28,
+  "missingLinkRescues": 0,
+  "missingImageRescues": 3,
+  "alternativeMerchantRescues": 7,
+  "alternativeMerchantStockRescues": 4,
+  "purchaseHolds": 3,
+  "retainedFormalImageRecords": 398,
+  "visibleFormalImages": 397,
+  "currentStockConfirmed": 393,
+  "stockUnconfirmed": 7,
+  "currentStockControlsAreNotFreshSkuRecertification": true,
+  "existingProductObjectsUnchanged": true,
+  "automaticPublicationAllowed": false,
+  "weeklyMonitoringEnabled": false,
+  "scheduledExecutionEnabled": false,
+  "nextSeasonalWindow": {
+    "id": "winter",
+    "name": "冬",
+    "startMonth": 11,
+    "startDay": 20,
+    "endMonth": 12,
+    "endDay": 31,
+    "focus": [
+      "新酒",
+      "しぼりたて",
+      "生原酒",
+      "初しぼり",
+      "にごり",
+      "冬限定",
+      "燗向き定番酒"
+    ],
+    "year": 2026,
+    "opensOn": "2026-11-20",
+    "closesOn": "2026-12-31",
+    "current": false,
+    "execution": "MANUAL_REVIEW_ONLY",
+    "scheduled": false
+  },
+  "commerceReviewHorizon": {
+    "earliestValidUntil": "2026-11-13T06:24:31.767Z",
+    "manualPreflightDueOn": "2026-11-06",
+    "expiresBeforeNextSeasonalWindow": true,
+    "expiredRecords": 0,
+    "internalReviewDeadlineNotProviderLicenseTerm": true,
+    "automaticExtensionAllowed": false,
+    "scheduled": false
+  },
+  "codeChecks": {
+    "checkedAt": "2026-10-19T23:38:58.189Z",
+    "rows": [
+      {
+        "name": "tests",
+        "checkedAt": "2026-10-19T23:38:54.875Z",
+        "passed": true,
+        "exitCode": 0,
+        "testCount": 118,
+        "testPass": 118
+      },
+      {
+        "name": "typecheck",
+        "checkedAt": "2026-10-19T23:38:57.798Z",
+        "passed": true,
+        "exitCode": 0,
+        "testCount": null,
+        "testPass": null
+      },
+      {
+        "name": "lint",
+        "checkedAt": "2026-10-19T23:38:58.188Z",
+        "passed": true,
+        "exitCode": 0,
+        "testCount": null,
+        "testPass": null
+      }
+    ],
+    "passed": true,
+    "lintIsExistingCustomCheckNotEslint": true
+  },
+  "build": {
+    "startedAt": "2026-10-19T23:33:54.380Z",
+    "checkedAt": "2026-10-19T23:36:02.341Z",
+    "passed": true,
+    "framework": "Next.js 16.3.8",
+    "bundler": "webpack",
+    "cspModified": false,
+    "dependenciesUpdated": false,
+    "productionEquivalentNonSecretCommerceFlags": true
+  },
+  "realDeviceTested": false,
+  "productionPublished": false,
+  "localQa": {
+    "browserChecks": 210,
+    "httpChecks": 19,
+    "passed": true
+  }
+}

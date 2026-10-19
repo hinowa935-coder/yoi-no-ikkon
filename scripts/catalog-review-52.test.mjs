@@ -11,6 +11,7 @@ const read=p=>JSON.parse(fs.readFileSync(new URL('../'+p,import.meta.url)));
 const hash=v=>createHash('sha256').update(typeof v==='string'?v:JSON.stringify(v)).digest('hex');
 const audit=read('docs/catalog-review-52/adjudications.json'),baseline=read('docs/catalog-review-52/baseline-integrity.json'),newItems=read('src/data/catalogAdditions.json').items.filter(i=>audit.rows.some(a=>a.sakeId===i.id));
 const pool=read('data/catalog-operations/candidates.json');
+const shelfBatch=read('data/catalog-operations/seasonal-shelf-batches.json');
 
 test('the immutable fixed cohort has a specific outcome for every candidate without reset',()=>{
  const outcomes=['ACTIVE','PRODUCTION_READY_BUT_NOT_PUBLISHED','WAITING_FOR_COMMERCIAL_IMAGE','WAITING_FOR_STOCK','OFFICIAL_CONFIRMATION_WEAK','SPEC_UNRESOLVED','SENSORY_EVIDENCE_INSUFFICIENT','PAIRING_EVIDENCE_INSUFFICIENT','VARIANT_CONFLICT','DUPLICATE_EXISTING_PRODUCT','NO_VALID_RAKUTEN_PRODUCT','REJECTED'];
@@ -22,7 +23,11 @@ test('all prior product identities, Verified fields, commerce and PWA stay intac
  for(const [file,expected]of Object.entries(baseline.wholeFiles))assert.equal(hash(fs.readFileSync(new URL('../'+file,import.meta.url),'utf8').replaceAll('\r\n','\n')),expected,file);
  const additions=read('src/data/catalogAdditions.json').items;
  for(const [id,expected]of Object.entries(baseline.priorAdditions))assert.equal(hash(additions.find(x=>x.id===id)),expected);
- for(const [file,records]of Object.entries(baseline.records)){const current=read(file),map=file.endsWith('product-media.json')||file.endsWith('merchant-links.json')?current.records:current;for(const[id,expected]of Object.entries(records))assert.equal(hash(map[id]),expected,file+' '+id);}
+ for(const [file,records]of Object.entries(baseline.records)){const current=read(file),map=file.endsWith('product-media.json')||file.endsWith('merchant-links.json')?current.records:current;for(const[id,expected]of Object.entries(records)){
+  const actual=hash(map[id]);
+  const approved=shelfBatch.reviewed&&shelfBatch.commerceChanges.find(change=>change.file===file&&change.sakeId===id&&change.beforeSha256===expected&&change.afterSha256===actual);
+  assert(actual===expected||approved,file+' '+id+' must match baseline or an explicitly audited later commerce-only update');
+ }}
  assert.equal(hash(read('src/commerce/generated/commerce-final-approvals.json').links.slice(0,baseline.approvalCount)),baseline.approvalHash);
  assert.equal(allSakePairings.length,baseline.products+newItems.length);assert.equal(new Set(allSakePairings.map(i=>i.id)).size,allSakePairings.length);
 });

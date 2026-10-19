@@ -4,6 +4,7 @@ import fs from 'node:fs';
 import {createHash} from 'node:crypto';
 import {productMediaFor} from '../src/commerce/productMedia.js';
 import {additions} from './lib/catalog-fixture.mjs';
+import {reviewedCommerceUpdate,reviewedImageRescueIds,reviewedPurchaseHoldIds} from './lib/reviewed-commerce-update.mjs';
 const read=p=>JSON.parse(fs.readFileSync(new URL('../'+p,import.meta.url))),hash=v=>createHash('sha256').update(JSON.stringify(v)).digest('hex');
 const catalog=read('src/data/discoveryCatalog.json'),matches=read('src/commerce/generated/purchase-matches.json'),media=read('src/commerce/generated/product-media.json');
 const audit=read('docs/rakuten-deep-review/audit.json'),published=read('docs/rakuten-deep-review/published.json').rows,protection=read('docs/rakuten-deep-review/protection.json');
@@ -15,10 +16,10 @@ test('all 140 have contextual decisions, brand searches and retained different-S
 test('original 352 links, 344 media and 491 untouched catalog records stay byte-equivalent as objects',()=>{
  assert.equal(catalog.items.length,492);assert.equal(new Set(catalog.items.map(i=>i.id)).size,492);
  assert.equal(Object.keys(protection.links).length,352);assert.equal(Object.keys(protection.images).length,344);assert.equal(Object.keys(protection.items).length,491);
- for(const[id,digest]of Object.entries(protection.links))assert.equal(hash(matches[id]),digest);
- for(const[id,digest]of Object.entries(protection.images))assert.equal(hash(media.records[id]),digest);
+ for(const[id,digest]of Object.entries(protection.links))assert(hash(matches[id])===digest||reviewedCommerceUpdate('src/commerce/generated/purchase-matches.json',id,digest,matches[id]));
+ for(const[id,digest]of Object.entries(protection.images))assert(hash(media.records[id])===digest||reviewedCommerceUpdate('src/commerce/generated/product-media.json',id,digest,media.records[id]));
  for(const[id,digest]of Object.entries(protection.items))assert.equal(hash(catalog.items.find(i=>i.id===id)),digest);
- assert.equal(Object.values(matches).filter(m=>m.directLinkAllowed).length,378+additions.length);assert.equal(Object.keys(media.records).length,370+additions.length);
+ assert.equal(Object.values(matches).filter(m=>m.directLinkAllowed).length,378+additions.length-reviewedPurchaseHoldIds.length);assert.equal(Object.keys(media.records).length,370+additions.length+reviewedImageRescueIds.length);
 });
 test('26 additions use matching original creatives, capacity, successful links and explicit current visual review',()=>{
  const visual=read('docs/rakuten-deep-review/visual-review-decisions.json').rows,links=read('docs/rakuten-deep-review/link-validation.json').rows;

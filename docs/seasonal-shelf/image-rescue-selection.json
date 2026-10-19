@@ -1,0 +1,10 @@
+{
+  "reviewScope": "same product and capacity; commerce only, no Verified/specification edits",
+  "targets": [
+    {"sakeId":"amabuki-flower-yeast","normalUrl":"https://item.rakuten.co.jp/urakawa-2008/10010392/","itemCode":"urakawa-2008:10010392","capacityMl":720},
+    {"sakeId":"yuki-no-bosha-junmai-ginjo","normalUrl":"https://item.rakuten.co.jp/ono-sake/yukinobousya-junmaigin720/","itemCode":"ono-sake:10002629","capacityMl":720},
+    {"sakeId":"masuizumi-junmai-ginjo","normalUrl":"https://item.rakuten.co.jp/mighty-liquors/10005670/","itemCode":"mighty-liquors:10005670","capacityMl":1800},
+    {"sakeId":"kaiun-tokubetsu-junmai","normalUrl":"https://item.rakuten.co.jp/hanatareya/4103502/","itemCode":"hanatareya:10000487","capacityMl":720},
+    {"sakeId":"nishinoseki-junmai-ginjo-bigin-v1","normalUrl":"https://item.rakuten.co.jp/kinko/037493/","itemCode":"kinko:10030242","capacityMl":1800}
+  ]
+}

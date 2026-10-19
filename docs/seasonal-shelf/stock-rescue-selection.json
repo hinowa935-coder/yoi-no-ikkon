@@ -1,0 +1,9 @@
+{
+  "targets": [
+    {"sakeId":"tenbi-junmai-ginjo","normalUrl":"https://item.rakuten.co.jp/meishu-honpo/17502/","itemCode":"meishu-honpo:10005075","capacityMl":720},
+    {"sakeId":"kokuryu-junmai-ginjo-1","normalUrl":"https://item.rakuten.co.jp/auc-chitashige/35022301/","itemCode":"auc-chitashige:10011602","capacityMl":720},
+    {"sakeId":"morishima-miyamanishiki-junmai-ginjo-hiire-v1","normalUrl":"https://item.rakuten.co.jp/mighty-liquors/sa192009/","itemCode":"mighty-liquors:10006648","capacityMl":1800},
+    {"sakeId":"minami-junmai-ginjo-matsuyamamitsui-standard-v1","normalUrl":"https://item.rakuten.co.jp/mashidayahonten/1534/","itemCode":"mashidayahonten:10004332","capacityMl":720},
+    {"sakeId":"narutotai-junmai-tomoe-v1","normalUrl":"https://item.rakuten.co.jp/tsutaya/20250910/","itemCode":"tsutaya:10025340","capacityMl":1800}
+  ]
+}

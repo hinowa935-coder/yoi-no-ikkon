@@ -1,0 +1,9 @@
+{
+  "schemaVersion": 1,
+  "automaticRestorationAllowed": false,
+  "records": {
+    "shichihonyari-lvvrsw": {"purchaseBlocked": true, "hideImage": true, "status": "PAGE_UNAVAILABLE", "reviewedOn": "2026-10-20"},
+    "kurawanka-junmai-usunigori-v1": {"purchaseBlocked": true, "hideImage": false, "status": "TEMPORARILY_UNAVAILABLE", "reviewedOn": "2026-10-20"},
+    "minami-junmai-ginjo-matsuyamamitsui-standard-v1": {"purchaseBlocked": true, "hideImage": false, "status": "CURRENT_SAME_SKU_UNCONFIRMED", "reviewedOn": "2026-10-20"}
+  }
+}

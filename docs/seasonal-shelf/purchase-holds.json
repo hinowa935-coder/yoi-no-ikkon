@@ -1,0 +1,103 @@
+{
+  "checkedAt": "2026-10-19T23:32:03.474Z",
+  "rows": [
+    {
+      "sakeId": "shichihonyari-lvvrsw",
+      "previousNormalUrl": "https://item.rakuten.co.jp/hasegawasaketen/1003411/",
+      "reviewedOn": "2026-10-20",
+      "state": "UNCONFIRMED_NOT_ABSENCE",
+      "httpStatus": 404,
+      "searches": [
+        {
+          "query": "七本鎗 無農薬純米 無有 720ml",
+          "ok": true,
+          "error": null,
+          "count": 0,
+          "checkedAt": "2026-10-19T23:24:11.540Z"
+        },
+        {
+          "query": "七本鎗 純米酒 720ml",
+          "ok": true,
+          "error": null,
+          "count": 12,
+          "checkedAt": "2026-10-19T23:24:12.650Z"
+        },
+        {
+          "query": "七本鎗 無有",
+          "ok": true,
+          "error": null,
+          "count": 3,
+          "checkedAt": "2026-10-19T23:29:20.818Z"
+        }
+      ],
+      "productRetained": true,
+      "lifecycleChanged": false,
+      "permissionRevoked": false,
+      "officialDiscontinuationConfirmed": false,
+      "reason": "ブラウザでも削除/URL変更のエラーを確認。無有1800mlは見つかったが720mlとは容量が異なり、玉栄通常品や渡船へ自動差替えしない。"
+    },
+    {
+      "sakeId": "kurawanka-junmai-usunigori-v1",
+      "previousNormalUrl": "https://item.rakuten.co.jp/meishu-honpo/26207/",
+      "reviewedOn": "2026-10-20",
+      "state": "ONE_MERCHANT_SOLD_OUT_REQUIRES_ALTERNATIVES",
+      "httpStatus": 200,
+      "searches": [
+        {
+          "query": "くらわんか 純米酒 うすにごり 720ml",
+          "ok": true,
+          "error": null,
+          "count": 2,
+          "checkedAt": "2026-10-19T23:24:18.503Z"
+        },
+        {
+          "query": "くらわんか 純米酒 720ml",
+          "ok": true,
+          "error": null,
+          "count": 2,
+          "checkedAt": "2026-10-19T23:24:19.599Z"
+        }
+      ],
+      "productRetained": true,
+      "lifecycleChanged": false,
+      "permissionRevoked": false,
+      "officialDiscontinuationConfirmed": false,
+      "reason": "同一720mlの2店舗候補は販売在庫なし。終売は未確認で、再入荷・別店舗確認待ち。"
+    },
+    {
+      "sakeId": "minami-junmai-ginjo-matsuyamamitsui-standard-v1",
+      "previousNormalUrl": "https://item.rakuten.co.jp/yamasake/10002648/",
+      "reviewedOn": "2026-10-20",
+      "state": "ONE_MERCHANT_SOLD_OUT_REQUIRES_ALTERNATIVES",
+      "httpStatus": 200,
+      "searches": [
+        {
+          "query": "南 純米吟醸 松山三井 720ml",
+          "ok": true,
+          "error": null,
+          "count": 4,
+          "checkedAt": "2026-10-19T23:24:20.766Z"
+        },
+        {
+          "query": "南 純米吟醸酒 720ml",
+          "ok": true,
+          "error": null,
+          "count": 410,
+          "checkedAt": "2026-10-19T23:24:21.938Z"
+        },
+        {
+          "query": "南酒造場 松山三井",
+          "ok": true,
+          "error": null,
+          "count": 21,
+          "checkedAt": "2026-10-19T23:29:20.967Z"
+        }
+      ],
+      "productRetained": true,
+      "lifecycleChanged": false,
+      "permissionRevoked": false,
+      "officialDiscontinuationConfirmed": false,
+      "reason": "元店舗は売切れ。別店は米の指定不可、他候補は無濾過生・吟の夢・特別純米等で松山三井の登録商品と確定できない。"
+    }
+  ]
+}

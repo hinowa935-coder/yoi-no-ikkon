@@ -1,0 +1,35 @@
+{
+  "checkedAt": "2026-10-19T23:41:30.055Z",
+  "priorProductObjects": 517,
+  "currentProductObjects": 517,
+  "allProductObjectsUnchanged": true,
+  "priorProductFingerprint": "21631d7134a02ba8c1f69e28ce0cbbd1d38f8dc71c3df34207946aa5112b60fa",
+  "currentProductFingerprint": "21631d7134a02ba8c1f69e28ce0cbbd1d38f8dc71c3df34207946aa5112b60fa",
+  "sameNameDifferentPrefecture": [
+    {
+      "normalizedName": "高木酒造",
+      "prefectures": [
+        "山形県",
+        "高知県"
+      ],
+      "sakeIds": [
+        "juyondai-honmaru",
+        "juyondai-modern-premium",
+        "toyonoume-yoiyoi-junmai-ginjo-v1"
+      ]
+    },
+    {
+      "normalizedName": "小林酒造",
+      "prefectures": [
+        "栃木県",
+        "北海道"
+      ],
+      "sakeIds": [
+        "hououbiden-tsurugi-hiire-v1",
+        "kitanonishiki-maruta-tokubetsu-junmai-v1"
+      ]
+    }
+  ],
+  "normalizedNameKeys": 364,
+  "prefectureAwareBrewerySlots": 366
+}

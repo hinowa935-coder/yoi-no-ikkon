@@ -21,6 +21,7 @@ import {Suspense} from 'react';
 import SakeDiscoveryContext from '../../components/SakeDiscoveryContext.jsx';
 import merchantAudit from '../../../commerce/generated/merchant-links.json';
 import {eligibleSensoryEvidence} from '../../../catalog/operations.js';
+import {purchaseUnavailable} from '../../../commerce/availability.js';
 
 export function generateStaticParams() {
   return [...new Set([...allSakePairings.map(i => i.id), ...legacyReferences.map(e => e.legacyId)])].map(slug => ({ slug }));
@@ -77,6 +78,7 @@ export default async function SakePage({ params }) {
     </section>
     <section className="detail-band purchase-discovery" aria-labelledby="sake-purchase">
       <h2 id="sake-purchase">購入先</h2>
+      {purchaseUnavailable(item.id)&&<p className="muted-copy">現在、同じ商品の購入先を確認中です。ほかの販売店を探す場合は、商品名・容量・仕様をご確認ください。</p>}
       <PurchaseOptions offers={commerce.offers} links={commerce.discoveryLinks} item={item} />
     </section>
     <section className="detail-band brewery-information" aria-labelledby="sake-brewery">

@@ -1,0 +1,71 @@
+{
+  "checkedAt": "2026-10-19T23:02:01.321Z",
+  "requests": [
+    {
+      "startedAt": "2026-10-19T23:00:28.836Z",
+      "status": 200
+    },
+    {
+      "startedAt": "2026-10-19T23:00:29.992Z",
+      "status": 200
+    },
+    {
+      "startedAt": "2026-10-19T23:00:31.150Z",
+      "status": 200
+    },
+    {
+      "startedAt": "2026-10-19T23:00:32.310Z",
+      "status": 200
+    },
+    {
+      "startedAt": "2026-10-19T23:00:33.472Z",
+      "status": 200
+    },
+    {
+      "startedAt": "2026-10-19T23:00:34.635Z",
+      "status": 200
+    },
+    {
+      "startedAt": "2026-10-19T23:00:35.801Z",
+      "status": 200
+    },
+    {
+      "startedAt": "2026-10-19T23:00:36.955Z",
+      "status": 200
+    },
+    {
+      "startedAt": "2026-10-19T23:00:38.111Z",
+      "status": 200
+    },
+    {
+      "startedAt": "2026-10-19T23:00:39.269Z",
+      "status": 200
+    },
+    {
+      "startedAt": "2026-10-19T23:00:40.426Z",
+      "status": 200
+    },
+    {
+      "startedAt": "2026-10-19T23:00:41.587Z",
+      "status": 200
+    },
+    {
+      "startedAt": "2026-10-19T23:00:42.748Z",
+      "status": 200
+    },
+    {
+      "startedAt": "2026-10-19T23:00:43.907Z",
+      "status": 200
+    },
+    {
+      "startedAt": "2026-10-19T23:02:00.058Z",
+      "status": 200
+    },
+    {
+      "startedAt": "2026-10-19T23:02:01.222Z",
+      "status": 200
+    }
+  ],
+  "minimumIntervalMs": 1164,
+  "allOtherActiveProductsNotSearched": true
+}

@@ -1,0 +1,132 @@
+{
+  "checkedAt": "2026-10-19T23:39:30.712Z",
+  "base": "http://127.0.0.1:3196",
+  "rows": [
+    {
+      "route": "/",
+      "status": 200,
+      "sameCsp": true,
+      "bodyPresent": true,
+      "passed": true
+    },
+    {
+      "route": "/search",
+      "status": 200,
+      "sameCsp": true,
+      "bodyPresent": true,
+      "passed": true
+    },
+    {
+      "route": "/discover",
+      "status": 200,
+      "sameCsp": true,
+      "bodyPresent": true,
+      "passed": true
+    },
+    {
+      "route": "/food",
+      "status": 200,
+      "sameCsp": true,
+      "bodyPresent": true,
+      "passed": true
+    },
+    {
+      "route": "/ochoko",
+      "status": 200,
+      "sameCsp": true,
+      "bodyPresent": true,
+      "passed": true
+    },
+    {
+      "route": "/about",
+      "status": 200,
+      "sameCsp": true,
+      "bodyPresent": true,
+      "passed": true
+    },
+    {
+      "route": "/sake/amabuki-flower-yeast",
+      "status": 200,
+      "sameCsp": true,
+      "bodyPresent": true,
+      "passed": true
+    },
+    {
+      "route": "/sake/yuki-no-bosha-junmai-ginjo",
+      "status": 200,
+      "sameCsp": true,
+      "bodyPresent": true,
+      "passed": true
+    },
+    {
+      "route": "/sake/masuizumi-junmai-ginjo",
+      "status": 200,
+      "sameCsp": true,
+      "bodyPresent": true,
+      "passed": true
+    },
+    {
+      "route": "/sake/tenbi-junmai-ginjo",
+      "status": 200,
+      "sameCsp": true,
+      "bodyPresent": true,
+      "passed": true
+    },
+    {
+      "route": "/sake/kokuryu-junmai-ginjo-1",
+      "status": 200,
+      "sameCsp": true,
+      "bodyPresent": true,
+      "passed": true
+    },
+    {
+      "route": "/sake/morishima-miyamanishiki-junmai-ginjo-hiire-v1",
+      "status": 200,
+      "sameCsp": true,
+      "bodyPresent": true,
+      "passed": true
+    },
+    {
+      "route": "/sake/narutotai-junmai-tomoe-v1",
+      "status": 200,
+      "sameCsp": true,
+      "bodyPresent": true,
+      "passed": true
+    },
+    {
+      "route": "/sake/ginban-i4si9d",
+      "status": 200,
+      "sameCsp": true,
+      "bodyPresent": true,
+      "passed": true
+    },
+    {
+      "route": "/sake/koshino-kagetora-junmai-standard-v1",
+      "status": 200,
+      "sameCsp": true,
+      "bodyPresent": true,
+      "passed": true
+    },
+    {
+      "route": "/.env.local",
+      "status": 404,
+      "passed": true
+    },
+    {
+      "route": "/data/catalog-operations/seasonal-shelf-batches.json",
+      "status": 404,
+      "passed": true
+    },
+    {
+      "route": "/docs/seasonal-shelf/rescue-audit.json",
+      "status": 404,
+      "passed": true
+    },
+    {
+      "route": "/sitemap.xml",
+      "sakeCount": 517,
+      "passed": true
+    }
+  ],
+  "passed": true
+}

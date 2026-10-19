@@ -1,0 +1,10 @@
+{
+  "reviewedOn": "2026-10-20",
+  "method": "正式ツールの240px/80px原本を非公開の比較画面で確認。画像のコピー・加工・再配信なし。",
+  "rows": [
+    {"sakeId":"amabuki-flower-yeast","approved":true,"capacityMl":720,"normalUrl":"https://item.rakuten.co.jp/urakawa-2008/10010392/","identityEvidence":"天吹・純米吟醸・いちご酵母・生が販売対象とラベルで一致。720mlの単品。","visualEvidence":"青い瓶、いちご柄の桃色ラベルと純米吟醸・生の表記。画像内の容量文字は判読できず、同一itemの正式提供画像と720ml販売欄で容量を照合。","differences":"販売用の限定表記があるが、別の使用米シリーズ・季節設計を示す根拠はない。既存Verifiedと料理は変更しない。"},
+    {"sakeId":"yuki-no-bosha-junmai-ginjo","approved":true,"capacityMl":720,"normalUrl":"https://item.rakuten.co.jp/ono-sake/yukinobousya-junmaigin720/","identityEvidence":"齋彌酒造店の通常純米吟醸、55%、720ml。販売説明は火入れを明記し、生酒版と区別。","visualEvidence":"緑瓶と白い純米吟醸ラベル。正式画像に720mlの明示あり。","differences":"特別な年度・限定シリーズ・生酒の表記なし。販売側の分析値をVerifiedへ転記しない。"},
+    {"sakeId":"masuizumi-junmai-ginjo","approved":true,"capacityMl":1800,"normalUrl":"https://item.rakuten.co.jp/mighty-liquors/10005670/","identityEvidence":"桝田酒造店・満寿泉・通常純米吟醸の1800ml単品。本文原材料は米・米麹。","visualEvidence":"満寿泉と純米吟醸の白いラベル。画像内の容量文字は判読できず、同一itemの正式提供画像と1800ml販売欄で容量を照合。","differences":"2026年2月詰めは出荷時期の補足。限定Pero/雄町LEと示すラベルではなく、周辺SEO語だけから別シリーズとは判定しない。"},
+    {"sakeId":"kaiun-tokubetsu-junmai","approved":false,"normalUrl":"https://item.rakuten.co.jp/syuraku-shop/40546/","reason":"正式提供画像は720mlと1800mlを同時表示。選択容量専用の正式画像を確認できず、切抜き・加工で対応しない。既存720ml購入先を維持。"}
+  ]
+}

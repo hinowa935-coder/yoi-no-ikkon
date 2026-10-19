@@ -1,0 +1,10 @@
+{
+  "reviewedOn": "2026-10-20",
+  "rows": [
+    {"sakeId":"tenbi-junmai-ginjo","approved":true,"capacityMl":720,"normalUrl":"https://item.rakuten.co.jp/meishu-honpo/17502/","identityEvidence":"長州酒造・純米吟醸・720ml。商品欄が火当て、原酒15%、60%、901号と明記。従来の火入れ販売先と同じ標準白天で、生原酒候補とは区別。","visualEvidence":"茶瓶、白い幾何学ラベル、天美の文字を確認。容量は同一itemの720ml販売欄と正式画像発行対象で照合。","differences":"国産米の記載を既存Verifiedの米品種へ上書きしない。"},
+    {"sakeId":"kokuryu-junmai-ginjo-1","approved":true,"capacityMl":720,"normalUrl":"https://item.rakuten.co.jp/auc-chitashige/35022301/","identityEvidence":"黒龍酒造・純米大吟醸・720ml。東条山田錦35%の商品欄を確認し、二左衛門・無二・あどそではないことを確認。","visualEvidence":"黒龍純米大吟醸の瓶と漆調の外箱。別シリーズ名の表示なし。","differences":"店舗本文の一部文字欠けを正確な原文として採用しない。既存スペックは変更しない。"},
+    {"sakeId":"morishima-miyamanishiki-junmai-ginjo-hiire-v1","approved":true,"capacityMl":1800,"normalUrl":"https://item.rakuten.co.jp/mighty-liquors/sa192009/","identityEvidence":"森島酒造・美山錦・純米吟醸・瓶燗火入・1800mlが販売対象名で一致。本文も1800ml/15度。生酒版や720mlと区別。","visualEvidence":"緑瓶、森嶋の銀灰色ラベル。画像自体を加工せず、正式発行元の1800ml対象と照合。","differences":"小売の送料案内は商品の価格やVerifiedへ転記しない。"},
+    {"sakeId":"narutotai-junmai-tomoe-v1","approved":true,"capacityMl":1800,"normalUrl":"https://item.rakuten.co.jp/tsutaya/20250910/","identityEvidence":"本家松浦酒造・純米巴・1800ml。本文65%/15度が既存商品の設計と一致。純米吟醸巴・超辛口巴・ひやおろしは別候補。","visualEvidence":"緑瓶、白地と赤い巴紋のラベルを確認。","differences":"令和8年9月の蔵出荷は参考情報として記録し、BYの断定や既存Verifiedの更新には使わない。"},
+    {"sakeId":"minami-junmai-ginjo-matsuyamamitsui-standard-v1","approved":false,"normalUrl":"https://item.rakuten.co.jp/mashidayahonten/1534/","reason":"販売本文がしずく媛/松山三井の米変更・米指定不可と明記。登録名が松山三井を指定しているため、このページを確定購入先にしない。"}
+  ]
+}

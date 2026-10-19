@@ -7,13 +7,14 @@ import {dishesForSake,nightsForSake} from '../src/data/discovery.js';
 import {resolveFavorite} from '../src/data/favoriteReferences.js';
 import {eligibleSensoryEvidence} from '../src/catalog/operations.js';
 import {retailAvailability} from './lib/catalog-retail-availability.mjs';
+import {reviewedCommerceUpdate,digest} from './lib/reviewed-commerce-update.mjs';
 const read=p=>JSON.parse(fs.readFileSync(new URL('../'+p,import.meta.url)));
 const additions=read('src/data/catalogAdditions.json'),id=additions.items[0].id,item=getSakeById(id);
 test('catalog expansion preserves every prior identity, link, image and approval',()=>{
  const baseline=p=>JSON.parse(execFileSync('git',['show',additions.sourceCommit+':'+p],{maxBuffer:64*1024*1024}).toString());
  assert.deepEqual(read('src/data/discoveryCatalog.json'),baseline('src/data/discoveryCatalog.json'));
- for(const file of ['purchase-matches.json','discovery-links.json']){const old=baseline('src/commerce/generated/'+file),current=read('src/commerce/generated/'+file);for(const[k,v]of Object.entries(old))assert.deepEqual(current[k],v);}
- const media=read('src/commerce/generated/product-media.json').records;for(const[k,v]of Object.entries(baseline('src/commerce/generated/product-media.json').records))assert.deepEqual(media[k],v);
+ for(const file of ['purchase-matches.json','discovery-links.json']){const old=baseline('src/commerce/generated/'+file),current=read('src/commerce/generated/'+file);for(const[k,v]of Object.entries(old))assert(digest(current[k])===digest(v)||reviewedCommerceUpdate('src/commerce/generated/'+file,k,digest(v),current[k]));}
+ const media=read('src/commerce/generated/product-media.json').records;for(const[k,v]of Object.entries(baseline('src/commerce/generated/product-media.json').records))assert(digest(media[k])===digest(v)||reviewedCommerceUpdate('src/commerce/generated/product-media.json',k,digest(v),media[k]));
  const oldApproval=baseline('src/commerce/generated/commerce-final-approvals.json').links;assert.deepEqual(read('src/commerce/generated/commerce-final-approvals.json').links.slice(0,oldApproval.length),oldApproval);
  assert.equal(new Set(allSakePairings.map(i=>i.id)).size,allSakePairings.length);assert(visibleSakePairings.some(i=>i.id===id));
 });

@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "policy": "季節ごとに少しずつ入れ替わる、今買える約500本の酒棚",
+  "targetActive": {"min": 480, "preferred": 500, "max": 520, "hardLimit": false},
+  "updatesPerYear": 4,
+  "typicalBatch": {"min": 20, "max": 50, "mandatoryQuota": false},
+  "timezone": "Asia/Tokyo",
+  "automaticPublicationAllowed": false,
+  "automaticDeactivationAllowed": false,
+  "weeklyMonitoringEnabled": false,
+  "scheduledExecutionEnabled": false,
+  "commerceExpiryMaintenance": {"manualOnly": true, "leadDays": 7, "mayPrecedeSeasonalWindow": true, "extendWithoutReview": false, "note": "年4回は酒棚の大きな更新。既存の審査期限が先に来る場合の軽い購入先・画像確認は別管理し、期限を無確認で延長しない。"},
+  "windows": [
+    {"id": "spring", "name": "春", "startMonth": 2, "startDay": 20, "endMonth": 3, "endDay": 31, "focus": ["春酒", "うすにごり", "おりがらみ", "春限定", "生酒", "新酒", "軽快な純米吟醸"]},
+    {"id": "summer", "name": "夏", "startMonth": 5, "startDay": 20, "endMonth": 6, "endDay": 30, "focus": ["夏酒", "夏吟醸", "夏純米", "低アルコール", "微発泡", "冷酒向き"]},
+    {"id": "autumn", "name": "秋", "startMonth": 8, "startDay": 20, "endMonth": 9, "endDay": 30, "focus": ["ひやおろし", "秋あがり", "熟成感", "旨味", "燗適性"]},
+    {"id": "winter", "name": "冬", "startMonth": 11, "startDay": 20, "endMonth": 12, "endDay": 31, "focus": ["新酒", "しぼりたて", "生原酒", "初しぼり", "にごり", "冬限定", "燗向き定番酒"]}
+  ],
+  "recoveryPriority": ["D", "B", "C", "A"],
+  "newProductRequirements": ["currentStock", "formalRakutenDirectLink", "formalImage", "skuIdentity", "sensory", "pairing", "nightAffinity"],
+  "excludedRecommendationSignals": ["affiliateReward", "price", "reviewCount", "stars", "imageAvailability", "rakutenRanking", "rakutenAvailability"],
+  "retention": {"deleteProducts": false, "reuseProductIds": false, "redirectToDifferentSku": false, "migrateFavoritesToDifferentSku": false},
+  "versionPolicy": "商品設計の差は別SKUとして審査。年度差だけでは分割・統合を確定しない。",
+  "currentExistingProducts": "既存商品は段階的に救済・入れ替えを検討する。リンクや画像の欠損のみでは一括非表示にしない。"
+}

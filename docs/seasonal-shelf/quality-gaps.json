@@ -1,0 +1,559 @@
+{
+  "checkedAt": "2026-10-19T23:41:30.043Z",
+  "rows": [
+    {
+      "sakeId": "koimari-saki",
+      "productName": "古伊万里 前 純米吟醸",
+      "group": "A",
+      "dataConfidence": "medium",
+      "structuredTasteSparse": true,
+      "noGroundedPublicPairing": false,
+      "needsIdentification": false,
+      "action": "REVIEW_ONLY_NO_INFERRED_TASTE_OR_AUTO_DEACTIVATION"
+    },
+    {
+      "sakeId": "murayu-kuro",
+      "productName": "村祐 黒 純米大吟醸 無濾過本生",
+      "group": "D",
+      "dataConfidence": "medium",
+      "structuredTasteSparse": true,
+      "noGroundedPublicPairing": false,
+      "needsIdentification": false,
+      "action": "REVIEW_ONLY_NO_INFERRED_TASTE_OR_AUTO_DEACTIVATION"
+    },
+    {
+      "sakeId": "shinshu-kirei-junmai-ginjo",
+      "productName": "信州亀齢 ひとごこち 純米吟醸",
+      "group": "D",
+      "dataConfidence": "high",
+      "structuredTasteSparse": true,
+      "noGroundedPublicPairing": false,
+      "needsIdentification": false,
+      "action": "REVIEW_ONLY_NO_INFERRED_TASTE_OR_AUTO_DEACTIVATION"
+    },
+    {
+      "sakeId": "kachikoma-junmai",
+      "productName": "勝駒 純米酒",
+      "group": "A",
+      "dataConfidence": "high",
+      "structuredTasteSparse": true,
+      "noGroundedPublicPairing": false,
+      "needsIdentification": false,
+      "action": "REVIEW_ONLY_NO_INFERRED_TASTE_OR_AUTO_DEACTIVATION"
+    },
+    {
+      "sakeId": "gikyo-tokubetsu-junmai",
+      "productName": "義侠 純米原酒60%",
+      "group": "A",
+      "dataConfidence": "high",
+      "structuredTasteSparse": true,
+      "noGroundedPublicPairing": false,
+      "needsIdentification": false,
+      "action": "REVIEW_ONLY_NO_INFERRED_TASTE_OR_AUTO_DEACTIVATION"
+    },
+    {
+      "sakeId": "kachikoma-modern-premium",
+      "productName": "勝駒 純米吟醸",
+      "group": "A",
+      "dataConfidence": "high",
+      "structuredTasteSparse": true,
+      "noGroundedPublicPairing": false,
+      "needsIdentification": false,
+      "action": "REVIEW_ONLY_NO_INFERRED_TASTE_OR_AUTO_DEACTIVATION"
+    },
+    {
+      "sakeId": "momokawa-tw2kq6",
+      "productName": "桃川 純米酒",
+      "group": "A",
+      "dataConfidence": "medium",
+      "structuredTasteSparse": true,
+      "noGroundedPublicPairing": false,
+      "needsIdentification": false,
+      "action": "REVIEW_ONLY_NO_INFERRED_TASTE_OR_AUTO_DEACTIVATION"
+    },
+    {
+      "sakeId": "hamachidori-iaxjez",
+      "productName": "浜千鳥 純米酒",
+      "group": "A",
+      "dataConfidence": "high",
+      "structuredTasteSparse": true,
+      "noGroundedPublicPairing": false,
+      "needsIdentification": false,
+      "action": "REVIEW_ONLY_NO_INFERRED_TASTE_OR_AUTO_DEACTIVATION"
+    },
+    {
+      "sakeId": "edo-kaijo-kflfjg",
+      "productName": "純米吟醸原酒 江戸開城 Sustainable Sake Project",
+      "group": "D",
+      "dataConfidence": "high",
+      "structuredTasteSparse": true,
+      "noGroundedPublicPairing": false,
+      "needsIdentification": false,
+      "action": "REVIEW_ONLY_NO_INFERRED_TASTE_OR_AUTO_DEACTIVATION"
+    },
+    {
+      "sakeId": "asahigiku-o0fiap",
+      "productName": "旭菊 大地 特別純米酒",
+      "group": "A",
+      "dataConfidence": "medium",
+      "structuredTasteSparse": true,
+      "noGroundedPublicPairing": false,
+      "needsIdentification": false,
+      "action": "REVIEW_ONLY_NO_INFERRED_TASTE_OR_AUTO_DEACTIVATION"
+    },
+    {
+      "sakeId": "senbazuru-hlzg7a",
+      "productName": "純米大吟醸 千羽鶴",
+      "group": "A",
+      "dataConfidence": "medium",
+      "structuredTasteSparse": true,
+      "noGroundedPublicPairing": false,
+      "needsIdentification": false,
+      "action": "REVIEW_ONLY_NO_INFERRED_TASTE_OR_AUTO_DEACTIVATION"
+    },
+    {
+      "sakeId": "naruka-gg3q4p-4",
+      "productName": "鳴海 純米大吟醸 直詰め生 総の舞50",
+      "group": "D",
+      "dataConfidence": "high",
+      "structuredTasteSparse": true,
+      "noGroundedPublicPairing": false,
+      "needsIdentification": false,
+      "action": "REVIEW_ONLY_NO_INFERRED_TASTE_OR_AUTO_DEACTIVATION"
+    },
+    {
+      "sakeId": "kachikoma-junmai-3",
+      "productName": "勝駒 大吟醸",
+      "group": "A",
+      "dataConfidence": "high",
+      "structuredTasteSparse": true,
+      "noGroundedPublicPairing": false,
+      "needsIdentification": false,
+      "action": "REVIEW_ONLY_NO_INFERRED_TASTE_OR_AUTO_DEACTIVATION"
+    },
+    {
+      "sakeId": "tsushimaya-ia8tng-2",
+      "productName": "津島屋 純米吟醸 廣島産八反錦 無濾過生原酒 滓がらみ R6BY",
+      "group": "D",
+      "dataConfidence": "medium",
+      "structuredTasteSparse": true,
+      "noGroundedPublicPairing": false,
+      "needsIdentification": false,
+      "action": "REVIEW_ONLY_NO_INFERRED_TASTE_OR_AUTO_DEACTIVATION"
+    },
+    {
+      "sakeId": "tatenokawa-kyuryu",
+      "productName": "楯野川 純米大吟醸 急流",
+      "group": "A",
+      "dataConfidence": "high",
+      "structuredTasteSparse": true,
+      "noGroundedPublicPairing": false,
+      "needsIdentification": false,
+      "action": "REVIEW_ONLY_NO_INFERRED_TASTE_OR_AUTO_DEACTIVATION"
+    },
+    {
+      "sakeId": "ishizuchi-junmai-ginjo-yamadanishiki50-v1",
+      "productName": "石鎚 純米吟醸 山田錦50",
+      "group": "A",
+      "dataConfidence": "high",
+      "structuredTasteSparse": false,
+      "noGroundedPublicPairing": true,
+      "needsIdentification": false,
+      "action": "REVIEW_ONLY_NO_INFERRED_TASTE_OR_AUTO_DEACTIVATION"
+    },
+    {
+      "sakeId": "chitosetsuru-junmai-ginjo-kitashizuku-v1",
+      "productName": "千歳鶴 純米吟醸 きたしずく",
+      "group": "A",
+      "dataConfidence": "high",
+      "structuredTasteSparse": true,
+      "noGroundedPublicPairing": true,
+      "needsIdentification": false,
+      "action": "REVIEW_ONLY_NO_INFERRED_TASTE_OR_AUTO_DEACTIVATION"
+    },
+    {
+      "sakeId": "sawaya-matsumoto-shuhari-gohyakumangoku-v1",
+      "productName": "澤屋まつもと 守破離 五百万石",
+      "group": "A",
+      "dataConfidence": "high",
+      "structuredTasteSparse": true,
+      "noGroundedPublicPairing": true,
+      "needsIdentification": false,
+      "action": "REVIEW_ONLY_NO_INFERRED_TASTE_OR_AUTO_DEACTIVATION"
+    },
+    {
+      "sakeId": "ganki-hitotsubi-junmai-v1",
+      "productName": "雁木 ひとつび 純米",
+      "group": "A",
+      "dataConfidence": "high",
+      "structuredTasteSparse": true,
+      "noGroundedPublicPairing": true,
+      "needsIdentification": false,
+      "action": "REVIEW_ONLY_NO_INFERRED_TASTE_OR_AUTO_DEACTIVATION"
+    },
+    {
+      "sakeId": "roman-junmai-ginjo-ichikai-hiire-2025by-v1",
+      "productName": "ロ万 純米吟醸 一回火入れ（2025BY）",
+      "group": "A",
+      "dataConfidence": "high",
+      "structuredTasteSparse": true,
+      "noGroundedPublicPairing": true,
+      "needsIdentification": false,
+      "action": "REVIEW_ONLY_NO_INFERRED_TASTE_OR_AUTO_DEACTIVATION"
+    },
+    {
+      "sakeId": "michizakura-junmai-rclass-v1",
+      "productName": "三千櫻 純米 Rclass",
+      "group": "A",
+      "dataConfidence": "high",
+      "structuredTasteSparse": true,
+      "noGroundedPublicPairing": true,
+      "needsIdentification": false,
+      "action": "REVIEW_ONLY_NO_INFERRED_TASTE_OR_AUTO_DEACTIVATION"
+    },
+    {
+      "sakeId": "sugata-kire-tokubetsu-junmai-v1",
+      "productName": "姿 特別純米酒 斬れすがた",
+      "group": "A",
+      "dataConfidence": "high",
+      "structuredTasteSparse": true,
+      "noGroundedPublicPairing": true,
+      "needsIdentification": false,
+      "action": "REVIEW_ONLY_NO_INFERRED_TASTE_OR_AUTO_DEACTIVATION"
+    },
+    {
+      "sakeId": "mikotsuru-junmai-ginjo-hitogokochi-hiire-v1",
+      "productName": "御湖鶴 純米吟醸 ひとごこち 火入れ",
+      "group": "D",
+      "dataConfidence": "high",
+      "structuredTasteSparse": false,
+      "noGroundedPublicPairing": true,
+      "needsIdentification": false,
+      "action": "REVIEW_ONLY_NO_INFERRED_TASTE_OR_AUTO_DEACTIVATION"
+    },
+    {
+      "sakeId": "hanzo-tokubetsu-junmai-karakuchi-v1",
+      "productName": "半蔵 特別純米酒 辛口",
+      "group": "A",
+      "dataConfidence": "high",
+      "structuredTasteSparse": true,
+      "noGroundedPublicPairing": true,
+      "needsIdentification": false,
+      "action": "REVIEW_ONLY_NO_INFERRED_TASTE_OR_AUTO_DEACTIVATION"
+    },
+    {
+      "sakeId": "yokoyama-silver7-namazume-v1",
+      "productName": "よこやま 純米吟醸 SILVER7 生詰",
+      "group": "D",
+      "dataConfidence": "high",
+      "structuredTasteSparse": false,
+      "noGroundedPublicPairing": true,
+      "needsIdentification": false,
+      "action": "REVIEW_ONLY_NO_INFERRED_TASTE_OR_AUTO_DEACTIVATION"
+    },
+    {
+      "sakeId": "haneya-kirabi-nama-genshu-v1",
+      "productName": "羽根屋 純吟 煌火 生原酒",
+      "group": "A",
+      "dataConfidence": "high",
+      "structuredTasteSparse": false,
+      "noGroundedPublicPairing": true,
+      "needsIdentification": false,
+      "action": "REVIEW_ONLY_NO_INFERRED_TASTE_OR_AUTO_DEACTIVATION"
+    },
+    {
+      "sakeId": "mimurosugi-tokubetsu-junmai-tsuyuhakaze-v1",
+      "productName": "みむろ杉 ろまんシリーズ 特別純米 辛口 露葉風",
+      "group": "D",
+      "dataConfidence": "high",
+      "structuredTasteSparse": true,
+      "noGroundedPublicPairing": true,
+      "needsIdentification": false,
+      "action": "REVIEW_ONLY_NO_INFERRED_TASTE_OR_AUTO_DEACTIVATION"
+    },
+    {
+      "sakeId": "daijiro-yamada-junmai-ginjo-hiire-v1",
+      "productName": "大治郎 純米吟醸 山田錦 火入",
+      "group": "D",
+      "dataConfidence": "high",
+      "structuredTasteSparse": true,
+      "noGroundedPublicPairing": true,
+      "needsIdentification": false,
+      "action": "REVIEW_ONLY_NO_INFERRED_TASTE_OR_AUTO_DEACTIVATION"
+    },
+    {
+      "sakeId": "okuharima-okamishizuku-hiire-v1",
+      "productName": "奥播磨 山廃 純米大吟醸 龗雫 火入れ",
+      "group": "D",
+      "dataConfidence": "high",
+      "structuredTasteSparse": false,
+      "noGroundedPublicPairing": true,
+      "needsIdentification": false,
+      "action": "REVIEW_ONLY_NO_INFERRED_TASTE_OR_AUTO_DEACTIVATION"
+    },
+    {
+      "sakeId": "fudo-ichido-hiire-junmai-daiginjo-v1",
+      "productName": "不動 一度火入れ 純米大吟醸",
+      "group": "A",
+      "dataConfidence": "high",
+      "structuredTasteSparse": false,
+      "noGroundedPublicPairing": true,
+      "needsIdentification": false,
+      "action": "REVIEW_ONLY_NO_INFERRED_TASTE_OR_AUTO_DEACTIVATION"
+    },
+    {
+      "sakeId": "bentenmusume-junmai-yamahai-gouriki-v1",
+      "productName": "辨天娘 純米酒 山廃 強力",
+      "group": "D",
+      "dataConfidence": "high",
+      "structuredTasteSparse": false,
+      "noGroundedPublicPairing": true,
+      "needsIdentification": false,
+      "action": "REVIEW_ONLY_NO_INFERRED_TASTE_OR_AUTO_DEACTIVATION"
+    },
+    {
+      "sakeId": "shiraito-70-v1",
+      "productName": "白糸70",
+      "group": "D",
+      "dataConfidence": "high",
+      "structuredTasteSparse": true,
+      "noGroundedPublicPairing": true,
+      "needsIdentification": false,
+      "action": "REVIEW_ONLY_NO_INFERRED_TASTE_OR_AUTO_DEACTIVATION"
+    },
+    {
+      "sakeId": "shosetsu-junmai-ginjo-yamadanishiki-standard-v1",
+      "productName": "正雪 純米吟醸 山田錦",
+      "group": "A",
+      "dataConfidence": "medium",
+      "structuredTasteSparse": false,
+      "noGroundedPublicPairing": true,
+      "needsIdentification": false,
+      "action": "REVIEW_ONLY_NO_INFERRED_TASTE_OR_AUTO_DEACTIVATION"
+    },
+    {
+      "sakeId": "houraisen-bi-junmai-daiginjo-standard-v1",
+      "productName": "蓬莱泉 純米大吟醸 美",
+      "group": "A",
+      "dataConfidence": "high",
+      "structuredTasteSparse": false,
+      "noGroundedPublicPairing": true,
+      "needsIdentification": false,
+      "action": "REVIEW_ONLY_NO_INFERRED_TASTE_OR_AUTO_DEACTIVATION"
+    },
+    {
+      "sakeId": "kazenomori-akitsuho-657-standard-v1",
+      "productName": "風の森 秋津穂657",
+      "group": "A",
+      "dataConfidence": "high",
+      "structuredTasteSparse": false,
+      "noGroundedPublicPairing": true,
+      "needsIdentification": false,
+      "action": "REVIEW_ONLY_NO_INFERRED_TASTE_OR_AUTO_DEACTIVATION"
+    },
+    {
+      "sakeId": "sogen-notonokuni-junmai-standard-v1",
+      "productName": "宗玄 能登乃国 純米酒",
+      "group": "A",
+      "dataConfidence": "medium",
+      "structuredTasteSparse": false,
+      "noGroundedPublicPairing": true,
+      "needsIdentification": false,
+      "action": "REVIEW_ONLY_NO_INFERRED_TASTE_OR_AUTO_DEACTIVATION"
+    },
+    {
+      "sakeId": "sogen-genshin-junmai-daiginjo-standard-v1",
+      "productName": "宗玄 純米大吟醸 玄心",
+      "group": "A",
+      "dataConfidence": "medium",
+      "structuredTasteSparse": false,
+      "noGroundedPublicPairing": true,
+      "needsIdentification": false,
+      "action": "REVIEW_ONLY_NO_INFERRED_TASTE_OR_AUTO_DEACTIVATION"
+    },
+    {
+      "sakeId": "biwanosasanami-matsu-junmai-daiginjo-hiire-v1",
+      "productName": "琵琶のささ浪 純米大吟醸 松 火入れ",
+      "group": "D",
+      "dataConfidence": "high",
+      "structuredTasteSparse": false,
+      "noGroundedPublicPairing": true,
+      "needsIdentification": false,
+      "action": "REVIEW_ONLY_NO_INFERRED_TASTE_OR_AUTO_DEACTIVATION"
+    },
+    {
+      "sakeId": "tenon-junmai-standard-ichikai-hiire-v1",
+      "productName": "天穏 純米酒",
+      "group": "A",
+      "dataConfidence": "high",
+      "structuredTasteSparse": false,
+      "noGroundedPublicPairing": true,
+      "needsIdentification": false,
+      "action": "REVIEW_ONLY_NO_INFERRED_TASTE_OR_AUTO_DEACTIVATION"
+    },
+    {
+      "sakeId": "housui-tokubetsu-junmai-standard-v1",
+      "productName": "芳水 特別純米酒",
+      "group": "A",
+      "dataConfidence": "high",
+      "structuredTasteSparse": false,
+      "noGroundedPublicPairing": true,
+      "needsIdentification": false,
+      "action": "REVIEW_ONLY_NO_INFERRED_TASTE_OR_AUTO_DEACTIVATION"
+    },
+    {
+      "sakeId": "ouroku-ryu-tokubetsu-honjozo-honnama-v1",
+      "productName": "王祿 特別本醸造 流 本生",
+      "group": "D",
+      "dataConfidence": "high",
+      "structuredTasteSparse": false,
+      "noGroundedPublicPairing": true,
+      "needsIdentification": false,
+      "action": "REVIEW_ONLY_NO_INFERRED_TASTE_OR_AUTO_DEACTIVATION"
+    },
+    {
+      "sakeId": "kagura-junmai-daiginjo-shiro-muroka-mukasui-nama-v1",
+      "productName": "神蔵 KAGURA 純米大吟醸 無濾過・無加水・生酒（白）",
+      "group": "B",
+      "dataConfidence": "high",
+      "structuredTasteSparse": false,
+      "noGroundedPublicPairing": true,
+      "needsIdentification": false,
+      "action": "REVIEW_ONLY_NO_INFERRED_TASTE_OR_AUTO_DEACTIVATION"
+    },
+    {
+      "sakeId": "kagura-junmai-daiginjo-shiro-muroka-mukasui-ichibi-v1",
+      "productName": "神蔵 KAGURA 純米大吟醸 無濾過・無加水・一火（白）",
+      "group": "D",
+      "dataConfidence": "high",
+      "structuredTasteSparse": false,
+      "noGroundedPublicPairing": true,
+      "needsIdentification": false,
+      "action": "REVIEW_ONLY_NO_INFERRED_TASTE_OR_AUTO_DEACTIVATION"
+    },
+    {
+      "sakeId": "kirari-junmai-genshu-hiire-standard-v1",
+      "productName": "喜楽里 純米 原酒（火入れ）",
+      "group": "A",
+      "dataConfidence": "high",
+      "structuredTasteSparse": false,
+      "noGroundedPublicPairing": true,
+      "needsIdentification": false,
+      "action": "REVIEW_ONLY_NO_INFERRED_TASTE_OR_AUTO_DEACTIVATION"
+    },
+    {
+      "sakeId": "jikon-tokubetsu-junmai-hiire-standard-v1",
+      "productName": "而今 特別純米 火入",
+      "group": "A",
+      "dataConfidence": "high",
+      "structuredTasteSparse": false,
+      "noGroundedPublicPairing": true,
+      "needsIdentification": false,
+      "action": "REVIEW_ONLY_NO_INFERRED_TASTE_OR_AUTO_DEACTIVATION"
+    },
+    {
+      "sakeId": "jikon-junmai-ginjo-yamadanishiki-hiire-standard-v1",
+      "productName": "而今 純米吟醸 山田錦 火入",
+      "group": "A",
+      "dataConfidence": "high",
+      "structuredTasteSparse": false,
+      "noGroundedPublicPairing": true,
+      "needsIdentification": false,
+      "action": "REVIEW_ONLY_NO_INFERRED_TASTE_OR_AUTO_DEACTIVATION"
+    },
+    {
+      "sakeId": "jikon-junmai-ginjo-omachi-hiire-standard-v1",
+      "productName": "而今 純米吟醸 雄町 火入",
+      "group": "A",
+      "dataConfidence": "high",
+      "structuredTasteSparse": false,
+      "noGroundedPublicPairing": true,
+      "needsIdentification": false,
+      "action": "REVIEW_ONLY_NO_INFERRED_TASTE_OR_AUTO_DEACTIVATION"
+    },
+    {
+      "sakeId": "kankiku-ocean99-toumi-arrival-hiire-v1",
+      "productName": "寒菊 OCEAN99 橙海 Arrival 無濾過一度火入原酒",
+      "group": "A",
+      "dataConfidence": "high",
+      "structuredTasteSparse": true,
+      "noGroundedPublicPairing": true,
+      "needsIdentification": false,
+      "action": "REVIEW_ONLY_NO_INFERRED_TASTE_OR_AUTO_DEACTIVATION"
+    },
+    {
+      "sakeId": "gikyo-enishi-junmai-aged-blend-v1",
+      "productName": "義侠 縁（えにし）",
+      "group": "A",
+      "dataConfidence": "high",
+      "structuredTasteSparse": false,
+      "noGroundedPublicPairing": true,
+      "needsIdentification": false,
+      "action": "REVIEW_ONLY_NO_INFERRED_TASTE_OR_AUTO_DEACTIVATION"
+    },
+    {
+      "sakeId": "akishika-yamahai-junmai-yamadanishiki-70-muroka-genshu-hiire-v1",
+      "productName": "秋鹿 山廃純米 山田錦 無濾過原酒 火入れ",
+      "group": "B",
+      "dataConfidence": "medium",
+      "structuredTasteSparse": true,
+      "noGroundedPublicPairing": true,
+      "needsIdentification": false,
+      "action": "REVIEW_ONLY_NO_INFERRED_TASTE_OR_AUTO_DEACTIVATION"
+    },
+    {
+      "sakeId": "senkin-modern-ichishiki-hiire-v1",
+      "productName": "仙禽 モダン 壱式（火入れ）",
+      "group": "A",
+      "dataConfidence": "medium",
+      "structuredTasteSparse": false,
+      "noGroundedPublicPairing": true,
+      "needsIdentification": false,
+      "action": "REVIEW_ONLY_NO_INFERRED_TASTE_OR_AUTO_DEACTIVATION"
+    },
+    {
+      "sakeId": "aramasa-viridian-hiire-standard-v1",
+      "productName": "新政 天鵞絨（ヴィリジアン）",
+      "group": "A",
+      "dataConfidence": "medium",
+      "structuredTasteSparse": false,
+      "noGroundedPublicPairing": true,
+      "needsIdentification": false,
+      "action": "REVIEW_ONLY_NO_INFERRED_TASTE_OR_AUTO_DEACTIVATION"
+    },
+    {
+      "sakeId": "kamonishiki-nifudazake-kisuisen-binhiire-v1",
+      "productName": "加茂錦 荷札酒 黄水仙 純米大吟醸 瓶火入れ",
+      "group": "D",
+      "dataConfidence": "medium",
+      "structuredTasteSparse": false,
+      "noGroundedPublicPairing": true,
+      "needsIdentification": false,
+      "action": "REVIEW_ONLY_NO_INFERRED_TASTE_OR_AUTO_DEACTIVATION"
+    },
+    {
+      "sakeId": "ine-to-agave-doburoku6-v1",
+      "productName": "稲とアガベ DOBUROKU 6号酵母",
+      "group": "A",
+      "dataConfidence": "high",
+      "structuredTasteSparse": true,
+      "noGroundedPublicPairing": true,
+      "needsIdentification": false,
+      "action": "REVIEW_ONLY_NO_INFERRED_TASTE_OR_AUTO_DEACTIVATION"
+    },
+    {
+      "sakeId": "goshun-honmaru-honjozo-v1",
+      "productName": "呉春 本丸 本醸造",
+      "group": "A",
+      "dataConfidence": "medium",
+      "structuredTasteSparse": false,
+      "noGroundedPublicPairing": true,
+      "needsIdentification": false,
+      "action": "REVIEW_ONLY_NO_INFERRED_TASTE_OR_AUTO_DEACTIVATION"
+    }
+  ],
+  "counts": {
+    "structuredTasteSparse": 28,
+    "noGroundedPublicPairing": 40
+  }
+}

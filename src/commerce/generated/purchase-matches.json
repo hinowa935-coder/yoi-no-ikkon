@@ -399,7 +399,9 @@
     "checkedAt": "2026-10-13T23:30:25.678Z",
     "validUntil": "2026-11-13T06:24:31.767Z",
     "source": "independentIdentityAndVisualReview",
-    "directLinkAllowed": true
+    "directLinkAllowed": false,
+    "availabilityReviewStatus": "SAME_SKU_PURCHASE_HOLD",
+    "availabilityReviewedOn": "2026-10-20"
   },
   "jikon-tokubetsu-junmai-hiire-standard-v1": {
     "sakeId": "jikon-tokubetsu-junmai-hiire-standard-v1",
@@ -462,15 +464,16 @@
     "sakeId": "amabuki-flower-yeast",
     "sakeName": "天吹 純米吟醸 いちご酵母 生",
     "productFingerprint": "c32aa9fd035d8369beaf86eaaa386e92023c2045b781b927c8bd451ec9499c20",
-    "itemCode": "kyoto-sake-2940:10001401",
-    "normalUrl": "https://item.rakuten.co.jp/kyoto-sake-2940/abki-ichi-720/",
+    "itemCode": "urakawa-2008:10010392",
+    "normalUrl": "https://item.rakuten.co.jp/urakawa-2008/10010392/",
     "capacityMl": 720,
     "matchConfidence": "high",
-    "source": "currentCommercialIdentitySecondPass",
-    "checkedAt": "2026-10-14T09:30:24.951Z",
-    "validUntil": "2026-11-13T08:49:33.175Z",
+    "source": "seasonal-shelf-reviewed-image-rescue",
+    "checkedAt": "2026-10-19T23:10:29.976Z",
+    "validUntil": "2026-11-18T23:10:29.977Z",
     "directLinkAllowed": true,
-    "matchType": "COMMERCIAL_MATCH"
+    "matchType": "COMMERCIAL_MATCH",
+    "identityVerified": false
   },
   "niwa-no-uguisu-junmai-ginjo": {
     "sakeId": "niwa-no-uguisu-junmai-ginjo",
@@ -574,15 +577,16 @@
     "sakeId": "yuki-no-bosha-junmai-ginjo",
     "sakeName": "雪の茅舎 純米吟醸",
     "productFingerprint": "10736ba24622a1e532b95c8b061d56f026dd7d1dfa95087b18e522d173e372ea",
-    "itemCode": "kyoto-sake-2940:10000001",
-    "normalUrl": "https://item.rakuten.co.jp/kyoto-sake-2940/yukino-jg-720/",
+    "itemCode": "ono-sake:10002629",
+    "normalUrl": "https://item.rakuten.co.jp/ono-sake/yukinobousya-junmaigin720/",
     "capacityMl": 720,
     "matchConfidence": "high",
-    "source": "currentCommercialIdentitySecondPass",
-    "checkedAt": "2026-10-14T09:30:24.955Z",
-    "validUntil": "2026-11-13T08:49:33.207Z",
+    "source": "seasonal-shelf-reviewed-image-rescue",
+    "checkedAt": "2026-10-19T23:10:29.976Z",
+    "validUntil": "2026-11-18T23:10:29.977Z",
     "directLinkAllowed": true,
-    "matchType": "COMMERCIAL_MATCH"
+    "matchType": "COMMERCIAL_MATCH",
+    "identityVerified": false
   },
   "ippaku-suissei-tokubetsu-junmai": {
     "sakeId": "ippaku-suissei-tokubetsu-junmai",
@@ -798,15 +802,16 @@
     "sakeId": "masuizumi-junmai-ginjo",
     "sakeName": "満寿泉 純米吟醸",
     "productFingerprint": "7cbec29e647cf2f68e8ba23f102275e2124e1abd9e724dc35a33ba51c023eb9d",
-    "itemCode": "kyoto-sake-2940:10000858",
-    "normalUrl": "https://item.rakuten.co.jp/kyoto-sake-2940/masui-jg-1800/",
+    "itemCode": "mighty-liquors:10005670",
+    "normalUrl": "https://item.rakuten.co.jp/mighty-liquors/10005670/",
     "capacityMl": 1800,
     "matchConfidence": "high",
-    "source": "currentCommercialIdentitySecondPass",
-    "checkedAt": "2026-10-14T09:30:24.959Z",
-    "validUntil": "2026-11-13T08:49:33.232Z",
+    "source": "seasonal-shelf-reviewed-image-rescue",
+    "checkedAt": "2026-10-19T23:10:29.976Z",
+    "validUntil": "2026-11-18T23:10:29.977Z",
     "directLinkAllowed": true,
-    "matchType": "COMMERCIAL_MATCH"
+    "matchType": "COMMERCIAL_MATCH",
+    "identityVerified": false
   },
   "gikyo-tokubetsu-junmai": {
     "sakeId": "gikyo-tokubetsu-junmai",
@@ -952,15 +957,16 @@
     "sakeId": "tenbi-junmai-ginjo",
     "sakeName": "天美 純米吟醸",
     "productFingerprint": "1fd2e7ce05f3981e55a918f85a5f1495939a485e7cd33b7693b97c5acea3aafc",
-    "itemCode": "fukazawap-sake:10002440",
-    "normalUrl": "https://item.rakuten.co.jp/fukazawap-sake/tenbi_jg_hi_720/",
+    "itemCode": "meishu-honpo:10005075",
+    "normalUrl": "https://item.rakuten.co.jp/meishu-honpo/17502/",
     "capacityMl": 720,
     "matchConfidence": "high",
-    "source": "currentCommercialIdentitySecondPass",
-    "checkedAt": "2026-10-14T09:30:24.961Z",
-    "validUntil": "2026-11-13T09:30:24.961Z",
+    "source": "seasonal-shelf-reviewed-image-rescue",
+    "checkedAt": "2026-10-19T23:30:57.032Z",
+    "validUntil": "2026-11-18T23:30:57.033Z",
     "directLinkAllowed": true,
-    "matchType": "COMMERCIAL_MATCH"
+    "matchType": "COMMERCIAL_MATCH",
+    "identityVerified": false
   },
   "tsuchida-kimoto": {
     "sakeId": "tsuchida-kimoto",
@@ -1519,8 +1525,10 @@
     "source": "currentCommercialIdentitySecondPass",
     "checkedAt": "2026-10-14T09:30:24.969Z",
     "validUntil": "2026-11-13T09:30:24.969Z",
-    "directLinkAllowed": true,
-    "matchType": "COMMERCIAL_MATCH"
+    "directLinkAllowed": false,
+    "matchType": "COMMERCIAL_MATCH",
+    "availabilityReviewStatus": "PAGE_UNAVAILABLE",
+    "availabilityReviewedOn": "2026-10-20"
   },
   "matsu-no-tsukasa-lvvrsw": {
     "sakeId": "matsu-no-tsukasa-lvvrsw",
@@ -2254,15 +2262,16 @@
     "sakeId": "kokuryu-junmai-ginjo-1",
     "sakeName": "黒龍 純米大吟醸",
     "productFingerprint": "7b8fe68a8fb3fce904052db8dc417b8f17738bf2e74943fc5c8d32b364a0dc12",
-    "itemCode": "kaze-sake:10002432",
-    "normalUrl": "https://item.rakuten.co.jp/kaze-sake/10712071/",
+    "itemCode": "auc-chitashige:10011602",
+    "normalUrl": "https://item.rakuten.co.jp/auc-chitashige/35022301/",
     "capacityMl": 720,
     "matchConfidence": "high",
-    "source": "currentCommercialIdentitySecondPass",
-    "checkedAt": "2026-10-14T09:30:24.981Z",
-    "validUntil": "2026-11-13T09:30:24.981Z",
+    "source": "seasonal-shelf-reviewed-image-rescue",
+    "checkedAt": "2026-10-19T23:30:57.032Z",
+    "validUntil": "2026-11-18T23:30:57.033Z",
     "directLinkAllowed": true,
-    "matchType": "COMMERCIAL_MATCH"
+    "matchType": "COMMERCIAL_MATCH",
+    "identityVerified": false
   },
   "born-gold-2": {
     "sakeId": "born-gold-2",
@@ -2926,15 +2935,16 @@
     "sakeId": "morishima-miyamanishiki-junmai-ginjo-hiire-v1",
     "sakeName": "森嶋 美山錦 純米吟醸 瓶燗火入",
     "productFingerprint": "a3bf2d60e5783214684112b08a516e951bd46f398fd5b7217f1de06ceb18f9e3",
-    "itemCode": "b-miyoshi:10002991",
-    "normalUrl": "https://item.rakuten.co.jp/b-miyoshi/mori-miyama-hi1800/",
+    "itemCode": "mighty-liquors:10006648",
+    "normalUrl": "https://item.rakuten.co.jp/mighty-liquors/sa192009/",
     "capacityMl": 1800,
     "matchConfidence": "high",
-    "source": "currentCommercialIdentitySecondPass",
-    "checkedAt": "2026-10-14T09:30:24.989Z",
-    "validUntil": "2026-11-13T09:30:24.989Z",
+    "source": "seasonal-shelf-reviewed-image-rescue",
+    "checkedAt": "2026-10-19T23:30:57.032Z",
+    "validUntil": "2026-11-18T23:30:57.033Z",
     "directLinkAllowed": true,
-    "matchType": "COMMERCIAL_MATCH"
+    "matchType": "COMMERCIAL_MATCH",
+    "identityVerified": false
   },
   "sugata-kire-tokubetsu-junmai-v1": {
     "sakeId": "sugata-kire-tokubetsu-junmai-v1",
@@ -3283,8 +3293,10 @@
     "source": "currentCommercialIdentitySecondPass",
     "checkedAt": "2026-10-14T09:30:24.994Z",
     "validUntil": "2026-11-13T09:30:24.994Z",
-    "directLinkAllowed": true,
-    "matchType": "COMMERCIAL_MATCH"
+    "directLinkAllowed": false,
+    "matchType": "COMMERCIAL_MATCH",
+    "availabilityReviewStatus": "SAME_SKU_PURCHASE_HOLD",
+    "availabilityReviewedOn": "2026-10-20"
   },
   "houraisen-bi-junmai-daiginjo-standard-v1": {
     "sakeId": "houraisen-bi-junmai-daiginjo-standard-v1",
@@ -3892,15 +3904,16 @@
     "sakeId": "narutotai-junmai-tomoe-v1",
     "sakeName": "鳴門鯛 純米 巴",
     "productFingerprint": "49e52f64cac81dfe3eed0c398b9c3a5579c79028563b6746495f1a289d2c49ce",
-    "itemCode": "auc-matsusen:10001571",
-    "normalUrl": "https://item.rakuten.co.jp/auc-matsusen/n401-1/",
+    "itemCode": "tsutaya:10025340",
+    "normalUrl": "https://item.rakuten.co.jp/tsutaya/20250910/",
     "capacityMl": 1800,
     "matchConfidence": "high",
-    "source": "currentCommercialIdentitySecondPass",
-    "checkedAt": "2026-10-14T09:30:25.000Z",
-    "validUntil": "2026-11-13T09:30:25.000Z",
+    "source": "seasonal-shelf-reviewed-image-rescue",
+    "checkedAt": "2026-10-19T23:30:57.032Z",
+    "validUntil": "2026-11-18T23:30:57.033Z",
     "directLinkAllowed": true,
-    "matchType": "COMMERCIAL_MATCH"
+    "matchType": "COMMERCIAL_MATCH",
+    "identityVerified": false
   },
   "tenryo-tobikiri-tokubetsu-junmai": {
     "sakeId": "tenryo-tobikiri-tokubetsu-junmai",

@@ -1,6 +1,8 @@
 import media from './generated/product-media.json' with {type:'json'};
+import {imageDisplayUnavailable} from './availability.js';
 const httpsHost=(value,hosts)=>{try{const u=new URL(value);return u.protocol==='https:'&&!u.username&&!u.password&&!u.port&&hosts.includes(u.hostname);}catch{return false;}};
 export function productMediaFor(item,records=media.records) {
+  if(imageDisplayUnavailable(item.id))return null;
   const image=records[item.id];
   return image?.matchConfidence==='high' && image.sakeName===item.productName && image.brewery===item.brewery && image.brandName===item.brandName &&
     image.sourceType==='rakutenOfficialTool' && image.permissionConfirmed===true &&

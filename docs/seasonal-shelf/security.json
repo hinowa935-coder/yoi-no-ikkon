@@ -1,0 +1,70 @@
+{
+  "checkedAt": "2026-10-19T23:39:40.872Z",
+  "immutable": [
+    {
+      "file": "src/data/discoveryCatalog.json",
+      "unchanged": true
+    },
+    {
+      "file": "src/data/catalogAdditions.json",
+      "unchanged": true
+    },
+    {
+      "file": "src/data/catalogLifecycle.json",
+      "unchanged": true
+    },
+    {
+      "file": "src/data/favoriteReferences.json",
+      "unchanged": true
+    },
+    {
+      "file": "src/commerce/generated/discovery-links.json",
+      "unchanged": true
+    },
+    {
+      "file": "src/commerce/generated/merchant-links.json",
+      "unchanged": true
+    },
+    {
+      "file": "src/app/about/content.js",
+      "unchanged": true
+    },
+    {
+      "file": "src/data/discoveryNights.js",
+      "unchanged": true
+    },
+    {
+      "file": "src/data/discovery.js",
+      "unchanged": true
+    },
+    {
+      "file": "public/sw.js",
+      "unchanged": true
+    },
+    {
+      "file": "vercel.json",
+      "unchanged": true
+    },
+    {
+      "file": "data/catalog-operations/candidates.json",
+      "unchanged": true
+    }
+  ],
+  "unchangedMatches": true,
+  "unchangedMedia": true,
+  "unchangedApprovalPrefix": true,
+  "secret": {
+    "scannedFiles": 7333,
+    "unreadableFiles": 0,
+    "findings": [],
+    "passed": true,
+    "configuredValuesChecked": [
+      "RAKUTEN_APPLICATION_ID",
+      "RAKUTEN_ACCESS_KEY",
+      "RAKUTEN_AFFILIATE_ID"
+    ],
+    "limitation": null
+  },
+  "ignored": true,
+  "passed": true
+}

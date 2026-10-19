@@ -17,6 +17,7 @@ import finalApprovals from './generated/commerce-final-approvals.json';
 import {projectFinalCommerce} from './finalCommerce.js';
 import merchantAudit from './generated/merchant-links.json';
 import replacementIds from './generated/replacement-ids.json';
+import {purchaseUnavailable,imageDisplayUnavailable,unavailableSearchLink} from './availability.js';
 
 // Server components only: credentials and review records never reach client props.
 export function commerceForSake(item) {
@@ -43,11 +44,12 @@ export function commerceForSake(item) {
   const registeredNormal=buildPurchaseLinks(item).filter(l=>/rakuten\.co\.jp|amazon\.co\.jp|shopping\.yahoo\.co\.jp/.test(new URL(l.href).hostname)&&(!l.href.includes('item.rakuten.co.jp')||matchedNormal.length)&&!(replacementIds.includes(item.id)&&new URL(l.href).hostname.endsWith('amazon.co.jp')));
   const audited=merchantAudit.records[item.id];
   const officialLink=audited&&['A','B','C','D'].includes(audited.type)&&audited.url?[{...audited,sakeId:item.id,matchType:'audited_purchase_destination'}]:[];
-  const purchase = selectPurchaseLinks(item, { offers, normalProducts: [...matchedNormal,...registeredNormal, ...(staged?.normalProducts || [])],
-    discoveryLinks: [...links.filter(l=>l.provider!=='merchant'),...officialLink], stagedStatuses: staged ? { rakuten: staged.status } : {} });
+  const blocked=purchaseUnavailable(item.id);
+  const purchase = selectPurchaseLinks(item, { offers:offers.filter(o=>!blocked||(o.marketplace||o.provider)!=='rakuten'), normalProducts: [...matchedNormal,...registeredNormal, ...(staged?.normalProducts || [])].filter(l=>!blocked||!new URL(l.href).hostname.endsWith('rakuten.co.jp')),
+    discoveryLinks: [...links.filter(l=>l.provider!=='merchant'&&(!blocked||l.provider!=='rakuten'||l.destinationType==='search_results')),...officialLink,...(blocked?[unavailableSearchLink(item)]:[])], stagedStatuses: staged ? { rakuten: staged.status } : {} });
   // Audited manufacturer/dealer destinations take precedence over legacy normal-link ranking.
   purchase.normalLinks=[...purchase.normalLinks.filter(l=>l.provider!=='merchant'),...officialLink];
-  let image = projectLabelImage(item, activeRegistry, exactOffers, Date.now(), process.env, config);
+  let image = imageDisplayUnavailable(item.id)?null:projectLabelImage(item, activeRegistry, exactOffers, Date.now(), process.env, config);
   if (image?.isAdvertisement && process.env.NODE_ENV !== "development") {
     image = releaseApprovedOffer(item, image, releaseApprovals, config.registeredSite);
   }

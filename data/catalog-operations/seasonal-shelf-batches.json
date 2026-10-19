@@ -1,0 +1,125 @@
+{
+  "schemaVersion": 1,
+  "batchId": "seasonal-shelf-2026-10-20",
+  "reviewed": true,
+  "approvalScope": "user-instruction-7a26a320-4cc3-4ecd-a02f-bbad66eb34e5",
+  "sourceCommit": "ff821a056803fb6744036f2e61886f84d05aa259",
+  "checkedAt": "2026-10-19T23:30:57.032Z",
+  "additions": [],
+  "inactivated": [],
+  "archived": [],
+  "imageAddedIds": [
+    "amabuki-flower-yeast",
+    "yuki-no-bosha-junmai-ginjo",
+    "masuizumi-junmai-ginjo"
+  ],
+  "commerceChanges": [
+    {
+      "file": "src/commerce/generated/purchase-matches.json",
+      "sakeId": "amabuki-flower-yeast",
+      "beforeSha256": "43692d459df21a8e93e981a43dd4b0655e08a7a7d2531329f3541f2f354e81ad",
+      "afterSha256": "2898c58e935857d24a3147395d217a59044fae24c9aadcc155ccb13610e50bf6",
+      "reason": "同一商品・同容量の正式画像が取得できる別店舗への購入先更新。Verifiedは変更しない。"
+    },
+    {
+      "file": "src/commerce/generated/purchase-matches.json",
+      "sakeId": "yuki-no-bosha-junmai-ginjo",
+      "beforeSha256": "f039a828b64e495467b94c4ea84c96491ef26ab7adde44acbf38f39d55aa2e83",
+      "afterSha256": "4d2088df23d54a2de3b85745e8e64c32c3b8cae1ff2f11fa40f9e51b911a4530",
+      "reason": "同一商品・同容量の正式画像が取得できる別店舗への購入先更新。Verifiedは変更しない。"
+    },
+    {
+      "file": "src/commerce/generated/purchase-matches.json",
+      "sakeId": "masuizumi-junmai-ginjo",
+      "beforeSha256": "8fc356ab82f15b3594c5ec20859bb69be75f4ae2c0afbf09f957e8e23e58ad11",
+      "afterSha256": "cb6df7b0cd25796153357e0cca443d2423e92b873f7f02d6ff0586e93f835075",
+      "reason": "同一商品・同容量の正式画像が取得できる別店舗への購入先更新。Verifiedは変更しない。"
+    },
+    {
+      "file": "src/commerce/generated/purchase-matches.json",
+      "sakeId": "tenbi-junmai-ginjo",
+      "beforeSha256": "9a194777978c55d9c61ffaf74e84c219d06023be704536004ee2b106fbee990e",
+      "afterSha256": "295afe1900f66f2e52437026e5780e72fb31b997cd3ffc67dde1b069d516eec0",
+      "reason": "同一商品・同容量の正式画像が取得できる別店舗への購入先更新。Verifiedは変更しない。"
+    },
+    {
+      "file": "src/commerce/generated/product-media.json",
+      "sakeId": "tenbi-junmai-ginjo",
+      "beforeSha256": "eb27991511cb24d3b1190b986b51e6662c04511332191ef1e82796b734277fd1",
+      "afterSha256": "f58b1e2ccf72028aacc2e864e54315ce97b7581caa446586e0a3f79649c16ffd",
+      "reason": "購入可能な同一SKU・同容量の別店舗で発行した正式画像原本へ更新。旧原本は開始時監査に保持。"
+    },
+    {
+      "file": "src/commerce/generated/purchase-matches.json",
+      "sakeId": "kokuryu-junmai-ginjo-1",
+      "beforeSha256": "9caf05d3bbe15bd5170ead9e48104bae98930238f31b2706d07e4f14bdc9f196",
+      "afterSha256": "d2e54cf42d6b6f18270a9ac3871a024b229dd297c54ad998625ecbe48e0d19d6",
+      "reason": "同一商品・同容量の正式画像が取得できる別店舗への購入先更新。Verifiedは変更しない。"
+    },
+    {
+      "file": "src/commerce/generated/product-media.json",
+      "sakeId": "kokuryu-junmai-ginjo-1",
+      "beforeSha256": "d3e4a2e379bdec06da9799119f2b2949129cee8fd102487ceddd19e51e20b89e",
+      "afterSha256": "4d9336378e7c7d705cfe1074c7e1857a05e7325dcec11f42299109ad7aae7113",
+      "reason": "購入可能な同一SKU・同容量の別店舗で発行した正式画像原本へ更新。旧原本は開始時監査に保持。"
+    },
+    {
+      "file": "src/commerce/generated/purchase-matches.json",
+      "sakeId": "morishima-miyamanishiki-junmai-ginjo-hiire-v1",
+      "beforeSha256": "3c1a21faf1f6e83732a356ea97ee7c62ded5b706c31fe60d16c2a7224fa184c8",
+      "afterSha256": "4ba67c6985c4236109e9aa7c02b91edfa276984e237be781c026422ade3ec76c",
+      "reason": "同一商品・同容量の正式画像が取得できる別店舗への購入先更新。Verifiedは変更しない。"
+    },
+    {
+      "file": "src/commerce/generated/product-media.json",
+      "sakeId": "morishima-miyamanishiki-junmai-ginjo-hiire-v1",
+      "beforeSha256": "5d2dedb6e9eaf33f09848020d01b1ba50abc1254de04e6194ec2f623c56ef690",
+      "afterSha256": "ca632f5fd655e462aa203c593375577ea5720140ab84aee6e2407a338a63b1d7",
+      "reason": "購入可能な同一SKU・同容量の別店舗で発行した正式画像原本へ更新。旧原本は開始時監査に保持。"
+    },
+    {
+      "file": "src/commerce/generated/purchase-matches.json",
+      "sakeId": "narutotai-junmai-tomoe-v1",
+      "beforeSha256": "e5c93600a27257e26f04526a7f85c8947914eeafaa74c28f8d145ea12bac746e",
+      "afterSha256": "ce5766e7d7afa91d747c3ca66c26bb7f06abb5f1a08ba15dd147af5c8bd97a00",
+      "reason": "同一商品・同容量の正式画像が取得できる別店舗への購入先更新。Verifiedは変更しない。"
+    },
+    {
+      "file": "src/commerce/generated/product-media.json",
+      "sakeId": "narutotai-junmai-tomoe-v1",
+      "beforeSha256": "a0bc7dcd28dff5db081ee708c18c18181a38b4310cd2c3ac27fd7bd08285b9df",
+      "afterSha256": "1f15f0fab26327c84d2313d5d7ea85d9e410c0648c9d30c673004a6acd74021c",
+      "reason": "購入可能な同一SKU・同容量の別店舗で発行した正式画像原本へ更新。旧原本は開始時監査に保持。"
+    },
+    {
+      "file": "src/commerce/generated/purchase-matches.json",
+      "sakeId": "shichihonyari-lvvrsw",
+      "beforeSha256": "9cbb0036713ab6ffb7c44509959f37ddb52155deda5ebe3c092490662ea42075",
+      "afterSha256": "dcbe991ecb75e13763588d8df2a16fdfd58b9420596d6330c17b2aebe4bd45cd",
+      "reason": "現行購入先未確認。商品同定や過去の承認は保持し、購入ボタンだけ検索fallbackへ戻す。"
+    },
+    {
+      "file": "src/commerce/generated/purchase-matches.json",
+      "sakeId": "kurawanka-junmai-usunigori-v1",
+      "beforeSha256": "d76bc3ffffd6bf69e8a3ccf42293fc323bd52ba81e0e095a73773ba2fffa464f",
+      "afterSha256": "e5bfcafe6067da9d38368c94461102038976bed462a908b2351bfb4e52e1ce8f",
+      "reason": "現行購入先未確認。商品同定や過去の承認は保持し、購入ボタンだけ検索fallbackへ戻す。"
+    },
+    {
+      "file": "src/commerce/generated/purchase-matches.json",
+      "sakeId": "minami-junmai-ginjo-matsuyamamitsui-standard-v1",
+      "beforeSha256": "399c929a6128745b42aa8dfdda089eb976d9ed613bbdaba631c8ae5b8b0ba9ca",
+      "afterSha256": "44983e6e5a11f49e625bfe4a26feed7bb4a5f78ad1034611073a044ec652c6e2",
+      "reason": "現行購入先未確認。商品同定や過去の承認は保持し、購入ボタンだけ検索fallbackへ戻す。"
+    }
+  ],
+  "automaticPublicationAllowed": false,
+  "purchaseBlockedIds": [
+    "shichihonyari-lvvrsw",
+    "kurawanka-junmai-usunigori-v1",
+    "minami-junmai-ginjo-matsuyamamitsui-standard-v1"
+  ],
+  "imageDisplayHeldIds": [
+    "shichihonyari-lvvrsw"
+  ]
+}

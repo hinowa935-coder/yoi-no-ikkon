@@ -16,7 +16,7 @@ import merchantLinks from '../../commerce/generated/merchant-links.json';
 import replacementIds from '../../commerce/generated/replacement-ids.json';
 import discoveryLinks from '../../commerce/generated/discovery-links.json';
 
-export function SearchCard({ item }) {
+export function SearchCard({ item, savedHistory = false }) {
   const dishes = dishesForSake(item);
   const merchant = merchantLinks.records[item.id];
   const links = buildResourceLinks(item).map(l=>merchant?.type==='E'&&l.href===merchant.originalUrl?{...l,label:'出典・参考を見る'}:l);
@@ -30,6 +30,7 @@ export function SearchCard({ item }) {
   if(merchant?.url&&merchant.type!=='E')purchase.push({href:merchant.url,label:merchant.label});
   const resources=[...new Map(links.concat(purchase).map(link=>[link.href,link])).values()];
   return <SakeCardPreview item={item} reason={dishes[0]?.reason}>
+    {savedHistory && <p className="muted-copy">以前の掲載商品です。おちょこにはそのまま残しています。</p>}
     <details className="card-details"><summary>料理・温度などを見る</summary><dl>
       {dishes.length > 0 && <><dt>このお酒に合う料理</dt><dd>{dishes.map(d => <Link key={d.name} href={`/food/${toPathSegment(d.name)}`}>{d.name} </Link>)}</dd></>}
       <dt>こんな夜に</dt><dd><SeasonalNightLinks nights={nightsForSake(item,Infinity).map(({id,name})=>({id,name}))} inline /></dd>

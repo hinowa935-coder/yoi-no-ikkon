@@ -2,13 +2,14 @@ import test from 'node:test';
 import assert from 'node:assert/strict';
 import fs from 'node:fs';
 import {additions as catalogAdditions} from './lib/catalog-fixture.mjs';
+import {reviewedImageRescueIds,reviewedPurchaseHoldIds} from './lib/reviewed-commerce-update.mjs';
 const read=p=>JSON.parse(fs.readFileSync(new URL('../'+p,import.meta.url)));
 const catalog=read('src/data/discoveryCatalog.json'),matches=read('src/commerce/generated/purchase-matches.json'),media=read('src/commerce/generated/product-media.json');
 const pairs=[['tsujun-mfekdo','tsujun-semi-junmai-ginjo-standard'],['hisagotaiko-junmai-ginjo-led-v1','hisagotaiko-ginjo-awa-yamadanishiki-standard'],['hyakushun-ia8tng','hyakushun-junmai-josen-standard']];
 test('fallback recovery keeps 492 identities and adds thirty-seven linked original creatives',()=>{
  assert.equal(catalog.items.length,492);assert.equal(new Set(catalog.items.map(i=>i.id)).size,492);
  const later=read('docs/rakuten-deep-review/published.json').rows;
- assert.equal(Object.values(matches).filter(m=>m.directLinkAllowed).length,352+later.length+catalogAdditions.length);assert.equal(Object.keys(media.records).length,344+later.filter(r=>r.imageAdded).length+catalogAdditions.length);
+ assert.equal(Object.values(matches).filter(m=>m.directLinkAllowed).length,352+later.length+catalogAdditions.length-reviewedPurchaseHoldIds.length);assert.equal(Object.keys(media.records).length,344+later.filter(r=>r.imageAdded).length+catalogAdditions.length+reviewedImageRescueIds.length);
  const additions=Object.values(matches).filter(m=>m.source==='fallbackRecoveryCurrentCommercialMatch');assert.equal(additions.length,37);
  for(const m of additions){assert.equal(m.matchType,'COMMERCIAL_MATCH');assert.equal(m.identityVerified,false);const image=media.records[m.sakeId];assert.equal(image.productUrl,m.normalUrl);assert.equal(image.itemCode,m.itemCode);assert.equal(image.imageCapacityMl,m.capacityMl);assert.equal(image.originalUnmodified,true);}
 });

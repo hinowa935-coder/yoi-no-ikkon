@@ -1,0 +1,1918 @@
+{
+  "checkedAt": "2026-10-19T23:29:22.102Z",
+  "rows": [
+    {
+      "sakeId": "tenbi-junmai-ginjo",
+      "productName": "天美 純米吟醸",
+      "normalUrl": "https://item.rakuten.co.jp/fukazawap-sake/tenbi_jg_hi_720/",
+      "itemCode": "fukazawap-sake:10002440",
+      "checkedAt": "2026-10-19T23:16:11.783Z",
+      "retrieved": true,
+      "status": 200,
+      "availability": {
+        "title": "【楽天市場】天美　TENBI　純米吟醸　長州酒造　火入れ　(白)　720ml：矢島酒店 楽天市場店",
+        "httpStatus": 200,
+        "sameDestination": true,
+        "itemId": "10002440",
+        "itemMatches": true,
+        "purchaseCondition": "sold-out",
+        "stockCondition": "sold-out",
+        "soldOut": true,
+        "purchaseControls": false,
+        "purchasable": false,
+        "state": "sold_out"
+      },
+      "state": "ONE_MERCHANT_SOLD_OUT_REQUIRES_ALTERNATIVES",
+      "automaticallyInactive": false,
+      "productIdentityNotRecertifiedByStockCheck": true,
+      "capacityMl": 720,
+      "searches": [
+        {
+          "query": "天美 純米吟醸 720ml",
+          "ok": true,
+          "error": null,
+          "count": 67,
+          "checkedAt": "2026-10-19T23:24:10.237Z"
+        },
+        {
+          "query": "天美 純米吟醸酒 720ml",
+          "ok": true,
+          "error": null,
+          "count": 60,
+          "checkedAt": "2026-10-19T23:24:10.469Z"
+        }
+      ],
+      "candidates": [
+        {
+          "itemCode": "mashidayahonten:10005918",
+          "normalUrl": "https://item.rakuten.co.jp/mashidayahonten/5903/",
+          "name": "天美 純米吟醸 生原酒 720ml",
+          "shopName": "増田屋本店",
+          "availability": 1,
+          "purchaseKind": "unconfirmed",
+          "checkedAt": "2026-10-19T23:24:10.469Z"
+        },
+        {
+          "itemCode": "mashidayahonten:10006136",
+          "normalUrl": "https://item.rakuten.co.jp/mashidayahonten/6072/",
+          "name": "天美 純米吟醸 火当て 720ml",
+          "shopName": "増田屋本店",
+          "availability": 1,
+          "purchaseKind": "unconfirmed",
+          "checkedAt": "2026-10-19T23:24:10.469Z"
+        },
+        {
+          "itemCode": "meishu-honpo:10005075",
+          "normalUrl": "https://item.rakuten.co.jp/meishu-honpo/17502/",
+          "name": "天美 TENBI 純米吟醸 白天 720ml てんび しろてん 長州酒造",
+          "shopName": "銘酒本舗 IMANAKA SAKESHOP",
+          "availability": 1,
+          "purchaseKind": "unconfirmed",
+          "checkedAt": "2026-10-19T23:24:10.469Z"
+        },
+        {
+          "itemCode": "meishu-honpo:10005176",
+          "normalUrl": "https://item.rakuten.co.jp/meishu-honpo/17511/",
+          "name": "天美 TENBI 純米吟醸 生原酒 白天 720ml てんび しろてん 長州酒造",
+          "shopName": "銘酒本舗 IMANAKA SAKESHOP",
+          "availability": 1,
+          "purchaseKind": "unconfirmed",
+          "checkedAt": "2026-10-19T23:24:10.469Z"
+        },
+        {
+          "itemCode": "kajiwara:10008047",
+          "normalUrl": "https://item.rakuten.co.jp/kajiwara/10008047/",
+          "name": "天美　純米吟醸　生原酒　720ml",
+          "shopName": "KAJIWARA",
+          "availability": 1,
+          "purchaseKind": "unconfirmed",
+          "checkedAt": "2026-10-19T23:24:10.469Z"
+        },
+        {
+          "itemCode": "hasegawasaketen:10013824",
+          "normalUrl": "https://item.rakuten.co.jp/hasegawasaketen/1013061/",
+          "name": "天美 純米吟醸 720ml 長州酒造",
+          "shopName": "はせがわ酒店",
+          "availability": 1,
+          "purchaseKind": "unconfirmed",
+          "checkedAt": "2026-10-19T23:24:10.469Z"
+        },
+        {
+          "itemCode": "kajiwara:10008160",
+          "normalUrl": "https://item.rakuten.co.jp/kajiwara/10008160/",
+          "name": "天美　純米吟醸　720ml［山口県］",
+          "shopName": "KAJIWARA",
+          "availability": 1,
+          "purchaseKind": "unconfirmed",
+          "checkedAt": "2026-10-19T23:24:10.469Z"
+        },
+        {
+          "itemCode": "mighty-liquors:10004264",
+          "normalUrl": "https://item.rakuten.co.jp/mighty-liquors/10004264/",
+          "name": "天美 純米吟醸 生原酒 720ml 2025年10月以降詰め 【要冷蔵・クール便推奨】 日本酒 秋 ハロウィン 秋の味覚 手土産 贈り物 プレゼント あす楽 ギフト のし 贈答品 お祝 御祝 誕生日 内祝",
+          "shopName": "日本酒・焼酎 マイティ・リカーズ",
+          "availability": 1,
+          "purchaseKind": "unconfirmed",
+          "checkedAt": "2026-10-19T23:24:10.469Z"
+        },
+        {
+          "itemCode": "umeshu:10011367",
+          "normalUrl": "https://item.rakuten.co.jp/umeshu/1274-08-0720/",
+          "name": "天美 純米吟醸 火当て（白天） 720ml 長州酒造 山口県15度 ギフト プレゼント 父の日 お中元 お歳暮 お正月 日本酒 酒 お酒【要冷蔵】",
+          "shopName": "梅酒屋",
+          "availability": 1,
+          "purchaseKind": "unconfirmed",
+          "checkedAt": "2026-10-19T23:24:10.469Z"
+        },
+        {
+          "itemCode": "ono-sake:10005053",
+          "normalUrl": "https://item.rakuten.co.jp/ono-sake/4570083960035/",
+          "name": "天美 純米吟醸（白天）火入 720ml 日本酒",
+          "shopName": "日本酒・焼酎の小野酒店",
+          "availability": 1,
+          "purchaseKind": "unconfirmed",
+          "checkedAt": "2026-10-19T23:24:10.469Z"
+        },
+        {
+          "itemCode": "mighty-liquors:10007658",
+          "normalUrl": "https://item.rakuten.co.jp/mighty-liquors/sa1841081/",
+          "name": "天美 純米吟醸 生原酒 720ml 2024年11月詰め 【要冷蔵・クール便推奨】 日本酒 秋 ハロウィン 秋の味覚 手土産 贈り物 プレゼント あす楽 ギフト のし 贈答品 お祝 御祝 誕生日 内祝 還暦祝い",
+          "shopName": "日本酒・焼酎 マイティ・リカーズ",
+          "availability": 1,
+          "purchaseKind": "unconfirmed",
+          "checkedAt": "2026-10-19T23:24:10.469Z"
+        },
+        {
+          "itemCode": "f352012-shimonoseki:10001910",
+          "normalUrl": "https://item.rakuten.co.jp/f352012-shimonoseki/es107/",
+          "name": "【ふるさと納税】 日本酒 720ml 純米吟醸酒 天美 白天 お酒 酒 日本酒 人気日本酒 おすすめ日本酒 TENBI てんび 長州酒造 吟醸酒 飲み比べ フレッシュ フルーティー プレゼント ギフト 銘酒 贈り物 贈答 家飲み 晩酌 お中元 お歳暮 記念日 父の日 母の日 下関 山口",
+          "shopName": "山口県下関市",
+          "availability": 1,
+          "purchaseKind": "donation",
+          "checkedAt": "2026-10-19T23:24:10.469Z"
+        },
+        {
+          "itemCode": "ono-sake:10005072",
+          "normalUrl": "https://item.rakuten.co.jp/ono-sake/4570083960059/",
+          "name": "天美 純米吟醸（白天）生原酒 720ml 日本酒",
+          "shopName": "日本酒・焼酎の小野酒店",
+          "availability": 1,
+          "purchaseKind": "unconfirmed",
+          "checkedAt": "2026-10-19T23:24:10.469Z"
+        },
+        {
+          "itemCode": "mighty-liquors:10008046",
+          "normalUrl": "https://item.rakuten.co.jp/mighty-liquors/sa1841011/",
+          "name": "天美 純米吟醸 720ml 2025年2月以降詰め 【要冷蔵・クール便推奨】 日本酒 秋 ハロウィン 秋の味覚 手土産 贈り物 プレゼント あす楽 ギフト のし 贈答品 お祝 御祝 誕生日 内祝 還暦祝い",
+          "shopName": "日本酒・焼酎 マイティ・リカーズ",
+          "availability": 1,
+          "purchaseKind": "unconfirmed",
+          "checkedAt": "2026-10-19T23:24:10.469Z"
+        },
+        {
+          "itemCode": "yamasake:10010329",
+          "normalUrl": "https://item.rakuten.co.jp/yamasake/8103/",
+          "name": "天美 TENBI 純米吟醸 生原酒 白天 720ml/ 山口県 長州酒造【 8103 】【 日本酒 】【 要冷蔵 】【 ハロウィン 贈り物 ギフト プレゼント 】",
+          "shopName": "酒の番人 ヤマカワ",
+          "availability": 1,
+          "purchaseKind": "unconfirmed",
+          "checkedAt": "2026-10-19T23:24:10.469Z"
+        },
+        {
+          "itemCode": "hasegawasaketen:10013443",
+          "normalUrl": "https://item.rakuten.co.jp/hasegawasaketen/1012952/",
+          "name": "天美 純米吟醸 生原酒 720ml 長州酒造",
+          "shopName": "はせがわ酒店",
+          "availability": 1,
+          "purchaseKind": "unconfirmed",
+          "checkedAt": "2026-10-19T23:24:10.469Z"
+        },
+        {
+          "itemCode": "umeshu:10011227",
+          "normalUrl": "https://item.rakuten.co.jp/umeshu/1274-04-0720/",
+          "name": "天美 純米吟醸 生原酒 720ml 【長州酒造／山口県】【要冷蔵】【日本酒】",
+          "shopName": "梅酒屋",
+          "availability": 1,
+          "purchaseKind": "unconfirmed",
+          "checkedAt": "2026-10-19T23:24:10.469Z"
+        },
+        {
+          "itemCode": "mighty-liquors:10008957",
+          "normalUrl": "https://item.rakuten.co.jp/mighty-liquors/sa184117/",
+          "name": "天美 純米吟醸 蒼 720ml 日本酒 秋 ハロウィン 秋の味覚 手土産 贈り物 プレゼント あす楽 ギフト のし 贈答品 お祝 御祝 誕生日 内祝 還暦祝い 結婚祝い 出産祝い お酒 就職祝 退職祝",
+          "shopName": "日本酒・焼酎 マイティ・リカーズ",
+          "availability": 1,
+          "purchaseKind": "unconfirmed",
+          "checkedAt": "2026-10-19T23:24:10.469Z"
+        },
+        {
+          "itemCode": "kyoto-sake-2940:10001703",
+          "normalUrl": "https://item.rakuten.co.jp/kyoto-sake-2940/tenbi-nwt-720/",
+          "name": "天美 TENBI 白天 純米吟醸 生原酒 720ml 山口 長州酒造",
+          "shopName": "京都のさか屋ふくしま",
+          "availability": 1,
+          "purchaseKind": "unconfirmed",
+          "checkedAt": "2026-10-19T23:24:10.469Z"
+        },
+        {
+          "itemCode": "f352012-shimonoseki:10001890",
+          "normalUrl": "https://item.rakuten.co.jp/f352012-shimonoseki/ew177/",
+          "name": "【ふるさと納税】 日本酒 純米吟醸酒 720ml お酒 酒 天美 白天 純米 吟醸酒 人気日本酒 おすすめ日本酒 長州酒造 TENBI プレゼント ギフト 銘酒 贈り物 贈答 家飲み 晩酌 お中元 記念日 父の日 下関 山口",
+          "shopName": "山口県下関市",
+          "availability": 1,
+          "purchaseKind": "donation",
+          "checkedAt": "2026-10-19T23:24:10.469Z"
+        },
+        {
+          "itemCode": "f352012-shimonoseki:10001891",
+          "normalUrl": "https://item.rakuten.co.jp/f352012-shimonoseki/ew178/",
+          "name": "【ふるさと納税】 日本酒 2本 セット 特別純米酒 純米吟醸酒 720ml×2 お酒 酒 天美 黒天 白天 純米 吟醸酒 純米酒 人気日本酒 おすすめ日本酒 長州酒造 TENBI プレゼント ギフト 銘酒 贈り物 贈答 家飲み 晩酌 お中元 記念日 父の日 下関 山口",
+          "shopName": "山口県下関市",
+          "availability": 1,
+          "purchaseKind": "donation",
+          "checkedAt": "2026-10-19T23:24:10.469Z"
+        },
+        {
+          "itemCode": "f352012-shimonoseki:10001908",
+          "normalUrl": "https://item.rakuten.co.jp/f352012-shimonoseki/es105/",
+          "name": "【ふるさと納税】 日本酒 2本 セット 特別純米酒 純米吟醸酒 天美 黒天 白天 720ml × 2 酒 お酒 人気日本酒 おすすめ日本酒 TENBI 長州酒造 飲み比べ フレッシュ フルーティー プレゼント ギフト 銘酒 贈り物 贈答 家飲み 晩酌 お中元 お歳暮 記念日 父の日 下関 山口",
+          "shopName": "山口県下関市",
+          "availability": 1,
+          "purchaseKind": "donation",
+          "checkedAt": "2026-10-19T23:24:10.469Z"
+        },
+        {
+          "itemCode": "mighty-liquors:10004372",
+          "normalUrl": "https://item.rakuten.co.jp/mighty-liquors/10004372/",
+          "name": "天美 純米大吟醸 720ml 木箱付き 2025年6月詰め 【要冷蔵・クール便推奨】 日本酒 秋 ハロウィン 秋の味覚 手土産 贈り物 プレゼント あす楽 ギフト のし 贈答品 お祝 御祝 誕生日 内祝",
+          "shopName": "日本酒・焼酎 マイティ・リカーズ",
+          "availability": 1,
+          "purchaseKind": "unconfirmed",
+          "checkedAt": "2026-10-19T23:24:10.469Z"
+        },
+        {
+          "itemCode": "meishu-honpo:10005269",
+          "normalUrl": "https://item.rakuten.co.jp/meishu-honpo/17512/",
+          "name": "天美 純米吟醸 うすにごり生原酒 桃天 720ml てんび ももてん 長州酒造",
+          "shopName": "銘酒本舗 IMANAKA SAKESHOP",
+          "availability": 0,
+          "purchaseKind": "unconfirmed",
+          "checkedAt": "2026-10-19T23:24:10.237Z"
+        },
+        {
+          "itemCode": "yamasake:10010416",
+          "normalUrl": "https://item.rakuten.co.jp/yamasake/8195/",
+          "name": "天美 TENBI 純米吟醸 うすにごり 生原酒 桃天 720ml/ 山口県 長州酒造【 8195 】【 日本酒 】【 要冷蔵 】【 ハロウィン 贈り物 ギフト プレゼント 】",
+          "shopName": "酒の番人 ヤマカワ",
+          "availability": 0,
+          "purchaseKind": "unconfirmed",
+          "checkedAt": "2026-10-19T23:24:10.469Z"
+        },
+        {
+          "itemCode": "ono-sake:10005103",
+          "normalUrl": "https://item.rakuten.co.jp/ono-sake/4570083960141/",
+          "name": "天美 純米吟醸 うすにごり（ピンクラベル）生原酒 720ml 日本酒",
+          "shopName": "日本酒・焼酎の小野酒店",
+          "availability": 0,
+          "purchaseKind": "unconfirmed",
+          "checkedAt": "2026-10-19T23:24:10.237Z"
+        },
+        {
+          "itemCode": "fukazawap-sake:10002440",
+          "normalUrl": "https://item.rakuten.co.jp/fukazawap-sake/tenbi_jg_hi_720/",
+          "name": "天美　TENBI　純米吟醸　長州酒造　火入れ　(白)　720ml",
+          "shopName": "矢島酒店 楽天市場店",
+          "availability": 0,
+          "purchaseKind": "unconfirmed",
+          "checkedAt": "2026-10-19T23:24:10.237Z"
+        },
+        {
+          "itemCode": "umeshu:10011261",
+          "normalUrl": "https://item.rakuten.co.jp/umeshu/1274-07-0720/",
+          "name": "【数量限定】天美 純米吟醸 うすにごり生 720ml 【長州酒造／山口県】【要冷蔵】【日本酒】",
+          "shopName": "梅酒屋",
+          "availability": 0,
+          "purchaseKind": "unconfirmed",
+          "checkedAt": "2026-10-19T23:24:10.237Z"
+        },
+        {
+          "itemCode": "meishu-honpo:10005157",
+          "normalUrl": "https://item.rakuten.co.jp/meishu-honpo/17508/",
+          "name": "予約期間10/17～11/1 出荷11/2～｜ 天美 新酒 純米吟醸 にごり生 雪天 720ml てんび ゆきてん 長州酒造",
+          "shopName": "銘酒本舗 IMANAKA SAKESHOP",
+          "availability": 0,
+          "purchaseKind": "unconfirmed",
+          "checkedAt": "2026-10-19T23:24:10.469Z"
+        },
+        {
+          "itemCode": "yamasake:10010339",
+          "normalUrl": "https://item.rakuten.co.jp/yamasake/8120/",
+          "name": "天美 TENBI 生原酒 720ml×3本セット 純米吟醸 生原酒 白天 + 特別純米 生原酒 黒天 + 新酒 純米吟醸 にごり生 雪天/ 山口県 長州酒造【 8120 】【 日本酒 】【 要冷蔵 】【 送料無料 】【 ハロウィン 贈り物 ギフト プレゼント 】",
+          "shopName": "酒の番人 ヤマカワ",
+          "availability": 0,
+          "purchaseKind": "bundle",
+          "checkedAt": "2026-10-19T23:24:10.469Z"
+        },
+        {
+          "itemCode": "kyoto-sake-2940:10002051",
+          "normalUrl": "https://item.rakuten.co.jp/kyoto-sake-2940/tenbi-wt-720/",
+          "name": "天美 TENBI 純米吟醸酒 火当て 白天 720ml 山口 長州酒造",
+          "shopName": "京都のさか屋ふくしま",
+          "availability": 0,
+          "purchaseKind": "unconfirmed",
+          "checkedAt": "2026-10-19T23:24:10.469Z"
+        },
+        {
+          "itemCode": "craftbeer:10003519",
+          "normalUrl": "https://item.rakuten.co.jp/craftbeer/102718/",
+          "name": "天美 純米大吟醸 廣島千本錦 720ml【長州酒造】【山口県】",
+          "shopName": "酒の岡田屋",
+          "availability": 0,
+          "purchaseKind": "unconfirmed",
+          "checkedAt": "2026-10-19T23:24:10.469Z"
+        },
+        {
+          "itemCode": "ono-sake:10005091",
+          "normalUrl": "https://item.rakuten.co.jp/ono-sake/4570083960233/",
+          "name": "天美 純米吟醸 にごり 生 720ml 日本酒",
+          "shopName": "日本酒・焼酎の小野酒店",
+          "availability": 0,
+          "purchaseKind": "unconfirmed",
+          "checkedAt": "2026-10-19T23:24:10.469Z"
+        },
+        {
+          "itemCode": "yamasake:10010327",
+          "normalUrl": "https://item.rakuten.co.jp/yamasake/8101/",
+          "name": "天美 TENBI 純米吟醸 火入 白天 720ml/ 山口県 長州酒造【 8101 】【 日本酒 】【 要冷蔵 】【 ハロウィン 贈り物 ギフト プレゼント 】",
+          "shopName": "酒の番人 ヤマカワ",
+          "availability": 0,
+          "purchaseKind": "unconfirmed",
+          "checkedAt": "2026-10-19T23:24:10.469Z"
+        }
+      ],
+      "verdict": "REQUIRES_SKU_AND_IMAGE_REVIEW_NOT_AUTOMATIC"
+    },
+    {
+      "sakeId": "shichihonyari-lvvrsw",
+      "productName": "七本鎗 無農薬純米 無有",
+      "normalUrl": "https://item.rakuten.co.jp/hasegawasaketen/1003411/",
+      "itemCode": "hasegawasaketen:10007410",
+      "checkedAt": "2026-10-19T23:17:21.356Z",
+      "retrieved": false,
+      "status": 404,
+      "availability": {
+        "title": "【楽天市場】エラー",
+        "httpStatus": 404,
+        "sameDestination": true,
+        "itemId": null,
+        "itemMatches": false,
+        "purchaseCondition": null,
+        "stockCondition": null,
+        "soldOut": false,
+        "purchaseControls": false,
+        "purchasable": false,
+        "state": "http_unconfirmed"
+      },
+      "state": "UNCONFIRMED_NOT_ABSENCE",
+      "automaticallyInactive": false,
+      "productIdentityNotRecertifiedByStockCheck": true,
+      "capacityMl": 720,
+      "searches": [
+        {
+          "query": "七本鎗 無農薬純米 無有 720ml",
+          "ok": true,
+          "error": null,
+          "count": 0,
+          "checkedAt": "2026-10-19T23:24:11.540Z"
+        },
+        {
+          "query": "七本鎗 純米酒 720ml",
+          "ok": true,
+          "error": null,
+          "count": 12,
+          "checkedAt": "2026-10-19T23:24:12.650Z"
+        },
+        {
+          "query": "七本鎗 無有",
+          "ok": true,
+          "error": null,
+          "count": 3,
+          "checkedAt": "2026-10-19T23:29:20.818Z"
+        }
+      ],
+      "candidates": [
+        {
+          "itemCode": "kurastyle:10005582",
+          "normalUrl": "https://item.rakuten.co.jp/kurastyle/12395501/",
+          "name": "七本鎗 純米 玉栄 720ml 冨田酒造 滋賀県 日本酒 酒",
+          "shopName": "お酒の販売店 クラスタイル",
+          "availability": 1,
+          "purchaseKind": "unconfirmed",
+          "checkedAt": "2026-10-19T23:24:12.650Z"
+        },
+        {
+          "itemCode": "hasegawasaketen:10007374",
+          "normalUrl": "https://item.rakuten.co.jp/hasegawasaketen/1003366/",
+          "name": "七本鎗 純米原酒 14 720ml 日本酒 冨田酒造 滋賀県",
+          "shopName": "はせがわ酒店",
+          "availability": 1,
+          "purchaseKind": "unconfirmed",
+          "checkedAt": "2026-10-19T23:24:12.650Z"
+        },
+        {
+          "itemCode": "kaneioka:10001790",
+          "normalUrl": "https://item.rakuten.co.jp/kaneioka/compass1788759617/",
+          "name": "【送料無料（一部地域を除く）】七本鎗 純米 渡船 720ml瓶",
+          "shopName": "カネイ酔良マーケット",
+          "availability": 1,
+          "purchaseKind": "unconfirmed",
+          "checkedAt": "2026-10-19T23:24:12.650Z"
+        },
+        {
+          "itemCode": "kurastyle:10005590",
+          "normalUrl": "https://item.rakuten.co.jp/kurastyle/12395505/",
+          "name": "七本鎗 純米 14度原酒 720ml 冨田酒造 滋賀県 日本酒 酒",
+          "shopName": "お酒の販売店 クラスタイル",
+          "availability": 0,
+          "purchaseKind": "unconfirmed",
+          "checkedAt": "2026-10-19T23:24:12.650Z"
+        },
+        {
+          "itemCode": "kurastyle:10005585",
+          "normalUrl": "https://item.rakuten.co.jp/kurastyle/12395502/",
+          "name": "七本鎗 低精白純米 80%精米 火入れ 720ml 冨田酒造 滋賀県 日本酒 酒",
+          "shopName": "お酒の販売店 クラスタイル",
+          "availability": 0,
+          "purchaseKind": "unconfirmed",
+          "checkedAt": "2026-10-19T23:24:12.650Z"
+        },
+        {
+          "itemCode": "kurastyle:10005589",
+          "normalUrl": "https://item.rakuten.co.jp/kurastyle/12395504/",
+          "name": "七本鎗 純米 渡船 77%精米 720ml 冨田酒造 滋賀県 日本酒 酒",
+          "shopName": "お酒の販売店 クラスタイル",
+          "availability": 0,
+          "purchaseKind": "unconfirmed",
+          "checkedAt": "2026-10-19T23:24:12.650Z"
+        },
+        {
+          "itemCode": "kaneioka:10001788",
+          "normalUrl": "https://item.rakuten.co.jp/kaneioka/compass1788759010/",
+          "name": "【送料無料（一部地域を除く）】七本鎗 純米吟醸 720ml瓶 富田酒造",
+          "shopName": "カネイ酔良マーケット",
+          "availability": 0,
+          "purchaseKind": "unconfirmed",
+          "checkedAt": "2026-10-19T23:24:12.650Z"
+        },
+        {
+          "itemCode": "kaneioka:10001767",
+          "normalUrl": "https://item.rakuten.co.jp/kaneioka/compass1764123688/",
+          "name": "【送料無料（一部地域を除く）】七本鎗 大吟醸 720ml 富田酒造",
+          "shopName": "カネイ酔良マーケット",
+          "availability": 0,
+          "purchaseKind": "unconfirmed",
+          "checkedAt": "2026-10-19T23:24:12.650Z"
+        },
+        {
+          "itemCode": "kaneioka:10001789",
+          "normalUrl": "https://item.rakuten.co.jp/kaneioka/compass1788759511/",
+          "name": "【送料無料（一部地域を除く）】七本鎗純米酒720ml1本瓶",
+          "shopName": "カネイ酔良マーケット",
+          "availability": 1,
+          "purchaseKind": "unconfirmed",
+          "checkedAt": "2026-10-19T23:24:12.650Z"
+        },
+        {
+          "itemCode": "hasegawasaketen:10017162",
+          "normalUrl": "https://item.rakuten.co.jp/hasegawasaketen/1015885/",
+          "name": "七本鎗 生もと純米 琥刻 ここく 2025 7BY 720ml 日本酒 冨田酒造 滋賀県",
+          "shopName": "はせがわ酒店",
+          "availability": 1,
+          "purchaseKind": "unconfirmed",
+          "checkedAt": "2026-10-19T23:24:12.650Z"
+        },
+        {
+          "itemCode": "hakataimoto:10001589",
+          "normalUrl": "https://item.rakuten.co.jp/hakataimoto/shichi-jundai-hiya-720/",
+          "name": "七本鎗 純米酒 山田錦 ひやおろし 720ml",
+          "shopName": "お酒の専門店エルア",
+          "availability": 0,
+          "purchaseKind": "unconfirmed",
+          "checkedAt": "2026-10-19T23:24:12.650Z"
+        },
+        {
+          "itemCode": "hakataimoto:10001910",
+          "normalUrl": "https://item.rakuten.co.jp/hakataimoto/shichi-natsu-gin-720/",
+          "name": "七本鎗 夏純 吟吹雪 720ml",
+          "shopName": "お酒の専門店エルア",
+          "availability": 0,
+          "purchaseKind": "unconfirmed",
+          "checkedAt": "2026-10-19T23:24:12.650Z"
+        },
+        {
+          "itemCode": "hasegawasaketen:10007409",
+          "normalUrl": "https://item.rakuten.co.jp/hasegawasaketen/1003410/",
+          "name": "七本鎗 無有 無農薬純米 1800ml 冨田酒造",
+          "shopName": "はせがわ酒店",
+          "availability": 1,
+          "purchaseKind": "unconfirmed",
+          "checkedAt": "2026-10-19T23:29:20.818Z"
+        },
+        {
+          "itemCode": "hakataimoto:10001099",
+          "normalUrl": "https://item.rakuten.co.jp/hakataimoto/shichihon-muu-1800/",
+          "name": "七本鎗 無有 （むう） 無農薬純米 1800ml",
+          "shopName": "お酒の専門店エルア",
+          "availability": 0,
+          "purchaseKind": "unconfirmed",
+          "checkedAt": "2026-10-19T23:29:20.818Z"
+        },
+        {
+          "itemCode": "hakataimoto:10001541",
+          "normalUrl": "https://item.rakuten.co.jp/hakataimoto/7hon-mu-jm-nama-1800/",
+          "name": "七本鎗 無有 純米 生酒 1800ml",
+          "shopName": "お酒の専門店エルア",
+          "availability": 0,
+          "purchaseKind": "unconfirmed",
+          "checkedAt": "2026-10-19T23:29:20.818Z"
+        }
+      ],
+      "verdict": "REQUIRES_SKU_AND_IMAGE_REVIEW_NOT_AUTOMATIC"
+    },
+    {
+      "sakeId": "kokuryu-junmai-ginjo-1",
+      "productName": "黒龍 純米大吟醸",
+      "normalUrl": "https://item.rakuten.co.jp/kaze-sake/10712071/",
+      "itemCode": "kaze-sake:10002432",
+      "checkedAt": "2026-10-19T23:18:44.873Z",
+      "retrieved": false,
+      "status": 404,
+      "availability": {
+        "title": "【楽天市場】エラー",
+        "httpStatus": 404,
+        "sameDestination": true,
+        "itemId": null,
+        "itemMatches": false,
+        "purchaseCondition": null,
+        "stockCondition": null,
+        "soldOut": false,
+        "purchaseControls": false,
+        "purchasable": false,
+        "state": "http_unconfirmed"
+      },
+      "state": "UNCONFIRMED_NOT_ABSENCE",
+      "automaticallyInactive": false,
+      "productIdentityNotRecertifiedByStockCheck": true,
+      "capacityMl": 720,
+      "searches": [
+        {
+          "query": "黒龍 純米大吟醸 720ml",
+          "ok": true,
+          "error": null,
+          "count": 191,
+          "checkedAt": "2026-10-19T23:24:13.818Z"
+        },
+        {
+          "query": "黒龍 純米大吟醸酒 720ml",
+          "ok": true,
+          "error": null,
+          "count": 166,
+          "checkedAt": "2026-10-19T23:24:15.001Z"
+        }
+      ],
+      "candidates": [
+        {
+          "itemCode": "auc-chitashige:10011602",
+          "normalUrl": "https://item.rakuten.co.jp/auc-chitashige/35022301/",
+          "name": "黒龍　純米大吟醸　720ml【送料無料非該当商品】【全国屈指の人気！福井の限定酒！】",
+          "shopName": "酒専門店 知多繁 楽天市場店",
+          "availability": 1,
+          "purchaseKind": "unconfirmed",
+          "checkedAt": "2026-10-19T23:24:15.001Z"
+        },
+        {
+          "itemCode": "hakataimoto:10000132",
+          "normalUrl": "https://item.rakuten.co.jp/hakataimoto/2l-gdei-4vbk/",
+          "name": "黒龍 純米大吟醸 720ml",
+          "shopName": "お酒の専門店エルア",
+          "availability": 1,
+          "purchaseKind": "unconfirmed",
+          "checkedAt": "2026-10-19T23:24:15.001Z"
+        },
+        {
+          "itemCode": "b-liquors:10000643",
+          "normalUrl": "https://item.rakuten.co.jp/b-liquors/kokuryu-nizaemon/",
+          "name": "【年1回発売2025年11月製／最新】黒龍　二左衛門 ≪純米大吟醸≫720ml〔化粧箱付〕クール限定【冷3】【□】　お土産・誕生日・手土産・プレゼント・お酒・御歳暮・お歳暮・冬ギフト・おすすめ・日本酒・包装無料・",
+          "shopName": "ビッグリカーズ",
+          "availability": 1,
+          "purchaseKind": "unconfirmed",
+          "checkedAt": "2026-10-19T23:24:15.001Z"
+        },
+        {
+          "itemCode": "jizake-watanabe:10012555",
+          "normalUrl": "https://item.rakuten.co.jp/jizake-watanabe/shizuku-set-720/",
+          "name": "超限定日本酒セット（黒龍 大吟醸 しずく／姿 純米大吟醸 無濾過原酒 雄町／正雪 純米大吟醸 備前雄町）【720ml 3本】 ※お一人様1セットまで ※配送指定は1週間以内でお願いします",
+          "shopName": "地酒ワタナベ",
+          "availability": 1,
+          "purchaseKind": "bundle",
+          "checkedAt": "2026-10-19T23:24:15.001Z"
+        },
+        {
+          "itemCode": "auc-chitashige:10010878",
+          "normalUrl": "https://item.rakuten.co.jp/auc-chitashige/34093003/",
+          "name": "黒龍　無二　2017　純米大吟醸　720ml【2026年販売分】",
+          "shopName": "酒専門店 知多繁 楽天市場店",
+          "availability": 1,
+          "purchaseKind": "unconfirmed",
+          "checkedAt": "2026-10-19T23:24:15.001Z"
+        },
+        {
+          "itemCode": "hyousuke:10000091",
+          "normalUrl": "https://item.rakuten.co.jp/hyousuke/10000091/",
+          "name": "黒龍酒造 黒龍 大吟醸純米酒 あどそ 720ml【福井県内特約店限定酒】 日本酒 福井 地酒 地元 五百万石 限定 専用化粧箱入り 贈答 ギフト プレゼント 家飲み お祝 お礼 黒龍 感謝 ギフト 贈答 人気 敬老の日 秋の味覚 お月見",
+          "shopName": "おさけやさん兵助",
+          "availability": 1,
+          "purchaseKind": "unconfirmed",
+          "checkedAt": "2026-10-19T23:24:13.818Z"
+        },
+        {
+          "itemCode": "tourin-palette:10000293",
+          "normalUrl": "https://item.rakuten.co.jp/tourin-palette/10000293/",
+          "name": "楽天スーパーSALE黒龍 石田屋 純米大吟醸 720ml【2025年11月製造分】御誕生日 御祝 内祝 感謝 御礼 超人気 豪華 トレンディ秋 敬老の日 2026 おじいちゃん　おばあちゃん 贈り物 ギフト メッセージカード",
+          "shopName": "とうりんパレット",
+          "availability": 1,
+          "purchaseKind": "unconfirmed",
+          "checkedAt": "2026-10-19T23:24:15.001Z"
+        },
+        {
+          "itemCode": "auc-chitashige:10014573",
+          "normalUrl": "https://item.rakuten.co.jp/auc-chitashige/37082902/",
+          "name": "黒龍 純米大吟醸　山田錦　720ml【全国屈指の人気！福井の限定酒！】",
+          "shopName": "酒専門店 知多繁 楽天市場店",
+          "availability": 1,
+          "purchaseKind": "unconfirmed",
+          "checkedAt": "2026-10-19T23:24:15.001Z"
+        },
+        {
+          "itemCode": "tourin-palette:10000402",
+          "normalUrl": "https://item.rakuten.co.jp/tourin-palette/10000402/",
+          "name": "楽天スーパーSALE黒龍 二左衛門 純米大吟醸 720ml【2025年11月製造分】御誕生日 御祝 内祝 感謝 御礼 超人気 豪華 トレンディ秋 敬老の日 2026 おじいちゃん　おばあちゃん 贈り物 ギフト メッセージカード",
+          "shopName": "とうりんパレット",
+          "availability": 1,
+          "purchaseKind": "unconfirmed",
+          "checkedAt": "2026-10-19T23:24:15.001Z"
+        },
+        {
+          "itemCode": "hyousuke:10000408",
+          "normalUrl": "https://item.rakuten.co.jp/hyousuke/jd-025-kr-010/",
+          "name": "黒龍 あどそ 純米大吟醸 720ml 福井限定 日本酒 黒龍酒造 化粧箱入り 贈答用 ギフト敬老の日 秋の味覚 お月見",
+          "shopName": "おさけやさん兵助",
+          "availability": 1,
+          "purchaseKind": "unconfirmed",
+          "checkedAt": "2026-10-19T23:24:15.001Z"
+        },
+        {
+          "itemCode": "kaze-sake:10000677",
+          "normalUrl": "https://item.rakuten.co.jp/kaze-sake/10000677/",
+          "name": "【2025年8月】黒龍 山田錦 純米大吟醸 720ml",
+          "shopName": "酒 焼酎の風",
+          "availability": 1,
+          "purchaseKind": "unconfirmed",
+          "checkedAt": "2026-10-19T23:24:15.001Z"
+        },
+        {
+          "itemCode": "malco:10002770",
+          "normalUrl": "https://item.rakuten.co.jp/malco/10001357/",
+          "name": "福井の地酒　720ml×2本入り　Σセット　紙製化粧箱入り【黒龍　大吟醸＆白龍　純米大吟醸】【永平寺町　吉田酒造株式会社】【永平寺町松岡　黒龍酒造株式会社】★仕入れ数に制限があります。▼",
+          "shopName": "福井の地酒とワイン まるこ",
+          "availability": 1,
+          "purchaseKind": "bundle",
+          "checkedAt": "2026-10-19T23:24:15.001Z"
+        },
+        {
+          "itemCode": "tourin-palette:10000131",
+          "normalUrl": "https://item.rakuten.co.jp/tourin-palette/10000131/",
+          "name": "楽天スーパーSALE黒龍 干支ボトル 巳年 2025 純米大吟醸生原酒 720ml御誕生日 御祝 内祝 感謝 御礼 超人気 豪華 トレンディ秋 敬老の日 2026 おじいちゃん　おばあちゃん 贈り物 ギフト メッセージカード",
+          "shopName": "とうりんパレット",
+          "availability": 1,
+          "purchaseKind": "unconfirmed",
+          "checkedAt": "2026-10-19T23:24:15.001Z"
+        },
+        {
+          "itemCode": "meishu-honpo:10007452",
+          "normalUrl": "https://item.rakuten.co.jp/meishu-honpo/7785/",
+          "name": "黒龍 無二 2018 純米大吟醸 2026年入札会 落札 720ml むに 送料・クール便無料 黒龍酒造",
+          "shopName": "銘酒本舗 IMANAKA SAKESHOP",
+          "availability": 1,
+          "purchaseKind": "unconfirmed",
+          "checkedAt": "2026-10-19T23:24:15.001Z"
+        },
+        {
+          "itemCode": "auc-chitashige:10010877",
+          "normalUrl": "https://item.rakuten.co.jp/auc-chitashige/34093002/",
+          "name": "黒龍　無二　2016　純米大吟醸　720ml【2026年販売分】",
+          "shopName": "酒専門店 知多繁 楽天市場店",
+          "availability": 1,
+          "purchaseKind": "unconfirmed",
+          "checkedAt": "2026-10-19T23:24:15.001Z"
+        },
+        {
+          "itemCode": "kaze-sake:10001589",
+          "normalUrl": "https://item.rakuten.co.jp/kaze-sake/10001589/",
+          "name": "【2026年】黒龍 純米大吟醸 無二 2017 720ml【送料無料・クール便発送】",
+          "shopName": "酒 焼酎の風",
+          "availability": 1,
+          "purchaseKind": "unconfirmed",
+          "checkedAt": "2026-10-19T23:24:15.001Z"
+        },
+        {
+          "itemCode": "kanteikyoku-kanazawa:10018955",
+          "normalUrl": "https://item.rakuten.co.jp/kanteikyoku-kanazawa/c25-2351/",
+          "name": "【石川県限定発送】日本酒 黒龍 石田屋 2023 720ml 16% 純米大吟醸 2025年11月製造 黒龍酒造 内外箱付き",
+          "shopName": "質屋 かんてい局石川 楽天市場店",
+          "availability": 1,
+          "purchaseKind": "unconfirmed",
+          "checkedAt": "2026-10-19T23:24:15.001Z"
+        },
+        {
+          "itemCode": "kaze-sake:10001590",
+          "normalUrl": "https://item.rakuten.co.jp/kaze-sake/10001590/",
+          "name": "【2026年】黒龍 純米大吟醸 無二 2016 720ml【送料無料・クール便発送】",
+          "shopName": "酒 焼酎の風",
+          "availability": 1,
+          "purchaseKind": "unconfirmed",
+          "checkedAt": "2026-10-19T23:24:15.001Z"
+        },
+        {
+          "itemCode": "auc-chitashige:10010876",
+          "normalUrl": "https://item.rakuten.co.jp/auc-chitashige/34093001/",
+          "name": "黒龍　無二　2018　純米大吟醸　720ml【2026年販売分】",
+          "shopName": "酒専門店 知多繁 楽天市場店",
+          "availability": 1,
+          "purchaseKind": "unconfirmed",
+          "checkedAt": "2026-10-19T23:24:15.001Z"
+        },
+        {
+          "itemCode": "auc-chitashige:10005578",
+          "normalUrl": "https://item.rakuten.co.jp/auc-chitashige/30092303/",
+          "name": "黒龍　無二　2019　純米大吟醸　720ml【2026年販売分】",
+          "shopName": "酒専門店 知多繁 楽天市場店",
+          "availability": 1,
+          "purchaseKind": "unconfirmed",
+          "checkedAt": "2026-10-19T23:24:15.001Z"
+        },
+        {
+          "itemCode": "malco:10002620",
+          "normalUrl": "https://item.rakuten.co.jp/malco/10001302/",
+          "name": "越の磯　さかほまれ　無の心　純米大吟醸　720ml瓶　箱付き◆900・720mlサイズなら、12本位まで混載配送OKです！【(株)越の磯】★さかほまれ米のお酒は年1回の限定生産・販売数量限定なのでメーカー欠品中で仕入れできない場合もございます。",
+          "shopName": "福井の地酒とワイン まるこ",
+          "availability": 1,
+          "purchaseKind": "unconfirmed",
+          "checkedAt": "2026-10-19T23:24:15.001Z"
+        },
+        {
+          "itemCode": "malco:10002579",
+          "normalUrl": "https://item.rakuten.co.jp/malco/10000333/",
+          "name": "福井の地酒　720ml×2本入り　Uセット　紙製化粧箱入り【黒龍　大吟醸＆花垣　純米大吟醸】【永平寺町松岡　黒龍酒造株式会社】【大野市　株式会社 南部酒造場】★仕入れ数に制限があります。※条件により送料が異なる場合があります。",
+          "shopName": "福井の地酒とワイン まるこ",
+          "availability": 1,
+          "purchaseKind": "bundle",
+          "checkedAt": "2026-10-19T23:24:13.818Z"
+        },
+        {
+          "itemCode": "malco:10002233",
+          "normalUrl": "https://item.rakuten.co.jp/malco/10000920/",
+          "name": "福井の地酒　720ml×2本入り　Jセット　紙製化粧箱入り【黒龍　大吟醸・龍＆花垣　純米大吟醸】★不足分はお取り寄せ致します。▼5月より値上げしています！",
+          "shopName": "福井の地酒とワイン まるこ",
+          "availability": 1,
+          "purchaseKind": "bundle",
+          "checkedAt": "2026-10-19T23:24:13.818Z"
+        },
+        {
+          "itemCode": "malco:10002232",
+          "normalUrl": "https://item.rakuten.co.jp/malco/10001294/",
+          "name": "福井の地酒720ml×2本入りMセット　紙製化粧箱入り【黒龍　大吟醸＆梵　特撰純米大吟醸】★仕入れ数に制限があります。【お中元　御中元】▼梵と黒龍の値上げに伴い5月より値上げしています！",
+          "shopName": "福井の地酒とワイン まるこ",
+          "availability": 1,
+          "purchaseKind": "bundle",
+          "checkedAt": "2026-10-19T23:24:13.818Z"
+        },
+        {
+          "itemCode": "ko-enterprise:10000206",
+          "normalUrl": "https://item.rakuten.co.jp/ko-enterprise/10000206/",
+          "name": "黒龍 火いら寿 720ml 2026年2月詰 ギフト",
+          "shopName": "ケーオーリカーズ",
+          "availability": 1,
+          "purchaseKind": "unconfirmed",
+          "checkedAt": "2026-10-19T23:24:15.001Z"
+        },
+        {
+          "itemCode": "auc-chitashige:10012655",
+          "normalUrl": "https://item.rakuten.co.jp/auc-chitashige/351120014/",
+          "name": "黒龍　二左衛門、黒龍　石田屋、義侠　純米大吟醸　冷蔵20年熟成酒2001年　以上720mlの3本セット【送料無料非該当商品】",
+          "shopName": "酒専門店 知多繁 楽天市場店",
+          "availability": 1,
+          "purchaseKind": "bundle",
+          "checkedAt": "2026-10-19T23:24:13.818Z"
+        },
+        {
+          "itemCode": "ko-enterprise:10001405",
+          "normalUrl": "https://item.rakuten.co.jp/ko-enterprise/10001405/",
+          "name": "黒龍 二左衛門 720ml 黒龍酒造 福井県 日本酒 2025年11月詰 化粧箱付 ギフト",
+          "shopName": "ケーオーリカーズ",
+          "availability": 1,
+          "purchaseKind": "unconfirmed",
+          "checkedAt": "2026-10-19T23:24:15.001Z"
+        },
+        {
+          "itemCode": "ko-enterprise:10000235",
+          "normalUrl": "https://item.rakuten.co.jp/ko-enterprise/10000235/",
+          "name": "黒龍 石田屋 720ml 黒龍酒造 福井県 日本酒 2025年11月 化粧箱付 ギフト",
+          "shopName": "ケーオーリカーズ",
+          "availability": 1,
+          "purchaseKind": "unconfirmed",
+          "checkedAt": "2026-10-19T23:24:15.001Z"
+        },
+        {
+          "itemCode": "nagomisake:10000437",
+          "normalUrl": "https://item.rakuten.co.jp/nagomisake/10001405/",
+          "name": "黒龍 二左衛門 720ml 黒龍酒造 福井県 日本酒 2025年11月詰 化粧箱付 ギフト",
+          "shopName": "銘酒館なごみ",
+          "availability": 1,
+          "purchaseKind": "unconfirmed",
+          "checkedAt": "2026-10-19T23:24:15.001Z"
+        },
+        {
+          "itemCode": "sakearuji:10000189",
+          "normalUrl": "https://item.rakuten.co.jp/sakearuji/10000206/",
+          "name": "黒龍　大吟醸　九頭龍　大吟醸　福井県　720ml　2本　箱付贈答 ギフト 送料込み 2営業日以内出荷可能「北海道・沖縄・離島へのお届けはお受けできません。ご了承くださいますようお願いします。」",
+          "shopName": "酒主人SAKEARUJI 楽天市場店",
+          "availability": 1,
+          "purchaseKind": "bundle",
+          "checkedAt": "2026-10-19T23:24:15.001Z"
+        },
+        {
+          "itemCode": "nagomisake:10000165",
+          "normalUrl": "https://item.rakuten.co.jp/nagomisake/10000235/",
+          "name": "黒龍 石田屋 720ml 黒龍酒造 福井県 日本酒 2025年11月 化粧箱付 ギフト",
+          "shopName": "銘酒館なごみ",
+          "availability": 1,
+          "purchaseKind": "unconfirmed",
+          "checkedAt": "2026-10-19T23:24:15.001Z"
+        },
+        {
+          "itemCode": "nagomisake:10000142",
+          "normalUrl": "https://item.rakuten.co.jp/nagomisake/10000206/",
+          "name": "黒龍 火いら寿 720ml 2026年2月詰 ギフト",
+          "shopName": "銘酒館なごみ",
+          "availability": 1,
+          "purchaseKind": "unconfirmed",
+          "checkedAt": "2026-10-19T23:24:15.001Z"
+        },
+        {
+          "itemCode": "sakemirai:10005067",
+          "normalUrl": "https://item.rakuten.co.jp/sakemirai/koku32352/",
+          "name": "【日本酒】黒龍×宇宙兄弟コラボ 「Assemblage 跡（あと）」 720ml【専用箱入り】",
+          "shopName": "サケミライ百貨店",
+          "availability": 1,
+          "purchaseKind": "unconfirmed",
+          "checkedAt": "2026-10-19T23:24:15.001Z"
+        },
+        {
+          "itemCode": "stock-lab:10092987",
+          "normalUrl": "https://item.rakuten.co.jp/stock-lab/rc_ite00kykw120_de07/",
+          "name": "【未開栓】黒龍 純米大吟醸 石田屋 2021 16% 720ml 2023年11月 日本酒- 純米大吟醸酒【N0】【中古】",
+          "shopName": "ストックラボ",
+          "availability": 0,
+          "purchaseKind": "unconfirmed",
+          "checkedAt": "2026-10-19T23:24:15.001Z"
+        },
+        {
+          "itemCode": "stock-lab:10081472",
+          "normalUrl": "https://item.rakuten.co.jp/stock-lab/rc_itc3e6w2lgkg_7hzz/",
+          "name": "【未開栓】黒龍 220周年記念 純米大吟醸 3本セット 720ml 17% 2024年12月 詰め 日本酒- 純米大吟醸酒【Q4】【中古】",
+          "shopName": "ストックラボ",
+          "availability": 0,
+          "purchaseKind": "bundle",
+          "checkedAt": "2026-10-19T23:24:15.001Z"
+        }
+      ],
+      "verdict": "REQUIRES_SKU_AND_IMAGE_REVIEW_NOT_AUTOMATIC"
+    },
+    {
+      "sakeId": "morishima-miyamanishiki-junmai-ginjo-hiire-v1",
+      "productName": "森嶋 美山錦 純米吟醸 瓶燗火入",
+      "normalUrl": "https://item.rakuten.co.jp/b-miyoshi/mori-miyama-hi1800/",
+      "itemCode": "b-miyoshi:10002991",
+      "checkedAt": "2026-10-19T23:20:18.908Z",
+      "retrieved": true,
+      "status": 200,
+      "availability": {
+        "title": "【楽天市場】森嶋 純米吟醸 瓶燗火入れ 美山錦 1800ml 日本酒 地酒 お酒 限定品 人気銘柄 美味しい日本酒 茨城県 森島酒造 美好屋酒店 有名 人気 飲みやすい ギフト プレゼント お祝い 贈り物 誕生日 退職祝い 結婚祝い 還暦祝い 内祝い 手土産：美好屋酒店 ～美酒を求めて～",
+        "httpStatus": 200,
+        "sameDestination": true,
+        "itemId": "10002991",
+        "itemMatches": true,
+        "purchaseCondition": "sold-out",
+        "stockCondition": "sold-out",
+        "soldOut": true,
+        "purchaseControls": false,
+        "purchasable": false,
+        "state": "sold_out"
+      },
+      "state": "ONE_MERCHANT_SOLD_OUT_REQUIRES_ALTERNATIVES",
+      "automaticallyInactive": false,
+      "productIdentityNotRecertifiedByStockCheck": true,
+      "capacityMl": 1800,
+      "searches": [
+        {
+          "query": "森嶋 美山錦 純米吟醸 瓶燗火入 1800ml",
+          "ok": true,
+          "error": null,
+          "count": 4,
+          "checkedAt": "2026-10-19T23:24:16.193Z"
+        },
+        {
+          "query": "森嶋 純米吟醸酒 1800ml",
+          "ok": true,
+          "error": null,
+          "count": 31,
+          "checkedAt": "2026-10-19T23:24:17.352Z"
+        }
+      ],
+      "candidates": [
+        {
+          "itemCode": "ono-sake:10004151",
+          "normalUrl": "https://item.rakuten.co.jp/ono-sake/4966254003173/",
+          "name": "森嶋【もりしま】 純米吟醸 美山錦 瓶燗火入 1800ml 【日本酒】 お酒",
+          "shopName": "日本酒・焼酎の小野酒店",
+          "availability": 0,
+          "purchaseKind": "unconfirmed",
+          "checkedAt": "2026-10-19T23:24:17.352Z"
+        },
+        {
+          "itemCode": "b-miyoshi:10002991",
+          "normalUrl": "https://item.rakuten.co.jp/b-miyoshi/mori-miyama-hi1800/",
+          "name": "森嶋 純米吟醸 瓶燗火入れ 美山錦 1800ml 日本酒 地酒 お酒 限定品 人気銘柄 美味しい日本酒 茨城県 森島酒造 美好屋酒店 有名 人気 飲みやすい ギフト プレゼント お祝い 贈り物 誕生日 退職祝い 結婚祝い 還暦祝い 内祝い 手土産",
+          "shopName": "美好屋酒店 〜美酒を求めて〜",
+          "availability": 0,
+          "purchaseKind": "unconfirmed",
+          "checkedAt": "2026-10-19T23:24:17.352Z"
+        },
+        {
+          "itemCode": "mighty-liquors:10006648",
+          "normalUrl": "https://item.rakuten.co.jp/mighty-liquors/sa192009/",
+          "name": "森嶋 純米吟醸 美山錦 瓶燗火入 1800ml 日本酒 秋 ハロウィン 秋の味覚 手土産 贈り物 プレゼント あす楽 ギフト のし 贈答品 お祝 御祝 誕生日 内祝 還暦祝い 結婚祝い 出産祝い お酒 就職祝",
+          "shopName": "日本酒・焼酎 マイティ・リカーズ",
+          "availability": 1,
+          "purchaseKind": "unconfirmed",
+          "checkedAt": "2026-10-19T23:24:17.352Z"
+        },
+        {
+          "itemCode": "first19782012:10029296",
+          "normalUrl": "https://item.rakuten.co.jp/first19782012/1005207/",
+          "name": "【人気急上昇中の酒蔵！】　森嶋(もりしま)　美山錦　純米吟醸　瓶燗火入　美山錦100％　精米歩合55％　1800ml(クール便推奨)(k)",
+          "shopName": "お酒の専門店ファースト",
+          "availability": 1,
+          "purchaseKind": "unconfirmed",
+          "checkedAt": "2026-10-19T23:24:17.352Z"
+        },
+        {
+          "itemCode": "tanbo-sabun:10001455",
+          "normalUrl": "https://item.rakuten.co.jp/tanbo-sabun/sake1374/",
+          "name": "日本酒 森嶋 もりしま 純米吟醸 美山錦55 1.8L 1800ml 茨城 森島酒造",
+          "shopName": "田んぼの中の地酒屋さぶん酒店",
+          "availability": 1,
+          "purchaseKind": "unconfirmed",
+          "checkedAt": "2026-10-19T23:24:17.352Z"
+        },
+        {
+          "itemCode": "jizake-watanabe:10013505",
+          "normalUrl": "https://item.rakuten.co.jp/jizake-watanabe/morishima-jg-miyama-fire-720/",
+          "name": "森嶋（もりしま）純米吟醸 美山錦55 生詰め（1回火入れ）茨城県（森島酒造）【720ml／1800ml】［日本酒／食中酒／綺麗な辛口酒］",
+          "shopName": "地酒ワタナベ",
+          "availability": 1,
+          "purchaseKind": "unconfirmed",
+          "checkedAt": "2026-10-19T23:24:17.352Z"
+        },
+        {
+          "itemCode": "itosaketen:10003624",
+          "normalUrl": "https://item.rakuten.co.jp/itosaketen/10003624/",
+          "name": "【R7BY限定品！】森嶋 美山錦 純米吟醸 生詰原酒（一回火入れ）　1800ml（1.8L）【クール配送をご希望の場合はクール便をご指定ください】【茨城県日立市 森島酒造】",
+          "shopName": "酒天美禄 いとう酒店",
+          "availability": 1,
+          "purchaseKind": "unconfirmed",
+          "checkedAt": "2026-10-19T23:24:17.352Z"
+        },
+        {
+          "itemCode": "hasegawasaketen:10012806",
+          "normalUrl": "https://item.rakuten.co.jp/hasegawasaketen/1012267/",
+          "name": "森嶋 純米吟醸 山田錦 1800ml 森島酒造",
+          "shopName": "はせがわ酒店",
+          "availability": 1,
+          "purchaseKind": "unconfirmed",
+          "checkedAt": "2026-10-19T23:24:17.352Z"
+        },
+        {
+          "itemCode": "bisyugakou:10001243",
+          "normalUrl": "https://item.rakuten.co.jp/bisyugakou/mr009-n18/",
+          "name": "森嶋 もりしま 純米吟醸 美山錦 火入 1800ml【2026年8月製造以降】日本酒／ 茨城県 森島酒造",
+          "shopName": "日本酒と焼酎の店 美酒我考",
+          "availability": 1,
+          "purchaseKind": "unconfirmed",
+          "checkedAt": "2026-10-19T23:24:17.352Z"
+        },
+        {
+          "itemCode": "hasegawasaketen:10014343",
+          "normalUrl": "https://item.rakuten.co.jp/hasegawasaketen/1012668/",
+          "name": "森嶋 純米吟醸 美山錦 1800ml 森島酒造",
+          "shopName": "はせがわ酒店",
+          "availability": 1,
+          "purchaseKind": "unconfirmed",
+          "checkedAt": "2026-10-19T23:24:17.352Z"
+        },
+        {
+          "itemCode": "ono-sake:10003923",
+          "normalUrl": "https://item.rakuten.co.jp/ono-sake/3392/",
+          "name": "森嶋【もりしま】 純米吟醸 山田錦 生原酒 1800ml 【日本酒】 お酒",
+          "shopName": "日本酒・焼酎の小野酒店",
+          "availability": 0,
+          "purchaseKind": "unconfirmed",
+          "checkedAt": "2026-10-19T23:24:17.352Z"
+        },
+        {
+          "itemCode": "tanbo-sabun:10001552",
+          "normalUrl": "https://item.rakuten.co.jp/tanbo-sabun/sake1441/",
+          "name": "日本酒 森嶋 もりしま 純米吟醸 ひたち錦 辛口 1.8L 1800ml 茨城 森島酒造",
+          "shopName": "田んぼの中の地酒屋さぶん酒店",
+          "availability": 0,
+          "purchaseKind": "unconfirmed",
+          "checkedAt": "2026-10-19T23:24:17.352Z"
+        },
+        {
+          "itemCode": "itosaketen:10003661",
+          "normalUrl": "https://item.rakuten.co.jp/itosaketen/10003661/",
+          "name": "【限定品！】森嶋 ひたち錦 純米吟醸 生詰原酒（一回火入れ）　1800ml（1.8L）【クール配送をご希望の場合はクール便をご指定ください】【茨城県日立市 森島酒造】",
+          "shopName": "酒天美禄 いとう酒店",
+          "availability": 0,
+          "purchaseKind": "unconfirmed",
+          "checkedAt": "2026-10-19T23:24:17.352Z"
+        },
+        {
+          "itemCode": "itosaketen:10003509",
+          "normalUrl": "https://item.rakuten.co.jp/itosaketen/10003509/",
+          "name": "【R7BY限定品！】森嶋 美山錦 純米吟醸 しぼりたて本生原酒　1800ml（1.8L）【4月～9月以外の期間はクール便のご指定がない場合は通常便発送となります】【茨城県日立市 森島酒造】",
+          "shopName": "酒天美禄 いとう酒店",
+          "availability": 0,
+          "purchaseKind": "unconfirmed",
+          "checkedAt": "2026-10-19T23:24:17.352Z"
+        },
+        {
+          "itemCode": "itosaketen:10003535",
+          "normalUrl": "https://item.rakuten.co.jp/itosaketen/10003535/",
+          "name": "【R7BY新酒！】森嶋 山田錦 純米吟醸 無濾過 本生原酒　1800ml（1.8L）【4月～9月以外の期間はクール便のご指定がない場合は通常便発送となります】【茨城県日立市 森島酒造】",
+          "shopName": "酒天美禄 いとう酒店",
+          "availability": 0,
+          "purchaseKind": "unconfirmed",
+          "checkedAt": "2026-10-19T23:24:17.352Z"
+        },
+        {
+          "itemCode": "ono-sake:10001859",
+          "normalUrl": "https://item.rakuten.co.jp/ono-sake/taikan-omati-jyungin1800/",
+          "name": "森嶋【もりしま】 雄町 純米大吟醸 1800ml 【日本酒】 お酒",
+          "shopName": "日本酒・焼酎の小野酒店",
+          "availability": 0,
+          "purchaseKind": "unconfirmed",
+          "checkedAt": "2026-10-19T23:24:17.352Z"
+        },
+        {
+          "itemCode": "itosaketen:10003571",
+          "normalUrl": "https://item.rakuten.co.jp/itosaketen/10003571/",
+          "name": "【R7BY限定品！】森嶋 ひたち錦 純米吟醸 無濾過 生原酒　1800ml（1.8L）【4月～9月以外の期間はクール便のご指定がない場合は通常便発送となります】【茨城県日立市 森島酒造】",
+          "shopName": "酒天美禄 いとう酒店",
+          "availability": 0,
+          "purchaseKind": "unconfirmed",
+          "checkedAt": "2026-10-19T23:24:17.352Z"
+        },
+        {
+          "itemCode": "ono-sake:10002294",
+          "normalUrl": "https://item.rakuten.co.jp/ono-sake/taikan-jungin-yamada1800/",
+          "name": "森嶋【もりしま】 純米吟醸 山田錦 1800ml 【日本酒】 お酒",
+          "shopName": "日本酒・焼酎の小野酒店",
+          "availability": 0,
+          "purchaseKind": "unconfirmed",
+          "checkedAt": "2026-10-19T23:24:17.352Z"
+        },
+        {
+          "itemCode": "ono-sake:10003859",
+          "normalUrl": "https://item.rakuten.co.jp/ono-sake/3346/",
+          "name": "森嶋【もりしま】 純米吟醸 美山錦 しぼりたて生 1800ml 【日本酒】 お酒",
+          "shopName": "日本酒・焼酎の小野酒店",
+          "availability": 0,
+          "purchaseKind": "unconfirmed",
+          "checkedAt": "2026-10-19T23:24:17.352Z"
+        },
+        {
+          "itemCode": "ono-sake:10004016",
+          "normalUrl": "https://item.rakuten.co.jp/ono-sake/4966254003074/",
+          "name": "森嶋【もりしま】 ひたち錦 純米吟醸 辛口 無濾過生原酒 1800ml 【日本酒】 お酒",
+          "shopName": "日本酒・焼酎の小野酒店",
+          "availability": 0,
+          "purchaseKind": "unconfirmed",
+          "checkedAt": "2026-10-19T23:24:17.352Z"
+        },
+        {
+          "itemCode": "itosaketen:10003646",
+          "normalUrl": "https://item.rakuten.co.jp/itosaketen/10003646/",
+          "name": "【R7BY限定品！】森嶋 山田錦 純米吟醸 生詰原酒（一回火入れ）　1800ml（1.8L）【クール配送をご希望の場合はクール便をご指定ください】【茨城県日立市 森島酒造】",
+          "shopName": "酒天美禄 いとう酒店",
+          "availability": 0,
+          "purchaseKind": "unconfirmed",
+          "checkedAt": "2026-10-19T23:24:17.352Z"
+        },
+        {
+          "itemCode": "first19782012:10029026",
+          "normalUrl": "https://item.rakuten.co.jp/first19782012/1005106/",
+          "name": "【人気急上昇中の酒蔵！】　森嶋(もりしま)　山田錦　純米吟醸　山田錦100％　精米歩合60％　火入れ　1800ml(クール便推奨)(k)",
+          "shopName": "お酒の専門店ファースト",
+          "availability": 0,
+          "purchaseKind": "unconfirmed",
+          "checkedAt": "2026-10-19T23:24:17.352Z"
+        },
+        {
+          "itemCode": "hakataimoto:10000332",
+          "normalUrl": "https://item.rakuten.co.jp/hakataimoto/morishima-yamada-1800/",
+          "name": "森嶋 純米吟醸 山田錦 1800ml",
+          "shopName": "お酒の専門店エルア",
+          "availability": 0,
+          "purchaseKind": "unconfirmed",
+          "checkedAt": "2026-10-19T23:24:17.352Z"
+        },
+        {
+          "itemCode": "chigiri:10003391",
+          "normalUrl": "https://item.rakuten.co.jp/chigiri/morishima-jg-miyama1800/",
+          "name": "森島酒造 森嶋 美山錦 1800ml 純米吟醸酒",
+          "shopName": "酒の泉州屋",
+          "availability": 0,
+          "purchaseKind": "unconfirmed",
+          "checkedAt": "2026-10-19T23:24:17.352Z"
+        },
+        {
+          "itemCode": "hakataimoto:10001385",
+          "normalUrl": "https://item.rakuten.co.jp/hakataimoto/mori-jg-ya-shibo-mod-1800/",
+          "name": "森嶋 純米吟醸 山田錦 しぼりたて モダンクラッシク 1800ml",
+          "shopName": "お酒の専門店エルア",
+          "availability": 0,
+          "purchaseKind": "unconfirmed",
+          "checkedAt": "2026-10-19T23:24:17.352Z"
+        },
+        {
+          "itemCode": "hakataimoto:10001640",
+          "normalUrl": "https://item.rakuten.co.jp/hakataimoto/mori-jungin-miyama-1800/",
+          "name": "森嶋 純米吟醸 美山錦 1800ml",
+          "shopName": "お酒の専門店エルア",
+          "availability": 0,
+          "purchaseKind": "unconfirmed",
+          "checkedAt": "2026-10-19T23:24:17.352Z"
+        },
+        {
+          "itemCode": "hakataimoto:10000804",
+          "normalUrl": "https://item.rakuten.co.jp/hakataimoto/morishi-junmai-miyama-nama-1800/",
+          "name": "森嶋 純米 美山錦 無濾過生原酒 1800ml",
+          "shopName": "お酒の専門店エルア",
+          "availability": 0,
+          "purchaseKind": "unconfirmed",
+          "checkedAt": "2026-10-19T23:24:17.352Z"
+        },
+        {
+          "itemCode": "hakataimoto:10001553",
+          "normalUrl": "https://item.rakuten.co.jp/hakataimoto/mori-jg-hita-nama-1800/",
+          "name": "森嶋 純米吟醸 ひたち錦 生酒 1800ml",
+          "shopName": "お酒の専門店エルア",
+          "availability": 0,
+          "purchaseKind": "unconfirmed",
+          "checkedAt": "2026-10-19T23:24:17.352Z"
+        },
+        {
+          "itemCode": "first19782012:10028946",
+          "normalUrl": "https://item.rakuten.co.jp/first19782012/1005070/",
+          "name": "【人気急上昇中の酒蔵！森嶋唯一の辛口タイプ！】　森嶋(もりしま)　ひたち錦　純米吟醸　辛口生酒　ひたち錦100％　精米歩合55％　1800ml(クール便推奨)",
+          "shopName": "お酒の専門店ファースト",
+          "availability": 0,
+          "purchaseKind": "unconfirmed",
+          "checkedAt": "2026-10-19T23:24:17.352Z"
+        },
+        {
+          "itemCode": "hakataimoto:10001623",
+          "normalUrl": "https://item.rakuten.co.jp/hakataimoto/mori-jungin-hita-1800/",
+          "name": "森嶋 ひたち錦 純米吟醸 1800ml",
+          "shopName": "お酒の専門店エルア",
+          "availability": 0,
+          "purchaseKind": "unconfirmed",
+          "checkedAt": "2026-10-19T23:24:17.352Z"
+        }
+      ],
+      "verdict": "REQUIRES_SKU_AND_IMAGE_REVIEW_NOT_AUTOMATIC"
+    },
+    {
+      "sakeId": "kurawanka-junmai-usunigori-v1",
+      "productName": "くらわんか 純米酒 うすにごり",
+      "normalUrl": "https://item.rakuten.co.jp/meishu-honpo/26207/",
+      "itemCode": "meishu-honpo:10005281",
+      "checkedAt": "2026-10-19T23:21:11.114Z",
+      "retrieved": true,
+      "status": 200,
+      "availability": {
+        "title": "【楽天市場】片野桜 純米酒 くらわんか うすにごり 生酒 720ml かたのざくら 山野酒造：銘酒本舗　IMANAKA SAKESHOP",
+        "httpStatus": 200,
+        "sameDestination": true,
+        "itemId": "10005281",
+        "itemMatches": true,
+        "purchaseCondition": "sold-out",
+        "stockCondition": "sold-out",
+        "soldOut": true,
+        "purchaseControls": false,
+        "purchasable": false,
+        "state": "sold_out"
+      },
+      "state": "ONE_MERCHANT_SOLD_OUT_REQUIRES_ALTERNATIVES",
+      "automaticallyInactive": false,
+      "productIdentityNotRecertifiedByStockCheck": true,
+      "capacityMl": 720,
+      "searches": [
+        {
+          "query": "くらわんか 純米酒 うすにごり 720ml",
+          "ok": true,
+          "error": null,
+          "count": 2,
+          "checkedAt": "2026-10-19T23:24:18.503Z"
+        },
+        {
+          "query": "くらわんか 純米酒 720ml",
+          "ok": true,
+          "error": null,
+          "count": 2,
+          "checkedAt": "2026-10-19T23:24:19.599Z"
+        }
+      ],
+      "candidates": [
+        {
+          "itemCode": "meishu-honpo:10005281",
+          "normalUrl": "https://item.rakuten.co.jp/meishu-honpo/26207/",
+          "name": "片野桜 純米酒 くらわんか うすにごり 生酒 720ml かたのざくら 山野酒造",
+          "shopName": "銘酒本舗 IMANAKA SAKESHOP",
+          "availability": 0,
+          "purchaseKind": "unconfirmed",
+          "checkedAt": "2026-10-19T23:24:19.599Z"
+        },
+        {
+          "itemCode": "marutyu-sake:10021858",
+          "normalUrl": "https://item.rakuten.co.jp/marutyu-sake/2024-0054/",
+          "name": "(特約店限定) 大阪府:山野酒造 くらわんか 純米酒 うすにごり(生) 枚方産 ヒノヒカリ100% 720ml 要冷蔵",
+          "shopName": "ECHIGOYA",
+          "availability": 0,
+          "purchaseKind": "unconfirmed",
+          "checkedAt": "2026-10-19T23:24:19.599Z"
+        }
+      ],
+      "verdict": "REQUIRES_SKU_AND_IMAGE_REVIEW_NOT_AUTOMATIC"
+    },
+    {
+      "sakeId": "minami-junmai-ginjo-matsuyamamitsui-standard-v1",
+      "productName": "南 純米吟醸 松山三井",
+      "normalUrl": "https://item.rakuten.co.jp/yamasake/10002648/",
+      "itemCode": "yamasake:10002648",
+      "checkedAt": "2026-10-19T23:21:14.584Z",
+      "retrieved": true,
+      "status": 200,
+      "availability": {
+        "title": "【楽天市場】南 ( みなみ )  純米吟醸 720ml/ 高知県 南酒造場【 1043 】【 日本酒 】【 ハロウィン 贈り物 ギフト プレゼント 】：酒の番人　ヤマカワ",
+        "httpStatus": 200,
+        "sameDestination": true,
+        "itemId": "10002648",
+        "itemMatches": true,
+        "purchaseCondition": "sold-out",
+        "stockCondition": "sold-out",
+        "soldOut": true,
+        "purchaseControls": false,
+        "purchasable": false,
+        "state": "sold_out"
+      },
+      "state": "ONE_MERCHANT_SOLD_OUT_REQUIRES_ALTERNATIVES",
+      "automaticallyInactive": false,
+      "productIdentityNotRecertifiedByStockCheck": true,
+      "capacityMl": 720,
+      "searches": [
+        {
+          "query": "南 純米吟醸 松山三井 720ml",
+          "ok": true,
+          "error": null,
+          "count": 4,
+          "checkedAt": "2026-10-19T23:24:20.766Z"
+        },
+        {
+          "query": "南 純米吟醸酒 720ml",
+          "ok": true,
+          "error": null,
+          "count": 410,
+          "checkedAt": "2026-10-19T23:24:21.938Z"
+        },
+        {
+          "query": "南酒造場 松山三井",
+          "ok": true,
+          "error": null,
+          "count": 21,
+          "checkedAt": "2026-10-19T23:29:20.967Z"
+        }
+      ],
+      "candidates": [
+        {
+          "itemCode": "yamasake:10010688",
+          "normalUrl": "https://item.rakuten.co.jp/yamasake/8474/",
+          "name": "南 純米吟醸 松山三井 無濾過生酒 720ml / 高知県 南酒造場 【 8474 】【 日本酒 】【 要冷蔵 】【 ハロウィン 贈り物 ギフト プレゼント 】",
+          "shopName": "酒の番人 ヤマカワ",
+          "availability": 0,
+          "purchaseKind": "unconfirmed",
+          "checkedAt": "2026-10-19T23:29:20.967Z"
+        },
+        {
+          "itemCode": "yamasake:10002648",
+          "normalUrl": "https://item.rakuten.co.jp/yamasake/10002648/",
+          "name": "南 ( みなみ ) 純米吟醸 720ml/ 高知県 南酒造場【 1043 】【 日本酒 】【 ハロウィン 贈り物 ギフト プレゼント 】",
+          "shopName": "酒の番人 ヤマカワ",
+          "availability": 0,
+          "purchaseKind": "unconfirmed",
+          "checkedAt": "2026-10-19T23:29:20.967Z"
+        },
+        {
+          "itemCode": "yamasake:10008139",
+          "normalUrl": "https://item.rakuten.co.jp/yamasake/5756/",
+          "name": "南 ( みなみ ) 純米吟醸 720ml ＋ おつまみ 3種セット【 5756 】【 日本酒・おつまみセット 】【 要冷蔵 】【 送料無料 】【 ハロウィン 贈り物 ギフト プレゼント 】",
+          "shopName": "酒の番人 ヤマカワ",
+          "availability": 0,
+          "purchaseKind": "bundle",
+          "checkedAt": "2026-10-19T23:24:20.766Z"
+        },
+        {
+          "itemCode": "yamasake:10007279",
+          "normalUrl": "https://item.rakuten.co.jp/yamasake/4924/",
+          "name": "高知県の銘酒 南（みなみ） 飲み比べ （ 純米吟醸 + 特別純米 ) 720ml 2本セット / 高知県 南酒造場【 4924 】【 日本酒 】【 送料無料 】【 ハロウィン 贈り物 ギフト プレゼント 】 日本酒 飲み比べセット 辛口",
+          "shopName": "酒の番人 ヤマカワ",
+          "availability": 0,
+          "purchaseKind": "bundle",
+          "checkedAt": "2026-10-19T23:29:20.967Z"
+        },
+        {
+          "itemCode": "mashidayahonten:10004332",
+          "normalUrl": "https://item.rakuten.co.jp/mashidayahonten/1534/",
+          "name": "南 純米吟醸酒(火入) 720ml",
+          "shopName": "増田屋本店",
+          "availability": 1,
+          "purchaseKind": "unconfirmed",
+          "checkedAt": "2026-10-19T23:24:21.938Z"
+        },
+        {
+          "itemCode": "auc-tosauma:10000191",
+          "normalUrl": "https://item.rakuten.co.jp/auc-tosauma/20210311b/",
+          "name": "「土佐の地酒」玉ノ井純米吟醸酒 南酒造場 720ml",
+          "shopName": "高知の地酒 土佐美味",
+          "availability": 1,
+          "purchaseKind": "unconfirmed",
+          "checkedAt": "2026-10-19T23:24:21.938Z"
+        },
+        {
+          "itemCode": "f184047-minamiechizen:10000186",
+          "normalUrl": "https://item.rakuten.co.jp/f184047-minamiechizen/a-008001/",
+          "name": "【ふるさと納税】純米吟醸酒 吟吹雪 720ml | お酒 酒 南越前町 福井 [A-008001]",
+          "shopName": "福井県南越前町",
+          "availability": 1,
+          "purchaseKind": "donation",
+          "checkedAt": "2026-10-19T23:24:21.938Z"
+        },
+        {
+          "itemCode": "hyakuyoko:10004290",
+          "normalUrl": "https://item.rakuten.co.jp/hyakuyoko/17022g005-72/",
+          "name": "成政酒造：「成政　佐々成政(赤)山田錦　純米吟醸酒(720ml)」南砺市産山田錦を使用",
+          "shopName": "百選横丁 楽天市場店",
+          "availability": 1,
+          "purchaseKind": "unconfirmed",
+          "checkedAt": "2026-10-19T23:24:21.938Z"
+        },
+        {
+          "itemCode": "yamagatamaru:10009893",
+          "normalUrl": "https://item.rakuten.co.jp/yamagatamaru/4517173200923/",
+          "name": "日本酒 東の麓 純米吟醸酒 山の形 秋あがり 720ml 山形県 南陽市 日本酒 地酒 クール便",
+          "shopName": "まるごと山形",
+          "availability": 1,
+          "purchaseKind": "unconfirmed",
+          "checkedAt": "2026-10-19T23:24:21.938Z"
+        },
+        {
+          "itemCode": "cepdor:10005118",
+          "normalUrl": "https://item.rakuten.co.jp/cepdor/4904170005376/",
+          "name": "桃川 吟醸純米酒 720ml 青森 日本酒 純米吟醸酒 やや辛口 ももかわ 南部杜氏 奥入瀬川水系 IWC受賞酒 ギフト 家飲み 東北の酒",
+          "shopName": "お酒と食料品のセプドールアン",
+          "availability": 1,
+          "purchaseKind": "unconfirmed",
+          "checkedAt": "2026-10-19T23:24:21.938Z"
+        },
+        {
+          "itemCode": "tochikame:10005796",
+          "normalUrl": "https://item.rakuten.co.jp/tochikame/1004000125/",
+          "name": "限定醸造 純米吟醸 南方 720ml 化粧箱入り / 世界一統 / 和歌山県の地酒 【清酒】【日本酒】【純米吟醸酒】【ギフト】",
+          "shopName": "ワインの専門店・紀伊国屋リカーズ",
+          "availability": 1,
+          "purchaseKind": "unconfirmed",
+          "checkedAt": "2026-10-19T23:24:21.938Z"
+        },
+        {
+          "itemCode": "f142077-chigasaki:10000587",
+          "normalUrl": "https://item.rakuten.co.jp/f142077-chigasaki/56310883/",
+          "name": "【ふるさと納税】【湘南唯一の蔵元】熊澤酒造 天青河童のどぶろく・清酒セット（720ml×各1本）天青河童の純米吟醸 お酒 日本酒 純米吟醸酒 吟醸酒 アルコール こだわり 井戸 お米 汲み上げ 酵母 酸味 　お届け：2026年11月24日より順次発送",
+          "shopName": "神奈川県茅ヶ崎市",
+          "availability": 1,
+          "purchaseKind": "donation",
+          "checkedAt": "2026-10-19T23:24:21.938Z"
+        },
+        {
+          "itemCode": "f142077-chigasaki:10000585",
+          "normalUrl": "https://item.rakuten.co.jp/f142077-chigasaki/56310880/",
+          "name": "【ふるさと納税】【湘南唯一の蔵元】熊澤酒造 かっぱ・湘南セット（720ml×各1本）天青河童の純米吟醸 湘南吟醸酒 お酒 日本酒 純米吟醸酒 アルコール こだわり 清酒 井戸 お米",
+          "shopName": "神奈川県茅ヶ崎市",
+          "availability": 1,
+          "purchaseKind": "donation",
+          "checkedAt": "2026-10-19T23:24:21.938Z"
+        },
+        {
+          "itemCode": "auc-sakenochawanya:10004662",
+          "normalUrl": "https://item.rakuten.co.jp/auc-sakenochawanya/b00853/",
+          "name": "御代栄 純米吟醸 近江米のしずく 720ml 日本酒 純米吟醸酒 北島酒造 滋賀県湖南市",
+          "shopName": "酒の茶碗屋 楽天市場店",
+          "availability": 1,
+          "purchaseKind": "unconfirmed",
+          "checkedAt": "2026-10-19T23:24:21.938Z"
+        },
+        {
+          "itemCode": "bishunomikawaya:10000505",
+          "normalUrl": "https://item.rakuten.co.jp/bishunomikawaya/0208hama-jg-gin011/",
+          "name": "浜千鳥 純米吟醸酒 吟ぎんが 720ml 岩手県釜石市、（株）浜千鳥",
+          "shopName": "美酒の三河屋",
+          "availability": 1,
+          "purchaseKind": "unconfirmed",
+          "checkedAt": "2026-10-19T23:24:21.938Z"
+        },
+        {
+          "itemCode": "itosaketen:10002037",
+          "normalUrl": "https://item.rakuten.co.jp/itosaketen/10002037/",
+          "name": "【R8BY新酒！】紀土-KID- 純米吟醸酒 しぼりたて 本生　720ml【4月～9月以外の期間はクール便のご指定がない場合は通常便発送となります】【和歌山県海南市 平和酒造】",
+          "shopName": "酒天美禄 いとう酒店",
+          "availability": 1,
+          "purchaseKind": "unconfirmed",
+          "checkedAt": "2026-10-19T23:24:21.938Z"
+        },
+        {
+          "itemCode": "echigo:10011202",
+          "normalUrl": "https://item.rakuten.co.jp/echigo/10011202/",
+          "name": "(産地直送)福顔 しただみ 純米吟醸酒 720ml 箱入り 福顔酒造 三条市下田郷 只見町 南会津を結ぶ 八十里越道路開通 日本酒 純米吟醸酒 蔵元直送",
+          "shopName": "越後銘門酒会 新潟県の酒とグルメ",
+          "availability": 1,
+          "purchaseKind": "unconfirmed",
+          "checkedAt": "2026-10-19T23:24:21.938Z"
+        },
+        {
+          "itemCode": "bunza:10004135",
+          "normalUrl": "https://item.rakuten.co.jp/bunza/1004000125/",
+          "name": "限定醸造 純米吟醸 南方 720ml 化粧箱入り / 世界一統 / 和歌山県の地酒 【清酒】【日本酒】【純米吟醸酒】【ギフト】",
+          "shopName": "みかん梅干し紀伊国屋文左衛門本舗",
+          "availability": 1,
+          "purchaseKind": "unconfirmed",
+          "checkedAt": "2026-10-19T23:24:21.938Z"
+        },
+        {
+          "itemCode": "ensyuyasaketen:10001088",
+          "normalUrl": "https://item.rakuten.co.jp/ensyuyasaketen/sannwa02/",
+          "name": "臥龍梅　純米吟醸酒　浮世絵柄　720ml　【静岡の地酒】",
+          "shopName": "えんしゅうや酒店",
+          "availability": 1,
+          "purchaseKind": "unconfirmed",
+          "checkedAt": "2026-10-19T23:24:21.938Z"
+        },
+        {
+          "itemCode": "tlsinfo:10001590",
+          "normalUrl": "https://item.rakuten.co.jp/tlsinfo/799894/",
+          "name": "南方 純米吟醸酒 720ml【日本酒】※7月〜9月初旬はク−ル便発送となります※",
+          "shopName": "こだわりの地酒・焼酎 酒の及川",
+          "availability": 1,
+          "purchaseKind": "unconfirmed",
+          "checkedAt": "2026-10-19T23:24:21.938Z"
+        },
+        {
+          "itemCode": "yamagatamaru:10007719",
+          "normalUrl": "https://item.rakuten.co.jp/yamagatamaru/4517173200862/",
+          "name": "東の麓 純米吟醸酒 山の形 720ml 山形県 南陽市 日本酒 地酒",
+          "shopName": "まるごと山形",
+          "availability": 1,
+          "purchaseKind": "unconfirmed",
+          "checkedAt": "2026-10-19T23:24:21.938Z"
+        },
+        {
+          "itemCode": "auc-tosauma:10000343",
+          "normalUrl": "https://item.rakuten.co.jp/auc-tosauma/mina-zyungin720/",
+          "name": "「土佐の地酒」 南 純米吟醸酒 南酒造場 720ml",
+          "shopName": "高知の地酒 土佐美味",
+          "availability": 1,
+          "purchaseKind": "unconfirmed",
+          "checkedAt": "2026-10-19T23:24:21.938Z"
+        },
+        {
+          "itemCode": "ehimekatayama:10045119",
+          "normalUrl": "https://item.rakuten.co.jp/ehimekatayama/wjksak476/",
+          "name": "【水口酒造】NIKITATSU 仁喜多津 純米吟醸酒 720ml",
+          "shopName": "ワインと地酒の店 かたやま",
+          "availability": 1,
+          "purchaseKind": "unconfirmed",
+          "checkedAt": "2026-10-19T23:24:21.938Z"
+        },
+        {
+          "itemCode": "f232173-konan:10000186",
+          "normalUrl": "https://item.rakuten.co.jp/f232173-konan/177/",
+          "name": "【ふるさと納税】 酒 勲碧 純米吟醸 桜酵母 五条川桜 720ml 1本 [勲碧酒造 愛知県 江南市 ko23btu470003] 純米吟醸酒 お酒 日本酒 晩酌",
+          "shopName": "愛知県江南市",
+          "availability": 1,
+          "purchaseKind": "donation",
+          "checkedAt": "2026-10-19T23:24:21.938Z"
+        },
+        {
+          "itemCode": "f232173-konan:10000159",
+          "normalUrl": "https://item.rakuten.co.jp/f232173-konan/150/",
+          "name": "【ふるさと納税】 酒 勲碧 純米吟醸 夢吟香 無濾過原酒 720ml 1本 [勲碧酒造 愛知県 江南市 ko23btu470002] 純米吟醸酒 お酒 日本酒 晩酌 2025美酒コンクール 金賞受賞",
+          "shopName": "愛知県江南市",
+          "availability": 1,
+          "purchaseKind": "donation",
+          "checkedAt": "2026-10-19T23:24:21.938Z"
+        },
+        {
+          "itemCode": "f154822-tsunan:10000875",
+          "normalUrl": "https://item.rakuten.co.jp/f154822-tsunan/127528-022/",
+          "name": "【ふるさと納税】つなん 紅 純米吟醸酒 720ml×1本【令和6酒造年度 全国新酒鑑評会金賞受賞】| 津南醸造 新潟",
+          "shopName": "新潟県津南町",
+          "availability": 1,
+          "purchaseKind": "donation",
+          "checkedAt": "2026-10-19T23:24:21.938Z"
+        },
+        {
+          "itemCode": "f232173-konan:10000161",
+          "normalUrl": "https://item.rakuten.co.jp/f232173-konan/151/",
+          "name": "【ふるさと納税】 酒 勲碧 純米吟醸原酒 氷温熟成酒 720ml 1本 [勲碧酒造 愛知県 江南市 ko23btu470001] 純米吟醸酒 お酒 日本酒 晩酌",
+          "shopName": "愛知県江南市",
+          "availability": 1,
+          "purchaseKind": "donation",
+          "checkedAt": "2026-10-19T23:24:21.938Z"
+        },
+        {
+          "itemCode": "f113433-ogawa:10000308",
+          "normalUrl": "https://item.rakuten.co.jp/f113433-ogawa/382/",
+          "name": "【ふるさと納税】 【WGO金賞受賞酒】帝松 PREMIUM 純米吟醸 生原酒 720ml or 1.8L [松岡醸造 埼玉県 小川町 382] 日本酒 清酒 純米吟醸酒 酒 お酒 おさけ 720 1800ml 一升瓶 冷蔵 osake",
+          "shopName": "埼玉県小川町",
+          "availability": 1,
+          "purchaseKind": "donation",
+          "checkedAt": "2026-10-19T23:24:21.938Z"
+        },
+        {
+          "itemCode": "fukumitsuya-shop:10000169",
+          "normalUrl": "https://item.rakuten.co.jp/fukumitsuya-shop/88145/",
+          "name": "加賀鳶 吟醸梅酒 720mL 1本箱入 蔵元直送 日本酒ベースの梅酒 リキュール【福光屋】公式 加賀鳶 日本酒 梅酒 南高梅 敬老 ギフト 福光屋 石川県 キレ味 純米吟醸酒 純米吟醸 カクテル 15% 国産 清酒",
+          "shopName": "福光屋 公式ショップ",
+          "availability": 1,
+          "purchaseKind": "unconfirmed",
+          "checkedAt": "2026-10-19T23:24:21.938Z"
+        },
+        {
+          "itemCode": "f422142-minamisimabara:10001299",
+          "normalUrl": "https://item.rakuten.co.jp/f422142-minamisimabara/sai016/",
+          "name": "【ふるさと納税】＜最短7日発送＞【人気商品】はねぎ搾り萬勝 純米吟醸酒・純米酒 各720ml / 日本酒 にほんしゅ 酒 お酒 おさけ お試し 晩酌 日本酒 飲み比べ 年内配送 年内発送 / 南島原市 / 酒蔵吉田屋 [SAI016]",
+          "shopName": "長崎県南島原市",
+          "availability": 1,
+          "purchaseKind": "donation",
+          "checkedAt": "2026-10-19T23:24:21.938Z"
+        },
+        {
+          "itemCode": "m-sakaya:10007239",
+          "normalUrl": "https://item.rakuten.co.jp/m-sakaya/4972009004425/",
+          "name": "出羽桜酒造 出羽桜 本格梅酒 リキュール 9度 とろける果肉 720ml 紀州南高梅 使用 山形 数量限定 紀州産 南高梅を 梅酒のために特別に仕込んだ純米吟醸酒で漬けた完全手造りの贅沢な梅酒",
+          "shopName": "まじめ酒屋 【日本酒 焼酎】",
+          "availability": 1,
+          "purchaseKind": "unconfirmed",
+          "checkedAt": "2026-10-19T23:24:21.938Z"
+        },
+        {
+          "itemCode": "kunii:10001471",
+          "normalUrl": "https://item.rakuten.co.jp/kunii/10001471/",
+          "name": "出羽桜　本格梅酒　純米吟醸酒仕込み　720ml",
+          "shopName": "山形の地酒処国井酒店",
+          "availability": 1,
+          "purchaseKind": "unconfirmed",
+          "checkedAt": "2026-10-19T23:24:21.938Z"
+        },
+        {
+          "itemCode": "f392111-konan:10001508",
+          "normalUrl": "https://item.rakuten.co.jp/f392111-konan/gs_18/",
+          "name": "【ふるさと納税】純米吟醸酒 いとをかし活性うすにごり 500ml 純米吟醸酒 いとをかし 720ml 各1本 - 飲み比べ セット お酒 日本酒 飲み物 飲料 アルコール 晩酌 特産品 ギフト 贈り物 贈答用 プレゼント お酒好き 記念日 お礼 御礼 お祝い 高知県 香南市【冷蔵】 gs-0198",
+          "shopName": "高知県香南市",
+          "availability": 1,
+          "purchaseKind": "donation",
+          "checkedAt": "2026-10-19T23:24:21.938Z"
+        },
+        {
+          "itemCode": "sake-gets:17442848",
+          "normalUrl": "https://item.rakuten.co.jp/sake-gets/ni720hon164/",
+          "name": "人気の日本酒純米吟醸酒2本セット(南部美人 特別純米(岩手県) 八鹿 特別純米(大分県)) 720ml×2本",
+          "shopName": "贈り物本舗じざけや",
+          "availability": 1,
+          "purchaseKind": "bundle",
+          "checkedAt": "2026-10-19T23:24:21.938Z"
+        },
+        {
+          "itemCode": "auc-yumeikan:10004585",
+          "normalUrl": "https://item.rakuten.co.jp/auc-yumeikan/7178/",
+          "name": "南 (みなみ) 令和7BY 純米吟醸 無濾過生酒 吟の夢 【南酒造場】【日本酒】【高知県】【四国】【土佐】【松山三井】【安芸郡】【新酒】",
+          "shopName": "こだわりの酒屋遊銘館",
+          "availability": 1,
+          "purchaseKind": "unconfirmed",
+          "checkedAt": "2026-10-19T23:29:20.967Z"
+        },
+        {
+          "itemCode": "yamasake:10002097",
+          "normalUrl": "https://item.rakuten.co.jp/yamasake/10002097/",
+          "name": "南 特別純米 1.8L/ 高知県 南酒造場【 59 】【 日本酒 】【 ハロウィン 贈り物 ギフト プレゼント 】",
+          "shopName": "酒の番人 ヤマカワ",
+          "availability": 1,
+          "purchaseKind": "unconfirmed",
+          "checkedAt": "2026-10-19T23:29:20.967Z"
+        },
+        {
+          "itemCode": "yamasake:10004601",
+          "normalUrl": "https://item.rakuten.co.jp/yamasake/10004601/",
+          "name": "南 ( みなみ ) 純米吟醸 1.8L / 高知県 南酒造場【 2925 】【 日本酒 】【 ハロウィン 贈り物 ギフト プレゼント 】 日本酒 ギフト 辛口",
+          "shopName": "酒の番人 ヤマカワ",
+          "availability": 1,
+          "purchaseKind": "unconfirmed",
+          "checkedAt": "2026-10-19T23:29:20.967Z"
+        },
+        {
+          "itemCode": "yamasake:10002277",
+          "normalUrl": "https://item.rakuten.co.jp/yamasake/10002277/",
+          "name": "南 特別純米 720ml / 高知県 南酒造場【 402 】 【 日本酒 】【 ハロウィン 贈り物 ギフト プレゼント 】 日本酒 ギフト 辛口",
+          "shopName": "酒の番人 ヤマカワ",
+          "availability": 1,
+          "purchaseKind": "unconfirmed",
+          "checkedAt": "2026-10-19T23:29:20.967Z"
+        },
+        {
+          "itemCode": "yamasake:10010687",
+          "normalUrl": "https://item.rakuten.co.jp/yamasake/8473/",
+          "name": "南 純米吟醸 松山三井 無濾過生酒 1.8L / 高知県 南酒造場 【 8473 】【 日本酒 】【 要冷蔵 】【 ハロウィン 贈り物 ギフト プレゼント 】",
+          "shopName": "酒の番人 ヤマカワ",
+          "availability": 0,
+          "purchaseKind": "unconfirmed",
+          "checkedAt": "2026-10-19T23:29:20.967Z"
+        },
+        {
+          "itemCode": "yamasake:10010145",
+          "normalUrl": "https://item.rakuten.co.jp/yamasake/7947/",
+          "name": "南 ( みなみ ) 特別純米 別誂 火入 1.8L / 高知県 南酒造場 【 7947 】【 日本酒 】【 ハロウィン 贈り物 ギフト プレゼント 】",
+          "shopName": "酒の番人 ヤマカワ",
+          "availability": 0,
+          "purchaseKind": "unconfirmed",
+          "checkedAt": "2026-10-19T23:29:20.967Z"
+        },
+        {
+          "itemCode": "yamasake:10009263",
+          "normalUrl": "https://item.rakuten.co.jp/yamasake/6876/",
+          "name": "南 ( みなみ ) 特別純米 別誂 生酒 1.8L / 高知県 南酒造場 【 6876 】【 日本酒 】【 要冷蔵 】【 ハロウィン 贈り物 ギフト プレゼント 】",
+          "shopName": "酒の番人 ヤマカワ",
+          "availability": 0,
+          "purchaseKind": "unconfirmed",
+          "checkedAt": "2026-10-19T23:29:20.967Z"
+        },
+        {
+          "itemCode": "yamasake:10009262",
+          "normalUrl": "https://item.rakuten.co.jp/yamasake/6875/",
+          "name": "南 ( みなみ ) 特別純米 別誂 生酒 720ml / 高知県 南酒造場 【 6875 】【 日本酒 】【 要冷蔵 】【 ハロウィン 贈り物 ギフト プレゼント 】",
+          "shopName": "酒の番人 ヤマカワ",
+          "availability": 0,
+          "purchaseKind": "unconfirmed",
+          "checkedAt": "2026-10-19T23:29:20.967Z"
+        },
+        {
+          "itemCode": "yamasake:10004459",
+          "normalUrl": "https://item.rakuten.co.jp/yamasake/10004459/",
+          "name": "南 ( みなみ ) 特別純米 無濾過生原酒 720ml / 高知県 南酒造場【 2799 】【 日本酒 】【 要冷蔵 】【 ハロウィン 贈り物 ギフト プレゼント 】",
+          "shopName": "酒の番人 ヤマカワ",
+          "availability": 0,
+          "purchaseKind": "unconfirmed",
+          "checkedAt": "2026-10-19T23:29:20.967Z"
+        },
+        {
+          "itemCode": "yamasake:10005435",
+          "normalUrl": "https://item.rakuten.co.jp/yamasake/10005435/",
+          "name": "南 ( みなみ ) 純米吟醸 播州山田錦 1.8L高知県 南酒造場【 3525 】【 日本酒 】【 ハロウィン 贈り物 ギフト プレゼント 】",
+          "shopName": "酒の番人 ヤマカワ",
+          "availability": 0,
+          "purchaseKind": "unconfirmed",
+          "checkedAt": "2026-10-19T23:29:20.967Z"
+        },
+        {
+          "itemCode": "yamasake:10010144",
+          "normalUrl": "https://item.rakuten.co.jp/yamasake/7946/",
+          "name": "南 ( みなみ ) 特別純米 別誂 火入 720ml / 高知県 南酒造場 【 7946 】【 日本酒 】【 ハロウィン 贈り物 ギフト プレゼント 】",
+          "shopName": "酒の番人 ヤマカワ",
+          "availability": 0,
+          "purchaseKind": "unconfirmed",
+          "checkedAt": "2026-10-19T23:29:20.967Z"
+        },
+        {
+          "itemCode": "yamasake:10004237",
+          "normalUrl": "https://item.rakuten.co.jp/yamasake/10004237/",
+          "name": "南 特別純米 冷卸 ( ひやおろし ) 720ml / 高知県 南酒造場【 2580 】【 日本酒 】【 要冷蔵 】【 ハロウィン 贈り物 ギフト プレゼント 】",
+          "shopName": "酒の番人 ヤマカワ",
+          "availability": 0,
+          "purchaseKind": "unconfirmed",
+          "checkedAt": "2026-10-19T23:29:20.967Z"
+        },
+        {
+          "itemCode": "azumazuru:10017336",
+          "normalUrl": "https://item.rakuten.co.jp/azumazuru/1091105/",
+          "name": "南 特別純米酒 1800ml 日本酒/南酒造場/みなみ/高知/松山三井",
+          "shopName": "ワインスクエアー・アズマヅル",
+          "availability": 1,
+          "purchaseKind": "unconfirmed",
+          "checkedAt": "2026-10-19T23:29:20.967Z"
+        },
+        {
+          "itemCode": "azumazuru:10018481",
+          "normalUrl": "https://item.rakuten.co.jp/azumazuru/1090252/",
+          "name": "南 特別純米 ひやおろし 無濾過原酒 1800ml 日本酒/南酒造場/みなみ/高知/松山三井/土佐/辛口/季節限定酒/1.8L/一升瓶",
+          "shopName": "ワインスクエアー・アズマヅル",
+          "availability": 1,
+          "purchaseKind": "unconfirmed",
+          "checkedAt": "2026-10-19T23:29:20.967Z"
+        },
+        {
+          "itemCode": "azumazuru:10018482",
+          "normalUrl": "https://item.rakuten.co.jp/azumazuru/1090253/",
+          "name": "南 特別純米 ひやおろし 無濾過原酒 720ml 日本酒/南酒造場/みなみ/高知/松山三井/土佐/辛口/季節限定酒/四合瓶",
+          "shopName": "ワインスクエアー・アズマヅル",
+          "availability": 1,
+          "purchaseKind": "unconfirmed",
+          "checkedAt": "2026-10-19T23:29:20.967Z"
+        },
+        {
+          "itemCode": "yamasake:10003370",
+          "normalUrl": "https://item.rakuten.co.jp/yamasake/10003370/",
+          "name": "南 特別純米 冷卸 ( ひやおろし ) 1.8L/ 高知県 南酒造場【 1783 】【 日本酒 】【 要冷蔵 】【 ハロウィン 贈り物 ギフト プレゼント 】",
+          "shopName": "酒の番人 ヤマカワ",
+          "availability": 1,
+          "purchaseKind": "unconfirmed",
+          "checkedAt": "2026-10-19T23:29:20.967Z"
+        },
+        {
+          "itemCode": "kyoto-sake-2940:10002000",
+          "normalUrl": "https://item.rakuten.co.jp/kyoto-sake-2940/mnm-ntj-720/",
+          "name": "南 特別純米 松山三井 無濾過 生酒 720ml 高知県 南酒造場",
+          "shopName": "京都のさか屋ふくしま",
+          "availability": 0,
+          "purchaseKind": "unconfirmed",
+          "checkedAt": "2026-10-19T23:29:20.967Z"
+        },
+        {
+          "itemCode": "azumazuru:10017338",
+          "normalUrl": "https://item.rakuten.co.jp/azumazuru/1090319/",
+          "name": "南 特別純米 無濾過生原酒 1800ml＼＼クール発送／／日本酒/南酒造場/みなみ/高知/松山三井",
+          "shopName": "ワインスクエアー・アズマヅル",
+          "availability": 0,
+          "purchaseKind": "unconfirmed",
+          "checkedAt": "2026-10-19T23:29:20.967Z"
+        }
+      ],
+      "verdict": "REQUIRES_SKU_AND_IMAGE_REVIEW_NOT_AUTOMATIC"
+    },
+    {
+      "sakeId": "narutotai-junmai-tomoe-v1",
+      "productName": "鳴門鯛 純米 巴",
+      "normalUrl": "https://item.rakuten.co.jp/auc-matsusen/n401-1/",
+      "itemCode": "auc-matsusen:10001571",
+      "checkedAt": "2026-10-19T23:22:18.326Z",
+      "retrieved": false,
+      "status": 404,
+      "availability": {
+        "title": "【楽天市場】エラー",
+        "httpStatus": 404,
+        "sameDestination": true,
+        "itemId": null,
+        "itemMatches": false,
+        "purchaseCondition": null,
+        "stockCondition": null,
+        "soldOut": false,
+        "purchaseControls": false,
+        "purchasable": false,
+        "state": "http_unconfirmed"
+      },
+      "state": "UNCONFIRMED_NOT_ABSENCE",
+      "automaticallyInactive": false,
+      "productIdentityNotRecertifiedByStockCheck": true,
+      "capacityMl": 1800,
+      "searches": [
+        {
+          "query": "鳴門鯛 純米 巴 1800ml",
+          "ok": true,
+          "error": null,
+          "count": 6,
+          "checkedAt": "2026-10-19T23:24:23.132Z"
+        },
+        {
+          "query": "鳴門鯛 純米酒 1800ml",
+          "ok": true,
+          "error": null,
+          "count": 6,
+          "checkedAt": "2026-10-19T23:24:24.259Z"
+        }
+      ],
+      "candidates": [
+        {
+          "itemCode": "auc-matsusen:10001573",
+          "normalUrl": "https://item.rakuten.co.jp/auc-matsusen/n401-3/",
+          "name": "日本酒　鳴門鯛　純米吟醸　巴　1800ml　【本家松浦酒造場】",
+          "shopName": "お酒の専門店 松仙",
+          "availability": 1,
+          "purchaseKind": "unconfirmed",
+          "checkedAt": "2026-10-19T23:24:24.259Z"
+        },
+        {
+          "itemCode": "tsutaya:10025340",
+          "normalUrl": "https://item.rakuten.co.jp/tsutaya/20250910/",
+          "name": "鳴門鯛　純米　巴 (ともえ) 　1800ml　【日本酒】【徳島】",
+          "shopName": "津田SAKE店",
+          "availability": 1,
+          "purchaseKind": "unconfirmed",
+          "checkedAt": "2026-10-19T23:24:24.259Z"
+        },
+        {
+          "itemCode": "g-marche:10002292",
+          "normalUrl": "https://item.rakuten.co.jp/g-marche/10002239/",
+          "name": "【蔵元直送】鳴門鯛 純米超辛口 巴 1800ml",
+          "shopName": "グランマルシェ 楽天市場店",
+          "availability": 1,
+          "purchaseKind": "unconfirmed",
+          "checkedAt": "2026-10-19T23:24:24.259Z"
+        },
+        {
+          "itemCode": "chagatapark:10077271",
+          "normalUrl": "https://item.rakuten.co.jp/chagatapark/192685658/",
+          "name": "【在庫限りの衝撃価格！】 本家松浦酒造 鳴門鯛 純米吟醸 巴 25年8月製造 1800ml",
+          "shopName": "お酒のちゃがたパーク 楽天市場店",
+          "availability": 0,
+          "purchaseKind": "unconfirmed",
+          "checkedAt": "2026-10-19T23:24:23.132Z"
+        },
+        {
+          "itemCode": "g-marche:10001010",
+          "normalUrl": "https://item.rakuten.co.jp/g-marche/10000959/",
+          "name": "鳴門鯛　純米ひやおろし（巴ラベル）1800ml 日本酒 ギフト 日本酒 大吟醸 送料無料 お酒 ギフト 辛口 お酒 プレゼント ナルトタイ 化粧箱 御中元 お中元 日本酒",
+          "shopName": "グランマルシェ 楽天市場店",
+          "availability": 1,
+          "purchaseKind": "unconfirmed",
+          "checkedAt": "2026-10-19T23:24:23.132Z"
+        },
+        {
+          "itemCode": "kishuuitibanya:10002491",
+          "normalUrl": "https://item.rakuten.co.jp/kishuuitibanya/ns-635/",
+          "name": "鳴門鯛 しぼりたて 純米超辛口 巴 生 1800ml 2025年 令和七年 新酒 日本酒 初搾り 初しぼり しぼりたて なるとたい ともえ 徳島県 本家松浦酒造場冷蔵便での発送となります。",
+          "shopName": "紀州いちばん屋楽天市場店",
+          "availability": 0,
+          "purchaseKind": "unconfirmed",
+          "checkedAt": "2026-10-19T23:24:24.259Z"
+        },
+        {
+          "itemCode": "g-marche:10002291",
+          "normalUrl": "https://item.rakuten.co.jp/g-marche/10002237/",
+          "name": "【蔵元直送】鳴門鯛 新酒しぼりたて 純米生原酒 1800ml",
+          "shopName": "グランマルシェ 楽天市場店",
+          "availability": 1,
+          "purchaseKind": "unconfirmed",
+          "checkedAt": "2026-10-19T23:24:24.259Z"
+        },
+        {
+          "itemCode": "auc-matsusen:10001574",
+          "normalUrl": "https://item.rakuten.co.jp/auc-matsusen/n401-4/",
+          "name": "日本酒　鳴門鯛　LED　1800 ml　【本家松浦酒造場】",
+          "shopName": "お酒の専門店 松仙",
+          "availability": 1,
+          "purchaseKind": "unconfirmed",
+          "checkedAt": "2026-10-19T23:24:24.259Z"
+        }
+      ],
+      "verdict": "REQUIRES_SKU_AND_IMAGE_REVIEW_NOT_AUTOMATIC"
+    }
+  ]
+}

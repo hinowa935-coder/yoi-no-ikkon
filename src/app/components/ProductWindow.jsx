@@ -4,6 +4,7 @@ import {OchokoIcon} from './InterfaceIcons.jsx';
 import {productMediaFor} from '../../commerce/productMedia.js';
 import {emitAffiliateClick} from '../../commerce/entryTracking.js';
 import {useCommerceMedia} from './CommerceMediaProvider.jsx';
+import {imageDisplayUnavailable} from '../../commerce/availability.js';
 
 export default function ProductWindow({item,compact=false,context={}}) {
   const image=productMediaFor(item);
@@ -38,7 +39,7 @@ export default function ProductWindow({item,compact=false,context={}}) {
       <div ref={creative} className="official-product-creative" role="group" aria-label={`${item.productName}を楽天市場で見る（外部サイト・広告）`} onClick={click} onAuxClick={click} onErrorCapture={()=>setFailed(true)}
         dangerouslySetInnerHTML={{__html:compact?image.compactHtml:image.html}} /> : <OchokoIcon />}</div>
     {!compact && (visible ? <figcaption><span>広告 / 楽天市場の商品画像。{image.capacityMl}ml</span><a href={image.affiliateUrl} target="_blank" rel="sponsored noopener" aria-label={`${item.productName}の楽天商品を見る（外部サイト）`} onClick={click}>楽天の商品を見る ↗</a></figcaption> :
-      <figcaption><strong>商品画像は準備中です</strong><span>購入先でラベル・商品情報をご確認いただけます。</span></figcaption>)}
+      <figcaption><strong>{imageDisplayUnavailable(item.id)?'購入先を確認中です':'商品画像は準備中です'}</strong><span>購入先でラベル・商品情報をご確認いただけます。</span></figcaption>)}
     {compact && <figcaption>{visible?<><span>広告 / 楽天市場</span><a href={image.affiliateUrl} target="_blank" rel="sponsored noopener" aria-label={`${item.productName}の楽天商品を見る（外部サイト）`} onClick={click}>楽天の商品を見る ↗</a></>:<span aria-hidden="true">&nbsp;</span>}</figcaption>}
   </figure>;
 }

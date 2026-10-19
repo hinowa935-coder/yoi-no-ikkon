@@ -1,0 +1,1187 @@
+{
+  "checkedAt": "2026-10-19T23:40:47.931Z",
+  "base": "http://127.0.0.1:3196",
+  "checks": [
+    {
+      "name": "webkit-320: amabuki-flower-yeast formal image",
+      "pass": true,
+      "detail": {
+        "originalSrc": true,
+        "naturalWidth": 240,
+        "naturalHeight": 240,
+        "width": 240,
+        "height": 240,
+        "visible": true
+      }
+    },
+    {
+      "name": "webkit-320: amabuki-flower-yeast matching purchase and capacity",
+      "pass": true
+    },
+    {
+      "name": "webkit-320: amabuki-flower-yeast no overflow",
+      "pass": true
+    },
+    {
+      "name": "webkit-320: yuki-no-bosha-junmai-ginjo formal image",
+      "pass": true,
+      "detail": {
+        "originalSrc": true,
+        "naturalWidth": 240,
+        "naturalHeight": 240,
+        "width": 240,
+        "height": 240,
+        "visible": true
+      }
+    },
+    {
+      "name": "webkit-320: yuki-no-bosha-junmai-ginjo matching purchase and capacity",
+      "pass": true
+    },
+    {
+      "name": "webkit-320: yuki-no-bosha-junmai-ginjo no overflow",
+      "pass": true
+    },
+    {
+      "name": "webkit-320: masuizumi-junmai-ginjo formal image",
+      "pass": true,
+      "detail": {
+        "originalSrc": true,
+        "naturalWidth": 240,
+        "naturalHeight": 240,
+        "width": 240,
+        "height": 240,
+        "visible": true
+      }
+    },
+    {
+      "name": "webkit-320: masuizumi-junmai-ginjo matching purchase and capacity",
+      "pass": true
+    },
+    {
+      "name": "webkit-320: masuizumi-junmai-ginjo no overflow",
+      "pass": true
+    },
+    {
+      "name": "webkit-320: tenbi-junmai-ginjo formal image",
+      "pass": true,
+      "detail": {
+        "originalSrc": true,
+        "naturalWidth": 240,
+        "naturalHeight": 240,
+        "width": 240,
+        "height": 240,
+        "visible": true
+      }
+    },
+    {
+      "name": "webkit-320: tenbi-junmai-ginjo matching purchase and capacity",
+      "pass": true
+    },
+    {
+      "name": "webkit-320: tenbi-junmai-ginjo no overflow",
+      "pass": true
+    },
+    {
+      "name": "webkit-320: kokuryu-junmai-ginjo-1 formal image",
+      "pass": true,
+      "detail": {
+        "originalSrc": true,
+        "naturalWidth": 240,
+        "naturalHeight": 240,
+        "width": 240,
+        "height": 240,
+        "visible": true
+      }
+    },
+    {
+      "name": "webkit-320: kokuryu-junmai-ginjo-1 matching purchase and capacity",
+      "pass": true
+    },
+    {
+      "name": "webkit-320: kokuryu-junmai-ginjo-1 no overflow",
+      "pass": true
+    },
+    {
+      "name": "webkit-320: morishima-miyamanishiki-junmai-ginjo-hiire-v1 formal image",
+      "pass": true,
+      "detail": {
+        "originalSrc": true,
+        "naturalWidth": 240,
+        "naturalHeight": 240,
+        "width": 240,
+        "height": 240,
+        "visible": true
+      }
+    },
+    {
+      "name": "webkit-320: morishima-miyamanishiki-junmai-ginjo-hiire-v1 matching purchase and capacity",
+      "pass": true
+    },
+    {
+      "name": "webkit-320: morishima-miyamanishiki-junmai-ginjo-hiire-v1 no overflow",
+      "pass": true
+    },
+    {
+      "name": "webkit-320: narutotai-junmai-tomoe-v1 formal image",
+      "pass": true,
+      "detail": {
+        "originalSrc": true,
+        "naturalWidth": 180,
+        "naturalHeight": 240,
+        "width": 180,
+        "height": 240,
+        "visible": true
+      }
+    },
+    {
+      "name": "webkit-320: narutotai-junmai-tomoe-v1 matching purchase and capacity",
+      "pass": true
+    },
+    {
+      "name": "webkit-320: narutotai-junmai-tomoe-v1 no overflow",
+      "pass": true
+    },
+    {
+      "name": "webkit-320: search compact image",
+      "pass": true
+    },
+    {
+      "name": "webkit-320: search query survives back",
+      "pass": true
+    },
+    {
+      "name": "webkit-320: saved item and archived history",
+      "pass": true
+    },
+    {
+      "name": "webkit-320: old page has no different-SKU redirect",
+      "pass": true
+    },
+    {
+      "name": "webkit-320: old saved ID is not migrated",
+      "pass": true
+    },
+    {
+      "name": "webkit-320: unresolved image remains placeholder",
+      "pass": true
+    },
+    {
+      "name": "webkit-320: shichihonyari-lvvrsw purchase hold uses search",
+      "pass": true
+    },
+    {
+      "name": "webkit-320: broken-page image held",
+      "pass": true
+    },
+    {
+      "name": "webkit-320: kurawanka-junmai-usunigori-v1 purchase hold uses search",
+      "pass": true
+    },
+    {
+      "name": "webkit-320: kurawanka-junmai-usunigori-v1 correct historical image retained",
+      "pass": true
+    },
+    {
+      "name": "webkit-320: minami-junmai-ginjo-matsuyamamitsui-standard-v1 purchase hold uses search",
+      "pass": true
+    },
+    {
+      "name": "webkit-320: minami-junmai-ginjo-matsuyamamitsui-standard-v1 correct historical image retained",
+      "pass": true
+    },
+    {
+      "name": "webkit-320: Discover recommendation unchanged",
+      "pass": true
+    },
+    {
+      "name": "webkit-320: food page",
+      "pass": true
+    },
+    {
+      "name": "webkit-360: amabuki-flower-yeast formal image",
+      "pass": true,
+      "detail": {
+        "originalSrc": true,
+        "naturalWidth": 240,
+        "naturalHeight": 240,
+        "width": 240,
+        "height": 240,
+        "visible": true
+      }
+    },
+    {
+      "name": "webkit-360: amabuki-flower-yeast matching purchase and capacity",
+      "pass": true
+    },
+    {
+      "name": "webkit-360: amabuki-flower-yeast no overflow",
+      "pass": true
+    },
+    {
+      "name": "webkit-360: yuki-no-bosha-junmai-ginjo formal image",
+      "pass": true,
+      "detail": {
+        "originalSrc": true,
+        "naturalWidth": 240,
+        "naturalHeight": 240,
+        "width": 240,
+        "height": 240,
+        "visible": true
+      }
+    },
+    {
+      "name": "webkit-360: yuki-no-bosha-junmai-ginjo matching purchase and capacity",
+      "pass": true
+    },
+    {
+      "name": "webkit-360: yuki-no-bosha-junmai-ginjo no overflow",
+      "pass": true
+    },
+    {
+      "name": "webkit-360: masuizumi-junmai-ginjo formal image",
+      "pass": true,
+      "detail": {
+        "originalSrc": true,
+        "naturalWidth": 240,
+        "naturalHeight": 240,
+        "width": 240,
+        "height": 240,
+        "visible": true
+      }
+    },
+    {
+      "name": "webkit-360: masuizumi-junmai-ginjo matching purchase and capacity",
+      "pass": true
+    },
+    {
+      "name": "webkit-360: masuizumi-junmai-ginjo no overflow",
+      "pass": true
+    },
+    {
+      "name": "webkit-360: tenbi-junmai-ginjo formal image",
+      "pass": true,
+      "detail": {
+        "originalSrc": true,
+        "naturalWidth": 240,
+        "naturalHeight": 240,
+        "width": 240,
+        "height": 240,
+        "visible": true
+      }
+    },
+    {
+      "name": "webkit-360: tenbi-junmai-ginjo matching purchase and capacity",
+      "pass": true
+    },
+    {
+      "name": "webkit-360: tenbi-junmai-ginjo no overflow",
+      "pass": true
+    },
+    {
+      "name": "webkit-360: kokuryu-junmai-ginjo-1 formal image",
+      "pass": true,
+      "detail": {
+        "originalSrc": true,
+        "naturalWidth": 240,
+        "naturalHeight": 240,
+        "width": 240,
+        "height": 240,
+        "visible": true
+      }
+    },
+    {
+      "name": "webkit-360: kokuryu-junmai-ginjo-1 matching purchase and capacity",
+      "pass": true
+    },
+    {
+      "name": "webkit-360: kokuryu-junmai-ginjo-1 no overflow",
+      "pass": true
+    },
+    {
+      "name": "webkit-360: morishima-miyamanishiki-junmai-ginjo-hiire-v1 formal image",
+      "pass": true,
+      "detail": {
+        "originalSrc": true,
+        "naturalWidth": 240,
+        "naturalHeight": 240,
+        "width": 240,
+        "height": 240,
+        "visible": true
+      }
+    },
+    {
+      "name": "webkit-360: morishima-miyamanishiki-junmai-ginjo-hiire-v1 matching purchase and capacity",
+      "pass": true
+    },
+    {
+      "name": "webkit-360: morishima-miyamanishiki-junmai-ginjo-hiire-v1 no overflow",
+      "pass": true
+    },
+    {
+      "name": "webkit-360: narutotai-junmai-tomoe-v1 formal image",
+      "pass": true,
+      "detail": {
+        "originalSrc": true,
+        "naturalWidth": 180,
+        "naturalHeight": 240,
+        "width": 180,
+        "height": 240,
+        "visible": true
+      }
+    },
+    {
+      "name": "webkit-360: narutotai-junmai-tomoe-v1 matching purchase and capacity",
+      "pass": true
+    },
+    {
+      "name": "webkit-360: narutotai-junmai-tomoe-v1 no overflow",
+      "pass": true
+    },
+    {
+      "name": "webkit-360: search compact image",
+      "pass": true
+    },
+    {
+      "name": "webkit-360: search query survives back",
+      "pass": true
+    },
+    {
+      "name": "webkit-360: saved item and archived history",
+      "pass": true
+    },
+    {
+      "name": "webkit-360: old page has no different-SKU redirect",
+      "pass": true
+    },
+    {
+      "name": "webkit-360: old saved ID is not migrated",
+      "pass": true
+    },
+    {
+      "name": "webkit-360: unresolved image remains placeholder",
+      "pass": true
+    },
+    {
+      "name": "webkit-360: shichihonyari-lvvrsw purchase hold uses search",
+      "pass": true
+    },
+    {
+      "name": "webkit-360: broken-page image held",
+      "pass": true
+    },
+    {
+      "name": "webkit-360: kurawanka-junmai-usunigori-v1 purchase hold uses search",
+      "pass": true
+    },
+    {
+      "name": "webkit-360: kurawanka-junmai-usunigori-v1 correct historical image retained",
+      "pass": true
+    },
+    {
+      "name": "webkit-360: minami-junmai-ginjo-matsuyamamitsui-standard-v1 purchase hold uses search",
+      "pass": true
+    },
+    {
+      "name": "webkit-360: minami-junmai-ginjo-matsuyamamitsui-standard-v1 correct historical image retained",
+      "pass": true
+    },
+    {
+      "name": "webkit-360: Discover recommendation unchanged",
+      "pass": true
+    },
+    {
+      "name": "webkit-360: food page",
+      "pass": true
+    },
+    {
+      "name": "webkit-375: amabuki-flower-yeast formal image",
+      "pass": true,
+      "detail": {
+        "originalSrc": true,
+        "naturalWidth": 240,
+        "naturalHeight": 240,
+        "width": 240,
+        "height": 240,
+        "visible": true
+      }
+    },
+    {
+      "name": "webkit-375: amabuki-flower-yeast matching purchase and capacity",
+      "pass": true
+    },
+    {
+      "name": "webkit-375: amabuki-flower-yeast no overflow",
+      "pass": true
+    },
+    {
+      "name": "webkit-375: yuki-no-bosha-junmai-ginjo formal image",
+      "pass": true,
+      "detail": {
+        "originalSrc": true,
+        "naturalWidth": 240,
+        "naturalHeight": 240,
+        "width": 240,
+        "height": 240,
+        "visible": true
+      }
+    },
+    {
+      "name": "webkit-375: yuki-no-bosha-junmai-ginjo matching purchase and capacity",
+      "pass": true
+    },
+    {
+      "name": "webkit-375: yuki-no-bosha-junmai-ginjo no overflow",
+      "pass": true
+    },
+    {
+      "name": "webkit-375: masuizumi-junmai-ginjo formal image",
+      "pass": true,
+      "detail": {
+        "originalSrc": true,
+        "naturalWidth": 240,
+        "naturalHeight": 240,
+        "width": 240,
+        "height": 240,
+        "visible": true
+      }
+    },
+    {
+      "name": "webkit-375: masuizumi-junmai-ginjo matching purchase and capacity",
+      "pass": true
+    },
+    {
+      "name": "webkit-375: masuizumi-junmai-ginjo no overflow",
+      "pass": true
+    },
+    {
+      "name": "webkit-375: tenbi-junmai-ginjo formal image",
+      "pass": true,
+      "detail": {
+        "originalSrc": true,
+        "naturalWidth": 240,
+        "naturalHeight": 240,
+        "width": 240,
+        "height": 240,
+        "visible": true
+      }
+    },
+    {
+      "name": "webkit-375: tenbi-junmai-ginjo matching purchase and capacity",
+      "pass": true
+    },
+    {
+      "name": "webkit-375: tenbi-junmai-ginjo no overflow",
+      "pass": true
+    },
+    {
+      "name": "webkit-375: kokuryu-junmai-ginjo-1 formal image",
+      "pass": true,
+      "detail": {
+        "originalSrc": true,
+        "naturalWidth": 240,
+        "naturalHeight": 240,
+        "width": 240,
+        "height": 240,
+        "visible": true
+      }
+    },
+    {
+      "name": "webkit-375: kokuryu-junmai-ginjo-1 matching purchase and capacity",
+      "pass": true
+    },
+    {
+      "name": "webkit-375: kokuryu-junmai-ginjo-1 no overflow",
+      "pass": true
+    },
+    {
+      "name": "webkit-375: morishima-miyamanishiki-junmai-ginjo-hiire-v1 formal image",
+      "pass": true,
+      "detail": {
+        "originalSrc": true,
+        "naturalWidth": 240,
+        "naturalHeight": 240,
+        "width": 240,
+        "height": 240,
+        "visible": true
+      }
+    },
+    {
+      "name": "webkit-375: morishima-miyamanishiki-junmai-ginjo-hiire-v1 matching purchase and capacity",
+      "pass": true
+    },
+    {
+      "name": "webkit-375: morishima-miyamanishiki-junmai-ginjo-hiire-v1 no overflow",
+      "pass": true
+    },
+    {
+      "name": "webkit-375: narutotai-junmai-tomoe-v1 formal image",
+      "pass": true,
+      "detail": {
+        "originalSrc": true,
+        "naturalWidth": 180,
+        "naturalHeight": 240,
+        "width": 180,
+        "height": 240,
+        "visible": true
+      }
+    },
+    {
+      "name": "webkit-375: narutotai-junmai-tomoe-v1 matching purchase and capacity",
+      "pass": true
+    },
+    {
+      "name": "webkit-375: narutotai-junmai-tomoe-v1 no overflow",
+      "pass": true
+    },
+    {
+      "name": "webkit-375: search compact image",
+      "pass": true
+    },
+    {
+      "name": "webkit-375: search query survives back",
+      "pass": true
+    },
+    {
+      "name": "webkit-375: saved item and archived history",
+      "pass": true
+    },
+    {
+      "name": "webkit-375: old page has no different-SKU redirect",
+      "pass": true
+    },
+    {
+      "name": "webkit-375: old saved ID is not migrated",
+      "pass": true
+    },
+    {
+      "name": "webkit-375: unresolved image remains placeholder",
+      "pass": true
+    },
+    {
+      "name": "webkit-375: shichihonyari-lvvrsw purchase hold uses search",
+      "pass": true
+    },
+    {
+      "name": "webkit-375: broken-page image held",
+      "pass": true
+    },
+    {
+      "name": "webkit-375: kurawanka-junmai-usunigori-v1 purchase hold uses search",
+      "pass": true
+    },
+    {
+      "name": "webkit-375: kurawanka-junmai-usunigori-v1 correct historical image retained",
+      "pass": true
+    },
+    {
+      "name": "webkit-375: minami-junmai-ginjo-matsuyamamitsui-standard-v1 purchase hold uses search",
+      "pass": true
+    },
+    {
+      "name": "webkit-375: minami-junmai-ginjo-matsuyamamitsui-standard-v1 correct historical image retained",
+      "pass": true
+    },
+    {
+      "name": "webkit-375: Discover recommendation unchanged",
+      "pass": true
+    },
+    {
+      "name": "webkit-375: food page",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: amabuki-flower-yeast formal image",
+      "pass": true,
+      "detail": {
+        "originalSrc": true,
+        "naturalWidth": 240,
+        "naturalHeight": 240,
+        "width": 240,
+        "height": 240,
+        "visible": true
+      }
+    },
+    {
+      "name": "webkit-390: amabuki-flower-yeast matching purchase and capacity",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: amabuki-flower-yeast no overflow",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: yuki-no-bosha-junmai-ginjo formal image",
+      "pass": true,
+      "detail": {
+        "originalSrc": true,
+        "naturalWidth": 240,
+        "naturalHeight": 240,
+        "width": 240,
+        "height": 240,
+        "visible": true
+      }
+    },
+    {
+      "name": "webkit-390: yuki-no-bosha-junmai-ginjo matching purchase and capacity",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: yuki-no-bosha-junmai-ginjo no overflow",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: masuizumi-junmai-ginjo formal image",
+      "pass": true,
+      "detail": {
+        "originalSrc": true,
+        "naturalWidth": 240,
+        "naturalHeight": 240,
+        "width": 240,
+        "height": 240,
+        "visible": true
+      }
+    },
+    {
+      "name": "webkit-390: masuizumi-junmai-ginjo matching purchase and capacity",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: masuizumi-junmai-ginjo no overflow",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: tenbi-junmai-ginjo formal image",
+      "pass": true,
+      "detail": {
+        "originalSrc": true,
+        "naturalWidth": 240,
+        "naturalHeight": 240,
+        "width": 240,
+        "height": 240,
+        "visible": true
+      }
+    },
+    {
+      "name": "webkit-390: tenbi-junmai-ginjo matching purchase and capacity",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: tenbi-junmai-ginjo no overflow",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: kokuryu-junmai-ginjo-1 formal image",
+      "pass": true,
+      "detail": {
+        "originalSrc": true,
+        "naturalWidth": 240,
+        "naturalHeight": 240,
+        "width": 240,
+        "height": 240,
+        "visible": true
+      }
+    },
+    {
+      "name": "webkit-390: kokuryu-junmai-ginjo-1 matching purchase and capacity",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: kokuryu-junmai-ginjo-1 no overflow",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: morishima-miyamanishiki-junmai-ginjo-hiire-v1 formal image",
+      "pass": true,
+      "detail": {
+        "originalSrc": true,
+        "naturalWidth": 240,
+        "naturalHeight": 240,
+        "width": 240,
+        "height": 240,
+        "visible": true
+      }
+    },
+    {
+      "name": "webkit-390: morishima-miyamanishiki-junmai-ginjo-hiire-v1 matching purchase and capacity",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: morishima-miyamanishiki-junmai-ginjo-hiire-v1 no overflow",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: narutotai-junmai-tomoe-v1 formal image",
+      "pass": true,
+      "detail": {
+        "originalSrc": true,
+        "naturalWidth": 180,
+        "naturalHeight": 240,
+        "width": 180,
+        "height": 240,
+        "visible": true
+      }
+    },
+    {
+      "name": "webkit-390: narutotai-junmai-tomoe-v1 matching purchase and capacity",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: narutotai-junmai-tomoe-v1 no overflow",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: search compact image",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: search query survives back",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: saved item and archived history",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: old page has no different-SKU redirect",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: old saved ID is not migrated",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: unresolved image remains placeholder",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: shichihonyari-lvvrsw purchase hold uses search",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: broken-page image held",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: kurawanka-junmai-usunigori-v1 purchase hold uses search",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: kurawanka-junmai-usunigori-v1 correct historical image retained",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: minami-junmai-ginjo-matsuyamamitsui-standard-v1 purchase hold uses search",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: minami-junmai-ginjo-matsuyamamitsui-standard-v1 correct historical image retained",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: Discover recommendation unchanged",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: food page",
+      "pass": true
+    },
+    {
+      "name": "webkit-430: amabuki-flower-yeast formal image",
+      "pass": true,
+      "detail": {
+        "originalSrc": true,
+        "naturalWidth": 240,
+        "naturalHeight": 240,
+        "width": 240,
+        "height": 240,
+        "visible": true
+      }
+    },
+    {
+      "name": "webkit-430: amabuki-flower-yeast matching purchase and capacity",
+      "pass": true
+    },
+    {
+      "name": "webkit-430: amabuki-flower-yeast no overflow",
+      "pass": true
+    },
+    {
+      "name": "webkit-430: yuki-no-bosha-junmai-ginjo formal image",
+      "pass": true,
+      "detail": {
+        "originalSrc": true,
+        "naturalWidth": 240,
+        "naturalHeight": 240,
+        "width": 240,
+        "height": 240,
+        "visible": true
+      }
+    },
+    {
+      "name": "webkit-430: yuki-no-bosha-junmai-ginjo matching purchase and capacity",
+      "pass": true
+    },
+    {
+      "name": "webkit-430: yuki-no-bosha-junmai-ginjo no overflow",
+      "pass": true
+    },
+    {
+      "name": "webkit-430: masuizumi-junmai-ginjo formal image",
+      "pass": true,
+      "detail": {
+        "originalSrc": true,
+        "naturalWidth": 240,
+        "naturalHeight": 240,
+        "width": 240,
+        "height": 240,
+        "visible": true
+      }
+    },
+    {
+      "name": "webkit-430: masuizumi-junmai-ginjo matching purchase and capacity",
+      "pass": true
+    },
+    {
+      "name": "webkit-430: masuizumi-junmai-ginjo no overflow",
+      "pass": true
+    },
+    {
+      "name": "webkit-430: tenbi-junmai-ginjo formal image",
+      "pass": true,
+      "detail": {
+        "originalSrc": true,
+        "naturalWidth": 240,
+        "naturalHeight": 240,
+        "width": 240,
+        "height": 240,
+        "visible": true
+      }
+    },
+    {
+      "name": "webkit-430: tenbi-junmai-ginjo matching purchase and capacity",
+      "pass": true
+    },
+    {
+      "name": "webkit-430: tenbi-junmai-ginjo no overflow",
+      "pass": true
+    },
+    {
+      "name": "webkit-430: kokuryu-junmai-ginjo-1 formal image",
+      "pass": true,
+      "detail": {
+        "originalSrc": true,
+        "naturalWidth": 240,
+        "naturalHeight": 240,
+        "width": 240,
+        "height": 240,
+        "visible": true
+      }
+    },
+    {
+      "name": "webkit-430: kokuryu-junmai-ginjo-1 matching purchase and capacity",
+      "pass": true
+    },
+    {
+      "name": "webkit-430: kokuryu-junmai-ginjo-1 no overflow",
+      "pass": true
+    },
+    {
+      "name": "webkit-430: morishima-miyamanishiki-junmai-ginjo-hiire-v1 formal image",
+      "pass": true,
+      "detail": {
+        "originalSrc": true,
+        "naturalWidth": 240,
+        "naturalHeight": 240,
+        "width": 240,
+        "height": 240,
+        "visible": true
+      }
+    },
+    {
+      "name": "webkit-430: morishima-miyamanishiki-junmai-ginjo-hiire-v1 matching purchase and capacity",
+      "pass": true
+    },
+    {
+      "name": "webkit-430: morishima-miyamanishiki-junmai-ginjo-hiire-v1 no overflow",
+      "pass": true
+    },
+    {
+      "name": "webkit-430: narutotai-junmai-tomoe-v1 formal image",
+      "pass": true,
+      "detail": {
+        "originalSrc": true,
+        "naturalWidth": 180,
+        "naturalHeight": 240,
+        "width": 180,
+        "height": 240,
+        "visible": true
+      }
+    },
+    {
+      "name": "webkit-430: narutotai-junmai-tomoe-v1 matching purchase and capacity",
+      "pass": true
+    },
+    {
+      "name": "webkit-430: narutotai-junmai-tomoe-v1 no overflow",
+      "pass": true
+    },
+    {
+      "name": "webkit-430: search compact image",
+      "pass": true
+    },
+    {
+      "name": "webkit-430: search query survives back",
+      "pass": true
+    },
+    {
+      "name": "webkit-430: saved item and archived history",
+      "pass": true
+    },
+    {
+      "name": "webkit-430: old page has no different-SKU redirect",
+      "pass": true
+    },
+    {
+      "name": "webkit-430: old saved ID is not migrated",
+      "pass": true
+    },
+    {
+      "name": "webkit-430: unresolved image remains placeholder",
+      "pass": true
+    },
+    {
+      "name": "webkit-430: shichihonyari-lvvrsw purchase hold uses search",
+      "pass": true
+    },
+    {
+      "name": "webkit-430: broken-page image held",
+      "pass": true
+    },
+    {
+      "name": "webkit-430: kurawanka-junmai-usunigori-v1 purchase hold uses search",
+      "pass": true
+    },
+    {
+      "name": "webkit-430: kurawanka-junmai-usunigori-v1 correct historical image retained",
+      "pass": true
+    },
+    {
+      "name": "webkit-430: minami-junmai-ginjo-matsuyamamitsui-standard-v1 purchase hold uses search",
+      "pass": true
+    },
+    {
+      "name": "webkit-430: minami-junmai-ginjo-matsuyamamitsui-standard-v1 correct historical image retained",
+      "pass": true
+    },
+    {
+      "name": "webkit-430: Discover recommendation unchanged",
+      "pass": true
+    },
+    {
+      "name": "webkit-430: food page",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280: amabuki-flower-yeast formal image",
+      "pass": true,
+      "detail": {
+        "originalSrc": true,
+        "naturalWidth": 240,
+        "naturalHeight": 240,
+        "width": 240,
+        "height": 240,
+        "visible": true
+      }
+    },
+    {
+      "name": "chromium-1280: amabuki-flower-yeast matching purchase and capacity",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280: amabuki-flower-yeast no overflow",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280: yuki-no-bosha-junmai-ginjo formal image",
+      "pass": true,
+      "detail": {
+        "originalSrc": true,
+        "naturalWidth": 240,
+        "naturalHeight": 240,
+        "width": 240,
+        "height": 240,
+        "visible": true
+      }
+    },
+    {
+      "name": "chromium-1280: yuki-no-bosha-junmai-ginjo matching purchase and capacity",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280: yuki-no-bosha-junmai-ginjo no overflow",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280: masuizumi-junmai-ginjo formal image",
+      "pass": true,
+      "detail": {
+        "originalSrc": true,
+        "naturalWidth": 240,
+        "naturalHeight": 240,
+        "width": 240,
+        "height": 240,
+        "visible": true
+      }
+    },
+    {
+      "name": "chromium-1280: masuizumi-junmai-ginjo matching purchase and capacity",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280: masuizumi-junmai-ginjo no overflow",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280: tenbi-junmai-ginjo formal image",
+      "pass": true,
+      "detail": {
+        "originalSrc": true,
+        "naturalWidth": 240,
+        "naturalHeight": 240,
+        "width": 240,
+        "height": 240,
+        "visible": true
+      }
+    },
+    {
+      "name": "chromium-1280: tenbi-junmai-ginjo matching purchase and capacity",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280: tenbi-junmai-ginjo no overflow",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280: kokuryu-junmai-ginjo-1 formal image",
+      "pass": true,
+      "detail": {
+        "originalSrc": true,
+        "naturalWidth": 240,
+        "naturalHeight": 240,
+        "width": 240,
+        "height": 240,
+        "visible": true
+      }
+    },
+    {
+      "name": "chromium-1280: kokuryu-junmai-ginjo-1 matching purchase and capacity",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280: kokuryu-junmai-ginjo-1 no overflow",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280: morishima-miyamanishiki-junmai-ginjo-hiire-v1 formal image",
+      "pass": true,
+      "detail": {
+        "originalSrc": true,
+        "naturalWidth": 240,
+        "naturalHeight": 240,
+        "width": 240,
+        "height": 240,
+        "visible": true
+      }
+    },
+    {
+      "name": "chromium-1280: morishima-miyamanishiki-junmai-ginjo-hiire-v1 matching purchase and capacity",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280: morishima-miyamanishiki-junmai-ginjo-hiire-v1 no overflow",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280: narutotai-junmai-tomoe-v1 formal image",
+      "pass": true,
+      "detail": {
+        "originalSrc": true,
+        "naturalWidth": 180,
+        "naturalHeight": 240,
+        "width": 180,
+        "height": 240,
+        "visible": true
+      }
+    },
+    {
+      "name": "chromium-1280: narutotai-junmai-tomoe-v1 matching purchase and capacity",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280: narutotai-junmai-tomoe-v1 no overflow",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280: search compact image",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280: search query survives back",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280: saved item and archived history",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280: old page has no different-SKU redirect",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280: old saved ID is not migrated",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280: unresolved image remains placeholder",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280: shichihonyari-lvvrsw purchase hold uses search",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280: broken-page image held",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280: kurawanka-junmai-usunigori-v1 purchase hold uses search",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280: kurawanka-junmai-usunigori-v1 correct historical image retained",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280: minami-junmai-ginjo-matsuyamamitsui-standard-v1 purchase hold uses search",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280: minami-junmai-ginjo-matsuyamamitsui-standard-v1 correct historical image retained",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280: Discover recommendation unchanged",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280: food page",
+      "pass": true
+    }
+  ],
+  "errors": [],
+  "bootstrapWarnings": [],
+  "passed": true,
+  "realDeviceTested": false,
+  "externalPurchaseClicked": false
+}

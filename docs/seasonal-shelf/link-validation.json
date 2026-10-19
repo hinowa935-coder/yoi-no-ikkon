@@ -1,0 +1,251 @@
+{
+  "checkedAt": "2026-10-19T23:31:31.470Z",
+  "rows": [
+    {
+      "sakeId": "amabuki-flower-yeast",
+      "normalUrl": "https://item.rakuten.co.jp/urakawa-2008/10010392/",
+      "checks": [
+        {
+          "device": "desktop",
+          "checkedAt": "2026-10-19T23:31:00.371Z",
+          "status": 200,
+          "finalHost": "item.rakuten.co.jp",
+          "sameProduct": true,
+          "passed": true
+        },
+        {
+          "device": "mobile",
+          "checkedAt": "2026-10-19T23:31:01.487Z",
+          "status": 200,
+          "finalHost": "item.rakuten.co.jp",
+          "sameProduct": true,
+          "passed": true
+        },
+        {
+          "imageSize": 240,
+          "status": 200,
+          "finalHost": "thumbnail.image.rakuten.co.jp",
+          "passed": true
+        },
+        {
+          "imageSize": 80,
+          "status": 200,
+          "finalHost": "thumbnail.image.rakuten.co.jp",
+          "passed": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "yuki-no-bosha-junmai-ginjo",
+      "normalUrl": "https://item.rakuten.co.jp/ono-sake/yukinobousya-junmaigin720/",
+      "checks": [
+        {
+          "device": "desktop",
+          "checkedAt": "2026-10-19T23:31:04.928Z",
+          "status": 200,
+          "finalHost": "item.rakuten.co.jp",
+          "sameProduct": true,
+          "passed": true
+        },
+        {
+          "device": "mobile",
+          "checkedAt": "2026-10-19T23:31:06.144Z",
+          "status": 200,
+          "finalHost": "item.rakuten.co.jp",
+          "sameProduct": true,
+          "passed": true
+        },
+        {
+          "imageSize": 240,
+          "status": 200,
+          "finalHost": "thumbnail.image.rakuten.co.jp",
+          "passed": true
+        },
+        {
+          "imageSize": 80,
+          "status": 200,
+          "finalHost": "thumbnail.image.rakuten.co.jp",
+          "passed": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "masuizumi-junmai-ginjo",
+      "normalUrl": "https://item.rakuten.co.jp/mighty-liquors/10005670/",
+      "checks": [
+        {
+          "device": "desktop",
+          "checkedAt": "2026-10-19T23:31:09.576Z",
+          "status": 200,
+          "finalHost": "item.rakuten.co.jp",
+          "sameProduct": true,
+          "passed": true
+        },
+        {
+          "device": "mobile",
+          "checkedAt": "2026-10-19T23:31:10.784Z",
+          "status": 200,
+          "finalHost": "item.rakuten.co.jp",
+          "sameProduct": true,
+          "passed": true
+        },
+        {
+          "imageSize": 240,
+          "status": 200,
+          "finalHost": "thumbnail.image.rakuten.co.jp",
+          "passed": true
+        },
+        {
+          "imageSize": 80,
+          "status": 200,
+          "finalHost": "thumbnail.image.rakuten.co.jp",
+          "passed": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "tenbi-junmai-ginjo",
+      "normalUrl": "https://item.rakuten.co.jp/meishu-honpo/17502/",
+      "checks": [
+        {
+          "device": "desktop",
+          "checkedAt": "2026-10-19T23:31:14.227Z",
+          "status": 200,
+          "finalHost": "item.rakuten.co.jp",
+          "sameProduct": true,
+          "passed": true
+        },
+        {
+          "device": "mobile",
+          "checkedAt": "2026-10-19T23:31:15.433Z",
+          "status": 200,
+          "finalHost": "item.rakuten.co.jp",
+          "sameProduct": true,
+          "passed": true
+        },
+        {
+          "imageSize": 240,
+          "status": 200,
+          "finalHost": "thumbnail.image.rakuten.co.jp",
+          "passed": true
+        },
+        {
+          "imageSize": 80,
+          "status": 200,
+          "finalHost": "thumbnail.image.rakuten.co.jp",
+          "passed": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "kokuryu-junmai-ginjo-1",
+      "normalUrl": "https://item.rakuten.co.jp/auc-chitashige/35022301/",
+      "checks": [
+        {
+          "device": "desktop",
+          "checkedAt": "2026-10-19T23:31:18.863Z",
+          "status": 200,
+          "finalHost": "item.rakuten.co.jp",
+          "sameProduct": true,
+          "passed": true
+        },
+        {
+          "device": "mobile",
+          "checkedAt": "2026-10-19T23:31:20.029Z",
+          "status": 200,
+          "finalHost": "item.rakuten.co.jp",
+          "sameProduct": true,
+          "passed": true
+        },
+        {
+          "imageSize": 240,
+          "status": 200,
+          "finalHost": "thumbnail.image.rakuten.co.jp",
+          "passed": true
+        },
+        {
+          "imageSize": 80,
+          "status": 200,
+          "finalHost": "thumbnail.image.rakuten.co.jp",
+          "passed": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "morishima-miyamanishiki-junmai-ginjo-hiire-v1",
+      "normalUrl": "https://item.rakuten.co.jp/mighty-liquors/sa192009/",
+      "checks": [
+        {
+          "device": "desktop",
+          "checkedAt": "2026-10-19T23:31:23.477Z",
+          "status": 200,
+          "finalHost": "item.rakuten.co.jp",
+          "sameProduct": true,
+          "passed": true
+        },
+        {
+          "device": "mobile",
+          "checkedAt": "2026-10-19T23:31:24.689Z",
+          "status": 200,
+          "finalHost": "item.rakuten.co.jp",
+          "sameProduct": true,
+          "passed": true
+        },
+        {
+          "imageSize": 240,
+          "status": 200,
+          "finalHost": "thumbnail.image.rakuten.co.jp",
+          "passed": true
+        },
+        {
+          "imageSize": 80,
+          "status": 200,
+          "finalHost": "thumbnail.image.rakuten.co.jp",
+          "passed": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "narutotai-junmai-tomoe-v1",
+      "normalUrl": "https://item.rakuten.co.jp/tsutaya/20250910/",
+      "checks": [
+        {
+          "device": "desktop",
+          "checkedAt": "2026-10-19T23:31:28.112Z",
+          "status": 200,
+          "finalHost": "item.rakuten.co.jp",
+          "sameProduct": true,
+          "passed": true
+        },
+        {
+          "device": "mobile",
+          "checkedAt": "2026-10-19T23:31:29.321Z",
+          "status": 200,
+          "finalHost": "item.rakuten.co.jp",
+          "sameProduct": true,
+          "passed": true
+        },
+        {
+          "imageSize": 240,
+          "status": 200,
+          "finalHost": "thumbnail.image.rakuten.co.jp",
+          "passed": true
+        },
+        {
+          "imageSize": 80,
+          "status": 200,
+          "finalHost": "thumbnail.image.rakuten.co.jp",
+          "passed": true
+        }
+      ],
+      "passed": true
+    }
+  ],
+  "passed": true
+}

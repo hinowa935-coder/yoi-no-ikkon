@@ -1,0 +1,10 @@
+{
+  "businessDate": "2026-10-20",
+  "id": "dpl_CA1HXrKJtQYrV2K5rBjLYgHhM61B",
+  "state": "READY",
+  "target": "production",
+  "commit": "ff821a056803fb6744036f2e61886f84d05aa259",
+  "primaryUrl": "https://yoi-no-ikkon.vercel.app/",
+  "projectId": "prj_TLTqZNFg5sfPxBlDeWD7SJ4aO3vk",
+  "source": "authenticated Vercel production alias inspection; verify sitemap and live search separately"
+}
