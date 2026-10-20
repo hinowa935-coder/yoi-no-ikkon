@@ -9,7 +9,6 @@ import PairingPending from "../../components/PairingPending.jsx";
 import { SITE_NAME, SITE_URL, allSakePairings, sakeCatalogStatus, legacyReferences, resolveSakeReference, getSakeById, buildSakeListSummary, buildSakeVerifiedTags, buildSakeEditorialTags, buildResourceLinks, toPathSegment } from "../../../data/siteData.js";
 import { publicSourceName } from "../../../data/publicDisplay.js";
 import { displaySpec } from "../../../data/specDisplay.js";
-import { temperatureLabels } from "../../../data/temperatureUX.js";
 import { dishesForSake, nightsForSake } from "../../../data/discovery.js";
 import { editorialNightAssignments, editorialNightNote } from '../../../data/editorialNightAssignments.js';
 import { commerceForSake } from "../../../commerce/server.js";
@@ -54,7 +53,7 @@ export default async function SakePage({ params }) {
   const r = item.sakeResearch;
   const community = eligibleSensoryEvidence(item.communityEvidence, {skuId:item.id}).accepted;
   const formatFields = entries => entries.map(([label, value]) => [label, displaySpec(value, label.includes("精米歩合") ? "%" : label === "アルコール度数" ? "度" : "")]).filter(([, text]) => text);
-  const essentials = formatFields([["蔵元", item.brewery], ["都道府県", item.prefecture], ["特定名称", r.classification.tokuteiMeishoshu || item.style.join(" / ")], ["原料米", r.specs.riceVariety], ["精米歩合", r.specs.polishingRatio], ["アルコール度数", r.specs.alcoholPercentage], ["飲用温度", temperatureLabels(r.servingTemperatures)], ["飲用温度範囲", r.recommendedTemperatureRange]]);
+  const essentials = formatFields([["蔵元", item.brewery], ["都道府県", item.prefecture], ["特定名称", r.classification.tokuteiMeishoshu || item.style.join(" / ")], ["原料米", r.specs.riceVariety], ["精米歩合", r.specs.polishingRatio], ["アルコール度数", r.specs.alcoholPercentage]]);
   const fields = formatFields([["原材料", r.specs.ingredients], ["原料米産地", r.specs.riceOrigin], ["麹米・掛米", r.specs.riceByRole], ["麹米・掛米の精米歩合", r.specs.polishingByRole], ["日本酒度", r.specs.nihonshudo], ["酸度", r.specs.acidity], ["アミノ酸度", r.specs.aminoAcidValue], ["酵母", r.specs.yeast], ["仕込水", r.specs.waterSource], ["熟成期間", r.specs.agingPeriod], ["年度・版", r.vintage]]);
   const commerce = commerceForSake(item);
   const links = buildResourceLinks(item);
@@ -71,11 +70,10 @@ export default async function SakePage({ params }) {
       <div className="detail-actions"><FavoriteButton id={item.id} /></div>
     </section>
     <section className="detail-band sake-overview" aria-labelledby="sake-about">
-      <h2 id="sake-about">味わいと飲み方</h2>
+      <h2 id="sake-about">味わい</h2>
       <p className="sake-detail-intro">{buildSakeListSummary(item)}</p>
       <ul className="feature-tags">{buildCardPresentation(item).tags.map(tag => <li key={tag}>{tag}</li>)}</ul>
       <dl className="taste-at-a-glance">{tastePresentationRows(r.flavorProfile).map(([label,value])=><div key={label}><dt>{label}</dt><dd>{value}</dd></div>)}</dl>
-      <ServingGuide values={r.servingTemperatures} range={r.recommendedTemperatureRange}/>
     </section>
     <section className="detail-band purchase-discovery" aria-labelledby="sake-purchase">
       <h2 id="sake-purchase">購入先</h2>
@@ -97,7 +95,7 @@ export default async function SakePage({ params }) {
     </section>
     <section className="detail-band sake-further" aria-labelledby="sake-further-title">
       <h2 id="sake-further-title">酒のことをもう少し詳しく</h2>
-      <details className="specs-details"><summary>詳しい酒情報を見る</summary><dl className="spec-table sake-essentials">{[...essentials,...fields].map(([label,value])=><div key={label}><dt>{label}</dt><dd>{value}</dd></div>)}</dl><ul className="feature-tags">{buildSakeVerifiedTags(item).map(tag=><li key={tag}>{tag}</li>)}</ul>{buildSakeEditorialTags(item).length>0&&<p className="muted-copy">宵の一献の見立て：{buildSakeEditorialTags(item).join('、')}</p>}</details>
+      <details className="specs-details"><summary>詳しい酒情報を見る</summary><ServingGuide values={r.servingTemperatures} range={r.recommendedTemperatureRange}/><dl className="spec-table sake-essentials">{[...essentials,...fields].map(([label,value])=><div key={label}><dt>{label}</dt><dd>{value}</dd></div>)}</dl><ul className="feature-tags">{buildSakeVerifiedTags(item).map(tag=><li key={tag}>{tag}</li>)}</ul>{buildSakeEditorialTags(item).length>0&&<p className="muted-copy">宵の一献の見立て：{buildSakeEditorialTags(item).join('、')}</p>}</details>
       {community.length>0&&<details className="source-details community-evidence"><summary>飲んだ人の感想</summary>{community.map(e=><div key={e.evidenceId}><p>{e.summary}</p><TrackedExternalLink href={e.sourceUrl} className="text-link" event="source_opened">実飲レビューを見る ↗</TrackedExternalLink></div>)}<p className="muted-copy">個人の感想です。製造時期や保存状態、飲み方によって印象は異なります。</p></details>}
       <details className="source-details"><summary>商品情報の出典</summary><ul>{r.sources.map((source,i)=><li key={`${source.url}:${i}`}><TrackedExternalLink href={source.url} event="source_opened" className="text-link">{source.type==='breweryOfficial'?'蔵元公式':'専門資料'}：{publicSourceName(source,item.productName)} ↗</TrackedExternalLink></li>)}</ul></details>
     </section>

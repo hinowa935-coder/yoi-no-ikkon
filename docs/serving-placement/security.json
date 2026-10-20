@@ -1,0 +1,102 @@
+{
+  "checkedAt": "2026-10-20T12:04:19.310Z",
+  "secrets": {
+    "scannedFiles": 7556,
+    "unreadableFiles": 0,
+    "findings": [],
+    "passed": true,
+    "configuredValuesChecked": [
+      "RAKUTEN_APPLICATION_ID",
+      "RAKUTEN_ACCESS_KEY",
+      "RAKUTEN_AFFILIATE_ID"
+    ],
+    "limitation": null
+  },
+  "protectedFiles": [
+    {
+      "file": "src/data/discoveryCatalog.json",
+      "unchanged": true
+    },
+    {
+      "file": "src/data/catalogAdditions.json",
+      "unchanged": true
+    },
+    {
+      "file": "src/data/catalogLifecycle.json",
+      "unchanged": true
+    },
+    {
+      "file": "src/data/discovery.js",
+      "unchanged": true
+    },
+    {
+      "file": "src/data/discoveryNights.js",
+      "unchanged": true
+    },
+    {
+      "file": "src/data/editorialNightAssignments.js",
+      "unchanged": true
+    },
+    {
+      "file": "src/data/temperatureUX.js",
+      "unchanged": true
+    },
+    {
+      "file": "src/data/favoriteReferences.js",
+      "unchanged": true
+    },
+    {
+      "file": "src/app/components/Ochoko.jsx",
+      "unchanged": true
+    },
+    {
+      "file": "src/app/components/HomeScreenGuide.jsx",
+      "unchanged": true
+    },
+    {
+      "file": "src/app/components/RecommendShare.jsx",
+      "unchanged": true
+    },
+    {
+      "file": "src/app/components/ShareButton.jsx",
+      "unchanged": true
+    },
+    {
+      "file": "src/app/components/PwaRegister.jsx",
+      "unchanged": true
+    },
+    {
+      "file": "src/commerce/generated/purchase-matches.json",
+      "unchanged": true
+    },
+    {
+      "file": "src/commerce/generated/product-media.json",
+      "unchanged": true
+    },
+    {
+      "file": "src/commerce/generated/commerce-final-approvals.json",
+      "unchanged": true
+    },
+    {
+      "file": "public/sw.js",
+      "unchanged": true
+    },
+    {
+      "file": "public/manifest.webmanifest",
+      "unchanged": true
+    },
+    {
+      "file": "vercel.json",
+      "unchanged": true
+    },
+    {
+      "file": "package.json",
+      "unchanged": true
+    },
+    {
+      "file": "package-lock.json",
+      "unchanged": true
+    }
+  ],
+  "passed": true
+}

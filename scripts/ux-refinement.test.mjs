@@ -67,3 +67,14 @@ test('detail retains data and sources after pairings, with share at the end',()=
  assert(s.includes('[...essentials,...fields]')&&s.includes('r.sources.map')&&s.includes('buildSakeVerifiedTags(item)'));
  assert(s.includes('dishes.slice(0,6)')&&s.includes('dishes.slice(6)')&&s.includes('<ServingGuide'));
 });
+
+test('serving information appears only inside the late detailed sake information',()=>{
+ const s=read('src/app/sake/[slug]/page.jsx');
+ const overview=s.slice(s.indexOf('className="detail-band sake-overview"'),s.indexOf('className="detail-band purchase-discovery"'));
+ assert(!overview.includes('ServingGuide')&&!overview.includes('飲み方'));
+ assert.equal(s.split('<ServingGuide ').length-1,1);
+ assert(s.indexOf('<ServingGuide ')>s.indexOf('<summary>詳しい酒情報を見る</summary>'));
+ assert(!s.includes('["飲用温度",')&&!s.includes('["飲用温度範囲",'));
+ const guide=read('src/app/components/ServingGuide.jsx');
+ assert(guide.includes('おすすめ温度：')&&guide.includes('rangeText')&&guide.includes('temperatureLabels(values)'));
+});

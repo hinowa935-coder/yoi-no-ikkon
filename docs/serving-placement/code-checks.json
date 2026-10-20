@@ -1,0 +1,21 @@
+{
+  "checkedAt": "2026-10-20T12:00:23.171Z",
+  "rows": [
+    {
+      "name": "tests",
+      "passed": true,
+      "testCount": 146
+    },
+    {
+      "name": "typecheck",
+      "passed": true,
+      "testCount": null
+    },
+    {
+      "name": "lint",
+      "passed": true,
+      "testCount": null
+    }
+  ],
+  "passed": true
+}

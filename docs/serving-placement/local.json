@@ -1,0 +1,70 @@
+{
+  "checkedAt": "2026-10-20T12:03:21.557Z",
+  "rows": [
+    {
+      "name": "all product HTML single-source serving placement and unchanged temperature display",
+      "count": 558,
+      "passed": true
+    },
+    {
+      "name": "webkit 320 folded serving detail",
+      "id": "masumi-shiro-lineup-v1",
+      "passed": true
+    },
+    {
+      "name": "webkit 320 folded serving detail",
+      "id": "nabeshima-junmai-ginjo",
+      "passed": true
+    },
+    {
+      "name": "webkit 320 folded serving detail",
+      "id": "shichida-junmai",
+      "passed": true
+    },
+    {
+      "name": "webkit 320 search three groups unchanged",
+      "passed": true
+    },
+    {
+      "name": "webkit 390 folded serving detail",
+      "id": "masumi-shiro-lineup-v1",
+      "passed": true
+    },
+    {
+      "name": "webkit 390 folded serving detail",
+      "id": "nabeshima-junmai-ginjo",
+      "passed": true
+    },
+    {
+      "name": "webkit 390 folded serving detail",
+      "id": "shichida-junmai",
+      "passed": true
+    },
+    {
+      "name": "webkit 390 search three groups unchanged",
+      "passed": true
+    },
+    {
+      "name": "chromium 1280 folded serving detail",
+      "id": "masumi-shiro-lineup-v1",
+      "passed": true
+    },
+    {
+      "name": "chromium 1280 folded serving detail",
+      "id": "nabeshima-junmai-ginjo",
+      "passed": true
+    },
+    {
+      "name": "chromium 1280 folded serving detail",
+      "id": "shichida-junmai",
+      "passed": true
+    },
+    {
+      "name": "chromium 1280 search three groups unchanged",
+      "passed": true
+    }
+  ],
+  "passed": true,
+  "serviceWorkersBlockedForLayoutIsolation": true,
+  "realDeviceTested": false
+}
