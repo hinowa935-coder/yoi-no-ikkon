@@ -1,0 +1,357 @@
+{
+  "checkedAt": "2026-10-20T13:42:27.909Z",
+  "base": "http://127.0.0.1:3197",
+  "rows": [
+    {
+      "route": "/",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/search",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/discover",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/food",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/ochoko",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/about",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/sake/koeigiku-sukai-hiire-current-v1",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/sake/manrei-chokarakuchi-tokubetsu-junmai-current-v1",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/sake/kihotsuru-junmai-current-v1",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/sake/matsunokotobuki-omachi-hiire-current-v1",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/sake/kurobekyo-junmai-ginjo55-current-v1",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/sake/fukuiwai-yamada50-junmai-ginjo-current-v1",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/sake/oku-ten-year-junmai-ginjo-genshu-current-v1",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/sake/ohga-asahi-junmai-ginjo-current-v1",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/sake/ryusei-muku-omachi-kimoto-current-v1",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/sake/kameman-nigori-genshu-current-v1",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/sake/hiokizakura-tokujo-junmai-omachi-current-v1",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/sake/tenkanishiki-fexsst",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/sake/amaneko-white-koji",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/sake/ohmine-three-grain",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/sake/kamoshibito-kuheiji-eau-du-desir-1",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/sake/kirakucho-lvvrsw-4",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/sake/murayu-kuro",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/sake/ibi-white",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/sake/sanuki-cloudy-uc9ijh",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/sake/takaisami-uzpgk6-4",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/sake/ohmine-three-grain-2",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/sake/mikotsuru-junmai-ginjo-hitogokochi-hiire-v1",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/sake/yokoyama-silver7-namazume-v1",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/sake/tanzawasan-shuho-v1",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/sake/chochin-tokubetsu-junmai-gold-standard-v1",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/sake/senkin-classic-nishiki-origarami-hiire-v1",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/sake/ubusuna-yamada-nishiki-ninojo-2025-nama-v1",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/sake/hanagaki-o0ffit-5",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/sake/koeigiku-snow-crescent",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/sake/manrei-junmai",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/sake/kihotsuru-junmai-ginjo",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/sake/matsunokotobuki-junmai-ginjo",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/sake/hayashi-junmai-ginjo",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/sake/kameman-plus9-karakuchi-junmai-v1",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/sake/hiokizakura-uzpgk6",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/sake/hiokizakura-uzpgk6-2",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/sake/wakanami-junmai",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/sake/juyondai-honmaru",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/sake/kaze-no-mori-alpha",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/sake/hiran-nigori",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/sake/takaisami-uzpgk6",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/sake/rihaku-id2kl5",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/sake/kawatsuru-uc9ijh",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/sake/takakiya-hlzg7a",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/sake/dewazakura-oka-ginjo-2",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/sake/raifuku-junmai-ginjo-1",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/sake/koshino-kanbai-white-label-3",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/sake/ibi-white-1",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/sake/hatsukame-karakuchi-junmai-3",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/sake/kamikokoro-iapi9d-4",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/sake/sanuki-cloudy-uc9ijh-5",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/sake/chiebijin-junmai-1",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/sake/hananoka-kikka-v1",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/sake/tamagawa-kimoto-kounotori-v1",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/sake/sasaichi-yata-v1",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/sake/fudo-ichido-hiire-tokubetsu-junmai-v1",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/sake/tsuchida-12-standard-v1",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/sake/sho-chiku-bai-yamadanishiki-tokubetsu-junmai-karakuchi-standard",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/sake/homare-gaijin-junmai-ginjo-hiire-r7by-v1",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/sake/yui-omachi-junmai-ginjo-nama-genshu-raifuku-v1",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/sitemap.xml",
+      "sakePages": 499,
+      "passed": true
+    },
+    {
+      "route": "/.env.local",
+      "status": 404,
+      "passed": true
+    },
+    {
+      "route": "/docs/historical-fallback/new-product-plans.json",
+      "status": 404,
+      "passed": true
+    },
+    {
+      "route": "/data/catalog-operations/historical-fallback-batch.json",
+      "status": 404,
+      "passed": true
+    }
+  ],
+  "passed": true
+}

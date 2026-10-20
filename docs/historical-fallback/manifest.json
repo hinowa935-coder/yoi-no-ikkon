@@ -1,0 +1,96 @@
+{
+  "commit": "ce2a5086984e6bfa354df4b3c64acffa16f7f58e",
+  "checkedAt": "2026-10-20T12:36:29.304Z",
+  "automaticPublicationAllowed": false,
+  "weeklyExecutionEnabled": false,
+  "files": [
+    {
+      "path": "src/data/discoveryCatalog.json",
+      "sha256": "14ca6db54266ae3434f0f4fe3374dad350633a77be72f16a409c96bfd22bec8d"
+    },
+    {
+      "path": "src/data/catalogAdditions.json",
+      "sha256": "93f75b84ea3923a84907a3e113b64fc1a9a3a245c899326be019b13cee1d82d4"
+    },
+    {
+      "path": "src/data/catalogLifecycle.json",
+      "sha256": "cabb682b823c4e252c7703f206a4110f941856da9945f404a15ca6b2a39803d9"
+    },
+    {
+      "path": "src/data/favoriteReferences.json",
+      "sha256": "53d2c5c48d0047328fe0484e1638dcb6f3caaac8336cbe30e80b60cd7962cdad"
+    },
+    {
+      "path": "src/commerce/generated/purchase-matches.json",
+      "sha256": "b08be1a0ab6405ffd386795a45e4fb595f06ec8483086552364cffb1f7ef2165"
+    },
+    {
+      "path": "src/commerce/generated/product-media.json",
+      "sha256": "5d99a3e5bf9d39e50bd561607bbab14fad652ea8bddedb80dba9c73fcd66fa16"
+    },
+    {
+      "path": "src/commerce/generated/commerce-final-approvals.json",
+      "sha256": "f79812ca53b5ae895b8233d0520f0f55524c3b45efaac4a8ac77b17ad13f8992"
+    },
+    {
+      "path": "src/commerce/generated/discovery-links.json",
+      "sha256": "8a99e8b87b3a45b7984c8df799426a9844003158101d6ceb2d118d1219850a86"
+    },
+    {
+      "path": "src/commerce/generated/merchant-links.json",
+      "sha256": "cc955f6dfd7d1d17d6c894678779ca367baa5d52e88cccef290d7e62131acd40"
+    },
+    {
+      "path": "src/commerce/generated/availability-holds.json",
+      "sha256": "1ab5f0acd3f1d87a68559aa52b923fa4e405f2d71863d51fdd401434b5c5f3ac"
+    },
+    {
+      "path": "data/catalog-operations/candidates.json",
+      "sha256": "daddba4af042589a82d1ffc7f0ffd9b0817f3eeb64bfec5642ec82be57b0ba08"
+    },
+    {
+      "path": "src/data/discovery.js",
+      "sha256": "d7dc53c21b6ff20bfb09ed62a895d0f9fcae910f8d2f235fb955e62e5007762a"
+    },
+    {
+      "path": "src/data/discoveryNights.js",
+      "sha256": "f2ad1d11b4fe0bc6c7c108a81094423069c00733c373e451ea68c32c5732284f"
+    },
+    {
+      "path": "src/data/editorialNightAssignments.js",
+      "sha256": "ec0218d25398a3eb9c8bbe0d362d7f17e2c1a913af53a285a538fc2f359fbedd"
+    },
+    {
+      "path": "src/data/temperatureUX.js",
+      "sha256": "5f58a127c18ceafb3a0f32e2e5dfd07dc0bc37b00fbe9420e2051b48b96568b1"
+    },
+    {
+      "path": "src/app/components/Ochoko.jsx",
+      "sha256": "830a32c986edefa04219ab635b6358790467a167a36b42ac6515364cfcd45529"
+    },
+    {
+      "path": "src/app/sake/[slug]/page.jsx",
+      "sha256": "fefad281a01ec436d3efeef38bde1abd121b09a084f31dc783b24336405e9c0d"
+    },
+    {
+      "path": "public/sw.js",
+      "sha256": "ea92196b5dea8a270a431239f479fe4d3e01c014bd48eb1558faac1bc2ccbf9e"
+    },
+    {
+      "path": "public/manifest.webmanifest",
+      "sha256": "ef440a721c7c8334b7a739201a4f275acd7526877d346d69fb156b83c52e2714"
+    },
+    {
+      "path": "vercel.json",
+      "sha256": "07d5898691c1e53924277fb48e047de50ed4e95a97fb7ea15ab6f246ef84d115"
+    },
+    {
+      "path": "package.json",
+      "sha256": "74732a53924318c56b9a4b0a97e2cf5eec4558fff163939270a9c1368f87ea3e"
+    },
+    {
+      "path": "package-lock.json",
+      "sha256": "129139dae5fa70b438cd179d5a084957060e2d7c2fb3854abc7fccfa2e60be79"
+    }
+  ]
+}

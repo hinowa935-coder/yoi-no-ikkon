@@ -33639,6 +33639,5752 @@
       "retailerTemperature": [],
       "communityTemperature": [],
       "capacityMl": 720
+    },
+    {
+      "id": "koeigiku-sukai-hiire-current-v1",
+      "catalogVersion": "v1",
+      "productName": "光栄菊 特別純米 清海 Sukai 火入れ",
+      "sake": "光栄菊",
+      "brandName": "光栄菊",
+      "brewery": "光栄菊酒造株式会社",
+      "prefecture": "佐賀県",
+      "region": "",
+      "areaGroup": "",
+      "style": [
+        "特別純米酒"
+      ],
+      "taste": [
+        "柑橘系の香り",
+        "酸味",
+        "すっきりした後味"
+      ],
+      "temperature": [],
+      "moods": [],
+      "dishes": [
+        "豚しゃぶサラダ",
+        "鶏の唐揚げ",
+        "冷奴"
+      ],
+      "yoiPairings": [
+        "豚しゃぶサラダ",
+        "鶏の唐揚げ",
+        "冷奴"
+      ],
+      "dishCategories": [],
+      "nightType": "",
+      "essay": "",
+      "productUrl": "https://www.hasegawasaketen.com/eshop/products/detail/17836",
+      "officialUrl": null,
+      "officialPairings": [],
+      "sources": [
+        {
+          "url": "https://www.hasegawasaketen.com/eshop/products/detail/17836",
+          "type": "specialistRetailer",
+          "scope": "product",
+          "verifiedAt": "2026-10-20"
+        },
+        {
+          "url": "https://item.rakuten.co.jp/auc-chitashige/37040502/",
+          "type": "rakuten_retail",
+          "scope": "product",
+          "verifiedAt": "2026-10-20"
+        },
+        {
+          "url": "https://www.mashidaya.co.jp/SHOP/7445.html",
+          "type": "specialistRetailer",
+          "scope": "product",
+          "verifiedAt": "2026-10-20"
+        }
+      ],
+      "purchaseLinks": [],
+      "dataConfidence": "medium",
+      "needsIdentification": false,
+      "sakeResearch": {
+        "id": "koeigiku-sukai-hiire-current-v1",
+        "registeredName": "光栄菊 特別純米 清海 Sukai 火入れ",
+        "identity": {
+          "productName": "光栄菊 特別純米 清海 Sukai 火入れ",
+          "brandName": "光栄菊",
+          "brewery": "光栄菊酒造株式会社",
+          "prefecture": "佐賀県",
+          "officialProductUrl": null
+        },
+        "classification": {
+          "ginjo": false,
+          "junmaiGinjo": false,
+          "daiginjo": false,
+          "junmaiDaiginjo": false,
+          "ginjoFamily": false,
+          "daiginjoFamily": false,
+          "aged": null,
+          "tokuteiMeishoshu": "特別純米酒",
+          "junmai": true,
+          "nonJunmai": false,
+          "kimoto": null,
+          "yamahai": null,
+          "nama": false,
+          "hiire": true,
+          "nigori": null,
+          "sparkling": null,
+          "genshu": null,
+          "muroka": null
+        },
+        "specs": {
+          "ingredients": [],
+          "riceVariety": [],
+          "riceOrigin": null,
+          "riceByRole": null,
+          "polishingRatio": null,
+          "polishingByRole": null,
+          "alcoholPercentage": null,
+          "nihonshudo": null,
+          "acidity": null,
+          "aminoAcidValue": null,
+          "yeast": null,
+          "waterSource": null,
+          "kojiMold": null,
+          "agingPeriod": null,
+          "agingTemperature": null
+        },
+        "flavorProfile": {
+          "sweetness": null,
+          "aroma": "柑橘系の香り",
+          "umami": null,
+          "acidity": "酸味",
+          "body": null,
+          "finish": "すっきりした後味"
+        },
+        "verifiedFeatureTags": [
+          "柑橘系の香り",
+          "酸味",
+          "すっきりした後味"
+        ],
+        "editorialTags": [],
+        "featureEvidence": [
+          {
+            "feature": "柑橘系の香り",
+            "sourceUrl": "https://www.hasegawasaketen.com/eshop/products/detail/17836",
+            "sourceType": "specialistRetailer",
+            "verifiedAt": "2026-10-20",
+            "meaning": "柑橘を思わせる香りに、甘みと酸。清海の火入れは、軽やかな後味を楽しめる特別純米です。",
+            "productScope": "product"
+          },
+          {
+            "feature": "酸味",
+            "sourceUrl": "https://www.hasegawasaketen.com/eshop/products/detail/17836",
+            "sourceType": "specialistRetailer",
+            "verifiedAt": "2026-10-20",
+            "meaning": "柑橘を思わせる香りに、甘みと酸。清海の火入れは、軽やかな後味を楽しめる特別純米です。",
+            "productScope": "product"
+          },
+          {
+            "feature": "すっきりした後味",
+            "sourceUrl": "https://www.hasegawasaketen.com/eshop/products/detail/17836",
+            "sourceType": "specialistRetailer",
+            "verifiedAt": "2026-10-20",
+            "meaning": "柑橘を思わせる香りに、甘みと酸。清海の火入れは、軽やかな後味を楽しめる特別純米です。",
+            "productScope": "product"
+          }
+        ],
+        "fieldEvidence": [
+          {
+            "field": "identity.productName",
+            "value": "光栄菊 特別純米 清海 Sukai 火入れ",
+            "sourceUrl": "https://www.hasegawasaketen.com/eshop/products/detail/17836",
+            "sourceType": "specialistRetailer",
+            "verifiedAt": "2026-10-20",
+            "meaning": "当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product"
+          },
+          {
+            "field": "identity.brandName",
+            "value": "光栄菊",
+            "sourceUrl": "https://www.hasegawasaketen.com/eshop/products/detail/17836",
+            "sourceType": "specialistRetailer",
+            "verifiedAt": "2026-10-20",
+            "meaning": "当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product"
+          },
+          {
+            "field": "identity.brewery",
+            "value": "光栄菊酒造株式会社",
+            "sourceUrl": "https://www.hasegawasaketen.com/eshop/products/detail/17836",
+            "sourceType": "specialistRetailer",
+            "verifiedAt": "2026-10-20",
+            "meaning": "当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product"
+          },
+          {
+            "field": "identity.prefecture",
+            "value": "佐賀県",
+            "sourceUrl": "https://www.hasegawasaketen.com/eshop/products/detail/17836",
+            "sourceType": "specialistRetailer",
+            "verifiedAt": "2026-10-20",
+            "meaning": "当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product"
+          },
+          {
+            "field": "classification.tokuteiMeishoshu",
+            "value": "特別純米酒",
+            "sourceUrl": "https://www.hasegawasaketen.com/eshop/products/detail/17836",
+            "sourceType": "specialistRetailer",
+            "verifiedAt": "2026-10-20",
+            "meaning": "当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product"
+          },
+          {
+            "field": "classification.hiire",
+            "value": true,
+            "sourceUrl": "https://www.hasegawasaketen.com/eshop/products/detail/17836",
+            "sourceType": "specialistRetailer",
+            "verifiedAt": "2026-10-20",
+            "meaning": "当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product"
+          },
+          {
+            "field": "classification.nama",
+            "value": false,
+            "sourceUrl": "https://www.hasegawasaketen.com/eshop/products/detail/17836",
+            "sourceType": "specialistRetailer",
+            "verifiedAt": "2026-10-20",
+            "meaning": "当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product"
+          },
+          {
+            "field": "flavorProfile.aroma",
+            "value": "柑橘系の香り",
+            "sourceUrl": "https://www.hasegawasaketen.com/eshop/products/detail/17836",
+            "sourceType": "specialistRetailer",
+            "verifiedAt": "2026-10-20",
+            "meaning": "当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product"
+          },
+          {
+            "field": "flavorProfile.acidity",
+            "value": "酸味",
+            "sourceUrl": "https://www.hasegawasaketen.com/eshop/products/detail/17836",
+            "sourceType": "specialistRetailer",
+            "verifiedAt": "2026-10-20",
+            "meaning": "当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product"
+          },
+          {
+            "field": "flavorProfile.finish",
+            "value": "すっきりした後味",
+            "sourceUrl": "https://www.hasegawasaketen.com/eshop/products/detail/17836",
+            "sourceType": "specialistRetailer",
+            "verifiedAt": "2026-10-20",
+            "meaning": "当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product"
+          },
+          {
+            "field": "classification.junmai",
+            "value": true,
+            "sourceUrl": "https://www.hasegawasaketen.com/eshop/products/detail/17836",
+            "sourceType": "specialistRetailer",
+            "verifiedAt": "2026-10-20",
+            "meaning": "直接確認した特定名称特別純米酒の排他・親子関係を正規化。当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product",
+            "derivedFrom": "classification.tokuteiMeishoshu"
+          },
+          {
+            "field": "classification.nonJunmai",
+            "value": false,
+            "sourceUrl": "https://www.hasegawasaketen.com/eshop/products/detail/17836",
+            "sourceType": "specialistRetailer",
+            "verifiedAt": "2026-10-20",
+            "meaning": "直接確認した特定名称特別純米酒の排他・親子関係を正規化。当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product",
+            "derivedFrom": "classification.tokuteiMeishoshu"
+          },
+          {
+            "field": "classification.ginjo",
+            "value": false,
+            "sourceUrl": "https://www.hasegawasaketen.com/eshop/products/detail/17836",
+            "sourceType": "specialistRetailer",
+            "verifiedAt": "2026-10-20",
+            "meaning": "直接確認した特定名称特別純米酒の排他・親子関係を正規化。当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product",
+            "derivedFrom": "classification.tokuteiMeishoshu"
+          },
+          {
+            "field": "classification.junmaiGinjo",
+            "value": false,
+            "sourceUrl": "https://www.hasegawasaketen.com/eshop/products/detail/17836",
+            "sourceType": "specialistRetailer",
+            "verifiedAt": "2026-10-20",
+            "meaning": "直接確認した特定名称特別純米酒の排他・親子関係を正規化。当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product",
+            "derivedFrom": "classification.tokuteiMeishoshu"
+          },
+          {
+            "field": "classification.daiginjo",
+            "value": false,
+            "sourceUrl": "https://www.hasegawasaketen.com/eshop/products/detail/17836",
+            "sourceType": "specialistRetailer",
+            "verifiedAt": "2026-10-20",
+            "meaning": "直接確認した特定名称特別純米酒の排他・親子関係を正規化。当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product",
+            "derivedFrom": "classification.tokuteiMeishoshu"
+          },
+          {
+            "field": "classification.junmaiDaiginjo",
+            "value": false,
+            "sourceUrl": "https://www.hasegawasaketen.com/eshop/products/detail/17836",
+            "sourceType": "specialistRetailer",
+            "verifiedAt": "2026-10-20",
+            "meaning": "直接確認した特定名称特別純米酒の排他・親子関係を正規化。当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product",
+            "derivedFrom": "classification.tokuteiMeishoshu"
+          },
+          {
+            "field": "classification.ginjoFamily",
+            "value": false,
+            "sourceUrl": "https://www.hasegawasaketen.com/eshop/products/detail/17836",
+            "sourceType": "specialistRetailer",
+            "verifiedAt": "2026-10-20",
+            "meaning": "直接確認した特定名称特別純米酒の排他・親子関係を正規化。当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product",
+            "derivedFrom": "classification.tokuteiMeishoshu"
+          },
+          {
+            "field": "classification.daiginjoFamily",
+            "value": false,
+            "sourceUrl": "https://www.hasegawasaketen.com/eshop/products/detail/17836",
+            "sourceType": "specialistRetailer",
+            "verifiedAt": "2026-10-20",
+            "meaning": "直接確認した特定名称特別純米酒の排他・親子関係を正規化。当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product",
+            "derivedFrom": "classification.tokuteiMeishoshu"
+          }
+        ],
+        "sources": [
+          {
+            "url": "https://www.hasegawasaketen.com/eshop/products/detail/17836",
+            "type": "specialistRetailer",
+            "scope": "product",
+            "verifiedAt": "2026-10-20"
+          },
+          {
+            "url": "https://item.rakuten.co.jp/auc-chitashige/37040502/",
+            "type": "rakuten_retail",
+            "scope": "product",
+            "verifiedAt": "2026-10-20"
+          },
+          {
+            "url": "https://www.mashidaya.co.jp/SHOP/7445.html",
+            "type": "specialistRetailer",
+            "scope": "product",
+            "verifiedAt": "2026-10-20"
+          }
+        ],
+        "servingTemperatures": [],
+        "officialPairings": [],
+        "pairingEvidence": [],
+        "dataConfidence": "medium",
+        "needsIdentification": false,
+        "auditNotes": [
+          "清海の生酒とは別SKU。別店舗の画像メタデータに他商品名があり、知多繁の正式単品画像を選択。精米60/70・度数の資料差は混ぜず、今回の数値は未設定。"
+        ],
+        "lastVerifiedAt": "2026-10-20",
+        "researchPhase": "historical-fallback",
+        "auditPhase": "historical-fallback",
+        "sourceAttempts": [],
+        "recommendedTemperatureRange": [],
+        "temperatureRecommendations": [],
+        "aromaNotes": [],
+        "tasteNotes": [],
+        "featureTags": [
+          "柑橘系の香り",
+          "酸味",
+          "すっきりした後味"
+        ],
+        "shortDescription": "柑橘を思わせる香りに、甘みと酸。清海の火入れは、軽やかな後味を楽しめる特別純米です。"
+      },
+      "editorialPairingEvidence": [
+        {
+          "dish": "豚しゃぶサラダ",
+          "reason": "豚しゃぶサラダと、柑橘を思わせる香りの一杯。酸のある後味を楽しみながら、交互に味わう提案です。",
+          "provenance": "yoiEditorial",
+          "sourceUrls": [
+            "https://www.hasegawasaketen.com/eshop/products/detail/17836",
+            "https://item.rakuten.co.jp/auc-chitashige/37040502/"
+          ],
+          "dishEvidence": {
+            "foodId": "item-1wbiu6r",
+            "pairingProfile": {
+              "name": "豚しゃぶサラダ",
+              "directions": [
+                "fresh",
+                "hearty"
+              ],
+              "method": "サラダ",
+              "flavor": "豚肉と野菜の軽い口当たり",
+              "delicate": true
+            }
+          },
+          "sourceScope": "当該SKUの根拠のある特徴と既存の料理DBから今回新規に作成した編集提案。公式・口コミ推奨ではない。"
+        },
+        {
+          "dish": "鶏の唐揚げ",
+          "reason": "唐揚げをひと口、そのあとにすっきりした清海を。揚げものと軽快な後味を合わせてみませんか。",
+          "provenance": "yoiEditorial",
+          "sourceUrls": [
+            "https://www.hasegawasaketen.com/eshop/products/detail/17836",
+            "https://item.rakuten.co.jp/auc-chitashige/37040502/"
+          ],
+          "dishEvidence": {
+            "foodId": "item-11txxuc",
+            "pairingProfile": {
+              "name": "鶏の唐揚げ",
+              "directions": [
+                "hearty",
+                "grilled"
+              ],
+              "method": "揚げ物",
+              "flavor": "鶏肉の旨味と衣の香ばしさ",
+              "oily": true,
+              "rich": true
+            }
+          },
+          "sourceScope": "当該SKUの根拠のある特徴と既存の料理DBから今回新規に作成した編集提案。公式・口コミ推奨ではない。"
+        },
+        {
+          "dish": "冷奴",
+          "reason": "冷奴をつまみながら、香りと酸をゆっくり楽しむ組み合わせです。",
+          "provenance": "yoiEditorial",
+          "sourceUrls": [
+            "https://www.hasegawasaketen.com/eshop/products/detail/17836",
+            "https://item.rakuten.co.jp/auc-chitashige/37040502/"
+          ],
+          "dishEvidence": {
+            "foodId": "item-1gwo1eu",
+            "pairingProfile": {
+              "name": "冷奴",
+              "directions": [
+                "fresh",
+                "small"
+              ],
+              "method": "豆腐料理",
+              "flavor": "豆腐と薬味のさっぱりした味",
+              "delicate": true
+            }
+          },
+          "sourceScope": "当該SKUの根拠のある特徴と既存の料理DBから今回新規に作成した編集提案。公式・口コミ推奨ではない。"
+        }
+      ],
+      "communityEvidence": [],
+      "sensoryConsensus": {
+        "fields": {
+          "sweetness": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "acidity": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "umami": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "aroma": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "body": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "finish": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "bitterness": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "carbonation": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "alcoholImpression": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          }
+        },
+        "acceptedEvidenceIds": [],
+        "excluded": [],
+        "provenance": "editorial_sensory_consensus",
+        "notVerifiedSpecifications": true
+      },
+      "communityPairings": [],
+      "officialTemperature": [],
+      "retailerTemperature": [],
+      "communityTemperature": [],
+      "capacityMl": 1800
+    },
+    {
+      "id": "manrei-chokarakuchi-tokubetsu-junmai-current-v1",
+      "catalogVersion": "v1",
+      "productName": "万齢 特別純米 超辛口",
+      "sake": "万齢",
+      "brandName": "万齢",
+      "brewery": "小松酒造株式会社",
+      "prefecture": "佐賀県",
+      "region": "",
+      "areaGroup": "",
+      "style": [
+        "特別純米酒"
+      ],
+      "taste": [
+        "辛口",
+        "旨味"
+      ],
+      "temperature": [
+        "冷酒",
+        "常温",
+        "ぬる燗",
+        "熱燗"
+      ],
+      "moods": [],
+      "dishes": [
+        "鶏の唐揚げ",
+        "肉じゃが",
+        "おでん"
+      ],
+      "yoiPairings": [
+        "鶏の唐揚げ",
+        "肉じゃが",
+        "おでん"
+      ],
+      "dishCategories": [],
+      "nightType": "",
+      "essay": "",
+      "productUrl": "https://www.manrei.jp/nihonshu/",
+      "officialUrl": "https://www.manrei.jp/nihonshu/",
+      "officialPairings": [
+        "天ぷらなどの油料理"
+      ],
+      "sources": [
+        {
+          "url": "https://www.manrei.jp/nihonshu/",
+          "type": "official",
+          "scope": "product",
+          "verifiedAt": "2026-10-20"
+        },
+        {
+          "url": "https://item.rakuten.co.jp/izumiya-sake/211498/",
+          "type": "rakuten_retail",
+          "scope": "product",
+          "verifiedAt": "2026-10-20"
+        }
+      ],
+      "purchaseLinks": [],
+      "dataConfidence": "high",
+      "needsIdentification": false,
+      "sakeResearch": {
+        "id": "manrei-chokarakuchi-tokubetsu-junmai-current-v1",
+        "registeredName": "万齢 特別純米 超辛口",
+        "identity": {
+          "productName": "万齢 特別純米 超辛口",
+          "brandName": "万齢",
+          "brewery": "小松酒造株式会社",
+          "prefecture": "佐賀県",
+          "officialProductUrl": "https://www.manrei.jp/nihonshu/"
+        },
+        "classification": {
+          "ginjo": false,
+          "junmaiGinjo": false,
+          "daiginjo": false,
+          "junmaiDaiginjo": false,
+          "ginjoFamily": false,
+          "daiginjoFamily": false,
+          "aged": null,
+          "tokuteiMeishoshu": "特別純米酒",
+          "junmai": true,
+          "nonJunmai": false,
+          "kimoto": null,
+          "yamahai": null,
+          "nama": null,
+          "hiire": null,
+          "nigori": null,
+          "sparkling": null,
+          "genshu": null,
+          "muroka": null
+        },
+        "specs": {
+          "ingredients": [],
+          "riceVariety": [],
+          "riceOrigin": null,
+          "riceByRole": null,
+          "polishingRatio": "55%",
+          "polishingByRole": null,
+          "alcoholPercentage": "15度",
+          "nihonshudo": null,
+          "acidity": null,
+          "aminoAcidValue": null,
+          "yeast": null,
+          "waterSource": null,
+          "kojiMold": null,
+          "agingPeriod": null,
+          "agingTemperature": null
+        },
+        "flavorProfile": {
+          "sweetness": "辛口",
+          "aroma": null,
+          "umami": "旨味",
+          "acidity": null,
+          "body": null,
+          "finish": null
+        },
+        "verifiedFeatureTags": [
+          "辛口",
+          "旨味"
+        ],
+        "editorialTags": [],
+        "featureEvidence": [
+          {
+            "feature": "辛口",
+            "sourceUrl": "https://www.manrei.jp/nihonshu/",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "辛口の中に、しっかりと旨み。冷やしても温めても味わえる、万齢の主力の特別純米です。",
+            "productScope": "product"
+          },
+          {
+            "feature": "旨味",
+            "sourceUrl": "https://www.manrei.jp/nihonshu/",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "辛口の中に、しっかりと旨み。冷やしても温めても味わえる、万齢の主力の特別純米です。",
+            "productScope": "product"
+          }
+        ],
+        "fieldEvidence": [
+          {
+            "field": "identity.productName",
+            "value": "万齢 特別純米 超辛口",
+            "sourceUrl": "https://www.manrei.jp/nihonshu/",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product"
+          },
+          {
+            "field": "identity.brandName",
+            "value": "万齢",
+            "sourceUrl": "https://www.manrei.jp/nihonshu/",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product"
+          },
+          {
+            "field": "identity.brewery",
+            "value": "小松酒造株式会社",
+            "sourceUrl": "https://www.manrei.jp/nihonshu/",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product"
+          },
+          {
+            "field": "identity.prefecture",
+            "value": "佐賀県",
+            "sourceUrl": "https://www.manrei.jp/nihonshu/",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product"
+          },
+          {
+            "field": "identity.officialProductUrl",
+            "value": "https://www.manrei.jp/nihonshu/",
+            "sourceUrl": "https://www.manrei.jp/nihonshu/",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product"
+          },
+          {
+            "field": "classification.tokuteiMeishoshu",
+            "value": "特別純米酒",
+            "sourceUrl": "https://www.manrei.jp/nihonshu/",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product"
+          },
+          {
+            "field": "specs.polishingRatio",
+            "value": "55%",
+            "sourceUrl": "https://www.manrei.jp/nihonshu/",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product"
+          },
+          {
+            "field": "specs.alcoholPercentage",
+            "value": "15度",
+            "sourceUrl": "https://www.manrei.jp/nihonshu/",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product"
+          },
+          {
+            "field": "flavorProfile.sweetness",
+            "value": "辛口",
+            "sourceUrl": "https://www.manrei.jp/nihonshu/",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product"
+          },
+          {
+            "field": "flavorProfile.umami",
+            "value": "旨味",
+            "sourceUrl": "https://www.manrei.jp/nihonshu/",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product"
+          },
+          {
+            "field": "servingTemperatures",
+            "value": [
+              "冷酒",
+              "常温",
+              "ぬる燗",
+              "熱燗"
+            ],
+            "sourceUrl": "https://www.manrei.jp/nihonshu/",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product"
+          },
+          {
+            "field": "classification.junmai",
+            "value": true,
+            "sourceUrl": "https://www.manrei.jp/nihonshu/",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "直接確認した特定名称特別純米酒の排他・親子関係を正規化。当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product",
+            "derivedFrom": "classification.tokuteiMeishoshu"
+          },
+          {
+            "field": "classification.nonJunmai",
+            "value": false,
+            "sourceUrl": "https://www.manrei.jp/nihonshu/",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "直接確認した特定名称特別純米酒の排他・親子関係を正規化。当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product",
+            "derivedFrom": "classification.tokuteiMeishoshu"
+          },
+          {
+            "field": "classification.ginjo",
+            "value": false,
+            "sourceUrl": "https://www.manrei.jp/nihonshu/",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "直接確認した特定名称特別純米酒の排他・親子関係を正規化。当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product",
+            "derivedFrom": "classification.tokuteiMeishoshu"
+          },
+          {
+            "field": "classification.junmaiGinjo",
+            "value": false,
+            "sourceUrl": "https://www.manrei.jp/nihonshu/",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "直接確認した特定名称特別純米酒の排他・親子関係を正規化。当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product",
+            "derivedFrom": "classification.tokuteiMeishoshu"
+          },
+          {
+            "field": "classification.daiginjo",
+            "value": false,
+            "sourceUrl": "https://www.manrei.jp/nihonshu/",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "直接確認した特定名称特別純米酒の排他・親子関係を正規化。当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product",
+            "derivedFrom": "classification.tokuteiMeishoshu"
+          },
+          {
+            "field": "classification.junmaiDaiginjo",
+            "value": false,
+            "sourceUrl": "https://www.manrei.jp/nihonshu/",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "直接確認した特定名称特別純米酒の排他・親子関係を正規化。当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product",
+            "derivedFrom": "classification.tokuteiMeishoshu"
+          },
+          {
+            "field": "classification.ginjoFamily",
+            "value": false,
+            "sourceUrl": "https://www.manrei.jp/nihonshu/",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "直接確認した特定名称特別純米酒の排他・親子関係を正規化。当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product",
+            "derivedFrom": "classification.tokuteiMeishoshu"
+          },
+          {
+            "field": "classification.daiginjoFamily",
+            "value": false,
+            "sourceUrl": "https://www.manrei.jp/nihonshu/",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "直接確認した特定名称特別純米酒の排他・親子関係を正規化。当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product",
+            "derivedFrom": "classification.tokuteiMeishoshu"
+          }
+        ],
+        "sources": [
+          {
+            "url": "https://www.manrei.jp/nihonshu/",
+            "type": "official",
+            "scope": "product",
+            "verifiedAt": "2026-10-20"
+          },
+          {
+            "url": "https://item.rakuten.co.jp/izumiya-sake/211498/",
+            "type": "rakuten_retail",
+            "scope": "product",
+            "verifiedAt": "2026-10-20"
+          }
+        ],
+        "servingTemperatures": [
+          "冷酒",
+          "常温",
+          "ぬる燗",
+          "熱燗"
+        ],
+        "officialPairings": [
+          "天ぷらなどの油料理"
+        ],
+        "pairingEvidence": [
+          {
+            "field": "officialPairings",
+            "value": "天ぷらなどの油料理",
+            "sourceUrl": "https://www.manrei.jp/nihonshu/",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product",
+            "dish": "天ぷらなどの油料理"
+          }
+        ],
+        "dataConfidence": "high",
+        "needsIdentification": false,
+        "auditNotes": [
+          "新SKUとして作成。旧商品の情報をコピーしない。"
+        ],
+        "lastVerifiedAt": "2026-10-20",
+        "researchPhase": "historical-fallback",
+        "auditPhase": "historical-fallback",
+        "sourceAttempts": [],
+        "recommendedTemperatureRange": [],
+        "temperatureRecommendations": [],
+        "aromaNotes": [],
+        "tasteNotes": [],
+        "featureTags": [
+          "辛口",
+          "旨味"
+        ],
+        "shortDescription": "辛口の中に、しっかりと旨み。冷やしても温めても味わえる、万齢の主力の特別純米です。"
+      },
+      "editorialPairingEvidence": [
+        {
+          "dish": "鶏の唐揚げ",
+          "reason": "旨みのある辛口を、唐揚げと一緒に。蔵元が油料理との相性を挙げる万齢から、家庭の一皿へ広げた提案です。",
+          "provenance": "yoiEditorial",
+          "sourceUrls": [
+            "https://www.manrei.jp/nihonshu/",
+            "https://item.rakuten.co.jp/izumiya-sake/211498/"
+          ],
+          "dishEvidence": {
+            "foodId": "item-11txxuc",
+            "pairingProfile": {
+              "name": "鶏の唐揚げ",
+              "directions": [
+                "hearty",
+                "grilled"
+              ],
+              "method": "揚げ物",
+              "flavor": "鶏肉の旨味と衣の香ばしさ",
+              "oily": true,
+              "rich": true
+            }
+          },
+          "sourceScope": "当該SKUの根拠のある特徴と既存の料理DBから今回新規に作成した編集提案。公式・口コミ推奨ではない。"
+        },
+        {
+          "dish": "肉じゃが",
+          "reason": "肉じゃがの味を楽しんだあとに、辛口の万齢をひと口。料理とお酒の旨みをゆっくり味わって。",
+          "provenance": "yoiEditorial",
+          "sourceUrls": [
+            "https://www.manrei.jp/nihonshu/",
+            "https://item.rakuten.co.jp/izumiya-sake/211498/"
+          ],
+          "dishEvidence": {
+            "foodId": "item-13w7k4b",
+            "pairingProfile": {
+              "name": "肉じゃが",
+              "directions": [
+                "warm",
+                "hearty",
+                "comfort"
+              ],
+              "method": "煮物",
+              "flavor": "甘辛い煮汁",
+              "rich": true
+            }
+          },
+          "sourceScope": "当該SKUの根拠のある特徴と既存の料理DBから今回新規に作成した編集提案。公式・口コミ推奨ではない。"
+        },
+        {
+          "dish": "おでん",
+          "reason": "おでんを囲む夜に、温めた万齢を。旨みのある一杯を、好みの温度で合わせる提案です。",
+          "provenance": "yoiEditorial",
+          "sourceUrls": [
+            "https://www.manrei.jp/nihonshu/",
+            "https://item.rakuten.co.jp/izumiya-sake/211498/"
+          ],
+          "dishEvidence": {
+            "foodId": "item-ohud5z"
+          },
+          "sourceScope": "当該SKUの根拠のある特徴と既存の料理DBから今回新規に作成した編集提案。公式・口コミ推奨ではない。"
+        }
+      ],
+      "communityEvidence": [],
+      "sensoryConsensus": {
+        "fields": {
+          "sweetness": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "acidity": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "umami": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "aroma": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "body": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "finish": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "bitterness": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "carbonation": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "alcoholImpression": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          }
+        },
+        "acceptedEvidenceIds": [],
+        "excluded": [],
+        "provenance": "editorial_sensory_consensus",
+        "notVerifiedSpecifications": true
+      },
+      "communityPairings": [],
+      "officialTemperature": [
+        "冷酒",
+        "常温",
+        "ぬる燗",
+        "熱燗"
+      ],
+      "retailerTemperature": [],
+      "communityTemperature": [],
+      "capacityMl": 1800
+    },
+    {
+      "id": "kihotsuru-junmai-current-v1",
+      "catalogVersion": "v1",
+      "productName": "基峰鶴 純米酒",
+      "sake": "基峰鶴",
+      "brandName": "基峰鶴",
+      "brewery": "合資会社基山商店",
+      "prefecture": "佐賀県",
+      "region": "",
+      "areaGroup": "",
+      "style": [
+        "純米酒"
+      ],
+      "taste": [
+        "やわらかな旨味",
+        "爽やかな酸味"
+      ],
+      "temperature": [
+        "冷酒",
+        "燗酒"
+      ],
+      "moods": [],
+      "dishes": [
+        "肉じゃが",
+        "焼き鮭",
+        "湯豆腐"
+      ],
+      "yoiPairings": [
+        "肉じゃが",
+        "焼き鮭",
+        "湯豆腐"
+      ],
+      "dishCategories": [],
+      "nightType": "",
+      "essay": "",
+      "productUrl": "https://www.kihotsuru.com/%E7%B4%94%E7%B1%B3%E9%85%92",
+      "officialUrl": "https://www.kihotsuru.com/%E7%B4%94%E7%B1%B3%E9%85%92",
+      "officialPairings": [],
+      "sources": [
+        {
+          "url": "https://www.kihotsuru.com/%E7%B4%94%E7%B1%B3%E9%85%92",
+          "type": "official",
+          "scope": "product",
+          "verifiedAt": "2026-10-20"
+        },
+        {
+          "url": "https://item.rakuten.co.jp/sagamarche/100673/",
+          "type": "rakuten_retail",
+          "scope": "product",
+          "verifiedAt": "2026-10-20"
+        }
+      ],
+      "purchaseLinks": [],
+      "dataConfidence": "high",
+      "needsIdentification": false,
+      "sakeResearch": {
+        "id": "kihotsuru-junmai-current-v1",
+        "registeredName": "基峰鶴 純米酒",
+        "identity": {
+          "productName": "基峰鶴 純米酒",
+          "brandName": "基峰鶴",
+          "brewery": "合資会社基山商店",
+          "prefecture": "佐賀県",
+          "officialProductUrl": "https://www.kihotsuru.com/%E7%B4%94%E7%B1%B3%E9%85%92"
+        },
+        "classification": {
+          "ginjo": false,
+          "junmaiGinjo": false,
+          "daiginjo": false,
+          "junmaiDaiginjo": false,
+          "ginjoFamily": false,
+          "daiginjoFamily": false,
+          "aged": null,
+          "tokuteiMeishoshu": "純米酒",
+          "junmai": true,
+          "nonJunmai": false,
+          "kimoto": null,
+          "yamahai": null,
+          "nama": null,
+          "hiire": null,
+          "nigori": null,
+          "sparkling": null,
+          "genshu": null,
+          "muroka": null
+        },
+        "specs": {
+          "ingredients": [],
+          "riceVariety": [],
+          "riceOrigin": null,
+          "riceByRole": null,
+          "polishingRatio": null,
+          "polishingByRole": null,
+          "alcoholPercentage": null,
+          "nihonshudo": null,
+          "acidity": null,
+          "aminoAcidValue": null,
+          "yeast": null,
+          "waterSource": null,
+          "kojiMold": null,
+          "agingPeriod": null,
+          "agingTemperature": null
+        },
+        "flavorProfile": {
+          "sweetness": null,
+          "aroma": null,
+          "umami": "やわらかな旨味",
+          "acidity": "爽やかな酸味",
+          "body": null,
+          "finish": null
+        },
+        "verifiedFeatureTags": [
+          "やわらかな旨味",
+          "爽やかな酸味"
+        ],
+        "editorialTags": [],
+        "featureEvidence": [
+          {
+            "feature": "やわらかな旨味",
+            "sourceUrl": "https://www.kihotsuru.com/%E7%B4%94%E7%B1%B3%E9%85%92",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "やわらかな旨みの奥に、爽やかな酸。冷酒から燗まで、食卓で温度を変えて楽しめる純米酒です。",
+            "productScope": "product"
+          },
+          {
+            "feature": "爽やかな酸味",
+            "sourceUrl": "https://www.kihotsuru.com/%E7%B4%94%E7%B1%B3%E9%85%92",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "やわらかな旨みの奥に、爽やかな酸。冷酒から燗まで、食卓で温度を変えて楽しめる純米酒です。",
+            "productScope": "product"
+          }
+        ],
+        "fieldEvidence": [
+          {
+            "field": "identity.productName",
+            "value": "基峰鶴 純米酒",
+            "sourceUrl": "https://www.kihotsuru.com/%E7%B4%94%E7%B1%B3%E9%85%92",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product"
+          },
+          {
+            "field": "identity.brandName",
+            "value": "基峰鶴",
+            "sourceUrl": "https://www.kihotsuru.com/%E7%B4%94%E7%B1%B3%E9%85%92",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product"
+          },
+          {
+            "field": "identity.brewery",
+            "value": "合資会社基山商店",
+            "sourceUrl": "https://www.kihotsuru.com/%E7%B4%94%E7%B1%B3%E9%85%92",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product"
+          },
+          {
+            "field": "identity.prefecture",
+            "value": "佐賀県",
+            "sourceUrl": "https://www.kihotsuru.com/%E7%B4%94%E7%B1%B3%E9%85%92",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product"
+          },
+          {
+            "field": "identity.officialProductUrl",
+            "value": "https://www.kihotsuru.com/%E7%B4%94%E7%B1%B3%E9%85%92",
+            "sourceUrl": "https://www.kihotsuru.com/%E7%B4%94%E7%B1%B3%E9%85%92",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product"
+          },
+          {
+            "field": "classification.tokuteiMeishoshu",
+            "value": "純米酒",
+            "sourceUrl": "https://www.kihotsuru.com/%E7%B4%94%E7%B1%B3%E9%85%92",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product"
+          },
+          {
+            "field": "flavorProfile.umami",
+            "value": "やわらかな旨味",
+            "sourceUrl": "https://www.kihotsuru.com/%E7%B4%94%E7%B1%B3%E9%85%92",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product"
+          },
+          {
+            "field": "flavorProfile.acidity",
+            "value": "爽やかな酸味",
+            "sourceUrl": "https://www.kihotsuru.com/%E7%B4%94%E7%B1%B3%E9%85%92",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product"
+          },
+          {
+            "field": "servingTemperatures",
+            "value": [
+              "冷酒",
+              "燗酒"
+            ],
+            "sourceUrl": "https://www.kihotsuru.com/%E7%B4%94%E7%B1%B3%E9%85%92",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product"
+          },
+          {
+            "field": "classification.junmai",
+            "value": true,
+            "sourceUrl": "https://www.kihotsuru.com/%E7%B4%94%E7%B1%B3%E9%85%92",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "直接確認した特定名称純米酒の排他・親子関係を正規化。当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product",
+            "derivedFrom": "classification.tokuteiMeishoshu"
+          },
+          {
+            "field": "classification.nonJunmai",
+            "value": false,
+            "sourceUrl": "https://www.kihotsuru.com/%E7%B4%94%E7%B1%B3%E9%85%92",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "直接確認した特定名称純米酒の排他・親子関係を正規化。当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product",
+            "derivedFrom": "classification.tokuteiMeishoshu"
+          },
+          {
+            "field": "classification.ginjo",
+            "value": false,
+            "sourceUrl": "https://www.kihotsuru.com/%E7%B4%94%E7%B1%B3%E9%85%92",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "直接確認した特定名称純米酒の排他・親子関係を正規化。当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product",
+            "derivedFrom": "classification.tokuteiMeishoshu"
+          },
+          {
+            "field": "classification.junmaiGinjo",
+            "value": false,
+            "sourceUrl": "https://www.kihotsuru.com/%E7%B4%94%E7%B1%B3%E9%85%92",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "直接確認した特定名称純米酒の排他・親子関係を正規化。当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product",
+            "derivedFrom": "classification.tokuteiMeishoshu"
+          },
+          {
+            "field": "classification.daiginjo",
+            "value": false,
+            "sourceUrl": "https://www.kihotsuru.com/%E7%B4%94%E7%B1%B3%E9%85%92",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "直接確認した特定名称純米酒の排他・親子関係を正規化。当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product",
+            "derivedFrom": "classification.tokuteiMeishoshu"
+          },
+          {
+            "field": "classification.junmaiDaiginjo",
+            "value": false,
+            "sourceUrl": "https://www.kihotsuru.com/%E7%B4%94%E7%B1%B3%E9%85%92",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "直接確認した特定名称純米酒の排他・親子関係を正規化。当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product",
+            "derivedFrom": "classification.tokuteiMeishoshu"
+          },
+          {
+            "field": "classification.ginjoFamily",
+            "value": false,
+            "sourceUrl": "https://www.kihotsuru.com/%E7%B4%94%E7%B1%B3%E9%85%92",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "直接確認した特定名称純米酒の排他・親子関係を正規化。当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product",
+            "derivedFrom": "classification.tokuteiMeishoshu"
+          },
+          {
+            "field": "classification.daiginjoFamily",
+            "value": false,
+            "sourceUrl": "https://www.kihotsuru.com/%E7%B4%94%E7%B1%B3%E9%85%92",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "直接確認した特定名称純米酒の排他・親子関係を正規化。当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product",
+            "derivedFrom": "classification.tokuteiMeishoshu"
+          }
+        ],
+        "sources": [
+          {
+            "url": "https://www.kihotsuru.com/%E7%B4%94%E7%B1%B3%E9%85%92",
+            "type": "official",
+            "scope": "product",
+            "verifiedAt": "2026-10-20"
+          },
+          {
+            "url": "https://item.rakuten.co.jp/sagamarche/100673/",
+            "type": "rakuten_retail",
+            "scope": "product",
+            "verifiedAt": "2026-10-20"
+          }
+        ],
+        "servingTemperatures": [
+          "冷酒",
+          "燗酒"
+        ],
+        "officialPairings": [],
+        "pairingEvidence": [],
+        "dataConfidence": "high",
+        "needsIdentification": false,
+        "auditNotes": [
+          "新SKUとして作成。旧商品の情報をコピーしない。"
+        ],
+        "lastVerifiedAt": "2026-10-20",
+        "researchPhase": "historical-fallback",
+        "auditPhase": "historical-fallback",
+        "sourceAttempts": [],
+        "recommendedTemperatureRange": [],
+        "temperatureRecommendations": [],
+        "aromaNotes": [],
+        "tasteNotes": [],
+        "featureTags": [
+          "やわらかな旨味",
+          "爽やかな酸味"
+        ],
+        "shortDescription": "やわらかな旨みの奥に、爽やかな酸。冷酒から燗まで、食卓で温度を変えて楽しめる純米酒です。"
+      },
+      "editorialPairingEvidence": [
+        {
+          "dish": "肉じゃが",
+          "reason": "肉じゃがと、やわらかな旨みの基峰鶴。おかずと一杯を交互に、落ち着いて味わう組み合わせです。",
+          "provenance": "yoiEditorial",
+          "sourceUrls": [
+            "https://www.kihotsuru.com/%E7%B4%94%E7%B1%B3%E9%85%92",
+            "https://item.rakuten.co.jp/sagamarche/100673/"
+          ],
+          "dishEvidence": {
+            "foodId": "item-13w7k4b",
+            "pairingProfile": {
+              "name": "肉じゃが",
+              "directions": [
+                "warm",
+                "hearty",
+                "comfort"
+              ],
+              "method": "煮物",
+              "flavor": "甘辛い煮汁",
+              "rich": true
+            }
+          },
+          "sourceScope": "当該SKUの根拠のある特徴と既存の料理DBから今回新規に作成した編集提案。公式・口コミ推奨ではない。"
+        },
+        {
+          "dish": "焼き鮭",
+          "reason": "焼き鮭をつまみながら、爽やかな酸のある純米酒を。冷やしても温めても試せる提案です。",
+          "provenance": "yoiEditorial",
+          "sourceUrls": [
+            "https://www.kihotsuru.com/%E7%B4%94%E7%B1%B3%E9%85%92",
+            "https://item.rakuten.co.jp/sagamarche/100673/"
+          ],
+          "dishEvidence": {
+            "foodId": "item-avnlz1"
+          },
+          "sourceScope": "当該SKUの根拠のある特徴と既存の料理DBから今回新規に作成した編集提案。公式・口コミ推奨ではない。"
+        },
+        {
+          "dish": "湯豆腐",
+          "reason": "湯豆腐の夜には、基峰鶴も少し温めて。やわらかな旨みをゆっくり楽しんで。",
+          "provenance": "yoiEditorial",
+          "sourceUrls": [
+            "https://www.kihotsuru.com/%E7%B4%94%E7%B1%B3%E9%85%92",
+            "https://item.rakuten.co.jp/sagamarche/100673/"
+          ],
+          "dishEvidence": {
+            "foodId": "item-1qvzseg",
+            "pairingProfile": {
+              "name": "湯豆腐",
+              "directions": [
+                "warm",
+                "small",
+                "comfort"
+              ],
+              "method": "鍋物",
+              "flavor": "豆腐とだしの穏やかな味",
+              "delicate": true
+            }
+          },
+          "sourceScope": "当該SKUの根拠のある特徴と既存の料理DBから今回新規に作成した編集提案。公式・口コミ推奨ではない。"
+        }
+      ],
+      "communityEvidence": [],
+      "sensoryConsensus": {
+        "fields": {
+          "sweetness": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "acidity": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "umami": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "aroma": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "body": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "finish": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "bitterness": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "carbonation": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "alcoholImpression": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          }
+        },
+        "acceptedEvidenceIds": [],
+        "excluded": [],
+        "provenance": "editorial_sensory_consensus",
+        "notVerifiedSpecifications": true
+      },
+      "communityPairings": [],
+      "officialTemperature": [
+        "冷酒",
+        "燗酒"
+      ],
+      "retailerTemperature": [],
+      "communityTemperature": [],
+      "capacityMl": 720
+    },
+    {
+      "id": "matsunokotobuki-omachi-hiire-current-v1",
+      "catalogVersion": "v1",
+      "productName": "松の寿 純米吟醸 雄町 無濾過 火入れ",
+      "sake": "松の寿",
+      "brandName": "松の寿",
+      "brewery": "株式会社松井酒造店",
+      "prefecture": "栃木県",
+      "region": "",
+      "areaGroup": "",
+      "style": [
+        "純米吟醸酒"
+      ],
+      "taste": [
+        "ふくらみのある旨味",
+        "軽快な酸味",
+        "穏やかな香り"
+      ],
+      "temperature": [
+        "冷酒",
+        "燗酒"
+      ],
+      "moods": [],
+      "dishes": [
+        "鶏の照り焼き",
+        "きのこのホイル焼き",
+        "だし巻き卵"
+      ],
+      "yoiPairings": [
+        "鶏の照り焼き",
+        "きのこのホイル焼き",
+        "だし巻き卵"
+      ],
+      "dishCategories": [],
+      "nightType": "",
+      "essay": "",
+      "productUrl": "https://www.jizake.com/c/sake/matsui/ns460005m00",
+      "officialUrl": null,
+      "officialPairings": [],
+      "sources": [
+        {
+          "url": "https://www.jizake.com/c/sake/matsui/ns460005m00",
+          "type": "specialistRetailer",
+          "scope": "product",
+          "verifiedAt": "2026-10-20"
+        },
+        {
+          "url": "https://item.rakuten.co.jp/sakeroman/10002305/",
+          "type": "rakuten_retail",
+          "scope": "product",
+          "verifiedAt": "2026-10-20"
+        },
+        {
+          "url": "https://sakeroman.com/products/matsunokotobuki-junmaiginjo-omachi",
+          "type": "specialistRetailer",
+          "scope": "product",
+          "verifiedAt": "2026-10-20"
+        }
+      ],
+      "purchaseLinks": [],
+      "dataConfidence": "medium",
+      "needsIdentification": false,
+      "sakeResearch": {
+        "id": "matsunokotobuki-omachi-hiire-current-v1",
+        "registeredName": "松の寿 純米吟醸 雄町 無濾過 火入れ",
+        "identity": {
+          "productName": "松の寿 純米吟醸 雄町 無濾過 火入れ",
+          "brandName": "松の寿",
+          "brewery": "株式会社松井酒造店",
+          "prefecture": "栃木県",
+          "officialProductUrl": null
+        },
+        "classification": {
+          "ginjo": false,
+          "junmaiGinjo": true,
+          "daiginjo": false,
+          "junmaiDaiginjo": false,
+          "ginjoFamily": true,
+          "daiginjoFamily": false,
+          "aged": null,
+          "tokuteiMeishoshu": "純米吟醸酒",
+          "junmai": true,
+          "nonJunmai": false,
+          "kimoto": null,
+          "yamahai": null,
+          "nama": false,
+          "hiire": true,
+          "nigori": null,
+          "sparkling": null,
+          "genshu": null,
+          "muroka": true
+        },
+        "specs": {
+          "ingredients": [],
+          "riceVariety": [
+            "雄町"
+          ],
+          "riceOrigin": null,
+          "riceByRole": null,
+          "polishingRatio": "55%",
+          "polishingByRole": null,
+          "alcoholPercentage": null,
+          "nihonshudo": null,
+          "acidity": null,
+          "aminoAcidValue": null,
+          "yeast": null,
+          "waterSource": null,
+          "kojiMold": null,
+          "agingPeriod": null,
+          "agingTemperature": null
+        },
+        "flavorProfile": {
+          "sweetness": null,
+          "aroma": "穏やかな香り",
+          "umami": "ふくらみのある旨味",
+          "acidity": "軽快な酸味",
+          "body": null,
+          "finish": null
+        },
+        "verifiedFeatureTags": [
+          "ふくらみのある旨味",
+          "軽快な酸味",
+          "穏やかな香り"
+        ],
+        "editorialTags": [],
+        "featureEvidence": [
+          {
+            "feature": "ふくらみのある旨味",
+            "sourceUrl": "https://www.jizake.com/c/sake/matsui/ns460005m00",
+            "sourceType": "specialistRetailer",
+            "verifiedAt": "2026-10-20",
+            "meaning": "雄町のふくらみを、軽快な酸が引き締める一杯。穏やかな香りとやわらかな口当たりを楽しむ、火入れの純米吟醸です。",
+            "productScope": "product"
+          },
+          {
+            "feature": "軽快な酸味",
+            "sourceUrl": "https://www.jizake.com/c/sake/matsui/ns460005m00",
+            "sourceType": "specialistRetailer",
+            "verifiedAt": "2026-10-20",
+            "meaning": "雄町のふくらみを、軽快な酸が引き締める一杯。穏やかな香りとやわらかな口当たりを楽しむ、火入れの純米吟醸です。",
+            "productScope": "product"
+          },
+          {
+            "feature": "穏やかな香り",
+            "sourceUrl": "https://www.jizake.com/c/sake/matsui/ns460005m00",
+            "sourceType": "specialistRetailer",
+            "verifiedAt": "2026-10-20",
+            "meaning": "雄町のふくらみを、軽快な酸が引き締める一杯。穏やかな香りとやわらかな口当たりを楽しむ、火入れの純米吟醸です。",
+            "productScope": "product"
+          }
+        ],
+        "fieldEvidence": [
+          {
+            "field": "identity.productName",
+            "value": "松の寿 純米吟醸 雄町 無濾過 火入れ",
+            "sourceUrl": "https://www.jizake.com/c/sake/matsui/ns460005m00",
+            "sourceType": "specialistRetailer",
+            "verifiedAt": "2026-10-20",
+            "meaning": "当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product"
+          },
+          {
+            "field": "identity.brandName",
+            "value": "松の寿",
+            "sourceUrl": "https://www.jizake.com/c/sake/matsui/ns460005m00",
+            "sourceType": "specialistRetailer",
+            "verifiedAt": "2026-10-20",
+            "meaning": "当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product"
+          },
+          {
+            "field": "identity.brewery",
+            "value": "株式会社松井酒造店",
+            "sourceUrl": "https://www.jizake.com/c/sake/matsui/ns460005m00",
+            "sourceType": "specialistRetailer",
+            "verifiedAt": "2026-10-20",
+            "meaning": "当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product"
+          },
+          {
+            "field": "identity.prefecture",
+            "value": "栃木県",
+            "sourceUrl": "https://www.jizake.com/c/sake/matsui/ns460005m00",
+            "sourceType": "specialistRetailer",
+            "verifiedAt": "2026-10-20",
+            "meaning": "当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product"
+          },
+          {
+            "field": "classification.tokuteiMeishoshu",
+            "value": "純米吟醸酒",
+            "sourceUrl": "https://www.jizake.com/c/sake/matsui/ns460005m00",
+            "sourceType": "specialistRetailer",
+            "verifiedAt": "2026-10-20",
+            "meaning": "当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product"
+          },
+          {
+            "field": "classification.hiire",
+            "value": true,
+            "sourceUrl": "https://www.jizake.com/c/sake/matsui/ns460005m00",
+            "sourceType": "specialistRetailer",
+            "verifiedAt": "2026-10-20",
+            "meaning": "当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product"
+          },
+          {
+            "field": "classification.nama",
+            "value": false,
+            "sourceUrl": "https://www.jizake.com/c/sake/matsui/ns460005m00",
+            "sourceType": "specialistRetailer",
+            "verifiedAt": "2026-10-20",
+            "meaning": "当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product"
+          },
+          {
+            "field": "classification.muroka",
+            "value": true,
+            "sourceUrl": "https://item.rakuten.co.jp/sakeroman/10002305/",
+            "sourceType": "rakuten_retail",
+            "verifiedAt": "2026-10-20",
+            "meaning": "当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product"
+          },
+          {
+            "field": "specs.riceVariety",
+            "value": [
+              "雄町"
+            ],
+            "sourceUrl": "https://www.jizake.com/c/sake/matsui/ns460005m00",
+            "sourceType": "specialistRetailer",
+            "verifiedAt": "2026-10-20",
+            "meaning": "当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product"
+          },
+          {
+            "field": "specs.polishingRatio",
+            "value": "55%",
+            "sourceUrl": "https://www.jizake.com/c/sake/matsui/ns460005m00",
+            "sourceType": "specialistRetailer",
+            "verifiedAt": "2026-10-20",
+            "meaning": "当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product"
+          },
+          {
+            "field": "flavorProfile.umami",
+            "value": "ふくらみのある旨味",
+            "sourceUrl": "https://www.jizake.com/c/sake/matsui/ns460005m00",
+            "sourceType": "specialistRetailer",
+            "verifiedAt": "2026-10-20",
+            "meaning": "当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product"
+          },
+          {
+            "field": "flavorProfile.acidity",
+            "value": "軽快な酸味",
+            "sourceUrl": "https://www.jizake.com/c/sake/matsui/ns460005m00",
+            "sourceType": "specialistRetailer",
+            "verifiedAt": "2026-10-20",
+            "meaning": "当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product"
+          },
+          {
+            "field": "flavorProfile.aroma",
+            "value": "穏やかな香り",
+            "sourceUrl": "https://www.jizake.com/c/sake/matsui/ns460005m00",
+            "sourceType": "specialistRetailer",
+            "verifiedAt": "2026-10-20",
+            "meaning": "当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product"
+          },
+          {
+            "field": "servingTemperatures",
+            "value": [
+              "冷酒",
+              "燗酒"
+            ],
+            "sourceUrl": "https://www.jizake.com/c/sake/matsui/ns460005m00",
+            "sourceType": "specialistRetailer",
+            "verifiedAt": "2026-10-20",
+            "meaning": "当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product"
+          },
+          {
+            "field": "classification.junmai",
+            "value": true,
+            "sourceUrl": "https://www.jizake.com/c/sake/matsui/ns460005m00",
+            "sourceType": "specialistRetailer",
+            "verifiedAt": "2026-10-20",
+            "meaning": "直接確認した特定名称純米吟醸酒の排他・親子関係を正規化。当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product",
+            "derivedFrom": "classification.tokuteiMeishoshu"
+          },
+          {
+            "field": "classification.nonJunmai",
+            "value": false,
+            "sourceUrl": "https://www.jizake.com/c/sake/matsui/ns460005m00",
+            "sourceType": "specialistRetailer",
+            "verifiedAt": "2026-10-20",
+            "meaning": "直接確認した特定名称純米吟醸酒の排他・親子関係を正規化。当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product",
+            "derivedFrom": "classification.tokuteiMeishoshu"
+          },
+          {
+            "field": "classification.ginjo",
+            "value": false,
+            "sourceUrl": "https://www.jizake.com/c/sake/matsui/ns460005m00",
+            "sourceType": "specialistRetailer",
+            "verifiedAt": "2026-10-20",
+            "meaning": "直接確認した特定名称純米吟醸酒の排他・親子関係を正規化。当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product",
+            "derivedFrom": "classification.tokuteiMeishoshu"
+          },
+          {
+            "field": "classification.junmaiGinjo",
+            "value": true,
+            "sourceUrl": "https://www.jizake.com/c/sake/matsui/ns460005m00",
+            "sourceType": "specialistRetailer",
+            "verifiedAt": "2026-10-20",
+            "meaning": "直接確認した特定名称純米吟醸酒の排他・親子関係を正規化。当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product",
+            "derivedFrom": "classification.tokuteiMeishoshu"
+          },
+          {
+            "field": "classification.daiginjo",
+            "value": false,
+            "sourceUrl": "https://www.jizake.com/c/sake/matsui/ns460005m00",
+            "sourceType": "specialistRetailer",
+            "verifiedAt": "2026-10-20",
+            "meaning": "直接確認した特定名称純米吟醸酒の排他・親子関係を正規化。当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product",
+            "derivedFrom": "classification.tokuteiMeishoshu"
+          },
+          {
+            "field": "classification.junmaiDaiginjo",
+            "value": false,
+            "sourceUrl": "https://www.jizake.com/c/sake/matsui/ns460005m00",
+            "sourceType": "specialistRetailer",
+            "verifiedAt": "2026-10-20",
+            "meaning": "直接確認した特定名称純米吟醸酒の排他・親子関係を正規化。当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product",
+            "derivedFrom": "classification.tokuteiMeishoshu"
+          },
+          {
+            "field": "classification.ginjoFamily",
+            "value": true,
+            "sourceUrl": "https://www.jizake.com/c/sake/matsui/ns460005m00",
+            "sourceType": "specialistRetailer",
+            "verifiedAt": "2026-10-20",
+            "meaning": "直接確認した特定名称純米吟醸酒の排他・親子関係を正規化。当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product",
+            "derivedFrom": "classification.tokuteiMeishoshu"
+          },
+          {
+            "field": "classification.daiginjoFamily",
+            "value": false,
+            "sourceUrl": "https://www.jizake.com/c/sake/matsui/ns460005m00",
+            "sourceType": "specialistRetailer",
+            "verifiedAt": "2026-10-20",
+            "meaning": "直接確認した特定名称純米吟醸酒の排他・親子関係を正規化。当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product",
+            "derivedFrom": "classification.tokuteiMeishoshu"
+          }
+        ],
+        "sources": [
+          {
+            "url": "https://www.jizake.com/c/sake/matsui/ns460005m00",
+            "type": "specialistRetailer",
+            "scope": "product",
+            "verifiedAt": "2026-10-20"
+          },
+          {
+            "url": "https://item.rakuten.co.jp/sakeroman/10002305/",
+            "type": "rakuten_retail",
+            "scope": "product",
+            "verifiedAt": "2026-10-20"
+          },
+          {
+            "url": "https://sakeroman.com/products/matsunokotobuki-junmaiginjo-omachi",
+            "type": "specialistRetailer",
+            "scope": "product",
+            "verifiedAt": "2026-10-20"
+          }
+        ],
+        "servingTemperatures": [
+          "冷酒",
+          "燗酒"
+        ],
+        "officialPairings": [],
+        "pairingEvidence": [],
+        "dataConfidence": "medium",
+        "needsIdentification": false,
+        "auditNotes": [
+          "旧商品の五百万石と異なる雄町シリーズ。別資料の16/17度、分析値、BYを混成せず数値未設定。"
+        ],
+        "lastVerifiedAt": "2026-10-20",
+        "researchPhase": "historical-fallback",
+        "auditPhase": "historical-fallback",
+        "sourceAttempts": [],
+        "recommendedTemperatureRange": [],
+        "temperatureRecommendations": [],
+        "aromaNotes": [],
+        "tasteNotes": [],
+        "featureTags": [
+          "ふくらみのある旨味",
+          "軽快な酸味",
+          "穏やかな香り"
+        ],
+        "shortDescription": "雄町のふくらみを、軽快な酸が引き締める一杯。穏やかな香りとやわらかな口当たりを楽しむ、火入れの純米吟醸です。"
+      },
+      "editorialPairingEvidence": [
+        {
+          "dish": "鶏の照り焼き",
+          "reason": "照り焼きと、ふくらみのある旨みを持つ松の寿。料理のあとに軽快な酸を楽しむ組み合わせです。",
+          "provenance": "yoiEditorial",
+          "sourceUrls": [
+            "https://www.jizake.com/c/sake/matsui/ns460005m00",
+            "https://item.rakuten.co.jp/sakeroman/10002305/"
+          ],
+          "dishEvidence": {
+            "foodId": "item-1i89m16",
+            "pairingProfile": {
+              "name": "鶏の照り焼き",
+              "directions": [
+                "hearty",
+                "grilled"
+              ],
+              "method": "焼き物",
+              "flavor": "甘辛いタレ",
+              "rich": true
+            }
+          },
+          "sourceScope": "当該SKUの根拠のある特徴と既存の料理DBから今回新規に作成した編集提案。公式・口コミ推奨ではない。"
+        },
+        {
+          "dish": "きのこのホイル焼き",
+          "reason": "きのこのホイル焼きをつまみに、穏やかな香りの一杯を。温めたときの表情も試してみて。",
+          "provenance": "yoiEditorial",
+          "sourceUrls": [
+            "https://www.jizake.com/c/sake/matsui/ns460005m00",
+            "https://item.rakuten.co.jp/sakeroman/10002305/"
+          ],
+          "dishEvidence": {
+            "foodId": "item-1akkb7y"
+          },
+          "sourceScope": "当該SKUの根拠のある特徴と既存の料理DBから今回新規に作成した編集提案。公式・口コミ推奨ではない。"
+        },
+        {
+          "dish": "だし巻き卵",
+          "reason": "だし巻き卵と、やわらかな飲み口の松の寿。香りを楽しみながら、ゆっくり交互に味わって。",
+          "provenance": "yoiEditorial",
+          "sourceUrls": [
+            "https://www.jizake.com/c/sake/matsui/ns460005m00",
+            "https://item.rakuten.co.jp/sakeroman/10002305/"
+          ],
+          "dishEvidence": {
+            "foodId": "item-snidmz",
+            "pairingProfile": {
+              "name": "だし巻き卵",
+              "directions": [
+                "small",
+                "warm",
+                "grilled",
+                "comfort"
+              ],
+              "method": "焼き物",
+              "flavor": "卵とだしのやさしい味",
+              "delicate": true
+            }
+          },
+          "sourceScope": "当該SKUの根拠のある特徴と既存の料理DBから今回新規に作成した編集提案。公式・口コミ推奨ではない。"
+        }
+      ],
+      "communityEvidence": [],
+      "sensoryConsensus": {
+        "fields": {
+          "sweetness": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "acidity": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "umami": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "aroma": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "body": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "finish": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "bitterness": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "carbonation": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "alcoholImpression": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          }
+        },
+        "acceptedEvidenceIds": [],
+        "excluded": [],
+        "provenance": "editorial_sensory_consensus",
+        "notVerifiedSpecifications": true
+      },
+      "communityPairings": [],
+      "officialTemperature": [],
+      "retailerTemperature": [
+        "冷酒",
+        "燗酒"
+      ],
+      "communityTemperature": [],
+      "capacityMl": 720
+    },
+    {
+      "id": "kurobekyo-junmai-ginjo55-current-v1",
+      "catalogVersion": "v1",
+      "productName": "黒部峡 純米吟醸55",
+      "sake": "黒部峡",
+      "brandName": "黒部峡",
+      "brewery": "林酒造場",
+      "prefecture": "富山県",
+      "region": "",
+      "areaGroup": "",
+      "style": [
+        "純米吟醸酒"
+      ],
+      "taste": [
+        "奥深い味わい",
+        "豊かな風味"
+      ],
+      "temperature": [],
+      "moods": [],
+      "dishes": [
+        "鯛の塩焼き",
+        "茶碗蒸し",
+        "きのこのホイル焼き"
+      ],
+      "yoiPairings": [
+        "鯛の塩焼き",
+        "茶碗蒸し",
+        "きのこのホイル焼き"
+      ],
+      "dishCategories": [],
+      "nightType": "",
+      "essay": "",
+      "productUrl": "https://www.hayashisyuzo.com/brand/",
+      "officialUrl": "https://www.hayashisyuzo.com/brand/",
+      "officialPairings": [],
+      "sources": [
+        {
+          "url": "https://www.hayashisyuzo.com/brand/",
+          "type": "official",
+          "scope": "product",
+          "verifiedAt": "2026-10-20"
+        },
+        {
+          "url": "https://item.rakuten.co.jp/kurumayasaketen/4983866315654/",
+          "type": "rakuten_retail",
+          "scope": "product",
+          "verifiedAt": "2026-10-20"
+        }
+      ],
+      "purchaseLinks": [],
+      "dataConfidence": "high",
+      "needsIdentification": false,
+      "sakeResearch": {
+        "id": "kurobekyo-junmai-ginjo55-current-v1",
+        "registeredName": "黒部峡 純米吟醸55",
+        "identity": {
+          "productName": "黒部峡 純米吟醸55",
+          "brandName": "黒部峡",
+          "brewery": "林酒造場",
+          "prefecture": "富山県",
+          "officialProductUrl": "https://www.hayashisyuzo.com/brand/"
+        },
+        "classification": {
+          "ginjo": false,
+          "junmaiGinjo": true,
+          "daiginjo": false,
+          "junmaiDaiginjo": false,
+          "ginjoFamily": true,
+          "daiginjoFamily": false,
+          "aged": null,
+          "tokuteiMeishoshu": "純米吟醸酒",
+          "junmai": true,
+          "nonJunmai": false,
+          "kimoto": null,
+          "yamahai": null,
+          "nama": null,
+          "hiire": null,
+          "nigori": null,
+          "sparkling": null,
+          "genshu": null,
+          "muroka": null
+        },
+        "specs": {
+          "ingredients": [],
+          "riceVariety": [],
+          "riceOrigin": null,
+          "riceByRole": null,
+          "polishingRatio": null,
+          "polishingByRole": null,
+          "alcoholPercentage": null,
+          "nihonshudo": null,
+          "acidity": null,
+          "aminoAcidValue": null,
+          "yeast": null,
+          "waterSource": null,
+          "kojiMold": null,
+          "agingPeriod": null,
+          "agingTemperature": null
+        },
+        "flavorProfile": {
+          "sweetness": null,
+          "aroma": "豊かな風味",
+          "umami": null,
+          "acidity": null,
+          "body": "豊かな味わい",
+          "finish": null
+        },
+        "verifiedFeatureTags": [
+          "奥深い味わい",
+          "豊かな風味"
+        ],
+        "editorialTags": [],
+        "featureEvidence": [
+          {
+            "feature": "奥深い味わい",
+            "sourceUrl": "https://www.hayashisyuzo.com/brand/",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "磨いた米と米麹から醸す、奥深い味わい。豊かな風味をゆっくり楽しみたい、黒部峡の純米吟醸です。",
+            "productScope": "product"
+          },
+          {
+            "feature": "豊かな風味",
+            "sourceUrl": "https://www.hayashisyuzo.com/brand/",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "磨いた米と米麹から醸す、奥深い味わい。豊かな風味をゆっくり楽しみたい、黒部峡の純米吟醸です。",
+            "productScope": "product"
+          }
+        ],
+        "fieldEvidence": [
+          {
+            "field": "identity.productName",
+            "value": "黒部峡 純米吟醸55",
+            "sourceUrl": "https://www.hayashisyuzo.com/brand/",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product"
+          },
+          {
+            "field": "identity.brandName",
+            "value": "黒部峡",
+            "sourceUrl": "https://www.hayashisyuzo.com/brand/",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product"
+          },
+          {
+            "field": "identity.brewery",
+            "value": "林酒造場",
+            "sourceUrl": "https://www.hayashisyuzo.com/brand/",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product"
+          },
+          {
+            "field": "identity.prefecture",
+            "value": "富山県",
+            "sourceUrl": "https://www.hayashisyuzo.com/brand/",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product"
+          },
+          {
+            "field": "identity.officialProductUrl",
+            "value": "https://www.hayashisyuzo.com/brand/",
+            "sourceUrl": "https://www.hayashisyuzo.com/brand/",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product"
+          },
+          {
+            "field": "classification.tokuteiMeishoshu",
+            "value": "純米吟醸酒",
+            "sourceUrl": "https://www.hayashisyuzo.com/brand/",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product"
+          },
+          {
+            "field": "flavorProfile.body",
+            "value": "豊かな味わい",
+            "sourceUrl": "https://www.hayashisyuzo.com/brand/",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product"
+          },
+          {
+            "field": "flavorProfile.aroma",
+            "value": "豊かな風味",
+            "sourceUrl": "https://www.hayashisyuzo.com/brand/",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product"
+          },
+          {
+            "field": "classification.junmai",
+            "value": true,
+            "sourceUrl": "https://www.hayashisyuzo.com/brand/",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "直接確認した特定名称純米吟醸酒の排他・親子関係を正規化。当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product",
+            "derivedFrom": "classification.tokuteiMeishoshu"
+          },
+          {
+            "field": "classification.nonJunmai",
+            "value": false,
+            "sourceUrl": "https://www.hayashisyuzo.com/brand/",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "直接確認した特定名称純米吟醸酒の排他・親子関係を正規化。当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product",
+            "derivedFrom": "classification.tokuteiMeishoshu"
+          },
+          {
+            "field": "classification.ginjo",
+            "value": false,
+            "sourceUrl": "https://www.hayashisyuzo.com/brand/",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "直接確認した特定名称純米吟醸酒の排他・親子関係を正規化。当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product",
+            "derivedFrom": "classification.tokuteiMeishoshu"
+          },
+          {
+            "field": "classification.junmaiGinjo",
+            "value": true,
+            "sourceUrl": "https://www.hayashisyuzo.com/brand/",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "直接確認した特定名称純米吟醸酒の排他・親子関係を正規化。当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product",
+            "derivedFrom": "classification.tokuteiMeishoshu"
+          },
+          {
+            "field": "classification.daiginjo",
+            "value": false,
+            "sourceUrl": "https://www.hayashisyuzo.com/brand/",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "直接確認した特定名称純米吟醸酒の排他・親子関係を正規化。当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product",
+            "derivedFrom": "classification.tokuteiMeishoshu"
+          },
+          {
+            "field": "classification.junmaiDaiginjo",
+            "value": false,
+            "sourceUrl": "https://www.hayashisyuzo.com/brand/",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "直接確認した特定名称純米吟醸酒の排他・親子関係を正規化。当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product",
+            "derivedFrom": "classification.tokuteiMeishoshu"
+          },
+          {
+            "field": "classification.ginjoFamily",
+            "value": true,
+            "sourceUrl": "https://www.hayashisyuzo.com/brand/",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "直接確認した特定名称純米吟醸酒の排他・親子関係を正規化。当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product",
+            "derivedFrom": "classification.tokuteiMeishoshu"
+          },
+          {
+            "field": "classification.daiginjoFamily",
+            "value": false,
+            "sourceUrl": "https://www.hayashisyuzo.com/brand/",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "直接確認した特定名称純米吟醸酒の排他・親子関係を正規化。当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product",
+            "derivedFrom": "classification.tokuteiMeishoshu"
+          }
+        ],
+        "sources": [
+          {
+            "url": "https://www.hayashisyuzo.com/brand/",
+            "type": "official",
+            "scope": "product",
+            "verifiedAt": "2026-10-20"
+          },
+          {
+            "url": "https://item.rakuten.co.jp/kurumayasaketen/4983866315654/",
+            "type": "rakuten_retail",
+            "scope": "product",
+            "verifiedAt": "2026-10-20"
+          }
+        ],
+        "servingTemperatures": [],
+        "officialPairings": [],
+        "pairingEvidence": [],
+        "dataConfidence": "high",
+        "needsIdentification": false,
+        "auditNotes": [
+          "林の美山錦から黒部峡へ別ブランド・別SKUで変更。商品名の55だけから分析値を補完せず、原料米と温度も未確認。"
+        ],
+        "lastVerifiedAt": "2026-10-20",
+        "researchPhase": "historical-fallback",
+        "auditPhase": "historical-fallback",
+        "sourceAttempts": [],
+        "recommendedTemperatureRange": [],
+        "temperatureRecommendations": [],
+        "aromaNotes": [],
+        "tasteNotes": [],
+        "featureTags": [
+          "奥深い味わい",
+          "豊かな風味"
+        ],
+        "shortDescription": "磨いた米と米麹から醸す、奥深い味わい。豊かな風味をゆっくり楽しみたい、黒部峡の純米吟醸です。"
+      },
+      "editorialPairingEvidence": [
+        {
+          "dish": "鯛の塩焼き",
+          "reason": "鯛の塩焼きと、豊かな風味の黒部峡。ひと口ずつ味わいを確かめながら楽しむ提案です。",
+          "provenance": "yoiEditorial",
+          "sourceUrls": [
+            "https://www.hayashisyuzo.com/brand/",
+            "https://item.rakuten.co.jp/kurumayasaketen/4983866315654/"
+          ],
+          "dishEvidence": {
+            "foodId": "item-1s9xmks"
+          },
+          "sourceScope": "当該SKUの根拠のある特徴と既存の料理DBから今回新規に作成した編集提案。公式・口コミ推奨ではない。"
+        },
+        {
+          "dish": "茶碗蒸し",
+          "reason": "茶碗蒸しをひとさじ、そのあとに黒部峡を。料理と純米吟醸の風味を交互に楽しんで。",
+          "provenance": "yoiEditorial",
+          "sourceUrls": [
+            "https://www.hayashisyuzo.com/brand/",
+            "https://item.rakuten.co.jp/kurumayasaketen/4983866315654/"
+          ],
+          "dishEvidence": {
+            "foodId": "item-1oirnmr",
+            "pairingProfile": {
+              "name": "茶碗蒸し",
+              "directions": [
+                "warm",
+                "small",
+                "comfort"
+              ],
+              "method": "蒸し物",
+              "flavor": "卵とだしのやさしい味",
+              "delicate": true
+            }
+          },
+          "sourceScope": "当該SKUの根拠のある特徴と既存の料理DBから今回新規に作成した編集提案。公式・口コミ推奨ではない。"
+        },
+        {
+          "dish": "きのこのホイル焼き",
+          "reason": "きのこのホイル焼きと、奥深い味わいの一杯を。香りを急がず、ゆっくり楽しむ組み合わせです。",
+          "provenance": "yoiEditorial",
+          "sourceUrls": [
+            "https://www.hayashisyuzo.com/brand/",
+            "https://item.rakuten.co.jp/kurumayasaketen/4983866315654/"
+          ],
+          "dishEvidence": {
+            "foodId": "item-1akkb7y"
+          },
+          "sourceScope": "当該SKUの根拠のある特徴と既存の料理DBから今回新規に作成した編集提案。公式・口コミ推奨ではない。"
+        }
+      ],
+      "communityEvidence": [],
+      "sensoryConsensus": {
+        "fields": {
+          "sweetness": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "acidity": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "umami": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "aroma": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "body": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "finish": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "bitterness": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "carbonation": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "alcoholImpression": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          }
+        },
+        "acceptedEvidenceIds": [],
+        "excluded": [],
+        "provenance": "editorial_sensory_consensus",
+        "notVerifiedSpecifications": true
+      },
+      "communityPairings": [],
+      "officialTemperature": [],
+      "retailerTemperature": [],
+      "communityTemperature": [],
+      "capacityMl": 720
+    },
+    {
+      "id": "fukuiwai-yamada50-junmai-ginjo-current-v1",
+      "catalogVersion": "v1",
+      "productName": "福祝 山田錦50％磨き 純米吟醸",
+      "sake": "福祝",
+      "brandName": "福祝",
+      "brewery": "藤平酒造合資会社",
+      "prefecture": "千葉県",
+      "region": "",
+      "areaGroup": "",
+      "style": [
+        "純米吟醸酒"
+      ],
+      "taste": [
+        "吟醸香",
+        "すっきり",
+        "淡麗辛口"
+      ],
+      "temperature": [
+        "冷酒",
+        "常温"
+      ],
+      "moods": [],
+      "dishes": [
+        "刺身",
+        "鯛の塩焼き",
+        "冷奴"
+      ],
+      "yoiPairings": [
+        "刺身",
+        "鯛の塩焼き",
+        "冷奴"
+      ],
+      "dishCategories": [],
+      "nightType": "",
+      "essay": "",
+      "productUrl": "https://fukuiwai.com/item/i305",
+      "officialUrl": "https://fukuiwai.com/item/i305",
+      "officialPairings": [],
+      "sources": [
+        {
+          "url": "https://fukuiwai.com/item/i305",
+          "type": "official",
+          "scope": "product",
+          "verifiedAt": "2026-10-20"
+        },
+        {
+          "url": "https://item.rakuten.co.jp/sake-makino/10008-09-8207-1/",
+          "type": "rakuten_retail",
+          "scope": "product",
+          "verifiedAt": "2026-10-20"
+        },
+        {
+          "url": "https://www.sakenomy.jp/sake/TST0000007109/",
+          "type": "specialistDatabase",
+          "scope": "product",
+          "verifiedAt": "2026-10-20"
+        }
+      ],
+      "purchaseLinks": [],
+      "dataConfidence": "high",
+      "needsIdentification": false,
+      "sakeResearch": {
+        "id": "fukuiwai-yamada50-junmai-ginjo-current-v1",
+        "registeredName": "福祝 山田錦50％磨き 純米吟醸",
+        "identity": {
+          "productName": "福祝 山田錦50％磨き 純米吟醸",
+          "brandName": "福祝",
+          "brewery": "藤平酒造合資会社",
+          "prefecture": "千葉県",
+          "officialProductUrl": "https://fukuiwai.com/item/i305"
+        },
+        "classification": {
+          "ginjo": false,
+          "junmaiGinjo": true,
+          "daiginjo": false,
+          "junmaiDaiginjo": false,
+          "ginjoFamily": true,
+          "daiginjoFamily": false,
+          "aged": null,
+          "tokuteiMeishoshu": "純米吟醸酒",
+          "junmai": true,
+          "nonJunmai": false,
+          "kimoto": null,
+          "yamahai": null,
+          "nama": false,
+          "hiire": true,
+          "nigori": null,
+          "sparkling": null,
+          "genshu": null,
+          "muroka": null
+        },
+        "specs": {
+          "ingredients": [],
+          "riceVariety": [
+            "山田錦"
+          ],
+          "riceOrigin": null,
+          "riceByRole": null,
+          "polishingRatio": "50%",
+          "polishingByRole": null,
+          "alcoholPercentage": "16度",
+          "nihonshudo": null,
+          "acidity": null,
+          "aminoAcidValue": null,
+          "yeast": null,
+          "waterSource": null,
+          "kojiMold": null,
+          "agingPeriod": null,
+          "agingTemperature": null
+        },
+        "flavorProfile": {
+          "sweetness": "淡麗辛口",
+          "aroma": "吟醸香",
+          "umami": null,
+          "acidity": null,
+          "body": null,
+          "finish": "すっきり"
+        },
+        "verifiedFeatureTags": [
+          "吟醸香",
+          "すっきり",
+          "淡麗辛口"
+        ],
+        "editorialTags": [],
+        "featureEvidence": [
+          {
+            "feature": "吟醸香",
+            "sourceUrl": "https://item.rakuten.co.jp/sake-makino/10008-09-8207-1/",
+            "sourceType": "rakuten_retail",
+            "verifiedAt": "2026-10-20",
+            "meaning": "心地よい吟醸香と、すっきりした飲み口。山田錦を50％まで磨いた、蔵でも人気の純米吟醸です。",
+            "productScope": "product"
+          },
+          {
+            "feature": "すっきり",
+            "sourceUrl": "https://item.rakuten.co.jp/sake-makino/10008-09-8207-1/",
+            "sourceType": "rakuten_retail",
+            "verifiedAt": "2026-10-20",
+            "meaning": "心地よい吟醸香と、すっきりした飲み口。山田錦を50％まで磨いた、蔵でも人気の純米吟醸です。",
+            "productScope": "product"
+          },
+          {
+            "feature": "淡麗辛口",
+            "sourceUrl": "https://item.rakuten.co.jp/sake-makino/10008-09-8207-1/",
+            "sourceType": "rakuten_retail",
+            "verifiedAt": "2026-10-20",
+            "meaning": "心地よい吟醸香と、すっきりした飲み口。山田錦を50％まで磨いた、蔵でも人気の純米吟醸です。",
+            "productScope": "product"
+          }
+        ],
+        "fieldEvidence": [
+          {
+            "field": "identity.productName",
+            "value": "福祝 山田錦50％磨き 純米吟醸",
+            "sourceUrl": "https://fukuiwai.com/item/i305",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product"
+          },
+          {
+            "field": "identity.brandName",
+            "value": "福祝",
+            "sourceUrl": "https://fukuiwai.com/item/i305",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product"
+          },
+          {
+            "field": "identity.brewery",
+            "value": "藤平酒造合資会社",
+            "sourceUrl": "https://fukuiwai.com/item/i305",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product"
+          },
+          {
+            "field": "identity.prefecture",
+            "value": "千葉県",
+            "sourceUrl": "https://fukuiwai.com/item/i305",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product"
+          },
+          {
+            "field": "identity.officialProductUrl",
+            "value": "https://fukuiwai.com/item/i305",
+            "sourceUrl": "https://fukuiwai.com/item/i305",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product"
+          },
+          {
+            "field": "classification.tokuteiMeishoshu",
+            "value": "純米吟醸酒",
+            "sourceUrl": "https://fukuiwai.com/item/i305",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product"
+          },
+          {
+            "field": "classification.hiire",
+            "value": true,
+            "sourceUrl": "https://item.rakuten.co.jp/sake-makino/10008-09-8207-1/",
+            "sourceType": "rakuten_retail",
+            "verifiedAt": "2026-10-20",
+            "meaning": "当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product"
+          },
+          {
+            "field": "classification.nama",
+            "value": false,
+            "sourceUrl": "https://item.rakuten.co.jp/sake-makino/10008-09-8207-1/",
+            "sourceType": "rakuten_retail",
+            "verifiedAt": "2026-10-20",
+            "meaning": "当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product"
+          },
+          {
+            "field": "specs.riceVariety",
+            "value": [
+              "山田錦"
+            ],
+            "sourceUrl": "https://fukuiwai.com/item/i305",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product"
+          },
+          {
+            "field": "specs.polishingRatio",
+            "value": "50%",
+            "sourceUrl": "https://fukuiwai.com/item/i305",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product"
+          },
+          {
+            "field": "specs.alcoholPercentage",
+            "value": "16度",
+            "sourceUrl": "https://fukuiwai.com/item/i305",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product"
+          },
+          {
+            "field": "flavorProfile.aroma",
+            "value": "吟醸香",
+            "sourceUrl": "https://item.rakuten.co.jp/sake-makino/10008-09-8207-1/",
+            "sourceType": "rakuten_retail",
+            "verifiedAt": "2026-10-20",
+            "meaning": "当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product"
+          },
+          {
+            "field": "flavorProfile.finish",
+            "value": "すっきり",
+            "sourceUrl": "https://item.rakuten.co.jp/sake-makino/10008-09-8207-1/",
+            "sourceType": "rakuten_retail",
+            "verifiedAt": "2026-10-20",
+            "meaning": "当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product"
+          },
+          {
+            "field": "flavorProfile.sweetness",
+            "value": "淡麗辛口",
+            "sourceUrl": "https://item.rakuten.co.jp/sake-makino/10008-09-8207-1/",
+            "sourceType": "rakuten_retail",
+            "verifiedAt": "2026-10-20",
+            "meaning": "当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product"
+          },
+          {
+            "field": "servingTemperatures",
+            "value": [
+              "冷酒",
+              "常温"
+            ],
+            "sourceUrl": "https://item.rakuten.co.jp/sake-makino/10008-09-8207-1/",
+            "sourceType": "rakuten_retail",
+            "verifiedAt": "2026-10-20",
+            "meaning": "当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product"
+          },
+          {
+            "field": "classification.junmai",
+            "value": true,
+            "sourceUrl": "https://fukuiwai.com/item/i305",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "直接確認した特定名称純米吟醸酒の排他・親子関係を正規化。当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product",
+            "derivedFrom": "classification.tokuteiMeishoshu"
+          },
+          {
+            "field": "classification.nonJunmai",
+            "value": false,
+            "sourceUrl": "https://fukuiwai.com/item/i305",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "直接確認した特定名称純米吟醸酒の排他・親子関係を正規化。当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product",
+            "derivedFrom": "classification.tokuteiMeishoshu"
+          },
+          {
+            "field": "classification.ginjo",
+            "value": false,
+            "sourceUrl": "https://fukuiwai.com/item/i305",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "直接確認した特定名称純米吟醸酒の排他・親子関係を正規化。当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product",
+            "derivedFrom": "classification.tokuteiMeishoshu"
+          },
+          {
+            "field": "classification.junmaiGinjo",
+            "value": true,
+            "sourceUrl": "https://fukuiwai.com/item/i305",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "直接確認した特定名称純米吟醸酒の排他・親子関係を正規化。当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product",
+            "derivedFrom": "classification.tokuteiMeishoshu"
+          },
+          {
+            "field": "classification.daiginjo",
+            "value": false,
+            "sourceUrl": "https://fukuiwai.com/item/i305",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "直接確認した特定名称純米吟醸酒の排他・親子関係を正規化。当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product",
+            "derivedFrom": "classification.tokuteiMeishoshu"
+          },
+          {
+            "field": "classification.junmaiDaiginjo",
+            "value": false,
+            "sourceUrl": "https://fukuiwai.com/item/i305",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "直接確認した特定名称純米吟醸酒の排他・親子関係を正規化。当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product",
+            "derivedFrom": "classification.tokuteiMeishoshu"
+          },
+          {
+            "field": "classification.ginjoFamily",
+            "value": true,
+            "sourceUrl": "https://fukuiwai.com/item/i305",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "直接確認した特定名称純米吟醸酒の排他・親子関係を正規化。当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product",
+            "derivedFrom": "classification.tokuteiMeishoshu"
+          },
+          {
+            "field": "classification.daiginjoFamily",
+            "value": false,
+            "sourceUrl": "https://fukuiwai.com/item/i305",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "直接確認した特定名称純米吟醸酒の排他・親子関係を正規化。当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product",
+            "derivedFrom": "classification.tokuteiMeishoshu"
+          }
+        ],
+        "sources": [
+          {
+            "url": "https://fukuiwai.com/item/i305",
+            "type": "official",
+            "scope": "product",
+            "verifiedAt": "2026-10-20"
+          },
+          {
+            "url": "https://item.rakuten.co.jp/sake-makino/10008-09-8207-1/",
+            "type": "rakuten_retail",
+            "scope": "product",
+            "verifiedAt": "2026-10-20"
+          },
+          {
+            "url": "https://www.sakenomy.jp/sake/TST0000007109/",
+            "type": "specialistDatabase",
+            "scope": "product",
+            "verifiedAt": "2026-10-20"
+          }
+        ],
+        "servingTemperatures": [
+          "冷酒",
+          "常温"
+        ],
+        "officialPairings": [],
+        "pairingEvidence": [],
+        "dataConfidence": "high",
+        "needsIdentification": false,
+        "auditNotes": [
+          "APPLESAKEとは別SKU。720ml×2本選択を含む店舗は避け1800ml単品を採用。公式16度、小売16〜17度は差分として分離。Sakenomyの料理提案は公式推奨に転記しない。"
+        ],
+        "lastVerifiedAt": "2026-10-20",
+        "researchPhase": "historical-fallback",
+        "auditPhase": "historical-fallback",
+        "sourceAttempts": [],
+        "recommendedTemperatureRange": [],
+        "temperatureRecommendations": [],
+        "aromaNotes": [],
+        "tasteNotes": [],
+        "featureTags": [
+          "吟醸香",
+          "すっきり",
+          "淡麗辛口"
+        ],
+        "shortDescription": "心地よい吟醸香と、すっきりした飲み口。山田錦を50％まで磨いた、蔵でも人気の純米吟醸です。"
+      },
+      "editorialPairingEvidence": [
+        {
+          "dish": "刺身",
+          "reason": "刺身と、すっきりした福祝を。吟醸香を感じながら、魚とお酒をひと口ずつ楽しむ提案です。",
+          "provenance": "yoiEditorial",
+          "sourceUrls": [
+            "https://fukuiwai.com/item/i305",
+            "https://item.rakuten.co.jp/sake-makino/10008-09-8207-1/"
+          ],
+          "dishEvidence": {
+            "foodId": "item-10ivjqq"
+          },
+          "sourceScope": "当該SKUの根拠のある特徴と既存の料理DBから今回新規に作成した編集提案。公式・口コミ推奨ではない。"
+        },
+        {
+          "dish": "鯛の塩焼き",
+          "reason": "鯛の塩焼きに、淡麗辛口の福祝を添えて。料理の味を確かめながら、少しずつ。",
+          "provenance": "yoiEditorial",
+          "sourceUrls": [
+            "https://fukuiwai.com/item/i305",
+            "https://item.rakuten.co.jp/sake-makino/10008-09-8207-1/"
+          ],
+          "dishEvidence": {
+            "foodId": "item-1s9xmks"
+          },
+          "sourceScope": "当該SKUの根拠のある特徴と既存の料理DBから今回新規に作成した編集提案。公式・口コミ推奨ではない。"
+        },
+        {
+          "dish": "冷奴",
+          "reason": "冷奴をつまみに、心地よい吟醸香を楽しむ一杯。いつもの食卓から試したい組み合わせです。",
+          "provenance": "yoiEditorial",
+          "sourceUrls": [
+            "https://fukuiwai.com/item/i305",
+            "https://item.rakuten.co.jp/sake-makino/10008-09-8207-1/"
+          ],
+          "dishEvidence": {
+            "foodId": "item-1gwo1eu",
+            "pairingProfile": {
+              "name": "冷奴",
+              "directions": [
+                "fresh",
+                "small"
+              ],
+              "method": "豆腐料理",
+              "flavor": "豆腐と薬味のさっぱりした味",
+              "delicate": true
+            }
+          },
+          "sourceScope": "当該SKUの根拠のある特徴と既存の料理DBから今回新規に作成した編集提案。公式・口コミ推奨ではない。"
+        }
+      ],
+      "communityEvidence": [],
+      "sensoryConsensus": {
+        "fields": {
+          "sweetness": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "acidity": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "umami": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "aroma": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "body": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "finish": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "bitterness": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "carbonation": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "alcoholImpression": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          }
+        },
+        "acceptedEvidenceIds": [],
+        "excluded": [],
+        "provenance": "editorial_sensory_consensus",
+        "notVerifiedSpecifications": true
+      },
+      "communityPairings": [],
+      "officialTemperature": [],
+      "retailerTemperature": [
+        "冷酒",
+        "常温"
+      ],
+      "communityTemperature": [],
+      "capacityMl": 1800
+    },
+    {
+      "id": "oku-ten-year-junmai-ginjo-genshu-current-v1",
+      "catalogVersion": "v1",
+      "productName": "奥 十年低温熟成 純米吟醸原酒",
+      "sake": "奥",
+      "brandName": "奥",
+      "brewery": "山﨑合資会社",
+      "prefecture": "愛知県",
+      "region": "",
+      "areaGroup": "",
+      "style": [
+        "純米吟醸酒",
+        "原酒",
+        "熟成酒"
+      ],
+      "taste": [
+        "華やかな香り",
+        "まろやか",
+        "熟成感"
+      ],
+      "temperature": [
+        "常温",
+        "燗酒"
+      ],
+      "moods": [],
+      "dishes": [
+        "豚の角煮",
+        "肉じゃが",
+        "きのこのホイル焼き"
+      ],
+      "yoiPairings": [
+        "豚の角煮",
+        "肉じゃが",
+        "きのこのホイル焼き"
+      ],
+      "dishCategories": [],
+      "nightType": "",
+      "essay": "",
+      "productUrl": "https://www.sonnoh.co.jp/item/03165/",
+      "officialUrl": "https://www.sonnoh.co.jp/item/03165/",
+      "officialPairings": [],
+      "sources": [
+        {
+          "url": "https://www.sonnoh.co.jp/item/03165/",
+          "type": "official",
+          "scope": "product",
+          "verifiedAt": "2026-10-20"
+        },
+        {
+          "url": "https://item.rakuten.co.jp/auc-8848-jizake/oku-10/",
+          "type": "rakuten_retail",
+          "scope": "product",
+          "verifiedAt": "2026-10-20"
+        }
+      ],
+      "purchaseLinks": [],
+      "dataConfidence": "high",
+      "needsIdentification": false,
+      "sakeResearch": {
+        "id": "oku-ten-year-junmai-ginjo-genshu-current-v1",
+        "registeredName": "奥 十年低温熟成 純米吟醸原酒",
+        "identity": {
+          "productName": "奥 十年低温熟成 純米吟醸原酒",
+          "brandName": "奥",
+          "brewery": "山﨑合資会社",
+          "prefecture": "愛知県",
+          "officialProductUrl": "https://www.sonnoh.co.jp/item/03165/"
+        },
+        "classification": {
+          "ginjo": false,
+          "junmaiGinjo": true,
+          "daiginjo": false,
+          "junmaiDaiginjo": false,
+          "ginjoFamily": true,
+          "daiginjoFamily": false,
+          "aged": true,
+          "tokuteiMeishoshu": "純米吟醸酒",
+          "junmai": true,
+          "nonJunmai": false,
+          "kimoto": null,
+          "yamahai": null,
+          "nama": null,
+          "hiire": null,
+          "nigori": null,
+          "sparkling": null,
+          "genshu": true,
+          "muroka": null
+        },
+        "specs": {
+          "ingredients": [],
+          "riceVariety": [
+            "夢山水"
+          ],
+          "riceOrigin": "愛知県",
+          "riceByRole": null,
+          "polishingRatio": "60%",
+          "polishingByRole": null,
+          "alcoholPercentage": "18.5度",
+          "nihonshudo": "+2.0",
+          "acidity": "1.8",
+          "aminoAcidValue": "1.3",
+          "yeast": null,
+          "waterSource": null,
+          "kojiMold": null,
+          "agingPeriod": null,
+          "agingTemperature": null
+        },
+        "flavorProfile": {
+          "sweetness": null,
+          "aroma": "華やかな香り",
+          "umami": null,
+          "acidity": null,
+          "body": "まろやか",
+          "finish": null,
+          "agedImpression": "熟成感"
+        },
+        "verifiedFeatureTags": [
+          "華やかな香り",
+          "まろやか",
+          "熟成感"
+        ],
+        "editorialTags": [],
+        "featureEvidence": [
+          {
+            "feature": "華やかな香り",
+            "sourceUrl": "https://www.sonnoh.co.jp/item/03165/",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "十年の低温熟成が生む、まろやかに枯れた味わい。華やかな香りを残した、夢山水の純米吟醸原酒です。",
+            "productScope": "product"
+          },
+          {
+            "feature": "まろやか",
+            "sourceUrl": "https://www.sonnoh.co.jp/item/03165/",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "十年の低温熟成が生む、まろやかに枯れた味わい。華やかな香りを残した、夢山水の純米吟醸原酒です。",
+            "productScope": "product"
+          },
+          {
+            "feature": "熟成感",
+            "sourceUrl": "https://www.sonnoh.co.jp/item/03165/",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "十年の低温熟成が生む、まろやかに枯れた味わい。華やかな香りを残した、夢山水の純米吟醸原酒です。",
+            "productScope": "product"
+          }
+        ],
+        "fieldEvidence": [
+          {
+            "field": "identity.productName",
+            "value": "奥 十年低温熟成 純米吟醸原酒",
+            "sourceUrl": "https://www.sonnoh.co.jp/item/03165/",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product"
+          },
+          {
+            "field": "identity.brandName",
+            "value": "奥",
+            "sourceUrl": "https://www.sonnoh.co.jp/item/03165/",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product"
+          },
+          {
+            "field": "identity.brewery",
+            "value": "山﨑合資会社",
+            "sourceUrl": "https://www.sonnoh.co.jp/item/03165/",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product"
+          },
+          {
+            "field": "identity.prefecture",
+            "value": "愛知県",
+            "sourceUrl": "https://www.sonnoh.co.jp/item/03165/",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product"
+          },
+          {
+            "field": "identity.officialProductUrl",
+            "value": "https://www.sonnoh.co.jp/item/03165/",
+            "sourceUrl": "https://www.sonnoh.co.jp/item/03165/",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product"
+          },
+          {
+            "field": "classification.tokuteiMeishoshu",
+            "value": "純米吟醸酒",
+            "sourceUrl": "https://www.sonnoh.co.jp/item/03165/",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product"
+          },
+          {
+            "field": "classification.genshu",
+            "value": true,
+            "sourceUrl": "https://www.sonnoh.co.jp/item/03165/",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product"
+          },
+          {
+            "field": "classification.aged",
+            "value": true,
+            "sourceUrl": "https://www.sonnoh.co.jp/item/03165/",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product"
+          },
+          {
+            "field": "specs.riceVariety",
+            "value": [
+              "夢山水"
+            ],
+            "sourceUrl": "https://www.sonnoh.co.jp/item/03165/",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product"
+          },
+          {
+            "field": "specs.riceOrigin",
+            "value": "愛知県",
+            "sourceUrl": "https://www.sonnoh.co.jp/item/03165/",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product"
+          },
+          {
+            "field": "specs.polishingRatio",
+            "value": "60%",
+            "sourceUrl": "https://www.sonnoh.co.jp/item/03165/",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product"
+          },
+          {
+            "field": "specs.alcoholPercentage",
+            "value": "18.5度",
+            "sourceUrl": "https://www.sonnoh.co.jp/item/03165/",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product"
+          },
+          {
+            "field": "specs.nihonshudo",
+            "value": "+2.0",
+            "sourceUrl": "https://www.sonnoh.co.jp/item/03165/",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product"
+          },
+          {
+            "field": "specs.acidity",
+            "value": "1.8",
+            "sourceUrl": "https://www.sonnoh.co.jp/item/03165/",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product"
+          },
+          {
+            "field": "specs.aminoAcidValue",
+            "value": "1.3",
+            "sourceUrl": "https://www.sonnoh.co.jp/item/03165/",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product"
+          },
+          {
+            "field": "flavorProfile.aroma",
+            "value": "華やかな香り",
+            "sourceUrl": "https://www.sonnoh.co.jp/item/03165/",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product"
+          },
+          {
+            "field": "flavorProfile.body",
+            "value": "まろやか",
+            "sourceUrl": "https://www.sonnoh.co.jp/item/03165/",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product"
+          },
+          {
+            "field": "flavorProfile.agedImpression",
+            "value": "熟成感",
+            "sourceUrl": "https://www.sonnoh.co.jp/item/03165/",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product"
+          },
+          {
+            "field": "servingTemperatures",
+            "value": [
+              "常温",
+              "燗酒"
+            ],
+            "sourceUrl": "https://www.sonnoh.co.jp/item/03165/",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product"
+          },
+          {
+            "field": "classification.junmai",
+            "value": true,
+            "sourceUrl": "https://www.sonnoh.co.jp/item/03165/",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "直接確認した特定名称純米吟醸酒の排他・親子関係を正規化。当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product",
+            "derivedFrom": "classification.tokuteiMeishoshu"
+          },
+          {
+            "field": "classification.nonJunmai",
+            "value": false,
+            "sourceUrl": "https://www.sonnoh.co.jp/item/03165/",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "直接確認した特定名称純米吟醸酒の排他・親子関係を正規化。当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product",
+            "derivedFrom": "classification.tokuteiMeishoshu"
+          },
+          {
+            "field": "classification.ginjo",
+            "value": false,
+            "sourceUrl": "https://www.sonnoh.co.jp/item/03165/",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "直接確認した特定名称純米吟醸酒の排他・親子関係を正規化。当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product",
+            "derivedFrom": "classification.tokuteiMeishoshu"
+          },
+          {
+            "field": "classification.junmaiGinjo",
+            "value": true,
+            "sourceUrl": "https://www.sonnoh.co.jp/item/03165/",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "直接確認した特定名称純米吟醸酒の排他・親子関係を正規化。当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product",
+            "derivedFrom": "classification.tokuteiMeishoshu"
+          },
+          {
+            "field": "classification.daiginjo",
+            "value": false,
+            "sourceUrl": "https://www.sonnoh.co.jp/item/03165/",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "直接確認した特定名称純米吟醸酒の排他・親子関係を正規化。当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product",
+            "derivedFrom": "classification.tokuteiMeishoshu"
+          },
+          {
+            "field": "classification.junmaiDaiginjo",
+            "value": false,
+            "sourceUrl": "https://www.sonnoh.co.jp/item/03165/",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "直接確認した特定名称純米吟醸酒の排他・親子関係を正規化。当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product",
+            "derivedFrom": "classification.tokuteiMeishoshu"
+          },
+          {
+            "field": "classification.ginjoFamily",
+            "value": true,
+            "sourceUrl": "https://www.sonnoh.co.jp/item/03165/",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "直接確認した特定名称純米吟醸酒の排他・親子関係を正規化。当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product",
+            "derivedFrom": "classification.tokuteiMeishoshu"
+          },
+          {
+            "field": "classification.daiginjoFamily",
+            "value": false,
+            "sourceUrl": "https://www.sonnoh.co.jp/item/03165/",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "直接確認した特定名称純米吟醸酒の排他・親子関係を正規化。当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product",
+            "derivedFrom": "classification.tokuteiMeishoshu"
+          }
+        ],
+        "sources": [
+          {
+            "url": "https://www.sonnoh.co.jp/item/03165/",
+            "type": "official",
+            "scope": "product",
+            "verifiedAt": "2026-10-20"
+          },
+          {
+            "url": "https://item.rakuten.co.jp/auc-8848-jizake/oku-10/",
+            "type": "rakuten_retail",
+            "scope": "product",
+            "verifiedAt": "2026-10-20"
+          }
+        ],
+        "servingTemperatures": [
+          "常温",
+          "燗酒"
+        ],
+        "officialPairings": [],
+        "pairingEvidence": [],
+        "dataConfidence": "high",
+        "needsIdentification": false,
+        "auditNotes": [
+          "全量にごり生酒とは別SKU。十年熟成は年ごとの醸造BYを特定する意味ではない。公式の冷やは常温として扱い、冷蔵保管と推奨飲用温度を混同しない。"
+        ],
+        "lastVerifiedAt": "2026-10-20",
+        "researchPhase": "historical-fallback",
+        "auditPhase": "historical-fallback",
+        "sourceAttempts": [],
+        "recommendedTemperatureRange": [],
+        "temperatureRecommendations": [],
+        "aromaNotes": [],
+        "tasteNotes": [],
+        "featureTags": [
+          "華やかな香り",
+          "まろやか",
+          "熟成感"
+        ],
+        "shortDescription": "十年の低温熟成が生む、まろやかに枯れた味わい。華やかな香りを残した、夢山水の純米吟醸原酒です。"
+      },
+      "editorialPairingEvidence": [
+        {
+          "dish": "豚の角煮",
+          "reason": "豚の角煮をゆっくりつまみながら、十年熟成の奥を。まろやかな味わいを、料理と交互に楽しんで。",
+          "provenance": "yoiEditorial",
+          "sourceUrls": [
+            "https://www.sonnoh.co.jp/item/03165/",
+            "https://item.rakuten.co.jp/auc-8848-jizake/oku-10/"
+          ],
+          "dishEvidence": {
+            "foodId": "item-1abl20d"
+          },
+          "sourceScope": "当該SKUの根拠のある特徴と既存の料理DBから今回新規に作成した編集提案。公式・口コミ推奨ではない。"
+        },
+        {
+          "dish": "肉じゃが",
+          "reason": "肉じゃがのある食卓に、熟成の表情を持つ奥を。急がず味わいたい夜の提案です。",
+          "provenance": "yoiEditorial",
+          "sourceUrls": [
+            "https://www.sonnoh.co.jp/item/03165/",
+            "https://item.rakuten.co.jp/auc-8848-jizake/oku-10/"
+          ],
+          "dishEvidence": {
+            "foodId": "item-13w7k4b",
+            "pairingProfile": {
+              "name": "肉じゃが",
+              "directions": [
+                "warm",
+                "hearty",
+                "comfort"
+              ],
+              "method": "煮物",
+              "flavor": "甘辛い煮汁",
+              "rich": true
+            }
+          },
+          "sourceScope": "当該SKUの根拠のある特徴と既存の料理DBから今回新規に作成した編集提案。公式・口コミ推奨ではない。"
+        },
+        {
+          "dish": "きのこのホイル焼き",
+          "reason": "きのこのホイル焼きと、まろやかな熟成の一杯。少し温めて、香りの変化も試してみて。",
+          "provenance": "yoiEditorial",
+          "sourceUrls": [
+            "https://www.sonnoh.co.jp/item/03165/",
+            "https://item.rakuten.co.jp/auc-8848-jizake/oku-10/"
+          ],
+          "dishEvidence": {
+            "foodId": "item-1akkb7y"
+          },
+          "sourceScope": "当該SKUの根拠のある特徴と既存の料理DBから今回新規に作成した編集提案。公式・口コミ推奨ではない。"
+        }
+      ],
+      "communityEvidence": [],
+      "sensoryConsensus": {
+        "fields": {
+          "sweetness": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "acidity": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "umami": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "aroma": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "body": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "finish": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "bitterness": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "carbonation": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "alcoholImpression": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          }
+        },
+        "acceptedEvidenceIds": [],
+        "excluded": [],
+        "provenance": "editorial_sensory_consensus",
+        "notVerifiedSpecifications": true
+      },
+      "communityPairings": [],
+      "officialTemperature": [
+        "常温",
+        "燗酒"
+      ],
+      "retailerTemperature": [],
+      "communityTemperature": [],
+      "capacityMl": 720
+    },
+    {
+      "id": "ohga-asahi-junmai-ginjo-current-v1",
+      "catalogVersion": "v1",
+      "productName": "大賀 純米吟醸 辛口 朝日米",
+      "sake": "大賀",
+      "brandName": "大賀",
+      "brewery": "大賀酒造株式会社",
+      "prefecture": "福岡県",
+      "region": "",
+      "areaGroup": "",
+      "style": [
+        "純米吟醸酒"
+      ],
+      "taste": [
+        "辛口",
+        "淡麗",
+        "すっきり"
+      ],
+      "temperature": [],
+      "moods": [],
+      "dishes": [
+        "焼き鮭",
+        "鶏の唐揚げ",
+        "冷奴"
+      ],
+      "yoiPairings": [
+        "焼き鮭",
+        "鶏の唐揚げ",
+        "冷奴"
+      ],
+      "dishCategories": [],
+      "nightType": "",
+      "essay": "",
+      "productUrl": "https://www.ogashuzo.com/brands/ohga/",
+      "officialUrl": "https://www.ogashuzo.com/brands/ohga/",
+      "officialPairings": [],
+      "sources": [
+        {
+          "url": "https://www.ogashuzo.com/brands/ohga/",
+          "type": "official",
+          "scope": "product",
+          "verifiedAt": "2026-10-20"
+        },
+        {
+          "url": "https://item.rakuten.co.jp/hasegawasaketen/1011873/",
+          "type": "rakuten_retail",
+          "scope": "product",
+          "verifiedAt": "2026-10-20"
+        }
+      ],
+      "purchaseLinks": [],
+      "dataConfidence": "high",
+      "needsIdentification": false,
+      "sakeResearch": {
+        "id": "ohga-asahi-junmai-ginjo-current-v1",
+        "registeredName": "大賀 純米吟醸 辛口 朝日米",
+        "identity": {
+          "productName": "大賀 純米吟醸 辛口 朝日米",
+          "brandName": "大賀",
+          "brewery": "大賀酒造株式会社",
+          "prefecture": "福岡県",
+          "officialProductUrl": "https://www.ogashuzo.com/brands/ohga/"
+        },
+        "classification": {
+          "ginjo": false,
+          "junmaiGinjo": true,
+          "daiginjo": false,
+          "junmaiDaiginjo": false,
+          "ginjoFamily": true,
+          "daiginjoFamily": false,
+          "aged": null,
+          "tokuteiMeishoshu": "純米吟醸酒",
+          "junmai": true,
+          "nonJunmai": false,
+          "kimoto": null,
+          "yamahai": null,
+          "nama": null,
+          "hiire": null,
+          "nigori": null,
+          "sparkling": null,
+          "genshu": null,
+          "muroka": null
+        },
+        "specs": {
+          "ingredients": [],
+          "riceVariety": [
+            "朝日"
+          ],
+          "riceOrigin": "岡山県",
+          "riceByRole": null,
+          "polishingRatio": null,
+          "polishingByRole": null,
+          "alcoholPercentage": null,
+          "nihonshudo": null,
+          "acidity": null,
+          "aminoAcidValue": null,
+          "yeast": null,
+          "waterSource": null,
+          "kojiMold": null,
+          "agingPeriod": null,
+          "agingTemperature": null
+        },
+        "flavorProfile": {
+          "sweetness": "辛口",
+          "aroma": null,
+          "umami": null,
+          "acidity": null,
+          "body": "淡麗",
+          "finish": "すっきり"
+        },
+        "verifiedFeatureTags": [
+          "辛口",
+          "淡麗",
+          "すっきり"
+        ],
+        "editorialTags": [],
+        "featureEvidence": [
+          {
+            "feature": "辛口",
+            "sourceUrl": "https://www.ogashuzo.com/brands/ohga/",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "岡山の朝日米で醸す、淡麗な辛口。すっきりした飲み口とほどよい味わいを楽しむ、大賀の純米吟醸です。",
+            "productScope": "product"
+          },
+          {
+            "feature": "淡麗",
+            "sourceUrl": "https://www.ogashuzo.com/brands/ohga/",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "岡山の朝日米で醸す、淡麗な辛口。すっきりした飲み口とほどよい味わいを楽しむ、大賀の純米吟醸です。",
+            "productScope": "product"
+          },
+          {
+            "feature": "すっきり",
+            "sourceUrl": "https://www.ogashuzo.com/brands/ohga/",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "岡山の朝日米で醸す、淡麗な辛口。すっきりした飲み口とほどよい味わいを楽しむ、大賀の純米吟醸です。",
+            "productScope": "product"
+          }
+        ],
+        "fieldEvidence": [
+          {
+            "field": "identity.productName",
+            "value": "大賀 純米吟醸 辛口 朝日米",
+            "sourceUrl": "https://www.ogashuzo.com/brands/ohga/",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product"
+          },
+          {
+            "field": "identity.brandName",
+            "value": "大賀",
+            "sourceUrl": "https://www.ogashuzo.com/brands/ohga/",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product"
+          },
+          {
+            "field": "identity.brewery",
+            "value": "大賀酒造株式会社",
+            "sourceUrl": "https://www.ogashuzo.com/brands/ohga/",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product"
+          },
+          {
+            "field": "identity.prefecture",
+            "value": "福岡県",
+            "sourceUrl": "https://www.ogashuzo.com/brands/ohga/",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product"
+          },
+          {
+            "field": "identity.officialProductUrl",
+            "value": "https://www.ogashuzo.com/brands/ohga/",
+            "sourceUrl": "https://www.ogashuzo.com/brands/ohga/",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product"
+          },
+          {
+            "field": "classification.tokuteiMeishoshu",
+            "value": "純米吟醸酒",
+            "sourceUrl": "https://www.ogashuzo.com/brands/ohga/",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product"
+          },
+          {
+            "field": "specs.riceVariety",
+            "value": [
+              "朝日"
+            ],
+            "sourceUrl": "https://www.ogashuzo.com/brands/ohga/",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product"
+          },
+          {
+            "field": "specs.riceOrigin",
+            "value": "岡山県",
+            "sourceUrl": "https://www.ogashuzo.com/brands/ohga/",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product"
+          },
+          {
+            "field": "flavorProfile.sweetness",
+            "value": "辛口",
+            "sourceUrl": "https://www.ogashuzo.com/brands/ohga/",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product"
+          },
+          {
+            "field": "flavorProfile.body",
+            "value": "淡麗",
+            "sourceUrl": "https://www.ogashuzo.com/brands/ohga/",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product"
+          },
+          {
+            "field": "flavorProfile.finish",
+            "value": "すっきり",
+            "sourceUrl": "https://www.ogashuzo.com/brands/ohga/",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product"
+          },
+          {
+            "field": "classification.junmai",
+            "value": true,
+            "sourceUrl": "https://www.ogashuzo.com/brands/ohga/",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "直接確認した特定名称純米吟醸酒の排他・親子関係を正規化。当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product",
+            "derivedFrom": "classification.tokuteiMeishoshu"
+          },
+          {
+            "field": "classification.nonJunmai",
+            "value": false,
+            "sourceUrl": "https://www.ogashuzo.com/brands/ohga/",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "直接確認した特定名称純米吟醸酒の排他・親子関係を正規化。当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product",
+            "derivedFrom": "classification.tokuteiMeishoshu"
+          },
+          {
+            "field": "classification.ginjo",
+            "value": false,
+            "sourceUrl": "https://www.ogashuzo.com/brands/ohga/",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "直接確認した特定名称純米吟醸酒の排他・親子関係を正規化。当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product",
+            "derivedFrom": "classification.tokuteiMeishoshu"
+          },
+          {
+            "field": "classification.junmaiGinjo",
+            "value": true,
+            "sourceUrl": "https://www.ogashuzo.com/brands/ohga/",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "直接確認した特定名称純米吟醸酒の排他・親子関係を正規化。当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product",
+            "derivedFrom": "classification.tokuteiMeishoshu"
+          },
+          {
+            "field": "classification.daiginjo",
+            "value": false,
+            "sourceUrl": "https://www.ogashuzo.com/brands/ohga/",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "直接確認した特定名称純米吟醸酒の排他・親子関係を正規化。当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product",
+            "derivedFrom": "classification.tokuteiMeishoshu"
+          },
+          {
+            "field": "classification.junmaiDaiginjo",
+            "value": false,
+            "sourceUrl": "https://www.ogashuzo.com/brands/ohga/",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "直接確認した特定名称純米吟醸酒の排他・親子関係を正規化。当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product",
+            "derivedFrom": "classification.tokuteiMeishoshu"
+          },
+          {
+            "field": "classification.ginjoFamily",
+            "value": true,
+            "sourceUrl": "https://www.ogashuzo.com/brands/ohga/",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "直接確認した特定名称純米吟醸酒の排他・親子関係を正規化。当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product",
+            "derivedFrom": "classification.tokuteiMeishoshu"
+          },
+          {
+            "field": "classification.daiginjoFamily",
+            "value": false,
+            "sourceUrl": "https://www.ogashuzo.com/brands/ohga/",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "直接確認した特定名称純米吟醸酒の排他・親子関係を正規化。当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product",
+            "derivedFrom": "classification.tokuteiMeishoshu"
+          }
+        ],
+        "sources": [
+          {
+            "url": "https://www.ogashuzo.com/brands/ohga/",
+            "type": "official",
+            "scope": "product",
+            "verifiedAt": "2026-10-20"
+          },
+          {
+            "url": "https://item.rakuten.co.jp/hasegawasaketen/1011873/",
+            "type": "rakuten_retail",
+            "scope": "product",
+            "verifiedAt": "2026-10-20"
+          }
+        ],
+        "servingTemperatures": [],
+        "officialPairings": [],
+        "pairingEvidence": [],
+        "dataConfidence": "high",
+        "needsIdentification": false,
+        "auditNotes": [
+          "玉出泉とは別銘柄の朝日米シリーズ。保管のクール便指定だけから飲用温度を作らない。"
+        ],
+        "lastVerifiedAt": "2026-10-20",
+        "researchPhase": "historical-fallback",
+        "auditPhase": "historical-fallback",
+        "sourceAttempts": [],
+        "recommendedTemperatureRange": [],
+        "temperatureRecommendations": [],
+        "aromaNotes": [],
+        "tasteNotes": [],
+        "featureTags": [
+          "辛口",
+          "淡麗",
+          "すっきり"
+        ],
+        "shortDescription": "岡山の朝日米で醸す、淡麗な辛口。すっきりした飲み口とほどよい味わいを楽しむ、大賀の純米吟醸です。"
+      },
+      "editorialPairingEvidence": [
+        {
+          "dish": "焼き鮭",
+          "reason": "焼き鮭と、淡麗な辛口の大賀を。いつもの魚料理から試したい組み合わせです。",
+          "provenance": "yoiEditorial",
+          "sourceUrls": [
+            "https://www.ogashuzo.com/brands/ohga/",
+            "https://item.rakuten.co.jp/hasegawasaketen/1011873/"
+          ],
+          "dishEvidence": {
+            "foodId": "item-avnlz1"
+          },
+          "sourceScope": "当該SKUの根拠のある特徴と既存の料理DBから今回新規に作成した編集提案。公式・口コミ推奨ではない。"
+        },
+        {
+          "dish": "鶏の唐揚げ",
+          "reason": "唐揚げのあとに、すっきりした大賀をひと口。軽快な飲み口を料理と一緒に楽しんで。",
+          "provenance": "yoiEditorial",
+          "sourceUrls": [
+            "https://www.ogashuzo.com/brands/ohga/",
+            "https://item.rakuten.co.jp/hasegawasaketen/1011873/"
+          ],
+          "dishEvidence": {
+            "foodId": "item-11txxuc",
+            "pairingProfile": {
+              "name": "鶏の唐揚げ",
+              "directions": [
+                "hearty",
+                "grilled"
+              ],
+              "method": "揚げ物",
+              "flavor": "鶏肉の旨味と衣の香ばしさ",
+              "oily": true,
+              "rich": true
+            }
+          },
+          "sourceScope": "当該SKUの根拠のある特徴と既存の料理DBから今回新規に作成した編集提案。公式・口コミ推奨ではない。"
+        },
+        {
+          "dish": "冷奴",
+          "reason": "冷奴をつまみに、辛口の一杯を。ゆっくり交互に味わう、日々の食卓への提案です。",
+          "provenance": "yoiEditorial",
+          "sourceUrls": [
+            "https://www.ogashuzo.com/brands/ohga/",
+            "https://item.rakuten.co.jp/hasegawasaketen/1011873/"
+          ],
+          "dishEvidence": {
+            "foodId": "item-1gwo1eu",
+            "pairingProfile": {
+              "name": "冷奴",
+              "directions": [
+                "fresh",
+                "small"
+              ],
+              "method": "豆腐料理",
+              "flavor": "豆腐と薬味のさっぱりした味",
+              "delicate": true
+            }
+          },
+          "sourceScope": "当該SKUの根拠のある特徴と既存の料理DBから今回新規に作成した編集提案。公式・口コミ推奨ではない。"
+        }
+      ],
+      "communityEvidence": [],
+      "sensoryConsensus": {
+        "fields": {
+          "sweetness": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "acidity": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "umami": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "aroma": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "body": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "finish": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "bitterness": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "carbonation": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "alcoholImpression": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          }
+        },
+        "acceptedEvidenceIds": [],
+        "excluded": [],
+        "provenance": "editorial_sensory_consensus",
+        "notVerifiedSpecifications": true
+      },
+      "communityPairings": [],
+      "officialTemperature": [],
+      "retailerTemperature": [],
+      "communityTemperature": [],
+      "capacityMl": 1800
+    },
+    {
+      "id": "ryusei-muku-omachi-kimoto-current-v1",
+      "catalogVersion": "v1",
+      "productName": "龍勢 無垢の系譜 -雄町-",
+      "sake": "龍勢",
+      "brandName": "龍勢",
+      "brewery": "藤井酒造株式会社",
+      "prefecture": "広島県",
+      "region": "",
+      "areaGroup": "",
+      "style": [
+        "純米酒",
+        "生酛"
+      ],
+      "taste": [
+        "力強い味わい",
+        "旨味",
+        "甘味"
+      ],
+      "temperature": [
+        "常温",
+        "燗酒"
+      ],
+      "moods": [],
+      "dishes": [
+        "豚の角煮",
+        "肉じゃが",
+        "おでん"
+      ],
+      "yoiPairings": [
+        "豚の角煮",
+        "肉じゃが",
+        "おでん"
+      ],
+      "dishCategories": [],
+      "nightType": "",
+      "essay": "",
+      "productUrl": "https://www.fujiishuzou.com/products/muku",
+      "officialUrl": "https://www.fujiishuzou.com/products/muku",
+      "officialPairings": [
+        "煮込み料理",
+        "ジビエ",
+        "味噌を使った料理"
+      ],
+      "sources": [
+        {
+          "url": "https://www.fujiishuzou.com/products/muku",
+          "type": "official",
+          "scope": "product",
+          "verifiedAt": "2026-10-20"
+        },
+        {
+          "url": "https://item.rakuten.co.jp/ichiishop/8274212/",
+          "type": "rakuten_retail",
+          "scope": "product",
+          "verifiedAt": "2026-10-20"
+        }
+      ],
+      "purchaseLinks": [],
+      "dataConfidence": "high",
+      "needsIdentification": false,
+      "sakeResearch": {
+        "id": "ryusei-muku-omachi-kimoto-current-v1",
+        "registeredName": "龍勢 無垢の系譜 -雄町-",
+        "identity": {
+          "productName": "龍勢 無垢の系譜 -雄町-",
+          "brandName": "龍勢",
+          "brewery": "藤井酒造株式会社",
+          "prefecture": "広島県",
+          "officialProductUrl": "https://www.fujiishuzou.com/products/muku"
+        },
+        "classification": {
+          "ginjo": false,
+          "junmaiGinjo": false,
+          "daiginjo": false,
+          "junmaiDaiginjo": false,
+          "ginjoFamily": false,
+          "daiginjoFamily": false,
+          "aged": null,
+          "tokuteiMeishoshu": "純米酒",
+          "junmai": true,
+          "nonJunmai": false,
+          "kimoto": true,
+          "yamahai": null,
+          "nama": false,
+          "hiire": true,
+          "nigori": null,
+          "sparkling": null,
+          "genshu": null,
+          "muroka": null
+        },
+        "specs": {
+          "ingredients": [],
+          "riceVariety": [
+            "雄町"
+          ],
+          "riceOrigin": null,
+          "riceByRole": null,
+          "polishingRatio": "60%",
+          "polishingByRole": null,
+          "alcoholPercentage": "15%",
+          "nihonshudo": null,
+          "acidity": null,
+          "aminoAcidValue": null,
+          "yeast": "蔵付き酵母（酵母無添加）",
+          "waterSource": "竹原の地下水",
+          "kojiMold": null,
+          "agingPeriod": null,
+          "agingTemperature": null
+        },
+        "flavorProfile": {
+          "sweetness": "甘味",
+          "aroma": null,
+          "umami": "旨味",
+          "acidity": null,
+          "body": "力強い味わい",
+          "finish": null
+        },
+        "verifiedFeatureTags": [
+          "力強い味わい",
+          "旨味",
+          "甘味"
+        ],
+        "editorialTags": [],
+        "featureEvidence": [
+          {
+            "feature": "力強い味わい",
+            "sourceUrl": "https://www.fujiishuzou.com/products/muku",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "常温で感じる旨みの芯が、温めるとふくらむ。雄町を蔵の微生物で醸す、力強い味わいの純米酒です。",
+            "productScope": "product"
+          },
+          {
+            "feature": "旨味",
+            "sourceUrl": "https://www.fujiishuzou.com/products/muku",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "常温で感じる旨みの芯が、温めるとふくらむ。雄町を蔵の微生物で醸す、力強い味わいの純米酒です。",
+            "productScope": "product"
+          },
+          {
+            "feature": "甘味",
+            "sourceUrl": "https://www.fujiishuzou.com/products/muku",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "常温で感じる旨みの芯が、温めるとふくらむ。雄町を蔵の微生物で醸す、力強い味わいの純米酒です。",
+            "productScope": "product"
+          }
+        ],
+        "fieldEvidence": [
+          {
+            "field": "identity.productName",
+            "value": "龍勢 無垢の系譜 -雄町-",
+            "sourceUrl": "https://www.fujiishuzou.com/products/muku",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product"
+          },
+          {
+            "field": "identity.brandName",
+            "value": "龍勢",
+            "sourceUrl": "https://www.fujiishuzou.com/products/muku",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product"
+          },
+          {
+            "field": "identity.brewery",
+            "value": "藤井酒造株式会社",
+            "sourceUrl": "https://www.fujiishuzou.com/products/muku",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product"
+          },
+          {
+            "field": "identity.prefecture",
+            "value": "広島県",
+            "sourceUrl": "https://www.fujiishuzou.com/products/muku",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product"
+          },
+          {
+            "field": "identity.officialProductUrl",
+            "value": "https://www.fujiishuzou.com/products/muku",
+            "sourceUrl": "https://www.fujiishuzou.com/products/muku",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product"
+          },
+          {
+            "field": "classification.tokuteiMeishoshu",
+            "value": "純米酒",
+            "sourceUrl": "https://www.fujiishuzou.com/products/muku",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product"
+          },
+          {
+            "field": "classification.kimoto",
+            "value": true,
+            "sourceUrl": "https://www.fujiishuzou.com/products/muku",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product"
+          },
+          {
+            "field": "classification.hiire",
+            "value": true,
+            "sourceUrl": "https://www.fujiishuzou.com/products/muku",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product"
+          },
+          {
+            "field": "classification.nama",
+            "value": false,
+            "sourceUrl": "https://www.fujiishuzou.com/products/muku",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product"
+          },
+          {
+            "field": "specs.riceVariety",
+            "value": [
+              "雄町"
+            ],
+            "sourceUrl": "https://www.fujiishuzou.com/products/muku",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product"
+          },
+          {
+            "field": "specs.polishingRatio",
+            "value": "60%",
+            "sourceUrl": "https://www.fujiishuzou.com/products/muku",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product"
+          },
+          {
+            "field": "specs.alcoholPercentage",
+            "value": "15%",
+            "sourceUrl": "https://www.fujiishuzou.com/products/muku",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product"
+          },
+          {
+            "field": "specs.yeast",
+            "value": "蔵付き酵母（酵母無添加）",
+            "sourceUrl": "https://www.fujiishuzou.com/products/muku",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product"
+          },
+          {
+            "field": "specs.waterSource",
+            "value": "竹原の地下水",
+            "sourceUrl": "https://www.fujiishuzou.com/products/muku",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product"
+          },
+          {
+            "field": "flavorProfile.body",
+            "value": "力強い味わい",
+            "sourceUrl": "https://www.fujiishuzou.com/products/muku",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product"
+          },
+          {
+            "field": "flavorProfile.umami",
+            "value": "旨味",
+            "sourceUrl": "https://www.fujiishuzou.com/products/muku",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product"
+          },
+          {
+            "field": "flavorProfile.sweetness",
+            "value": "甘味",
+            "sourceUrl": "https://www.fujiishuzou.com/products/muku",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product"
+          },
+          {
+            "field": "servingTemperatures",
+            "value": [
+              "常温",
+              "燗酒"
+            ],
+            "sourceUrl": "https://www.fujiishuzou.com/products/muku",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product"
+          },
+          {
+            "field": "classification.junmai",
+            "value": true,
+            "sourceUrl": "https://www.fujiishuzou.com/products/muku",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "直接確認した特定名称純米酒の排他・親子関係を正規化。当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product",
+            "derivedFrom": "classification.tokuteiMeishoshu"
+          },
+          {
+            "field": "classification.nonJunmai",
+            "value": false,
+            "sourceUrl": "https://www.fujiishuzou.com/products/muku",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "直接確認した特定名称純米酒の排他・親子関係を正規化。当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product",
+            "derivedFrom": "classification.tokuteiMeishoshu"
+          },
+          {
+            "field": "classification.ginjo",
+            "value": false,
+            "sourceUrl": "https://www.fujiishuzou.com/products/muku",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "直接確認した特定名称純米酒の排他・親子関係を正規化。当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product",
+            "derivedFrom": "classification.tokuteiMeishoshu"
+          },
+          {
+            "field": "classification.junmaiGinjo",
+            "value": false,
+            "sourceUrl": "https://www.fujiishuzou.com/products/muku",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "直接確認した特定名称純米酒の排他・親子関係を正規化。当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product",
+            "derivedFrom": "classification.tokuteiMeishoshu"
+          },
+          {
+            "field": "classification.daiginjo",
+            "value": false,
+            "sourceUrl": "https://www.fujiishuzou.com/products/muku",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "直接確認した特定名称純米酒の排他・親子関係を正規化。当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product",
+            "derivedFrom": "classification.tokuteiMeishoshu"
+          },
+          {
+            "field": "classification.junmaiDaiginjo",
+            "value": false,
+            "sourceUrl": "https://www.fujiishuzou.com/products/muku",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "直接確認した特定名称純米酒の排他・親子関係を正規化。当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product",
+            "derivedFrom": "classification.tokuteiMeishoshu"
+          },
+          {
+            "field": "classification.ginjoFamily",
+            "value": false,
+            "sourceUrl": "https://www.fujiishuzou.com/products/muku",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "直接確認した特定名称純米酒の排他・親子関係を正規化。当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product",
+            "derivedFrom": "classification.tokuteiMeishoshu"
+          },
+          {
+            "field": "classification.daiginjoFamily",
+            "value": false,
+            "sourceUrl": "https://www.fujiishuzou.com/products/muku",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "直接確認した特定名称純米酒の排他・親子関係を正規化。当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product",
+            "derivedFrom": "classification.tokuteiMeishoshu"
+          }
+        ],
+        "sources": [
+          {
+            "url": "https://www.fujiishuzou.com/products/muku",
+            "type": "official",
+            "scope": "product",
+            "verifiedAt": "2026-10-20"
+          },
+          {
+            "url": "https://item.rakuten.co.jp/ichiishop/8274212/",
+            "type": "rakuten_retail",
+            "scope": "product",
+            "verifiedAt": "2026-10-20"
+          }
+        ],
+        "servingTemperatures": [
+          "常温",
+          "燗酒"
+        ],
+        "officialPairings": [
+          "煮込み料理",
+          "ジビエ",
+          "味噌を使った料理"
+        ],
+        "pairingEvidence": [
+          {
+            "field": "officialPairings",
+            "value": "煮込み料理",
+            "sourceUrl": "https://www.fujiishuzou.com/products/muku",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product",
+            "dish": "煮込み料理"
+          },
+          {
+            "field": "officialPairings",
+            "value": "ジビエ",
+            "sourceUrl": "https://www.fujiishuzou.com/products/muku",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product",
+            "dish": "ジビエ"
+          },
+          {
+            "field": "officialPairings",
+            "value": "味噌を使った料理",
+            "sourceUrl": "https://www.fujiishuzou.com/products/muku",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product",
+            "dish": "味噌を使った料理"
+          }
+        ],
+        "dataConfidence": "high",
+        "needsIdentification": false,
+        "auditNotes": [
+          "熟成純米65%の商品とは別の、無垢の系譜60%の現行SKU。旧商品の熟成香や料理をコピーしない。"
+        ],
+        "lastVerifiedAt": "2026-10-20",
+        "researchPhase": "historical-fallback",
+        "auditPhase": "historical-fallback",
+        "sourceAttempts": [],
+        "recommendedTemperatureRange": [],
+        "temperatureRecommendations": [],
+        "aromaNotes": [],
+        "tasteNotes": [],
+        "featureTags": [
+          "力強い味わい",
+          "旨味",
+          "甘味"
+        ],
+        "shortDescription": "常温で感じる旨みの芯が、温めるとふくらむ。雄町を蔵の微生物で醸す、力強い味わいの純米酒です。"
+      },
+      "editorialPairingEvidence": [
+        {
+          "dish": "豚の角煮",
+          "reason": "角煮をつまみながら、力強い味わいの龍勢を。蔵元の煮込み料理への提案から、家庭の一皿へ広げた組み合わせです。",
+          "provenance": "yoiEditorial",
+          "sourceUrls": [
+            "https://www.fujiishuzou.com/products/muku",
+            "https://item.rakuten.co.jp/ichiishop/8274212/"
+          ],
+          "dishEvidence": {
+            "foodId": "item-1abl20d"
+          },
+          "sourceScope": "当該SKUの根拠のある特徴と既存の料理DBから今回新規に作成した編集提案。公式・口コミ推奨ではない。"
+        },
+        {
+          "dish": "肉じゃが",
+          "reason": "肉じゃがと、温めるとふくらむ雄町の旨みを。ゆっくりと交互に楽しむ提案です。",
+          "provenance": "yoiEditorial",
+          "sourceUrls": [
+            "https://www.fujiishuzou.com/products/muku",
+            "https://item.rakuten.co.jp/ichiishop/8274212/"
+          ],
+          "dishEvidence": {
+            "foodId": "item-13w7k4b",
+            "pairingProfile": {
+              "name": "肉じゃが",
+              "directions": [
+                "warm",
+                "hearty",
+                "comfort"
+              ],
+              "method": "煮物",
+              "flavor": "甘辛い煮汁",
+              "rich": true
+            }
+          },
+          "sourceScope": "当該SKUの根拠のある特徴と既存の料理DBから今回新規に作成した編集提案。公式・口コミ推奨ではない。"
+        },
+        {
+          "dish": "おでん",
+          "reason": "おでんの湯気のそばに、常温から燗で楽しむ龍勢を。好みの温度で旨みを味わって。",
+          "provenance": "yoiEditorial",
+          "sourceUrls": [
+            "https://www.fujiishuzou.com/products/muku",
+            "https://item.rakuten.co.jp/ichiishop/8274212/"
+          ],
+          "dishEvidence": {
+            "foodId": "item-ohud5z"
+          },
+          "sourceScope": "当該SKUの根拠のある特徴と既存の料理DBから今回新規に作成した編集提案。公式・口コミ推奨ではない。"
+        }
+      ],
+      "communityEvidence": [],
+      "sensoryConsensus": {
+        "fields": {
+          "sweetness": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "acidity": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "umami": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "aroma": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "body": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "finish": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "bitterness": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "carbonation": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "alcoholImpression": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          }
+        },
+        "acceptedEvidenceIds": [],
+        "excluded": [],
+        "provenance": "editorial_sensory_consensus",
+        "notVerifiedSpecifications": true
+      },
+      "communityPairings": [],
+      "officialTemperature": [
+        "常温",
+        "燗酒"
+      ],
+      "retailerTemperature": [],
+      "communityTemperature": [],
+      "capacityMl": 1800
+    },
+    {
+      "id": "kameman-nigori-genshu-current-v1",
+      "catalogVersion": "v1",
+      "productName": "亀萬 にごり原酒",
+      "sake": "亀萬",
+      "brandName": "亀萬",
+      "brewery": "亀萬酒造合資会社",
+      "prefecture": "熊本県",
+      "region": "",
+      "areaGroup": "",
+      "style": [
+        "にごり原酒",
+        "原酒",
+        "にごり酒"
+      ],
+      "taste": [
+        "米の甘味",
+        "ほどよい酸味",
+        "コク"
+      ],
+      "temperature": [
+        "冷酒"
+      ],
+      "moods": [],
+      "dishes": [
+        "鶏の唐揚げ",
+        "豚の角煮",
+        "冷奴"
+      ],
+      "yoiPairings": [
+        "鶏の唐揚げ",
+        "豚の角煮",
+        "冷奴"
+      ],
+      "dishCategories": [],
+      "nightType": "",
+      "essay": "",
+      "productUrl": "https://www.kameman.co.jp/products/detail.php?product_id=89",
+      "officialUrl": "https://www.kameman.co.jp/products/detail.php?product_id=89",
+      "officialPairings": [],
+      "sources": [
+        {
+          "url": "https://www.kameman.co.jp/products/detail.php?product_id=89",
+          "type": "official",
+          "scope": "product",
+          "verifiedAt": "2026-10-20"
+        },
+        {
+          "url": "https://item.rakuten.co.jp/landb-ikedasakaya/10000045/",
+          "type": "rakuten_retail",
+          "scope": "product",
+          "verifiedAt": "2026-10-20"
+        }
+      ],
+      "purchaseLinks": [],
+      "dataConfidence": "high",
+      "needsIdentification": false,
+      "sakeResearch": {
+        "id": "kameman-nigori-genshu-current-v1",
+        "registeredName": "亀萬 にごり原酒",
+        "identity": {
+          "productName": "亀萬 にごり原酒",
+          "brandName": "亀萬",
+          "brewery": "亀萬酒造合資会社",
+          "prefecture": "熊本県",
+          "officialProductUrl": "https://www.kameman.co.jp/products/detail.php?product_id=89"
+        },
+        "classification": {
+          "tokuteiMeishoshu": null,
+          "junmai": null,
+          "nonJunmai": null,
+          "ginjo": null,
+          "junmaiGinjo": null,
+          "daiginjo": null,
+          "junmaiDaiginjo": null,
+          "ginjoFamily": null,
+          "daiginjoFamily": null,
+          "kimoto": null,
+          "yamahai": null,
+          "nama": null,
+          "hiire": null,
+          "nigori": true,
+          "sparkling": null,
+          "genshu": true,
+          "muroka": null,
+          "aged": null
+        },
+        "specs": {
+          "ingredients": [],
+          "riceVariety": [
+            "華錦",
+            "アキマサリ"
+          ],
+          "riceOrigin": null,
+          "riceByRole": null,
+          "polishingRatio": null,
+          "polishingByRole": null,
+          "alcoholPercentage": "18度",
+          "nihonshudo": null,
+          "acidity": null,
+          "aminoAcidValue": null,
+          "yeast": null,
+          "waterSource": null,
+          "kojiMold": null,
+          "agingPeriod": null,
+          "agingTemperature": null
+        },
+        "flavorProfile": {
+          "sweetness": "米の甘味",
+          "aroma": null,
+          "umami": null,
+          "acidity": "ほどよい酸味",
+          "body": "コク",
+          "finish": null
+        },
+        "verifiedFeatureTags": [
+          "米の甘味",
+          "ほどよい酸味",
+          "コク"
+        ],
+        "editorialTags": [],
+        "featureEvidence": [
+          {
+            "feature": "米の甘味",
+            "sourceUrl": "https://www.kameman.co.jp/products/detail.php?product_id=89",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "もろみの米粒を感じる、甘みとほどよい酸。冷やして、ロックでも楽しめる、亀萬のロングセラーです。",
+            "productScope": "product"
+          },
+          {
+            "feature": "ほどよい酸味",
+            "sourceUrl": "https://www.kameman.co.jp/products/detail.php?product_id=89",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "もろみの米粒を感じる、甘みとほどよい酸。冷やして、ロックでも楽しめる、亀萬のロングセラーです。",
+            "productScope": "product"
+          },
+          {
+            "feature": "コク",
+            "sourceUrl": "https://www.kameman.co.jp/products/detail.php?product_id=89",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "もろみの米粒を感じる、甘みとほどよい酸。冷やして、ロックでも楽しめる、亀萬のロングセラーです。",
+            "productScope": "product"
+          }
+        ],
+        "fieldEvidence": [
+          {
+            "field": "identity.productName",
+            "value": "亀萬 にごり原酒",
+            "sourceUrl": "https://www.kameman.co.jp/products/detail.php?product_id=89",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product"
+          },
+          {
+            "field": "identity.brandName",
+            "value": "亀萬",
+            "sourceUrl": "https://www.kameman.co.jp/products/detail.php?product_id=89",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product"
+          },
+          {
+            "field": "identity.brewery",
+            "value": "亀萬酒造合資会社",
+            "sourceUrl": "https://www.kameman.co.jp/products/detail.php?product_id=89",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product"
+          },
+          {
+            "field": "identity.prefecture",
+            "value": "熊本県",
+            "sourceUrl": "https://www.kameman.co.jp/products/detail.php?product_id=89",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product"
+          },
+          {
+            "field": "identity.officialProductUrl",
+            "value": "https://www.kameman.co.jp/products/detail.php?product_id=89",
+            "sourceUrl": "https://www.kameman.co.jp/products/detail.php?product_id=89",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product"
+          },
+          {
+            "field": "classification.genshu",
+            "value": true,
+            "sourceUrl": "https://www.kameman.co.jp/products/detail.php?product_id=89",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product"
+          },
+          {
+            "field": "classification.nigori",
+            "value": true,
+            "sourceUrl": "https://www.kameman.co.jp/products/detail.php?product_id=89",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product"
+          },
+          {
+            "field": "specs.riceVariety",
+            "value": [
+              "華錦",
+              "アキマサリ"
+            ],
+            "sourceUrl": "https://www.kameman.co.jp/products/detail.php?product_id=89",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product"
+          },
+          {
+            "field": "specs.alcoholPercentage",
+            "value": "18度",
+            "sourceUrl": "https://www.kameman.co.jp/products/detail.php?product_id=89",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product"
+          },
+          {
+            "field": "flavorProfile.sweetness",
+            "value": "米の甘味",
+            "sourceUrl": "https://www.kameman.co.jp/products/detail.php?product_id=89",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product"
+          },
+          {
+            "field": "flavorProfile.acidity",
+            "value": "ほどよい酸味",
+            "sourceUrl": "https://www.kameman.co.jp/products/detail.php?product_id=89",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product"
+          },
+          {
+            "field": "flavorProfile.body",
+            "value": "コク",
+            "sourceUrl": "https://www.kameman.co.jp/products/detail.php?product_id=89",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product"
+          },
+          {
+            "field": "servingTemperatures",
+            "value": [
+              "冷酒"
+            ],
+            "sourceUrl": "https://www.kameman.co.jp/products/detail.php?product_id=89",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product"
+          }
+        ],
+        "sources": [
+          {
+            "url": "https://www.kameman.co.jp/products/detail.php?product_id=89",
+            "type": "official",
+            "scope": "product",
+            "verifiedAt": "2026-10-20"
+          },
+          {
+            "url": "https://item.rakuten.co.jp/landb-ikedasakaya/10000045/",
+            "type": "rakuten_retail",
+            "scope": "product",
+            "verifiedAt": "2026-10-20"
+          }
+        ],
+        "servingTemperatures": [
+          "冷酒"
+        ],
+        "officialPairings": [],
+        "pairingEvidence": [],
+        "dataConfidence": "high",
+        "needsIdentification": false,
+        "auditNotes": [
+          "PLUS 9辛口純米とは別SKU。公式がにごり原酒とするため、純米分類や生/火入れを推測しない。ロック・ソーダ割りは別途公式推奨として記録。"
+        ],
+        "lastVerifiedAt": "2026-10-20",
+        "researchPhase": "historical-fallback",
+        "auditPhase": "historical-fallback",
+        "sourceAttempts": [],
+        "recommendedTemperatureRange": [],
+        "temperatureRecommendations": [],
+        "aromaNotes": [],
+        "tasteNotes": [],
+        "featureTags": [
+          "米の甘味",
+          "ほどよい酸味",
+          "コク"
+        ],
+        "shortDescription": "もろみの米粒を感じる、甘みとほどよい酸。冷やして、ロックでも楽しめる、亀萬のロングセラーです。"
+      },
+      "editorialPairingEvidence": [
+        {
+          "dish": "鶏の唐揚げ",
+          "reason": "唐揚げと、甘みと酸のあるにごり原酒を。冷やした一杯から試す、宵の一献からの提案です。",
+          "provenance": "yoiEditorial",
+          "sourceUrls": [
+            "https://www.kameman.co.jp/products/detail.php?product_id=89",
+            "https://item.rakuten.co.jp/landb-ikedasakaya/10000045/"
+          ],
+          "dishEvidence": {
+            "foodId": "item-11txxuc",
+            "pairingProfile": {
+              "name": "鶏の唐揚げ",
+              "directions": [
+                "hearty",
+                "grilled"
+              ],
+              "method": "揚げ物",
+              "flavor": "鶏肉の旨味と衣の香ばしさ",
+              "oily": true,
+              "rich": true
+            }
+          },
+          "sourceScope": "当該SKUの根拠のある特徴と既存の料理DBから今回新規に作成した編集提案。公式・口コミ推奨ではない。"
+        },
+        {
+          "dish": "豚の角煮",
+          "reason": "角煮をつまみに、コクのある亀萬を少しずつ。料理と一杯をゆっくり味わって。",
+          "provenance": "yoiEditorial",
+          "sourceUrls": [
+            "https://www.kameman.co.jp/products/detail.php?product_id=89",
+            "https://item.rakuten.co.jp/landb-ikedasakaya/10000045/"
+          ],
+          "dishEvidence": {
+            "foodId": "item-1abl20d"
+          },
+          "sourceScope": "当該SKUの根拠のある特徴と既存の料理DBから今回新規に作成した編集提案。公式・口コミ推奨ではない。"
+        },
+        {
+          "dish": "冷奴",
+          "reason": "冷奴を添えて、米粒の食感も残るにごりを。お酒の甘みと酸に目を向ける組み合わせです。",
+          "provenance": "yoiEditorial",
+          "sourceUrls": [
+            "https://www.kameman.co.jp/products/detail.php?product_id=89",
+            "https://item.rakuten.co.jp/landb-ikedasakaya/10000045/"
+          ],
+          "dishEvidence": {
+            "foodId": "item-1gwo1eu",
+            "pairingProfile": {
+              "name": "冷奴",
+              "directions": [
+                "fresh",
+                "small"
+              ],
+              "method": "豆腐料理",
+              "flavor": "豆腐と薬味のさっぱりした味",
+              "delicate": true
+            }
+          },
+          "sourceScope": "当該SKUの根拠のある特徴と既存の料理DBから今回新規に作成した編集提案。公式・口コミ推奨ではない。"
+        }
+      ],
+      "communityEvidence": [],
+      "sensoryConsensus": {
+        "fields": {
+          "sweetness": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "acidity": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "umami": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "aroma": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "body": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "finish": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "bitterness": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "carbonation": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "alcoholImpression": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          }
+        },
+        "acceptedEvidenceIds": [],
+        "excluded": [],
+        "provenance": "editorial_sensory_consensus",
+        "notVerifiedSpecifications": true
+      },
+      "communityPairings": [],
+      "officialTemperature": [
+        "冷酒"
+      ],
+      "retailerTemperature": [],
+      "communityTemperature": [],
+      "capacityMl": 720
+    },
+    {
+      "id": "hiokizakura-tokujo-junmai-omachi-current-v1",
+      "catalogVersion": "v1",
+      "productName": "日置桜 特醸純米酒",
+      "sake": "日置桜",
+      "brandName": "日置桜",
+      "brewery": "有限会社山根酒造場",
+      "prefecture": "鳥取県",
+      "region": "",
+      "areaGroup": "",
+      "style": [
+        "純米酒"
+      ],
+      "taste": [
+        "黒糖を思わせる香り",
+        "甘味",
+        "長い余韻"
+      ],
+      "temperature": [],
+      "moods": [],
+      "dishes": [
+        "豚の角煮",
+        "鶏の照り焼き",
+        "肉じゃが"
+      ],
+      "yoiPairings": [
+        "豚の角煮",
+        "鶏の照り焼き",
+        "肉じゃが"
+      ],
+      "dishCategories": [],
+      "nightType": "",
+      "essay": "",
+      "productUrl": "https://hiokizakura.jp/sake/sake_general",
+      "officialUrl": "https://hiokizakura.jp/sake/sake_general",
+      "officialPairings": [
+        "味付けの濃い料理"
+      ],
+      "sources": [
+        {
+          "url": "https://hiokizakura.jp/sake/sake_general",
+          "type": "official",
+          "scope": "product",
+          "verifiedAt": "2026-10-20"
+        },
+        {
+          "url": "https://item.rakuten.co.jp/gottuou/1520601/",
+          "type": "rakuten_retail",
+          "scope": "product",
+          "verifiedAt": "2026-10-20"
+        }
+      ],
+      "purchaseLinks": [],
+      "dataConfidence": "high",
+      "needsIdentification": false,
+      "sakeResearch": {
+        "id": "hiokizakura-tokujo-junmai-omachi-current-v1",
+        "registeredName": "日置桜 特醸純米酒",
+        "identity": {
+          "productName": "日置桜 特醸純米酒",
+          "brandName": "日置桜",
+          "brewery": "有限会社山根酒造場",
+          "prefecture": "鳥取県",
+          "officialProductUrl": "https://hiokizakura.jp/sake/sake_general"
+        },
+        "classification": {
+          "ginjo": false,
+          "junmaiGinjo": false,
+          "daiginjo": false,
+          "junmaiDaiginjo": false,
+          "ginjoFamily": false,
+          "daiginjoFamily": false,
+          "aged": null,
+          "tokuteiMeishoshu": "純米酒",
+          "junmai": true,
+          "nonJunmai": false,
+          "kimoto": null,
+          "yamahai": null,
+          "nama": null,
+          "hiire": null,
+          "nigori": null,
+          "sparkling": null,
+          "genshu": null,
+          "muroka": null
+        },
+        "specs": {
+          "ingredients": [],
+          "riceVariety": [
+            "雄町"
+          ],
+          "riceOrigin": null,
+          "riceByRole": null,
+          "polishingRatio": "60%",
+          "polishingByRole": null,
+          "alcoholPercentage": "15度",
+          "nihonshudo": "+9.5",
+          "acidity": null,
+          "aminoAcidValue": null,
+          "yeast": null,
+          "waterSource": null,
+          "kojiMold": null,
+          "agingPeriod": null,
+          "agingTemperature": null
+        },
+        "flavorProfile": {
+          "sweetness": "甘味",
+          "aroma": "黒糖を思わせる香り",
+          "umami": null,
+          "acidity": null,
+          "body": null,
+          "finish": "長い余韻"
+        },
+        "verifiedFeatureTags": [
+          "黒糖を思わせる香り",
+          "甘味",
+          "長い余韻"
+        ],
+        "editorialTags": [],
+        "featureEvidence": [
+          {
+            "feature": "黒糖を思わせる香り",
+            "sourceUrl": "https://hiokizakura.jp/sake/sake_general",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "黒糖を思わせる香りと甘み、伸びやかな余韻。雄町を使った特醸純米を、味のある一皿とゆっくり。",
+            "productScope": "product"
+          },
+          {
+            "feature": "甘味",
+            "sourceUrl": "https://hiokizakura.jp/sake/sake_general",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "黒糖を思わせる香りと甘み、伸びやかな余韻。雄町を使った特醸純米を、味のある一皿とゆっくり。",
+            "productScope": "product"
+          },
+          {
+            "feature": "長い余韻",
+            "sourceUrl": "https://hiokizakura.jp/sake/sake_general",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "黒糖を思わせる香りと甘み、伸びやかな余韻。雄町を使った特醸純米を、味のある一皿とゆっくり。",
+            "productScope": "product"
+          }
+        ],
+        "fieldEvidence": [
+          {
+            "field": "identity.productName",
+            "value": "日置桜 特醸純米酒",
+            "sourceUrl": "https://hiokizakura.jp/sake/sake_general",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product"
+          },
+          {
+            "field": "identity.brandName",
+            "value": "日置桜",
+            "sourceUrl": "https://hiokizakura.jp/sake/sake_general",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product"
+          },
+          {
+            "field": "identity.brewery",
+            "value": "有限会社山根酒造場",
+            "sourceUrl": "https://hiokizakura.jp/sake/sake_general",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product"
+          },
+          {
+            "field": "identity.prefecture",
+            "value": "鳥取県",
+            "sourceUrl": "https://hiokizakura.jp/sake/sake_general",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product"
+          },
+          {
+            "field": "identity.officialProductUrl",
+            "value": "https://hiokizakura.jp/sake/sake_general",
+            "sourceUrl": "https://hiokizakura.jp/sake/sake_general",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product"
+          },
+          {
+            "field": "classification.tokuteiMeishoshu",
+            "value": "純米酒",
+            "sourceUrl": "https://hiokizakura.jp/sake/sake_general",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product"
+          },
+          {
+            "field": "specs.riceVariety",
+            "value": [
+              "雄町"
+            ],
+            "sourceUrl": "https://hiokizakura.jp/sake/sake_general",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product"
+          },
+          {
+            "field": "specs.polishingRatio",
+            "value": "60%",
+            "sourceUrl": "https://hiokizakura.jp/sake/sake_general",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product"
+          },
+          {
+            "field": "specs.alcoholPercentage",
+            "value": "15度",
+            "sourceUrl": "https://hiokizakura.jp/sake/sake_general",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product"
+          },
+          {
+            "field": "specs.nihonshudo",
+            "value": "+9.5",
+            "sourceUrl": "https://hiokizakura.jp/sake/sake_general",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product"
+          },
+          {
+            "field": "flavorProfile.aroma",
+            "value": "黒糖を思わせる香り",
+            "sourceUrl": "https://hiokizakura.jp/sake/sake_general",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product"
+          },
+          {
+            "field": "flavorProfile.sweetness",
+            "value": "甘味",
+            "sourceUrl": "https://hiokizakura.jp/sake/sake_general",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product"
+          },
+          {
+            "field": "flavorProfile.finish",
+            "value": "長い余韻",
+            "sourceUrl": "https://hiokizakura.jp/sake/sake_general",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product"
+          },
+          {
+            "field": "classification.junmai",
+            "value": true,
+            "sourceUrl": "https://hiokizakura.jp/sake/sake_general",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "直接確認した特定名称純米酒の排他・親子関係を正規化。当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product",
+            "derivedFrom": "classification.tokuteiMeishoshu"
+          },
+          {
+            "field": "classification.nonJunmai",
+            "value": false,
+            "sourceUrl": "https://hiokizakura.jp/sake/sake_general",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "直接確認した特定名称純米酒の排他・親子関係を正規化。当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product",
+            "derivedFrom": "classification.tokuteiMeishoshu"
+          },
+          {
+            "field": "classification.ginjo",
+            "value": false,
+            "sourceUrl": "https://hiokizakura.jp/sake/sake_general",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "直接確認した特定名称純米酒の排他・親子関係を正規化。当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product",
+            "derivedFrom": "classification.tokuteiMeishoshu"
+          },
+          {
+            "field": "classification.junmaiGinjo",
+            "value": false,
+            "sourceUrl": "https://hiokizakura.jp/sake/sake_general",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "直接確認した特定名称純米酒の排他・親子関係を正規化。当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product",
+            "derivedFrom": "classification.tokuteiMeishoshu"
+          },
+          {
+            "field": "classification.daiginjo",
+            "value": false,
+            "sourceUrl": "https://hiokizakura.jp/sake/sake_general",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "直接確認した特定名称純米酒の排他・親子関係を正規化。当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product",
+            "derivedFrom": "classification.tokuteiMeishoshu"
+          },
+          {
+            "field": "classification.junmaiDaiginjo",
+            "value": false,
+            "sourceUrl": "https://hiokizakura.jp/sake/sake_general",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "直接確認した特定名称純米酒の排他・親子関係を正規化。当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product",
+            "derivedFrom": "classification.tokuteiMeishoshu"
+          },
+          {
+            "field": "classification.ginjoFamily",
+            "value": false,
+            "sourceUrl": "https://hiokizakura.jp/sake/sake_general",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "直接確認した特定名称純米酒の排他・親子関係を正規化。当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product",
+            "derivedFrom": "classification.tokuteiMeishoshu"
+          },
+          {
+            "field": "classification.daiginjoFamily",
+            "value": false,
+            "sourceUrl": "https://hiokizakura.jp/sake/sake_general",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "直接確認した特定名称純米酒の排他・親子関係を正規化。当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product",
+            "derivedFrom": "classification.tokuteiMeishoshu"
+          }
+        ],
+        "sources": [
+          {
+            "url": "https://hiokizakura.jp/sake/sake_general",
+            "type": "official",
+            "scope": "product",
+            "verifiedAt": "2026-10-20"
+          },
+          {
+            "url": "https://item.rakuten.co.jp/gottuou/1520601/",
+            "type": "rakuten_retail",
+            "scope": "product",
+            "verifiedAt": "2026-10-20"
+          }
+        ],
+        "servingTemperatures": [],
+        "officialPairings": [
+          "味付けの濃い料理"
+        ],
+        "pairingEvidence": [
+          {
+            "field": "officialPairings",
+            "value": "味付けの濃い料理",
+            "sourceUrl": "https://hiokizakura.jp/sake/sake_general",
+            "sourceType": "official",
+            "verifiedAt": "2026-10-20",
+            "meaning": "当該SKUの商品欄。別商品・別年度の値を補完しない。",
+            "productScope": "product",
+            "dish": "味付けの濃い料理"
+          }
+        ],
+        "dataConfidence": "high",
+        "needsIdentification": false,
+        "auditNotes": [
+          "旧生酛強力・生酛玉栄とは別SKU。小売本文冒頭の純米吟醸という混入文より、公式商品欄・現物ラベル・販売タイトルと成分表の純米を優先。小売日本酒度+11.5は差分として残し、公式+9.5と混成しない。"
+        ],
+        "lastVerifiedAt": "2026-10-20",
+        "researchPhase": "historical-fallback",
+        "auditPhase": "historical-fallback",
+        "sourceAttempts": [],
+        "recommendedTemperatureRange": [],
+        "temperatureRecommendations": [],
+        "aromaNotes": [],
+        "tasteNotes": [],
+        "featureTags": [
+          "黒糖を思わせる香り",
+          "甘味",
+          "長い余韻"
+        ],
+        "shortDescription": "黒糖を思わせる香りと甘み、伸びやかな余韻。雄町を使った特醸純米を、味のある一皿とゆっくり。"
+      },
+      "editorialPairingEvidence": [
+        {
+          "dish": "豚の角煮",
+          "reason": "角煮と、黒糖を思わせる香りの日置桜を。蔵元が挙げる味付けの濃い料理から考えた、家庭での提案です。",
+          "provenance": "yoiEditorial",
+          "sourceUrls": [
+            "https://hiokizakura.jp/sake/sake_general",
+            "https://item.rakuten.co.jp/gottuou/1520601/"
+          ],
+          "dishEvidence": {
+            "foodId": "item-1abl20d"
+          },
+          "sourceScope": "当該SKUの根拠のある特徴と既存の料理DBから今回新規に作成した編集提案。公式・口コミ推奨ではない。"
+        },
+        {
+          "dish": "鶏の照り焼き",
+          "reason": "照り焼きをひと口、そのあとに長い余韻の一杯。料理とお酒の味わいを急がず楽しんで。",
+          "provenance": "yoiEditorial",
+          "sourceUrls": [
+            "https://hiokizakura.jp/sake/sake_general",
+            "https://item.rakuten.co.jp/gottuou/1520601/"
+          ],
+          "dishEvidence": {
+            "foodId": "item-1i89m16",
+            "pairingProfile": {
+              "name": "鶏の照り焼き",
+              "directions": [
+                "hearty",
+                "grilled"
+              ],
+              "method": "焼き物",
+              "flavor": "甘辛いタレ",
+              "rich": true
+            }
+          },
+          "sourceScope": "当該SKUの根拠のある特徴と既存の料理DBから今回新規に作成した編集提案。公式・口コミ推奨ではない。"
+        },
+        {
+          "dish": "肉じゃが",
+          "reason": "肉じゃがをつまみながら、雄町の特醸純米を。甘みと余韻をゆっくり味わう組み合わせです。",
+          "provenance": "yoiEditorial",
+          "sourceUrls": [
+            "https://hiokizakura.jp/sake/sake_general",
+            "https://item.rakuten.co.jp/gottuou/1520601/"
+          ],
+          "dishEvidence": {
+            "foodId": "item-13w7k4b",
+            "pairingProfile": {
+              "name": "肉じゃが",
+              "directions": [
+                "warm",
+                "hearty",
+                "comfort"
+              ],
+              "method": "煮物",
+              "flavor": "甘辛い煮汁",
+              "rich": true
+            }
+          },
+          "sourceScope": "当該SKUの根拠のある特徴と既存の料理DBから今回新規に作成した編集提案。公式・口コミ推奨ではない。"
+        }
+      ],
+      "communityEvidence": [],
+      "sensoryConsensus": {
+        "fields": {
+          "sweetness": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "acidity": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "umami": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "aroma": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "body": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "finish": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "bitterness": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "carbonation": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "alcoholImpression": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          }
+        },
+        "acceptedEvidenceIds": [],
+        "excluded": [],
+        "provenance": "editorial_sensory_consensus",
+        "notVerifiedSpecifications": true
+      },
+      "communityPairings": [],
+      "officialTemperature": [],
+      "retailerTemperature": [],
+      "communityTemperature": [],
+      "capacityMl": 720
     }
   ]
 }

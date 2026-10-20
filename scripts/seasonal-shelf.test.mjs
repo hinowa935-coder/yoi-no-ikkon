@@ -91,7 +91,8 @@ test('the first maintenance batch changes commerce only for the explicitly revie
     assert.equal(image.productUrl, matches[item.id].normalUrl); assert.equal(image.capacityMl, matches[item.id].capacityMl);
     assert.equal(image.originalUnmodified, true);
   }
-  assert.equal(allSakePairings.length-lineupBatch.inactivated.length, visibleSakePairings.length);
+  const states=read('src/data/catalogLifecycle.json').records;
+  assert.equal(allSakePairings.length-Object.values(states).filter(r=>r.status==='INACTIVE'||r.status==='ARCHIVED').length, visibleSakePairings.length);
 });
 test('favorite IDs remain stable across a future inactive state and archive references remain accessible', () => {
   const id = allSakePairings[0].id, saved = [id, 'ginban-i4si9d'];

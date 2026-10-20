@@ -1,0 +1,9 @@
+{
+  "checkedAt": "2026-10-20T13:44:46.749Z",
+  "sourceCommit": "ce2a5086984e6bfa354df4b3c64acffa16f7f58e",
+  "activeApproved": 11,
+  "inactivated": 32,
+  "qaPassed": true,
+  "productionPublished": false,
+  "automaticPublicationAllowed": false
+}

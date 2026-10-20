@@ -1,0 +1,21 @@
+{
+  "checkedAt": "2026-10-20T13:42:46.282Z",
+  "secrets": {
+    "scannedFiles": 7650,
+    "unreadableFiles": 0,
+    "findings": [],
+    "passed": true,
+    "configuredValuesChecked": [
+      "RAKUTEN_APPLICATION_ID",
+      "RAKUTEN_ACCESS_KEY",
+      "RAKUTEN_AFFILIATE_ID"
+    ],
+    "limitation": null
+  },
+  "unchangedPriorCommerce": true,
+  "unchangedPriorApprovals": true,
+  "unchangedPriorCandidates": true,
+  "envIgnored": true,
+  "envTracked": false,
+  "passed": true
+}

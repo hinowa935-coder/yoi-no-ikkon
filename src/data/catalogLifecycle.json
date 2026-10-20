@@ -190,6 +190,262 @@
       "status": "INACTIVE",
       "batchId": "brewery-lineup-2026-10-20",
       "checkedAt": "2026-10-20T05:06:17.059Z"
+    },
+    "koeigiku-snow-crescent": {
+      "status": "INACTIVE",
+      "batchId": "historical-fallback-2026-10-20",
+      "checkedAt": "2026-10-20T13:28:34.215Z",
+      "reason": "現行の別SKUを通常の酒棚へ掲載。旧商品・URL・おちょこ履歴は変更しない。",
+      "relatedCurrentProductId": "koeigiku-sukai-hiire-current-v1",
+      "notIdentityAlias": true
+    },
+    "manrei-junmai": {
+      "status": "INACTIVE",
+      "batchId": "historical-fallback-2026-10-20",
+      "checkedAt": "2026-10-20T13:28:34.215Z",
+      "reason": "現行の別SKUを通常の酒棚へ掲載。旧商品・URL・おちょこ履歴は変更しない。",
+      "relatedCurrentProductId": "manrei-chokarakuchi-tokubetsu-junmai-current-v1",
+      "notIdentityAlias": true
+    },
+    "kihotsuru-junmai-ginjo": {
+      "status": "INACTIVE",
+      "batchId": "historical-fallback-2026-10-20",
+      "checkedAt": "2026-10-20T13:28:34.215Z",
+      "reason": "現行の別SKUを通常の酒棚へ掲載。旧商品・URL・おちょこ履歴は変更しない。",
+      "relatedCurrentProductId": "kihotsuru-junmai-current-v1",
+      "notIdentityAlias": true
+    },
+    "matsunokotobuki-junmai-ginjo": {
+      "status": "INACTIVE",
+      "batchId": "historical-fallback-2026-10-20",
+      "checkedAt": "2026-10-20T13:28:34.215Z",
+      "reason": "現行の別SKUを通常の酒棚へ掲載。旧商品・URL・おちょこ履歴は変更しない。",
+      "relatedCurrentProductId": "matsunokotobuki-omachi-hiire-current-v1",
+      "notIdentityAlias": true
+    },
+    "hayashi-junmai-ginjo": {
+      "status": "INACTIVE",
+      "batchId": "historical-fallback-2026-10-20",
+      "checkedAt": "2026-10-20T13:28:34.215Z",
+      "reason": "現行の別SKUを通常の酒棚へ掲載。旧商品・URL・おちょこ履歴は変更しない。",
+      "relatedCurrentProductId": "kurobekyo-junmai-ginjo55-current-v1",
+      "notIdentityAlias": true
+    },
+    "kameman-plus9-karakuchi-junmai-v1": {
+      "status": "INACTIVE",
+      "batchId": "historical-fallback-2026-10-20",
+      "checkedAt": "2026-10-20T13:28:34.215Z",
+      "reason": "現行の別SKUを通常の酒棚へ掲載。旧商品・URL・おちょこ履歴は変更しない。",
+      "relatedCurrentProductId": "kameman-nigori-genshu-current-v1",
+      "notIdentityAlias": true
+    },
+    "hiokizakura-uzpgk6": {
+      "status": "INACTIVE",
+      "batchId": "historical-fallback-2026-10-20",
+      "checkedAt": "2026-10-20T13:28:34.215Z",
+      "reason": "現行の別SKUを通常の酒棚へ掲載。旧商品・URL・おちょこ履歴は変更しない。",
+      "relatedCurrentProductId": "hiokizakura-tokujo-junmai-omachi-current-v1",
+      "notIdentityAlias": true
+    },
+    "hiokizakura-uzpgk6-2": {
+      "status": "INACTIVE",
+      "batchId": "historical-fallback-2026-10-20",
+      "checkedAt": "2026-10-20T13:28:34.215Z",
+      "reason": "現行の別SKUを通常の酒棚へ掲載。旧商品・URL・おちょこ履歴は変更しない。",
+      "relatedCurrentProductId": "hiokizakura-tokujo-junmai-omachi-current-v1",
+      "notIdentityAlias": true
+    },
+    "wakanami-junmai": {
+      "status": "INACTIVE",
+      "batchId": "historical-fallback-2026-10-20",
+      "checkedAt": "2026-10-20T13:28:34.215Z",
+      "reason": "現行の別SKUを通常の酒棚へ掲載。旧商品・URL・おちょこ履歴は変更しない。",
+      "relatedCurrentProductId": "tonbo-tokubetsu-junmai-standard-v1",
+      "notIdentityAlias": true
+    },
+    "juyondai-honmaru": {
+      "status": "INACTIVE",
+      "batchId": "historical-fallback-2026-10-20",
+      "checkedAt": "2026-10-20T13:28:34.215Z",
+      "reason": "現行の別SKUを通常の酒棚へ掲載。旧商品・URL・おちょこ履歴は変更しない。",
+      "relatedCurrentProductId": "juyondai-modern-premium",
+      "notIdentityAlias": true
+    },
+    "kaze-no-mori-alpha": {
+      "status": "INACTIVE",
+      "batchId": "historical-fallback-2026-10-20",
+      "checkedAt": "2026-10-20T13:28:34.215Z",
+      "reason": "現行の別SKUを通常の酒棚へ掲載。旧商品・URL・おちょこ履歴は変更しない。",
+      "relatedCurrentProductId": "kazenomori-akitsuho-657-standard-v1",
+      "notIdentityAlias": true
+    },
+    "hiran-nigori": {
+      "status": "INACTIVE",
+      "batchId": "historical-fallback-2026-10-20",
+      "checkedAt": "2026-10-20T13:28:34.215Z",
+      "reason": "現行の別SKUを通常の酒棚へ掲載。旧商品・URL・おちょこ履歴は変更しない。",
+      "relatedCurrentProductId": "hiran-nikomaru-hiire-standard-v1",
+      "notIdentityAlias": true
+    },
+    "takaisami-uzpgk6": {
+      "status": "INACTIVE",
+      "batchId": "historical-fallback-2026-10-20",
+      "checkedAt": "2026-10-20T13:28:34.215Z",
+      "reason": "現行の別SKUを通常の酒棚へ掲載。旧商品・URL・おちょこ履歴は変更しない。",
+      "relatedCurrentProductId": "takaisami-uzpgk6-4",
+      "notIdentityAlias": true
+    },
+    "rihaku-id2kl5": {
+      "status": "INACTIVE",
+      "batchId": "historical-fallback-2026-10-20",
+      "checkedAt": "2026-10-20T13:28:34.215Z",
+      "reason": "現行の別SKUを通常の酒棚へ掲載。旧商品・URL・おちょこ履歴は変更しない。",
+      "relatedCurrentProductId": "rihaku-id2kl5-2",
+      "notIdentityAlias": true
+    },
+    "kawatsuru-uc9ijh": {
+      "status": "INACTIVE",
+      "batchId": "historical-fallback-2026-10-20",
+      "checkedAt": "2026-10-20T13:28:34.215Z",
+      "reason": "現行の別SKUを通常の酒棚へ掲載。旧商品・URL・おちょこ履歴は変更しない。",
+      "relatedCurrentProductId": "sanuki-cloudy-uc9ijh",
+      "notIdentityAlias": true
+    },
+    "takakiya-hlzg7a": {
+      "status": "INACTIVE",
+      "batchId": "historical-fallback-2026-10-20",
+      "checkedAt": "2026-10-20T13:28:34.215Z",
+      "reason": "現行の別SKUを通常の酒棚へ掲載。旧商品・URL・おちょこ履歴は変更しない。",
+      "relatedCurrentProductId": "takakiya-karakuchi-tokubetsu-junmai-v1",
+      "notIdentityAlias": true
+    },
+    "dewazakura-oka-ginjo-2": {
+      "status": "INACTIVE",
+      "batchId": "historical-fallback-2026-10-20",
+      "checkedAt": "2026-10-20T13:28:34.215Z",
+      "reason": "現行の別SKUを通常の酒棚へ掲載。旧商品・URL・おちょこ履歴は変更しない。",
+      "relatedCurrentProductId": "dewazakura-oka-ginjo",
+      "notIdentityAlias": true
+    },
+    "raifuku-junmai-ginjo-1": {
+      "status": "INACTIVE",
+      "batchId": "historical-fallback-2026-10-20",
+      "checkedAt": "2026-10-20T13:28:34.215Z",
+      "reason": "現行の別SKUを通常の酒棚へ掲載。旧商品・URL・おちょこ履歴は変更しない。",
+      "relatedCurrentProductId": "raifuku-junmai-ginjo-yamadanishiki-hiire-v1",
+      "notIdentityAlias": true
+    },
+    "koshino-kanbai-white-label-3": {
+      "status": "INACTIVE",
+      "batchId": "historical-fallback-2026-10-20",
+      "checkedAt": "2026-10-20T13:28:34.215Z",
+      "reason": "現行の別SKUを通常の酒棚へ掲載。旧商品・URL・おちょこ履歴は変更しない。",
+      "relatedCurrentProductId": "koshino-kanbai-white-label",
+      "notIdentityAlias": true
+    },
+    "ibi-white-1": {
+      "status": "INACTIVE",
+      "batchId": "historical-fallback-2026-10-20",
+      "checkedAt": "2026-10-20T13:28:34.215Z",
+      "reason": "現行の別SKUを通常の酒棚へ掲載。旧商品・URL・おちょこ履歴は変更しない。",
+      "relatedCurrentProductId": "ibi-white",
+      "notIdentityAlias": true
+    },
+    "hatsukame-karakuchi-junmai-3": {
+      "status": "INACTIVE",
+      "batchId": "historical-fallback-2026-10-20",
+      "checkedAt": "2026-10-20T13:28:34.215Z",
+      "reason": "現行の別SKUを通常の酒棚へ掲載。旧商品・URL・おちょこ履歴は変更しない。",
+      "relatedCurrentProductId": "hatsukame-karakara-beppin-v1",
+      "notIdentityAlias": true
+    },
+    "kamikokoro-iapi9d-4": {
+      "status": "INACTIVE",
+      "batchId": "historical-fallback-2026-10-20",
+      "checkedAt": "2026-10-20T13:28:34.215Z",
+      "reason": "現行の別SKUを通常の酒棚へ掲載。旧商品・URL・おちょこ履歴は変更しない。",
+      "relatedCurrentProductId": "kamikokoro-iapi9d",
+      "notIdentityAlias": true
+    },
+    "sanuki-cloudy-uc9ijh-5": {
+      "status": "INACTIVE",
+      "batchId": "historical-fallback-2026-10-20",
+      "checkedAt": "2026-10-20T13:28:34.215Z",
+      "reason": "現行の別SKUを通常の酒棚へ掲載。旧商品・URL・おちょこ履歴は変更しない。",
+      "relatedCurrentProductId": "sanuki-cloudy-uc9ijh",
+      "notIdentityAlias": true
+    },
+    "chiebijin-junmai-1": {
+      "status": "INACTIVE",
+      "batchId": "historical-fallback-2026-10-20",
+      "checkedAt": "2026-10-20T13:28:34.215Z",
+      "reason": "現行の別SKUを通常の酒棚へ掲載。旧商品・URL・おちょこ履歴は変更しない。",
+      "relatedCurrentProductId": "chiebijin-junmai",
+      "notIdentityAlias": true
+    },
+    "hananoka-kikka-v1": {
+      "status": "INACTIVE",
+      "batchId": "historical-fallback-2026-10-20",
+      "checkedAt": "2026-10-20T13:28:34.215Z",
+      "reason": "現行の別SKUを通常の酒棚へ掲載。旧商品・URL・おちょこ履歴は変更しない。",
+      "relatedCurrentProductId": "ubusuna-yamada-nishiki-ninojo-2025-nama-v1",
+      "notIdentityAlias": true
+    },
+    "tamagawa-kimoto-kounotori-v1": {
+      "status": "INACTIVE",
+      "batchId": "historical-fallback-2026-10-20",
+      "checkedAt": "2026-10-20T13:28:34.215Z",
+      "reason": "現行の別SKUを通常の酒棚へ掲載。旧商品・URL・おちょこ履歴は変更しない。",
+      "relatedCurrentProductId": "tamagawa-tokubetsu-junmai-v1",
+      "notIdentityAlias": true
+    },
+    "sasaichi-yata-v1": {
+      "status": "INACTIVE",
+      "batchId": "historical-fallback-2026-10-20",
+      "checkedAt": "2026-10-20T13:28:34.215Z",
+      "reason": "現行の別SKUを通常の酒棚へ掲載。旧商品・URL・おちょこ履歴は変更しない。",
+      "relatedCurrentProductId": "sasaichi-yata-junmai-daiginjo-v1",
+      "notIdentityAlias": true
+    },
+    "fudo-ichido-hiire-tokubetsu-junmai-v1": {
+      "status": "INACTIVE",
+      "batchId": "historical-fallback-2026-10-20",
+      "checkedAt": "2026-10-20T13:28:34.215Z",
+      "reason": "現行の別SKUを通常の酒棚へ掲載。旧商品・URL・おちょこ履歴は変更しない。",
+      "relatedCurrentProductId": "fudo-ichido-hiire-junmai-daiginjo-v1",
+      "notIdentityAlias": true
+    },
+    "tsuchida-12-standard-v1": {
+      "status": "INACTIVE",
+      "batchId": "historical-fallback-2026-10-20",
+      "checkedAt": "2026-10-20T13:28:34.215Z",
+      "reason": "現行の別SKUを通常の酒棚へ掲載。旧商品・URL・おちょこ履歴は変更しない。",
+      "relatedCurrentProductId": "tsuchida-kimoto",
+      "notIdentityAlias": true
+    },
+    "sho-chiku-bai-yamadanishiki-tokubetsu-junmai-karakuchi-standard": {
+      "status": "INACTIVE",
+      "batchId": "historical-fallback-2026-10-20",
+      "checkedAt": "2026-10-20T13:28:34.215Z",
+      "reason": "現行の別SKUを通常の酒棚へ掲載。旧商品・URL・おちょこ履歴は変更しない。",
+      "relatedCurrentProductId": "mio-sparkling-lineup-v1",
+      "notIdentityAlias": true
+    },
+    "homare-gaijin-junmai-ginjo-hiire-r7by-v1": {
+      "status": "INACTIVE",
+      "batchId": "historical-fallback-2026-10-20",
+      "checkedAt": "2026-10-20T13:28:34.215Z",
+      "reason": "現行の別SKUを通常の酒棚へ掲載。旧商品・URL・おちょこ履歴は変更しない。",
+      "relatedCurrentProductId": "yorokobi-gaijin-tezukuri-junmai-hiire-standard-v1",
+      "notIdentityAlias": true
+    },
+    "yui-omachi-junmai-ginjo-nama-genshu-raifuku-v1": {
+      "status": "INACTIVE",
+      "batchId": "historical-fallback-2026-10-20",
+      "checkedAt": "2026-10-20T13:28:34.215Z",
+      "reason": "現行の別SKUを通常の酒棚へ掲載。旧商品・URL・おちょこ履歴は変更しない。",
+      "relatedCurrentProductId": "raifuku-junmai-ginjo-yamadanishiki-hiire-v1",
+      "notIdentityAlias": true
     }
   },
   "policy": "Only explicitly reviewed lifecycle changes are applied. Stock loss and seasonal names never deactivate a product automatically."

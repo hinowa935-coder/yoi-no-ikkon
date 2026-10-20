@@ -1,0 +1,1619 @@
+{
+  "checkedAt": "2026-10-20T13:43:58.578Z",
+  "base": "http://127.0.0.1:3197",
+  "checks": [
+    {
+      "name": "webkit-320: tenkanishiki-fexsst image",
+      "pass": true,
+      "detail": {
+        "originalSrc": true,
+        "naturalWidth": 240,
+        "naturalHeight": 240,
+        "width": 240,
+        "height": 240,
+        "visible": true
+      }
+    },
+    {
+      "name": "webkit-320: tenkanishiki-fexsst link",
+      "pass": true
+    },
+    {
+      "name": "webkit-320: tenkanishiki-fexsst layout",
+      "pass": true
+    },
+    {
+      "name": "webkit-320: murayu-kuro image",
+      "pass": true,
+      "detail": {
+        "originalSrc": true,
+        "naturalWidth": 240,
+        "naturalHeight": 240,
+        "width": 240,
+        "height": 240,
+        "visible": true
+      }
+    },
+    {
+      "name": "webkit-320: murayu-kuro link",
+      "pass": true
+    },
+    {
+      "name": "webkit-320: murayu-kuro layout",
+      "pass": true
+    },
+    {
+      "name": "webkit-320: manrei-chokarakuchi-tokubetsu-junmai-current-v1 image",
+      "pass": true,
+      "detail": {
+        "originalSrc": true,
+        "naturalWidth": 240,
+        "naturalHeight": 240,
+        "width": 240,
+        "height": 240,
+        "visible": true
+      }
+    },
+    {
+      "name": "webkit-320: manrei-chokarakuchi-tokubetsu-junmai-current-v1 link",
+      "pass": true
+    },
+    {
+      "name": "webkit-320: manrei-chokarakuchi-tokubetsu-junmai-current-v1 layout",
+      "pass": true
+    },
+    {
+      "name": "webkit-320: ryusei-muku-omachi-kimoto-current-v1 image",
+      "pass": true,
+      "detail": {
+        "originalSrc": true,
+        "naturalWidth": 240,
+        "naturalHeight": 240,
+        "width": 240,
+        "height": 240,
+        "visible": true
+      }
+    },
+    {
+      "name": "webkit-320: ryusei-muku-omachi-kimoto-current-v1 link",
+      "pass": true
+    },
+    {
+      "name": "webkit-320: ryusei-muku-omachi-kimoto-current-v1 layout",
+      "pass": true
+    },
+    {
+      "name": "webkit-320: search query survives back",
+      "pass": true
+    },
+    {
+      "name": "webkit-320: old favorite no alias",
+      "pass": true
+    },
+    {
+      "name": "webkit-320: favorites not migrated",
+      "pass": true
+    },
+    {
+      "name": "webkit-320: inactive excluded",
+      "pass": true
+    },
+    {
+      "name": "webkit-320: night dish recommendation",
+      "pass": true
+    },
+    {
+      "name": "webkit-320: food detail",
+      "pass": true
+    },
+    {
+      "name": "webkit-320: placeholder",
+      "pass": true
+    },
+    {
+      "name": "webkit-360: tenkanishiki-fexsst image",
+      "pass": true,
+      "detail": {
+        "originalSrc": true,
+        "naturalWidth": 240,
+        "naturalHeight": 240,
+        "width": 240,
+        "height": 240,
+        "visible": true
+      }
+    },
+    {
+      "name": "webkit-360: tenkanishiki-fexsst link",
+      "pass": true
+    },
+    {
+      "name": "webkit-360: tenkanishiki-fexsst layout",
+      "pass": true
+    },
+    {
+      "name": "webkit-360: murayu-kuro image",
+      "pass": true,
+      "detail": {
+        "originalSrc": true,
+        "naturalWidth": 240,
+        "naturalHeight": 240,
+        "width": 240,
+        "height": 240,
+        "visible": true
+      }
+    },
+    {
+      "name": "webkit-360: murayu-kuro link",
+      "pass": true
+    },
+    {
+      "name": "webkit-360: murayu-kuro layout",
+      "pass": true
+    },
+    {
+      "name": "webkit-360: manrei-chokarakuchi-tokubetsu-junmai-current-v1 image",
+      "pass": true,
+      "detail": {
+        "originalSrc": true,
+        "naturalWidth": 240,
+        "naturalHeight": 240,
+        "width": 240,
+        "height": 240,
+        "visible": true
+      }
+    },
+    {
+      "name": "webkit-360: manrei-chokarakuchi-tokubetsu-junmai-current-v1 link",
+      "pass": true
+    },
+    {
+      "name": "webkit-360: manrei-chokarakuchi-tokubetsu-junmai-current-v1 layout",
+      "pass": true
+    },
+    {
+      "name": "webkit-360: ryusei-muku-omachi-kimoto-current-v1 image",
+      "pass": true,
+      "detail": {
+        "originalSrc": true,
+        "naturalWidth": 240,
+        "naturalHeight": 240,
+        "width": 240,
+        "height": 240,
+        "visible": true
+      }
+    },
+    {
+      "name": "webkit-360: ryusei-muku-omachi-kimoto-current-v1 link",
+      "pass": true
+    },
+    {
+      "name": "webkit-360: ryusei-muku-omachi-kimoto-current-v1 layout",
+      "pass": true
+    },
+    {
+      "name": "webkit-360: search query survives back",
+      "pass": true
+    },
+    {
+      "name": "webkit-360: old favorite no alias",
+      "pass": true
+    },
+    {
+      "name": "webkit-360: favorites not migrated",
+      "pass": true
+    },
+    {
+      "name": "webkit-360: inactive excluded",
+      "pass": true
+    },
+    {
+      "name": "webkit-360: night dish recommendation",
+      "pass": true
+    },
+    {
+      "name": "webkit-360: food detail",
+      "pass": true
+    },
+    {
+      "name": "webkit-360: placeholder",
+      "pass": true
+    },
+    {
+      "name": "webkit-375: tenkanishiki-fexsst image",
+      "pass": true,
+      "detail": {
+        "originalSrc": true,
+        "naturalWidth": 240,
+        "naturalHeight": 240,
+        "width": 240,
+        "height": 240,
+        "visible": true
+      }
+    },
+    {
+      "name": "webkit-375: tenkanishiki-fexsst link",
+      "pass": true
+    },
+    {
+      "name": "webkit-375: tenkanishiki-fexsst layout",
+      "pass": true
+    },
+    {
+      "name": "webkit-375: murayu-kuro image",
+      "pass": true,
+      "detail": {
+        "originalSrc": true,
+        "naturalWidth": 240,
+        "naturalHeight": 240,
+        "width": 240,
+        "height": 240,
+        "visible": true
+      }
+    },
+    {
+      "name": "webkit-375: murayu-kuro link",
+      "pass": true
+    },
+    {
+      "name": "webkit-375: murayu-kuro layout",
+      "pass": true
+    },
+    {
+      "name": "webkit-375: manrei-chokarakuchi-tokubetsu-junmai-current-v1 image",
+      "pass": true,
+      "detail": {
+        "originalSrc": true,
+        "naturalWidth": 240,
+        "naturalHeight": 240,
+        "width": 240,
+        "height": 240,
+        "visible": true
+      }
+    },
+    {
+      "name": "webkit-375: manrei-chokarakuchi-tokubetsu-junmai-current-v1 link",
+      "pass": true
+    },
+    {
+      "name": "webkit-375: manrei-chokarakuchi-tokubetsu-junmai-current-v1 layout",
+      "pass": true
+    },
+    {
+      "name": "webkit-375: ryusei-muku-omachi-kimoto-current-v1 image",
+      "pass": true,
+      "detail": {
+        "originalSrc": true,
+        "naturalWidth": 240,
+        "naturalHeight": 240,
+        "width": 240,
+        "height": 240,
+        "visible": true
+      }
+    },
+    {
+      "name": "webkit-375: ryusei-muku-omachi-kimoto-current-v1 link",
+      "pass": true
+    },
+    {
+      "name": "webkit-375: ryusei-muku-omachi-kimoto-current-v1 layout",
+      "pass": true
+    },
+    {
+      "name": "webkit-375: search query survives back",
+      "pass": true
+    },
+    {
+      "name": "webkit-375: old favorite no alias",
+      "pass": true
+    },
+    {
+      "name": "webkit-375: favorites not migrated",
+      "pass": true
+    },
+    {
+      "name": "webkit-375: inactive excluded",
+      "pass": true
+    },
+    {
+      "name": "webkit-375: night dish recommendation",
+      "pass": true
+    },
+    {
+      "name": "webkit-375: food detail",
+      "pass": true
+    },
+    {
+      "name": "webkit-375: placeholder",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: tenkanishiki-fexsst image",
+      "pass": true,
+      "detail": {
+        "originalSrc": true,
+        "naturalWidth": 240,
+        "naturalHeight": 240,
+        "width": 240,
+        "height": 240,
+        "visible": true
+      }
+    },
+    {
+      "name": "webkit-390: tenkanishiki-fexsst link",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: tenkanishiki-fexsst layout",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: amaneko-white-koji image",
+      "pass": true,
+      "detail": {
+        "originalSrc": true,
+        "naturalWidth": 240,
+        "naturalHeight": 240,
+        "width": 240,
+        "height": 240,
+        "visible": true
+      }
+    },
+    {
+      "name": "webkit-390: amaneko-white-koji link",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: amaneko-white-koji layout",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: ohmine-three-grain image",
+      "pass": true,
+      "detail": {
+        "originalSrc": true,
+        "naturalWidth": 240,
+        "naturalHeight": 240,
+        "width": 240,
+        "height": 240,
+        "visible": true
+      }
+    },
+    {
+      "name": "webkit-390: ohmine-three-grain link",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: ohmine-three-grain layout",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: kamoshibito-kuheiji-eau-du-desir-1 image",
+      "pass": true,
+      "detail": {
+        "originalSrc": true,
+        "naturalWidth": 187,
+        "naturalHeight": 240,
+        "width": 187,
+        "height": 240,
+        "visible": true
+      }
+    },
+    {
+      "name": "webkit-390: kamoshibito-kuheiji-eau-du-desir-1 link",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: kamoshibito-kuheiji-eau-du-desir-1 layout",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: kirakucho-lvvrsw-4 image",
+      "pass": true,
+      "detail": {
+        "originalSrc": true,
+        "naturalWidth": 240,
+        "naturalHeight": 240,
+        "width": 240,
+        "height": 240,
+        "visible": true
+      }
+    },
+    {
+      "name": "webkit-390: kirakucho-lvvrsw-4 link",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: kirakucho-lvvrsw-4 layout",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: murayu-kuro image",
+      "pass": true,
+      "detail": {
+        "originalSrc": true,
+        "naturalWidth": 240,
+        "naturalHeight": 240,
+        "width": 240,
+        "height": 240,
+        "visible": true
+      }
+    },
+    {
+      "name": "webkit-390: murayu-kuro link",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: murayu-kuro layout",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: ibi-white image",
+      "pass": true,
+      "detail": {
+        "originalSrc": true,
+        "naturalWidth": 240,
+        "naturalHeight": 240,
+        "width": 240,
+        "height": 240,
+        "visible": true
+      }
+    },
+    {
+      "name": "webkit-390: ibi-white link",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: ibi-white layout",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: sanuki-cloudy-uc9ijh image",
+      "pass": true,
+      "detail": {
+        "originalSrc": true,
+        "naturalWidth": 240,
+        "naturalHeight": 240,
+        "width": 240,
+        "height": 240,
+        "visible": true
+      }
+    },
+    {
+      "name": "webkit-390: sanuki-cloudy-uc9ijh link",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: sanuki-cloudy-uc9ijh layout",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: takaisami-uzpgk6-4 image",
+      "pass": true,
+      "detail": {
+        "originalSrc": true,
+        "naturalWidth": 240,
+        "naturalHeight": 240,
+        "width": 240,
+        "height": 240,
+        "visible": true
+      }
+    },
+    {
+      "name": "webkit-390: takaisami-uzpgk6-4 link",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: takaisami-uzpgk6-4 layout",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: ohmine-three-grain-2 image",
+      "pass": true,
+      "detail": {
+        "originalSrc": true,
+        "naturalWidth": 240,
+        "naturalHeight": 240,
+        "width": 240,
+        "height": 240,
+        "visible": true
+      }
+    },
+    {
+      "name": "webkit-390: ohmine-three-grain-2 link",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: ohmine-three-grain-2 layout",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: mikotsuru-junmai-ginjo-hitogokochi-hiire-v1 image",
+      "pass": true,
+      "detail": {
+        "originalSrc": true,
+        "naturalWidth": 102,
+        "naturalHeight": 240,
+        "width": 102,
+        "height": 240,
+        "visible": true
+      }
+    },
+    {
+      "name": "webkit-390: mikotsuru-junmai-ginjo-hitogokochi-hiire-v1 link",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: mikotsuru-junmai-ginjo-hitogokochi-hiire-v1 layout",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: yokoyama-silver7-namazume-v1 image",
+      "pass": true,
+      "detail": {
+        "originalSrc": true,
+        "naturalWidth": 240,
+        "naturalHeight": 240,
+        "width": 240,
+        "height": 240,
+        "visible": true
+      }
+    },
+    {
+      "name": "webkit-390: yokoyama-silver7-namazume-v1 link",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: yokoyama-silver7-namazume-v1 layout",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: tanzawasan-shuho-v1 image",
+      "pass": true,
+      "detail": {
+        "originalSrc": true,
+        "naturalWidth": 240,
+        "naturalHeight": 240,
+        "width": 240,
+        "height": 240,
+        "visible": true
+      }
+    },
+    {
+      "name": "webkit-390: tanzawasan-shuho-v1 link",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: tanzawasan-shuho-v1 layout",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: chochin-tokubetsu-junmai-gold-standard-v1 image",
+      "pass": true,
+      "detail": {
+        "originalSrc": true,
+        "naturalWidth": 240,
+        "naturalHeight": 240,
+        "width": 240,
+        "height": 240,
+        "visible": true
+      }
+    },
+    {
+      "name": "webkit-390: chochin-tokubetsu-junmai-gold-standard-v1 link",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: chochin-tokubetsu-junmai-gold-standard-v1 layout",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: senkin-classic-nishiki-origarami-hiire-v1 image",
+      "pass": true,
+      "detail": {
+        "originalSrc": true,
+        "naturalWidth": 240,
+        "naturalHeight": 240,
+        "width": 240,
+        "height": 240,
+        "visible": true
+      }
+    },
+    {
+      "name": "webkit-390: senkin-classic-nishiki-origarami-hiire-v1 link",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: senkin-classic-nishiki-origarami-hiire-v1 layout",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: ubusuna-yamada-nishiki-ninojo-2025-nama-v1 image",
+      "pass": true,
+      "detail": {
+        "originalSrc": true,
+        "naturalWidth": 160,
+        "naturalHeight": 240,
+        "width": 160,
+        "height": 240,
+        "visible": true
+      }
+    },
+    {
+      "name": "webkit-390: ubusuna-yamada-nishiki-ninojo-2025-nama-v1 link",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: ubusuna-yamada-nishiki-ninojo-2025-nama-v1 layout",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: koeigiku-sukai-hiire-current-v1 image",
+      "pass": true,
+      "detail": {
+        "originalSrc": true,
+        "naturalWidth": 62,
+        "naturalHeight": 240,
+        "width": 62,
+        "height": 240,
+        "visible": true
+      }
+    },
+    {
+      "name": "webkit-390: koeigiku-sukai-hiire-current-v1 link",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: koeigiku-sukai-hiire-current-v1 layout",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: manrei-chokarakuchi-tokubetsu-junmai-current-v1 image",
+      "pass": true,
+      "detail": {
+        "originalSrc": true,
+        "naturalWidth": 240,
+        "naturalHeight": 240,
+        "width": 240,
+        "height": 240,
+        "visible": true
+      }
+    },
+    {
+      "name": "webkit-390: manrei-chokarakuchi-tokubetsu-junmai-current-v1 link",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: manrei-chokarakuchi-tokubetsu-junmai-current-v1 layout",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: kihotsuru-junmai-current-v1 image",
+      "pass": true,
+      "detail": {
+        "originalSrc": true,
+        "naturalWidth": 240,
+        "naturalHeight": 240,
+        "width": 240,
+        "height": 240,
+        "visible": true
+      }
+    },
+    {
+      "name": "webkit-390: kihotsuru-junmai-current-v1 link",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: kihotsuru-junmai-current-v1 layout",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: matsunokotobuki-omachi-hiire-current-v1 image",
+      "pass": true,
+      "detail": {
+        "originalSrc": true,
+        "naturalWidth": 160,
+        "naturalHeight": 240,
+        "width": 160,
+        "height": 240,
+        "visible": true
+      }
+    },
+    {
+      "name": "webkit-390: matsunokotobuki-omachi-hiire-current-v1 link",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: matsunokotobuki-omachi-hiire-current-v1 layout",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: kurobekyo-junmai-ginjo55-current-v1 image",
+      "pass": true,
+      "detail": {
+        "originalSrc": true,
+        "naturalWidth": 240,
+        "naturalHeight": 240,
+        "width": 240,
+        "height": 240,
+        "visible": true
+      }
+    },
+    {
+      "name": "webkit-390: kurobekyo-junmai-ginjo55-current-v1 link",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: kurobekyo-junmai-ginjo55-current-v1 layout",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: fukuiwai-yamada50-junmai-ginjo-current-v1 image",
+      "pass": true,
+      "detail": {
+        "originalSrc": true,
+        "naturalWidth": 239,
+        "naturalHeight": 240,
+        "width": 239,
+        "height": 240,
+        "visible": true
+      }
+    },
+    {
+      "name": "webkit-390: fukuiwai-yamada50-junmai-ginjo-current-v1 link",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: fukuiwai-yamada50-junmai-ginjo-current-v1 layout",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: oku-ten-year-junmai-ginjo-genshu-current-v1 image",
+      "pass": true,
+      "detail": {
+        "originalSrc": true,
+        "naturalWidth": 240,
+        "naturalHeight": 240,
+        "width": 240,
+        "height": 240,
+        "visible": true
+      }
+    },
+    {
+      "name": "webkit-390: oku-ten-year-junmai-ginjo-genshu-current-v1 link",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: oku-ten-year-junmai-ginjo-genshu-current-v1 layout",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: ohga-asahi-junmai-ginjo-current-v1 image",
+      "pass": true,
+      "detail": {
+        "originalSrc": true,
+        "naturalWidth": 144,
+        "naturalHeight": 240,
+        "width": 144,
+        "height": 240,
+        "visible": true
+      }
+    },
+    {
+      "name": "webkit-390: ohga-asahi-junmai-ginjo-current-v1 link",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: ohga-asahi-junmai-ginjo-current-v1 layout",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: ryusei-muku-omachi-kimoto-current-v1 image",
+      "pass": true,
+      "detail": {
+        "originalSrc": true,
+        "naturalWidth": 240,
+        "naturalHeight": 240,
+        "width": 240,
+        "height": 240,
+        "visible": true
+      }
+    },
+    {
+      "name": "webkit-390: ryusei-muku-omachi-kimoto-current-v1 link",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: ryusei-muku-omachi-kimoto-current-v1 layout",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: kameman-nigori-genshu-current-v1 image",
+      "pass": true,
+      "detail": {
+        "originalSrc": true,
+        "naturalWidth": 240,
+        "naturalHeight": 240,
+        "width": 240,
+        "height": 240,
+        "visible": true
+      }
+    },
+    {
+      "name": "webkit-390: kameman-nigori-genshu-current-v1 link",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: kameman-nigori-genshu-current-v1 layout",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: hiokizakura-tokujo-junmai-omachi-current-v1 image",
+      "pass": true,
+      "detail": {
+        "originalSrc": true,
+        "naturalWidth": 240,
+        "naturalHeight": 240,
+        "width": 240,
+        "height": 240,
+        "visible": true
+      }
+    },
+    {
+      "name": "webkit-390: hiokizakura-tokujo-junmai-omachi-current-v1 link",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: hiokizakura-tokujo-junmai-omachi-current-v1 layout",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: hanagaki-o0ffit-5 image",
+      "pass": true,
+      "detail": {
+        "originalSrc": true,
+        "naturalWidth": 240,
+        "naturalHeight": 240,
+        "width": 240,
+        "height": 240,
+        "visible": true
+      }
+    },
+    {
+      "name": "webkit-390: hanagaki-o0ffit-5 link",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: hanagaki-o0ffit-5 layout",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: search query survives back",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: old favorite no alias",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: favorites not migrated",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: inactive excluded",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: night dish recommendation",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: food detail",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: placeholder",
+      "pass": true
+    },
+    {
+      "name": "webkit-430: tenkanishiki-fexsst image",
+      "pass": true,
+      "detail": {
+        "originalSrc": true,
+        "naturalWidth": 240,
+        "naturalHeight": 240,
+        "width": 240,
+        "height": 240,
+        "visible": true
+      }
+    },
+    {
+      "name": "webkit-430: tenkanishiki-fexsst link",
+      "pass": true
+    },
+    {
+      "name": "webkit-430: tenkanishiki-fexsst layout",
+      "pass": true
+    },
+    {
+      "name": "webkit-430: murayu-kuro image",
+      "pass": true,
+      "detail": {
+        "originalSrc": true,
+        "naturalWidth": 240,
+        "naturalHeight": 240,
+        "width": 240,
+        "height": 240,
+        "visible": true
+      }
+    },
+    {
+      "name": "webkit-430: murayu-kuro link",
+      "pass": true
+    },
+    {
+      "name": "webkit-430: murayu-kuro layout",
+      "pass": true
+    },
+    {
+      "name": "webkit-430: manrei-chokarakuchi-tokubetsu-junmai-current-v1 image",
+      "pass": true,
+      "detail": {
+        "originalSrc": true,
+        "naturalWidth": 240,
+        "naturalHeight": 240,
+        "width": 240,
+        "height": 240,
+        "visible": true
+      }
+    },
+    {
+      "name": "webkit-430: manrei-chokarakuchi-tokubetsu-junmai-current-v1 link",
+      "pass": true
+    },
+    {
+      "name": "webkit-430: manrei-chokarakuchi-tokubetsu-junmai-current-v1 layout",
+      "pass": true
+    },
+    {
+      "name": "webkit-430: ryusei-muku-omachi-kimoto-current-v1 image",
+      "pass": true,
+      "detail": {
+        "originalSrc": true,
+        "naturalWidth": 240,
+        "naturalHeight": 240,
+        "width": 240,
+        "height": 240,
+        "visible": true
+      }
+    },
+    {
+      "name": "webkit-430: ryusei-muku-omachi-kimoto-current-v1 link",
+      "pass": true
+    },
+    {
+      "name": "webkit-430: ryusei-muku-omachi-kimoto-current-v1 layout",
+      "pass": true
+    },
+    {
+      "name": "webkit-430: search query survives back",
+      "pass": true
+    },
+    {
+      "name": "webkit-430: old favorite no alias",
+      "pass": true
+    },
+    {
+      "name": "webkit-430: favorites not migrated",
+      "pass": true
+    },
+    {
+      "name": "webkit-430: inactive excluded",
+      "pass": true
+    },
+    {
+      "name": "webkit-430: night dish recommendation",
+      "pass": true
+    },
+    {
+      "name": "webkit-430: food detail",
+      "pass": true
+    },
+    {
+      "name": "webkit-430: placeholder",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280: tenkanishiki-fexsst image",
+      "pass": true,
+      "detail": {
+        "originalSrc": true,
+        "naturalWidth": 240,
+        "naturalHeight": 240,
+        "width": 240,
+        "height": 240,
+        "visible": true
+      }
+    },
+    {
+      "name": "chromium-1280: tenkanishiki-fexsst link",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280: tenkanishiki-fexsst layout",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280: amaneko-white-koji image",
+      "pass": true,
+      "detail": {
+        "originalSrc": true,
+        "naturalWidth": 240,
+        "naturalHeight": 240,
+        "width": 240,
+        "height": 240,
+        "visible": true
+      }
+    },
+    {
+      "name": "chromium-1280: amaneko-white-koji link",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280: amaneko-white-koji layout",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280: ohmine-three-grain image",
+      "pass": true,
+      "detail": {
+        "originalSrc": true,
+        "naturalWidth": 240,
+        "naturalHeight": 240,
+        "width": 240,
+        "height": 240,
+        "visible": true
+      }
+    },
+    {
+      "name": "chromium-1280: ohmine-three-grain link",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280: ohmine-three-grain layout",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280: kamoshibito-kuheiji-eau-du-desir-1 image",
+      "pass": true,
+      "detail": {
+        "originalSrc": true,
+        "naturalWidth": 187,
+        "naturalHeight": 240,
+        "width": 187,
+        "height": 240,
+        "visible": true
+      }
+    },
+    {
+      "name": "chromium-1280: kamoshibito-kuheiji-eau-du-desir-1 link",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280: kamoshibito-kuheiji-eau-du-desir-1 layout",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280: kirakucho-lvvrsw-4 image",
+      "pass": true,
+      "detail": {
+        "originalSrc": true,
+        "naturalWidth": 240,
+        "naturalHeight": 240,
+        "width": 240,
+        "height": 240,
+        "visible": true
+      }
+    },
+    {
+      "name": "chromium-1280: kirakucho-lvvrsw-4 link",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280: kirakucho-lvvrsw-4 layout",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280: murayu-kuro image",
+      "pass": true,
+      "detail": {
+        "originalSrc": true,
+        "naturalWidth": 240,
+        "naturalHeight": 240,
+        "width": 240,
+        "height": 240,
+        "visible": true
+      }
+    },
+    {
+      "name": "chromium-1280: murayu-kuro link",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280: murayu-kuro layout",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280: ibi-white image",
+      "pass": true,
+      "detail": {
+        "originalSrc": true,
+        "naturalWidth": 240,
+        "naturalHeight": 240,
+        "width": 240,
+        "height": 240,
+        "visible": true
+      }
+    },
+    {
+      "name": "chromium-1280: ibi-white link",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280: ibi-white layout",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280: sanuki-cloudy-uc9ijh image",
+      "pass": true,
+      "detail": {
+        "originalSrc": true,
+        "naturalWidth": 240,
+        "naturalHeight": 240,
+        "width": 240,
+        "height": 240,
+        "visible": true
+      }
+    },
+    {
+      "name": "chromium-1280: sanuki-cloudy-uc9ijh link",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280: sanuki-cloudy-uc9ijh layout",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280: takaisami-uzpgk6-4 image",
+      "pass": true,
+      "detail": {
+        "originalSrc": true,
+        "naturalWidth": 240,
+        "naturalHeight": 240,
+        "width": 240,
+        "height": 240,
+        "visible": true
+      }
+    },
+    {
+      "name": "chromium-1280: takaisami-uzpgk6-4 link",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280: takaisami-uzpgk6-4 layout",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280: ohmine-three-grain-2 image",
+      "pass": true,
+      "detail": {
+        "originalSrc": true,
+        "naturalWidth": 240,
+        "naturalHeight": 240,
+        "width": 240,
+        "height": 240,
+        "visible": true
+      }
+    },
+    {
+      "name": "chromium-1280: ohmine-three-grain-2 link",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280: ohmine-three-grain-2 layout",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280: mikotsuru-junmai-ginjo-hitogokochi-hiire-v1 image",
+      "pass": true,
+      "detail": {
+        "originalSrc": true,
+        "naturalWidth": 102,
+        "naturalHeight": 240,
+        "width": 102,
+        "height": 240,
+        "visible": true
+      }
+    },
+    {
+      "name": "chromium-1280: mikotsuru-junmai-ginjo-hitogokochi-hiire-v1 link",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280: mikotsuru-junmai-ginjo-hitogokochi-hiire-v1 layout",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280: yokoyama-silver7-namazume-v1 image",
+      "pass": true,
+      "detail": {
+        "originalSrc": true,
+        "naturalWidth": 240,
+        "naturalHeight": 240,
+        "width": 240,
+        "height": 240,
+        "visible": true
+      }
+    },
+    {
+      "name": "chromium-1280: yokoyama-silver7-namazume-v1 link",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280: yokoyama-silver7-namazume-v1 layout",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280: tanzawasan-shuho-v1 image",
+      "pass": true,
+      "detail": {
+        "originalSrc": true,
+        "naturalWidth": 240,
+        "naturalHeight": 240,
+        "width": 240,
+        "height": 240,
+        "visible": true
+      }
+    },
+    {
+      "name": "chromium-1280: tanzawasan-shuho-v1 link",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280: tanzawasan-shuho-v1 layout",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280: chochin-tokubetsu-junmai-gold-standard-v1 image",
+      "pass": true,
+      "detail": {
+        "originalSrc": true,
+        "naturalWidth": 240,
+        "naturalHeight": 240,
+        "width": 240,
+        "height": 240,
+        "visible": true
+      }
+    },
+    {
+      "name": "chromium-1280: chochin-tokubetsu-junmai-gold-standard-v1 link",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280: chochin-tokubetsu-junmai-gold-standard-v1 layout",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280: senkin-classic-nishiki-origarami-hiire-v1 image",
+      "pass": true,
+      "detail": {
+        "originalSrc": true,
+        "naturalWidth": 240,
+        "naturalHeight": 240,
+        "width": 240,
+        "height": 240,
+        "visible": true
+      }
+    },
+    {
+      "name": "chromium-1280: senkin-classic-nishiki-origarami-hiire-v1 link",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280: senkin-classic-nishiki-origarami-hiire-v1 layout",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280: ubusuna-yamada-nishiki-ninojo-2025-nama-v1 image",
+      "pass": true,
+      "detail": {
+        "originalSrc": true,
+        "naturalWidth": 160,
+        "naturalHeight": 240,
+        "width": 160,
+        "height": 240,
+        "visible": true
+      }
+    },
+    {
+      "name": "chromium-1280: ubusuna-yamada-nishiki-ninojo-2025-nama-v1 link",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280: ubusuna-yamada-nishiki-ninojo-2025-nama-v1 layout",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280: koeigiku-sukai-hiire-current-v1 image",
+      "pass": true,
+      "detail": {
+        "originalSrc": true,
+        "naturalWidth": 62,
+        "naturalHeight": 240,
+        "width": 62,
+        "height": 240,
+        "visible": true
+      }
+    },
+    {
+      "name": "chromium-1280: koeigiku-sukai-hiire-current-v1 link",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280: koeigiku-sukai-hiire-current-v1 layout",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280: manrei-chokarakuchi-tokubetsu-junmai-current-v1 image",
+      "pass": true,
+      "detail": {
+        "originalSrc": true,
+        "naturalWidth": 240,
+        "naturalHeight": 240,
+        "width": 240,
+        "height": 240,
+        "visible": true
+      }
+    },
+    {
+      "name": "chromium-1280: manrei-chokarakuchi-tokubetsu-junmai-current-v1 link",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280: manrei-chokarakuchi-tokubetsu-junmai-current-v1 layout",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280: kihotsuru-junmai-current-v1 image",
+      "pass": true,
+      "detail": {
+        "originalSrc": true,
+        "naturalWidth": 240,
+        "naturalHeight": 240,
+        "width": 240,
+        "height": 240,
+        "visible": true
+      }
+    },
+    {
+      "name": "chromium-1280: kihotsuru-junmai-current-v1 link",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280: kihotsuru-junmai-current-v1 layout",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280: matsunokotobuki-omachi-hiire-current-v1 image",
+      "pass": true,
+      "detail": {
+        "originalSrc": true,
+        "naturalWidth": 160,
+        "naturalHeight": 240,
+        "width": 160,
+        "height": 240,
+        "visible": true
+      }
+    },
+    {
+      "name": "chromium-1280: matsunokotobuki-omachi-hiire-current-v1 link",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280: matsunokotobuki-omachi-hiire-current-v1 layout",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280: kurobekyo-junmai-ginjo55-current-v1 image",
+      "pass": true,
+      "detail": {
+        "originalSrc": true,
+        "naturalWidth": 240,
+        "naturalHeight": 240,
+        "width": 240,
+        "height": 240,
+        "visible": true
+      }
+    },
+    {
+      "name": "chromium-1280: kurobekyo-junmai-ginjo55-current-v1 link",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280: kurobekyo-junmai-ginjo55-current-v1 layout",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280: fukuiwai-yamada50-junmai-ginjo-current-v1 image",
+      "pass": true,
+      "detail": {
+        "originalSrc": true,
+        "naturalWidth": 239,
+        "naturalHeight": 240,
+        "width": 239,
+        "height": 240,
+        "visible": true
+      }
+    },
+    {
+      "name": "chromium-1280: fukuiwai-yamada50-junmai-ginjo-current-v1 link",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280: fukuiwai-yamada50-junmai-ginjo-current-v1 layout",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280: oku-ten-year-junmai-ginjo-genshu-current-v1 image",
+      "pass": true,
+      "detail": {
+        "originalSrc": true,
+        "naturalWidth": 240,
+        "naturalHeight": 240,
+        "width": 240,
+        "height": 240,
+        "visible": true
+      }
+    },
+    {
+      "name": "chromium-1280: oku-ten-year-junmai-ginjo-genshu-current-v1 link",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280: oku-ten-year-junmai-ginjo-genshu-current-v1 layout",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280: ohga-asahi-junmai-ginjo-current-v1 image",
+      "pass": true,
+      "detail": {
+        "originalSrc": true,
+        "naturalWidth": 144,
+        "naturalHeight": 240,
+        "width": 144,
+        "height": 240,
+        "visible": true
+      }
+    },
+    {
+      "name": "chromium-1280: ohga-asahi-junmai-ginjo-current-v1 link",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280: ohga-asahi-junmai-ginjo-current-v1 layout",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280: ryusei-muku-omachi-kimoto-current-v1 image",
+      "pass": true,
+      "detail": {
+        "originalSrc": true,
+        "naturalWidth": 240,
+        "naturalHeight": 240,
+        "width": 240,
+        "height": 240,
+        "visible": true
+      }
+    },
+    {
+      "name": "chromium-1280: ryusei-muku-omachi-kimoto-current-v1 link",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280: ryusei-muku-omachi-kimoto-current-v1 layout",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280: kameman-nigori-genshu-current-v1 image",
+      "pass": true,
+      "detail": {
+        "originalSrc": true,
+        "naturalWidth": 240,
+        "naturalHeight": 240,
+        "width": 240,
+        "height": 240,
+        "visible": true
+      }
+    },
+    {
+      "name": "chromium-1280: kameman-nigori-genshu-current-v1 link",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280: kameman-nigori-genshu-current-v1 layout",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280: hiokizakura-tokujo-junmai-omachi-current-v1 image",
+      "pass": true,
+      "detail": {
+        "originalSrc": true,
+        "naturalWidth": 240,
+        "naturalHeight": 240,
+        "width": 240,
+        "height": 240,
+        "visible": true
+      }
+    },
+    {
+      "name": "chromium-1280: hiokizakura-tokujo-junmai-omachi-current-v1 link",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280: hiokizakura-tokujo-junmai-omachi-current-v1 layout",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280: hanagaki-o0ffit-5 image",
+      "pass": true,
+      "detail": {
+        "originalSrc": true,
+        "naturalWidth": 240,
+        "naturalHeight": 240,
+        "width": 240,
+        "height": 240,
+        "visible": true
+      }
+    },
+    {
+      "name": "chromium-1280: hanagaki-o0ffit-5 link",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280: hanagaki-o0ffit-5 layout",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280: search query survives back",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280: old favorite no alias",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280: favorites not migrated",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280: inactive excluded",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280: night dish recommendation",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280: food detail",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280: placeholder",
+      "pass": true
+    }
+  ],
+  "errors": [],
+  "passed": true,
+  "realDeviceTested": false,
+  "externalPurchaseClicked": false,
+  "serviceWorkers": "blocked; PWA assets and logic protected unchanged by hash tests"
+}

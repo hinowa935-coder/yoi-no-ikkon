@@ -1,7 +1,8 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
 import fs from 'node:fs';
-import {visibleSakePairings} from '../src/data/siteData.js';
+import {allSakePairings,visibleSakePairings,sakeCatalogStatus} from '../src/data/siteData.js';
+import {historicalBatch} from './lib/reviewed-historical-update.mjs';
 import {discoveryDishes,discoveryNights,foodDirections,recommendSake,scorePairing} from '../src/data/discovery.js';
 import {sakeDiscoveryHref,sakeDiscoveryContext} from '../src/data/discoveryContext.js';
 import {recordSakeEntry,emitAffiliateClick} from '../src/commerce/entryTracking.js';
@@ -30,7 +31,7 @@ test('all 45 retired favorites retain their own identity and never silently beco
 test('new 45 identities are unique, sourced and have independent Amazon search destinations',()=>{
  const ids=read('src/commerce/generated/replacement-ids.json'),links=read('src/commerce/generated/discovery-links.json');
  assert.equal(ids.length,45);assert.equal(new Set(ids).size,45);
- for(const id of ids){const item=visibleSakePairings.find(i=>i.id===id);assert(item);assert(item.sakeResearch.sources.length);
+ for(const id of ids){const item=allSakePairings.find(i=>i.id===id);assert(item);assert(item.sakeResearch.sources.length);if(sakeCatalogStatus(id)!=='ACTIVE')assert(historicalBatch.inactivated.includes(id));
   assert.deepEqual(item.temperature,item.sakeResearch.servingTemperatures);
   assert.deepEqual(item.officialPairings,item.sakeResearch.officialPairings);
   const link=links[id].links.find(l=>l.provider==='amazon');assert.equal(new URL(link.url).pathname,'/s');assert.equal(new URL(link.url).searchParams.get('k'),item.productName);assert.equal(link.isAffiliate,false);}

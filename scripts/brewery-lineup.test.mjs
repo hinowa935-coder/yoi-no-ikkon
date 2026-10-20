@@ -53,7 +53,7 @@ test('availability, prices, images, brewery popularity and commission never rais
 });
 test('manual lifecycle excludes only reviewed off-shelf IDs while favorites and old pages keep identity',()=>{
  const states=read('src/data/catalogLifecycle.json').records;
- assert.equal(allSakePairings.length-visibleSakePairings.length,batch.inactivated.length);
+ assert.equal(allSakePairings.length-visibleSakePairings.length,Object.values(states).filter(r=>r.status==='INACTIVE'||r.status==='ARCHIVED').length);
  for(const id of batch.inactivated){assert.equal(states[id].status,'INACTIVE');assert(!visibleSakePairings.some(i=>i.id===id));assert(!discoveryProducts.some(i=>i.id===id));assert.equal(getSakeById(id).id,id);assert.equal(resolveFavorite(id).canonicalId,id);assert.deepEqual(migrateFavorites([id]),[id]);}
  assert.equal(batch.archived.length,0);assert.equal(batch.automaticPublicationAllowed,false);assert.equal(batch.weeklyMonitoringEnabled,false);
 });

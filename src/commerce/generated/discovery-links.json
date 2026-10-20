@@ -18208,5 +18208,170 @@
         "validUntil": "2026-11-19T04:55:09.130Z"
       }
     ]
+  },
+  "koeigiku-sukai-hiire-current-v1": {
+    "productFingerprint": "28903fd0d47d6b6e3d9d954ef41d163a5c79ac132873ccc9976654044aee0412",
+    "links": [
+      {
+        "sakeId": "koeigiku-sukai-hiire-current-v1",
+        "provider": "amazon",
+        "matchType": "search",
+        "destinationType": "search_results",
+        "isAffiliate": false,
+        "url": "https://www.amazon.co.jp/s?k=%E5%85%89%E6%A0%84%E8%8F%8A%20%E7%89%B9%E5%88%A5%E7%B4%94%E7%B1%B3%20%E6%B8%85%E6%B5%B7%20Sukai%20%E7%81%AB%E5%85%A5%E3%82%8C",
+        "label": "Amazonでこのお酒を探す",
+        "validUntil": "2026-11-19T13:28:34.216Z"
+      }
+    ]
+  },
+  "manrei-chokarakuchi-tokubetsu-junmai-current-v1": {
+    "productFingerprint": "ead0a4150dd403127bd33748806b3694caf230e9ec778f0841bccf0d0d2da981",
+    "links": [
+      {
+        "sakeId": "manrei-chokarakuchi-tokubetsu-junmai-current-v1",
+        "provider": "amazon",
+        "matchType": "search",
+        "destinationType": "search_results",
+        "isAffiliate": false,
+        "url": "https://www.amazon.co.jp/s?k=%E4%B8%87%E9%BD%A2%20%E7%89%B9%E5%88%A5%E7%B4%94%E7%B1%B3%20%E8%B6%85%E8%BE%9B%E5%8F%A3",
+        "label": "Amazonでこのお酒を探す",
+        "validUntil": "2026-11-19T13:28:34.216Z"
+      }
+    ]
+  },
+  "kihotsuru-junmai-current-v1": {
+    "productFingerprint": "a7bc19ac7b4533b28f4a400cd4ed33a8d870b83a276488809d7403b3bdd30bdc",
+    "links": [
+      {
+        "sakeId": "kihotsuru-junmai-current-v1",
+        "provider": "amazon",
+        "matchType": "search",
+        "destinationType": "search_results",
+        "isAffiliate": false,
+        "url": "https://www.amazon.co.jp/s?k=%E5%9F%BA%E5%B3%B0%E9%B6%B4%20%E7%B4%94%E7%B1%B3%E9%85%92",
+        "label": "Amazonでこのお酒を探す",
+        "validUntil": "2026-11-19T13:28:34.216Z"
+      }
+    ]
+  },
+  "matsunokotobuki-omachi-hiire-current-v1": {
+    "productFingerprint": "dc06f833d8233a3946a8a045621ab8aa1f1a975476e427daffb83dbc2e58d892",
+    "links": [
+      {
+        "sakeId": "matsunokotobuki-omachi-hiire-current-v1",
+        "provider": "amazon",
+        "matchType": "search",
+        "destinationType": "search_results",
+        "isAffiliate": false,
+        "url": "https://www.amazon.co.jp/s?k=%E6%9D%BE%E3%81%AE%E5%AF%BF%20%E7%B4%94%E7%B1%B3%E5%90%9F%E9%86%B8%20%E9%9B%84%E7%94%BA%20%E7%84%A1%E6%BF%BE%E9%81%8E%20%E7%81%AB%E5%85%A5%E3%82%8C",
+        "label": "Amazonでこのお酒を探す",
+        "validUntil": "2026-11-19T13:28:34.216Z"
+      }
+    ]
+  },
+  "kurobekyo-junmai-ginjo55-current-v1": {
+    "productFingerprint": "e66fd266a7117bd6772f202a86a87b3e812f02c8c5023a761b2e00e8d9d7543e",
+    "links": [
+      {
+        "sakeId": "kurobekyo-junmai-ginjo55-current-v1",
+        "provider": "amazon",
+        "matchType": "search",
+        "destinationType": "search_results",
+        "isAffiliate": false,
+        "url": "https://www.amazon.co.jp/s?k=%E9%BB%92%E9%83%A8%E5%B3%A1%20%E7%B4%94%E7%B1%B3%E5%90%9F%E9%86%B855",
+        "label": "Amazonでこのお酒を探す",
+        "validUntil": "2026-11-19T13:28:34.216Z"
+      }
+    ]
+  },
+  "fukuiwai-yamada50-junmai-ginjo-current-v1": {
+    "productFingerprint": "45584f9e03d1a449367101371b33252366baef4c95530a8ce9b533a2c5b81085",
+    "links": [
+      {
+        "sakeId": "fukuiwai-yamada50-junmai-ginjo-current-v1",
+        "provider": "amazon",
+        "matchType": "search",
+        "destinationType": "search_results",
+        "isAffiliate": false,
+        "url": "https://www.amazon.co.jp/s?k=%E7%A6%8F%E7%A5%9D%20%E5%B1%B1%E7%94%B0%E9%8C%A650%EF%BC%85%E7%A3%A8%E3%81%8D%20%E7%B4%94%E7%B1%B3%E5%90%9F%E9%86%B8",
+        "label": "Amazonでこのお酒を探す",
+        "validUntil": "2026-11-19T13:28:34.216Z"
+      }
+    ]
+  },
+  "oku-ten-year-junmai-ginjo-genshu-current-v1": {
+    "productFingerprint": "3bf045816ef323a51d8f088aaa5cfbdaf5665c24dcafafdc62af70e7c08e9075",
+    "links": [
+      {
+        "sakeId": "oku-ten-year-junmai-ginjo-genshu-current-v1",
+        "provider": "amazon",
+        "matchType": "search",
+        "destinationType": "search_results",
+        "isAffiliate": false,
+        "url": "https://www.amazon.co.jp/s?k=%E5%A5%A5%20%E5%8D%81%E5%B9%B4%E4%BD%8E%E6%B8%A9%E7%86%9F%E6%88%90%20%E7%B4%94%E7%B1%B3%E5%90%9F%E9%86%B8%E5%8E%9F%E9%85%92",
+        "label": "Amazonでこのお酒を探す",
+        "validUntil": "2026-11-19T13:28:34.216Z"
+      }
+    ]
+  },
+  "ohga-asahi-junmai-ginjo-current-v1": {
+    "productFingerprint": "42e0b44bb4b55555b8967bcc0c137387ebb5965bd97af1e339a43a54da450231",
+    "links": [
+      {
+        "sakeId": "ohga-asahi-junmai-ginjo-current-v1",
+        "provider": "amazon",
+        "matchType": "search",
+        "destinationType": "search_results",
+        "isAffiliate": false,
+        "url": "https://www.amazon.co.jp/s?k=%E5%A4%A7%E8%B3%80%20%E7%B4%94%E7%B1%B3%E5%90%9F%E9%86%B8%20%E8%BE%9B%E5%8F%A3%20%E6%9C%9D%E6%97%A5%E7%B1%B3",
+        "label": "Amazonでこのお酒を探す",
+        "validUntil": "2026-11-19T13:28:34.216Z"
+      }
+    ]
+  },
+  "ryusei-muku-omachi-kimoto-current-v1": {
+    "productFingerprint": "1d0a284355b21f8fb7fa8731e9102b2af37e974ef593cc769a104da8064fd5bd",
+    "links": [
+      {
+        "sakeId": "ryusei-muku-omachi-kimoto-current-v1",
+        "provider": "amazon",
+        "matchType": "search",
+        "destinationType": "search_results",
+        "isAffiliate": false,
+        "url": "https://www.amazon.co.jp/s?k=%E9%BE%8D%E5%8B%A2%20%E7%84%A1%E5%9E%A2%E3%81%AE%E7%B3%BB%E8%AD%9C%20-%E9%9B%84%E7%94%BA-",
+        "label": "Amazonでこのお酒を探す",
+        "validUntil": "2026-11-19T13:28:34.216Z"
+      }
+    ]
+  },
+  "kameman-nigori-genshu-current-v1": {
+    "productFingerprint": "7cdf20cfae36b26b6f70b3da2a8243803df4cea100f33de25c5bdc237d63d257",
+    "links": [
+      {
+        "sakeId": "kameman-nigori-genshu-current-v1",
+        "provider": "amazon",
+        "matchType": "search",
+        "destinationType": "search_results",
+        "isAffiliate": false,
+        "url": "https://www.amazon.co.jp/s?k=%E4%BA%80%E8%90%AC%20%E3%81%AB%E3%81%94%E3%82%8A%E5%8E%9F%E9%85%92",
+        "label": "Amazonでこのお酒を探す",
+        "validUntil": "2026-11-19T13:28:34.216Z"
+      }
+    ]
+  },
+  "hiokizakura-tokujo-junmai-omachi-current-v1": {
+    "productFingerprint": "7ce51950b70ba77e80d54f73aa8baa93f11cce0bafcd988cefeb81fa11d90913",
+    "links": [
+      {
+        "sakeId": "hiokizakura-tokujo-junmai-omachi-current-v1",
+        "provider": "amazon",
+        "matchType": "search",
+        "destinationType": "search_results",
+        "isAffiliate": false,
+        "url": "https://www.amazon.co.jp/s?k=%E6%97%A5%E7%BD%AE%E6%A1%9C%20%E7%89%B9%E9%86%B8%E7%B4%94%E7%B1%B3%E9%85%92",
+        "label": "Amazonでこのお酒を探す",
+        "validUntil": "2026-11-19T13:28:34.216Z"
+      }
+    ]
   }
 }

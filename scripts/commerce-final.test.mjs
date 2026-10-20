@@ -2,7 +2,7 @@ import test from 'node:test';
 import assert from 'node:assert/strict';
 import fs from 'node:fs';
 import {parseFragment} from 'parse5';
-import {visibleSakePairings} from '../src/data/siteData.js';
+import {allSakePairings} from '../src/data/siteData.js';
 import {projectFinalCommerce} from '../src/commerce/finalCommerce.js';
 import {productMediaFor} from '../src/commerce/productMedia.js';
 import {visiblePurchaseLinks,purchaseLabel} from '../src/commerce/purchasePresentation.js';
@@ -17,7 +17,7 @@ test('all approved images retain original tool HTML and the same product and cap
   assert(Object.keys(media).length>0);
   assert(Object.keys(media).every(id=>matches[id]),'Stored image identity is separate from current stock eligibility');
   for(const [id,image]of Object.entries(media)) {
-    const item=visibleSakePairings.find(p=>p.id===id);
+    const item=allSakePairings.find(p=>p.id===id);
     assert.equal(matches[id].directLinkAllowed,!purchaseUnavailable(id));
     assert.equal(Boolean(productMediaFor(item)),!imageDisplayUnavailable(id));assert.equal(sha256(image.html),image.originalSha256);
     let anchors=[],images=[];
@@ -39,19 +39,19 @@ test('all approved images retain original tool HTML and the same product and cap
 
 test('confirmed normal direct links without official creatives keep the placeholder and do not become affiliate links',()=>{
   for(const [id,match]of Object.entries(matches).filter(([id,m])=>m.directLinkAllowed&&!media[id])){
-    const item=visibleSakePairings.find(p=>p.id===id),view=projectFinalCommerce(item,config);
+    const item=allSakePairings.find(p=>p.id===id),view=projectFinalCommerce(item,config);
     assert.equal(view.normal.length,1);assert.equal(view.normal[0].href,match.normalUrl);assert.equal(view.normal[0].affiliate,false);
     assert.equal(view.offer,null);assert.equal(productMediaFor(item),null);
   }
 });
 test('medium, unknown, wrong image, wrong capacity and unknown source never supply product media',()=>{
-  const id=Object.keys(media)[0], item=visibleSakePairings.find(p=>p.id===id),image=media[id];
+  const id=Object.keys(media)[0], item=allSakePairings.find(p=>p.id===id),image=media[id];
   for(const patch of [{matchConfidence:'medium'},{matchConfidence:'low'},{imageCapacityMl:999},{imageProductUrl:'https://item.rakuten.co.jp/other/1/'},
     {src:'https://evil.example/image.jpg'},{originalUnmodified:false},{sourceType:'scraped'}])assert.equal(productMediaFor(item,{[id]:{...image,...patch}}),null);
   assert.equal(productMediaFor({id:'unknown',productName:'unknown'}),null);
 });
 test('global opt out, wrong site, wrong route and expiry disable formal links with normal fallback retained',()=>{
-  const item=visibleSakePairings.find(p=>media[p.id]);
+  const item=allSakePairings.find(p=>media[p.id]);
   for(const patch of [{enabled:false},{registeredSite:'https://other.example/'},{routes:{rakuten:'none'}},{enabledProviders:[]}])assert.equal(projectFinalCommerce(item,{...config,...patch}).offer,null);
   assert.equal(projectFinalCommerce(item,config,Date.now()+40*86400000).offer,null);
   assert.equal(projectFinalCommerce(item,{...config,enabled:false}).normal.length,1);
@@ -59,7 +59,7 @@ test('global opt out, wrong site, wrong route and expiry disable formal links wi
 test('failed affiliate destinations stay search fallback without images or purchasability assertions',()=>{
   for(const id of Object.keys(matches).filter(id=>!matches[id].directLinkAllowed)) {
     assert.equal(matches[id].directLinkAllowed,false);if(!purchaseUnavailable(id))assert.equal(media[id],undefined);
-    assert.deepEqual(projectFinalCommerce(visibleSakePairings.find(p=>p.id===id),config),{normal:[],offer:null});
+    assert.deepEqual(projectFinalCommerce(allSakePairings.find(p=>p.id===id),config),{normal:[],offer:null});
   }
 });
 test('Yahoo is hidden without deleting source data, and Rakuten is presented before Amazon and official',()=>{

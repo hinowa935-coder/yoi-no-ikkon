@@ -4,7 +4,8 @@ import fs from 'node:fs';
 import {createHash} from 'node:crypto';
 import {productMediaFor} from '../src/commerce/productMedia.js';
 import {additions} from './lib/catalog-fixture.mjs';
-import {reviewedCommerceUpdate,reviewedImageRescueIds,reviewedPurchaseHoldIds} from './lib/reviewed-commerce-update.mjs';
+import {reviewedCommerceUpdate,reviewedImageRescueIds,reviewedPurchaseHoldIds,reviewedDirectRescueIds} from './lib/reviewed-commerce-update.mjs';
+import {reviewedHistoricalRecovery} from './lib/reviewed-historical-update.mjs';
 const read=p=>JSON.parse(fs.readFileSync(new URL('../'+p,import.meta.url))),hash=v=>createHash('sha256').update(JSON.stringify(v)).digest('hex');
 const catalog=read('src/data/discoveryCatalog.json'),matches=read('src/commerce/generated/purchase-matches.json'),media=read('src/commerce/generated/product-media.json');
 const audit=read('docs/rakuten-deep-review/audit.json'),published=read('docs/rakuten-deep-review/published.json').rows,protection=read('docs/rakuten-deep-review/protection.json');
@@ -19,7 +20,7 @@ test('original 352 links, 344 media and 491 untouched catalog records stay byte-
  for(const[id,digest]of Object.entries(protection.links))assert(hash(matches[id])===digest||reviewedCommerceUpdate('src/commerce/generated/purchase-matches.json',id,digest,matches[id]));
  for(const[id,digest]of Object.entries(protection.images))assert(hash(media.records[id])===digest||reviewedCommerceUpdate('src/commerce/generated/product-media.json',id,digest,media.records[id]));
  for(const[id,digest]of Object.entries(protection.items))assert.equal(hash(catalog.items.find(i=>i.id===id)),digest);
- assert.equal(Object.values(matches).filter(m=>m.directLinkAllowed).length,378+additions.length-reviewedPurchaseHoldIds.length);assert.equal(Object.keys(media.records).length,370+additions.length+reviewedImageRescueIds.length);
+ assert.equal(Object.values(matches).filter(m=>m.directLinkAllowed).length,378+additions.length-reviewedPurchaseHoldIds.length+reviewedDirectRescueIds.length);assert.equal(Object.keys(media.records).length,370+additions.length+reviewedImageRescueIds.length);
 });
 test('26 additions use matching original creatives, capacity, successful links and explicit current visual review',()=>{
  const visual=read('docs/rakuten-deep-review/visual-review-decisions.json').rows,links=read('docs/rakuten-deep-review/link-validation.json').rows;
@@ -39,7 +40,7 @@ test('Ginban replacement has fresh identity, independent specifications and no i
 test('non-single destinations, version differences and incomplete official evidence do not become automatic approvals',()=>{
  assert(!matches['fudo-ichido-hiire-tokubetsu-junmai-v1']?.directLinkAllowed);
  const unresolved=audit.rows.filter(r=>!['EXACT_RECOVERED','SAME_BRAND_REPLACED','SAME_BREWERY_REPLACED'].includes(r.finalDecision));assert.equal(unresolved.length,114);
- for(const row of unresolved)assert(!matches[row.sakeId]?.directLinkAllowed);
+ for(const row of unresolved)assert(!matches[row.sakeId]?.directLinkAllowed||reviewedHistoricalRecovery(row.sakeId,matches[row.sakeId],media.records[row.sakeId]));
  for(const row of audit.rows)for(const c of row.replacementCandidates)if(c.status!=='APPROVED_AS_NEW_PRODUCT')assert.equal(c.officialApproval,false);
  assert.equal(matches['okunokami-junmai-ginjo-muchosei-nama-v1'].normalUrl,'https://item.rakuten.co.jp/jizake-watanabe/10009025/');
 });

@@ -1,0 +1,8 @@
+import fs from 'node:fs';
+import {createHash} from 'node:crypto';
+export const historicalBatch=JSON.parse(fs.readFileSync(new URL('../../data/catalog-operations/historical-fallback-batch.json',import.meta.url)));
+const digest=value=>createHash('sha256').update(JSON.stringify(value)).digest('hex');
+export function reviewedHistoricalCommerce(file,id,beforeDigest,current){return historicalBatch.reviewed===true&&historicalBatch.automaticPublicationAllowed===false&&(historicalBatch.commerceChanges||[]).some(c=>c.file===file&&c.sakeId===id&&c.beforeSha256===beforeDigest&&c.afterSha256===digest(current));}
+export function reviewedHistoricalLifecycle(before,after){return historicalBatch.reviewed===true&&historicalBatch.automaticPublicationAllowed===false&&historicalBatch.lifecycleFile.beforeSha256===before&&historicalBatch.lifecycleFile.afterSha256===after;}
+export function historicalAdditionCount(items){const added=items.filter(i=>historicalBatch.additions.includes(i.id));if(added.length!==historicalBatch.additions.length||new Set(added.map(i=>i.id)).size!==added.length)throw Error('Invalid historical update IDs');return added.length;}
+export function reviewedHistoricalRecovery(id,match,image){return historicalBatch.exactRecoveries.includes(id)&&reviewedHistoricalCommerce('src/commerce/generated/purchase-matches.json',id,digest(null),match)&&reviewedHistoricalCommerce('src/commerce/generated/product-media.json',id,digest(null),image);}
