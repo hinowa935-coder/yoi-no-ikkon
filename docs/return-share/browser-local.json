@@ -1,0 +1,786 @@
+{
+  "checkedAt": "2026-10-20T06:42:52.275Z",
+  "base": "http://127.0.0.1:3197",
+  "checks": [
+    {
+      "name": "webkit-320-ios: one site CTA",
+      "pass": true
+    },
+    {
+      "name": "webkit-320-ios: no automatic share",
+      "pass": true
+    },
+    {
+      "name": "webkit-320-ios: guide below About",
+      "pass": 2
+    },
+    {
+      "name": "webkit-320-ios: guide closed by default",
+      "pass": true
+    },
+    {
+      "name": "webkit-320-ios: platform instructions",
+      "pass": true
+    },
+    {
+      "name": "webkit-320-ios: guide opens by user action",
+      "pass": true
+    },
+    {
+      "name": "webkit-320-ios: Escape closes and restores focus",
+      "pass": true
+    },
+    {
+      "name": "webkit-320-ios: site native payload",
+      "pass": true
+    },
+    {
+      "name": "webkit-320-ios: share open analytics",
+      "pass": true
+    },
+    {
+      "name": "webkit-320-ios: home no horizontal overflow",
+      "pass": true
+    },
+    {
+      "name": "webkit-320-ios: one detail CTA at end",
+      "pass": true
+    },
+    {
+      "name": "webkit-320-ios: no hero share duplicate",
+      "pass": true
+    },
+    {
+      "name": "webkit-320-ios: detail shares clean first-party URL",
+      "pass": true
+    },
+    {
+      "name": "webkit-320-ios: detail event",
+      "pass": true
+    },
+    {
+      "name": "webkit-320-ios: detail image retained",
+      "pass": true
+    },
+    {
+      "name": "webkit-320-ios: detail no overflow",
+      "pass": true
+    },
+    {
+      "name": "webkit-320-ios: favorite retained",
+      "pass": true
+    },
+    {
+      "name": "webkit-320-ios: ochoko only compact guide",
+      "pass": true
+    },
+    {
+      "name": "webkit-320-ios: ochoko instructions",
+      "pass": true
+    },
+    {
+      "name": "webkit-320-ios: appinstalled hides hint",
+      "pass": true
+    },
+    {
+      "name": "webkit-320-ios: search return preserved",
+      "pass": true
+    },
+    {
+      "name": "webkit-320-ios: Discover night food recommendations",
+      "pass": true
+    },
+    {
+      "name": "webkit-320-ios: /food/item-13w7k4b",
+      "pass": true
+    },
+    {
+      "name": "webkit-320-ios: /about",
+      "pass": true
+    },
+    {
+      "name": "webkit-320-ios: mobile/desktop navigation",
+      "pass": true
+    },
+    {
+      "name": "webkit-360-ios: one site CTA",
+      "pass": true
+    },
+    {
+      "name": "webkit-360-ios: no automatic share",
+      "pass": true
+    },
+    {
+      "name": "webkit-360-ios: guide below About",
+      "pass": 2
+    },
+    {
+      "name": "webkit-360-ios: guide closed by default",
+      "pass": true
+    },
+    {
+      "name": "webkit-360-ios: platform instructions",
+      "pass": true
+    },
+    {
+      "name": "webkit-360-ios: guide opens by user action",
+      "pass": true
+    },
+    {
+      "name": "webkit-360-ios: Escape closes and restores focus",
+      "pass": true
+    },
+    {
+      "name": "webkit-360-ios: site native payload",
+      "pass": true
+    },
+    {
+      "name": "webkit-360-ios: share open analytics",
+      "pass": true
+    },
+    {
+      "name": "webkit-360-ios: home no horizontal overflow",
+      "pass": true
+    },
+    {
+      "name": "webkit-360-ios: one detail CTA at end",
+      "pass": true
+    },
+    {
+      "name": "webkit-360-ios: no hero share duplicate",
+      "pass": true
+    },
+    {
+      "name": "webkit-360-ios: detail shares clean first-party URL",
+      "pass": true
+    },
+    {
+      "name": "webkit-360-ios: detail event",
+      "pass": true
+    },
+    {
+      "name": "webkit-360-ios: detail image retained",
+      "pass": true
+    },
+    {
+      "name": "webkit-360-ios: detail no overflow",
+      "pass": true
+    },
+    {
+      "name": "webkit-360-ios: favorite retained",
+      "pass": true
+    },
+    {
+      "name": "webkit-360-ios: ochoko only compact guide",
+      "pass": true
+    },
+    {
+      "name": "webkit-360-ios: ochoko instructions",
+      "pass": true
+    },
+    {
+      "name": "webkit-360-ios: appinstalled hides hint",
+      "pass": true
+    },
+    {
+      "name": "webkit-360-ios: search return preserved",
+      "pass": true
+    },
+    {
+      "name": "webkit-360-ios: Discover night food recommendations",
+      "pass": true
+    },
+    {
+      "name": "webkit-360-ios: /food/item-13w7k4b",
+      "pass": true
+    },
+    {
+      "name": "webkit-360-ios: /about",
+      "pass": true
+    },
+    {
+      "name": "webkit-360-ios: mobile/desktop navigation",
+      "pass": true
+    },
+    {
+      "name": "webkit-375-ios: one site CTA",
+      "pass": true
+    },
+    {
+      "name": "webkit-375-ios: no automatic share",
+      "pass": true
+    },
+    {
+      "name": "webkit-375-ios: guide below About",
+      "pass": 2
+    },
+    {
+      "name": "webkit-375-ios: guide closed by default",
+      "pass": true
+    },
+    {
+      "name": "webkit-375-ios: platform instructions",
+      "pass": true
+    },
+    {
+      "name": "webkit-375-ios: guide opens by user action",
+      "pass": true
+    },
+    {
+      "name": "webkit-375-ios: Escape closes and restores focus",
+      "pass": true
+    },
+    {
+      "name": "webkit-375-ios: site native payload",
+      "pass": true
+    },
+    {
+      "name": "webkit-375-ios: share open analytics",
+      "pass": true
+    },
+    {
+      "name": "webkit-375-ios: home no horizontal overflow",
+      "pass": true
+    },
+    {
+      "name": "webkit-375-ios: one detail CTA at end",
+      "pass": true
+    },
+    {
+      "name": "webkit-375-ios: no hero share duplicate",
+      "pass": true
+    },
+    {
+      "name": "webkit-375-ios: detail shares clean first-party URL",
+      "pass": true
+    },
+    {
+      "name": "webkit-375-ios: detail event",
+      "pass": true
+    },
+    {
+      "name": "webkit-375-ios: detail image retained",
+      "pass": true
+    },
+    {
+      "name": "webkit-375-ios: detail no overflow",
+      "pass": true
+    },
+    {
+      "name": "webkit-375-ios: favorite retained",
+      "pass": true
+    },
+    {
+      "name": "webkit-375-ios: ochoko only compact guide",
+      "pass": true
+    },
+    {
+      "name": "webkit-375-ios: ochoko instructions",
+      "pass": true
+    },
+    {
+      "name": "webkit-375-ios: appinstalled hides hint",
+      "pass": true
+    },
+    {
+      "name": "webkit-375-ios: search return preserved",
+      "pass": true
+    },
+    {
+      "name": "webkit-375-ios: Discover night food recommendations",
+      "pass": true
+    },
+    {
+      "name": "webkit-375-ios: /food/item-13w7k4b",
+      "pass": true
+    },
+    {
+      "name": "webkit-375-ios: /about",
+      "pass": true
+    },
+    {
+      "name": "webkit-375-ios: mobile/desktop navigation",
+      "pass": true
+    },
+    {
+      "name": "webkit-390-ios: one site CTA",
+      "pass": true
+    },
+    {
+      "name": "webkit-390-ios: no automatic share",
+      "pass": true
+    },
+    {
+      "name": "webkit-390-ios: guide below About",
+      "pass": 2
+    },
+    {
+      "name": "webkit-390-ios: guide closed by default",
+      "pass": true
+    },
+    {
+      "name": "webkit-390-ios: platform instructions",
+      "pass": true
+    },
+    {
+      "name": "webkit-390-ios: guide opens by user action",
+      "pass": true
+    },
+    {
+      "name": "webkit-390-ios: Escape closes and restores focus",
+      "pass": true
+    },
+    {
+      "name": "webkit-390-ios: site native payload",
+      "pass": true
+    },
+    {
+      "name": "webkit-390-ios: share open analytics",
+      "pass": true
+    },
+    {
+      "name": "webkit-390-ios: cancel silent",
+      "pass": true
+    },
+    {
+      "name": "webkit-390-ios: native technical failure copies",
+      "pass": true
+    },
+    {
+      "name": "webkit-390-ios: unsupported share copy and event",
+      "pass": true
+    },
+    {
+      "name": "webkit-390-ios: clipboard denial handled",
+      "pass": true
+    },
+    {
+      "name": "webkit-390-ios: home no horizontal overflow",
+      "pass": true
+    },
+    {
+      "name": "webkit-390-ios: one detail CTA at end",
+      "pass": true
+    },
+    {
+      "name": "webkit-390-ios: no hero share duplicate",
+      "pass": true
+    },
+    {
+      "name": "webkit-390-ios: detail shares clean first-party URL",
+      "pass": true
+    },
+    {
+      "name": "webkit-390-ios: detail event",
+      "pass": true
+    },
+    {
+      "name": "webkit-390-ios: detail image retained",
+      "pass": true
+    },
+    {
+      "name": "webkit-390-ios: detail no overflow",
+      "pass": true
+    },
+    {
+      "name": "webkit-390-ios: favorite retained",
+      "pass": true
+    },
+    {
+      "name": "webkit-390-ios: ochoko only compact guide",
+      "pass": true
+    },
+    {
+      "name": "webkit-390-ios: ochoko instructions",
+      "pass": true
+    },
+    {
+      "name": "webkit-390-ios: appinstalled hides hint",
+      "pass": true
+    },
+    {
+      "name": "webkit-390-ios: search return preserved",
+      "pass": true
+    },
+    {
+      "name": "webkit-390-ios: Discover night food recommendations",
+      "pass": true
+    },
+    {
+      "name": "webkit-390-ios: /food/item-13w7k4b",
+      "pass": true
+    },
+    {
+      "name": "webkit-390-ios: /about",
+      "pass": true
+    },
+    {
+      "name": "webkit-390-ios: mobile/desktop navigation",
+      "pass": true
+    },
+    {
+      "name": "webkit-390-ios: navigator standalone hides guide but retains share",
+      "pass": true
+    },
+    {
+      "name": "webkit-390-ios: display-mode standalone hides guide but retains share",
+      "pass": true
+    },
+    {
+      "name": "webkit-430-ios: one site CTA",
+      "pass": true
+    },
+    {
+      "name": "webkit-430-ios: no automatic share",
+      "pass": true
+    },
+    {
+      "name": "webkit-430-ios: guide below About",
+      "pass": 2
+    },
+    {
+      "name": "webkit-430-ios: guide closed by default",
+      "pass": true
+    },
+    {
+      "name": "webkit-430-ios: platform instructions",
+      "pass": true
+    },
+    {
+      "name": "webkit-430-ios: guide opens by user action",
+      "pass": true
+    },
+    {
+      "name": "webkit-430-ios: Escape closes and restores focus",
+      "pass": true
+    },
+    {
+      "name": "webkit-430-ios: site native payload",
+      "pass": true
+    },
+    {
+      "name": "webkit-430-ios: share open analytics",
+      "pass": true
+    },
+    {
+      "name": "webkit-430-ios: home no horizontal overflow",
+      "pass": true
+    },
+    {
+      "name": "webkit-430-ios: one detail CTA at end",
+      "pass": true
+    },
+    {
+      "name": "webkit-430-ios: no hero share duplicate",
+      "pass": true
+    },
+    {
+      "name": "webkit-430-ios: detail shares clean first-party URL",
+      "pass": true
+    },
+    {
+      "name": "webkit-430-ios: detail event",
+      "pass": true
+    },
+    {
+      "name": "webkit-430-ios: detail image retained",
+      "pass": true
+    },
+    {
+      "name": "webkit-430-ios: detail no overflow",
+      "pass": true
+    },
+    {
+      "name": "webkit-430-ios: favorite retained",
+      "pass": true
+    },
+    {
+      "name": "webkit-430-ios: ochoko only compact guide",
+      "pass": true
+    },
+    {
+      "name": "webkit-430-ios: ochoko instructions",
+      "pass": true
+    },
+    {
+      "name": "webkit-430-ios: appinstalled hides hint",
+      "pass": true
+    },
+    {
+      "name": "webkit-430-ios: search return preserved",
+      "pass": true
+    },
+    {
+      "name": "webkit-430-ios: Discover night food recommendations",
+      "pass": true
+    },
+    {
+      "name": "webkit-430-ios: /food/item-13w7k4b",
+      "pass": true
+    },
+    {
+      "name": "webkit-430-ios: /about",
+      "pass": true
+    },
+    {
+      "name": "webkit-430-ios: mobile/desktop navigation",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280-desktop: one site CTA",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280-desktop: no automatic share",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280-desktop: desktop has no guide",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280-desktop: site native payload",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280-desktop: share open analytics",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280-desktop: cancel silent",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280-desktop: native technical failure copies",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280-desktop: unsupported share copy and event",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280-desktop: clipboard denial handled",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280-desktop: home no horizontal overflow",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280-desktop: one detail CTA at end",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280-desktop: no hero share duplicate",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280-desktop: detail shares clean first-party URL",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280-desktop: detail event",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280-desktop: detail image retained",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280-desktop: detail no overflow",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280-desktop: favorite retained",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280-desktop: ochoko only compact guide",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280-desktop: search return preserved",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280-desktop: Discover night food recommendations",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280-desktop: /food/item-13w7k4b",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280-desktop: /about",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280-desktop: mobile/desktop navigation",
+      "pass": true
+    },
+    {
+      "name": "chromium-390-android: one site CTA",
+      "pass": true
+    },
+    {
+      "name": "chromium-390-android: no automatic share",
+      "pass": true
+    },
+    {
+      "name": "chromium-390-android: guide below About",
+      "pass": 2
+    },
+    {
+      "name": "chromium-390-android: guide closed by default",
+      "pass": true
+    },
+    {
+      "name": "chromium-390-android: platform instructions",
+      "pass": true
+    },
+    {
+      "name": "chromium-390-android: guide opens by user action",
+      "pass": true
+    },
+    {
+      "name": "chromium-390-android: Escape closes and restores focus",
+      "pass": true
+    },
+    {
+      "name": "chromium-390-android: site native payload",
+      "pass": true
+    },
+    {
+      "name": "chromium-390-android: share open analytics",
+      "pass": true
+    },
+    {
+      "name": "chromium-390-android: cancel silent",
+      "pass": true
+    },
+    {
+      "name": "chromium-390-android: native technical failure copies",
+      "pass": true
+    },
+    {
+      "name": "chromium-390-android: unsupported share copy and event",
+      "pass": true
+    },
+    {
+      "name": "chromium-390-android: clipboard denial handled",
+      "pass": true
+    },
+    {
+      "name": "chromium-390-android: home no horizontal overflow",
+      "pass": true
+    },
+    {
+      "name": "chromium-390-android: one detail CTA at end",
+      "pass": true
+    },
+    {
+      "name": "chromium-390-android: no hero share duplicate",
+      "pass": true
+    },
+    {
+      "name": "chromium-390-android: detail shares clean first-party URL",
+      "pass": true
+    },
+    {
+      "name": "chromium-390-android: detail event",
+      "pass": true
+    },
+    {
+      "name": "chromium-390-android: detail image retained",
+      "pass": true
+    },
+    {
+      "name": "chromium-390-android: detail no overflow",
+      "pass": true
+    },
+    {
+      "name": "chromium-390-android: favorite retained",
+      "pass": true
+    },
+    {
+      "name": "chromium-390-android: ochoko only compact guide",
+      "pass": true
+    },
+    {
+      "name": "chromium-390-android: ochoko instructions",
+      "pass": true
+    },
+    {
+      "name": "chromium-390-android: appinstalled hides hint",
+      "pass": true
+    },
+    {
+      "name": "chromium-390-android: search return preserved",
+      "pass": true
+    },
+    {
+      "name": "chromium-390-android: Discover night food recommendations",
+      "pass": true
+    },
+    {
+      "name": "chromium-390-android: /food/item-13w7k4b",
+      "pass": true
+    },
+    {
+      "name": "chromium-390-android: /about",
+      "pass": true
+    },
+    {
+      "name": "chromium-390-android: mobile/desktop navigation",
+      "pass": true
+    },
+    {
+      "name": "chromium-390-android: navigator standalone hides guide but retains share",
+      "pass": true
+    },
+    {
+      "name": "chromium-390-android: display-mode standalone hides guide but retains share",
+      "pass": true
+    }
+  ],
+  "errors": [],
+  "bootstrapWarnings": [
+    {
+      "width": 320,
+      "phone": "ios",
+      "phase": "bootstrap",
+      "message": "/127.0.0.1:3197/food/__next.food.__PAGE__.txt?_rsc=oDIUgnl3qt9WCELi due to access control checks."
+    },
+    {
+      "width": 320,
+      "phone": "ios",
+      "phase": "bootstrap",
+      "message": "/127.0.0.1:3197/ochoko/__next._tree.txt?_rsc=5CB68i4pnAekjehf due to access control checks."
+    },
+    {
+      "width": 320,
+      "phone": "ios",
+      "phase": "bootstrap",
+      "message": "/127.0.0.1:3197/search/__next.search.__PAGE__.txt?_rsc=JpRJtnymxutXs-x0 due to access control checks."
+    },
+    {
+      "width": 375,
+      "phone": "ios",
+      "phase": "bootstrap",
+      "message": "/127.0.0.1:3197/search/__next.search.__PAGE__.txt?_rsc=JpRJtnymxutXs-x0 due to access control checks."
+    },
+    {
+      "width": 430,
+      "phone": "ios",
+      "phase": "bootstrap",
+      "message": "/127.0.0.1:3197/search/__next.search.__PAGE__.txt?_rsc=JpRJtnymxutXs-x0 due to access control checks."
+    }
+  ],
+  "passed": true,
+  "nativeShareMocked": true,
+  "clipboardMocked": true,
+  "standaloneSimulated": true,
+  "realIphoneTested": false,
+  "realAndroidTested": false,
+  "noMessagesSent": true
+}

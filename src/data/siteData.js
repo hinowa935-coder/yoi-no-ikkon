@@ -7,8 +7,8 @@ import { buildSakeIntroduction } from "./sakeIntroduction.js";
 import { publicTags } from "./publicDisplay.js";
 import { foodCatalog, getCanonicalFood, canonicalFoodName, foodLinkIsCurrent } from './foodCatalog.js';
 
-export const SITE_URL = "https://yoi-no-ikkon.vercel.app";
-export const SITE_NAME = "宵の一献";
+import { SITE_URL, SITE_NAME } from './siteIdentity.js';
+export { SITE_URL, SITE_NAME };
 export const FAVORITES_KEY = "yoi-no-ikkon-favorites";
 
 export const prefectureOrder = [

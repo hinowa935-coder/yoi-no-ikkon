@@ -1,0 +1,67 @@
+{
+  "checkedAt": "2026-10-20T06:39:16.400Z",
+  "base": "http://127.0.0.1:3197",
+  "rows": [
+    {
+      "route": "/",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/ochoko",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/sake/masumi-shiro-lineup-v1",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/sake/hakurakusei-tokubetsu-junmai",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/search?q=%E9%8D%8B%E5%B3%B6",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/discover",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/food/item-13w7k4b",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/about",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/sw.js",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/manifest.webmanifest",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/.env.local",
+      "status": 404,
+      "passed": true
+    },
+    {
+      "route": "/docs/return-share/baseline.json",
+      "status": 404,
+      "passed": true
+    }
+  ],
+  "passed": true
+}

@@ -1,0 +1,19 @@
+{
+  "checkedAt": "2026-10-20T06:38:57.822Z",
+  "base": "http://127.0.0.1:3197",
+  "checks": [],
+  "errors": [
+    {
+      "kind": "qa_failure",
+      "message": "page.goto: Timeout was reached\nCall log:\n\u001b[2m  - navigating to \"[url] waiting until \"networkidle\"\u001b[22m\n"
+    }
+  ],
+  "bootstrapWarnings": [],
+  "passed": false,
+  "nativeShareMocked": true,
+  "clipboardMocked": true,
+  "standaloneSimulated": true,
+  "realIphoneTested": false,
+  "realAndroidTested": false,
+  "noMessagesSent": true
+}

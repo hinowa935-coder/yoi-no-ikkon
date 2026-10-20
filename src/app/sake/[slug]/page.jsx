@@ -4,7 +4,7 @@ import Link from "next/link";
 import DiscoveryShell from "../../components/DiscoveryShell.jsx";
 import { FavoriteButton } from "../../components/Ochoko.jsx";
 import TrackedExternalLink from "../../components/TrackedExternalLink.jsx";
-import ShareButton from "../../components/ShareButton.jsx";
+import RecommendShare from "../../components/RecommendShare.jsx";
 import PairingPending from "../../components/PairingPending.jsx";
 import { SITE_NAME, SITE_URL, allSakePairings, sakeCatalogStatus, legacyReferences, resolveSakeReference, getSakeById, buildSakeListSummary, buildSakeVerifiedTags, buildSakeEditorialTags, buildResourceLinks, toPathSegment } from "../../../data/siteData.js";
 import { publicSourceName } from "../../../data/publicDisplay.js";
@@ -65,7 +65,7 @@ export default async function SakePage({ params }) {
       {sakeCatalogStatus(item.id)!=='ACTIVE'&&<p className="muted-copy">以前の掲載商品です。保存していたおちょこは、そのまま残しています。</p>}
       <Suspense fallback={null}><SakeDiscoveryContext item={item} /></Suspense>
       {commerce.image ? <ProductLabelImage image={commerce.image} /> : <ProductWindow item={item} />}
-      <div className="detail-actions"><FavoriteButton id={item.id} /><ShareButton title={`${item.productName}｜${SITE_NAME}`} text="今夜の料理に合わせたい一献。" path={`/sake/${item.id}`} eventName="share_sake" /></div>
+      <div className="detail-actions"><FavoriteButton id={item.id} /></div>
     </section>
     <section className="detail-band sake-overview" aria-labelledby="sake-about">
       <h2 id="sake-about">このお酒について</h2>
@@ -94,5 +94,6 @@ export default async function SakePage({ params }) {
       {r.officialPairings.length > 0 && <div className="official-pairings"><h3>蔵元が紹介する組み合わせ</h3><p>{r.officialPairings.join("、")}</p></div>}
       {nights.length>0 && <div className="pairing-nights"><h3>こんな夜に</h3>{editorialNightAssignments[item.id] && <p className="muted-copy">{editorialNightNote}</p>}<SeasonalNightLinks nights={nights} /></div>}
     </section>
+    <RecommendShare item={{ id: item.id, productName: item.productName }} />
   </DiscoveryShell>;
 }

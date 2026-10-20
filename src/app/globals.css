@@ -51,6 +51,30 @@
 .home-about p { font-size: 14px; line-height: 1.85; margin: 0 0 14px; max-width: 42rem; }
 .home-about .text-link { display: inline-flex; gap: 8px; align-items: center; min-height: 44px; font-size: 14px; }
 
+.return-note { border-top: 1px solid #d8bd7a33; padding-top: 28px; margin-top: 36px; letter-spacing: 0; }
+.discovery-shell .return-note h2 { display: flex; align-items: center; gap: 10px; font-size: 20px; line-height: 1.7; margin: 0 0 12px; letter-spacing: 0; }
+.return-note p { font-size: 14px; line-height: 1.85; max-width: 42rem; margin: 0 0 12px; color: #c7c5bf; }
+.recommend-button { display: inline-flex; align-items: center; justify-content: center; gap: 10px; min-height: 44px; max-width: 100%; padding: 10px 16px; border: 1px solid #d8bd7a66; border-radius: 4px; background: transparent; color: #e6c97a; font-size: 14px; line-height: 1.6; letter-spacing: 0; cursor: pointer; }
+.recommend-button svg { flex-shrink: 0; }
+.recommend-button:disabled { opacity: .65; cursor: wait; }
+.share-action .share-status { min-height: 22px; margin: 8px 0 0; font-size: 13px; line-height: 1.7; }
+.home-screen-guide { display: none; }
+.home-screen-guide summary { display: flex; align-items: center; gap: 8px; min-height: 44px; width: fit-content; max-width: 100%; color: #e6c97a; font-size: 14px; list-style: none; cursor: pointer; }
+.home-screen-guide summary::-webkit-details-marker { display: none; }
+.home-screen-guide summary::marker { content: ''; }
+.home-screen-guide summary svg { flex-shrink: 0; }
+.home-screen-guide .guide-chevron { display: none; }
+.home-screen-guide details[open] .guide-arrow { display: none; }
+.home-screen-guide details[open] .guide-chevron { display: block; }
+.home-guide-instructions { border-left: 1px solid #d8bd7a55; margin-top: 10px; padding: 8px 0 4px 16px; }
+.discovery-shell .home-guide-instructions h3 { font-family: var(--font-body-ja); font-size: 14px; margin: 0 0 10px; letter-spacing: 0; }
+.home-guide-instructions ol { padding-left: 20px; margin: 0; color: #c7c5bf; font-size: 14px; line-height: 1.9; }
+.home-guide-instructions li + li { margin-top: 8px; }
+.home-screen-guide.is-compact { padding-top: 20px; }
+.recommend-button:focus-visible, .home-screen-guide summary:focus-visible { outline: 2px solid #e6c97a; outline-offset: 4px; }
+@media (max-width: 767px) { .home-screen-guide { display: block; } }
+@media (hover: hover) { .recommend-button:hover, .home-screen-guide summary:hover { background: #d8bd7a0a; } }
+
 :root {
   color-scheme: dark;
   --font-body-ja: "Hiragino Sans", "Yu Gothic", "YuGothic",

@@ -5,6 +5,8 @@ import HomeNightChoices from './components/HomeNightChoices.jsx';
 import Link from 'next/link';
 import { ArrowRight } from 'lucide-react';
 import { homeAbout } from './about/content.js';
+import HomeScreenGuide from './components/HomeScreenGuide.jsx';
+import RecommendShare from './components/RecommendShare.jsx';
 
 export default function Page() {
   return <DiscoveryShell>
@@ -22,5 +24,7 @@ export default function Page() {
       {homeAbout.paragraphs.map((paragraph) => <p key={paragraph}>{paragraph}</p>)}
       <Link href="/about" className="text-link">宵の一献について <ArrowRight size={16} aria-hidden="true" /></Link>
     </section>
+    <HomeScreenGuide />
+    <RecommendShare />
   </DiscoveryShell>;
 }
