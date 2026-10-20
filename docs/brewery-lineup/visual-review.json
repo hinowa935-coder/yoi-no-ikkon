@@ -1,0 +1,341 @@
+{
+  "checkedAt": "2026-10-20T04:51:29.733Z",
+  "rows": [
+    {
+      "sakeId": "hakkaisan-jd-lineup-v1",
+      "normalUrl": "https://item.rakuten.co.jp/syuraku-shop/111877/",
+      "observation": "緑瓶・銀白の八海山書体。細部の容量文字だけを根拠にしない。",
+      "reviewed": true,
+      "approvedForStaging": true
+    },
+    {
+      "sakeId": "hakkaisan-daiginjo-lineup-v1",
+      "normalUrl": "https://item.rakuten.co.jp/syuraku-shop/111878/",
+      "observation": "茶瓶・淡色の大吟醸八海山ラベル。純米大吟醸とは別。",
+      "reviewed": true,
+      "approvedForStaging": true
+    },
+    {
+      "sakeId": "hakkaisan-seishu-lineup-v1",
+      "normalUrl": "https://item.rakuten.co.jp/taka-sake/666096/",
+      "observation": "茶瓶・黄赤の清酒ラベル、画像内720ml。",
+      "reviewed": true,
+      "approvedForStaging": true
+    },
+    {
+      "sakeId": "dewazakura-ichiko-lineup-v1",
+      "normalUrl": "https://item.rakuten.co.jp/d-craft/4972009000625/",
+      "observation": "淡色の一耕ラベル、720ml表示。",
+      "reviewed": true,
+      "approvedForStaging": true
+    },
+    {
+      "sakeId": "dewazakura-tsuyahime-lineup-v1",
+      "normalUrl": "https://item.rakuten.co.jp/kamosikaya/dewazakura00001/",
+      "observation": "緑瓶、白地つや姫の純米吟醸帯。",
+      "reviewed": true,
+      "approvedForStaging": true
+    },
+    {
+      "sakeId": "masumi-kuro-lineup-v1",
+      "normalUrl": "https://item.rakuten.co.jp/sato-saketen/37221/",
+      "observation": "黒地の漆黒・三日月。",
+      "reviewed": true,
+      "approvedForStaging": true
+    },
+    {
+      "sakeId": "masumi-shiro-lineup-v1",
+      "normalUrl": "https://item.rakuten.co.jp/hakubasakewine/893/",
+      "observation": "白妙の白地三日月。瓶とラベル拡大の併記で容量2種ではない。",
+      "reviewed": true,
+      "approvedForStaging": true
+    },
+    {
+      "sakeId": "masumi-kaya-lineup-v1",
+      "normalUrl": "https://item.rakuten.co.jp/auc-shinanoya/h643663/",
+      "observation": "茶系の茅色・三日月。",
+      "reviewed": true,
+      "approvedForStaging": true
+    },
+    {
+      "sakeId": "ichinokura-mukansa-karakuchi-lineup-v1",
+      "normalUrl": "https://item.rakuten.co.jp/fukushimasaketen/ink033/",
+      "observation": "茶瓶・淡緑の無鑑査辛口。超辛口の黒ラベルと区別。",
+      "reviewed": true,
+      "approvedForStaging": true
+    },
+    {
+      "sakeId": "ichinokura-mukansa-chokarakuchi-lineup-v1",
+      "normalUrl": "https://item.rakuten.co.jp/kaiseiya/0769444/",
+      "observation": "花柄ピンクのひめぜん。梅・柚子版ではない。",
+      "reviewed": true,
+      "approvedForStaging": true
+    },
+    {
+      "sakeId": "ichinokura-himezen-lineup-v1",
+      "normalUrl": "https://item.rakuten.co.jp/auc-suwabe/ichi011/",
+      "observation": "緑のすず音300ml。添えたグラスは別商品ではない。",
+      "reviewed": true,
+      "approvedForStaging": true
+    },
+    {
+      "sakeId": "ichinokura-suzune-lineup-v1",
+      "normalUrl": "https://item.rakuten.co.jp/jizakeshop/429653/",
+      "observation": "浦霞禅の白ラベル、金クリーム箱。",
+      "reviewed": true,
+      "approvedForStaging": true
+    },
+    {
+      "sakeId": "urakasumi-zen-lineup-v1",
+      "normalUrl": "https://item.rakuten.co.jp/se-sake222/2363x01/",
+      "observation": "浦霞本仕込の白ラベル。",
+      "reviewed": true,
+      "approvedForStaging": true
+    },
+    {
+      "sakeId": "urakasumi-honshikomi-lineup-v1",
+      "normalUrl": "https://item.rakuten.co.jp/auc-suwabe/ura024/",
+      "observation": "浦霞からくちの赤帯、灰色ラベル。",
+      "reviewed": true,
+      "approvedForStaging": true
+    },
+    {
+      "sakeId": "urakasumi-karakuchi-lineup-v1",
+      "normalUrl": "https://item.rakuten.co.jp/auc-suwabe/ura022/",
+      "observation": "菊水辛口の白地に辛口。",
+      "reviewed": true,
+      "approvedForStaging": true
+    },
+    {
+      "sakeId": "kikusui-karakuchi-lineup-v1",
+      "normalUrl": "https://item.rakuten.co.jp/atigus/2911420110195/",
+      "observation": "菊水純米の緑枠。",
+      "reviewed": true,
+      "approvedForStaging": true
+    },
+    {
+      "sakeId": "kikusui-junmai-lineup-v1",
+      "normalUrl": "https://item.rakuten.co.jp/shochuya-doragon/4930391120833-ko/",
+      "observation": "酔鯨吟麗の鯨ラベル。生・summerの表示とは区別。",
+      "reviewed": true,
+      "approvedForStaging": true
+    },
+    {
+      "sakeId": "suigei-ginrei-lineup-v1",
+      "normalUrl": "https://item.rakuten.co.jp/manroku/51-suige-28/",
+      "observation": "高育54号と鯨のラベル。",
+      "reviewed": true,
+      "approvedForStaging": true
+    },
+    {
+      "sakeId": "suigei-koiku54-lineup-v1",
+      "normalUrl": "https://item.rakuten.co.jp/yamasake/3918/",
+      "observation": "五凛の灰ラベル、画像内720ml。",
+      "reviewed": true,
+      "approvedForStaging": true
+    },
+    {
+      "sakeId": "tengumai-go-rin-lineup-v1",
+      "normalUrl": "https://item.rakuten.co.jp/kanazawa-honpo/miyamura06/",
+      "observation": "皆伝、淡色ラベルと箱。",
+      "reviewed": true,
+      "approvedForStaging": false
+    },
+    {
+      "sakeId": "tengumai-umajun-lineup-v1",
+      "normalUrl": "https://item.rakuten.co.jp/konchikitai/tengumai-umajyun720/",
+      "observation": "箕輪門、白い箱と濃色瓶。",
+      "reviewed": true,
+      "approvedForStaging": true
+    },
+    {
+      "sakeId": "daishichi-kaiden-lineup-v1",
+      "normalUrl": "https://item.rakuten.co.jp/marp-mori/545285/",
+      "observation": "白鶴大吟醸の緑瓶、純米大吟醸ではない。",
+      "reviewed": true,
+      "approvedForStaging": true
+    },
+    {
+      "sakeId": "daishichi-minowamon-lineup-v1",
+      "normalUrl": "https://item.rakuten.co.jp/hamadaya/10000031/",
+      "observation": "加賀鳶極寒、淡緑ラベル。",
+      "reviewed": true,
+      "approvedForStaging": true
+    },
+    {
+      "sakeId": "nanbubijin-jg-lineup-v1",
+      "normalUrl": "https://item.rakuten.co.jp/sakenosazan/12606/",
+      "observation": "山廃超辛口の黒赤ラベル。",
+      "reviewed": true,
+      "approvedForStaging": true
+    },
+    {
+      "sakeId": "nanbubijin-jd-lineup-v1",
+      "normalUrl": "https://item.rakuten.co.jp/manroku/51-nnb-02/",
+      "observation": "黒帯悠々の白黒書体。",
+      "reviewed": true,
+      "approvedForStaging": true
+    },
+    {
+      "sakeId": "otokoyama-tokubetsu-junmai-lineup-v1",
+      "normalUrl": "https://item.rakuten.co.jp/hokkaidotown/4990516031048/",
+      "observation": "双鶴、金の首と箱。",
+      "reviewed": true,
+      "approvedForStaging": false
+    },
+    {
+      "sakeId": "hakutsuru-daiginjo-lineup-v1",
+      "normalUrl": "https://item.rakuten.co.jp/shochuya-doragon/haku-daiginjo720-1/",
+      "observation": "一滴入魂の黒箱と白書体。",
+      "reviewed": true,
+      "approvedForStaging": true
+    },
+    {
+      "sakeId": "kikumasamune-kaho-lineup-v1",
+      "normalUrl": "https://item.rakuten.co.jp/kikumasa/nk082/",
+      "observation": "上等酒の緑風景ラベル。",
+      "reviewed": true,
+      "approvedForStaging": true
+    },
+    {
+      "sakeId": "kagatobi-gokkan-lineup-v1",
+      "normalUrl": "https://item.rakuten.co.jp/tsutsu-uraura/fukumitsu-kaga-sp720/",
+      "observation": "あだたら吟醸の淡色ラベル。",
+      "reviewed": true,
+      "approvedForStaging": true
+    },
+    {
+      "sakeId": "kagatobi-yamahai-lineup-v1",
+      "normalUrl": "https://item.rakuten.co.jp/fukumitsuya-shop/28745/",
+      "observation": "遊佐の青金書体。",
+      "reviewed": true,
+      "approvedForStaging": true
+    },
+    {
+      "sakeId": "kuroobi-yuyu-lineup-v1",
+      "normalUrl": "https://item.rakuten.co.jp/m-sakaya/1051153/",
+      "observation": "惣花純米大吟醸の黒金ラベル、純米吟醸ではない。",
+      "reviewed": true,
+      "approvedForStaging": true
+    },
+    {
+      "sakeId": "kamotsuru-sokaku-lineup-v1",
+      "normalUrl": "https://item.rakuten.co.jp/shochuya-doragon/kamo-4/",
+      "observation": "SWEET MOMENTピンクラベル。",
+      "reviewed": true,
+      "approvedForStaging": false
+    },
+    {
+      "sakeId": "kamotsuru-jg-lineup-v1",
+      "normalUrl": "https://item.rakuten.co.jp/shochuya-doragon/kamo-41/",
+      "observation": "上撰辛丹波の白ラベル、生貯蔵ではない。",
+      "reviewed": true,
+      "approvedForStaging": true
+    },
+    {
+      "sakeId": "kamotsuru-jotoshu-lineup-v1",
+      "normalUrl": "https://item.rakuten.co.jp/shochuya-doragon/kamo-49/",
+      "observation": "月桂冠にごり、緑フロスト瓶。1本720ml表示。",
+      "reviewed": true,
+      "approvedForStaging": false
+    },
+    {
+      "sakeId": "okunomatsu-adatara-lineup-v1",
+      "normalUrl": "https://item.rakuten.co.jp/ihei/21207/",
+      "observation": "青い瓶の澪300ml、WHITE・BRUT・CLEARではない。",
+      "reviewed": true,
+      "approvedForStaging": true
+    },
+    {
+      "sakeId": "okunomatsu-jg-lineup-v1",
+      "normalUrl": "https://item.rakuten.co.jp/kaiseiya/0047657/",
+      "observation": "天吹超辛口の黒赤ラベル。",
+      "reviewed": true,
+      "approvedForStaging": true
+    },
+    {
+      "sakeId": "jozen-jd-lineup-v1",
+      "normalUrl": "https://item.rakuten.co.jp/jozen/302315/",
+      "observation": "天吹りんご、赤丸黒ラベル。瓶と拡大は別容量ではない。",
+      "reviewed": true,
+      "approvedForStaging": true
+    },
+    {
+      "sakeId": "minatoya-tosuke-lineup-v1",
+      "normalUrl": "https://item.rakuten.co.jp/jozen/422414/",
+      "observation": "東一純米、水色白の縞。新旧使用米対応は別途保留。",
+      "reviewed": true,
+      "approvedForStaging": true
+    },
+    {
+      "sakeId": "uonuma-junmai-lineup-v1",
+      "normalUrl": "https://item.rakuten.co.jp/jozen/252014/",
+      "observation": "東一純米大吟醸、紫白縞と白箱。雫搾りではない。",
+      "reviewed": true,
+      "approvedForStaging": true
+    },
+    {
+      "sakeId": "nihonsakari-daiginjo-lineup-v1",
+      "normalUrl": "https://item.rakuten.co.jp/nihonsakarishop/06232/",
+      "observation": "一ノ蔵超辛口の黒ラベル、辛口淡緑と区別。",
+      "reviewed": true,
+      "approvedForStaging": true
+    },
+    {
+      "sakeId": "ozeki-gokuama-lineup-v1",
+      "normalUrl": "https://item.rakuten.co.jp/shochuya-doragon/4901061110362/",
+      "observation": "旨醇の赤ラベルと赤箱。",
+      "reviewed": true,
+      "approvedForStaging": true
+    },
+    {
+      "sakeId": "ozeki-karatanba-lineup-v1",
+      "normalUrl": "https://item.rakuten.co.jp/jism/4901061107201-75-30002628-n/",
+      "observation": "南部美人純米吟醸の緑ラベル。",
+      "reviewed": true,
+      "approvedForStaging": true
+    },
+    {
+      "sakeId": "gekkeikan-nigori-lineup-v1",
+      "normalUrl": "https://item.rakuten.co.jp/gekkeikan/sake028256/",
+      "observation": "南部美人純米大吟醸の黒金と木箱、酒未来・雄町ではない。",
+      "reviewed": true,
+      "approvedForStaging": true
+    },
+    {
+      "sakeId": "mio-sparkling-lineup-v1",
+      "normalUrl": "https://item.rakuten.co.jp/nondonkai/10000171/",
+      "observation": "男山北海道限定、青白ラベルと箱。現行北の稲穂との対応は未確定。",
+      "reviewed": true,
+      "approvedForStaging": true
+    },
+    {
+      "sakeId": "amabuki-chokarakuchi-lineup-v1",
+      "normalUrl": "https://item.rakuten.co.jp/hasegawasaketen/1006578/",
+      "observation": "嘉宝の白箱金書体、純米大吟醸。",
+      "reviewed": true,
+      "approvedForStaging": false
+    },
+    {
+      "sakeId": "amabuki-ringo-lineup-v1",
+      "normalUrl": "https://item.rakuten.co.jp/urakawa-2008/10010398/",
+      "observation": "上善如水純米大吟醸、青瓶と紺金箱。",
+      "reviewed": true,
+      "approvedForStaging": false
+    },
+    {
+      "sakeId": "azumaichi-junmai-lineup-v1",
+      "normalUrl": "https://item.rakuten.co.jp/hasegawasaketen/1013953/",
+      "observation": "湊屋藤助の黒ラベル、小型瓶。容量630mlは商品本文と照合。",
+      "reviewed": true,
+      "approvedForStaging": false
+    },
+    {
+      "sakeId": "azumaichi-jd-lineup-v1",
+      "normalUrl": "https://item.rakuten.co.jp/meishu-honpo/014973/",
+      "observation": "濃醇魚沼の赤ラベル、淡麗辛口とは区別。",
+      "reviewed": true,
+      "approvedForStaging": true
+    }
+  ]
+}

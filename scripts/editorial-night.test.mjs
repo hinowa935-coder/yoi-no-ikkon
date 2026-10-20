@@ -2,12 +2,18 @@ import test from 'node:test';
 import assert from 'node:assert/strict';
 import {discoveryProducts, discoveryNights, nightsForSake, nightAffinity} from '../src/data/discovery.js';
 import {editorialNightAssignments} from '../src/data/editorialNightAssignments.js';
+import {allSakePairings,sakeCatalogStatus} from '../src/data/siteData.js';
+import {lineupBatch} from './lib/reviewed-lineup-update.mjs';
 
 test('active explicit impression assignments exclude retired identities and remain separate from verified facts and temperature',()=>{
   assert(Object.keys(editorialNightAssignments).length>0);
   for(const [id,assignment] of Object.entries(editorialNightAssignments)) {
-    const item=discoveryProducts.find(p=>p.id===id);
+    const item=allSakePairings.find(p=>p.id===id);
     assert(item);
+    if(sakeCatalogStatus(id)!=='ACTIVE'){
+      assert(lineupBatch.inactivated.includes(id),'Only an explicitly reviewed later lifecycle decision may exclude an old assignment');
+      assert(!discoveryProducts.some(p=>p.id===id));
+    }
     assert(discoveryNights.some(n=>n.id===assignment.nightId));
     const result=nightAffinity(item,assignment.nightId);
     assert.equal(result.provenance,'editorialImpression');

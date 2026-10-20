@@ -1,0 +1,14 @@
+{
+  "startedAt": "2026-10-20T05:06:22.388Z",
+  "checkedAt": "2026-10-20T05:09:05.496Z",
+  "passed": true,
+  "bundler": "webpack",
+  "dependenciesChanged": false,
+  "initialSandboxFailures": {
+    "count": 2,
+    "stage": "static_export_mkdir",
+    "code": "EPERM",
+    "sourceCompilationAndTypecheckPassed": true,
+    "resolvedBy": "Same unmodified build under normal authorized Windows permissions."
+  }
+}

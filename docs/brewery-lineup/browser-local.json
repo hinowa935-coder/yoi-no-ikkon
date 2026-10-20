@@ -1,0 +1,323 @@
+{
+  "checkedAt": "2026-10-20T05:13:15.081Z",
+  "base": "http://127.0.0.1:3197",
+  "checks": [
+    {
+      "name": "webkit-320: masumi-shiro-lineup-v1 image",
+      "pass": true,
+      "detail": {
+        "originalSrc": true,
+        "naturalWidth": 240,
+        "naturalHeight": 180,
+        "width": 240,
+        "height": 180,
+        "visible": true
+      }
+    },
+    {
+      "name": "webkit-320: masumi-shiro-lineup-v1 destination and capacity",
+      "pass": true
+    },
+    {
+      "name": "webkit-320: masumi-shiro-lineup-v1 layout",
+      "pass": true
+    },
+    {
+      "name": "webkit-320: multiple products in brewery search",
+      "pass": true
+    },
+    {
+      "name": "webkit-320: search return",
+      "pass": true
+    },
+    {
+      "name": "webkit-320: favorite persistence",
+      "pass": true
+    },
+    {
+      "name": "webkit-320: inactive history no redirect",
+      "pass": true
+    },
+    {
+      "name": "webkit-320: inactive excluded",
+      "pass": true
+    },
+    {
+      "name": "webkit-320: Discover and night",
+      "pass": true
+    },
+    {
+      "name": "webkit-320: food",
+      "pass": true
+    },
+    {
+      "name": "webkit-320: placeholder retained",
+      "pass": true
+    },
+    {
+      "name": "webkit-360: masumi-shiro-lineup-v1 image",
+      "pass": true,
+      "detail": {
+        "originalSrc": true,
+        "naturalWidth": 240,
+        "naturalHeight": 180,
+        "width": 240,
+        "height": 180,
+        "visible": true
+      }
+    },
+    {
+      "name": "webkit-360: masumi-shiro-lineup-v1 destination and capacity",
+      "pass": true
+    },
+    {
+      "name": "webkit-360: masumi-shiro-lineup-v1 layout",
+      "pass": true
+    },
+    {
+      "name": "webkit-360: multiple products in brewery search",
+      "pass": true
+    },
+    {
+      "name": "webkit-360: search return",
+      "pass": true
+    },
+    {
+      "name": "webkit-360: favorite persistence",
+      "pass": true
+    },
+    {
+      "name": "webkit-360: inactive history no redirect",
+      "pass": true
+    },
+    {
+      "name": "webkit-360: inactive excluded",
+      "pass": true
+    },
+    {
+      "name": "webkit-360: Discover and night",
+      "pass": true
+    },
+    {
+      "name": "webkit-360: food",
+      "pass": true
+    },
+    {
+      "name": "webkit-360: placeholder retained",
+      "pass": true
+    },
+    {
+      "name": "webkit-375: masumi-shiro-lineup-v1 image",
+      "pass": true,
+      "detail": {
+        "originalSrc": true,
+        "naturalWidth": 240,
+        "naturalHeight": 180,
+        "width": 240,
+        "height": 180,
+        "visible": true
+      }
+    },
+    {
+      "name": "webkit-375: masumi-shiro-lineup-v1 destination and capacity",
+      "pass": true
+    },
+    {
+      "name": "webkit-375: masumi-shiro-lineup-v1 layout",
+      "pass": true
+    },
+    {
+      "name": "webkit-375: multiple products in brewery search",
+      "pass": true
+    },
+    {
+      "name": "webkit-375: search return",
+      "pass": true
+    },
+    {
+      "name": "webkit-375: favorite persistence",
+      "pass": true
+    },
+    {
+      "name": "webkit-375: inactive history no redirect",
+      "pass": true
+    },
+    {
+      "name": "webkit-375: inactive excluded",
+      "pass": true
+    },
+    {
+      "name": "webkit-375: Discover and night",
+      "pass": true
+    },
+    {
+      "name": "webkit-375: food",
+      "pass": true
+    },
+    {
+      "name": "webkit-375: placeholder retained",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: masumi-shiro-lineup-v1 image",
+      "pass": true,
+      "detail": {
+        "originalSrc": true,
+        "naturalWidth": 240,
+        "naturalHeight": 180,
+        "width": 240,
+        "height": 180,
+        "visible": true
+      }
+    },
+    {
+      "name": "webkit-390: masumi-shiro-lineup-v1 destination and capacity",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: masumi-shiro-lineup-v1 layout",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: multiple products in brewery search",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: search return",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: favorite persistence",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: inactive history no redirect",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: inactive excluded",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: Discover and night",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: food",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: placeholder retained",
+      "pass": true
+    },
+    {
+      "name": "webkit-430: masumi-shiro-lineup-v1 image",
+      "pass": true,
+      "detail": {
+        "originalSrc": true,
+        "naturalWidth": 240,
+        "naturalHeight": 180,
+        "width": 240,
+        "height": 180,
+        "visible": true
+      }
+    },
+    {
+      "name": "webkit-430: masumi-shiro-lineup-v1 destination and capacity",
+      "pass": true
+    },
+    {
+      "name": "webkit-430: masumi-shiro-lineup-v1 layout",
+      "pass": true
+    },
+    {
+      "name": "webkit-430: multiple products in brewery search",
+      "pass": true
+    },
+    {
+      "name": "webkit-430: search return",
+      "pass": true
+    },
+    {
+      "name": "webkit-430: favorite persistence",
+      "pass": true
+    },
+    {
+      "name": "webkit-430: inactive history no redirect",
+      "pass": true
+    },
+    {
+      "name": "webkit-430: inactive excluded",
+      "pass": true
+    },
+    {
+      "name": "webkit-430: Discover and night",
+      "pass": true
+    },
+    {
+      "name": "webkit-430: food",
+      "pass": true
+    },
+    {
+      "name": "webkit-430: placeholder retained",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280: masumi-shiro-lineup-v1 image",
+      "pass": true,
+      "detail": {
+        "originalSrc": true,
+        "naturalWidth": 240,
+        "naturalHeight": 180,
+        "width": 240,
+        "height": 180,
+        "visible": true
+      }
+    },
+    {
+      "name": "chromium-1280: masumi-shiro-lineup-v1 destination and capacity",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280: masumi-shiro-lineup-v1 layout",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280: multiple products in brewery search",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280: search return",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280: favorite persistence",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280: inactive history no redirect",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280: inactive excluded",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280: Discover and night",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280: food",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280: placeholder retained",
+      "pass": true
+    }
+  ],
+  "errors": [],
+  "bootstrapWarnings": [],
+  "passed": true,
+  "realDeviceTested": false,
+  "externalPurchaseClicked": false
+}

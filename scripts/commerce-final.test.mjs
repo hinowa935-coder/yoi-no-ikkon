@@ -76,9 +76,15 @@ test('affiliate click emits safe metadata, not URLs, HTML or API credentials; or
 });
 test('expired clicks are prevented and image error fallback does not require modifying official HTML',()=>{
   const listeners={},element={hidden:false,addEventListener:(k,f)=>listeners[k]=f,removeEventListener(){}};
-  let prevented=false;const until=new Date(Date.now()+20).toISOString();
+  let prevented=false;const clock=Date.now(),until=new Date(clock+60000).toISOString();
   observeAffiliate(element,{sakeId:'test',provider:'rakuten',isAffiliate:true,validUntil:until});
   assert(listeners.click);
+  const realNow=Date.now;
+  try{
+    Date.now=()=>clock+60001;
+    listeners.click({target:{closest:()=>({})},preventDefault:()=>{prevented=true;}});
+    assert(prevented);assert(element.hidden);
+  }finally{Date.now=realNow;}
   const source=fs.readFileSync('src/app/components/ProductWindow.jsx','utf8');
   assert(source.includes('onErrorCapture'));assert(source.includes('商品画像は準備中です'));
   const expired={hidden:false,addEventListener(){throw Error('expired listener');}};

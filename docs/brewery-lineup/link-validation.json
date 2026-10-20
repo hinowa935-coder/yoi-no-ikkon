@@ -1,0 +1,1400 @@
+{
+  "checkedAt": "2026-10-20T04:54:53.697Z",
+  "rows": [
+    {
+      "sakeId": "hakkaisan-jd-lineup-v1",
+      "normalUrl": "https://item.rakuten.co.jp/syuraku-shop/111877/",
+      "capacityMl": 720,
+      "checks": [
+        {
+          "device": "desktop",
+          "checkedAt": "2026-10-20T04:51:44.620Z",
+          "status": 200,
+          "finalHost": "item.rakuten.co.jp",
+          "passed": true
+        },
+        {
+          "device": "mobile",
+          "checkedAt": "2026-10-20T04:51:45.727Z",
+          "status": 200,
+          "finalHost": "item.rakuten.co.jp",
+          "passed": true
+        },
+        {
+          "imageSize": 240,
+          "status": 200,
+          "finalHost": "thumbnail.image.rakuten.co.jp",
+          "passed": true
+        },
+        {
+          "imageSize": 80,
+          "status": 200,
+          "finalHost": "thumbnail.image.rakuten.co.jp",
+          "passed": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "hakkaisan-daiginjo-lineup-v1",
+      "normalUrl": "https://item.rakuten.co.jp/syuraku-shop/111878/",
+      "capacityMl": 720,
+      "checks": [
+        {
+          "device": "desktop",
+          "checkedAt": "2026-10-20T04:51:49.201Z",
+          "status": 200,
+          "finalHost": "item.rakuten.co.jp",
+          "passed": true
+        },
+        {
+          "device": "mobile",
+          "checkedAt": "2026-10-20T04:51:50.359Z",
+          "status": 200,
+          "finalHost": "item.rakuten.co.jp",
+          "passed": true
+        },
+        {
+          "imageSize": 240,
+          "status": 200,
+          "finalHost": "thumbnail.image.rakuten.co.jp",
+          "passed": true
+        },
+        {
+          "imageSize": 80,
+          "status": 200,
+          "finalHost": "thumbnail.image.rakuten.co.jp",
+          "passed": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "hakkaisan-seishu-lineup-v1",
+      "normalUrl": "https://item.rakuten.co.jp/taka-sake/666096/",
+      "capacityMl": 720,
+      "checks": [
+        {
+          "device": "desktop",
+          "checkedAt": "2026-10-20T04:51:53.852Z",
+          "status": 200,
+          "finalHost": "item.rakuten.co.jp",
+          "passed": true
+        },
+        {
+          "device": "mobile",
+          "checkedAt": "2026-10-20T04:51:55.058Z",
+          "status": 200,
+          "finalHost": "item.rakuten.co.jp",
+          "passed": true
+        },
+        {
+          "imageSize": 240,
+          "status": 200,
+          "finalHost": "thumbnail.image.rakuten.co.jp",
+          "passed": true
+        },
+        {
+          "imageSize": 80,
+          "status": 200,
+          "finalHost": "thumbnail.image.rakuten.co.jp",
+          "passed": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "masumi-kuro-lineup-v1",
+      "normalUrl": "https://item.rakuten.co.jp/sato-saketen/37221/",
+      "capacityMl": 720,
+      "checks": [
+        {
+          "device": "desktop",
+          "checkedAt": "2026-10-20T04:51:58.476Z",
+          "status": 200,
+          "finalHost": "item.rakuten.co.jp",
+          "passed": true
+        },
+        {
+          "device": "mobile",
+          "checkedAt": "2026-10-20T04:51:59.656Z",
+          "status": 200,
+          "finalHost": "item.rakuten.co.jp",
+          "passed": true
+        },
+        {
+          "imageSize": 240,
+          "status": 200,
+          "finalHost": "thumbnail.image.rakuten.co.jp",
+          "passed": true
+        },
+        {
+          "imageSize": 80,
+          "status": 200,
+          "finalHost": "thumbnail.image.rakuten.co.jp",
+          "passed": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "masumi-shiro-lineup-v1",
+      "normalUrl": "https://item.rakuten.co.jp/hakubasakewine/893/",
+      "capacityMl": 720,
+      "checks": [
+        {
+          "device": "desktop",
+          "checkedAt": "2026-10-20T04:52:03.153Z",
+          "status": 200,
+          "finalHost": "item.rakuten.co.jp",
+          "passed": true
+        },
+        {
+          "device": "mobile",
+          "checkedAt": "2026-10-20T04:52:04.255Z",
+          "status": 200,
+          "finalHost": "item.rakuten.co.jp",
+          "passed": true
+        },
+        {
+          "imageSize": 240,
+          "status": 200,
+          "finalHost": "thumbnail.image.rakuten.co.jp",
+          "passed": true
+        },
+        {
+          "imageSize": 80,
+          "status": 200,
+          "finalHost": "thumbnail.image.rakuten.co.jp",
+          "passed": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "masumi-kaya-lineup-v1",
+      "normalUrl": "https://item.rakuten.co.jp/auc-shinanoya/h643663/",
+      "capacityMl": 720,
+      "checks": [
+        {
+          "device": "desktop",
+          "checkedAt": "2026-10-20T04:52:07.761Z",
+          "status": 200,
+          "finalHost": "item.rakuten.co.jp",
+          "passed": true
+        },
+        {
+          "device": "mobile",
+          "checkedAt": "2026-10-20T04:52:08.961Z",
+          "status": 200,
+          "finalHost": "item.rakuten.co.jp",
+          "passed": true
+        },
+        {
+          "imageSize": 240,
+          "status": 200,
+          "finalHost": "thumbnail.image.rakuten.co.jp",
+          "passed": true
+        },
+        {
+          "imageSize": 80,
+          "status": 200,
+          "finalHost": "thumbnail.image.rakuten.co.jp",
+          "passed": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "ichinokura-mukansa-karakuchi-lineup-v1",
+      "normalUrl": "https://item.rakuten.co.jp/fukushimasaketen/ink033/",
+      "capacityMl": 720,
+      "checks": [
+        {
+          "device": "desktop",
+          "checkedAt": "2026-10-20T04:52:12.406Z",
+          "status": 200,
+          "finalHost": "item.rakuten.co.jp",
+          "passed": true
+        },
+        {
+          "device": "mobile",
+          "checkedAt": "2026-10-20T04:52:13.570Z",
+          "status": 200,
+          "finalHost": "item.rakuten.co.jp",
+          "passed": true
+        },
+        {
+          "imageSize": 240,
+          "status": 200,
+          "finalHost": "thumbnail.image.rakuten.co.jp",
+          "passed": true
+        },
+        {
+          "imageSize": 80,
+          "status": 200,
+          "finalHost": "thumbnail.image.rakuten.co.jp",
+          "passed": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "ichinokura-mukansa-chokarakuchi-lineup-v1",
+      "normalUrl": "https://item.rakuten.co.jp/kaiseiya/0769444/",
+      "capacityMl": 720,
+      "checks": [
+        {
+          "device": "desktop",
+          "checkedAt": "2026-10-20T04:52:17.046Z",
+          "status": 200,
+          "finalHost": "item.rakuten.co.jp",
+          "passed": true
+        },
+        {
+          "device": "mobile",
+          "checkedAt": "2026-10-20T04:52:18.237Z",
+          "status": 200,
+          "finalHost": "item.rakuten.co.jp",
+          "passed": true
+        },
+        {
+          "imageSize": 240,
+          "status": 200,
+          "finalHost": "thumbnail.image.rakuten.co.jp",
+          "passed": true
+        },
+        {
+          "imageSize": 80,
+          "status": 200,
+          "finalHost": "thumbnail.image.rakuten.co.jp",
+          "passed": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "ichinokura-himezen-lineup-v1",
+      "normalUrl": "https://item.rakuten.co.jp/auc-suwabe/ichi011/",
+      "capacityMl": 720,
+      "checks": [
+        {
+          "device": "desktop",
+          "checkedAt": "2026-10-20T04:52:21.699Z",
+          "status": 200,
+          "finalHost": "item.rakuten.co.jp",
+          "passed": true
+        },
+        {
+          "device": "mobile",
+          "checkedAt": "2026-10-20T04:52:22.867Z",
+          "status": 200,
+          "finalHost": "item.rakuten.co.jp",
+          "passed": true
+        },
+        {
+          "imageSize": 240,
+          "status": 200,
+          "finalHost": "thumbnail.image.rakuten.co.jp",
+          "passed": true
+        },
+        {
+          "imageSize": 80,
+          "status": 200,
+          "finalHost": "thumbnail.image.rakuten.co.jp",
+          "passed": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "urakasumi-karakuchi-lineup-v1",
+      "normalUrl": "https://item.rakuten.co.jp/auc-suwabe/ura022/",
+      "capacityMl": 720,
+      "checks": [
+        {
+          "device": "desktop",
+          "checkedAt": "2026-10-20T04:52:26.309Z",
+          "status": 200,
+          "finalHost": "item.rakuten.co.jp",
+          "passed": true
+        },
+        {
+          "device": "mobile",
+          "checkedAt": "2026-10-20T04:52:27.500Z",
+          "status": 200,
+          "finalHost": "item.rakuten.co.jp",
+          "passed": true
+        },
+        {
+          "imageSize": 240,
+          "status": 200,
+          "finalHost": "thumbnail.image.rakuten.co.jp",
+          "passed": true
+        },
+        {
+          "imageSize": 80,
+          "status": 200,
+          "finalHost": "thumbnail.image.rakuten.co.jp",
+          "passed": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "daishichi-kaiden-lineup-v1",
+      "normalUrl": "https://item.rakuten.co.jp/marp-mori/545285/",
+      "capacityMl": 720,
+      "checks": [
+        {
+          "device": "desktop",
+          "checkedAt": "2026-10-20T04:52:30.968Z",
+          "status": 200,
+          "finalHost": "item.rakuten.co.jp",
+          "passed": true
+        },
+        {
+          "device": "mobile",
+          "checkedAt": "2026-10-20T04:52:32.153Z",
+          "status": 200,
+          "finalHost": "item.rakuten.co.jp",
+          "passed": true
+        },
+        {
+          "imageSize": 240,
+          "status": 200,
+          "finalHost": "thumbnail.image.rakuten.co.jp",
+          "passed": true
+        },
+        {
+          "imageSize": 80,
+          "status": 200,
+          "finalHost": "thumbnail.image.rakuten.co.jp",
+          "passed": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "daishichi-minowamon-lineup-v1",
+      "normalUrl": "https://item.rakuten.co.jp/hamadaya/10000031/",
+      "capacityMl": 720,
+      "checks": [
+        {
+          "device": "desktop",
+          "checkedAt": "2026-10-20T04:52:35.607Z",
+          "status": 200,
+          "finalHost": "item.rakuten.co.jp",
+          "passed": true
+        },
+        {
+          "device": "mobile",
+          "checkedAt": "2026-10-20T04:52:36.806Z",
+          "status": 200,
+          "finalHost": "item.rakuten.co.jp",
+          "passed": true
+        },
+        {
+          "imageSize": 240,
+          "status": 200,
+          "finalHost": "thumbnail.image.rakuten.co.jp",
+          "passed": true
+        },
+        {
+          "imageSize": 80,
+          "status": 200,
+          "finalHost": "thumbnail.image.rakuten.co.jp",
+          "passed": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "dewazakura-ichiko-lineup-v1",
+      "normalUrl": "https://item.rakuten.co.jp/d-craft/4972009000625/",
+      "capacityMl": 720,
+      "checks": [
+        {
+          "device": "desktop",
+          "checkedAt": "2026-10-20T04:52:40.257Z",
+          "status": 200,
+          "finalHost": "item.rakuten.co.jp",
+          "passed": true
+        },
+        {
+          "device": "mobile",
+          "checkedAt": "2026-10-20T04:52:41.454Z",
+          "status": 200,
+          "finalHost": "item.rakuten.co.jp",
+          "passed": true
+        },
+        {
+          "imageSize": 240,
+          "status": 200,
+          "finalHost": "thumbnail.image.rakuten.co.jp",
+          "passed": true
+        },
+        {
+          "imageSize": 80,
+          "status": 200,
+          "finalHost": "thumbnail.image.rakuten.co.jp",
+          "passed": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "dewazakura-tsuyahime-lineup-v1",
+      "normalUrl": "https://item.rakuten.co.jp/kamosikaya/dewazakura00001/",
+      "capacityMl": 720,
+      "checks": [
+        {
+          "device": "desktop",
+          "checkedAt": "2026-10-20T04:52:44.904Z",
+          "status": 200,
+          "finalHost": "item.rakuten.co.jp",
+          "passed": true
+        },
+        {
+          "device": "mobile",
+          "checkedAt": "2026-10-20T04:52:46.059Z",
+          "status": 200,
+          "finalHost": "item.rakuten.co.jp",
+          "passed": true
+        },
+        {
+          "imageSize": 240,
+          "status": 200,
+          "finalHost": "thumbnail.image.rakuten.co.jp",
+          "passed": true
+        },
+        {
+          "imageSize": 80,
+          "status": 200,
+          "finalHost": "thumbnail.image.rakuten.co.jp",
+          "passed": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "ichinokura-suzune-lineup-v1",
+      "normalUrl": "https://item.rakuten.co.jp/jizakeshop/429653/",
+      "capacityMl": 300,
+      "checks": [
+        {
+          "device": "desktop",
+          "checkedAt": "2026-10-20T04:52:49.541Z",
+          "status": 200,
+          "finalHost": "item.rakuten.co.jp",
+          "passed": true
+        },
+        {
+          "device": "mobile",
+          "checkedAt": "2026-10-20T04:52:50.701Z",
+          "status": 200,
+          "finalHost": "item.rakuten.co.jp",
+          "passed": true
+        },
+        {
+          "imageSize": 240,
+          "status": 200,
+          "finalHost": "thumbnail.image.rakuten.co.jp",
+          "passed": true
+        },
+        {
+          "imageSize": 80,
+          "status": 200,
+          "finalHost": "thumbnail.image.rakuten.co.jp",
+          "passed": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "urakasumi-honshikomi-lineup-v1",
+      "normalUrl": "https://item.rakuten.co.jp/auc-suwabe/ura024/",
+      "capacityMl": 720,
+      "checks": [
+        {
+          "device": "desktop",
+          "checkedAt": "2026-10-20T04:52:54.181Z",
+          "status": 200,
+          "finalHost": "item.rakuten.co.jp",
+          "passed": true
+        },
+        {
+          "device": "mobile",
+          "checkedAt": "2026-10-20T04:52:55.342Z",
+          "status": 200,
+          "finalHost": "item.rakuten.co.jp",
+          "passed": true
+        },
+        {
+          "imageSize": 240,
+          "status": 200,
+          "finalHost": "thumbnail.image.rakuten.co.jp",
+          "passed": true
+        },
+        {
+          "imageSize": 80,
+          "status": 200,
+          "finalHost": "thumbnail.image.rakuten.co.jp",
+          "passed": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "kikusui-karakuchi-lineup-v1",
+      "normalUrl": "https://item.rakuten.co.jp/atigus/2911420110195/",
+      "capacityMl": 720,
+      "checks": [
+        {
+          "device": "desktop",
+          "checkedAt": "2026-10-20T04:52:58.802Z",
+          "status": 200,
+          "finalHost": "item.rakuten.co.jp",
+          "passed": true
+        },
+        {
+          "device": "mobile",
+          "checkedAt": "2026-10-20T04:53:00.017Z",
+          "status": 200,
+          "finalHost": "item.rakuten.co.jp",
+          "passed": true
+        },
+        {
+          "imageSize": 240,
+          "status": 200,
+          "finalHost": "thumbnail.image.rakuten.co.jp",
+          "passed": true
+        },
+        {
+          "imageSize": 80,
+          "status": 200,
+          "finalHost": "thumbnail.image.rakuten.co.jp",
+          "passed": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "kikusui-junmai-lineup-v1",
+      "normalUrl": "https://item.rakuten.co.jp/shochuya-doragon/4930391120833-ko/",
+      "capacityMl": 720,
+      "checks": [
+        {
+          "device": "desktop",
+          "checkedAt": "2026-10-20T04:53:03.449Z",
+          "status": 200,
+          "finalHost": "item.rakuten.co.jp",
+          "passed": true
+        },
+        {
+          "device": "mobile",
+          "checkedAt": "2026-10-20T04:53:04.628Z",
+          "status": 200,
+          "finalHost": "item.rakuten.co.jp",
+          "passed": true
+        },
+        {
+          "imageSize": 240,
+          "status": 200,
+          "finalHost": "thumbnail.image.rakuten.co.jp",
+          "passed": true
+        },
+        {
+          "imageSize": 80,
+          "status": 200,
+          "finalHost": "thumbnail.image.rakuten.co.jp",
+          "passed": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "suigei-ginrei-lineup-v1",
+      "normalUrl": "https://item.rakuten.co.jp/manroku/51-suige-28/",
+      "capacityMl": 720,
+      "checks": [
+        {
+          "device": "desktop",
+          "checkedAt": "2026-10-20T04:53:08.109Z",
+          "status": 200,
+          "finalHost": "item.rakuten.co.jp",
+          "passed": true
+        },
+        {
+          "device": "mobile",
+          "checkedAt": "2026-10-20T04:53:09.282Z",
+          "status": 200,
+          "finalHost": "item.rakuten.co.jp",
+          "passed": true
+        },
+        {
+          "imageSize": 240,
+          "status": 200,
+          "finalHost": "thumbnail.image.rakuten.co.jp",
+          "passed": true
+        },
+        {
+          "imageSize": 80,
+          "status": 200,
+          "finalHost": "thumbnail.image.rakuten.co.jp",
+          "passed": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "suigei-koiku54-lineup-v1",
+      "normalUrl": "https://item.rakuten.co.jp/yamasake/3918/",
+      "capacityMl": 720,
+      "checks": [
+        {
+          "device": "desktop",
+          "checkedAt": "2026-10-20T04:53:12.737Z",
+          "status": 200,
+          "finalHost": "item.rakuten.co.jp",
+          "passed": true
+        },
+        {
+          "device": "mobile",
+          "checkedAt": "2026-10-20T04:53:13.911Z",
+          "status": 200,
+          "finalHost": "item.rakuten.co.jp",
+          "passed": true
+        },
+        {
+          "imageSize": 240,
+          "status": 200,
+          "finalHost": "thumbnail.image.rakuten.co.jp",
+          "passed": true
+        },
+        {
+          "imageSize": 80,
+          "status": 200,
+          "finalHost": "thumbnail.image.rakuten.co.jp",
+          "passed": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "tengumai-umajun-lineup-v1",
+      "normalUrl": "https://item.rakuten.co.jp/konchikitai/tengumai-umajyun720/",
+      "capacityMl": 720,
+      "checks": [
+        {
+          "device": "desktop",
+          "checkedAt": "2026-10-20T04:53:17.352Z",
+          "status": 200,
+          "finalHost": "item.rakuten.co.jp",
+          "passed": true
+        },
+        {
+          "device": "mobile",
+          "checkedAt": "2026-10-20T04:53:18.630Z",
+          "status": 200,
+          "finalHost": "item.rakuten.co.jp",
+          "passed": true
+        },
+        {
+          "imageSize": 240,
+          "status": 200,
+          "finalHost": "thumbnail.image.rakuten.co.jp",
+          "passed": true
+        },
+        {
+          "imageSize": 80,
+          "status": 200,
+          "finalHost": "thumbnail.image.rakuten.co.jp",
+          "passed": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "nanbubijin-jg-lineup-v1",
+      "normalUrl": "https://item.rakuten.co.jp/sakenosazan/12606/",
+      "capacityMl": 720,
+      "checks": [
+        {
+          "device": "desktop",
+          "checkedAt": "2026-10-20T04:53:22.043Z",
+          "status": 200,
+          "finalHost": "item.rakuten.co.jp",
+          "passed": true
+        },
+        {
+          "device": "mobile",
+          "checkedAt": "2026-10-20T04:53:23.202Z",
+          "status": 200,
+          "finalHost": "item.rakuten.co.jp",
+          "passed": true
+        },
+        {
+          "imageSize": 240,
+          "status": 200,
+          "finalHost": "thumbnail.image.rakuten.co.jp",
+          "passed": true
+        },
+        {
+          "imageSize": 80,
+          "status": 200,
+          "finalHost": "thumbnail.image.rakuten.co.jp",
+          "passed": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "nanbubijin-jd-lineup-v1",
+      "normalUrl": "https://item.rakuten.co.jp/manroku/51-nnb-02/",
+      "capacityMl": 720,
+      "checks": [
+        {
+          "device": "desktop",
+          "checkedAt": "2026-10-20T04:53:26.653Z",
+          "status": 200,
+          "finalHost": "item.rakuten.co.jp",
+          "passed": true
+        },
+        {
+          "device": "mobile",
+          "checkedAt": "2026-10-20T04:53:27.867Z",
+          "status": 200,
+          "finalHost": "item.rakuten.co.jp",
+          "passed": true
+        },
+        {
+          "imageSize": 240,
+          "status": 200,
+          "finalHost": "thumbnail.image.rakuten.co.jp",
+          "passed": true
+        },
+        {
+          "imageSize": 80,
+          "status": 200,
+          "finalHost": "thumbnail.image.rakuten.co.jp",
+          "passed": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "hakutsuru-daiginjo-lineup-v1",
+      "normalUrl": "https://item.rakuten.co.jp/shochuya-doragon/haku-daiginjo720-1/",
+      "capacityMl": 720,
+      "checks": [
+        {
+          "device": "desktop",
+          "checkedAt": "2026-10-20T04:53:31.318Z",
+          "status": 200,
+          "finalHost": "item.rakuten.co.jp",
+          "passed": true
+        },
+        {
+          "device": "mobile",
+          "checkedAt": "2026-10-20T04:53:32.489Z",
+          "status": 200,
+          "finalHost": "item.rakuten.co.jp",
+          "passed": true
+        },
+        {
+          "imageSize": 240,
+          "status": 200,
+          "finalHost": "thumbnail.image.rakuten.co.jp",
+          "passed": true
+        },
+        {
+          "imageSize": 80,
+          "status": 200,
+          "finalHost": "thumbnail.image.rakuten.co.jp",
+          "passed": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "kikumasamune-kaho-lineup-v1",
+      "normalUrl": "https://item.rakuten.co.jp/kikumasa/nk082/",
+      "capacityMl": 720,
+      "checks": [
+        {
+          "device": "desktop",
+          "checkedAt": "2026-10-20T04:53:35.955Z",
+          "status": 200,
+          "finalHost": "item.rakuten.co.jp",
+          "passed": true
+        },
+        {
+          "device": "mobile",
+          "checkedAt": "2026-10-20T04:53:37.132Z",
+          "status": 200,
+          "finalHost": "item.rakuten.co.jp",
+          "passed": true
+        },
+        {
+          "imageSize": 240,
+          "status": 200,
+          "finalHost": "thumbnail.image.rakuten.co.jp",
+          "passed": true
+        },
+        {
+          "imageSize": 80,
+          "status": 200,
+          "finalHost": "thumbnail.image.rakuten.co.jp",
+          "passed": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "kagatobi-gokkan-lineup-v1",
+      "normalUrl": "https://item.rakuten.co.jp/tsutsu-uraura/fukumitsu-kaga-sp720/",
+      "capacityMl": 720,
+      "checks": [
+        {
+          "device": "desktop",
+          "checkedAt": "2026-10-20T04:53:40.635Z",
+          "status": 200,
+          "finalHost": "item.rakuten.co.jp",
+          "passed": true
+        },
+        {
+          "device": "mobile",
+          "checkedAt": "2026-10-20T04:53:41.787Z",
+          "status": 200,
+          "finalHost": "item.rakuten.co.jp",
+          "passed": true
+        },
+        {
+          "imageSize": 240,
+          "status": 200,
+          "finalHost": "thumbnail.image.rakuten.co.jp",
+          "passed": true
+        },
+        {
+          "imageSize": 80,
+          "status": 200,
+          "finalHost": "thumbnail.image.rakuten.co.jp",
+          "passed": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "kagatobi-yamahai-lineup-v1",
+      "normalUrl": "https://item.rakuten.co.jp/fukumitsuya-shop/28745/",
+      "capacityMl": 720,
+      "checks": [
+        {
+          "device": "desktop",
+          "checkedAt": "2026-10-20T04:53:45.204Z",
+          "status": 200,
+          "finalHost": "item.rakuten.co.jp",
+          "passed": true
+        },
+        {
+          "device": "mobile",
+          "checkedAt": "2026-10-20T04:53:46.388Z",
+          "status": 200,
+          "finalHost": "item.rakuten.co.jp",
+          "passed": true
+        },
+        {
+          "imageSize": 240,
+          "status": 200,
+          "finalHost": "thumbnail.image.rakuten.co.jp",
+          "passed": true
+        },
+        {
+          "imageSize": 80,
+          "status": 200,
+          "finalHost": "thumbnail.image.rakuten.co.jp",
+          "passed": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "kuroobi-yuyu-lineup-v1",
+      "normalUrl": "https://item.rakuten.co.jp/m-sakaya/1051153/",
+      "capacityMl": 720,
+      "checks": [
+        {
+          "device": "desktop",
+          "checkedAt": "2026-10-20T04:53:49.850Z",
+          "status": 200,
+          "finalHost": "item.rakuten.co.jp",
+          "passed": true
+        },
+        {
+          "device": "mobile",
+          "checkedAt": "2026-10-20T04:53:51.051Z",
+          "status": 200,
+          "finalHost": "item.rakuten.co.jp",
+          "passed": true
+        },
+        {
+          "imageSize": 240,
+          "status": 200,
+          "finalHost": "thumbnail.image.rakuten.co.jp",
+          "passed": true
+        },
+        {
+          "imageSize": 80,
+          "status": 200,
+          "finalHost": "thumbnail.image.rakuten.co.jp",
+          "passed": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "okunomatsu-adatara-lineup-v1",
+      "normalUrl": "https://item.rakuten.co.jp/ihei/21207/",
+      "capacityMl": 720,
+      "checks": [
+        {
+          "device": "desktop",
+          "checkedAt": "2026-10-20T04:53:54.501Z",
+          "status": 200,
+          "finalHost": "item.rakuten.co.jp",
+          "passed": true
+        },
+        {
+          "device": "mobile",
+          "checkedAt": "2026-10-20T04:53:55.673Z",
+          "status": 200,
+          "finalHost": "item.rakuten.co.jp",
+          "passed": true
+        },
+        {
+          "imageSize": 240,
+          "status": 200,
+          "finalHost": "thumbnail.image.rakuten.co.jp",
+          "passed": true
+        },
+        {
+          "imageSize": 80,
+          "status": 200,
+          "finalHost": "thumbnail.image.rakuten.co.jp",
+          "passed": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "okunomatsu-jg-lineup-v1",
+      "normalUrl": "https://item.rakuten.co.jp/kaiseiya/0047657/",
+      "capacityMl": 720,
+      "checks": [
+        {
+          "device": "desktop",
+          "checkedAt": "2026-10-20T04:53:59.125Z",
+          "status": 200,
+          "finalHost": "item.rakuten.co.jp",
+          "passed": true
+        },
+        {
+          "device": "mobile",
+          "checkedAt": "2026-10-20T04:54:00.288Z",
+          "status": 200,
+          "finalHost": "item.rakuten.co.jp",
+          "passed": true
+        },
+        {
+          "imageSize": 240,
+          "status": 200,
+          "finalHost": "thumbnail.image.rakuten.co.jp",
+          "passed": true
+        },
+        {
+          "imageSize": 80,
+          "status": 200,
+          "finalHost": "thumbnail.image.rakuten.co.jp",
+          "passed": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "jozen-jd-lineup-v1",
+      "normalUrl": "https://item.rakuten.co.jp/jozen/302315/",
+      "capacityMl": 720,
+      "checks": [
+        {
+          "device": "desktop",
+          "checkedAt": "2026-10-20T04:54:03.744Z",
+          "status": 200,
+          "finalHost": "item.rakuten.co.jp",
+          "passed": true
+        },
+        {
+          "device": "mobile",
+          "checkedAt": "2026-10-20T04:54:04.923Z",
+          "status": 200,
+          "finalHost": "item.rakuten.co.jp",
+          "passed": true
+        },
+        {
+          "imageSize": 240,
+          "status": 200,
+          "finalHost": "thumbnail.image.rakuten.co.jp",
+          "passed": true
+        },
+        {
+          "imageSize": 80,
+          "status": 200,
+          "finalHost": "thumbnail.image.rakuten.co.jp",
+          "passed": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "minatoya-tosuke-lineup-v1",
+      "normalUrl": "https://item.rakuten.co.jp/jozen/422414/",
+      "capacityMl": 630,
+      "checks": [
+        {
+          "device": "desktop",
+          "checkedAt": "2026-10-20T04:54:08.359Z",
+          "status": 200,
+          "finalHost": "item.rakuten.co.jp",
+          "passed": true
+        },
+        {
+          "device": "mobile",
+          "checkedAt": "2026-10-20T04:54:09.538Z",
+          "status": 200,
+          "finalHost": "item.rakuten.co.jp",
+          "passed": true
+        },
+        {
+          "imageSize": 240,
+          "status": 200,
+          "finalHost": "thumbnail.image.rakuten.co.jp",
+          "passed": true
+        },
+        {
+          "imageSize": 80,
+          "status": 200,
+          "finalHost": "thumbnail.image.rakuten.co.jp",
+          "passed": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "uonuma-junmai-lineup-v1",
+      "normalUrl": "https://item.rakuten.co.jp/jozen/252014/",
+      "capacityMl": 720,
+      "checks": [
+        {
+          "device": "desktop",
+          "checkedAt": "2026-10-20T04:54:13.050Z",
+          "status": 200,
+          "finalHost": "item.rakuten.co.jp",
+          "passed": true
+        },
+        {
+          "device": "mobile",
+          "checkedAt": "2026-10-20T04:54:14.166Z",
+          "status": 200,
+          "finalHost": "item.rakuten.co.jp",
+          "passed": true
+        },
+        {
+          "imageSize": 240,
+          "status": 200,
+          "finalHost": "thumbnail.image.rakuten.co.jp",
+          "passed": true
+        },
+        {
+          "imageSize": 80,
+          "status": 200,
+          "finalHost": "thumbnail.image.rakuten.co.jp",
+          "passed": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "ozeki-gokuama-lineup-v1",
+      "normalUrl": "https://item.rakuten.co.jp/shochuya-doragon/4901061110362/",
+      "capacityMl": 720,
+      "checks": [
+        {
+          "device": "desktop",
+          "checkedAt": "2026-10-20T04:54:17.647Z",
+          "status": 200,
+          "finalHost": "item.rakuten.co.jp",
+          "passed": true
+        },
+        {
+          "device": "mobile",
+          "checkedAt": "2026-10-20T04:54:18.868Z",
+          "status": 200,
+          "finalHost": "item.rakuten.co.jp",
+          "passed": true
+        },
+        {
+          "imageSize": 240,
+          "status": 200,
+          "finalHost": "thumbnail.image.rakuten.co.jp",
+          "passed": true
+        },
+        {
+          "imageSize": 80,
+          "status": 200,
+          "finalHost": "thumbnail.image.rakuten.co.jp",
+          "passed": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "ozeki-karatanba-lineup-v1",
+      "normalUrl": "https://item.rakuten.co.jp/jism/4901061107201-75-30002628-n/",
+      "capacityMl": 720,
+      "checks": [
+        {
+          "device": "desktop",
+          "checkedAt": "2026-10-20T04:54:22.337Z",
+          "status": 200,
+          "finalHost": "item.rakuten.co.jp",
+          "passed": true
+        },
+        {
+          "device": "mobile",
+          "checkedAt": "2026-10-20T04:54:23.542Z",
+          "status": 200,
+          "finalHost": "item.rakuten.co.jp",
+          "passed": true
+        },
+        {
+          "imageSize": 240,
+          "status": 200,
+          "finalHost": "thumbnail.image.rakuten.co.jp",
+          "passed": true
+        },
+        {
+          "imageSize": 80,
+          "status": 200,
+          "finalHost": "thumbnail.image.rakuten.co.jp",
+          "passed": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "gekkeikan-nigori-lineup-v1",
+      "normalUrl": "https://item.rakuten.co.jp/gekkeikan/sake028256/",
+      "capacityMl": 720,
+      "checks": [
+        {
+          "device": "desktop",
+          "checkedAt": "2026-10-20T04:54:26.982Z",
+          "status": 200,
+          "finalHost": "item.rakuten.co.jp",
+          "passed": true
+        },
+        {
+          "device": "mobile",
+          "checkedAt": "2026-10-20T04:54:28.166Z",
+          "status": 200,
+          "finalHost": "item.rakuten.co.jp",
+          "passed": true
+        },
+        {
+          "imageSize": 240,
+          "status": 200,
+          "finalHost": "thumbnail.image.rakuten.co.jp",
+          "passed": true
+        },
+        {
+          "imageSize": 80,
+          "status": 200,
+          "finalHost": "thumbnail.image.rakuten.co.jp",
+          "passed": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "mio-sparkling-lineup-v1",
+      "normalUrl": "https://item.rakuten.co.jp/nondonkai/10000171/",
+      "capacityMl": 300,
+      "checks": [
+        {
+          "device": "desktop",
+          "checkedAt": "2026-10-20T04:54:31.615Z",
+          "status": 200,
+          "finalHost": "item.rakuten.co.jp",
+          "passed": true
+        },
+        {
+          "device": "mobile",
+          "checkedAt": "2026-10-20T04:54:32.875Z",
+          "status": 200,
+          "finalHost": "item.rakuten.co.jp",
+          "passed": true
+        },
+        {
+          "imageSize": 240,
+          "status": 200,
+          "finalHost": "thumbnail.image.rakuten.co.jp",
+          "passed": true
+        },
+        {
+          "imageSize": 80,
+          "status": 200,
+          "finalHost": "thumbnail.image.rakuten.co.jp",
+          "passed": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "urakasumi-zen-lineup-v1",
+      "normalUrl": "https://item.rakuten.co.jp/se-sake222/2363x01/",
+      "capacityMl": 720,
+      "checks": [
+        {
+          "device": "desktop",
+          "checkedAt": "2026-10-20T04:54:36.262Z",
+          "status": 200,
+          "finalHost": "item.rakuten.co.jp",
+          "passed": true
+        },
+        {
+          "device": "mobile",
+          "checkedAt": "2026-10-20T04:54:38.525Z",
+          "status": 200,
+          "finalHost": "item.rakuten.co.jp",
+          "passed": true
+        },
+        {
+          "imageSize": 240,
+          "status": 200,
+          "finalHost": "thumbnail.image.rakuten.co.jp",
+          "passed": true
+        },
+        {
+          "imageSize": 80,
+          "status": 200,
+          "finalHost": "thumbnail.image.rakuten.co.jp",
+          "passed": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "kamotsuru-jg-lineup-v1",
+      "normalUrl": "https://item.rakuten.co.jp/shochuya-doragon/kamo-41/",
+      "capacityMl": 720,
+      "checks": [
+        {
+          "device": "desktop",
+          "checkedAt": "2026-10-20T04:54:41.079Z",
+          "status": 200,
+          "finalHost": "item.rakuten.co.jp",
+          "passed": true
+        },
+        {
+          "device": "mobile",
+          "checkedAt": "2026-10-20T04:54:42.287Z",
+          "status": 200,
+          "finalHost": "item.rakuten.co.jp",
+          "passed": true
+        },
+        {
+          "imageSize": 240,
+          "status": 200,
+          "finalHost": "thumbnail.image.rakuten.co.jp",
+          "passed": true
+        },
+        {
+          "imageSize": 80,
+          "status": 200,
+          "finalHost": "thumbnail.image.rakuten.co.jp",
+          "passed": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "nihonsakari-daiginjo-lineup-v1",
+      "normalUrl": "https://item.rakuten.co.jp/nihonsakarishop/06232/",
+      "capacityMl": 720,
+      "checks": [
+        {
+          "device": "desktop",
+          "checkedAt": "2026-10-20T04:54:45.721Z",
+          "status": 200,
+          "finalHost": "item.rakuten.co.jp",
+          "passed": true
+        },
+        {
+          "device": "mobile",
+          "checkedAt": "2026-10-20T04:54:46.922Z",
+          "status": 200,
+          "finalHost": "item.rakuten.co.jp",
+          "passed": true
+        },
+        {
+          "imageSize": 240,
+          "status": 200,
+          "finalHost": "thumbnail.image.rakuten.co.jp",
+          "passed": true
+        },
+        {
+          "imageSize": 80,
+          "status": 200,
+          "finalHost": "thumbnail.image.rakuten.co.jp",
+          "passed": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "azumaichi-jd-lineup-v1",
+      "normalUrl": "https://item.rakuten.co.jp/meishu-honpo/014973/",
+      "capacityMl": 720,
+      "checks": [
+        {
+          "device": "desktop",
+          "checkedAt": "2026-10-20T04:54:50.517Z",
+          "status": 200,
+          "finalHost": "item.rakuten.co.jp",
+          "passed": true
+        },
+        {
+          "device": "mobile",
+          "checkedAt": "2026-10-20T04:54:51.596Z",
+          "status": 200,
+          "finalHost": "item.rakuten.co.jp",
+          "passed": true
+        },
+        {
+          "imageSize": 240,
+          "status": 200,
+          "finalHost": "thumbnail.image.rakuten.co.jp",
+          "passed": true
+        },
+        {
+          "imageSize": 80,
+          "status": 200,
+          "finalHost": "thumbnail.image.rakuten.co.jp",
+          "passed": true
+        }
+      ],
+      "passed": true
+    }
+  ],
+  "passed": true
+}

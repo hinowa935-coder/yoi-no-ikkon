@@ -1,0 +1,77 @@
+{
+  "sourceCommit": "058cbf9aaabbd5a02c6973aea57ae41233efc793",
+  "checkedAt": "2026-10-20T04:23:39.851Z",
+  "approvalSource": "559b538f-2043-43d7-8a1e-96d574bc8d6f",
+  "automaticPublicationAllowed": false,
+  "weeklyMonitoringEnabled": false,
+  "protectedFiles": [
+    {
+      "file": "src/data/discoveryCatalog.json",
+      "sha256": "14ca6db54266ae3434f0f4fe3374dad350633a77be72f16a409c96bfd22bec8d"
+    },
+    {
+      "file": "src/data/catalogAdditions.json",
+      "sha256": "e3b2a9ebc3fbba807ad386bd0e5215a2850ae1b5aceda1668860aeb5c6a36bfe"
+    },
+    {
+      "file": "src/data/catalogLifecycle.json",
+      "sha256": "710468fed8b59ff1cc8de7e88674c6d9a1fa799b55ada5d8f7dfd7251ac83292"
+    },
+    {
+      "file": "src/data/favoriteReferences.json",
+      "sha256": "53d2c5c48d0047328fe0484e1638dcb6f3caaac8336cbe30e80b60cd7962cdad"
+    },
+    {
+      "file": "src/commerce/generated/purchase-matches.json",
+      "sha256": "c4774bdb14c9c1c78f3b77cf3088b8953c94f12f47c592a8e6cbf2fbf940805b"
+    },
+    {
+      "file": "src/commerce/generated/product-media.json",
+      "sha256": "7647c73205cac9f5db6172393b09b36453c00dbd862069f10d6ba6dad8dcfa2a"
+    },
+    {
+      "file": "src/commerce/generated/commerce-final-approvals.json",
+      "sha256": "667592f5737618569f56380560e44c3944cd7f8b040af07c7e473f9dcbbd5428"
+    },
+    {
+      "file": "src/commerce/generated/discovery-links.json",
+      "sha256": "afe8b63f5f792709f8b96c65adcd4369bc1d0126ab6dee9e7b53a1837238c176"
+    },
+    {
+      "file": "src/commerce/generated/merchant-links.json",
+      "sha256": "dc608a33108fe1c976ad48d5572e0c8b624ea63d69f7ea0850383b5d32857e07"
+    },
+    {
+      "file": "src/commerce/generated/availability-holds.json",
+      "sha256": "1ab5f0acd3f1d87a68559aa52b923fa4e405f2d71863d51fdd401434b5c5f3ac"
+    },
+    {
+      "file": "data/catalog-operations/candidates.json",
+      "sha256": "4008c3584ae3d7b5b1a882f31fa3f1949642d9ed153333bcec1f902c95e81339"
+    },
+    {
+      "file": "src/data/discovery.js",
+      "sha256": "d7dc53c21b6ff20bfb09ed62a895d0f9fcae910f8d2f235fb955e62e5007762a"
+    },
+    {
+      "file": "src/data/discoveryNights.js",
+      "sha256": "f2ad1d11b4fe0bc6c7c108a81094423069c00733c373e451ea68c32c5732284f"
+    },
+    {
+      "file": "src/app/about/content.js",
+      "sha256": "c2795ec654b6b7aaf7bcb388a92ca731918d9adf9951241b9414818494a04b64"
+    },
+    {
+      "file": "public/sw.js",
+      "sha256": "ea92196b5dea8a270a431239f479fe4d3e01c014bd48eb1558faac1bc2ccbf9e"
+    },
+    {
+      "file": "public/manifest.webmanifest",
+      "sha256": "ef440a721c7c8334b7a739201a4f275acd7526877d346d69fb156b83c52e2714"
+    },
+    {
+      "file": "vercel.json",
+      "sha256": "07d5898691c1e53924277fb48e047de50ed4e95a97fb7ea15ab6f246ef84d115"
+    }
+  ]
+}

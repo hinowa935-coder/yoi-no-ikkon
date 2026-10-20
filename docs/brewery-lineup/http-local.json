@@ -1,0 +1,537 @@
+{
+  "checkedAt": "2026-10-20T05:14:05.050Z",
+  "base": "http://127.0.0.1:3197",
+  "rows": [
+    {
+      "route": "/",
+      "status": 200,
+      "cspUnchanged": true,
+      "passed": true
+    },
+    {
+      "route": "/search",
+      "status": 200,
+      "cspUnchanged": true,
+      "passed": true
+    },
+    {
+      "route": "/discover",
+      "status": 200,
+      "cspUnchanged": true,
+      "passed": true
+    },
+    {
+      "route": "/food",
+      "status": 200,
+      "cspUnchanged": true,
+      "passed": true
+    },
+    {
+      "route": "/ochoko",
+      "status": 200,
+      "cspUnchanged": true,
+      "passed": true
+    },
+    {
+      "route": "/about",
+      "status": 200,
+      "cspUnchanged": true,
+      "passed": true
+    },
+    {
+      "route": "/sake/hakkaisan-jd-lineup-v1",
+      "status": 200,
+      "cspUnchanged": true,
+      "passed": true
+    },
+    {
+      "route": "/sake/hakkaisan-daiginjo-lineup-v1",
+      "status": 200,
+      "cspUnchanged": true,
+      "passed": true
+    },
+    {
+      "route": "/sake/hakkaisan-seishu-lineup-v1",
+      "status": 200,
+      "cspUnchanged": true,
+      "passed": true
+    },
+    {
+      "route": "/sake/masumi-kuro-lineup-v1",
+      "status": 200,
+      "cspUnchanged": true,
+      "passed": true
+    },
+    {
+      "route": "/sake/masumi-shiro-lineup-v1",
+      "status": 200,
+      "cspUnchanged": true,
+      "passed": true
+    },
+    {
+      "route": "/sake/masumi-kaya-lineup-v1",
+      "status": 200,
+      "cspUnchanged": true,
+      "passed": true
+    },
+    {
+      "route": "/sake/ichinokura-mukansa-karakuchi-lineup-v1",
+      "status": 200,
+      "cspUnchanged": true,
+      "passed": true
+    },
+    {
+      "route": "/sake/ichinokura-mukansa-chokarakuchi-lineup-v1",
+      "status": 200,
+      "cspUnchanged": true,
+      "passed": true
+    },
+    {
+      "route": "/sake/ichinokura-himezen-lineup-v1",
+      "status": 200,
+      "cspUnchanged": true,
+      "passed": true
+    },
+    {
+      "route": "/sake/urakasumi-karakuchi-lineup-v1",
+      "status": 200,
+      "cspUnchanged": true,
+      "passed": true
+    },
+    {
+      "route": "/sake/daishichi-kaiden-lineup-v1",
+      "status": 200,
+      "cspUnchanged": true,
+      "passed": true
+    },
+    {
+      "route": "/sake/daishichi-minowamon-lineup-v1",
+      "status": 200,
+      "cspUnchanged": true,
+      "passed": true
+    },
+    {
+      "route": "/sake/dewazakura-ichiko-lineup-v1",
+      "status": 200,
+      "cspUnchanged": true,
+      "passed": true
+    },
+    {
+      "route": "/sake/dewazakura-tsuyahime-lineup-v1",
+      "status": 200,
+      "cspUnchanged": true,
+      "passed": true
+    },
+    {
+      "route": "/sake/ichinokura-suzune-lineup-v1",
+      "status": 200,
+      "cspUnchanged": true,
+      "passed": true
+    },
+    {
+      "route": "/sake/urakasumi-honshikomi-lineup-v1",
+      "status": 200,
+      "cspUnchanged": true,
+      "passed": true
+    },
+    {
+      "route": "/sake/kikusui-karakuchi-lineup-v1",
+      "status": 200,
+      "cspUnchanged": true,
+      "passed": true
+    },
+    {
+      "route": "/sake/kikusui-junmai-lineup-v1",
+      "status": 200,
+      "cspUnchanged": true,
+      "passed": true
+    },
+    {
+      "route": "/sake/suigei-ginrei-lineup-v1",
+      "status": 200,
+      "cspUnchanged": true,
+      "passed": true
+    },
+    {
+      "route": "/sake/suigei-koiku54-lineup-v1",
+      "status": 200,
+      "cspUnchanged": true,
+      "passed": true
+    },
+    {
+      "route": "/sake/tengumai-umajun-lineup-v1",
+      "status": 200,
+      "cspUnchanged": true,
+      "passed": true
+    },
+    {
+      "route": "/sake/nanbubijin-jg-lineup-v1",
+      "status": 200,
+      "cspUnchanged": true,
+      "passed": true
+    },
+    {
+      "route": "/sake/nanbubijin-jd-lineup-v1",
+      "status": 200,
+      "cspUnchanged": true,
+      "passed": true
+    },
+    {
+      "route": "/sake/hakutsuru-daiginjo-lineup-v1",
+      "status": 200,
+      "cspUnchanged": true,
+      "passed": true
+    },
+    {
+      "route": "/sake/kikumasamune-kaho-lineup-v1",
+      "status": 200,
+      "cspUnchanged": true,
+      "passed": true
+    },
+    {
+      "route": "/sake/kagatobi-gokkan-lineup-v1",
+      "status": 200,
+      "cspUnchanged": true,
+      "passed": true
+    },
+    {
+      "route": "/sake/kagatobi-yamahai-lineup-v1",
+      "status": 200,
+      "cspUnchanged": true,
+      "passed": true
+    },
+    {
+      "route": "/sake/kuroobi-yuyu-lineup-v1",
+      "status": 200,
+      "cspUnchanged": true,
+      "passed": true
+    },
+    {
+      "route": "/sake/okunomatsu-adatara-lineup-v1",
+      "status": 200,
+      "cspUnchanged": true,
+      "passed": true
+    },
+    {
+      "route": "/sake/okunomatsu-jg-lineup-v1",
+      "status": 200,
+      "cspUnchanged": true,
+      "passed": true
+    },
+    {
+      "route": "/sake/jozen-jd-lineup-v1",
+      "status": 200,
+      "cspUnchanged": true,
+      "passed": true
+    },
+    {
+      "route": "/sake/minatoya-tosuke-lineup-v1",
+      "status": 200,
+      "cspUnchanged": true,
+      "passed": true
+    },
+    {
+      "route": "/sake/uonuma-junmai-lineup-v1",
+      "status": 200,
+      "cspUnchanged": true,
+      "passed": true
+    },
+    {
+      "route": "/sake/ozeki-gokuama-lineup-v1",
+      "status": 200,
+      "cspUnchanged": true,
+      "passed": true
+    },
+    {
+      "route": "/sake/ozeki-karatanba-lineup-v1",
+      "status": 200,
+      "cspUnchanged": true,
+      "passed": true
+    },
+    {
+      "route": "/sake/gekkeikan-nigori-lineup-v1",
+      "status": 200,
+      "cspUnchanged": true,
+      "passed": true
+    },
+    {
+      "route": "/sake/mio-sparkling-lineup-v1",
+      "status": 200,
+      "cspUnchanged": true,
+      "passed": true
+    },
+    {
+      "route": "/sake/urakasumi-zen-lineup-v1",
+      "status": 200,
+      "cspUnchanged": true,
+      "passed": true
+    },
+    {
+      "route": "/sake/kamotsuru-jg-lineup-v1",
+      "status": 200,
+      "cspUnchanged": true,
+      "passed": true
+    },
+    {
+      "route": "/sake/nihonsakari-daiginjo-lineup-v1",
+      "status": 200,
+      "cspUnchanged": true,
+      "passed": true
+    },
+    {
+      "route": "/sake/azumaichi-jd-lineup-v1",
+      "status": 200,
+      "cspUnchanged": true,
+      "passed": true
+    },
+    {
+      "route": "/sake/koeigiku-gekkou",
+      "status": 200,
+      "cspUnchanged": true,
+      "passed": true
+    },
+    {
+      "route": "/sake/sara-hdomtl",
+      "status": 200,
+      "cspUnchanged": true,
+      "passed": true
+    },
+    {
+      "route": "/sake/tatsuriki-g39ip7",
+      "status": 200,
+      "cspUnchanged": true,
+      "passed": true
+    },
+    {
+      "route": "/sake/jujiasahi-id2kl5",
+      "status": 200,
+      "cspUnchanged": true,
+      "passed": true
+    },
+    {
+      "route": "/sake/tagaji-iapi9d",
+      "status": 200,
+      "cspUnchanged": true,
+      "passed": true
+    },
+    {
+      "route": "/sake/oze-no-yukidoke-junmai-daiginjo-1",
+      "status": 200,
+      "cspUnchanged": true,
+      "passed": true
+    },
+    {
+      "route": "/sake/tsushimaya-ia8tng-2",
+      "status": 200,
+      "cspUnchanged": true,
+      "passed": true
+    },
+    {
+      "route": "/sake/rashomon-gp8l70i9d-4",
+      "status": 200,
+      "cspUnchanged": true,
+      "passed": true
+    },
+    {
+      "route": "/sake/hiroki-tokubetsu-junmai-namazume-standard-v1",
+      "status": 200,
+      "cspUnchanged": true,
+      "passed": true
+    },
+    {
+      "route": "/sake/senkin-organic-nature-2026-hiire-v1",
+      "status": 200,
+      "cspUnchanged": true,
+      "passed": true
+    },
+    {
+      "route": "/sake/kamonishiki-nifudazake-kisuisen-binhiire-v1",
+      "status": 200,
+      "cspUnchanged": true,
+      "passed": true
+    },
+    {
+      "route": "/sake/rikyubai-hlztnu",
+      "status": 200,
+      "cspUnchanged": true,
+      "passed": true
+    },
+    {
+      "route": "/sake/housui-iwjid2",
+      "status": 200,
+      "cspUnchanged": true,
+      "passed": true
+    },
+    {
+      "route": "/sake/naruka-gg3q4p-4",
+      "status": 200,
+      "cspUnchanged": true,
+      "passed": true
+    },
+    {
+      "route": "/sake/kidoizumi-gg3q4p-5",
+      "status": 200,
+      "cspUnchanged": true,
+      "passed": true
+    },
+    {
+      "route": "/sake/haneya-junmai-ginjo-2",
+      "status": 200,
+      "cspUnchanged": true,
+      "passed": true
+    },
+    {
+      "route": "/sake/jozan-junmai-3",
+      "status": 200,
+      "cspUnchanged": true,
+      "passed": true
+    },
+    {
+      "route": "/sake/shinshu-kirei-junmai-ginjo-2",
+      "status": 200,
+      "cspUnchanged": true,
+      "passed": true
+    },
+    {
+      "route": "/sake/daishinsyu-junmai-ginjo-3",
+      "status": 200,
+      "cspUnchanged": true,
+      "passed": true
+    },
+    {
+      "route": "/sake/matsu-no-tsukasa-lvvrsw-3",
+      "status": 200,
+      "cspUnchanged": true,
+      "passed": true
+    },
+    {
+      "route": "/sake/ouroku-ryu-tokubetsu-honjozo-honnama-v1",
+      "status": 200,
+      "cspUnchanged": true,
+      "passed": true
+    },
+    {
+      "route": "/sake/garyubai-junmai-daiginjo-gohyakumangoku45-fukurotsuri-v1",
+      "status": 200,
+      "cspUnchanged": true,
+      "passed": true
+    },
+    {
+      "route": "/sake/librom-mint-craft-sake-v1",
+      "status": 200,
+      "cspUnchanged": true,
+      "passed": true
+    },
+    {
+      "route": "/sake/fukuiwai-gg3q4p",
+      "status": 200,
+      "cspUnchanged": true,
+      "passed": true
+    },
+    {
+      "route": "/sake/edo-kaijo-kflfjg",
+      "status": 200,
+      "cspUnchanged": true,
+      "passed": true
+    },
+    {
+      "route": "/sake/tanzawasan-nz2hmwijh",
+      "status": 200,
+      "cspUnchanged": true,
+      "passed": true
+    },
+    {
+      "route": "/sake/oku-j6jnol",
+      "status": 200,
+      "cspUnchanged": true,
+      "passed": true
+    },
+    {
+      "route": "/sake/okura-hmwprj",
+      "status": 200,
+      "cspUnchanged": true,
+      "passed": true
+    },
+    {
+      "route": "/sake/sanin-togo-uzpgk6",
+      "status": 200,
+      "cspUnchanged": true,
+      "passed": true
+    },
+    {
+      "route": "/sake/ryusei-io3id2",
+      "status": 200,
+      "cspUnchanged": true,
+      "passed": true
+    },
+    {
+      "route": "/sake/imakomachi-iwjid2",
+      "status": 200,
+      "cspUnchanged": true,
+      "passed": true
+    },
+    {
+      "route": "/sake/jikon-tokubetsu-junmai-1",
+      "status": 200,
+      "cspUnchanged": true,
+      "passed": true
+    },
+    {
+      "route": "/sake/ohmine-three-grain-2",
+      "status": 200,
+      "cspUnchanged": true,
+      "passed": true
+    },
+    {
+      "route": "/sake/tamadeizumi-junmai-ginjo",
+      "status": 200,
+      "cspUnchanged": true,
+      "passed": true
+    },
+    {
+      "route": "/sake/bojimaya-junmai-ginjo-muroka-nama-v1",
+      "status": 200,
+      "cspUnchanged": true,
+      "passed": true
+    },
+    {
+      "route": "/sake/okuharima-okamishizuku-hiire-v1",
+      "status": 200,
+      "cspUnchanged": true,
+      "passed": true
+    },
+    {
+      "route": "/sake/izumibashi-momoiro-kurotonbo-shinriki-v1",
+      "status": 200,
+      "cspUnchanged": true,
+      "passed": true
+    },
+    {
+      "route": "/sake/narutotai-onto-the-table-junmai-ginjo-v1",
+      "status": 200,
+      "cspUnchanged": true,
+      "passed": true
+    },
+    {
+      "route": "/sitemap.xml",
+      "sakePages": 520,
+      "passed": true
+    },
+    {
+      "route": "/.env.local",
+      "status": 404,
+      "passed": true
+    },
+    {
+      "route": "/docs/brewery-lineup/new-product-plans.json",
+      "status": 404,
+      "passed": true
+    },
+    {
+      "route": "/data/catalog-operations/brewery-lineup-batch.json",
+      "status": 404,
+      "passed": true
+    }
+  ],
+  "passed": true
+}

@@ -7,6 +7,7 @@ import {discoveryProducts,dishesForSake,nightsForSake,recommendationPool,scorePa
 import {resolveFavorite} from '../src/data/favoriteReferences.js';
 import {normalizeBreweryName,eligibleSensoryEvidence,publicationGate} from '../src/catalog/operations.js';
 import {seasonallyRecommended} from '../src/catalog/seasonality.js';
+import {reviewedLineupLifecycle,reviewedLineupAdditionCount} from './lib/reviewed-lineup-update.mjs';
 const read=p=>JSON.parse(fs.readFileSync(new URL('../'+p,import.meta.url)));
 const hash=v=>createHash('sha256').update(typeof v==='string'?v:JSON.stringify(v)).digest('hex');
 const audit=read('docs/catalog-review-52/adjudications.json'),baseline=read('docs/catalog-review-52/baseline-integrity.json'),newItems=read('src/data/catalogAdditions.json').items.filter(i=>audit.rows.some(a=>a.sakeId===i.id));
@@ -20,7 +21,7 @@ test('the immutable fixed cohort has a specific outcome for every candidate with
  assert.equal(pool.automaticPublicationAllowed,false);
 });
 test('all prior product identities, Verified fields, commerce and PWA stay intact',()=>{
- for(const [file,expected]of Object.entries(baseline.wholeFiles))assert.equal(hash(fs.readFileSync(new URL('../'+file,import.meta.url),'utf8').replaceAll('\r\n','\n')),expected,file);
+ for(const [file,expected]of Object.entries(baseline.wholeFiles)){const actual=hash(fs.readFileSync(new URL('../'+file,import.meta.url),'utf8').replaceAll('\r\n','\n'));assert(actual===expected||(file==='src/data/catalogLifecycle.json'&&reviewedLineupLifecycle(expected,actual)),file);}
  const additions=read('src/data/catalogAdditions.json').items;
  for(const [id,expected]of Object.entries(baseline.priorAdditions))assert.equal(hash(additions.find(x=>x.id===id)),expected);
  for(const [file,records]of Object.entries(baseline.records)){const current=read(file),map=file.endsWith('product-media.json')||file.endsWith('merchant-links.json')?current.records:current;for(const[id,expected]of Object.entries(records)){
@@ -29,7 +30,7 @@ test('all prior product identities, Verified fields, commerce and PWA stay intac
   assert(actual===expected||approved,file+' '+id+' must match baseline or an explicitly audited later commerce-only update');
  }}
  assert.equal(hash(read('src/commerce/generated/commerce-final-approvals.json').links.slice(0,baseline.approvalCount)),baseline.approvalHash);
- assert.equal(allSakePairings.length,baseline.products+newItems.length);assert.equal(new Set(allSakePairings.map(i=>i.id)).size,allSakePairings.length);
+ assert.equal(allSakePairings.length,baseline.products+newItems.length+reviewedLineupAdditionCount(allSakePairings));assert.equal(new Set(allSakePairings.map(i=>i.id)).size,allSakePairings.length);
 });
 test('new data has per-value sources and does not launder community evidence into Verified',()=>{
  for(const i of newItems){const r=i.sakeResearch;assert(i.capacityMl>0);assert(r.verifiedFeatureTags.length<=3);assert(r.verifiedFeatureTags.every(t=>r.featureEvidence.some(e=>e.feature===t&&e.sourceUrl&&e.verifiedAt&&e.meaning)));

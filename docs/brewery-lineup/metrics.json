@@ -1,0 +1,142 @@
+{
+  "checkedAt": "2026-10-20T05:17:50.655Z",
+  "approvalSource": "559b538f-2043-43d7-8a1e-96d574bc8d6f",
+  "before": {
+    "total": 517,
+    "active": 517,
+    "inactive": 0,
+    "archived": 0,
+    "breweries": 367,
+    "prefectures": 46,
+    "directLinks": 400,
+    "formalImages": 397,
+    "groups": {
+      "A": 395,
+      "B": 5,
+      "C": 2,
+      "D": 115
+    },
+    "candidateRemaining": 28
+  },
+  "after": {
+    "total": 558,
+    "active": 520,
+    "inactive": 38,
+    "archived": 0,
+    "breweries": 348,
+    "prefectures": 46,
+    "directLinks": 441,
+    "formalImages": 438,
+    "groups": {
+      "A": 436,
+      "B": 5,
+      "C": 2,
+      "D": 77
+    },
+    "candidateRemaining": 50
+  },
+  "explored": 64,
+  "exploredBreweries": 25,
+  "existingBreweryCandidates": 64,
+  "newBreweryCandidates": 0,
+  "identityConfirmed": 41,
+  "rakutenMaterialStockConfirmed": 48,
+  "formalCreativesCaptured": 48,
+  "publishedFormalCreatives": 41,
+  "sensoryProductDescriptions": 41,
+  "communityConsensusProducts": 1,
+  "communityRecords": 3,
+  "pairingComplete": 41,
+  "editorialPairings": 123,
+  "multipleProductsAddedBreweries": 13,
+  "added": 41,
+  "newBreweriesAdded": 0,
+  "seasonalAdded": 0,
+  "standardAdded": 41,
+  "existingReviewed": 115,
+  "existingDirectLinkRescues": 0,
+  "existingMaintained": 77,
+  "inactivated": 38,
+  "archived": 0,
+  "replacements": 38,
+  "pendingNew": 22,
+  "duplicateCandidates": 1,
+  "existingSearchQueries": 185,
+  "existingSearchFailures": [
+    {
+      "query": "風の森 ALPHA 1 次章への扉",
+      "error": "request_rejected"
+    },
+    {
+      "query": "亀萬 辛口純米酒 PLUS 9",
+      "error": "request_rejected"
+    }
+  ],
+  "targetA450Reached": false,
+  "directLinkRate": 0.8480769230769231,
+  "formalImageRate": 0.8423076923076923,
+  "averageProductsPerStrictBreweryKey": 1.4942528735632183,
+  "breweryCountMethod": "都道府県またはUNKNOWNと法人名正規化の組。英君酒造に県欠損枠が1つあり、同蔵とまとめる参考値はbefore/afterとも1少ない。DBの所在地は今回推定補完しない。",
+  "codeChecks": {
+    "checkedAt": "2026-10-20T05:14:14.914Z",
+    "rows": [
+      {
+        "name": "tests",
+        "checkedAt": "2026-10-20T05:14:11.505Z",
+        "passed": true,
+        "exitCode": 0,
+        "testCount": 127,
+        "testPass": 127
+      },
+      {
+        "name": "typecheck",
+        "checkedAt": "2026-10-20T05:14:14.505Z",
+        "passed": true,
+        "exitCode": 0,
+        "testCount": null,
+        "testPass": null
+      },
+      {
+        "name": "lint",
+        "checkedAt": "2026-10-20T05:14:14.914Z",
+        "passed": true,
+        "exitCode": 0,
+        "testCount": null,
+        "testPass": null
+      }
+    ],
+    "passed": true,
+    "lintIsExistingCustomCheckNotEslint": true
+  },
+  "build": {
+    "startedAt": "2026-10-20T05:06:22.388Z",
+    "checkedAt": "2026-10-20T05:09:05.496Z",
+    "passed": true,
+    "bundler": "webpack",
+    "dependenciesChanged": false,
+    "initialSandboxFailures": {
+      "count": 2,
+      "stage": "static_export_mkdir",
+      "code": "EPERM",
+      "sourceCompilationAndTypecheckPassed": true,
+      "resolvedBy": "Same unmodified build under normal authorized Windows permissions."
+    }
+  },
+  "secretScan": {
+    "scannedFiles": 7580,
+    "unreadableFiles": 0,
+    "findings": [],
+    "passed": true,
+    "configuredValuesChecked": [
+      "RAKUTEN_APPLICATION_ID",
+      "RAKUTEN_ACCESS_KEY",
+      "RAKUTEN_AFFILIATE_ID"
+    ],
+    "limitation": null
+  },
+  "deployment": null,
+  "productionQA": null,
+  "realIphoneTested": false,
+  "automaticPublicationAllowed": false,
+  "weeklyMonitoringEnabled": false
+}

@@ -1,1 +1,196 @@
-{"schemaVersion":1,"records":{},"policy":"Only explicitly reviewed lifecycle changes are applied. Stock loss and seasonal names never deactivate a product automatically."}
+{
+  "schemaVersion": 1,
+  "records": {
+    "koeigiku-gekkou": {
+      "status": "INACTIVE",
+      "batchId": "brewery-lineup-2026-10-20",
+      "checkedAt": "2026-10-20T05:06:17.059Z"
+    },
+    "sara-hdomtl": {
+      "status": "INACTIVE",
+      "batchId": "brewery-lineup-2026-10-20",
+      "checkedAt": "2026-10-20T05:06:17.059Z"
+    },
+    "tatsuriki-g39ip7": {
+      "status": "INACTIVE",
+      "batchId": "brewery-lineup-2026-10-20",
+      "checkedAt": "2026-10-20T05:06:17.059Z"
+    },
+    "jujiasahi-id2kl5": {
+      "status": "INACTIVE",
+      "batchId": "brewery-lineup-2026-10-20",
+      "checkedAt": "2026-10-20T05:06:17.059Z"
+    },
+    "tagaji-iapi9d": {
+      "status": "INACTIVE",
+      "batchId": "brewery-lineup-2026-10-20",
+      "checkedAt": "2026-10-20T05:06:17.059Z"
+    },
+    "oze-no-yukidoke-junmai-daiginjo-1": {
+      "status": "INACTIVE",
+      "batchId": "brewery-lineup-2026-10-20",
+      "checkedAt": "2026-10-20T05:06:17.059Z"
+    },
+    "tsushimaya-ia8tng-2": {
+      "status": "INACTIVE",
+      "batchId": "brewery-lineup-2026-10-20",
+      "checkedAt": "2026-10-20T05:06:17.059Z"
+    },
+    "rashomon-gp8l70i9d-4": {
+      "status": "INACTIVE",
+      "batchId": "brewery-lineup-2026-10-20",
+      "checkedAt": "2026-10-20T05:06:17.059Z"
+    },
+    "hiroki-tokubetsu-junmai-namazume-standard-v1": {
+      "status": "INACTIVE",
+      "batchId": "brewery-lineup-2026-10-20",
+      "checkedAt": "2026-10-20T05:06:17.059Z"
+    },
+    "senkin-organic-nature-2026-hiire-v1": {
+      "status": "INACTIVE",
+      "batchId": "brewery-lineup-2026-10-20",
+      "checkedAt": "2026-10-20T05:06:17.059Z"
+    },
+    "kamonishiki-nifudazake-kisuisen-binhiire-v1": {
+      "status": "INACTIVE",
+      "batchId": "brewery-lineup-2026-10-20",
+      "checkedAt": "2026-10-20T05:06:17.059Z"
+    },
+    "rikyubai-hlztnu": {
+      "status": "INACTIVE",
+      "batchId": "brewery-lineup-2026-10-20",
+      "checkedAt": "2026-10-20T05:06:17.059Z"
+    },
+    "housui-iwjid2": {
+      "status": "INACTIVE",
+      "batchId": "brewery-lineup-2026-10-20",
+      "checkedAt": "2026-10-20T05:06:17.059Z"
+    },
+    "naruka-gg3q4p-4": {
+      "status": "INACTIVE",
+      "batchId": "brewery-lineup-2026-10-20",
+      "checkedAt": "2026-10-20T05:06:17.059Z"
+    },
+    "kidoizumi-gg3q4p-5": {
+      "status": "INACTIVE",
+      "batchId": "brewery-lineup-2026-10-20",
+      "checkedAt": "2026-10-20T05:06:17.059Z"
+    },
+    "haneya-junmai-ginjo-2": {
+      "status": "INACTIVE",
+      "batchId": "brewery-lineup-2026-10-20",
+      "checkedAt": "2026-10-20T05:06:17.059Z"
+    },
+    "jozan-junmai-3": {
+      "status": "INACTIVE",
+      "batchId": "brewery-lineup-2026-10-20",
+      "checkedAt": "2026-10-20T05:06:17.059Z"
+    },
+    "shinshu-kirei-junmai-ginjo-2": {
+      "status": "INACTIVE",
+      "batchId": "brewery-lineup-2026-10-20",
+      "checkedAt": "2026-10-20T05:06:17.059Z"
+    },
+    "daishinsyu-junmai-ginjo-3": {
+      "status": "INACTIVE",
+      "batchId": "brewery-lineup-2026-10-20",
+      "checkedAt": "2026-10-20T05:06:17.059Z"
+    },
+    "matsu-no-tsukasa-lvvrsw-3": {
+      "status": "INACTIVE",
+      "batchId": "brewery-lineup-2026-10-20",
+      "checkedAt": "2026-10-20T05:06:17.059Z"
+    },
+    "ouroku-ryu-tokubetsu-honjozo-honnama-v1": {
+      "status": "INACTIVE",
+      "batchId": "brewery-lineup-2026-10-20",
+      "checkedAt": "2026-10-20T05:06:17.059Z"
+    },
+    "garyubai-junmai-daiginjo-gohyakumangoku45-fukurotsuri-v1": {
+      "status": "INACTIVE",
+      "batchId": "brewery-lineup-2026-10-20",
+      "checkedAt": "2026-10-20T05:06:17.059Z"
+    },
+    "librom-mint-craft-sake-v1": {
+      "status": "INACTIVE",
+      "batchId": "brewery-lineup-2026-10-20",
+      "checkedAt": "2026-10-20T05:06:17.059Z"
+    },
+    "fukuiwai-gg3q4p": {
+      "status": "INACTIVE",
+      "batchId": "brewery-lineup-2026-10-20",
+      "checkedAt": "2026-10-20T05:06:17.059Z"
+    },
+    "edo-kaijo-kflfjg": {
+      "status": "INACTIVE",
+      "batchId": "brewery-lineup-2026-10-20",
+      "checkedAt": "2026-10-20T05:06:17.059Z"
+    },
+    "tanzawasan-nz2hmwijh": {
+      "status": "INACTIVE",
+      "batchId": "brewery-lineup-2026-10-20",
+      "checkedAt": "2026-10-20T05:06:17.059Z"
+    },
+    "oku-j6jnol": {
+      "status": "INACTIVE",
+      "batchId": "brewery-lineup-2026-10-20",
+      "checkedAt": "2026-10-20T05:06:17.059Z"
+    },
+    "okura-hmwprj": {
+      "status": "INACTIVE",
+      "batchId": "brewery-lineup-2026-10-20",
+      "checkedAt": "2026-10-20T05:06:17.059Z"
+    },
+    "sanin-togo-uzpgk6": {
+      "status": "INACTIVE",
+      "batchId": "brewery-lineup-2026-10-20",
+      "checkedAt": "2026-10-20T05:06:17.059Z"
+    },
+    "ryusei-io3id2": {
+      "status": "INACTIVE",
+      "batchId": "brewery-lineup-2026-10-20",
+      "checkedAt": "2026-10-20T05:06:17.059Z"
+    },
+    "imakomachi-iwjid2": {
+      "status": "INACTIVE",
+      "batchId": "brewery-lineup-2026-10-20",
+      "checkedAt": "2026-10-20T05:06:17.059Z"
+    },
+    "jikon-tokubetsu-junmai-1": {
+      "status": "INACTIVE",
+      "batchId": "brewery-lineup-2026-10-20",
+      "checkedAt": "2026-10-20T05:06:17.059Z"
+    },
+    "ohmine-three-grain-2": {
+      "status": "INACTIVE",
+      "batchId": "brewery-lineup-2026-10-20",
+      "checkedAt": "2026-10-20T05:06:17.059Z"
+    },
+    "tamadeizumi-junmai-ginjo": {
+      "status": "INACTIVE",
+      "batchId": "brewery-lineup-2026-10-20",
+      "checkedAt": "2026-10-20T05:06:17.059Z"
+    },
+    "bojimaya-junmai-ginjo-muroka-nama-v1": {
+      "status": "INACTIVE",
+      "batchId": "brewery-lineup-2026-10-20",
+      "checkedAt": "2026-10-20T05:06:17.059Z"
+    },
+    "okuharima-okamishizuku-hiire-v1": {
+      "status": "INACTIVE",
+      "batchId": "brewery-lineup-2026-10-20",
+      "checkedAt": "2026-10-20T05:06:17.059Z"
+    },
+    "izumibashi-momoiro-kurotonbo-shinriki-v1": {
+      "status": "INACTIVE",
+      "batchId": "brewery-lineup-2026-10-20",
+      "checkedAt": "2026-10-20T05:06:17.059Z"
+    },
+    "narutotai-onto-the-table-junmai-ginjo-v1": {
+      "status": "INACTIVE",
+      "batchId": "brewery-lineup-2026-10-20",
+      "checkedAt": "2026-10-20T05:06:17.059Z"
+    }
+  },
+  "policy": "Only explicitly reviewed lifecycle changes are applied. Stock loss and seasonal names never deactivate a product automatically."
+}

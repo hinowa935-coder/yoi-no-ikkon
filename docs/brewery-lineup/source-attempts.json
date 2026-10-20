@@ -1,0 +1,485 @@
+{
+  "checkedAt": "2026-10-20T04:39:43.766Z",
+  "rows": [
+    {
+      "id": "hakkaisan-jd",
+      "sourceUrl": "https://www.hakkaisan.co.jp/sake/junmaidaiginjo45/",
+      "retrieved": true,
+      "checkedAt": "2026-10-20T04:28:03.918Z",
+      "status": 200,
+      "textHash": "fc4bd1cbf4784cd2758d32698d4dc15a003dc5eb2fc0e3f8323583d8a62fd9bd"
+    },
+    {
+      "id": "hakkaisan-daiginjo",
+      "sourceUrl": "https://www.hakkaisan.co.jp/sake/daiginjo45/",
+      "retrieved": true,
+      "checkedAt": "2026-10-20T04:28:05.006Z",
+      "status": 200,
+      "textHash": "f8bc855f0c6445e749e9a405959068e09c652081d2946f5e0e65a1b436ccef17"
+    },
+    {
+      "id": "hakkaisan-seishu",
+      "sourceUrl": "https://www.hakkaisan.co.jp/sake/regular/",
+      "retrieved": true,
+      "checkedAt": "2026-10-20T04:28:06.165Z",
+      "status": 200,
+      "textHash": "22af1459efc5d32fd5a74abb6702ed30a15d4e6c951b0f8107e5c99c0c263207"
+    },
+    {
+      "id": "dewazakura-ichiko",
+      "sourceUrl": "https://www.dewazakura.co.jp/item/cat06/ikko.html",
+      "retrieved": true,
+      "checkedAt": "2026-10-20T04:39:28.411Z",
+      "status": 200,
+      "textHash": "1a00f0899c071f8fbde381643c9dbffc576ecfcf89381497337a7e0afc762474"
+    },
+    {
+      "id": "dewazakura-tsuyahime",
+      "sourceUrl": "https://www.dewazakura.co.jp/item/cat04/tuyahime.html",
+      "retrieved": true,
+      "checkedAt": "2026-10-20T04:39:29.491Z",
+      "status": 200,
+      "textHash": "97bc8b726e138f1272db76af1d5260e99f085af02ff3b635af6a94a4d0f07595"
+    },
+    {
+      "id": "dewazakura-yukimanman",
+      "sourceUrl": "https://www.dewazakura.co.jp/item/cat01/yuki.html",
+      "retrieved": true,
+      "checkedAt": "2026-10-20T04:28:08.265Z",
+      "status": 200,
+      "textHash": "1b6a624a982adf642a78e6de4dced2e83c3713906935aaa535ded8808a12c434"
+    },
+    {
+      "id": "masumi-kuro",
+      "sourceUrl": "https://www.masumi.co.jp/product/kuro",
+      "retrieved": true,
+      "checkedAt": "2026-10-20T04:28:09.935Z",
+      "status": 200,
+      "textHash": "3bfca8e7366af96524aafc3d9d6e875f9c737927cba0a83c1349506f6b2d9bd7"
+    },
+    {
+      "id": "masumi-shiro",
+      "sourceUrl": "https://www.masumi.co.jp/product/shiro",
+      "retrieved": true,
+      "checkedAt": "2026-10-20T04:28:11.096Z",
+      "status": 200,
+      "textHash": "d6ecc2f2e6000aa9053e9b47a7207b7007c73b43b2fd6028118c2ada43fa39d4"
+    },
+    {
+      "id": "masumi-kaya",
+      "sourceUrl": "https://www.masumi.co.jp/product/kaya",
+      "retrieved": true,
+      "checkedAt": "2026-10-20T04:28:12.247Z",
+      "status": 200,
+      "textHash": "0d9bc06ebae35d4f0a36326760d8298c9ce7295d34868a1f51e1c509b378a86c"
+    },
+    {
+      "id": "ichinokura-mukansa-karakuchi",
+      "sourceUrl": "https://ec.ichinokura.co.jp/products/mukansakara",
+      "retrieved": true,
+      "checkedAt": "2026-10-20T04:28:13.262Z",
+      "status": 200,
+      "textHash": "54834806a6d2bb7b2c5e2cb6e01f388ae78ce8cef10cbde651b48784bb24f7f8"
+    },
+    {
+      "id": "ichinokura-mukansa-chokarakuchi",
+      "sourceUrl": "https://ec.ichinokura.co.jp/products/mukansachoukara",
+      "retrieved": true,
+      "checkedAt": "2026-10-20T04:28:14.385Z",
+      "status": 200,
+      "textHash": "9ffdaa1e775d42aff13d104a9c351b0683b4b18fccc25a47dfd3aa1a42897f4e"
+    },
+    {
+      "id": "ichinokura-himezen",
+      "sourceUrl": "https://ec.ichinokura.co.jp/products/himezen",
+      "retrieved": true,
+      "checkedAt": "2026-10-20T04:28:15.520Z",
+      "status": 200,
+      "textHash": "fbb2b30f9dd9b43d2cf334a4d0c1110ec9ca13247825fe3e30435fb29f8c437c"
+    },
+    {
+      "id": "ichinokura-suzune",
+      "sourceUrl": "https://ec.ichinokura.co.jp/products/suzune",
+      "retrieved": true,
+      "checkedAt": "2026-10-20T04:28:16.674Z",
+      "status": 200,
+      "textHash": "fbca804ac46f97c9c2067037a7ee3ff1393ccb213413a17b85fe488877ee876f"
+    },
+    {
+      "id": "urakasumi-zen",
+      "sourceUrl": "https://www.urakasumi.com/items/?category=urakasumi-zen#c001",
+      "retrieved": true,
+      "checkedAt": "2026-10-20T04:28:19.200Z",
+      "status": 200,
+      "textHash": "dbbf3b9df74b716db6fd0113cb7dc33faf6ae3392784d51caffa3051ce6c6c7e"
+    },
+    {
+      "id": "urakasumi-honshikomi",
+      "sourceUrl": "https://www.urakasumi.com/items/honjikomi/",
+      "retrieved": true,
+      "checkedAt": "2026-10-20T04:28:20.292Z",
+      "status": 200,
+      "textHash": "f08776782940d529e97e157866d057cbaa97db1c16f14339d991c3af2757ae54"
+    },
+    {
+      "id": "urakasumi-karakuchi",
+      "sourceUrl": "https://www.urakasumi.com/items/karakuchi/",
+      "retrieved": true,
+      "checkedAt": "2026-10-20T04:28:21.498Z",
+      "status": 200,
+      "textHash": "68e663477fbd91b92889ecaab17ade595b5136f799b728387aa2004d56f4de48"
+    },
+    {
+      "id": "kikusui-karakuchi",
+      "sourceUrl": "https://kikusui-sake.com/home/jp/products/p005/",
+      "retrieved": true,
+      "checkedAt": "2026-10-20T04:28:21.910Z",
+      "status": 200,
+      "textHash": "0f5e62be153f243f3546acb3c4e70ee28ad6cf19900439d2dcc01f49f62f1279"
+    },
+    {
+      "id": "kikusui-yodan",
+      "sourceUrl": "https://www.kikusui-sake.com/home/jp/products/funaguchi/",
+      "retrieved": true,
+      "checkedAt": "2026-10-20T04:26:03.704Z",
+      "status": 200,
+      "textHash": "3d6920cb0b416cf3faca36b2a2ac4d8608289a9095b6ec7babbc612b98aa7c3b"
+    },
+    {
+      "id": "kikusui-junmai",
+      "sourceUrl": "https://www.kikusui-sake.com/home/jp/products/funaguchi/",
+      "retrieved": true,
+      "checkedAt": "2026-10-20T04:26:03.704Z",
+      "status": 200,
+      "textHash": "3d6920cb0b416cf3faca36b2a2ac4d8608289a9095b6ec7babbc612b98aa7c3b"
+    },
+    {
+      "id": "kikusui-jg",
+      "sourceUrl": "https://www.kikusui-sake.com/home/jp/products/funaguchi/",
+      "retrieved": true,
+      "checkedAt": "2026-10-20T04:26:03.704Z",
+      "status": 200,
+      "textHash": "3d6920cb0b416cf3faca36b2a2ac4d8608289a9095b6ec7babbc612b98aa7c3b"
+    },
+    {
+      "id": "suigei-ginrei",
+      "sourceUrl": "https://suigei.co.jp/collection/558.html",
+      "retrieved": true,
+      "checkedAt": "2026-10-20T04:28:24.163Z",
+      "status": 200,
+      "textHash": "77208b5174a33b740b9a57c75450707c7a7c7c62561ecaa71e1e00c8dc16d8f4"
+    },
+    {
+      "id": "suigei-koiku54",
+      "sourceUrl": "https://suigei.co.jp/collection/505.html",
+      "retrieved": true,
+      "checkedAt": "2026-10-20T04:28:25.636Z",
+      "status": 200,
+      "textHash": "304b3d09404b38d50b62c21bc217a055e28fe737043d55d7281b8fd5692f9eee"
+    },
+    {
+      "id": "tengumai-go-rin",
+      "sourceUrl": "https://www.tengumai.co.jp/products/daiginjo/33.html",
+      "retrieved": true,
+      "checkedAt": "2026-10-20T04:26:10.244Z",
+      "status": 200,
+      "textHash": "1e85f6763fab2c871ec51fb7faa57365b06c66683dd703c364a508c3462680c3"
+    },
+    {
+      "id": "tengumai-umajun",
+      "sourceUrl": "https://www.tengumai.co.jp/products/junmai/133.html",
+      "retrieved": true,
+      "checkedAt": "2026-10-20T04:39:32.531Z",
+      "status": 200,
+      "textHash": "e46d462be2223fda06492c75d6424f307131c4a1fc54f4e0d67f30d9371861cc"
+    },
+    {
+      "id": "keigetsu-cel24",
+      "sourceUrl": "https://www.keigetsu.co.jp/products/p_cel24_50",
+      "retrieved": true,
+      "checkedAt": "2026-10-20T04:28:26.525Z",
+      "status": 200,
+      "textHash": "f98907fa5e2644e0d810e940e835cc4fe8adf2692b4af504eb93e4e234e4c205"
+    },
+    {
+      "id": "daishichi-kaiden",
+      "sourceUrl": "https://www.daishichi.com/sake/kaiden.html",
+      "retrieved": true,
+      "checkedAt": "2026-10-20T04:28:26.918Z",
+      "status": 200,
+      "textHash": "f98417f72dbb8b157fa3719b9970ca6b69e5bb7c7cf26ea0990cef3e478e38c1"
+    },
+    {
+      "id": "daishichi-minowamon",
+      "sourceUrl": "https://www.daishichi.com/sake/minowamon.html",
+      "retrieved": true,
+      "checkedAt": "2026-10-20T04:28:28.067Z",
+      "status": 200,
+      "textHash": "185d3e16aac10fbe3898c6aaa356cd4c65e724eb524add88be5f90f9987b98c3"
+    },
+    {
+      "id": "daishichi-sokai",
+      "sourceUrl": "https://www.daishichi.com/sake/junmaikimoto.html",
+      "retrieved": true,
+      "checkedAt": "2026-10-20T04:26:13.304Z",
+      "status": 200,
+      "textHash": "e37f274110925cfebb8bff1ae13c8f7f866babf5390184a51bbc49c2fcf0aa31"
+    },
+    {
+      "id": "nanbubijin-jg",
+      "sourceUrl": "https://www.nanbubijin.jp/shopdetail/000000000014/ct7/page1/price/",
+      "retrieved": true,
+      "checkedAt": "2026-10-20T04:39:32.810Z",
+      "status": 200,
+      "textHash": "b2df735546351b4c795d5e5916e2efa74835714f79872bf4f591645f69f300a8"
+    },
+    {
+      "id": "nanbubijin-jd",
+      "sourceUrl": "https://www.nanbubijin.jp/shopdetail/000000000002/ct6/page1/price/",
+      "retrieved": true,
+      "checkedAt": "2026-10-20T04:39:33.823Z",
+      "status": 200,
+      "textHash": "758427d184a7bbdaa8d0ab4fc5773a1b21eb854cb0a4ddd81d9867e82e160151"
+    },
+    {
+      "id": "momokawa-ginjo-junmai",
+      "sourceUrl": "https://www.momokawa.co.jp/momokawaitem/",
+      "retrieved": false,
+      "checkedAt": "2026-10-20T04:26:16.723Z",
+      "status": null,
+      "textHash": null
+    },
+    {
+      "id": "momokawa-nebuta",
+      "sourceUrl": "https://www.momokawa.co.jp/momokawaitem/",
+      "retrieved": false,
+      "checkedAt": "2026-10-20T04:26:16.723Z",
+      "status": null,
+      "textHash": null
+    },
+    {
+      "id": "momokawa-nigori",
+      "sourceUrl": "https://www.momokawa.co.jp/momokawaitem/",
+      "retrieved": false,
+      "checkedAt": "2026-10-20T04:26:16.723Z",
+      "status": null,
+      "textHash": null
+    },
+    {
+      "id": "otokoyama-tokubetsu-junmai",
+      "sourceUrl": "https://www.otokoyama.com/lineup/category01/",
+      "retrieved": true,
+      "checkedAt": "2026-10-20T04:26:17.900Z",
+      "status": 200,
+      "textHash": "17d69dda1b290472ef84eb33448710dee3d0c191d5e5b28eac58bba85c79aa1e"
+    },
+    {
+      "id": "hakutsuru-daiginjo",
+      "sourceUrl": "https://www.hakutsuru.co.jp/product/sake/daiginjo/03836.html",
+      "retrieved": true,
+      "checkedAt": "2026-10-20T04:39:34.911Z",
+      "status": 200,
+      "textHash": "ec07e8cbf872c686d5ab09310b69d2f2ab9ec259aaaae2d9c7bf6cc41f044e24"
+    },
+    {
+      "id": "kikumasamune-taru",
+      "sourceUrl": "https://www.kikumasamune.co.jp/products/taru.html",
+      "retrieved": true,
+      "checkedAt": "2026-10-20T04:28:32.725Z",
+      "status": 200,
+      "textHash": "d0acc83f0b54822ac31748691f090d3cd46a44cad1e6c80959ba6ea40921ae79"
+    },
+    {
+      "id": "kikumasamune-kaho",
+      "sourceUrl": "https://www.kikumasamune.co.jp/products/kaho/",
+      "retrieved": true,
+      "checkedAt": "2026-10-20T04:39:36.612Z",
+      "status": 200,
+      "textHash": "05b91734536d9da0ffc14cdeae769bdac3e3d6aecb1e825c4a8d3b683a02cb51"
+    },
+    {
+      "id": "kagatobi-gokkan",
+      "sourceUrl": "https://www.fukumitsuya.co.jp/sake/kagatobi/",
+      "retrieved": true,
+      "checkedAt": "2026-10-20T04:26:22.814Z",
+      "status": 200,
+      "textHash": "5f06b793c4a67f87c34c3e87c674c9224168d4c3352c497c3aff73f90b2c177f"
+    },
+    {
+      "id": "kagatobi-yamahai",
+      "sourceUrl": "https://www.fukumitsuya.co.jp/sake/kagatobi/",
+      "retrieved": true,
+      "checkedAt": "2026-10-20T04:26:22.814Z",
+      "status": 200,
+      "textHash": "5f06b793c4a67f87c34c3e87c674c9224168d4c3352c497c3aff73f90b2c177f"
+    },
+    {
+      "id": "kuroobi-yuyu",
+      "sourceUrl": "https://www.fukumitsuya.co.jp/sake/kuroobi/",
+      "retrieved": true,
+      "checkedAt": "2026-10-20T04:28:35.164Z",
+      "status": 200,
+      "textHash": "b0c040ef268f15591960054f9e40478a0a6894162c9517fb530090af4c607af6"
+    },
+    {
+      "id": "kamotsuru-sokaku",
+      "sourceUrl": "https://shop.kamotsuru.jp/SHOP/346437/346438/list.html",
+      "retrieved": true,
+      "checkedAt": "2026-10-20T04:28:36.353Z",
+      "status": 200,
+      "textHash": "3e50b18ffc193ae09fd799cea1ac39b1094a2a5c2ce3dfd1015dd8da761ddc39"
+    },
+    {
+      "id": "kamotsuru-jg",
+      "sourceUrl": "https://shop.kamotsuru.jp/SHOP/346437/346470/list.html",
+      "retrieved": true,
+      "checkedAt": "2026-10-20T04:39:37.452Z",
+      "status": 200,
+      "textHash": "ce7434f9d10cf1f69c83d80c0789d5a963c9dd1ba2fa8761638daa59bad2244d"
+    },
+    {
+      "id": "kamotsuru-jotoshu",
+      "sourceUrl": "https://shop.kamotsuru.jp/SHOP/346437/346488/list.html",
+      "retrieved": true,
+      "checkedAt": "2026-10-20T04:28:38.671Z",
+      "status": 200,
+      "textHash": "45dc9db3343b3cddf22b4a9f9b7d8e62846df9c24edae938d7924e49aa97eccd"
+    },
+    {
+      "id": "okunomatsu-adatara",
+      "sourceUrl": "https://www.okunomatsu.co.jp/product-page/ginjo11205",
+      "retrieved": true,
+      "checkedAt": "2026-10-20T04:28:40.284Z",
+      "status": 200,
+      "textHash": "a5712b4615ccb277939c83f0ee4b865954e1082a0562963af4c6ab0f76d5732b"
+    },
+    {
+      "id": "okunomatsu-jg",
+      "sourceUrl": "https://www.okunomatsu.co.jp/product-page/yusa",
+      "retrieved": true,
+      "checkedAt": "2026-10-20T04:39:41.295Z",
+      "status": 200,
+      "textHash": "210ea4654eeaff3e8e602e273ab29bf560d424467b7dafbda22546995fcb5ff2"
+    },
+    {
+      "id": "jozen-jd",
+      "sourceUrl": "https://www.jozen.co.jp/top/items/item.asp?o=10808",
+      "retrieved": true,
+      "checkedAt": "2026-10-20T04:28:43.288Z",
+      "status": 200,
+      "textHash": "d05ea54e7edabb693a0c2f48c2914c0f3c10d2ebfa118931ad138164e17ebad7"
+    },
+    {
+      "id": "minatoya-tosuke",
+      "sourceUrl": "https://www.jozen.co.jp/top/items/item.asp?o=10830",
+      "retrieved": true,
+      "checkedAt": "2026-10-20T04:28:44.343Z",
+      "status": 200,
+      "textHash": "2544f83d6f684c30caefd351cb179572688e9257a16b89b287160a9f2892d043"
+    },
+    {
+      "id": "uonuma-junmai",
+      "sourceUrl": "https://www.jozen.co.jp/top/items/item.asp?o=10847",
+      "retrieved": true,
+      "checkedAt": "2026-10-20T04:28:45.533Z",
+      "status": 200,
+      "textHash": "02eeab56f10f424f46b3eecf96a47f36684fff37a2051df17726d1f3992145c0"
+    },
+    {
+      "id": "nihonsakari-daiginjo",
+      "sourceUrl": "https://www.nihonsakari.co.jp/products/1/0/6",
+      "retrieved": true,
+      "checkedAt": "2026-10-20T04:28:46.668Z",
+      "status": 200,
+      "textHash": "2ce38c105bfed1fb4135948960570c9af19cda1eb1a365ec8697c370bcd1dd05"
+    },
+    {
+      "id": "nihonsakari-namagenshu",
+      "sourceUrl": "https://ssl.nihonsakari.co.jp/namagenshu/",
+      "retrieved": true,
+      "checkedAt": "2026-10-20T04:28:48.755Z",
+      "status": 200,
+      "textHash": "b1354ec315f24c8867a93b027aad40d8bb9faea3dcf363bc73e3c000d7a5df14"
+    },
+    {
+      "id": "ozeki-gokuama",
+      "sourceUrl": "https://www.ozeki.co.jp/product/nihonshu/sweetmomentgokuama/",
+      "retrieved": true,
+      "checkedAt": "2026-10-20T04:39:41.878Z",
+      "status": 200,
+      "textHash": "6a51e99a047566a2e6f18861b0022bf865a7a83f85bf951afa30ac77baa0e59a"
+    },
+    {
+      "id": "ozeki-karatanba",
+      "sourceUrl": "https://www.ozeki.co.jp/product/nihonshu/karatanba_josen/",
+      "retrieved": true,
+      "checkedAt": "2026-10-20T04:28:50.406Z",
+      "status": 200,
+      "textHash": "24053d9241c60b3a2aebf1e8e9b34882de82a7b565a836c097fb0f9f132d2e69"
+    },
+    {
+      "id": "gekkeikan-nigori",
+      "sourceUrl": "https://www.gekkeikan.co.jp/products/type06/nigori/",
+      "retrieved": true,
+      "checkedAt": "2026-10-20T04:39:42.584Z",
+      "status": 200,
+      "textHash": "3bee20d5fc5a3f8d996f9a0af0fcf2e253e5ecb681e9f006d4fe6904f4265417"
+    },
+    {
+      "id": "gekkeikan-densho",
+      "sourceUrl": "https://www.gekkeikan.co.jp/products/all/",
+      "retrieved": true,
+      "checkedAt": "2026-10-20T04:28:51.189Z",
+      "status": 200,
+      "textHash": "b9fe541b80c711ae2a8a850b4d59e7a8aae7e5bf9bfd7aec2bc471c95a404571"
+    },
+    {
+      "id": "amabuki-yamahai",
+      "sourceUrl": "https://www.amabuki.co.jp/sake/000162.php",
+      "retrieved": true,
+      "checkedAt": "2026-10-20T04:26:32.738Z",
+      "status": 200,
+      "textHash": "0e358a5657a0bace2556e92870e2689563a76363cf290072c8def089db9d46ec"
+    },
+    {
+      "id": "amabuki-chokarakuchi",
+      "sourceUrl": "https://www.amabuki.co.jp/sake/000162.php",
+      "retrieved": true,
+      "checkedAt": "2026-10-20T04:26:32.738Z",
+      "status": 200,
+      "textHash": "0e358a5657a0bace2556e92870e2689563a76363cf290072c8def089db9d46ec"
+    },
+    {
+      "id": "amabuki-ringo",
+      "sourceUrl": "https://www.amabuki.co.jp/sake/000162.php",
+      "retrieved": true,
+      "checkedAt": "2026-10-20T04:26:32.738Z",
+      "status": 200,
+      "textHash": "0e358a5657a0bace2556e92870e2689563a76363cf290072c8def089db9d46ec"
+    },
+    {
+      "id": "azumaichi-junmai",
+      "sourceUrl": "https://azumaichi.com/top/products/seishu/",
+      "retrieved": true,
+      "checkedAt": "2026-10-20T04:26:34.679Z",
+      "status": 200,
+      "textHash": "42dd6d83d04f7c714b69495ec4a57a5326d818737c5c06fa14d612858d67f87a"
+    },
+    {
+      "id": "azumaichi-jd",
+      "sourceUrl": "https://azumaichi.com/top/products/seishu/",
+      "retrieved": true,
+      "checkedAt": "2026-10-20T04:26:34.679Z",
+      "status": 200,
+      "textHash": "42dd6d83d04f7c714b69495ec4a57a5326d818737c5c06fa14d612858d67f87a"
+    },
+    {
+      "id": "mio-sparkling",
+      "sourceUrl": "https://www.takarashuzo.co.jp/tkr-shohin/cmn_p_detail.php?p_prodid=3888",
+      "retrieved": true,
+      "checkedAt": "2026-10-20T04:39:43.764Z",
+      "status": 200,
+      "textHash": "ff50c59713508809047c9026c614e8d0b9d0a470df5ec7ecfc1f1ed8c5f1c079"
+    }
+  ]
+}

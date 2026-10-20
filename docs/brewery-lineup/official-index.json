@@ -1,0 +1,4092 @@
+{
+  "checkedAt": "2026-10-20T04:26:34.681Z",
+  "rows": [
+    {
+      "brewery": "八海醸造",
+      "sourceUrl": "https://www.hakkaisan.co.jp/sake/honjyozo/",
+      "retrieved": true,
+      "status": 200,
+      "links": [
+        {
+          "url": "https://www.hakkaisan.co.jp/sake/honjyozo/#",
+          "text": ""
+        },
+        {
+          "url": "https://www.hakkaisan.co.jp/vision/visit/",
+          "text": "酒蔵見学"
+        },
+        {
+          "url": "https://www.hakkaisan.co.jp/vision/uonumanosakedukuri/",
+          "text": "酒造り映像"
+        },
+        {
+          "url": "https://www.hakkaisan.co.jp/sake/",
+          "text": "製品情報"
+        },
+        {
+          "url": "https://www.hakkaisan.co.jp/sake/",
+          "text": "製品情報一覧に戻る"
+        },
+        {
+          "url": "https://www.hakkaisan.co.jp/sake/#nihonsyu",
+          "text": "日本酒"
+        },
+        {
+          "url": "https://www.amasake.jp/",
+          "text": ""
+        },
+        {
+          "url": "https://www.hakkaisan.co.jp/sake/honjyozo/#pagetop",
+          "text": "このページの先頭へ"
+        }
+      ]
+    },
+    {
+      "brewery": "八海醸造",
+      "sourceUrl": "https://www.hakkaisan.co.jp/sake/yukimurocyozousyu/",
+      "retrieved": true,
+      "status": 200,
+      "links": [
+        {
+          "url": "https://www.hakkaisan.co.jp/sake/yukimurocyozousyu/#",
+          "text": ""
+        },
+        {
+          "url": "https://www.hakkaisan.co.jp/vision/visit/",
+          "text": "酒蔵見学"
+        },
+        {
+          "url": "https://www.hakkaisan.co.jp/vision/uonumanosakedukuri/",
+          "text": "酒造り映像"
+        },
+        {
+          "url": "https://www.hakkaisan.co.jp/sake/",
+          "text": "製品情報"
+        },
+        {
+          "url": "https://www.hakkaisan.co.jp/sake/",
+          "text": "製品情報一覧に戻る"
+        },
+        {
+          "url": "https://www.hakkaisan.co.jp/sake/#nihonsyu",
+          "text": "日本酒"
+        },
+        {
+          "url": "https://www.amasake.jp/",
+          "text": ""
+        },
+        {
+          "url": "https://www.hakkaisan.co.jp/sake/yukimurocyozousyu/#pagetop",
+          "text": "このページの先頭へ"
+        }
+      ]
+    },
+    {
+      "brewery": "八海醸造",
+      "sourceUrl": "https://www.hakkaisan.co.jp/sake",
+      "retrieved": true,
+      "status": 200,
+      "links": [
+        {
+          "url": "https://www.hakkaisan.co.jp/sake#",
+          "text": ""
+        },
+        {
+          "url": "https://www.hakkaisan.co.jp/vision/visit/",
+          "text": "酒蔵見学"
+        },
+        {
+          "url": "https://www.hakkaisan.co.jp/vision/uonumanosakedukuri/",
+          "text": "酒造り映像"
+        },
+        {
+          "url": "https://www.hakkaisan.co.jp/sake/",
+          "text": "製品情報"
+        },
+        {
+          "url": "https://www.hakkaisan.co.jp/sake#nihonsyu",
+          "text": "日本酒"
+        },
+        {
+          "url": "https://www.hakkaisan.co.jp/sake#syocyu",
+          "text": "焼酎"
+        },
+        {
+          "url": "https://www.hakkaisan.co.jp/sake#umesyu",
+          "text": "梅酒"
+        },
+        {
+          "url": "https://www.hakkaisan.co.jp/sake#rydeenbeer",
+          "text": "ライディーンビール"
+        },
+        {
+          "url": "https://www.hakkaisan.co.jp/sake#amasake",
+          "text": "あまさけ"
+        },
+        {
+          "url": "https://www.hakkaisan.co.jp/sake#mirin",
+          "text": "本みりん"
+        },
+        {
+          "url": "https://www.hakkaisan.co.jp/sake/regular/",
+          "text": "普通酒 清酒 八海山 「いい酒をより多くの人に」をかたちにした、 八海醸造の真髄の酒です。"
+        },
+        {
+          "url": "https://www.hakkaisan.co.jp/sake/honjyozo/",
+          "text": "特別本醸造酒 特別本醸造 八海山 やわらかな口当たりと淡麗な味わい。"
+        },
+        {
+          "url": "https://www.hakkaisan.co.jp/sake/daiginjo45/",
+          "text": "大吟醸酒 大吟醸 八海山 細かくまろやかで綺麗な味わいと ほのかに感じる上品な甘やかさ"
+        },
+        {
+          "url": "https://www.hakkaisan.co.jp/sake/junmaidaiginjo45/",
+          "text": "純米大吟醸酒 純米大吟醸 八海山 透明感のある綺麗な味わいと ふわっと広がる上品な甘やかさ"
+        },
+        {
+          "url": "https://www.hakkaisan.co.jp/sake/yukimurocyozousyu/",
+          "text": "数量限定 雪室貯蔵酒 純米大吟醸 八海山 雪室貯蔵三年 自然の力を利用して 3年間熟成させた日本酒です。"
+        },
+        {
+          "url": "https://www.hakkaisan.co.jp/sake/junmaiginjo55/",
+          "text": "数量限定 純米吟醸 純米吟醸 八海山 55％ 綺麗でキレのある味わいの中にも 米の旨みを表現した純米吟醸酒"
+        },
+        {
+          "url": "https://www.hakkaisan.co.jp/sake/uonumadesoro/",
+          "text": "数量限定 純米酒 純米酒 八海山 魚沼で候 八海醸造のふるさとである「魚沼」の豊かさと素晴らしさを感じていただきたいという想いから生まれた清酒です。"
+        },
+        {
+          "url": "https://www.hakkaisan.co.jp/sake/happonigorisyu/",
+          "text": "発泡にごり酒 発泡にごり酒 八海山 さわやかな酸味と華やかな香り、 炭酸の泡が口の中で心地よくはじけます。"
+        },
+        {
+          "url": "https://www.hakkaisan.co.jp/sake/awa-white-koji/",
+          "text": "数量限定 瓶内二次発酵酒 瓶内二次発酵酒 白麹あわ 八海山 「瓶内二次発酵」製法、 「白麹」による酸味が新しいスパークリング日本酒"
+        },
+        {
+          "url": "https://www.hakkaisan.co.jp/sake/kijousyu/",
+          "text": "貴醸酒 八海山 貴醸酒 水のかわりに日本酒で仕込んだ やわらかで上品な甘さの日本酒です。"
+        },
+        {
+          "url": "https://www.hakkaisan.co.jp/sake/junmaigensyu/",
+          "text": "数量限定 季節限定 生詰 特別純米原酒 八海山 掛米に山田錦を使用し、辛さを抑えた 深い味わいと軽さが特徴の純米原酒です。"
+        },
+        {
+          "url": "https://www.hakkaisan.co.jp/sake/echigodesoro-blue/",
+          "text": "季節限定 生酒 八海山しぼりたて原酒 越後で候 酒づくりの最盛期、冬季限定で発売される しぼりたて原酒です。"
+        },
+        {
+          "url": "https://www.hakkaisan.co.jp/sake/echigodesoro_red/",
+          "text": "数量限定 季節限定 生酒 純米大吟醸八海山しぼりたて原酒 越後で候 年に1回、12月限定で発売される 純米大吟醸のしぼりたて原酒です。"
+        },
+        {
+          "url": "https://www.hakkaisan.co.jp/sake/jikigentei/",
+          "text": "季節限定 純米大吟醸 純米大吟醸 八海山 時季限定 冬の期間、ご馳走を囲む華やぎの場で 料理を引き立て寄り添う酒です"
+        },
+        {
+          "url": "https://www.hakkaisan.co.jp/sake#",
+          "text": "MORE"
+        },
+        {
+          "url": "https://www.hakkaisan.co.jp/sake/daiginjo-kowagura/",
+          "text": "数量限定 大吟醸酒 大吟醸 八海山 浩和蔵仕込 クリアな香り、雑味のない味わい。 最高級品質を追求した浩和蔵仕込の大吟醸です。"
+        },
+        {
+          "url": "https://www.hakkaisan.co.jp/sake/junmaidaiginjo-kowagura/",
+          "text": "数量限定 純米大吟醸酒 純米大吟醸 八海山 浩和蔵仕込 淡麗な中にもうまみをたたえた味わい。 最高級品質を追求した浩和蔵仕込の純米大吟醸です。"
+        },
+        {
+          "url": "https://www.hakkaisan.co.jp/sake/kongoshin/",
+          "text": "数量限定 季節限定 純米大吟醸酒 純米大吟醸 八海山 金剛心 浩和蔵仕込 その名の通り揺らぐことのない、 香り・味ともに 気高さをそなえた最上級のお酒です。"
+        },
+        {
+          "url": "https://www.hakkaisan.co.jp/sake/kisotisiki/",
+          "text": ""
+        },
+        {
+          "url": "https://www.hakkaisan.co.jp/sake/yoroshiku/",
+          "text": "米焼酎 八海山本格米焼酎 黄麹三段仕込 よろしく千萬あるべし 落ち着いた品格のある香りをお楽しみください。"
+        },
+        {
+          "url": "https://www.hakkaisan.co.jp/sake/oak/",
+          "text": "数量限定 米焼酎 八海山本格米焼酎 オーク樽貯蔵 風媒花 酒粕由来の吟醸香と、熟成で生まれる独特の芳しい香りの調和をお楽しみください。"
+        },
+        {
+          "url": "https://www.hakkaisan.co.jp/sake/kasutori/",
+          "text": "数量限定 粕取り焼酎 八海山本格粕取り焼酎 宜有千萬 3年以上の貯蔵により円熟したまろやかさと 日本酒の風味が一体化した、ふくよかな味わい。"
+        },
+        {
+          "url": "https://www.hakkaisan.co.jp/sake/gensyuumesyu/",
+          "text": "梅酒 八海山の原酒で仕込んだ うめ酒 清酒八海山の原酒に国産の良質な梅を仕込み、梅酒を造りました。"
+        },
+        {
+          "url": "https://www.hakkaisan.co.jp/sake/ume_aka/",
+          "text": "梅酒 八海山の焼酎で仕込んだ うめ酒 梅がもつ自然の酸味と上品な甘さを お楽しみいただけます。"
+        },
+        {
+          "url": "https://www.hakkaisan.co.jp/sake/ume_nigori/",
+          "text": "梅酒 八海山の焼酎で仕込んだ 梅酒 にごり 梅のペーストを加えることで梅の風味が増し、とろりとした口当たりとなりました。"
+        },
+        {
+          "url": "https://www.amasake.jp/",
+          "text": ""
+        },
+        {
+          "url": "https://www.hakkaisan.co.jp/sake/honmirin/",
+          "text": "本みりん 本みりん 三年熟成品 麹の蜜 手造り麹由来の甘みとコクが お料理を上品でふくよかな味わいに"
+        },
+        {
+          "url": "https://www.hakkaisan.co.jp/sake#pagetop",
+          "text": "このページの先頭へ"
+        }
+      ]
+    },
+    {
+      "brewery": "出羽桜酒造",
+      "sourceUrl": "https://www.dewazakura.co.jp/item/cat03/oka.html",
+      "retrieved": true,
+      "status": 200,
+      "links": [
+        {
+          "url": "https://www.dewazakura.co.jp/item/cat03/oka.html#",
+          "text": "出羽桜の酒造り"
+        },
+        {
+          "url": "https://www.dewazakura.co.jp/sake/",
+          "text": "酒造り"
+        },
+        {
+          "url": "https://www.dewazakura.co.jp/sake/01.html",
+          "text": "歴史"
+        },
+        {
+          "url": "https://www.dewazakura.co.jp/sake/02.html",
+          "text": "ポリシー"
+        },
+        {
+          "url": "https://www.dewazakura.co.jp/sake/03.html",
+          "text": "GI山形"
+        },
+        {
+          "url": "https://www.dewazakura.co.jp/contact/tour.html",
+          "text": "酒蔵見学"
+        },
+        {
+          "url": "https://www.dewazakura.co.jp/item/",
+          "text": "商品紹介"
+        },
+        {
+          "url": "https://www.dewazakura.co.jp/item/cat03/oka.html#",
+          "text": "会社案内"
+        },
+        {
+          "url": "https://www.dewazakura.co.jp/item/cat03/oka.html#",
+          "text": "Language"
+        },
+        {
+          "url": "https://www.dewazakura.co.jp/item/cat03/",
+          "text": "吟醸酒"
+        },
+        {
+          "url": "https://www.dewazakura.co.jp/item/#cat01",
+          "text": "大吟醸酒"
+        },
+        {
+          "url": "https://www.dewazakura.co.jp/item/#cat02",
+          "text": "純米大吟醸酒"
+        },
+        {
+          "url": "https://www.dewazakura.co.jp/item/#cat03",
+          "text": "吟醸酒"
+        },
+        {
+          "url": "https://www.dewazakura.co.jp/item/#cat04",
+          "text": "純米吟醸酒"
+        },
+        {
+          "url": "https://www.dewazakura.co.jp/item/#cat06",
+          "text": "純米酒"
+        },
+        {
+          "url": "https://www.dewazakura.co.jp/item/#cat05",
+          "text": "本醸造酒"
+        },
+        {
+          "url": "https://www.dewazakura.co.jp/item/#cat07",
+          "text": "普通酒"
+        },
+        {
+          "url": "https://www.dewazakura.co.jp/item/#cat08",
+          "text": "特別な酒"
+        },
+        {
+          "url": "https://www.dewazakura.co.jp/item/#cat09",
+          "text": "古酒"
+        },
+        {
+          "url": "https://www.dewazakura.co.jp/item/#cat11",
+          "text": "リキュール"
+        },
+        {
+          "url": "https://www.dewazakura.co.jp/item/#cat10",
+          "text": "ノンアルコール"
+        },
+        {
+          "url": "https://www.dewazakura.co.jp/item/",
+          "text": "一覧に戻る"
+        },
+        {
+          "url": "https://www.dewazakura.co.jp/item/cat03/oka.html#",
+          "text": "page top"
+        },
+        {
+          "url": "https://www.dewazakura.co.jp/item/cat03/oka.html#",
+          "text": "ページトップへ"
+        },
+        {
+          "url": "https://twitter.com/Dewazakura_sake",
+          "text": "twitter"
+        },
+        {
+          "url": "https://instagram.com/dewazakura_sake",
+          "text": "instagram"
+        }
+      ]
+    },
+    {
+      "brewery": "出羽桜酒造",
+      "sourceUrl": "https://www.dewazakura.co.jp/item/cat02/kimoto.html",
+      "retrieved": true,
+      "status": 200,
+      "links": [
+        {
+          "url": "https://www.dewazakura.co.jp/item/cat02/kimoto.html#",
+          "text": "出羽桜の酒造り"
+        },
+        {
+          "url": "https://www.dewazakura.co.jp/sake/",
+          "text": "酒造り"
+        },
+        {
+          "url": "https://www.dewazakura.co.jp/sake/01.html",
+          "text": "歴史"
+        },
+        {
+          "url": "https://www.dewazakura.co.jp/sake/02.html",
+          "text": "ポリシー"
+        },
+        {
+          "url": "https://www.dewazakura.co.jp/sake/03.html",
+          "text": "GI山形"
+        },
+        {
+          "url": "https://www.dewazakura.co.jp/contact/tour.html",
+          "text": "酒蔵見学"
+        },
+        {
+          "url": "https://www.dewazakura.co.jp/item/",
+          "text": "商品紹介"
+        },
+        {
+          "url": "https://www.dewazakura.co.jp/item/cat02/kimoto.html#",
+          "text": "会社案内"
+        },
+        {
+          "url": "https://www.dewazakura.co.jp/item/cat02/kimoto.html#",
+          "text": "Language"
+        },
+        {
+          "url": "https://www.dewazakura.co.jp/item/cat02/",
+          "text": "純米大吟醸酒"
+        },
+        {
+          "url": "https://www.dewazakura.co.jp/item/#cat01",
+          "text": "大吟醸酒"
+        },
+        {
+          "url": "https://www.dewazakura.co.jp/item/#cat02",
+          "text": "純米大吟醸酒"
+        },
+        {
+          "url": "https://www.dewazakura.co.jp/item/#cat03",
+          "text": "吟醸酒"
+        },
+        {
+          "url": "https://www.dewazakura.co.jp/item/#cat04",
+          "text": "純米吟醸酒"
+        },
+        {
+          "url": "https://www.dewazakura.co.jp/item/#cat06",
+          "text": "純米酒"
+        },
+        {
+          "url": "https://www.dewazakura.co.jp/item/#cat05",
+          "text": "本醸造酒"
+        },
+        {
+          "url": "https://www.dewazakura.co.jp/item/#cat07",
+          "text": "普通酒"
+        },
+        {
+          "url": "https://www.dewazakura.co.jp/item/#cat08",
+          "text": "特別な酒"
+        },
+        {
+          "url": "https://www.dewazakura.co.jp/item/#cat09",
+          "text": "古酒"
+        },
+        {
+          "url": "https://www.dewazakura.co.jp/item/#cat11",
+          "text": "リキュール"
+        },
+        {
+          "url": "https://www.dewazakura.co.jp/item/#cat10",
+          "text": "ノンアルコール"
+        },
+        {
+          "url": "https://www.dewazakura.co.jp/item/",
+          "text": "一覧に戻る"
+        },
+        {
+          "url": "https://www.dewazakura.co.jp/item/cat02/kimoto.html#",
+          "text": "page top"
+        },
+        {
+          "url": "https://www.dewazakura.co.jp/item/cat02/kimoto.html#",
+          "text": "ページトップへ"
+        },
+        {
+          "url": "https://twitter.com/Dewazakura_sake",
+          "text": "twitter"
+        },
+        {
+          "url": "https://instagram.com/dewazakura_sake",
+          "text": "instagram"
+        }
+      ]
+    },
+    {
+      "brewery": "宮坂醸造",
+      "sourceUrl": "https://www.masumi.co.jp/product/karakuchiki-ippon/",
+      "retrieved": true,
+      "status": 200,
+      "links": [
+        {
+          "url": "https://www.masumi.co.jp/product/",
+          "text": "商品"
+        },
+        {
+          "url": "https://www.instagram.com/masumi_sake/?hl=ja",
+          "text": ""
+        },
+        {
+          "url": "https://ja-jp.facebook.com/sakemasumi/",
+          "text": ""
+        },
+        {
+          "url": "https://www.masumi.co.jp/product",
+          "text": "商品"
+        },
+        {
+          "url": "https://www.masumi.co.jp/product/suzumisake",
+          "text": ""
+        },
+        {
+          "url": "https://www.masumi.co.jp/product#alcohol_free",
+          "text": "糀あま酒"
+        },
+        {
+          "url": "https://www.masumi.co.jp/about/sakebrew",
+          "text": ""
+        },
+        {
+          "url": "https://miyasaka-sake.jp/",
+          "text": "MIYASAKA"
+        },
+        {
+          "url": "https://www.instagram.com/masumi_sake/?hl=ja",
+          "text": "Instagram"
+        },
+        {
+          "url": "https://ja-jp.facebook.com/sakemasumi/",
+          "text": "Facebook"
+        },
+        {
+          "url": "https://www.masumi.jp/is/?q=%E8%BE%9B%E5%8F%A3%E7%94%9F%E4%B8%80%E6%9C%AC&and_or=0&price_range_start=&price_range_end=&category=0&sort=0&view_type=0&display_item_count_search_button=",
+          "text": "オンラインショップ"
+        },
+        {
+          "url": "https://www.masumi.co.jp/product/#alcohol_free",
+          "text": "糀あま酒"
+        },
+        {
+          "url": "https://www.masumi.co.jp/seizan/",
+          "text": "オーク樽熟成 大吟醸 静山"
+        },
+        {
+          "url": "https://www.masumi.co.jp/vintage/",
+          "text": "夢殿 長期熟成古酒"
+        },
+        {
+          "url": "https://www.masumi.co.jp/about/sakebrew/",
+          "text": "酒造り"
+        }
+      ]
+    },
+    {
+      "brewery": "宮坂醸造",
+      "sourceUrl": "https://www.masumi.co.jp/prodact/aka/",
+      "retrieved": true,
+      "status": 200,
+      "links": [
+        {
+          "url": "https://www.masumi.co.jp/product/",
+          "text": "商品"
+        },
+        {
+          "url": "https://www.instagram.com/masumi_sake/?hl=ja",
+          "text": ""
+        },
+        {
+          "url": "https://ja-jp.facebook.com/sakemasumi/",
+          "text": ""
+        },
+        {
+          "url": "https://www.masumi.co.jp/product",
+          "text": "商品"
+        },
+        {
+          "url": "https://www.masumi.co.jp/product/suzumisake",
+          "text": ""
+        },
+        {
+          "url": "https://www.masumi.co.jp/product#alcohol_free",
+          "text": "糀あま酒"
+        },
+        {
+          "url": "https://www.masumi.co.jp/about/sakebrew",
+          "text": ""
+        },
+        {
+          "url": "https://miyasaka-sake.jp/",
+          "text": "MIYASAKA"
+        },
+        {
+          "url": "https://www.instagram.com/masumi_sake/?hl=ja",
+          "text": "Instagram"
+        },
+        {
+          "url": "https://ja-jp.facebook.com/sakemasumi/",
+          "text": "Facebook"
+        },
+        {
+          "url": "https://www.masumi.jp/is/?q=%E7%9C%9F%E6%9C%B1+&and_or=0&price_range_start=&price_range_end=&category=0&sort=0&view_type=0&display_item_count_search_button=",
+          "text": "オンラインショップ"
+        },
+        {
+          "url": "https://www.masumi.co.jp/product/#alcohol_free",
+          "text": "糀あま酒"
+        },
+        {
+          "url": "https://www.masumi.co.jp/seizan/",
+          "text": "オーク樽熟成 大吟醸 静山"
+        },
+        {
+          "url": "https://www.masumi.co.jp/vintage/",
+          "text": "夢殿 長期熟成古酒"
+        },
+        {
+          "url": "https://www.masumi.co.jp/about/sakebrew/",
+          "text": "酒造り"
+        }
+      ]
+    },
+    {
+      "brewery": "宮坂醸造",
+      "sourceUrl": "https://www.masumi.co.jp/en/products/",
+      "retrieved": true,
+      "status": 200,
+      "links": [
+        {
+          "url": "https://www.masumi.co.jp/en/products/",
+          "text": "PRODUCTS"
+        },
+        {
+          "url": "https://www.instagram.com/masumi_sake_atw",
+          "text": ""
+        },
+        {
+          "url": "https://www.facebook.com/masumi.sake.aroundtheworld/",
+          "text": ""
+        },
+        {
+          "url": "https://www.masumi.co.jp/en/products",
+          "text": "PRODUCTS"
+        },
+        {
+          "url": "https://www.masumi.co.jp/en/products/#premium",
+          "text": "Superior"
+        },
+        {
+          "url": "https://www.masumi.co.jp/en/products/yumedono",
+          "text": ""
+        },
+        {
+          "url": "https://www.masumi.co.jp/en/products/nanago",
+          "text": ""
+        },
+        {
+          "url": "https://www.masumi.co.jp/en/products/sanka",
+          "text": ""
+        },
+        {
+          "url": "https://www.masumi.co.jp/en/products#flagships",
+          "text": "Flagships"
+        },
+        {
+          "url": "https://www.masumi.co.jp/en/products/aka",
+          "text": ""
+        },
+        {
+          "url": "https://www.masumi.co.jp/en/products/kuro",
+          "text": ""
+        },
+        {
+          "url": "https://www.masumi.co.jp/en/products/shiro",
+          "text": ""
+        },
+        {
+          "url": "https://www.masumi.co.jp/en/products/kaya",
+          "text": ""
+        },
+        {
+          "url": "https://www.masumi.co.jp/en/products#seasonal",
+          "text": "Seasonal"
+        },
+        {
+          "url": "https://www.masumi.co.jp/en/products/arabashiri",
+          "text": ""
+        },
+        {
+          "url": "https://www.masumi.co.jp/en/products/usunigori",
+          "text": ""
+        },
+        {
+          "url": "https://www.masumi.co.jp/en/products/suzumisake",
+          "text": ""
+        },
+        {
+          "url": "https://www.masumi.co.jp/en/products/hiyaoroshi",
+          "text": ""
+        },
+        {
+          "url": "https://www.masumi.co.jp/en/products#special",
+          "text": "Bubbly"
+        },
+        {
+          "url": "https://www.masumi.co.jp/en/products/sparkling",
+          "text": ""
+        },
+        {
+          "url": "https://www.masumi.co.jp/en/products/origarami",
+          "text": ""
+        },
+        {
+          "url": "https://www.masumi.co.jp/en/products/tsukikoshi",
+          "text": ""
+        },
+        {
+          "url": "https://www.masumi.co.jp/en/products#classics",
+          "text": "Classics"
+        },
+        {
+          "url": "https://www.masumi.co.jp/en/products/karakuchi-kiippon",
+          "text": ""
+        },
+        {
+          "url": "https://www.masumi.co.jp/en/products/okudenkanzukuri",
+          "text": ""
+        },
+        {
+          "url": "https://www.masumi.co.jp/en/products/tokusen",
+          "text": ""
+        },
+        {
+          "url": "https://www.masumi.co.jp/en/products/karakuchi-gold",
+          "text": ""
+        },
+        {
+          "url": "https://www.masumi.co.jp/en/products/ginsen",
+          "text": ""
+        },
+        {
+          "url": "https://www.masumi.co.jp/en/products#spirits",
+          "text": "Spirits & Liqueurs"
+        },
+        {
+          "url": "https://www.masumi.co.jp/en/products/plum-liqueur",
+          "text": ""
+        },
+        {
+          "url": "https://www.masumi.co.jp/en/products/yuzu-liqueur",
+          "text": ""
+        },
+        {
+          "url": "https://www.masumi.co.jp/en/products#alcohol_free",
+          "text": "Amazake (0% alcohol)"
+        },
+        {
+          "url": "https://www.masumi.co.jp/en/products/amazake-plane",
+          "text": ""
+        },
+        {
+          "url": "https://www.masumi.co.jp/en/products/amazake-rhubarb",
+          "text": ""
+        },
+        {
+          "url": "https://www.masumi.co.jp/en/products/amazake-white-koji/",
+          "text": ""
+        },
+        {
+          "url": "https://www.masumi.co.jp/en/knowledge/#saketypes",
+          "text": ""
+        },
+        {
+          "url": "https://www.instagram.com/masumi_sake_atw",
+          "text": "Instagram"
+        },
+        {
+          "url": "https://www.facebook.com/masumi.sake.aroundtheworld/",
+          "text": "Facebook"
+        },
+        {
+          "url": "https://www.masumi.co.jp/en/products",
+          "text": "Products"
+        },
+        {
+          "url": "https://www.masumi.co.jp/en/products/#flagships",
+          "text": "Flagships"
+        },
+        {
+          "url": "https://www.masumi.co.jp/en/products/#seasonal",
+          "text": "Seasonal"
+        },
+        {
+          "url": "https://www.masumi.co.jp/en/products/#special",
+          "text": "Bubbly"
+        },
+        {
+          "url": "https://www.masumi.co.jp/en/products/#classics",
+          "text": "Classics"
+        },
+        {
+          "url": "https://www.masumi.co.jp/en/products/#spirits",
+          "text": "Spirits & Liqueurs"
+        },
+        {
+          "url": "https://www.masumi.co.jp/en/products/#alcohol_free",
+          "text": "Amazake (0% alcohol)"
+        },
+        {
+          "url": "https://www.masumi.co.jp/en/prodact//suzumisake/",
+          "text": ""
+        },
+        {
+          "url": "https://www.masumi.co.jp/en/prodact/suzumisake/",
+          "text": "Suzumi Sake"
+        },
+        {
+          "url": "https://www.masumi.co.jp/en/products/#",
+          "text": "↑"
+        },
+        {
+          "url": "https://www.masumi.co.jp/en/knowledge#saketypes",
+          "text": "Sake types"
+        }
+      ]
+    },
+    {
+      "brewery": "一ノ蔵",
+      "sourceUrl": "https://ichinokura.co.jp/pickup-product/jyunkara",
+      "retrieved": true,
+      "status": 200,
+      "links": [
+        {
+          "url": "https://twitter.com/ichinokura_sake",
+          "text": ""
+        },
+        {
+          "url": "https://www.instagram.com/ichinokura_sake/?hl=ja",
+          "text": ""
+        },
+        {
+          "url": "https://ichinokura.co.jp/product",
+          "text": "商品紹介"
+        },
+        {
+          "url": "https://ichinokura.co.jp/pickup-product/jyunkara",
+          "text": "特別純米酒シリーズ"
+        },
+        {
+          "url": "https://ichinokura.co.jp/museum",
+          "text": "松山酒ミュージアム"
+        },
+        {
+          "url": "https://www.jizakeshop.co.jp/",
+          "text": "地酒のリエゾン"
+        },
+        {
+          "url": "https://ichinokura.co.jp/mission/",
+          "text": "一ノ蔵の酒造りの原点"
+        },
+        {
+          "url": "https://ichinokura.co.jp/handmade/",
+          "text": "伝統の技と心手づくりの酒"
+        },
+        {
+          "url": "https://ichinokura.co.jp/pickup-product/jyunkara#story",
+          "text": "商品開発ストーリーなど"
+        },
+        {
+          "url": "https://ichinokura.co.jp/pickup-product/jyunkara#related_product",
+          "text": "関連商品はこちら"
+        },
+        {
+          "url": "https://ec.ichinokura.co.jp/products/%E7%89%B9%E5%88%A5%E7%B4%94%E7%B1%B3%E9%85%92-%E8%BE%9B%E5%8F%A3?_pos=1&_sid=df5a8cdbe&_ss=r",
+          "text": "ご購入はこちら"
+        },
+        {
+          "url": "https://ichinokura.co.jp/pickup-product/junchokara",
+          "text": "一ノ蔵特別純米酒超辛口"
+        },
+        {
+          "url": "https://ichinokura.co.jp/pickup-product/yodantokujun",
+          "text": "一ノ蔵四段仕込特別純米酒"
+        },
+        {
+          "url": "https://ichinokura.co.jp/pickup-product/yamahaitokujun",
+          "text": "一ノ蔵山廃仕込特別純米酒"
+        },
+        {
+          "url": "https://ichinokura.co.jp/syohin/index",
+          "text": "商品紹介"
+        }
+      ]
+    },
+    {
+      "brewery": "一ノ蔵",
+      "sourceUrl": "https://ec.ichinokura.co.jp/collections/300ml",
+      "retrieved": true,
+      "status": 200,
+      "links": [
+        {
+          "url": "https://ec.ichinokura.co.jp/collections/shibori",
+          "text": "🍶 冬季限定【新米新酒しぼりたて生酒】10月25日 予約受付開始 ▶ 詳細はこちら"
+        },
+        {
+          "url": "https://ec.ichinokura.co.jp/collections/seasonal-product",
+          "text": "季節限定・新酒"
+        },
+        {
+          "url": "https://ec.ichinokura.co.jp/blogs/sake_award_medal/award-winning-sake",
+          "text": "受賞酒"
+        },
+        {
+          "url": "https://ec.ichinokura.co.jp/collections/junmaidaiginjou",
+          "text": "純米大吟醸"
+        },
+        {
+          "url": "https://ec.ichinokura.co.jp/collections/ginjou",
+          "text": "純米吟醸酒・吟醸酒"
+        },
+        {
+          "url": "https://ec.ichinokura.co.jp/collections/special-junmaishu_junmaishu",
+          "text": "特別純米酒・純米酒"
+        },
+        {
+          "url": "https://ec.ichinokura.co.jp/collections/honjozoshu",
+          "text": "本醸造酒"
+        },
+        {
+          "url": "https://ec.ichinokura.co.jp/collections/new-traditionalsyu_sparkling",
+          "text": "新伝統酒・スパークリング清酒"
+        },
+        {
+          "url": "https://ec.ichinokura.co.jp/collections/junmaidaiginjou",
+          "text": "華やかでフルーティー（大吟醸）"
+        },
+        {
+          "url": "https://ec.ichinokura.co.jp/collections/karakuchi",
+          "text": "すっきり辛口・定番酒"
+        },
+        {
+          "url": "https://ec.ichinokura.co.jp/collections/namasake",
+          "text": "季節限定・生酒"
+        },
+        {
+          "url": "https://ec.ichinokura.co.jp/collections/specialsake",
+          "text": "特別な日に飲みたい"
+        },
+        {
+          "url": "https://ec.ichinokura.co.jp/blogs/osaketokurashito",
+          "text": "お酒と、暮らしと、一ノ蔵。（読み物）"
+        },
+        {
+          "url": "https://twitter.com/ichinokura_sake",
+          "text": "Twitter"
+        },
+        {
+          "url": "https://www.instagram.com/ichinokura_sake",
+          "text": "Instagram"
+        },
+        {
+          "url": "https://ec.ichinokura.co.jp/products/mukansaamakuchi",
+          "text": ""
+        },
+        {
+          "url": "https://ec.ichinokura.co.jp/products/mukansaamakuchi",
+          "text": "無鑑査本醸造 甘口"
+        },
+        {
+          "url": "https://ec.ichinokura.co.jp/products/mukansakara",
+          "text": ""
+        },
+        {
+          "url": "https://ec.ichinokura.co.jp/products/mukansakara",
+          "text": "無鑑査本醸造 辛口"
+        },
+        {
+          "url": "https://ec.ichinokura.co.jp/products/mukansachoukara",
+          "text": ""
+        },
+        {
+          "url": "https://ec.ichinokura.co.jp/products/mukansachoukara",
+          "text": "無鑑査本醸造 超辛口"
+        },
+        {
+          "url": "https://ec.ichinokura.co.jp/products/junmaikarakuchi",
+          "text": ""
+        },
+        {
+          "url": "https://ec.ichinokura.co.jp/products/junmaikarakuchi",
+          "text": "特別純米酒 辛口"
+        },
+        {
+          "url": "https://ec.ichinokura.co.jp/products/junmaicyokara",
+          "text": ""
+        },
+        {
+          "url": "https://ec.ichinokura.co.jp/products/junmaicyokara",
+          "text": "特別純米酒 超辛口"
+        },
+        {
+          "url": "https://ec.ichinokura.co.jp/products/%E7%86%9F%E6%88%90%E9%85%92-%E6%8B%9B%E8%86%B3%E7%B4%94%E7%B1%B3%E9%85%92-%E3%81%97%E3%82%87%E3%81%86%E3%81%9C%E3%82%93",
+          "text": ""
+        },
+        {
+          "url": "https://ec.ichinokura.co.jp/products/%E7%86%9F%E6%88%90%E9%85%92-%E6%8B%9B%E8%86%B3%E7%B4%94%E7%B1%B3%E9%85%92-%E3%81%97%E3%82%87%E3%81%86%E3%81%9C%E3%82%93",
+          "text": "熟成酒 招膳(純米酒)（しょうぜん）"
+        },
+        {
+          "url": "https://ec.ichinokura.co.jp/products/himezen",
+          "text": ""
+        },
+        {
+          "url": "https://ec.ichinokura.co.jp/products/himezen",
+          "text": "ひめぜん"
+        },
+        {
+          "url": "https://ec.ichinokura.co.jp/products/himezenume",
+          "text": ""
+        },
+        {
+          "url": "https://ec.ichinokura.co.jp/products/himezenume",
+          "text": "ひめぜん梅（うめ）"
+        },
+        {
+          "url": "https://ec.ichinokura.co.jp/products/himeyuzu",
+          "text": ""
+        },
+        {
+          "url": "https://ec.ichinokura.co.jp/products/himeyuzu",
+          "text": "ひめぜん柚子"
+        },
+        {
+          "url": "https://ec.ichinokura.co.jp/products/suzune",
+          "text": ""
+        },
+        {
+          "url": "https://ec.ichinokura.co.jp/products/suzune",
+          "text": "発泡清酒 すず音"
+        },
+        {
+          "url": "https://ec.ichinokura.co.jp/products/hanamekusuzune",
+          "text": ""
+        },
+        {
+          "url": "https://ec.ichinokura.co.jp/products/hanamekusuzune",
+          "text": "花めくすず音"
+        },
+        {
+          "url": "https://ec.ichinokura.co.jp/products/happysuzune",
+          "text": ""
+        },
+        {
+          "url": "https://ec.ichinokura.co.jp/products/happysuzune",
+          "text": "幸せの黄色いすず音"
+        }
+      ]
+    },
+    {
+      "brewery": "佐浦",
+      "sourceUrl": "https://www.urakasumi.com/items/junmai/",
+      "retrieved": true,
+      "status": 200,
+      "links": [
+        {
+          "url": "https://www.urakasumi.com/commitment/",
+          "text": "酒造りのこだわり"
+        },
+        {
+          "url": "https://www.urakasumi.com/commitment/brewing/",
+          "text": "浦霞の酒造りについて"
+        },
+        {
+          "url": "https://www.urakasumi.com/items/",
+          "text": "商品紹介"
+        },
+        {
+          "url": "https://www.urakasumi.com/items/",
+          "text": "全商品"
+        },
+        {
+          "url": "https://www.urakasumi.com/items/?category=urakasumi-zen#c001",
+          "text": "浦霞禅"
+        },
+        {
+          "url": "https://www.urakasumi.com/items/?category=no12#c001",
+          "text": "浦霞No.12"
+        },
+        {
+          "url": "https://www.urakasumi.com/items/?category=daiginjo#c001",
+          "text": "純米大吟醸酒・大吟醸酒"
+        },
+        {
+          "url": "https://www.urakasumi.com/items/?category=ginjo#c001",
+          "text": "純米吟醸酒・吟醸酒"
+        },
+        {
+          "url": "https://www.urakasumi.com/items/?category=junmai#c001",
+          "text": "純米酒・本醸造酒"
+        },
+        {
+          "url": "https://www.urakasumi.com/items/?category=season-limited#c001",
+          "text": "季節限定商品"
+        },
+        {
+          "url": "https://www.urakasumi.com/items/?category=miyagi-limited#c001",
+          "text": "宮城県内限定商品"
+        },
+        {
+          "url": "https://www.urakasumi.com/items/?category=speciality#c001",
+          "text": "特別なお酒"
+        },
+        {
+          "url": "https://www.urakasumi.com/items/?category=liqueur-shochu#c001",
+          "text": "リキュール・焼酎"
+        },
+        {
+          "url": "https://www.urakasumi.com/items/?category=foods#c001",
+          "text": "食品"
+        },
+        {
+          "url": "https://www.urakasumi.com/items",
+          "text": "商品紹介"
+        },
+        {
+          "url": "https://www.e-urakasumi.com/item-detail/462365",
+          "text": "ご購入はこちら"
+        },
+        {
+          "url": "https://www.urakasumi.com/items/junmai/undefined",
+          "text": "はい"
+        },
+        {
+          "url": "https://www.urakasumi.com/items/junmai/undefined",
+          "text": "いいえ"
+        },
+        {
+          "url": "https://www.urakasumi.com/items/kiippon/",
+          "text": "純米酒・本醸造酒 特別純米酒 生一本(きいっぽん) 浦霞"
+        },
+        {
+          "url": "https://www.urakasumi.com/items/junmaikarakuchi/",
+          "text": "純米酒・本醸造酒 純米辛口 浦霞"
+        },
+        {
+          "url": "https://www.urakasumi.com/items/sozoro/",
+          "text": "純米酒・本醸造酒 純米酒 浦霞 そぞろ"
+        },
+        {
+          "url": "https://www.urakasumi.com/items/shiratsuyu/",
+          "text": "純米酒・本醸造酒 低アルコール純米酒 萩の白露"
+        },
+        {
+          "url": "https://www.urakasumi.com/items/botoru/",
+          "text": "純米酒・本醸造酒 ぼとる 浦霞"
+        },
+        {
+          "url": "https://www.urakasumi.com/items/honjikomi/",
+          "text": "純米酒・本醸造酒 本仕込 浦霞"
+        },
+        {
+          "url": "https://www.urakasumi.com/items/karakuchi/",
+          "text": "純米酒・本醸造酒 からくち 浦霞"
+        },
+        {
+          "url": "https://www.urakasumi.com/items?caegory=urakasumi-zen#c001",
+          "text": "浦霞禅"
+        },
+        {
+          "url": "https://www.urakasumi.com/items?caegory=no12#c001",
+          "text": "浦霞No.12"
+        },
+        {
+          "url": "https://www.urakasumi.com/items?caegory=daiginjo#c001",
+          "text": "純米大吟醸酒・大吟醸酒"
+        },
+        {
+          "url": "https://www.urakasumi.com/items?caegory=ginjo#c001",
+          "text": "純米吟醸酒・吟醸酒"
+        },
+        {
+          "url": "https://www.urakasumi.com/items?caegory=junmai#c001",
+          "text": "純米酒・本醸造酒"
+        },
+        {
+          "url": "https://www.urakasumi.com/items?caegory=season-lmited#c001",
+          "text": "季節限定商品"
+        },
+        {
+          "url": "https://www.urakasumi.com/items?caegory=miyagi-limited#c001",
+          "text": "宮城県内限定商品"
+        },
+        {
+          "url": "https://www.urakasumi.com/items?caegory=speciality#c001",
+          "text": "特別なお酒"
+        },
+        {
+          "url": "https://www.urakasumi.com/items?caegory=liqueur-shochu#c001",
+          "text": "リキュール・焼酎"
+        },
+        {
+          "url": "https://www.urakasumi.com/items?caegory=foods#c001",
+          "text": "食品"
+        },
+        {
+          "url": "https://www.urakasumi.com/sitemap/",
+          "text": "サイトマップ"
+        },
+        {
+          "url": "https://www.instagram.com/urakasumi_sake/",
+          "text": "Instagram"
+        },
+        {
+          "url": "https://twitter.com/urakasumi_sake",
+          "text": "X"
+        }
+      ]
+    },
+    {
+      "brewery": "菊水酒造",
+      "sourceUrl": "https://www.kikusui-sake.com/home/jp/products/funaguchi/",
+      "retrieved": true,
+      "status": 200,
+      "links": [
+        {
+          "url": "https://www.kikusui-sake.com/home/jp/",
+          "text": ""
+        },
+        {
+          "url": "https://www.kikusui-sake.com/home/jp/",
+          "text": "JP"
+        },
+        {
+          "url": "https://kikusui-sake.com/home/en",
+          "text": "EN"
+        },
+        {
+          "url": "https://www.kikusui-sake.com/home/jp/news/",
+          "text": "お知らせ"
+        },
+        {
+          "url": "https://kikusui-sake.com/recruit",
+          "text": "採用情報"
+        },
+        {
+          "url": "https://www.kikusui-sake.com/home/jp/enjoy/faq/",
+          "text": "よくある質問"
+        },
+        {
+          "url": "https://www.kikusui-sake.com/home/jp/privacy/",
+          "text": "個人情報保護方針"
+        },
+        {
+          "url": "https://www.kikusui-sake.com/home/jp/security/",
+          "text": "情報セキュリティ基本方針"
+        },
+        {
+          "url": "https://www.kikusui-sake.com/home/jp/customer_harassment/",
+          "text": "カスタマーハラスメントに対する基本方針"
+        },
+        {
+          "url": "https://www.kikusui-sake.com/home/jp/",
+          "text": "トップページ"
+        },
+        {
+          "url": "https://kikusui-sake.com/recruit/",
+          "text": "採用情報"
+        },
+        {
+          "url": "https://www.kikusui-sake.com/home/jp/access/",
+          "text": "アクセス"
+        },
+        {
+          "url": "https://www.kikusui-sake.com/home/jp/store/",
+          "text": "オンラインストア"
+        },
+        {
+          "url": "https://www.kikusui-sake.com/home/jp/contact/",
+          "text": "お問い合わせ"
+        },
+        {
+          "url": "https://www.kikusui-sake.com/home/jp/products/cat/",
+          "text": "商品カテゴリへ"
+        },
+        {
+          "url": "https://www.kikusui-sake.com/home/jp/products/cat/%E8%8F%8A%E6%B0%B4%E3%81%B5%E3%81%AA%E3%81%90%E3%81%A1/",
+          "text": "菊水ふなぐち"
+        },
+        {
+          "url": "https://www.kikusui-sake.com/home/jp/products/cat/%E8%8F%8A%E6%B0%B4%E3%81%97%E3%81%BC%E3%82%8A%E3%81%9F%E3%81%A6%E7%B4%94%E7%B1%B3%E7%94%9F%E5%8E%9F%E9%85%92/",
+          "text": "菊水しぼりたて純米生原酒"
+        },
+        {
+          "url": "https://www.kikusui-sake.com/home/jp/products/cat/%E8%94%B5%E4%BA%BA%E6%8E%A8%E5%A5%A8/",
+          "text": "蔵人推奨"
+        },
+        {
+          "url": "https://www.kikusui-sake.com/home/jp/products/cat/%E7%84%A1%E5%86%A0%E5%B8%9D/",
+          "text": "無冠帝"
+        },
+        {
+          "url": "https://www.kikusui-sake.com/home/jp/products/cat/%E5%AD%A3%E7%AF%80%E9%99%90%E5%AE%9A%E9%85%92/",
+          "text": "季節限定酒"
+        },
+        {
+          "url": "https://www.kikusui-sake.com/home/jp/products/cat/%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2%E3%83%A0%E9%85%92/",
+          "text": "プレミアム酒"
+        },
+        {
+          "url": "https://www.kikusui-sake.com/home/jp/products/cat/%E3%83%87%E3%82%A4%E3%83%AA%E3%83%BC%E9%85%92/",
+          "text": "デイリー酒"
+        },
+        {
+          "url": "https://www.kikusui-sake.com/home/jp/products/cat/%E6%A2%85%E9%85%92/",
+          "text": "梅酒"
+        },
+        {
+          "url": "https://www.kikusui-sake.com/home/jp/lp/kikusui-zero/",
+          "text": "菊水ゼロ（ノンアルコール）"
+        },
+        {
+          "url": "https://www.kikusui-sake.com/home/jp/products/cat/%E9%A3%9F%E5%93%81%E3%83%BB%E3%81%9D%E3%81%AE%E4%BB%96/",
+          "text": "食品・その他"
+        },
+        {
+          "url": "https://www.kikusui-sake.com/home/jp/store/",
+          "text": "菊水酒造公式オンラインストア"
+        },
+        {
+          "url": "https://www.kikusui-sake.com/home/jp/shop/",
+          "text": "取扱い店リスト"
+        },
+        {
+          "url": "https://www.kikusui-sake.com/home/jp/enjoy/",
+          "text": "菊水を愉しむ菊水は日本酒はもちろん、発酵にまつわるモノとコトで、愉しさをお届けします。"
+        },
+        {
+          "url": "https://www.kikusui-sake.com/home/jp/event/",
+          "text": "店頭イベント・試飲会"
+        },
+        {
+          "url": "https://www.kikusui-sake.com/home/jp/enjoy/kikusuitsushin/",
+          "text": "菊水通信"
+        },
+        {
+          "url": "https://www.kikusui-sake.com/home/jp/shudo/",
+          "text": "酒 道"
+        },
+        {
+          "url": "https://www.kikusui-sake.com/home/jp/enjoy/kanzake/",
+          "text": "おいしい燗酒の作り方"
+        },
+        {
+          "url": "https://www.kikusui-sake.com/home/jp/enjoy/sakehai/",
+          "text": "おいしい酒ハイの作り方"
+        },
+        {
+          "url": "https://www.kikusui-sake.com/home/jp/enjoy/can/",
+          "text": "おいしいさに、カンづいていました。"
+        },
+        {
+          "url": "https://www.kikusui-sake.com/home/jp/company/",
+          "text": "企業情報"
+        },
+        {
+          "url": "https://www.kikusui-sake.com/home/jp/company/philosophy/",
+          "text": "経営理念"
+        },
+        {
+          "url": "https://www.kikusui-sake.com/home/jp/company/outline/",
+          "text": "企業概要・受賞歴"
+        },
+        {
+          "url": "https://www.kikusui-sake.com/home/jp/company/history/",
+          "text": "社歴"
+        },
+        {
+          "url": "https://www.kikusui-sake.com/home/jp/company/safety/",
+          "text": "安心・安全への取り組み"
+        },
+        {
+          "url": "https://www.kikusui-sake.com/home/jp/products/cat/%E8%8F%8A%E6%B0%B4%E3%81%B5%E3%81%AA%E3%81%90%E3%81%A1/",
+          "text": "一覧に戻る"
+        },
+        {
+          "url": "https://www.kikusui-sake.shop/c/sake/funaguchi/kikusui_funaguchi#lineup",
+          "text": ""
+        },
+        {
+          "url": "https://kikusui-sake.com/home/jp/enjoy/can/",
+          "text": ""
+        },
+        {
+          "url": "https://www.kikusui-sake.com/cp/funaguchi-cantsuma/result.html",
+          "text": ""
+        },
+        {
+          "url": "https://www.kikusui-sake.com/funaguchi50th/",
+          "text": ""
+        },
+        {
+          "url": "https://www.kikusui-sake.com/home/jp/products/cat/",
+          "text": "商品を探す"
+        },
+        {
+          "url": "https://www.kikusui-sake.com/home/jp/shudo/",
+          "text": "酒道"
+        },
+        {
+          "url": "https://www.kikusui-sake.com/home/jp/enjoy/",
+          "text": "菊水を愉しむ"
+        },
+        {
+          "url": "https://www.kikusui-sake.com/home/jp/event/",
+          "text": "- 店頭イベント・試飲会"
+        },
+        {
+          "url": "https://www.kikusui-sake.com/home/jp/enjoy/kikusuitsushin/",
+          "text": "- 菊水通信"
+        },
+        {
+          "url": "https://www.kikusui-sake.com/home/jp/enjoy/kanzake/",
+          "text": "- おいしい燗酒の作り方"
+        },
+        {
+          "url": "https://www.kikusui-sake.com/home/jp/enjoy/sakehai/",
+          "text": "- おいしい酒ハイの作り方"
+        },
+        {
+          "url": "https://www.kikusui-sake.com/home/jp/enjoy/can/",
+          "text": "- おいしいさに、カンづいていました。"
+        },
+        {
+          "url": "https://www.kikusui-sake.com/home/jp/company/",
+          "text": "- 企業情報"
+        },
+        {
+          "url": "https://www.kikusui-sake.com/home/jp/company/philosophy/",
+          "text": "- 経営理念"
+        },
+        {
+          "url": "https://www.kikusui-sake.com/home/jp/company/outline/",
+          "text": "- 企業概要・受賞歴"
+        },
+        {
+          "url": "https://www.kikusui-sake.com/home/jp/company/history/",
+          "text": "- 社歴"
+        },
+        {
+          "url": "https://www.kikusui-sake.com/home/jp/company/safety/",
+          "text": "- 安心・安全への取り組み"
+        },
+        {
+          "url": "https://kikusui-sake.com/recruit",
+          "text": "- 採用情報"
+        },
+        {
+          "url": "https://www.kikusui-sake.com/home/jp/contact/",
+          "text": "- お問い合わせ"
+        }
+      ]
+    },
+    {
+      "brewery": "酔鯨酒造",
+      "sourceUrl": "https://suigei.co.jp/collection/564.html",
+      "retrieved": true,
+      "status": 200,
+      "links": [
+        {
+          "url": "https://suigei.co.jp/collection",
+          "text": "酔鯨の商品トップ"
+        },
+        {
+          "url": "https://suigei.co.jp/collection/426.html",
+          "text": "純米大吟醸 DAITO 2025"
+        },
+        {
+          "url": "https://suigei.co.jp/collection/439.html",
+          "text": "純米大吟醸 長期熟成酒 慎"
+        },
+        {
+          "url": "https://suigei.co.jp/collection/441.html",
+          "text": "純米大吟醸 万"
+        },
+        {
+          "url": "https://suigei.co.jp/collection/445.html",
+          "text": "純米大吟醸 弥"
+        },
+        {
+          "url": "https://suigei.co.jp/collection/497.html",
+          "text": "純米大吟醸 象"
+        },
+        {
+          "url": "https://suigei.co.jp/collection/category/daiginjo-ginjo",
+          "text": "純米大吟醸酒・純米吟醸酒"
+        },
+        {
+          "url": "https://suigei.co.jp/collection/2255.html",
+          "text": "純米大吟醸 丞"
+        },
+        {
+          "url": "https://suigei.co.jp/collection/498.html",
+          "text": "純米大吟醸 寅"
+        },
+        {
+          "url": "https://suigei.co.jp/collection/501.html",
+          "text": "純米大吟醸 兵庫山田錦50%"
+        },
+        {
+          "url": "https://suigei.co.jp/collection/2116.html",
+          "text": "純米大吟醸 花ごろも 生酒"
+        },
+        {
+          "url": "https://suigei.co.jp/collection/552.html",
+          "text": "純米大吟醸 なつくじら 原酒"
+        },
+        {
+          "url": "https://suigei.co.jp/collection/1165.html",
+          "text": "純米大吟醸 高育秋あがり"
+        },
+        {
+          "url": "https://suigei.co.jp/collection/1940.html",
+          "text": "純米大吟醸 しぼりたて 冬びより"
+        },
+        {
+          "url": "https://suigei.co.jp/collection/505.html",
+          "text": "純米吟醸 高育54号"
+        },
+        {
+          "url": "https://suigei.co.jp/collection/554.html",
+          "text": "純米吟醸 高育54号 新酒生酒"
+        },
+        {
+          "url": "https://suigei.co.jp/collection/558.html",
+          "text": "純米吟醸 吟麗"
+        },
+        {
+          "url": "https://suigei.co.jp/collection/4677.html",
+          "text": "横浜DeNAベイスターズ 酔鯨 純米吟醸 WHALE STAR"
+        },
+        {
+          "url": "https://suigei.co.jp/collection/630.html",
+          "text": "純米吟醸 吟麗 生酒"
+        },
+        {
+          "url": "https://suigei.co.jp/collection/557.html",
+          "text": "純米吟醸 吟麗 summer"
+        },
+        {
+          "url": "https://suigei.co.jp/collection/632.html",
+          "text": "純米吟醸 吟麗 秋あがり"
+        },
+        {
+          "url": "https://suigei.co.jp/collection/559.html",
+          "text": "純米吟醸 吟麗しぼりたて"
+        },
+        {
+          "url": "https://suigei.co.jp/collection/category/junmai-honjozou",
+          "text": "純米酒・本醸造酒"
+        },
+        {
+          "url": "https://suigei.co.jp/collection/563.html",
+          "text": "純米酒 八反錦60%"
+        },
+        {
+          "url": "https://suigei.co.jp/collection/564.html",
+          "text": "特別純米酒"
+        },
+        {
+          "url": "https://suigei.co.jp/collection/568.html",
+          "text": "特別純米酒 しぼりたて 生酒"
+        },
+        {
+          "url": "https://suigei.co.jp/collection/565.html",
+          "text": "特別純米酒 お～い！竜馬"
+        },
+        {
+          "url": "https://suigei.co.jp/collection/3742.html",
+          "text": "特別純米酒 山内容堂公"
+        },
+        {
+          "url": "https://suigei.co.jp/collection/3982.html",
+          "text": "夏純米"
+        },
+        {
+          "url": "https://suigei.co.jp/collection/566.html",
+          "text": "熟成梅酒6 （仕込み中のため一時休売）"
+        },
+        {
+          "url": "https://suigei.co.jp/collection/category/sonota",
+          "text": "その他の商品"
+        },
+        {
+          "url": "https://suigei.co.jp/brewery/brewing",
+          "text": "酒造り"
+        },
+        {
+          "url": "https://suigei.co.jp/company/enjoy-sake-life",
+          "text": "Enjoy SAKE Life"
+        },
+        {
+          "url": "https://suigei.co.jp/collection",
+          "text": "酔鯨の商品"
+        },
+        {
+          "url": "https://suigei.co.jp/collection/tag/%e6%b4%8b%e9%a3%9f%e3%81%ab%e3%82%82%e6%97%a5%e6%9c%ac%e9%85%92%e3%82%92",
+          "text": "#洋食にも日本酒を"
+        },
+        {
+          "url": "https://suigei.co.jp/collection/tag/%e5%88%9d%e3%82%81%e3%81%a6%e3%81%ae%e6%97%a5%e6%9c%ac%e9%85%92%e3%81%af%e3%82%b3%e3%83%ac",
+          "text": "#初めての日本酒はコレ"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=hbkgobK3o58",
+          "text": "僕たちが造っています！大人気！「特別純米酒」美味しさの秘密！ 今回は、酔鯨の大人気商品！クジラのマークでおなじみ「酔鯨 特別純米酒」の美味しさの秘密に迫りました！🐋 いまや高知県のみならず、全国、そして世界で楽しまれている「特別純米酒」ですが、 出荷量は多くても、美味しさのために妥協するなく、たくさんのこだわりが詰まっていることが分かりました😲✨ 従業員の想いのこもったお酒をぜひ皆さんの食卓で楽しんでもらえると嬉しいです☺🍶 この動画を観た後だとよりお酒が美味しく感じられること間違いなしです✨"
+        },
+        {
+          "url": "https://www.suigeitei.com/",
+          "text": "酔鯨酒造直営店「とさごはん酔鯨亭」 「とさごはん酔鯨亭」では「食中酒」をテーマに醸造された酔鯨酒造の日本酒と、地元で採れた旬の魚介や新鮮な野菜を使った料理との「ペアリング」を心ゆくまでお楽しみいただけます。 「とさごはん酔鯨亭」でも「特別純米酒」をお楽しみください。"
+        },
+        {
+          "url": "https://www.rikimaru-saketen.com/",
+          "text": "詳しくはこちら"
+        },
+        {
+          "url": "https://www.instagram.com/suminosaketen/",
+          "text": "詳しくはこちら"
+        },
+        {
+          "url": "https://www.kobasaketen.com/",
+          "text": "詳しくはこちら"
+        },
+        {
+          "url": "https://sake-sasaki.com/",
+          "text": "詳しくはこちら"
+        },
+        {
+          "url": "https://www.sakenoyamamoto.jp/",
+          "text": "詳しくはこちら"
+        },
+        {
+          "url": "https://www.sakeyodo.com/",
+          "text": "詳しくはこちら"
+        },
+        {
+          "url": "https://sake-japan.jp/",
+          "text": "詳しくはこちら"
+        },
+        {
+          "url": "https://www.facebook.com/iidasaketen/?locale=ja_JP",
+          "text": "詳しくはこちら"
+        },
+        {
+          "url": "https://www.sake-okadaya.co.jp/",
+          "text": "詳しくはこちら"
+        },
+        {
+          "url": "https://rakusake.com/",
+          "text": "詳しくはこちら"
+        },
+        {
+          "url": "https://www.hasegawasaketen.com/",
+          "text": "詳しくはこちら"
+        },
+        {
+          "url": "https://sake-y.net/",
+          "text": "詳しくはこちら"
+        },
+        {
+          "url": "https://www.tanoshiisake.com/",
+          "text": "詳しくはこちら"
+        },
+        {
+          "url": "https://www.e-sake.ne.jp/",
+          "text": "詳しくはこちら"
+        },
+        {
+          "url": "https://kondosaketen.com/",
+          "text": "詳しくはこちら"
+        },
+        {
+          "url": "https://www.hasegawasaketen.com/blog/feature/granstatokyo/",
+          "text": "詳しくはこちら"
+        },
+        {
+          "url": "https://www.sake-komiyama.net/",
+          "text": "詳しくはこちら"
+        },
+        {
+          "url": "https://sakenohayasaka.com/",
+          "text": "詳しくはこちら"
+        },
+        {
+          "url": "https://www.isetan.mistore.jp/kyoto/shops/restaurant/sakenotashinami.html",
+          "text": "詳しくはこちら"
+        },
+        {
+          "url": "https://www.hasegawasaketen.com/shop.html",
+          "text": "詳しくはこちら"
+        },
+        {
+          "url": "https://kimijimaya.co.jp/shop/sake_n_roll",
+          "text": "詳しくはこちら"
+        },
+        {
+          "url": "https://www.instagram.com/tenmasa.j.sake.2/",
+          "text": "詳しくはこちら"
+        },
+        {
+          "url": "https://suigei.co.jp/collection/563.html",
+          "text": "純米酒 八反錦 ６０％"
+        },
+        {
+          "url": "https://suigei.co.jp/collection/568.html",
+          "text": "特別純米酒 しぼりたて 生酒 生酒"
+        },
+        {
+          "url": "https://www.instagram.com/suigei_sake/",
+          "text": "Instagram"
+        }
+      ]
+    },
+    {
+      "brewery": "酔鯨酒造",
+      "sourceUrl": "https://suigei.co.jp/collection/501.html",
+      "retrieved": true,
+      "status": 200,
+      "links": [
+        {
+          "url": "https://suigei.co.jp/collection",
+          "text": "酔鯨の商品トップ"
+        },
+        {
+          "url": "https://suigei.co.jp/collection/426.html",
+          "text": "純米大吟醸 DAITO 2025"
+        },
+        {
+          "url": "https://suigei.co.jp/collection/439.html",
+          "text": "純米大吟醸 長期熟成酒 慎"
+        },
+        {
+          "url": "https://suigei.co.jp/collection/441.html",
+          "text": "純米大吟醸 万"
+        },
+        {
+          "url": "https://suigei.co.jp/collection/445.html",
+          "text": "純米大吟醸 弥"
+        },
+        {
+          "url": "https://suigei.co.jp/collection/497.html",
+          "text": "純米大吟醸 象"
+        },
+        {
+          "url": "https://suigei.co.jp/collection/category/daiginjo-ginjo",
+          "text": "純米大吟醸酒・純米吟醸酒"
+        },
+        {
+          "url": "https://suigei.co.jp/collection/2255.html",
+          "text": "純米大吟醸 丞"
+        },
+        {
+          "url": "https://suigei.co.jp/collection/498.html",
+          "text": "純米大吟醸 寅"
+        },
+        {
+          "url": "https://suigei.co.jp/collection/501.html",
+          "text": "純米大吟醸 兵庫山田錦50%"
+        },
+        {
+          "url": "https://suigei.co.jp/collection/2116.html",
+          "text": "純米大吟醸 花ごろも 生酒"
+        },
+        {
+          "url": "https://suigei.co.jp/collection/552.html",
+          "text": "純米大吟醸 なつくじら 原酒"
+        },
+        {
+          "url": "https://suigei.co.jp/collection/1165.html",
+          "text": "純米大吟醸 高育秋あがり"
+        },
+        {
+          "url": "https://suigei.co.jp/collection/1940.html",
+          "text": "純米大吟醸 しぼりたて 冬びより"
+        },
+        {
+          "url": "https://suigei.co.jp/collection/505.html",
+          "text": "純米吟醸 高育54号"
+        },
+        {
+          "url": "https://suigei.co.jp/collection/554.html",
+          "text": "純米吟醸 高育54号 新酒生酒"
+        },
+        {
+          "url": "https://suigei.co.jp/collection/558.html",
+          "text": "純米吟醸 吟麗"
+        },
+        {
+          "url": "https://suigei.co.jp/collection/4677.html",
+          "text": "横浜DeNAベイスターズ 酔鯨 純米吟醸 WHALE STAR"
+        },
+        {
+          "url": "https://suigei.co.jp/collection/630.html",
+          "text": "純米吟醸 吟麗 生酒"
+        },
+        {
+          "url": "https://suigei.co.jp/collection/557.html",
+          "text": "純米吟醸 吟麗 summer"
+        },
+        {
+          "url": "https://suigei.co.jp/collection/632.html",
+          "text": "純米吟醸 吟麗 秋あがり"
+        },
+        {
+          "url": "https://suigei.co.jp/collection/559.html",
+          "text": "純米吟醸 吟麗しぼりたて"
+        },
+        {
+          "url": "https://suigei.co.jp/collection/category/junmai-honjozou",
+          "text": "純米酒・本醸造酒"
+        },
+        {
+          "url": "https://suigei.co.jp/collection/563.html",
+          "text": "純米酒 八反錦60%"
+        },
+        {
+          "url": "https://suigei.co.jp/collection/564.html",
+          "text": "特別純米酒"
+        },
+        {
+          "url": "https://suigei.co.jp/collection/568.html",
+          "text": "特別純米酒 しぼりたて 生酒"
+        },
+        {
+          "url": "https://suigei.co.jp/collection/565.html",
+          "text": "特別純米酒 お～い！竜馬"
+        },
+        {
+          "url": "https://suigei.co.jp/collection/3742.html",
+          "text": "特別純米酒 山内容堂公"
+        },
+        {
+          "url": "https://suigei.co.jp/collection/3982.html",
+          "text": "夏純米"
+        },
+        {
+          "url": "https://suigei.co.jp/collection/566.html",
+          "text": "熟成梅酒6 （仕込み中のため一時休売）"
+        },
+        {
+          "url": "https://suigei.co.jp/collection/category/sonota",
+          "text": "その他の商品"
+        },
+        {
+          "url": "https://suigei.co.jp/brewery/brewing",
+          "text": "酒造り"
+        },
+        {
+          "url": "https://suigei.co.jp/company/enjoy-sake-life",
+          "text": "Enjoy SAKE Life"
+        },
+        {
+          "url": "https://suigei.co.jp/collection",
+          "text": "酔鯨の商品"
+        },
+        {
+          "url": "https://suigei.co.jp/collection/tag/%e7%89%b9%e5%88%a5%e3%81%aa%e6%97%a5%e3%81%ab%e3%81%af%e7%89%b9%e5%88%a5%e3%81%aa%e3%81%8a%e9%85%92%e3%82%92",
+          "text": "#特別な日には特別なお酒を"
+        },
+        {
+          "url": "https://suigei.co.jp/collection/tag/%e6%b4%8b%e9%a3%9f%e3%81%ab%e3%82%82%e6%97%a5%e6%9c%ac%e9%85%92%e3%82%92",
+          "text": "#洋食にも日本酒を"
+        },
+        {
+          "url": "https://www.suigeitei.com/",
+          "text": "酔鯨酒造直営店「とさごはん酔鯨亭」 「とさごはん酔鯨亭」では「食中酒」をテーマに醸造された酔鯨酒造の日本酒と、地元で採れた旬の魚介や新鮮な野菜を使った料理との「ペアリング」を心ゆくまでお楽しみいただけます。 「とさごはん酔鯨亭」でも「純米大吟醸 兵庫山田錦５０％」をお楽しみください。"
+        },
+        {
+          "url": "https://www.rikimaru-saketen.com/",
+          "text": "詳しくはこちら"
+        },
+        {
+          "url": "https://www.instagram.com/suminosaketen/",
+          "text": "詳しくはこちら"
+        },
+        {
+          "url": "https://www.kobasaketen.com/",
+          "text": "詳しくはこちら"
+        },
+        {
+          "url": "https://sake-sasaki.com/",
+          "text": "詳しくはこちら"
+        },
+        {
+          "url": "https://www.sakenoyamamoto.jp/",
+          "text": "詳しくはこちら"
+        },
+        {
+          "url": "https://www.sakeyodo.com/",
+          "text": "詳しくはこちら"
+        },
+        {
+          "url": "https://sake-japan.jp/",
+          "text": "詳しくはこちら"
+        },
+        {
+          "url": "https://www.facebook.com/iidasaketen/?locale=ja_JP",
+          "text": "詳しくはこちら"
+        },
+        {
+          "url": "https://www.sake-okadaya.co.jp/",
+          "text": "詳しくはこちら"
+        },
+        {
+          "url": "https://rakusake.com/",
+          "text": "詳しくはこちら"
+        },
+        {
+          "url": "https://www.hasegawasaketen.com/",
+          "text": "詳しくはこちら"
+        },
+        {
+          "url": "https://sake-y.net/",
+          "text": "詳しくはこちら"
+        },
+        {
+          "url": "https://www.tanoshiisake.com/",
+          "text": "詳しくはこちら"
+        },
+        {
+          "url": "https://www.e-sake.ne.jp/",
+          "text": "詳しくはこちら"
+        },
+        {
+          "url": "https://kondosaketen.com/",
+          "text": "詳しくはこちら"
+        },
+        {
+          "url": "https://www.hasegawasaketen.com/blog/feature/granstatokyo/",
+          "text": "詳しくはこちら"
+        },
+        {
+          "url": "https://www.sake-komiyama.net/",
+          "text": "詳しくはこちら"
+        },
+        {
+          "url": "https://sakenohayasaka.com/",
+          "text": "詳しくはこちら"
+        },
+        {
+          "url": "https://www.isetan.mistore.jp/kyoto/shops/restaurant/sakenotashinami.html",
+          "text": "詳しくはこちら"
+        },
+        {
+          "url": "https://www.hasegawasaketen.com/shop.html",
+          "text": "詳しくはこちら"
+        },
+        {
+          "url": "https://kimijimaya.co.jp/shop/sake_n_roll",
+          "text": "詳しくはこちら"
+        },
+        {
+          "url": "https://www.instagram.com/tenmasa.j.sake.2/",
+          "text": "詳しくはこちら"
+        },
+        {
+          "url": "https://suigei.co.jp/collection/501.html",
+          "text": "純米大吟醸 兵庫山田錦 ５０％"
+        },
+        {
+          "url": "https://suigei.co.jp/collection/1940.html",
+          "text": "純米大吟醸しぼりたて 冬びより"
+        },
+        {
+          "url": "https://suigei.co.jp/collection/559.html",
+          "text": "純米吟醸 吟麗 しぼりたて"
+        },
+        {
+          "url": "https://www.instagram.com/suigei_sake/",
+          "text": "Instagram"
+        }
+      ]
+    },
+    {
+      "brewery": "車多酒造",
+      "sourceUrl": "https://www.tengumai.co.jp/products/daiginjo/33.html",
+      "retrieved": true,
+      "status": 200,
+      "links": [
+        {
+          "url": "https://www.tengumai.co.jp/products/daiginjo/",
+          "text": "HOME"
+        },
+        {
+          "url": "https://www.tengumai.co.jp/products/daiginjo/sake",
+          "text": "Policy"
+        },
+        {
+          "url": "https://www.tengumai.co.jp/products/daiginjo/kura",
+          "text": "History"
+        },
+        {
+          "url": "https://www.tengumai.co.jp/products/daiginjo/products",
+          "text": "Brand"
+        },
+        {
+          "url": "https://www.tengumai.co.jp/products/daiginjo/info",
+          "text": "News / SNS"
+        },
+        {
+          "url": "https://www.tengumai.co.jp/products/daiginjo/contact",
+          "text": "Contact"
+        },
+        {
+          "url": "https://www.tengumai.co.jp/products/daiginjo/33.html#",
+          "text": "JP"
+        },
+        {
+          "url": "https://www.tengumai.co.jp/products/daiginjo/en",
+          "text": "EN"
+        },
+        {
+          "url": "https://www.tengumai.co.jp/products/daiginjo/33.html#",
+          "text": ""
+        },
+        {
+          "url": "https://www.tengumai.co.jp/products/daiginjo",
+          "text": "純米大吟醸酒"
+        },
+        {
+          "url": "https://www.tengumai.co.jp/products/sashimi",
+          "text": "刺身に合うお酒"
+        },
+        {
+          "url": "https://www.tengumai.co.jp/products/sakana",
+          "text": "魚料理に合うお酒"
+        },
+        {
+          "url": "https://www.tengumai.co.jp/products/niku",
+          "text": "肉料理に合うお酒"
+        },
+        {
+          "url": "https://www.tengumai.co.jp/products/nabe",
+          "text": "鍋料理に合うお酒"
+        },
+        {
+          "url": "https://www.tengumai.co.jp/products/western",
+          "text": "洋食に合うお酒"
+        },
+        {
+          "url": "https://www.tengumai.co.jp/products/season/250.html",
+          "text": ""
+        },
+        {
+          "url": "https://www.tengumai.co.jp/products/kizake/168.html",
+          "text": ""
+        },
+        {
+          "url": "https://www.tengumai.co.jp/products/kizake/164.html",
+          "text": ""
+        },
+        {
+          "url": "https://www.tengumai.co.jp/products/junmai/252.html",
+          "text": ""
+        },
+        {
+          "url": "https://www.tengumai.co.jp/products/daiginjo/products#brand",
+          "text": ""
+        },
+        {
+          "url": "https://www.tengumai.co.jp/products/daiginjo/products#dish",
+          "text": ""
+        },
+        {
+          "url": "https://www.tengumai.co.jp/products/daiginjo/sake",
+          "text": ""
+        },
+        {
+          "url": "https://www.tengumai.co.jp/products/daiginjo/kura",
+          "text": ""
+        },
+        {
+          "url": "https://www.tengumai.co.jp/products/daiginjo/products",
+          "text": ""
+        },
+        {
+          "url": "https://www.tengumai.co.jp/products/daiginjo/sake?id=companyvideo",
+          "text": ""
+        },
+        {
+          "url": "https://www.tengumai.co.jp/products/daiginjo/33.html#pghead",
+          "text": ""
+        },
+        {
+          "url": "https://tengumai.jp/",
+          "text": "天狗舞オリジナル商品ネット通販"
+        },
+        {
+          "url": "https://www.tengumai.co.jp/products/daiginjo/kura?id=cont03",
+          "text": "会社概要"
+        },
+        {
+          "url": "https://www.tengumai.co.jp/products/daiginjo/privacy",
+          "text": "個人情報保護方針"
+        },
+        {
+          "url": "https://www.tengumai.co.jp/products/daiginjo/contact",
+          "text": "お問い合わせ"
+        }
+      ]
+    },
+    {
+      "brewery": "車多酒造",
+      "sourceUrl": "https://tengumai.jp/SHOP/TG-001.html",
+      "retrieved": true,
+      "status": 200,
+      "links": [
+        {
+          "url": "https://tengumai.jp/SHOP/180177/list.html",
+          "text": "清酒"
+        },
+        {
+          "url": "https://tengumai.jp/SHOP/180181/list.html",
+          "text": "shu re(お酒と化粧品）"
+        },
+        {
+          "url": "https://tengumai.jp/SHOP/TG-014.html",
+          "text": "【人気ランキング第1位】【オンラインショップ限定商品】若手蔵人がおすすめするはじめての天狗舞セット【送料無料】"
+        },
+        {
+          "url": "https://tengumai.jp/SHOP/TG-003.html",
+          "text": "天狗舞 蔵元限定酒 山廃純米大吟醸 LIMITED 2026BY"
+        },
+        {
+          "url": "https://tengumai.jp/SHOP/TG-023.html",
+          "text": "天狗舞 オンラインショップ限定【要冷蔵】微発泡性生酒 TEN mousseux(テンムスー) 300ml 6本セット【送料無料】"
+        },
+        {
+          "url": "https://tengumai.jp/hpgen/HPB/entries/1.html",
+          "text": "酒類販売管理者標識"
+        }
+      ]
+    },
+    {
+      "brewery": "土佐酒造",
+      "sourceUrl": "https://www.keigetsu.co.jp/products/p_karakuchi60",
+      "retrieved": true,
+      "status": 200,
+      "links": [
+        {
+          "url": "https://www.keigetsu.co.jp/sitemap",
+          "text": "サイトマップ"
+        },
+        {
+          "url": "https://www.keigetsu.co.jp/products/p_karakuchi60#",
+          "text": "日本語"
+        },
+        {
+          "url": "https://www.keigetsu.co.jp/en/products/p_karakuchi60-en",
+          "text": "English"
+        },
+        {
+          "url": "https://www.keigetsu.co.jp/profile",
+          "text": "酒蔵紹介"
+        },
+        {
+          "url": "https://www.keigetsu.co.jp/profile/the-origin-of-keigetsu",
+          "text": "銘酒「桂月」名前の由来"
+        },
+        {
+          "url": "https://www.keigetsu.co.jp/profile/hankyudensha",
+          "text": "『阪急電車』に登場する土佐の地酒「桂月」"
+        },
+        {
+          "url": "https://www.keigetsu.co.jp/category/brewing",
+          "text": "酒造りの風景"
+        },
+        {
+          "url": "https://www.keigetsu.co.jp/products",
+          "text": "商品一覧"
+        },
+        {
+          "url": "https://www.keigetsu.co.jp/products/sommelier_comment1",
+          "text": "谷宣英ソムリエのコメントから選ぶ"
+        },
+        {
+          "url": "https://www.keigetsu.co.jp/products/p_nature",
+          "text": "桂月 Sake Nature"
+        },
+        {
+          "url": "https://www.keigetsu.co.jp/products/p_daiginjo40",
+          "text": "桂月 吟之夢 純米大吟醸 40"
+        },
+        {
+          "url": "https://www.keigetsu.co.jp/products/p_daiginjo45",
+          "text": "桂月 吟之夢 純米大吟醸 45"
+        },
+        {
+          "url": "https://www.keigetsu.co.jp/products/p_daiginjo50",
+          "text": "桂月 吟之夢 純米大吟醸 50"
+        },
+        {
+          "url": "https://www.keigetsu.co.jp/products/p_cel24_50",
+          "text": "桂月 CEL24®純米大吟醸 50"
+        },
+        {
+          "url": "https://www.keigetsu.co.jp/products/p_nigori_50",
+          "text": "桂月 にごり 純米大吟醸 50"
+        },
+        {
+          "url": "https://www.keigetsu.co.jp/products/p_ginnoyume55",
+          "text": "桂月 吟之夢 純米吟醸酒 55"
+        },
+        {
+          "url": "https://www.keigetsu.co.jp/products/p_aikawahomare58",
+          "text": "桂月 相川譽 山廃純米酒 58"
+        },
+        {
+          "url": "https://www.keigetsu.co.jp/products/p_karakuchi60",
+          "text": "桂月 超辛口 特別純米酒 60"
+        },
+        {
+          "url": "https://www.keigetsu.co.jp/products/p_ginnoyume60",
+          "text": "桂月 吟之夢 特別本醸造 60"
+        },
+        {
+          "url": "https://www.keigetsu.co.jp/products/p_hao",
+          "text": "桂月 スパークリング酒 好 (Hao)"
+        },
+        {
+          "url": "https://www.keigetsu.co.jp/products/p_sparkling",
+          "text": "桂月 スパークリング酒 匠 (John)"
+        },
+        {
+          "url": "https://www.keigetsu.co.jp/products/p_kinpai",
+          "text": "金杯 桂月"
+        },
+        {
+          "url": "https://www.keigetsu.co.jp/products/p_ginpai",
+          "text": "銀杯 桂月"
+        },
+        {
+          "url": "https://www.keigetsu.co.jp/products/p_gensyu",
+          "text": "蔵出し原酒"
+        },
+        {
+          "url": "https://www.keigetsu.co.jp/products/p_namagensyu",
+          "text": "桂月 冬季限定 生原酒"
+        },
+        {
+          "url": "https://www.keigetsu.co.jp/products/p_yuzusake",
+          "text": "YUZU SAKE"
+        },
+        {
+          "url": "https://www.keigetsu.co.jp/restaurant_list/restourant_list_kantou",
+          "text": "日本酒「桂月」が飲めるお店（関東地方）"
+        },
+        {
+          "url": "https://www.keigetsu.co.jp/restaurant_list/restaurant_list_chubu",
+          "text": "日本酒「桂月」が飲めるお店（中部地方）"
+        },
+        {
+          "url": "https://www.keigetsu.co.jp/restaurant_list/restaurant_list_kansai",
+          "text": "日本酒「桂月」が飲めるお店（関西地方）"
+        },
+        {
+          "url": "https://www.keigetsu.co.jp/restaurant_list/restaurant_list_shikoku",
+          "text": "日本酒「桂月」が飲めるお店（高知県を除く四国地方）"
+        },
+        {
+          "url": "https://www.keigetsu.co.jp/restaurant_list/restaurant_list_kochi",
+          "text": "日本酒「桂月」が飲めるお店（高知県）"
+        },
+        {
+          "url": "https://www.keigetsu.co.jp/products/sommelier_comment1#profile",
+          "text": "プロフィール"
+        },
+        {
+          "url": "https://www.keigetsu.co.jp/en/products/p_karakuchi60-en",
+          "text": "英語"
+        },
+        {
+          "url": "https://twitter.com/keigetsu_sake",
+          "text": ""
+        },
+        {
+          "url": "https://www.keigetsu.co.jp/",
+          "text": "清酒 桂月 土佐酒造株式会社"
+        },
+        {
+          "url": "https://www.keigetsu.co.jp/products/p_karakuchi60#scroll-top",
+          "text": "↑"
+        }
+      ]
+    },
+    {
+      "brewery": "大七酒造",
+      "sourceUrl": "https://www.daishichi.com/sake/junmaikimoto.html",
+      "retrieved": true,
+      "status": 200,
+      "links": [
+        {
+          "url": "https://www.instagram.com/daishichisakebrewery/?hl=ja",
+          "text": "国際版"
+        },
+        {
+          "url": "https://www.instagram.com/daishichi_sake/?hl=ja",
+          "text": "日本版"
+        },
+        {
+          "url": "https://www.daishichi.com/sake/junmaikimoto.html#",
+          "text": "English"
+        },
+        {
+          "url": "https://www.daishichi.com/sake/junmaikimoto.html#",
+          "text": "Dutch"
+        },
+        {
+          "url": "https://www.daishichi.com/sake/junmaikimoto.html#",
+          "text": "French"
+        },
+        {
+          "url": "https://www.daishichi.com/sake/junmaikimoto.html#",
+          "text": "Korean"
+        },
+        {
+          "url": "https://www.daishichi.com/sake/junmaikimoto.html#",
+          "text": "Chinese (kan)"
+        },
+        {
+          "url": "https://www.daishichi.com/sake/junmaikimoto.html#",
+          "text": "Chinese (han)"
+        },
+        {
+          "url": "https://www.daishichi.com/#about",
+          "text": "大七酒造について"
+        },
+        {
+          "url": "https://www.daishichi.com/#ideals",
+          "text": "大七の酒造りの思想"
+        },
+        {
+          "url": "https://www.daishichi.com/ideals/#a",
+          "text": "酒造りの思想"
+        },
+        {
+          "url": "https://www.daishichi.com/ideals/#e",
+          "text": "高級純米酒の追求"
+        },
+        {
+          "url": "https://www.daishichi.com/#waza",
+          "text": "酒造りの技"
+        },
+        {
+          "url": "https://www.daishichi.com/waza/episode.html",
+          "text": "大七の酒造りをもっと知る"
+        },
+        {
+          "url": "https://www.daishichi.com/#sake",
+          "text": "大七の酒"
+        },
+        {
+          "url": "https://www.daishichi.com/sake/",
+          "text": "10の代表アイテムと料理とのマリアージュ"
+        },
+        {
+          "url": "https://www.daishichi.com/sake/grande-cuve.html",
+          "text": "妙花闌曲グランド・キュヴェ"
+        },
+        {
+          "url": "https://www.daishichi.com/sake/myoukarankyoku.html",
+          "text": "妙花闌曲"
+        },
+        {
+          "url": "https://www.daishichi.com/sake/horekidaishichi.html",
+          "text": "宝暦大七"
+        },
+        {
+          "url": "https://www.daishichi.com/sake/minowamon.html",
+          "text": "箕輪門"
+        },
+        {
+          "url": "https://www.daishichi.com/sake/kaiden.html",
+          "text": "皆伝"
+        },
+        {
+          "url": "https://www.daishichi.com/sake/rakutenmei.html",
+          "text": "楽天命"
+        },
+        {
+          "url": "https://www.daishichi.com/sake/junmaikimoto-classic.html",
+          "text": "純米生酛CLASSIC"
+        },
+        {
+          "url": "https://www.daishichi.com/sake/junmaikimoto.html",
+          "text": "純米生酛"
+        },
+        {
+          "url": "https://www.daishichi.com/sake/kimotoumeshu.html",
+          "text": "生酛梅酒"
+        },
+        {
+          "url": "https://www.daishichi.com/sake/honjokimoto.html",
+          "text": "本醸生酛"
+        },
+        {
+          "url": "https://www.instagram.com/daishichisakebrewery/?hl=ja",
+          "text": "Instagram 国際版"
+        },
+        {
+          "url": "https://www.instagram.com/daishichi_sake/?hl=ja",
+          "text": "Instagram 日本版"
+        },
+        {
+          "url": "https://www.daishichi.com/sake/",
+          "text": "代表銘柄と味わい"
+        },
+        {
+          "url": "https://www.daishichi.com/sake/junmaikimoto.html#",
+          "text": ""
+        },
+        {
+          "url": "https://www.daishichi.com/ideals/#a",
+          "text": "1.酒造りの思想"
+        },
+        {
+          "url": "https://www.daishichi.com/ideals/#e",
+          "text": "5.高級純米酒の追求"
+        }
+      ]
+    },
+    {
+      "brewery": "南部美人",
+      "sourceUrl": "https://www.nanbubijin.co.jp/sake/nihonshu/tokubetsu-junmai/tokubetsu_junmaishu/",
+      "retrieved": true,
+      "status": 200,
+      "links": [
+        {
+          "url": "https://www.nanbubijin.co.jp/sake/nihonshu/tokubetsu-junmai/tokubetsu_junmaishu/#",
+          "text": "MENU"
+        },
+        {
+          "url": "https://www.nanbubijin.co.jp/sake/nihonshu/tokubetsu-junmai/tokubetsu_junmaishu/#",
+          "text": ""
+        },
+        {
+          "url": "https://www.nanbubijin.jp/",
+          "text": "商品情報"
+        },
+        {
+          "url": "https://www.nanbubijin.jp/shopbrand/ct5/",
+          "text": "日本酒"
+        },
+        {
+          "url": "https://www.nanbubijin.co.jp/kodawari/",
+          "text": "南部美人の酒づくり"
+        },
+        {
+          "url": "https://www.nanbubijin.co.jp/kodawari/",
+          "text": "南部美人の酒づくりトップ"
+        },
+        {
+          "url": "https://www.nanbubijin.co.jp/kodawari/koubo-shubo/",
+          "text": "「酵母・酒母」編"
+        },
+        {
+          "url": "https://www.nanbubijin.co.jp/tsumikasane/whisky/",
+          "text": "日本酒の世界観を表現するジャパニーズウィスキー"
+        },
+        {
+          "url": "https://www.nanbubijin.co.jp/tsumikasane/120th-anniversary-sake/",
+          "text": "～120周年記念酒～"
+        },
+        {
+          "url": "https://www.nanbubijin.co.jp/tsumikasane/book/",
+          "text": "日本酒で”KANPAI”"
+        },
+        {
+          "url": "https://www.nanbubijin.co.jp/tsumikasane/superfrozen/",
+          "text": "スーパーフローズンの日本酒 誕生物語"
+        },
+        {
+          "url": "https://www.nanbubijin.co.jp/staff/",
+          "text": "酒造の人々"
+        },
+        {
+          "url": "https://www.instagram.com/nanbubijin_sake/?hl=ja",
+          "text": ""
+        },
+        {
+          "url": "https://www.nanbubijin.co.jp/sake/nihonshu/tokubetsu-junmai/tokubetsu_junmaishu/#wrapper",
+          "text": ""
+        },
+        {
+          "url": "https://www.nanbubijin.co.jp/sake/",
+          "text": "商品情報"
+        },
+        {
+          "url": "https://www.nanbubijin.co.jp/sake/lineup/nihonshu/",
+          "text": "日本酒"
+        },
+        {
+          "url": "https://www.nanbubijin.co.jp/sake/lineup/nihonshu/tokubetsu-junmai/",
+          "text": "特別純米酒"
+        },
+        {
+          "url": "https://www.nanbubijin.co.jp/products/",
+          "text": "商品情報"
+        },
+        {
+          "url": "https://www.nanbubijin.co.jp/sake/lineup/nihonshu/type/sparkling/",
+          "text": "スパークリング"
+        },
+        {
+          "url": "https://www.nanbubijin.co.jp/sake/lineup/nihonshu/type/junmai-daiginjo/",
+          "text": "純米大吟醸"
+        },
+        {
+          "url": "https://www.nanbubijin.co.jp/sake/lineup/nihonshu/type/beauty-series/",
+          "text": "純米大吟醸ビューティーシリーズ"
+        },
+        {
+          "url": "https://www.nanbubijin.co.jp/sake/lineup/nihonshu/type/junmai-ginjo/",
+          "text": "純米吟醸"
+        },
+        {
+          "url": "https://www.nanbubijin.co.jp/sake/lineup/nihonshu/type/tokubetsu-junmai/",
+          "text": "特別純米酒"
+        },
+        {
+          "url": "https://www.nanbubijin.co.jp/sake/lineup/nihonshu/type/daiginjo/",
+          "text": "大吟醸"
+        },
+        {
+          "url": "https://www.nanbubijin.co.jp/sake/lineup/nihonshu/type/ginjo/",
+          "text": "吟醸"
+        },
+        {
+          "url": "https://www.nanbubijin.co.jp/sake/lineup/nihonshu/type/junmai-shu/",
+          "text": "純米酒"
+        },
+        {
+          "url": "https://www.nanbubijin.co.jp/sake/lineup/nihonshu/type/honjozo/",
+          "text": "本醸造"
+        },
+        {
+          "url": "https://www.nanbubijin.co.jp/sake/lineup/nihonshu/type/special/",
+          "text": "特別な酒"
+        },
+        {
+          "url": "https://www.nanbubijin.co.jp/sake/lineup/nihonshu/type/normal/",
+          "text": "普通酒"
+        },
+        {
+          "url": "https://www.nanbubijin.co.jp/sake/lineup/liqueur/",
+          "text": "糖類無添加リキュール"
+        },
+        {
+          "url": "https://www.nanbubijin.co.jp/products/collaboration/",
+          "text": "コラボ商品"
+        },
+        {
+          "url": "https://www.nanbubijin.co.jp/contact?post_id=5164",
+          "text": "この商品について問い合わせる"
+        }
+      ]
+    },
+    {
+      "brewery": "南部美人",
+      "sourceUrl": "https://www.nanbubijin.jp/shopdetail/000000000073/",
+      "retrieved": true,
+      "status": 200,
+      "links": [
+        {
+          "url": "https://www.nanbubijin.jp/",
+          "text": "南部美人 蔵元直送 日本酒ネットショップ"
+        },
+        {
+          "url": "https://www.nanbubijin.jp/shopbrand/ct38/",
+          "text": "純米酒 秋あがり"
+        },
+        {
+          "url": "https://www.nanbubijin.jp/shopbrand/ct40/",
+          "text": "オーナー制の酒"
+        },
+        {
+          "url": "https://www.nanbubijin.jp/shopbrand/ct92/",
+          "text": "スパークリング日本酒"
+        },
+        {
+          "url": "https://www.nanbubijin.jp/shopbrand/ct48/",
+          "text": "南部美人スーパーフローズンの日本酒"
+        },
+        {
+          "url": "https://www.nanbubijin.jp/shopbrand/ct62/",
+          "text": "雄三スペシャル(純米酒)"
+        },
+        {
+          "url": "https://www.nanbubijin.jp/shopbrand/ct5/",
+          "text": "日本酒"
+        },
+        {
+          "url": "https://www.nanbubijin.jp/shopbrand/ct6/",
+          "text": "純米大吟醸"
+        },
+        {
+          "url": "https://www.nanbubijin.jp/shopbrand/ct7/",
+          "text": "純米吟醸"
+        },
+        {
+          "url": "https://www.nanbubijin.jp/shopbrand/ct9/",
+          "text": "特別純米酒"
+        },
+        {
+          "url": "https://www.nanbubijin.jp/shopbrand/ct34/",
+          "text": "純米酒"
+        },
+        {
+          "url": "https://www.nanbubijin.jp/shopbrand/ct10/",
+          "text": "大吟醸"
+        },
+        {
+          "url": "https://www.nanbubijin.jp/shopbrand/ct11/",
+          "text": "吟醸"
+        },
+        {
+          "url": "https://www.nanbubijin.jp/shopbrand/ct15/",
+          "text": "普通酒"
+        },
+        {
+          "url": "https://www.nanbubijin.jp/shopbrand/ct14/",
+          "text": "特別な酒"
+        },
+        {
+          "url": "https://www.nanbubijin.jp/shopbrand/ct32/",
+          "text": "コラボ商品"
+        },
+        {
+          "url": "https://www.nanbubijin.jp/shopdetail/000000000072/",
+          "text": "この商品の1800mlはこちら >>"
+        },
+        {
+          "url": "https://www.nanbubijin.jp/shopbrand/ct6/",
+          "text": "純米大吟醸のその他の商品はこちら >>"
+        },
+        {
+          "url": "https://twitter.com/share",
+          "text": "純米大吟醸 酒未来 720mlについてつぶやく"
+        },
+        {
+          "url": "https://www.nanbubijin.jp/shopdetail/000000000032/",
+          "text": "特別純米酒 1800ml [IWC Champion Sake 受賞！]"
+        },
+        {
+          "url": "https://www.nanbubijin.jp/shopdetail/000000000033/",
+          "text": "特別純米酒 720ml [IWC Champion Sake 受賞！]"
+        },
+        {
+          "url": "https://www.nanbubijin.jp/shopdetail/000000000024/",
+          "text": "純米大吟醸 心白 山田錦 720ml"
+        },
+        {
+          "url": "https://www.nanbubijin.jp/shopdetail/000000000023/",
+          "text": "純米大吟醸 心白 山田錦 1800ml"
+        },
+        {
+          "url": "https://www.nanbubijin.jp/shopdetail/000000000025/",
+          "text": "純米大吟醸 雄町 1800ml Kura Master 金賞"
+        },
+        {
+          "url": "https://www.nanbubijin.jp/shopdetail/000000000026/",
+          "text": "純米大吟醸 雄町 720ml Kura Master 金賞"
+        },
+        {
+          "url": "https://www.nanbubijin.jp/shopdetail/000000000072/",
+          "text": "純米大吟醸 酒未来 1800ml"
+        },
+        {
+          "url": "https://www.nanbubijin.jp/shopdetail/000000000021/",
+          "text": "純米大吟醸 愛山 1800ml"
+        },
+        {
+          "url": "https://www.nanbubijin.jp/shopdetail/000000000022/",
+          "text": "純米大吟醸 愛山 720ml"
+        }
+      ]
+    },
+    {
+      "brewery": "桃川",
+      "sourceUrl": "https://www.momokawa.co.jp/momokawaitem/",
+      "retrieved": false,
+      "status": null,
+      "links": []
+    },
+    {
+      "brewery": "男山",
+      "sourceUrl": "https://www.otokoyama.com/lineup/category01/",
+      "retrieved": true,
+      "status": 200,
+      "links": [
+        {
+          "url": "https://www.otokoyama.com/lineup/",
+          "text": "商品紹介"
+        },
+        {
+          "url": "https://www.otokoyama.com/museum/",
+          "text": "酒造り資料舘"
+        },
+        {
+          "url": "https://www.otokoyama.com/lineup/category02/",
+          "text": "定番商品"
+        },
+        {
+          "url": "https://www.otokoyama.com/lineup/category03/",
+          "text": "特徴のある商品"
+        },
+        {
+          "url": "https://www.otokoyama.com/lineup/category05/",
+          "text": "カップ酒"
+        },
+        {
+          "url": "https://www.otokoyama.com/lineup/category06/",
+          "text": "贈答品・樽酒"
+        },
+        {
+          "url": "https://www.otokoyama.com/blog/recommend/",
+          "text": "おすすめ商品"
+        }
+      ]
+    },
+    {
+      "brewery": "男山",
+      "sourceUrl": "https://www.otokoyama.com/lineup/category03/",
+      "retrieved": true,
+      "status": 200,
+      "links": [
+        {
+          "url": "https://www.otokoyama.com/lineup/",
+          "text": "商品紹介"
+        },
+        {
+          "url": "https://www.otokoyama.com/museum/",
+          "text": "酒造り資料舘"
+        },
+        {
+          "url": "https://www.otokoyama.com/lineup/category03/",
+          "text": "特徴のある商品"
+        },
+        {
+          "url": "https://otokoyama.shop/shopdetail/000000000154/",
+          "text": "商品購入はこちら"
+        },
+        {
+          "url": "https://otokoyama.shop/shopdetail/000000000124/",
+          "text": "商品購入はこちら"
+        },
+        {
+          "url": "https://www.otokoyama.com/lineup/category02/",
+          "text": "定番商品"
+        },
+        {
+          "url": "https://www.otokoyama.com/lineup/category05/",
+          "text": "カップ酒"
+        },
+        {
+          "url": "https://www.otokoyama.com/lineup/category06/",
+          "text": "贈答品・樽酒"
+        },
+        {
+          "url": "https://www.otokoyama.com/blog/recommend/",
+          "text": "おすすめ商品"
+        }
+      ]
+    },
+    {
+      "brewery": "白鶴酒造",
+      "sourceUrl": "https://www.hakutsuru.co.jp/product/sake/daiginjo/05702.html",
+      "retrieved": true,
+      "status": 200,
+      "links": [
+        {
+          "url": "https://www.hakutsuru.co.jp/product/",
+          "text": "商品ラインアップ"
+        },
+        {
+          "url": "https://www.hakutsuru-sake.com/",
+          "text": "USA"
+        },
+        {
+          "url": "https://www.hakutsuru-sake.com/europe/",
+          "text": "Europe"
+        },
+        {
+          "url": "https://www.hakutsuru-sake.com/china/",
+          "text": "China"
+        },
+        {
+          "url": "https://twitter.com/hakutsuru_sake",
+          "text": ""
+        },
+        {
+          "url": "https://www.hakutsuru.co.jp/product/sake/",
+          "text": "日本酒"
+        },
+        {
+          "url": "https://www.hakutsuru.co.jp/product/sake/daiginjo/",
+          "text": "大吟醸"
+        },
+        {
+          "url": "https://www.hakutsuru.co.jp/product/sake/daiginjo/05702.html",
+          "text": "白鶴 純米大吟醸"
+        },
+        {
+          "url": "https://www.e-hakutsuru.com/products/5702?utm_source=official_item&utm_medium=shoplink",
+          "text": "オンラインショップ"
+        },
+        {
+          "url": "https://www.hakutsuru.co.jp/recipe/drink_sake/C3-091.html",
+          "text": "ブラッディー・マリコ"
+        },
+        {
+          "url": "https://www.hakutsuru.co.jp/recipe/",
+          "text": "酒のおともレシピへ"
+        },
+        {
+          "url": "https://www.hakutsuru.co.jp/product/cookingsake/",
+          "text": "料理酒・みりん"
+        },
+        {
+          "url": "https://www.hakutsuru.co.jp/product/others/",
+          "text": "その他のお酒"
+        },
+        {
+          "url": "https://www.hakutsuru.co.jp/product/sake/daiginjo/05702.html#pagetop",
+          "text": ""
+        },
+        {
+          "url": "https://www.hakutsuru.co.jp/sitemap/",
+          "text": "サイトマップ"
+        }
+      ]
+    },
+    {
+      "brewery": "菊正宗酒造",
+      "sourceUrl": "https://www.kikumasamune.co.jp/products/taru/334_juntaru_1_8.html",
+      "retrieved": true,
+      "status": 200,
+      "links": [
+        {
+          "url": "https://www.kikumasamune.co.jp/products/",
+          "text": "商品紹介"
+        },
+        {
+          "url": "https://www.kikumasamune.co.jp/study/",
+          "text": "日本酒を学ぶ"
+        },
+        {
+          "url": "https://www.kikumasamune.co.jp/kinenkan/",
+          "text": "酒造記念館"
+        },
+        {
+          "url": "https://www.kikumasamune.co.jp/user/",
+          "text": "料飲店・酒販店の皆様へ"
+        },
+        {
+          "url": "https://www.kikumasamune.co.jp/sitemap.html",
+          "text": "サイトマップ"
+        },
+        {
+          "url": "https://www.kikumasamune.co.jp/kimoto/index.html",
+          "text": "酒の原点 生酛WEB"
+        },
+        {
+          "url": "https://www.kikumasamune.co.jp/products/brand/taru/",
+          "text": "樽酒ブランドサイト"
+        },
+        {
+          "url": "https://www.kikumasamune.co.jp/products/taru.html",
+          "text": "樽酒"
+        },
+        {
+          "url": "https://www.kikumasamune.co.jp/products/",
+          "text": "新商品"
+        },
+        {
+          "url": "https://www.kikumasamune.co.jp/products/tokutei.html",
+          "text": "吟醸酒・純米酒・本醸造酒"
+        },
+        {
+          "url": "https://www.kikumasamune.co.jp/products/kimoto.html",
+          "text": "生酛造りのお酒"
+        },
+        {
+          "url": "https://www.kikumasamune.co.jp/products/standard.html",
+          "text": "普通酒"
+        },
+        {
+          "url": "https://www.kikumasamune.co.jp/products/present.html",
+          "text": "贈答・お祝い"
+        },
+        {
+          "url": "https://www.kikumasamune.co.jp/products/shochu_liqueur.html",
+          "text": "焼酎・リキュール"
+        },
+        {
+          "url": "https://www.kikumasamune.co.jp/products/cosme.html",
+          "text": "化粧品"
+        },
+        {
+          "url": "https://www.kikumasamune.co.jp/products/other.html",
+          "text": "食品・その他"
+        },
+        {
+          "url": "https://www.kikumasamune.co.jp/products/",
+          "text": ""
+        },
+        {
+          "url": "https://www.kikumasamune.co.jp/sitemap.html",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "brewery": "福光屋",
+      "sourceUrl": "https://www.fukumitsuya.co.jp/sake/kagatobi/",
+      "retrieved": true,
+      "status": 200,
+      "links": [
+        {
+          "url": "https://www.fukumitsuya.co.jp/sake/kuroobi/",
+          "text": "黒帯"
+        },
+        {
+          "url": "https://www.fukumitsuya.co.jp/sake/kagatobi/",
+          "text": "加賀鳶"
+        },
+        {
+          "url": "https://www.fukumitsuya.co.jp/sake/kazeyomizuyohitoyo/",
+          "text": "風よ水よ人よ"
+        },
+        {
+          "url": "https://www.fukumitsuya.co.jp/sake/kyoka/",
+          "text": "鏡花"
+        },
+        {
+          "url": "https://www.fukumitsuya.co.jp/sake/fukumasamune/",
+          "text": "福正宗"
+        },
+        {
+          "url": "https://www.fukumitsuya.co.jp/sake/mizuho/",
+          "text": "瑞秀"
+        },
+        {
+          "url": "https://www.fukumitsuya.co.jp/sake/hatsugokoro/",
+          "text": "初心"
+        },
+        {
+          "url": "https://www.fukumitsuya.co.jp/sake/momotose/",
+          "text": "百々登勢"
+        },
+        {
+          "url": "https://www.fukumitsuya.co.jp/sake/fromthecellar/",
+          "text": "フロム・ザ・セラー"
+        },
+        {
+          "url": "https://www.fukumitsuya.co.jp/sake/inoritominori/",
+          "text": "禱と稔"
+        },
+        {
+          "url": "https://www.fukumitsuya.co.jp/sake/omborato/",
+          "text": "えじゃのんおんぼらぁと"
+        },
+        {
+          "url": "https://www.fukumitsuya.co.jp/sake/kanazawabeauty/",
+          "text": "金沢美人"
+        },
+        {
+          "url": "https://www.fukumitsuya.co.jp/sake/suppin/",
+          "text": "すっぴん"
+        },
+        {
+          "url": "https://www.fukumitsuya.co.jp/sake/",
+          "text": "もっと詳しく"
+        },
+        {
+          "url": "https://www.fukumitsuya.co.jp/foods/amazake/",
+          "text": "糀甘酒"
+        },
+        {
+          "url": "https://www.fukumitsuya.co.jp/foods/sweets/",
+          "text": "酒蔵のスイーツ"
+        },
+        {
+          "url": "https://www.fukumitsuya.co.jp/foods/amazake-hellokitty/",
+          "text": "ぴんくのりんご甘酒（販売終了）"
+        },
+        {
+          "url": "https://www.fukumitsuya.co.jp/about/",
+          "text": "福光屋の酒造り"
+        },
+        {
+          "url": "https://www.fukumitsuya.co.jp/about/glossary/",
+          "text": "酒造り用語集"
+        },
+        {
+          "url": "https://www.fukumitsuya.co.jp/about/process/",
+          "text": "純米酒ができるまで"
+        },
+        {
+          "url": "https://www.fukumitsuya.co.jp/about/calendar/",
+          "text": "酒蔵暦"
+        },
+        {
+          "url": "https://www.fukumitsuya.com/products/sakestory/?ad_code=official_ec",
+          "text": "福光屋のはなし"
+        },
+        {
+          "url": "https://www.fukumitsuya.co.jp/sake-shop/kanazawa/",
+          "text": "福光屋 金沢店"
+        },
+        {
+          "url": "https://www.fukumitsuya.co.jp/sake-shop/higashi/",
+          "text": "福光屋 ひがし"
+        },
+        {
+          "url": "https://www.fukumitsuya.co.jp/sake-shop/tamagawa/",
+          "text": "福光屋 玉川店"
+        },
+        {
+          "url": "https://www.fukumitsuya.co.jp/sake-shop/midtown/",
+          "text": "福光屋 東京ミッドタウン店"
+        },
+        {
+          "url": "https://www.fukumitsuya.co.jp/sake-shop/",
+          "text": "店舗一覧"
+        },
+        {
+          "url": "https://www.fukumitsuya.co.jp/junmaisengen/",
+          "text": "純米蔵宣言"
+        },
+        {
+          "url": "https://www.fukumitsuya.co.jp/guidedtour/",
+          "text": "酒蔵見学のご案内"
+        },
+        {
+          "url": "https://www.instagram.com/fukumitsuya_sake/",
+          "text": ""
+        },
+        {
+          "url": "https://www.fukumitsuya.co.jp/sake/",
+          "text": "福光屋の酒"
+        },
+        {
+          "url": "https://www.fukumitsuya.com/products/item/b-kagatobi/?ad_code=official_ec",
+          "text": "公式通販"
+        },
+        {
+          "url": "https://shop.fukumitsuya.com/products/4643?ad_code=official_ec",
+          "text": "公式通販"
+        },
+        {
+          "url": "https://shop.fukumitsuya.com/products/4646?ad_code=official_ec",
+          "text": "公式通販"
+        },
+        {
+          "url": "https://shop.fukumitsuya.com/products/4379?ad_code=official_ec",
+          "text": "公式通販"
+        },
+        {
+          "url": "https://shop.fukumitsuya.com/products/3618?ad_code=official_ec",
+          "text": "公式通販"
+        },
+        {
+          "url": "https://shop.fukumitsuya.com/products/3605?ad_code=official_ec",
+          "text": "公式通販"
+        },
+        {
+          "url": "https://item.rakuten.co.jp/fukumitsuya-shop/29840/",
+          "text": "楽天公式"
+        },
+        {
+          "url": "https://shop.fukumitsuya.com/products/3729?ad_code=official_ec",
+          "text": "公式通販"
+        },
+        {
+          "url": "https://item.rakuten.co.jp/fukumitsuya-shop/28060/",
+          "text": "楽天公式"
+        },
+        {
+          "url": "https://shop.fukumitsuya.com/products/3614?ad_code=official_ec",
+          "text": "公式通販"
+        },
+        {
+          "url": "https://item.rakuten.co.jp/fukumitsuya-shop/29440/",
+          "text": "楽天公式"
+        },
+        {
+          "url": "https://shop.fukumitsuya.com/products/3303?ad_code=official_ec",
+          "text": "公式通販"
+        },
+        {
+          "url": "https://shop.fukumitsuya.com/products/3731?ad_code=official_ec",
+          "text": "公式通販"
+        },
+        {
+          "url": "https://item.rakuten.co.jp/fukumitsuya-shop/28124/",
+          "text": "楽天公式"
+        },
+        {
+          "url": "https://shop.fukumitsuya.com/products/4492?ad_code=official_ec",
+          "text": "公式通販"
+        },
+        {
+          "url": "https://item.rakuten.co.jp/fukumitsuya-shop/28445/",
+          "text": "楽天公式"
+        },
+        {
+          "url": "https://shop.fukumitsuya.com/products/2496?ad_code=official_ec",
+          "text": "公式通販"
+        },
+        {
+          "url": "https://shop.fukumitsuya.com/products/3313?ad_code=official_ec",
+          "text": "公式通販"
+        },
+        {
+          "url": "https://item.rakuten.co.jp/fukumitsuya-shop/28745/",
+          "text": "楽天公式"
+        },
+        {
+          "url": "https://shop.fukumitsuya.com/products/3993?ad_code=official_ec",
+          "text": "公式通販"
+        },
+        {
+          "url": "https://shop.fukumitsuya.com/products/3347?ad_code=official_ec",
+          "text": "公式通販"
+        },
+        {
+          "url": "https://item.rakuten.co.jp/fukumitsuya-shop/29540/",
+          "text": "楽天公式"
+        },
+        {
+          "url": "https://shop.fukumitsuya.com/products/3350?ad_code=official_ec",
+          "text": "公式通販"
+        },
+        {
+          "url": "https://shop.fukumitsuya.com/products/3579?ad_code=official_ec",
+          "text": "公式通販"
+        },
+        {
+          "url": "https://item.rakuten.co.jp/fukumitsuya-shop/88144/",
+          "text": "楽天公式"
+        },
+        {
+          "url": "https://www.fukumitsuya.co.jp/sake/",
+          "text": "ブランド一覧"
+        },
+        {
+          "url": "https://www.fukumitsuya.com/products/sakestory/?ad_code=official_ec",
+          "text": ""
+        },
+        {
+          "url": "https://www.instagram.com/fukumitsuya_sake/",
+          "text": "INSTAGRAM"
+        },
+        {
+          "url": "https://www.fukumitsuya.co.jp/sake-shop/",
+          "text": "直営店一覧"
+        },
+        {
+          "url": "https://www.fukumitsuya.co.jp/sitemap/",
+          "text": "サイトマップ"
+        },
+        {
+          "url": "https://www.fukumitsuya.co.jp/sake/kagatobi/#",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "brewery": "賀茂鶴酒造",
+      "sourceUrl": "https://shop.kamotsuru.jp/SHOP/tokutou1800.html",
+      "retrieved": true,
+      "status": 200,
+      "links": [
+        {
+          "url": "https://shop.kamotsuru.jp/SHOP/346440/346444/list.html",
+          "text": "大吟醸・吟醸"
+        },
+        {
+          "url": "https://shop.kamotsuru.jp/SHOP/346440/346523/list.html",
+          "text": "特別本醸造・本醸造酒"
+        },
+        {
+          "url": "https://shop.kamotsuru.jp/SHOP/346440/346525/list.html",
+          "text": "純米大吟醸・純米吟醸"
+        },
+        {
+          "url": "https://shop.kamotsuru.jp/SHOP/346440/346526/list.html",
+          "text": "純米酒"
+        },
+        {
+          "url": "https://shop.kamotsuru.jp/SHOP/346440/346524/list.html",
+          "text": "生貯蔵酒"
+        },
+        {
+          "url": "https://shop.kamotsuru.jp/SHOP/346440/346518/list.html",
+          "text": "にごり酒"
+        },
+        {
+          "url": "https://shop.kamotsuru.jp/SHOP/346440/346520/list.html",
+          "text": "普通酒"
+        },
+        {
+          "url": "https://shop.kamotsuru.jp/SHOP/346440/346522/list.html",
+          "text": "樽・壺詰・角樽・樽酒"
+        },
+        {
+          "url": "https://shop.kamotsuru.jp/SHOP/346440/346527/list.html",
+          "text": "蔵元限定酒"
+        },
+        {
+          "url": "https://shop.kamotsuru.jp/SHOP/346440/346519/list.html",
+          "text": "季節限定酒"
+        },
+        {
+          "url": "https://shop.kamotsuru.jp/SHOP/346440/346521/list.html",
+          "text": "梅酒"
+        },
+        {
+          "url": "https://shop.kamotsuru.jp/SHOP/346441/346462/list.html",
+          "text": "冷酒にオススメ"
+        },
+        {
+          "url": "https://shop.kamotsuru.jp/SHOP/346441/346463/list.html",
+          "text": "燗酒にオススメ"
+        },
+        {
+          "url": "https://shop.kamotsuru.jp/SHOP/346441/346467/list.html",
+          "text": "コンテスト受賞酒"
+        },
+        {
+          "url": "https://shop.kamotsuru.jp/SHOP/346441/350856/list.html",
+          "text": "奉献酒（御供・棟上げ）"
+        },
+        {
+          "url": "https://shop.kamotsuru.jp/SHOP/346437/346508/list.html",
+          "text": "大吟醸 賀茂鶴天凛"
+        },
+        {
+          "url": "https://shop.kamotsuru.jp/SHOP/346437/346475/list.html",
+          "text": "大吟醸 吟凛雅"
+        },
+        {
+          "url": "https://shop.kamotsuru.jp/SHOP/346437/377705/list.html",
+          "text": "スパークリング清酒 賀茂鶴光壽"
+        },
+        {
+          "url": "https://shop.kamotsuru.jp/SHOP/346437/376549/list.html",
+          "text": "純米大吟醸 瑞兆賀茂鶴"
+        },
+        {
+          "url": "https://shop.kamotsuru.jp/SHOP/346437/346474/list.html",
+          "text": "大吟醸 吉祥賀茂鶴"
+        },
+        {
+          "url": "https://shop.kamotsuru.jp/SHOP/346437/346438/list.html",
+          "text": "大吟醸 双鶴賀茂鶴"
+        },
+        {
+          "url": "https://shop.kamotsuru.jp/SHOP/346437/346492/list.html",
+          "text": "大吟醸 特製ゴールド賀茂鶴"
+        },
+        {
+          "url": "https://shop.kamotsuru.jp/SHOP/346437/346476/list.html",
+          "text": "吟醸辛口"
+        },
+        {
+          "url": "https://shop.kamotsuru.jp/SHOP/346437/346514/list.html",
+          "text": "特別本醸造 超特撰特等酒"
+        },
+        {
+          "url": "https://shop.kamotsuru.jp/SHOP/346437/346488/list.html",
+          "text": "本醸造 上等酒"
+        },
+        {
+          "url": "https://shop.kamotsuru.jp/SHOP/346437/346473/list.html",
+          "text": "生貯蔵酒 冷温「蔵生」囲い"
+        },
+        {
+          "url": "https://shop.kamotsuru.jp/SHOP/346437/346485/list.html",
+          "text": "純米大吟醸 広島錦"
+        },
+        {
+          "url": "https://shop.kamotsuru.jp/SHOP/346437/346483/list.html",
+          "text": "純米大吟醸 大吟峰"
+        },
+        {
+          "url": "https://shop.kamotsuru.jp/SHOP/346437/346511/list.html",
+          "text": "純米吟醸酒"
+        },
+        {
+          "url": "https://shop.kamotsuru.jp/SHOP/346437/346470/list.html",
+          "text": "純米吟醸 一滴入魂"
+        },
+        {
+          "url": "https://shop.kamotsuru.jp/SHOP/346437/346498/list.html",
+          "text": "純米酒"
+        },
+        {
+          "url": "https://shop.kamotsuru.jp/SHOP/346437/346493/list.html",
+          "text": "純米生貯蔵酒 生囲い純米"
+        },
+        {
+          "url": "https://shop.kamotsuru.jp/SHOP/346437/346472/list.html",
+          "text": "純米うすにごり 元和夢幻の酒"
+        },
+        {
+          "url": "https://shop.kamotsuru.jp/SHOP/346437/346490/list.html",
+          "text": "樽酒"
+        },
+        {
+          "url": "https://shop.kamotsuru.jp/SHOP/346437/346499/list.html",
+          "text": "酒中在心シリーズ"
+        },
+        {
+          "url": "https://shop.kamotsuru.jp/SHOP/346440/346519/list.html",
+          "text": "【季節限定酒】"
+        },
+        {
+          "url": "https://shop.kamotsuru.jp/SHOP/346437/346503/list.html",
+          "text": "純米酒仕込 梅酒"
+        },
+        {
+          "url": "https://shop.kamotsuru.jp/SHOP/346437/346497/list.html",
+          "text": "純米吟醸古酒仕込 梅酒"
+        },
+        {
+          "url": "https://shop.kamotsuru.jp/SHOP/346437/346515/list.html",
+          "text": "酒粕"
+        },
+        {
+          "url": "https://shop.kamotsuru.jp/SHOP/sakekasu4kg.html",
+          "text": ""
+        },
+        {
+          "url": "https://www.kamotsuru.jp/item/",
+          "text": "TOP"
+        },
+        {
+          "url": "https://shop.kamotsuru.jp/SHOP/285800/list.html",
+          "text": "商品一覧"
+        },
+        {
+          "url": "https://shop.kamotsuru.jp/SHOP/346441/346756/list.html",
+          "text": "杜氏がオススメするお酒"
+        },
+        {
+          "url": "https://shop.kamotsuru.jp/SHOP/346441/346696/list.html",
+          "text": "毎日の晩酌にオススメのお酒 ５選"
+        },
+        {
+          "url": "https://shop.kamotsuru.jp/SHOP/346441/346463/list.html",
+          "text": "燗酒におすすめ"
+        },
+        {
+          "url": "https://shop.kamotsuru.jp/SHOP/349407/349421/list.html",
+          "text": "コンシェルジュのご提案-超特撰特等酒"
+        },
+        {
+          "url": "https://shop.kamotsuru.jp/SHOP/353735/list.html",
+          "text": "清酒"
+        },
+        {
+          "url": "https://www.instagram.com/kamotsuru_sake_brewing/",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "brewery": "奥の松酒造",
+      "sourceUrl": "https://www.okunomatsu.co.jp/product-page/junmai-13210",
+      "retrieved": true,
+      "status": 200,
+      "links": [
+        {
+          "url": "https://www.okunomatsu.co.jp/gallary",
+          "text": "酒蔵ギャラリー・工場見学"
+        },
+        {
+          "url": "https://www.okunomatsu.co.jp/tokusen-junmaiginjo",
+          "text": "特撰純米大吟醸"
+        },
+        {
+          "url": "https://www.okunomatsu.co.jp/adataraginjo",
+          "text": "あだたら吟醸"
+        },
+        {
+          "url": "https://www.okunomatsu.co.jp/category/new-item",
+          "text": "新商品"
+        },
+        {
+          "url": "https://www.okunomatsu.co.jp/category/award-winning",
+          "text": "賞受賞酒"
+        },
+        {
+          "url": "https://www.okunomatsu.co.jp/category/seasonal-items",
+          "text": "季節の限定品"
+        },
+        {
+          "url": "https://www.okunomatsu.co.jp/category/ginjo",
+          "text": "吟醸・大吟醸"
+        },
+        {
+          "url": "https://www.okunomatsu.co.jp/category/on-the-go",
+          "text": "純米吟醸・純米大吟醸"
+        },
+        {
+          "url": "https://www.okunomatsu.co.jp/category/junmai",
+          "text": "純米酒"
+        },
+        {
+          "url": "https://www.okunomatsu.co.jp/category/%E7%94%9F%E9%85%92%E3%83%BB%E7%94%9F%E8%B2%AF%E8%94%B5",
+          "text": "生酒・生貯蔵"
+        },
+        {
+          "url": "https://www.okunomatsu.co.jp/category/sparkling",
+          "text": "スパークリング日本酒"
+        },
+        {
+          "url": "https://www.okunomatsu.co.jp/category/%E3%83%AC%E3%82%AE%E3%83%A5%E3%83%A9%E3%83%BC%E9%85%92",
+          "text": "レギュラー酒"
+        },
+        {
+          "url": "https://www.okunomatsu.co.jp/category/lowa-lcohol-sake",
+          "text": "低アルコール日本酒"
+        },
+        {
+          "url": "https://www.okunomatsu.co.jp/category/mead",
+          "text": "蜂蜜酒（ミード）"
+        },
+        {
+          "url": "https://www.okunomatsu.co.jp/category/all-products",
+          "text": "商品一覧から探す"
+        },
+        {
+          "url": "https://www.okunomatsu.co.jp/category/all-products",
+          "text": "All Products"
+        },
+        {
+          "url": "https://www.okunomatsu.co.jp/product-page/twelve",
+          "text": "純米吟醸とえるぶ 12価格￥1,485"
+        },
+        {
+          "url": "https://www.okunomatsu.co.jp/product-page/umesyu",
+          "text": "梅酒価格￥1,320"
+        },
+        {
+          "url": "https://www.okunomatsu.co.jp/product-page/ginjo11205",
+          "text": "あだたら吟醸価格￥341"
+        },
+        {
+          "url": "https://www.okunomatsu.co.jp/product-page/hiyaoroshi",
+          "text": "秋の限定酒"
+        },
+        {
+          "url": "https://www.okunomatsu.co.jp/product-page/hiyaoroshi",
+          "text": "純米吟醸原酒ひやおろし価格￥660"
+        },
+        {
+          "url": "https://www.okunomatsu.co.jp/product-page/junmaiginjo-12201",
+          "text": "純米吟醸価格￥385"
+        },
+        {
+          "url": "https://www.okunomatsu.co.jp/product-page/junmai23312",
+          "text": "特別純米生原酒（本生）価格￥1,650"
+        },
+        {
+          "url": "https://www.okunomatsu.co.jp/product-page/yusa",
+          "text": "遊佐 純米吟醸価格￥1,342"
+        },
+        {
+          "url": "https://www.okunomatsu.co.jp/product-page/karakuchi-gensyu",
+          "text": "辛口原酒価格￥1,485"
+        },
+        {
+          "url": "https://www.okunomatsu.co.jp/product-page/ginjo-11135",
+          "text": "大吟醸価格￥990"
+        },
+        {
+          "url": "https://www.okunomatsu.co.jp/product-page/sparkling-22112",
+          "text": "純米大吟醸スパークリング価格￥699"
+        },
+        {
+          "url": "https://www.okunomatsu.co.jp/",
+          "text": "奥の松酒造株式会社"
+        },
+        {
+          "url": "https://www.instagram.com/okunomatsu_sake_brewery/",
+          "text": ""
+        },
+        {
+          "url": "https://www.okunomatsu.co.jp/category/all-products",
+          "text": "​商品一覧"
+        }
+      ]
+    },
+    {
+      "brewery": "白瀧酒造",
+      "sourceUrl": "https://www.jozen.co.jp/top/items/item.asp?id=11053&o=10801",
+      "retrieved": true,
+      "status": 200,
+      "links": [
+        {
+          "url": "https://www.jozen.co.jp/top/",
+          "text": "白瀧酒造 株式会社"
+        },
+        {
+          "url": "https://www.shirataki-flow.com/",
+          "text": "＞ 白瀧酒造直売店のご案内"
+        },
+        {
+          "url": "https://www.jozen.co.jp/top/shirataki_junmai.asp",
+          "text": "白瀧 純米"
+        },
+        {
+          "url": "https://www.jozen.co.jp/top/monthly.asp",
+          "text": "12ヶ月のお酒"
+        },
+        {
+          "url": "https://www.jozen.co.jp/top/history.asp",
+          "text": "白瀧酒造の歴史と越後湯沢"
+        },
+        {
+          "url": "https://www.jozen.co.jp/top/quality.asp",
+          "text": "白瀧酒造の酒造り・品質管理"
+        },
+        {
+          "url": "https://www.shirataki-flow.com/",
+          "text": "白瀧酒造直売店のご案内"
+        },
+        {
+          "url": "https://www.jozen.co.jp/blog/",
+          "text": "白瀧酒造情報配信サイト"
+        },
+        {
+          "url": "https://www.jozen.co.jp/top/items/item.asp?o=11054",
+          "text": "【季節限定】上善如水 ひやおろしセット 720ml×2本入り"
+        },
+        {
+          "url": "https://www.jozen.co.jp/top/items/item.asp?o=11055",
+          "text": "【季節限定】上善如水シーズンギフトセット(秋) 720ml×3本入り"
+        },
+        {
+          "url": "https://www.jozen.co.jp/top/items/item.asp?o=10795",
+          "text": "上善如水ギフトセット 720ml×3本入り"
+        },
+        {
+          "url": "https://www.jozen.co.jp/top/items/item.asp?o=10987",
+          "text": "上善如水ギフトセット（ベーシック） 720ml×2本入り"
+        },
+        {
+          "url": "https://www.jozen.co.jp/top/items/item.asp?o=10985",
+          "text": "純米酒ギフトセット 720ml×3本入り"
+        },
+        {
+          "url": "https://www.jozen.co.jp/top/items/item.asp?o=10799",
+          "text": "魚沼ギフトセット 720ml×2本入り"
+        },
+        {
+          "url": "https://www.jozen.co.jp/top/items/item.asp?o=10989",
+          "text": "上善如水×魚沼 飲み比べセット 300ml×4本入り"
+        },
+        {
+          "url": "https://www.jozen.co.jp/top/items/item.asp?o=11114",
+          "text": "白瀧・上善如水 3種飲み比べセット"
+        },
+        {
+          "url": "https://www.jozen.co.jp/top/items/item.asp?o=11012",
+          "text": "はちみつ由来酵母 by Jozen 純米"
+        },
+        {
+          "url": "https://www.jozen.co.jp/top/items/item.asp?o=11017",
+          "text": "ひやおろしの上善如水 純米吟醸"
+        },
+        {
+          "url": "https://www.jozen.co.jp/top/items/item.asp?o=11081",
+          "text": "月見酒の上善如水 純米大吟醸"
+        },
+        {
+          "url": "https://www.jozen.co.jp/top/items/item.asp?o=10801",
+          "text": "上善如水 純米吟醸"
+        },
+        {
+          "url": "https://www.jozen.co.jp/top/items/item.asp?o=10808",
+          "text": "上善如水 純米大吟醸"
+        },
+        {
+          "url": "https://www.jozen.co.jp/top/items/item.asp?o=10814",
+          "text": "上善如水 純米吟醸 生酒"
+        },
+        {
+          "url": "https://www.jozen.co.jp/top/items/item.asp?o=10812",
+          "text": "上善如水 スパークリング"
+        },
+        {
+          "url": "https://www.jozen.co.jp/top/items/item.asp?o=11073",
+          "text": "キウイ由来酵母 by Jozen 純米"
+        },
+        {
+          "url": "https://www.jozen.co.jp/top/items/item.asp?o=11006",
+          "text": "ロック酒 by Jozen 純米"
+        },
+        {
+          "url": "https://www.jozen.co.jp/top/items/item.asp?o=10834",
+          "text": "宣機の一本 純米大吟醸"
+        },
+        {
+          "url": "https://www.jozen.co.jp/top/items/item.asp?o=10830",
+          "text": "湊屋藤助 純米大吟醸"
+        },
+        {
+          "url": "https://www.jozen.co.jp/top/items/item.asp?o=11091",
+          "text": "淡麗辛口魚沼 純米大吟醸"
+        },
+        {
+          "url": "https://www.jozen.co.jp/top/items/item.asp?o=10843",
+          "text": "淡麗辛口 魚沼 純米"
+        },
+        {
+          "url": "https://www.jozen.co.jp/top/items/item.asp?o=11110",
+          "text": "【限定ラベル】淡麗辛口 魚沼 純米 若月選手応援ラベル"
+        },
+        {
+          "url": "https://www.jozen.co.jp/top/items/item.asp?o=10847",
+          "text": "濃醇 魚沼 純米"
+        },
+        {
+          "url": "https://www.jozen.co.jp/top/items/item.asp?o=10851",
+          "text": "白瀧 純米"
+        },
+        {
+          "url": "https://www.jozen.co.jp/top/items/item.asp?o=11112",
+          "text": "オールインワンジェル"
+        },
+        {
+          "url": "https://www.jozen.co.jp/top/items/item.asp?o=10880",
+          "text": "ハンドトリートメント オリジナル"
+        },
+        {
+          "url": "https://www.jozen.co.jp/top/items/item.asp?o=10882",
+          "text": "ハンドトリートメント ゆず"
+        },
+        {
+          "url": "https://www.jozen.co.jp/top/items/item.asp?o=10868",
+          "text": "ミルクエッセンスマスク"
+        },
+        {
+          "url": "https://www.jozen.co.jp/top/items/item.asp?o=10926",
+          "text": "【5～20％OFF】ミルクエッセンスマスクおまとめ買いセット"
+        },
+        {
+          "url": "https://www.jozen.co.jp/top/law.asp",
+          "text": "酒類販売管理者標識、特定商取引法に基づく表記"
+        },
+        {
+          "url": "https://www.jozen.co.jp/top/items/item.asp?id=11053&o=10801#pages",
+          "text": "▲ページの先頭へ"
+        }
+      ]
+    },
+    {
+      "brewery": "日本盛",
+      "sourceUrl": "https://www.nihonsakari.co.jp/products/p/327",
+      "retrieved": true,
+      "status": 200,
+      "links": [
+        {
+          "url": "https://www.nihonsakari.co.jp/products/search",
+          "text": "商品情報"
+        },
+        {
+          "url": "https://www.nihonsakari.co.jp/barecipe/",
+          "text": "お酒を楽しむ簡単レシピ"
+        },
+        {
+          "url": "https://www.nihonsakari.co.jp/products/1/0/1",
+          "text": ""
+        },
+        {
+          "url": "https://www.nihonsakari.co.jp/products/1/0/2",
+          "text": ""
+        },
+        {
+          "url": "https://www.nihonsakari.co.jp/products/1/0/3",
+          "text": ""
+        },
+        {
+          "url": "https://www.nihonsakari.co.jp/products/1/0/4",
+          "text": ""
+        },
+        {
+          "url": "https://www.nihonsakari.co.jp/products/1/0/5",
+          "text": ""
+        },
+        {
+          "url": "https://www.nihonsakari.co.jp/products/1/0/6",
+          "text": ""
+        },
+        {
+          "url": "https://www.nihonsakari.co.jp/products/1/0/7",
+          "text": ""
+        },
+        {
+          "url": "https://www.nihonsakari.co.jp/products/1/0/8",
+          "text": ""
+        },
+        {
+          "url": "https://www.nihonsakari.co.jp/products/1/1",
+          "text": ""
+        },
+        {
+          "url": "https://www.nihonsakari.co.jp/products/s/8",
+          "text": ""
+        },
+        {
+          "url": "https://www.nihonsakari.co.jp/products/s/1",
+          "text": ""
+        },
+        {
+          "url": "https://www.nihonsakari.co.jp/products/s/2",
+          "text": ""
+        },
+        {
+          "url": "https://www.nihonsakari.co.jp/products/s/3",
+          "text": ""
+        },
+        {
+          "url": "https://www.nihonsakari.co.jp/products/s/9",
+          "text": ""
+        },
+        {
+          "url": "https://www.nihonsakari.co.jp/products/s/11",
+          "text": ""
+        },
+        {
+          "url": "https://www.nihonsakari.co.jp/products/2/3",
+          "text": ""
+        },
+        {
+          "url": "https://www.nihonsakari.co.jp/products/2/2",
+          "text": ""
+        },
+        {
+          "url": "https://www.nihonsakari.co.jp/osakenotekiryou/pdf/seihin_alcohol.pdf",
+          "text": "商品の純アルコール量はこちらからご覧ください"
+        },
+        {
+          "url": "https://www.nihonsakari.co.jp/products/p/32",
+          "text": ""
+        },
+        {
+          "url": "https://www.nihonsakari.co.jp/products/p/328",
+          "text": ""
+        },
+        {
+          "url": "https://www.nihonsakari.co.jp/barecipe/",
+          "text": "お酒に合う簡単レシピ"
+        },
+        {
+          "url": "https://www.nihonsakari.co.jp/sitemap/",
+          "text": "サイトマップ"
+        },
+        {
+          "url": "https://www.nihonsakari.co.jp/products/p/327#header",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "brewery": "大関",
+      "sourceUrl": "https://www.ozeki.co.jp/product/nihonshu/yamadanishiki/",
+      "retrieved": true,
+      "status": 200,
+      "links": [
+        {
+          "url": "https://www.ozeki.co.jp/product/",
+          "text": "商品ラインナップ"
+        },
+        {
+          "url": "https://www.ozeki.co.jp/product/nihonshu/",
+          "text": "日本酒"
+        },
+        {
+          "url": "https://www.ozeki.co.jp/product/product/new/2025aw/",
+          "text": "2025年秋冬新商品"
+        },
+        {
+          "url": "https://www.ozeki.co.jp/product/product/new/2026ss/",
+          "text": "2026年春夏新商品"
+        },
+        {
+          "url": "https://www.ozeki.co.jp/product/product/new/2026aw/",
+          "text": "2026年秋冬新商品"
+        },
+        {
+          "url": "https://www.ozeki.co.jp/product/nihonshu/yamadanishiki/#",
+          "text": "日本酒"
+        },
+        {
+          "url": "https://www.ozeki.co.jp/product/umelique",
+          "text": "リキュール・梅酒"
+        },
+        {
+          "url": "https://www.ozeki.co.jp/product/mirinsake",
+          "text": "みりん・料理酒"
+        },
+        {
+          "url": "https://www.ozeki.co.jp/product/brand/hashtag-j/",
+          "text": "＃J 有機米使用純米酒"
+        }
+      ]
+    },
+    {
+      "brewery": "月桂冠",
+      "sourceUrl": "https://www.gekkeikan.co.jp/products/type01/horin_daiginjo/",
+      "retrieved": true,
+      "status": 200,
+      "links": [
+        {
+          "url": "https://www.gekkeikan.co.jp/products/",
+          "text": "商品情報"
+        },
+        {
+          "url": "https://www.gekkeikan.co.jp/products/all/#type01",
+          "text": "純米大吟醸酒、純米吟醸酒、大吟醸酒"
+        },
+        {
+          "url": "https://www.gekkeikan.co.jp/products/all/#type02",
+          "text": "特別純米酒、純米酒"
+        },
+        {
+          "url": "https://www.gekkeikan.co.jp/products/all/#type03",
+          "text": "本醸造酒"
+        },
+        {
+          "url": "https://www.gekkeikan.co.jp/products/all/#type04",
+          "text": "普通酒"
+        },
+        {
+          "url": "https://www.gekkeikan.co.jp/products/all/#type06",
+          "text": "生酒、にごり酒"
+        },
+        {
+          "url": "https://www.gekkeikan.co.jp/products/all/#type05",
+          "text": "機能性日本酒"
+        },
+        {
+          "url": "https://www.gekkeikan.co.jp/products/all/#type07",
+          "text": "スパークリング日本酒"
+        },
+        {
+          "url": "https://www.gekkeikan.co.jp/products/all/#type08",
+          "text": "角樽、樽詰、樽酒"
+        },
+        {
+          "url": "https://www.gekkeikan.co.jp/products/all/#type09",
+          "text": "季節・期間限定商品"
+        },
+        {
+          "url": "https://www.gekkeikan.co.jp/products/all/#type10",
+          "text": "リキュール、梅酒"
+        },
+        {
+          "url": "https://www.gekkeikan.co.jp/products/all/#type14",
+          "text": "日本酒テイスト飲料"
+        },
+        {
+          "url": "https://www.gekkeikan.co.jp/products/all/#type13",
+          "text": "その他の商品"
+        },
+        {
+          "url": "https://www.gekkeikan.co.jp/products/all/#type12",
+          "text": "輸入酒"
+        },
+        {
+          "url": "https://www.gekkeikan.co.jp/products/all/#type16",
+          "text": "料飲店向け商品"
+        },
+        {
+          "url": "https://www.gekkeikan.co.jp/products/all/#picUp",
+          "text": "日本酒"
+        },
+        {
+          "url": "https://www.gekkeikan.co.jp/products/",
+          "text": "商品情報トップ"
+        },
+        {
+          "url": "https://www.gekkeikan.co.jp/products/all/",
+          "text": "全商品一覧"
+        },
+        {
+          "url": "https://www.gekkeikan.co.jp/products/ingredient/",
+          "text": "栄養成分一覧"
+        },
+        {
+          "url": "https://www.gekkeikan.co.jp/enjoy/#sake",
+          "text": "清酒を知る"
+        },
+        {
+          "url": "https://www.gekkeikan.co.jp/enjoy/#industry",
+          "text": "酒の産業を知る"
+        },
+        {
+          "url": "https://www.gekkeikan.co.jp/enjoy/#culture",
+          "text": "酒の文化を知る"
+        },
+        {
+          "url": "https://www.gekkeikan.co.jp/enjoy/museum/",
+          "text": "酒ミュージアム"
+        },
+        {
+          "url": "https://www.gekkeikan.co.jp/sitemap.html",
+          "text": "サイトマップ"
+        },
+        {
+          "url": "https://www.gekkeikan.co.jp/products/all/#anc1",
+          "text": "日本酒"
+        },
+        {
+          "url": "https://www.gekkeikan.co.jp/products/type01/horin_daiginjo/",
+          "text": ""
+        },
+        {
+          "url": "https://www.gekkeikan.co.jp/products/type01/horin_daiginjo/",
+          "text": "鳳麟 純米大吟醸"
+        },
+        {
+          "url": "https://www.gekkeikan.co.jp/products/type01/horin_ginjo/",
+          "text": ""
+        },
+        {
+          "url": "https://www.gekkeikan.co.jp/products/type01/horin_ginjo/",
+          "text": "鳳麟 純米吟醸"
+        },
+        {
+          "url": "https://www.gekkeikan.co.jp/products/all/#type01",
+          "text": "純米大吟醸、純米吟醸酒、大吟醸酒"
+        },
+        {
+          "url": "https://www.gekkeikan.co.jp/products/all/#type10",
+          "text": "リキュール・梅酒"
+        },
+        {
+          "url": "https://www.gekkeikan.co.jp/products/all/#anc2",
+          "text": "輸入酒"
+        },
+        {
+          "url": "https://www.gekkeikan.co.jp/products/?#search",
+          "text": "カテゴリーから探す"
+        },
+        {
+          "url": "https://www.gekkeikan.co.jp/products/brand/?#search",
+          "text": "ブランドから探す"
+        },
+        {
+          "url": "https://www.gekkeikan.co.jp/products/search/?#search",
+          "text": "キーワードから探す"
+        },
+        {
+          "url": "https://twitter.com/gekkeikansake",
+          "text": ""
+        },
+        {
+          "url": "https://www.instagram.com/gekkeikansake_jp/",
+          "text": ""
+        },
+        {
+          "url": "https://www.gekkeikan.co.jp/products/type01/horin_daiginjo/#",
+          "text": ""
+        },
+        {
+          "url": "https://www.gekkeikan.co.jp/products/type01/horin_daiginjo/undefined",
+          "text": "はい"
+        }
+      ]
+    },
+    {
+      "brewery": "宝酒造",
+      "sourceUrl": "https://www.takarashuzo.co.jp/tkr-shohin/cmn_p_detail.php?p_prodid=2428",
+      "retrieved": true,
+      "status": 200,
+      "links": [
+        {
+          "url": "https://www.takarashuzo.co.jp/tkr-shohin/cmn_c_list.php",
+          "text": "商品情報（原材料など）"
+        },
+        {
+          "url": "https://www.takarashuzo.co.jp/tkr-shohin/cmn_b_list.php?p_CategID=1",
+          "text": "清酒"
+        }
+      ]
+    },
+    {
+      "brewery": "天吹酒造",
+      "sourceUrl": "https://www.amabuki.co.jp/sake/000162.php",
+      "retrieved": true,
+      "status": 200,
+      "links": [
+        {
+          "url": "https://www.amabuki.co.jp/sitemap.html",
+          "text": "サイトマップ"
+        },
+        {
+          "url": "https://www.amabuki.co.jp/",
+          "text": "天吹酒造"
+        },
+        {
+          "url": "https://www.amabuki.co.jp/sake/",
+          "text": "商品紹介"
+        },
+        {
+          "url": "https://www.amabuki.co.jp/tours/",
+          "text": "酒蔵見学"
+        },
+        {
+          "url": "https://www.amabuki.co.jp/sake/images/back%20graund%20exchenge/new%20jg%20ichigo%20.jpg",
+          "text": ""
+        },
+        {
+          "url": "https://www.amabuki.co.jp/sake/000163.php",
+          "text": "« 前へ"
+        },
+        {
+          "url": "https://www.amabuki.co.jp/sake/",
+          "text": "一覧"
+        },
+        {
+          "url": "https://www.amabuki.co.jp/sake/000168.php",
+          "text": "次へ »"
+        },
+        {
+          "url": "https://www.amabuki.co.jp/sake/000162.php#pagetop",
+          "text": "ページトップへ"
+        },
+        {
+          "url": "https://www.amabuki.co.jp/sake/",
+          "text": "商品のご紹介"
+        }
+      ]
+    },
+    {
+      "brewery": "五町田酒造",
+      "sourceUrl": "https://azumaichi.com/top/products/seishu/",
+      "retrieved": true,
+      "status": 200,
+      "links": [
+        {
+          "url": "https://azumaichi.com/",
+          "text": "五町田酒造 東一 （Azumaichi）"
+        },
+        {
+          "url": "https://azumaichi.com/top/passion/",
+          "text": "酒造りへの想い"
+        },
+        {
+          "url": "https://azumaichi.com/top/products/",
+          "text": "商品紹介"
+        },
+        {
+          "url": "https://azumaichi.com/top/about/",
+          "text": "五町田酒造について"
+        },
+        {
+          "url": "https://azumaichi.com/top/products/seishu/#1",
+          "text": "READ MORE"
+        },
+        {
+          "url": "https://azumaichi.com/top/products/seishu/#2",
+          "text": "READ MORE"
+        },
+        {
+          "url": "https://azumaichi.com/top/products/seishu/#3",
+          "text": "READ MORE"
+        },
+        {
+          "url": "https://azumaichi.com/top/products/seishu/#4",
+          "text": "READ MORE"
+        },
+        {
+          "url": "https://azumaichi.com/top/products/seishu/#5",
+          "text": "READ MORE"
+        },
+        {
+          "url": "https://azumaichi.com/top/products/seishu/#6",
+          "text": "READ MORE"
+        },
+        {
+          "url": "https://azumaichi.com/top/products/seishu/#7",
+          "text": "READ MORE"
+        },
+        {
+          "url": "https://azumaichi.com/top/products/seishu/#8",
+          "text": "READ MORE"
+        },
+        {
+          "url": "https://azumaichi.com/top/products/seishu/#9",
+          "text": "READ MORE"
+        }
+      ]
+    }
+  ]
+}

@@ -17593,5 +17593,620 @@
         "validUntil": "2026-11-17T13:25:55.946Z"
       }
     ]
+  },
+  "hakkaisan-jd-lineup-v1": {
+    "productFingerprint": "c5ef2ce6f92308056a971f043f1c028a7b9bcfec31d3032727c19955fe51f0f8",
+    "links": [
+      {
+        "sakeId": "hakkaisan-jd-lineup-v1",
+        "provider": "amazon",
+        "matchType": "search",
+        "destinationType": "search_results",
+        "isAffiliate": false,
+        "url": "https://www.amazon.co.jp/s?k=%E7%B4%94%E7%B1%B3%E5%A4%A7%E5%90%9F%E9%86%B8%20%E5%85%AB%E6%B5%B7%E5%B1%B1",
+        "label": "Amazonでこのお酒を探す",
+        "validUntil": "2026-11-19T04:55:09.130Z"
+      }
+    ]
+  },
+  "hakkaisan-daiginjo-lineup-v1": {
+    "productFingerprint": "88c9b49080a062e6cc537dddfb8cf1076eec1fc9c498ff8abdf90c2de827e01d",
+    "links": [
+      {
+        "sakeId": "hakkaisan-daiginjo-lineup-v1",
+        "provider": "amazon",
+        "matchType": "search",
+        "destinationType": "search_results",
+        "isAffiliate": false,
+        "url": "https://www.amazon.co.jp/s?k=%E5%A4%A7%E5%90%9F%E9%86%B8%20%E5%85%AB%E6%B5%B7%E5%B1%B1",
+        "label": "Amazonでこのお酒を探す",
+        "validUntil": "2026-11-19T04:55:09.130Z"
+      }
+    ]
+  },
+  "hakkaisan-seishu-lineup-v1": {
+    "productFingerprint": "a2a8726092f6821e821232de18bc5110bee9e4c37e533d9db9a50d0e57f62b99",
+    "links": [
+      {
+        "sakeId": "hakkaisan-seishu-lineup-v1",
+        "provider": "amazon",
+        "matchType": "search",
+        "destinationType": "search_results",
+        "isAffiliate": false,
+        "url": "https://www.amazon.co.jp/s?k=%E6%B8%85%E9%85%92%20%E5%85%AB%E6%B5%B7%E5%B1%B1",
+        "label": "Amazonでこのお酒を探す",
+        "validUntil": "2026-11-19T04:55:09.130Z"
+      }
+    ]
+  },
+  "masumi-kuro-lineup-v1": {
+    "productFingerprint": "193413febe5965ad3dbaeb866a337fe3aaaface454df01706856fe4fe8b56a9c",
+    "links": [
+      {
+        "sakeId": "masumi-kuro-lineup-v1",
+        "provider": "amazon",
+        "matchType": "search",
+        "destinationType": "search_results",
+        "isAffiliate": false,
+        "url": "https://www.amazon.co.jp/s?k=%E7%9C%9F%E6%BE%84%20%E6%BC%86%E9%BB%92%20KURO",
+        "label": "Amazonでこのお酒を探す",
+        "validUntil": "2026-11-19T04:55:09.130Z"
+      }
+    ]
+  },
+  "masumi-shiro-lineup-v1": {
+    "productFingerprint": "020407b4507677a7b470b973c9bbb9af11593b2639d5e74660384c95754ed3ab",
+    "links": [
+      {
+        "sakeId": "masumi-shiro-lineup-v1",
+        "provider": "amazon",
+        "matchType": "search",
+        "destinationType": "search_results",
+        "isAffiliate": false,
+        "url": "https://www.amazon.co.jp/s?k=%E7%9C%9F%E6%BE%84%20%E7%99%BD%E5%A6%99%20SHIRO",
+        "label": "Amazonでこのお酒を探す",
+        "validUntil": "2026-11-19T04:55:09.130Z"
+      }
+    ]
+  },
+  "masumi-kaya-lineup-v1": {
+    "productFingerprint": "4bf3a47971dc671a7e4086bba4774a737cd8d7640c98f89ede27b0583950cfb7",
+    "links": [
+      {
+        "sakeId": "masumi-kaya-lineup-v1",
+        "provider": "amazon",
+        "matchType": "search",
+        "destinationType": "search_results",
+        "isAffiliate": false,
+        "url": "https://www.amazon.co.jp/s?k=%E7%9C%9F%E6%BE%84%20%E8%8C%85%E8%89%B2%20KAYA",
+        "label": "Amazonでこのお酒を探す",
+        "validUntil": "2026-11-19T04:55:09.130Z"
+      }
+    ]
+  },
+  "ichinokura-mukansa-karakuchi-lineup-v1": {
+    "productFingerprint": "3a10a8aa5392d0a7ca16387defea9c2d3571319dab81092bfc006139e3865016",
+    "links": [
+      {
+        "sakeId": "ichinokura-mukansa-karakuchi-lineup-v1",
+        "provider": "amazon",
+        "matchType": "search",
+        "destinationType": "search_results",
+        "isAffiliate": false,
+        "url": "https://www.amazon.co.jp/s?k=%E4%B8%80%E3%83%8E%E8%94%B5%20%E7%84%A1%E9%91%91%E6%9F%BB%E6%9C%AC%E9%86%B8%E9%80%A0%20%E8%BE%9B%E5%8F%A3",
+        "label": "Amazonでこのお酒を探す",
+        "validUntil": "2026-11-19T04:55:09.130Z"
+      }
+    ]
+  },
+  "ichinokura-mukansa-chokarakuchi-lineup-v1": {
+    "productFingerprint": "88df3eca100cf70f5887ee4a59d280e9020db3814ec9b7d0d20d34044b314213",
+    "links": [
+      {
+        "sakeId": "ichinokura-mukansa-chokarakuchi-lineup-v1",
+        "provider": "amazon",
+        "matchType": "search",
+        "destinationType": "search_results",
+        "isAffiliate": false,
+        "url": "https://www.amazon.co.jp/s?k=%E4%B8%80%E3%83%8E%E8%94%B5%20%E7%84%A1%E9%91%91%E6%9F%BB%E6%9C%AC%E9%86%B8%E9%80%A0%20%E8%B6%85%E8%BE%9B%E5%8F%A3",
+        "label": "Amazonでこのお酒を探す",
+        "validUntil": "2026-11-19T04:55:09.130Z"
+      }
+    ]
+  },
+  "ichinokura-himezen-lineup-v1": {
+    "productFingerprint": "d340bf917aa072b2ed12bdf380085aab9a5747936eee1c1276694b4cebcf3ac8",
+    "links": [
+      {
+        "sakeId": "ichinokura-himezen-lineup-v1",
+        "provider": "amazon",
+        "matchType": "search",
+        "destinationType": "search_results",
+        "isAffiliate": false,
+        "url": "https://www.amazon.co.jp/s?k=%E4%B8%80%E3%83%8E%E8%94%B5%20%E3%81%B2%E3%82%81%E3%81%9C%E3%82%93",
+        "label": "Amazonでこのお酒を探す",
+        "validUntil": "2026-11-19T04:55:09.130Z"
+      }
+    ]
+  },
+  "urakasumi-karakuchi-lineup-v1": {
+    "productFingerprint": "4d5fe615da910366fa75451f3b137f4fb24e0320b5a9aaa0261c2fccc16591c4",
+    "links": [
+      {
+        "sakeId": "urakasumi-karakuchi-lineup-v1",
+        "provider": "amazon",
+        "matchType": "search",
+        "destinationType": "search_results",
+        "isAffiliate": false,
+        "url": "https://www.amazon.co.jp/s?k=%E3%81%8B%E3%82%89%E3%81%8F%E3%81%A1%20%E6%B5%A6%E9%9C%9E",
+        "label": "Amazonでこのお酒を探す",
+        "validUntil": "2026-11-19T04:55:09.130Z"
+      }
+    ]
+  },
+  "daishichi-kaiden-lineup-v1": {
+    "productFingerprint": "0ba6827c08ac9027a1ea848d5051b87de1b37259da30e858b8fbdb75d3bd0467",
+    "links": [
+      {
+        "sakeId": "daishichi-kaiden-lineup-v1",
+        "provider": "amazon",
+        "matchType": "search",
+        "destinationType": "search_results",
+        "isAffiliate": false,
+        "url": "https://www.amazon.co.jp/s?k=%E5%A4%A7%E4%B8%83%20%E7%9A%86%E4%BC%9D",
+        "label": "Amazonでこのお酒を探す",
+        "validUntil": "2026-11-19T04:55:09.130Z"
+      }
+    ]
+  },
+  "daishichi-minowamon-lineup-v1": {
+    "productFingerprint": "2bd894946ec0008bdfb94ba2edb035220d4839a1718696da43feedcda782fe10",
+    "links": [
+      {
+        "sakeId": "daishichi-minowamon-lineup-v1",
+        "provider": "amazon",
+        "matchType": "search",
+        "destinationType": "search_results",
+        "isAffiliate": false,
+        "url": "https://www.amazon.co.jp/s?k=%E5%A4%A7%E4%B8%83%20%E7%AE%95%E8%BC%AA%E9%96%80",
+        "label": "Amazonでこのお酒を探す",
+        "validUntil": "2026-11-19T04:55:09.130Z"
+      }
+    ]
+  },
+  "dewazakura-ichiko-lineup-v1": {
+    "productFingerprint": "7adf3e66de302e861788a6c6731aa9e0dd046ae478ad892f3d934d0d1a388903",
+    "links": [
+      {
+        "sakeId": "dewazakura-ichiko-lineup-v1",
+        "provider": "amazon",
+        "matchType": "search",
+        "destinationType": "search_results",
+        "isAffiliate": false,
+        "url": "https://www.amazon.co.jp/s?k=%E5%87%BA%E7%BE%BD%E6%A1%9C%20%E4%B8%80%E8%80%95",
+        "label": "Amazonでこのお酒を探す",
+        "validUntil": "2026-11-19T04:55:09.130Z"
+      }
+    ]
+  },
+  "dewazakura-tsuyahime-lineup-v1": {
+    "productFingerprint": "ee6d2fded4c3f63a12f29cb2e0b4993e9d9f55b60b53f26cb3221464b917f6d9",
+    "links": [
+      {
+        "sakeId": "dewazakura-tsuyahime-lineup-v1",
+        "provider": "amazon",
+        "matchType": "search",
+        "destinationType": "search_results",
+        "isAffiliate": false,
+        "url": "https://www.amazon.co.jp/s?k=%E5%87%BA%E7%BE%BD%E6%A1%9C%20%E3%81%A4%E3%82%84%E5%A7%AB",
+        "label": "Amazonでこのお酒を探す",
+        "validUntil": "2026-11-19T04:55:09.130Z"
+      }
+    ]
+  },
+  "ichinokura-suzune-lineup-v1": {
+    "productFingerprint": "6152c71637595f1966e3564c26eab491748305853099c0facaedf33c138364c7",
+    "links": [
+      {
+        "sakeId": "ichinokura-suzune-lineup-v1",
+        "provider": "amazon",
+        "matchType": "search",
+        "destinationType": "search_results",
+        "isAffiliate": false,
+        "url": "https://www.amazon.co.jp/s?k=%E4%B8%80%E3%83%8E%E8%94%B5%20%E7%99%BA%E6%B3%A1%E6%B8%85%E9%85%92%20%E3%81%99%E3%81%9A%E9%9F%B3",
+        "label": "Amazonでこのお酒を探す",
+        "validUntil": "2026-11-19T04:55:09.130Z"
+      }
+    ]
+  },
+  "urakasumi-honshikomi-lineup-v1": {
+    "productFingerprint": "4cfa6abd74cc48c9661747568853a9fc2a60925dac37c5ffe7dc49d97cf41913",
+    "links": [
+      {
+        "sakeId": "urakasumi-honshikomi-lineup-v1",
+        "provider": "amazon",
+        "matchType": "search",
+        "destinationType": "search_results",
+        "isAffiliate": false,
+        "url": "https://www.amazon.co.jp/s?k=%E6%9C%AC%E4%BB%95%E8%BE%BC%20%E6%B5%A6%E9%9C%9E",
+        "label": "Amazonでこのお酒を探す",
+        "validUntil": "2026-11-19T04:55:09.130Z"
+      }
+    ]
+  },
+  "kikusui-karakuchi-lineup-v1": {
+    "productFingerprint": "733b8379f6b87232da0ea11d13ca0294f0f59d4aa72b63d3edd539c056253a74",
+    "links": [
+      {
+        "sakeId": "kikusui-karakuchi-lineup-v1",
+        "provider": "amazon",
+        "matchType": "search",
+        "destinationType": "search_results",
+        "isAffiliate": false,
+        "url": "https://www.amazon.co.jp/s?k=%E8%8F%8A%E6%B0%B4%E3%81%AE%E8%BE%9B%E5%8F%A3",
+        "label": "Amazonでこのお酒を探す",
+        "validUntil": "2026-11-19T04:55:09.130Z"
+      }
+    ]
+  },
+  "kikusui-junmai-lineup-v1": {
+    "productFingerprint": "9996a9d2266c5b62fd0bca0cfd77c0492d1518b77f32b20e9802f7525128f996",
+    "links": [
+      {
+        "sakeId": "kikusui-junmai-lineup-v1",
+        "provider": "amazon",
+        "matchType": "search",
+        "destinationType": "search_results",
+        "isAffiliate": false,
+        "url": "https://www.amazon.co.jp/s?k=%E8%8F%8A%E6%B0%B4%E3%81%AE%E7%B4%94%E7%B1%B3%E9%85%92",
+        "label": "Amazonでこのお酒を探す",
+        "validUntil": "2026-11-19T04:55:09.130Z"
+      }
+    ]
+  },
+  "suigei-ginrei-lineup-v1": {
+    "productFingerprint": "c7357a4027c6cab50b48157baa8d666a5265ed0cc969cd539ac2d26016c8e442",
+    "links": [
+      {
+        "sakeId": "suigei-ginrei-lineup-v1",
+        "provider": "amazon",
+        "matchType": "search",
+        "destinationType": "search_results",
+        "isAffiliate": false,
+        "url": "https://www.amazon.co.jp/s?k=%E9%85%94%E9%AF%A8%20%E7%B4%94%E7%B1%B3%E5%90%9F%E9%86%B8%20%E5%90%9F%E9%BA%97",
+        "label": "Amazonでこのお酒を探す",
+        "validUntil": "2026-11-19T04:55:09.130Z"
+      }
+    ]
+  },
+  "suigei-koiku54-lineup-v1": {
+    "productFingerprint": "fb315dfae108beab37b7a8a42b1cc8a129705ab572b58244f2e1bed40f32c2f9",
+    "links": [
+      {
+        "sakeId": "suigei-koiku54-lineup-v1",
+        "provider": "amazon",
+        "matchType": "search",
+        "destinationType": "search_results",
+        "isAffiliate": false,
+        "url": "https://www.amazon.co.jp/s?k=%E9%85%94%E9%AF%A8%20%E7%B4%94%E7%B1%B3%E5%90%9F%E9%86%B8%20%E9%AB%98%E8%82%B254%E5%8F%B7",
+        "label": "Amazonでこのお酒を探す",
+        "validUntil": "2026-11-19T04:55:09.130Z"
+      }
+    ]
+  },
+  "tengumai-umajun-lineup-v1": {
+    "productFingerprint": "28a074eb0aa1482f80da8b3e22b753bd4c453eb164cf75fd521bc1b1fbc19233",
+    "links": [
+      {
+        "sakeId": "tengumai-umajun-lineup-v1",
+        "provider": "amazon",
+        "matchType": "search",
+        "destinationType": "search_results",
+        "isAffiliate": false,
+        "url": "https://www.amazon.co.jp/s?k=%E5%A4%A9%E7%8B%97%E8%88%9E%20%E6%97%A8%E9%86%87",
+        "label": "Amazonでこのお酒を探す",
+        "validUntil": "2026-11-19T04:55:09.130Z"
+      }
+    ]
+  },
+  "nanbubijin-jg-lineup-v1": {
+    "productFingerprint": "b9e1e48673683aa34551300beff28bc6bf8305bd9f7b3054e02748d8c8951606",
+    "links": [
+      {
+        "sakeId": "nanbubijin-jg-lineup-v1",
+        "provider": "amazon",
+        "matchType": "search",
+        "destinationType": "search_results",
+        "isAffiliate": false,
+        "url": "https://www.amazon.co.jp/s?k=%E5%8D%97%E9%83%A8%E7%BE%8E%E4%BA%BA%20%E7%B4%94%E7%B1%B3%E5%90%9F%E9%86%B8",
+        "label": "Amazonでこのお酒を探す",
+        "validUntil": "2026-11-19T04:55:09.130Z"
+      }
+    ]
+  },
+  "nanbubijin-jd-lineup-v1": {
+    "productFingerprint": "4e6a3538c2cad47455067ff390cdf7c72bde755ed4455eceb113e2f346a5d00c",
+    "links": [
+      {
+        "sakeId": "nanbubijin-jd-lineup-v1",
+        "provider": "amazon",
+        "matchType": "search",
+        "destinationType": "search_results",
+        "isAffiliate": false,
+        "url": "https://www.amazon.co.jp/s?k=%E5%8D%97%E9%83%A8%E7%BE%8E%E4%BA%BA%20%E7%B4%94%E7%B1%B3%E5%A4%A7%E5%90%9F%E9%86%B8",
+        "label": "Amazonでこのお酒を探す",
+        "validUntil": "2026-11-19T04:55:09.130Z"
+      }
+    ]
+  },
+  "hakutsuru-daiginjo-lineup-v1": {
+    "productFingerprint": "fb32398426dd077d349b992225944a5a8d19ffac6d779a5bfc14637f86006092",
+    "links": [
+      {
+        "sakeId": "hakutsuru-daiginjo-lineup-v1",
+        "provider": "amazon",
+        "matchType": "search",
+        "destinationType": "search_results",
+        "isAffiliate": false,
+        "url": "https://www.amazon.co.jp/s?k=%E7%99%BD%E9%B6%B4%20%E5%A4%A7%E5%90%9F%E9%86%B8",
+        "label": "Amazonでこのお酒を探す",
+        "validUntil": "2026-11-19T04:55:09.130Z"
+      }
+    ]
+  },
+  "kikumasamune-kaho-lineup-v1": {
+    "productFingerprint": "8d5790481c996c5f679420a2bc448f8cfed53158fd66d5c30536cee05ad39baf",
+    "links": [
+      {
+        "sakeId": "kikumasamune-kaho-lineup-v1",
+        "provider": "amazon",
+        "matchType": "search",
+        "destinationType": "search_results",
+        "isAffiliate": false,
+        "url": "https://www.amazon.co.jp/s?k=%E8%8F%8A%E6%AD%A3%E5%AE%97%20%E7%B4%94%E7%B1%B3%E5%A4%A7%E5%90%9F%E9%86%B8%20KAHO%20%E5%98%89%E5%AE%9D",
+        "label": "Amazonでこのお酒を探す",
+        "validUntil": "2026-11-19T04:55:09.130Z"
+      }
+    ]
+  },
+  "kagatobi-gokkan-lineup-v1": {
+    "productFingerprint": "961241aed0dbaf5da1d47d3763e7a7ac827d8d9c3c3ce06832a9b9a0c1540436",
+    "links": [
+      {
+        "sakeId": "kagatobi-gokkan-lineup-v1",
+        "provider": "amazon",
+        "matchType": "search",
+        "destinationType": "search_results",
+        "isAffiliate": false,
+        "url": "https://www.amazon.co.jp/s?k=%E5%8A%A0%E8%B3%80%E9%B3%B6%20%E6%A5%B5%E5%AF%92%E7%B4%94%E7%B1%B3%20%E8%BE%9B%E5%8F%A3",
+        "label": "Amazonでこのお酒を探す",
+        "validUntil": "2026-11-19T04:55:09.130Z"
+      }
+    ]
+  },
+  "kagatobi-yamahai-lineup-v1": {
+    "productFingerprint": "679f7e9c856cdcaac6ae1d44893b916f4547c4db596f8402598719896a043415",
+    "links": [
+      {
+        "sakeId": "kagatobi-yamahai-lineup-v1",
+        "provider": "amazon",
+        "matchType": "search",
+        "destinationType": "search_results",
+        "isAffiliate": false,
+        "url": "https://www.amazon.co.jp/s?k=%E5%8A%A0%E8%B3%80%E9%B3%B6%20%E5%B1%B1%E5%BB%83%E7%B4%94%E7%B1%B3%20%E8%B6%85%E8%BE%9B%E5%8F%A3",
+        "label": "Amazonでこのお酒を探す",
+        "validUntil": "2026-11-19T04:55:09.130Z"
+      }
+    ]
+  },
+  "kuroobi-yuyu-lineup-v1": {
+    "productFingerprint": "f36eb2ddd2f4e63ab9274ee7c08f24d7e4fb57900d9f08702400ac9d0bd9e330",
+    "links": [
+      {
+        "sakeId": "kuroobi-yuyu-lineup-v1",
+        "provider": "amazon",
+        "matchType": "search",
+        "destinationType": "search_results",
+        "isAffiliate": false,
+        "url": "https://www.amazon.co.jp/s?k=%E9%BB%92%E5%B8%AF%20%E6%82%A0%E3%80%85%20%E7%89%B9%E5%88%A5%E7%B4%94%E7%B1%B3",
+        "label": "Amazonでこのお酒を探す",
+        "validUntil": "2026-11-19T04:55:09.130Z"
+      }
+    ]
+  },
+  "okunomatsu-adatara-lineup-v1": {
+    "productFingerprint": "c4a11688eb36f3a5d7b0370ae58856b1f08b762c62f428dfd8aaf1a3d507c8e8",
+    "links": [
+      {
+        "sakeId": "okunomatsu-adatara-lineup-v1",
+        "provider": "amazon",
+        "matchType": "search",
+        "destinationType": "search_results",
+        "isAffiliate": false,
+        "url": "https://www.amazon.co.jp/s?k=%E5%A5%A5%E3%81%AE%E6%9D%BE%20%E3%81%82%E3%81%A0%E3%81%9F%E3%82%89%E5%90%9F%E9%86%B8",
+        "label": "Amazonでこのお酒を探す",
+        "validUntil": "2026-11-19T04:55:09.130Z"
+      }
+    ]
+  },
+  "okunomatsu-jg-lineup-v1": {
+    "productFingerprint": "c93dc20ad53d2cf6a3f3edda4c25982d3aed01c8401d785dc6d92100ac1ec21e",
+    "links": [
+      {
+        "sakeId": "okunomatsu-jg-lineup-v1",
+        "provider": "amazon",
+        "matchType": "search",
+        "destinationType": "search_results",
+        "isAffiliate": false,
+        "url": "https://www.amazon.co.jp/s?k=%E9%81%8A%E4%BD%90%20%E7%B4%94%E7%B1%B3%E5%90%9F%E9%86%B8",
+        "label": "Amazonでこのお酒を探す",
+        "validUntil": "2026-11-19T04:55:09.130Z"
+      }
+    ]
+  },
+  "jozen-jd-lineup-v1": {
+    "productFingerprint": "d352732cb0f0c720c5a8a2fed6ba054eaf90f6645cb8515eb617bcd80d3a95ac",
+    "links": [
+      {
+        "sakeId": "jozen-jd-lineup-v1",
+        "provider": "amazon",
+        "matchType": "search",
+        "destinationType": "search_results",
+        "isAffiliate": false,
+        "url": "https://www.amazon.co.jp/s?k=%E4%B8%8A%E5%96%84%E5%A6%82%E6%B0%B4%20%E7%B4%94%E7%B1%B3%E5%A4%A7%E5%90%9F%E9%86%B8",
+        "label": "Amazonでこのお酒を探す",
+        "validUntil": "2026-11-19T04:55:09.130Z"
+      }
+    ]
+  },
+  "minatoya-tosuke-lineup-v1": {
+    "productFingerprint": "15d36948569f65cdd06f36f4deb1e6efcfcc0686e548a896e1c9668c643ea608",
+    "links": [
+      {
+        "sakeId": "minatoya-tosuke-lineup-v1",
+        "provider": "amazon",
+        "matchType": "search",
+        "destinationType": "search_results",
+        "isAffiliate": false,
+        "url": "https://www.amazon.co.jp/s?k=%E6%B9%8A%E5%B1%8B%E8%97%A4%E5%8A%A9%20%E7%B4%94%E7%B1%B3%E5%A4%A7%E5%90%9F%E9%86%B8",
+        "label": "Amazonでこのお酒を探す",
+        "validUntil": "2026-11-19T04:55:09.130Z"
+      }
+    ]
+  },
+  "uonuma-junmai-lineup-v1": {
+    "productFingerprint": "bf7258ca05f0c63a1621fb0f55b1393be39af273d5b603de70dc3cb332cf0b4e",
+    "links": [
+      {
+        "sakeId": "uonuma-junmai-lineup-v1",
+        "provider": "amazon",
+        "matchType": "search",
+        "destinationType": "search_results",
+        "isAffiliate": false,
+        "url": "https://www.amazon.co.jp/s?k=%E6%BF%83%E9%86%87%20%E9%AD%9A%E6%B2%BC%20%E7%B4%94%E7%B1%B3",
+        "label": "Amazonでこのお酒を探す",
+        "validUntil": "2026-11-19T04:55:09.130Z"
+      }
+    ]
+  },
+  "ozeki-gokuama-lineup-v1": {
+    "productFingerprint": "5e58e5cf46a5a61bd9717aa049bbbbcfc0802b5cd2da80f51cc820cb34c6a9ed",
+    "links": [
+      {
+        "sakeId": "ozeki-gokuama-lineup-v1",
+        "provider": "amazon",
+        "matchType": "search",
+        "destinationType": "search_results",
+        "isAffiliate": false,
+        "url": "https://www.amazon.co.jp/s?k=%E5%A4%A7%E9%96%A2%20SWEET%20MOMENT%20%E6%A5%B5%E4%B8%8A%E3%81%AE%E7%94%98%E5%8F%A3",
+        "label": "Amazonでこのお酒を探す",
+        "validUntil": "2026-11-19T04:55:09.130Z"
+      }
+    ]
+  },
+  "ozeki-karatanba-lineup-v1": {
+    "productFingerprint": "2eeade47b9e3150929d592d16b9f3f7a969dba97e5965280a33d43961e3e04a8",
+    "links": [
+      {
+        "sakeId": "ozeki-karatanba-lineup-v1",
+        "provider": "amazon",
+        "matchType": "search",
+        "destinationType": "search_results",
+        "isAffiliate": false,
+        "url": "https://www.amazon.co.jp/s?k=%E5%A4%A7%E9%96%A2%20%E4%B8%8A%E6%92%B0%20%E8%BE%9B%E4%B8%B9%E6%B3%A2",
+        "label": "Amazonでこのお酒を探す",
+        "validUntil": "2026-11-19T04:55:09.130Z"
+      }
+    ]
+  },
+  "gekkeikan-nigori-lineup-v1": {
+    "productFingerprint": "b25caced02e648b45b370bd0150d9be9512faa2faf0f31679b09010398046d9c",
+    "links": [
+      {
+        "sakeId": "gekkeikan-nigori-lineup-v1",
+        "provider": "amazon",
+        "matchType": "search",
+        "destinationType": "search_results",
+        "isAffiliate": false,
+        "url": "https://www.amazon.co.jp/s?k=%E6%9C%88%E6%A1%82%E5%86%A0%20%E3%81%AB%E3%81%94%E3%82%8A%E9%85%92",
+        "label": "Amazonでこのお酒を探す",
+        "validUntil": "2026-11-19T04:55:09.130Z"
+      }
+    ]
+  },
+  "mio-sparkling-lineup-v1": {
+    "productFingerprint": "f9c9294f881ced1c326331e4cffe620f38dbd0873a3c3175f4ae21f695a78218",
+    "links": [
+      {
+        "sakeId": "mio-sparkling-lineup-v1",
+        "provider": "amazon",
+        "matchType": "search",
+        "destinationType": "search_results",
+        "isAffiliate": false,
+        "url": "https://www.amazon.co.jp/s?k=%E6%9D%BE%E7%AB%B9%E6%A2%85%E7%99%BD%E5%A3%81%E8%94%B5%20%E6%BE%AA",
+        "label": "Amazonでこのお酒を探す",
+        "validUntil": "2026-11-19T04:55:09.130Z"
+      }
+    ]
+  },
+  "urakasumi-zen-lineup-v1": {
+    "productFingerprint": "7728fe48f8f8cdb48eebc6254f755755dd22f0a30d542503606ee6f9cb4726a8",
+    "links": [
+      {
+        "sakeId": "urakasumi-zen-lineup-v1",
+        "provider": "amazon",
+        "matchType": "search",
+        "destinationType": "search_results",
+        "isAffiliate": false,
+        "url": "https://www.amazon.co.jp/s?k=%E7%B4%94%E7%B1%B3%E5%90%9F%E9%86%B8%20%E6%B5%A6%E9%9C%9E%E7%A6%85",
+        "label": "Amazonでこのお酒を探す",
+        "validUntil": "2026-11-19T04:55:09.130Z"
+      }
+    ]
+  },
+  "kamotsuru-jg-lineup-v1": {
+    "productFingerprint": "7b36f19989310f6326f690463497ada0f7ea5ea07fcc06a1dc61ff6fd1de974a",
+    "links": [
+      {
+        "sakeId": "kamotsuru-jg-lineup-v1",
+        "provider": "amazon",
+        "matchType": "search",
+        "destinationType": "search_results",
+        "isAffiliate": false,
+        "url": "https://www.amazon.co.jp/s?k=%E8%B3%80%E8%8C%82%E9%B6%B4%20%E7%B4%94%E7%B1%B3%E5%90%9F%E9%86%B8%20%E4%B8%80%E6%BB%B4%E5%85%A5%E9%AD%82",
+        "label": "Amazonでこのお酒を探す",
+        "validUntil": "2026-11-19T04:55:09.130Z"
+      }
+    ]
+  },
+  "nihonsakari-daiginjo-lineup-v1": {
+    "productFingerprint": "403c43513314cf11c1321458f4465c11c3883565e8cf46c79b3c11b347d39db3",
+    "links": [
+      {
+        "sakeId": "nihonsakari-daiginjo-lineup-v1",
+        "provider": "amazon",
+        "matchType": "search",
+        "destinationType": "search_results",
+        "isAffiliate": false,
+        "url": "https://www.amazon.co.jp/s?k=%E8%B6%85%E7%89%B9%E6%92%B0%20%E6%83%A3%E8%8A%B1%20%E7%B4%94%E7%B1%B3%E5%A4%A7%E5%90%9F%E9%86%B8",
+        "label": "Amazonでこのお酒を探す",
+        "validUntil": "2026-11-19T04:55:09.130Z"
+      }
+    ]
+  },
+  "azumaichi-jd-lineup-v1": {
+    "productFingerprint": "165fb13b684fa8d60dd96dc886f203e99cff407357004874615ba8a1192c571e",
+    "links": [
+      {
+        "sakeId": "azumaichi-jd-lineup-v1",
+        "provider": "amazon",
+        "matchType": "search",
+        "destinationType": "search_results",
+        "isAffiliate": false,
+        "url": "https://www.amazon.co.jp/s?k=%E6%9D%B1%E4%B8%80%20%E7%B4%94%E7%B1%B3%E5%A4%A7%E5%90%9F%E9%86%B8",
+        "label": "Amazonでこのお酒を探す",
+        "validUntil": "2026-11-19T04:55:09.130Z"
+      }
+    ]
   }
 }

@@ -11,6 +11,7 @@ import {productFingerprint} from '../src/commerce/validation.js';
 import {reviewedCommerceUpdate,digest} from './lib/reviewed-commerce-update.mjs';
 import {purchaseUnavailable,imageDisplayUnavailable,unavailableSearchLink} from '../src/commerce/availability.js';
 import {projectFinalCommerce} from '../src/commerce/finalCommerce.js';
+import {lineupBatch} from './lib/reviewed-lineup-update.mjs';
 const read = file => JSON.parse(fs.readFileSync(new URL('../' + file, import.meta.url)));
 const now = '2026-10-20T00:00:00Z', sources = [1, 2].map(i => ({sourceUrl: `https://item.rakuten.co.jp/store-${i}/product/`, checkedAt: now, retrieved: true, sourceType: 'rakuten_retail'}));
 const removal = (sakeId, extra = {}) => ({sakeId, status: 'INACTIVE', reviewed: true, reasonCode: 'UNRESOLVED_AFTER_RESCUE', whyInactive: '複数店舗と現行SKUを審査した結果、同一SKUの購入先を確認できない。', rescueReview: {reviewed: true, stockConclusion: 'NO_CONFIRMED_PURCHASABLE_SAME_SKU', sources, searches: [{query: 'current sku', ok: true, checkedAt: now}]}, ...extra});
@@ -90,7 +91,7 @@ test('the first maintenance batch changes commerce only for the explicitly revie
     assert.equal(image.productUrl, matches[item.id].normalUrl); assert.equal(image.capacityMl, matches[item.id].capacityMl);
     assert.equal(image.originalUnmodified, true);
   }
-  assert.equal(allSakePairings.length, visibleSakePairings.length);
+  assert.equal(allSakePairings.length-lineupBatch.inactivated.length, visibleSakePairings.length);
 });
 test('favorite IDs remain stable across a future inactive state and archive references remain accessible', () => {
   const id = allSakePairings[0].id, saved = [id, 'ginban-i4si9d'];

@@ -1,0 +1,376 @@
+{
+  "checkedAt": "2026-10-20T04:55:09.129Z",
+  "sourceCommit": "058cbf9aaabbd5a02c6973aea57ae41233efc793",
+  "rows": [
+    {
+      "sakeId": "hakkaisan-jd-lineup-v1",
+      "name": "純米大吟醸 八海山",
+      "capacityMl": 720,
+      "normalUrl": "https://item.rakuten.co.jp/syuraku-shop/111877/",
+      "originalImageSha256": "a924a2663c899bb8bb0932ea14074752b4907d01c817a10f441ecd13d36b19f3",
+      "role": "既存の特別本醸造・雪室熟成とは異なる、透明感と甘みを持つ非熟成の純米大吟醸。",
+      "qaPending": true
+    },
+    {
+      "sakeId": "hakkaisan-daiginjo-lineup-v1",
+      "name": "大吟醸 八海山",
+      "capacityMl": 720,
+      "normalUrl": "https://item.rakuten.co.jp/syuraku-shop/111878/",
+      "originalImageSha256": "ac290608d0a0cfc8d48bcdc4cb5663641f84df6323679fd875f401d41f916423",
+      "role": "純米大吟醸とは特定名称・麹掛米設計・酵母が異なり、まろやかさを中心に選べる標準大吟醸。",
+      "qaPending": true
+    },
+    {
+      "sakeId": "hakkaisan-seishu-lineup-v1",
+      "name": "清酒 八海山",
+      "capacityMl": 720,
+      "normalUrl": "https://item.rakuten.co.jp/taka-sake/666096/",
+      "originalImageSha256": "b42b94483124f582c02f8b9585a6b56f88bf67fd97eab8fde2675805e2b57b0e",
+      "role": "大吟醸系・特別本醸造とは区別した、日常の料理を邪魔しない淡麗な普通酒。",
+      "qaPending": true
+    },
+    {
+      "sakeId": "masumi-kuro-lineup-v1",
+      "name": "真澄 漆黒 KURO",
+      "capacityMl": 720,
+      "normalUrl": "https://item.rakuten.co.jp/sato-saketen/37221/",
+      "originalImageSha256": "035ccd8aa9d09bcbfd4f51f82fcdb45537e2262146f21f636c7a2408e283a799",
+      "role": "既存の辛口生一本・山廃真朱とは違う、7号系酵母の透明感と酸、ほろ苦さ。",
+      "qaPending": true
+    },
+    {
+      "sakeId": "masumi-shiro-lineup-v1",
+      "name": "真澄 白妙 SHIRO",
+      "capacityMl": 720,
+      "normalUrl": "https://item.rakuten.co.jp/hakubasakewine/893/",
+      "originalImageSha256": "b8526b28b95aed4cb4d84701ec3682543dd9c44dff6fbdd88520c3c72324abf4",
+      "role": "漆黒15度・茅色14度とは異なる12度設計。繊細で軽い食卓を中心にする。",
+      "qaPending": true
+    },
+    {
+      "sakeId": "masumi-kaya-lineup-v1",
+      "name": "真澄 茅色 KAYA",
+      "capacityMl": 720,
+      "normalUrl": "https://item.rakuten.co.jp/auc-shinanoya/h643663/",
+      "originalImageSha256": "e48b165b89113b589f4a2b3d37ca4bedc6d85086a7ca536f71fc35943800b6dd",
+      "role": "精米70%の純米、14度、旨みと余韻・燗。漆黒や白妙の軽快な用途から差別化。",
+      "qaPending": true
+    },
+    {
+      "sakeId": "ichinokura-mukansa-karakuchi-lineup-v1",
+      "name": "一ノ蔵 無鑑査本醸造 辛口",
+      "capacityMl": 720,
+      "normalUrl": "https://item.rakuten.co.jp/fukushimasaketen/ink033/",
+      "originalImageSha256": "a70979bf0d8d4f43e6142012e3552f8fc862c7871bb355d84c51cab1ed03df81",
+      "role": "既存特別純米とは本醸造として区別。超辛口よりも穏やかな香りとふくらみを中心にする。",
+      "qaPending": true
+    },
+    {
+      "sakeId": "ichinokura-mukansa-chokarakuchi-lineup-v1",
+      "name": "一ノ蔵 無鑑査本醸造 超辛口",
+      "capacityMl": 720,
+      "normalUrl": "https://item.rakuten.co.jp/kaiseiya/0769444/",
+      "originalImageSha256": "e8476e497112ce7c7a7f0dc716d805d5ce89578112438a598860102dcf0d16b6",
+      "role": "同じ無鑑査の辛口+4〜6とは異なり、+9〜10の締まりと冷燗で変わる表情。",
+      "qaPending": true
+    },
+    {
+      "sakeId": "ichinokura-himezen-lineup-v1",
+      "name": "一ノ蔵 ひめぜん",
+      "capacityMl": 720,
+      "normalUrl": "https://item.rakuten.co.jp/auc-suwabe/ichi011/",
+      "originalImageSha256": "a84c4ee807844189711330e0ad0038950995564fff2359bb42213c0c705c417b",
+      "role": "8度の甘酸っぱい原酒。辛口の本醸造・特別純米とは明確に異なる酒質。",
+      "qaPending": true
+    },
+    {
+      "sakeId": "urakasumi-karakuchi-lineup-v1",
+      "name": "からくち 浦霞",
+      "capacityMl": 720,
+      "normalUrl": "https://item.rakuten.co.jp/auc-suwabe/ura022/",
+      "originalImageSha256": "11400bdfc84f0cb0ab5a8e339174b4d731c2eefbc0e013bea3a18b48de06dcd7",
+      "role": "既存純米酒とは本醸造として区別。本仕込よりも辛口と後味のさっぱり感を前面に。",
+      "qaPending": true
+    },
+    {
+      "sakeId": "daishichi-kaiden-lineup-v1",
+      "name": "大七 皆伝",
+      "capacityMl": 720,
+      "normalUrl": "https://item.rakuten.co.jp/marp-mori/545285/",
+      "originalImageSha256": "a859ce1aa13e55ef8828d2a99f3b91c299e2b517903b51a1a19b1b645b566f9a",
+      "role": "既存純米生酛とは精米58%の純米吟醸。冷燗の幅とクリーミーな食事への適性。",
+      "qaPending": true
+    },
+    {
+      "sakeId": "daishichi-minowamon-lineup-v1",
+      "name": "大七 箕輪門",
+      "capacityMl": 720,
+      "normalUrl": "https://item.rakuten.co.jp/hamadaya/10000031/",
+      "originalImageSha256": "a00de6c8085da96638810f0ff37a04749517414470f780d7deee69d157830c09",
+      "role": "皆伝の五百万石58%に対し山田錦50%。冷酒の緻密さと魚介・鮨との楽しみ方。",
+      "qaPending": true
+    },
+    {
+      "sakeId": "dewazakura-ichiko-lineup-v1",
+      "name": "出羽桜 一耕",
+      "capacityMl": 720,
+      "normalUrl": "https://item.rakuten.co.jp/d-craft/4972009000625/",
+      "originalImageSha256": "a84b92d00df7f5c6b0b1b731227cec046488860d31bc6e133d9f95668f9c1673",
+      "role": "既存の吟醸系とは特別純米として区別。穏やかな米の旨みを中心に選ぶ。",
+      "qaPending": true
+    },
+    {
+      "sakeId": "dewazakura-tsuyahime-lineup-v1",
+      "name": "出羽桜 つや姫",
+      "capacityMl": 720,
+      "normalUrl": "https://item.rakuten.co.jp/kamosikaya/dewazakura00001/",
+      "originalImageSha256": "ac071eb3d7aea387e5f0c36192bb748553969e51c96df8ab11cf06b279037cb6",
+      "role": "つや姫の使用米シリーズ。吟醸・大吟醸や一耕の穏やかな旨味とは異なる洋梨香と甘味。",
+      "qaPending": true
+    },
+    {
+      "sakeId": "ichinokura-suzune-lineup-v1",
+      "name": "一ノ蔵 発泡清酒 すず音",
+      "capacityMl": 300,
+      "normalUrl": "https://item.rakuten.co.jp/jizakeshop/429653/",
+      "originalImageSha256": "8b13e5975d297884ee3df90ebdb63ee6dfbaf4bd9ae3fc7322e2b4e584d60671",
+      "role": "ひめぜん8度とは異なり、瓶内二次発酵による発泡性。GALAやWabi、色違い季節品を混同しない。",
+      "qaPending": true
+    },
+    {
+      "sakeId": "urakasumi-honshikomi-lineup-v1",
+      "name": "本仕込 浦霞",
+      "capacityMl": 720,
+      "normalUrl": "https://item.rakuten.co.jp/auc-suwabe/ura024/",
+      "originalImageSha256": "2ed4f92027df8a6159779e6f722abc7f8553f048bd24c4fcfca68df12f973e05",
+      "role": "からくち+6〜7に対し+1〜2。やわらかな飲み口を中心にした本醸造。",
+      "qaPending": true
+    },
+    {
+      "sakeId": "kikusui-karakuchi-lineup-v1",
+      "name": "菊水の辛口",
+      "capacityMl": 720,
+      "normalUrl": "https://item.rakuten.co.jp/atigus/2911420110195/",
+      "originalImageSha256": "4f672a1aa9b2c2aa9e2d80e3a40b81ff37d06ad33610193a381f6de7bd2c0c34",
+      "role": "既存ふなぐち生原酒とは本醸造の定番として区別。純米の濃厚なコクより辛さとキレ。",
+      "qaPending": true
+    },
+    {
+      "sakeId": "kikusui-junmai-lineup-v1",
+      "name": "菊水の純米酒",
+      "capacityMl": 720,
+      "normalUrl": "https://item.rakuten.co.jp/shochuya-doragon/4930391120833-ko/",
+      "originalImageSha256": "c24864d48a7bad2c287e00644d043718b590594b642dc279c0931c6b468e42a2",
+      "role": "本醸造辛口とは原材料・特定名称を区別し、燗でふくらむコクを中心にする。",
+      "qaPending": true
+    },
+    {
+      "sakeId": "suigei-ginrei-lineup-v1",
+      "name": "酔鯨 純米吟醸 吟麗",
+      "capacityMl": 720,
+      "normalUrl": "https://item.rakuten.co.jp/manroku/51-suige-28/",
+      "originalImageSha256": "80bc0730d5f9be7a2f4fcb09630621333d53b50b38e6850df050424428a9dda7",
+      "role": "吟風50%の通年品。高育54号の吟の夢、吟麗生・summer・秋あがりと別SKU。",
+      "qaPending": true
+    },
+    {
+      "sakeId": "suigei-koiku54-lineup-v1",
+      "name": "酔鯨 純米吟醸 高育54号",
+      "capacityMl": 720,
+      "normalUrl": "https://item.rakuten.co.jp/yamasake/3918/",
+      "originalImageSha256": "8e143e70c63e7c46c17c950ef208165fb69a07e38aedb106b0c0309e0120ebc6",
+      "role": "吟麗の吟風とは使用米シリーズが異なる。高育54号新酒生酒は別商品。",
+      "qaPending": true
+    },
+    {
+      "sakeId": "tengumai-umajun-lineup-v1",
+      "name": "天狗舞 旨醇",
+      "capacityMl": 720,
+      "normalUrl": "https://item.rakuten.co.jp/konchikitai/tengumai-umajyun720/",
+      "originalImageSha256": "6d6269716b31d09ccc4af2e7511a098d98063b92a0988d0b562a92e2a47c9bef",
+      "role": "既存山廃純米と異なる旨醇の純米。山廃とは公式が書かないため分類しない。",
+      "qaPending": true
+    },
+    {
+      "sakeId": "nanbubijin-jg-lineup-v1",
+      "name": "南部美人 純米吟醸",
+      "capacityMl": 720,
+      "normalUrl": "https://item.rakuten.co.jp/sakenosazan/12606/",
+      "originalImageSha256": "8f6a82ab275b44fa9c60ca2e8f9dacfa8c889d05d9d93e6a27d821a533da6e8a",
+      "role": "既存特別純米、純米大吟醸とは分類を区別。現行公式14度と旧小売15度台の差は参考に保持。",
+      "qaPending": true
+    },
+    {
+      "sakeId": "nanbubijin-jd-lineup-v1",
+      "name": "南部美人 純米大吟醸",
+      "capacityMl": 720,
+      "normalUrl": "https://item.rakuten.co.jp/manroku/51-nnb-02/",
+      "originalImageSha256": "468b2c794a7520ffe6c59ad4cd963b0830a963c4181344ab749648f2199cc89c",
+      "role": "純米吟醸の繊細な甘味とは異なる濃密さ。酒未来・雄町・花見生などの別米別シリーズは対象外。",
+      "qaPending": true
+    },
+    {
+      "sakeId": "hakutsuru-daiginjo-lineup-v1",
+      "name": "白鶴 大吟醸",
+      "capacityMl": 720,
+      "normalUrl": "https://item.rakuten.co.jp/shochuya-doragon/haku-daiginjo720-1/",
+      "originalImageSha256": "cc0d21c62d13aa79ab85c250235e7438b5b5eadba026158143b0911b2bf9e28d",
+      "role": "既存白鶴純米大吟醸とは醸造アルコールの有無が異なる。ラベルも純米大吟醸と区別。",
+      "qaPending": true
+    },
+    {
+      "sakeId": "kikumasamune-kaho-lineup-v1",
+      "name": "菊正宗 純米大吟醸 KAHO 嘉宝",
+      "capacityMl": 720,
+      "normalUrl": "https://item.rakuten.co.jp/kikumasa/nk082/",
+      "originalImageSha256": "1e0f4bd4142eb544000358584525dc04c825c303498a3c1815c07bacce54ec7b",
+      "role": "樽酒・本醸造と異なる38%純米大吟醸。現在の白箱・白ラベルのKAHOを対象。",
+      "qaPending": true
+    },
+    {
+      "sakeId": "kagatobi-gokkan-lineup-v1",
+      "name": "加賀鳶 極寒純米 辛口",
+      "capacityMl": 720,
+      "normalUrl": "https://item.rakuten.co.jp/tsutsu-uraura/fukumitsu-kaga-sp720/",
+      "originalImageSha256": "c3dfaaafcc152e6d9e43c29e566ebaf38fa43a758d9ce70332368c33e7648867",
+      "role": "山廃超辛口の深いコクとは異なる軽快さ。極寒無濾過生は別商品。",
+      "qaPending": true
+    },
+    {
+      "sakeId": "kagatobi-yamahai-lineup-v1",
+      "name": "加賀鳶 山廃純米 超辛口",
+      "capacityMl": 720,
+      "normalUrl": "https://item.rakuten.co.jp/fukumitsuya-shop/28745/",
+      "originalImageSha256": "ccada54f2591ea7980dc0db1ac56f744b0db2b91aef8eb9ec134a07e2c2a1960",
+      "role": "極寒純米とは製法・コクを区別。無濾過生の山廃純米原酒とは別SKU。",
+      "qaPending": true
+    },
+    {
+      "sakeId": "kuroobi-yuyu-lineup-v1",
+      "name": "黒帯 悠々 特別純米",
+      "capacityMl": 720,
+      "normalUrl": "https://item.rakuten.co.jp/m-sakaya/1051153/",
+      "originalImageSha256": "f0489c4c9cd29b9a9755ed6abaf44079639da899af3e6f605dc4e926521d469f",
+      "role": "同蔵の加賀鳶の軽快さや超辛口とは異なる熟成・燗の落ち着き。山廃堂々や古々酒飄々と区別。",
+      "qaPending": true
+    },
+    {
+      "sakeId": "okunomatsu-adatara-lineup-v1",
+      "name": "奥の松 あだたら吟醸",
+      "capacityMl": 720,
+      "normalUrl": "https://item.rakuten.co.jp/ihei/21207/",
+      "originalImageSha256": "fbad99ec6f8a39aaf26bad1b99e232999817b194a5420d00df3acdaeed170f8a",
+      "role": "純米吟醸遊佐とは特定名称が異なる。辛口と幅広い温度で毎日の食事に。",
+      "qaPending": true
+    },
+    {
+      "sakeId": "okunomatsu-jg-lineup-v1",
+      "name": "遊佐 純米吟醸",
+      "capacityMl": 720,
+      "normalUrl": "https://item.rakuten.co.jp/kaiseiya/0047657/",
+      "originalImageSha256": "6cd754f47b41ca8783d80d581909f7ca93a215c0b33720bdcaca7dc7a9679962",
+      "role": "あだたら吟醸と区別する遊佐という別銘柄の純米吟醸。一般の奥の松純米吟醸やひやおろしではない。",
+      "qaPending": true
+    },
+    {
+      "sakeId": "jozen-jd-lineup-v1",
+      "name": "上善如水 純米大吟醸",
+      "capacityMl": 720,
+      "normalUrl": "https://item.rakuten.co.jp/jozen/302315/",
+      "originalImageSha256": "aaf133ab2071e61f11fce926c897d194cc468daecaaeb0845d97b74c5988ef42",
+      "role": "既存上善純米吟醸とは45%の純米大吟醸として区別。月見・生酒・発泡は対象外。",
+      "qaPending": true
+    },
+    {
+      "sakeId": "minatoya-tosuke-lineup-v1",
+      "name": "湊屋藤助 純米大吟醸",
+      "capacityMl": 630,
+      "normalUrl": "https://item.rakuten.co.jp/jozen/422414/",
+      "originalImageSha256": "8c2872bef2e1a220063ecfd6c1ef77bab79a1c92fbed97c3489934970be0f8f8",
+      "role": "上善如水純米大吟醸とは米・精米・香り・温度が異なる。専用630ml瓶を720mlとして扱わない。",
+      "qaPending": true
+    },
+    {
+      "sakeId": "uonuma-junmai-lineup-v1",
+      "name": "濃醇 魚沼 純米",
+      "capacityMl": 720,
+      "normalUrl": "https://item.rakuten.co.jp/jozen/252014/",
+      "originalImageSha256": "9309c5d317011be88f548acd0e19df5de31b8e74104c52ca6a8c44998cefb750",
+      "role": "淡麗辛口魚沼や上善の香り型とは区別する80%精米の濃醇純米。",
+      "qaPending": true
+    },
+    {
+      "sakeId": "ozeki-gokuama-lineup-v1",
+      "name": "大関 SWEET MOMENT 極上の甘口",
+      "capacityMl": 720,
+      "normalUrl": "https://item.rakuten.co.jp/shochuya-doragon/4901061110362/",
+      "originalImageSha256": "8853c3f728d525eacb9b8d091b1383f16e843b453909f482365660de9963d20c",
+      "role": "辛丹波とは甘辛が大きく違う11度の普通酒。低精米の純米や大吟醸とは推定しない。",
+      "qaPending": true
+    },
+    {
+      "sakeId": "ozeki-karatanba-lineup-v1",
+      "name": "大関 上撰 辛丹波",
+      "capacityMl": 720,
+      "normalUrl": "https://item.rakuten.co.jp/jism/4901061107201-75-30002628-n/",
+      "originalImageSha256": "b28beb1eb16cb2eb5b1bc9ffd5fc5eb1225b020a128831310a76dddaa9bce75f",
+      "role": "同蔵の甘口・大吟醸とは本醸造の淡麗辛口。生貯蔵辛丹波は別JAN。",
+      "qaPending": true
+    },
+    {
+      "sakeId": "gekkeikan-nigori-lineup-v1",
+      "name": "月桂冠 にごり酒",
+      "capacityMl": 720,
+      "normalUrl": "https://item.rakuten.co.jp/gekkeikan/sake028256/",
+      "originalImageSha256": "bfa6bf297a4db8bab6212caa2ec142f5b4d8eed32aa2511e527474e6f8405e47",
+      "role": "月桂冠の通常酒とはもろみを荒ごししたにごり設計・低い度数で差別化。",
+      "qaPending": true
+    },
+    {
+      "sakeId": "mio-sparkling-lineup-v1",
+      "name": "松竹梅白壁蔵 澪",
+      "capacityMl": 300,
+      "normalUrl": "https://item.rakuten.co.jp/nondonkai/10000171/",
+      "originalImageSha256": "44e7779f048125f455ddb806f5852dbbd87f4837414d63c5efea0e83f0b05862",
+      "role": "すず音の瓶内二次発酵とは製法とブランドを区別。WHITE・BRUT・CLEARと混同しない。",
+      "qaPending": true
+    },
+    {
+      "sakeId": "urakasumi-zen-lineup-v1",
+      "name": "純米吟醸 浦霞禅",
+      "capacityMl": 720,
+      "normalUrl": "https://item.rakuten.co.jp/se-sake222/2363x01/",
+      "originalImageSha256": "7c18cb6870a40d3b489eff3f10d731e21ae4a6ed8230e1d165270cc6186af9d7",
+      "role": "本醸造・純米とは50%純米吟醸として区別。No.12シリーズや生酒版から情報を流用しない。",
+      "qaPending": true
+    },
+    {
+      "sakeId": "kamotsuru-jg-lineup-v1",
+      "name": "賀茂鶴 純米吟醸 一滴入魂",
+      "capacityMl": 720,
+      "normalUrl": "https://item.rakuten.co.jp/shochuya-doragon/kamo-41/",
+      "originalImageSha256": "a3996686ba94adaf13d7c17f2c9e6b62b16e35019656c1afca29327636764feb",
+      "role": "超特撰特等本醸造とは純米吟醸として区別。一般純米吟醸と一滴入魂のシリーズを混同しない。",
+      "qaPending": true
+    },
+    {
+      "sakeId": "nihonsakari-daiginjo-lineup-v1",
+      "name": "超特撰 惣花 純米大吟醸",
+      "capacityMl": 720,
+      "normalUrl": "https://item.rakuten.co.jp/nihonsakarishop/06232/",
+      "originalImageSha256": "2a51088bc6c9aac8a7a433ab95a63858d7e46d0be394652e13a11713a9a492b8",
+      "role": "既存純米吟醸惣花とは純米大吟醸38%と長い余韻が異なる。同ページ上段の純米吟醸-4/1.4を転記しない。",
+      "qaPending": true
+    },
+    {
+      "sakeId": "azumaichi-jd-lineup-v1",
+      "name": "東一 純米大吟醸",
+      "capacityMl": 720,
+      "normalUrl": "https://item.rakuten.co.jp/meishu-honpo/014973/",
+      "originalImageSha256": "1cdf43788f41a18012740415bef0a96acc221ed061620da515610929c9144a27",
+      "role": "既存58%純米吟醸とは39%純米大吟醸。雫搾りではない火入れ通常品を選定。",
+      "qaPending": true
+    }
+  ],
+  "productionPublished": false
+}
