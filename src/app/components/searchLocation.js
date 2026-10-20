@@ -1,5 +1,6 @@
-export const searchFilterKeys = ["prefecture", "dish", "taste", "classification", "temperature", "night", "sort"];
+export const searchFilterKeys = ["prefecture", "dish", "taste", "classification", "temperature", "night", "sort", "aroma", "body"];
 export const emptySearchFilters = () => Object.fromEntries(searchFilterKeys.map(key => [key, ""]));
+export const isCurrentSearchLocation = (location, search) => location.pathname.replace(/\/$/, '') === '/search' && location.search === search;
 export function readSearchLocation(search) {
   const params = new URLSearchParams(search);
   const count = Number(params.get("count"));

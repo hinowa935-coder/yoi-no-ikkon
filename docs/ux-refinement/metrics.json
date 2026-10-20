@@ -1,0 +1,147 @@
+{
+  "checkedAt": "2026-10-20T08:43:55.280Z",
+  "published": false,
+  "code": {
+    "checkedAt": "2026-10-20T08:24:14.872Z",
+    "rows": [
+      {
+        "name": "tests",
+        "passed": true,
+        "testCount": 144,
+        "testPass": 144
+      },
+      {
+        "name": "typecheck",
+        "passed": true,
+        "testCount": null,
+        "testPass": null
+      },
+      {
+        "name": "lint",
+        "passed": true,
+        "testCount": null,
+        "testPass": null
+      }
+    ],
+    "passed": true,
+    "lint": "Existing TypeScript parser/custom checks, not ESLint"
+  },
+  "build": {
+    "startedAt": "2026-10-20T08:24:34.521Z",
+    "checkedAt": "2026-10-20T08:27:42.494Z",
+    "passed": true,
+    "bundler": "webpack",
+    "dependenciesChanged": false
+  },
+  "security": {
+    "checkedAt": "2026-10-20T08:43:14.925Z",
+    "secrets": {
+      "scannedFiles": 7568,
+      "unreadableFiles": 0,
+      "findings": [],
+      "passed": true,
+      "configuredValuesChecked": [
+        "RAKUTEN_APPLICATION_ID",
+        "RAKUTEN_ACCESS_KEY",
+        "RAKUTEN_AFFILIATE_ID"
+      ],
+      "limitation": null
+    },
+    "protectedFiles": [
+      {
+        "file": "src/data/discoveryCatalog.json",
+        "unchanged": true
+      },
+      {
+        "file": "src/data/catalogAdditions.json",
+        "unchanged": true
+      },
+      {
+        "file": "src/data/catalogLifecycle.json",
+        "unchanged": true
+      },
+      {
+        "file": "src/data/discovery.js",
+        "unchanged": true
+      },
+      {
+        "file": "src/data/discoveryNights.js",
+        "unchanged": true
+      },
+      {
+        "file": "src/data/editorialNightAssignments.js",
+        "unchanged": true
+      },
+      {
+        "file": "src/data/temperatureUX.js",
+        "unchanged": true
+      },
+      {
+        "file": "src/data/favoriteReferences.js",
+        "unchanged": true
+      },
+      {
+        "file": "src/app/components/Ochoko.jsx",
+        "unchanged": true
+      },
+      {
+        "file": "src/app/components/HomeScreenGuide.jsx",
+        "unchanged": true
+      },
+      {
+        "file": "src/app/components/RecommendShare.jsx",
+        "unchanged": true
+      },
+      {
+        "file": "src/app/components/ShareButton.jsx",
+        "unchanged": true
+      },
+      {
+        "file": "src/app/components/PwaRegister.jsx",
+        "unchanged": true
+      },
+      {
+        "file": "src/commerce/generated/purchase-matches.json",
+        "unchanged": true
+      },
+      {
+        "file": "src/commerce/generated/product-media.json",
+        "unchanged": true
+      },
+      {
+        "file": "src/commerce/generated/commerce-final-approvals.json",
+        "unchanged": true
+      },
+      {
+        "file": "public/sw.js",
+        "unchanged": true
+      },
+      {
+        "file": "public/manifest.webmanifest",
+        "unchanged": true
+      },
+      {
+        "file": "vercel.json",
+        "unchanged": true
+      },
+      {
+        "file": "package.json",
+        "unchanged": true
+      },
+      {
+        "file": "package-lock.json",
+        "unchanged": true
+      }
+    ],
+    "envIgnored": true,
+    "envTracked": false,
+    "passed": true
+  },
+  "localPassed": true,
+  "productionPassed": false,
+  "deployment": null,
+  "realIphoneTested": false,
+  "realAndroidTested": false,
+  "newDependencies": 0,
+  "activeProductsUnchanged": 520
+}

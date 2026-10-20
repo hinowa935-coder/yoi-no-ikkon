@@ -1,0 +1,65 @@
+{
+  "checkedAt": "2026-10-20T07:47:01.923Z",
+  "rows": [
+    {
+      "width": 390,
+      "route": "/search",
+      "title": "気になる一本から、\n食卓の料理を。",
+      "overflow": false
+    },
+    {
+      "width": 390,
+      "route": "/search filters",
+      "selects": 6,
+      "temperatureOptions": 22
+    },
+    {
+      "width": 390,
+      "route": "/sake/masumi-shiro-lineup-v1",
+      "title": "真澄 白妙 SHIRO",
+      "overflow": false
+    },
+    {
+      "width": 390,
+      "route": "/",
+      "title": "今宵、ひと酔い。\n食卓に、良い出逢いを。",
+      "overflow": false
+    },
+    {
+      "width": 390,
+      "route": "/ochoko",
+      "title": "わたしのおちょこ",
+      "overflow": false
+    },
+    {
+      "width": 1280,
+      "route": "/search",
+      "title": "気になる一本から、食卓の料理を。",
+      "overflow": false
+    },
+    {
+      "width": 1280,
+      "route": "/search filters",
+      "selects": 6,
+      "temperatureOptions": 22
+    },
+    {
+      "width": 1280,
+      "route": "/sake/masumi-shiro-lineup-v1",
+      "title": "真澄 白妙 SHIRO",
+      "overflow": false
+    },
+    {
+      "width": 1280,
+      "route": "/",
+      "title": "今宵、ひと酔い。\n食卓に、良い出逢いを。",
+      "overflow": false
+    },
+    {
+      "width": 1280,
+      "route": "/ochoko",
+      "title": "わたしのおちょこ",
+      "overflow": false
+    }
+  ]
+}

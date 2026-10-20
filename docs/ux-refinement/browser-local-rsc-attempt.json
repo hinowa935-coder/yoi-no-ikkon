@@ -1,0 +1,1774 @@
+{
+  "checkedAt": "2026-10-20T08:34:00.433Z",
+  "base": "http://127.0.0.1:3197",
+  "checks": [
+    {
+      "name": "webkit-320-ios: PWA active",
+      "pass": true,
+      "detail": {
+        "controlled": true,
+        "active": true,
+        "status": 200
+      }
+    },
+    {
+      "name": "webkit-320-ios: three home entrances",
+      "pass": true
+    },
+    {
+      "name": "webkit-320-ios: more dishes",
+      "pass": true
+    },
+    {
+      "name": "webkit-320-ios: night to dishes to three sake",
+      "pass": true
+    },
+    {
+      "name": "webkit-320-ios: Discover back preserved",
+      "pass": true
+    },
+    {
+      "name": "webkit-320-ios: temperature only three",
+      "pass": true
+    },
+    {
+      "name": "webkit-320-ios: 冷酒 count",
+      "pass": true
+    },
+    {
+      "name": "webkit-320-ios: 常温 count",
+      "pass": true
+    },
+    {
+      "name": "webkit-320-ios: 熱燗 count",
+      "pass": true
+    },
+    {
+      "name": "webkit-320-ios: modal and scroll lock",
+      "pass": true
+    },
+    {
+      "name": "webkit-320-ios: sheet bounds",
+      "pass": true
+    },
+    {
+      "name": "webkit-320-ios: advanced initially closed",
+      "pass": true
+    },
+    {
+      "name": "webkit-320-ios: focus trapped",
+      "pass": true
+    },
+    {
+      "name": "webkit-320-ios: reverse focus wraps",
+      "pass": true
+    },
+    {
+      "name": "webkit-320-ios: reduced motion",
+      "pass": true
+    },
+    {
+      "name": "webkit-320-ios: body count",
+      "pass": true
+    },
+    {
+      "name": "webkit-320-ios: live count and checked icon",
+      "pass": true
+    },
+    {
+      "name": "webkit-320-ios: close returns focus",
+      "pass": true
+    },
+    {
+      "name": "webkit-320-ios: combined result count",
+      "pass": true
+    },
+    {
+      "name": "webkit-320-ios: three active chips",
+      "pass": true
+    },
+    {
+      "name": "webkit-320-ios: one tap removes chip",
+      "pass": true
+    },
+    {
+      "name": "webkit-320-ios: Escape releases body",
+      "pass": true
+    },
+    {
+      "name": "webkit-320-ios: all reset",
+      "pass": true
+    },
+    {
+      "name": "webkit-320-ios: advanced controls accessible",
+      "pass": true
+    },
+    {
+      "name": "webkit-320-ios: prefecture select count",
+      "pass": true
+    },
+    {
+      "name": "webkit-320-ios: keyword 鍋島",
+      "pass": true
+    },
+    {
+      "name": "webkit-320-ios: keyword 宮坂醸造",
+      "pass": true
+    },
+    {
+      "name": "webkit-320-ios: keyword ひめぜん",
+      "pass": true
+    },
+    {
+      "name": "webkit-320-ios: clear input focused",
+      "pass": true
+    },
+    {
+      "name": "webkit-320-ios: zero keyword recovery",
+      "pass": true
+    },
+    {
+      "name": "webkit-320-ios: long query fits",
+      "pass": true
+    },
+    {
+      "name": "webkit-320-ios: legacy detailed temperature URL",
+      "pass": true
+    },
+    {
+      "name": "webkit-320-ios: zero filters relaxation available",
+      "pass": true
+    },
+    {
+      "name": "webkit-320-ios: relaxation finds products",
+      "pass": true
+    },
+    {
+      "name": "webkit-320-ios: one result",
+      "pass": true
+    },
+    {
+      "name": "webkit-320-ios: card at most three tags and no spec expansion",
+      "pass": true
+    },
+    {
+      "name": "webkit-320-ios: merchant tap not intercepted",
+      "pass": true
+    },
+    {
+      "name": "webkit-320-ios: favorite not intercepted",
+      "pass": true
+    },
+    {
+      "name": "webkit-320-ios: search no overflow",
+      "pass": true
+    },
+    {
+      "name": "webkit-320-ios: card padding opens detail",
+      "pass": true
+    },
+    {
+      "name": "webkit-320-ios: search URL restored",
+      "pass": true
+    },
+    {
+      "name": "webkit-320-ios: search scroll restored",
+      "pass": true,
+      "detail": {
+        "before": 3145,
+        "after": 3145
+      }
+    },
+    {
+      "name": "webkit-320-ios: detail information order",
+      "pass": true
+    },
+    {
+      "name": "webkit-320-ios: specs folded",
+      "pass": true
+    },
+    {
+      "name": "webkit-320-ios: all basic specs accessible",
+      "pass": true
+    },
+    {
+      "name": "webkit-320-ios: serving broad then detail",
+      "pass": true
+    },
+    {
+      "name": "webkit-320-ios: first pairing group capped at six",
+      "pass": true
+    },
+    {
+      "name": "webkit-320-ios: share preserved",
+      "pass": true
+    },
+    {
+      "name": "webkit-320-ios: detail no overflow",
+      "pass": true
+    },
+    {
+      "name": "webkit-320-ios: saved item preserved",
+      "pass": true
+    },
+    {
+      "name": "webkit-320-ios: ochoko search return",
+      "pass": true
+    },
+    {
+      "name": "webkit-320-ios: ochoko empty action",
+      "pass": true
+    },
+    {
+      "name": "webkit-320-ios: food zero reset",
+      "pass": true
+    },
+    {
+      "name": "webkit-320-ios: food keyword clear",
+      "pass": true
+    },
+    {
+      "name": "webkit-320-ios: food to sake detail",
+      "pass": true
+    },
+    {
+      "name": "webkit-320-ios: home-screen guide preserved",
+      "pass": true
+    },
+    {
+      "name": "webkit-320-ios: site share preserved",
+      "pass": true
+    },
+    {
+      "name": "webkit-320-ios: About and navigation",
+      "pass": true
+    },
+    {
+      "name": "webkit-320-ios: placeholder preserved",
+      "pass": true
+    },
+    {
+      "name": "webkit-320-ios: placeholder no overflow",
+      "pass": true
+    },
+    {
+      "name": "webkit-360-ios: PWA active",
+      "pass": true,
+      "detail": {
+        "controlled": true,
+        "active": true,
+        "status": 200
+      }
+    },
+    {
+      "name": "webkit-360-ios: three home entrances",
+      "pass": true
+    },
+    {
+      "name": "webkit-360-ios: more dishes",
+      "pass": true
+    },
+    {
+      "name": "webkit-360-ios: night to dishes to three sake",
+      "pass": true
+    },
+    {
+      "name": "webkit-360-ios: Discover back preserved",
+      "pass": true
+    },
+    {
+      "name": "webkit-360-ios: temperature only three",
+      "pass": true
+    },
+    {
+      "name": "webkit-360-ios: 冷酒 count",
+      "pass": true
+    },
+    {
+      "name": "webkit-360-ios: 常温 count",
+      "pass": true
+    },
+    {
+      "name": "webkit-360-ios: 熱燗 count",
+      "pass": true
+    },
+    {
+      "name": "webkit-360-ios: modal and scroll lock",
+      "pass": true
+    },
+    {
+      "name": "webkit-360-ios: sheet bounds",
+      "pass": true
+    },
+    {
+      "name": "webkit-360-ios: advanced initially closed",
+      "pass": true
+    },
+    {
+      "name": "webkit-360-ios: focus trapped",
+      "pass": true
+    },
+    {
+      "name": "webkit-360-ios: reverse focus wraps",
+      "pass": true
+    },
+    {
+      "name": "webkit-360-ios: reduced motion",
+      "pass": true
+    },
+    {
+      "name": "webkit-360-ios: body count",
+      "pass": true
+    },
+    {
+      "name": "webkit-360-ios: live count and checked icon",
+      "pass": true
+    },
+    {
+      "name": "webkit-360-ios: close returns focus",
+      "pass": true
+    },
+    {
+      "name": "webkit-360-ios: combined result count",
+      "pass": true
+    },
+    {
+      "name": "webkit-360-ios: three active chips",
+      "pass": true
+    },
+    {
+      "name": "webkit-360-ios: one tap removes chip",
+      "pass": true
+    },
+    {
+      "name": "webkit-360-ios: Escape releases body",
+      "pass": true
+    },
+    {
+      "name": "webkit-360-ios: all reset",
+      "pass": true
+    },
+    {
+      "name": "webkit-360-ios: advanced controls accessible",
+      "pass": true
+    },
+    {
+      "name": "webkit-360-ios: prefecture select count",
+      "pass": true
+    },
+    {
+      "name": "webkit-360-ios: keyword 鍋島",
+      "pass": true
+    },
+    {
+      "name": "webkit-360-ios: keyword 宮坂醸造",
+      "pass": true
+    },
+    {
+      "name": "webkit-360-ios: keyword ひめぜん",
+      "pass": true
+    },
+    {
+      "name": "webkit-360-ios: clear input focused",
+      "pass": true
+    },
+    {
+      "name": "webkit-360-ios: zero keyword recovery",
+      "pass": true
+    },
+    {
+      "name": "webkit-360-ios: long query fits",
+      "pass": true
+    },
+    {
+      "name": "webkit-360-ios: legacy detailed temperature URL",
+      "pass": true
+    },
+    {
+      "name": "webkit-360-ios: zero filters relaxation available",
+      "pass": true
+    },
+    {
+      "name": "webkit-360-ios: relaxation finds products",
+      "pass": true
+    },
+    {
+      "name": "webkit-360-ios: one result",
+      "pass": true
+    },
+    {
+      "name": "webkit-360-ios: card at most three tags and no spec expansion",
+      "pass": true
+    },
+    {
+      "name": "webkit-360-ios: merchant tap not intercepted",
+      "pass": true
+    },
+    {
+      "name": "webkit-360-ios: favorite not intercepted",
+      "pass": true
+    },
+    {
+      "name": "webkit-360-ios: search no overflow",
+      "pass": true
+    },
+    {
+      "name": "webkit-360-ios: card padding opens detail",
+      "pass": true
+    },
+    {
+      "name": "webkit-360-ios: search URL restored",
+      "pass": true
+    },
+    {
+      "name": "webkit-360-ios: search scroll restored",
+      "pass": true,
+      "detail": {
+        "before": 3006,
+        "after": 3006
+      }
+    },
+    {
+      "name": "webkit-360-ios: detail information order",
+      "pass": true
+    },
+    {
+      "name": "webkit-360-ios: specs folded",
+      "pass": true
+    },
+    {
+      "name": "webkit-360-ios: all basic specs accessible",
+      "pass": true
+    },
+    {
+      "name": "webkit-360-ios: serving broad then detail",
+      "pass": true
+    },
+    {
+      "name": "webkit-360-ios: first pairing group capped at six",
+      "pass": true
+    },
+    {
+      "name": "webkit-360-ios: share preserved",
+      "pass": true
+    },
+    {
+      "name": "webkit-360-ios: detail no overflow",
+      "pass": true
+    },
+    {
+      "name": "webkit-360-ios: saved item preserved",
+      "pass": true
+    },
+    {
+      "name": "webkit-360-ios: ochoko search return",
+      "pass": true
+    },
+    {
+      "name": "webkit-360-ios: ochoko empty action",
+      "pass": true
+    },
+    {
+      "name": "webkit-360-ios: food zero reset",
+      "pass": true
+    },
+    {
+      "name": "webkit-360-ios: food keyword clear",
+      "pass": true
+    },
+    {
+      "name": "webkit-360-ios: food to sake detail",
+      "pass": true
+    },
+    {
+      "name": "webkit-360-ios: home-screen guide preserved",
+      "pass": true
+    },
+    {
+      "name": "webkit-360-ios: site share preserved",
+      "pass": true
+    },
+    {
+      "name": "webkit-360-ios: About and navigation",
+      "pass": true
+    },
+    {
+      "name": "webkit-360-ios: placeholder preserved",
+      "pass": true
+    },
+    {
+      "name": "webkit-360-ios: placeholder no overflow",
+      "pass": true
+    },
+    {
+      "name": "webkit-375-ios: PWA active",
+      "pass": true,
+      "detail": {
+        "controlled": true,
+        "active": true,
+        "status": 200
+      }
+    },
+    {
+      "name": "webkit-375-ios: three home entrances",
+      "pass": true
+    },
+    {
+      "name": "webkit-375-ios: more dishes",
+      "pass": true
+    },
+    {
+      "name": "webkit-375-ios: night to dishes to three sake",
+      "pass": true
+    },
+    {
+      "name": "webkit-375-ios: Discover back preserved",
+      "pass": true
+    },
+    {
+      "name": "webkit-375-ios: temperature only three",
+      "pass": true
+    },
+    {
+      "name": "webkit-375-ios: 冷酒 count",
+      "pass": true
+    },
+    {
+      "name": "webkit-375-ios: 常温 count",
+      "pass": true
+    },
+    {
+      "name": "webkit-375-ios: 熱燗 count",
+      "pass": true
+    },
+    {
+      "name": "webkit-375-ios: modal and scroll lock",
+      "pass": true
+    },
+    {
+      "name": "webkit-375-ios: sheet bounds",
+      "pass": true
+    },
+    {
+      "name": "webkit-375-ios: advanced initially closed",
+      "pass": true
+    },
+    {
+      "name": "webkit-375-ios: focus trapped",
+      "pass": true
+    },
+    {
+      "name": "webkit-375-ios: reverse focus wraps",
+      "pass": true
+    },
+    {
+      "name": "webkit-375-ios: reduced motion",
+      "pass": true
+    },
+    {
+      "name": "webkit-375-ios: body count",
+      "pass": true
+    },
+    {
+      "name": "webkit-375-ios: live count and checked icon",
+      "pass": true
+    },
+    {
+      "name": "webkit-375-ios: close returns focus",
+      "pass": true
+    },
+    {
+      "name": "webkit-375-ios: combined result count",
+      "pass": true
+    },
+    {
+      "name": "webkit-375-ios: three active chips",
+      "pass": true
+    },
+    {
+      "name": "webkit-375-ios: one tap removes chip",
+      "pass": true
+    },
+    {
+      "name": "webkit-375-ios: Escape releases body",
+      "pass": true
+    },
+    {
+      "name": "webkit-375-ios: all reset",
+      "pass": true
+    },
+    {
+      "name": "webkit-375-ios: advanced controls accessible",
+      "pass": true
+    },
+    {
+      "name": "webkit-375-ios: prefecture select count",
+      "pass": true
+    },
+    {
+      "name": "webkit-375-ios: keyword 鍋島",
+      "pass": true
+    },
+    {
+      "name": "webkit-375-ios: keyword 宮坂醸造",
+      "pass": true
+    },
+    {
+      "name": "webkit-375-ios: keyword ひめぜん",
+      "pass": true
+    },
+    {
+      "name": "webkit-375-ios: clear input focused",
+      "pass": true
+    },
+    {
+      "name": "webkit-375-ios: zero keyword recovery",
+      "pass": true
+    },
+    {
+      "name": "webkit-375-ios: long query fits",
+      "pass": true
+    },
+    {
+      "name": "webkit-375-ios: legacy detailed temperature URL",
+      "pass": true
+    },
+    {
+      "name": "webkit-375-ios: zero filters relaxation available",
+      "pass": true
+    },
+    {
+      "name": "webkit-375-ios: relaxation finds products",
+      "pass": true
+    },
+    {
+      "name": "webkit-375-ios: one result",
+      "pass": true
+    },
+    {
+      "name": "webkit-375-ios: card at most three tags and no spec expansion",
+      "pass": true
+    },
+    {
+      "name": "webkit-375-ios: merchant tap not intercepted",
+      "pass": true
+    },
+    {
+      "name": "webkit-375-ios: favorite not intercepted",
+      "pass": true
+    },
+    {
+      "name": "webkit-375-ios: search no overflow",
+      "pass": true
+    },
+    {
+      "name": "webkit-375-ios: card padding opens detail",
+      "pass": true
+    },
+    {
+      "name": "webkit-375-ios: search URL restored",
+      "pass": true
+    },
+    {
+      "name": "webkit-375-ios: search scroll restored",
+      "pass": true,
+      "detail": {
+        "before": 2957,
+        "after": 2957
+      }
+    },
+    {
+      "name": "webkit-375-ios: detail information order",
+      "pass": true
+    },
+    {
+      "name": "webkit-375-ios: specs folded",
+      "pass": true
+    },
+    {
+      "name": "webkit-375-ios: all basic specs accessible",
+      "pass": true
+    },
+    {
+      "name": "webkit-375-ios: serving broad then detail",
+      "pass": true
+    },
+    {
+      "name": "webkit-375-ios: first pairing group capped at six",
+      "pass": true
+    },
+    {
+      "name": "webkit-375-ios: share preserved",
+      "pass": true
+    },
+    {
+      "name": "webkit-375-ios: detail no overflow",
+      "pass": true
+    },
+    {
+      "name": "webkit-375-ios: saved item preserved",
+      "pass": true
+    },
+    {
+      "name": "webkit-375-ios: ochoko search return",
+      "pass": true
+    },
+    {
+      "name": "webkit-375-ios: ochoko empty action",
+      "pass": true
+    },
+    {
+      "name": "webkit-375-ios: food zero reset",
+      "pass": true
+    },
+    {
+      "name": "webkit-375-ios: food keyword clear",
+      "pass": true
+    },
+    {
+      "name": "webkit-375-ios: food to sake detail",
+      "pass": true
+    },
+    {
+      "name": "webkit-375-ios: home-screen guide preserved",
+      "pass": true
+    },
+    {
+      "name": "webkit-375-ios: site share preserved",
+      "pass": true
+    },
+    {
+      "name": "webkit-375-ios: About and navigation",
+      "pass": true
+    },
+    {
+      "name": "webkit-375-ios: placeholder preserved",
+      "pass": true
+    },
+    {
+      "name": "webkit-375-ios: placeholder no overflow",
+      "pass": true
+    },
+    {
+      "name": "webkit-390-ios: PWA active",
+      "pass": true,
+      "detail": {
+        "controlled": true,
+        "active": true,
+        "status": 200
+      }
+    },
+    {
+      "name": "webkit-390-ios: three home entrances",
+      "pass": true
+    },
+    {
+      "name": "webkit-390-ios: more dishes",
+      "pass": true
+    },
+    {
+      "name": "webkit-390-ios: night to dishes to three sake",
+      "pass": true
+    },
+    {
+      "name": "webkit-390-ios: Discover back preserved",
+      "pass": true
+    },
+    {
+      "name": "webkit-390-ios: temperature only three",
+      "pass": true
+    },
+    {
+      "name": "webkit-390-ios: 冷酒 count",
+      "pass": true
+    },
+    {
+      "name": "webkit-390-ios: 常温 count",
+      "pass": true
+    },
+    {
+      "name": "webkit-390-ios: 熱燗 count",
+      "pass": true
+    },
+    {
+      "name": "webkit-390-ios: modal and scroll lock",
+      "pass": true
+    },
+    {
+      "name": "webkit-390-ios: sheet bounds",
+      "pass": true
+    },
+    {
+      "name": "webkit-390-ios: advanced initially closed",
+      "pass": true
+    },
+    {
+      "name": "webkit-390-ios: focus trapped",
+      "pass": true
+    },
+    {
+      "name": "webkit-390-ios: reverse focus wraps",
+      "pass": true
+    },
+    {
+      "name": "webkit-390-ios: reduced motion",
+      "pass": true
+    },
+    {
+      "name": "webkit-390-ios: body count",
+      "pass": true
+    },
+    {
+      "name": "webkit-390-ios: live count and checked icon",
+      "pass": true
+    },
+    {
+      "name": "webkit-390-ios: close returns focus",
+      "pass": true
+    },
+    {
+      "name": "webkit-390-ios: combined result count",
+      "pass": true
+    },
+    {
+      "name": "webkit-390-ios: three active chips",
+      "pass": true
+    },
+    {
+      "name": "webkit-390-ios: one tap removes chip",
+      "pass": true
+    },
+    {
+      "name": "webkit-390-ios: Escape releases body",
+      "pass": true
+    },
+    {
+      "name": "webkit-390-ios: all reset",
+      "pass": true
+    },
+    {
+      "name": "webkit-390-ios: advanced controls accessible",
+      "pass": true
+    },
+    {
+      "name": "webkit-390-ios: prefecture select count",
+      "pass": true
+    },
+    {
+      "name": "webkit-390-ios: keyword 鍋島",
+      "pass": true
+    },
+    {
+      "name": "webkit-390-ios: keyword 宮坂醸造",
+      "pass": true
+    },
+    {
+      "name": "webkit-390-ios: keyword ひめぜん",
+      "pass": true
+    },
+    {
+      "name": "webkit-390-ios: clear input focused",
+      "pass": true
+    },
+    {
+      "name": "webkit-390-ios: zero keyword recovery",
+      "pass": true
+    },
+    {
+      "name": "webkit-390-ios: long query fits",
+      "pass": true
+    },
+    {
+      "name": "webkit-390-ios: legacy detailed temperature URL",
+      "pass": true
+    },
+    {
+      "name": "webkit-390-ios: zero filters relaxation available",
+      "pass": true
+    },
+    {
+      "name": "webkit-390-ios: relaxation finds products",
+      "pass": true
+    },
+    {
+      "name": "webkit-390-ios: one result",
+      "pass": true
+    },
+    {
+      "name": "webkit-390-ios: card at most three tags and no spec expansion",
+      "pass": true
+    },
+    {
+      "name": "webkit-390-ios: merchant tap not intercepted",
+      "pass": true
+    },
+    {
+      "name": "webkit-390-ios: favorite not intercepted",
+      "pass": true
+    },
+    {
+      "name": "webkit-390-ios: search no overflow",
+      "pass": true
+    },
+    {
+      "name": "webkit-390-ios: card padding opens detail",
+      "pass": true
+    },
+    {
+      "name": "webkit-390-ios: search URL restored",
+      "pass": true
+    },
+    {
+      "name": "webkit-390-ios: search scroll restored",
+      "pass": true,
+      "detail": {
+        "before": 2957,
+        "after": 2957
+      }
+    },
+    {
+      "name": "webkit-390-ios: detail information order",
+      "pass": true
+    },
+    {
+      "name": "webkit-390-ios: specs folded",
+      "pass": true
+    },
+    {
+      "name": "webkit-390-ios: all basic specs accessible",
+      "pass": true
+    },
+    {
+      "name": "webkit-390-ios: serving broad then detail",
+      "pass": true
+    },
+    {
+      "name": "webkit-390-ios: first pairing group capped at six",
+      "pass": true
+    },
+    {
+      "name": "webkit-390-ios: share preserved",
+      "pass": true
+    },
+    {
+      "name": "webkit-390-ios: detail no overflow",
+      "pass": true
+    },
+    {
+      "name": "webkit-390-ios: saved item preserved",
+      "pass": true
+    },
+    {
+      "name": "webkit-390-ios: ochoko search return",
+      "pass": true
+    },
+    {
+      "name": "webkit-390-ios: ochoko empty action",
+      "pass": true
+    },
+    {
+      "name": "webkit-390-ios: food zero reset",
+      "pass": true
+    },
+    {
+      "name": "webkit-390-ios: food keyword clear",
+      "pass": true
+    },
+    {
+      "name": "webkit-390-ios: food to sake detail",
+      "pass": true
+    },
+    {
+      "name": "webkit-390-ios: home-screen guide preserved",
+      "pass": true
+    },
+    {
+      "name": "webkit-390-ios: site share preserved",
+      "pass": true
+    },
+    {
+      "name": "webkit-390-ios: About and navigation",
+      "pass": true
+    },
+    {
+      "name": "webkit-390-ios: placeholder preserved",
+      "pass": true
+    },
+    {
+      "name": "webkit-390-ios: placeholder no overflow",
+      "pass": true
+    },
+    {
+      "name": "webkit-430-ios: PWA active",
+      "pass": true,
+      "detail": {
+        "controlled": true,
+        "active": true,
+        "status": 200
+      }
+    },
+    {
+      "name": "webkit-430-ios: three home entrances",
+      "pass": true
+    },
+    {
+      "name": "webkit-430-ios: more dishes",
+      "pass": true
+    },
+    {
+      "name": "webkit-430-ios: night to dishes to three sake",
+      "pass": true
+    },
+    {
+      "name": "webkit-430-ios: Discover back preserved",
+      "pass": true
+    },
+    {
+      "name": "webkit-430-ios: temperature only three",
+      "pass": true
+    },
+    {
+      "name": "webkit-430-ios: 冷酒 count",
+      "pass": true
+    },
+    {
+      "name": "webkit-430-ios: 常温 count",
+      "pass": true
+    },
+    {
+      "name": "webkit-430-ios: 熱燗 count",
+      "pass": true
+    },
+    {
+      "name": "webkit-430-ios: modal and scroll lock",
+      "pass": true
+    },
+    {
+      "name": "webkit-430-ios: sheet bounds",
+      "pass": true
+    },
+    {
+      "name": "webkit-430-ios: advanced initially closed",
+      "pass": true
+    },
+    {
+      "name": "webkit-430-ios: focus trapped",
+      "pass": true
+    },
+    {
+      "name": "webkit-430-ios: reverse focus wraps",
+      "pass": true
+    },
+    {
+      "name": "webkit-430-ios: reduced motion",
+      "pass": true
+    },
+    {
+      "name": "webkit-430-ios: body count",
+      "pass": true
+    },
+    {
+      "name": "webkit-430-ios: live count and checked icon",
+      "pass": true
+    },
+    {
+      "name": "webkit-430-ios: close returns focus",
+      "pass": true
+    },
+    {
+      "name": "webkit-430-ios: combined result count",
+      "pass": true
+    },
+    {
+      "name": "webkit-430-ios: three active chips",
+      "pass": true
+    },
+    {
+      "name": "webkit-430-ios: one tap removes chip",
+      "pass": true
+    },
+    {
+      "name": "webkit-430-ios: Escape releases body",
+      "pass": true
+    },
+    {
+      "name": "webkit-430-ios: all reset",
+      "pass": true
+    },
+    {
+      "name": "webkit-430-ios: advanced controls accessible",
+      "pass": true
+    },
+    {
+      "name": "webkit-430-ios: prefecture select count",
+      "pass": true
+    },
+    {
+      "name": "webkit-430-ios: keyword 鍋島",
+      "pass": true
+    },
+    {
+      "name": "webkit-430-ios: keyword 宮坂醸造",
+      "pass": true
+    },
+    {
+      "name": "webkit-430-ios: keyword ひめぜん",
+      "pass": true
+    },
+    {
+      "name": "webkit-430-ios: clear input focused",
+      "pass": true
+    },
+    {
+      "name": "webkit-430-ios: zero keyword recovery",
+      "pass": true
+    },
+    {
+      "name": "webkit-430-ios: long query fits",
+      "pass": true
+    },
+    {
+      "name": "webkit-430-ios: legacy detailed temperature URL",
+      "pass": true
+    },
+    {
+      "name": "webkit-430-ios: zero filters relaxation available",
+      "pass": true
+    },
+    {
+      "name": "webkit-430-ios: relaxation finds products",
+      "pass": true
+    },
+    {
+      "name": "webkit-430-ios: one result",
+      "pass": true
+    },
+    {
+      "name": "webkit-430-ios: card at most three tags and no spec expansion",
+      "pass": true
+    },
+    {
+      "name": "webkit-430-ios: merchant tap not intercepted",
+      "pass": true
+    },
+    {
+      "name": "webkit-430-ios: favorite not intercepted",
+      "pass": true
+    },
+    {
+      "name": "webkit-430-ios: search no overflow",
+      "pass": true
+    },
+    {
+      "name": "webkit-430-ios: card padding opens detail",
+      "pass": true
+    },
+    {
+      "name": "webkit-430-ios: search URL restored",
+      "pass": true
+    },
+    {
+      "name": "webkit-430-ios: search scroll restored",
+      "pass": true,
+      "detail": {
+        "before": 2957,
+        "after": 2957
+      }
+    },
+    {
+      "name": "webkit-430-ios: detail information order",
+      "pass": true
+    },
+    {
+      "name": "webkit-430-ios: specs folded",
+      "pass": true
+    },
+    {
+      "name": "webkit-430-ios: all basic specs accessible",
+      "pass": true
+    },
+    {
+      "name": "webkit-430-ios: serving broad then detail",
+      "pass": true
+    },
+    {
+      "name": "webkit-430-ios: first pairing group capped at six",
+      "pass": true
+    },
+    {
+      "name": "webkit-430-ios: share preserved",
+      "pass": true
+    },
+    {
+      "name": "webkit-430-ios: detail no overflow",
+      "pass": true
+    },
+    {
+      "name": "webkit-430-ios: saved item preserved",
+      "pass": true
+    },
+    {
+      "name": "webkit-430-ios: ochoko search return",
+      "pass": true
+    },
+    {
+      "name": "webkit-430-ios: ochoko empty action",
+      "pass": true
+    },
+    {
+      "name": "webkit-430-ios: food zero reset",
+      "pass": true
+    },
+    {
+      "name": "webkit-430-ios: food keyword clear",
+      "pass": true
+    },
+    {
+      "name": "webkit-430-ios: food to sake detail",
+      "pass": true
+    },
+    {
+      "name": "webkit-430-ios: home-screen guide preserved",
+      "pass": true
+    },
+    {
+      "name": "webkit-430-ios: site share preserved",
+      "pass": true
+    },
+    {
+      "name": "webkit-430-ios: About and navigation",
+      "pass": true
+    },
+    {
+      "name": "webkit-430-ios: placeholder preserved",
+      "pass": true
+    },
+    {
+      "name": "webkit-430-ios: placeholder no overflow",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280-desktop: PWA active",
+      "pass": true,
+      "detail": {
+        "controlled": true,
+        "active": true,
+        "status": 200
+      }
+    },
+    {
+      "name": "chromium-1280-desktop: three home entrances",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280-desktop: more dishes",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280-desktop: night to dishes to three sake",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280-desktop: Discover back preserved",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280-desktop: temperature only three",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280-desktop: 冷酒 count",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280-desktop: 常温 count",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280-desktop: 熱燗 count",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280-desktop: modal and scroll lock",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280-desktop: sheet bounds",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280-desktop: advanced initially closed",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280-desktop: focus trapped",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280-desktop: reverse focus wraps",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280-desktop: reduced motion",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280-desktop: body count",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280-desktop: live count and checked icon",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280-desktop: close returns focus",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280-desktop: combined result count",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280-desktop: three active chips",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280-desktop: one tap removes chip",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280-desktop: Escape releases body",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280-desktop: all reset",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280-desktop: advanced controls accessible",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280-desktop: prefecture select count",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280-desktop: keyword 鍋島",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280-desktop: keyword 宮坂醸造",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280-desktop: keyword ひめぜん",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280-desktop: clear input focused",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280-desktop: zero keyword recovery",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280-desktop: long query fits",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280-desktop: legacy detailed temperature URL",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280-desktop: zero filters relaxation available",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280-desktop: relaxation finds products",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280-desktop: one result",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280-desktop: card at most three tags and no spec expansion",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280-desktop: merchant tap not intercepted",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280-desktop: favorite not intercepted",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280-desktop: search no overflow",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280-desktop: card padding opens detail",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280-desktop: search URL restored",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280-desktop: search scroll restored",
+      "pass": true,
+      "detail": {
+        "before": 1217,
+        "after": 1217
+      }
+    },
+    {
+      "name": "chromium-1280-desktop: detail information order",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280-desktop: specs folded",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280-desktop: all basic specs accessible",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280-desktop: serving broad then detail",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280-desktop: first pairing group capped at six",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280-desktop: share preserved",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280-desktop: detail no overflow",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280-desktop: saved item preserved",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280-desktop: ochoko search return",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280-desktop: ochoko empty action",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280-desktop: food zero reset",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280-desktop: food keyword clear",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280-desktop: food to sake detail",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280-desktop: PC guide hidden",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280-desktop: site share preserved",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280-desktop: About and navigation",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280-desktop: placeholder preserved",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280-desktop: placeholder no overflow",
+      "pass": true
+    },
+    {
+      "name": "chromium-390-android: PWA active",
+      "pass": true,
+      "detail": {
+        "controlled": true,
+        "active": true,
+        "status": 200
+      }
+    },
+    {
+      "name": "chromium-390-android: three home entrances",
+      "pass": true
+    },
+    {
+      "name": "chromium-390-android: more dishes",
+      "pass": true
+    },
+    {
+      "name": "chromium-390-android: night to dishes to three sake",
+      "pass": true
+    },
+    {
+      "name": "chromium-390-android: Discover back preserved",
+      "pass": true
+    },
+    {
+      "name": "chromium-390-android: temperature only three",
+      "pass": true
+    },
+    {
+      "name": "chromium-390-android: 冷酒 count",
+      "pass": true
+    },
+    {
+      "name": "chromium-390-android: 常温 count",
+      "pass": true
+    },
+    {
+      "name": "chromium-390-android: 熱燗 count",
+      "pass": true
+    },
+    {
+      "name": "chromium-390-android: modal and scroll lock",
+      "pass": true
+    },
+    {
+      "name": "chromium-390-android: sheet bounds",
+      "pass": true
+    },
+    {
+      "name": "chromium-390-android: advanced initially closed",
+      "pass": true
+    },
+    {
+      "name": "chromium-390-android: focus trapped",
+      "pass": true
+    },
+    {
+      "name": "chromium-390-android: reverse focus wraps",
+      "pass": true
+    },
+    {
+      "name": "chromium-390-android: reduced motion",
+      "pass": true
+    },
+    {
+      "name": "chromium-390-android: body count",
+      "pass": true
+    },
+    {
+      "name": "chromium-390-android: live count and checked icon",
+      "pass": true
+    },
+    {
+      "name": "chromium-390-android: close returns focus",
+      "pass": true
+    },
+    {
+      "name": "chromium-390-android: combined result count",
+      "pass": true
+    },
+    {
+      "name": "chromium-390-android: three active chips",
+      "pass": true
+    },
+    {
+      "name": "chromium-390-android: one tap removes chip",
+      "pass": true
+    },
+    {
+      "name": "chromium-390-android: Escape releases body",
+      "pass": true
+    },
+    {
+      "name": "chromium-390-android: all reset",
+      "pass": true
+    },
+    {
+      "name": "chromium-390-android: advanced controls accessible",
+      "pass": true
+    },
+    {
+      "name": "chromium-390-android: prefecture select count",
+      "pass": true
+    },
+    {
+      "name": "chromium-390-android: keyword 鍋島",
+      "pass": true
+    },
+    {
+      "name": "chromium-390-android: keyword 宮坂醸造",
+      "pass": true
+    },
+    {
+      "name": "chromium-390-android: keyword ひめぜん",
+      "pass": true
+    },
+    {
+      "name": "chromium-390-android: clear input focused",
+      "pass": true
+    },
+    {
+      "name": "chromium-390-android: zero keyword recovery",
+      "pass": true
+    },
+    {
+      "name": "chromium-390-android: long query fits",
+      "pass": true
+    },
+    {
+      "name": "chromium-390-android: legacy detailed temperature URL",
+      "pass": true
+    },
+    {
+      "name": "chromium-390-android: zero filters relaxation available",
+      "pass": true
+    },
+    {
+      "name": "chromium-390-android: relaxation finds products",
+      "pass": true
+    },
+    {
+      "name": "chromium-390-android: one result",
+      "pass": true
+    },
+    {
+      "name": "chromium-390-android: card at most three tags and no spec expansion",
+      "pass": true
+    },
+    {
+      "name": "chromium-390-android: merchant tap not intercepted",
+      "pass": true
+    },
+    {
+      "name": "chromium-390-android: favorite not intercepted",
+      "pass": true
+    },
+    {
+      "name": "chromium-390-android: search no overflow",
+      "pass": true
+    },
+    {
+      "name": "chromium-390-android: card padding opens detail",
+      "pass": true
+    },
+    {
+      "name": "chromium-390-android: search URL restored",
+      "pass": true
+    },
+    {
+      "name": "chromium-390-android: search scroll restored",
+      "pass": true,
+      "detail": {
+        "before": 2945,
+        "after": 2945
+      }
+    },
+    {
+      "name": "chromium-390-android: detail information order",
+      "pass": true
+    },
+    {
+      "name": "chromium-390-android: specs folded",
+      "pass": true
+    },
+    {
+      "name": "chromium-390-android: all basic specs accessible",
+      "pass": true
+    },
+    {
+      "name": "chromium-390-android: serving broad then detail",
+      "pass": true
+    },
+    {
+      "name": "chromium-390-android: first pairing group capped at six",
+      "pass": true
+    },
+    {
+      "name": "chromium-390-android: share preserved",
+      "pass": true
+    },
+    {
+      "name": "chromium-390-android: detail no overflow",
+      "pass": true
+    },
+    {
+      "name": "chromium-390-android: saved item preserved",
+      "pass": true
+    },
+    {
+      "name": "chromium-390-android: ochoko search return",
+      "pass": true
+    },
+    {
+      "name": "chromium-390-android: ochoko empty action",
+      "pass": true
+    },
+    {
+      "name": "chromium-390-android: food zero reset",
+      "pass": true
+    },
+    {
+      "name": "chromium-390-android: food keyword clear",
+      "pass": true
+    },
+    {
+      "name": "chromium-390-android: food to sake detail",
+      "pass": true
+    },
+    {
+      "name": "chromium-390-android: home-screen guide preserved",
+      "pass": true
+    },
+    {
+      "name": "chromium-390-android: site share preserved",
+      "pass": true
+    },
+    {
+      "name": "chromium-390-android: About and navigation",
+      "pass": true
+    },
+    {
+      "name": "chromium-390-android: placeholder preserved",
+      "pass": true
+    },
+    {
+      "name": "chromium-390-android: placeholder no overflow",
+      "pass": true
+    }
+  ],
+  "errors": [
+    {
+      "width": 390,
+      "phone": "ios",
+      "phase": "qa",
+      "at": 1792485106547,
+      "message": "/127.0.0.1:3197/sake/koimari-saki/__next.sake.$d$slug.__PAGE__.txt?_rsc=Qllbn1tLghsTYDhr due to access control checks."
+    }
+  ],
+  "bootstrapWarnings": [
+    {
+      "width": 360,
+      "phone": "ios",
+      "phase": "bootstrap",
+      "at": 1792484993914,
+      "message": "/127.0.0.1:3197/ochoko/__next.ochoko.__PAGE__.txt?_rsc=gVxwBMzsDFr-Hw8H due to access control checks."
+    }
+  ],
+  "navigationAbortWarnings": [],
+  "passed": false,
+  "nativeShareMocked": true,
+  "realIphoneTested": false,
+  "realAndroidTested": false,
+  "noPurchasesPerformed": true,
+  "retailClickInCardPreventedForTargetVerification": true
+}

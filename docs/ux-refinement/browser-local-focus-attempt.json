@@ -1,0 +1,78 @@
+{
+  "checkedAt": "2026-10-20T08:01:37.244Z",
+  "base": "http://127.0.0.1:3197",
+  "checks": [
+    {
+      "name": "webkit-320-ios: PWA active",
+      "pass": true
+    },
+    {
+      "name": "webkit-320-ios: three home entrances",
+      "pass": true
+    },
+    {
+      "name": "webkit-320-ios: more dishes",
+      "pass": true
+    },
+    {
+      "name": "webkit-320-ios: night to dishes to three sake",
+      "pass": true
+    },
+    {
+      "name": "webkit-320-ios: Discover back preserved",
+      "pass": true
+    },
+    {
+      "name": "webkit-320-ios: temperature only three",
+      "pass": true
+    },
+    {
+      "name": "webkit-320-ios: 冷酒 count",
+      "pass": true
+    },
+    {
+      "name": "webkit-320-ios: 常温 count",
+      "pass": true
+    },
+    {
+      "name": "webkit-320-ios: 熱燗 count",
+      "pass": true
+    },
+    {
+      "name": "webkit-320-ios: modal and scroll lock",
+      "pass": true
+    },
+    {
+      "name": "webkit-320-ios: sheet bounds",
+      "pass": true
+    },
+    {
+      "name": "webkit-320-ios: advanced initially closed",
+      "pass": true
+    },
+    {
+      "name": "webkit-320-ios: focus trapped",
+      "pass": false
+    }
+  ],
+  "errors": [
+    {
+      "kind": "qa_failure",
+      "message": "webkit-320-ios: focus trapped"
+    }
+  ],
+  "bootstrapWarnings": [
+    {
+      "width": 320,
+      "phone": "ios",
+      "phase": "bootstrap",
+      "message": "/127.0.0.1:3197/ochoko/__next.ochoko.__PAGE__.txt?_rsc=gVxwBMzsDFr-Hw8H due to access control checks."
+    }
+  ],
+  "passed": false,
+  "nativeShareMocked": true,
+  "realIphoneTested": false,
+  "realAndroidTested": false,
+  "noPurchasesPerformed": true,
+  "retailClickInCardPreventedForTargetVerification": true
+}

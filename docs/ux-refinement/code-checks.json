@@ -1,0 +1,25 @@
+{
+  "checkedAt": "2026-10-20T08:24:14.872Z",
+  "rows": [
+    {
+      "name": "tests",
+      "passed": true,
+      "testCount": 144,
+      "testPass": 144
+    },
+    {
+      "name": "typecheck",
+      "passed": true,
+      "testCount": null,
+      "testPass": null
+    },
+    {
+      "name": "lint",
+      "passed": true,
+      "testCount": null,
+      "testPass": null
+    }
+  ],
+  "passed": true,
+  "lint": "Existing TypeScript parser/custom checks, not ESLint"
+}

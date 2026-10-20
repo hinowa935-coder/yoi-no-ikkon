@@ -1,0 +1,206 @@
+{
+  "checkedAt": "2026-10-20T08:07:51.297Z",
+  "base": "http://127.0.0.1:3197",
+  "checks": [
+    {
+      "name": "webkit-320-ios: PWA active",
+      "pass": true
+    },
+    {
+      "name": "webkit-320-ios: three home entrances",
+      "pass": true
+    },
+    {
+      "name": "webkit-320-ios: more dishes",
+      "pass": true
+    },
+    {
+      "name": "webkit-320-ios: night to dishes to three sake",
+      "pass": true
+    },
+    {
+      "name": "webkit-320-ios: Discover back preserved",
+      "pass": true
+    },
+    {
+      "name": "webkit-320-ios: temperature only three",
+      "pass": true
+    },
+    {
+      "name": "webkit-320-ios: 冷酒 count",
+      "pass": true
+    },
+    {
+      "name": "webkit-320-ios: 常温 count",
+      "pass": true
+    },
+    {
+      "name": "webkit-320-ios: 熱燗 count",
+      "pass": true
+    },
+    {
+      "name": "webkit-320-ios: modal and scroll lock",
+      "pass": true
+    },
+    {
+      "name": "webkit-320-ios: sheet bounds",
+      "pass": true
+    },
+    {
+      "name": "webkit-320-ios: advanced initially closed",
+      "pass": true
+    },
+    {
+      "name": "webkit-320-ios: focus trapped",
+      "pass": true
+    },
+    {
+      "name": "webkit-320-ios: live count and checked icon",
+      "pass": true
+    },
+    {
+      "name": "webkit-320-ios: close returns focus",
+      "pass": true
+    },
+    {
+      "name": "webkit-320-ios: combined result count",
+      "pass": true
+    },
+    {
+      "name": "webkit-320-ios: three active chips",
+      "pass": true
+    },
+    {
+      "name": "webkit-320-ios: one tap removes chip",
+      "pass": true
+    },
+    {
+      "name": "webkit-320-ios: Escape releases body",
+      "pass": true
+    },
+    {
+      "name": "webkit-320-ios: all reset",
+      "pass": true
+    },
+    {
+      "name": "webkit-320-ios: keyword 鍋島",
+      "pass": true
+    },
+    {
+      "name": "webkit-320-ios: keyword 宮坂醸造",
+      "pass": true
+    },
+    {
+      "name": "webkit-320-ios: keyword ひめぜん",
+      "pass": true
+    },
+    {
+      "name": "webkit-320-ios: clear input focused",
+      "pass": true
+    },
+    {
+      "name": "webkit-320-ios: zero keyword recovery",
+      "pass": true
+    },
+    {
+      "name": "webkit-320-ios: zero filters relaxation available",
+      "pass": true
+    },
+    {
+      "name": "webkit-320-ios: relaxation finds products",
+      "pass": true
+    },
+    {
+      "name": "webkit-320-ios: one result",
+      "pass": true
+    },
+    {
+      "name": "webkit-320-ios: card at most three tags and no spec expansion",
+      "pass": true
+    },
+    {
+      "name": "webkit-320-ios: merchant tap not intercepted",
+      "pass": true
+    },
+    {
+      "name": "webkit-320-ios: favorite not intercepted",
+      "pass": true
+    },
+    {
+      "name": "webkit-320-ios: search no overflow",
+      "pass": true
+    },
+    {
+      "name": "webkit-320-ios: card padding opens detail",
+      "pass": true
+    },
+    {
+      "name": "webkit-320-ios: search URL restored",
+      "pass": true
+    },
+    {
+      "name": "webkit-320-ios: search scroll restored",
+      "pass": true,
+      "detail": {
+        "before": 3145,
+        "after": 3145
+      }
+    },
+    {
+      "name": "webkit-320-ios: detail information order",
+      "pass": true
+    },
+    {
+      "name": "webkit-320-ios: specs folded",
+      "pass": true
+    },
+    {
+      "name": "webkit-320-ios: all basic specs accessible",
+      "pass": true
+    },
+    {
+      "name": "webkit-320-ios: serving broad then detail",
+      "pass": true
+    },
+    {
+      "name": "webkit-320-ios: first pairing group capped at six",
+      "pass": true
+    },
+    {
+      "name": "webkit-320-ios: share preserved",
+      "pass": true
+    },
+    {
+      "name": "webkit-320-ios: detail no overflow",
+      "pass": true
+    },
+    {
+      "name": "webkit-320-ios: saved item preserved",
+      "pass": true
+    },
+    {
+      "name": "webkit-320-ios: ochoko search return",
+      "pass": true
+    }
+  ],
+  "errors": [
+    {
+      "kind": "qa_failure",
+      "message": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n\u001b[2m  - waiting for getByRole('link', { name: '一献を探す', exact: true }) to be visible\u001b[22m\n"
+    }
+  ],
+  "bootstrapWarnings": [
+    {
+      "width": 320,
+      "phone": "ios",
+      "phase": "bootstrap",
+      "message": "/127.0.0.1:3197/ochoko/__next.ochoko.__PAGE__.txt?_rsc=gVxwBMzsDFr-Hw8H due to access control checks."
+    }
+  ],
+  "passed": false,
+  "nativeShareMocked": true,
+  "realIphoneTested": false,
+  "realAndroidTested": false,
+  "noPurchasesPerformed": true,
+  "retailClickInCardPreventedForTargetVerification": true
+}

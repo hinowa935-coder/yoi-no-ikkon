@@ -1,0 +1,76 @@
+{
+  "checkedAt": "2026-10-20T08:40:09.953Z",
+  "rows": [
+    {
+      "route": "/",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/search",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/discover",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/ochoko",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/food",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/food/item-13w7k4b",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/about",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/sake/masumi-shiro-lineup-v1",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/sake/shichida-junmai",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/sw.js",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/manifest.webmanifest",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/sitemap.xml",
+      "sakePages": 520,
+      "passed": true
+    },
+    {
+      "route": "/.env.local",
+      "status": 404,
+      "passed": true
+    },
+    {
+      "route": "/docs/ux-refinement/baseline.json",
+      "status": 404,
+      "passed": true
+    }
+  ],
+  "passed": true
+}

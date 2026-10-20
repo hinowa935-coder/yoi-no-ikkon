@@ -1,0 +1,209 @@
+{
+  "checkedAt": "2026-10-20T08:22:15.175Z",
+  "before": {
+    "y": 1217,
+    "saved": {
+      "search": "?temperature=group%3Acold&sort=prefecture&count=48",
+      "scroll": 1217
+    },
+    "trace": [
+      {
+        "at": 139,
+        "path": "/search",
+        "action": "pageshow",
+        "y": 0,
+        "persisted": false
+      },
+      {
+        "at": 178,
+        "path": "/search",
+        "action": "save",
+        "y": 0,
+        "search": "?temperature=group%3Acold&sort=prefecture&count=48",
+        "scroll": 0
+      },
+      {
+        "at": 2842,
+        "path": "/search",
+        "action": "scroll",
+        "y": 1217
+      },
+      {
+        "at": 2842,
+        "path": "/search",
+        "action": "save",
+        "y": 1217,
+        "search": "?temperature=group%3Acold&sort=prefecture&count=48",
+        "scroll": 1217
+      }
+    ]
+  },
+  "events": [
+    {
+      "stage": "detail",
+      "y": 0,
+      "saved": {
+        "search": "?temperature=group%3Acold&sort=prefecture&count=48",
+        "scroll": 0
+      },
+      "trace": [
+        {
+          "at": 139,
+          "path": "/search",
+          "action": "pageshow",
+          "y": 0,
+          "persisted": false
+        },
+        {
+          "at": 178,
+          "path": "/search",
+          "action": "save",
+          "y": 0,
+          "search": "?temperature=group%3Acold&sort=prefecture&count=48",
+          "scroll": 0
+        },
+        {
+          "at": 2842,
+          "path": "/search",
+          "action": "scroll",
+          "y": 1217
+        },
+        {
+          "at": 2842,
+          "path": "/search",
+          "action": "save",
+          "y": 1217,
+          "search": "?temperature=group%3Acold&sort=prefecture&count=48",
+          "scroll": 1217
+        },
+        {
+          "at": 3086,
+          "path": "/search",
+          "action": "save",
+          "y": 1217,
+          "search": "?temperature=group%3Acold&sort=prefecture&count=48",
+          "scroll": 1217
+        },
+        {
+          "at": 3146,
+          "path": "/sake/ichinokura-himezen-lineup-v1",
+          "action": "scroll",
+          "y": 0
+        },
+        {
+          "at": 3146,
+          "path": "/sake/ichinokura-himezen-lineup-v1",
+          "action": "save",
+          "y": 0,
+          "search": "?temperature=group%3Acold&sort=prefecture&count=48",
+          "scroll": 0
+        }
+      ]
+    },
+    {
+      "stage": "back",
+      "y": 0,
+      "saved": {
+        "search": "?temperature=group%3Acold&sort=prefecture&count=48",
+        "scroll": 0
+      },
+      "trace": [
+        {
+          "at": 139,
+          "path": "/search",
+          "action": "pageshow",
+          "y": 0,
+          "persisted": false
+        },
+        {
+          "at": 178,
+          "path": "/search",
+          "action": "save",
+          "y": 0,
+          "search": "?temperature=group%3Acold&sort=prefecture&count=48",
+          "scroll": 0
+        },
+        {
+          "at": 2842,
+          "path": "/search",
+          "action": "scroll",
+          "y": 1217
+        },
+        {
+          "at": 2842,
+          "path": "/search",
+          "action": "save",
+          "y": 1217,
+          "search": "?temperature=group%3Acold&sort=prefecture&count=48",
+          "scroll": 1217
+        },
+        {
+          "at": 3086,
+          "path": "/search",
+          "action": "save",
+          "y": 1217,
+          "search": "?temperature=group%3Acold&sort=prefecture&count=48",
+          "scroll": 1217
+        },
+        {
+          "at": 3146,
+          "path": "/sake/ichinokura-himezen-lineup-v1",
+          "action": "scroll",
+          "y": 0
+        },
+        {
+          "at": 3146,
+          "path": "/sake/ichinokura-himezen-lineup-v1",
+          "action": "save",
+          "y": 0,
+          "search": "?temperature=group%3Acold&sort=prefecture&count=48",
+          "scroll": 0
+        },
+        {
+          "at": 3159,
+          "path": "/search",
+          "action": "popstate",
+          "y": 0
+        },
+        {
+          "at": 3179,
+          "path": "/search",
+          "action": "scroll",
+          "y": 1217
+        },
+        {
+          "at": 3207,
+          "path": "/search",
+          "action": "scroll",
+          "y": 1277
+        },
+        {
+          "at": 3229,
+          "path": "/search",
+          "action": "scrollTo",
+          "y": 1277,
+          "args": [
+            {
+              "top": 0,
+              "behavior": "instant"
+            }
+          ]
+        },
+        {
+          "at": 3249,
+          "path": "/search",
+          "action": "scroll",
+          "y": 0
+        },
+        {
+          "at": 3249,
+          "path": "/search",
+          "action": "save",
+          "y": 0,
+          "search": "?temperature=group%3Acold&sort=prefecture&count=48",
+          "scroll": 0
+        }
+      ]
+    }
+  ]
+}

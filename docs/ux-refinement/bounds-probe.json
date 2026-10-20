@@ -1,0 +1,18 @@
+{
+  "checkedAt": "2026-10-20T08:28:02.266Z",
+  "bounds": {
+    "left": 20,
+    "right": 300,
+    "width": 280,
+    "viewport": 320,
+    "scrollWidth": 278,
+    "clientWidth": 278
+  },
+  "sheet": {
+    "top": 12,
+    "bottom": 568,
+    "viewportHeight": 568,
+    "footerBottom": 567
+  },
+  "passed": true
+}

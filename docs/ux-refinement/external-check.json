@@ -1,0 +1,15 @@
+{
+  "checkedAt": "2026-10-20T08:40:31.759Z",
+  "product": {
+    "status": 200,
+    "finalHost": "item.rakuten.co.jp",
+    "normalUrl": "https://item.rakuten.co.jp/hakubasakewine/893/",
+    "passed": true
+  },
+  "image": {
+    "status": 200,
+    "finalHost": "thumbnail.image.rakuten.co.jp",
+    "passed": true
+  },
+  "reacquiredProducts": 0
+}
