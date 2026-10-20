@@ -23,6 +23,7 @@ import merchantAudit from '../../../commerce/generated/merchant-links.json';
 import {eligibleSensoryEvidence} from '../../../catalog/operations.js';
 import {purchaseUnavailable} from '../../../commerce/availability.js';
 import ServingGuide from '../../components/ServingGuide.jsx';
+import {tastePresentationRows} from '../../../data/tastePresentation.js';
 
 export function generateStaticParams() {
   return [...new Set([...allSakePairings.map(i => i.id), ...legacyReferences.map(e => e.legacyId)])].map(slug => ({ slug }));
@@ -73,7 +74,7 @@ export default async function SakePage({ params }) {
       <h2 id="sake-about">味わいと飲み方</h2>
       <p className="sake-detail-intro">{buildSakeListSummary(item)}</p>
       <ul className="feature-tags">{buildCardPresentation(item).tags.map(tag => <li key={tag}>{tag}</li>)}</ul>
-      <dl className="taste-at-a-glance">{formatFields([['甘味',r.flavorProfile.sweetness],['酸味',r.flavorProfile.acidity],['旨味',r.flavorProfile.umami],['香り',r.flavorProfile.aroma],['飲み口',r.flavorProfile.body]]).map(([label,value])=><div key={label}><dt>{label}</dt><dd>{value}</dd></div>)}</dl>
+      <dl className="taste-at-a-glance">{tastePresentationRows(r.flavorProfile).map(([label,value])=><div key={label}><dt>{label}</dt><dd>{value}</dd></div>)}</dl>
       <ServingGuide values={r.servingTemperatures} range={r.recommendedTemperatureRange}/>
     </section>
     <section className="detail-band purchase-discovery" aria-labelledby="sake-purchase">

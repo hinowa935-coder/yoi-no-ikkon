@@ -6,7 +6,18 @@ import {matchesSearch} from '../src/data/searchFiltering.js';
 import {matchesSensoryFacets,simpleTasteOptions,aromaOptions,bodyOptions} from '../src/data/searchFacets.js';
 import {temperatureGroups,matchesTemperature} from '../src/data/temperatureUX.js';
 import {readSearchLocation,writeSearchLocation,isCurrentSearchLocation} from '../src/app/components/searchLocation.js';
+import {tastePresentationRows} from '../src/data/tastePresentation.js';
 const read=p=>fs.readFileSync(new URL('../'+p,import.meta.url),'utf8');
+
+test('detail sensory labels never turn a legacy umami value into sweetness',()=>{
+ const profile={sweetness:'米の旨味',acidity:'爽やかな酸味',umami:'米の旨味',aroma:'穏やかな香り',body:'軽やか'};
+ const before=JSON.stringify(profile);const rows=tastePresentationRows(profile);
+ assert(!rows.some(([label])=>label==='甘味'));
+ assert(rows.some(([label,value])=>label==='旨味'&&value==='米の旨味'));
+ assert.equal(JSON.stringify(profile),before);
+ assert.deepEqual(tastePresentationRows({sweetness:'やさしい甘味',acidity:'華やかな香り'}),[['甘味','やさしい甘味']]);
+ assert.deepEqual(tastePresentationRows(),[]);
+});
 test('search offers three temperature groups while retaining every detailed legacy match',()=>{
  assert.deepEqual(temperatureGroups.map(([,label])=>label),['冷酒','常温','熱燗']);
  for(const id of ['cold','room','warm'])assert(visibleSakePairings.some(i=>matchesSearch(i,{filters:{temperature:'group:'+id}})));
