@@ -1,0 +1,42 @@
+{
+  "checkedAt": "2026-10-20T13:50:45.417Z",
+  "rows": [
+    {
+      "engine": "webkit",
+      "sakeId": "koeigiku-sukai-hiire-current-v1",
+      "normalDestination": "https://item.rakuten.co.jp/auc-chitashige/37040502/",
+      "finalHost": "item.rakuten.co.jp",
+      "passed": true,
+      "purchasePerformed": false,
+      "cartActionPerformed": false
+    },
+    {
+      "engine": "webkit",
+      "sakeId": "kameman-nigori-genshu-current-v1",
+      "normalDestination": "https://item.rakuten.co.jp/landb-ikedasakaya/10000045/",
+      "finalHost": "item.rakuten.co.jp",
+      "passed": true,
+      "purchasePerformed": false,
+      "cartActionPerformed": false
+    },
+    {
+      "engine": "chromium",
+      "sakeId": "koeigiku-sukai-hiire-current-v1",
+      "normalDestination": "https://item.rakuten.co.jp/auc-chitashige/37040502/",
+      "finalHost": "item.rakuten.co.jp",
+      "passed": true,
+      "purchasePerformed": false,
+      "cartActionPerformed": false
+    },
+    {
+      "engine": "chromium",
+      "sakeId": "kameman-nigori-genshu-current-v1",
+      "normalDestination": "https://item.rakuten.co.jp/landb-ikedasakaya/10000045/",
+      "finalHost": "item.rakuten.co.jp",
+      "passed": true,
+      "purchasePerformed": false,
+      "cartActionPerformed": false
+    }
+  ],
+  "passed": true
+}

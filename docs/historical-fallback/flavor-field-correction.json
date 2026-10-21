@@ -1,0 +1,11 @@
+{
+  "checkedAt": "2026-10-20T14:05:44.118Z",
+  "sakeId": "kurobekyo-junmai-ginjo55-current-v1",
+  "field": "flavorProfile.aroma",
+  "before": "豊かな風味",
+  "after": null,
+  "reason": "General flavor must not be narrowed to an explicitly verified aroma.",
+  "tagsAndDescriptionPreserved": true,
+  "existing558RecordsUntouched": true,
+  "canceledPrepublicationDeployment": "dpl_Wg8i1sC28iGeUYXG5ps73Xe8cFsx"
+}

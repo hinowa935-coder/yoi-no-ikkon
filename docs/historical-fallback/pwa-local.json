@@ -1,0 +1,34 @@
+{
+  "checkedAt": "2026-10-21T20:26:15.488Z",
+  "base": "http://127.0.0.1:3197",
+  "rows": [
+    {
+      "engine": "chromium",
+      "serviceWorker": {
+        "controlled": true,
+        "script": "/sw.js"
+      },
+      "searchBack": true,
+      "favoriteRealButton": true,
+      "favoriteAfterReload": true,
+      "errors": [],
+      "passed": true,
+      "realDevice": false
+    },
+    {
+      "engine": "webkit",
+      "serviceWorker": {
+        "controlled": true,
+        "script": "/sw.js"
+      },
+      "searchBack": true,
+      "favoriteRealButton": true,
+      "favoriteAfterReload": true,
+      "errors": [],
+      "passed": true,
+      "realDevice": false
+    }
+  ],
+  "passed": true,
+  "installedRealDevicePwa": false
+}

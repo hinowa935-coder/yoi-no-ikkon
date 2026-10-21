@@ -1408,7 +1408,7 @@
       "file": "src/commerce/generated/purchase-matches.json",
       "sakeId": "kurobekyo-junmai-ginjo55-current-v1",
       "beforeSha256": "74234e98afe7498fb5daf1f36ac2d78acc339464f950703b8c019892f982b90b",
-      "afterSha256": "0d73a8e836d5311f8a01939a394d27e30cc9f86bd2cfd20ce740b7ecb5a93a9d",
+      "afterSha256": "b9cb8b670da5f2312e03a1d65d813cbe093ef5387857e606acb48f3f5776f930",
       "previouslyPresent": false
     },
     {
@@ -1604,7 +1604,7 @@
       "file": "src/commerce/generated/product-media.json",
       "sakeId": "kurobekyo-junmai-ginjo55-current-v1",
       "beforeSha256": "74234e98afe7498fb5daf1f36ac2d78acc339464f950703b8c019892f982b90b",
-      "afterSha256": "53c42bb910bce5a345f750bc5c10755a8421c83878141c1213bbdf36d5d10ce2",
+      "afterSha256": "a29872b6a189fe28928692b2dcb4f424072cadd67d0b8969acbace4d8b67c82d",
       "previouslyPresent": false
     },
     {
@@ -1661,7 +1661,7 @@
     "beforeSha256": "cabb682b823c4e252c7703f206a4110f941856da9945f404a15ca6b2a39803d9",
     "afterSha256": "094eacff135639c31560b3e8df803da7886cbbe7397b470af5a2b8dce50ff301"
   },
-  "publicationApprovedAt": "2026-10-20T13:44:46.749Z",
+  "publicationApprovedAt": "2026-10-21T20:27:13.853Z",
   "qaArtifacts": [
     "browser-local.json",
     "code-checks.json",

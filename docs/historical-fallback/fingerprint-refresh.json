@@ -1,0 +1,36 @@
+{
+  "checkedAt": "2026-10-21T20:19:53.372Z",
+  "sakeId": "kurobekyo-junmai-ginjo55-current-v1",
+  "reason": "Rebind unchanged reviewed creatives after the general-flavor/aroma classification correction.",
+  "changed": [
+    {
+      "file": "src/commerce/generated/purchase-matches.json",
+      "sakeId": "kurobekyo-junmai-ginjo55-current-v1",
+      "beforeFingerprint": "e66fd266a7117bd6772f202a86a87b3e812f02c8c5023a761b2e00e8d9d7543e",
+      "afterFingerprint": "e4d53469c614791b61953d71bec16b5ced022cdf3148890212c8498c9878f226",
+      "onlyFingerprintChanged": true
+    },
+    {
+      "file": "src/commerce/generated/product-media.json",
+      "sakeId": "kurobekyo-junmai-ginjo55-current-v1",
+      "beforeFingerprint": "e66fd266a7117bd6772f202a86a87b3e812f02c8c5023a761b2e00e8d9d7543e",
+      "afterFingerprint": "e4d53469c614791b61953d71bec16b5ced022cdf3148890212c8498c9878f226",
+      "onlyFingerprintChanged": true
+    },
+    {
+      "file": "src/commerce/generated/commerce-final-approvals.json",
+      "sakeId": "kurobekyo-junmai-ginjo55-current-v1",
+      "beforeFingerprint": "e66fd266a7117bd6772f202a86a87b3e812f02c8c5023a761b2e00e8d9d7543e",
+      "afterFingerprint": "e4d53469c614791b61953d71bec16b5ced022cdf3148890212c8498c9878f226",
+      "onlyFingerprintChanged": true
+    },
+    {
+      "file": "src/commerce/generated/discovery-links.json",
+      "sakeId": "kurobekyo-junmai-ginjo55-current-v1",
+      "beforeFingerprint": "e66fd266a7117bd6772f202a86a87b3e812f02c8c5023a761b2e00e8d9d7543e",
+      "afterFingerprint": "e4d53469c614791b61953d71bec16b5ced022cdf3148890212c8498c9878f226",
+      "onlyFingerprintChanged": true
+    }
+  ],
+  "urlsImagesCapacitiesAndApprovalStatesUnchanged": true
+}

@@ -31061,17 +31061,24 @@
         }
       ],
       "confidence": "medium",
-      "lastCheckedAt": "2026-10-20T13:25:14.243Z",
+      "lastCheckedAt": "2026-10-21T20:23:47.803Z",
       "automaticPublicationAllowed": false,
       "reviewPreserved": true,
       "commercialStatus": "LIVE_PURCHASE_CONFIRMED",
       "commercialDecision": {
-        "checkedAt": "2026-10-20T13:11:42.155Z",
+        "checkedAt": "2026-10-21T20:23:47.803Z",
         "formalAffiliate": true,
         "sameSku": true,
         "registeredSite": "https://yoi-no-ikkon.vercel.app/",
         "originalSha256": "1b43c2eaf0c2a76445697db5d03d354ed68a2f1be2843c03187822116950e735",
-        "validUntil": "2026-11-19T13:28:34.216Z"
+        "validUntil": "2026-11-19T13:28:34.216Z",
+        "stockEvidence": {
+          "sourceUrl": "https://item.rakuten.co.jp/auc-chitashige/37040502/",
+          "itemCode": "auc-chitashige:10014116",
+          "checkedAt": "2026-10-21T20:23:47.803Z",
+          "purchasable": true,
+          "state": "purchase_enabled"
+        }
       },
       "imageStatus": "FORMAL_IMAGE_CONFIRMED",
       "imageDecision": {
@@ -31081,7 +31088,7 @@
         "originalSha256": "04b4002e4c5201049de854cd65223f188d3dc58c85899036ca88b9831e7d76a4",
         "validUntil": "2026-11-19T13:28:34.216Z"
       },
-      "publicationApprovedAt": "2026-10-20T13:44:46.749Z",
+      "publicationApprovedAt": "2026-10-21T20:27:13.853Z",
       "publicationApprovalSource": "36c4891d-b2bc-4c0e-aa13-84baf1df9d51",
       "catalogDecision": "OPERATOR_PREAPPROVED_REVIEWED_RELEASE"
     },
@@ -31443,17 +31450,24 @@
       },
       "differenceNotes": [],
       "confidence": "high",
-      "lastCheckedAt": "2026-10-20T13:25:14.243Z",
+      "lastCheckedAt": "2026-10-21T20:23:48.681Z",
       "automaticPublicationAllowed": false,
       "reviewPreserved": true,
       "commercialStatus": "LIVE_PURCHASE_CONFIRMED",
       "commercialDecision": {
-        "checkedAt": "2026-10-20T12:42:05.167Z",
+        "checkedAt": "2026-10-21T20:23:48.681Z",
         "formalAffiliate": true,
         "sameSku": true,
         "registeredSite": "https://yoi-no-ikkon.vercel.app/",
         "originalSha256": "06629c5603cbfa53bf53f66d4b2b27cae6f1ef8174fbe942e6b9992329e351fa",
-        "validUntil": "2026-11-19T13:28:34.216Z"
+        "validUntil": "2026-11-19T13:28:34.216Z",
+        "stockEvidence": {
+          "sourceUrl": "https://item.rakuten.co.jp/izumiya-sake/211498/",
+          "itemCode": "izumiya-sake:10000169",
+          "checkedAt": "2026-10-21T20:23:48.681Z",
+          "purchasable": true,
+          "state": "purchase_enabled"
+        }
       },
       "imageStatus": "FORMAL_IMAGE_CONFIRMED",
       "imageDecision": {
@@ -31463,7 +31477,7 @@
         "originalSha256": "4dff94be26d1aedde1c99454b13848f36d828c2221e9a06d98b744b26345ef00",
         "validUntil": "2026-11-19T13:28:34.216Z"
       },
-      "publicationApprovedAt": "2026-10-20T13:44:46.749Z",
+      "publicationApprovedAt": "2026-10-21T20:27:13.853Z",
       "publicationApprovalSource": "36c4891d-b2bc-4c0e-aa13-84baf1df9d51",
       "catalogDecision": "OPERATOR_PREAPPROVED_REVIEWED_RELEASE"
     },
@@ -31922,17 +31936,24 @@
       },
       "differenceNotes": [],
       "confidence": "high",
-      "lastCheckedAt": "2026-10-20T13:25:14.243Z",
+      "lastCheckedAt": "2026-10-21T20:23:49.874Z",
       "automaticPublicationAllowed": false,
       "reviewPreserved": true,
       "commercialStatus": "LIVE_PURCHASE_CONFIRMED",
       "commercialDecision": {
-        "checkedAt": "2026-10-20T12:42:12.416Z",
+        "checkedAt": "2026-10-21T20:23:49.874Z",
         "formalAffiliate": true,
         "sameSku": true,
         "registeredSite": "https://yoi-no-ikkon.vercel.app/",
         "originalSha256": "698f8d2565dfb3247db66aba0ce27ca2503df368a747ccc3fb9cce2a16ad6496",
-        "validUntil": "2026-11-19T13:28:34.216Z"
+        "validUntil": "2026-11-19T13:28:34.216Z",
+        "stockEvidence": {
+          "sourceUrl": "https://item.rakuten.co.jp/sagamarche/100673/",
+          "itemCode": "sagamarche:10002655",
+          "checkedAt": "2026-10-21T20:23:49.874Z",
+          "purchasable": true,
+          "state": "purchase_enabled"
+        }
       },
       "imageStatus": "FORMAL_IMAGE_CONFIRMED",
       "imageDecision": {
@@ -31942,7 +31963,7 @@
         "originalSha256": "b76d9a604276f14a54556f1422dae0fa3ad86f8fc12a5bd464ecfe28039e445a",
         "validUntil": "2026-11-19T13:28:34.216Z"
       },
-      "publicationApprovedAt": "2026-10-20T13:44:46.749Z",
+      "publicationApprovedAt": "2026-10-21T20:27:13.853Z",
       "publicationApprovalSource": "36c4891d-b2bc-4c0e-aa13-84baf1df9d51",
       "catalogDecision": "OPERATOR_PREAPPROVED_REVIEWED_RELEASE"
     },
@@ -32521,17 +32542,24 @@
         }
       ],
       "confidence": "medium",
-      "lastCheckedAt": "2026-10-20T13:25:14.243Z",
+      "lastCheckedAt": "2026-10-21T20:23:51.091Z",
       "automaticPublicationAllowed": false,
       "reviewPreserved": true,
       "commercialStatus": "LIVE_PURCHASE_CONFIRMED",
       "commercialDecision": {
-        "checkedAt": "2026-10-20T12:54:24.545Z",
+        "checkedAt": "2026-10-21T20:23:51.091Z",
         "formalAffiliate": true,
         "sameSku": true,
         "registeredSite": "https://yoi-no-ikkon.vercel.app/",
         "originalSha256": "3a367ab2e94218de11e10840531be6775ab4deba05d125843cafb7c1a80d309c",
-        "validUntil": "2026-11-19T13:28:34.216Z"
+        "validUntil": "2026-11-19T13:28:34.216Z",
+        "stockEvidence": {
+          "sourceUrl": "https://item.rakuten.co.jp/sakeroman/10002305/",
+          "itemCode": "sakeroman:10002305",
+          "checkedAt": "2026-10-21T20:23:51.091Z",
+          "purchasable": true,
+          "state": "purchase_enabled"
+        }
       },
       "imageStatus": "FORMAL_IMAGE_CONFIRMED",
       "imageDecision": {
@@ -32541,7 +32569,7 @@
         "originalSha256": "7d5c7441dd88020d3a05c773b8278112bfee39388a4bcb0b4274dad448f1e4c2",
         "validUntil": "2026-11-19T13:28:34.216Z"
       },
-      "publicationApprovedAt": "2026-10-20T13:44:46.749Z",
+      "publicationApprovedAt": "2026-10-21T20:27:13.853Z",
       "publicationApprovalSource": "36c4891d-b2bc-4c0e-aa13-84baf1df9d51",
       "catalogDecision": "OPERATOR_PREAPPROVED_REVIEWED_RELEASE"
     },
@@ -32844,17 +32872,24 @@
         }
       ],
       "confidence": "high",
-      "lastCheckedAt": "2026-10-20T13:25:14.243Z",
+      "lastCheckedAt": "2026-10-21T20:23:52.298Z",
       "automaticPublicationAllowed": false,
       "reviewPreserved": true,
       "commercialStatus": "LIVE_PURCHASE_CONFIRMED",
       "commercialDecision": {
-        "checkedAt": "2026-10-20T12:42:38.970Z",
+        "checkedAt": "2026-10-21T20:23:52.298Z",
         "formalAffiliate": true,
         "sameSku": true,
         "registeredSite": "https://yoi-no-ikkon.vercel.app/",
         "originalSha256": "7cb2affe5399e0fc4c2dfd469d3db07a88f919dc76d0902ecd807ec3a8801d4d",
-        "validUntil": "2026-11-19T13:28:34.216Z"
+        "validUntil": "2026-11-19T13:28:34.216Z",
+        "stockEvidence": {
+          "sourceUrl": "https://item.rakuten.co.jp/kurumayasaketen/4983866315654/",
+          "itemCode": "kurumayasaketen:10003101",
+          "checkedAt": "2026-10-21T20:23:52.298Z",
+          "purchasable": true,
+          "state": "purchase_enabled"
+        }
       },
       "imageStatus": "FORMAL_IMAGE_CONFIRMED",
       "imageDecision": {
@@ -32864,7 +32899,7 @@
         "originalSha256": "31be495166e916b5b50e99cb90007b3ff7fdaca06e3d8bdad86e80952a9002cd",
         "validUntil": "2026-11-19T13:28:34.216Z"
       },
-      "publicationApprovedAt": "2026-10-20T13:44:46.749Z",
+      "publicationApprovedAt": "2026-10-21T20:27:13.853Z",
       "publicationApprovalSource": "36c4891d-b2bc-4c0e-aa13-84baf1df9d51",
       "catalogDecision": "OPERATOR_PREAPPROVED_REVIEWED_RELEASE"
     },
@@ -33236,17 +33271,24 @@
         }
       ],
       "confidence": "high",
-      "lastCheckedAt": "2026-10-20T13:25:14.243Z",
+      "lastCheckedAt": "2026-10-21T20:23:53.538Z",
       "automaticPublicationAllowed": false,
       "reviewPreserved": true,
       "commercialStatus": "LIVE_PURCHASE_CONFIRMED",
       "commercialDecision": {
-        "checkedAt": "2026-10-20T12:43:25.866Z",
+        "checkedAt": "2026-10-21T20:23:53.538Z",
         "formalAffiliate": true,
         "sameSku": true,
         "registeredSite": "https://yoi-no-ikkon.vercel.app/",
         "originalSha256": "c591296631813914beb170f64d3ca1893053797a5cd765aa7aaf9d4f022be8c8",
-        "validUntil": "2026-11-19T13:28:34.216Z"
+        "validUntil": "2026-11-19T13:28:34.216Z",
+        "stockEvidence": {
+          "sourceUrl": "https://item.rakuten.co.jp/sake-makino/10008-09-8207-1/",
+          "itemCode": "sake-makino:10035022",
+          "checkedAt": "2026-10-21T20:23:53.538Z",
+          "purchasable": true,
+          "state": "purchase_enabled"
+        }
       },
       "imageStatus": "FORMAL_IMAGE_CONFIRMED",
       "imageDecision": {
@@ -33256,7 +33298,7 @@
         "originalSha256": "008bd948eb39b6146c1674a6e53ffa05d6130006d27d89b5c98ffca632c5e5cf",
         "validUntil": "2026-11-19T13:28:34.216Z"
       },
-      "publicationApprovedAt": "2026-10-20T13:44:46.749Z",
+      "publicationApprovedAt": "2026-10-21T20:27:13.853Z",
       "publicationApprovalSource": "36c4891d-b2bc-4c0e-aa13-84baf1df9d51",
       "catalogDecision": "OPERATOR_PREAPPROVED_REVIEWED_RELEASE"
     },
@@ -33613,17 +33655,24 @@
         }
       ],
       "confidence": "high",
-      "lastCheckedAt": "2026-10-20T13:25:14.243Z",
+      "lastCheckedAt": "2026-10-21T20:23:54.725Z",
       "automaticPublicationAllowed": false,
       "reviewPreserved": true,
       "commercialStatus": "LIVE_PURCHASE_CONFIRMED",
       "commercialDecision": {
-        "checkedAt": "2026-10-20T12:43:46.514Z",
+        "checkedAt": "2026-10-21T20:23:54.725Z",
         "formalAffiliate": true,
         "sameSku": true,
         "registeredSite": "https://yoi-no-ikkon.vercel.app/",
         "originalSha256": "8dd51c98da67f82604712d9ef52d1123e377c0d0f441d16e31a9593fa57538b6",
-        "validUntil": "2026-11-19T13:28:34.216Z"
+        "validUntil": "2026-11-19T13:28:34.216Z",
+        "stockEvidence": {
+          "sourceUrl": "https://item.rakuten.co.jp/auc-8848-jizake/oku-10/",
+          "itemCode": "auc-8848-jizake:10002526",
+          "checkedAt": "2026-10-21T20:23:54.725Z",
+          "purchasable": true,
+          "state": "purchase_enabled"
+        }
       },
       "imageStatus": "FORMAL_IMAGE_CONFIRMED",
       "imageDecision": {
@@ -33633,7 +33682,7 @@
         "originalSha256": "d016f91dcfa7a8b56ec3b999772786cf9ff2a67c21a3fce4bfd4d1cefd6249fc",
         "validUntil": "2026-11-19T13:28:34.216Z"
       },
-      "publicationApprovedAt": "2026-10-20T13:44:46.749Z",
+      "publicationApprovedAt": "2026-10-21T20:27:13.853Z",
       "publicationApprovalSource": "36c4891d-b2bc-4c0e-aa13-84baf1df9d51",
       "catalogDecision": "OPERATOR_PREAPPROVED_REVIEWED_RELEASE"
     },
@@ -33966,17 +34015,24 @@
         }
       ],
       "confidence": "high",
-      "lastCheckedAt": "2026-10-20T13:25:14.243Z",
+      "lastCheckedAt": "2026-10-21T20:23:55.907Z",
       "automaticPublicationAllowed": false,
       "reviewPreserved": true,
       "commercialStatus": "LIVE_PURCHASE_CONFIRMED",
       "commercialDecision": {
-        "checkedAt": "2026-10-20T12:55:07.973Z",
+        "checkedAt": "2026-10-21T20:23:55.907Z",
         "formalAffiliate": true,
         "sameSku": true,
         "registeredSite": "https://yoi-no-ikkon.vercel.app/",
         "originalSha256": "3d8f333f46e19df27a80e3dc8e672c37c932922c1b1d041a6b4a8583b8f11a77",
-        "validUntil": "2026-11-19T13:28:34.216Z"
+        "validUntil": "2026-11-19T13:28:34.216Z",
+        "stockEvidence": {
+          "sourceUrl": "https://item.rakuten.co.jp/hasegawasaketen/1011873/",
+          "itemCode": "hasegawasaketen:10012064",
+          "checkedAt": "2026-10-21T20:23:55.907Z",
+          "purchasable": true,
+          "state": "purchase_enabled"
+        }
       },
       "imageStatus": "FORMAL_IMAGE_CONFIRMED",
       "imageDecision": {
@@ -33986,7 +34042,7 @@
         "originalSha256": "8386f020d336282dc699a7da08e2e1f963426ac366ea9750013ff28e2370707a",
         "validUntil": "2026-11-19T13:28:34.216Z"
       },
-      "publicationApprovedAt": "2026-10-20T13:44:46.749Z",
+      "publicationApprovedAt": "2026-10-21T20:27:13.853Z",
       "publicationApprovalSource": "36c4891d-b2bc-4c0e-aa13-84baf1df9d51",
       "catalogDecision": "OPERATOR_PREAPPROVED_REVIEWED_RELEASE"
     },
@@ -34344,17 +34400,24 @@
         }
       ],
       "confidence": "high",
-      "lastCheckedAt": "2026-10-20T13:25:14.243Z",
+      "lastCheckedAt": "2026-10-21T20:23:57.118Z",
       "automaticPublicationAllowed": false,
       "reviewPreserved": true,
       "commercialStatus": "LIVE_PURCHASE_CONFIRMED",
       "commercialDecision": {
-        "checkedAt": "2026-10-20T12:44:44.930Z",
+        "checkedAt": "2026-10-21T20:23:57.118Z",
         "formalAffiliate": true,
         "sameSku": true,
         "registeredSite": "https://yoi-no-ikkon.vercel.app/",
         "originalSha256": "dc5e5a70c32610ed115f44d4fef5173c662194f362664e7a32931b4421217881",
-        "validUntil": "2026-11-19T13:28:34.216Z"
+        "validUntil": "2026-11-19T13:28:34.216Z",
+        "stockEvidence": {
+          "sourceUrl": "https://item.rakuten.co.jp/ichiishop/8274212/",
+          "itemCode": "ichiishop:10017535",
+          "checkedAt": "2026-10-21T20:23:57.118Z",
+          "purchasable": true,
+          "state": "purchase_enabled"
+        }
       },
       "imageStatus": "FORMAL_IMAGE_CONFIRMED",
       "imageDecision": {
@@ -34364,7 +34427,7 @@
         "originalSha256": "78a21e9ad787c9ef34fa2760189f284b4ee3620b450111be75f4778988755d2a",
         "validUntil": "2026-11-19T13:28:34.216Z"
       },
-      "publicationApprovedAt": "2026-10-20T13:44:46.749Z",
+      "publicationApprovedAt": "2026-10-21T20:27:13.853Z",
       "publicationApprovalSource": "36c4891d-b2bc-4c0e-aa13-84baf1df9d51",
       "catalogDecision": "OPERATOR_PREAPPROVED_REVIEWED_RELEASE"
     },
@@ -34729,17 +34792,24 @@
         }
       ],
       "confidence": "high",
-      "lastCheckedAt": "2026-10-20T13:25:14.243Z",
+      "lastCheckedAt": "2026-10-21T20:23:58.329Z",
       "automaticPublicationAllowed": false,
       "reviewPreserved": true,
       "commercialStatus": "LIVE_PURCHASE_CONFIRMED",
       "commercialDecision": {
-        "checkedAt": "2026-10-20T12:49:26.749Z",
+        "checkedAt": "2026-10-21T20:23:58.329Z",
         "formalAffiliate": true,
         "sameSku": true,
         "registeredSite": "https://yoi-no-ikkon.vercel.app/",
         "originalSha256": "f190138a0b88ddfd93bd4a1aa68f0028b2cb29217c83ad8e84d526ac03026649",
-        "validUntil": "2026-11-19T13:28:34.216Z"
+        "validUntil": "2026-11-19T13:28:34.216Z",
+        "stockEvidence": {
+          "sourceUrl": "https://item.rakuten.co.jp/landb-ikedasakaya/10000045/",
+          "itemCode": "landb-ikedasakaya:10000045",
+          "checkedAt": "2026-10-21T20:23:58.329Z",
+          "purchasable": true,
+          "state": "purchase_enabled"
+        }
       },
       "imageStatus": "FORMAL_IMAGE_CONFIRMED",
       "imageDecision": {
@@ -34749,7 +34819,7 @@
         "originalSha256": "b337d526f69276d828d935b7b8a95eb26abc25cf4c1122b87513155f8d8b5b0c",
         "validUntil": "2026-11-19T13:28:34.216Z"
       },
-      "publicationApprovedAt": "2026-10-20T13:44:46.749Z",
+      "publicationApprovedAt": "2026-10-21T20:27:13.853Z",
       "publicationApprovalSource": "36c4891d-b2bc-4c0e-aa13-84baf1df9d51",
       "catalogDecision": "OPERATOR_PREAPPROVED_REVIEWED_RELEASE"
     },
@@ -35034,17 +35104,24 @@
         }
       ],
       "confidence": "high",
-      "lastCheckedAt": "2026-10-20T13:25:14.243Z",
+      "lastCheckedAt": "2026-10-21T20:23:59.549Z",
       "automaticPublicationAllowed": false,
       "reviewPreserved": true,
       "commercialStatus": "LIVE_PURCHASE_CONFIRMED",
       "commercialDecision": {
-        "checkedAt": "2026-10-20T12:44:18.040Z",
+        "checkedAt": "2026-10-21T20:23:59.549Z",
         "formalAffiliate": true,
         "sameSku": true,
         "registeredSite": "https://yoi-no-ikkon.vercel.app/",
         "originalSha256": "d2de182cf1801f368fde1615f53dcae7f9b83c1800ab0eb088e7334bbcef9aa2",
-        "validUntil": "2026-11-19T13:28:34.216Z"
+        "validUntil": "2026-11-19T13:28:34.216Z",
+        "stockEvidence": {
+          "sourceUrl": "https://item.rakuten.co.jp/gottuou/1520601/",
+          "itemCode": "gottuou:10000025",
+          "checkedAt": "2026-10-21T20:23:59.549Z",
+          "purchasable": true,
+          "state": "purchase_enabled"
+        }
       },
       "imageStatus": "FORMAL_IMAGE_CONFIRMED",
       "imageDecision": {
@@ -35054,7 +35131,7 @@
         "originalSha256": "2ba3e80a9aad16157850ce1101cc6b2e23aca325991d0dde702b24566647854a",
         "validUntil": "2026-11-19T13:28:34.216Z"
       },
-      "publicationApprovedAt": "2026-10-20T13:44:46.749Z",
+      "publicationApprovedAt": "2026-10-21T20:27:13.853Z",
       "publicationApprovalSource": "36c4891d-b2bc-4c0e-aa13-84baf1df9d51",
       "catalogDecision": "OPERATOR_PREAPPROVED_REVIEWED_RELEASE"
     }

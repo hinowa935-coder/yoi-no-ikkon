@@ -35811,7 +35811,7 @@
         },
         "flavorProfile": {
           "sweetness": null,
-          "aroma": "豊かな風味",
+          "aroma": null,
           "umami": null,
           "acidity": null,
           "body": "豊かな味わい",
@@ -35898,15 +35898,6 @@
           {
             "field": "flavorProfile.body",
             "value": "豊かな味わい",
-            "sourceUrl": "https://www.hayashisyuzo.com/brand/",
-            "sourceType": "official",
-            "verifiedAt": "2026-10-20",
-            "meaning": "当該SKUの商品欄。別商品・別年度の値を補完しない。",
-            "productScope": "product"
-          },
-          {
-            "field": "flavorProfile.aroma",
-            "value": "豊かな風味",
             "sourceUrl": "https://www.hayashisyuzo.com/brand/",
             "sourceType": "official",
             "verifiedAt": "2026-10-20",
@@ -36014,7 +36005,8 @@
         "dataConfidence": "high",
         "needsIdentification": false,
         "auditNotes": [
-          "林の美山錦から黒部峡へ別ブランド・別SKUで変更。商品名の55だけから分析値を補完せず、原料米と温度も未確認。"
+          "林の美山錦から黒部峡へ別ブランド・別SKUで変更。商品名の55だけから分析値を補完せず、原料米と温度も未確認。",
+          "豊かな風味は総合的な味わいの表現として保持し、香りを直接裏付けるものとして分類しない。"
         ],
         "lastVerifiedAt": "2026-10-20",
         "researchPhase": "historical-fallback",

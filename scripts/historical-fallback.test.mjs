@@ -42,6 +42,10 @@ test('recovered and new products keep original creatives, capacities, links and 
 });
 test('new facts are sourced individually, no inherited review or made-up consensus',()=>{
  assert.equal(additions.length,batch.additions.length);
+ const kurobe=getSakeById('kurobekyo-junmai-ginjo55-current-v1').sakeResearch;
+ assert.equal(kurobe.flavorProfile.aroma,null);
+ assert(!kurobe.fieldEvidence.some(e=>e.field==='flavorProfile.aroma'));
+ assert(kurobe.verifiedFeatureTags.includes('豊かな風味'));
  for(const i of additions){const r=i.sakeResearch;assert(r.verifiedFeatureTags.length>0&&r.verifiedFeatureTags.length<=3);assert(r.verifiedFeatureTags.every(t=>r.featureEvidence.some(e=>e.feature===t&&e.sourceUrl&&e.verifiedAt&&e.meaning)));for(const[k,v]of Object.entries(r.specs))if(v!=null&&(!Array.isArray(v)||v.length))assert(r.fieldEvidence.some(e=>e.field==='specs.'+k&&JSON.stringify(e.value)===JSON.stringify(v)),i.id+' '+k);assert(!(r.classification.nama&&r.classification.hiire));assert(!(r.classification.junmai&&r.classification.nonJunmai));assert(!(r.classification.kimoto&&r.classification.yamahai));assert(i.communityEvidence.length===0);assert(Object.values(i.sensoryConsensus.fields).every(f=>f.value===null));assert(i.sensoryConsensus.notVerifiedSpecifications);assert(i.editorialPairingEvidence.every(e=>e.provenance==='yoiEditorial'&&e.dishEvidence.foodId));assert.equal(dishesForSake(i).length>=3,true);assert(nightsForSake(i,Infinity).length>0);}
 });
 test('major designs remain separate and same company names in different prefectures do not merge',()=>{
