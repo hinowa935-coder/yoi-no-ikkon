@@ -645,14 +645,18 @@ main.min-h-screen::after {
 .facet-group { border: 0; padding: 0; margin: 0 0 24px; min-width: 0; }
 .facet-group legend, .facet-select > span { display: block; font-size: 15px; margin-bottom: 12px; }
 .facet-options { display: flex; flex-wrap: wrap; gap: 8px; }
-.facet-options .filter-chip { position: relative; padding-left: 28px; }
+.facet-options .filter-chip { position: relative; padding: 12px 16px 12px 30px; min-width: 86px; min-height: 48px; white-space: nowrap; line-height: 1.5; font-weight: 500; border-color: #f8f0df38; background: #0b172966; }
+.facet-options .filter-chip[aria-pressed="true"] { border-color: #edd496; background: #d8bd7a20; }
 .facet-options .filter-chip > svg { position: absolute; left: 8px; }
 .facet-select { display: block; margin: 0 0 24px; min-width: 0; }
 .facet-select select { width: 100%; }
 .advanced-search { border-top: 1px solid #d8bd7a33; }
 .advanced-search > summary { padding: 16px 0; min-height: 48px; font-size: 15px; }
 .advanced-search-fields { padding-top: 8px; }
-.filter-sheet-footer { display: flex; justify-content: space-between; align-items: center; flex-shrink: 0; padding: 12px 20px; gap: 16px; border-top: 1px solid #d8bd7a33; background: #091425; }
+.filter-sheet-footer { display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; flex-shrink: 0; padding: 12px 20px; gap: 12px; border-top: 1px solid #d8bd7a33; background: #091425; }
+.filter-sheet-zero { flex-basis: 100%; margin: 0; font-size: 13px; line-height: 1.6; }
+.filter-sheet-zero .text-link { display: block; }
+.filter-sheet-footer button:disabled { opacity: .4; cursor: default; }
 .filter-sheet-footer .text-link { min-height: 44px; font-size: 14px; }
 .filter-sheet-footer .yoi-button { min-height: 48px; min-width: 140px; justify-content: center; }
 .filter-open:focus-visible, .filter-chip:focus-visible, .icon-button:focus-visible, .keyword-control button:focus-visible { outline: 2px solid #e6ca90; outline-offset: 3px; }
@@ -690,3 +694,27 @@ main.min-h-screen::after {
 }
 @media (prefers-reduced-motion: no-preference) { .filter-sheet[open] { animation: sheet-enter 140ms ease-out; } }
 @keyframes sheet-enter { from { opacity: 0; transform: translateY(12px); } to { opacity: 1; transform: translateY(0); } }
+
+.discovery-shell .search-page > h1.search-page-title { font-size: 28px; line-height: 1.5; margin: 8px 0 20px; }
+.food-category-picker { margin: 28px 0; }
+.discovery-shell .food-category-picker h2 { font-size: 19px; margin: 0 0 16px; line-height: 1.5; }
+.food-category-grid { display: grid; grid-template-columns: repeat(4,minmax(0,1fr)); gap: 12px; }
+.food-category-choice { display: flex; flex-direction: column; align-items: stretch; gap: 8px; min-height: 102px; min-width: 0; border: 1px solid #f8f0df38; border-radius: 6px; background: #0b17293d; color: #fff8e9; padding: 16px; text-align: left; cursor: pointer; font-size: 14px; line-height: 1.5; }
+.food-category-symbol { display: flex; align-items: center; justify-content: space-between; height: 24px; color: #d8bd7a; }
+.food-category-name { white-space: nowrap; font-weight: 500; }
+.food-category-choice small { font-size: 12px; color: #cdc6b6; }
+.food-category-choice[aria-pressed="true"] { border-color: #edd496; background: #d8bd7a20; }
+.food-category-choice:hover { border-color: #d8bd7a99; }
+.food-category-choice:focus-visible { outline: 2px solid #e6ca90; outline-offset: 3px; }
+.food-show-all { display: inline-flex; align-items: center; gap: 10px; min-height: 44px; margin-top: 12px; }
+.food-show-all svg { width: 18px; height: 18px; }
+.food-browse-results { margin-top: 32px; scroll-margin-top: 24px; }
+.food-results-heading { display: flex; flex-wrap: wrap; align-items: baseline; gap: 12px 20px; }
+.discovery-shell .food-results-heading h2 { font-size: 22px; line-height: 1.5; margin: 0; }
+.food-results-heading p { margin: 0; }
+@media (max-width: 767px) {
+  .discovery-shell .search-page > h1.search-page-title { font-size: 26px; margin-bottom: 16px; }
+  .food-category-grid { grid-template-columns: repeat(2,minmax(0,1fr)); gap: 10px; }
+  .food-category-choice { padding: 12px; min-height: 104px; font-size: 13px; }
+  .food-category-picker { margin-top: 24px; }
+}

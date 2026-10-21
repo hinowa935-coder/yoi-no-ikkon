@@ -1,0 +1,3359 @@
+{
+  "checkedAt": "2026-10-21T22:28:47.958Z",
+  "base": "http://127.0.0.1:3197",
+  "checks": [
+    {
+      "name": "webkit-320: no visible temperature shortcuts",
+      "pass": true
+    },
+    {
+      "name": "webkit-320: search no overflow",
+      "pass": true
+    },
+    {
+      "name": "webkit-320: reset disabled initially",
+      "pass": true
+    },
+    {
+      "name": "webkit-320: advanced initially closed",
+      "pass": true
+    },
+    {
+      "name": "webkit-320: OR with live result count",
+      "pass": true
+    },
+    {
+      "name": "webkit-320: two pressed options",
+      "pass": true
+    },
+    {
+      "name": "webkit-320: AND across categories",
+      "pass": true
+    },
+    {
+      "name": "webkit-320: 48px buttons and single-line labels",
+      "pass": true,
+      "detail": [
+        {
+          "height": 48,
+          "wrap": false,
+          "whiteSpace": "nowrap"
+        },
+        {
+          "height": 48,
+          "wrap": false,
+          "whiteSpace": "nowrap"
+        },
+        {
+          "height": 48,
+          "wrap": false,
+          "whiteSpace": "nowrap"
+        },
+        {
+          "height": 48,
+          "wrap": false,
+          "whiteSpace": "nowrap"
+        },
+        {
+          "height": 48,
+          "wrap": false,
+          "whiteSpace": "nowrap"
+        },
+        {
+          "height": 48.0001220703125,
+          "wrap": false,
+          "whiteSpace": "nowrap"
+        },
+        {
+          "height": 48,
+          "wrap": false,
+          "whiteSpace": "nowrap"
+        },
+        {
+          "height": 48,
+          "wrap": false,
+          "whiteSpace": "nowrap"
+        },
+        {
+          "height": 48.383575439453125,
+          "wrap": false,
+          "whiteSpace": "nowrap"
+        },
+        {
+          "height": 48,
+          "wrap": false,
+          "whiteSpace": "nowrap"
+        },
+        {
+          "height": 48,
+          "wrap": false,
+          "whiteSpace": "nowrap"
+        },
+        {
+          "height": 48,
+          "wrap": false,
+          "whiteSpace": "nowrap"
+        },
+        {
+          "height": 48,
+          "wrap": false,
+          "whiteSpace": "nowrap"
+        }
+      ]
+    },
+    {
+      "name": "webkit-320: footer stays visible after advanced scroll",
+      "pass": true
+    },
+    {
+      "name": "webkit-320: sheet no horizontal overflow",
+      "pass": true
+    },
+    {
+      "name": "webkit-320: one tap reset",
+      "pass": true
+    },
+    {
+      "name": "webkit-320: modal focus trap",
+      "pass": true
+    },
+    {
+      "name": "webkit-320: escape restores filter focus",
+      "pass": true
+    },
+    {
+      "name": "webkit-320: individual chip removes condition",
+      "pass": true
+    },
+    {
+      "name": "webkit-320: zero result guidance",
+      "pass": true
+    },
+    {
+      "name": "webkit-320: keyword なべしま",
+      "pass": true
+    },
+    {
+      "name": "webkit-320: keyword 鍋島",
+      "pass": true
+    },
+    {
+      "name": "webkit-320: keyword 宮坂醸造",
+      "pass": true
+    },
+    {
+      "name": "webkit-320: keyword 肉じゃが",
+      "pass": true
+    },
+    {
+      "name": "webkit-320: search back restores query filters sort scroll",
+      "pass": true
+    },
+    {
+      "name": "webkit-320: ochoko preserved",
+      "pass": true
+    },
+    {
+      "name": "webkit-320: navigation return restores search",
+      "pass": true
+    },
+    {
+      "name": "webkit-320: eight categories without initial bulk results",
+      "pass": true
+    },
+    {
+      "name": "webkit-320: food no overflow",
+      "pass": true
+    },
+    {
+      "name": "webkit-320: category tap targets and label fit",
+      "pass": true,
+      "detail": [
+        {
+          "h": 104,
+          "w": 135,
+          "name": true
+        },
+        {
+          "h": 104,
+          "w": 135,
+          "name": true
+        },
+        {
+          "h": 104,
+          "w": 135,
+          "name": true
+        },
+        {
+          "h": 104,
+          "w": 135,
+          "name": true
+        },
+        {
+          "h": 104,
+          "w": 135,
+          "name": true
+        },
+        {
+          "h": 104,
+          "w": 135,
+          "name": true
+        },
+        {
+          "h": 104,
+          "w": 135,
+          "name": true
+        },
+        {
+          "h": 104,
+          "w": 135,
+          "name": true
+        }
+      ]
+    },
+    {
+      "name": "webkit-320: two column categories",
+      "pass": true
+    },
+    {
+      "name": "webkit-320: category selection count",
+      "pass": true
+    },
+    {
+      "name": "webkit-320: food keyword AND category",
+      "pass": true
+    },
+    {
+      "name": "webkit-320: food detail recommendation",
+      "pass": true
+    },
+    {
+      "name": "webkit-320: food browser back restores category keyword scroll",
+      "pass": true
+    },
+    {
+      "name": "webkit-320: category cleared in one tap",
+      "pass": true
+    },
+    {
+      "name": "webkit-320: all foods unique total",
+      "pass": true
+    },
+    {
+      "name": "webkit-320: food load more",
+      "pass": true
+    },
+    {
+      "name": "webkit-320: food reload preserves loaded count",
+      "pass": true
+    },
+    {
+      "name": "webkit-320: direct food keyword",
+      "pass": true
+    },
+    {
+      "name": "webkit-320: legacy detailed category URL",
+      "pass": true
+    },
+    {
+      "name": "webkit-320: existing external recipe preserved",
+      "pass": true
+    },
+    {
+      "name": "webkit-320: food detail all link",
+      "pass": true
+    },
+    {
+      "name": "webkit-320: night food sake navigation intact",
+      "pass": true
+    },
+    {
+      "name": "webkit-320: Discover all foods link directly opens list",
+      "pass": true
+    },
+    {
+      "name": "webkit-320: bottom navigation intact",
+      "pass": true
+    },
+    {
+      "name": "webkit-320: final no overflow",
+      "pass": true
+    },
+    {
+      "name": "webkit-360: no visible temperature shortcuts",
+      "pass": true
+    },
+    {
+      "name": "webkit-360: search no overflow",
+      "pass": true
+    },
+    {
+      "name": "webkit-360: reset disabled initially",
+      "pass": true
+    },
+    {
+      "name": "webkit-360: advanced initially closed",
+      "pass": true
+    },
+    {
+      "name": "webkit-360: OR with live result count",
+      "pass": true
+    },
+    {
+      "name": "webkit-360: two pressed options",
+      "pass": true
+    },
+    {
+      "name": "webkit-360: AND across categories",
+      "pass": true
+    },
+    {
+      "name": "webkit-360: 48px buttons and single-line labels",
+      "pass": true,
+      "detail": [
+        {
+          "height": 48,
+          "wrap": false,
+          "whiteSpace": "nowrap"
+        },
+        {
+          "height": 48,
+          "wrap": false,
+          "whiteSpace": "nowrap"
+        },
+        {
+          "height": 48,
+          "wrap": false,
+          "whiteSpace": "nowrap"
+        },
+        {
+          "height": 48,
+          "wrap": false,
+          "whiteSpace": "nowrap"
+        },
+        {
+          "height": 48,
+          "wrap": false,
+          "whiteSpace": "nowrap"
+        },
+        {
+          "height": 48.00030517578125,
+          "wrap": false,
+          "whiteSpace": "nowrap"
+        },
+        {
+          "height": 48,
+          "wrap": false,
+          "whiteSpace": "nowrap"
+        },
+        {
+          "height": 48,
+          "wrap": false,
+          "whiteSpace": "nowrap"
+        },
+        {
+          "height": 48.3836669921875,
+          "wrap": false,
+          "whiteSpace": "nowrap"
+        },
+        {
+          "height": 48,
+          "wrap": false,
+          "whiteSpace": "nowrap"
+        },
+        {
+          "height": 48,
+          "wrap": false,
+          "whiteSpace": "nowrap"
+        },
+        {
+          "height": 48,
+          "wrap": false,
+          "whiteSpace": "nowrap"
+        },
+        {
+          "height": 48,
+          "wrap": false,
+          "whiteSpace": "nowrap"
+        }
+      ]
+    },
+    {
+      "name": "webkit-360: footer stays visible after advanced scroll",
+      "pass": true
+    },
+    {
+      "name": "webkit-360: sheet no horizontal overflow",
+      "pass": true
+    },
+    {
+      "name": "webkit-360: one tap reset",
+      "pass": true
+    },
+    {
+      "name": "webkit-360: modal focus trap",
+      "pass": true
+    },
+    {
+      "name": "webkit-360: escape restores filter focus",
+      "pass": true
+    },
+    {
+      "name": "webkit-360: individual chip removes condition",
+      "pass": true
+    },
+    {
+      "name": "webkit-360: zero result guidance",
+      "pass": true
+    },
+    {
+      "name": "webkit-360: keyword なべしま",
+      "pass": true
+    },
+    {
+      "name": "webkit-360: keyword 鍋島",
+      "pass": true
+    },
+    {
+      "name": "webkit-360: keyword 宮坂醸造",
+      "pass": true
+    },
+    {
+      "name": "webkit-360: keyword 肉じゃが",
+      "pass": true
+    },
+    {
+      "name": "webkit-360: search back restores query filters sort scroll",
+      "pass": true
+    },
+    {
+      "name": "webkit-360: ochoko preserved",
+      "pass": true
+    },
+    {
+      "name": "webkit-360: navigation return restores search",
+      "pass": true
+    },
+    {
+      "name": "webkit-360: eight categories without initial bulk results",
+      "pass": true
+    },
+    {
+      "name": "webkit-360: food no overflow",
+      "pass": true
+    },
+    {
+      "name": "webkit-360: category tap targets and label fit",
+      "pass": true,
+      "detail": [
+        {
+          "h": 104,
+          "w": 155,
+          "name": true
+        },
+        {
+          "h": 104,
+          "w": 155,
+          "name": true
+        },
+        {
+          "h": 104,
+          "w": 155,
+          "name": true
+        },
+        {
+          "h": 104,
+          "w": 155,
+          "name": true
+        },
+        {
+          "h": 104,
+          "w": 155,
+          "name": true
+        },
+        {
+          "h": 104,
+          "w": 155,
+          "name": true
+        },
+        {
+          "h": 104,
+          "w": 155,
+          "name": true
+        },
+        {
+          "h": 104,
+          "w": 155,
+          "name": true
+        }
+      ]
+    },
+    {
+      "name": "webkit-360: two column categories",
+      "pass": true
+    },
+    {
+      "name": "webkit-360: category selection count",
+      "pass": true
+    },
+    {
+      "name": "webkit-360: food keyword AND category",
+      "pass": true
+    },
+    {
+      "name": "webkit-360: food detail recommendation",
+      "pass": true
+    },
+    {
+      "name": "webkit-360: food browser back restores category keyword scroll",
+      "pass": true
+    },
+    {
+      "name": "webkit-360: category cleared in one tap",
+      "pass": true
+    },
+    {
+      "name": "webkit-360: all foods unique total",
+      "pass": true
+    },
+    {
+      "name": "webkit-360: food load more",
+      "pass": true
+    },
+    {
+      "name": "webkit-360: food reload preserves loaded count",
+      "pass": true
+    },
+    {
+      "name": "webkit-360: direct food keyword",
+      "pass": true
+    },
+    {
+      "name": "webkit-360: legacy detailed category URL",
+      "pass": true
+    },
+    {
+      "name": "webkit-360: existing external recipe preserved",
+      "pass": true
+    },
+    {
+      "name": "webkit-360: food detail all link",
+      "pass": true
+    },
+    {
+      "name": "webkit-360: night food sake navigation intact",
+      "pass": true
+    },
+    {
+      "name": "webkit-360: Discover all foods link directly opens list",
+      "pass": true
+    },
+    {
+      "name": "webkit-360: bottom navigation intact",
+      "pass": true
+    },
+    {
+      "name": "webkit-360: final no overflow",
+      "pass": true
+    },
+    {
+      "name": "webkit-375: no visible temperature shortcuts",
+      "pass": true
+    },
+    {
+      "name": "webkit-375: search no overflow",
+      "pass": true
+    },
+    {
+      "name": "webkit-375: reset disabled initially",
+      "pass": true
+    },
+    {
+      "name": "webkit-375: advanced initially closed",
+      "pass": true
+    },
+    {
+      "name": "webkit-375: OR with live result count",
+      "pass": true
+    },
+    {
+      "name": "webkit-375: two pressed options",
+      "pass": true
+    },
+    {
+      "name": "webkit-375: AND across categories",
+      "pass": true
+    },
+    {
+      "name": "webkit-375: 48px buttons and single-line labels",
+      "pass": true,
+      "detail": [
+        {
+          "height": 48,
+          "wrap": false,
+          "whiteSpace": "nowrap"
+        },
+        {
+          "height": 48,
+          "wrap": false,
+          "whiteSpace": "nowrap"
+        },
+        {
+          "height": 48,
+          "wrap": false,
+          "whiteSpace": "nowrap"
+        },
+        {
+          "height": 48,
+          "wrap": false,
+          "whiteSpace": "nowrap"
+        },
+        {
+          "height": 48,
+          "wrap": false,
+          "whiteSpace": "nowrap"
+        },
+        {
+          "height": 48,
+          "wrap": false,
+          "whiteSpace": "nowrap"
+        },
+        {
+          "height": 48,
+          "wrap": false,
+          "whiteSpace": "nowrap"
+        },
+        {
+          "height": 48,
+          "wrap": false,
+          "whiteSpace": "nowrap"
+        },
+        {
+          "height": 48.38397216796875,
+          "wrap": false,
+          "whiteSpace": "nowrap"
+        },
+        {
+          "height": 48,
+          "wrap": false,
+          "whiteSpace": "nowrap"
+        },
+        {
+          "height": 48,
+          "wrap": false,
+          "whiteSpace": "nowrap"
+        },
+        {
+          "height": 48,
+          "wrap": false,
+          "whiteSpace": "nowrap"
+        },
+        {
+          "height": 48,
+          "wrap": false,
+          "whiteSpace": "nowrap"
+        }
+      ]
+    },
+    {
+      "name": "webkit-375: footer stays visible after advanced scroll",
+      "pass": true
+    },
+    {
+      "name": "webkit-375: sheet no horizontal overflow",
+      "pass": true
+    },
+    {
+      "name": "webkit-375: one tap reset",
+      "pass": true
+    },
+    {
+      "name": "webkit-375: modal focus trap",
+      "pass": true
+    },
+    {
+      "name": "webkit-375: escape restores filter focus",
+      "pass": true
+    },
+    {
+      "name": "webkit-375: individual chip removes condition",
+      "pass": true
+    },
+    {
+      "name": "webkit-375: zero result guidance",
+      "pass": true
+    },
+    {
+      "name": "webkit-375: keyword なべしま",
+      "pass": true
+    },
+    {
+      "name": "webkit-375: keyword 鍋島",
+      "pass": true
+    },
+    {
+      "name": "webkit-375: keyword 宮坂醸造",
+      "pass": true
+    },
+    {
+      "name": "webkit-375: keyword 肉じゃが",
+      "pass": true
+    },
+    {
+      "name": "webkit-375: search back restores query filters sort scroll",
+      "pass": true
+    },
+    {
+      "name": "webkit-375: ochoko preserved",
+      "pass": true
+    },
+    {
+      "name": "webkit-375: navigation return restores search",
+      "pass": true
+    },
+    {
+      "name": "webkit-375: eight categories without initial bulk results",
+      "pass": true
+    },
+    {
+      "name": "webkit-375: food no overflow",
+      "pass": true
+    },
+    {
+      "name": "webkit-375: category tap targets and label fit",
+      "pass": true,
+      "detail": [
+        {
+          "h": 104,
+          "w": 162.5,
+          "name": true
+        },
+        {
+          "h": 104,
+          "w": 162.5,
+          "name": true
+        },
+        {
+          "h": 104,
+          "w": 162.5,
+          "name": true
+        },
+        {
+          "h": 104,
+          "w": 162.5,
+          "name": true
+        },
+        {
+          "h": 104,
+          "w": 162.5,
+          "name": true
+        },
+        {
+          "h": 104,
+          "w": 162.5,
+          "name": true
+        },
+        {
+          "h": 104,
+          "w": 162.5,
+          "name": true
+        },
+        {
+          "h": 104,
+          "w": 162.5,
+          "name": true
+        }
+      ]
+    },
+    {
+      "name": "webkit-375: two column categories",
+      "pass": true
+    },
+    {
+      "name": "webkit-375: category selection count",
+      "pass": true
+    },
+    {
+      "name": "webkit-375: food keyword AND category",
+      "pass": true
+    },
+    {
+      "name": "webkit-375: food detail recommendation",
+      "pass": true
+    },
+    {
+      "name": "webkit-375: food browser back restores category keyword scroll",
+      "pass": true
+    },
+    {
+      "name": "webkit-375: category cleared in one tap",
+      "pass": true
+    },
+    {
+      "name": "webkit-375: all foods unique total",
+      "pass": true
+    },
+    {
+      "name": "webkit-375: food load more",
+      "pass": true
+    },
+    {
+      "name": "webkit-375: food reload preserves loaded count",
+      "pass": true
+    },
+    {
+      "name": "webkit-375: direct food keyword",
+      "pass": true
+    },
+    {
+      "name": "webkit-375: legacy detailed category URL",
+      "pass": true
+    },
+    {
+      "name": "webkit-375: existing external recipe preserved",
+      "pass": true
+    },
+    {
+      "name": "webkit-375: food detail all link",
+      "pass": true
+    },
+    {
+      "name": "webkit-375: night food sake navigation intact",
+      "pass": true
+    },
+    {
+      "name": "webkit-375: Discover all foods link directly opens list",
+      "pass": true
+    },
+    {
+      "name": "webkit-375: bottom navigation intact",
+      "pass": true
+    },
+    {
+      "name": "webkit-375: final no overflow",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: no visible temperature shortcuts",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: search no overflow",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: reset disabled initially",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: advanced initially closed",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: OR with live result count",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: two pressed options",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: AND across categories",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: 48px buttons and single-line labels",
+      "pass": true,
+      "detail": [
+        {
+          "height": 48,
+          "wrap": false,
+          "whiteSpace": "nowrap"
+        },
+        {
+          "height": 48,
+          "wrap": false,
+          "whiteSpace": "nowrap"
+        },
+        {
+          "height": 48,
+          "wrap": false,
+          "whiteSpace": "nowrap"
+        },
+        {
+          "height": 48,
+          "wrap": false,
+          "whiteSpace": "nowrap"
+        },
+        {
+          "height": 48,
+          "wrap": false,
+          "whiteSpace": "nowrap"
+        },
+        {
+          "height": 48.0009765625,
+          "wrap": false,
+          "whiteSpace": "nowrap"
+        },
+        {
+          "height": 48,
+          "wrap": false,
+          "whiteSpace": "nowrap"
+        },
+        {
+          "height": 48,
+          "wrap": false,
+          "whiteSpace": "nowrap"
+        },
+        {
+          "height": 48.383056640625,
+          "wrap": false,
+          "whiteSpace": "nowrap"
+        },
+        {
+          "height": 48,
+          "wrap": false,
+          "whiteSpace": "nowrap"
+        },
+        {
+          "height": 48,
+          "wrap": false,
+          "whiteSpace": "nowrap"
+        },
+        {
+          "height": 48,
+          "wrap": false,
+          "whiteSpace": "nowrap"
+        },
+        {
+          "height": 48,
+          "wrap": false,
+          "whiteSpace": "nowrap"
+        }
+      ]
+    },
+    {
+      "name": "webkit-390: footer stays visible after advanced scroll",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: sheet no horizontal overflow",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: one tap reset",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: modal focus trap",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: escape restores filter focus",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: individual chip removes condition",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: zero result guidance",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: keyword なべしま",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: keyword 鍋島",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: keyword 宮坂醸造",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: keyword 肉じゃが",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: search back restores query filters sort scroll",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: ochoko preserved",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: navigation return restores search",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: eight categories without initial bulk results",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: food no overflow",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: category tap targets and label fit",
+      "pass": true,
+      "detail": [
+        {
+          "h": 104,
+          "w": 170,
+          "name": true
+        },
+        {
+          "h": 104,
+          "w": 170,
+          "name": true
+        },
+        {
+          "h": 104,
+          "w": 170,
+          "name": true
+        },
+        {
+          "h": 104,
+          "w": 170,
+          "name": true
+        },
+        {
+          "h": 104,
+          "w": 170,
+          "name": true
+        },
+        {
+          "h": 104,
+          "w": 170,
+          "name": true
+        },
+        {
+          "h": 104,
+          "w": 170,
+          "name": true
+        },
+        {
+          "h": 104,
+          "w": 170,
+          "name": true
+        }
+      ]
+    },
+    {
+      "name": "webkit-390: two column categories",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: category selection count",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: food keyword AND category",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: food detail recommendation",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: food browser back restores category keyword scroll",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: category cleared in one tap",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: all foods unique total",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: food load more",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: food reload preserves loaded count",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: direct food keyword",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: legacy detailed category URL",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: existing external recipe preserved",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: food detail all link",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: night food sake navigation intact",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: Discover all foods link directly opens list",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: bottom navigation intact",
+      "pass": true
+    },
+    {
+      "name": "webkit-390: final no overflow",
+      "pass": true
+    },
+    {
+      "name": "webkit-430: no visible temperature shortcuts",
+      "pass": true
+    },
+    {
+      "name": "webkit-430: search no overflow",
+      "pass": true
+    },
+    {
+      "name": "webkit-430: reset disabled initially",
+      "pass": true
+    },
+    {
+      "name": "webkit-430: advanced initially closed",
+      "pass": true
+    },
+    {
+      "name": "webkit-430: OR with live result count",
+      "pass": true
+    },
+    {
+      "name": "webkit-430: two pressed options",
+      "pass": true
+    },
+    {
+      "name": "webkit-430: AND across categories",
+      "pass": true
+    },
+    {
+      "name": "webkit-430: 48px buttons and single-line labels",
+      "pass": true,
+      "detail": [
+        {
+          "height": 48,
+          "wrap": false,
+          "whiteSpace": "nowrap"
+        },
+        {
+          "height": 48,
+          "wrap": false,
+          "whiteSpace": "nowrap"
+        },
+        {
+          "height": 48,
+          "wrap": false,
+          "whiteSpace": "nowrap"
+        },
+        {
+          "height": 48,
+          "wrap": false,
+          "whiteSpace": "nowrap"
+        },
+        {
+          "height": 48,
+          "wrap": false,
+          "whiteSpace": "nowrap"
+        },
+        {
+          "height": 48,
+          "wrap": false,
+          "whiteSpace": "nowrap"
+        },
+        {
+          "height": 48,
+          "wrap": false,
+          "whiteSpace": "nowrap"
+        },
+        {
+          "height": 48,
+          "wrap": false,
+          "whiteSpace": "nowrap"
+        },
+        {
+          "height": 48.38397216796875,
+          "wrap": false,
+          "whiteSpace": "nowrap"
+        },
+        {
+          "height": 48,
+          "wrap": false,
+          "whiteSpace": "nowrap"
+        },
+        {
+          "height": 48,
+          "wrap": false,
+          "whiteSpace": "nowrap"
+        },
+        {
+          "height": 48,
+          "wrap": false,
+          "whiteSpace": "nowrap"
+        },
+        {
+          "height": 48,
+          "wrap": false,
+          "whiteSpace": "nowrap"
+        }
+      ]
+    },
+    {
+      "name": "webkit-430: footer stays visible after advanced scroll",
+      "pass": true
+    },
+    {
+      "name": "webkit-430: sheet no horizontal overflow",
+      "pass": true
+    },
+    {
+      "name": "webkit-430: one tap reset",
+      "pass": true
+    },
+    {
+      "name": "webkit-430: modal focus trap",
+      "pass": true
+    },
+    {
+      "name": "webkit-430: escape restores filter focus",
+      "pass": true
+    },
+    {
+      "name": "webkit-430: individual chip removes condition",
+      "pass": true
+    },
+    {
+      "name": "webkit-430: zero result guidance",
+      "pass": true
+    },
+    {
+      "name": "webkit-430: keyword なべしま",
+      "pass": true
+    },
+    {
+      "name": "webkit-430: keyword 鍋島",
+      "pass": true
+    },
+    {
+      "name": "webkit-430: keyword 宮坂醸造",
+      "pass": true
+    },
+    {
+      "name": "webkit-430: keyword 肉じゃが",
+      "pass": true
+    },
+    {
+      "name": "webkit-430: search back restores query filters sort scroll",
+      "pass": true
+    },
+    {
+      "name": "webkit-430: ochoko preserved",
+      "pass": true
+    },
+    {
+      "name": "webkit-430: navigation return restores search",
+      "pass": true
+    },
+    {
+      "name": "webkit-430: eight categories without initial bulk results",
+      "pass": true
+    },
+    {
+      "name": "webkit-430: food no overflow",
+      "pass": true
+    },
+    {
+      "name": "webkit-430: category tap targets and label fit",
+      "pass": true,
+      "detail": [
+        {
+          "h": 104,
+          "w": 190,
+          "name": true
+        },
+        {
+          "h": 104,
+          "w": 190,
+          "name": true
+        },
+        {
+          "h": 104,
+          "w": 190,
+          "name": true
+        },
+        {
+          "h": 104,
+          "w": 190,
+          "name": true
+        },
+        {
+          "h": 104,
+          "w": 190,
+          "name": true
+        },
+        {
+          "h": 104,
+          "w": 190,
+          "name": true
+        },
+        {
+          "h": 104,
+          "w": 190,
+          "name": true
+        },
+        {
+          "h": 104,
+          "w": 190,
+          "name": true
+        }
+      ]
+    },
+    {
+      "name": "webkit-430: two column categories",
+      "pass": true
+    },
+    {
+      "name": "webkit-430: category selection count",
+      "pass": true
+    },
+    {
+      "name": "webkit-430: food keyword AND category",
+      "pass": true
+    },
+    {
+      "name": "webkit-430: food detail recommendation",
+      "pass": true
+    },
+    {
+      "name": "webkit-430: food browser back restores category keyword scroll",
+      "pass": true
+    },
+    {
+      "name": "webkit-430: category cleared in one tap",
+      "pass": true
+    },
+    {
+      "name": "webkit-430: all foods unique total",
+      "pass": true
+    },
+    {
+      "name": "webkit-430: food load more",
+      "pass": true
+    },
+    {
+      "name": "webkit-430: food reload preserves loaded count",
+      "pass": true
+    },
+    {
+      "name": "webkit-430: direct food keyword",
+      "pass": true
+    },
+    {
+      "name": "webkit-430: legacy detailed category URL",
+      "pass": true
+    },
+    {
+      "name": "webkit-430: existing external recipe preserved",
+      "pass": true
+    },
+    {
+      "name": "webkit-430: food detail all link",
+      "pass": true
+    },
+    {
+      "name": "webkit-430: night food sake navigation intact",
+      "pass": true
+    },
+    {
+      "name": "webkit-430: Discover all foods link directly opens list",
+      "pass": true
+    },
+    {
+      "name": "webkit-430: bottom navigation intact",
+      "pass": true
+    },
+    {
+      "name": "webkit-430: final no overflow",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280: no visible temperature shortcuts",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280: search no overflow",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280: reset disabled initially",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280: advanced initially closed",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280: OR with live result count",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280: two pressed options",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280: AND across categories",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280: 48px buttons and single-line labels",
+      "pass": true,
+      "detail": [
+        {
+          "height": 48,
+          "wrap": false,
+          "whiteSpace": "nowrap"
+        },
+        {
+          "height": 48,
+          "wrap": false,
+          "whiteSpace": "nowrap"
+        },
+        {
+          "height": 48,
+          "wrap": false,
+          "whiteSpace": "nowrap"
+        },
+        {
+          "height": 48,
+          "wrap": false,
+          "whiteSpace": "nowrap"
+        },
+        {
+          "height": 48,
+          "wrap": false,
+          "whiteSpace": "nowrap"
+        },
+        {
+          "height": 48,
+          "wrap": false,
+          "whiteSpace": "nowrap"
+        },
+        {
+          "height": 48,
+          "wrap": false,
+          "whiteSpace": "nowrap"
+        },
+        {
+          "height": 48,
+          "wrap": false,
+          "whiteSpace": "nowrap"
+        },
+        {
+          "height": 48,
+          "wrap": false,
+          "whiteSpace": "nowrap"
+        },
+        {
+          "height": 48,
+          "wrap": false,
+          "whiteSpace": "nowrap"
+        },
+        {
+          "height": 48,
+          "wrap": false,
+          "whiteSpace": "nowrap"
+        },
+        {
+          "height": 48,
+          "wrap": false,
+          "whiteSpace": "nowrap"
+        },
+        {
+          "height": 48,
+          "wrap": false,
+          "whiteSpace": "nowrap"
+        }
+      ]
+    },
+    {
+      "name": "chromium-1280: footer stays visible after advanced scroll",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280: sheet no horizontal overflow",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280: one tap reset",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280: modal focus trap",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280: escape restores filter focus",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280: individual chip removes condition",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280: zero result guidance",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280: keyword なべしま",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280: keyword 鍋島",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280: keyword 宮坂醸造",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280: keyword 肉じゃが",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280: search back restores query filters sort scroll",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280: ochoko preserved",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280: navigation return restores search",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280: eight categories without initial bulk results",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280: food no overflow",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280: category tap targets and label fit",
+      "pass": true,
+      "detail": [
+        {
+          "h": 113,
+          "w": 255,
+          "name": true
+        },
+        {
+          "h": 113,
+          "w": 255,
+          "name": true
+        },
+        {
+          "h": 113,
+          "w": 255,
+          "name": true
+        },
+        {
+          "h": 113,
+          "w": 255,
+          "name": true
+        },
+        {
+          "h": 113,
+          "w": 255,
+          "name": true
+        },
+        {
+          "h": 113,
+          "w": 255,
+          "name": true
+        },
+        {
+          "h": 113,
+          "w": 255,
+          "name": true
+        },
+        {
+          "h": 113,
+          "w": 255,
+          "name": true
+        }
+      ]
+    },
+    {
+      "name": "chromium-1280: category selection count",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280: food keyword AND category",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280: food detail recommendation",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280: food browser back restores category keyword scroll",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280: category cleared in one tap",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280: all foods unique total",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280: food load more",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280: food reload preserves loaded count",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280: direct food keyword",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280: legacy detailed category URL",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280: existing external recipe preserved",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280: food detail all link",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280: night food sake navigation intact",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280: Discover all foods link directly opens list",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280: bottom navigation intact",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280: final no overflow",
+      "pass": true
+    },
+    {
+      "name": "chromium-390: no visible temperature shortcuts",
+      "pass": true
+    },
+    {
+      "name": "chromium-390: search no overflow",
+      "pass": true
+    },
+    {
+      "name": "chromium-390: reset disabled initially",
+      "pass": true
+    },
+    {
+      "name": "chromium-390: advanced initially closed",
+      "pass": true
+    },
+    {
+      "name": "chromium-390: OR with live result count",
+      "pass": true
+    },
+    {
+      "name": "chromium-390: two pressed options",
+      "pass": true
+    },
+    {
+      "name": "chromium-390: AND across categories",
+      "pass": true
+    },
+    {
+      "name": "chromium-390: 48px buttons and single-line labels",
+      "pass": true,
+      "detail": [
+        {
+          "height": 48,
+          "wrap": false,
+          "whiteSpace": "nowrap"
+        },
+        {
+          "height": 48,
+          "wrap": false,
+          "whiteSpace": "nowrap"
+        },
+        {
+          "height": 48.056732177734375,
+          "wrap": false,
+          "whiteSpace": "nowrap"
+        },
+        {
+          "height": 48,
+          "wrap": false,
+          "whiteSpace": "nowrap"
+        },
+        {
+          "height": 48,
+          "wrap": false,
+          "whiteSpace": "nowrap"
+        },
+        {
+          "height": 48.021484375,
+          "wrap": false,
+          "whiteSpace": "nowrap"
+        },
+        {
+          "height": 48,
+          "wrap": false,
+          "whiteSpace": "nowrap"
+        },
+        {
+          "height": 48,
+          "wrap": false,
+          "whiteSpace": "nowrap"
+        },
+        {
+          "height": 48,
+          "wrap": false,
+          "whiteSpace": "nowrap"
+        },
+        {
+          "height": 48,
+          "wrap": false,
+          "whiteSpace": "nowrap"
+        },
+        {
+          "height": 48,
+          "wrap": false,
+          "whiteSpace": "nowrap"
+        },
+        {
+          "height": 48,
+          "wrap": false,
+          "whiteSpace": "nowrap"
+        },
+        {
+          "height": 48,
+          "wrap": false,
+          "whiteSpace": "nowrap"
+        }
+      ]
+    },
+    {
+      "name": "chromium-390: footer stays visible after advanced scroll",
+      "pass": true
+    },
+    {
+      "name": "chromium-390: sheet no horizontal overflow",
+      "pass": true
+    },
+    {
+      "name": "chromium-390: one tap reset",
+      "pass": true
+    },
+    {
+      "name": "chromium-390: modal focus trap",
+      "pass": true
+    },
+    {
+      "name": "chromium-390: escape restores filter focus",
+      "pass": true
+    },
+    {
+      "name": "chromium-390: individual chip removes condition",
+      "pass": true
+    },
+    {
+      "name": "chromium-390: zero result guidance",
+      "pass": true
+    },
+    {
+      "name": "chromium-390: keyword なべしま",
+      "pass": true
+    },
+    {
+      "name": "chromium-390: keyword 鍋島",
+      "pass": true
+    },
+    {
+      "name": "chromium-390: keyword 宮坂醸造",
+      "pass": true
+    },
+    {
+      "name": "chromium-390: keyword 肉じゃが",
+      "pass": true
+    },
+    {
+      "name": "chromium-390: search back restores query filters sort scroll",
+      "pass": true
+    },
+    {
+      "name": "chromium-390: ochoko preserved",
+      "pass": true
+    },
+    {
+      "name": "chromium-390: navigation return restores search",
+      "pass": true
+    },
+    {
+      "name": "chromium-390: eight categories without initial bulk results",
+      "pass": true
+    },
+    {
+      "name": "chromium-390: food no overflow",
+      "pass": true
+    },
+    {
+      "name": "chromium-390: category tap targets and label fit",
+      "pass": true,
+      "detail": [
+        {
+          "h": 104,
+          "w": 170,
+          "name": true
+        },
+        {
+          "h": 104,
+          "w": 170,
+          "name": true
+        },
+        {
+          "h": 104,
+          "w": 170,
+          "name": true
+        },
+        {
+          "h": 104,
+          "w": 170,
+          "name": true
+        },
+        {
+          "h": 104,
+          "w": 170,
+          "name": true
+        },
+        {
+          "h": 104,
+          "w": 170,
+          "name": true
+        },
+        {
+          "h": 104,
+          "w": 170,
+          "name": true
+        },
+        {
+          "h": 104,
+          "w": 170,
+          "name": true
+        }
+      ]
+    },
+    {
+      "name": "chromium-390: two column categories",
+      "pass": true
+    },
+    {
+      "name": "chromium-390: category selection count",
+      "pass": true
+    },
+    {
+      "name": "chromium-390: food keyword AND category",
+      "pass": true
+    },
+    {
+      "name": "chromium-390: food detail recommendation",
+      "pass": true
+    },
+    {
+      "name": "chromium-390: food browser back restores category keyword scroll",
+      "pass": true
+    },
+    {
+      "name": "chromium-390: category cleared in one tap",
+      "pass": true
+    },
+    {
+      "name": "chromium-390: all foods unique total",
+      "pass": true
+    },
+    {
+      "name": "chromium-390: food load more",
+      "pass": true
+    },
+    {
+      "name": "chromium-390: food reload preserves loaded count",
+      "pass": true
+    },
+    {
+      "name": "chromium-390: direct food keyword",
+      "pass": true
+    },
+    {
+      "name": "chromium-390: legacy detailed category URL",
+      "pass": true
+    },
+    {
+      "name": "chromium-390: existing external recipe preserved",
+      "pass": true
+    },
+    {
+      "name": "chromium-390: food detail all link",
+      "pass": true
+    },
+    {
+      "name": "chromium-390: night food sake navigation intact",
+      "pass": true
+    },
+    {
+      "name": "chromium-390: Discover all foods link directly opens list",
+      "pass": true
+    },
+    {
+      "name": "chromium-390: bottom navigation intact",
+      "pass": true
+    },
+    {
+      "name": "chromium-390: final no overflow",
+      "pass": true
+    }
+  ],
+  "errors": [
+    {
+      "prefix": "webkit-320: ",
+      "message": "/127.0.0.1:3197/food/item-1vh5p2e/__next.food.$d$slug.__PAGE__.txt?_rsc=dGL0ESjmZ4WdtWwh due to access control checks."
+    },
+    {
+      "prefix": "webkit-360: ",
+      "message": "/127.0.0.1:3197/food/item-1ig36g0/__next.food.$d$slug.__PAGE__.txt?_rsc=dGL0ESjmZ4WdtWwh due to access control checks."
+    },
+    {
+      "prefix": "webkit-360: ",
+      "message": "/127.0.0.1:3197/food/item-7oonpf/__next.food.$d$slug.__PAGE__.txt?_rsc=dGL0ESjmZ4WdtWwh due to access control checks."
+    },
+    {
+      "prefix": "webkit-360: ",
+      "message": "/127.0.0.1:3197/food/item-n4oa1c/__next.food.$d$slug.__PAGE__.txt?_rsc=dGL0ESjmZ4WdtWwh due to access control checks."
+    },
+    {
+      "prefix": "webkit-360: ",
+      "message": "/127.0.0.1:3197/food/item-12iwkd2/__next.food.$d$slug.__PAGE__.txt?_rsc=dGL0ESjmZ4WdtWwh due to access control checks."
+    },
+    {
+      "prefix": "webkit-375: ",
+      "message": "/127.0.0.1:3197/food/item-18eu2t0/__next.food.$d$slug.__PAGE__.txt?_rsc=dGL0ESjmZ4WdtWwh due to access control checks."
+    },
+    {
+      "prefix": "webkit-375: ",
+      "message": "/127.0.0.1:3197/food/item-1u8ymom/__next.food.$d$slug.__PAGE__.txt?_rsc=dGL0ESjmZ4WdtWwh due to access control checks."
+    },
+    {
+      "prefix": "webkit-375: ",
+      "message": "/127.0.0.1:3197/food/item-1vh5p2e/__next.food.$d$slug.__PAGE__.txt?_rsc=dGL0ESjmZ4WdtWwh due to access control checks."
+    },
+    {
+      "prefix": "webkit-375: ",
+      "message": "/127.0.0.1:3197/food/item-otkikv/__next.food.$d$slug.__PAGE__.txt?_rsc=dGL0ESjmZ4WdtWwh due to access control checks."
+    },
+    {
+      "prefix": "webkit-390: ",
+      "message": "/127.0.0.1:3197/about/advertising/__next.about.advertising.__PAGE__.txt?_rsc=byQ_dVnVc6JqvNp5 due to access control checks."
+    },
+    {
+      "prefix": "webkit-430: ",
+      "message": "/127.0.0.1:3197/food/item-1ig36g0/__next.food.$d$slug.__PAGE__.txt?_rsc=dGL0ESjmZ4WdtWwh due to access control checks."
+    }
+  ],
+  "knownPrefetchWarnings": [
+    {
+      "prefix": "webkit-320: ",
+      "message": "/127.0.0.1:3197/food/item-1vh5p2e/__next.food.$d$slug.__PAGE__.txt?_rsc=dGL0ESjmZ4WdtWwh due to access control checks."
+    },
+    {
+      "prefix": "webkit-360: ",
+      "message": "/127.0.0.1:3197/food/item-1ig36g0/__next.food.$d$slug.__PAGE__.txt?_rsc=dGL0ESjmZ4WdtWwh due to access control checks."
+    },
+    {
+      "prefix": "webkit-360: ",
+      "message": "/127.0.0.1:3197/food/item-7oonpf/__next.food.$d$slug.__PAGE__.txt?_rsc=dGL0ESjmZ4WdtWwh due to access control checks."
+    },
+    {
+      "prefix": "webkit-360: ",
+      "message": "/127.0.0.1:3197/food/item-n4oa1c/__next.food.$d$slug.__PAGE__.txt?_rsc=dGL0ESjmZ4WdtWwh due to access control checks."
+    },
+    {
+      "prefix": "webkit-360: ",
+      "message": "/127.0.0.1:3197/food/item-12iwkd2/__next.food.$d$slug.__PAGE__.txt?_rsc=dGL0ESjmZ4WdtWwh due to access control checks."
+    },
+    {
+      "prefix": "webkit-375: ",
+      "message": "/127.0.0.1:3197/food/item-18eu2t0/__next.food.$d$slug.__PAGE__.txt?_rsc=dGL0ESjmZ4WdtWwh due to access control checks."
+    },
+    {
+      "prefix": "webkit-375: ",
+      "message": "/127.0.0.1:3197/food/item-1u8ymom/__next.food.$d$slug.__PAGE__.txt?_rsc=dGL0ESjmZ4WdtWwh due to access control checks."
+    },
+    {
+      "prefix": "webkit-375: ",
+      "message": "/127.0.0.1:3197/food/item-1vh5p2e/__next.food.$d$slug.__PAGE__.txt?_rsc=dGL0ESjmZ4WdtWwh due to access control checks."
+    },
+    {
+      "prefix": "webkit-375: ",
+      "message": "/127.0.0.1:3197/food/item-otkikv/__next.food.$d$slug.__PAGE__.txt?_rsc=dGL0ESjmZ4WdtWwh due to access control checks."
+    },
+    {
+      "prefix": "webkit-390: ",
+      "message": "/127.0.0.1:3197/about/advertising/__next.about.advertising.__PAGE__.txt?_rsc=byQ_dVnVc6JqvNp5 due to access control checks."
+    },
+    {
+      "prefix": "webkit-430: ",
+      "message": "/127.0.0.1:3197/food/item-1ig36g0/__next.food.$d$slug.__PAGE__.txt?_rsc=dGL0ESjmZ4WdtWwh due to access control checks."
+    }
+  ],
+  "unexpectedErrors": [],
+  "networkFailures": [
+    {
+      "prefix": "webkit-320: ",
+      "path": "/food/item-18eu2t0/__next.food.$d$slug.__PAGE__.txt",
+      "error": "Load request cancelled"
+    },
+    {
+      "prefix": "webkit-320: ",
+      "path": "/food/item-1oqeudp/__next.food.$d$slug.__PAGE__.txt",
+      "error": "Load request cancelled"
+    },
+    {
+      "prefix": "webkit-360: ",
+      "path": "/food/item-1vh5p2e/__next.food.$d$slug.__PAGE__.txt",
+      "error": "Load request cancelled"
+    },
+    {
+      "prefix": "webkit-360: ",
+      "path": "/food/item-otkikv/__next.food.$d$slug.__PAGE__.txt",
+      "error": "Load request cancelled"
+    },
+    {
+      "prefix": "webkit-360: ",
+      "path": "/food/item-imd7hg/__next.food.$d$slug.__PAGE__.txt",
+      "error": "Load request cancelled"
+    },
+    {
+      "prefix": "webkit-375: ",
+      "path": "/about/advertising/__next._tree.txt",
+      "error": "Load request cancelled"
+    },
+    {
+      "prefix": "webkit-430: ",
+      "path": "/hgb/587c5193.bb88eddd.587c5194.6c503155/",
+      "error": "Load request cancelled"
+    },
+    {
+      "prefix": "webkit-430: ",
+      "path": "/hgb/587bab0c.1a31fa22.587bab0d.b54a2b76/",
+      "error": "Load request cancelled"
+    },
+    {
+      "prefix": "webkit-430: ",
+      "path": "/hgb/588a7d08.abc9b3b0.588a7d09.d2d2799b/",
+      "error": "Load request cancelled"
+    },
+    {
+      "prefix": "webkit-430: ",
+      "path": "/hgb/58511692.e636efab.58511693.db1b9bdb/",
+      "error": "Load request cancelled"
+    },
+    {
+      "prefix": "webkit-430: ",
+      "path": "/hgb/587db7be.83eab1e3.587db7bf.9bfab62b/",
+      "error": "Load request cancelled"
+    },
+    {
+      "prefix": "webkit-430: ",
+      "path": "/hgb/587c5218.b33cd0b0.587c5219.46bbc147/",
+      "error": "Load request cancelled"
+    },
+    {
+      "prefix": "webkit-430: ",
+      "path": "/hgb/587c53b4.1f022825.587c53b5.1f3dec59/",
+      "error": "Load request cancelled"
+    },
+    {
+      "prefix": "webkit-430: ",
+      "path": "/hgb/58511692.e636efab.58511693.db1b9bdb/",
+      "error": "Load request cancelled"
+    },
+    {
+      "prefix": "webkit-430: ",
+      "path": "/hgb/587c53d0.0eb3540c.587c53d1.2d1e9bdd/",
+      "error": "Load request cancelled"
+    },
+    {
+      "prefix": "webkit-430: ",
+      "path": "/hgb/587bad18.a7a188cd.587bad19.d3861ce2/",
+      "error": "Load request cancelled"
+    },
+    {
+      "prefix": "webkit-430: ",
+      "path": "/hgb/58510f25.65cfa8cb.58510f26.bfca33c8/",
+      "error": "Load request cancelled"
+    },
+    {
+      "prefix": "webkit-430: ",
+      "path": "/hgb/587bad2b.9b292077.587bad2c.653d6e39/",
+      "error": "Load request cancelled"
+    },
+    {
+      "prefix": "webkit-430: ",
+      "path": "/hgb/58510f25.65cfa8cb.58510f26.bfca33c8/",
+      "error": "Load request cancelled"
+    },
+    {
+      "prefix": "webkit-430: ",
+      "path": "/hgb/587bb806.ed965319.587bb807.ee65a41e/",
+      "error": "Load request cancelled"
+    },
+    {
+      "prefix": "webkit-430: ",
+      "path": "/food/item-1vh5p2e/__next.food.$d$slug.__PAGE__.txt",
+      "error": "Load request cancelled"
+    },
+    {
+      "prefix": "webkit-430: ",
+      "path": "/food/item-imd7hg/__next.food.$d$slug.__PAGE__.txt",
+      "error": "Load request cancelled"
+    },
+    {
+      "prefix": "webkit-430: ",
+      "path": "/food/item-otkikv/__next.food.$d$slug.__PAGE__.txt",
+      "error": "Load request cancelled"
+    },
+    {
+      "prefix": "chromium-1280: ",
+      "path": "/",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-1280: ",
+      "path": "/search",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-1280: ",
+      "path": "/ochoko",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-1280: ",
+      "path": "/sake/nogomi-tokubetsu-junmai",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-1280: ",
+      "path": "/sake/shichida-junmai",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-1280: ",
+      "path": "/sake/koimari-saki",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-1280: ",
+      "path": "/sake/azumaichi-junmai-ginjo",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-1280: ",
+      "path": "/__next.__PAGE__.txt",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-1280: ",
+      "path": "/sake/azumaichi-junmai-ginjo/__next.sake.$d$slug.__PAGE__.txt",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-1280: ",
+      "path": "/about",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-1280: ",
+      "path": "/about/advertising",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-1280: ",
+      "path": "/",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-1280: ",
+      "path": "/search",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-1280: ",
+      "path": "/ochoko",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-1280: ",
+      "path": "/about",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-1280: ",
+      "path": "/about/advertising",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-1280: ",
+      "path": "/about/advertising/__next._tree.txt",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-1280: ",
+      "path": "/",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-1280: ",
+      "path": "/search",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-1280: ",
+      "path": "/ochoko",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-1280: ",
+      "path": "/about",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-1280: ",
+      "path": "/about/advertising",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-1280: ",
+      "path": "/about/advertising/__next._tree.txt",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-1280: ",
+      "path": "/",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-1280: ",
+      "path": "/search",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-1280: ",
+      "path": "/ochoko",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-1280: ",
+      "path": "/sake/nogomi-tokubetsu-junmai",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-1280: ",
+      "path": "/about",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-1280: ",
+      "path": "/about/advertising",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-1280: ",
+      "path": "/sake/nabeshima-junmai-ginjo",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-1280: ",
+      "path": "/",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-1280: ",
+      "path": "/search",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-1280: ",
+      "path": "/ochoko",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-1280: ",
+      "path": "/sake/masumi-karakuchi-kiippon",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-1280: ",
+      "path": "/sake/masumi-karakuchi-kiippon-1",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-1280: ",
+      "path": "/sake/masumi-kuro-lineup-v1",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-1280: ",
+      "path": "/sake/masumi-shiro-lineup-v1",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-1280: ",
+      "path": "/sake/masumi-karakuchi-kiippon/__next._index.txt",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-1280: ",
+      "path": "/sake/masumi-shiro-lineup-v1/__next._tree.txt",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-1280: ",
+      "path": "/",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-1280: ",
+      "path": "/search",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-1280: ",
+      "path": "/ochoko",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-1280: ",
+      "path": "/sake/shichida-junmai",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-1280: ",
+      "path": "/search/__next._tree.txt",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-1280: ",
+      "path": "/sake/hakurakusei-tokubetsu-junmai",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-1280: ",
+      "path": "/sake/kikusui-funaguchi-honjozo-nama-genshu-standard",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-1280: ",
+      "path": "/sake/tamanohikari-junmai-ginjo-shukon-standard",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-1280: ",
+      "path": "/sake/kikusui-funaguchi-honjozo-nama-genshu-standard/__next.sake.$d$slug.__PAGE__.txt",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-1280: ",
+      "path": "/",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-1280: ",
+      "path": "/search",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-1280: ",
+      "path": "/ochoko",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-1280: ",
+      "path": "/sake/masumi-kaya-lineup-v1",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-1280: ",
+      "path": "/sake/masumi-kuro-lineup-v1",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-1280: ",
+      "path": "/sake/masumi-karakuchi-kiippon-1",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-1280: ",
+      "path": "/sake/masumi-karakuchi-kiippon",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-1280: ",
+      "path": "/",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-1280: ",
+      "path": "/search",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-1280: ",
+      "path": "/ochoko",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-1280: ",
+      "path": "/discover",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-1280: ",
+      "path": "/about",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-1280: ",
+      "path": "/about/advertising",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-1280: ",
+      "path": "/sake/masumi-kaya-lineup-v1",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-1280: ",
+      "path": "/sake/masumi-karakuchi-kiippon/__next.sake.$d$slug.__PAGE__.txt",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-1280: ",
+      "path": "/",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-1280: ",
+      "path": "/search",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-1280: ",
+      "path": "/ochoko",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-1280: ",
+      "path": "/about",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-1280: ",
+      "path": "/about/advertising",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-1280: ",
+      "path": "/food/item-bxzivf",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-1280: ",
+      "path": "/food/item-wtd20n",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-1280: ",
+      "path": "/food/item-uea4vn",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-1280: ",
+      "path": "/food/item-hxueoj",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-1280: ",
+      "path": "/sake/kamikawa-taisetsu-junmai",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-1280: ",
+      "path": "/sake/hitakami-sakana-label-tokubetsu-junmai-hiire-v1",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-1280: ",
+      "path": "/sake/azumaichi-junmai-ginjo",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-1280: ",
+      "path": "/nights/after-work",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-1280: ",
+      "path": "/food/item-1rh0pgn/__next.food.$d$slug.__PAGE__.txt",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-1280: ",
+      "path": "/food/item-grdeyg/__next.food.$d$slug.__PAGE__.txt",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-1280: ",
+      "path": "/food/item-1i89m16/__next.food.$d$slug.__PAGE__.txt",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-1280: ",
+      "path": "/",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-1280: ",
+      "path": "/about",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-1280: ",
+      "path": "/about/advertising",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-1280: ",
+      "path": "/food/item-bxzivf",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-1280: ",
+      "path": "/food/item-wtd20n",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-1280: ",
+      "path": "/food/item-uea4vn",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-1280: ",
+      "path": "/food/item-hxueoj",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-1280: ",
+      "path": "/food/item-1943ghu/__next.food.$d$slug.__PAGE__.txt",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-1280: ",
+      "path": "/food/item-1xp9fqf/__next.food.$d$slug.__PAGE__.txt",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-1280: ",
+      "path": "/food/item-1gtkpzb/__next.food.$d$slug.__PAGE__.txt",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-1280: ",
+      "path": "/",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-1280: ",
+      "path": "/search",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-1280: ",
+      "path": "/ochoko",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-1280: ",
+      "path": "/about",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-1280: ",
+      "path": "/food/item-1tf1x88",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-1280: ",
+      "path": "/food/item-micaq3",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-1280: ",
+      "path": "/food/item-1gwo1eu",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-1280: ",
+      "path": "/food/item-16m4olz",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-1280: ",
+      "path": "/",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-1280: ",
+      "path": "/search",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-1280: ",
+      "path": "/ochoko",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-1280: ",
+      "path": "/about",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-1280: ",
+      "path": "/about/advertising",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-1280: ",
+      "path": "/food/item-1gtkpzb",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-1280: ",
+      "path": "/food/item-n4oa1c",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-1280: ",
+      "path": "/food/item-ynuhjb",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-1280: ",
+      "path": "/food/item-axo113",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-1280: ",
+      "path": "/",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-1280: ",
+      "path": "/search",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-1280: ",
+      "path": "/ochoko",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-1280: ",
+      "path": "/sake/ranman-junmai-managudako-standard",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-1280: ",
+      "path": "/search/__next._tree.txt",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-1280: ",
+      "path": "/sake/mushohai-junmai-ginjo-standard",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-1280: ",
+      "path": "/sake/tonbo-tokubetsu-junmai-standard-v1",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-1280: ",
+      "path": "/",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-1280: ",
+      "path": "/search",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-1280: ",
+      "path": "/ochoko",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-1280: ",
+      "path": "/about",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-1280: ",
+      "path": "/about/advertising",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-1280: ",
+      "path": "/about/advertising/__next._tree.txt",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-1280: ",
+      "path": "/food",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-1280: ",
+      "path": "/food",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-1280: ",
+      "path": "/sake/kamikawa-taisetsu-junmai",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-1280: ",
+      "path": "/sake/kirakucho-lvvrsw-4",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-1280: ",
+      "path": "/sake/suminoe-i3yhce",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-1280: ",
+      "path": "/food/item-bxzivf",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-1280: ",
+      "path": "/food/item-wtd20n",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-1280: ",
+      "path": "/food/item-uea4vn",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-1280: ",
+      "path": "/food/item-hxueoj",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-1280: ",
+      "path": "/food/item-uea4vn/__next._tree.txt",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-390: ",
+      "path": "/",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-390: ",
+      "path": "/sake/nogomi-tokubetsu-junmai",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-390: ",
+      "path": "/sake/shichida-junmai",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-390: ",
+      "path": "/sake/koimari-saki",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-390: ",
+      "path": "/search",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-390: ",
+      "path": "/ochoko",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-390: ",
+      "path": "/__next.__PAGE__.txt",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-390: ",
+      "path": "/ochoko/__next._tree.txt",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-390: ",
+      "path": "/about",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-390: ",
+      "path": "/about/advertising",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-390: ",
+      "path": "/",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-390: ",
+      "path": "/search",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-390: ",
+      "path": "/ochoko",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-390: ",
+      "path": "/about",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-390: ",
+      "path": "/about/advertising",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-390: ",
+      "path": "/",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-390: ",
+      "path": "/sake/nogomi-tokubetsu-junmai",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-390: ",
+      "path": "/sake/shichida-junmai",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-390: ",
+      "path": "/sake/koimari-saki",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-390: ",
+      "path": "/about",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-390: ",
+      "path": "/about/advertising",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-390: ",
+      "path": "/search",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-390: ",
+      "path": "/ochoko",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-390: ",
+      "path": "/",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-390: ",
+      "path": "/search",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-390: ",
+      "path": "/ochoko",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-390: ",
+      "path": "/sake/nabeshima-junmai-ginjo",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-390: ",
+      "path": "/about",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-390: ",
+      "path": "/about/advertising",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-390: ",
+      "path": "/",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-390: ",
+      "path": "/sake/nogomi-tokubetsu-junmai",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-390: ",
+      "path": "/sake/shichida-junmai",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-390: ",
+      "path": "/sake/koimari-saki",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-390: ",
+      "path": "/sake/masumi-karakuchi-kiippon",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-390: ",
+      "path": "/search",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-390: ",
+      "path": "/ochoko",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-390: ",
+      "path": "/sake/masumi-karakuchi-kiippon-1/__next._index.txt",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-390: ",
+      "path": "/search/__next.search.__PAGE__.txt",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-390: ",
+      "path": "/",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-390: ",
+      "path": "/sake/nogomi-tokubetsu-junmai",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-390: ",
+      "path": "/sake/shichida-junmai",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-390: ",
+      "path": "/sake/koimari-saki",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-390: ",
+      "path": "/sake/koimari-saki/__next._tree.txt",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-390: ",
+      "path": "/sake/hakurakusei-tokubetsu-junmai",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-390: ",
+      "path": "/search",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-390: ",
+      "path": "/ochoko",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-390: ",
+      "path": "/",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-390: ",
+      "path": "/search",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-390: ",
+      "path": "/ochoko",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-390: ",
+      "path": "/sake/masumi-kaya-lineup-v1",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-390: ",
+      "path": "/sake/masumi-kuro-lineup-v1",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-390: ",
+      "path": "/sake/masumi-karakuchi-kiippon-1",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-390: ",
+      "path": "/",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-390: ",
+      "path": "/discover",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-390: ",
+      "path": "/search",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-390: ",
+      "path": "/about",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-390: ",
+      "path": "/about/advertising",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-390: ",
+      "path": "/ochoko",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-390: ",
+      "path": "/sake/masumi-kaya-lineup-v1",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-390: ",
+      "path": "/ochoko/__next._tree.txt",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-390: ",
+      "path": "/search/__next.search.__PAGE__.txt",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-390: ",
+      "path": "/",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-390: ",
+      "path": "/search",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-390: ",
+      "path": "/ochoko",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-390: ",
+      "path": "/food/item-bxzivf",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-390: ",
+      "path": "/food/item-wtd20n",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-390: ",
+      "path": "/food/item-bxzivf/__next.food.$d$slug.__PAGE__.txt",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-390: ",
+      "path": "/about",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-390: ",
+      "path": "/sake/kamikawa-taisetsu-junmai",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-390: ",
+      "path": "/sake/hitakami-sakana-label-tokubetsu-junmai-hiire-v1",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-390: ",
+      "path": "/sake/kamikawa-taisetsu-junmai/__next._tree.txt",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-390: ",
+      "path": "/about/advertising",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-390: ",
+      "path": "/food/item-3f6jco/__next.food.$d$slug.__PAGE__.txt",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-390: ",
+      "path": "/food/item-2thfcc/__next.food.$d$slug.__PAGE__.txt",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-390: ",
+      "path": "/food/item-12f2w3m/__next.food.$d$slug.__PAGE__.txt",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-390: ",
+      "path": "/",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-390: ",
+      "path": "/search",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-390: ",
+      "path": "/ochoko",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-390: ",
+      "path": "/food/item-ohud5z",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-390: ",
+      "path": "/food/item-1kpo6q7",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-390: ",
+      "path": "/food/item-1gtkpzb",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-390: ",
+      "path": "/food/item-14jjrqa",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-390: ",
+      "path": "/",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-390: ",
+      "path": "/search",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-390: ",
+      "path": "/ochoko",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-390: ",
+      "path": "/food/item-1tf1x88",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-390: ",
+      "path": "/food/item-micaq3",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-390: ",
+      "path": "/ochoko/__next.ochoko.__PAGE__.txt",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-390: ",
+      "path": "/",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-390: ",
+      "path": "/search",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-390: ",
+      "path": "/ochoko",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-390: ",
+      "path": "/food/item-1gtkpzb",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-390: ",
+      "path": "/food/item-n4oa1c",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-390: ",
+      "path": "/",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-390: ",
+      "path": "/sake/ranman-junmai-managudako-standard",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-390: ",
+      "path": "/sake/mushohai-junmai-ginjo-standard",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-390: ",
+      "path": "/search",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-390: ",
+      "path": "/__next._tree.txt",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-390: ",
+      "path": "/ochoko",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-390: ",
+      "path": "/",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-390: ",
+      "path": "/about",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-390: ",
+      "path": "/about/advertising",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-390: ",
+      "path": "/search",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-390: ",
+      "path": "/ochoko",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-390: ",
+      "path": "/__next.__PAGE__.txt",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-390: ",
+      "path": "/food",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-390: ",
+      "path": "/food",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-390: ",
+      "path": "/sake/kamikawa-taisetsu-junmai",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-390: ",
+      "path": "/sake/kamikawa-taisetsu-junmai",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-390: ",
+      "path": "/food/item-bxzivf",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "prefix": "chromium-390: ",
+      "path": "/food/item-wtd20n",
+      "error": "net::ERR_ABORTED"
+    }
+  ],
+  "httpFailures": [],
+  "baselineComparison": "network-baseline.json; existing WebKit prefetch cancellation message retained, not a new CSP exemption",
+  "passed": true,
+  "realIphoneTested": false,
+  "realAndroidTested": false,
+  "serviceWorkersBlocked": true,
+  "prefetchProbe": "prefetch-probe-local.json",
+  "warningDisposition": "Existing baseline warning type; each affected resource successfully fetched inside WebKit with unchanged CSP. All original UI checks passed; no HTTP failures."
+}

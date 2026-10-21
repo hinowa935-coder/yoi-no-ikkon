@@ -1,0 +1,22 @@
+{
+  "checkedAt": "2026-10-21T22:31:07.509Z",
+  "base": "http://127.0.0.1:3197",
+  "probes": [
+    {
+      "prefix": "webkit-320: ",
+      "path": "/food/item-1vh5p2e/__next.food.$d$slug.__PAGE__.txt",
+      "status": 200,
+      "type": "basic",
+      "passed": true
+    },
+    {
+      "prefix": "webkit-320: ",
+      "path": "/food/item-otkikv/__next.food.$d$slug.__PAGE__.txt",
+      "status": 200,
+      "type": "basic",
+      "passed": true
+    }
+  ],
+  "passed": true,
+  "note": "Follow-up in matching WebKit profiles with unchanged CSP and RSC prefetch headers. Raw original messages remain in browser report."
+}

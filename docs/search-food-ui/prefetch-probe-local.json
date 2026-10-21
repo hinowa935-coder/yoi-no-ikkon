@@ -1,0 +1,85 @@
+{
+  "checkedAt": "2026-10-21T22:30:49.380Z",
+  "base": "http://127.0.0.1:3197",
+  "probes": [
+    {
+      "prefix": "webkit-320: ",
+      "path": "/food/item-1vh5p2e/__next.food.$d$slug.__PAGE__.txt",
+      "status": 200,
+      "type": "basic",
+      "passed": true
+    },
+    {
+      "prefix": "webkit-360: ",
+      "path": "/food/item-1ig36g0/__next.food.$d$slug.__PAGE__.txt",
+      "status": 200,
+      "type": "basic",
+      "passed": true
+    },
+    {
+      "prefix": "webkit-360: ",
+      "path": "/food/item-7oonpf/__next.food.$d$slug.__PAGE__.txt",
+      "status": 200,
+      "type": "basic",
+      "passed": true
+    },
+    {
+      "prefix": "webkit-360: ",
+      "path": "/food/item-n4oa1c/__next.food.$d$slug.__PAGE__.txt",
+      "status": 200,
+      "type": "basic",
+      "passed": true
+    },
+    {
+      "prefix": "webkit-360: ",
+      "path": "/food/item-12iwkd2/__next.food.$d$slug.__PAGE__.txt",
+      "status": 200,
+      "type": "basic",
+      "passed": true
+    },
+    {
+      "prefix": "webkit-375: ",
+      "path": "/food/item-18eu2t0/__next.food.$d$slug.__PAGE__.txt",
+      "status": 200,
+      "type": "basic",
+      "passed": true
+    },
+    {
+      "prefix": "webkit-375: ",
+      "path": "/food/item-1u8ymom/__next.food.$d$slug.__PAGE__.txt",
+      "status": 200,
+      "type": "basic",
+      "passed": true
+    },
+    {
+      "prefix": "webkit-375: ",
+      "path": "/food/item-1vh5p2e/__next.food.$d$slug.__PAGE__.txt",
+      "status": 200,
+      "type": "basic",
+      "passed": true
+    },
+    {
+      "prefix": "webkit-375: ",
+      "path": "/food/item-otkikv/__next.food.$d$slug.__PAGE__.txt",
+      "status": 200,
+      "type": "basic",
+      "passed": true
+    },
+    {
+      "prefix": "webkit-390: ",
+      "path": "/about/advertising/__next.about.advertising.__PAGE__.txt",
+      "status": 200,
+      "type": "basic",
+      "passed": true
+    },
+    {
+      "prefix": "webkit-430: ",
+      "path": "/food/item-1ig36g0/__next.food.$d$slug.__PAGE__.txt",
+      "status": 200,
+      "type": "basic",
+      "passed": true
+    }
+  ],
+  "passed": true,
+  "note": "Follow-up in matching WebKit profiles with unchanged CSP and RSC prefetch headers. Raw original messages remain in browser report."
+}

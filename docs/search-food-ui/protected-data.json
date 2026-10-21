@@ -1,0 +1,9 @@
+{
+  "checkedAt": "2026-10-21T22:22:13.837Z",
+  "checked": 88,
+  "changed": [],
+  "normalizedUiLinkOnly": [
+    "src/app/food/[slug]/page.jsx: /food to /food?all=1"
+  ],
+  "passed": true
+}

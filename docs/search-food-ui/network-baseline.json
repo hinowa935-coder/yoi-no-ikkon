@@ -1,0 +1,32 @@
+{
+  "checkedAt": "2026-10-21T22:19:28.659Z",
+  "base": "https://yoi-no-ikkon.vercel.app",
+  "errors": [
+    "/yoi-no-ikkon.vercel.app/about due to access control checks.",
+    "/yoi-no-ikkon.vercel.app/about/advertising due to access control checks.",
+    "/yoi-no-ikkon.vercel.app/food/item-qnyrzm/__next.food.$d$slug.__PAGE__.txt?_rsc=dGL0ESjmZ4WdtWwh due to access control checks.",
+    "/yoi-no-ikkon.vercel.app/food/item-1uy1whf/__next.food.$d$slug.__PAGE__.txt?_rsc=dGL0ESjmZ4WdtWwh due to access control checks.",
+    "/yoi-no-ikkon.vercel.app/food/item-1yvdob9/__next.food.$d$slug.__PAGE__.txt?_rsc=dGL0ESjmZ4WdtWwh due to access control checks.",
+    "/yoi-no-ikkon.vercel.app/food/item-a9vclw/__next.food.$d$slug.__PAGE__.txt?_rsc=dGL0ESjmZ4WdtWwh due to access control checks."
+  ],
+  "failures": [
+    {
+      "path": "/food/item-14jjrqa/__next.food.$d$slug.__PAGE__.txt",
+      "error": "Load request cancelled"
+    },
+    {
+      "path": "/food/item-14618wz/__next.food.$d$slug.__PAGE__.txt",
+      "error": "Load request cancelled"
+    },
+    {
+      "path": "/food/item-3f6jco/__next.food.$d$slug.__PAGE__.txt",
+      "error": "Load request cancelled"
+    },
+    {
+      "path": "/food/item-1akkb7y/__next.food.$d$slug.__PAGE__.txt",
+      "error": "Load request cancelled"
+    }
+  ],
+  "responses": [],
+  "destinationLoaded": "宵の一献について"
+}

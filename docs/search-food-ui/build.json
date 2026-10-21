@@ -1,0 +1,23 @@
+{
+  "checkedAt": "2026-10-21T22:21:13.993Z",
+  "rows": [
+    {
+      "name": "webpack",
+      "checkedAt": "2026-10-21T22:21:10.904Z",
+      "passed": true,
+      "exitCode": 0,
+      "testCount": null,
+      "testPass": null
+    },
+    {
+      "name": "postbuild",
+      "checkedAt": "2026-10-21T22:21:13.993Z",
+      "passed": true,
+      "exitCode": 0,
+      "testCount": null,
+      "testPass": null
+    }
+  ],
+  "passed": true,
+  "dependenciesChanged": false
+}

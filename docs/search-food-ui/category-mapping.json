@@ -1,0 +1,2719 @@
+{
+  "checkedAt": "2026-10-21T22:22:13.846Z",
+  "total": 296,
+  "categories": [
+    {
+      "id": "fish",
+      "name": "魚・魚介",
+      "icon": "fish",
+      "count": 74
+    },
+    {
+      "id": "meat",
+      "name": "肉料理",
+      "icon": "meat",
+      "count": 72
+    },
+    {
+      "id": "vegetables",
+      "name": "野菜・豆腐",
+      "icon": "leaf",
+      "count": 165
+    },
+    {
+      "id": "grill",
+      "name": "焼く・炒める",
+      "icon": "flame",
+      "count": 69
+    },
+    {
+      "id": "fried",
+      "name": "揚げもの",
+      "icon": "fried",
+      "count": 28
+    },
+    {
+      "id": "simmered",
+      "name": "煮もの・鍋",
+      "icon": "pot",
+      "count": 61
+    },
+    {
+      "id": "rice",
+      "name": "ごはん・麺",
+      "icon": "rice",
+      "count": 27
+    },
+    {
+      "id": "local-snacks",
+      "name": "郷土料理・つまみ",
+      "icon": "map",
+      "count": 92
+    }
+  ],
+  "multiple": 233,
+  "unclassified": [],
+  "maximum": 4,
+  "rows": [
+    {
+      "id": "item-bxzivf",
+      "name": "アジフライ",
+      "sourceCategory": "揚げ物",
+      "categories": [
+        "fish",
+        "fried"
+      ]
+    },
+    {
+      "id": "item-wtd20n",
+      "name": "いかそうめん",
+      "sourceCategory": "家庭料理",
+      "categories": [
+        "fish"
+      ]
+    },
+    {
+      "id": "item-uea4vn",
+      "name": "いかなごくぎ煮",
+      "sourceCategory": "煮物",
+      "categories": [
+        "fish",
+        "simmered",
+        "local-snacks"
+      ]
+    },
+    {
+      "id": "item-hxueoj",
+      "name": "いかにんじん",
+      "sourceCategory": "和え物",
+      "categories": [
+        "fish",
+        "vegetables",
+        "local-snacks"
+      ]
+    },
+    {
+      "id": "item-9816mk",
+      "name": "いか唐揚げ",
+      "sourceCategory": "揚げ物",
+      "categories": [
+        "fish",
+        "fried"
+      ]
+    },
+    {
+      "id": "item-ppv3fm",
+      "name": "いちじく白和え",
+      "sourceCategory": "和え物",
+      "categories": [
+        "vegetables",
+        "local-snacks"
+      ]
+    },
+    {
+      "id": "item-jvymnb",
+      "name": "いぶりがっこ",
+      "sourceCategory": "漬物",
+      "categories": [
+        "vegetables",
+        "local-snacks"
+      ]
+    },
+    {
+      "id": "item-1943ghu",
+      "name": "いわしの蒲焼き",
+      "sourceCategory": "焼き物",
+      "categories": [
+        "fish",
+        "grill"
+      ]
+    },
+    {
+      "id": "item-9gvu20",
+      "name": "えびとブロッコリー炒め",
+      "sourceCategory": "炒め物",
+      "categories": [
+        "fish",
+        "vegetables",
+        "grill"
+      ]
+    },
+    {
+      "id": "item-1xp9fqf",
+      "name": "えび春巻き",
+      "sourceCategory": "揚げ物",
+      "categories": [
+        "fish",
+        "fried"
+      ]
+    },
+    {
+      "id": "item-yxmzsn",
+      "name": "オクラのおひたし",
+      "sourceCategory": "和え物",
+      "categories": [
+        "vegetables",
+        "local-snacks"
+      ]
+    },
+    {
+      "id": "item-1w1wueq",
+      "name": "おくら納豆",
+      "sourceCategory": "家庭料理",
+      "categories": [
+        "vegetables"
+      ]
+    },
+    {
+      "id": "item-ohud5z",
+      "name": "おでん",
+      "sourceCategory": "煮物",
+      "categories": [
+        "simmered"
+      ]
+    },
+    {
+      "id": "item-1kpo6q7",
+      "name": "おばんざい盛り",
+      "sourceCategory": "家庭料理",
+      "categories": [
+        "local-snacks"
+      ]
+    },
+    {
+      "id": "item-1gtkpzb",
+      "name": "かつおのたたき",
+      "sourceCategory": "刺身",
+      "categories": [
+        "fish",
+        "local-snacks"
+      ]
+    },
+    {
+      "id": "item-14jjrqa",
+      "name": "かに玉風卵焼き",
+      "sourceCategory": "焼き物",
+      "categories": [
+        "fish",
+        "grill",
+        "local-snacks"
+      ]
+    },
+    {
+      "id": "item-1yj224t",
+      "name": "かぶのそぼろあん",
+      "sourceCategory": "家庭料理",
+      "categories": [
+        "meat",
+        "vegetables",
+        "simmered"
+      ]
+    },
+    {
+      "id": "item-xk8720",
+      "name": "かぶのそぼろ煮",
+      "sourceCategory": "煮物",
+      "categories": [
+        "meat",
+        "vegetables",
+        "simmered"
+      ]
+    },
+    {
+      "id": "item-12f2w3m",
+      "name": "かぶの浅漬け",
+      "sourceCategory": "漬物",
+      "categories": [
+        "vegetables",
+        "local-snacks"
+      ]
+    },
+    {
+      "id": "item-aqqkc9",
+      "name": "かぼちゃの煮物",
+      "sourceCategory": "煮物",
+      "categories": [
+        "vegetables",
+        "simmered"
+      ]
+    },
+    {
+      "id": "item-1oqeudp",
+      "name": "かれいの煮つけ",
+      "sourceCategory": "煮物",
+      "categories": [
+        "fish",
+        "simmered"
+      ]
+    },
+    {
+      "id": "item-18eu2t0",
+      "name": "きのこのバター醤油炒め",
+      "sourceCategory": "炒め物",
+      "categories": [
+        "vegetables",
+        "grill"
+      ]
+    },
+    {
+      "id": "item-1akkb7y",
+      "name": "きのこのホイル焼き",
+      "sourceCategory": "焼き物",
+      "categories": [
+        "vegetables",
+        "grill"
+      ]
+    },
+    {
+      "id": "item-1u8ymom",
+      "name": "きのこの炊き込みご飯",
+      "sourceCategory": "ご飯もの",
+      "categories": [
+        "vegetables",
+        "rice"
+      ]
+    },
+    {
+      "id": "item-1vh5p2e",
+      "name": "きのこ汁",
+      "sourceCategory": "汁物",
+      "categories": [
+        "vegetables",
+        "simmered"
+      ]
+    },
+    {
+      "id": "item-otkikv",
+      "name": "きのこ味噌汁",
+      "sourceCategory": "汁物",
+      "categories": [
+        "vegetables",
+        "simmered"
+      ]
+    },
+    {
+      "id": "item-imd7hg",
+      "name": "キャベツ千切り",
+      "sourceCategory": "家庭料理",
+      "categories": [
+        "vegetables"
+      ]
+    },
+    {
+      "id": "item-1ig36g0",
+      "name": "キャロットラペ",
+      "sourceCategory": "サラダ",
+      "categories": [
+        "vegetables"
+      ]
+    },
+    {
+      "id": "item-7oonpf",
+      "name": "きゅうりとわかめの酢の物",
+      "sourceCategory": "酢の物",
+      "categories": [
+        "vegetables",
+        "local-snacks"
+      ]
+    },
+    {
+      "id": "item-n4oa1c",
+      "name": "きゅうりのたたき",
+      "sourceCategory": "刺身",
+      "categories": [
+        "vegetables",
+        "local-snacks"
+      ]
+    },
+    {
+      "id": "item-12iwkd2",
+      "name": "きゅうりの酢の物",
+      "sourceCategory": "酢の物",
+      "categories": [
+        "vegetables",
+        "local-snacks"
+      ]
+    },
+    {
+      "id": "item-12zgkud",
+      "name": "きゅうりの浅漬け",
+      "sourceCategory": "漬物",
+      "categories": [
+        "vegetables",
+        "local-snacks"
+      ]
+    },
+    {
+      "id": "item-1cb8304",
+      "name": "きんぴらごぼう",
+      "sourceCategory": "炒め物",
+      "categories": [
+        "vegetables",
+        "grill"
+      ]
+    },
+    {
+      "id": "item-66fo3h",
+      "name": "けんちょう",
+      "sourceCategory": "煮物",
+      "categories": [
+        "vegetables",
+        "simmered",
+        "local-snacks"
+      ]
+    },
+    {
+      "id": "item-1udx1zz",
+      "name": "コールスロー",
+      "sourceCategory": "サラダ",
+      "categories": [
+        "vegetables"
+      ]
+    },
+    {
+      "id": "item-i7ip23",
+      "name": "ごぼう唐揚げ",
+      "sourceCategory": "揚げ物",
+      "categories": [
+        "vegetables",
+        "fried"
+      ]
+    },
+    {
+      "id": "item-6xeukp",
+      "name": "こんにゃく田楽",
+      "sourceCategory": "家庭料理",
+      "categories": [
+        "vegetables",
+        "grill"
+      ]
+    },
+    {
+      "id": "item-1fe5ig4",
+      "name": "サーモンの柚子マリネ",
+      "sourceCategory": "酢の物",
+      "categories": [
+        "fish",
+        "local-snacks"
+      ]
+    },
+    {
+      "id": "item-fpo0tp",
+      "name": "ささみチーズフライ",
+      "sourceCategory": "揚げ物",
+      "categories": [
+        "meat",
+        "fried",
+        "local-snacks"
+      ]
+    },
+    {
+      "id": "item-1g4riyb",
+      "name": "ささみ梅和え",
+      "sourceCategory": "和え物",
+      "categories": [
+        "meat",
+        "local-snacks"
+      ]
+    },
+    {
+      "id": "item-14iqtoc",
+      "name": "さつまいもの甘煮",
+      "sourceCategory": "煮物",
+      "categories": [
+        "vegetables",
+        "simmered"
+      ]
+    },
+    {
+      "id": "item-zeowgi",
+      "name": "さつま揚げ",
+      "sourceCategory": "練り物",
+      "categories": [
+        "fish",
+        "fried",
+        "local-snacks"
+      ]
+    },
+    {
+      "id": "item-14618wz",
+      "name": "さんまの塩焼き",
+      "sourceCategory": "焼き物",
+      "categories": [
+        "fish",
+        "grill"
+      ]
+    },
+    {
+      "id": "item-1gnimcq",
+      "name": "しじみ汁",
+      "sourceCategory": "汁物",
+      "categories": [
+        "fish",
+        "simmered"
+      ]
+    },
+    {
+      "id": "item-1xmh08h",
+      "name": "しめじのバター醤油",
+      "sourceCategory": "家庭料理",
+      "categories": [
+        "vegetables",
+        "grill"
+      ]
+    },
+    {
+      "id": "item-otwcw9",
+      "name": "〆のうどん",
+      "sourceCategory": "麺料理",
+      "categories": [
+        "rice"
+      ]
+    },
+    {
+      "id": "item-1a862mi",
+      "name": "じゃがいものそぼろ煮",
+      "sourceCategory": "煮物",
+      "categories": [
+        "meat",
+        "vegetables",
+        "simmered"
+      ]
+    },
+    {
+      "id": "item-fycky9",
+      "name": "じゃがいもの甘辛煮",
+      "sourceCategory": "煮物",
+      "categories": [
+        "vegetables",
+        "simmered"
+      ]
+    },
+    {
+      "id": "item-1nv3byr",
+      "name": "じゃがバター",
+      "sourceCategory": "煮物",
+      "categories": [
+        "vegetables"
+      ]
+    },
+    {
+      "id": "item-1m9frm4",
+      "name": "じゃこ天",
+      "sourceCategory": "練り物",
+      "categories": [
+        "fish",
+        "fried",
+        "local-snacks"
+      ]
+    },
+    {
+      "id": "item-ndby1z",
+      "name": "しょうゆ豆",
+      "sourceCategory": "郷土の豆料理",
+      "categories": [
+        "vegetables",
+        "local-snacks"
+      ]
+    },
+    {
+      "id": "item-1ijw7lh",
+      "name": "しらすご飯",
+      "sourceCategory": "ご飯もの",
+      "categories": [
+        "fish",
+        "rice"
+      ]
+    },
+    {
+      "id": "item-1jz1cmg",
+      "name": "しらす大根",
+      "sourceCategory": "家庭料理",
+      "categories": [
+        "fish",
+        "vegetables"
+      ]
+    },
+    {
+      "id": "item-v2g1vk",
+      "name": "しらす丼",
+      "sourceCategory": "ご飯もの",
+      "categories": [
+        "fish",
+        "rice"
+      ]
+    },
+    {
+      "id": "item-1i5vca8",
+      "name": "しらたきの明太炒め",
+      "sourceCategory": "炒め物",
+      "categories": [
+        "fish",
+        "vegetables",
+        "grill"
+      ]
+    },
+    {
+      "id": "item-3f6jco",
+      "name": "すき焼き",
+      "sourceCategory": "焼き物",
+      "categories": [
+        "meat",
+        "simmered"
+      ]
+    },
+    {
+      "id": "item-11hrfdc",
+      "name": "たくあん",
+      "sourceCategory": "漬物",
+      "categories": [
+        "local-snacks"
+      ]
+    },
+    {
+      "id": "item-1xqnzj6",
+      "name": "たこの酢の物",
+      "sourceCategory": "酢の物",
+      "categories": [
+        "fish",
+        "local-snacks"
+      ]
+    },
+    {
+      "id": "item-1oavcuc",
+      "name": "たこ焼き",
+      "sourceCategory": "焼き物",
+      "categories": [
+        "fish",
+        "grill"
+      ]
+    },
+    {
+      "id": "item-1n9fhwm",
+      "name": "だしトマト",
+      "sourceCategory": "家庭料理",
+      "categories": [
+        "vegetables"
+      ]
+    },
+    {
+      "id": "item-snidmz",
+      "name": "だし巻き卵",
+      "sourceCategory": "焼き物",
+      "categories": [
+        "local-snacks"
+      ]
+    },
+    {
+      "id": "item-5ngw57",
+      "name": "たらちり鍋",
+      "sourceCategory": "鍋物",
+      "categories": [
+        "fish",
+        "simmered"
+      ]
+    },
+    {
+      "id": "item-1rh0pgn",
+      "name": "チーズ入り卵焼き",
+      "sourceCategory": "焼き物",
+      "categories": [
+        "grill",
+        "local-snacks"
+      ]
+    },
+    {
+      "id": "item-1qvavzj",
+      "name": "チキンカツ",
+      "sourceCategory": "家庭料理",
+      "categories": [
+        "meat",
+        "fried"
+      ]
+    },
+    {
+      "id": "item-85tuip",
+      "name": "チキン南蛮",
+      "sourceCategory": "揚げ物",
+      "categories": [
+        "meat",
+        "fried",
+        "local-snacks"
+      ]
+    },
+    {
+      "id": "item-1escrbf",
+      "name": "チキン南蛮風",
+      "sourceCategory": "家庭料理",
+      "categories": [
+        "meat",
+        "fried"
+      ]
+    },
+    {
+      "id": "item-16ysxnd",
+      "name": "ちくわの磯辺揚げ",
+      "sourceCategory": "揚げ物",
+      "categories": [
+        "fried"
+      ]
+    },
+    {
+      "id": "item-blfxcb",
+      "name": "ツナときゅうりのサラダ",
+      "sourceCategory": "サラダ",
+      "categories": [
+        "fish",
+        "vegetables"
+      ]
+    },
+    {
+      "id": "item-1ge0fp8",
+      "name": "ツナ入り卵焼き",
+      "sourceCategory": "焼き物",
+      "categories": [
+        "fish",
+        "grill",
+        "local-snacks"
+      ]
+    },
+    {
+      "id": "item-7a4fn2",
+      "name": "てこね寿司",
+      "sourceCategory": "ご飯もの",
+      "categories": [
+        "fish",
+        "rice",
+        "local-snacks"
+      ]
+    },
+    {
+      "id": "item-1luk72v",
+      "name": "とうふちくわ",
+      "sourceCategory": "練り物",
+      "categories": [
+        "fish",
+        "vegetables",
+        "local-snacks"
+      ]
+    },
+    {
+      "id": "item-1h2tn7c",
+      "name": "どて煮",
+      "sourceCategory": "煮物",
+      "categories": [
+        "meat",
+        "simmered",
+        "local-snacks"
+      ]
+    },
+    {
+      "id": "item-1tf1x88",
+      "name": "トマトと大葉の冷奴",
+      "sourceCategory": "豆腐料理",
+      "categories": [
+        "vegetables"
+      ]
+    },
+    {
+      "id": "item-l42zrb",
+      "name": "トマトのおかか和え",
+      "sourceCategory": "和え物",
+      "categories": [
+        "vegetables",
+        "local-snacks"
+      ]
+    },
+    {
+      "id": "item-wbgvnu",
+      "name": "とり天",
+      "sourceCategory": "揚げ物",
+      "categories": [
+        "meat",
+        "fried",
+        "local-snacks"
+      ]
+    },
+    {
+      "id": "item-ctq9l4",
+      "name": "なすとひき肉の味噌炒め",
+      "sourceCategory": "炒め物",
+      "categories": [
+        "meat",
+        "vegetables",
+        "grill"
+      ]
+    },
+    {
+      "id": "item-gojckb",
+      "name": "なすの中華南蛮",
+      "sourceCategory": "家庭料理",
+      "categories": [
+        "vegetables"
+      ]
+    },
+    {
+      "id": "item-7fm3u3",
+      "name": "なすの揚げ浸し",
+      "sourceCategory": "家庭料理",
+      "categories": [
+        "vegetables",
+        "fried"
+      ]
+    },
+    {
+      "id": "item-1h053iu",
+      "name": "なす味噌炒め",
+      "sourceCategory": "炒め物",
+      "categories": [
+        "vegetables",
+        "grill"
+      ]
+    },
+    {
+      "id": "item-18m89v1",
+      "name": "なめこの味噌汁",
+      "sourceCategory": "汁物",
+      "categories": [
+        "vegetables",
+        "simmered"
+      ]
+    },
+    {
+      "id": "item-ynuhjb",
+      "name": "なめろう",
+      "sourceCategory": "刺身",
+      "categories": [
+        "fish",
+        "local-snacks"
+      ]
+    },
+    {
+      "id": "item-1bpshfp",
+      "name": "にら玉炒め",
+      "sourceCategory": "炒め物",
+      "categories": [
+        "vegetables",
+        "grill"
+      ]
+    },
+    {
+      "id": "item-1xy87ci",
+      "name": "にんじんしりしり",
+      "sourceCategory": "炒め物",
+      "categories": [
+        "vegetables",
+        "grill",
+        "local-snacks"
+      ]
+    },
+    {
+      "id": "item-1mh7wa",
+      "name": "ねぎ味噌焼き",
+      "sourceCategory": "焼き物",
+      "categories": [
+        "vegetables",
+        "grill"
+      ]
+    },
+    {
+      "id": "item-1l59inr",
+      "name": "ハンバーグ和風ソース",
+      "sourceCategory": "家庭料理",
+      "categories": [
+        "meat"
+      ]
+    },
+    {
+      "id": "item-xjkuw1",
+      "name": "ピーマンのおかか炒め",
+      "sourceCategory": "炒め物",
+      "categories": [
+        "vegetables",
+        "grill"
+      ]
+    },
+    {
+      "id": "item-1xssba8",
+      "name": "ひじき煮",
+      "sourceCategory": "煮物",
+      "categories": [
+        "vegetables",
+        "simmered"
+      ]
+    },
+    {
+      "id": "item-yocedz",
+      "name": "ひっつみ",
+      "sourceCategory": "汁物",
+      "categories": [
+        "vegetables",
+        "simmered",
+        "rice",
+        "local-snacks"
+      ]
+    },
+    {
+      "id": "item-f0o1nz",
+      "name": "ぶりの照り焼き",
+      "sourceCategory": "焼き物",
+      "categories": [
+        "fish",
+        "grill"
+      ]
+    },
+    {
+      "id": "item-1h5tdlg",
+      "name": "ブロッコリーのごま和え",
+      "sourceCategory": "和え物",
+      "categories": [
+        "vegetables",
+        "local-snacks"
+      ]
+    },
+    {
+      "id": "item-1xxh73q",
+      "name": "ほうとう",
+      "sourceCategory": "麺料理",
+      "categories": [
+        "vegetables",
+        "rice",
+        "local-snacks"
+      ]
+    },
+    {
+      "id": "item-4cb93g",
+      "name": "ほうれん草のおひたし",
+      "sourceCategory": "おひたし",
+      "categories": [
+        "vegetables",
+        "local-snacks"
+      ]
+    },
+    {
+      "id": "item-atl0h",
+      "name": "ほうれん草の白和え",
+      "sourceCategory": "和え物",
+      "categories": [
+        "vegetables",
+        "local-snacks"
+      ]
+    },
+    {
+      "id": "item-bkg9kw",
+      "name": "ポテトサラダ",
+      "sourceCategory": "サラダ",
+      "categories": [
+        "vegetables"
+      ]
+    },
+    {
+      "id": "item-1dogc3z",
+      "name": "ポテトの青のり炒め",
+      "sourceCategory": "炒め物",
+      "categories": [
+        "vegetables",
+        "grill"
+      ]
+    },
+    {
+      "id": "item-182pjf0",
+      "name": "ポテトフライ",
+      "sourceCategory": "揚げ物",
+      "categories": [
+        "vegetables",
+        "fried"
+      ]
+    },
+    {
+      "id": "item-p2lsmn",
+      "name": "まぐろの山かけ",
+      "sourceCategory": "家庭料理",
+      "categories": [
+        "fish"
+      ]
+    },
+    {
+      "id": "item-y9rev9",
+      "name": "ままかり酢漬け",
+      "sourceCategory": "酢の物",
+      "categories": [
+        "fish",
+        "local-snacks"
+      ]
+    },
+    {
+      "id": "item-bqtlke",
+      "name": "めはり寿司",
+      "sourceCategory": "ご飯もの",
+      "categories": [
+        "vegetables",
+        "rice",
+        "local-snacks"
+      ]
+    },
+    {
+      "id": "item-2feozw",
+      "name": "もずく酢",
+      "sourceCategory": "酢の物",
+      "categories": [
+        "vegetables",
+        "local-snacks"
+      ]
+    },
+    {
+      "id": "item-16glcav",
+      "name": "もやしナムル",
+      "sourceCategory": "炒め物",
+      "categories": [
+        "vegetables"
+      ]
+    },
+    {
+      "id": "item-1s2342q",
+      "name": "れんこんチップス",
+      "sourceCategory": "家庭料理",
+      "categories": [
+        "vegetables",
+        "fried"
+      ]
+    },
+    {
+      "id": "item-z77cor",
+      "name": "れんこんのきんぴら",
+      "sourceCategory": "炒め物",
+      "categories": [
+        "vegetables",
+        "grill"
+      ]
+    },
+    {
+      "id": "item-axo113",
+      "name": "鯵のたたき",
+      "sourceCategory": "刺身",
+      "categories": [
+        "fish",
+        "local-snacks"
+      ]
+    },
+    {
+      "id": "item-1iunux2",
+      "name": "塩さば焼き",
+      "sourceCategory": "焼き物",
+      "categories": [
+        "fish",
+        "grill"
+      ]
+    },
+    {
+      "id": "item-ukwn3o",
+      "name": "塩むすび",
+      "sourceCategory": "ご飯もの",
+      "categories": [
+        "rice"
+      ]
+    },
+    {
+      "id": "item-1ygohfo",
+      "name": "塩昆布おにぎり",
+      "sourceCategory": "ご飯もの",
+      "categories": [
+        "rice"
+      ]
+    },
+    {
+      "id": "item-1g4ik4y",
+      "name": "塩昆布キャベツ",
+      "sourceCategory": "家庭料理",
+      "categories": [
+        "vegetables"
+      ]
+    },
+    {
+      "id": "item-1wwkrut",
+      "name": "牡蠣フライ",
+      "sourceCategory": "揚げ物",
+      "categories": [
+        "fish",
+        "fried"
+      ]
+    },
+    {
+      "id": "item-iyosjs",
+      "name": "海老しんじょう風",
+      "sourceCategory": "家庭料理",
+      "categories": [
+        "fish",
+        "local-snacks"
+      ]
+    },
+    {
+      "id": "item-hhpkns",
+      "name": "海老とアボカドの白和え",
+      "sourceCategory": "和え物",
+      "categories": [
+        "fish",
+        "vegetables",
+        "local-snacks"
+      ]
+    },
+    {
+      "id": "item-b2rpak",
+      "name": "海老ときゅうりの酢の物",
+      "sourceCategory": "酢の物",
+      "categories": [
+        "fish",
+        "vegetables",
+        "local-snacks"
+      ]
+    },
+    {
+      "id": "item-ae8vro",
+      "name": "貝焼き味噌",
+      "sourceCategory": "煮物",
+      "categories": [
+        "fish",
+        "grill",
+        "simmered",
+        "local-snacks"
+      ]
+    },
+    {
+      "id": "item-1q22164",
+      "name": "柿の葉寿司",
+      "sourceCategory": "ご飯もの",
+      "categories": [
+        "rice",
+        "local-snacks"
+      ]
+    },
+    {
+      "id": "item-fjfeqx",
+      "name": "寄せ鍋",
+      "sourceCategory": "鍋物",
+      "categories": [
+        "simmered"
+      ]
+    },
+    {
+      "id": "item-w147vq",
+      "name": "牛ごぼう煮",
+      "sourceCategory": "煮物",
+      "categories": [
+        "meat",
+        "vegetables",
+        "simmered"
+      ]
+    },
+    {
+      "id": "item-n7dakt",
+      "name": "牛すじ豆腐",
+      "sourceCategory": "豆腐料理",
+      "categories": [
+        "meat",
+        "vegetables"
+      ]
+    },
+    {
+      "id": "item-1mmm1b4",
+      "name": "牛肉と大根の甘辛煮",
+      "sourceCategory": "煮物",
+      "categories": [
+        "meat",
+        "vegetables",
+        "simmered"
+      ]
+    },
+    {
+      "id": "item-1darimd",
+      "name": "玉こんにゃく",
+      "sourceCategory": "煮物",
+      "categories": [
+        "vegetables",
+        "simmered",
+        "local-snacks"
+      ]
+    },
+    {
+      "id": "item-oaox6a",
+      "name": "玉ねぎスライス",
+      "sourceCategory": "家庭料理",
+      "categories": [
+        "vegetables"
+      ]
+    },
+    {
+      "id": "item-24dp1c",
+      "name": "鶏ごぼう",
+      "sourceCategory": "家庭料理",
+      "categories": [
+        "meat",
+        "vegetables"
+      ]
+    },
+    {
+      "id": "item-xdorvu",
+      "name": "鶏ごぼう煮",
+      "sourceCategory": "煮物",
+      "categories": [
+        "meat",
+        "vegetables",
+        "simmered"
+      ]
+    },
+    {
+      "id": "item-15838pu",
+      "name": "鶏ささみのわさび和え",
+      "sourceCategory": "和え物",
+      "categories": [
+        "meat",
+        "local-snacks"
+      ]
+    },
+    {
+      "id": "item-8d4bg",
+      "name": "鶏ささみの梅しそ巻き",
+      "sourceCategory": "家庭料理",
+      "categories": [
+        "meat"
+      ]
+    },
+    {
+      "id": "item-q89525",
+      "name": "鶏じゃが",
+      "sourceCategory": "煮物",
+      "categories": [
+        "meat",
+        "vegetables",
+        "simmered"
+      ]
+    },
+    {
+      "id": "item-ojkgnf",
+      "name": "鶏そぼろご飯",
+      "sourceCategory": "ご飯もの",
+      "categories": [
+        "meat",
+        "rice"
+      ]
+    },
+    {
+      "id": "item-jsjkez",
+      "name": "鶏ちゃん",
+      "sourceCategory": "炒め物",
+      "categories": [
+        "meat",
+        "vegetables",
+        "grill",
+        "local-snacks"
+      ]
+    },
+    {
+      "id": "item-15hf1h6",
+      "name": "鶏つくね",
+      "sourceCategory": "家庭料理",
+      "categories": [
+        "meat"
+      ]
+    },
+    {
+      "id": "item-1nw9675",
+      "name": "鶏つくね汁",
+      "sourceCategory": "汁物",
+      "categories": [
+        "meat",
+        "simmered"
+      ]
+    },
+    {
+      "id": "item-1kvpcyr",
+      "name": "鶏つくね鍋",
+      "sourceCategory": "鍋物",
+      "categories": [
+        "meat",
+        "simmered"
+      ]
+    },
+    {
+      "id": "item-grdeyg",
+      "name": "鶏の塩焼き",
+      "sourceCategory": "焼き物",
+      "categories": [
+        "meat",
+        "grill"
+      ]
+    },
+    {
+      "id": "item-1i89m16",
+      "name": "鶏の照り焼き",
+      "sourceCategory": "焼き物",
+      "categories": [
+        "meat",
+        "grill"
+      ]
+    },
+    {
+      "id": "item-11txxuc",
+      "name": "鶏の唐揚げ",
+      "sourceCategory": "揚げ物",
+      "categories": [
+        "meat",
+        "fried"
+      ]
+    },
+    {
+      "id": "item-dm58te",
+      "name": "鶏の南蛮漬け",
+      "sourceCategory": "漬物",
+      "categories": [
+        "meat",
+        "local-snacks"
+      ]
+    },
+    {
+      "id": "item-2thfcc",
+      "name": "鶏の味噌焼き",
+      "sourceCategory": "焼き物",
+      "categories": [
+        "meat",
+        "grill"
+      ]
+    },
+    {
+      "id": "item-mke5ix",
+      "name": "鶏ハム",
+      "sourceCategory": "家庭料理",
+      "categories": [
+        "meat"
+      ]
+    },
+    {
+      "id": "item-1e0ec3q",
+      "name": "鶏むねナゲット",
+      "sourceCategory": "家庭料理",
+      "categories": [
+        "meat",
+        "fried"
+      ]
+    },
+    {
+      "id": "item-kauxek",
+      "name": "鶏むねの酒蒸し",
+      "sourceCategory": "蒸し物",
+      "categories": [
+        "meat"
+      ]
+    },
+    {
+      "id": "item-zgt0h4",
+      "name": "鶏むね肉のレモン蒸し",
+      "sourceCategory": "蒸し物",
+      "categories": [
+        "meat"
+      ]
+    },
+    {
+      "id": "item-1gyfmy7",
+      "name": "鶏むね肉の塩麹焼き",
+      "sourceCategory": "焼き物",
+      "categories": [
+        "meat",
+        "grill"
+      ]
+    },
+    {
+      "id": "item-yzi9xg",
+      "name": "鶏ももの山椒焼き",
+      "sourceCategory": "焼き物",
+      "categories": [
+        "meat",
+        "grill"
+      ]
+    },
+    {
+      "id": "item-i6tnpz",
+      "name": "鶏もも肉の照り焼き",
+      "sourceCategory": "焼き物",
+      "categories": [
+        "meat",
+        "grill"
+      ]
+    },
+    {
+      "id": "item-1qt5jkq",
+      "name": "鶏塩鍋",
+      "sourceCategory": "鍋物",
+      "categories": [
+        "meat",
+        "simmered"
+      ]
+    },
+    {
+      "id": "item-qusy9k",
+      "name": "鶏肝の生姜煮",
+      "sourceCategory": "煮物",
+      "categories": [
+        "meat",
+        "simmered"
+      ]
+    },
+    {
+      "id": "item-zcz64u",
+      "name": "鶏肉と大根の煮物",
+      "sourceCategory": "煮物",
+      "categories": [
+        "meat",
+        "vegetables",
+        "simmered"
+      ]
+    },
+    {
+      "id": "item-qnyrzm",
+      "name": "鶏肉の味噌漬け焼き",
+      "sourceCategory": "漬物",
+      "categories": [
+        "meat",
+        "grill",
+        "local-snacks"
+      ]
+    },
+    {
+      "id": "item-1pomla",
+      "name": "鶏飯風雑炊",
+      "sourceCategory": "ご飯もの",
+      "categories": [
+        "meat",
+        "rice"
+      ]
+    },
+    {
+      "id": "item-oobjpp",
+      "name": "厚揚げと小松菜の煮物",
+      "sourceCategory": "煮物",
+      "categories": [
+        "vegetables",
+        "simmered"
+      ]
+    },
+    {
+      "id": "item-1yhrr7t",
+      "name": "厚揚げの含め煮",
+      "sourceCategory": "煮物",
+      "categories": [
+        "vegetables",
+        "simmered"
+      ]
+    },
+    {
+      "id": "item-1uy1whf",
+      "name": "厚揚げの照り焼き",
+      "sourceCategory": "焼き物",
+      "categories": [
+        "vegetables",
+        "grill"
+      ]
+    },
+    {
+      "id": "item-1yvdob9",
+      "name": "厚揚げの生姜焼き",
+      "sourceCategory": "焼き物",
+      "categories": [
+        "vegetables",
+        "grill"
+      ]
+    },
+    {
+      "id": "item-1d4a9lj",
+      "name": "厚揚げの薬味のせ",
+      "sourceCategory": "家庭料理",
+      "categories": [
+        "vegetables"
+      ]
+    },
+    {
+      "id": "item-a9vclw",
+      "name": "厚揚げ味噌チーズ焼き",
+      "sourceCategory": "焼き物",
+      "categories": [
+        "vegetables",
+        "grill",
+        "local-snacks"
+      ]
+    },
+    {
+      "id": "item-5q1mkm",
+      "name": "黒はんぺんフライ",
+      "sourceCategory": "揚げ物",
+      "categories": [
+        "fried",
+        "local-snacks"
+      ]
+    },
+    {
+      "id": "item-2wasz5",
+      "name": "昆布締め",
+      "sourceCategory": "刺身",
+      "categories": [
+        "fish",
+        "local-snacks"
+      ]
+    },
+    {
+      "id": "item-1c734kk",
+      "name": "根菜ポトフ和風",
+      "sourceCategory": "家庭料理",
+      "categories": [
+        "vegetables",
+        "simmered"
+      ]
+    },
+    {
+      "id": "item-3rar6q",
+      "name": "砂肝ポン酢",
+      "sourceCategory": "酢の物",
+      "categories": [
+        "meat",
+        "local-snacks"
+      ]
+    },
+    {
+      "id": "item-1f0fzua",
+      "name": "鮭のムニエル",
+      "sourceCategory": "焼き物",
+      "categories": [
+        "fish",
+        "grill"
+      ]
+    },
+    {
+      "id": "item-1aro9ta",
+      "name": "鮭の塩焼き",
+      "sourceCategory": "焼き物",
+      "categories": [
+        "fish",
+        "grill"
+      ]
+    },
+    {
+      "id": "item-1wqr8ac",
+      "name": "鮭の南蛮漬け",
+      "sourceCategory": "漬物",
+      "categories": [
+        "fish",
+        "local-snacks"
+      ]
+    },
+    {
+      "id": "item-ba83ir",
+      "name": "鮭雑炊",
+      "sourceCategory": "ご飯もの",
+      "categories": [
+        "fish",
+        "rice"
+      ]
+    },
+    {
+      "id": "item-103fal0",
+      "name": "笹かまぼこ",
+      "sourceCategory": "練り物",
+      "categories": [
+        "fish",
+        "local-snacks"
+      ]
+    },
+    {
+      "id": "item-1oa2ibm",
+      "name": "雑炊",
+      "sourceCategory": "ご飯もの",
+      "categories": [
+        "rice"
+      ]
+    },
+    {
+      "id": "item-fgabu4",
+      "name": "鯖の味噌煮",
+      "sourceCategory": "煮物",
+      "categories": [
+        "fish",
+        "simmered"
+      ]
+    },
+    {
+      "id": "item-173epeh",
+      "name": "鯖の竜田揚げ",
+      "sourceCategory": "家庭料理",
+      "categories": [
+        "fish",
+        "fried"
+      ]
+    },
+    {
+      "id": "item-tz0jmu",
+      "name": "山芋短冊",
+      "sourceCategory": "家庭料理",
+      "categories": [
+        "vegetables"
+      ]
+    },
+    {
+      "id": "item-10ivjqq",
+      "name": "刺身",
+      "sourceCategory": "刺身",
+      "categories": [
+        "fish",
+        "local-snacks"
+      ]
+    },
+    {
+      "id": "item-4c8mkq",
+      "name": "枝豆",
+      "sourceCategory": "茹で物",
+      "categories": [
+        "vegetables",
+        "local-snacks"
+      ]
+    },
+    {
+      "id": "item-1a9fhec",
+      "name": "枝豆ごはん",
+      "sourceCategory": "ご飯もの",
+      "categories": [
+        "vegetables",
+        "rice"
+      ]
+    },
+    {
+      "id": "item-1rmaigk",
+      "name": "枝豆の塩ゆで",
+      "sourceCategory": "家庭料理",
+      "categories": [
+        "vegetables"
+      ]
+    },
+    {
+      "id": "item-9p27pk",
+      "name": "治部煮",
+      "sourceCategory": "煮物",
+      "categories": [
+        "meat",
+        "vegetables",
+        "simmered",
+        "local-snacks"
+      ]
+    },
+    {
+      "id": "item-7s9ogh",
+      "name": "手羽元と大根の煮物",
+      "sourceCategory": "煮物",
+      "categories": [
+        "meat",
+        "vegetables",
+        "simmered"
+      ]
+    },
+    {
+      "id": "item-xt4xa7",
+      "name": "手羽元のさっぱり煮",
+      "sourceCategory": "煮物",
+      "categories": [
+        "meat",
+        "simmered"
+      ]
+    },
+    {
+      "id": "item-3o8qkn",
+      "name": "春キャベツの浅漬け",
+      "sourceCategory": "漬物",
+      "categories": [
+        "vegetables",
+        "local-snacks"
+      ]
+    },
+    {
+      "id": "item-1w35a0e",
+      "name": "春雨サラダ",
+      "sourceCategory": "サラダ",
+      "categories": [
+        "vegetables"
+      ]
+    },
+    {
+      "id": "item-4lu5es",
+      "name": "春巻き",
+      "sourceCategory": "揚げ物",
+      "categories": [
+        "fried"
+      ]
+    },
+    {
+      "id": "item-sfu08i",
+      "name": "春菊のごま和え",
+      "sourceCategory": "和え物",
+      "categories": [
+        "vegetables",
+        "local-snacks"
+      ]
+    },
+    {
+      "id": "item-ge65ga",
+      "name": "小松菜と油揚げの煮びたし",
+      "sourceCategory": "煮物",
+      "categories": [
+        "vegetables",
+        "simmered"
+      ]
+    },
+    {
+      "id": "item-gpwcew",
+      "name": "小松菜のおひたし",
+      "sourceCategory": "和え物",
+      "categories": [
+        "vegetables",
+        "local-snacks"
+      ]
+    },
+    {
+      "id": "item-1gtpkjn",
+      "name": "小松菜のからし和え",
+      "sourceCategory": "和え物",
+      "categories": [
+        "vegetables",
+        "local-snacks"
+      ]
+    },
+    {
+      "id": "item-1iqbnct",
+      "name": "小松菜のナムル",
+      "sourceCategory": "炒め物",
+      "categories": [
+        "vegetables"
+      ]
+    },
+    {
+      "id": "item-1n879ul",
+      "name": "焼きおにぎり",
+      "sourceCategory": "ご飯もの",
+      "categories": [
+        "grill",
+        "rice"
+      ]
+    },
+    {
+      "id": "item-1vjingi",
+      "name": "焼きおにぎり茶漬け",
+      "sourceCategory": "漬物",
+      "categories": [
+        "grill",
+        "rice"
+      ]
+    },
+    {
+      "id": "item-rlh0ld",
+      "name": "焼きしいたけ",
+      "sourceCategory": "焼き物",
+      "categories": [
+        "vegetables",
+        "grill"
+      ]
+    },
+    {
+      "id": "item-1oko38p",
+      "name": "焼きししゃも",
+      "sourceCategory": "焼き物",
+      "categories": [
+        "fish",
+        "grill"
+      ]
+    },
+    {
+      "id": "item-quxw37",
+      "name": "焼きなす",
+      "sourceCategory": "焼き物",
+      "categories": [
+        "vegetables",
+        "grill"
+      ]
+    },
+    {
+      "id": "item-1lrsg7c",
+      "name": "焼き魚",
+      "sourceCategory": "焼き物",
+      "categories": [
+        "fish",
+        "grill"
+      ]
+    },
+    {
+      "id": "item-18hmhqk",
+      "name": "焼き厚揚げ",
+      "sourceCategory": "焼き物",
+      "categories": [
+        "vegetables",
+        "grill"
+      ]
+    },
+    {
+      "id": "item-avnlz1",
+      "name": "焼き鮭",
+      "sourceCategory": "焼き物",
+      "categories": [
+        "fish",
+        "grill"
+      ]
+    },
+    {
+      "id": "item-l58wn0",
+      "name": "焼き鯖",
+      "sourceCategory": "焼き物",
+      "categories": [
+        "fish",
+        "grill"
+      ]
+    },
+    {
+      "id": "item-qez57p",
+      "name": "焼き鳥",
+      "sourceCategory": "焼き物",
+      "categories": [
+        "meat",
+        "grill"
+      ]
+    },
+    {
+      "id": "item-t2y62i",
+      "name": "焼き鳥風ねぎま",
+      "sourceCategory": "焼き物",
+      "categories": [
+        "meat",
+        "vegetables",
+        "grill"
+      ]
+    },
+    {
+      "id": "item-1uggncb",
+      "name": "焼き豆腐の煮物",
+      "sourceCategory": "煮物",
+      "categories": [
+        "vegetables",
+        "simmered"
+      ]
+    },
+    {
+      "id": "item-8kt19",
+      "name": "焼き味噌",
+      "sourceCategory": "焼き物",
+      "categories": [
+        "grill",
+        "local-snacks"
+      ]
+    },
+    {
+      "id": "item-1n2ysp5",
+      "name": "焼き油揚げ",
+      "sourceCategory": "焼き物",
+      "categories": [
+        "vegetables",
+        "grill"
+      ]
+    },
+    {
+      "id": "item-6lf6gp",
+      "name": "焼き餃子",
+      "sourceCategory": "焼き物",
+      "categories": [
+        "grill",
+        "local-snacks"
+      ]
+    },
+    {
+      "id": "item-434gfh",
+      "name": "蒸しなすの香味だれ",
+      "sourceCategory": "蒸し物",
+      "categories": [
+        "vegetables"
+      ]
+    },
+    {
+      "id": "item-13i1v8h",
+      "name": "蒸し鶏と香味野菜",
+      "sourceCategory": "蒸し物",
+      "categories": [
+        "meat",
+        "vegetables"
+      ]
+    },
+    {
+      "id": "item-gobkfe",
+      "name": "蒸し鶏のねぎだれ",
+      "sourceCategory": "蒸し物",
+      "categories": [
+        "meat",
+        "vegetables"
+      ]
+    },
+    {
+      "id": "item-1s2yef5",
+      "name": "蒸し鶏のねぎ塩だれ",
+      "sourceCategory": "蒸し物",
+      "categories": [
+        "meat",
+        "vegetables"
+      ]
+    },
+    {
+      "id": "item-1231dt2",
+      "name": "蒸し野菜のごまだれ",
+      "sourceCategory": "蒸し物",
+      "categories": [
+        "vegetables"
+      ]
+    },
+    {
+      "id": "item-xt4hhv",
+      "name": "深川めし",
+      "sourceCategory": "ご飯もの",
+      "categories": [
+        "fish",
+        "rice",
+        "local-snacks"
+      ]
+    },
+    {
+      "id": "item-eubukh",
+      "name": "深谷ねぎ焼き",
+      "sourceCategory": "焼き物",
+      "categories": [
+        "vegetables",
+        "grill"
+      ]
+    },
+    {
+      "id": "item-11g7cqt",
+      "name": "真鯛のカルパッチョ",
+      "sourceCategory": "家庭料理",
+      "categories": [
+        "fish"
+      ]
+    },
+    {
+      "id": "item-nyk9cb",
+      "name": "辛子蓮根",
+      "sourceCategory": "揚げ物",
+      "categories": [
+        "vegetables",
+        "fried",
+        "local-snacks"
+      ]
+    },
+    {
+      "id": "item-1apsvtd",
+      "name": "水菜と油揚げの煮びたし",
+      "sourceCategory": "煮物",
+      "categories": [
+        "vegetables",
+        "simmered"
+      ]
+    },
+    {
+      "id": "item-1dbhyuv",
+      "name": "水菜のおひたし",
+      "sourceCategory": "和え物",
+      "categories": [
+        "vegetables",
+        "local-snacks"
+      ]
+    },
+    {
+      "id": "item-v1n9b4",
+      "name": "炊き込みご飯",
+      "sourceCategory": "ご飯もの",
+      "categories": [
+        "rice"
+      ]
+    },
+    {
+      "id": "item-63yukp",
+      "name": "生ハム大根",
+      "sourceCategory": "家庭料理",
+      "categories": [
+        "meat",
+        "vegetables"
+      ]
+    },
+    {
+      "id": "item-xe5600",
+      "name": "青菜の辛子和え",
+      "sourceCategory": "和え物",
+      "categories": [
+        "vegetables",
+        "local-snacks"
+      ]
+    },
+    {
+      "id": "item-1gordx6",
+      "name": "赤こんにゃく煮",
+      "sourceCategory": "煮物",
+      "categories": [
+        "vegetables",
+        "simmered",
+        "local-snacks"
+      ]
+    },
+    {
+      "id": "item-797onb",
+      "name": "切り干し大根煮",
+      "sourceCategory": "煮物",
+      "categories": [
+        "vegetables",
+        "simmered"
+      ]
+    },
+    {
+      "id": "item-1s9xmks",
+      "name": "鯛の塩焼き",
+      "sourceCategory": "焼き物",
+      "categories": [
+        "fish",
+        "grill"
+      ]
+    },
+    {
+      "id": "item-hf2hro",
+      "name": "鯛の昆布じめ",
+      "sourceCategory": "刺身",
+      "categories": [
+        "fish",
+        "local-snacks"
+      ]
+    },
+    {
+      "id": "item-vxjuab",
+      "name": "鯛の酒蒸し",
+      "sourceCategory": "蒸し物",
+      "categories": [
+        "fish"
+      ]
+    },
+    {
+      "id": "item-1e1tn91",
+      "name": "鯛刺し",
+      "sourceCategory": "刺身",
+      "categories": [
+        "fish",
+        "local-snacks"
+      ]
+    },
+    {
+      "id": "item-16lyze3",
+      "name": "鯛茶漬け",
+      "sourceCategory": "漬物",
+      "categories": [
+        "fish",
+        "rice"
+      ]
+    },
+    {
+      "id": "item-1f32wck",
+      "name": "大根おろししらす",
+      "sourceCategory": "家庭料理",
+      "categories": [
+        "fish",
+        "vegetables"
+      ]
+    },
+    {
+      "id": "item-1w4tvux",
+      "name": "大根サラダ",
+      "sourceCategory": "サラダ",
+      "categories": [
+        "vegetables"
+      ]
+    },
+    {
+      "id": "item-a7lkax",
+      "name": "大根とツナのサラダ",
+      "sourceCategory": "サラダ",
+      "categories": [
+        "fish",
+        "vegetables"
+      ]
+    },
+    {
+      "id": "item-1we659n",
+      "name": "大根と鶏手羽の煮物",
+      "sourceCategory": "煮物",
+      "categories": [
+        "meat",
+        "vegetables",
+        "simmered"
+      ]
+    },
+    {
+      "id": "item-1qoj2a3",
+      "name": "大根のそぼろ煮",
+      "sourceCategory": "煮物",
+      "categories": [
+        "meat",
+        "vegetables",
+        "simmered"
+      ]
+    },
+    {
+      "id": "item-1r8f01w",
+      "name": "大根の甘酢漬け",
+      "sourceCategory": "酢の物",
+      "categories": [
+        "vegetables",
+        "local-snacks"
+      ]
+    },
+    {
+      "id": "item-jjeu9j",
+      "name": "筑前煮",
+      "sourceCategory": "煮物",
+      "categories": [
+        "meat",
+        "vegetables",
+        "simmered",
+        "local-snacks"
+      ]
+    },
+    {
+      "id": "item-1oirnmr",
+      "name": "茶碗蒸し",
+      "sourceCategory": "蒸し物",
+      "categories": [
+        "local-snacks"
+      ]
+    },
+    {
+      "id": "item-7mlgmv",
+      "name": "長ねぎの焼き浸し",
+      "sourceCategory": "焼き物",
+      "categories": [
+        "vegetables",
+        "grill"
+      ]
+    },
+    {
+      "id": "item-8gfr9",
+      "name": "長芋の千切り",
+      "sourceCategory": "家庭料理",
+      "categories": [
+        "vegetables"
+      ]
+    },
+    {
+      "id": "item-1xexu6m",
+      "name": "長芋の梅和え",
+      "sourceCategory": "和え物",
+      "categories": [
+        "vegetables",
+        "local-snacks"
+      ]
+    },
+    {
+      "id": "item-1vk0s13",
+      "name": "唐揚げ",
+      "sourceCategory": "揚げ物",
+      "categories": [
+        "meat",
+        "fried"
+      ]
+    },
+    {
+      "id": "item-1qvzseg",
+      "name": "湯豆腐",
+      "sourceCategory": "鍋物",
+      "categories": [
+        "vegetables",
+        "simmered"
+      ]
+    },
+    {
+      "id": "item-g70tda",
+      "name": "湯波煮",
+      "sourceCategory": "煮物",
+      "categories": [
+        "vegetables",
+        "simmered",
+        "local-snacks"
+      ]
+    },
+    {
+      "id": "item-1s2snsf",
+      "name": "豆乳鍋",
+      "sourceCategory": "鍋物",
+      "categories": [
+        "vegetables",
+        "simmered"
+      ]
+    },
+    {
+      "id": "item-uieq3v",
+      "name": "豆腐サラダ",
+      "sourceCategory": "サラダ",
+      "categories": [
+        "vegetables"
+      ]
+    },
+    {
+      "id": "item-1ypq9l7",
+      "name": "豆腐ステーキ",
+      "sourceCategory": "豆腐料理",
+      "categories": [
+        "vegetables",
+        "grill"
+      ]
+    },
+    {
+      "id": "item-vn5eom",
+      "name": "豆腐チャンプルー",
+      "sourceCategory": "豆腐料理",
+      "categories": [
+        "vegetables",
+        "grill"
+      ]
+    },
+    {
+      "id": "item-13fu2gt",
+      "name": "豆腐のカプレーゼ風",
+      "sourceCategory": "豆腐料理",
+      "categories": [
+        "vegetables"
+      ]
+    },
+    {
+      "id": "item-msq2qm",
+      "name": "豆腐のきのこあん",
+      "sourceCategory": "煮物",
+      "categories": [
+        "vegetables",
+        "simmered"
+      ]
+    },
+    {
+      "id": "item-op99dt",
+      "name": "豆腐の薬味のせ",
+      "sourceCategory": "豆腐料理",
+      "categories": [
+        "vegetables"
+      ]
+    },
+    {
+      "id": "item-sfepe7",
+      "name": "豆腐の落とし揚げ",
+      "sourceCategory": "豆腐料理",
+      "categories": [
+        "vegetables",
+        "fried"
+      ]
+    },
+    {
+      "id": "item-1tfzr7x",
+      "name": "栃尾の油揚げ",
+      "sourceCategory": "豆腐料理",
+      "categories": [
+        "vegetables",
+        "local-snacks"
+      ]
+    },
+    {
+      "id": "item-fdbvdf",
+      "name": "豚キムチ",
+      "sourceCategory": "家庭料理",
+      "categories": [
+        "meat",
+        "grill"
+      ]
+    },
+    {
+      "id": "item-1yf4vmh",
+      "name": "豚こまとピーマンの味噌炒め",
+      "sourceCategory": "炒め物",
+      "categories": [
+        "meat",
+        "vegetables",
+        "grill"
+      ]
+    },
+    {
+      "id": "item-nu1pe0",
+      "name": "豚こま唐揚げ",
+      "sourceCategory": "揚げ物",
+      "categories": [
+        "meat",
+        "fried"
+      ]
+    },
+    {
+      "id": "item-1steqpp",
+      "name": "豚しゃぶキムチ",
+      "sourceCategory": "家庭料理",
+      "categories": [
+        "meat"
+      ]
+    },
+    {
+      "id": "item-1wbiu6r",
+      "name": "豚しゃぶサラダ",
+      "sourceCategory": "サラダ",
+      "categories": [
+        "meat",
+        "vegetables"
+      ]
+    },
+    {
+      "id": "item-1abl20d",
+      "name": "豚の角煮",
+      "sourceCategory": "煮物",
+      "categories": [
+        "meat",
+        "simmered"
+      ]
+    },
+    {
+      "id": "item-1n5dwfx",
+      "name": "豚の生姜焼き",
+      "sourceCategory": "焼き物",
+      "categories": [
+        "meat",
+        "grill"
+      ]
+    },
+    {
+      "id": "item-163j8kx",
+      "name": "豚バラなす味噌炒め",
+      "sourceCategory": "炒め物",
+      "categories": [
+        "meat",
+        "vegetables",
+        "grill"
+      ]
+    },
+    {
+      "id": "item-b4c63u",
+      "name": "豚バラ大根",
+      "sourceCategory": "家庭料理",
+      "categories": [
+        "meat",
+        "vegetables",
+        "simmered"
+      ]
+    },
+    {
+      "id": "item-pbgk2h",
+      "name": "豚角煮大根",
+      "sourceCategory": "煮物",
+      "categories": [
+        "meat",
+        "vegetables",
+        "simmered"
+      ]
+    },
+    {
+      "id": "item-13w7k4b",
+      "name": "肉じゃが",
+      "sourceCategory": "煮物",
+      "categories": [
+        "meat",
+        "vegetables",
+        "simmered"
+      ]
+    },
+    {
+      "id": "item-1nk7g06",
+      "name": "肉団子の甘酢あん",
+      "sourceCategory": "酢の物",
+      "categories": [
+        "meat",
+        "local-snacks"
+      ]
+    },
+    {
+      "id": "item-p7h2xu",
+      "name": "肉豆腐",
+      "sourceCategory": "豆腐料理",
+      "categories": [
+        "meat",
+        "vegetables",
+        "simmered"
+      ]
+    },
+    {
+      "id": "item-1euektq",
+      "name": "梅きゅうり",
+      "sourceCategory": "家庭料理",
+      "categories": [
+        "vegetables"
+      ]
+    },
+    {
+      "id": "item-t8ir0z",
+      "name": "梅しそおにぎり",
+      "sourceCategory": "ご飯もの",
+      "categories": [
+        "rice"
+      ]
+    },
+    {
+      "id": "item-micaq3",
+      "name": "梅しそ冷奴",
+      "sourceCategory": "豆腐料理",
+      "categories": [
+        "vegetables"
+      ]
+    },
+    {
+      "id": "item-4xz1nf",
+      "name": "梅じゃこご飯",
+      "sourceCategory": "ご飯もの",
+      "categories": [
+        "fish",
+        "rice"
+      ]
+    },
+    {
+      "id": "item-x563mz",
+      "name": "白菜と豚肉の重ね煮",
+      "sourceCategory": "煮物",
+      "categories": [
+        "meat",
+        "vegetables",
+        "simmered"
+      ]
+    },
+    {
+      "id": "item-tta7ls",
+      "name": "白菜のおひたし",
+      "sourceCategory": "和え物",
+      "categories": [
+        "vegetables",
+        "local-snacks"
+      ]
+    },
+    {
+      "id": "item-19mqdkn",
+      "name": "白菜の煮びたし",
+      "sourceCategory": "煮物",
+      "categories": [
+        "vegetables",
+        "simmered"
+      ]
+    },
+    {
+      "id": "item-ts9sh6",
+      "name": "白菜の浅漬け",
+      "sourceCategory": "漬物",
+      "categories": [
+        "vegetables",
+        "local-snacks"
+      ]
+    },
+    {
+      "id": "item-egt8xf",
+      "name": "白菜の柚子漬け",
+      "sourceCategory": "漬物",
+      "categories": [
+        "vegetables",
+        "local-snacks"
+      ]
+    },
+    {
+      "id": "item-1b5b3zo",
+      "name": "白菜ロール煮",
+      "sourceCategory": "煮物",
+      "categories": [
+        "vegetables",
+        "simmered"
+      ]
+    },
+    {
+      "id": "item-1srpkxj",
+      "name": "白身魚のカルパッチョ",
+      "sourceCategory": "家庭料理",
+      "categories": [
+        "fish"
+      ]
+    },
+    {
+      "id": "item-1l6b665",
+      "name": "白身魚のフライ",
+      "sourceCategory": "揚げ物",
+      "categories": [
+        "fish",
+        "fried"
+      ]
+    },
+    {
+      "id": "item-195ch45",
+      "name": "白身魚のムニエル",
+      "sourceCategory": "焼き物",
+      "categories": [
+        "fish",
+        "grill"
+      ]
+    },
+    {
+      "id": "item-10twdb",
+      "name": "白身魚の昆布蒸し",
+      "sourceCategory": "蒸し物",
+      "categories": [
+        "fish"
+      ]
+    },
+    {
+      "id": "item-qucd4x",
+      "name": "白身魚の昆布締め",
+      "sourceCategory": "刺身",
+      "categories": [
+        "fish",
+        "local-snacks"
+      ]
+    },
+    {
+      "id": "item-1hsbwvk",
+      "name": "白身魚の酒蒸し",
+      "sourceCategory": "蒸し物",
+      "categories": [
+        "fish"
+      ]
+    },
+    {
+      "id": "item-hfmj93",
+      "name": "白身魚の南蛮漬け",
+      "sourceCategory": "漬物",
+      "categories": [
+        "fish",
+        "local-snacks"
+      ]
+    },
+    {
+      "id": "item-1vgsf9",
+      "name": "帆立と三つ葉の酢味噌",
+      "sourceCategory": "酢の物",
+      "categories": [
+        "fish",
+        "local-snacks"
+      ]
+    },
+    {
+      "id": "item-148tu1a",
+      "name": "帆立と白菜の酒蒸し",
+      "sourceCategory": "蒸し物",
+      "categories": [
+        "fish",
+        "vegetables"
+      ]
+    },
+    {
+      "id": "item-kz5kco",
+      "name": "帆立のバター焼き",
+      "sourceCategory": "焼き物",
+      "categories": [
+        "fish",
+        "grill"
+      ]
+    },
+    {
+      "id": "item-gbjdky",
+      "name": "帆立バター醤油",
+      "sourceCategory": "家庭料理",
+      "categories": [
+        "fish",
+        "grill"
+      ]
+    },
+    {
+      "id": "item-9buyix",
+      "name": "蕪と柿のなます",
+      "sourceCategory": "酢の物",
+      "categories": [
+        "vegetables",
+        "local-snacks"
+      ]
+    },
+    {
+      "id": "item-1dpjynm",
+      "name": "麻婆豆腐",
+      "sourceCategory": "豆腐料理",
+      "categories": [
+        "vegetables"
+      ]
+    },
+    {
+      "id": "item-e0hg5f",
+      "name": "味噌煮込み豆腐",
+      "sourceCategory": "煮物",
+      "categories": [
+        "vegetables",
+        "simmered"
+      ]
+    },
+    {
+      "id": "item-92v041",
+      "name": "味噌汁",
+      "sourceCategory": "汁物",
+      "categories": [
+        "simmered"
+      ]
+    },
+    {
+      "id": "item-vmh5ia",
+      "name": "味噌焼きおにぎり",
+      "sourceCategory": "ご飯もの",
+      "categories": [
+        "grill",
+        "rice"
+      ]
+    },
+    {
+      "id": "item-1jraaq0",
+      "name": "明太だし巻き",
+      "sourceCategory": "家庭料理",
+      "categories": [
+        "fish",
+        "grill"
+      ]
+    },
+    {
+      "id": "item-1n3rx9w",
+      "name": "明太ポテトサラダ",
+      "sourceCategory": "サラダ",
+      "categories": [
+        "fish",
+        "vegetables"
+      ]
+    },
+    {
+      "id": "item-1prhp1w",
+      "name": "鳴門わかめ酢",
+      "sourceCategory": "酢の物",
+      "categories": [
+        "vegetables",
+        "local-snacks"
+      ]
+    },
+    {
+      "id": "item-1jebyq",
+      "name": "野沢菜炒め",
+      "sourceCategory": "炒め物",
+      "categories": [
+        "vegetables",
+        "grill"
+      ]
+    },
+    {
+      "id": "item-146vaoa",
+      "name": "油揚げピザ風",
+      "sourceCategory": "家庭料理",
+      "categories": [
+        "vegetables",
+        "grill"
+      ]
+    },
+    {
+      "id": "item-17lpxjk",
+      "name": "揚げ出し豆腐",
+      "sourceCategory": "豆腐料理",
+      "categories": [
+        "vegetables",
+        "fried"
+      ]
+    },
+    {
+      "id": "item-ji8ld",
+      "name": "揚げ焼き餃子",
+      "sourceCategory": "焼き物",
+      "categories": [
+        "grill",
+        "fried",
+        "local-snacks"
+      ]
+    },
+    {
+      "id": "item-rx9riv",
+      "name": "卵サンド",
+      "sourceCategory": "家庭料理",
+      "categories": [
+        "rice"
+      ]
+    },
+    {
+      "id": "item-1ei9vty",
+      "name": "卵とじうどん",
+      "sourceCategory": "麺料理",
+      "categories": [
+        "rice"
+      ]
+    },
+    {
+      "id": "item-8ldgkb",
+      "name": "卵雑炊",
+      "sourceCategory": "ご飯もの",
+      "categories": [
+        "rice"
+      ]
+    },
+    {
+      "id": "item-1go4563",
+      "name": "卵焼き",
+      "sourceCategory": "焼き物",
+      "categories": [
+        "grill",
+        "local-snacks"
+      ]
+    },
+    {
+      "id": "item-qlobqs",
+      "name": "里芋のそぼろ煮",
+      "sourceCategory": "煮物",
+      "categories": [
+        "meat",
+        "vegetables",
+        "simmered"
+      ]
+    },
+    {
+      "id": "item-1tcwfzz",
+      "name": "冷やしトマト",
+      "sourceCategory": "家庭料理",
+      "categories": [
+        "vegetables"
+      ]
+    },
+    {
+      "id": "item-17ad5fo",
+      "name": "冷やしピーマン",
+      "sourceCategory": "家庭料理",
+      "categories": [
+        "vegetables"
+      ]
+    },
+    {
+      "id": "item-1gwo1eu",
+      "name": "冷奴",
+      "sourceCategory": "豆腐料理",
+      "categories": [
+        "vegetables"
+      ]
+    },
+    {
+      "id": "item-16m4olz",
+      "name": "冷奴の生姜だれ",
+      "sourceCategory": "豆腐料理",
+      "categories": [
+        "vegetables"
+      ]
+    },
+    {
+      "id": "item-i3j18y",
+      "name": "蓮根まんじゅう風",
+      "sourceCategory": "家庭料理",
+      "categories": [
+        "vegetables",
+        "local-snacks"
+      ]
+    }
+  ]
+}

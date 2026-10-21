@@ -29,6 +29,6 @@ export default async function FoodPage({ params }) {
     <section className="detail-band"><h2>この料理に合わせる、この三本。</h2><p className="muted-copy">料理と味わいを手がかりに選びました。</p><div className="recommendation-grid">{picks.map(r=><DiscoverySakeCard key={r.item.id} item={r.item} reason={r.reason} />)}</div>{!picks.length&&<p className="empty-state">味付けやお好みに合わせて、<Link href="/search">日本酒一覧から探す</Link>。</p>}</section>
     {nights.length>0&&<section className="detail-band"><h2>こんな夜に</h2><SeasonalNightLinks nights={nights} /></section>}
     {others.length>0&&<details className="other-sake"><summary>ほかの候補を見る（{others.length}商品）</summary><div className="recommendation-grid">{others.map(r=><DiscoverySakeCard key={r.item.id} item={r.item} reason={r.reason} />)}</div></details>}
-    <RecipeLinks dish={food.name} /><SpecialtyLinks dish={food.name} /><Link className="text-link" href="/food">料理をすべて見る →</Link>
+    <RecipeLinks dish={food.name} /><SpecialtyLinks dish={food.name} /><Link className="text-link" href="/food?all=1">料理をすべて見る →</Link>
   </DiscoveryShell>;
 }

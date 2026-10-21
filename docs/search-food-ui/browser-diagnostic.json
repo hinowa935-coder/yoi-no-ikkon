@@ -1,0 +1,305 @@
+{
+  "checkedAt": "2026-10-21T22:24:05.393Z",
+  "base": "http://127.0.0.1:3197",
+  "checks": [
+    {
+      "name": "webkit-320: no visible temperature shortcuts",
+      "pass": true
+    },
+    {
+      "name": "webkit-320: search no overflow",
+      "pass": true
+    },
+    {
+      "name": "webkit-320: reset disabled initially",
+      "pass": true
+    },
+    {
+      "name": "webkit-320: advanced initially closed",
+      "pass": true
+    },
+    {
+      "name": "webkit-320: OR with live result count",
+      "pass": true
+    },
+    {
+      "name": "webkit-320: two pressed options",
+      "pass": true
+    },
+    {
+      "name": "webkit-320: AND across categories",
+      "pass": true
+    },
+    {
+      "name": "webkit-320: 48px buttons and single-line labels",
+      "pass": true,
+      "detail": [
+        {
+          "height": 48,
+          "wrap": false,
+          "whiteSpace": "nowrap"
+        },
+        {
+          "height": 48,
+          "wrap": false,
+          "whiteSpace": "nowrap"
+        },
+        {
+          "height": 48,
+          "wrap": false,
+          "whiteSpace": "nowrap"
+        },
+        {
+          "height": 48,
+          "wrap": false,
+          "whiteSpace": "nowrap"
+        },
+        {
+          "height": 48,
+          "wrap": false,
+          "whiteSpace": "nowrap"
+        },
+        {
+          "height": 48.010498046875,
+          "wrap": false,
+          "whiteSpace": "nowrap"
+        },
+        {
+          "height": 48,
+          "wrap": false,
+          "whiteSpace": "nowrap"
+        },
+        {
+          "height": 48,
+          "wrap": false,
+          "whiteSpace": "nowrap"
+        },
+        {
+          "height": 48.373504638671875,
+          "wrap": false,
+          "whiteSpace": "nowrap"
+        },
+        {
+          "height": 48,
+          "wrap": false,
+          "whiteSpace": "nowrap"
+        },
+        {
+          "height": 48,
+          "wrap": false,
+          "whiteSpace": "nowrap"
+        },
+        {
+          "height": 48,
+          "wrap": false,
+          "whiteSpace": "nowrap"
+        },
+        {
+          "height": 48,
+          "wrap": false,
+          "whiteSpace": "nowrap"
+        }
+      ]
+    },
+    {
+      "name": "webkit-320: footer stays visible after advanced scroll",
+      "pass": true
+    },
+    {
+      "name": "webkit-320: sheet no horizontal overflow",
+      "pass": true
+    },
+    {
+      "name": "webkit-320: one tap reset",
+      "pass": true
+    },
+    {
+      "name": "webkit-320: modal focus trap",
+      "pass": true
+    },
+    {
+      "name": "webkit-320: escape restores filter focus",
+      "pass": true
+    },
+    {
+      "name": "webkit-320: individual chip removes condition",
+      "pass": true
+    },
+    {
+      "name": "webkit-320: zero result guidance",
+      "pass": true
+    },
+    {
+      "name": "webkit-320: keyword なべしま",
+      "pass": true
+    },
+    {
+      "name": "webkit-320: keyword 鍋島",
+      "pass": true
+    },
+    {
+      "name": "webkit-320: keyword 宮坂醸造",
+      "pass": true
+    },
+    {
+      "name": "webkit-320: keyword 肉じゃが",
+      "pass": true
+    },
+    {
+      "name": "webkit-320: search back restores query filters sort scroll",
+      "pass": true
+    },
+    {
+      "name": "webkit-320: ochoko preserved",
+      "pass": true
+    },
+    {
+      "name": "webkit-320: navigation return restores search",
+      "pass": true
+    },
+    {
+      "name": "webkit-320: eight categories without initial bulk results",
+      "pass": true
+    },
+    {
+      "name": "webkit-320: food no overflow",
+      "pass": true
+    },
+    {
+      "name": "webkit-320: category tap targets and label fit",
+      "pass": true,
+      "detail": [
+        {
+          "h": 104,
+          "w": 135,
+          "name": true
+        },
+        {
+          "h": 104,
+          "w": 135,
+          "name": true
+        },
+        {
+          "h": 104,
+          "w": 135,
+          "name": true
+        },
+        {
+          "h": 104,
+          "w": 135,
+          "name": true
+        },
+        {
+          "h": 104,
+          "w": 135,
+          "name": true
+        },
+        {
+          "h": 104,
+          "w": 135,
+          "name": true
+        },
+        {
+          "h": 104,
+          "w": 135,
+          "name": true
+        },
+        {
+          "h": 104,
+          "w": 135,
+          "name": true
+        }
+      ]
+    },
+    {
+      "name": "webkit-320: two column categories",
+      "pass": true
+    },
+    {
+      "name": "webkit-320: category selection count",
+      "pass": true
+    },
+    {
+      "name": "webkit-320: food keyword AND category",
+      "pass": true
+    },
+    {
+      "name": "webkit-320: food detail recommendation",
+      "pass": true
+    },
+    {
+      "name": "webkit-320: food browser back restores category keyword scroll",
+      "pass": true
+    },
+    {
+      "name": "webkit-320: category cleared in one tap",
+      "pass": true
+    },
+    {
+      "name": "webkit-320: all foods unique total",
+      "pass": true
+    },
+    {
+      "name": "webkit-320: food load more",
+      "pass": true
+    },
+    {
+      "name": "webkit-320: food reload preserves loaded count",
+      "pass": true
+    },
+    {
+      "name": "webkit-320: direct food keyword",
+      "pass": true
+    },
+    {
+      "name": "webkit-320: legacy detailed category URL",
+      "pass": true
+    },
+    {
+      "name": "webkit-320: existing external recipe preserved",
+      "pass": true
+    },
+    {
+      "name": "webkit-320: food detail all link",
+      "pass": true
+    },
+    {
+      "name": "webkit-320: night food sake navigation intact",
+      "pass": true
+    },
+    {
+      "name": "webkit-320: Discover all foods link directly opens list",
+      "pass": true
+    },
+    {
+      "name": "webkit-320: bottom navigation intact",
+      "pass": true
+    },
+    {
+      "name": "webkit-320: final no overflow",
+      "pass": true
+    }
+  ],
+  "errors": [
+    {
+      "prefix": "webkit-320: ",
+      "message": "/127.0.0.1:3197/food/item-1vh5p2e/__next.food.$d$slug.__PAGE__.txt?_rsc=dGL0ESjmZ4WdtWwh due to access control checks."
+    }
+  ],
+  "networkFailures": [
+    {
+      "prefix": "webkit-320: ",
+      "path": "/food/item-1oqeudp/__next.food.$d$slug.__PAGE__.txt",
+      "error": "Load request cancelled"
+    },
+    {
+      "prefix": "webkit-320: ",
+      "path": "/food/item-18eu2t0/__next.food.$d$slug.__PAGE__.txt",
+      "error": "Load request cancelled"
+    }
+  ],
+  "passed": false,
+  "realIphoneTested": false,
+  "realAndroidTested": false,
+  "serviceWorkersBlocked": true
+}
