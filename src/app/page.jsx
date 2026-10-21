@@ -20,9 +20,12 @@ export default function Page() {
     <HomeNightChoices />
     <DailyPick />
     <section className="home-about" aria-labelledby="home-about-title">
-      <h2 id="home-about-title">{homeAbout.heading}</h2>
+      <div className="home-about-copy">
+      <p className="home-about-label">宵の一献について</p>
+      <h2 id="home-about-title">{homeAbout.heading.split(/(?<=、)/u).map(part => <span key={part}>{part}</span>)}</h2>
       {homeAbout.paragraphs.map((paragraph) => <p key={paragraph}>{paragraph}</p>)}
       <Link href="/about" className="text-link">宵の一献について <ArrowRight size={16} aria-hidden="true" /></Link>
+      </div>
     </section>
     <HomeScreenGuide />
     <RecommendShare />

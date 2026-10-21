@@ -1,0 +1,31 @@
+{
+  "checkedAt": "2026-10-21T21:20:47.667Z",
+  "rows": [
+    {
+      "name": "tests",
+      "checkedAt": "2026-10-21T21:20:44.149Z",
+      "passed": true,
+      "exitCode": 0,
+      "testCount": 156,
+      "testPass": 156
+    },
+    {
+      "name": "typecheck",
+      "checkedAt": "2026-10-21T21:20:47.252Z",
+      "passed": true,
+      "exitCode": 0,
+      "testCount": null,
+      "testPass": null
+    },
+    {
+      "name": "lint",
+      "checkedAt": "2026-10-21T21:20:47.667Z",
+      "passed": true,
+      "exitCode": 0,
+      "testCount": null,
+      "testPass": null
+    }
+  ],
+  "passed": true,
+  "dependenciesChanged": false
+}

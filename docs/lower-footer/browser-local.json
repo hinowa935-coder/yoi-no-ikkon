@@ -1,0 +1,672 @@
+{
+  "checkedAt": "2026-10-21T21:24:44.301Z",
+  "base": "http://127.0.0.1:3197",
+  "checks": [
+    {
+      "name": "webkit-320-ios: section hierarchy and unframed About",
+      "pass": true,
+      "detail": {
+        "sizes": [
+          24,
+          20,
+          18,
+          14
+        ],
+        "ordered": true,
+        "aboutLine": "1px",
+        "aboutBorder": "0px",
+        "aboutBackground": "rgba(0, 0, 0, 0)",
+        "overflow": false
+      }
+    },
+    {
+      "name": "webkit-320-ios: one share, no automatic action",
+      "pass": true
+    },
+    {
+      "name": "webkit-320-ios: footer has exactly three text navigation links",
+      "pass": true
+    },
+    {
+      "name": "webkit-320-ios: age and Rakuten attribution remain visible",
+      "pass": true
+    },
+    {
+      "name": "webkit-320-ios: notice initially collapsed",
+      "pass": true
+    },
+    {
+      "name": "webkit-320-ios: notice keyboard opens with full two-paragraph text",
+      "pass": true
+    },
+    {
+      "name": "webkit-320-ios: notice keyboard closes, focus retained",
+      "pass": true
+    },
+    {
+      "name": "webkit-320-ios: separate functional cards",
+      "pass": true
+    },
+    {
+      "name": "webkit-320-ios: platform guide",
+      "pass": true
+    },
+    {
+      "name": "webkit-320-ios: guide escape restores focus",
+      "pass": true
+    },
+    {
+      "name": "webkit-320-ios: native share payload unchanged",
+      "pass": true
+    },
+    {
+      "name": "webkit-320-ios: cancellation silent",
+      "pass": true
+    },
+    {
+      "name": "webkit-320-ios: clipboard fallback",
+      "pass": true
+    },
+    {
+      "name": "webkit-320-ios: bottom navigation clearance",
+      "pass": true,
+      "detail": {
+        "footer": 755.734375,
+        "nav": 776
+      }
+    },
+    {
+      "name": "webkit-320-ios: About link",
+      "pass": true
+    },
+    {
+      "name": "webkit-320-ios: advertising link",
+      "pass": true
+    },
+    {
+      "name": "webkit-320-ios: search back",
+      "pass": true
+    },
+    {
+      "name": "webkit-320-ios: saved favorite and compact guide unchanged",
+      "pass": true
+    },
+    {
+      "name": "webkit-320-ios: Discover unaffected",
+      "pass": true
+    },
+    {
+      "name": "webkit-360-ios: section hierarchy and unframed About",
+      "pass": true,
+      "detail": {
+        "sizes": [
+          24,
+          20,
+          18,
+          14
+        ],
+        "ordered": true,
+        "aboutLine": "1px",
+        "aboutBorder": "0px",
+        "aboutBackground": "rgba(0, 0, 0, 0)",
+        "overflow": false
+      }
+    },
+    {
+      "name": "webkit-360-ios: one share, no automatic action",
+      "pass": true
+    },
+    {
+      "name": "webkit-360-ios: footer has exactly three text navigation links",
+      "pass": true
+    },
+    {
+      "name": "webkit-360-ios: age and Rakuten attribution remain visible",
+      "pass": true
+    },
+    {
+      "name": "webkit-360-ios: notice initially collapsed",
+      "pass": true
+    },
+    {
+      "name": "webkit-360-ios: notice keyboard opens with full two-paragraph text",
+      "pass": true
+    },
+    {
+      "name": "webkit-360-ios: notice keyboard closes, focus retained",
+      "pass": true
+    },
+    {
+      "name": "webkit-360-ios: separate functional cards",
+      "pass": true
+    },
+    {
+      "name": "webkit-360-ios: platform guide",
+      "pass": true
+    },
+    {
+      "name": "webkit-360-ios: guide escape restores focus",
+      "pass": true
+    },
+    {
+      "name": "webkit-360-ios: native share payload unchanged",
+      "pass": true
+    },
+    {
+      "name": "webkit-360-ios: cancellation silent",
+      "pass": true
+    },
+    {
+      "name": "webkit-360-ios: clipboard fallback",
+      "pass": true
+    },
+    {
+      "name": "webkit-360-ios: bottom navigation clearance",
+      "pass": true,
+      "detail": {
+        "footer": 756.1875,
+        "nav": 776
+      }
+    },
+    {
+      "name": "webkit-360-ios: About link",
+      "pass": true
+    },
+    {
+      "name": "webkit-360-ios: advertising link",
+      "pass": true
+    },
+    {
+      "name": "webkit-360-ios: search back",
+      "pass": true
+    },
+    {
+      "name": "webkit-360-ios: saved favorite and compact guide unchanged",
+      "pass": true
+    },
+    {
+      "name": "webkit-360-ios: Discover unaffected",
+      "pass": true
+    },
+    {
+      "name": "webkit-375-ios: section hierarchy and unframed About",
+      "pass": true,
+      "detail": {
+        "sizes": [
+          24,
+          20,
+          18,
+          14
+        ],
+        "ordered": true,
+        "aboutLine": "1px",
+        "aboutBorder": "0px",
+        "aboutBackground": "rgba(0, 0, 0, 0)",
+        "overflow": false
+      }
+    },
+    {
+      "name": "webkit-375-ios: one share, no automatic action",
+      "pass": true
+    },
+    {
+      "name": "webkit-375-ios: footer has exactly three text navigation links",
+      "pass": true
+    },
+    {
+      "name": "webkit-375-ios: age and Rakuten attribution remain visible",
+      "pass": true
+    },
+    {
+      "name": "webkit-375-ios: notice initially collapsed",
+      "pass": true
+    },
+    {
+      "name": "webkit-375-ios: notice keyboard opens with full two-paragraph text",
+      "pass": true
+    },
+    {
+      "name": "webkit-375-ios: notice keyboard closes, focus retained",
+      "pass": true
+    },
+    {
+      "name": "webkit-375-ios: separate functional cards",
+      "pass": true
+    },
+    {
+      "name": "webkit-375-ios: platform guide",
+      "pass": true
+    },
+    {
+      "name": "webkit-375-ios: guide escape restores focus",
+      "pass": true
+    },
+    {
+      "name": "webkit-375-ios: native share payload unchanged",
+      "pass": true
+    },
+    {
+      "name": "webkit-375-ios: cancellation silent",
+      "pass": true
+    },
+    {
+      "name": "webkit-375-ios: clipboard fallback",
+      "pass": true
+    },
+    {
+      "name": "webkit-375-ios: bottom navigation clearance",
+      "pass": true,
+      "detail": {
+        "footer": 755.6875,
+        "nav": 776
+      }
+    },
+    {
+      "name": "webkit-375-ios: About link",
+      "pass": true
+    },
+    {
+      "name": "webkit-375-ios: advertising link",
+      "pass": true
+    },
+    {
+      "name": "webkit-375-ios: search back",
+      "pass": true
+    },
+    {
+      "name": "webkit-375-ios: saved favorite and compact guide unchanged",
+      "pass": true
+    },
+    {
+      "name": "webkit-375-ios: Discover unaffected",
+      "pass": true
+    },
+    {
+      "name": "webkit-390-ios: section hierarchy and unframed About",
+      "pass": true,
+      "detail": {
+        "sizes": [
+          24,
+          20,
+          18,
+          14
+        ],
+        "ordered": true,
+        "aboutLine": "1px",
+        "aboutBorder": "0px",
+        "aboutBackground": "rgba(0, 0, 0, 0)",
+        "overflow": false
+      }
+    },
+    {
+      "name": "webkit-390-ios: one share, no automatic action",
+      "pass": true
+    },
+    {
+      "name": "webkit-390-ios: footer has exactly three text navigation links",
+      "pass": true
+    },
+    {
+      "name": "webkit-390-ios: age and Rakuten attribution remain visible",
+      "pass": true
+    },
+    {
+      "name": "webkit-390-ios: notice initially collapsed",
+      "pass": true
+    },
+    {
+      "name": "webkit-390-ios: notice keyboard opens with full two-paragraph text",
+      "pass": true
+    },
+    {
+      "name": "webkit-390-ios: notice keyboard closes, focus retained",
+      "pass": true
+    },
+    {
+      "name": "webkit-390-ios: separate functional cards",
+      "pass": true
+    },
+    {
+      "name": "webkit-390-ios: platform guide",
+      "pass": true
+    },
+    {
+      "name": "webkit-390-ios: guide escape restores focus",
+      "pass": true
+    },
+    {
+      "name": "webkit-390-ios: native share payload unchanged",
+      "pass": true
+    },
+    {
+      "name": "webkit-390-ios: cancellation silent",
+      "pass": true
+    },
+    {
+      "name": "webkit-390-ios: clipboard fallback",
+      "pass": true
+    },
+    {
+      "name": "webkit-390-ios: bottom navigation clearance",
+      "pass": true,
+      "detail": {
+        "footer": 755.6875,
+        "nav": 776
+      }
+    },
+    {
+      "name": "webkit-390-ios: About link",
+      "pass": true
+    },
+    {
+      "name": "webkit-390-ios: advertising link",
+      "pass": true
+    },
+    {
+      "name": "webkit-390-ios: search back",
+      "pass": true
+    },
+    {
+      "name": "webkit-390-ios: saved favorite and compact guide unchanged",
+      "pass": true
+    },
+    {
+      "name": "webkit-390-ios: Discover unaffected",
+      "pass": true
+    },
+    {
+      "name": "webkit-390-ios: navigator standalone no guide, no empty space",
+      "pass": true
+    },
+    {
+      "name": "webkit-390-ios: media standalone no guide, no empty space",
+      "pass": true
+    },
+    {
+      "name": "webkit-430-ios: section hierarchy and unframed About",
+      "pass": true,
+      "detail": {
+        "sizes": [
+          24,
+          20,
+          18,
+          14
+        ],
+        "ordered": true,
+        "aboutLine": "1px",
+        "aboutBorder": "0px",
+        "aboutBackground": "rgba(0, 0, 0, 0)",
+        "overflow": false
+      }
+    },
+    {
+      "name": "webkit-430-ios: one share, no automatic action",
+      "pass": true
+    },
+    {
+      "name": "webkit-430-ios: footer has exactly three text navigation links",
+      "pass": true
+    },
+    {
+      "name": "webkit-430-ios: age and Rakuten attribution remain visible",
+      "pass": true
+    },
+    {
+      "name": "webkit-430-ios: notice initially collapsed",
+      "pass": true
+    },
+    {
+      "name": "webkit-430-ios: notice keyboard opens with full two-paragraph text",
+      "pass": true
+    },
+    {
+      "name": "webkit-430-ios: notice keyboard closes, focus retained",
+      "pass": true
+    },
+    {
+      "name": "webkit-430-ios: separate functional cards",
+      "pass": true
+    },
+    {
+      "name": "webkit-430-ios: platform guide",
+      "pass": true
+    },
+    {
+      "name": "webkit-430-ios: guide escape restores focus",
+      "pass": true
+    },
+    {
+      "name": "webkit-430-ios: native share payload unchanged",
+      "pass": true
+    },
+    {
+      "name": "webkit-430-ios: cancellation silent",
+      "pass": true
+    },
+    {
+      "name": "webkit-430-ios: clipboard fallback",
+      "pass": true
+    },
+    {
+      "name": "webkit-430-ios: bottom navigation clearance",
+      "pass": true,
+      "detail": {
+        "footer": 755.859375,
+        "nav": 776
+      }
+    },
+    {
+      "name": "webkit-430-ios: About link",
+      "pass": true
+    },
+    {
+      "name": "webkit-430-ios: advertising link",
+      "pass": true
+    },
+    {
+      "name": "webkit-430-ios: search back",
+      "pass": true
+    },
+    {
+      "name": "webkit-430-ios: saved favorite and compact guide unchanged",
+      "pass": true
+    },
+    {
+      "name": "webkit-430-ios: Discover unaffected",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280-pc: section hierarchy and unframed About",
+      "pass": true,
+      "detail": {
+        "sizes": [
+          28,
+          24,
+          18,
+          14
+        ],
+        "ordered": true,
+        "aboutLine": "1px",
+        "aboutBorder": "0px",
+        "aboutBackground": "rgba(0, 0, 0, 0)",
+        "overflow": false
+      }
+    },
+    {
+      "name": "chromium-1280-pc: one share, no automatic action",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280-pc: footer has exactly three text navigation links",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280-pc: age and Rakuten attribution remain visible",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280-pc: notice initially collapsed",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280-pc: notice keyboard opens with full two-paragraph text",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280-pc: notice keyboard closes, focus retained",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280-pc: PC hides guide without blank wrapper",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280-pc: native share payload unchanged",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280-pc: cancellation silent",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280-pc: clipboard fallback",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280-pc: bottom navigation clearance",
+      "pass": true,
+      "detail": {
+        "footer": 843.921875,
+        "nav": null
+      }
+    },
+    {
+      "name": "chromium-1280-pc: About link",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280-pc: advertising link",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280-pc: search back",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280-pc: saved favorite and compact guide unchanged",
+      "pass": true
+    },
+    {
+      "name": "chromium-1280-pc: Discover unaffected",
+      "pass": true
+    },
+    {
+      "name": "chromium-390-android: section hierarchy and unframed About",
+      "pass": true,
+      "detail": {
+        "sizes": [
+          24,
+          20,
+          18,
+          14
+        ],
+        "ordered": true,
+        "aboutLine": "1px",
+        "aboutBorder": "0px",
+        "aboutBackground": "rgba(0, 0, 0, 0)",
+        "overflow": false
+      }
+    },
+    {
+      "name": "chromium-390-android: one share, no automatic action",
+      "pass": true
+    },
+    {
+      "name": "chromium-390-android: footer has exactly three text navigation links",
+      "pass": true
+    },
+    {
+      "name": "chromium-390-android: age and Rakuten attribution remain visible",
+      "pass": true
+    },
+    {
+      "name": "chromium-390-android: notice initially collapsed",
+      "pass": true
+    },
+    {
+      "name": "chromium-390-android: notice keyboard opens with full two-paragraph text",
+      "pass": true
+    },
+    {
+      "name": "chromium-390-android: notice keyboard closes, focus retained",
+      "pass": true
+    },
+    {
+      "name": "chromium-390-android: separate functional cards",
+      "pass": true
+    },
+    {
+      "name": "chromium-390-android: platform guide",
+      "pass": true
+    },
+    {
+      "name": "chromium-390-android: guide escape restores focus",
+      "pass": true
+    },
+    {
+      "name": "chromium-390-android: native share payload unchanged",
+      "pass": true
+    },
+    {
+      "name": "chromium-390-android: cancellation silent",
+      "pass": true
+    },
+    {
+      "name": "chromium-390-android: clipboard fallback",
+      "pass": true
+    },
+    {
+      "name": "chromium-390-android: bottom navigation clearance",
+      "pass": true,
+      "detail": {
+        "footer": 755.75,
+        "nav": 776
+      }
+    },
+    {
+      "name": "chromium-390-android: About link",
+      "pass": true
+    },
+    {
+      "name": "chromium-390-android: advertising link",
+      "pass": true
+    },
+    {
+      "name": "chromium-390-android: search back",
+      "pass": true
+    },
+    {
+      "name": "chromium-390-android: saved favorite and compact guide unchanged",
+      "pass": true
+    },
+    {
+      "name": "chromium-390-android: Discover unaffected",
+      "pass": true
+    },
+    {
+      "name": "chromium-390-android: navigator standalone no guide, no empty space",
+      "pass": true
+    },
+    {
+      "name": "chromium-390-android: media standalone no guide, no empty space",
+      "pass": true
+    }
+  ],
+  "errors": [],
+  "passed": true,
+  "nativeShareAndClipboardMocked": true,
+  "standaloneSimulated": true,
+  "realIphoneTested": false,
+  "realAndroidTested": false,
+  "noMessagesSent": true
+}

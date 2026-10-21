@@ -1,9 +1,10 @@
 import ShareButton from './ShareButton.jsx';
 import { SITE_NAME } from '../../data/siteIdentity.js';
+import { Share2 } from 'lucide-react';
 
 export default function RecommendShare({ item }) {
-  return <section className="return-note recommend-share" aria-label={item ? 'この一献を、誰かにも。' : '宵の一献を、誰かにも。'}>
-    <h2>{item ? 'この一献を、誰かにも。' : '宵の一献を、誰かにも。'}</h2>
+  return <section className={`return-note recommend-share${item ? '' : ' utility-card'}`} aria-label={item ? 'この一献を、誰かにも。' : '宵の一献を、誰かにも。'}>
+    <h2>{!item && <Share2 size={20} strokeWidth={1.5} aria-hidden="true" />}{item ? 'この一献を、誰かにも。' : '宵の一献を、誰かにも。'}</h2>
     {!item && <p>気に入ってもらえたら、友達にも教えてもらえるとうれしいです。</p>}
     <ShareButton
       title={item ? `${item.productName}｜${SITE_NAME}` : '宵の一献｜こんな夜に合う、一献を。'}

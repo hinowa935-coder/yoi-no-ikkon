@@ -21,7 +21,7 @@ export default function HomeScreenGuide({ compact = false }) {
   }, []);
 
   if (!platform) return null;
-  return <section className={`return-note home-screen-guide${compact ? ' is-compact' : ''}`} aria-label="ホーム画面への追加案内">
+  return <section className={`return-note home-screen-guide${compact ? ' is-compact' : ' utility-card'}`} aria-label="ホーム画面への追加案内">
     {!compact && <h2><Smartphone size={20} strokeWidth={1.5} aria-hidden="true" />スマホでも、宵の一献を。</h2>}
     <p>{compact ? '気になる一献をよく見るなら、ホーム画面に置いておくと便利です。' : 'ホーム画面に置いておくと、今夜の一献をすぐ探せます。'}</p>
     <details onToggle={event => { if (event.currentTarget.open) trackEvent('pwa_guide_open', { placement: compact ? 'ochoko' : 'home', platform }); }} onKeyDown={event => {

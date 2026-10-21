@@ -47,12 +47,20 @@
 }
 @media (max-width: 360px) { .about-interests { grid-template-columns: 1fr; } }
 @media (prefers-reduced-motion: reduce) { .about-detail-chevron { transition: none; } }
-.home-about { border-top: 1px solid #f8f0df25; padding: 28px 0 0; margin-top: 36px; }
-.home-about h2 { font-size: 20px; line-height: 1.7; margin: 0 0 16px; }
+.home-about { margin: 52px 0 36px; }
+.home-about-copy { border-left: 1px solid #d8bd7a88; padding-left: 20px; max-width: 44rem; }
+.discovery-shell .home-about h2 { font-size: 24px; line-height: 1.7; margin: 0 0 16px; }
+.home-about h2 span { display: inline-block; }
 .home-about p { font-size: 14px; line-height: 1.85; margin: 0 0 14px; max-width: 42rem; }
+.home-about .home-about-label { color: #d8bd7a; font-size: 13px; margin-bottom: 12px; }
 .home-about .text-link { display: inline-flex; gap: 8px; align-items: center; min-height: 44px; font-size: 14px; }
 
 .return-note { border-top: 1px solid #d8bd7a33; padding-top: 28px; margin-top: 36px; letter-spacing: 0; }
+.return-note.utility-card { border: 1px solid #f8f0df26; border-radius: 6px; background: #f8f0df04; padding: 20px; margin-top: 24px; max-width: 44rem; }
+.discovery-shell .return-note.utility-card h2 { font-size: 18px; line-height: 1.65; }
+.utility-card h2 svg { flex: 0 0 20px; color: #d8bd7a; }
+.utility-card .share-status:empty { display: none; }
+.utility-card .recommend-button { margin-top: 4px; }
 .discovery-shell .return-note h2 { display: flex; align-items: center; gap: 10px; font-size: 20px; line-height: 1.7; margin: 0 0 12px; letter-spacing: 0; }
 .return-note p { font-size: 14px; line-height: 1.85; max-width: 42rem; margin: 0 0 12px; color: #c7c5bf; }
 .recommend-button { display: inline-flex; align-items: center; justify-content: center; gap: 10px; min-height: 44px; max-width: 100%; padding: 10px 16px; border: 1px solid #d8bd7a66; border-radius: 4px; background: transparent; color: #e6c97a; font-size: 14px; line-height: 1.6; letter-spacing: 0; cursor: pointer; }
@@ -241,7 +249,9 @@ main.min-h-screen::after {
 .entrance-secondary a { display: flex; align-items: center; justify-content: space-between; gap: 12px; padding: 14px 0; border-bottom: 1px solid #f8f0df25; }
 .entrance-secondary strong { font-size: 18px; }
 .daily-pick { padding: 38px 0 44px; border-top: 1px solid #f8f0df25; }
-.daily-pick h2 { margin-bottom: 14px; }
+.discovery-shell .daily-pick h2 { margin-bottom: 14px; font-size: 28px; }
+.daily-pick .yoi-button { background: #d8bd7a; border-color: #d8bd7a; color: #091326; margin-top: 20px; }
+.daily-pick .yoi-button:hover { background: #edd496; }
 .daily-dish { font-family: var(--font-display-ja); font-size: 23px; line-height: 1.8; max-width: 800px; overflow-wrap: anywhere; }
 .daily-dish span { display: inline-block; margin: 0 18px; color: #d8bd7a; }
 .daily-sake-note { color: #bfbab0; margin: 8px 0 18px; font-size: 13px; }
@@ -281,8 +291,24 @@ main.min-h-screen::after {
 .pairing-reason p { margin-top: 8px; font-size: 13px; line-height: 1.9; color: #d8d0bf; }
 .dish-links { display: flex; flex-wrap: wrap; gap: 4px 16px; margin: 18px 0; padding: 0; list-style: none; }
 .dish-links a { font-size: 13px; color: #d8d0bf; text-decoration: underline; text-underline-offset: 4px; min-height: 32px; display: inline-flex; align-items: center; }
-.discovery-footer { display: flex; flex-wrap: wrap; justify-content: space-between; gap: 20px; border-top: 1px solid #f8f0df25; margin-top: 56px; padding: 28px 0; color: #c3bbab; font-size: 12px; line-height: 1.7; }
-.discovery-footer p { font-family: var(--font-display-ja); }
+.discovery-footer { display: grid; gap: 28px; border-top: 1px solid #f8f0df25; margin-top: 56px; padding: 36px 0 24px; color: #c3bbab; font-size: 14px; line-height: 1.85; }
+.discovery-footer p { font-family: var(--font-body-ja); margin: 0; }
+.discovery-footer .footer-closing { font-family: var(--font-display-ja); color: #e0d7c5; font-size: 16px; }
+.footer-navigation { display: flex; flex-wrap: wrap; gap: 12px 28px; }
+.footer-navigation a { display: inline-flex; align-items: center; min-height: 44px; text-underline-offset: 5px; }
+.footer-age { font-size: 14px; }
+.footer-affiliations { display: grid; gap: 8px; }
+.discovery-shell .footer-affiliations h2 { font-family: var(--font-body-ja); font-size: 14px; line-height: 1.7; margin: 0 0 4px; color: #e0d7c5; }
+.footer-affiliations .footer-disclosure { font-size: 13px; line-height: 1.85; }
+.footer-purchase-notice { border-top: 1px solid #f8f0df20; padding-top: 12px; }
+.discovery-shell .footer-purchase-notice summary { display: flex; justify-content: space-between; align-items: center; gap: 16px; min-height: 48px; color: #c3bbab; list-style: none; }
+.footer-purchase-notice summary::-webkit-details-marker { display: none; }
+.footer-purchase-notice summary::marker { content: ''; }
+.footer-purchase-notice summary svg { flex: 0 0 18px; color: #d8bd7a; transition: transform 180ms ease; }
+.footer-purchase-notice[open] summary svg { transform: rotate(180deg); }
+.footer-notice-body { display: grid; gap: 16px; max-width: 48rem; padding: 8px 0 12px; font-size: 14px; }
+@media (hover: hover) { .footer-navigation a:hover { color: #edd496; text-decoration: underline; } .footer-purchase-notice summary:hover { color: #edd496; } }
+@media (prefers-reduced-motion: reduce) { .footer-purchase-notice summary svg { transition: none; } }
 .ochoko-toast { position: fixed; bottom: 24px; left: 50%; transform: translateX(-50%); z-index: 50; background: #f4ecd9; color: #112442; padding: 14px 22px; border-radius: 6px; max-width: calc(100% - 32px); width: max-content; font-size: 14px; box-shadow: 0 4px 20px #0006; }
 .search-keyword { display: block; margin: 24px 0 16px; max-width: 620px; }
 .search-keyword > span, .filter-grid label > span { display: block; font-size: 12px; color: #cdc6b6; margin-bottom: 10px; }
@@ -416,7 +442,13 @@ main.min-h-screen::after {
   .sake-detail-hero, .food-detail-hero { padding: 30px 0 24px; }
   .detail-band { padding: 26px 0; }
   .spec-table > div { grid-template-columns: 120px 1fr; gap: 14px; font-size: 13px; }
-  .discovery-footer { margin-top: 36px; gap: 12px; }
+  .discovery-footer { margin-top: 40px; gap: 24px; padding: 32px 0 24px; }
+  .footer-navigation { display: grid; grid-template-columns: 1fr; gap: 0; }
+  .discovery-shell .home-about h2 { font-size: 20px; }
+  .discovery-shell .daily-pick h2 { font-size: 24px; }
+  .home-about { margin-top: 40px; }
+  .home-about-copy { padding-left: 16px; }
+  .return-note.utility-card { padding: 18px 16px; }
   .archived-favorites li { align-items: start; }
 }
 

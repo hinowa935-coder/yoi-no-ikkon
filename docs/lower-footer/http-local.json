@@ -1,0 +1,57 @@
+{
+  "checkedAt": "2026-10-21T21:23:59.445Z",
+  "base": "http://127.0.0.1:3197",
+  "rows": [
+    {
+      "route": "/",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/about",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/about/advertising",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/search",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/discover",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/ochoko",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/sake/masumi-shiro-lineup-v1",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/food/item-13w7k4b",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/.env.local",
+      "status": 404,
+      "passed": true
+    },
+    {
+      "route": "/docs/lower-footer/baseline.json",
+      "status": 404,
+      "passed": true
+    }
+  ],
+  "passed": true
+}

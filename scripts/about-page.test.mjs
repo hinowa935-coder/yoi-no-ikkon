@@ -26,5 +26,6 @@ test('About has four native, closed disclosures with persistent summaries and no
 test('About SEO, footer advertising and existing URL routes remain intact',()=>{
  const page=read('src/app/about/page.jsx');assert(page.includes('title: { absolute:'));assert(page.includes("canonical: '/about'"));assert(!page.includes('noindex'));assert(aboutDescription.includes('米づくり'));
  assert(read('app/about/page.jsx').includes('default, metadata'));assert(read('src/app/sitemap.js').includes('`${SITE_URL}/about`'));
- const shell=read('src/app/components/DiscoveryShell.jsx');for(const value of ['href="/about"','href="/about/advertising"','PURCHASE_INFORMATION_NOTICE','AFFILIATE_FOOTER_ACTIVE','AFFILIATE_FOOTER_INACTIVE','AMAZON_DISCLOSURE','<RakutenCredit />','お酒は20歳になってから。'])assert(shell.includes(value));
+ const shell=read('src/app/components/DiscoveryShell.jsx');assert(shell.includes('<SiteFooter disclosure={disclosure} />'));
+ const footer=read('src/app/components/SiteFooter.jsx');for(const value of ['href="/about"','href="/about/advertising"','PURCHASE_INFORMATION_NOTICE','AFFILIATE_FOOTER_ACTIVE','AFFILIATE_FOOTER_INACTIVE','AMAZON_DISCLOSURE','<RakutenCredit />','お酒は20歳になってから。'])assert(footer.includes(value));
 });
