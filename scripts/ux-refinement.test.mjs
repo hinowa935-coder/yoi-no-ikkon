@@ -60,20 +60,21 @@ test('full-card link does not nest the favorite or merchant links inside another
  assert(s.includes('className="card-primary-link"'));assert(s.includes('<FavoriteButton'));
  assert(!s.includes('onClick='));const css=read('src/app/globals.css');assert(css.includes('.card-primary-link::after'));assert(css.includes('z-index: 2'));
 });
-test('detail retains data and sources after pairings, with share at the end',()=>{
+test('detail retains data and sources around purchase, with share after pairings and nights',()=>{
  const s=read('src/app/sake/[slug]/page.jsx');
- assert(s.indexOf('className="detail-band sake-further"')>s.indexOf('className="detail-band sake-pairings"'));
- assert(s.indexOf('<RecommendShare')>s.indexOf('className="detail-band sake-further"'));
- assert(s.includes('[...essentials,...fields]')&&s.includes('r.sources.map')&&s.includes('buildSakeVerifiedTags(item)'));
+ assert(s.indexOf('className="detail-band sake-further"')<s.indexOf('className="detail-band purchase-discovery"'));
+ assert(s.indexOf('className="detail-band sake-evidence"')>s.indexOf('className="detail-band purchase-discovery"'));
+ assert(s.indexOf('<RecommendShare')>s.indexOf('className="detail-band sake-nights"'));
+ assert(s.includes('[...essentials,...fields]')&&s.includes('detailReferences(r.sources, links')&&s.includes('buildSakeVerifiedTags(item)'));
  assert(s.includes('dishes.slice(0,6)')&&s.includes('dishes.slice(6)')&&s.includes('<ServingGuide'));
 });
 
-test('serving information appears only inside the late detailed sake information',()=>{
+test('serving information appears only inside the folded detailed sake information',()=>{
  const s=read('src/app/sake/[slug]/page.jsx');
- const overview=s.slice(s.indexOf('className="detail-band sake-overview"'),s.indexOf('className="detail-band purchase-discovery"'));
+ const overview=s.slice(s.indexOf('className="detail-band sake-overview"'),s.indexOf('className="detail-band sake-further"'));
  assert(!overview.includes('ServingGuide')&&!overview.includes('飲み方'));
  assert.equal(s.split('<ServingGuide ').length-1,1);
- assert(s.indexOf('<ServingGuide ')>s.indexOf('<summary>詳しい酒情報を見る</summary>'));
+ assert(s.indexOf('<ServingGuide ')>s.indexOf('<DetailAccordion id="sake-specs"'));
  assert(!s.includes('["飲用温度",')&&!s.includes('["飲用温度範囲",'));
  const guide=read('src/app/components/ServingGuide.jsx');
  assert(guide.includes('おすすめ温度：')&&guide.includes('rangeText')&&guide.includes('temperatureLabels(values)'));

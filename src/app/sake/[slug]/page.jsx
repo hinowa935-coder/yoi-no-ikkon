@@ -7,7 +7,6 @@ import TrackedExternalLink from "../../components/TrackedExternalLink.jsx";
 import RecommendShare from "../../components/RecommendShare.jsx";
 import PairingPending from "../../components/PairingPending.jsx";
 import { SITE_NAME, SITE_URL, allSakePairings, sakeCatalogStatus, legacyReferences, resolveSakeReference, getSakeById, buildSakeListSummary, buildSakeVerifiedTags, buildSakeEditorialTags, buildResourceLinks, toPathSegment } from "../../../data/siteData.js";
-import { publicSourceName } from "../../../data/publicDisplay.js";
 import { displaySpec } from "../../../data/specDisplay.js";
 import { dishesForSake, nightsForSake } from "../../../data/discovery.js";
 import { editorialNightAssignments, editorialNightNote } from '../../../data/editorialNightAssignments.js';
@@ -23,6 +22,8 @@ import {eligibleSensoryEvidence} from '../../../catalog/operations.js';
 import {purchaseUnavailable} from '../../../commerce/availability.js';
 import ServingGuide from '../../components/ServingGuide.jsx';
 import {tastePresentationRows} from '../../../data/tastePresentation.js';
+import DetailAccordion from '../../components/DetailAccordion.jsx';
+import {detailReferences} from '../../../data/detailPresentation.js';
 
 export function generateStaticParams() {
   return [...new Set([...allSakePairings.map(i => i.id), ...legacyReferences.map(e => e.legacyId)])].map(slug => ({ slug }));
@@ -57,6 +58,9 @@ export default async function SakePage({ params }) {
   const fields = formatFields([["原材料", r.specs.ingredients], ["原料米産地", r.specs.riceOrigin], ["麹米・掛米", r.specs.riceByRole], ["麹米・掛米の精米歩合", r.specs.polishingByRole], ["日本酒度", r.specs.nihonshudo], ["酸度", r.specs.acidity], ["アミノ酸度", r.specs.aminoAcidValue], ["酵母", r.specs.yeast], ["仕込水", r.specs.waterSource], ["熟成期間", r.specs.agingPeriod], ["年度・版", r.vintage]]);
   const commerce = commerceForSake(item);
   const links = buildResourceLinks(item);
+  const references = detailReferences(r.sources, links, merchantAudit.records[item.id]);
+  const hasSpecs = essentials.length + fields.length > 0 || r.servingTemperatures.length > 0 || Boolean(displaySpec(r.recommendedTemperatureRange)) || buildSakeVerifiedTags(item).length > 0 || buildSakeEditorialTags(item).length > 0;
+  const hasReferences = references.breweryLinks.length + references.productSources.length + community.length > 0;
   const jsonLd = { "@context": "https://schema.org", "@type": "Product", name: item.productName, brand: { "@type": "Brand", name: item.brandName }, description: buildSakeListSummary(item), url: `${SITE_URL}/sake/${item.id}` };
   return <DiscoveryShell>
     <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd).replaceAll("<", "\\u003c") }} />
@@ -75,30 +79,38 @@ export default async function SakePage({ params }) {
       <ul className="feature-tags">{buildCardPresentation(item).tags.map(tag => <li key={tag}>{tag}</li>)}</ul>
       <dl className="taste-at-a-glance">{tastePresentationRows(r.flavorProfile).map(([label,value])=><div key={label}><dt>{label}</dt><dd>{value}</dd></div>)}</dl>
     </section>
+    {hasSpecs && <section className="detail-band sake-further" aria-labelledby="sake-specs-toggle">
+      <DetailAccordion id="sake-specs" title="詳しい酒情報" className="specs-details">
+        {(r.servingTemperatures.length > 0 || displaySpec(r.recommendedTemperatureRange)) && <ServingGuide values={r.servingTemperatures} range={r.recommendedTemperatureRange}/>}
+        <dl className="spec-table sake-essentials">{[...essentials,...fields].map(([label,value])=><div key={label}><dt>{label}</dt><dd>{value}</dd></div>)}</dl>
+        <ul className="feature-tags">{buildSakeVerifiedTags(item).map(tag=><li key={tag}>{tag}</li>)}</ul>
+        {buildSakeEditorialTags(item).length>0&&<p className="muted-copy">宵の一献の見立て：{buildSakeEditorialTags(item).join('、')}</p>}
+      </DetailAccordion>
+    </section>}
     <section className="detail-band purchase-discovery" aria-labelledby="sake-purchase">
       <h2 id="sake-purchase">購入先</h2>
       {purchaseUnavailable(item.id)&&<p className="muted-copy">現在、同じ商品の購入先を確認中です。ほかの販売店を探す場合は、商品名・容量・仕様をご確認ください。</p>}
       <PurchaseOptions offers={commerce.offers} links={commerce.discoveryLinks} item={item} />
     </section>
-    <section className="detail-band brewery-information" aria-labelledby="sake-brewery">
-      <h2 id="sake-brewery">蔵元について</h2><h3 className="brewery-title">{item.brewery}</h3>
-      {item.prefecture && <p className="muted-copy">所在地（都道府県）：{item.prefecture}</p>}
-      <div className="resource-links">{links.map(link => <TrackedExternalLink key={link.href} href={link.href} className="text-link" event="official_link_click" parameters={{ sake_id: item.id }}>{merchantAudit.records[item.id]?.type==='E'&&merchantAudit.records[item.id]?.originalUrl===link.href?'出典・参考を見る':link.label === "蔵元公式サイト" ? "公式サイトを見る" : link.label} ↗</TrackedExternalLink>)}</div>
-    </section>
+    {hasReferences && <section className="detail-band sake-evidence" aria-labelledby="sake-sources-toggle">
+      <DetailAccordion id="sake-sources" title="蔵元・商品情報の出典" className="source-details">
+        <div className="detail-source-block brewery-information">
+          <h3>蔵元について</h3><p className="brewery-title">{item.brewery}</p>
+          {item.prefecture && <p className="muted-copy">所在地（都道府県）：{item.prefecture}</p>}
+          {references.breweryLinks.length > 0 && <div className="resource-links">{references.breweryLinks.map(link=><TrackedExternalLink key={link.url} href={link.url} className="text-link" event="official_link_click" parameters={{sake_id:item.id}}>{link.label} ↗</TrackedExternalLink>)}</div>}
+        </div>
+        {references.productSources.length > 0 && <div className="detail-source-block"><h3>商品情報の出典</h3><ul className="detail-source-list">{references.productSources.map(source=><li key={source.url}><TrackedExternalLink href={source.url} event="source_opened" className="detail-source-link"><span>{source.label} ↗</span><small>{source.host}</small></TrackedExternalLink></li>)}</ul></div>}
+        {community.length > 0 && <div className="detail-source-block community-evidence"><h3>味わいの参考情報</h3>{community.map(e=><div key={e.evidenceId}><p>{e.summary}</p><TrackedExternalLink href={e.sourceUrl} className="text-link" event="source_opened">実飲レビューを見る ↗</TrackedExternalLink></div>)}<p className="muted-copy">個人の感想です。製造時期や保存状態、飲み方によって印象は異なります。</p></div>}
+      </DetailAccordion>
+    </section>}
     <section className="detail-band sake-pairings" aria-labelledby="sake-pairings">
       <p className="section-kicker">このお酒と食べたいもの</p><Suspense fallback={<h2 id="sake-pairings">{dishes[0] ? `今夜なら、${dishes[0].name}と。` : "料理から、もうひとつの出会いを。"}</h2>}><SakeDiscoveryContext item={item} placement="pairing" fallback={<h2 id="sake-pairings">{dishes[0] ? `今夜なら、${dishes[0].name}と。` : "料理から、もうひとつの出会いを。"}</h2>} /></Suspense>
       <div className="reverse-dish-grid">{dishes.slice(0,6).map(d => <article key={d.name}><h3><Link href={`/food/${toPathSegment(d.name)}`}><span>{d.name}</span><ChevronRight /></Link></h3><p>{d.reason}</p><small>宵の一献の提案</small></article>)}</div>
       {dishes.length>6&&<details className="more-pairings"><summary>ほかの料理を見る（{dishes.length-6}件）</summary><div className="reverse-dish-grid">{dishes.slice(6).map(d=><article key={d.name}><h3><Link href={`/food/${toPathSegment(d.name)}`}><span>{d.name}</span><ChevronRight/></Link></h3><p>{d.reason}</p><small>宵の一献の提案</small></article>)}</div></details>}
       {!dishes.length && <PairingPending />}
       {r.officialPairings.length > 0 && <div className="official-pairings"><h3>蔵元が紹介する組み合わせ</h3><p>{r.officialPairings.join("、")}</p></div>}
-      {nights.length>0 && <div className="pairing-nights"><h3>こんな夜に</h3>{editorialNightAssignments[item.id] && <p className="muted-copy">{editorialNightNote}</p>}<SeasonalNightLinks nights={nights} /></div>}
     </section>
-    <section className="detail-band sake-further" aria-labelledby="sake-further-title">
-      <h2 id="sake-further-title">酒のことをもう少し詳しく</h2>
-      <details className="specs-details"><summary>詳しい酒情報を見る</summary><ServingGuide values={r.servingTemperatures} range={r.recommendedTemperatureRange}/><dl className="spec-table sake-essentials">{[...essentials,...fields].map(([label,value])=><div key={label}><dt>{label}</dt><dd>{value}</dd></div>)}</dl><ul className="feature-tags">{buildSakeVerifiedTags(item).map(tag=><li key={tag}>{tag}</li>)}</ul>{buildSakeEditorialTags(item).length>0&&<p className="muted-copy">宵の一献の見立て：{buildSakeEditorialTags(item).join('、')}</p>}</details>
-      {community.length>0&&<details className="source-details community-evidence"><summary>飲んだ人の感想</summary>{community.map(e=><div key={e.evidenceId}><p>{e.summary}</p><TrackedExternalLink href={e.sourceUrl} className="text-link" event="source_opened">実飲レビューを見る ↗</TrackedExternalLink></div>)}<p className="muted-copy">個人の感想です。製造時期や保存状態、飲み方によって印象は異なります。</p></details>}
-      <details className="source-details"><summary>商品情報の出典</summary><ul>{r.sources.map((source,i)=><li key={`${source.url}:${i}`}><TrackedExternalLink href={source.url} event="source_opened" className="text-link">{source.type==='breweryOfficial'?'蔵元公式':'専門資料'}：{publicSourceName(source,item.productName)} ↗</TrackedExternalLink></li>)}</ul></details>
-    </section>
+    {nights.length>0 && <section className="detail-band sake-nights" aria-labelledby="sake-nights-title"><h2 id="sake-nights-title">こんな夜に</h2>{editorialNightAssignments[item.id] && <p className="muted-copy">{editorialNightNote}</p>}<SeasonalNightLinks nights={nights} /></section>}
     <RecommendShare item={{ id: item.id, productName: item.productName }} />
   </DiscoveryShell>;
 }

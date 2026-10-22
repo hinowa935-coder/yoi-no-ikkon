@@ -1,0 +1,168 @@
+{
+  "checkedAt": "2026-10-22T08:18:53.096Z",
+  "sourceCommit": "568eac1430e1dcf7fc5bf2c2c890f5630ed7022e",
+  "passed": true,
+  "scan": {
+    "scannedFiles": 8814,
+    "unreadableFiles": 0,
+    "findings": [],
+    "passed": true,
+    "configuredValuesChecked": [
+      "RAKUTEN_APPLICATION_ID",
+      "RAKUTEN_ACCESS_KEY",
+      "RAKUTEN_AFFILIATE_ID"
+    ],
+    "limitation": null
+  },
+  "files": [
+    {
+      "path": "src/app/sake/[slug]/page.jsx",
+      "sha256": "e8dcce3076cc3ac37b7c8f25694106e32a8d6305b5c75ab62ab9b0c6a6fd7a3f"
+    },
+    {
+      "path": "src/app/globals.css",
+      "sha256": "37394cd33cdfc432ae05ad4a5b9a9f1596a4e73831f18b53e7ebea9824563888"
+    },
+    {
+      "path": "src/app/components/DetailAccordion.jsx",
+      "sha256": "afc3f0e93137c02b1502cd2f56263c2147a4f6beb7a2fe7e4af9dd6260d40122"
+    },
+    {
+      "path": "src/data/detailPresentation.js",
+      "sha256": "30fbd31e71f92a90087b5a7afdac8516dca5ccdf8da48bda41d5edc60eb42ce0"
+    },
+    {
+      "path": "scripts/detail-layout.test.mjs",
+      "sha256": "14330caa2ec42a3d361b4f3c137dd6534f4bdc3c63d460446ce8a69afc88a55e"
+    },
+    {
+      "path": "scripts/lib/reviewed-detail-layout.mjs",
+      "sha256": "1734e9af2c6d98866a50aea3efea42bb1642914c614736c0b01d370d19a060de"
+    },
+    {
+      "path": "scripts/historical-fallback.test.mjs",
+      "sha256": "f710ab69db51a6b2f58b11334975b49d3d96aafe45b067dbb2665ed11fab5dc4"
+    },
+    {
+      "path": "scripts/shelf-final.test.mjs",
+      "sha256": "87fd90c1d2d4244b9a6d2dedb9d96b292a3f77a7093f6d087ca87dacd42e2676"
+    },
+    {
+      "path": "scripts/ux-refinement.test.mjs",
+      "sha256": "6073b492f9a62aab52f6db6eed391628536a5aa926ed2de2f68363d229821c14"
+    },
+    {
+      "path": "docs/detail-layout/baseline.json",
+      "sha256": "4e81e37f987f1cbd96569ec9d6b6100bbeb2ba27a81924d38472e119b765c475"
+    },
+    {
+      "path": "docs/detail-layout/before-chromium.png",
+      "sha256": "0b1308fd597bb1f8b097b197c5ab1c090e58124688a1cfd9315f336853fd6db3"
+    },
+    {
+      "path": "docs/detail-layout/before-webkit.png",
+      "sha256": "0e09fe28ce76cae1d8a34a71e6988210ebd8037f8589e352f9df61ae9afbbdd9"
+    },
+    {
+      "path": "docs/detail-layout/before.json",
+      "sha256": "196d9892ce2b539c65f5512310594c63ab24ff05a8982b5defefcdb1de7d0eef"
+    },
+    {
+      "path": "docs/detail-layout/browser-local-attempt1.json",
+      "sha256": "caccf3566d07b7be9349372b846ae4680386b9740989489395881d649582d9df"
+    },
+    {
+      "path": "docs/detail-layout/browser-local-attempt2.json",
+      "sha256": "b1ee65ab7e4b0beba7cffe0b0d98d433692659585bcb998944c97268486ae1d9"
+    },
+    {
+      "path": "docs/detail-layout/browser-local.json",
+      "sha256": "584e2b4750d3799d3e62158c8207fd9fe7de5a6a67a969066be0e605dfe57a63"
+    },
+    {
+      "path": "docs/detail-layout/build.json",
+      "sha256": "b16c24aa2028154bdad02ba60c1d5234577ebfd53f5cf608084144c038588b03"
+    },
+    {
+      "path": "docs/detail-layout/chevron-local.json",
+      "sha256": "0949ae1e780f990d803feba3ca2bf8e1d195d5ce6d61ee9f98bdd6d7046e37f3"
+    },
+    {
+      "path": "docs/detail-layout/code-checks.json",
+      "sha256": "758281b984b80ec4caadcda6b1f709385aecd8482383aca380191e1a7d1fcf68"
+    },
+    {
+      "path": "docs/detail-layout/internal-links.json",
+      "sha256": "23980f3d53704eedd06e226d31ac946c9fb45fa2d903e4212ec41db578694325"
+    },
+    {
+      "path": "docs/detail-layout/local-chromium-closed.png",
+      "sha256": "de9abaea27ca9a6183da0cf929449f3c9d3d4661d63d73f69b26c79900dbfa07"
+    },
+    {
+      "path": "docs/detail-layout/local-chromium-sources-open.png",
+      "sha256": "d5cd590203a10576bb4bfd7b0073d5575710cf36a0a259aa6fcb625195bc5c5f"
+    },
+    {
+      "path": "docs/detail-layout/local-chromium-specs-open.png",
+      "sha256": "46adbfb8107ec77c320b771dcf4deed02670e1a97cfead067c3869b50390616c"
+    },
+    {
+      "path": "docs/detail-layout/local-sake-sources-chevron.png",
+      "sha256": "35b2878141137a384ee54dca400c2f68b27eb5cd6442e215b453162a919bbed4"
+    },
+    {
+      "path": "docs/detail-layout/local-sake-specs-chevron.png",
+      "sha256": "ba9872c7728e1630a67a8f1f16caea8bae8809ca7e5dfdc2fae3ed3c9694bcfe"
+    },
+    {
+      "path": "docs/detail-layout/local-webkit-closed.png",
+      "sha256": "2dd39bc6eae6fe69bbab26b1389239b78ebee80f2a6a679c48765e7f1440aa24"
+    },
+    {
+      "path": "docs/detail-layout/local-webkit-sources-open.png",
+      "sha256": "5455594d756396ca4b6f5626b2a0d1dfd5a5234e7ee58a9a1e3543e9bf4fe91e"
+    },
+    {
+      "path": "docs/detail-layout/local-webkit-specs-open.png",
+      "sha256": "b1b947600e855a97ab2c06214982366898ab27cb7c78b6e45d280794f334ed20"
+    },
+    {
+      "path": "docs/detail-layout/metrics.json",
+      "sha256": "9ae005ffee8e75069db60b52ede190ca88a0a52a1558bfcbbb2f5c3f5f1f56b0"
+    },
+    {
+      "path": "docs/detail-layout/prefetch-diagnostic.json",
+      "sha256": "109720bfcec0a7f9675becbdb9e407c489016e4d7a36ef20c8836b459b01ac87"
+    },
+    {
+      "path": "docs/detail-layout/report.md",
+      "sha256": "8ac7ed93ce89c2cd7c153b57e389fe817c171f69af2bf9fb0cc5f621a6976f34"
+    },
+    {
+      "path": "docs/detail-layout/retail-local.json",
+      "sha256": "6664d042cf74fee2321270225781379bad1479862a05bfcf7d46b3f2778a7992"
+    },
+    {
+      "path": "docs/detail-layout/security.json",
+      "sha256": "67da61a46a86898f42af7cf8a8b6cafa0f1b6bd9dd27b472a08d45fbf31b78a7"
+    },
+    {
+      "path": "docs/detail-layout/source-changes.json",
+      "sha256": "d8e950d5399d210644f760cd5b889e0b13f7c23be78de0e564af33cf30b6908d"
+    },
+    {
+      "path": "docs/detail-layout/ssr-audit.json",
+      "sha256": "47aec16b707f37328c0def9750fba165449fb506479b8ce1e47d21007bf49577"
+    },
+    {
+      "path": "docs/detail-layout/visual-local.json",
+      "sha256": "efca6dbad11b7ed3a275e6fb1cd38b0c3ab1b9ce576e53d4ece6ef4663e9930c"
+    }
+  ],
+  "dataChanged": false,
+  "commerceChanged": false,
+  "dependenciesChanged": false,
+  "pwaChanged": false,
+  "productionPublished": false
+}

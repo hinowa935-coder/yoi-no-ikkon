@@ -1,0 +1,26 @@
+{
+  "checkedAt": "2026-10-22T08:17:05.446Z",
+  "active": 484,
+  "direct": 484,
+  "formalImages": 484,
+  "dataChanged": false,
+  "commerceChanged": false,
+  "recommendationChanged": false,
+  "pwaChanged": false,
+  "ssrPages": 583,
+  "internalLinks": 20489,
+  "brokenInternalLinks": 0,
+  "tests": 180,
+  "widths": [
+    320,
+    360,
+    375,
+    390,
+    430,
+    1280
+  ],
+  "localKnownWarnings": 5,
+  "localBlockingErrors": 0,
+  "productionPublished": false,
+  "productionKnownWarnings": null
+}

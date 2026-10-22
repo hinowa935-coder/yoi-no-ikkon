@@ -1,0 +1,113 @@
+{
+  "checkedAt": "2026-10-22T05:27:17.910Z",
+  "rows": [
+    {
+      "engine": "webkit",
+      "height": 4707,
+      "sections": [
+        {
+          "className": "sake-detail-hero"
+        },
+        {
+          "className": "detail-band sake-overview",
+          "heading": "味わい"
+        },
+        {
+          "className": "detail-band purchase-discovery",
+          "heading": "購入先"
+        },
+        {
+          "className": "affiliate-offers"
+        },
+        {
+          "className": "detail-band brewery-information",
+          "heading": "蔵元について"
+        },
+        {
+          "className": "detail-band sake-pairings",
+          "heading": "今夜なら、肉じゃがと。"
+        },
+        {
+          "className": "detail-band sake-further",
+          "heading": "酒のことをもう少し詳しく"
+        },
+        {
+          "className": "return-note recommend-share",
+          "heading": "この一献を、誰かにも。"
+        },
+        {
+          "className": "footer-affiliations",
+          "heading": "広告・提携について"
+        }
+      ],
+      "accordions": [
+        {
+          "label": "詳しい酒情報を見る",
+          "open": false
+        },
+        {
+          "label": "商品情報の出典",
+          "open": false
+        },
+        {
+          "label": "掲載情報・購入時のご注意",
+          "open": false
+        }
+      ]
+    },
+    {
+      "engine": "chromium",
+      "height": 3826,
+      "sections": [
+        {
+          "className": "sake-detail-hero"
+        },
+        {
+          "className": "detail-band sake-overview",
+          "heading": "味わい"
+        },
+        {
+          "className": "detail-band purchase-discovery",
+          "heading": "購入先"
+        },
+        {
+          "className": "affiliate-offers"
+        },
+        {
+          "className": "detail-band brewery-information",
+          "heading": "蔵元について"
+        },
+        {
+          "className": "detail-band sake-pairings",
+          "heading": "今夜なら、肉じゃがと。"
+        },
+        {
+          "className": "detail-band sake-further",
+          "heading": "酒のことをもう少し詳しく"
+        },
+        {
+          "className": "return-note recommend-share",
+          "heading": "この一献を、誰かにも。"
+        },
+        {
+          "className": "footer-affiliations",
+          "heading": "広告・提携について"
+        }
+      ],
+      "accordions": [
+        {
+          "label": "詳しい酒情報を見る",
+          "open": false
+        },
+        {
+          "label": "商品情報の出典",
+          "open": false
+        },
+        {
+          "label": "掲載情報・購入時のご注意",
+          "open": false
+        }
+      ]
+    }
+  ]
+}

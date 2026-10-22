@@ -1,0 +1,17 @@
+{
+  "checkedAt": "2026-10-22T08:13:18.118Z",
+  "base": "http://127.0.0.1:3197",
+  "rows": [
+    {
+      "engine": "webkit",
+      "closedHeight": 4389,
+      "defaultClosed": true
+    },
+    {
+      "engine": "chromium",
+      "closedHeight": 3462,
+      "defaultClosed": true
+    }
+  ],
+  "passed": true
+}

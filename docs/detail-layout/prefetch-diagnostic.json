@@ -1,0 +1,705 @@
+{
+  "checkedAt": "2026-10-22T05:39:30.275Z",
+  "rows": [
+    {
+      "label": "unchanged-production",
+      "base": "https://yoi-no-ikkon.vercel.app",
+      "events": [
+        {
+          "kind": "response",
+          "phase": "initial",
+          "path": "/search/__next._tree.txt",
+          "status": 200,
+          "mime": "text/plain; charset=utf-8"
+        },
+        {
+          "kind": "response",
+          "phase": "initial",
+          "path": "/__next._tree.txt",
+          "status": 200,
+          "mime": "text/plain; charset=utf-8"
+        },
+        {
+          "kind": "response",
+          "phase": "initial",
+          "path": "/ochoko/__next._tree.txt",
+          "status": 200,
+          "mime": "text/plain; charset=utf-8"
+        },
+        {
+          "kind": "response",
+          "phase": "initial",
+          "path": "/__next.__PAGE__.txt",
+          "status": 200,
+          "mime": "text/plain; charset=utf-8"
+        },
+        {
+          "kind": "response",
+          "phase": "initial",
+          "path": "/search/__next.search.__PAGE__.txt",
+          "status": 200,
+          "mime": "text/plain; charset=utf-8"
+        },
+        {
+          "kind": "response",
+          "phase": "initial",
+          "path": "/ochoko/__next.ochoko.__PAGE__.txt",
+          "status": 200,
+          "mime": "text/plain; charset=utf-8"
+        },
+        {
+          "kind": "response",
+          "phase": "initial",
+          "path": "/search/__next._index.txt",
+          "status": 200,
+          "mime": "text/plain; charset=utf-8"
+        },
+        {
+          "kind": "response",
+          "phase": "dish-open",
+          "path": "/food/item-13w7k4b/__next._tree.txt",
+          "status": 200,
+          "mime": "text/plain; charset=utf-8"
+        },
+        {
+          "kind": "response",
+          "phase": "dish-open",
+          "path": "/food/item-13w7k4b.txt",
+          "status": 200,
+          "mime": "text/plain; charset=utf-8"
+        },
+        {
+          "kind": "response",
+          "phase": "dish-open",
+          "path": "/food/item-1s2snsf/__next._tree.txt",
+          "status": 200,
+          "mime": "text/plain; charset=utf-8"
+        },
+        {
+          "kind": "response",
+          "phase": "dish-open",
+          "path": "/food/item-1abl20d/__next._tree.txt",
+          "status": 200,
+          "mime": "text/plain; charset=utf-8"
+        },
+        {
+          "kind": "response",
+          "phase": "dish-open",
+          "path": "/food/item-13w7k4b/__next.food.$d$slug.__PAGE__.txt",
+          "status": 200,
+          "mime": "text/plain; charset=utf-8"
+        },
+        {
+          "kind": "response",
+          "phase": "dish-open",
+          "path": "/sake/okunomatsu-jg-lineup-v1/__next._tree.txt",
+          "status": 200,
+          "mime": "text/plain; charset=utf-8"
+        },
+        {
+          "kind": "response",
+          "phase": "dish-open",
+          "path": "/food/item-yxmzsn/__next._tree.txt",
+          "status": 200,
+          "mime": "text/plain; charset=utf-8"
+        },
+        {
+          "kind": "response",
+          "phase": "dish-open",
+          "path": "/sake/okunomatsu-jg-lineup-v1/__next.sake.$d$slug.__PAGE__.txt",
+          "status": 200,
+          "mime": "text/plain; charset=utf-8"
+        },
+        {
+          "kind": "requestfailed",
+          "phase": "search-open",
+          "path": "/food/item-1s2snsf/__next.food.$d$slug.__PAGE__.txt",
+          "error": "Load request cancelled"
+        },
+        {
+          "kind": "requestfailed",
+          "phase": "search-open",
+          "path": "/food/item-1abl20d/__next.food.$d$slug.__PAGE__.txt",
+          "error": "Load request cancelled"
+        },
+        {
+          "kind": "requestfailed",
+          "phase": "search-open",
+          "path": "/food/item-w147vq/__next.food.$d$slug.__PAGE__.txt",
+          "error": "Load request cancelled"
+        },
+        {
+          "kind": "requestfailed",
+          "phase": "search-open",
+          "path": "/food/item-yxmzsn/__next.food.$d$slug.__PAGE__.txt",
+          "error": "Load request cancelled"
+        },
+        {
+          "kind": "pageerror",
+          "phase": "search-open",
+          "message": "/yoi-no-ikkon.vercel.app/food/item-jjeu9j/__next.food.$d$slug.__PAGE__.txt?_rsc=OmWFNsAs9JzKvCwI due to access control checks."
+        },
+        {
+          "kind": "response",
+          "phase": "search-open",
+          "path": "/search/__next._tree.txt",
+          "status": 200,
+          "mime": "text/plain; charset=utf-8"
+        },
+        {
+          "kind": "response",
+          "phase": "search-open",
+          "path": "/__next._tree.txt",
+          "status": 200,
+          "mime": "text/plain; charset=utf-8"
+        },
+        {
+          "kind": "response",
+          "phase": "search-open",
+          "path": "/sake/shichida-junmai/__next._tree.txt",
+          "status": 200,
+          "mime": "text/plain; charset=utf-8"
+        },
+        {
+          "kind": "response",
+          "phase": "search-open",
+          "path": "/sake/nogomi-tokubetsu-junmai/__next._tree.txt",
+          "status": 200,
+          "mime": "text/plain; charset=utf-8"
+        },
+        {
+          "kind": "response",
+          "phase": "search-open",
+          "path": "/__next._index.txt",
+          "status": 200,
+          "mime": "text/plain; charset=utf-8"
+        },
+        {
+          "kind": "response",
+          "phase": "search-open",
+          "path": "/ochoko/__next._tree.txt",
+          "status": 200,
+          "mime": "text/plain; charset=utf-8"
+        },
+        {
+          "kind": "response",
+          "phase": "search-open",
+          "path": "/__next.__PAGE__.txt",
+          "status": 200,
+          "mime": "text/plain; charset=utf-8"
+        },
+        {
+          "kind": "response",
+          "phase": "search-open",
+          "path": "/sake/shichida-junmai/__next.sake.$d$slug.__PAGE__.txt",
+          "status": 200,
+          "mime": "text/plain; charset=utf-8"
+        },
+        {
+          "kind": "response",
+          "phase": "search-open",
+          "path": "/search/__next.search.__PAGE__.txt",
+          "status": 200,
+          "mime": "text/plain; charset=utf-8"
+        },
+        {
+          "kind": "response",
+          "phase": "search-open",
+          "path": "/ochoko/__next.ochoko.__PAGE__.txt",
+          "status": 200,
+          "mime": "text/plain; charset=utf-8"
+        },
+        {
+          "kind": "response",
+          "phase": "search-open",
+          "path": "/about/advertising/__next._tree.txt",
+          "status": 200,
+          "mime": "text/plain; charset=utf-8"
+        },
+        {
+          "kind": "response",
+          "phase": "search-open",
+          "path": "/about/__next._tree.txt",
+          "status": 200,
+          "mime": "text/plain; charset=utf-8"
+        },
+        {
+          "kind": "response",
+          "phase": "search-back",
+          "path": "/about/advertising/__next.about.advertising.__PAGE__.txt",
+          "status": 200,
+          "mime": "text/plain; charset=utf-8"
+        },
+        {
+          "kind": "response",
+          "phase": "search-back",
+          "path": "/about/__next.about.__PAGE__.txt",
+          "status": 200,
+          "mime": "text/plain; charset=utf-8"
+        },
+        {
+          "kind": "response",
+          "phase": "archive",
+          "path": "/__next._tree.txt",
+          "status": 200,
+          "mime": "text/plain; charset=utf-8"
+        },
+        {
+          "kind": "response",
+          "phase": "archive",
+          "path": "/search/__next._tree.txt",
+          "status": 200,
+          "mime": "text/plain; charset=utf-8"
+        },
+        {
+          "kind": "response",
+          "phase": "archive",
+          "path": "/ochoko/__next._tree.txt",
+          "status": 200,
+          "mime": "text/plain; charset=utf-8"
+        },
+        {
+          "kind": "response",
+          "phase": "archive",
+          "path": "/__next._index.txt",
+          "status": 200,
+          "mime": "text/plain; charset=utf-8"
+        },
+        {
+          "kind": "response",
+          "phase": "archive",
+          "path": "/__next.__PAGE__.txt",
+          "status": 200,
+          "mime": "text/plain; charset=utf-8"
+        },
+        {
+          "kind": "response",
+          "phase": "archive",
+          "path": "/search/__next.search.__PAGE__.txt",
+          "status": 200,
+          "mime": "text/plain; charset=utf-8"
+        },
+        {
+          "kind": "response",
+          "phase": "archive",
+          "path": "/ochoko/__next.ochoko.__PAGE__.txt",
+          "status": 200,
+          "mime": "text/plain; charset=utf-8"
+        },
+        {
+          "kind": "response",
+          "phase": "archive",
+          "path": "/sake/nichiei-junmai-ginjo-ishikawamon-standard/__next._tree.txt",
+          "status": 200,
+          "mime": "text/plain; charset=utf-8"
+        },
+        {
+          "kind": "response",
+          "phase": "archive",
+          "path": "/sake/nichiei-junmai-ginjo-ishikawamon-standard/__next.sake.$d$slug.__PAGE__.txt",
+          "status": 200,
+          "mime": "text/plain; charset=utf-8"
+        },
+        {
+          "kind": "response",
+          "phase": "finish",
+          "path": "/__next._tree.txt",
+          "status": 200,
+          "mime": "text/plain; charset=utf-8"
+        },
+        {
+          "kind": "response",
+          "phase": "finish",
+          "path": "/search/__next._tree.txt",
+          "status": 200,
+          "mime": "text/plain; charset=utf-8"
+        },
+        {
+          "kind": "response",
+          "phase": "finish",
+          "path": "/ochoko/__next._tree.txt",
+          "status": 200,
+          "mime": "text/plain; charset=utf-8"
+        },
+        {
+          "kind": "response",
+          "phase": "finish",
+          "path": "/search/__next.search.__PAGE__.txt",
+          "status": 200,
+          "mime": "text/plain; charset=utf-8"
+        },
+        {
+          "kind": "response",
+          "phase": "finish",
+          "path": "/__next._index.txt",
+          "status": 200,
+          "mime": "text/plain; charset=utf-8"
+        },
+        {
+          "kind": "response",
+          "phase": "finish",
+          "path": "/__next.__PAGE__.txt",
+          "status": 200,
+          "mime": "text/plain; charset=utf-8"
+        },
+        {
+          "kind": "response",
+          "phase": "finish",
+          "path": "/ochoko/__next.ochoko.__PAGE__.txt",
+          "status": 200,
+          "mime": "text/plain; charset=utf-8"
+        }
+      ],
+      "allTargetRoutesRendered": true
+    },
+    {
+      "label": "new-local",
+      "base": "http://127.0.0.1:3197",
+      "events": [
+        {
+          "kind": "response",
+          "phase": "initial",
+          "path": "/__next._tree.txt",
+          "status": 200,
+          "mime": "text/x-component"
+        },
+        {
+          "kind": "response",
+          "phase": "initial",
+          "path": "/search/__next._tree.txt",
+          "status": 200,
+          "mime": "text/x-component"
+        },
+        {
+          "kind": "response",
+          "phase": "initial",
+          "path": "/ochoko/__next._tree.txt",
+          "status": 200,
+          "mime": "text/x-component"
+        },
+        {
+          "kind": "response",
+          "phase": "initial",
+          "path": "/__next._index.txt",
+          "status": 200,
+          "mime": "text/x-component"
+        },
+        {
+          "kind": "response",
+          "phase": "initial",
+          "path": "/__next.__PAGE__.txt",
+          "status": 200,
+          "mime": "text/x-component"
+        },
+        {
+          "kind": "response",
+          "phase": "initial",
+          "path": "/search/__next.search.__PAGE__.txt",
+          "status": 200,
+          "mime": "text/x-component"
+        },
+        {
+          "kind": "response",
+          "phase": "initial",
+          "path": "/ochoko/__next.ochoko.__PAGE__.txt",
+          "status": 200,
+          "mime": "text/x-component"
+        },
+        {
+          "kind": "response",
+          "phase": "dish-open",
+          "path": "/food/item-13w7k4b.txt",
+          "status": 200,
+          "mime": "text/x-component"
+        },
+        {
+          "kind": "response",
+          "phase": "dish-open",
+          "path": "/food/item-13w7k4b/__next._tree.txt",
+          "status": 200,
+          "mime": "text/x-component"
+        },
+        {
+          "kind": "response",
+          "phase": "dish-open",
+          "path": "/food/item-1abl20d/__next._tree.txt",
+          "status": 200,
+          "mime": "text/x-component"
+        },
+        {
+          "kind": "response",
+          "phase": "dish-open",
+          "path": "/food/item-yxmzsn/__next._tree.txt",
+          "status": 200,
+          "mime": "text/x-component"
+        },
+        {
+          "kind": "response",
+          "phase": "dish-open",
+          "path": "/food/item-1s2snsf/__next._tree.txt",
+          "status": 200,
+          "mime": "text/x-component"
+        },
+        {
+          "kind": "response",
+          "phase": "dish-open",
+          "path": "/food/item-13w7k4b/__next.food.$d$slug.__PAGE__.txt",
+          "status": 200,
+          "mime": "text/x-component"
+        },
+        {
+          "kind": "response",
+          "phase": "dish-open",
+          "path": "/food/item-1abl20d/__next.food.$d$slug.__PAGE__.txt",
+          "status": 200,
+          "mime": "text/x-component"
+        },
+        {
+          "kind": "response",
+          "phase": "dish-open",
+          "path": "/food/item-yxmzsn/__next.food.$d$slug.__PAGE__.txt",
+          "status": 200,
+          "mime": "text/x-component"
+        },
+        {
+          "kind": "response",
+          "phase": "dish-open",
+          "path": "/food/item-1s2snsf/__next.food.$d$slug.__PAGE__.txt",
+          "status": 200,
+          "mime": "text/x-component"
+        },
+        {
+          "kind": "response",
+          "phase": "dish-open",
+          "path": "/food/item-w147vq/__next.food.$d$slug.__PAGE__.txt",
+          "status": 200,
+          "mime": "text/x-component"
+        },
+        {
+          "kind": "response",
+          "phase": "dish-open",
+          "path": "/sake/okunomatsu-jg-lineup-v1/__next._tree.txt",
+          "status": 200,
+          "mime": "text/x-component"
+        },
+        {
+          "kind": "response",
+          "phase": "dish-open",
+          "path": "/sake/okunomatsu-jg-lineup-v1/__next.sake.$d$slug.__PAGE__.txt",
+          "status": 200,
+          "mime": "text/x-component"
+        },
+        {
+          "kind": "requestfailed",
+          "phase": "search-open",
+          "path": "/food/item-jjeu9j/__next.food.$d$slug.__PAGE__.txt",
+          "error": "Load request cancelled"
+        },
+        {
+          "kind": "response",
+          "phase": "search-open",
+          "path": "/__next._tree.txt",
+          "status": 200,
+          "mime": "text/x-component"
+        },
+        {
+          "kind": "response",
+          "phase": "search-open",
+          "path": "/sake/shichida-junmai/__next._tree.txt",
+          "status": 200,
+          "mime": "text/x-component"
+        },
+        {
+          "kind": "response",
+          "phase": "search-open",
+          "path": "/search/__next._tree.txt",
+          "status": 200,
+          "mime": "text/x-component"
+        },
+        {
+          "kind": "response",
+          "phase": "search-open",
+          "path": "/ochoko/__next._tree.txt",
+          "status": 200,
+          "mime": "text/x-component"
+        },
+        {
+          "kind": "response",
+          "phase": "search-open",
+          "path": "/__next._index.txt",
+          "status": 200,
+          "mime": "text/x-component"
+        },
+        {
+          "kind": "response",
+          "phase": "search-open",
+          "path": "/__next.__PAGE__.txt",
+          "status": 200,
+          "mime": "text/x-component"
+        },
+        {
+          "kind": "response",
+          "phase": "search-open",
+          "path": "/sake/shichida-junmai/__next.sake.$d$slug.__PAGE__.txt",
+          "status": 200,
+          "mime": "text/x-component"
+        },
+        {
+          "kind": "response",
+          "phase": "search-open",
+          "path": "/search/__next.search.__PAGE__.txt",
+          "status": 200,
+          "mime": "text/x-component"
+        },
+        {
+          "kind": "response",
+          "phase": "search-open",
+          "path": "/ochoko/__next.ochoko.__PAGE__.txt",
+          "status": 200,
+          "mime": "text/x-component"
+        },
+        {
+          "kind": "response",
+          "phase": "search-open",
+          "path": "/about/__next._tree.txt",
+          "status": 200,
+          "mime": "text/x-component"
+        },
+        {
+          "kind": "response",
+          "phase": "search-open",
+          "path": "/about/advertising/__next._tree.txt",
+          "status": 200,
+          "mime": "text/x-component"
+        },
+        {
+          "kind": "response",
+          "phase": "search-open",
+          "path": "/about/__next.about.__PAGE__.txt",
+          "status": 200,
+          "mime": "text/x-component"
+        },
+        {
+          "kind": "response",
+          "phase": "search-open",
+          "path": "/about/advertising/__next.about.advertising.__PAGE__.txt",
+          "status": 200,
+          "mime": "text/x-component"
+        },
+        {
+          "kind": "response",
+          "phase": "archive",
+          "path": "/__next._tree.txt",
+          "status": 200,
+          "mime": "text/x-component"
+        },
+        {
+          "kind": "response",
+          "phase": "archive",
+          "path": "/sake/nichiei-junmai-ginjo-ishikawamon-standard/__next._tree.txt",
+          "status": 200,
+          "mime": "text/x-component"
+        },
+        {
+          "kind": "response",
+          "phase": "archive",
+          "path": "/search/__next._tree.txt",
+          "status": 200,
+          "mime": "text/x-component"
+        },
+        {
+          "kind": "response",
+          "phase": "archive",
+          "path": "/ochoko/__next._tree.txt",
+          "status": 200,
+          "mime": "text/x-component"
+        },
+        {
+          "kind": "response",
+          "phase": "archive",
+          "path": "/__next._index.txt",
+          "status": 200,
+          "mime": "text/x-component"
+        },
+        {
+          "kind": "response",
+          "phase": "archive",
+          "path": "/__next.__PAGE__.txt",
+          "status": 200,
+          "mime": "text/x-component"
+        },
+        {
+          "kind": "response",
+          "phase": "archive",
+          "path": "/sake/nichiei-junmai-ginjo-ishikawamon-standard/__next.sake.$d$slug.__PAGE__.txt",
+          "status": 200,
+          "mime": "text/x-component"
+        },
+        {
+          "kind": "response",
+          "phase": "archive",
+          "path": "/search/__next.search.__PAGE__.txt",
+          "status": 200,
+          "mime": "text/x-component"
+        },
+        {
+          "kind": "response",
+          "phase": "archive",
+          "path": "/ochoko/__next.ochoko.__PAGE__.txt",
+          "status": 200,
+          "mime": "text/x-component"
+        },
+        {
+          "kind": "response",
+          "phase": "finish",
+          "path": "/__next._tree.txt",
+          "status": 200,
+          "mime": "text/x-component"
+        },
+        {
+          "kind": "response",
+          "phase": "finish",
+          "path": "/search/__next._tree.txt",
+          "status": 200,
+          "mime": "text/x-component"
+        },
+        {
+          "kind": "response",
+          "phase": "finish",
+          "path": "/ochoko/__next._tree.txt",
+          "status": 200,
+          "mime": "text/x-component"
+        },
+        {
+          "kind": "response",
+          "phase": "finish",
+          "path": "/__next._index.txt",
+          "status": 200,
+          "mime": "text/x-component"
+        },
+        {
+          "kind": "response",
+          "phase": "finish",
+          "path": "/__next.__PAGE__.txt",
+          "status": 200,
+          "mime": "text/x-component"
+        },
+        {
+          "kind": "response",
+          "phase": "finish",
+          "path": "/search/__next.search.__PAGE__.txt",
+          "status": 200,
+          "mime": "text/x-component"
+        },
+        {
+          "kind": "response",
+          "phase": "finish",
+          "path": "/ochoko/__next.ochoko.__PAGE__.txt",
+          "status": 200,
+          "mime": "text/x-component"
+        }
+      ],
+      "allTargetRoutesRendered": true
+    }
+  ]
+}

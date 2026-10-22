@@ -1,0 +1,18 @@
+{
+  "sourceCommit": "568eac1430e1dcf7fc5bf2c2c890f5630ed7022e",
+  "authorizedBy": "2911ec5c-c177-4a5e-81ae-e122e6a7306d",
+  "scope": "Sake detail presentation only; no data or commerce changes",
+  "reviewed": true,
+  "changes": [
+    {
+      "file": "src/app/sake/[slug]/page.jsx",
+      "beforeSha256": "fefad281a01ec436d3efeef38bde1abd121b09a084f31dc783b24336405e9c0d",
+      "afterSha256": "e8dcce3076cc3ac37b7c8f25694106e32a8d6305b5c75ab62ab9b0c6a6fd7a3f"
+    },
+    {
+      "file": "src/app/globals.css",
+      "beforeSha256": "5587ba786c3b50163ed00aab37ce8f91f0390d3441c8396933a011de4330e4ed",
+      "afterSha256": "37394cd33cdfc432ae05ad4a5b9a9f1596a4e73831f18b53e7ebea9824563888"
+    }
+  ]
+}

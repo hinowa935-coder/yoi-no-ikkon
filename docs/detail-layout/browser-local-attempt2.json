@@ -1,0 +1,1692 @@
+{
+  "checkedAt": "2026-10-22T05:38:07.492Z",
+  "base": "http://127.0.0.1:3197",
+  "rows": [
+    {
+      "engine": "webkit",
+      "width": 320,
+      "id": "shichida-junmai",
+      "closedHeight": 4509,
+      "checks": [
+        {
+          "name": "section order",
+          "pass": true
+        },
+        {
+          "name": "specs initially closed",
+          "pass": true
+        },
+        {
+          "name": "specs controls",
+          "pass": true
+        },
+        {
+          "name": "specs tap area",
+          "pass": true
+        },
+        {
+          "name": "specs full heading tap opens",
+          "pass": true
+        },
+        {
+          "name": "specs no horizontal overflow when open",
+          "pass": true
+        },
+        {
+          "name": "no unknown placeholders",
+          "pass": true
+        },
+        {
+          "name": "temperature inside specs",
+          "pass": true
+        },
+        {
+          "name": "specs keyboard closes",
+          "pass": true
+        },
+        {
+          "name": "specs focus visible",
+          "pass": true
+        },
+        {
+          "name": "sources initially closed",
+          "pass": true
+        },
+        {
+          "name": "sources controls",
+          "pass": true
+        },
+        {
+          "name": "sources tap area",
+          "pass": true
+        },
+        {
+          "name": "sources full heading tap opens",
+          "pass": true
+        },
+        {
+          "name": "sources no horizontal overflow when open",
+          "pass": true
+        },
+        {
+          "name": "all reference URLs retained",
+          "pass": true
+        },
+        {
+          "name": "source links external",
+          "pass": true
+        },
+        {
+          "name": "source labels short",
+          "pass": true
+        },
+        {
+          "name": "brewery visible",
+          "pass": true
+        },
+        {
+          "name": "sources keyboard closes",
+          "pass": true
+        },
+        {
+          "name": "sources focus visible",
+          "pass": true
+        },
+        {
+          "name": "no separate brewery panel",
+          "pass": true
+        },
+        {
+          "name": "no duplicated serving overview",
+          "pass": true
+        },
+        {
+          "name": "initial dishes at most six",
+          "pass": true
+        },
+        {
+          "name": "night choices limited",
+          "pass": true
+        },
+        {
+          "name": "product image loaded",
+          "pass": true
+        },
+        {
+          "name": "rakuten CTA retained",
+          "pass": true
+        },
+        {
+          "name": "favorite actual button",
+          "pass": true
+        },
+        {
+          "name": "dish detail back",
+          "pass": true
+        },
+        {
+          "name": "search query back",
+          "pass": true
+        },
+        {
+          "name": "favorite survives navigation",
+          "pass": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "engine": "webkit",
+      "width": 360,
+      "id": "shichida-junmai",
+      "closedHeight": 4460,
+      "checks": [
+        {
+          "name": "section order",
+          "pass": true
+        },
+        {
+          "name": "specs initially closed",
+          "pass": true
+        },
+        {
+          "name": "specs controls",
+          "pass": true
+        },
+        {
+          "name": "specs tap area",
+          "pass": true
+        },
+        {
+          "name": "specs full heading tap opens",
+          "pass": true
+        },
+        {
+          "name": "specs no horizontal overflow when open",
+          "pass": true
+        },
+        {
+          "name": "no unknown placeholders",
+          "pass": true
+        },
+        {
+          "name": "temperature inside specs",
+          "pass": true
+        },
+        {
+          "name": "specs keyboard closes",
+          "pass": true
+        },
+        {
+          "name": "specs focus visible",
+          "pass": true
+        },
+        {
+          "name": "sources initially closed",
+          "pass": true
+        },
+        {
+          "name": "sources controls",
+          "pass": true
+        },
+        {
+          "name": "sources tap area",
+          "pass": true
+        },
+        {
+          "name": "sources full heading tap opens",
+          "pass": true
+        },
+        {
+          "name": "sources no horizontal overflow when open",
+          "pass": true
+        },
+        {
+          "name": "all reference URLs retained",
+          "pass": true
+        },
+        {
+          "name": "source links external",
+          "pass": true
+        },
+        {
+          "name": "source labels short",
+          "pass": true
+        },
+        {
+          "name": "brewery visible",
+          "pass": true
+        },
+        {
+          "name": "sources keyboard closes",
+          "pass": true
+        },
+        {
+          "name": "sources focus visible",
+          "pass": true
+        },
+        {
+          "name": "no separate brewery panel",
+          "pass": true
+        },
+        {
+          "name": "no duplicated serving overview",
+          "pass": true
+        },
+        {
+          "name": "initial dishes at most six",
+          "pass": true
+        },
+        {
+          "name": "night choices limited",
+          "pass": true
+        },
+        {
+          "name": "product image loaded",
+          "pass": true
+        },
+        {
+          "name": "rakuten CTA retained",
+          "pass": true
+        },
+        {
+          "name": "favorite actual button",
+          "pass": true
+        },
+        {
+          "name": "dish detail back",
+          "pass": true
+        },
+        {
+          "name": "search query back",
+          "pass": true
+        },
+        {
+          "name": "favorite survives navigation",
+          "pass": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "engine": "webkit",
+      "width": 375,
+      "id": "shichida-junmai",
+      "closedHeight": 4460,
+      "checks": [
+        {
+          "name": "section order",
+          "pass": true
+        },
+        {
+          "name": "specs initially closed",
+          "pass": true
+        },
+        {
+          "name": "specs controls",
+          "pass": true
+        },
+        {
+          "name": "specs tap area",
+          "pass": true
+        },
+        {
+          "name": "specs full heading tap opens",
+          "pass": true
+        },
+        {
+          "name": "specs no horizontal overflow when open",
+          "pass": true
+        },
+        {
+          "name": "no unknown placeholders",
+          "pass": true
+        },
+        {
+          "name": "temperature inside specs",
+          "pass": true
+        },
+        {
+          "name": "specs keyboard closes",
+          "pass": true
+        },
+        {
+          "name": "specs focus visible",
+          "pass": true
+        },
+        {
+          "name": "sources initially closed",
+          "pass": true
+        },
+        {
+          "name": "sources controls",
+          "pass": true
+        },
+        {
+          "name": "sources tap area",
+          "pass": true
+        },
+        {
+          "name": "sources full heading tap opens",
+          "pass": true
+        },
+        {
+          "name": "sources no horizontal overflow when open",
+          "pass": true
+        },
+        {
+          "name": "all reference URLs retained",
+          "pass": true
+        },
+        {
+          "name": "source links external",
+          "pass": true
+        },
+        {
+          "name": "source labels short",
+          "pass": true
+        },
+        {
+          "name": "brewery visible",
+          "pass": true
+        },
+        {
+          "name": "sources keyboard closes",
+          "pass": true
+        },
+        {
+          "name": "sources focus visible",
+          "pass": true
+        },
+        {
+          "name": "no separate brewery panel",
+          "pass": true
+        },
+        {
+          "name": "no duplicated serving overview",
+          "pass": true
+        },
+        {
+          "name": "initial dishes at most six",
+          "pass": true
+        },
+        {
+          "name": "night choices limited",
+          "pass": true
+        },
+        {
+          "name": "product image loaded",
+          "pass": true
+        },
+        {
+          "name": "rakuten CTA retained",
+          "pass": true
+        },
+        {
+          "name": "favorite actual button",
+          "pass": true
+        },
+        {
+          "name": "dish detail back",
+          "pass": true
+        },
+        {
+          "name": "search query back",
+          "pass": true
+        },
+        {
+          "name": "favorite survives navigation",
+          "pass": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "engine": "webkit",
+      "width": 390,
+      "id": "shichida-junmai",
+      "closedHeight": 4389,
+      "checks": [
+        {
+          "name": "section order",
+          "pass": true
+        },
+        {
+          "name": "specs initially closed",
+          "pass": true
+        },
+        {
+          "name": "specs controls",
+          "pass": true
+        },
+        {
+          "name": "specs tap area",
+          "pass": true
+        },
+        {
+          "name": "specs full heading tap opens",
+          "pass": true
+        },
+        {
+          "name": "specs no horizontal overflow when open",
+          "pass": true
+        },
+        {
+          "name": "no unknown placeholders",
+          "pass": true
+        },
+        {
+          "name": "temperature inside specs",
+          "pass": true
+        },
+        {
+          "name": "specs keyboard closes",
+          "pass": true
+        },
+        {
+          "name": "specs focus visible",
+          "pass": true
+        },
+        {
+          "name": "sources initially closed",
+          "pass": true
+        },
+        {
+          "name": "sources controls",
+          "pass": true
+        },
+        {
+          "name": "sources tap area",
+          "pass": true
+        },
+        {
+          "name": "sources full heading tap opens",
+          "pass": true
+        },
+        {
+          "name": "sources no horizontal overflow when open",
+          "pass": true
+        },
+        {
+          "name": "all reference URLs retained",
+          "pass": true
+        },
+        {
+          "name": "source links external",
+          "pass": true
+        },
+        {
+          "name": "source labels short",
+          "pass": true
+        },
+        {
+          "name": "brewery visible",
+          "pass": true
+        },
+        {
+          "name": "sources keyboard closes",
+          "pass": true
+        },
+        {
+          "name": "sources focus visible",
+          "pass": true
+        },
+        {
+          "name": "no separate brewery panel",
+          "pass": true
+        },
+        {
+          "name": "no duplicated serving overview",
+          "pass": true
+        },
+        {
+          "name": "initial dishes at most six",
+          "pass": true
+        },
+        {
+          "name": "night choices limited",
+          "pass": true
+        },
+        {
+          "name": "product image loaded",
+          "pass": true
+        },
+        {
+          "name": "rakuten CTA retained",
+          "pass": true
+        },
+        {
+          "name": "favorite actual button",
+          "pass": true
+        },
+        {
+          "name": "dish detail back",
+          "pass": true
+        },
+        {
+          "name": "search query back",
+          "pass": true
+        },
+        {
+          "name": "favorite survives navigation",
+          "pass": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "engine": "webkit",
+      "width": 390,
+      "id": "daishichi-junmai-kimoto-standard",
+      "closedHeight": 4134,
+      "checks": [
+        {
+          "name": "section order",
+          "pass": true
+        },
+        {
+          "name": "specs initially closed",
+          "pass": true
+        },
+        {
+          "name": "specs controls",
+          "pass": true
+        },
+        {
+          "name": "specs tap area",
+          "pass": true
+        },
+        {
+          "name": "specs full heading tap opens",
+          "pass": true
+        },
+        {
+          "name": "specs no horizontal overflow when open",
+          "pass": true
+        },
+        {
+          "name": "no unknown placeholders",
+          "pass": true
+        },
+        {
+          "name": "temperature inside specs",
+          "pass": true
+        },
+        {
+          "name": "specs keyboard closes",
+          "pass": true
+        },
+        {
+          "name": "specs focus visible",
+          "pass": true
+        },
+        {
+          "name": "sources initially closed",
+          "pass": true
+        },
+        {
+          "name": "sources controls",
+          "pass": true
+        },
+        {
+          "name": "sources tap area",
+          "pass": true
+        },
+        {
+          "name": "sources full heading tap opens",
+          "pass": true
+        },
+        {
+          "name": "sources no horizontal overflow when open",
+          "pass": true
+        },
+        {
+          "name": "all reference URLs retained",
+          "pass": true
+        },
+        {
+          "name": "source links external",
+          "pass": true
+        },
+        {
+          "name": "source labels short",
+          "pass": true
+        },
+        {
+          "name": "brewery visible",
+          "pass": true
+        },
+        {
+          "name": "sources keyboard closes",
+          "pass": true
+        },
+        {
+          "name": "sources focus visible",
+          "pass": true
+        },
+        {
+          "name": "no separate brewery panel",
+          "pass": true
+        },
+        {
+          "name": "no duplicated serving overview",
+          "pass": true
+        },
+        {
+          "name": "initial dishes at most six",
+          "pass": true
+        },
+        {
+          "name": "night choices limited",
+          "pass": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "engine": "webkit",
+      "width": 390,
+      "id": "kameizumi-kouiku63-hiyaoroshi-current-v1",
+      "closedHeight": 4274,
+      "checks": [
+        {
+          "name": "section order",
+          "pass": true
+        },
+        {
+          "name": "specs initially closed",
+          "pass": true
+        },
+        {
+          "name": "specs controls",
+          "pass": true
+        },
+        {
+          "name": "specs tap area",
+          "pass": true
+        },
+        {
+          "name": "specs full heading tap opens",
+          "pass": true
+        },
+        {
+          "name": "specs no horizontal overflow when open",
+          "pass": true
+        },
+        {
+          "name": "no unknown placeholders",
+          "pass": true
+        },
+        {
+          "name": "specs keyboard closes",
+          "pass": true
+        },
+        {
+          "name": "specs focus visible",
+          "pass": true
+        },
+        {
+          "name": "sources initially closed",
+          "pass": true
+        },
+        {
+          "name": "sources controls",
+          "pass": true
+        },
+        {
+          "name": "sources tap area",
+          "pass": true
+        },
+        {
+          "name": "sources full heading tap opens",
+          "pass": true
+        },
+        {
+          "name": "sources no horizontal overflow when open",
+          "pass": true
+        },
+        {
+          "name": "all reference URLs retained",
+          "pass": true
+        },
+        {
+          "name": "source links external",
+          "pass": true
+        },
+        {
+          "name": "source labels short",
+          "pass": true
+        },
+        {
+          "name": "brewery visible",
+          "pass": true
+        },
+        {
+          "name": "sources keyboard closes",
+          "pass": true
+        },
+        {
+          "name": "sources focus visible",
+          "pass": true
+        },
+        {
+          "name": "no separate brewery panel",
+          "pass": true
+        },
+        {
+          "name": "no duplicated serving overview",
+          "pass": true
+        },
+        {
+          "name": "initial dishes at most six",
+          "pass": true
+        },
+        {
+          "name": "night choices limited",
+          "pass": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "engine": "webkit",
+      "width": 390,
+      "id": "azumaichi-junmai-ginjo",
+      "closedHeight": 4366,
+      "checks": [
+        {
+          "name": "section order",
+          "pass": true
+        },
+        {
+          "name": "specs initially closed",
+          "pass": true
+        },
+        {
+          "name": "specs controls",
+          "pass": true
+        },
+        {
+          "name": "specs tap area",
+          "pass": true
+        },
+        {
+          "name": "specs full heading tap opens",
+          "pass": true
+        },
+        {
+          "name": "specs no horizontal overflow when open",
+          "pass": true
+        },
+        {
+          "name": "no unknown placeholders",
+          "pass": true
+        },
+        {
+          "name": "temperature inside specs",
+          "pass": true
+        },
+        {
+          "name": "specs keyboard closes",
+          "pass": true
+        },
+        {
+          "name": "specs focus visible",
+          "pass": true
+        },
+        {
+          "name": "sources initially closed",
+          "pass": true
+        },
+        {
+          "name": "sources controls",
+          "pass": true
+        },
+        {
+          "name": "sources tap area",
+          "pass": true
+        },
+        {
+          "name": "sources full heading tap opens",
+          "pass": true
+        },
+        {
+          "name": "sources no horizontal overflow when open",
+          "pass": true
+        },
+        {
+          "name": "all reference URLs retained",
+          "pass": true
+        },
+        {
+          "name": "source links external",
+          "pass": true
+        },
+        {
+          "name": "source labels short",
+          "pass": true
+        },
+        {
+          "name": "brewery visible",
+          "pass": true
+        },
+        {
+          "name": "sources keyboard closes",
+          "pass": true
+        },
+        {
+          "name": "sources focus visible",
+          "pass": true
+        },
+        {
+          "name": "no separate brewery panel",
+          "pass": true
+        },
+        {
+          "name": "no duplicated serving overview",
+          "pass": true
+        },
+        {
+          "name": "initial dishes at most six",
+          "pass": true
+        },
+        {
+          "name": "night choices limited",
+          "pass": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "engine": "webkit",
+      "width": 390,
+      "id": "koeigiku-snow-crescent",
+      "closedHeight": 3780,
+      "checks": [
+        {
+          "name": "section order",
+          "pass": true
+        },
+        {
+          "name": "specs initially closed",
+          "pass": true
+        },
+        {
+          "name": "specs controls",
+          "pass": true
+        },
+        {
+          "name": "specs tap area",
+          "pass": true
+        },
+        {
+          "name": "specs full heading tap opens",
+          "pass": true
+        },
+        {
+          "name": "specs no horizontal overflow when open",
+          "pass": true
+        },
+        {
+          "name": "no unknown placeholders",
+          "pass": true
+        },
+        {
+          "name": "specs keyboard closes",
+          "pass": true
+        },
+        {
+          "name": "specs focus visible",
+          "pass": true
+        },
+        {
+          "name": "sources initially closed",
+          "pass": true
+        },
+        {
+          "name": "sources controls",
+          "pass": true
+        },
+        {
+          "name": "sources tap area",
+          "pass": true
+        },
+        {
+          "name": "sources full heading tap opens",
+          "pass": true
+        },
+        {
+          "name": "sources no horizontal overflow when open",
+          "pass": true
+        },
+        {
+          "name": "all reference URLs retained",
+          "pass": true
+        },
+        {
+          "name": "source links external",
+          "pass": true
+        },
+        {
+          "name": "source labels short",
+          "pass": true
+        },
+        {
+          "name": "brewery visible",
+          "pass": true
+        },
+        {
+          "name": "sources keyboard closes",
+          "pass": true
+        },
+        {
+          "name": "sources focus visible",
+          "pass": true
+        },
+        {
+          "name": "no separate brewery panel",
+          "pass": true
+        },
+        {
+          "name": "no duplicated serving overview",
+          "pass": true
+        },
+        {
+          "name": "initial dishes at most six",
+          "pass": true
+        },
+        {
+          "name": "night choices limited",
+          "pass": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "engine": "webkit",
+      "width": 430,
+      "id": "shichida-junmai",
+      "closedHeight": 4269,
+      "checks": [
+        {
+          "name": "section order",
+          "pass": true
+        },
+        {
+          "name": "specs initially closed",
+          "pass": true
+        },
+        {
+          "name": "specs controls",
+          "pass": true
+        },
+        {
+          "name": "specs tap area",
+          "pass": true
+        },
+        {
+          "name": "specs full heading tap opens",
+          "pass": true
+        },
+        {
+          "name": "specs no horizontal overflow when open",
+          "pass": true
+        },
+        {
+          "name": "no unknown placeholders",
+          "pass": true
+        },
+        {
+          "name": "temperature inside specs",
+          "pass": true
+        },
+        {
+          "name": "specs keyboard closes",
+          "pass": true
+        },
+        {
+          "name": "specs focus visible",
+          "pass": true
+        },
+        {
+          "name": "sources initially closed",
+          "pass": true
+        },
+        {
+          "name": "sources controls",
+          "pass": true
+        },
+        {
+          "name": "sources tap area",
+          "pass": true
+        },
+        {
+          "name": "sources full heading tap opens",
+          "pass": true
+        },
+        {
+          "name": "sources no horizontal overflow when open",
+          "pass": true
+        },
+        {
+          "name": "all reference URLs retained",
+          "pass": true
+        },
+        {
+          "name": "source links external",
+          "pass": true
+        },
+        {
+          "name": "source labels short",
+          "pass": true
+        },
+        {
+          "name": "brewery visible",
+          "pass": true
+        },
+        {
+          "name": "sources keyboard closes",
+          "pass": true
+        },
+        {
+          "name": "sources focus visible",
+          "pass": true
+        },
+        {
+          "name": "no separate brewery panel",
+          "pass": true
+        },
+        {
+          "name": "no duplicated serving overview",
+          "pass": true
+        },
+        {
+          "name": "initial dishes at most six",
+          "pass": true
+        },
+        {
+          "name": "night choices limited",
+          "pass": true
+        },
+        {
+          "name": "product image loaded",
+          "pass": true
+        },
+        {
+          "name": "rakuten CTA retained",
+          "pass": true
+        },
+        {
+          "name": "favorite actual button",
+          "pass": true
+        },
+        {
+          "name": "dish detail back",
+          "pass": true
+        },
+        {
+          "name": "search query back",
+          "pass": true
+        },
+        {
+          "name": "favorite survives navigation",
+          "pass": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "id": "shichida-junmai",
+      "closedHeight": 3462,
+      "checks": [
+        {
+          "name": "section order",
+          "pass": true
+        },
+        {
+          "name": "specs initially closed",
+          "pass": true
+        },
+        {
+          "name": "specs controls",
+          "pass": true
+        },
+        {
+          "name": "specs tap area",
+          "pass": true
+        },
+        {
+          "name": "specs full heading tap opens",
+          "pass": true
+        },
+        {
+          "name": "specs no horizontal overflow when open",
+          "pass": true
+        },
+        {
+          "name": "no unknown placeholders",
+          "pass": true
+        },
+        {
+          "name": "temperature inside specs",
+          "pass": true
+        },
+        {
+          "name": "specs keyboard closes",
+          "pass": true
+        },
+        {
+          "name": "specs focus visible",
+          "pass": true
+        },
+        {
+          "name": "sources initially closed",
+          "pass": true
+        },
+        {
+          "name": "sources controls",
+          "pass": true
+        },
+        {
+          "name": "sources tap area",
+          "pass": true
+        },
+        {
+          "name": "sources full heading tap opens",
+          "pass": true
+        },
+        {
+          "name": "sources no horizontal overflow when open",
+          "pass": true
+        },
+        {
+          "name": "all reference URLs retained",
+          "pass": true
+        },
+        {
+          "name": "source links external",
+          "pass": true
+        },
+        {
+          "name": "source labels short",
+          "pass": true
+        },
+        {
+          "name": "brewery visible",
+          "pass": true
+        },
+        {
+          "name": "sources keyboard closes",
+          "pass": true
+        },
+        {
+          "name": "sources focus visible",
+          "pass": true
+        },
+        {
+          "name": "no separate brewery panel",
+          "pass": true
+        },
+        {
+          "name": "no duplicated serving overview",
+          "pass": true
+        },
+        {
+          "name": "initial dishes at most six",
+          "pass": true
+        },
+        {
+          "name": "night choices limited",
+          "pass": true
+        },
+        {
+          "name": "product image loaded",
+          "pass": true
+        },
+        {
+          "name": "rakuten CTA retained",
+          "pass": true
+        },
+        {
+          "name": "favorite actual button",
+          "pass": true
+        },
+        {
+          "name": "dish detail back",
+          "pass": true
+        },
+        {
+          "name": "search query back",
+          "pass": true
+        },
+        {
+          "name": "favorite survives navigation",
+          "pass": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "id": "daishichi-junmai-kimoto-standard",
+      "closedHeight": 3344,
+      "checks": [
+        {
+          "name": "section order",
+          "pass": true
+        },
+        {
+          "name": "specs initially closed",
+          "pass": true
+        },
+        {
+          "name": "specs controls",
+          "pass": true
+        },
+        {
+          "name": "specs tap area",
+          "pass": true
+        },
+        {
+          "name": "specs full heading tap opens",
+          "pass": true
+        },
+        {
+          "name": "specs no horizontal overflow when open",
+          "pass": true
+        },
+        {
+          "name": "no unknown placeholders",
+          "pass": true
+        },
+        {
+          "name": "temperature inside specs",
+          "pass": true
+        },
+        {
+          "name": "specs keyboard closes",
+          "pass": true
+        },
+        {
+          "name": "specs focus visible",
+          "pass": true
+        },
+        {
+          "name": "sources initially closed",
+          "pass": true
+        },
+        {
+          "name": "sources controls",
+          "pass": true
+        },
+        {
+          "name": "sources tap area",
+          "pass": true
+        },
+        {
+          "name": "sources full heading tap opens",
+          "pass": true
+        },
+        {
+          "name": "sources no horizontal overflow when open",
+          "pass": true
+        },
+        {
+          "name": "all reference URLs retained",
+          "pass": true
+        },
+        {
+          "name": "source links external",
+          "pass": true
+        },
+        {
+          "name": "source labels short",
+          "pass": true
+        },
+        {
+          "name": "brewery visible",
+          "pass": true
+        },
+        {
+          "name": "sources keyboard closes",
+          "pass": true
+        },
+        {
+          "name": "sources focus visible",
+          "pass": true
+        },
+        {
+          "name": "no separate brewery panel",
+          "pass": true
+        },
+        {
+          "name": "no duplicated serving overview",
+          "pass": true
+        },
+        {
+          "name": "initial dishes at most six",
+          "pass": true
+        },
+        {
+          "name": "night choices limited",
+          "pass": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "id": "kameizumi-kouiku63-hiyaoroshi-current-v1",
+      "closedHeight": 3252,
+      "checks": [
+        {
+          "name": "section order",
+          "pass": true
+        },
+        {
+          "name": "specs initially closed",
+          "pass": true
+        },
+        {
+          "name": "specs controls",
+          "pass": true
+        },
+        {
+          "name": "specs tap area",
+          "pass": true
+        },
+        {
+          "name": "specs full heading tap opens",
+          "pass": true
+        },
+        {
+          "name": "specs no horizontal overflow when open",
+          "pass": true
+        },
+        {
+          "name": "no unknown placeholders",
+          "pass": true
+        },
+        {
+          "name": "specs keyboard closes",
+          "pass": true
+        },
+        {
+          "name": "specs focus visible",
+          "pass": true
+        },
+        {
+          "name": "sources initially closed",
+          "pass": true
+        },
+        {
+          "name": "sources controls",
+          "pass": true
+        },
+        {
+          "name": "sources tap area",
+          "pass": true
+        },
+        {
+          "name": "sources full heading tap opens",
+          "pass": true
+        },
+        {
+          "name": "sources no horizontal overflow when open",
+          "pass": true
+        },
+        {
+          "name": "all reference URLs retained",
+          "pass": true
+        },
+        {
+          "name": "source links external",
+          "pass": true
+        },
+        {
+          "name": "source labels short",
+          "pass": true
+        },
+        {
+          "name": "brewery visible",
+          "pass": true
+        },
+        {
+          "name": "sources keyboard closes",
+          "pass": true
+        },
+        {
+          "name": "sources focus visible",
+          "pass": true
+        },
+        {
+          "name": "no separate brewery panel",
+          "pass": true
+        },
+        {
+          "name": "no duplicated serving overview",
+          "pass": true
+        },
+        {
+          "name": "initial dishes at most six",
+          "pass": true
+        },
+        {
+          "name": "night choices limited",
+          "pass": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "id": "azumaichi-junmai-ginjo",
+      "closedHeight": 3438,
+      "checks": [
+        {
+          "name": "section order",
+          "pass": true
+        },
+        {
+          "name": "specs initially closed",
+          "pass": true
+        },
+        {
+          "name": "specs controls",
+          "pass": true
+        },
+        {
+          "name": "specs tap area",
+          "pass": true
+        },
+        {
+          "name": "specs full heading tap opens",
+          "pass": true
+        },
+        {
+          "name": "specs no horizontal overflow when open",
+          "pass": true
+        },
+        {
+          "name": "no unknown placeholders",
+          "pass": true
+        },
+        {
+          "name": "temperature inside specs",
+          "pass": true
+        },
+        {
+          "name": "specs keyboard closes",
+          "pass": true
+        },
+        {
+          "name": "specs focus visible",
+          "pass": true
+        },
+        {
+          "name": "sources initially closed",
+          "pass": true
+        },
+        {
+          "name": "sources controls",
+          "pass": true
+        },
+        {
+          "name": "sources tap area",
+          "pass": true
+        },
+        {
+          "name": "sources full heading tap opens",
+          "pass": true
+        },
+        {
+          "name": "sources no horizontal overflow when open",
+          "pass": true
+        },
+        {
+          "name": "all reference URLs retained",
+          "pass": true
+        },
+        {
+          "name": "source links external",
+          "pass": true
+        },
+        {
+          "name": "source labels short",
+          "pass": true
+        },
+        {
+          "name": "brewery visible",
+          "pass": true
+        },
+        {
+          "name": "sources keyboard closes",
+          "pass": true
+        },
+        {
+          "name": "sources focus visible",
+          "pass": true
+        },
+        {
+          "name": "no separate brewery panel",
+          "pass": true
+        },
+        {
+          "name": "no duplicated serving overview",
+          "pass": true
+        },
+        {
+          "name": "initial dishes at most six",
+          "pass": true
+        },
+        {
+          "name": "night choices limited",
+          "pass": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "id": "koeigiku-snow-crescent",
+      "closedHeight": 2838,
+      "checks": [
+        {
+          "name": "section order",
+          "pass": true
+        },
+        {
+          "name": "specs initially closed",
+          "pass": true
+        },
+        {
+          "name": "specs controls",
+          "pass": true
+        },
+        {
+          "name": "specs tap area",
+          "pass": true
+        },
+        {
+          "name": "specs full heading tap opens",
+          "pass": true
+        },
+        {
+          "name": "specs no horizontal overflow when open",
+          "pass": true
+        },
+        {
+          "name": "no unknown placeholders",
+          "pass": true
+        },
+        {
+          "name": "specs keyboard closes",
+          "pass": true
+        },
+        {
+          "name": "specs focus visible",
+          "pass": true
+        },
+        {
+          "name": "sources initially closed",
+          "pass": true
+        },
+        {
+          "name": "sources controls",
+          "pass": true
+        },
+        {
+          "name": "sources tap area",
+          "pass": true
+        },
+        {
+          "name": "sources full heading tap opens",
+          "pass": true
+        },
+        {
+          "name": "sources no horizontal overflow when open",
+          "pass": true
+        },
+        {
+          "name": "all reference URLs retained",
+          "pass": true
+        },
+        {
+          "name": "source links external",
+          "pass": true
+        },
+        {
+          "name": "source labels short",
+          "pass": true
+        },
+        {
+          "name": "brewery visible",
+          "pass": true
+        },
+        {
+          "name": "sources keyboard closes",
+          "pass": true
+        },
+        {
+          "name": "sources focus visible",
+          "pass": true
+        },
+        {
+          "name": "no separate brewery panel",
+          "pass": true
+        },
+        {
+          "name": "no duplicated serving overview",
+          "pass": true
+        },
+        {
+          "name": "initial dishes at most six",
+          "pass": true
+        },
+        {
+          "name": "night choices limited",
+          "pass": true
+        }
+      ],
+      "passed": true
+    }
+  ],
+  "errors": [
+    {
+      "engine": "webkit",
+      "width": 320,
+      "message": "/127.0.0.1:3197/food/item-jjeu9j/__next.food.$d$slug.__PAGE__.txt?_rsc=OmWFNsAs9JzKvCwI due to access control checks."
+    },
+    {
+      "engine": "webkit",
+      "width": 360,
+      "message": "/127.0.0.1:3197/food/item-jjeu9j/__next.food.$d$slug.__PAGE__.txt?_rsc=OmWFNsAs9JzKvCwI due to access control checks."
+    },
+    {
+      "engine": "webkit",
+      "width": 375,
+      "message": "/127.0.0.1:3197/food/item-jjeu9j/__next.food.$d$slug.__PAGE__.txt?_rsc=OmWFNsAs9JzKvCwI due to access control checks."
+    },
+    {
+      "engine": "webkit",
+      "width": 390,
+      "message": "/127.0.0.1:3197/food/item-jjeu9j/__next.food.$d$slug.__PAGE__.txt?_rsc=OmWFNsAs9JzKvCwI due to access control checks."
+    },
+    {
+      "engine": "webkit",
+      "width": 430,
+      "message": "/127.0.0.1:3197/food/item-jjeu9j/__next.food.$d$slug.__PAGE__.txt?_rsc=OmWFNsAs9JzKvCwI due to access control checks."
+    }
+  ],
+  "passed": false,
+  "realIphone": false,
+  "realAndroid": false,
+  "shareNativeOsSheetTested": false,
+  "shareClipboardFallbackTested": true
+}

@@ -681,6 +681,28 @@ main.min-h-screen::after {
 .serving-guide .serving-note { font-size: 13px; color: #c7c5bf; max-width: 42rem; }
 .sake-detail-intro { text-wrap: pretty; }
 .sake-further > details + details { margin-top: 12px; }
+.detail-band.sake-further, .detail-band.sake-evidence { border-top: 0; padding: 0; margin: 8px 0 28px; }
+.detail-accordion.specs-details, .detail-accordion.source-details { margin: 0; border-block: 1px solid #f8f0df25; }
+.discovery-shell .detail-accordion > summary { display: flex; align-items: center; justify-content: space-between; gap: 16px; width: 100%; min-height: 60px; padding: 16px 0; list-style: none; }
+.detail-accordion > summary::-webkit-details-marker { display: none; }
+.detail-accordion > summary::marker { content: ''; }
+.discovery-shell .detail-accordion > summary h2 { font-family: var(--font-body-ja); font-size: 16px; line-height: 1.7; color: #e4c88a; margin: 0; }
+.detail-accordion > summary svg { flex: 0 0 18px; transition: transform 180ms ease; }
+.detail-accordion[open] > summary svg { transform: rotate(90deg); }
+.detail-accordion > summary:focus-visible { outline: 2px solid #e4c88a; outline-offset: 4px; }
+.detail-accordion-content { padding: 8px 0 24px; }
+.detail-accordion .serving-guide { margin-top: 0; }
+.sake-further + .purchase-discovery, .sake-evidence + .sake-pairings { border-top: 0; padding-top: 8px; }
+.detail-source-block + .detail-source-block { margin-top: 28px; }
+.discovery-shell .detail-source-block h3 { font-size: 17px; line-height: 1.7; margin: 0 0 12px; }
+.detail-source-block .brewery-title { font-family: var(--font-display-ja); font-size: 20px; margin: 0 0 8px; }
+.detail-source-block .muted-copy { font-size: 13px; line-height: 1.8; }
+.detail-source-list { list-style: none; margin: 0; padding: 0; display: grid; gap: 6px; }
+.source-details .detail-source-list li { margin: 0; min-width: 0; }
+.detail-source-link { display: flex; flex-direction: column; justify-content: center; align-items: flex-start; gap: 3px; min-height: 52px; padding: 8px 0; font-size: 14px; line-height: 1.7; overflow-wrap: anywhere; }
+.detail-source-link small { color: #bfb9ab; font-size: 11px; }
+@media (hover: hover) { .detail-accordion > summary:hover { background: #d8bd7a08; } }
+@media (prefers-reduced-motion: reduce) { .detail-accordion > summary svg { transition: none; } }
 .sake-further summary, .more-pairings summary { min-height: 48px; padding: 14px 0; font-size: 15px; }
 .ochoko-return-links { display: flex; gap: 12px 24px; flex-wrap: wrap; }
 .ochoko-return-links .text-link { min-height: 44px; display: inline-flex; align-items: center; }

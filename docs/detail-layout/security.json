@@ -1,0 +1,20 @@
+{
+  "checkedAt": "2026-10-22T05:36:50.921Z",
+  "scan": {
+    "scannedFiles": 8980,
+    "unreadableFiles": 0,
+    "findings": [],
+    "passed": true,
+    "configuredValuesChecked": [
+      "RAKUTEN_APPLICATION_ID",
+      "RAKUTEN_ACCESS_KEY",
+      "RAKUTEN_AFFILIATE_ID"
+    ],
+    "limitation": null
+  },
+  "protectedFilesChecked": 169,
+  "protectedFilesChanged": [],
+  "envIgnored": true,
+  "envTracked": false,
+  "passed": true
+}

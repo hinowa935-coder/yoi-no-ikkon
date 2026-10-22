@@ -1,0 +1,20 @@
+{
+  "checkedAt": "2026-10-22T08:14:55.814Z",
+  "rows": [
+    {
+      "id": "sake-specs",
+      "expanded": "true",
+      "open": true,
+      "transform": "matrix(0, 1, -1, 0, 0, 0)",
+      "passed": true
+    },
+    {
+      "id": "sake-sources",
+      "expanded": "true",
+      "open": true,
+      "transform": "matrix(0, 1, -1, 0, 0, 0)",
+      "passed": true
+    }
+  ],
+  "passed": true
+}

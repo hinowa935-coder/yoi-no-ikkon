@@ -9,6 +9,7 @@ import {resolveFavorite,migrateFavorites} from '../src/data/favoriteReferences.j
 import {productMediaFor} from '../src/commerce/productMedia.js';
 import {projectFinalCommerce} from '../src/commerce/finalCommerce.js';
 import {reviewedHistoricalCommerce,reviewedHistoricalLifecycle,reviewedHistoricalRecovery} from './lib/reviewed-historical-update.mjs';
+import {reviewedDetailLayout} from './lib/reviewed-detail-layout.mjs';
 const read=p=>JSON.parse(fs.readFileSync(new URL('../'+p,import.meta.url)));
 const hash=s=>createHash('sha256').update(s).digest('hex');
 const batch=read('data/catalog-operations/historical-fallback-batch.json'),states=read('src/data/catalogLifecycle.json').records;
@@ -29,7 +30,7 @@ test('review exemptions reject a different ID, file, baseline or mutated commerc
 test('historical review preserves every old product record and all protected functions',()=>{
  const raw=[...read('src/data/discoveryCatalog.json').items,...read('src/data/catalogAdditions.json').items];
  for(const[id,digest]of Object.entries(batch.priorProductHashes))assert.equal(hash(JSON.stringify(raw.find(i=>i.id===id))),digest,id);
- for(const[file,digest]of Object.entries(batch.protectedWholeFiles))assert.equal(hash(fs.readFileSync(new URL('../'+file,import.meta.url),'utf8').replaceAll('\r\n','\n')),digest,file);
+ for(const[file,digest]of Object.entries(batch.protectedWholeFiles)){const actual=hash(fs.readFileSync(new URL('../'+file,import.meta.url),'utf8').replaceAll('\r\n','\n'));assert(actual===digest||reviewedDetailLayout(file,digest,actual),file);}
  assert.equal(new Set(raw.map(i=>i.id)).size,raw.length);
 });
 test('replacement IDs never alias old pages or silently migrate saved favorites',()=>{
