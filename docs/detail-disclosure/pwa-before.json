@@ -1,0 +1,17 @@
+{
+  "checkedAt": "2026-10-22T14:04:53.577Z",
+  "rows": [
+    {
+      "engine": "chromium",
+      "mainHeight": 5246,
+      "serviceWorkerControlled": true,
+      "physicalDevice": false
+    },
+    {
+      "engine": "webkit",
+      "mainHeight": 5270,
+      "serviceWorkerControlled": true,
+      "physicalDevice": false
+    }
+  ]
+}

@@ -680,19 +680,20 @@ main.min-h-screen::after {
 .serving-guide .serving-detail { font-size: 15px; line-height: 1.85; }
 .serving-guide .serving-note { font-size: 13px; color: #c7c5bf; max-width: 42rem; }
 .sake-detail-intro { text-wrap: pretty; }
-.sake-further > details + details { margin-top: 12px; }
-.detail-band.sake-further, .detail-band.sake-evidence { border-top: 0; padding: 0; margin: 8px 0 28px; }
-.detail-accordion.specs-details, .detail-accordion.source-details { margin: 0; border-block: 1px solid #f8f0df25; }
-.discovery-shell .detail-accordion > summary { display: flex; align-items: center; justify-content: space-between; gap: 16px; width: 100%; min-height: 60px; padding: 16px 0; list-style: none; }
-.detail-accordion > summary::-webkit-details-marker { display: none; }
-.detail-accordion > summary::marker { content: ''; }
-.discovery-shell .detail-accordion > summary h2 { font-family: var(--font-body-ja); font-size: 16px; line-height: 1.7; color: #e4c88a; margin: 0; }
-.detail-accordion > summary svg { flex: 0 0 18px; transition: transform 180ms ease; }
-.detail-accordion[open] > summary svg { transform: rotate(90deg); }
-.detail-accordion > summary:focus-visible { outline: 2px solid #e4c88a; outline-offset: 4px; }
+.detail-band.sake-further, .detail-band.purchase-discovery, .detail-band.sake-evidence, .detail-band.sake-pairings, .detail-band.local-sakana { border: 0; padding: 0; margin: 0; }
+.detail-accordion { margin: 0; border-top: 1px solid #f8f0df25; }
+.discovery-shell h2.detail-accordion-heading { margin: 0; font-family: var(--font-body-ja); font-size: 16px; line-height: 1.7; }
+.detail-accordion-heading > button { display: flex; align-items: center; justify-content: space-between; gap: 16px; width: 100%; min-height: 76px; padding: 18px 0; border: 0; border-radius: 0; background: transparent; color: #e4c88a; font: inherit; text-align: left; cursor: pointer; }
+.detail-accordion-labels { display: grid; gap: 4px; min-width: 0; }
+.detail-accordion-title { font-weight: 500; overflow-wrap: anywhere; }
+.detail-accordion-summary { font-size: 13px; font-weight: 400; line-height: 1.7; color: #c7c5bf; overflow-wrap: anywhere; }
+.detail-accordion-heading svg { flex: 0 0 18px; transition: transform 180ms ease; }
+.detail-accordion-heading button[aria-expanded="true"] svg { transform: rotate(90deg); }
+.detail-accordion-heading > button:focus-visible { outline: 2px solid #e4c88a; outline-offset: 4px; }
 .detail-accordion-content { padding: 8px 0 24px; }
+.detail-accordion-content[hidden] { display: none; }
 .detail-accordion .serving-guide { margin-top: 0; }
-.sake-further + .purchase-discovery, .sake-evidence + .sake-pairings { border-top: 0; padding-top: 8px; }
+.discovery-shell .sake-pairings .detail-accordion-content > h3 { font-size: 20px; line-height: 1.7; margin: 8px 0 24px; }
 .detail-source-block + .detail-source-block { margin-top: 28px; }
 .discovery-shell .detail-source-block h3 { font-size: 17px; line-height: 1.7; margin: 0 0 12px; }
 .detail-source-block .brewery-title { font-family: var(--font-display-ja); font-size: 20px; margin: 0 0 8px; }
@@ -701,9 +702,8 @@ main.min-h-screen::after {
 .source-details .detail-source-list li { margin: 0; min-width: 0; }
 .detail-source-link { display: flex; flex-direction: column; justify-content: center; align-items: flex-start; gap: 3px; min-height: 52px; padding: 8px 0; font-size: 14px; line-height: 1.7; overflow-wrap: anywhere; }
 .detail-source-link small { color: #bfb9ab; font-size: 11px; }
-@media (hover: hover) { .detail-accordion > summary:hover { background: #d8bd7a08; } }
-@media (prefers-reduced-motion: reduce) { .detail-accordion > summary svg { transition: none; } }
-.sake-further summary, .more-pairings summary { min-height: 48px; padding: 14px 0; font-size: 15px; }
+@media (hover: hover) { .detail-accordion-heading > button:hover { background: #d8bd7a08; } }
+@media (prefers-reduced-motion: reduce) { .detail-accordion-heading svg { transition: none; } }
 .ochoko-return-links { display: flex; gap: 12px 24px; flex-wrap: wrap; }
 .ochoko-return-links .text-link { min-height: 44px; display: inline-flex; align-items: center; }
 @media (max-width: 767px) {

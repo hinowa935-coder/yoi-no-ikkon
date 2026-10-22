@@ -1,0 +1,32 @@
+{
+  "reviewed": true,
+  "sourceCommit": "52d516dd6cf224ba90742017685feef7fd756b8f",
+  "authorizedBy": "a40558e1-babe-4ddc-9e18-fd02f2f82fd9",
+  "changes": [
+    {
+      "file": "src/app/components/DetailAccordion.jsx",
+      "beforeSha256": "afc3f0e93137c02b1502cd2f56263c2147a4f6beb7a2fe7e4af9dd6260d40122",
+      "afterSha256": "aee68ca36037893fe821d3dc6023c56d7798bce4f25600231c93c031e0950929"
+    },
+    {
+      "file": "src/app/components/LocalSakana.jsx",
+      "beforeSha256": "3afe3bb0577b66861c396b1038ab5c9ae56bea058ad84c755ce01d66fa4f93a1",
+      "afterSha256": "63a0e341786fae66fe4314a94594fa1138e81a9759f72acf210a6257cc9c2f61"
+    },
+    {
+      "file": "src/app/components/SakeDiscoveryContext.jsx",
+      "beforeSha256": "5f9011b38f0016ba891a461543854ebe51e46a752da3b680470c1c924951d764",
+      "afterSha256": "7c5b7e35dec3c17e1c5100df1e3cda3b7f40e73dcea9d047113a1e0bd571045a"
+    },
+    {
+      "file": "src/app/globals.css",
+      "beforeSha256": "01ac31ce1d14975dc1e936e4a3333664294fe9aca9a5b64bc4fd673a43817797",
+      "afterSha256": "746fd6641eb264e2a0912bf84835d24718a0b0a4ed96404f2de8664d90f22037"
+    },
+    {
+      "file": "src/app/sake/[slug]/page.jsx",
+      "beforeSha256": "2ef852dbe26eca7a967e413359eb0820d1d71872e67f30b0c755fec17f0f4261",
+      "afterSha256": "3d5c994f6d86fe236193322b59b623c0a8f6c0f177adfa57a045450e9073bd5d"
+    }
+  ]
+}

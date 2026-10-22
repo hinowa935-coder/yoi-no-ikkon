@@ -1,0 +1,2477 @@
+{
+  "checkedAt": "2026-10-22T14:06:47.808Z",
+  "base": "http://127.0.0.1:3197",
+  "representativeCases": [
+    {
+      "role": "junmai and specialties",
+      "sakeId": "shichida-junmai"
+    },
+    {
+      "role": "floral ginjo",
+      "sakeId": "azumaichi-junmai-ginjo"
+    },
+    {
+      "role": "warm",
+      "sakeId": "azumaichi-junmai-ginjo"
+    },
+    {
+      "role": "seasonal",
+      "sakeId": "kameizumi-kouiku63-hiyaoroshi-current-v1"
+    },
+    {
+      "role": "most dishes",
+      "sakeId": "nogomi-tokubetsu-junmai"
+    },
+    {
+      "role": "fewest nonzero dishes",
+      "sakeId": "taiheizan-tenko-junmai-daiginjo-standard"
+    },
+    {
+      "role": "no dishes",
+      "sakeId": "ishizuchi-junmai-ginjo-yamadanishiki50-v1"
+    },
+    {
+      "role": "most sources",
+      "sakeId": "kanhokuto-tokubetsu-junmai"
+    },
+    {
+      "role": "few sources",
+      "sakeId": "azumaichi-junmai-ginjo"
+    },
+    {
+      "role": "no specialties",
+      "sakeId": "koimari-saki"
+    }
+  ],
+  "rows": [
+    {
+      "engine": "webkit",
+      "width": 320,
+      "sakeId": "shichida-junmai",
+      "initial": [
+        {
+          "id": "sake-specs-toggle",
+          "tag": "BUTTON",
+          "expanded": "false",
+          "controls": "sake-specs-content",
+          "description": "純米酒・精米歩合65%",
+          "hidden": true,
+          "height": 89.28125,
+          "lines": 0.9997171945701356
+        },
+        {
+          "id": "sake-purchase-toggle",
+          "tag": "BUTTON",
+          "expanded": "false",
+          "controls": "sake-purchase-content",
+          "description": "楽天の商品ページあり",
+          "hidden": true,
+          "height": 89.28125,
+          "lines": 0.9997171945701356
+        },
+        {
+          "id": "sake-sources-toggle",
+          "tag": "BUTTON",
+          "expanded": "false",
+          "controls": "sake-sources-content",
+          "description": "蔵元・参考資料を見る",
+          "hidden": true,
+          "height": 89.28125,
+          "lines": 0.9997171945701356
+        },
+        {
+          "id": "sake-pairings-toggle",
+          "tag": "BUTTON",
+          "expanded": "false",
+          "controls": "sake-pairings-content",
+          "description": "肉じゃが・豚の角煮・オクラのおひたし ほか3品",
+          "hidden": true,
+          "height": 111.375,
+          "lines": 1.9994343891402713
+        },
+        {
+          "id": "sake-local-sakana-toggle",
+          "tag": "BUTTON",
+          "expanded": "false",
+          "controls": "sake-local-sakana-content",
+          "description": "呼子いか一夜干し",
+          "hidden": true,
+          "height": 89.28125,
+          "lines": 0.9997171945701356
+        }
+      ],
+      "initialHeight": 2834,
+      "expandedHeight": 6659,
+      "purchaseProviders": [
+        "hb.afl.rakuten.co.jp",
+        "item.rakuten.co.jp",
+        "www.amazon.co.jp",
+        "tenzan-shuzo.shop-pro.jp"
+      ],
+      "checks": {
+        "hero": true,
+        "taste": true,
+        "defaultClosed": true,
+        "multipleOpen": true,
+        "keyboard": true,
+        "focus": true,
+        "noOverflow": true,
+        "contents": true,
+        "telemetry": true
+      },
+      "passed": true
+    },
+    {
+      "engine": "webkit",
+      "width": 360,
+      "sakeId": "shichida-junmai",
+      "initial": [
+        {
+          "id": "sake-specs-toggle",
+          "tag": "BUTTON",
+          "expanded": "false",
+          "controls": "sake-specs-content",
+          "description": "純米酒・精米歩合65%",
+          "hidden": true,
+          "height": 89.28125,
+          "lines": 0.9997171945701356
+        },
+        {
+          "id": "sake-purchase-toggle",
+          "tag": "BUTTON",
+          "expanded": "false",
+          "controls": "sake-purchase-content",
+          "description": "楽天の商品ページあり",
+          "hidden": true,
+          "height": 89.28125,
+          "lines": 0.9997171945701356
+        },
+        {
+          "id": "sake-sources-toggle",
+          "tag": "BUTTON",
+          "expanded": "false",
+          "controls": "sake-sources-content",
+          "description": "蔵元・参考資料を見る",
+          "hidden": true,
+          "height": 89.28125,
+          "lines": 0.9997171945701356
+        },
+        {
+          "id": "sake-pairings-toggle",
+          "tag": "BUTTON",
+          "expanded": "false",
+          "controls": "sake-pairings-content",
+          "description": "肉じゃが・豚の角煮・オクラのおひたし ほか3品",
+          "hidden": true,
+          "height": 89.28125,
+          "lines": 0.9997171945701356
+        },
+        {
+          "id": "sake-local-sakana-toggle",
+          "tag": "BUTTON",
+          "expanded": "false",
+          "controls": "sake-local-sakana-content",
+          "description": "呼子いか一夜干し",
+          "hidden": true,
+          "height": 89.28125,
+          "lines": 0.9997171945701356
+        }
+      ],
+      "initialHeight": 2788,
+      "expandedHeight": 6564,
+      "purchaseProviders": [
+        "hb.afl.rakuten.co.jp",
+        "item.rakuten.co.jp",
+        "www.amazon.co.jp",
+        "tenzan-shuzo.shop-pro.jp"
+      ],
+      "checks": {
+        "hero": true,
+        "taste": true,
+        "defaultClosed": true,
+        "multipleOpen": true,
+        "keyboard": true,
+        "focus": true,
+        "noOverflow": true,
+        "contents": true,
+        "telemetry": true
+      },
+      "passed": true
+    },
+    {
+      "engine": "webkit",
+      "width": 375,
+      "sakeId": "shichida-junmai",
+      "initial": [
+        {
+          "id": "sake-specs-toggle",
+          "tag": "BUTTON",
+          "expanded": "false",
+          "controls": "sake-specs-content",
+          "description": "純米酒・精米歩合65%",
+          "hidden": true,
+          "height": 89.28125,
+          "lines": 0.9997171945701356
+        },
+        {
+          "id": "sake-purchase-toggle",
+          "tag": "BUTTON",
+          "expanded": "false",
+          "controls": "sake-purchase-content",
+          "description": "楽天の商品ページあり",
+          "hidden": true,
+          "height": 89.28125,
+          "lines": 0.9997171945701356
+        },
+        {
+          "id": "sake-sources-toggle",
+          "tag": "BUTTON",
+          "expanded": "false",
+          "controls": "sake-sources-content",
+          "description": "蔵元・参考資料を見る",
+          "hidden": true,
+          "height": 89.28125,
+          "lines": 0.9997171945701356
+        },
+        {
+          "id": "sake-pairings-toggle",
+          "tag": "BUTTON",
+          "expanded": "false",
+          "controls": "sake-pairings-content",
+          "description": "肉じゃが・豚の角煮・オクラのおひたし ほか3品",
+          "hidden": true,
+          "height": 89.28125,
+          "lines": 0.9997171945701356
+        },
+        {
+          "id": "sake-local-sakana-toggle",
+          "tag": "BUTTON",
+          "expanded": "false",
+          "controls": "sake-local-sakana-content",
+          "description": "呼子いか一夜干し",
+          "hidden": true,
+          "height": 89.28125,
+          "lines": 0.9997171945701356
+        }
+      ],
+      "initialHeight": 2788,
+      "expandedHeight": 6564,
+      "purchaseProviders": [
+        "hb.afl.rakuten.co.jp",
+        "item.rakuten.co.jp",
+        "www.amazon.co.jp",
+        "tenzan-shuzo.shop-pro.jp"
+      ],
+      "checks": {
+        "hero": true,
+        "taste": true,
+        "defaultClosed": true,
+        "multipleOpen": true,
+        "keyboard": true,
+        "focus": true,
+        "noOverflow": true,
+        "contents": true,
+        "telemetry": true
+      },
+      "passed": true
+    },
+    {
+      "engine": "webkit",
+      "width": 390,
+      "sakeId": "shichida-junmai",
+      "initial": [
+        {
+          "id": "sake-specs-toggle",
+          "tag": "BUTTON",
+          "expanded": "false",
+          "controls": "sake-specs-content",
+          "description": "純米酒・精米歩合65%",
+          "hidden": true,
+          "height": 89.28125,
+          "lines": 0.9997171945701356
+        },
+        {
+          "id": "sake-purchase-toggle",
+          "tag": "BUTTON",
+          "expanded": "false",
+          "controls": "sake-purchase-content",
+          "description": "楽天の商品ページあり",
+          "hidden": true,
+          "height": 89.28125,
+          "lines": 0.9997171945701356
+        },
+        {
+          "id": "sake-sources-toggle",
+          "tag": "BUTTON",
+          "expanded": "false",
+          "controls": "sake-sources-content",
+          "description": "蔵元・参考資料を見る",
+          "hidden": true,
+          "height": 89.28125,
+          "lines": 0.9997171945701356
+        },
+        {
+          "id": "sake-pairings-toggle",
+          "tag": "BUTTON",
+          "expanded": "false",
+          "controls": "sake-pairings-content",
+          "description": "肉じゃが・豚の角煮・オクラのおひたし ほか3品",
+          "hidden": true,
+          "height": 89.28125,
+          "lines": 0.9997171945701356
+        },
+        {
+          "id": "sake-local-sakana-toggle",
+          "tag": "BUTTON",
+          "expanded": "false",
+          "controls": "sake-local-sakana-content",
+          "description": "呼子いか一夜干し",
+          "hidden": true,
+          "height": 89.28125,
+          "lines": 0.9997171945701356
+        }
+      ],
+      "initialHeight": 2788,
+      "expandedHeight": 6466,
+      "purchaseProviders": [
+        "hb.afl.rakuten.co.jp",
+        "item.rakuten.co.jp",
+        "www.amazon.co.jp",
+        "tenzan-shuzo.shop-pro.jp"
+      ],
+      "checks": {
+        "hero": true,
+        "taste": true,
+        "defaultClosed": true,
+        "multipleOpen": true,
+        "keyboard": true,
+        "focus": true,
+        "noOverflow": true,
+        "contents": true,
+        "telemetry": true
+      },
+      "passed": true
+    },
+    {
+      "engine": "webkit",
+      "width": 390,
+      "sakeId": "azumaichi-junmai-ginjo",
+      "initial": [
+        {
+          "id": "sake-specs-toggle",
+          "tag": "BUTTON",
+          "expanded": "false",
+          "controls": "sake-specs-content",
+          "description": "純米吟醸酒・精米歩合58%",
+          "hidden": true,
+          "height": 89.28125,
+          "lines": 0.9997171945701356
+        },
+        {
+          "id": "sake-purchase-toggle",
+          "tag": "BUTTON",
+          "expanded": "false",
+          "controls": "sake-purchase-content",
+          "description": "楽天の商品ページあり",
+          "hidden": true,
+          "height": 89.28125,
+          "lines": 0.9997171945701356
+        },
+        {
+          "id": "sake-sources-toggle",
+          "tag": "BUTTON",
+          "expanded": "false",
+          "controls": "sake-sources-content",
+          "description": "蔵元・参考資料を見る",
+          "hidden": true,
+          "height": 89.28125,
+          "lines": 0.9997171945701356
+        },
+        {
+          "id": "sake-pairings-toggle",
+          "tag": "BUTTON",
+          "expanded": "false",
+          "controls": "sake-pairings-content",
+          "description": "サーモンの柚子マリネ・たらちり鍋・牛ごぼう煮 ほか3品",
+          "hidden": true,
+          "height": 111.375,
+          "lines": 1.9994343891402713
+        },
+        {
+          "id": "sake-local-sakana-toggle",
+          "tag": "BUTTON",
+          "expanded": "false",
+          "controls": "sake-local-sakana-content",
+          "description": "いかしゅうまい・呼子いか一夜干し",
+          "hidden": true,
+          "height": 89.28125,
+          "lines": 0.9997171945701356
+        }
+      ],
+      "initialHeight": 2774,
+      "expandedHeight": 6960,
+      "purchaseProviders": [
+        "hb.afl.rakuten.co.jp",
+        "item.rakuten.co.jp",
+        "www.amazon.co.jp",
+        "shop.azumaichi.com"
+      ],
+      "checks": {
+        "hero": true,
+        "taste": true,
+        "defaultClosed": true,
+        "multipleOpen": true,
+        "keyboard": true,
+        "focus": true,
+        "noOverflow": true,
+        "contents": true,
+        "telemetry": true
+      },
+      "passed": true
+    },
+    {
+      "engine": "webkit",
+      "width": 390,
+      "sakeId": "kameizumi-kouiku63-hiyaoroshi-current-v1",
+      "initial": [
+        {
+          "id": "sake-specs-toggle",
+          "tag": "BUTTON",
+          "expanded": "false",
+          "controls": "sake-specs-content",
+          "description": "純米吟醸酒",
+          "hidden": true,
+          "height": 89.28125,
+          "lines": 0.9997171945701356
+        },
+        {
+          "id": "sake-purchase-toggle",
+          "tag": "BUTTON",
+          "expanded": "false",
+          "controls": "sake-purchase-content",
+          "description": "楽天の商品ページあり",
+          "hidden": true,
+          "height": 89.28125,
+          "lines": 0.9997171945701356
+        },
+        {
+          "id": "sake-sources-toggle",
+          "tag": "BUTTON",
+          "expanded": "false",
+          "controls": "sake-sources-content",
+          "description": "蔵元・参考資料を見る",
+          "hidden": true,
+          "height": 89.28125,
+          "lines": 0.9997171945701356
+        },
+        {
+          "id": "sake-pairings-toggle",
+          "tag": "BUTTON",
+          "expanded": "false",
+          "controls": "sake-pairings-content",
+          "description": "鶏の照り焼き・焼き鮭・きのこのホイル焼き ほか3品",
+          "hidden": true,
+          "height": 89.28125,
+          "lines": 0.9997171945701356
+        },
+        {
+          "id": "sake-local-sakana-toggle",
+          "tag": "BUTTON",
+          "expanded": "false",
+          "controls": "sake-local-sakana-content",
+          "description": "かつお生節・酒盗",
+          "hidden": true,
+          "height": 89.28125,
+          "lines": 0.9997171945701356
+        }
+      ],
+      "initialHeight": 2831,
+      "expandedHeight": 6774,
+      "purchaseProviders": [
+        "hb.afl.rakuten.co.jp",
+        "item.rakuten.co.jp",
+        "www.amazon.co.jp"
+      ],
+      "checks": {
+        "hero": true,
+        "taste": true,
+        "defaultClosed": true,
+        "multipleOpen": true,
+        "keyboard": true,
+        "focus": true,
+        "noOverflow": true,
+        "contents": true,
+        "telemetry": true
+      },
+      "passed": true
+    },
+    {
+      "engine": "webkit",
+      "width": 390,
+      "sakeId": "nogomi-tokubetsu-junmai",
+      "initial": [
+        {
+          "id": "sake-specs-toggle",
+          "tag": "BUTTON",
+          "expanded": "false",
+          "controls": "sake-specs-content",
+          "description": "特別純米酒",
+          "hidden": true,
+          "height": 89.28125,
+          "lines": 0.9997171945701356
+        },
+        {
+          "id": "sake-purchase-toggle",
+          "tag": "BUTTON",
+          "expanded": "false",
+          "controls": "sake-purchase-content",
+          "description": "楽天の商品ページあり",
+          "hidden": true,
+          "height": 89.28125,
+          "lines": 0.9997171945701356
+        },
+        {
+          "id": "sake-sources-toggle",
+          "tag": "BUTTON",
+          "expanded": "false",
+          "controls": "sake-sources-content",
+          "description": "蔵元・参考資料を見る",
+          "hidden": true,
+          "height": 89.28125,
+          "lines": 0.9997171945701356
+        },
+        {
+          "id": "sake-pairings-toggle",
+          "tag": "BUTTON",
+          "expanded": "false",
+          "controls": "sake-pairings-content",
+          "description": "塩昆布キャベツ・白菜ロール煮・筑前煮 ほか3品",
+          "hidden": true,
+          "height": 89.28125,
+          "lines": 0.9997171945701356
+        },
+        {
+          "id": "sake-local-sakana-toggle",
+          "tag": "BUTTON",
+          "expanded": "false",
+          "controls": "sake-local-sakana-content",
+          "description": "いかしゅうまい・呼子いか一夜干し",
+          "hidden": true,
+          "height": 89.28125,
+          "lines": 0.9997171945701356
+        }
+      ],
+      "initialHeight": 2727,
+      "expandedHeight": 6596,
+      "purchaseProviders": [
+        "hb.afl.rakuten.co.jp",
+        "item.rakuten.co.jp",
+        "www.amazon.co.jp"
+      ],
+      "checks": {
+        "hero": true,
+        "taste": true,
+        "defaultClosed": true,
+        "multipleOpen": true,
+        "keyboard": true,
+        "focus": true,
+        "noOverflow": true,
+        "contents": true,
+        "telemetry": true
+      },
+      "passed": true
+    },
+    {
+      "engine": "webkit",
+      "width": 390,
+      "sakeId": "taiheizan-tenko-junmai-daiginjo-standard",
+      "initial": [
+        {
+          "id": "sake-specs-toggle",
+          "tag": "BUTTON",
+          "expanded": "false",
+          "controls": "sake-specs-content",
+          "description": "純米大吟醸酒・精米歩合40%",
+          "hidden": true,
+          "height": 89.28125,
+          "lines": 0.9997171945701356
+        },
+        {
+          "id": "sake-purchase-toggle",
+          "tag": "BUTTON",
+          "expanded": "false",
+          "controls": "sake-purchase-content",
+          "description": "楽天の商品ページあり",
+          "hidden": true,
+          "height": 89.28125,
+          "lines": 0.9997171945701356
+        },
+        {
+          "id": "sake-sources-toggle",
+          "tag": "BUTTON",
+          "expanded": "false",
+          "controls": "sake-sources-content",
+          "description": "蔵元・参考資料を見る",
+          "hidden": true,
+          "height": 89.28125,
+          "lines": 0.9997171945701356
+        },
+        {
+          "id": "sake-pairings-toggle",
+          "tag": "BUTTON",
+          "expanded": "false",
+          "controls": "sake-pairings-content",
+          "description": "冷奴",
+          "hidden": true,
+          "height": 89.28125,
+          "lines": 0.9997171945701356
+        }
+      ],
+      "initialHeight": 2492,
+      "expandedHeight": 4094,
+      "purchaseProviders": [
+        "hb.afl.rakuten.co.jp",
+        "item.rakuten.co.jp",
+        "www.amazon.co.jp"
+      ],
+      "checks": {
+        "hero": true,
+        "taste": true,
+        "defaultClosed": true,
+        "multipleOpen": true,
+        "keyboard": true,
+        "focus": true,
+        "noOverflow": true,
+        "contents": true,
+        "telemetry": true
+      },
+      "passed": true
+    },
+    {
+      "engine": "webkit",
+      "width": 390,
+      "sakeId": "ishizuchi-junmai-ginjo-yamadanishiki50-v1",
+      "initial": [
+        {
+          "id": "sake-specs-toggle",
+          "tag": "BUTTON",
+          "expanded": "false",
+          "controls": "sake-specs-content",
+          "description": "純米吟醸酒",
+          "hidden": true,
+          "height": 89.28125,
+          "lines": 0.9997171945701356
+        },
+        {
+          "id": "sake-purchase-toggle",
+          "tag": "BUTTON",
+          "expanded": "false",
+          "controls": "sake-purchase-content",
+          "description": "楽天の商品ページあり",
+          "hidden": true,
+          "height": 89.28125,
+          "lines": 0.9997171945701356
+        },
+        {
+          "id": "sake-sources-toggle",
+          "tag": "BUTTON",
+          "expanded": "false",
+          "controls": "sake-sources-content",
+          "description": "蔵元・参考資料を見る",
+          "hidden": true,
+          "height": 89.28125,
+          "lines": 0.9997171945701356
+        }
+      ],
+      "initialHeight": 2401,
+      "expandedHeight": 3503,
+      "purchaseProviders": [
+        "hb.afl.rakuten.co.jp",
+        "item.rakuten.co.jp",
+        "www.amazon.co.jp"
+      ],
+      "checks": {
+        "hero": true,
+        "taste": true,
+        "defaultClosed": true,
+        "multipleOpen": true,
+        "keyboard": true,
+        "focus": true,
+        "noOverflow": true,
+        "contents": true,
+        "telemetry": true
+      },
+      "passed": true
+    },
+    {
+      "engine": "webkit",
+      "width": 390,
+      "sakeId": "kanhokuto-tokubetsu-junmai",
+      "initial": [
+        {
+          "id": "sake-specs-toggle",
+          "tag": "BUTTON",
+          "expanded": "false",
+          "controls": "sake-specs-content",
+          "description": "特別純米酒・精米歩合55%",
+          "hidden": true,
+          "height": 89.28125,
+          "lines": 0.9997171945701356
+        },
+        {
+          "id": "sake-purchase-toggle",
+          "tag": "BUTTON",
+          "expanded": "false",
+          "controls": "sake-purchase-content",
+          "description": "楽天の商品ページあり",
+          "hidden": true,
+          "height": 89.28125,
+          "lines": 0.9997171945701356
+        },
+        {
+          "id": "sake-sources-toggle",
+          "tag": "BUTTON",
+          "expanded": "false",
+          "controls": "sake-sources-content",
+          "description": "蔵元・参考資料を見る",
+          "hidden": true,
+          "height": 89.28125,
+          "lines": 0.9997171945701356
+        },
+        {
+          "id": "sake-pairings-toggle",
+          "tag": "BUTTON",
+          "expanded": "false",
+          "controls": "sake-pairings-content",
+          "description": "厚揚げの生姜焼き・焼き鮭・れんこんのきんぴら ほか3品",
+          "hidden": true,
+          "height": 111.375,
+          "lines": 1.9994343891402713
+        }
+      ],
+      "initialHeight": 2535,
+      "expandedHeight": 5452,
+      "purchaseProviders": [
+        "hb.afl.rakuten.co.jp",
+        "item.rakuten.co.jp",
+        "www.amazon.co.jp"
+      ],
+      "checks": {
+        "hero": true,
+        "taste": true,
+        "defaultClosed": true,
+        "multipleOpen": true,
+        "keyboard": true,
+        "focus": true,
+        "noOverflow": true,
+        "contents": true,
+        "telemetry": true
+      },
+      "passed": true
+    },
+    {
+      "engine": "webkit",
+      "width": 390,
+      "sakeId": "koimari-saki",
+      "initial": [
+        {
+          "id": "sake-specs-toggle",
+          "tag": "BUTTON",
+          "expanded": "false",
+          "controls": "sake-specs-content",
+          "description": "純米吟醸酒",
+          "hidden": true,
+          "height": 89.28125,
+          "lines": 0.9997171945701356
+        },
+        {
+          "id": "sake-purchase-toggle",
+          "tag": "BUTTON",
+          "expanded": "false",
+          "controls": "sake-purchase-content",
+          "description": "楽天の商品ページあり",
+          "hidden": true,
+          "height": 89.28125,
+          "lines": 0.9997171945701356
+        },
+        {
+          "id": "sake-sources-toggle",
+          "tag": "BUTTON",
+          "expanded": "false",
+          "controls": "sake-sources-content",
+          "description": "蔵元・参考資料を見る",
+          "hidden": true,
+          "height": 89.28125,
+          "lines": 0.9997171945701356
+        },
+        {
+          "id": "sake-pairings-toggle",
+          "tag": "BUTTON",
+          "expanded": "false",
+          "controls": "sake-pairings-content",
+          "description": "厚揚げと小松菜の煮物・白身魚の昆布蒸し ほか3品",
+          "hidden": true,
+          "height": 89.28125,
+          "lines": 0.9997171945701356
+        }
+      ],
+      "initialHeight": 2470,
+      "expandedHeight": 4756,
+      "purchaseProviders": [
+        "hb.afl.rakuten.co.jp",
+        "item.rakuten.co.jp",
+        "www.amazon.co.jp"
+      ],
+      "checks": {
+        "hero": true,
+        "taste": true,
+        "defaultClosed": true,
+        "multipleOpen": true,
+        "keyboard": true,
+        "focus": true,
+        "noOverflow": true,
+        "contents": true,
+        "telemetry": true
+      },
+      "passed": true
+    },
+    {
+      "engine": "webkit",
+      "width": 430,
+      "sakeId": "shichida-junmai",
+      "initial": [
+        {
+          "id": "sake-specs-toggle",
+          "tag": "BUTTON",
+          "expanded": "false",
+          "controls": "sake-specs-content",
+          "description": "純米酒・精米歩合65%",
+          "hidden": true,
+          "height": 89.28125,
+          "lines": 0.9997171945701356
+        },
+        {
+          "id": "sake-purchase-toggle",
+          "tag": "BUTTON",
+          "expanded": "false",
+          "controls": "sake-purchase-content",
+          "description": "楽天の商品ページあり",
+          "hidden": true,
+          "height": 89.28125,
+          "lines": 0.9997171945701356
+        },
+        {
+          "id": "sake-sources-toggle",
+          "tag": "BUTTON",
+          "expanded": "false",
+          "controls": "sake-sources-content",
+          "description": "蔵元・参考資料を見る",
+          "hidden": true,
+          "height": 89.28125,
+          "lines": 0.9997171945701356
+        },
+        {
+          "id": "sake-pairings-toggle",
+          "tag": "BUTTON",
+          "expanded": "false",
+          "controls": "sake-pairings-content",
+          "description": "肉じゃが・豚の角煮・オクラのおひたし ほか3品",
+          "hidden": true,
+          "height": 89.28125,
+          "lines": 0.9997171945701356
+        },
+        {
+          "id": "sake-local-sakana-toggle",
+          "tag": "BUTTON",
+          "expanded": "false",
+          "controls": "sake-local-sakana-content",
+          "description": "呼子いか一夜干し",
+          "hidden": true,
+          "height": 89.28125,
+          "lines": 0.9997171945701356
+        }
+      ],
+      "initialHeight": 2667,
+      "expandedHeight": 6291,
+      "purchaseProviders": [
+        "hb.afl.rakuten.co.jp",
+        "item.rakuten.co.jp",
+        "www.amazon.co.jp",
+        "tenzan-shuzo.shop-pro.jp"
+      ],
+      "checks": {
+        "hero": true,
+        "taste": true,
+        "defaultClosed": true,
+        "multipleOpen": true,
+        "keyboard": true,
+        "focus": true,
+        "noOverflow": true,
+        "contents": true,
+        "telemetry": true
+      },
+      "passed": true
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "sakeId": "shichida-junmai",
+      "initial": [
+        {
+          "id": "sake-specs-toggle",
+          "tag": "BUTTON",
+          "expanded": "false",
+          "controls": "sake-specs-content",
+          "description": "純米酒・精米歩合65%",
+          "hidden": true,
+          "height": 89.28125,
+          "lines": 0.9997171945701356
+        },
+        {
+          "id": "sake-purchase-toggle",
+          "tag": "BUTTON",
+          "expanded": "false",
+          "controls": "sake-purchase-content",
+          "description": "楽天の商品ページあり",
+          "hidden": true,
+          "height": 89.28125,
+          "lines": 0.9997171945701356
+        },
+        {
+          "id": "sake-sources-toggle",
+          "tag": "BUTTON",
+          "expanded": "false",
+          "controls": "sake-sources-content",
+          "description": "蔵元・参考資料を見る",
+          "hidden": true,
+          "height": 89.28125,
+          "lines": 0.9997171945701356
+        },
+        {
+          "id": "sake-pairings-toggle",
+          "tag": "BUTTON",
+          "expanded": "false",
+          "controls": "sake-pairings-content",
+          "description": "肉じゃが・豚の角煮・オクラのおひたし ほか3品",
+          "hidden": true,
+          "height": 89.28125,
+          "lines": 0.9997171945701356
+        },
+        {
+          "id": "sake-local-sakana-toggle",
+          "tag": "BUTTON",
+          "expanded": "false",
+          "controls": "sake-local-sakana-content",
+          "description": "呼子いか一夜干し",
+          "hidden": true,
+          "height": 89.28125,
+          "lines": 0.9997171945701356
+        }
+      ],
+      "initialHeight": 2479,
+      "expandedHeight": 5402,
+      "purchaseProviders": [
+        "hb.afl.rakuten.co.jp",
+        "item.rakuten.co.jp",
+        "www.amazon.co.jp",
+        "tenzan-shuzo.shop-pro.jp"
+      ],
+      "checks": {
+        "hero": true,
+        "taste": true,
+        "defaultClosed": true,
+        "multipleOpen": true,
+        "keyboard": true,
+        "focus": true,
+        "noOverflow": true,
+        "contents": true,
+        "telemetry": true
+      },
+      "passed": true
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "sakeId": "azumaichi-junmai-ginjo",
+      "initial": [
+        {
+          "id": "sake-specs-toggle",
+          "tag": "BUTTON",
+          "expanded": "false",
+          "controls": "sake-specs-content",
+          "description": "純米吟醸酒・精米歩合58%",
+          "hidden": true,
+          "height": 89.28125,
+          "lines": 0.9997171945701356
+        },
+        {
+          "id": "sake-purchase-toggle",
+          "tag": "BUTTON",
+          "expanded": "false",
+          "controls": "sake-purchase-content",
+          "description": "楽天の商品ページあり",
+          "hidden": true,
+          "height": 89.28125,
+          "lines": 0.9997171945701356
+        },
+        {
+          "id": "sake-sources-toggle",
+          "tag": "BUTTON",
+          "expanded": "false",
+          "controls": "sake-sources-content",
+          "description": "蔵元・参考資料を見る",
+          "hidden": true,
+          "height": 89.28125,
+          "lines": 0.9997171945701356
+        },
+        {
+          "id": "sake-pairings-toggle",
+          "tag": "BUTTON",
+          "expanded": "false",
+          "controls": "sake-pairings-content",
+          "description": "サーモンの柚子マリネ・たらちり鍋・牛ごぼう煮 ほか3品",
+          "hidden": true,
+          "height": 89.28125,
+          "lines": 0.9997171945701356
+        },
+        {
+          "id": "sake-local-sakana-toggle",
+          "tag": "BUTTON",
+          "expanded": "false",
+          "controls": "sake-local-sakana-content",
+          "description": "いかしゅうまい・呼子いか一夜干し",
+          "hidden": true,
+          "height": 89.28125,
+          "lines": 0.9997171945701356
+        }
+      ],
+      "initialHeight": 2479,
+      "expandedHeight": 5251,
+      "purchaseProviders": [
+        "hb.afl.rakuten.co.jp",
+        "item.rakuten.co.jp",
+        "www.amazon.co.jp",
+        "shop.azumaichi.com"
+      ],
+      "checks": {
+        "hero": true,
+        "taste": true,
+        "defaultClosed": true,
+        "multipleOpen": true,
+        "keyboard": true,
+        "focus": true,
+        "noOverflow": true,
+        "contents": true,
+        "telemetry": true
+      },
+      "passed": true
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "sakeId": "kameizumi-kouiku63-hiyaoroshi-current-v1",
+      "initial": [
+        {
+          "id": "sake-specs-toggle",
+          "tag": "BUTTON",
+          "expanded": "false",
+          "controls": "sake-specs-content",
+          "description": "純米吟醸酒",
+          "hidden": true,
+          "height": 89.28125,
+          "lines": 0.9997171945701356
+        },
+        {
+          "id": "sake-purchase-toggle",
+          "tag": "BUTTON",
+          "expanded": "false",
+          "controls": "sake-purchase-content",
+          "description": "楽天の商品ページあり",
+          "hidden": true,
+          "height": 89.28125,
+          "lines": 0.9997171945701356
+        },
+        {
+          "id": "sake-sources-toggle",
+          "tag": "BUTTON",
+          "expanded": "false",
+          "controls": "sake-sources-content",
+          "description": "蔵元・参考資料を見る",
+          "hidden": true,
+          "height": 89.28125,
+          "lines": 0.9997171945701356
+        },
+        {
+          "id": "sake-pairings-toggle",
+          "tag": "BUTTON",
+          "expanded": "false",
+          "controls": "sake-pairings-content",
+          "description": "鶏の照り焼き・焼き鮭・きのこのホイル焼き ほか3品",
+          "hidden": true,
+          "height": 89.28125,
+          "lines": 0.9997171945701356
+        },
+        {
+          "id": "sake-local-sakana-toggle",
+          "tag": "BUTTON",
+          "expanded": "false",
+          "controls": "sake-local-sakana-content",
+          "description": "かつお生節・酒盗",
+          "hidden": true,
+          "height": 89.28125,
+          "lines": 0.9997171945701356
+        }
+      ],
+      "initialHeight": 2479,
+      "expandedHeight": 5004,
+      "purchaseProviders": [
+        "hb.afl.rakuten.co.jp",
+        "item.rakuten.co.jp",
+        "www.amazon.co.jp"
+      ],
+      "checks": {
+        "hero": true,
+        "taste": true,
+        "defaultClosed": true,
+        "multipleOpen": true,
+        "keyboard": true,
+        "focus": true,
+        "noOverflow": true,
+        "contents": true,
+        "telemetry": true
+      },
+      "passed": true
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "sakeId": "nogomi-tokubetsu-junmai",
+      "initial": [
+        {
+          "id": "sake-specs-toggle",
+          "tag": "BUTTON",
+          "expanded": "false",
+          "controls": "sake-specs-content",
+          "description": "特別純米酒",
+          "hidden": true,
+          "height": 89.28125,
+          "lines": 0.9997171945701356
+        },
+        {
+          "id": "sake-purchase-toggle",
+          "tag": "BUTTON",
+          "expanded": "false",
+          "controls": "sake-purchase-content",
+          "description": "楽天の商品ページあり",
+          "hidden": true,
+          "height": 89.28125,
+          "lines": 0.9997171945701356
+        },
+        {
+          "id": "sake-sources-toggle",
+          "tag": "BUTTON",
+          "expanded": "false",
+          "controls": "sake-sources-content",
+          "description": "蔵元・参考資料を見る",
+          "hidden": true,
+          "height": 89.28125,
+          "lines": 0.9997171945701356
+        },
+        {
+          "id": "sake-pairings-toggle",
+          "tag": "BUTTON",
+          "expanded": "false",
+          "controls": "sake-pairings-content",
+          "description": "塩昆布キャベツ・白菜ロール煮・筑前煮 ほか3品",
+          "hidden": true,
+          "height": 89.28125,
+          "lines": 0.9997171945701356
+        },
+        {
+          "id": "sake-local-sakana-toggle",
+          "tag": "BUTTON",
+          "expanded": "false",
+          "controls": "sake-local-sakana-content",
+          "description": "いかしゅうまい・呼子いか一夜干し",
+          "hidden": true,
+          "height": 89.28125,
+          "lines": 0.9997171945701356
+        }
+      ],
+      "initialHeight": 2479,
+      "expandedHeight": 4945,
+      "purchaseProviders": [
+        "hb.afl.rakuten.co.jp",
+        "item.rakuten.co.jp",
+        "www.amazon.co.jp"
+      ],
+      "checks": {
+        "hero": true,
+        "taste": true,
+        "defaultClosed": true,
+        "multipleOpen": true,
+        "keyboard": true,
+        "focus": true,
+        "noOverflow": true,
+        "contents": true,
+        "telemetry": true
+      },
+      "passed": true
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "sakeId": "taiheizan-tenko-junmai-daiginjo-standard",
+      "initial": [
+        {
+          "id": "sake-specs-toggle",
+          "tag": "BUTTON",
+          "expanded": "false",
+          "controls": "sake-specs-content",
+          "description": "純米大吟醸酒・精米歩合40%",
+          "hidden": true,
+          "height": 89.28125,
+          "lines": 0.9997171945701356
+        },
+        {
+          "id": "sake-purchase-toggle",
+          "tag": "BUTTON",
+          "expanded": "false",
+          "controls": "sake-purchase-content",
+          "description": "楽天の商品ページあり",
+          "hidden": true,
+          "height": 89.28125,
+          "lines": 0.9997171945701356
+        },
+        {
+          "id": "sake-sources-toggle",
+          "tag": "BUTTON",
+          "expanded": "false",
+          "controls": "sake-sources-content",
+          "description": "蔵元・参考資料を見る",
+          "hidden": true,
+          "height": 89.28125,
+          "lines": 0.9997171945701356
+        },
+        {
+          "id": "sake-pairings-toggle",
+          "tag": "BUTTON",
+          "expanded": "false",
+          "controls": "sake-pairings-content",
+          "description": "冷奴",
+          "hidden": true,
+          "height": 89.28125,
+          "lines": 0.9997171945701356
+        }
+      ],
+      "initialHeight": 2384,
+      "expandedHeight": 3926,
+      "purchaseProviders": [
+        "hb.afl.rakuten.co.jp",
+        "item.rakuten.co.jp",
+        "www.amazon.co.jp"
+      ],
+      "checks": {
+        "hero": true,
+        "taste": true,
+        "defaultClosed": true,
+        "multipleOpen": true,
+        "keyboard": true,
+        "focus": true,
+        "noOverflow": true,
+        "contents": true,
+        "telemetry": true
+      },
+      "passed": true
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "sakeId": "ishizuchi-junmai-ginjo-yamadanishiki50-v1",
+      "initial": [
+        {
+          "id": "sake-specs-toggle",
+          "tag": "BUTTON",
+          "expanded": "false",
+          "controls": "sake-specs-content",
+          "description": "純米吟醸酒",
+          "hidden": true,
+          "height": 89.28125,
+          "lines": 0.9997171945701356
+        },
+        {
+          "id": "sake-purchase-toggle",
+          "tag": "BUTTON",
+          "expanded": "false",
+          "controls": "sake-purchase-content",
+          "description": "楽天の商品ページあり",
+          "hidden": true,
+          "height": 89.28125,
+          "lines": 0.9997171945701356
+        },
+        {
+          "id": "sake-sources-toggle",
+          "tag": "BUTTON",
+          "expanded": "false",
+          "controls": "sake-sources-content",
+          "description": "蔵元・参考資料を見る",
+          "hidden": true,
+          "height": 89.28125,
+          "lines": 0.9997171945701356
+        }
+      ],
+      "initialHeight": 2293,
+      "expandedHeight": 3328,
+      "purchaseProviders": [
+        "hb.afl.rakuten.co.jp",
+        "item.rakuten.co.jp",
+        "www.amazon.co.jp"
+      ],
+      "checks": {
+        "hero": true,
+        "taste": true,
+        "defaultClosed": true,
+        "multipleOpen": true,
+        "keyboard": true,
+        "focus": true,
+        "noOverflow": true,
+        "contents": true,
+        "telemetry": true
+      },
+      "passed": true
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "sakeId": "kanhokuto-tokubetsu-junmai",
+      "initial": [
+        {
+          "id": "sake-specs-toggle",
+          "tag": "BUTTON",
+          "expanded": "false",
+          "controls": "sake-specs-content",
+          "description": "特別純米酒・精米歩合55%",
+          "hidden": true,
+          "height": 89.28125,
+          "lines": 0.9997171945701356
+        },
+        {
+          "id": "sake-purchase-toggle",
+          "tag": "BUTTON",
+          "expanded": "false",
+          "controls": "sake-purchase-content",
+          "description": "楽天の商品ページあり",
+          "hidden": true,
+          "height": 89.28125,
+          "lines": 0.9997171945701356
+        },
+        {
+          "id": "sake-sources-toggle",
+          "tag": "BUTTON",
+          "expanded": "false",
+          "controls": "sake-sources-content",
+          "description": "蔵元・参考資料を見る",
+          "hidden": true,
+          "height": 89.28125,
+          "lines": 0.9997171945701356
+        },
+        {
+          "id": "sake-pairings-toggle",
+          "tag": "BUTTON",
+          "expanded": "false",
+          "controls": "sake-pairings-content",
+          "description": "厚揚げの生姜焼き・焼き鮭・れんこんのきんぴら ほか3品",
+          "hidden": true,
+          "height": 89.28125,
+          "lines": 0.9997171945701356
+        }
+      ],
+      "initialHeight": 2335,
+      "expandedHeight": 4563,
+      "purchaseProviders": [
+        "hb.afl.rakuten.co.jp",
+        "item.rakuten.co.jp",
+        "www.amazon.co.jp"
+      ],
+      "checks": {
+        "hero": true,
+        "taste": true,
+        "defaultClosed": true,
+        "multipleOpen": true,
+        "keyboard": true,
+        "focus": true,
+        "noOverflow": true,
+        "contents": true,
+        "telemetry": true
+      },
+      "passed": true
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "sakeId": "koimari-saki",
+      "initial": [
+        {
+          "id": "sake-specs-toggle",
+          "tag": "BUTTON",
+          "expanded": "false",
+          "controls": "sake-specs-content",
+          "description": "純米吟醸酒",
+          "hidden": true,
+          "height": 89.28125,
+          "lines": 0.9997171945701356
+        },
+        {
+          "id": "sake-purchase-toggle",
+          "tag": "BUTTON",
+          "expanded": "false",
+          "controls": "sake-purchase-content",
+          "description": "楽天の商品ページあり",
+          "hidden": true,
+          "height": 89.28125,
+          "lines": 0.9997171945701356
+        },
+        {
+          "id": "sake-sources-toggle",
+          "tag": "BUTTON",
+          "expanded": "false",
+          "controls": "sake-sources-content",
+          "description": "蔵元・参考資料を見る",
+          "hidden": true,
+          "height": 89.28125,
+          "lines": 0.9997171945701356
+        },
+        {
+          "id": "sake-pairings-toggle",
+          "tag": "BUTTON",
+          "expanded": "false",
+          "controls": "sake-pairings-content",
+          "description": "厚揚げと小松菜の煮物・白身魚の昆布蒸し ほか3品",
+          "hidden": true,
+          "height": 89.28125,
+          "lines": 0.9997171945701356
+        }
+      ],
+      "initialHeight": 2362,
+      "expandedHeight": 4125,
+      "purchaseProviders": [
+        "hb.afl.rakuten.co.jp",
+        "item.rakuten.co.jp",
+        "www.amazon.co.jp"
+      ],
+      "checks": {
+        "hero": true,
+        "taste": true,
+        "defaultClosed": true,
+        "multipleOpen": true,
+        "keyboard": true,
+        "focus": true,
+        "noOverflow": true,
+        "contents": true,
+        "telemetry": true
+      },
+      "passed": true
+    }
+  ],
+  "flows": [
+    {
+      "engine": "webkit",
+      "width": 320,
+      "foodBack": true,
+      "nightBack": true,
+      "searchBack": true,
+      "favorite": true,
+      "purchaseClick": true,
+      "affiliateTracking": true,
+      "share": "existing share unit tests",
+      "reducedMotion": true,
+      "passed": true
+    },
+    {
+      "engine": "webkit",
+      "width": 360,
+      "foodBack": true,
+      "nightBack": true,
+      "searchBack": true,
+      "favorite": true,
+      "purchaseClick": true,
+      "affiliateTracking": true,
+      "share": "existing share unit tests",
+      "reducedMotion": true,
+      "passed": true
+    },
+    {
+      "engine": "webkit",
+      "width": 375,
+      "foodBack": true,
+      "nightBack": true,
+      "searchBack": true,
+      "favorite": true,
+      "purchaseClick": true,
+      "affiliateTracking": true,
+      "share": "existing share unit tests",
+      "reducedMotion": true,
+      "passed": true
+    },
+    {
+      "engine": "webkit",
+      "width": 390,
+      "foodBack": true,
+      "nightBack": true,
+      "searchBack": true,
+      "favorite": true,
+      "purchaseClick": true,
+      "affiliateTracking": true,
+      "share": "existing share unit tests",
+      "reducedMotion": true,
+      "passed": true
+    },
+    {
+      "engine": "webkit",
+      "width": 430,
+      "foodBack": true,
+      "nightBack": true,
+      "searchBack": true,
+      "favorite": true,
+      "purchaseClick": true,
+      "affiliateTracking": true,
+      "share": "existing share unit tests",
+      "reducedMotion": true,
+      "passed": true
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "foodBack": true,
+      "nightBack": true,
+      "searchBack": true,
+      "favorite": true,
+      "purchaseClick": true,
+      "affiliateTracking": true,
+      "share": "clipboard tested",
+      "reducedMotion": true,
+      "passed": true
+    }
+  ],
+  "diagnostics": [
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "path": "/",
+      "resourceType": "fetch",
+      "failure": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "path": "/search",
+      "resourceType": "fetch",
+      "failure": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "path": "/ochoko",
+      "resourceType": "fetch",
+      "failure": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "path": "/nights/ordinary",
+      "resourceType": "fetch",
+      "failure": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "path": "/nights/dinner",
+      "resourceType": "fetch",
+      "failure": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "path": "/nights/after-work",
+      "resourceType": "fetch",
+      "failure": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "path": "/food/item-13w7k4b",
+      "resourceType": "fetch",
+      "failure": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "path": "/food/item-1abl20d",
+      "resourceType": "fetch",
+      "failure": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "path": "/food/item-yxmzsn",
+      "resourceType": "fetch",
+      "failure": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "path": "/about",
+      "resourceType": "fetch",
+      "failure": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "path": "/about/advertising",
+      "resourceType": "fetch",
+      "failure": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "path": "/",
+      "resourceType": "fetch",
+      "failure": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "path": "/search",
+      "resourceType": "fetch",
+      "failure": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "path": "/ochoko",
+      "resourceType": "fetch",
+      "failure": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "path": "/__next.__PAGE__.txt",
+      "resourceType": "fetch",
+      "failure": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "path": "/nights/together",
+      "resourceType": "fetch",
+      "failure": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "path": "/nights/ordinary",
+      "resourceType": "fetch",
+      "failure": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "path": "/nights/dinner",
+      "resourceType": "fetch",
+      "failure": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "path": "/nights/ordinary/__next.nights.$d$slug.__PAGE__.txt",
+      "resourceType": "fetch",
+      "failure": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "path": "/food/item-1fe5ig4",
+      "resourceType": "fetch",
+      "failure": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "path": "/food/item-5ngw57",
+      "resourceType": "fetch",
+      "failure": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "path": "/food/item-w147vq",
+      "resourceType": "fetch",
+      "failure": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "path": "/about",
+      "resourceType": "fetch",
+      "failure": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "path": "/about/advertising",
+      "resourceType": "fetch",
+      "failure": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "path": "/",
+      "resourceType": "fetch",
+      "failure": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "path": "/search",
+      "resourceType": "fetch",
+      "failure": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "path": "/ochoko",
+      "resourceType": "fetch",
+      "failure": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "path": "/nights/after-work",
+      "resourceType": "fetch",
+      "failure": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "path": "/nights/autumn",
+      "resourceType": "fetch",
+      "failure": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "path": "/nights/dinner",
+      "resourceType": "fetch",
+      "failure": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "path": "/food/item-1i89m16",
+      "resourceType": "fetch",
+      "failure": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "path": "/food/item-avnlz1",
+      "resourceType": "fetch",
+      "failure": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "path": "/food/item-1akkb7y",
+      "resourceType": "fetch",
+      "failure": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "path": "/food/item-avnlz1/__next._tree.txt",
+      "resourceType": "fetch",
+      "failure": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "path": "/about",
+      "resourceType": "fetch",
+      "failure": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "path": "/about/advertising",
+      "resourceType": "fetch",
+      "failure": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "path": "/",
+      "resourceType": "fetch",
+      "failure": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "path": "/search",
+      "resourceType": "fetch",
+      "failure": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "path": "/ochoko",
+      "resourceType": "fetch",
+      "failure": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "path": "/search/__next._tree.txt",
+      "resourceType": "fetch",
+      "failure": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "path": "/nights/after-work",
+      "resourceType": "fetch",
+      "failure": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "path": "/nights/treat",
+      "resourceType": "fetch",
+      "failure": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "path": "/nights/ordinary",
+      "resourceType": "fetch",
+      "failure": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "path": "/food/item-1g4ik4y",
+      "resourceType": "fetch",
+      "failure": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "path": "/food/item-1b5b3zo",
+      "resourceType": "fetch",
+      "failure": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "path": "/food/item-jjeu9j",
+      "resourceType": "fetch",
+      "failure": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "path": "/food/item-jjeu9j/__next.food.$d$slug.__PAGE__.txt",
+      "resourceType": "fetch",
+      "failure": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "path": "/about",
+      "resourceType": "fetch",
+      "failure": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "path": "/about/advertising",
+      "resourceType": "fetch",
+      "failure": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "path": "/",
+      "resourceType": "fetch",
+      "failure": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "path": "/search",
+      "resourceType": "fetch",
+      "failure": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "path": "/ochoko",
+      "resourceType": "fetch",
+      "failure": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "path": "/ochoko/__next._tree.txt",
+      "resourceType": "fetch",
+      "failure": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "path": "/ochoko/__next.ochoko.__PAGE__.txt",
+      "resourceType": "fetch",
+      "failure": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "path": "/nights/ordinary",
+      "resourceType": "fetch",
+      "failure": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "path": "/food/item-1gwo1eu",
+      "resourceType": "fetch",
+      "failure": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "path": "/",
+      "resourceType": "fetch",
+      "failure": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "path": "/search",
+      "resourceType": "fetch",
+      "failure": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "path": "/ochoko",
+      "resourceType": "fetch",
+      "failure": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "path": "/about",
+      "resourceType": "fetch",
+      "failure": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "path": "/about/advertising",
+      "resourceType": "fetch",
+      "failure": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "path": "/nights/quiet",
+      "resourceType": "fetch",
+      "failure": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "path": "/",
+      "resourceType": "fetch",
+      "failure": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "path": "/search",
+      "resourceType": "fetch",
+      "failure": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "path": "/ochoko",
+      "resourceType": "fetch",
+      "failure": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "path": "/nights/together",
+      "resourceType": "fetch",
+      "failure": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "path": "/nights/quiet",
+      "resourceType": "fetch",
+      "failure": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "path": "/nights/ordinary",
+      "resourceType": "fetch",
+      "failure": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "path": "/about",
+      "resourceType": "fetch",
+      "failure": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "path": "/about/advertising",
+      "resourceType": "fetch",
+      "failure": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "path": "/food/item-1yvdob9",
+      "resourceType": "fetch",
+      "failure": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "path": "/food/item-avnlz1",
+      "resourceType": "fetch",
+      "failure": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "path": "/food/item-z77cor",
+      "resourceType": "fetch",
+      "failure": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "path": "/food/item-15hf1h6",
+      "resourceType": "fetch",
+      "failure": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "path": "/",
+      "resourceType": "fetch",
+      "failure": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "path": "/search",
+      "resourceType": "fetch",
+      "failure": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "path": "/ochoko",
+      "resourceType": "fetch",
+      "failure": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "path": "/__next._index.txt",
+      "resourceType": "fetch",
+      "failure": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "path": "/ochoko/__next.ochoko.__PAGE__.txt",
+      "resourceType": "fetch",
+      "failure": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "path": "/nights/together",
+      "resourceType": "fetch",
+      "failure": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "path": "/food/item-oobjpp",
+      "resourceType": "fetch",
+      "failure": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "path": "/food/item-10twdb",
+      "resourceType": "fetch",
+      "failure": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "path": "/food/item-jjeu9j",
+      "resourceType": "fetch",
+      "failure": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "path": "/",
+      "resourceType": "fetch",
+      "failure": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "path": "/search",
+      "resourceType": "fetch",
+      "failure": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "path": "/ochoko",
+      "resourceType": "fetch",
+      "failure": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "path": "/__next._index.txt",
+      "resourceType": "fetch",
+      "failure": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "path": "/ochoko/__next.ochoko.__PAGE__.txt",
+      "resourceType": "fetch",
+      "failure": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "path": "/food/item-13w7k4b",
+      "resourceType": "fetch",
+      "failure": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "path": "/food/item-yxmzsn",
+      "resourceType": "fetch",
+      "failure": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "path": "/food/item-1abl20d",
+      "resourceType": "fetch",
+      "failure": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "path": "/food/item-1s2snsf",
+      "resourceType": "fetch",
+      "failure": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "path": "/sake/okunomatsu-jg-lineup-v1",
+      "resourceType": "fetch",
+      "failure": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "path": "/sake/gunmaizumi-yamahai-junmai",
+      "resourceType": "fetch",
+      "failure": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "path": "/sake/warakugoson-junmai-ginjo-standard",
+      "resourceType": "fetch",
+      "failure": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "path": "/nights/ordinary",
+      "resourceType": "fetch",
+      "failure": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "path": "/nights/ordinary",
+      "resourceType": "fetch",
+      "failure": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "path": "/nights/dinner",
+      "resourceType": "fetch",
+      "failure": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "path": "/nights/after-work",
+      "resourceType": "fetch",
+      "failure": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "path": "/about",
+      "resourceType": "fetch",
+      "failure": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "path": "/about/advertising",
+      "resourceType": "fetch",
+      "failure": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "path": "/",
+      "resourceType": "fetch",
+      "failure": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "path": "/search",
+      "resourceType": "fetch",
+      "failure": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "path": "/ochoko",
+      "resourceType": "fetch",
+      "failure": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "path": "/sake/nogomi-tokubetsu-junmai",
+      "resourceType": "fetch",
+      "failure": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "path": "/about",
+      "resourceType": "fetch",
+      "failure": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "path": "/about/advertising",
+      "resourceType": "fetch",
+      "failure": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "path": "/sake/shichida-junmai",
+      "resourceType": "fetch",
+      "failure": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "path": "/sake/shichida-junmai/__next.sake.$d$slug.__PAGE__.txt",
+      "resourceType": "fetch",
+      "failure": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "path": "/",
+      "resourceType": "fetch",
+      "failure": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "path": "/search",
+      "resourceType": "fetch",
+      "failure": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "path": "/discover",
+      "resourceType": "fetch",
+      "failure": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "path": "/ochoko",
+      "resourceType": "fetch",
+      "failure": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "path": "/discover/__next._tree.txt",
+      "resourceType": "fetch",
+      "failure": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "path": "/about",
+      "resourceType": "fetch",
+      "failure": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "path": "/about/advertising",
+      "resourceType": "fetch",
+      "failure": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "path": "/about/advertising/__next._tree.txt",
+      "resourceType": "fetch",
+      "failure": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "path": "/sake/shichida-junmai",
+      "resourceType": "fetch",
+      "failure": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "path": "/",
+      "resourceType": "fetch",
+      "failure": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "path": "/search",
+      "resourceType": "fetch",
+      "failure": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "path": "/ochoko",
+      "resourceType": "fetch",
+      "failure": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "path": "/__next._index.txt",
+      "resourceType": "fetch",
+      "failure": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "path": "/about",
+      "resourceType": "fetch",
+      "failure": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "path": "/nights/ordinary",
+      "resourceType": "fetch",
+      "failure": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "path": "/about/advertising",
+      "resourceType": "fetch",
+      "failure": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "path": "/nights/dinner",
+      "resourceType": "fetch",
+      "failure": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "path": "/about/advertising/__next._tree.txt",
+      "resourceType": "fetch",
+      "failure": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "path": "/nights/dinner/__next._tree.txt",
+      "resourceType": "fetch",
+      "failure": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "path": "/nights/after-work",
+      "resourceType": "fetch",
+      "failure": "net::ERR_ABORTED"
+    }
+  ],
+  "knownWarnings": [
+    {
+      "engine": "webkit",
+      "width": 430,
+      "message": "/127.0.0.1:3197/sake/nogomi-tokubetsu-junmai/__next.sake.$d$slug.__PAGE__.txt?_rsc=Qllbn1tLghsTYDhr due to access control checks."
+    },
+    {
+      "engine": "webkit",
+      "width": 430,
+      "message": "/127.0.0.1:3197/sake/koimari-saki/__next.sake.$d$slug.__PAGE__.txt?_rsc=Qllbn1tLghsTYDhr due to access control checks."
+    }
+  ],
+  "blockingErrors": [],
+  "realIphone": false,
+  "realAndroid": false,
+  "passed": true
+}

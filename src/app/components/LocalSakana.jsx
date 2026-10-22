@@ -3,6 +3,8 @@
 import {useEffect,useRef,useState} from 'react';
 import {trackEvent} from '../../data/telemetry.js';
 import {OchokoIcon} from './InterfaceIcons.jsx';
+import DetailAccordion from './DetailAccordion.jsx';
+import {namesSummary} from '../../data/detailDisclosure.js';
 
 function SakanaCard({card,sakeId}){
  const ref=useRef(null),seen=useRef(false);
@@ -40,9 +42,11 @@ function SakanaCard({card,sakeId}){
 
 export default function LocalSakana({cards,sakeId}){
  if(!cards.length)return null;
- return <section className="detail-band local-sakana" aria-labelledby="local-sakana-title">
-  <h2 id="local-sakana-title">この土地の肴</h2><p className="local-sakana-lead">同じ土地から、もう一品。</p>
+ return <section className="detail-band local-sakana" aria-labelledby="sake-local-sakana-toggle">
+  <DetailAccordion id="sake-local-sakana" title="この土地の肴" summary={namesSummary(cards)} sakeId={sakeId} section="local_sakana">
+  <p className="local-sakana-lead">同じ土地から、もう一品。</p>
   <p className="local-sakana-note">土地の食文化と、お酒の味わいから考えた宵の一献の提案です。購入リンクには広告が含まれます。</p>
   <div className="local-sakana-grid">{cards.map(card=><SakanaCard key={card.id} card={card} sakeId={sakeId}/>)}</div>
+  </DetailAccordion>
  </section>;
 }

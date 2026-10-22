@@ -1,0 +1,3395 @@
+{
+  "checkedAt": "2026-10-22T14:05:41.883Z",
+  "active": 484,
+  "rows": [
+    {
+      "sakeId": "nogomi-tokubetsu-junmai",
+      "sections": 5,
+      "links": 25,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "shichida-junmai",
+      "sections": 5,
+      "links": 24,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "koimari-saki",
+      "sections": 4,
+      "links": 20,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "azumaichi-junmai-ginjo",
+      "sections": 5,
+      "links": 25,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "nabeshima-junmai-ginjo",
+      "sections": 5,
+      "links": 22,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "amabuki-flower-yeast",
+      "sections": 5,
+      "links": 25,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "azumacho-junmai",
+      "sections": 5,
+      "links": 24,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "niwa-no-uguisu-junmai-ginjo",
+      "sections": 4,
+      "links": 20,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "miinokotobuki-junmai-ginjo",
+      "sections": 4,
+      "links": 20,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "chiebijin-junmai",
+      "sections": 4,
+      "links": 21,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "reizan-junmai",
+      "sections": 4,
+      "links": 22,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "sasshu-masamune-junmai",
+      "sections": 4,
+      "links": 20,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "amaneko-white-koji",
+      "sections": 5,
+      "links": 22,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "denshu-tokubetsu-junmai",
+      "sections": 4,
+      "links": 21,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "mutsu-hassen-red-label",
+      "sections": 4,
+      "links": 21,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "akabu-junmai",
+      "sections": 4,
+      "links": 20,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "nanbu-bijin-tokubetsu-junmai",
+      "sections": 4,
+      "links": 22,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "yamamoto-pure-black",
+      "sections": 4,
+      "links": 19,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "yuki-no-bosha-junmai-ginjo",
+      "sections": 5,
+      "links": 21,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "ippaku-suissei-tokubetsu-junmai",
+      "sections": 5,
+      "links": 22,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "sharaku-junmai-ginjo",
+      "sections": 4,
+      "links": 22,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "aizu-chujo-junmai",
+      "sections": 4,
+      "links": 21,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "hakurakusei-tokubetsu-junmai",
+      "sections": 4,
+      "links": 20,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "kenkonichi-tokubetsu-junmai",
+      "sections": 4,
+      "links": 19,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "dewazakura-oka-ginjo",
+      "sections": 4,
+      "links": 20,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "hakkaisan-tokubetsu-honjozo",
+      "sections": 5,
+      "links": 23,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "kubota-senju",
+      "sections": 5,
+      "links": 23,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "koshino-kanbai-white-label",
+      "sections": 4,
+      "links": 21,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "shimeharitsuru-tsuki",
+      "sections": 4,
+      "links": 19,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "murayu-kuro",
+      "sections": 4,
+      "links": 19,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "oze-no-yukidoke-junmai-daiginjo",
+      "sections": 4,
+      "links": 20,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "gokeiji-junmai-ginjo",
+      "sections": 4,
+      "links": 19,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "masumi-karakuchi-kiippon",
+      "sections": 4,
+      "links": 21,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "yoakemae-tatsuno-junmai",
+      "sections": 4,
+      "links": 19,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "born-gold",
+      "sections": 5,
+      "links": 23,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "jozan-junmai",
+      "sections": 5,
+      "links": 24,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "tedorigawa-yamahai-junmai",
+      "sections": 5,
+      "links": 23,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "kikuhime-yamahai-junmai",
+      "sections": 5,
+      "links": 24,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "tengumai-yamahai-junmai",
+      "sections": 4,
+      "links": 20,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "masuizumi-junmai-ginjo",
+      "sections": 4,
+      "links": 20,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "kachikoma-junmai",
+      "sections": 4,
+      "links": 20,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "kamoshibito-kuheiji-eau-du-desir",
+      "sections": 4,
+      "links": 22,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "gikyo-tokubetsu-junmai",
+      "sections": 4,
+      "links": 19,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "houraisen-wa-junmai-ginjo",
+      "sections": 4,
+      "links": 21,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "zaku-miyabi-no-tomo",
+      "sections": 4,
+      "links": 20,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "kikusui-funaguchi-honjozo-nama-genshu-standard",
+      "sections": 5,
+      "links": 25,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "iso-jiman-honjozo",
+      "sections": 4,
+      "links": 20,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "kaiun-tokubetsu-junmai",
+      "sections": 4,
+      "links": 20,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "umenoyado-junmai",
+      "sections": 4,
+      "links": 20,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "tamanohikari-junmai-ginjo-shukon-standard",
+      "sections": 4,
+      "links": 21,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "kid-junmai-ginjo",
+      "sections": 4,
+      "links": 21,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "ugonotsuki-junmai-ginjo",
+      "sections": 4,
+      "links": 23,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "kamo-kinshu-tokubetsu-junmai",
+      "sections": 4,
+      "links": 19,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "dassai-45",
+      "sections": 4,
+      "links": 21,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "ohmine-three-grain",
+      "sections": 4,
+      "links": 22,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "suigei-tokubetsu-junmai",
+      "sections": 5,
+      "links": 27,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "hirotogawa-tokubetsu-junmai",
+      "sections": 4,
+      "links": 19,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "tenbi-junmai-ginjo",
+      "sections": 4,
+      "links": 20,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "tsuchida-kimoto",
+      "sections": 4,
+      "links": 20,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "nichinichi-yamada-nishiki",
+      "sections": 4,
+      "links": 22,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "ibi-white",
+      "sections": 4,
+      "links": 21,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "kachikoma-modern-premium",
+      "sections": 4,
+      "links": 20,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "juyondai-modern-premium",
+      "sections": 4,
+      "links": 21,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "dassai-23",
+      "sections": 4,
+      "links": 22,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "otokoyama-kimoto-junmai",
+      "sections": 5,
+      "links": 24,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "kokushi-muso-junmai",
+      "sections": 5,
+      "links": 26,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "fukutsukasa-junmai",
+      "sections": 5,
+      "links": 23,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "kita-no-katsu-taikai",
+      "sections": 5,
+      "links": 22,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "gohou-junmai",
+      "sections": 5,
+      "links": 25,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "hato-masamune-tw2kq6",
+      "sections": 4,
+      "links": 23,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "momokawa-tw2kq6",
+      "sections": 4,
+      "links": 21,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "asahibaki-iaxjez",
+      "sections": 4,
+      "links": 21,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "kiku-no-tsukasa-iaxjez",
+      "sections": 4,
+      "links": 21,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "hamachidori-iaxjez",
+      "sections": 4,
+      "links": 19,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "tsuki-no-wa-iaxjez",
+      "sections": 4,
+      "links": 22,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "atago-no-matsu-i3yhce",
+      "sections": 4,
+      "links": 20,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "urakasumi-i3yhce",
+      "sections": 5,
+      "links": 25,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "suminoe-i3yhce",
+      "sections": 5,
+      "links": 25,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "miyakanbai-i3yhce",
+      "sections": 4,
+      "links": 20,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "mansaku-no-hana-o23n5c",
+      "sections": 5,
+      "links": 24,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "kudoki-jozu-i9diua",
+      "sections": 4,
+      "links": 20,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "jokigen-i9diua",
+      "sections": 4,
+      "links": 21,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "yamagata-masamune-i9diua",
+      "sections": 4,
+      "links": 22,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "hatsumago-i9diua",
+      "sections": 4,
+      "links": 23,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "daishichi-junmai-kimoto-standard",
+      "sections": 4,
+      "links": 20,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "wataribune-pwohce",
+      "sections": 4,
+      "links": 20,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "daina-kjnkdk",
+      "sections": 4,
+      "links": 20,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "shichisui-kjnkdk",
+      "sections": 4,
+      "links": 21,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "mizubasho-p7oucs",
+      "sections": 4,
+      "links": 21,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "ruka-p7oucs",
+      "sections": 4,
+      "links": 20,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "tanigawadake-p7oucs",
+      "sections": 4,
+      "links": 20,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "jozen-mizunogotoshi-junmai-ginjo-standard",
+      "sections": 5,
+      "links": 25,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "echigozakura-daiginjo-standard",
+      "sections": 5,
+      "links": 23,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "kinoene-gg3q4p",
+      "sections": 4,
+      "links": 21,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "taiheizan-tenko-junmai-daiginjo-standard",
+      "sections": 4,
+      "links": 15,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "kidoizumi-gg3q4p",
+      "sections": 4,
+      "links": 20,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "okunokami-kflfjg",
+      "sections": 4,
+      "links": 21,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "kinkon-kflfjg",
+      "sections": 4,
+      "links": 22,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "sawanoi-kflfjg",
+      "sections": 4,
+      "links": 21,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "kasen-kflfjg",
+      "sections": 4,
+      "links": 21,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "tamajiman-kflfjg",
+      "sections": 4,
+      "links": 21,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "izumibashi-nz2hmwijh",
+      "sections": 4,
+      "links": 21,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "zarusou-hourai-nz2hmwijh",
+      "sections": 4,
+      "links": 21,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "matsu-midori-nz2hmwijh",
+      "sections": 4,
+      "links": 20,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "hakoneyama-nz2hmwijh",
+      "sections": 4,
+      "links": 20,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "tateyama-i4si9d",
+      "sections": 4,
+      "links": 20,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "ginban-chotokusen-komenoshin-standard-v1",
+      "sections": 5,
+      "links": 24,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "jokigen-ishikawa-nozijh",
+      "sections": 5,
+      "links": 24,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "kagatobi-nozijh",
+      "sections": 5,
+      "links": 26,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "ippongi-o0ffit",
+      "sections": 5,
+      "links": 25,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "hanagaki-o0ffit",
+      "sections": 4,
+      "links": 20,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "mushohai-junmai-ginjo-standard",
+      "sections": 4,
+      "links": 22,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "shunnoten-i9dko8",
+      "sections": 4,
+      "links": 21,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "kizakura-yamahai-tokubetsu-junmai-yamadanishiki-standard",
+      "sections": 4,
+      "links": 20,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "kai-no-kaiun-i9dko8",
+      "sections": 4,
+      "links": 21,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "taikan-i9dko8",
+      "sections": 4,
+      "links": 22,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "hyakushun-junmai-josen-standard",
+      "sections": 4,
+      "links": 20,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "michisakari-ia8tng",
+      "sections": 4,
+      "links": 20,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "nito-j6jnol",
+      "sections": 4,
+      "links": 20,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "tenkanishiki-fexsst",
+      "sections": 4,
+      "links": 21,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "matsu-no-tsukasa-lvvrsw",
+      "sections": 4,
+      "links": 20,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "kirakucho-lvvrsw",
+      "sections": 4,
+      "links": 20,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "eikun-kyoto-fjg",
+      "sections": 4,
+      "links": 23,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "tsuki-no-katsura-fjg",
+      "sections": 4,
+      "links": 20,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "goshun-hlztnu",
+      "sections": 4,
+      "links": 20,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "katano-sakura-hlztnu",
+      "sections": 4,
+      "links": 20,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "amanosake-hlztnu",
+      "sections": 4,
+      "links": 21,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "kenbishi-g39ip7",
+      "sections": 4,
+      "links": 21,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "kiku-masamune-g39ip7",
+      "sections": 4,
+      "links": 21,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "hakutsuru-g39ip7",
+      "sections": 4,
+      "links": 21,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "harushika-hmwprj",
+      "sections": 4,
+      "links": 20,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "kuroushi-gp8l70i9d",
+      "sections": 4,
+      "links": 20,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "minakata-gp8l70i9d",
+      "sections": 4,
+      "links": 21,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "chiyomusubi-uzpgk6",
+      "sections": 4,
+      "links": 22,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "suwaizumi-uzpgk6",
+      "sections": 4,
+      "links": 20,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "kagatsuru-junmai-josen-standard",
+      "sections": 5,
+      "links": 22,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "gassan-id2kl5",
+      "sections": 4,
+      "links": 20,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "sanzen-iapi9d",
+      "sections": 4,
+      "links": 22,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "kamikokoro-iapi9d",
+      "sections": 4,
+      "links": 21,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "fukucho-io3id2",
+      "sections": 4,
+      "links": 22,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "harada-i9dgkj",
+      "sections": 4,
+      "links": 19,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "narutotai-iwjid2",
+      "sections": 4,
+      "links": 20,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "gotenzakura-iwjid2",
+      "sections": 4,
+      "links": 19,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "kinryo-uc9ijh",
+      "sections": 4,
+      "links": 22,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "tosatsuru-honzo-karakuchi-standard",
+      "sections": 5,
+      "links": 25,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "sanuki-cloudy-uc9ijh",
+      "sections": 4,
+      "links": 21,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "yamatan-masamune-j6jhwb",
+      "sections": 4,
+      "links": 20,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "umenishiki-j6jhwb",
+      "sections": 4,
+      "links": 19,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "kyohina-j6jhwb",
+      "sections": 4,
+      "links": 22,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "sukigokoro-j6jhwb",
+      "sections": 4,
+      "links": 21,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "bijofu-ul4nol",
+      "sections": 5,
+      "links": 23,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "tosa-shiragiku-ul4nol",
+      "sections": 5,
+      "links": 23,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "shigemasu-o0fiap",
+      "sections": 4,
+      "links": 21,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "asahigiku-o0fiap",
+      "sections": 4,
+      "links": 20,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "kinokawa-tividq",
+      "sections": 4,
+      "links": 22,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "koro-mfekdo",
+      "sections": 4,
+      "links": 20,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "zuiyo-mfekdo",
+      "sections": 4,
+      "links": 21,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "tsujun-semi-junmai-ginjo-standard",
+      "sections": 4,
+      "links": 21,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "nishinoseki-hlzg7a",
+      "sections": 4,
+      "links": 21,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "wakabotan-hlzg7a",
+      "sections": 4,
+      "links": 21,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "yatsushika-hlzg7a",
+      "sections": 4,
+      "links": 22,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "senbazuru-hlzg7a",
+      "sections": 4,
+      "links": 20,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "sentoku-i3yidq",
+      "sections": 4,
+      "links": 20,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "ranman-junmai-managudako-standard",
+      "sections": 5,
+      "links": 26,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "ayanishiki-i3yidq",
+      "sections": 4,
+      "links": 21,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "hanakagura-i3yidq",
+      "sections": 4,
+      "links": 21,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "tenbu-vb3g28id2",
+      "sections": 4,
+      "links": 21,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "satsumaji-vb3g28id2",
+      "sections": 4,
+      "links": 21,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "tenbu-junmai-daiginjo",
+      "sections": 4,
+      "links": 21,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "taisetsunokura-junmai-standard",
+      "sections": 5,
+      "links": 22,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "denshu-tokubetsu-junmai-1",
+      "sections": 4,
+      "links": 21,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "houhai-junmai-ginjo-3",
+      "sections": 4,
+      "links": 20,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "kamotsuru-chotokusem-tokuto-tokubetsu-honjozo",
+      "sections": 4,
+      "links": 20,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "hideyoshi-junmai-standard",
+      "sections": 5,
+      "links": 26,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "asahibaki-iaxjez-3",
+      "sections": 4,
+      "links": 21,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "hakurakusei-tokubetsu-junmai-1",
+      "sections": 5,
+      "links": 22,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "aramasa-junmai-1",
+      "sections": 5,
+      "links": 24,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "hiroki-tokubetsu-junmai-1",
+      "sections": 4,
+      "links": 19,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "ichinokura-tokubetsu-junmai-karakuchi",
+      "sections": 5,
+      "links": 25,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "denyu-tokubetsu-junmai-standard",
+      "sections": 5,
+      "links": 22,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "shinkame-hdomtl-3",
+      "sections": 4,
+      "links": 21,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "kikko-hanabishi-hdomtl-4",
+      "sections": 4,
+      "links": 21,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "kinoene-gg3q4p-2",
+      "sections": 4,
+      "links": 22,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "kinkon-kflfjg-2",
+      "sections": 4,
+      "links": 22,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "kasen-kflfjg-4",
+      "sections": 4,
+      "links": 21,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "hakkaisan-tokubetsu-honjozo-1",
+      "sections": 4,
+      "links": 21,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "kubota-senju-2",
+      "sections": 4,
+      "links": 22,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "sanshoraku-junmai-standard",
+      "sections": 5,
+      "links": 23,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "kachikoma-junmai-3",
+      "sections": 4,
+      "links": 20,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "maboroshi-no-taki-junmai-ginjo-standard",
+      "sections": 5,
+      "links": 25,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "tengumai-yamahai-junmai-3",
+      "sections": 5,
+      "links": 25,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "jokigen-ishikawa-nozijh-4",
+      "sections": 5,
+      "links": 24,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "kokuryu-junmai-ginjo-1",
+      "sections": 5,
+      "links": 22,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "born-gold-2",
+      "sections": 5,
+      "links": 23,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "ippongi-o0ffit-4",
+      "sections": 5,
+      "links": 23,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "hanagaki-o0ffit-5",
+      "sections": 4,
+      "links": 19,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "shichiken-i9dko8-1",
+      "sections": 4,
+      "links": 20,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "shunnoten-i9dko8-2",
+      "sections": 4,
+      "links": 21,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "tanizakura-i9dko8-3",
+      "sections": 4,
+      "links": 20,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "masumi-karakuchi-kiippon-1",
+      "sections": 4,
+      "links": 21,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "kawanakajima-genmai-junmai-ginjo-4",
+      "sections": 4,
+      "links": 20,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "kunizakari-handago-junmai-ginjo-1801",
+      "sections": 4,
+      "links": 16,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "kaiun-tokubetsu-junmai-2",
+      "sections": 4,
+      "links": 20,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "eikun-junmai-ginjo-4",
+      "sections": 4,
+      "links": 20,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "kamoshibito-kuheiji-eau-du-desir-1",
+      "sections": 4,
+      "links": 22,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "gokyo-junmai-standard",
+      "sections": 4,
+      "links": 21,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "zaku-miyabi-no-tomo-2",
+      "sections": 4,
+      "links": 21,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "furosen-lvvrsw-1",
+      "sections": 4,
+      "links": 20,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "shichihonyari-lvvrsw-2",
+      "sections": 4,
+      "links": 20,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "kirakucho-lvvrsw-4",
+      "sections": 4,
+      "links": 20,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "sawaya-matsumoto-shuhari-1",
+      "sections": 4,
+      "links": 20,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "nichinichi-yamada-nishiki-3",
+      "sections": 4,
+      "links": 22,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "goshun-hlztnu-2",
+      "sections": 4,
+      "links": 19,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "okuharima-yamahai-junmai-1",
+      "sections": 4,
+      "links": 19,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "sensuke-junmai-ginjo-3",
+      "sections": 4,
+      "links": 20,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "suishin-inaho-junmai-ginjo-standard",
+      "sections": 4,
+      "links": 21,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "umenoyado-junmai-3",
+      "sections": 4,
+      "links": 21,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "shirayuki-josen-junmai-standard",
+      "sections": 4,
+      "links": 16,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "kid-junmai-ginjo-1",
+      "sections": 4,
+      "links": 22,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "kurumazaka-gp8l70i9d-3",
+      "sections": 4,
+      "links": 20,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "chiyomusubi-uzpgk6-3",
+      "sections": 4,
+      "links": 20,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "takaisami-uzpgk6-4",
+      "sections": 4,
+      "links": 21,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "rihaku-id2kl5-2",
+      "sections": 4,
+      "links": 21,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "sanzen-iapi9d-1",
+      "sections": 4,
+      "links": 20,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "taiten-shiragiku-iapi9d-5",
+      "sections": 4,
+      "links": 21,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "ugonotsuki-junmai-ginjo-1",
+      "sections": 4,
+      "links": 22,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "kamo-kinshu-tokubetsu-junmai-2",
+      "sections": 4,
+      "links": 21,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "fukucho-io3id2-4",
+      "sections": 4,
+      "links": 22,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "dassai-45-1",
+      "sections": 4,
+      "links": 19,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "nihonsakari-souhana-junmai-ginjo-standard",
+      "sections": 4,
+      "links": 17,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "kinryo-uc9ijh-3",
+      "sections": 4,
+      "links": 21,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "ayakiku-uc9ijh-4",
+      "sections": 4,
+      "links": 20,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "ishizuchi-junmai-ginjo-1",
+      "sections": 4,
+      "links": 22,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "yamatan-masamune-j6jhwb-2",
+      "sections": 4,
+      "links": 21,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "kyohina-j6jhwb-5",
+      "sections": 4,
+      "links": 22,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "bijofu-ul4nol-3",
+      "sections": 4,
+      "links": 20,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "miinokotobuki-junmai-ginjo-4",
+      "sections": 4,
+      "links": 20,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "nogomi-tokubetsu-junmai-1",
+      "sections": 5,
+      "links": 22,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "yokoyama-tividq-2",
+      "sections": 4,
+      "links": 20,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "sawanotsuru-junmai-yamadanishiki-standard",
+      "sections": 4,
+      "links": 21,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "gazan-junmai-daiginjo-standard",
+      "sections": 4,
+      "links": 20,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "okunomatsu-tokubetsu-junmai-standard",
+      "sections": 4,
+      "links": 21,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "otokoyama-fukkoshu",
+      "sections": 4,
+      "links": 20,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "tatenokawa-seiryu",
+      "sections": 4,
+      "links": 22,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "tatenokawa-kyuryu",
+      "sections": 4,
+      "links": 20,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "niida-shizenshu-junmai-genshu",
+      "sections": 4,
+      "links": 21,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "gunmaizumi-yamahai-junmai",
+      "sections": 4,
+      "links": 21,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "harushika-chokarakuchi-junmai",
+      "sections": 4,
+      "links": 21,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "kinkon-juemon-junmai-muroka-genshu",
+      "sections": 4,
+      "links": 22,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "ohyama-tokubetsu-junmai-tomizu-standard",
+      "sections": 4,
+      "links": 20,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "warakugoson-junmai-ginjo-standard",
+      "sections": 5,
+      "links": 25,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "kanhokuto-tokubetsu-junmai",
+      "sections": 4,
+      "links": 25,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "hiraizumi-yamahai-tokubetsu-junmai-v1",
+      "sections": 5,
+      "links": 26,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "hiraizumi-jukusei-yamahai-junmai-v1",
+      "sections": 5,
+      "links": 24,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "morinokura-junmai-v1",
+      "sections": 4,
+      "links": 21,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "komagura-haruka-gonen-junmai-koshu-v1",
+      "sections": 4,
+      "links": 21,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "kinteki-junmai-ginjo-v1",
+      "sections": 5,
+      "links": 25,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "chikumanishiki-karakuchi-tokubetsu-junmai-v1",
+      "sections": 4,
+      "links": 22,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "ishizuchi-junmai-ginjo-yamadanishiki50-v1",
+      "sections": 3,
+      "links": 14,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "chitosetsuru-junmai-ginjo-kitashizuku-v1",
+      "sections": 3,
+      "links": 15,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "sawaya-matsumoto-shuhari-gohyakumangoku-v1",
+      "sections": 3,
+      "links": 16,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "tenbu-junmai-v1",
+      "sections": 4,
+      "links": 21,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "ganki-hitotsubi-junmai-v1",
+      "sections": 3,
+      "links": 14,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "gakki-masamune-honjozo-nakadori-v1",
+      "sections": 4,
+      "links": 16,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "shizengo-tokubetsu-junmai-v1",
+      "sections": 4,
+      "links": 20,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "houhai-tokubetsu-junmai-v1",
+      "sections": 4,
+      "links": 20,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "nito-junmai-ginjo-yamadanishiki55-v1",
+      "sections": 4,
+      "links": 17,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "eikun-tokubetsu-junmai-homarefuji-v1",
+      "sections": 4,
+      "links": 21,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "buyu-karakuchi-junmai-v1",
+      "sections": 4,
+      "links": 20,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "kunimare-tokubetsu-junmai-standard",
+      "sections": 5,
+      "links": 25,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "otokoyama-kuniyoshinona-v1",
+      "sections": 5,
+      "links": 24,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "hatsumiyo-honjozo-v1",
+      "sections": 4,
+      "links": 21,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "raifuku-junmai-ginjo-yamadanishiki-hiire-v1",
+      "sections": 4,
+      "links": 16,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "tamagawa-tokubetsu-junmai-v1",
+      "sections": 4,
+      "links": 20,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "kariho-yamahai-junmai-chokarakuchi-v1",
+      "sections": 5,
+      "links": 24,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "roman-junmai-ginjo-ichikai-hiire-2025by-v1",
+      "sections": 3,
+      "links": 14,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "michizakura-junmai-rclass-v1",
+      "sections": 3,
+      "links": 14,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "hououbiden-tsurugi-hiire-v1",
+      "sections": 4,
+      "links": 19,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "shiramayumi-tokubetsu-junmai-hidahomare-standard",
+      "sections": 4,
+      "links": 21,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "morishima-miyamanishiki-junmai-ginjo-hiire-v1",
+      "sections": 4,
+      "links": 21,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "daishinshu-tenouchi-namazume-v1",
+      "sections": 4,
+      "links": 20,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "tenryo-tobikiri-tokubetsu-junmai",
+      "sections": 4,
+      "links": 21,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "sugata-kire-tokubetsu-junmai-v1",
+      "sections": 3,
+      "links": 15,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "tsukasabotan-niyodo-blue-junmai-standard",
+      "sections": 5,
+      "links": 24,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "sensuke-chokarakuchi-junmai-ginjo-genshu-ichibi-v1",
+      "sections": 4,
+      "links": 20,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "mikotsuru-junmai-ginjo-hitogokochi-hiire-v1",
+      "sections": 3,
+      "links": 14,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "ryozeki-junmai-ginjo-v1",
+      "sections": 5,
+      "links": 25,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "hanzo-tokubetsu-junmai-karakuchi-v1",
+      "sections": 3,
+      "links": 14,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "sasaichi-yata-junmai-daiginjo-v1",
+      "sections": 4,
+      "links": 20,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "rokujuyoshu-junmai-ginjo-yamadanishiki-v1",
+      "sections": 4,
+      "links": 20,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "hakutaka-kinmatsu-tokubetsu-junmai",
+      "sections": 4,
+      "links": 20,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "fukutsuru-junmai-ginjo-v1",
+      "sections": 4,
+      "links": 22,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "hakuinmasamune-karakuchi-junmai-standard",
+      "sections": 4,
+      "links": 19,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "yokoyama-silver7-namazume-v1",
+      "sections": 4,
+      "links": 15,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "rokujuyoshu-tividq-3",
+      "sections": 4,
+      "links": 20,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "nishinoseki-junmai-ginjo-bigin-v1",
+      "sections": 4,
+      "links": 21,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "hatsukame-karakara-beppin-v1",
+      "sections": 4,
+      "links": 21,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "wakabotan-hatcho-hinohikari-v1",
+      "sections": 4,
+      "links": 17,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "haneya-kirabi-nama-genshu-v1",
+      "sections": 3,
+      "links": 15,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "kurokabuto-green-label-v1",
+      "sections": 4,
+      "links": 22,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "kozaemon-bizen-omachi-hiire-v1",
+      "sections": 4,
+      "links": 21,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "mifuku-yamahai-junmai-ginjo-iginjunsei-standard",
+      "sections": 4,
+      "links": 21,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "choryo-yoshinosugi-tarusake-standard",
+      "sections": 4,
+      "links": 20,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "miyozakura-leaf-junmai-ginjo-v1",
+      "sections": 4,
+      "links": 17,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "fudo-ichido-hiire-junmai-daiginjo-v1",
+      "sections": 3,
+      "links": 16,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "mikadomatsu-shacho-no-sake-v1",
+      "sections": 4,
+      "links": 21,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "niseko-suisei-junmai-ginjo-hiire-v1",
+      "sections": 5,
+      "links": 22,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "tanzawasan-shuho-v1",
+      "sections": 4,
+      "links": 21,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "zaru-so-hourai-junmai-green-v1",
+      "sections": 4,
+      "links": 21,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "sagaminada-tokubetsu-junmai-karakuchi-hiire-v1",
+      "sections": 4,
+      "links": 22,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "gozenshu-junmai-mimasaka-v1",
+      "sections": 4,
+      "links": 20,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "gozenshu-junmai-ginjo-nyoisan-omachi-v1",
+      "sections": 4,
+      "links": 20,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "shidaizumi-junmai-ginjo-yaizu-shumai-2026-v1",
+      "sections": 4,
+      "links": 20,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "kawatsuru-junmai-ooseto-hiire-v1",
+      "sections": 4,
+      "links": 21,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "umenishiki-ginjo-tsuunosake-v1",
+      "sections": 4,
+      "links": 21,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "toyonoaki-junmai-ginjo-matsuezukushi-standard",
+      "sections": 4,
+      "links": 21,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "akaiwaomachi-junmai-daiginjo-standard-v1",
+      "sections": 4,
+      "links": 22,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "nichiei-junmai-ginjo-ishikawamon-standard",
+      "sections": 5,
+      "links": 25,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "kinpai-junmai-yokozuna-standard",
+      "sections": 4,
+      "links": 21,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "suigei-junmai-daiginjo-hyogo-yamadanishiki50-v1",
+      "sections": 5,
+      "links": 26,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "iyo-kagiya-junmai-aka-label-v1",
+      "sections": 4,
+      "links": 20,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "seiryozen-tokubetsu-junmai-the-plains-v1",
+      "sections": 4,
+      "links": 20,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "niwanouguisu-tokubetsu-junmai-standard-v1",
+      "sections": 4,
+      "links": 20,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "niwanouguisu-junmai-ginjo-nuruhada-v1",
+      "sections": 4,
+      "links": 18,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "tenbu-junmai-ginjo-uzen-sakemirai-v1",
+      "sections": 4,
+      "links": 21,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "takakiya-karakuchi-tokubetsu-junmai-v1",
+      "sections": 4,
+      "links": 22,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "tonbo-tokubetsu-junmai-standard-v1",
+      "sections": 4,
+      "links": 22,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "kitanonishiki-maruta-tokubetsu-junmai-v1",
+      "sections": 5,
+      "links": 24,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "shosetsu-junmai-ginjo-yamadanishiki-standard-v1",
+      "sections": 3,
+      "links": 16,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "tomio-gion-komachi-junmai-ginjo-standard",
+      "sections": 4,
+      "links": 16,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "houraisen-bi-junmai-daiginjo-standard-v1",
+      "sections": 4,
+      "links": 15,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "takijiman-hayase-karakuchi-junmai-v1",
+      "sections": 4,
+      "links": 20,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "kazenomori-akitsuho-657-standard-v1",
+      "sections": 3,
+      "links": 15,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "kirei-karakuchi-junmai-hachiju-hiire-v1",
+      "sections": 4,
+      "links": 22,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "nanbubijin-junmai-daiginjo-sakemirai-standard-v1",
+      "sections": 4,
+      "links": 22,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "sogen-notonokuni-junmai-standard-v1",
+      "sections": 3,
+      "links": 16,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "sogen-genshin-junmai-daiginjo-standard-v1",
+      "sections": 3,
+      "links": 16,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "houken-junmai-hattannishiki-green-v1",
+      "sections": 4,
+      "links": 22,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "houken-junmai-ginjo-hattannishiki-standard-v1",
+      "sections": 4,
+      "links": 22,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "kokuryu-icchorai-jungin-standard-v1",
+      "sections": 5,
+      "links": 26,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "sawanoi-junmai-daikarakuchi-standard-v1",
+      "sections": 4,
+      "links": 21,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "sagaminada-junmai-ginjo-miyamanishiki-standard-v1",
+      "sections": 4,
+      "links": 21,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "toyobijin-junmai-ginjo-50-standard-v1",
+      "sections": 4,
+      "links": 22,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "tenmei-orange-funashibori-junmai-hiire-standard-v1",
+      "sections": 4,
+      "links": 22,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "hiran-nikomaru-hiire-standard-v1",
+      "sections": 4,
+      "links": 23,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "shinomine-takeyama-junmai-yamadanishiki-chokarakuchi-hiire-v1",
+      "sections": 4,
+      "links": 22,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "shinomine-rinrin-setoomachi-junmai-ginjo-muroka-nama-genshu-v1",
+      "sections": 4,
+      "links": 21,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "tenon-junmai-standard-ichikai-hiire-v1",
+      "sections": 3,
+      "links": 15,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "tosa-shiragiku-zankara-tokubetsu-junmai-standard-v1",
+      "sections": 5,
+      "links": 23,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "ozeki-tokusen-tokubetsu-junmai-yamadanishiki-standard",
+      "sections": 4,
+      "links": 21,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "housui-tokubetsu-junmai-standard-v1",
+      "sections": 3,
+      "links": 14,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "hitakami-sakana-label-tokubetsu-junmai-hiire-v1",
+      "sections": 5,
+      "links": 28,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "hitakami-chokarakuchi-junmai-standard-v1",
+      "sections": 5,
+      "links": 22,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "kenkonichi-chokarakuchi-junmai-ginjo-genshu-hiire-v1",
+      "sections": 5,
+      "links": 27,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "umebijin-junmai-ginjo-sakurahime-standard",
+      "sections": 4,
+      "links": 18,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "taiten-shiragiku-junmai-shiragiku-standard-v1",
+      "sections": 4,
+      "links": 21,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "sohomare-kimoto-tokubetsu-junmai",
+      "sections": 4,
+      "links": 20,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "hourai-junmai-ginjo-kaden-tezukuri-v1",
+      "sections": 4,
+      "links": 23,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "kawanakajima-tokubetsu-junmai-standard-v1",
+      "sections": 4,
+      "links": 21,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "kirari-junmai-genshu-hiire-standard-v1",
+      "sections": 3,
+      "links": 15,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "takachiyo-karakuchi-junmai-miyamanishiki-plus19-hiire-v1",
+      "sections": 5,
+      "links": 27,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "shoutoku-karaku-tokubetsu-junmai-karakuchi-genshu-standard",
+      "sections": 4,
+      "links": 20,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "jikon-tokubetsu-junmai-hiire-standard-v1",
+      "sections": 3,
+      "links": 15,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "jikon-junmai-ginjo-yamadanishiki-hiire-standard-v1",
+      "sections": 3,
+      "links": 15,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "jikon-junmai-ginjo-omachi-hiire-standard-v1",
+      "sections": 3,
+      "links": 15,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "kankiku-ocean99-toumi-arrival-hiire-v1",
+      "sections": 3,
+      "links": 16,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "kasen-maboroshi-no-sake-tokubetsu-honjozo-standard-v1",
+      "sections": 4,
+      "links": 21,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "gikyo-enishi-junmai-aged-blend-v1",
+      "sections": 3,
+      "links": 15,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "banshu-ikkon-junmai-chokarakuchi-hiire-v1",
+      "sections": 4,
+      "links": 21,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "akishika-junmai-inaho-yamadanishiki-75-v1",
+      "sections": 4,
+      "links": 22,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "akishika-yamahai-junmai-yamadanishiki-70-muroka-genshu-hiire-v1",
+      "sections": 3,
+      "links": 17,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "chochin-tokubetsu-junmai-gold-standard-v1",
+      "sections": 4,
+      "links": 22,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "senkin-classic-nishiki-origarami-hiire-v1",
+      "sections": 4,
+      "links": 18,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "senkin-modern-ichishiki-hiire-v1",
+      "sections": 3,
+      "links": 16,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "senkin-retro-ichishiki-hiire-v1",
+      "sections": 4,
+      "links": 22,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "yorokobi-gaijin-tezukuri-junmai-hiire-standard-v1",
+      "sections": 4,
+      "links": 21,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "aramasa-no6-r-type-nama-standard-v1",
+      "sections": 5,
+      "links": 24,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "aramasa-viridian-hiire-standard-v1",
+      "sections": 3,
+      "links": 16,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "yui-omachi-junmai-ginjo-chokarakuchi-raifuku-v1",
+      "sections": 4,
+      "links": 20,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "okunokami-junmai-ginjo-muchosei-nama-v1",
+      "sections": 4,
+      "links": 21,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "ubusuna-yamada-nishiki-ninojo-2025-nama-v1",
+      "sections": 4,
+      "links": 22,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "tabika-junmai-funashibori-ichikai-hiire-v1",
+      "sections": 4,
+      "links": 21,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "kirei-banjisakazukinonaka-junmai-hiire-v1",
+      "sections": 4,
+      "links": 22,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "wakaze-the-classic-yamagata-v1",
+      "sections": 4,
+      "links": 22,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "hokuan-daikoku-junmai70-v1",
+      "sections": 4,
+      "links": 21,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "sakuta-tokubetsu-junmai-keiyaku-v1",
+      "sections": 4,
+      "links": 21,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "hisagotaiko-ginjo-awa-yamadanishiki-standard",
+      "sections": 4,
+      "links": 21,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "ine-to-agave-doburoku6-v1",
+      "sections": 3,
+      "links": 16,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "goshun-honmaru-honjozo-v1",
+      "sections": 3,
+      "links": 15,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "zuiyo-honjozo-chokarakuchi-v1",
+      "sections": 4,
+      "links": 22,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "narutotai-junmai-tomoe-v1",
+      "sections": 4,
+      "links": 21,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "gekkeikan-horin-junmai-daiginjo-standard",
+      "sections": 4,
+      "links": 18,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "azumanofumoto-junmai-ginjo-yamagata-selection-v1",
+      "sections": 4,
+      "links": 21,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "koshino-kagetora-junmai-standard-v1",
+      "sections": 5,
+      "links": 27,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "zao-junmai-ginjo-catalog-v1",
+      "sections": 5,
+      "links": 26,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "chokyu-tokusen-honjozo-catalog-v1",
+      "sections": 4,
+      "links": 21,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "ayumasamune-honjozo-catalog-v1",
+      "sections": 5,
+      "links": 26,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "chiyonohikari-shin-tokubetsu-honjozo-catalog-v1",
+      "sections": 5,
+      "links": 26,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "hitorimusume-sayaka-tokubetsu-honjozo-catalog-v1",
+      "sections": 4,
+      "links": 21,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "wakitaya-tokubetsu-honjozo-catalog-v1",
+      "sections": 4,
+      "links": 21,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "tenjinbayashi-tokubetsu-honjozo-catalog-v1",
+      "sections": 5,
+      "links": 26,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "koshijifubuki-akiagari-2026-catalog-v1",
+      "sections": 5,
+      "links": 25,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "kanbe-shiboritate-namachozo-catalog-v1",
+      "sections": 4,
+      "links": 21,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "hokushika-akita-kasho-nigori-catalog-v1",
+      "sections": 5,
+      "links": 25,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "koshino-happo-origarami-catalog-v1",
+      "sections": 5,
+      "links": 25,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "suehiro-yamahai-junmai-ginjo-catalog-v1",
+      "sections": 4,
+      "links": 21,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "kaishun-kimoto-yamaguchi-hiire-genshu-catalog-v1",
+      "sections": 4,
+      "links": 18,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "utouto-junmai-catalog-v1",
+      "sections": 4,
+      "links": 23,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "kirai-gin-junmai-daiginjo-180-catalog-v1",
+      "sections": 4,
+      "links": 18,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "keigetsu-extra-dry-tokubetsu-junmai60-catalog-v1",
+      "sections": 5,
+      "links": 25,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "hachitsuru-junmai-ginjo-catalog-v1",
+      "sections": 4,
+      "links": 21,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "sakuyabi14-junmai-ginjo-jikagumi-r7by-catalog-v1",
+      "sections": 4,
+      "links": 18,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "tonegawa-sodachi-junmai-ginjo-catalog-v1",
+      "sections": 4,
+      "links": 18,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "gonin-musume-junmai-catalog-v1",
+      "sections": 4,
+      "links": 21,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "sakari-masu-tokubetsu-junmai-catalog-v1",
+      "sections": 4,
+      "links": 21,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "hokusetsu-hikari-centrifuge-junmai-daiginjo-catalog-v1",
+      "sections": 5,
+      "links": 25,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "obasute-masamune-junmai-karakuchi-catalog-v1",
+      "sections": 4,
+      "links": 21,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "waraijogo-junmai-daiginjo-catalog-v1",
+      "sections": 4,
+      "links": 21,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "hakkaisan-jd-lineup-v1",
+      "sections": 5,
+      "links": 25,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "hakkaisan-daiginjo-lineup-v1",
+      "sections": 4,
+      "links": 21,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "hakkaisan-seishu-lineup-v1",
+      "sections": 5,
+      "links": 23,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "masumi-kuro-lineup-v1",
+      "sections": 4,
+      "links": 21,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "masumi-shiro-lineup-v1",
+      "sections": 4,
+      "links": 23,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "masumi-kaya-lineup-v1",
+      "sections": 4,
+      "links": 21,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "ichinokura-mukansa-karakuchi-lineup-v1",
+      "sections": 5,
+      "links": 25,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "ichinokura-mukansa-chokarakuchi-lineup-v1",
+      "sections": 5,
+      "links": 25,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "ichinokura-himezen-lineup-v1",
+      "sections": 5,
+      "links": 24,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "urakasumi-karakuchi-lineup-v1",
+      "sections": 5,
+      "links": 25,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "daishichi-kaiden-lineup-v1",
+      "sections": 4,
+      "links": 21,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "daishichi-minowamon-lineup-v1",
+      "sections": 4,
+      "links": 21,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "dewazakura-ichiko-lineup-v1",
+      "sections": 4,
+      "links": 21,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "dewazakura-tsuyahime-lineup-v1",
+      "sections": 4,
+      "links": 18,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "ichinokura-suzune-lineup-v1",
+      "sections": 4,
+      "links": 20,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "urakasumi-honshikomi-lineup-v1",
+      "sections": 5,
+      "links": 20,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "kikusui-karakuchi-lineup-v1",
+      "sections": 5,
+      "links": 25,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "kikusui-junmai-lineup-v1",
+      "sections": 5,
+      "links": 25,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "suigei-ginrei-lineup-v1",
+      "sections": 5,
+      "links": 25,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "suigei-koiku54-lineup-v1",
+      "sections": 5,
+      "links": 25,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "tengumai-umajun-lineup-v1",
+      "sections": 5,
+      "links": 25,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "nanbubijin-jg-lineup-v1",
+      "sections": 4,
+      "links": 21,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "nanbubijin-jd-lineup-v1",
+      "sections": 4,
+      "links": 18,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "hakutsuru-daiginjo-lineup-v1",
+      "sections": 4,
+      "links": 21,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "kikumasamune-kaho-lineup-v1",
+      "sections": 4,
+      "links": 21,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "kagatobi-gokkan-lineup-v1",
+      "sections": 5,
+      "links": 25,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "kagatobi-yamahai-lineup-v1",
+      "sections": 5,
+      "links": 25,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "kuroobi-yuyu-lineup-v1",
+      "sections": 5,
+      "links": 25,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "okunomatsu-adatara-lineup-v1",
+      "sections": 4,
+      "links": 21,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "okunomatsu-jg-lineup-v1",
+      "sections": 4,
+      "links": 21,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "jozen-jd-lineup-v1",
+      "sections": 4,
+      "links": 18,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "minatoya-tosuke-lineup-v1",
+      "sections": 5,
+      "links": 25,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "uonuma-junmai-lineup-v1",
+      "sections": 5,
+      "links": 25,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "ozeki-gokuama-lineup-v1",
+      "sections": 4,
+      "links": 21,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "ozeki-karatanba-lineup-v1",
+      "sections": 4,
+      "links": 21,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "gekkeikan-nigori-lineup-v1",
+      "sections": 4,
+      "links": 21,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "mio-sparkling-lineup-v1",
+      "sections": 4,
+      "links": 18,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "urakasumi-zen-lineup-v1",
+      "sections": 5,
+      "links": 25,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "kamotsuru-jg-lineup-v1",
+      "sections": 4,
+      "links": 21,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "nihonsakari-daiginjo-lineup-v1",
+      "sections": 4,
+      "links": 21,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "azumaichi-jd-lineup-v1",
+      "sections": 5,
+      "links": 25,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "koeigiku-sukai-hiire-current-v1",
+      "sections": 5,
+      "links": 26,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "manrei-chokarakuchi-tokubetsu-junmai-current-v1",
+      "sections": 5,
+      "links": 25,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "kihotsuru-junmai-current-v1",
+      "sections": 5,
+      "links": 25,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "matsunokotobuki-omachi-hiire-current-v1",
+      "sections": 4,
+      "links": 22,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "kurobekyo-junmai-ginjo55-current-v1",
+      "sections": 4,
+      "links": 18,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "fukuiwai-yamada50-junmai-ginjo-current-v1",
+      "sections": 4,
+      "links": 22,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "oku-ten-year-junmai-ginjo-genshu-current-v1",
+      "sections": 4,
+      "links": 18,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "ohga-asahi-junmai-ginjo-current-v1",
+      "sections": 4,
+      "links": 21,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "ryusei-muku-omachi-kimoto-current-v1",
+      "sections": 4,
+      "links": 21,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "kameman-nigori-genshu-current-v1",
+      "sections": 4,
+      "links": 21,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "hiokizakura-tokujo-junmai-omachi-current-v1",
+      "sections": 4,
+      "links": 18,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "shinshu-kirei-inakura-hitogokochi-junmai-ginjo-current-v1",
+      "sections": 4,
+      "links": 22,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "kameizumi-kouiku63-hiyaoroshi-current-v1",
+      "sections": 5,
+      "links": 25,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "tokachi-tokubetsu-junmai-suisei-current-v1",
+      "sections": 5,
+      "links": 23,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "abe-silver-hiire-current-v1",
+      "sections": 5,
+      "links": 25,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "shichihonyari-muu-1800-current-v1",
+      "sections": 4,
+      "links": 18,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "haginotsuyu-amadare-tomizu-hiire-current-v1",
+      "sections": 4,
+      "links": 21,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "hanaabi-gohyakumangoku-muroka-namagenshu-1800-current-v1",
+      "sections": 4,
+      "links": 18,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "sara-junmai-ginjo-namazume-current-v1",
+      "sections": 4,
+      "links": 22,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "mimurosugi-kioke-bodaimoto-jishaden-current-v1",
+      "sections": 4,
+      "links": 21,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "tanaka65-hiire-1800-current-v1",
+      "sections": 4,
+      "links": 21,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "shirakiku-ginshari-tokubetsu-junmai-current-v1",
+      "sections": 4,
+      "links": 21,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "kagura-nojoho-junmai-ginjo-nama-current-v1",
+      "sections": 4,
+      "links": 21,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "eikofuji-hinowa-muroka-nama-2026-current-v1",
+      "sections": 4,
+      "links": 21,
+      "contentPreserved": true,
+      "passed": true
+    },
+    {
+      "sakeId": "kurumazaka-yamahai-akiagari-2019by-current-v1",
+      "sections": 4,
+      "links": 22,
+      "contentPreserved": true,
+      "passed": true
+    }
+  ],
+  "passed": true
+}

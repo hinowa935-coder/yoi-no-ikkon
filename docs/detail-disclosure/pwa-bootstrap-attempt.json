@@ -1,0 +1,119 @@
+{
+  "checkedAt": "2026-10-22T14:03:46.175Z",
+  "mode": "upgrade",
+  "rows": [],
+  "failedRequests": [
+    {
+      "engine": "chromium",
+      "phase": "before",
+      "path": "/search",
+      "type": "fetch",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "phase": "before",
+      "path": "/ochoko",
+      "type": "fetch",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "phase": "before",
+      "path": "/",
+      "type": "fetch",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "phase": "before",
+      "path": "/",
+      "type": "fetch",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "phase": "before",
+      "path": "/search",
+      "type": "fetch",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "phase": "before",
+      "path": "/ochoko",
+      "type": "fetch",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "phase": "before",
+      "path": "/",
+      "type": "fetch",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "phase": "before",
+      "path": "/search",
+      "type": "fetch",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "chromium",
+      "phase": "before",
+      "path": "/ochoko",
+      "type": "fetch",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "engine": "webkit",
+      "phase": "before",
+      "path": "/__next._tree.txt",
+      "type": "fetch",
+      "error": "Load request cancelled"
+    },
+    {
+      "engine": "webkit",
+      "phase": "before",
+      "path": "/sw.js",
+      "type": "xhr",
+      "error": "Load request cancelled"
+    },
+    {
+      "engine": "webkit",
+      "phase": "before",
+      "path": "/search/__next._tree.txt",
+      "type": "fetch",
+      "error": "Load request cancelled"
+    }
+  ],
+  "knownWarnings": [
+    {
+      "engine": "webkit",
+      "phase": "before",
+      "message": "/yoi-no-ikkon.vercel.app/ochoko/__next._index.txt?_rsc=l55KF7au9mht8v7x due to access control checks."
+    },
+    {
+      "engine": "webkit",
+      "phase": "before",
+      "message": "/yoi-no-ikkon.vercel.app/ochoko/__next.ochoko.__PAGE__.txt?_rsc=COWloJkXdJD4R_Xy due to access control checks."
+    }
+  ],
+  "blockingErrors": [
+    {
+      "engine": "qa",
+      "phase": "before",
+      "message": "page.reload: Navigation canceled by policy check\nCall log:\n\u001b[2m  - waiting for navigation until \"networkidle\"\u001b[22m\n"
+    },
+    {
+      "engine": "webkit",
+      "phase": "before",
+      "message": "TypeError: Script [resource] load failed"
+    }
+  ],
+  "physicalIphone": false,
+  "physicalAndroid": false,
+  "functionalPassed": false,
+  "passed": false
+}

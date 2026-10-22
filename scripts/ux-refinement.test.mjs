@@ -66,7 +66,7 @@ test('detail retains data and sources around purchase, with share after pairings
  assert(s.indexOf('className="detail-band sake-evidence"')>s.indexOf('className="detail-band purchase-discovery"'));
  assert(s.indexOf('<RecommendShare')>s.indexOf('className="detail-band sake-nights"'));
  assert(s.includes('[...essentials,...fields]')&&s.includes('detailReferences(r.sources, links')&&s.includes('buildSakeVerifiedTags(item)'));
- assert(s.includes('dishes.slice(0,6)')&&s.includes('dishes.slice(6)')&&s.includes('<ServingGuide'));
+ assert(s.includes('dishes.map(')&&!s.includes('more-pairings')&&s.includes('<ServingGuide'));
 });
 
 test('serving information appears only inside the folded detailed sake information',()=>{

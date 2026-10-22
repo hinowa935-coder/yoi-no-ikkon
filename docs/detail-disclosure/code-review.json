@@ -1,0 +1,17 @@
+{
+  "reviewType": "manual diff review with automated regression evidence; not an independent reviewer",
+  "scope": ["DetailAccordion", "detailDisclosure summaries", "sake detail composition", "LocalSakana wrapper", "scoped CSS"],
+  "findingsResolved": [
+    "Use a real button instead of a details summary to meet the requested keyboard and ARIA contract.",
+    "Give buttons a title-only accessible name and a separate summary description to avoid duplicated screen-reader text.",
+    "Do not describe search/dealer destinations as confirmed product availability.",
+    "Preserve official pairings when editorial dishes are empty; omit only truly empty sections.",
+    "Remove the nested more-dishes disclosure without dropping any dish cards.",
+    "Keep children server rendered and mounted while hidden so state and original commerce markup survive toggles."
+  ],
+  "preservedByExactBaselineHash": ["sake DB", "verified evidence", "recommendation functions", "commerce routing", "affiliate originals", "PWA", "favorites", "share", "search"],
+  "newEvents": {"names": ["detail_accordion_open", "detail_accordion_close"], "parameters": ["sakeId", "section", "entrySource"], "containsUrlsOrPersonalData": false},
+  "dependencyChanges": false,
+  "unresolvedBlockingFindings": [],
+  "knownFollowUps": ["Existing WebKit PWA/bootstrap warnings must remain separately reported.", "Original third-party specialty image-link empty alt is unchanged; separate text CTA remains named."]
+}

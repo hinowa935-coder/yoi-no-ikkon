@@ -11,15 +11,15 @@ const page=read('src/app/sake/[slug]/page.jsx');
 test('detail sections follow identity, image, taste, specs, purchase, sources, dishes, nights, share',()=>{
  const tokens=['className="sake-detail-hero"','<ProductWindow','className="detail-band sake-overview"','className="detail-band sake-further"','className="detail-band purchase-discovery"','className="detail-band sake-evidence"','className="detail-band sake-pairings"','className="detail-band sake-nights"','<RecommendShare'];
  const positions=tokens.map(t=>page.indexOf(t));assert(positions.every(n=>n>=0));assert.deepEqual([...positions].sort((a,b)=>a-b),positions);
- assert.equal((page.match(/<DetailAccordion /g)||[]).length,2);
+ assert.equal((page.match(/<DetailAccordion /g)||[]).length,4);
  assert(page.includes('hasSpecs &&')&&page.includes('hasReferences &&'));
 });
-test('both disclosures use native details, live expanded state, controls, full summary and decorative chevron',()=>{
+test('disclosures use buttons, live expanded state, controls, SSR children and decorative chevron',()=>{
  const c=read('src/app/components/DetailAccordion.jsx'),css=read('src/app/globals.css');
- assert(c.includes('<details')&&c.includes('<summary')&&c.includes('onToggle=')&&!c.includes('open={'));
+ assert(c.includes('<button type="button"')&&c.includes('useState(defaultOpen)')&&c.includes('hidden={!expanded}'));
  assert(c.includes('aria-expanded={expanded}')&&c.includes('aria-controls={`${id}-content`}')&&c.includes('id={`${id}-content`}'));
- assert(c.includes('閉じる')&&c.includes('見る')&&c.includes('aria-hidden="true"'));
- assert(css.includes('.detail-accordion > summary:focus-visible')&&css.includes('min-height: 60px')&&css.includes('prefers-reduced-motion: reduce'));
+ assert(c.includes('{title}')&&c.includes('{summary}')&&c.includes('aria-hidden="true"'));
+ assert(css.includes('.detail-accordion-heading > button:focus-visible')&&css.includes('min-height: 76px')&&css.includes('prefers-reduced-motion: reduce'));
 });
 test('temperature appears once only inside detailed information, outside sensory overview',()=>{
  const start=page.indexOf('<DetailAccordion id="sake-specs"'),end=page.indexOf('className="detail-band purchase-discovery"');
