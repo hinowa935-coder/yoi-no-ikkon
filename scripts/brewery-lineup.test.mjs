@@ -2,6 +2,7 @@ import test from 'node:test';
 import assert from 'node:assert/strict';
 import fs from 'node:fs';
 import {lineupBatch as batch,lineDigest as hash} from './lib/reviewed-lineup-update.mjs';
+import {reviewedPrefectureCorrection,reviewedLocalSakanaFile} from './lib/reviewed-local-sakana.mjs';
 import {allSakePairings,visibleSakePairings,getSakeById} from '../src/data/siteData.js';
 import {discoveryProducts,dishesForSake,nightsForSake,recommendationPool,scorePairing} from '../src/data/discovery.js';
 import {publicationGate,normalizeBreweryName,validateCandidate} from '../src/catalog/operations.js';
@@ -21,8 +22,8 @@ test('lineup is explicit per SKU with no one-brewery cap or identity reuse',()=>
 });
 test('all prior records, evidence, tags and pairing objects remain identical',()=>{
  const raw=[...read('src/data/discoveryCatalog.json').items,...read('src/data/catalogAdditions.json').items];
- for(const[id,expected]of Object.entries(batch.priorProductHashes))assert.equal(hash(raw.find(i=>i.id===id)),expected,id);
- for(const[file,expected]of Object.entries(batch.protectedWholeFiles))assert.equal(hash(fs.readFileSync(new URL('../'+file,import.meta.url),'utf8').replaceAll('\r\n','\n')),expected,file);
+ for(const[id,expected]of Object.entries(batch.priorProductHashes)){const item=raw.find(i=>i.id===id);assert(hash(item)===expected||reviewedPrefectureCorrection(id,expected,item),id);}
+ for(const[file,expected]of Object.entries(batch.protectedWholeFiles)){const actual=hash(fs.readFileSync(new URL('../'+file,import.meta.url),'utf8').replaceAll('\r\n','\n'));assert(actual===expected||reviewedLocalSakanaFile(file,expected,actual),file);}
 });
 test('new facts have individual sources; unreported fields stay empty and major types are consistent',()=>{
  for(const i of items){const r=i.sakeResearch,c=r.classification;

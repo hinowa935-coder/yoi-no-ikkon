@@ -1,0 +1,3005 @@
+{
+  "checkedAt": "2026-10-22T10:32:30.642Z",
+  "base": "http://127.0.0.1:3197",
+  "rows": [
+    {
+      "engine": "webkit",
+      "width": 320,
+      "sakeId": "shichida-junmai",
+      "specialties": [
+        "yobuko-ichiyaboshi"
+      ],
+      "images": [
+        {
+          "naturalWidth": 240,
+          "naturalHeight": 240,
+          "width": 240,
+          "height": 240,
+          "visible": "visible",
+          "opacity": "1",
+          "host": "hbb.afl.rakuten.co.jp"
+        }
+      ],
+      "checks": [
+        {
+          "name": "initial images deferred",
+          "passed": true
+        },
+        {
+          "name": "dishes then specialty then night then share",
+          "passed": true
+        },
+        {
+          "name": "source and specs remain closed",
+          "passed": true
+        },
+        {
+          "name": "all formal images loaded",
+          "passed": true
+        },
+        {
+          "name": "no horizontal overflow",
+          "passed": true
+        },
+        {
+          "name": "grid mobile one desktop two",
+          "passed": true
+        },
+        {
+          "name": "expected editorial pairings",
+          "passed": true
+        },
+        {
+          "name": "no price rating or sale",
+          "passed": true
+        },
+        {
+          "name": "disclosure and editorial visible",
+          "passed": true
+        },
+        {
+          "name": "clear external named CTA",
+          "passed": true
+        },
+        {
+          "name": "CTA tap height",
+          "passed": true
+        },
+        {
+          "name": "CTA keyboard focus",
+          "passed": true
+        },
+        {
+          "name": "impression has IDs not URLs",
+          "passed": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "engine": "webkit",
+      "width": 360,
+      "sakeId": "shichida-junmai",
+      "specialties": [
+        "yobuko-ichiyaboshi"
+      ],
+      "images": [
+        {
+          "naturalWidth": 240,
+          "naturalHeight": 240,
+          "width": 240,
+          "height": 240,
+          "visible": "visible",
+          "opacity": "1",
+          "host": "hbb.afl.rakuten.co.jp"
+        }
+      ],
+      "checks": [
+        {
+          "name": "initial images deferred",
+          "passed": true
+        },
+        {
+          "name": "dishes then specialty then night then share",
+          "passed": true
+        },
+        {
+          "name": "source and specs remain closed",
+          "passed": true
+        },
+        {
+          "name": "all formal images loaded",
+          "passed": true
+        },
+        {
+          "name": "no horizontal overflow",
+          "passed": true
+        },
+        {
+          "name": "grid mobile one desktop two",
+          "passed": true
+        },
+        {
+          "name": "expected editorial pairings",
+          "passed": true
+        },
+        {
+          "name": "no price rating or sale",
+          "passed": true
+        },
+        {
+          "name": "disclosure and editorial visible",
+          "passed": true
+        },
+        {
+          "name": "clear external named CTA",
+          "passed": true
+        },
+        {
+          "name": "CTA tap height",
+          "passed": true
+        },
+        {
+          "name": "CTA keyboard focus",
+          "passed": true
+        },
+        {
+          "name": "impression has IDs not URLs",
+          "passed": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "engine": "webkit",
+      "width": 375,
+      "sakeId": "shichida-junmai",
+      "specialties": [
+        "yobuko-ichiyaboshi"
+      ],
+      "images": [
+        {
+          "naturalWidth": 240,
+          "naturalHeight": 240,
+          "width": 240,
+          "height": 240,
+          "visible": "visible",
+          "opacity": "1",
+          "host": "hbb.afl.rakuten.co.jp"
+        }
+      ],
+      "checks": [
+        {
+          "name": "initial images deferred",
+          "passed": true
+        },
+        {
+          "name": "dishes then specialty then night then share",
+          "passed": true
+        },
+        {
+          "name": "source and specs remain closed",
+          "passed": true
+        },
+        {
+          "name": "all formal images loaded",
+          "passed": true
+        },
+        {
+          "name": "no horizontal overflow",
+          "passed": true
+        },
+        {
+          "name": "grid mobile one desktop two",
+          "passed": true
+        },
+        {
+          "name": "expected editorial pairings",
+          "passed": true
+        },
+        {
+          "name": "no price rating or sale",
+          "passed": true
+        },
+        {
+          "name": "disclosure and editorial visible",
+          "passed": true
+        },
+        {
+          "name": "clear external named CTA",
+          "passed": true
+        },
+        {
+          "name": "CTA tap height",
+          "passed": true
+        },
+        {
+          "name": "CTA keyboard focus",
+          "passed": true
+        },
+        {
+          "name": "impression has IDs not URLs",
+          "passed": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "engine": "webkit",
+      "width": 390,
+      "sakeId": "nogomi-tokubetsu-junmai",
+      "specialties": [
+        "ika-shumai",
+        "yobuko-ichiyaboshi"
+      ],
+      "images": [
+        {
+          "naturalWidth": 240,
+          "naturalHeight": 240,
+          "width": 240,
+          "height": 240,
+          "visible": "visible",
+          "opacity": "1",
+          "host": "hbb.afl.rakuten.co.jp"
+        },
+        {
+          "naturalWidth": 240,
+          "naturalHeight": 240,
+          "width": 240,
+          "height": 240,
+          "visible": "visible",
+          "opacity": "1",
+          "host": "hbb.afl.rakuten.co.jp"
+        }
+      ],
+      "checks": [
+        {
+          "name": "initial images deferred",
+          "passed": true
+        },
+        {
+          "name": "dishes then specialty then night then share",
+          "passed": true
+        },
+        {
+          "name": "source and specs remain closed",
+          "passed": true
+        },
+        {
+          "name": "all formal images loaded",
+          "passed": true
+        },
+        {
+          "name": "no horizontal overflow",
+          "passed": true
+        },
+        {
+          "name": "grid mobile one desktop two",
+          "passed": true
+        },
+        {
+          "name": "expected editorial pairings",
+          "passed": true
+        },
+        {
+          "name": "no price rating or sale",
+          "passed": true
+        },
+        {
+          "name": "disclosure and editorial visible",
+          "passed": true
+        },
+        {
+          "name": "clear external named CTA",
+          "passed": true
+        },
+        {
+          "name": "CTA tap height",
+          "passed": true
+        },
+        {
+          "name": "CTA keyboard focus",
+          "passed": true
+        },
+        {
+          "name": "impression has IDs not URLs",
+          "passed": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "engine": "webkit",
+      "width": 390,
+      "sakeId": "born-gold",
+      "specialties": [
+        "heshiko",
+        "kodai-sasazuke"
+      ],
+      "images": [
+        {
+          "naturalWidth": 240,
+          "naturalHeight": 240,
+          "width": 240,
+          "height": 240,
+          "visible": "visible",
+          "opacity": "1",
+          "host": "hbb.afl.rakuten.co.jp"
+        },
+        {
+          "naturalWidth": 240,
+          "naturalHeight": 240,
+          "width": 240,
+          "height": 240,
+          "visible": "visible",
+          "opacity": "1",
+          "host": "hbb.afl.rakuten.co.jp"
+        }
+      ],
+      "checks": [
+        {
+          "name": "initial images deferred",
+          "passed": true
+        },
+        {
+          "name": "dishes then specialty then night then share",
+          "passed": true
+        },
+        {
+          "name": "source and specs remain closed",
+          "passed": true
+        },
+        {
+          "name": "all formal images loaded",
+          "passed": true
+        },
+        {
+          "name": "no horizontal overflow",
+          "passed": true
+        },
+        {
+          "name": "grid mobile one desktop two",
+          "passed": true
+        },
+        {
+          "name": "expected editorial pairings",
+          "passed": true
+        },
+        {
+          "name": "no price rating or sale",
+          "passed": true
+        },
+        {
+          "name": "disclosure and editorial visible",
+          "passed": true
+        },
+        {
+          "name": "clear external named CTA",
+          "passed": true
+        },
+        {
+          "name": "CTA tap height",
+          "passed": true
+        },
+        {
+          "name": "CTA keyboard focus",
+          "passed": true
+        },
+        {
+          "name": "impression has IDs not URLs",
+          "passed": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "engine": "webkit",
+      "width": 390,
+      "sakeId": "kikuhime-yamahai-junmai",
+      "specialties": [
+        "kabura-zushi",
+        "fugu-nukazuke"
+      ],
+      "images": [
+        {
+          "naturalWidth": 240,
+          "naturalHeight": 240,
+          "width": 240,
+          "height": 240,
+          "visible": "visible",
+          "opacity": "1",
+          "host": "hbb.afl.rakuten.co.jp"
+        },
+        {
+          "naturalWidth": 143,
+          "naturalHeight": 240,
+          "width": 143,
+          "height": 240,
+          "visible": "visible",
+          "opacity": "1",
+          "host": "hbb.afl.rakuten.co.jp"
+        }
+      ],
+      "checks": [
+        {
+          "name": "initial images deferred",
+          "passed": true
+        },
+        {
+          "name": "dishes then specialty then night then share",
+          "passed": true
+        },
+        {
+          "name": "source and specs remain closed",
+          "passed": true
+        },
+        {
+          "name": "all formal images loaded",
+          "passed": true
+        },
+        {
+          "name": "no horizontal overflow",
+          "passed": true
+        },
+        {
+          "name": "grid mobile one desktop two",
+          "passed": true
+        },
+        {
+          "name": "expected editorial pairings",
+          "passed": true
+        },
+        {
+          "name": "no price rating or sale",
+          "passed": true
+        },
+        {
+          "name": "disclosure and editorial visible",
+          "passed": true
+        },
+        {
+          "name": "clear external named CTA",
+          "passed": true
+        },
+        {
+          "name": "CTA tap height",
+          "passed": true
+        },
+        {
+          "name": "CTA keyboard focus",
+          "passed": true
+        },
+        {
+          "name": "impression has IDs not URLs",
+          "passed": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "engine": "webkit",
+      "width": 390,
+      "sakeId": "kikusui-funaguchi-honjozo-nama-genshu-standard",
+      "specialties": [
+        "kanzuri-shuto",
+        "tochio-aburaage"
+      ],
+      "images": [
+        {
+          "naturalWidth": 240,
+          "naturalHeight": 240,
+          "width": 240,
+          "height": 240,
+          "visible": "visible",
+          "opacity": "1",
+          "host": "hbb.afl.rakuten.co.jp"
+        },
+        {
+          "naturalWidth": 240,
+          "naturalHeight": 240,
+          "width": 240,
+          "height": 240,
+          "visible": "visible",
+          "opacity": "1",
+          "host": "hbb.afl.rakuten.co.jp"
+        }
+      ],
+      "checks": [
+        {
+          "name": "initial images deferred",
+          "passed": true
+        },
+        {
+          "name": "dishes then specialty then night then share",
+          "passed": true
+        },
+        {
+          "name": "source and specs remain closed",
+          "passed": true
+        },
+        {
+          "name": "all formal images loaded",
+          "passed": true
+        },
+        {
+          "name": "no horizontal overflow",
+          "passed": true
+        },
+        {
+          "name": "grid mobile one desktop two",
+          "passed": true
+        },
+        {
+          "name": "expected editorial pairings",
+          "passed": true
+        },
+        {
+          "name": "no price rating or sale",
+          "passed": true
+        },
+        {
+          "name": "disclosure and editorial visible",
+          "passed": true
+        },
+        {
+          "name": "clear external named CTA",
+          "passed": true
+        },
+        {
+          "name": "CTA tap height",
+          "passed": true
+        },
+        {
+          "name": "CTA keyboard focus",
+          "passed": true
+        },
+        {
+          "name": "impression has IDs not URLs",
+          "passed": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "engine": "webkit",
+      "width": 390,
+      "sakeId": "suigei-tokubetsu-junmai",
+      "specialties": [
+        "katsuo-namabushi",
+        "shuto"
+      ],
+      "images": [
+        {
+          "naturalWidth": 240,
+          "naturalHeight": 240,
+          "width": 240,
+          "height": 240,
+          "visible": "visible",
+          "opacity": "1",
+          "host": "hbb.afl.rakuten.co.jp"
+        },
+        {
+          "naturalWidth": 156,
+          "naturalHeight": 240,
+          "width": 156,
+          "height": 240,
+          "visible": "visible",
+          "opacity": "1",
+          "host": "hbb.afl.rakuten.co.jp"
+        }
+      ],
+      "checks": [
+        {
+          "name": "initial images deferred",
+          "passed": true
+        },
+        {
+          "name": "dishes then specialty then night then share",
+          "passed": true
+        },
+        {
+          "name": "source and specs remain closed",
+          "passed": true
+        },
+        {
+          "name": "all formal images loaded",
+          "passed": true
+        },
+        {
+          "name": "no horizontal overflow",
+          "passed": true
+        },
+        {
+          "name": "grid mobile one desktop two",
+          "passed": true
+        },
+        {
+          "name": "expected editorial pairings",
+          "passed": true
+        },
+        {
+          "name": "no price rating or sale",
+          "passed": true
+        },
+        {
+          "name": "disclosure and editorial visible",
+          "passed": true
+        },
+        {
+          "name": "clear external named CTA",
+          "passed": true
+        },
+        {
+          "name": "CTA tap height",
+          "passed": true
+        },
+        {
+          "name": "CTA keyboard focus",
+          "passed": true
+        },
+        {
+          "name": "impression has IDs not URLs",
+          "passed": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "engine": "webkit",
+      "width": 390,
+      "sakeId": "otokoyama-kimoto-junmai",
+      "specialties": [
+        "sake-toba",
+        "ika-meshi"
+      ],
+      "images": [
+        {
+          "naturalWidth": 240,
+          "naturalHeight": 240,
+          "width": 240,
+          "height": 240,
+          "visible": "visible",
+          "opacity": "1",
+          "host": "hbb.afl.rakuten.co.jp"
+        },
+        {
+          "naturalWidth": 240,
+          "naturalHeight": 240,
+          "width": 240,
+          "height": 240,
+          "visible": "visible",
+          "opacity": "1",
+          "host": "hbb.afl.rakuten.co.jp"
+        }
+      ],
+      "checks": [
+        {
+          "name": "initial images deferred",
+          "passed": true
+        },
+        {
+          "name": "dishes then specialty then night then share",
+          "passed": true
+        },
+        {
+          "name": "source and specs remain closed",
+          "passed": true
+        },
+        {
+          "name": "all formal images loaded",
+          "passed": true
+        },
+        {
+          "name": "no horizontal overflow",
+          "passed": true
+        },
+        {
+          "name": "grid mobile one desktop two",
+          "passed": true
+        },
+        {
+          "name": "expected editorial pairings",
+          "passed": true
+        },
+        {
+          "name": "no price rating or sale",
+          "passed": true
+        },
+        {
+          "name": "disclosure and editorial visible",
+          "passed": true
+        },
+        {
+          "name": "clear external named CTA",
+          "passed": true
+        },
+        {
+          "name": "CTA tap height",
+          "passed": true
+        },
+        {
+          "name": "CTA keyboard focus",
+          "passed": true
+        },
+        {
+          "name": "impression has IDs not URLs",
+          "passed": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "engine": "webkit",
+      "width": 390,
+      "sakeId": "urakasumi-i3yhce",
+      "specialties": [
+        "kaki-oil",
+        "hoya-chinmi"
+      ],
+      "images": [
+        {
+          "naturalWidth": 240,
+          "naturalHeight": 240,
+          "width": 240,
+          "height": 240,
+          "visible": "visible",
+          "opacity": "1",
+          "host": "hbb.afl.rakuten.co.jp"
+        },
+        {
+          "naturalWidth": 240,
+          "naturalHeight": 240,
+          "width": 240,
+          "height": 240,
+          "visible": "visible",
+          "opacity": "1",
+          "host": "hbb.afl.rakuten.co.jp"
+        }
+      ],
+      "checks": [
+        {
+          "name": "initial images deferred",
+          "passed": true
+        },
+        {
+          "name": "dishes then specialty then night then share",
+          "passed": true
+        },
+        {
+          "name": "source and specs remain closed",
+          "passed": true
+        },
+        {
+          "name": "all formal images loaded",
+          "passed": true
+        },
+        {
+          "name": "no horizontal overflow",
+          "passed": true
+        },
+        {
+          "name": "grid mobile one desktop two",
+          "passed": true
+        },
+        {
+          "name": "expected editorial pairings",
+          "passed": true
+        },
+        {
+          "name": "no price rating or sale",
+          "passed": true
+        },
+        {
+          "name": "disclosure and editorial visible",
+          "passed": true
+        },
+        {
+          "name": "clear external named CTA",
+          "passed": true
+        },
+        {
+          "name": "CTA tap height",
+          "passed": true
+        },
+        {
+          "name": "CTA keyboard focus",
+          "passed": true
+        },
+        {
+          "name": "impression has IDs not URLs",
+          "passed": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "engine": "webkit",
+      "width": 390,
+      "sakeId": "ginban-chotokusen-komenoshin-standard-v1",
+      "specialties": [
+        "shiroebi-himono",
+        "hotaruika-himono"
+      ],
+      "images": [
+        {
+          "naturalWidth": 240,
+          "naturalHeight": 240,
+          "width": 240,
+          "height": 240,
+          "visible": "visible",
+          "opacity": "1",
+          "host": "hbb.afl.rakuten.co.jp"
+        },
+        {
+          "naturalWidth": 240,
+          "naturalHeight": 240,
+          "width": 240,
+          "height": 240,
+          "visible": "visible",
+          "opacity": "1",
+          "host": "hbb.afl.rakuten.co.jp"
+        }
+      ],
+      "checks": [
+        {
+          "name": "initial images deferred",
+          "passed": true
+        },
+        {
+          "name": "dishes then specialty then night then share",
+          "passed": true
+        },
+        {
+          "name": "source and specs remain closed",
+          "passed": true
+        },
+        {
+          "name": "all formal images loaded",
+          "passed": true
+        },
+        {
+          "name": "no horizontal overflow",
+          "passed": true
+        },
+        {
+          "name": "grid mobile one desktop two",
+          "passed": true
+        },
+        {
+          "name": "expected editorial pairings",
+          "passed": true
+        },
+        {
+          "name": "no price rating or sale",
+          "passed": true
+        },
+        {
+          "name": "disclosure and editorial visible",
+          "passed": true
+        },
+        {
+          "name": "clear external named CTA",
+          "passed": true
+        },
+        {
+          "name": "CTA tap height",
+          "passed": true
+        },
+        {
+          "name": "CTA keyboard focus",
+          "passed": true
+        },
+        {
+          "name": "impression has IDs not URLs",
+          "passed": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "engine": "webkit",
+      "width": 390,
+      "sakeId": "ranman-junmai-managudako-standard",
+      "specialties": [
+        "gibasa",
+        "iburigakko"
+      ],
+      "images": [
+        {
+          "naturalWidth": 240,
+          "naturalHeight": 240,
+          "width": 240,
+          "height": 240,
+          "visible": "visible",
+          "opacity": "1",
+          "host": "hbb.afl.rakuten.co.jp"
+        },
+        {
+          "naturalWidth": 240,
+          "naturalHeight": 240,
+          "width": 240,
+          "height": 240,
+          "visible": "visible",
+          "opacity": "1",
+          "host": "hbb.afl.rakuten.co.jp"
+        }
+      ],
+      "checks": [
+        {
+          "name": "initial images deferred",
+          "passed": true
+        },
+        {
+          "name": "dishes then specialty then night then share",
+          "passed": true
+        },
+        {
+          "name": "source and specs remain closed",
+          "passed": true
+        },
+        {
+          "name": "all formal images loaded",
+          "passed": true
+        },
+        {
+          "name": "no horizontal overflow",
+          "passed": true
+        },
+        {
+          "name": "grid mobile one desktop two",
+          "passed": true
+        },
+        {
+          "name": "expected editorial pairings",
+          "passed": true
+        },
+        {
+          "name": "no price rating or sale",
+          "passed": true
+        },
+        {
+          "name": "disclosure and editorial visible",
+          "passed": true
+        },
+        {
+          "name": "clear external named CTA",
+          "passed": true
+        },
+        {
+          "name": "CTA tap height",
+          "passed": true
+        },
+        {
+          "name": "CTA keyboard focus",
+          "passed": true
+        },
+        {
+          "name": "impression has IDs not URLs",
+          "passed": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "engine": "webkit",
+      "width": 390,
+      "sakeId": "kokushi-muso-junmai",
+      "specialties": [
+        "matsumae-zuke",
+        "ika-meshi"
+      ],
+      "images": [
+        {
+          "naturalWidth": 240,
+          "naturalHeight": 240,
+          "width": 240,
+          "height": 240,
+          "visible": "visible",
+          "opacity": "1",
+          "host": "hbb.afl.rakuten.co.jp"
+        },
+        {
+          "naturalWidth": 240,
+          "naturalHeight": 240,
+          "width": 240,
+          "height": 240,
+          "visible": "visible",
+          "opacity": "1",
+          "host": "hbb.afl.rakuten.co.jp"
+        }
+      ],
+      "checks": [
+        {
+          "name": "initial images deferred",
+          "passed": true
+        },
+        {
+          "name": "dishes then specialty then night then share",
+          "passed": true
+        },
+        {
+          "name": "source and specs remain closed",
+          "passed": true
+        },
+        {
+          "name": "all formal images loaded",
+          "passed": true
+        },
+        {
+          "name": "no horizontal overflow",
+          "passed": true
+        },
+        {
+          "name": "grid mobile one desktop two",
+          "passed": true
+        },
+        {
+          "name": "expected editorial pairings",
+          "passed": true
+        },
+        {
+          "name": "no price rating or sale",
+          "passed": true
+        },
+        {
+          "name": "disclosure and editorial visible",
+          "passed": true
+        },
+        {
+          "name": "clear external named CTA",
+          "passed": true
+        },
+        {
+          "name": "CTA tap height",
+          "passed": true
+        },
+        {
+          "name": "CTA keyboard focus",
+          "passed": true
+        },
+        {
+          "name": "impression has IDs not URLs",
+          "passed": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "engine": "webkit",
+      "width": 390,
+      "sakeId": "hakurakusei-tokubetsu-junmai-1",
+      "specialties": [
+        "sasa-kamaboko"
+      ],
+      "images": [
+        {
+          "naturalWidth": 240,
+          "naturalHeight": 240,
+          "width": 240,
+          "height": 240,
+          "visible": "visible",
+          "opacity": "1",
+          "host": "hbb.afl.rakuten.co.jp"
+        }
+      ],
+      "checks": [
+        {
+          "name": "initial images deferred",
+          "passed": true
+        },
+        {
+          "name": "dishes then specialty then night then share",
+          "passed": true
+        },
+        {
+          "name": "source and specs remain closed",
+          "passed": true
+        },
+        {
+          "name": "all formal images loaded",
+          "passed": true
+        },
+        {
+          "name": "no horizontal overflow",
+          "passed": true
+        },
+        {
+          "name": "grid mobile one desktop two",
+          "passed": true
+        },
+        {
+          "name": "expected editorial pairings",
+          "passed": true
+        },
+        {
+          "name": "no price rating or sale",
+          "passed": true
+        },
+        {
+          "name": "disclosure and editorial visible",
+          "passed": true
+        },
+        {
+          "name": "clear external named CTA",
+          "passed": true
+        },
+        {
+          "name": "CTA tap height",
+          "passed": true
+        },
+        {
+          "name": "CTA keyboard focus",
+          "passed": true
+        },
+        {
+          "name": "impression has IDs not URLs",
+          "passed": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "engine": "webkit",
+      "width": 390,
+      "sakeId": "sanshoraku-junmai-standard",
+      "specialties": [
+        "shiroebi-himono",
+        "hotaruika-okizuke"
+      ],
+      "images": [
+        {
+          "naturalWidth": 240,
+          "naturalHeight": 240,
+          "width": 240,
+          "height": 240,
+          "visible": "visible",
+          "opacity": "1",
+          "host": "hbb.afl.rakuten.co.jp"
+        },
+        {
+          "naturalWidth": 240,
+          "naturalHeight": 240,
+          "width": 240,
+          "height": 240,
+          "visible": "visible",
+          "opacity": "1",
+          "host": "hbb.afl.rakuten.co.jp"
+        }
+      ],
+      "checks": [
+        {
+          "name": "initial images deferred",
+          "passed": true
+        },
+        {
+          "name": "dishes then specialty then night then share",
+          "passed": true
+        },
+        {
+          "name": "source and specs remain closed",
+          "passed": true
+        },
+        {
+          "name": "all formal images loaded",
+          "passed": true
+        },
+        {
+          "name": "no horizontal overflow",
+          "passed": true
+        },
+        {
+          "name": "grid mobile one desktop two",
+          "passed": true
+        },
+        {
+          "name": "expected editorial pairings",
+          "passed": true
+        },
+        {
+          "name": "no price rating or sale",
+          "passed": true
+        },
+        {
+          "name": "disclosure and editorial visible",
+          "passed": true
+        },
+        {
+          "name": "clear external named CTA",
+          "passed": true
+        },
+        {
+          "name": "CTA tap height",
+          "passed": true
+        },
+        {
+          "name": "CTA keyboard focus",
+          "passed": true
+        },
+        {
+          "name": "impression has IDs not URLs",
+          "passed": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "engine": "webkit",
+      "width": 390,
+      "sakeId": "kihotsuru-junmai-current-v1",
+      "specialties": [
+        "saga-nori",
+        "yobuko-ichiyaboshi"
+      ],
+      "images": [
+        {
+          "naturalWidth": 240,
+          "naturalHeight": 240,
+          "width": 240,
+          "height": 240,
+          "visible": "visible",
+          "opacity": "1",
+          "host": "hbb.afl.rakuten.co.jp"
+        },
+        {
+          "naturalWidth": 240,
+          "naturalHeight": 240,
+          "width": 240,
+          "height": 240,
+          "visible": "visible",
+          "opacity": "1",
+          "host": "hbb.afl.rakuten.co.jp"
+        }
+      ],
+      "checks": [
+        {
+          "name": "initial images deferred",
+          "passed": true
+        },
+        {
+          "name": "dishes then specialty then night then share",
+          "passed": true
+        },
+        {
+          "name": "source and specs remain closed",
+          "passed": true
+        },
+        {
+          "name": "all formal images loaded",
+          "passed": true
+        },
+        {
+          "name": "no horizontal overflow",
+          "passed": true
+        },
+        {
+          "name": "grid mobile one desktop two",
+          "passed": true
+        },
+        {
+          "name": "expected editorial pairings",
+          "passed": true
+        },
+        {
+          "name": "no price rating or sale",
+          "passed": true
+        },
+        {
+          "name": "disclosure and editorial visible",
+          "passed": true
+        },
+        {
+          "name": "clear external named CTA",
+          "passed": true
+        },
+        {
+          "name": "CTA tap height",
+          "passed": true
+        },
+        {
+          "name": "CTA keyboard focus",
+          "passed": true
+        },
+        {
+          "name": "impression has IDs not URLs",
+          "passed": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "engine": "webkit",
+      "width": 430,
+      "sakeId": "shichida-junmai",
+      "specialties": [
+        "yobuko-ichiyaboshi"
+      ],
+      "images": [
+        {
+          "naturalWidth": 240,
+          "naturalHeight": 240,
+          "width": 240,
+          "height": 240,
+          "visible": "visible",
+          "opacity": "1",
+          "host": "hbb.afl.rakuten.co.jp"
+        }
+      ],
+      "checks": [
+        {
+          "name": "initial images deferred",
+          "passed": true
+        },
+        {
+          "name": "dishes then specialty then night then share",
+          "passed": true
+        },
+        {
+          "name": "source and specs remain closed",
+          "passed": true
+        },
+        {
+          "name": "all formal images loaded",
+          "passed": true
+        },
+        {
+          "name": "no horizontal overflow",
+          "passed": true
+        },
+        {
+          "name": "grid mobile one desktop two",
+          "passed": true
+        },
+        {
+          "name": "expected editorial pairings",
+          "passed": true
+        },
+        {
+          "name": "no price rating or sale",
+          "passed": true
+        },
+        {
+          "name": "disclosure and editorial visible",
+          "passed": true
+        },
+        {
+          "name": "clear external named CTA",
+          "passed": true
+        },
+        {
+          "name": "CTA tap height",
+          "passed": true
+        },
+        {
+          "name": "CTA keyboard focus",
+          "passed": true
+        },
+        {
+          "name": "impression has IDs not URLs",
+          "passed": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "sakeId": "nogomi-tokubetsu-junmai",
+      "specialties": [
+        "ika-shumai",
+        "yobuko-ichiyaboshi"
+      ],
+      "images": [
+        {
+          "naturalWidth": 240,
+          "naturalHeight": 240,
+          "width": 240,
+          "height": 240,
+          "visible": "visible",
+          "opacity": "1",
+          "host": "hbb.afl.rakuten.co.jp"
+        },
+        {
+          "naturalWidth": 240,
+          "naturalHeight": 240,
+          "width": 240,
+          "height": 240,
+          "visible": "visible",
+          "opacity": "1",
+          "host": "hbb.afl.rakuten.co.jp"
+        }
+      ],
+      "checks": [
+        {
+          "name": "initial images deferred",
+          "passed": true
+        },
+        {
+          "name": "dishes then specialty then night then share",
+          "passed": true
+        },
+        {
+          "name": "source and specs remain closed",
+          "passed": true
+        },
+        {
+          "name": "all formal images loaded",
+          "passed": true
+        },
+        {
+          "name": "no horizontal overflow",
+          "passed": true
+        },
+        {
+          "name": "grid mobile one desktop two",
+          "passed": true
+        },
+        {
+          "name": "expected editorial pairings",
+          "passed": true
+        },
+        {
+          "name": "no price rating or sale",
+          "passed": true
+        },
+        {
+          "name": "disclosure and editorial visible",
+          "passed": true
+        },
+        {
+          "name": "clear external named CTA",
+          "passed": true
+        },
+        {
+          "name": "CTA tap height",
+          "passed": true
+        },
+        {
+          "name": "CTA keyboard focus",
+          "passed": true
+        },
+        {
+          "name": "impression has IDs not URLs",
+          "passed": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "sakeId": "born-gold",
+      "specialties": [
+        "heshiko",
+        "kodai-sasazuke"
+      ],
+      "images": [
+        {
+          "naturalWidth": 240,
+          "naturalHeight": 240,
+          "width": 240,
+          "height": 240,
+          "visible": "visible",
+          "opacity": "1",
+          "host": "hbb.afl.rakuten.co.jp"
+        },
+        {
+          "naturalWidth": 240,
+          "naturalHeight": 240,
+          "width": 240,
+          "height": 240,
+          "visible": "visible",
+          "opacity": "1",
+          "host": "hbb.afl.rakuten.co.jp"
+        }
+      ],
+      "checks": [
+        {
+          "name": "initial images deferred",
+          "passed": true
+        },
+        {
+          "name": "dishes then specialty then night then share",
+          "passed": true
+        },
+        {
+          "name": "source and specs remain closed",
+          "passed": true
+        },
+        {
+          "name": "all formal images loaded",
+          "passed": true
+        },
+        {
+          "name": "no horizontal overflow",
+          "passed": true
+        },
+        {
+          "name": "grid mobile one desktop two",
+          "passed": true
+        },
+        {
+          "name": "expected editorial pairings",
+          "passed": true
+        },
+        {
+          "name": "no price rating or sale",
+          "passed": true
+        },
+        {
+          "name": "disclosure and editorial visible",
+          "passed": true
+        },
+        {
+          "name": "clear external named CTA",
+          "passed": true
+        },
+        {
+          "name": "CTA tap height",
+          "passed": true
+        },
+        {
+          "name": "CTA keyboard focus",
+          "passed": true
+        },
+        {
+          "name": "impression has IDs not URLs",
+          "passed": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "sakeId": "kikuhime-yamahai-junmai",
+      "specialties": [
+        "kabura-zushi",
+        "fugu-nukazuke"
+      ],
+      "images": [
+        {
+          "naturalWidth": 240,
+          "naturalHeight": 240,
+          "width": 240,
+          "height": 240,
+          "visible": "visible",
+          "opacity": "1",
+          "host": "hbb.afl.rakuten.co.jp"
+        },
+        {
+          "naturalWidth": 143,
+          "naturalHeight": 240,
+          "width": 143,
+          "height": 240,
+          "visible": "visible",
+          "opacity": "1",
+          "host": "hbb.afl.rakuten.co.jp"
+        }
+      ],
+      "checks": [
+        {
+          "name": "initial images deferred",
+          "passed": true
+        },
+        {
+          "name": "dishes then specialty then night then share",
+          "passed": true
+        },
+        {
+          "name": "source and specs remain closed",
+          "passed": true
+        },
+        {
+          "name": "all formal images loaded",
+          "passed": true
+        },
+        {
+          "name": "no horizontal overflow",
+          "passed": true
+        },
+        {
+          "name": "grid mobile one desktop two",
+          "passed": true
+        },
+        {
+          "name": "expected editorial pairings",
+          "passed": true
+        },
+        {
+          "name": "no price rating or sale",
+          "passed": true
+        },
+        {
+          "name": "disclosure and editorial visible",
+          "passed": true
+        },
+        {
+          "name": "clear external named CTA",
+          "passed": true
+        },
+        {
+          "name": "CTA tap height",
+          "passed": true
+        },
+        {
+          "name": "CTA keyboard focus",
+          "passed": true
+        },
+        {
+          "name": "impression has IDs not URLs",
+          "passed": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "sakeId": "kikusui-funaguchi-honjozo-nama-genshu-standard",
+      "specialties": [
+        "kanzuri-shuto",
+        "tochio-aburaage"
+      ],
+      "images": [
+        {
+          "naturalWidth": 240,
+          "naturalHeight": 240,
+          "width": 240,
+          "height": 240,
+          "visible": "visible",
+          "opacity": "1",
+          "host": "hbb.afl.rakuten.co.jp"
+        },
+        {
+          "naturalWidth": 240,
+          "naturalHeight": 240,
+          "width": 240,
+          "height": 240,
+          "visible": "visible",
+          "opacity": "1",
+          "host": "hbb.afl.rakuten.co.jp"
+        }
+      ],
+      "checks": [
+        {
+          "name": "initial images deferred",
+          "passed": true
+        },
+        {
+          "name": "dishes then specialty then night then share",
+          "passed": true
+        },
+        {
+          "name": "source and specs remain closed",
+          "passed": true
+        },
+        {
+          "name": "all formal images loaded",
+          "passed": true
+        },
+        {
+          "name": "no horizontal overflow",
+          "passed": true
+        },
+        {
+          "name": "grid mobile one desktop two",
+          "passed": true
+        },
+        {
+          "name": "expected editorial pairings",
+          "passed": true
+        },
+        {
+          "name": "no price rating or sale",
+          "passed": true
+        },
+        {
+          "name": "disclosure and editorial visible",
+          "passed": true
+        },
+        {
+          "name": "clear external named CTA",
+          "passed": true
+        },
+        {
+          "name": "CTA tap height",
+          "passed": true
+        },
+        {
+          "name": "CTA keyboard focus",
+          "passed": true
+        },
+        {
+          "name": "impression has IDs not URLs",
+          "passed": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "sakeId": "suigei-tokubetsu-junmai",
+      "specialties": [
+        "katsuo-namabushi",
+        "shuto"
+      ],
+      "images": [
+        {
+          "naturalWidth": 240,
+          "naturalHeight": 240,
+          "width": 240,
+          "height": 240,
+          "visible": "visible",
+          "opacity": "1",
+          "host": "hbb.afl.rakuten.co.jp"
+        },
+        {
+          "naturalWidth": 156,
+          "naturalHeight": 240,
+          "width": 156,
+          "height": 240,
+          "visible": "visible",
+          "opacity": "1",
+          "host": "hbb.afl.rakuten.co.jp"
+        }
+      ],
+      "checks": [
+        {
+          "name": "initial images deferred",
+          "passed": true
+        },
+        {
+          "name": "dishes then specialty then night then share",
+          "passed": true
+        },
+        {
+          "name": "source and specs remain closed",
+          "passed": true
+        },
+        {
+          "name": "all formal images loaded",
+          "passed": true
+        },
+        {
+          "name": "no horizontal overflow",
+          "passed": true
+        },
+        {
+          "name": "grid mobile one desktop two",
+          "passed": true
+        },
+        {
+          "name": "expected editorial pairings",
+          "passed": true
+        },
+        {
+          "name": "no price rating or sale",
+          "passed": true
+        },
+        {
+          "name": "disclosure and editorial visible",
+          "passed": true
+        },
+        {
+          "name": "clear external named CTA",
+          "passed": true
+        },
+        {
+          "name": "CTA tap height",
+          "passed": true
+        },
+        {
+          "name": "CTA keyboard focus",
+          "passed": true
+        },
+        {
+          "name": "impression has IDs not URLs",
+          "passed": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "sakeId": "otokoyama-kimoto-junmai",
+      "specialties": [
+        "sake-toba",
+        "ika-meshi"
+      ],
+      "images": [
+        {
+          "naturalWidth": 240,
+          "naturalHeight": 240,
+          "width": 240,
+          "height": 240,
+          "visible": "visible",
+          "opacity": "1",
+          "host": "hbb.afl.rakuten.co.jp"
+        },
+        {
+          "naturalWidth": 240,
+          "naturalHeight": 240,
+          "width": 240,
+          "height": 240,
+          "visible": "visible",
+          "opacity": "1",
+          "host": "hbb.afl.rakuten.co.jp"
+        }
+      ],
+      "checks": [
+        {
+          "name": "initial images deferred",
+          "passed": true
+        },
+        {
+          "name": "dishes then specialty then night then share",
+          "passed": true
+        },
+        {
+          "name": "source and specs remain closed",
+          "passed": true
+        },
+        {
+          "name": "all formal images loaded",
+          "passed": true
+        },
+        {
+          "name": "no horizontal overflow",
+          "passed": true
+        },
+        {
+          "name": "grid mobile one desktop two",
+          "passed": true
+        },
+        {
+          "name": "expected editorial pairings",
+          "passed": true
+        },
+        {
+          "name": "no price rating or sale",
+          "passed": true
+        },
+        {
+          "name": "disclosure and editorial visible",
+          "passed": true
+        },
+        {
+          "name": "clear external named CTA",
+          "passed": true
+        },
+        {
+          "name": "CTA tap height",
+          "passed": true
+        },
+        {
+          "name": "CTA keyboard focus",
+          "passed": true
+        },
+        {
+          "name": "impression has IDs not URLs",
+          "passed": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "sakeId": "urakasumi-i3yhce",
+      "specialties": [
+        "kaki-oil",
+        "hoya-chinmi"
+      ],
+      "images": [
+        {
+          "naturalWidth": 240,
+          "naturalHeight": 240,
+          "width": 240,
+          "height": 240,
+          "visible": "visible",
+          "opacity": "1",
+          "host": "hbb.afl.rakuten.co.jp"
+        },
+        {
+          "naturalWidth": 240,
+          "naturalHeight": 240,
+          "width": 240,
+          "height": 240,
+          "visible": "visible",
+          "opacity": "1",
+          "host": "hbb.afl.rakuten.co.jp"
+        }
+      ],
+      "checks": [
+        {
+          "name": "initial images deferred",
+          "passed": true
+        },
+        {
+          "name": "dishes then specialty then night then share",
+          "passed": true
+        },
+        {
+          "name": "source and specs remain closed",
+          "passed": true
+        },
+        {
+          "name": "all formal images loaded",
+          "passed": true
+        },
+        {
+          "name": "no horizontal overflow",
+          "passed": true
+        },
+        {
+          "name": "grid mobile one desktop two",
+          "passed": true
+        },
+        {
+          "name": "expected editorial pairings",
+          "passed": true
+        },
+        {
+          "name": "no price rating or sale",
+          "passed": true
+        },
+        {
+          "name": "disclosure and editorial visible",
+          "passed": true
+        },
+        {
+          "name": "clear external named CTA",
+          "passed": true
+        },
+        {
+          "name": "CTA tap height",
+          "passed": true
+        },
+        {
+          "name": "CTA keyboard focus",
+          "passed": true
+        },
+        {
+          "name": "impression has IDs not URLs",
+          "passed": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "sakeId": "ginban-chotokusen-komenoshin-standard-v1",
+      "specialties": [
+        "shiroebi-himono",
+        "hotaruika-himono"
+      ],
+      "images": [
+        {
+          "naturalWidth": 240,
+          "naturalHeight": 240,
+          "width": 240,
+          "height": 240,
+          "visible": "visible",
+          "opacity": "1",
+          "host": "hbb.afl.rakuten.co.jp"
+        },
+        {
+          "naturalWidth": 240,
+          "naturalHeight": 240,
+          "width": 240,
+          "height": 240,
+          "visible": "visible",
+          "opacity": "1",
+          "host": "hbb.afl.rakuten.co.jp"
+        }
+      ],
+      "checks": [
+        {
+          "name": "initial images deferred",
+          "passed": true
+        },
+        {
+          "name": "dishes then specialty then night then share",
+          "passed": true
+        },
+        {
+          "name": "source and specs remain closed",
+          "passed": true
+        },
+        {
+          "name": "all formal images loaded",
+          "passed": true
+        },
+        {
+          "name": "no horizontal overflow",
+          "passed": true
+        },
+        {
+          "name": "grid mobile one desktop two",
+          "passed": true
+        },
+        {
+          "name": "expected editorial pairings",
+          "passed": true
+        },
+        {
+          "name": "no price rating or sale",
+          "passed": true
+        },
+        {
+          "name": "disclosure and editorial visible",
+          "passed": true
+        },
+        {
+          "name": "clear external named CTA",
+          "passed": true
+        },
+        {
+          "name": "CTA tap height",
+          "passed": true
+        },
+        {
+          "name": "CTA keyboard focus",
+          "passed": true
+        },
+        {
+          "name": "impression has IDs not URLs",
+          "passed": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "sakeId": "ranman-junmai-managudako-standard",
+      "specialties": [
+        "gibasa",
+        "iburigakko"
+      ],
+      "images": [
+        {
+          "naturalWidth": 240,
+          "naturalHeight": 240,
+          "width": 240,
+          "height": 240,
+          "visible": "visible",
+          "opacity": "1",
+          "host": "hbb.afl.rakuten.co.jp"
+        },
+        {
+          "naturalWidth": 240,
+          "naturalHeight": 240,
+          "width": 240,
+          "height": 240,
+          "visible": "visible",
+          "opacity": "1",
+          "host": "hbb.afl.rakuten.co.jp"
+        }
+      ],
+      "checks": [
+        {
+          "name": "initial images deferred",
+          "passed": true
+        },
+        {
+          "name": "dishes then specialty then night then share",
+          "passed": true
+        },
+        {
+          "name": "source and specs remain closed",
+          "passed": true
+        },
+        {
+          "name": "all formal images loaded",
+          "passed": true
+        },
+        {
+          "name": "no horizontal overflow",
+          "passed": true
+        },
+        {
+          "name": "grid mobile one desktop two",
+          "passed": true
+        },
+        {
+          "name": "expected editorial pairings",
+          "passed": true
+        },
+        {
+          "name": "no price rating or sale",
+          "passed": true
+        },
+        {
+          "name": "disclosure and editorial visible",
+          "passed": true
+        },
+        {
+          "name": "clear external named CTA",
+          "passed": true
+        },
+        {
+          "name": "CTA tap height",
+          "passed": true
+        },
+        {
+          "name": "CTA keyboard focus",
+          "passed": true
+        },
+        {
+          "name": "impression has IDs not URLs",
+          "passed": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "sakeId": "kokushi-muso-junmai",
+      "specialties": [
+        "matsumae-zuke",
+        "ika-meshi"
+      ],
+      "images": [
+        {
+          "naturalWidth": 240,
+          "naturalHeight": 240,
+          "width": 240,
+          "height": 240,
+          "visible": "visible",
+          "opacity": "1",
+          "host": "hbb.afl.rakuten.co.jp"
+        },
+        {
+          "naturalWidth": 240,
+          "naturalHeight": 240,
+          "width": 240,
+          "height": 240,
+          "visible": "visible",
+          "opacity": "1",
+          "host": "hbb.afl.rakuten.co.jp"
+        }
+      ],
+      "checks": [
+        {
+          "name": "initial images deferred",
+          "passed": true
+        },
+        {
+          "name": "dishes then specialty then night then share",
+          "passed": true
+        },
+        {
+          "name": "source and specs remain closed",
+          "passed": true
+        },
+        {
+          "name": "all formal images loaded",
+          "passed": true
+        },
+        {
+          "name": "no horizontal overflow",
+          "passed": true
+        },
+        {
+          "name": "grid mobile one desktop two",
+          "passed": true
+        },
+        {
+          "name": "expected editorial pairings",
+          "passed": true
+        },
+        {
+          "name": "no price rating or sale",
+          "passed": true
+        },
+        {
+          "name": "disclosure and editorial visible",
+          "passed": true
+        },
+        {
+          "name": "clear external named CTA",
+          "passed": true
+        },
+        {
+          "name": "CTA tap height",
+          "passed": true
+        },
+        {
+          "name": "CTA keyboard focus",
+          "passed": true
+        },
+        {
+          "name": "impression has IDs not URLs",
+          "passed": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "sakeId": "hakurakusei-tokubetsu-junmai-1",
+      "specialties": [
+        "sasa-kamaboko"
+      ],
+      "images": [
+        {
+          "naturalWidth": 240,
+          "naturalHeight": 240,
+          "width": 240,
+          "height": 240,
+          "visible": "visible",
+          "opacity": "1",
+          "host": "hbb.afl.rakuten.co.jp"
+        }
+      ],
+      "checks": [
+        {
+          "name": "initial images deferred",
+          "passed": true
+        },
+        {
+          "name": "dishes then specialty then night then share",
+          "passed": true
+        },
+        {
+          "name": "source and specs remain closed",
+          "passed": true
+        },
+        {
+          "name": "all formal images loaded",
+          "passed": true
+        },
+        {
+          "name": "no horizontal overflow",
+          "passed": true
+        },
+        {
+          "name": "grid mobile one desktop two",
+          "passed": true
+        },
+        {
+          "name": "expected editorial pairings",
+          "passed": true
+        },
+        {
+          "name": "no price rating or sale",
+          "passed": true
+        },
+        {
+          "name": "disclosure and editorial visible",
+          "passed": true
+        },
+        {
+          "name": "clear external named CTA",
+          "passed": true
+        },
+        {
+          "name": "CTA tap height",
+          "passed": true
+        },
+        {
+          "name": "CTA keyboard focus",
+          "passed": true
+        },
+        {
+          "name": "impression has IDs not URLs",
+          "passed": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "sakeId": "sanshoraku-junmai-standard",
+      "specialties": [
+        "shiroebi-himono",
+        "hotaruika-okizuke"
+      ],
+      "images": [
+        {
+          "naturalWidth": 240,
+          "naturalHeight": 240,
+          "width": 240,
+          "height": 240,
+          "visible": "visible",
+          "opacity": "1",
+          "host": "hbb.afl.rakuten.co.jp"
+        },
+        {
+          "naturalWidth": 240,
+          "naturalHeight": 240,
+          "width": 240,
+          "height": 240,
+          "visible": "visible",
+          "opacity": "1",
+          "host": "hbb.afl.rakuten.co.jp"
+        }
+      ],
+      "checks": [
+        {
+          "name": "initial images deferred",
+          "passed": true
+        },
+        {
+          "name": "dishes then specialty then night then share",
+          "passed": true
+        },
+        {
+          "name": "source and specs remain closed",
+          "passed": true
+        },
+        {
+          "name": "all formal images loaded",
+          "passed": true
+        },
+        {
+          "name": "no horizontal overflow",
+          "passed": true
+        },
+        {
+          "name": "grid mobile one desktop two",
+          "passed": true
+        },
+        {
+          "name": "expected editorial pairings",
+          "passed": true
+        },
+        {
+          "name": "no price rating or sale",
+          "passed": true
+        },
+        {
+          "name": "disclosure and editorial visible",
+          "passed": true
+        },
+        {
+          "name": "clear external named CTA",
+          "passed": true
+        },
+        {
+          "name": "CTA tap height",
+          "passed": true
+        },
+        {
+          "name": "CTA keyboard focus",
+          "passed": true
+        },
+        {
+          "name": "impression has IDs not URLs",
+          "passed": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "sakeId": "kihotsuru-junmai-current-v1",
+      "specialties": [
+        "saga-nori",
+        "yobuko-ichiyaboshi"
+      ],
+      "images": [
+        {
+          "naturalWidth": 240,
+          "naturalHeight": 240,
+          "width": 240,
+          "height": 240,
+          "visible": "visible",
+          "opacity": "1",
+          "host": "hbb.afl.rakuten.co.jp"
+        },
+        {
+          "naturalWidth": 240,
+          "naturalHeight": 240,
+          "width": 240,
+          "height": 240,
+          "visible": "visible",
+          "opacity": "1",
+          "host": "hbb.afl.rakuten.co.jp"
+        }
+      ],
+      "checks": [
+        {
+          "name": "initial images deferred",
+          "passed": true
+        },
+        {
+          "name": "dishes then specialty then night then share",
+          "passed": true
+        },
+        {
+          "name": "source and specs remain closed",
+          "passed": true
+        },
+        {
+          "name": "all formal images loaded",
+          "passed": true
+        },
+        {
+          "name": "no horizontal overflow",
+          "passed": true
+        },
+        {
+          "name": "grid mobile one desktop two",
+          "passed": true
+        },
+        {
+          "name": "expected editorial pairings",
+          "passed": true
+        },
+        {
+          "name": "no price rating or sale",
+          "passed": true
+        },
+        {
+          "name": "disclosure and editorial visible",
+          "passed": true
+        },
+        {
+          "name": "clear external named CTA",
+          "passed": true
+        },
+        {
+          "name": "CTA tap height",
+          "passed": true
+        },
+        {
+          "name": "CTA keyboard focus",
+          "passed": true
+        },
+        {
+          "name": "impression has IDs not URLs",
+          "passed": true
+        }
+      ],
+      "passed": true
+    }
+  ],
+  "flows": [
+    {
+      "engine": "webkit",
+      "width": 320,
+      "searchBack": true,
+      "favorite": true,
+      "foodBack": true,
+      "nightBack": true,
+      "emptySectionHidden": true,
+      "imageBlockedFallback": true,
+      "affiliateRedirect": false,
+      "clipboard": false,
+      "passed": true
+    },
+    {
+      "engine": "webkit",
+      "width": 360,
+      "searchBack": true,
+      "favorite": true,
+      "foodBack": true,
+      "nightBack": true,
+      "emptySectionHidden": true,
+      "imageBlockedFallback": true,
+      "affiliateRedirect": false,
+      "clipboard": false,
+      "passed": true
+    },
+    {
+      "engine": "webkit",
+      "width": 375,
+      "searchBack": true,
+      "favorite": true,
+      "foodBack": true,
+      "nightBack": true,
+      "emptySectionHidden": true,
+      "imageBlockedFallback": true,
+      "affiliateRedirect": false,
+      "clipboard": false,
+      "passed": true
+    },
+    {
+      "engine": "webkit",
+      "width": 390,
+      "searchBack": true,
+      "favorite": true,
+      "foodBack": true,
+      "nightBack": true,
+      "emptySectionHidden": true,
+      "imageBlockedFallback": true,
+      "affiliateRedirect": true,
+      "clipboard": false,
+      "passed": true
+    },
+    {
+      "engine": "webkit",
+      "width": 430,
+      "searchBack": true,
+      "favorite": true,
+      "foodBack": true,
+      "nightBack": true,
+      "emptySectionHidden": true,
+      "imageBlockedFallback": true,
+      "affiliateRedirect": false,
+      "clipboard": false,
+      "passed": true
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "searchBack": true,
+      "favorite": true,
+      "foodBack": true,
+      "nightBack": true,
+      "emptySectionHidden": true,
+      "imageBlockedFallback": true,
+      "affiliateRedirect": false,
+      "clipboard": true,
+      "passed": true
+    }
+  ],
+  "performance": [
+    {
+      "engine": "webkit",
+      "width": 320,
+      "sakeId": "shichida-junmai",
+      "initial": {
+        "cls": 0,
+        "lcp": 316,
+        "bytes": 0
+      },
+      "afterScroll": {
+        "cls": 0,
+        "lcp": 316
+      },
+      "limitations": "Lab navigation, not field CWV; cross-origin transferSize may be zero. Images loaded only near section."
+    },
+    {
+      "engine": "webkit",
+      "width": 360,
+      "sakeId": "shichida-junmai",
+      "initial": {
+        "cls": 0,
+        "lcp": 292,
+        "bytes": 0
+      },
+      "afterScroll": {
+        "cls": 0,
+        "lcp": 292
+      },
+      "limitations": "Lab navigation, not field CWV; cross-origin transferSize may be zero. Images loaded only near section."
+    },
+    {
+      "engine": "webkit",
+      "width": 375,
+      "sakeId": "shichida-junmai",
+      "initial": {
+        "cls": 0,
+        "lcp": 284.00000000000006,
+        "bytes": 0
+      },
+      "afterScroll": {
+        "cls": 0,
+        "lcp": 284.00000000000006
+      },
+      "limitations": "Lab navigation, not field CWV; cross-origin transferSize may be zero. Images loaded only near section."
+    },
+    {
+      "engine": "webkit",
+      "width": 390,
+      "sakeId": "nogomi-tokubetsu-junmai",
+      "initial": {
+        "cls": 0,
+        "lcp": 292,
+        "bytes": 0
+      },
+      "afterScroll": {
+        "cls": 0,
+        "lcp": 292
+      },
+      "limitations": "Lab navigation, not field CWV; cross-origin transferSize may be zero. Images loaded only near section."
+    },
+    {
+      "engine": "webkit",
+      "width": 390,
+      "sakeId": "born-gold",
+      "initial": {
+        "cls": 0,
+        "lcp": 204.00000000000003,
+        "bytes": 0
+      },
+      "afterScroll": {
+        "cls": 0,
+        "lcp": 904
+      },
+      "limitations": "Lab navigation, not field CWV; cross-origin transferSize may be zero. Images loaded only near section."
+    },
+    {
+      "engine": "webkit",
+      "width": 390,
+      "sakeId": "kikuhime-yamahai-junmai",
+      "initial": {
+        "cls": 0,
+        "lcp": 212,
+        "bytes": 0
+      },
+      "afterScroll": {
+        "cls": 0,
+        "lcp": 212
+      },
+      "limitations": "Lab navigation, not field CWV; cross-origin transferSize may be zero. Images loaded only near section."
+    },
+    {
+      "engine": "webkit",
+      "width": 390,
+      "sakeId": "kikusui-funaguchi-honjozo-nama-genshu-standard",
+      "initial": {
+        "cls": 0,
+        "lcp": 212,
+        "bytes": 0
+      },
+      "afterScroll": {
+        "cls": 0,
+        "lcp": 908
+      },
+      "limitations": "Lab navigation, not field CWV; cross-origin transferSize may be zero. Images loaded only near section."
+    },
+    {
+      "engine": "webkit",
+      "width": 390,
+      "sakeId": "suigei-tokubetsu-junmai",
+      "initial": {
+        "cls": 0,
+        "lcp": 212,
+        "bytes": 0
+      },
+      "afterScroll": {
+        "cls": 0,
+        "lcp": 212
+      },
+      "limitations": "Lab navigation, not field CWV; cross-origin transferSize may be zero. Images loaded only near section."
+    },
+    {
+      "engine": "webkit",
+      "width": 390,
+      "sakeId": "otokoyama-kimoto-junmai",
+      "initial": {
+        "cls": 0,
+        "lcp": 212,
+        "bytes": 0
+      },
+      "afterScroll": {
+        "cls": 0,
+        "lcp": 212
+      },
+      "limitations": "Lab navigation, not field CWV; cross-origin transferSize may be zero. Images loaded only near section."
+    },
+    {
+      "engine": "webkit",
+      "width": 390,
+      "sakeId": "urakasumi-i3yhce",
+      "initial": {
+        "cls": 0,
+        "lcp": 204.00000000000003,
+        "bytes": 0
+      },
+      "afterScroll": {
+        "cls": 0,
+        "lcp": 904
+      },
+      "limitations": "Lab navigation, not field CWV; cross-origin transferSize may be zero. Images loaded only near section."
+    },
+    {
+      "engine": "webkit",
+      "width": 390,
+      "sakeId": "ginban-chotokusen-komenoshin-standard-v1",
+      "initial": {
+        "cls": 0,
+        "lcp": 208.00000000000003,
+        "bytes": 0
+      },
+      "afterScroll": {
+        "cls": 0,
+        "lcp": 924
+      },
+      "limitations": "Lab navigation, not field CWV; cross-origin transferSize may be zero. Images loaded only near section."
+    },
+    {
+      "engine": "webkit",
+      "width": 390,
+      "sakeId": "ranman-junmai-managudako-standard",
+      "initial": {
+        "cls": 0,
+        "lcp": 204.00000000000003,
+        "bytes": 0
+      },
+      "afterScroll": {
+        "cls": 0,
+        "lcp": 908
+      },
+      "limitations": "Lab navigation, not field CWV; cross-origin transferSize may be zero. Images loaded only near section."
+    },
+    {
+      "engine": "webkit",
+      "width": 390,
+      "sakeId": "kokushi-muso-junmai",
+      "initial": {
+        "cls": 0,
+        "lcp": 232,
+        "bytes": 0
+      },
+      "afterScroll": {
+        "cls": 0,
+        "lcp": 232
+      },
+      "limitations": "Lab navigation, not field CWV; cross-origin transferSize may be zero. Images loaded only near section."
+    },
+    {
+      "engine": "webkit",
+      "width": 390,
+      "sakeId": "hakurakusei-tokubetsu-junmai-1",
+      "initial": {
+        "cls": 0,
+        "lcp": 200,
+        "bytes": 0
+      },
+      "afterScroll": {
+        "cls": 0,
+        "lcp": 928
+      },
+      "limitations": "Lab navigation, not field CWV; cross-origin transferSize may be zero. Images loaded only near section."
+    },
+    {
+      "engine": "webkit",
+      "width": 390,
+      "sakeId": "sanshoraku-junmai-standard",
+      "initial": {
+        "cls": 0,
+        "lcp": 204.00000000000003,
+        "bytes": 0
+      },
+      "afterScroll": {
+        "cls": 0,
+        "lcp": 204.00000000000003
+      },
+      "limitations": "Lab navigation, not field CWV; cross-origin transferSize may be zero. Images loaded only near section."
+    },
+    {
+      "engine": "webkit",
+      "width": 390,
+      "sakeId": "kihotsuru-junmai-current-v1",
+      "initial": {
+        "cls": 0,
+        "lcp": 216,
+        "bytes": 0
+      },
+      "afterScroll": {
+        "cls": 0,
+        "lcp": 216
+      },
+      "limitations": "Lab navigation, not field CWV; cross-origin transferSize may be zero. Images loaded only near section."
+    },
+    {
+      "engine": "webkit",
+      "width": 430,
+      "sakeId": "shichida-junmai",
+      "initial": {
+        "cls": 0,
+        "lcp": 316,
+        "bytes": 0
+      },
+      "afterScroll": {
+        "cls": 0,
+        "lcp": 316
+      },
+      "limitations": "Lab navigation, not field CWV; cross-origin transferSize may be zero. Images loaded only near section."
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "sakeId": "nogomi-tokubetsu-junmai",
+      "initial": {
+        "cls": 0.09650977256738745,
+        "lcp": 336,
+        "bytes": 0
+      },
+      "afterScroll": {
+        "cls": 0.1068428220342121,
+        "lcp": 336
+      },
+      "limitations": "Lab navigation, not field CWV; cross-origin transferSize may be zero. Images loaded only near section."
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "sakeId": "born-gold",
+      "initial": {
+        "cls": 0.09428855570571683,
+        "lcp": 136,
+        "bytes": 0
+      },
+      "afterScroll": {
+        "cls": 0.10462160517254147,
+        "lcp": 728
+      },
+      "limitations": "Lab navigation, not field CWV; cross-origin transferSize may be zero. Images loaded only near section."
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "sakeId": "kikuhime-yamahai-junmai",
+      "initial": {
+        "cls": 0.09650977256738745,
+        "lcp": 152,
+        "bytes": 0
+      },
+      "afterScroll": {
+        "cls": 0.10478891670986376,
+        "lcp": 152
+      },
+      "limitations": "Lab navigation, not field CWV; cross-origin transferSize may be zero. Images loaded only near section."
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "sakeId": "kikusui-funaguchi-honjozo-nama-genshu-standard",
+      "initial": {
+        "cls": 0.09523931566572869,
+        "lcp": 140,
+        "bytes": 0
+      },
+      "afterScroll": {
+        "cls": 0.10557236513255333,
+        "lcp": 744
+      },
+      "limitations": "Lab navigation, not field CWV; cross-origin transferSize may be zero. Images loaded only near section."
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "sakeId": "suigei-tokubetsu-junmai",
+      "initial": {
+        "cls": 0.09486026131146327,
+        "lcp": 156,
+        "bytes": 0
+      },
+      "afterScroll": {
+        "cls": 0.10341467111596564,
+        "lcp": 156
+      },
+      "limitations": "Lab navigation, not field CWV; cross-origin transferSize may be zero. Images loaded only near section."
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "sakeId": "otokoyama-kimoto-junmai",
+      "initial": {
+        "cls": 0.09486026131146327,
+        "lcp": 108,
+        "bytes": 0
+      },
+      "afterScroll": {
+        "cls": 0.10519331077828792,
+        "lcp": 108
+      },
+      "limitations": "Lab navigation, not field CWV; cross-origin transferSize may be zero. Images loaded only near section."
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "sakeId": "urakasumi-i3yhce",
+      "initial": {
+        "cls": 0.09223465038136848,
+        "lcp": 168,
+        "bytes": 0
+      },
+      "afterScroll": {
+        "cls": 0.10256769984819313,
+        "lcp": 772
+      },
+      "limitations": "Lab navigation, not field CWV; cross-origin transferSize may be zero. Images loaded only near section."
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "sakeId": "ginban-chotokusen-komenoshin-standard-v1",
+      "initial": {
+        "cls": 0.09513344425725712,
+        "lcp": 136,
+        "bytes": 0
+      },
+      "afterScroll": {
+        "cls": 0.10546649372408176,
+        "lcp": 728
+      },
+      "limitations": "Lab navigation, not field CWV; cross-origin transferSize may be zero. Images loaded only near section."
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "sakeId": "ranman-junmai-managudako-standard",
+      "initial": {
+        "cls": 0.09529437747611819,
+        "lcp": 140,
+        "bytes": 0
+      },
+      "afterScroll": {
+        "cls": 0.10562742694294283,
+        "lcp": 732
+      },
+      "limitations": "Lab navigation, not field CWV; cross-origin transferSize may be zero. Images loaded only near section."
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "sakeId": "kokushi-muso-junmai",
+      "initial": {
+        "cls": 0.09486026131146327,
+        "lcp": 132,
+        "bytes": 0
+      },
+      "afterScroll": {
+        "cls": 0.1000267860448756,
+        "lcp": 132
+      },
+      "limitations": "Lab navigation, not field CWV; cross-origin transferSize may be zero. Images loaded only near section."
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "sakeId": "hakurakusei-tokubetsu-junmai-1",
+      "initial": {
+        "cls": 0.09447704152473342,
+        "lcp": 140,
+        "bytes": 0
+      },
+      "afterScroll": {
+        "cls": 0.09964356625814574,
+        "lcp": 728
+      },
+      "limitations": "Lab navigation, not field CWV; cross-origin transferSize may be zero. Images loaded only near section."
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "sakeId": "sanshoraku-junmai-standard",
+      "initial": {
+        "cls": 0.09650977256738745,
+        "lcp": 128,
+        "bytes": 0
+      },
+      "afterScroll": {
+        "cls": 0.10167629730079977,
+        "lcp": 128
+      },
+      "limitations": "Lab navigation, not field CWV; cross-origin transferSize may be zero. Images loaded only near section."
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "sakeId": "kihotsuru-junmai-current-v1",
+      "initial": {
+        "cls": 0.09656483437777695,
+        "lcp": 128,
+        "bytes": 0
+      },
+      "afterScroll": {
+        "cls": 0.10173135911118927,
+        "lcp": 128
+      },
+      "limitations": "Lab navigation, not field CWV; cross-origin transferSize may be zero. Images loaded only near section."
+    }
+  ],
+  "knownWarnings": [],
+  "localPreviewWarnings": [],
+  "blockingErrors": [],
+  "specialtyImageTypes": 22,
+  "realIphone": false,
+  "realAndroid": false,
+  "passed": true
+}

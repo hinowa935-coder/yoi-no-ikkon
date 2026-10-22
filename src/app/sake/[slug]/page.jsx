@@ -24,6 +24,9 @@ import ServingGuide from '../../components/ServingGuide.jsx';
 import {tastePresentationRows} from '../../../data/tastePresentation.js';
 import DetailAccordion from '../../components/DetailAccordion.jsx';
 import {detailReferences} from '../../../data/detailPresentation.js';
+import {localSakanaForSake} from '../../../specialties/localSakana.js';
+import {readCommerceConfig} from '../../../commerce/providers.js';
+import LocalSakana from '../../components/LocalSakana.jsx';
 
 export function generateStaticParams() {
   return [...new Set([...allSakePairings.map(i => i.id), ...legacyReferences.map(e => e.legacyId)])].map(slug => ({ slug }));
@@ -57,6 +60,7 @@ export default async function SakePage({ params }) {
   const essentials = formatFields([["蔵元", item.brewery], ["都道府県", item.prefecture], ["特定名称", r.classification.tokuteiMeishoshu || item.style.join(" / ")], ["原料米", r.specs.riceVariety], ["精米歩合", r.specs.polishingRatio], ["アルコール度数", r.specs.alcoholPercentage]]);
   const fields = formatFields([["原材料", r.specs.ingredients], ["原料米産地", r.specs.riceOrigin], ["麹米・掛米", r.specs.riceByRole], ["麹米・掛米の精米歩合", r.specs.polishingByRole], ["日本酒度", r.specs.nihonshudo], ["酸度", r.specs.acidity], ["アミノ酸度", r.specs.aminoAcidValue], ["酵母", r.specs.yeast], ["仕込水", r.specs.waterSource], ["熟成期間", r.specs.agingPeriod], ["年度・版", r.vintage]]);
   const commerce = commerceForSake(item);
+  const localSakana = sakeCatalogStatus(item.id)==='ACTIVE'?localSakanaForSake(item,{config:readCommerceConfig(process.env),dishes:dishes.slice(0,6)}):[];
   const links = buildResourceLinks(item);
   const references = detailReferences(r.sources, links, merchantAudit.records[item.id]);
   const hasSpecs = essentials.length + fields.length > 0 || r.servingTemperatures.length > 0 || Boolean(displaySpec(r.recommendedTemperatureRange)) || buildSakeVerifiedTags(item).length > 0 || buildSakeEditorialTags(item).length > 0;
@@ -110,6 +114,7 @@ export default async function SakePage({ params }) {
       {!dishes.length && <PairingPending />}
       {r.officialPairings.length > 0 && <div className="official-pairings"><h3>蔵元が紹介する組み合わせ</h3><p>{r.officialPairings.join("、")}</p></div>}
     </section>
+    <LocalSakana cards={localSakana} sakeId={item.id}/>
     {nights.length>0 && <section className="detail-band sake-nights" aria-labelledby="sake-nights-title"><h2 id="sake-nights-title">こんな夜に</h2>{editorialNightAssignments[item.id] && <p className="muted-copy">{editorialNightNote}</p>}<SeasonalNightLinks nights={nights} /></section>}
     <RecommendShare item={{ id: item.id, productName: item.productName }} />
   </DiscoveryShell>;

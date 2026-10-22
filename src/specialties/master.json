@@ -1,0 +1,1166 @@
+{
+  "specialties": [
+    {
+      "id": "tochio-aburaage",
+      "slug": "tochio-aburaage",
+      "name": "栃尾の油揚げ",
+      "shortName": "栃尾の油揚げ",
+      "prefecture": "新潟県",
+      "region": "長岡・栃尾",
+      "category": "豆腐加工品",
+      "description": "厚みのある油揚げ。軽く焼いて、香ばしさと弾力を楽しむ栃尾の味。",
+      "tasteTags": [],
+      "aromaTags": [
+        "toasty"
+      ],
+      "textureTags": [],
+      "pairingTags": [
+        "umami",
+        "dry",
+        "clean",
+        "fermented"
+      ],
+      "sakeStyleTags": [],
+      "temperatureTags": [],
+      "seasonality": null,
+      "relatedFoodIds": [
+        "item-1tfzr7x"
+      ],
+      "sources": [
+        {
+          "url": "https://niigata-kankou.or.jp/spot/detail_5820.html",
+          "sourceType": "officialTourism",
+          "checkedAt": "2026-10-22",
+          "scope": "food_culture_and_characteristics_not_retail_sku_specs",
+          "retrievalMode": "http_text",
+          "httpStatus": 200,
+          "meaning": "厚みのある油揚げ。軽く焼いて、香ばしさと弾力を楽しむ栃尾の味。"
+        }
+      ],
+      "featureEvidence": [
+        {
+          "feature": "香ばしさ",
+          "meaning": "厚みのある油揚げ。軽く焼いて、香ばしさと弾力を楽しむ栃尾の味。",
+          "sourceUrls": [
+            "https://niigata-kankou.or.jp/spot/detail_5820.html",
+            "https://item.rakuten.co.jp/niigata-shop/0148-001-02/"
+          ],
+          "provenance": "officialFoodDescriptionAndRetailProduct"
+        }
+      ],
+      "foodFeature": "香ばしさ",
+      "profile": "toasty",
+      "status": "ACTIVE"
+    },
+    {
+      "id": "kanzuri-shuto",
+      "slug": "kanzuri-shuto",
+      "name": "かんずり酒盗",
+      "shortName": "かんずり酒盗",
+      "prefecture": "新潟県",
+      "region": "妙高",
+      "category": "発酵珍味",
+      "description": "妙高のかんずりと酒盗を合わせた、小さな一瓶の酒肴。",
+      "tasteTags": [
+        "fermented"
+      ],
+      "aromaTags": [],
+      "textureTags": [],
+      "pairingTags": [
+        "umami",
+        "dry",
+        "clean"
+      ],
+      "sakeStyleTags": [],
+      "temperatureTags": [],
+      "seasonality": null,
+      "relatedFoodIds": [],
+      "sources": [
+        {
+          "url": "https://kanzuri.shop-pro.jp/?cbid=1352613&csid=2&mode=cate&sort=p",
+          "sourceType": "producerOfficial",
+          "checkedAt": "2026-10-22",
+          "scope": "food_culture_and_characteristics_not_retail_sku_specs",
+          "retrievalMode": "http_text",
+          "httpStatus": 200,
+          "meaning": "妙高のかんずりと酒盗を合わせた、小さな一瓶の酒肴。"
+        },
+        {
+          "url": "https://www.kanzuri.com/",
+          "sourceType": "producerOfficial",
+          "checkedAt": "2026-10-22",
+          "scope": "food_culture_and_characteristics_not_retail_sku_specs",
+          "retrievalMode": "http_text",
+          "httpStatus": 200,
+          "meaning": "妙高のかんずりと酒盗を合わせた、小さな一瓶の酒肴。"
+        }
+      ],
+      "featureEvidence": [
+        {
+          "feature": "発酵の旨味",
+          "meaning": "妙高のかんずりと酒盗を合わせた、小さな一瓶の酒肴。",
+          "sourceUrls": [
+            "https://kanzuri.shop-pro.jp/?cbid=1352613&csid=2&mode=cate&sort=p",
+            "https://www.kanzuri.com/",
+            "https://item.rakuten.co.jp/auc-kusanoya/kanzurisyu/"
+          ],
+          "provenance": "officialFoodDescriptionAndRetailProduct"
+        }
+      ],
+      "foodFeature": "発酵の旨味",
+      "profile": "fermented",
+      "status": "ACTIVE"
+    },
+    {
+      "id": "sasa-kamaboko",
+      "slug": "sasa-kamaboko",
+      "name": "笹かまぼこ",
+      "shortName": "笹かまぼこ",
+      "prefecture": "宮城県",
+      "region": "仙台・閖上",
+      "category": "練り物",
+      "description": "宮城の笹かまぼこ。魚のすり身を焼き上げた、日々の晩酌にも取り入れやすい一品。",
+      "tasteTags": [],
+      "aromaTags": [],
+      "textureTags": [],
+      "pairingTags": [
+        "clean",
+        "umami",
+        "aroma"
+      ],
+      "sakeStyleTags": [],
+      "temperatureTags": [],
+      "seasonality": null,
+      "relatedFoodIds": [
+        "item-103fal0"
+      ],
+      "sources": [
+        {
+          "url": "https://sasanao.co.jp/html/page1.html",
+          "sourceType": "producerOfficial",
+          "checkedAt": "2026-10-22",
+          "scope": "food_culture_and_characteristics_not_retail_sku_specs",
+          "retrievalMode": "http_text",
+          "httpStatus": 200,
+          "meaning": "宮城の笹かまぼこ。魚のすり身を焼き上げた、日々の晩酌にも取り入れやすい一品。"
+        },
+        {
+          "url": "https://www.kankou.natori.miyagi.jp/shopping/456/",
+          "sourceType": "officialTourism",
+          "checkedAt": "2026-10-22",
+          "scope": "food_culture_and_characteristics_not_retail_sku_specs",
+          "retrievalMode": "http_text",
+          "httpStatus": 200,
+          "meaning": "宮城の笹かまぼこ。魚のすり身を焼き上げた、日々の晩酌にも取り入れやすい一品。"
+        }
+      ],
+      "featureEvidence": [
+        {
+          "feature": "魚の旨味",
+          "meaning": "宮城の笹かまぼこ。魚のすり身を焼き上げた、日々の晩酌にも取り入れやすい一品。",
+          "sourceUrls": [
+            "https://sasanao.co.jp/html/page1.html",
+            "https://www.kankou.natori.miyagi.jp/shopping/456/",
+            "https://item.rakuten.co.jp/sasanao-sasanao/item-13/"
+          ],
+          "provenance": "officialFoodDescriptionAndRetailProduct"
+        }
+      ],
+      "foodFeature": "魚の旨味",
+      "profile": "delicate",
+      "status": "ACTIVE"
+    },
+    {
+      "id": "hoya-chinmi",
+      "slug": "hoya-chinmi",
+      "name": "ほや珍味",
+      "shortName": "ほや珍味",
+      "prefecture": "宮城県",
+      "region": "石巻",
+      "category": "燻製",
+      "description": "ほやの旨味を煮含め、桜のチップで燻した宮城の海の肴。",
+      "tasteTags": [],
+      "aromaTags": [
+        "smoky"
+      ],
+      "textureTags": [],
+      "pairingTags": [
+        "umami",
+        "fermented",
+        "dry"
+      ],
+      "sakeStyleTags": [],
+      "temperatureTags": [],
+      "seasonality": null,
+      "relatedFoodIds": [],
+      "sources": [
+        {
+          "url": "https://hitakamiichiba.com/?pid=142221272",
+          "sourceType": "producerOfficial",
+          "checkedAt": "2026-10-22",
+          "scope": "food_culture_and_characteristics_not_retail_sku_specs",
+          "retrievalMode": "http_text",
+          "httpStatus": 200,
+          "meaning": "ほやの旨味を煮含め、桜のチップで燻した宮城の海の肴。"
+        }
+      ],
+      "featureEvidence": [
+        {
+          "feature": "燻製の香ばしさ",
+          "meaning": "ほやの旨味を煮含め、桜のチップで燻した宮城の海の肴。",
+          "sourceUrls": [
+            "https://hitakamiichiba.com/?pid=142221272",
+            "https://item.rakuten.co.jp/auc-de-mer/10180302/"
+          ],
+          "provenance": "officialFoodDescriptionAndRetailProduct"
+        }
+      ],
+      "foodFeature": "燻製の香ばしさ",
+      "profile": "smoky",
+      "status": "ACTIVE"
+    },
+    {
+      "id": "kaki-oil",
+      "slug": "kaki-oil",
+      "name": "牡蠣オイル漬け",
+      "shortName": "牡蠣オイル漬け",
+      "prefecture": "宮城県",
+      "region": "石巻",
+      "category": "燻製・油漬け",
+      "description": "宮城県産の牡蠣を桜チップで燻し、油漬けにした缶詰。",
+      "tasteTags": [
+        "rich"
+      ],
+      "aromaTags": [],
+      "textureTags": [],
+      "pairingTags": [
+        "acid",
+        "umami",
+        "dry"
+      ],
+      "sakeStyleTags": [],
+      "temperatureTags": [],
+      "seasonality": null,
+      "relatedFoodIds": [],
+      "sources": [
+        {
+          "url": "https://store.kinoya.co.jp/Form/Product/ProductDetail.aspx?pid=OYO&shop=0",
+          "sourceType": "producerOfficial",
+          "checkedAt": "2026-10-22",
+          "scope": "food_culture_and_characteristics_not_retail_sku_specs",
+          "retrievalMode": "http_text",
+          "httpStatus": 200,
+          "meaning": "宮城県産の牡蠣を桜チップで燻し、油漬けにした缶詰。"
+        },
+        {
+          "url": "https://www.siip.city.sendai.jp/kurasusendai/iimono/oyster_kinoyasuisan",
+          "sourceType": "producerOfficial",
+          "checkedAt": "2026-10-22",
+          "scope": "food_culture_and_characteristics_not_retail_sku_specs",
+          "retrievalMode": "http_text",
+          "httpStatus": 200,
+          "meaning": "宮城県産の牡蠣を桜チップで燻し、油漬けにした缶詰。"
+        }
+      ],
+      "featureEvidence": [
+        {
+          "feature": "牡蠣の旨味",
+          "meaning": "宮城県産の牡蠣を桜チップで燻し、油漬けにした缶詰。",
+          "sourceUrls": [
+            "https://store.kinoya.co.jp/Form/Product/ProductDetail.aspx?pid=OYO&shop=0",
+            "https://www.siip.city.sendai.jp/kurasusendai/iimono/oyster_kinoyasuisan",
+            "https://item.rakuten.co.jp/tsutsu-uraura/kinoya-kaki115-3s/"
+          ],
+          "provenance": "officialFoodDescriptionAndRetailProduct"
+        }
+      ],
+      "foodFeature": "牡蠣の旨味",
+      "profile": "rich",
+      "status": "ACTIVE"
+    },
+    {
+      "id": "iburigakko",
+      "slug": "iburigakko",
+      "name": "いぶりがっこ",
+      "shortName": "いぶりがっこ",
+      "prefecture": "秋田県",
+      "region": "秋田",
+      "category": "燻製漬物",
+      "description": "燻した大根をぬかに漬ける秋田の保存食。歯ざわりと燻香を、少しずつ。",
+      "tasteTags": [],
+      "aromaTags": [
+        "smoky"
+      ],
+      "textureTags": [],
+      "pairingTags": [
+        "fermented",
+        "umami",
+        "dry"
+      ],
+      "sakeStyleTags": [],
+      "temperatureTags": [],
+      "seasonality": null,
+      "relatedFoodIds": [
+        "item-jvymnb"
+      ],
+      "sources": [
+        {
+          "url": "https://www.maff.go.jp/j/keikaku/syokubunka/traditional-foods/menu/iburigakko.html",
+          "sourceType": "government",
+          "checkedAt": "2026-10-22",
+          "scope": "food_culture_and_characteristics_not_retail_sku_specs",
+          "retrievalMode": "http_text",
+          "httpStatus": 200,
+          "meaning": "燻した大根をぬかに漬ける秋田の保存食。歯ざわりと燻香を、少しずつ。"
+        }
+      ],
+      "featureEvidence": [
+        {
+          "feature": "燻香",
+          "meaning": "燻した大根をぬかに漬ける秋田の保存食。歯ざわりと燻香を、少しずつ。",
+          "sourceUrls": [
+            "https://www.maff.go.jp/j/keikaku/syokubunka/traditional-foods/menu/iburigakko.html",
+            "https://item.rakuten.co.jp/1010kanekyu/1001/"
+          ],
+          "provenance": "officialFoodDescriptionAndRetailProduct"
+        }
+      ],
+      "foodFeature": "燻香",
+      "profile": "smoky",
+      "status": "ACTIVE"
+    },
+    {
+      "id": "gibasa",
+      "slug": "gibasa",
+      "name": "ぎばさ",
+      "shortName": "ぎばさ",
+      "prefecture": "秋田県",
+      "region": "男鹿",
+      "category": "海藻加工品",
+      "description": "秋田で親しまれる海藻、ぎばさ。粘りとシャキシャキした食感が持ち味です。",
+      "tasteTags": [],
+      "aromaTags": [],
+      "textureTags": [
+        "viscous",
+        "crisp"
+      ],
+      "pairingTags": [
+        "clean",
+        "acid",
+        "aroma"
+      ],
+      "sakeStyleTags": [],
+      "temperatureTags": [],
+      "seasonality": null,
+      "relatedFoodIds": [],
+      "sources": [
+        {
+          "url": "https://shoku-web.pref.akita.lg.jp/search/1681",
+          "sourceType": "officialTourism",
+          "checkedAt": "2026-10-22",
+          "scope": "food_culture_and_characteristics_not_retail_sku_specs",
+          "retrievalMode": "web_page_content",
+          "httpStatus": null,
+          "meaning": "秋田で親しまれる海藻、ぎばさ。粘りとシャキシャキした食感が持ち味です。"
+        }
+      ],
+      "featureEvidence": [
+        {
+          "feature": "粘りのある食感",
+          "meaning": "秋田で親しまれる海藻、ぎばさ。粘りとシャキシャキした食感が持ち味です。",
+          "sourceUrls": [
+            "https://shoku-web.pref.akita.lg.jp/search/1681",
+            "https://item.rakuten.co.jp/tucano/10000977-1/"
+          ],
+          "provenance": "officialFoodDescriptionAndRetailProduct"
+        }
+      ],
+      "foodFeature": "粘りのある食感",
+      "profile": "delicate",
+      "status": "ACTIVE"
+    },
+    {
+      "id": "kabura-zushi",
+      "slug": "kabura-zushi",
+      "name": "かぶら寿し",
+      "shortName": "かぶら寿し",
+      "prefecture": "石川県",
+      "region": "金沢",
+      "category": "発酵食品",
+      "description": "かぶらに鰤を挟み、糀で漬けた金沢の味。乳酸発酵のまろやかさを楽しみます。",
+      "tasteTags": [
+        "fermented"
+      ],
+      "aromaTags": [],
+      "textureTags": [],
+      "pairingTags": [
+        "sweet",
+        "acid",
+        "umami"
+      ],
+      "sakeStyleTags": [],
+      "temperatureTags": [],
+      "seasonality": null,
+      "relatedFoodIds": [],
+      "sources": [
+        {
+          "url": "https://www.kabura.jp/products/list?category_id=2",
+          "sourceType": "producerOfficial",
+          "checkedAt": "2026-10-22",
+          "scope": "food_culture_and_characteristics_not_retail_sku_specs",
+          "retrievalMode": "http_text",
+          "httpStatus": 200,
+          "meaning": "かぶらに鰤を挟み、糀で漬けた金沢の味。乳酸発酵のまろやかさを楽しみます。"
+        }
+      ],
+      "featureEvidence": [
+        {
+          "feature": "糀のまろやかさ",
+          "meaning": "かぶらに鰤を挟み、糀で漬けた金沢の味。乳酸発酵のまろやかさを楽しみます。",
+          "sourceUrls": [
+            "https://www.kabura.jp/products/list?category_id=2",
+            "https://item.rakuten.co.jp/kabura/kabura-1112/"
+          ],
+          "provenance": "officialFoodDescriptionAndRetailProduct"
+        }
+      ],
+      "foodFeature": "糀のまろやかさ",
+      "profile": "fermented",
+      "status": "ACTIVE"
+    },
+    {
+      "id": "fugu-nukazuke",
+      "slug": "fugu-nukazuke",
+      "name": "ふぐの子糠漬け",
+      "shortName": "ふぐの子糠漬け",
+      "prefecture": "石川県",
+      "region": "石川",
+      "category": "ぬか漬け",
+      "description": "ふぐの卵巣を加工・熟成する石川の珍味。製造・販売された食品を少量ずつ。",
+      "tasteTags": [
+        "salty"
+      ],
+      "aromaTags": [],
+      "textureTags": [],
+      "pairingTags": [
+        "dry",
+        "umami",
+        "clean"
+      ],
+      "sakeStyleTags": [],
+      "temperatureTags": [],
+      "seasonality": null,
+      "relatedFoodIds": [],
+      "sources": [
+        {
+          "url": "https://www.aburayo.jp/",
+          "sourceType": "producerOfficial",
+          "checkedAt": "2026-10-22",
+          "scope": "food_culture_and_characteristics_not_retail_sku_specs",
+          "retrievalMode": "http_text",
+          "httpStatus": 200,
+          "meaning": "ふぐの卵巣を加工・熟成する石川の珍味。製造・販売された食品を少量ずつ。"
+        }
+      ],
+      "featureEvidence": [
+        {
+          "feature": "塩気",
+          "meaning": "ふぐの卵巣を加工・熟成する石川の珍味。製造・販売された食品を少量ずつ。",
+          "sourceUrls": [
+            "https://www.aburayo.jp/",
+            "https://item.rakuten.co.jp/yasushin/fugunoko-nuka01/"
+          ],
+          "provenance": "officialFoodDescriptionAndRetailProduct"
+        }
+      ],
+      "foodFeature": "塩気",
+      "profile": "salty",
+      "status": "ACTIVE"
+    },
+    {
+      "id": "matsumae-zuke",
+      "slug": "matsumae-zuke",
+      "name": "松前漬け",
+      "shortName": "松前漬け",
+      "prefecture": "北海道",
+      "region": "道南・松前",
+      "category": "海産加工品",
+      "description": "するめと昆布を醤油だれに漬ける道南の保存食。数の子の歯ざわりも楽しめます。",
+      "tasteTags": [
+        "umami"
+      ],
+      "aromaTags": [],
+      "textureTags": [],
+      "pairingTags": [
+        "umami",
+        "dry",
+        "clean"
+      ],
+      "sakeStyleTags": [],
+      "temperatureTags": [],
+      "seasonality": null,
+      "relatedFoodIds": [],
+      "sources": [
+        {
+          "url": "https://www.maff.go.jp/j/keikaku/syokubunka/traditional-foods/menu/matumaezuke.html",
+          "sourceType": "government",
+          "checkedAt": "2026-10-22",
+          "scope": "food_culture_and_characteristics_not_retail_sku_specs",
+          "retrievalMode": "http_text",
+          "httpStatus": 200,
+          "meaning": "するめと昆布を醤油だれに漬ける道南の保存食。数の子の歯ざわりも楽しめます。"
+        }
+      ],
+      "featureEvidence": [
+        {
+          "feature": "するめと昆布の旨味",
+          "meaning": "するめと昆布を醤油だれに漬ける道南の保存食。数の子の歯ざわりも楽しめます。",
+          "sourceUrls": [
+            "https://www.maff.go.jp/j/keikaku/syokubunka/traditional-foods/menu/matumaezuke.html",
+            "https://item.rakuten.co.jp/otaru/10000012/"
+          ],
+          "provenance": "officialFoodDescriptionAndRetailProduct"
+        }
+      ],
+      "foodFeature": "するめと昆布の旨味",
+      "profile": "umami",
+      "status": "ACTIVE"
+    },
+    {
+      "id": "sake-toba",
+      "slug": "sake-toba",
+      "name": "鮭とば",
+      "shortName": "鮭とば",
+      "prefecture": "北海道",
+      "region": "北海道",
+      "category": "乾物",
+      "description": "塩や調味料を加えて干した北海道の鮭。噛むほどに旨味を味わう肴です。",
+      "tasteTags": [
+        "umami"
+      ],
+      "aromaTags": [],
+      "textureTags": [],
+      "pairingTags": [
+        "umami",
+        "dry",
+        "fermented"
+      ],
+      "sakeStyleTags": [],
+      "temperatureTags": [],
+      "seasonality": null,
+      "relatedFoodIds": [],
+      "sources": [
+        {
+          "url": "https://www.maff.go.jp/j/keikaku/syokubunka/traditional-foods/menu/saketoba.html",
+          "sourceType": "government",
+          "checkedAt": "2026-10-22",
+          "scope": "food_culture_and_characteristics_not_retail_sku_specs",
+          "retrievalMode": "http_text",
+          "httpStatus": 200,
+          "meaning": "塩や調味料を加えて干した北海道の鮭。噛むほどに旨味を味わう肴です。"
+        }
+      ],
+      "featureEvidence": [
+        {
+          "feature": "鮭の旨味",
+          "meaning": "塩や調味料を加えて干した北海道の鮭。噛むほどに旨味を味わう肴です。",
+          "sourceUrls": [
+            "https://www.maff.go.jp/j/keikaku/syokubunka/traditional-foods/menu/saketoba.html",
+            "https://item.rakuten.co.jp/kitanomachi/saketoba_100g/"
+          ],
+          "provenance": "officialFoodDescriptionAndRetailProduct"
+        }
+      ],
+      "foodFeature": "鮭の旨味",
+      "profile": "umami",
+      "status": "ACTIVE"
+    },
+    {
+      "id": "ika-meshi",
+      "slug": "ika-meshi",
+      "name": "いかめし",
+      "shortName": "いかめし",
+      "prefecture": "北海道",
+      "region": "森町",
+      "category": "海産加工品",
+      "description": "いかに米を詰めて煮た森町ゆかりの味。輪切りにして、小皿にも。",
+      "tasteTags": [
+        "sweet-savory"
+      ],
+      "aromaTags": [],
+      "textureTags": [],
+      "pairingTags": [
+        "umami",
+        "sweet",
+        "dry"
+      ],
+      "sakeStyleTags": [],
+      "temperatureTags": [],
+      "seasonality": null,
+      "relatedFoodIds": [],
+      "sources": [
+        {
+          "url": "https://www.maff.go.jp/j/keikaku/syokubunka/traditional-foods/menu/ikamesi.html",
+          "sourceType": "government",
+          "checkedAt": "2026-10-22",
+          "scope": "food_culture_and_characteristics_not_retail_sku_specs",
+          "retrievalMode": "http_text",
+          "httpStatus": 200,
+          "meaning": "いかに米を詰めて煮た森町ゆかりの味。輪切りにして、小皿にも。"
+        }
+      ],
+      "featureEvidence": [
+        {
+          "feature": "醤油の煮味",
+          "meaning": "いかに米を詰めて煮た森町ゆかりの味。輪切りにして、小皿にも。",
+          "sourceUrls": [
+            "https://www.maff.go.jp/j/keikaku/syokubunka/traditional-foods/menu/ikamesi.html",
+            "https://item.rakuten.co.jp/senka-land/4582102770105/"
+          ],
+          "provenance": "officialFoodDescriptionAndRetailProduct"
+        }
+      ],
+      "foodFeature": "醤油の煮味",
+      "profile": "sweet-savory",
+      "status": "ACTIVE"
+    },
+    {
+      "id": "saga-nori",
+      "slug": "saga-nori",
+      "name": "佐賀の焼海苔",
+      "shortName": "佐賀の焼海苔",
+      "prefecture": "佐賀県",
+      "region": "佐賀・有明海",
+      "category": "海苔",
+      "description": "佐賀・有明海の焼海苔。香りと口どけを、ひと口の肴に。",
+      "tasteTags": [],
+      "aromaTags": [],
+      "textureTags": [],
+      "pairingTags": [
+        "clean",
+        "aroma",
+        "umami"
+      ],
+      "sakeStyleTags": [],
+      "temperatureTags": [],
+      "seasonality": null,
+      "relatedFoodIds": [],
+      "sources": [
+        {
+          "url": "https://sannori.com/",
+          "sourceType": "producerOfficial",
+          "checkedAt": "2026-10-22",
+          "scope": "food_culture_and_characteristics_not_retail_sku_specs",
+          "retrievalMode": "http_text",
+          "httpStatus": 200,
+          "meaning": "佐賀・有明海の焼海苔。香りと口どけを、ひと口の肴に。"
+        }
+      ],
+      "featureEvidence": [
+        {
+          "feature": "海苔の香り",
+          "meaning": "佐賀・有明海の焼海苔。香りと口どけを、ひと口の肴に。",
+          "sourceUrls": [
+            "https://sannori.com/",
+            "https://item.rakuten.co.jp/karatsu-iwamoto/yakinori-01/"
+          ],
+          "provenance": "officialFoodDescriptionAndRetailProduct"
+        }
+      ],
+      "foodFeature": "海苔の香り",
+      "profile": "delicate",
+      "status": "ACTIVE"
+    },
+    {
+      "id": "yobuko-ichiyaboshi",
+      "slug": "yobuko-ichiyaboshi",
+      "name": "呼子いか一夜干し",
+      "shortName": "呼子いか一夜干し",
+      "prefecture": "佐賀県",
+      "region": "唐津・呼子",
+      "category": "干物",
+      "description": "呼子のいか一夜干し。軽く炙って、いかの歯ごたえを楽しみます。",
+      "tasteTags": [
+        "sweet-savory"
+      ],
+      "aromaTags": [],
+      "textureTags": [],
+      "pairingTags": [
+        "clean",
+        "umami",
+        "sweet"
+      ],
+      "sakeStyleTags": [],
+      "temperatureTags": [],
+      "seasonality": null,
+      "relatedFoodIds": [],
+      "sources": [
+        {
+          "url": "https://www.manbou.co.jp/products/ichiyaboshi.html?newwindow=true",
+          "sourceType": "producerOfficial",
+          "checkedAt": "2026-10-22",
+          "scope": "food_culture_and_characteristics_not_retail_sku_specs",
+          "retrievalMode": "http_text",
+          "httpStatus": 200,
+          "meaning": "呼子のいか一夜干し。軽く炙って、いかの歯ごたえを楽しみます。"
+        },
+        {
+          "url": "https://www.himono-yamamoto.com/products/",
+          "sourceType": "producerOfficial",
+          "checkedAt": "2026-10-22",
+          "scope": "food_culture_and_characteristics_not_retail_sku_specs",
+          "retrievalMode": "http_text",
+          "httpStatus": 200,
+          "meaning": "呼子のいか一夜干し。軽く炙って、いかの歯ごたえを楽しみます。"
+        }
+      ],
+      "featureEvidence": [
+        {
+          "feature": "いかの甘味",
+          "meaning": "呼子のいか一夜干し。軽く炙って、いかの歯ごたえを楽しみます。",
+          "sourceUrls": [
+            "https://www.manbou.co.jp/products/ichiyaboshi.html?newwindow=true",
+            "https://www.himono-yamamoto.com/products/",
+            "https://item.rakuten.co.jp/yobuko-manbou/50003/"
+          ],
+          "provenance": "officialFoodDescriptionAndRetailProduct"
+        }
+      ],
+      "foodFeature": "いかの甘味",
+      "profile": "sweet-savory",
+      "status": "ACTIVE"
+    },
+    {
+      "id": "ika-shumai",
+      "slug": "ika-shumai",
+      "name": "いかしゅうまい",
+      "shortName": "いかしゅうまい",
+      "prefecture": "佐賀県",
+      "region": "唐津・呼子",
+      "category": "魚介加工品",
+      "description": "呼子生まれのいかしゅうまい。蒸して、ふんわりした食感を楽しむ一品。",
+      "tasteTags": [],
+      "aromaTags": [],
+      "textureTags": [
+        "soft"
+      ],
+      "pairingTags": [
+        "aroma",
+        "clean",
+        "umami"
+      ],
+      "sakeStyleTags": [],
+      "temperatureTags": [],
+      "seasonality": null,
+      "relatedFoodIds": [],
+      "sources": [
+        {
+          "url": "https://www.asobo-saga.jp/galleries/detail/f8bc154d-15c8-4770-bca1-116e245352f9",
+          "sourceType": "officialTourism",
+          "checkedAt": "2026-10-22",
+          "scope": "food_culture_and_characteristics_not_retail_sku_specs",
+          "retrievalMode": "web_page_content",
+          "httpStatus": 503,
+          "meaning": "呼子生まれのいかしゅうまい。蒸して、ふんわりした食感を楽しむ一品。"
+        },
+        {
+          "url": "https://www.manbou.co.jp/",
+          "sourceType": "producerOfficial",
+          "checkedAt": "2026-10-22",
+          "scope": "food_culture_and_characteristics_not_retail_sku_specs",
+          "retrievalMode": "http_text",
+          "httpStatus": 200,
+          "meaning": "呼子生まれのいかしゅうまい。蒸して、ふんわりした食感を楽しむ一品。"
+        }
+      ],
+      "featureEvidence": [
+        {
+          "feature": "ふんわりした食感",
+          "meaning": "呼子生まれのいかしゅうまい。蒸して、ふんわりした食感を楽しむ一品。",
+          "sourceUrls": [
+            "https://www.asobo-saga.jp/galleries/detail/f8bc154d-15c8-4770-bca1-116e245352f9",
+            "https://www.manbou.co.jp/",
+            "https://item.rakuten.co.jp/yobuko-manbou/10000003/"
+          ],
+          "provenance": "officialFoodDescriptionAndRetailProduct"
+        }
+      ],
+      "foodFeature": "ふんわりした食感",
+      "profile": "delicate",
+      "status": "ACTIVE"
+    },
+    {
+      "id": "shuto",
+      "slug": "shuto",
+      "name": "酒盗",
+      "shortName": "酒盗",
+      "prefecture": "高知県",
+      "region": "土佐",
+      "category": "発酵珍味",
+      "description": "かつおの内臓を塩漬けして熟成する土佐の酒盗。小皿に少しずつ。",
+      "tasteTags": [
+        "salty"
+      ],
+      "aromaTags": [],
+      "textureTags": [],
+      "pairingTags": [
+        "dry",
+        "umami",
+        "fermented"
+      ],
+      "sakeStyleTags": [],
+      "temperatureTags": [],
+      "seasonality": null,
+      "relatedFoodIds": [],
+      "sources": [
+        {
+          "url": "https://www.maff.go.jp/j/keikaku/syokubunka/traditional-foods/menu/syutou.html",
+          "sourceType": "government",
+          "checkedAt": "2026-10-22",
+          "scope": "food_culture_and_characteristics_not_retail_sku_specs",
+          "retrievalMode": "http_text",
+          "httpStatus": 200,
+          "meaning": "かつおの内臓を塩漬けして熟成する土佐の酒盗。小皿に少しずつ。"
+        },
+        {
+          "url": "https://www.fukutatsu.co.jp/",
+          "sourceType": "producerOfficial",
+          "checkedAt": "2026-10-22",
+          "scope": "food_culture_and_characteristics_not_retail_sku_specs",
+          "retrievalMode": "http_text",
+          "httpStatus": 200,
+          "meaning": "かつおの内臓を塩漬けして熟成する土佐の酒盗。小皿に少しずつ。"
+        }
+      ],
+      "featureEvidence": [
+        {
+          "feature": "濃厚な旨味",
+          "meaning": "かつおの内臓を塩漬けして熟成する土佐の酒盗。小皿に少しずつ。",
+          "sourceUrls": [
+            "https://www.maff.go.jp/j/keikaku/syokubunka/traditional-foods/menu/syutou.html",
+            "https://www.fukutatsu.co.jp/",
+            "https://item.rakuten.co.jp/auc-tosauma/syutou_karakuchi/"
+          ],
+          "provenance": "officialFoodDescriptionAndRetailProduct"
+        }
+      ],
+      "foodFeature": "濃厚な旨味",
+      "profile": "salty",
+      "status": "ACTIVE"
+    },
+    {
+      "id": "katsuo-namabushi",
+      "slug": "katsuo-namabushi",
+      "name": "かつお生節",
+      "shortName": "かつお生節",
+      "prefecture": "高知県",
+      "region": "土佐",
+      "category": "魚介加工品",
+      "description": "かつおを加熱して作る生節。切り分けたり、ほぐしたりして食卓へ。",
+      "tasteTags": [
+        "umami"
+      ],
+      "aromaTags": [],
+      "textureTags": [],
+      "pairingTags": [
+        "umami",
+        "dry",
+        "clean"
+      ],
+      "sakeStyleTags": [],
+      "temperatureTags": [],
+      "seasonality": null,
+      "relatedFoodIds": [],
+      "sources": [
+        {
+          "url": "https://www.city.kochi.kochi.jp/site/kanko/katsuo.html",
+          "sourceType": "producerOfficial",
+          "checkedAt": "2026-10-22",
+          "scope": "food_culture_and_characteristics_not_retail_sku_specs",
+          "retrievalMode": "http_text",
+          "httpStatus": 200,
+          "meaning": "かつおを加熱して作る生節。切り分けたり、ほぐしたりして食卓へ。"
+        },
+        {
+          "url": "https://www.fukutatsu.co.jp/",
+          "sourceType": "producerOfficial",
+          "checkedAt": "2026-10-22",
+          "scope": "food_culture_and_characteristics_not_retail_sku_specs",
+          "retrievalMode": "http_text",
+          "httpStatus": 200,
+          "meaning": "かつおを加熱して作る生節。切り分けたり、ほぐしたりして食卓へ。"
+        }
+      ],
+      "featureEvidence": [
+        {
+          "feature": "かつおの旨味",
+          "meaning": "かつおを加熱して作る生節。切り分けたり、ほぐしたりして食卓へ。",
+          "sourceUrls": [
+            "https://www.city.kochi.kochi.jp/site/kanko/katsuo.html",
+            "https://www.fukutatsu.co.jp/",
+            "https://item.rakuten.co.jp/moritokuzo/takeuchi-namabushi-01/"
+          ],
+          "provenance": "officialFoodDescriptionAndRetailProduct"
+        }
+      ],
+      "foodFeature": "かつおの旨味",
+      "profile": "umami",
+      "status": "ACTIVE"
+    },
+    {
+      "id": "hotaruika-okizuke",
+      "slug": "hotaruika-okizuke",
+      "name": "ほたるいか沖漬け",
+      "shortName": "ほたるいか沖漬け",
+      "prefecture": "富山県",
+      "region": "滑川",
+      "category": "醤油漬け",
+      "description": "ほたるいかを丸ごと醤油に漬けた富山の肴。肝のコクも味わえます。",
+      "tasteTags": [
+        "rich"
+      ],
+      "aromaTags": [],
+      "textureTags": [],
+      "pairingTags": [
+        "umami",
+        "acid",
+        "dry"
+      ],
+      "sakeStyleTags": [],
+      "temperatureTags": [],
+      "seasonality": null,
+      "relatedFoodIds": [],
+      "sources": [
+        {
+          "url": "https://www.info-toyama.com/stories/hotaruika-toyama",
+          "sourceType": "officialTourism",
+          "checkedAt": "2026-10-22",
+          "scope": "food_culture_and_characteristics_not_retail_sku_specs",
+          "retrievalMode": "http_text",
+          "httpStatus": 200,
+          "meaning": "ほたるいかを丸ごと醤油に漬けた富山の肴。肝のコクも味わえます。"
+        }
+      ],
+      "featureEvidence": [
+        {
+          "feature": "肝のコク",
+          "meaning": "ほたるいかを丸ごと醤油に漬けた富山の肴。肝のコクも味わえます。",
+          "sourceUrls": [
+            "https://www.info-toyama.com/stories/hotaruika-toyama",
+            "https://item.rakuten.co.jp/shokuhin-chokusou/62011925/"
+          ],
+          "provenance": "officialFoodDescriptionAndRetailProduct"
+        }
+      ],
+      "foodFeature": "肝のコク",
+      "profile": "rich",
+      "status": "ACTIVE"
+    },
+    {
+      "id": "shiroebi-himono",
+      "slug": "shiroebi-himono",
+      "name": "白えび素干し",
+      "shortName": "白えび素干し",
+      "prefecture": "富山県",
+      "region": "富山湾",
+      "category": "乾物",
+      "description": "富山湾の白えびを素干しにした小さな肴。殻ごと味わう一品です。",
+      "tasteTags": [],
+      "aromaTags": [
+        "toasty"
+      ],
+      "textureTags": [],
+      "pairingTags": [
+        "aroma",
+        "clean",
+        "umami"
+      ],
+      "sakeStyleTags": [],
+      "temperatureTags": [],
+      "seasonality": null,
+      "relatedFoodIds": [],
+      "sources": [
+        {
+          "url": "https://nmaicha.jp/hpgen/HPB/categories/27103.html",
+          "sourceType": "producerOfficial",
+          "checkedAt": "2026-10-22",
+          "scope": "food_culture_and_characteristics_not_retail_sku_specs",
+          "retrievalMode": "http_text",
+          "httpStatus": 200,
+          "meaning": "富山湾の白えびを素干しにした小さな肴。殻ごと味わう一品です。"
+        }
+      ],
+      "featureEvidence": [
+        {
+          "feature": "干したえびの風味",
+          "meaning": "富山湾の白えびを素干しにした小さな肴。殻ごと味わう一品です。",
+          "sourceUrls": [
+            "https://nmaicha.jp/hpgen/HPB/categories/27103.html",
+            "https://item.rakuten.co.jp/hamaura/shiraebi_suboshi-mon/"
+          ],
+          "provenance": "officialFoodDescriptionAndRetailProduct"
+        }
+      ],
+      "foodFeature": "干したえびの風味",
+      "profile": "toasty",
+      "status": "ACTIVE"
+    },
+    {
+      "id": "hotaruika-himono",
+      "slug": "hotaruika-himono",
+      "name": "ほたるいか素干し",
+      "shortName": "ほたるいか素干し",
+      "prefecture": "富山県",
+      "region": "富山湾",
+      "category": "乾物",
+      "description": "ほたるいかを干して凝縮した旨味。少し炙る食べ方も富山で親しまれています。",
+      "tasteTags": [
+        "umami"
+      ],
+      "aromaTags": [],
+      "textureTags": [],
+      "pairingTags": [
+        "umami",
+        "fermented",
+        "dry"
+      ],
+      "sakeStyleTags": [],
+      "temperatureTags": [],
+      "seasonality": null,
+      "relatedFoodIds": [],
+      "sources": [
+        {
+          "url": "https://www.info-toyama.com/stories/hotaruika-toyama",
+          "sourceType": "officialTourism",
+          "checkedAt": "2026-10-22",
+          "scope": "food_culture_and_characteristics_not_retail_sku_specs",
+          "retrievalMode": "http_text",
+          "httpStatus": 200,
+          "meaning": "ほたるいかを干して凝縮した旨味。少し炙る食べ方も富山で親しまれています。"
+        },
+        {
+          "url": "https://nmaicha.jp/",
+          "sourceType": "producerOfficial",
+          "checkedAt": "2026-10-22",
+          "scope": "food_culture_and_characteristics_not_retail_sku_specs",
+          "retrievalMode": "http_text",
+          "httpStatus": 200,
+          "meaning": "ほたるいかを干して凝縮した旨味。少し炙る食べ方も富山で親しまれています。"
+        }
+      ],
+      "featureEvidence": [
+        {
+          "feature": "凝縮した旨味",
+          "meaning": "ほたるいかを干して凝縮した旨味。少し炙る食べ方も富山で親しまれています。",
+          "sourceUrls": [
+            "https://www.info-toyama.com/stories/hotaruika-toyama",
+            "https://nmaicha.jp/",
+            "https://item.rakuten.co.jp/hamaura/hotaruika_suboshi2-mon/"
+          ],
+          "provenance": "officialFoodDescriptionAndRetailProduct"
+        }
+      ],
+      "foodFeature": "凝縮した旨味",
+      "profile": "umami",
+      "status": "ACTIVE"
+    },
+    {
+      "id": "heshiko",
+      "slug": "heshiko",
+      "name": "へしこ",
+      "shortName": "へしこ",
+      "prefecture": "福井県",
+      "region": "福井",
+      "category": "ぬか漬け",
+      "description": "魚を塩とぬかで漬ける福井の保存食、へしこ。薄切りを少しずつ味わいます。",
+      "tasteTags": [
+        "salty"
+      ],
+      "aromaTags": [],
+      "textureTags": [],
+      "pairingTags": [
+        "fermented",
+        "dry",
+        "umami"
+      ],
+      "sakeStyleTags": [],
+      "temperatureTags": [],
+      "seasonality": null,
+      "relatedFoodIds": [],
+      "sources": [
+        {
+          "url": "https://www.maff.go.jp/j/keikaku/syokubunka/traditional-foods/menu/hesiko.html",
+          "sourceType": "government",
+          "checkedAt": "2026-10-22",
+          "scope": "food_culture_and_characteristics_not_retail_sku_specs",
+          "retrievalMode": "http_text",
+          "httpStatus": 200,
+          "meaning": "魚を塩とぬかで漬ける福井の保存食、へしこ。薄切りを少しずつ味わいます。"
+        }
+      ],
+      "featureEvidence": [
+        {
+          "feature": "塩気",
+          "meaning": "魚を塩とぬかで漬ける福井の保存食、へしこ。薄切りを少しずつ味わいます。",
+          "sourceUrls": [
+            "https://www.maff.go.jp/j/keikaku/syokubunka/traditional-foods/menu/hesiko.html",
+            "https://item.rakuten.co.jp/echizengani/t05-02/"
+          ],
+          "provenance": "officialFoodDescriptionAndRetailProduct"
+        }
+      ],
+      "foodFeature": "塩気",
+      "profile": "salty",
+      "status": "ACTIVE"
+    },
+    {
+      "id": "kodai-sasazuke",
+      "slug": "kodai-sasazuke",
+      "name": "小鯛ささ漬け",
+      "shortName": "小鯛ささ漬け",
+      "prefecture": "福井県",
+      "region": "若狭・小浜",
+      "category": "酢漬け",
+      "description": "小鯛を塩と酢で軽く調味した、若狭小浜のささ漬け。",
+      "tasteTags": [
+        "acidic"
+      ],
+      "aromaTags": [],
+      "textureTags": [],
+      "pairingTags": [
+        "acid",
+        "clean",
+        "aroma"
+      ],
+      "sakeStyleTags": [],
+      "temperatureTags": [],
+      "seasonality": null,
+      "relatedFoodIds": [],
+      "sources": [
+        {
+          "url": "https://www.maff.go.jp/j/keikaku/syokubunka/traditional-foods/menu/wakasa_obama_kodai_sasazuke.html",
+          "sourceType": "government",
+          "checkedAt": "2026-10-22",
+          "scope": "food_culture_and_characteristics_not_retail_sku_specs",
+          "retrievalMode": "http_text",
+          "httpStatus": 200,
+          "meaning": "小鯛を塩と酢で軽く調味した、若狭小浜のささ漬け。"
+        }
+      ],
+      "featureEvidence": [
+        {
+          "feature": "酢の風味",
+          "meaning": "小鯛を塩と酢で軽く調味した、若狭小浜のささ漬け。",
+          "sourceUrls": [
+            "https://www.maff.go.jp/j/keikaku/syokubunka/traditional-foods/menu/wakasa_obama_kodai_sasazuke.html",
+            "https://item.rakuten.co.jp/g-callshop/43915/"
+          ],
+          "provenance": "officialFoodDescriptionAndRetailProduct"
+        }
+      ],
+      "foodFeature": "酢の風味",
+      "profile": "acidic",
+      "status": "ACTIVE"
+    }
+  ]
+}

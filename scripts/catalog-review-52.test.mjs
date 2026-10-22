@@ -9,6 +9,7 @@ import {normalizeBreweryName,eligibleSensoryEvidence,publicationGate} from '../s
 import {seasonallyRecommended} from '../src/catalog/seasonality.js';
 import {reviewedLineupLifecycle,reviewedLineupAdditionCount} from './lib/reviewed-lineup-update.mjs';
 import {reviewedCommerceUpdate} from './lib/reviewed-commerce-update.mjs';
+import {reviewedLocalSakanaFile} from './lib/reviewed-local-sakana.mjs';
 const read=p=>JSON.parse(fs.readFileSync(new URL('../'+p,import.meta.url)));
 const hash=v=>createHash('sha256').update(typeof v==='string'?v:JSON.stringify(v)).digest('hex');
 const audit=read('docs/catalog-review-52/adjudications.json'),baseline=read('docs/catalog-review-52/baseline-integrity.json'),newItems=read('src/data/catalogAdditions.json').items.filter(i=>audit.rows.some(a=>a.sakeId===i.id));
@@ -22,7 +23,7 @@ test('the immutable fixed cohort has a specific outcome for every candidate with
  assert.equal(pool.automaticPublicationAllowed,false);
 });
 test('all prior product identities, Verified fields, commerce and PWA stay intact',()=>{
- for(const [file,expected]of Object.entries(baseline.wholeFiles)){const actual=hash(fs.readFileSync(new URL('../'+file,import.meta.url),'utf8').replaceAll('\r\n','\n'));assert(actual===expected||(file==='src/data/catalogLifecycle.json'&&reviewedLineupLifecycle(expected,actual)),file);}
+ for(const [file,expected]of Object.entries(baseline.wholeFiles)){const actual=hash(fs.readFileSync(new URL('../'+file,import.meta.url),'utf8').replaceAll('\r\n','\n'));assert(actual===expected||(file==='src/data/catalogLifecycle.json'&&reviewedLineupLifecycle(expected,actual))||reviewedLocalSakanaFile(file,expected,actual),file);}
  const additions=read('src/data/catalogAdditions.json').items;
  for(const [id,expected]of Object.entries(baseline.priorAdditions))assert.equal(hash(additions.find(x=>x.id===id)),expected);
  for(const [file,records]of Object.entries(baseline.records)){const current=read(file),map=file.endsWith('product-media.json')||file.endsWith('merchant-links.json')?current.records:current;for(const[id,expected]of Object.entries(records)){

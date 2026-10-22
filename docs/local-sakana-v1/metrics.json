@@ -1,0 +1,181 @@
+{
+  "checkedAt": "2026-10-22T10:35:50.664Z",
+  "before": {
+    "active": 484,
+    "direct": 484,
+    "images": 484,
+    "fallback": 0,
+    "missingPrefecture": 9,
+    "breweries": 341,
+    "prefectures": 46,
+    "failed": 0
+  },
+  "after": {
+    "active": 484,
+    "missingPrefecture": 0,
+    "breweries": 340,
+    "prefectures": 46,
+    "direct": 484,
+    "images": 484,
+    "fallback": 0
+  },
+  "countyCounts": {
+    "三重県": 9,
+    "京都府": 16,
+    "佐賀県": 12,
+    "兵庫県": 19,
+    "北海道": 15,
+    "千葉県": 7,
+    "和歌山県": 8,
+    "埼玉県": 5,
+    "大分県": 8,
+    "大阪府": 7,
+    "奈良県": 10,
+    "宮城県": 19,
+    "宮崎県": 4,
+    "富山県": 10,
+    "山口県": 9,
+    "山形県": 14,
+    "山梨県": 7,
+    "岐阜県": 9,
+    "岡山県": 8,
+    "岩手県": 10,
+    "島根県": 5,
+    "広島県": 14,
+    "徳島県": 6,
+    "愛媛県": 12,
+    "愛知県": 12,
+    "新潟県": 29,
+    "東京都": 11,
+    "栃木県": 9,
+    "滋賀県": 8,
+    "熊本県": 7,
+    "石川県": 15,
+    "神奈川県": 9,
+    "福井県": 9,
+    "福岡県": 14,
+    "福島県": 16,
+    "秋田県": 17,
+    "群馬県": 8,
+    "茨城県": 7,
+    "長崎県": 7,
+    "長野県": 14,
+    "青森県": 9,
+    "静岡県": 10,
+    "香川県": 7,
+    "高知県": 12,
+    "鳥取県": 5,
+    "鹿児島県": 6
+  },
+  "regional": [
+    {
+      "prefecture": "新潟県",
+      "sake": 29,
+      "specialties": 2,
+      "displaySake": 23,
+      "pairings": 41
+    },
+    {
+      "prefecture": "宮城県",
+      "sake": 19,
+      "specialties": 3,
+      "displaySake": 14,
+      "pairings": 25
+    },
+    {
+      "prefecture": "秋田県",
+      "sake": 17,
+      "specialties": 2,
+      "displaySake": 13,
+      "pairings": 18
+    },
+    {
+      "prefecture": "石川県",
+      "sake": 15,
+      "specialties": 2,
+      "displaySake": 12,
+      "pairings": 21
+    },
+    {
+      "prefecture": "北海道",
+      "sake": 15,
+      "specialties": 3,
+      "displaySake": 12,
+      "pairings": 18
+    },
+    {
+      "prefecture": "佐賀県",
+      "sake": 12,
+      "specialties": 3,
+      "displaySake": 11,
+      "pairings": 19
+    },
+    {
+      "prefecture": "高知県",
+      "sake": 12,
+      "specialties": 2,
+      "displaySake": 11,
+      "pairings": 20
+    },
+    {
+      "prefecture": "富山県",
+      "sake": 10,
+      "specialties": 3,
+      "displaySake": 3,
+      "pairings": 6
+    },
+    {
+      "prefecture": "福井県",
+      "sake": 9,
+      "specialties": 2,
+      "displaySake": 8,
+      "pairings": 13
+    }
+  ],
+  "research": {
+    "checkedAt": "2026-10-22T10:17:40.905Z",
+    "candidateSpecialties": 27,
+    "accepted": 22,
+    "held": 5,
+    "rejected": 0,
+    "commerce": 22,
+    "formalImages": 22,
+    "targetSake": 138,
+    "displaySake": 107,
+    "pairings": 181,
+    "high": 0,
+    "medium": 181,
+    "zero": 31,
+    "one": 33,
+    "two": 74,
+    "three": 0,
+    "overlapExcluded": 16,
+    "prefectures": [
+      "新潟県",
+      "宮城県",
+      "秋田県",
+      "石川県",
+      "北海道",
+      "佐賀県",
+      "高知県",
+      "富山県",
+      "福井県"
+    ]
+  },
+  "uniqueCandidateKinds": {
+    "donation": 128,
+    "unconfirmed": 247,
+    "bundle": 245,
+    "selector": 5
+  },
+  "normalRetailAudit": 22,
+  "buildPassed": true,
+  "tests": 188,
+  "localBrowserPassed": true,
+  "productionBrowserPassed": false,
+  "productionHttpPassed": false,
+  "pwaPassed": false,
+  "productionDeployment": "PENDING",
+  "realIphone": false,
+  "realAndroid": false
+}

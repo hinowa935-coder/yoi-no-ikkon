@@ -1,0 +1,796 @@
+{
+  "offers": [
+    {
+      "specialtyId": "tochio-aburaage",
+      "rakutenUrl": "https://item.rakuten.co.jp/niigata-shop/0148-001-02/",
+      "merchant": "新潟県公式ショップ 新潟直送計画",
+      "itemCode": "niigata-shop:10001270",
+      "sku": null,
+      "quantity": "5枚",
+      "availabilityStatus": "AVAILABLE",
+      "originEvidence": {
+        "sourceUrl": "https://item.rakuten.co.jp/niigata-shop/0148-001-02/",
+        "checkedAt": "2026-10-22T09:53:36.882Z",
+        "meaning": "現行単品の商品説明・名称・原材料/産地・量を確認。文化上の地域性とは区別。"
+      },
+      "lastCheckedAt": "2026-10-22T09:53:36.882Z",
+      "validUntil": "2027-01-22T00:00:00+09:00",
+      "registeredSite": "https://yoi-no-ikkon.vercel.app/",
+      "operatorApproved": true,
+      "affiliate": {
+        "sourceType": "rakutenOfficialTool",
+        "url": "https://hb.afl.rakuten.co.jp/ichiba/589ae09c.23040117.589ae09d.153c4b90/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fniigata-shop%2F0148-001-02%2F&link_type=text&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJ0ZXh0Iiwic2l6ZSI6IjgweDgwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjAsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "originalTextHtml": "<a href=\"https://hb.afl.rakuten.co.jp/ichiba/589ae09c.23040117.589ae09d.153c4b90/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fniigata-shop%2F0148-001-02%2F&link_type=text&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJ0ZXh0Iiwic2l6ZSI6IjgweDgwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjAsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D\" target=\"_blank\" rel=\"nofollow sponsored noopener\" style=\"word-wrap:break-word;\">新潟名物の大きな油揚げ！栃尾の油揚げ 5枚入り 〜 20枚入り 佐藤豆腐店 ジャンボ油揚げ ケンミンショー 新潟県 生産者直送 お取り寄せ ギフト プレゼント 贈り物</a>",
+        "issuedAt": "2026-10-22T09:48:47.001Z"
+      },
+      "image": {
+        "src": "https://hbb.afl.rakuten.co.jp/hgb/589ae09c.23040117.589ae09d.153c4b90/?me_id=1285822&item_id=10001270&pc=https%3A%2F%2Fthumbnail.image.rakuten.co.jp%2F%400_mall%2Fniigata-shop%2Fcabinet%2Fitem%2F0148%2F0148-001-a.jpg%3F_ex%3D240x240&s=240x240&t=pict",
+        "width": 240,
+        "height": 240,
+        "html": "<a href=\"https://hb.afl.rakuten.co.jp/ichiba/589ae09c.23040117.589ae09d.153c4b90/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fniigata-shop%2F0148-001-02%2F&link_type=pict&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0Iiwic2l6ZSI6IjI0MHgyNDAiLCJuYW0iOjEsIm5hbXAiOiJyaWdodCIsImNvbSI6MSwiY29tcCI6ImRvd24iLCJwcmljZSI6MCwiYm9yIjoxLCJjb2wiOjEsImJidG4iOjEsInByb2QiOjAsImFtcCI6ZmFsc2V9\" target=\"_blank\" rel=\"nofollow sponsored noopener\" style=\"word-wrap:break-word;\"><img src=\"https://hbb.afl.rakuten.co.jp/hgb/589ae09c.23040117.589ae09d.153c4b90/?me_id=1285822&item_id=10001270&pc=https%3A%2F%2Fthumbnail.image.rakuten.co.jp%2F%400_mall%2Fniigata-shop%2Fcabinet%2Fitem%2F0148%2F0148-001-a.jpg%3F_ex%3D240x240&s=240x240&t=pict\" border=\"0\" style=\"margin:2px\" alt=\"\" title=\"\"></a>",
+        "originalSha256": "6faf8b07b8c08d644b539e18cf19dd14817eeaaabef2eb0d0fdcf778819d087a",
+        "sourceType": "rakutenOfficialTool",
+        "originalUnmodified": true,
+        "permissionConfirmed": true,
+        "productUrl": "https://item.rakuten.co.jp/niigata-shop/0148-001-02/",
+        "issuedAt": "2026-10-22T09:48:47.001Z"
+      }
+    },
+    {
+      "specialtyId": "kanzuri-shuto",
+      "rakutenUrl": "https://item.rakuten.co.jp/auc-kusanoya/kanzurisyu/",
+      "merchant": "謙信笹だんご本舗くさのや",
+      "itemCode": "auc-kusanoya:10000049",
+      "sku": null,
+      "quantity": "80g",
+      "availabilityStatus": "AVAILABLE",
+      "originEvidence": {
+        "sourceUrl": "https://item.rakuten.co.jp/auc-kusanoya/kanzurisyu/",
+        "checkedAt": "2026-10-22T09:53:37.145Z",
+        "meaning": "現行単品の商品説明・名称・原材料/産地・量を確認。文化上の地域性とは区別。"
+      },
+      "lastCheckedAt": "2026-10-22T09:53:37.145Z",
+      "validUntil": "2027-01-22T00:00:00+09:00",
+      "registeredSite": "https://yoi-no-ikkon.vercel.app/",
+      "operatorApproved": true,
+      "affiliate": {
+        "sourceType": "rakutenOfficialTool",
+        "url": "https://hb.afl.rakuten.co.jp/ichiba/58b56169.cf933860.58b5616a.6100f9cb/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fauc-kusanoya%2Fkanzurisyu%2F&link_type=text&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJ0ZXh0Iiwic2l6ZSI6IjgweDgwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjAsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "originalTextHtml": "<a href=\"https://hb.afl.rakuten.co.jp/ichiba/58b56169.cf933860.58b5616a.6100f9cb/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fauc-kusanoya%2Fkanzurisyu%2F&link_type=text&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJ0ZXh0Iiwic2l6ZSI6IjgweDgwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjAsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D\" target=\"_blank\" rel=\"nofollow sponsored noopener\" style=\"word-wrap:break-word;\">【かんずり酒盗 80g】お酒のお友に塩分控えめの絶品珍味</a>",
+        "issuedAt": "2026-10-22T09:48:49.569Z"
+      },
+      "image": {
+        "src": "https://hbb.afl.rakuten.co.jp/hgb/58b56169.cf933860.58b5616a.6100f9cb/?me_id=1274346&item_id=10000049&pc=https%3A%2F%2Fthumbnail.image.rakuten.co.jp%2F%400_mall%2Fauc-kusanoya%2Fcabinet%2F02584392%2Ftokusan%2Fkanzsyu_525.jpg%3F_ex%3D240x240&s=240x240&t=pict",
+        "width": 240,
+        "height": 240,
+        "html": "<a href=\"https://hb.afl.rakuten.co.jp/ichiba/58b56169.cf933860.58b5616a.6100f9cb/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fauc-kusanoya%2Fkanzurisyu%2F&link_type=pict&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0Iiwic2l6ZSI6IjI0MHgyNDAiLCJuYW0iOjEsIm5hbXAiOiJyaWdodCIsImNvbSI6MSwiY29tcCI6ImRvd24iLCJwcmljZSI6MCwiYm9yIjoxLCJjb2wiOjEsImJidG4iOjEsInByb2QiOjAsImFtcCI6ZmFsc2V9\" target=\"_blank\" rel=\"nofollow sponsored noopener\" style=\"word-wrap:break-word;\"><img src=\"https://hbb.afl.rakuten.co.jp/hgb/58b56169.cf933860.58b5616a.6100f9cb/?me_id=1274346&item_id=10000049&pc=https%3A%2F%2Fthumbnail.image.rakuten.co.jp%2F%400_mall%2Fauc-kusanoya%2Fcabinet%2F02584392%2Ftokusan%2Fkanzsyu_525.jpg%3F_ex%3D240x240&s=240x240&t=pict\" border=\"0\" style=\"margin:2px\" alt=\"\" title=\"\"></a>",
+        "originalSha256": "199121bfd2249db4d4247fdb6f8ac6acadd4cc97f5b14790c7c86b107391d7e8",
+        "sourceType": "rakutenOfficialTool",
+        "originalUnmodified": true,
+        "permissionConfirmed": true,
+        "productUrl": "https://item.rakuten.co.jp/auc-kusanoya/kanzurisyu/",
+        "issuedAt": "2026-10-22T09:48:49.569Z"
+      }
+    },
+    {
+      "specialtyId": "sasa-kamaboko",
+      "rakutenUrl": "https://item.rakuten.co.jp/sasanao-sasanao/item-13/",
+      "merchant": "笹かまぼこの佐々直 楽天市場店",
+      "itemCode": "sasanao-sasanao:10000008",
+      "sku": null,
+      "quantity": "4枚",
+      "availabilityStatus": "AVAILABLE",
+      "originEvidence": {
+        "sourceUrl": "https://item.rakuten.co.jp/sasanao-sasanao/item-13/",
+        "checkedAt": "2026-10-22T10:11:09.277Z",
+        "meaning": "現行単品の商品説明・名称・原材料/産地・量を確認。文化上の地域性とは区別。"
+      },
+      "lastCheckedAt": "2026-10-22T10:11:09.277Z",
+      "validUntil": "2027-01-22T00:00:00+09:00",
+      "registeredSite": "https://yoi-no-ikkon.vercel.app/",
+      "operatorApproved": true,
+      "affiliate": {
+        "sourceType": "rakutenOfficialTool",
+        "url": "https://hb.afl.rakuten.co.jp/ichiba/58b5919c.f1d56086.58b5919d.3ea34f70/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsasanao-sasanao%2Fitem-13%2F&link_type=text&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJ0ZXh0Iiwic2l6ZSI6IjgweDgwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjAsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "originalTextHtml": "<a href=\"https://hb.afl.rakuten.co.jp/ichiba/58b5919c.f1d56086.58b5919d.3ea34f70/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsasanao-sasanao%2Fitem-13%2F&link_type=text&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJ0ZXh0Iiwic2l6ZSI6IjgweDgwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjAsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D\" target=\"_blank\" rel=\"nofollow sponsored noopener\" style=\"word-wrap:break-word;\">【 笹かまぼこ 】手のひら蒲鉾4枚パッケージ入 (T-004) ＜ かまぼこ 佐々直 ＞【 仙台宮城の名物を産地直送！スケソウダラのすり身に高級魚 吉次(キンキ)を練り込み炭火で焼きました。土産、おやつ、おかずに便利な個包装のささかま 】</a>",
+        "issuedAt": "2026-10-22T10:15:29.613Z"
+      },
+      "image": {
+        "src": "https://hbb.afl.rakuten.co.jp/hgb/58b5919c.f1d56086.58b5919d.3ea34f70/?me_id=1303546&item_id=10000008&pc=https%3A%2F%2Fthumbnail.image.rakuten.co.jp%2F%400_mall%2Fsasanao-sasanao%2Fcabinet%2Fs%2Fitempage%2Ft004%2Fitem-13-flkimg.jpg%3F_ex%3D240x240&s=240x240&t=pict",
+        "width": 240,
+        "height": 240,
+        "html": "<a href=\"https://hb.afl.rakuten.co.jp/ichiba/58b5919c.f1d56086.58b5919d.3ea34f70/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsasanao-sasanao%2Fitem-13%2F&link_type=pict&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0Iiwic2l6ZSI6IjI0MHgyNDAiLCJuYW0iOjEsIm5hbXAiOiJyaWdodCIsImNvbSI6MSwiY29tcCI6ImRvd24iLCJwcmljZSI6MCwiYm9yIjoxLCJjb2wiOjEsImJidG4iOjEsInByb2QiOjAsImFtcCI6ZmFsc2V9\" target=\"_blank\" rel=\"nofollow sponsored noopener\" style=\"word-wrap:break-word;\"><img src=\"https://hbb.afl.rakuten.co.jp/hgb/58b5919c.f1d56086.58b5919d.3ea34f70/?me_id=1303546&item_id=10000008&pc=https%3A%2F%2Fthumbnail.image.rakuten.co.jp%2F%400_mall%2Fsasanao-sasanao%2Fcabinet%2Fs%2Fitempage%2Ft004%2Fitem-13-flkimg.jpg%3F_ex%3D240x240&s=240x240&t=pict\" border=\"0\" style=\"margin:2px\" alt=\"\" title=\"\"></a>",
+        "originalSha256": "de5da027376853664fdfe912056857294e60ee850aec506f6e4427d8323e9cc4",
+        "sourceType": "rakutenOfficialTool",
+        "originalUnmodified": true,
+        "permissionConfirmed": true,
+        "productUrl": "https://item.rakuten.co.jp/sasanao-sasanao/item-13/",
+        "issuedAt": "2026-10-22T10:15:29.613Z"
+      }
+    },
+    {
+      "specialtyId": "hoya-chinmi",
+      "rakutenUrl": "https://item.rakuten.co.jp/auc-de-mer/10180302/",
+      "merchant": "魚問屋 鯖陣",
+      "itemCode": "auc-de-mer:10000275",
+      "sku": null,
+      "quantity": "30g",
+      "availabilityStatus": "AVAILABLE",
+      "originEvidence": {
+        "sourceUrl": "https://item.rakuten.co.jp/auc-de-mer/10180302/",
+        "checkedAt": "2026-10-22T09:53:37.592Z",
+        "meaning": "現行単品の商品説明・名称・原材料/産地・量を確認。文化上の地域性とは区別。"
+      },
+      "lastCheckedAt": "2026-10-22T09:53:37.592Z",
+      "validUntil": "2027-01-22T00:00:00+09:00",
+      "registeredSite": "https://yoi-no-ikkon.vercel.app/",
+      "operatorApproved": true,
+      "affiliate": {
+        "sourceType": "rakutenOfficialTool",
+        "url": "https://hb.afl.rakuten.co.jp/ichiba/58b56bd1.28079842.58b56bd2.4c298936/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fauc-de-mer%2F10180302%2F&link_type=text&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJ0ZXh0Iiwic2l6ZSI6IjgweDgwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjAsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "originalTextHtml": "<a href=\"https://hb.afl.rakuten.co.jp/ichiba/58b56bd1.28079842.58b56bd2.4c298936/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fauc-de-mer%2F10180302%2F&link_type=text&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJ0ZXh0Iiwic2l6ZSI6IjgweDgwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjAsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D\" target=\"_blank\" rel=\"nofollow sponsored noopener\" style=\"word-wrap:break-word;\">あぶり燻製 宮城県産 燻りほや 30g×1パック 甘い、旨い、さわやかなほやを桜のチップで燻し熟成 ホヤ 海鞘 燻製 スモーク 三陸 三陸のホヤ 魚介 家飲み 酒の肴 酒のつまみ おつまみ 珍味 冷凍 お取り寄せ 通販 人気 ランキング</a>",
+        "issuedAt": "2026-10-22T09:48:56.352Z"
+      },
+      "image": {
+        "src": "https://hbb.afl.rakuten.co.jp/hgb/58b56bd1.28079842.58b56bd2.4c298936/?me_id=1234823&item_id=10000275&pc=https%3A%2F%2Fthumbnail.image.rakuten.co.jp%2F%400_mall%2Fauc-de-mer%2Fcabinet%2Fth1%2Fimgrc0162874683.jpg%3F_ex%3D240x240&s=240x240&t=pict",
+        "width": 240,
+        "height": 240,
+        "html": "<a href=\"https://hb.afl.rakuten.co.jp/ichiba/58b56bd1.28079842.58b56bd2.4c298936/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fauc-de-mer%2F10180302%2F&link_type=pict&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0Iiwic2l6ZSI6IjI0MHgyNDAiLCJuYW0iOjEsIm5hbXAiOiJyaWdodCIsImNvbSI6MSwiY29tcCI6ImRvd24iLCJwcmljZSI6MCwiYm9yIjoxLCJjb2wiOjEsImJidG4iOjEsInByb2QiOjAsImFtcCI6ZmFsc2V9\" target=\"_blank\" rel=\"nofollow sponsored noopener\" style=\"word-wrap:break-word;\"><img src=\"https://hbb.afl.rakuten.co.jp/hgb/58b56bd1.28079842.58b56bd2.4c298936/?me_id=1234823&item_id=10000275&pc=https%3A%2F%2Fthumbnail.image.rakuten.co.jp%2F%400_mall%2Fauc-de-mer%2Fcabinet%2Fth1%2Fimgrc0162874683.jpg%3F_ex%3D240x240&s=240x240&t=pict\" border=\"0\" style=\"margin:2px\" alt=\"\" title=\"\"></a>",
+        "originalSha256": "4317b35f439a3e65c8d817eb427d70b55a0308ce079a55d40f7582dc804f764e",
+        "sourceType": "rakutenOfficialTool",
+        "originalUnmodified": true,
+        "permissionConfirmed": true,
+        "productUrl": "https://item.rakuten.co.jp/auc-de-mer/10180302/",
+        "issuedAt": "2026-10-22T09:48:56.352Z"
+      }
+    },
+    {
+      "specialtyId": "kaki-oil",
+      "rakutenUrl": "https://item.rakuten.co.jp/tsutsu-uraura/kinoya-kaki115-3s/",
+      "merchant": "にっぽん津々浦々",
+      "itemCode": "tsutsu-uraura:10012412",
+      "sku": null,
+      "quantity": "115g",
+      "availabilityStatus": "AVAILABLE",
+      "originEvidence": {
+        "sourceUrl": "https://item.rakuten.co.jp/tsutsu-uraura/kinoya-kaki115-3s/",
+        "checkedAt": "2026-10-22T09:53:37.760Z",
+        "meaning": "現行単品の商品説明・名称・原材料/産地・量を確認。文化上の地域性とは区別。"
+      },
+      "lastCheckedAt": "2026-10-22T09:53:37.760Z",
+      "validUntil": "2027-01-22T00:00:00+09:00",
+      "registeredSite": "https://yoi-no-ikkon.vercel.app/",
+      "operatorApproved": true,
+      "affiliate": {
+        "sourceType": "rakutenOfficialTool",
+        "url": "https://hb.afl.rakuten.co.jp/ichiba/58a580ee.ffae967c.58a580ef.0e652e71/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftsutsu-uraura%2Fkinoya-kaki115-3s%2F&link_type=text&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJ0ZXh0Iiwic2l6ZSI6IjgweDgwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjAsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "originalTextHtml": "<a href=\"https://hb.afl.rakuten.co.jp/ichiba/58a580ee.ffae967c.58a580ef.0e652e71/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftsutsu-uraura%2Fkinoya-kaki115-3s%2F&link_type=text&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJ0ZXh0Iiwic2l6ZSI6IjgweDgwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjAsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D\" target=\"_blank\" rel=\"nofollow sponsored noopener\" style=\"word-wrap:break-word;\">【マラソン限定クーポン配布中】木の屋石巻水産 牡蠣の燻製油漬け 115g 【 ご飯のお供 ご飯のおとも おかず ご飯 ごはん きのや 石巻 宮城県 カキ かき オイル漬け 缶詰 牡蠣缶 カキ燻製 贅沢 旨み おつまみ パスタお取り寄せグルメ 】</a>",
+        "issuedAt": "2026-10-22T09:58:03.254Z"
+      },
+      "image": {
+        "src": "https://hbb.afl.rakuten.co.jp/hgb/58a580ee.ffae967c.58a580ef.0e652e71/?me_id=1269524&item_id=10012412&pc=https%3A%2F%2Fthumbnail.image.rakuten.co.jp%2F%400_mall%2Ftsutsu-uraura%2Fcabinet%2Fproductpic_0%2Fkinoya-kaki115-500.jpg%3F_ex%3D240x240&s=240x240&t=pict",
+        "width": 240,
+        "height": 240,
+        "html": "<a href=\"https://hb.afl.rakuten.co.jp/ichiba/58a580ee.ffae967c.58a580ef.0e652e71/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftsutsu-uraura%2Fkinoya-kaki115-3s%2F&link_type=pict&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0Iiwic2l6ZSI6IjI0MHgyNDAiLCJuYW0iOjEsIm5hbXAiOiJyaWdodCIsImNvbSI6MSwiY29tcCI6ImRvd24iLCJwcmljZSI6MCwiYm9yIjoxLCJjb2wiOjEsImJidG4iOjEsInByb2QiOjAsImFtcCI6ZmFsc2V9\" target=\"_blank\" rel=\"nofollow sponsored noopener\" style=\"word-wrap:break-word;\"><img src=\"https://hbb.afl.rakuten.co.jp/hgb/58a580ee.ffae967c.58a580ef.0e652e71/?me_id=1269524&item_id=10012412&pc=https%3A%2F%2Fthumbnail.image.rakuten.co.jp%2F%400_mall%2Ftsutsu-uraura%2Fcabinet%2Fproductpic_0%2Fkinoya-kaki115-500.jpg%3F_ex%3D240x240&s=240x240&t=pict\" border=\"0\" style=\"margin:2px\" alt=\"\" title=\"\"></a>",
+        "originalSha256": "b5c987f83a0eb61585b3ebe7b868cff03d0a527eb05fef6672d21891eeadfaa2",
+        "sourceType": "rakutenOfficialTool",
+        "originalUnmodified": true,
+        "permissionConfirmed": true,
+        "productUrl": "https://item.rakuten.co.jp/tsutsu-uraura/kinoya-kaki115-3s/",
+        "issuedAt": "2026-10-22T09:58:03.254Z"
+      }
+    },
+    {
+      "specialtyId": "iburigakko",
+      "rakutenUrl": "https://item.rakuten.co.jp/1010kanekyu/1001/",
+      "merchant": "おつけもの 千住金久",
+      "itemCode": "1010kanekyu:10000467",
+      "sku": null,
+      "quantity": "100g",
+      "availabilityStatus": "AVAILABLE",
+      "originEvidence": {
+        "sourceUrl": "https://item.rakuten.co.jp/1010kanekyu/1001/",
+        "checkedAt": "2026-10-22T09:53:37.932Z",
+        "meaning": "現行単品の商品説明・名称・原材料/産地・量を確認。文化上の地域性とは区別。"
+      },
+      "lastCheckedAt": "2026-10-22T09:53:37.932Z",
+      "validUntil": "2027-01-22T00:00:00+09:00",
+      "registeredSite": "https://yoi-no-ikkon.vercel.app/",
+      "operatorApproved": true,
+      "affiliate": {
+        "sourceType": "rakutenOfficialTool",
+        "url": "https://hb.afl.rakuten.co.jp/ichiba/58b56bfb.3b235a50.58b56bfc.e749618a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2F1010kanekyu%2F1001%2F&link_type=text&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJ0ZXh0Iiwic2l6ZSI6IjgweDgwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjAsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "originalTextHtml": "<a href=\"https://hb.afl.rakuten.co.jp/ichiba/58b56bfb.3b235a50.58b56bfc.e749618a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2F1010kanekyu%2F1001%2F&link_type=text&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJ0ZXh0Iiwic2l6ZSI6IjgweDgwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjAsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D\" target=\"_blank\" rel=\"nofollow sponsored noopener\" style=\"word-wrap:break-word;\">【いぶりがっこ】いぶりの里　いぶりがっこ　スライス　100g【沢庵】【たくあん】【いぶりがっこ】</a>",
+        "issuedAt": "2026-10-22T09:58:06.133Z"
+      },
+      "image": {
+        "src": "https://hbb.afl.rakuten.co.jp/hgb/58b56bfb.3b235a50.58b56bfc.e749618a/?me_id=1247900&item_id=10000467&pc=https%3A%2F%2Fthumbnail.image.rakuten.co.jp%2F%400_mall%2F1010kanekyu%2Fcabinet%2Ftakuan%2Fimgrc0119021065.jpg%3F_ex%3D240x240&s=240x240&t=pict",
+        "width": 240,
+        "height": 240,
+        "html": "<a href=\"https://hb.afl.rakuten.co.jp/ichiba/58b56bfb.3b235a50.58b56bfc.e749618a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2F1010kanekyu%2F1001%2F&link_type=pict&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0Iiwic2l6ZSI6IjI0MHgyNDAiLCJuYW0iOjEsIm5hbXAiOiJyaWdodCIsImNvbSI6MSwiY29tcCI6ImRvd24iLCJwcmljZSI6MCwiYm9yIjoxLCJjb2wiOjEsImJidG4iOjEsInByb2QiOjAsImFtcCI6ZmFsc2V9\" target=\"_blank\" rel=\"nofollow sponsored noopener\" style=\"word-wrap:break-word;\"><img src=\"https://hbb.afl.rakuten.co.jp/hgb/58b56bfb.3b235a50.58b56bfc.e749618a/?me_id=1247900&item_id=10000467&pc=https%3A%2F%2Fthumbnail.image.rakuten.co.jp%2F%400_mall%2F1010kanekyu%2Fcabinet%2Ftakuan%2Fimgrc0119021065.jpg%3F_ex%3D240x240&s=240x240&t=pict\" border=\"0\" style=\"margin:2px\" alt=\"\" title=\"\"></a>",
+        "originalSha256": "5f6efcab29ea838008383ae6101e1740b0b80e395bd33a028d577efa69ec2784",
+        "sourceType": "rakutenOfficialTool",
+        "originalUnmodified": true,
+        "permissionConfirmed": true,
+        "productUrl": "https://item.rakuten.co.jp/1010kanekyu/1001/",
+        "issuedAt": "2026-10-22T09:58:06.133Z"
+      }
+    },
+    {
+      "specialtyId": "gibasa",
+      "rakutenUrl": "https://item.rakuten.co.jp/tucano/10000977-1/",
+      "merchant": "TUCANO 楽天市場店",
+      "itemCode": "tucano:10001081",
+      "sku": null,
+      "quantity": "200g",
+      "availabilityStatus": "AVAILABLE",
+      "originEvidence": {
+        "sourceUrl": "https://item.rakuten.co.jp/tucano/10000977-1/",
+        "checkedAt": "2026-10-22T09:53:38.092Z",
+        "meaning": "現行単品の商品説明・名称・原材料/産地・量を確認。文化上の地域性とは区別。"
+      },
+      "lastCheckedAt": "2026-10-22T09:53:38.092Z",
+      "validUntil": "2027-01-22T00:00:00+09:00",
+      "registeredSite": "https://yoi-no-ikkon.vercel.app/",
+      "operatorApproved": true,
+      "affiliate": {
+        "sourceType": "rakutenOfficialTool",
+        "url": "https://hb.afl.rakuten.co.jp/ichiba/58b56c61.46721a8a.58b56c62.de8966e6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftucano%2F10000977-1%2F&link_type=text&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJ0ZXh0Iiwic2l6ZSI6IjgweDgwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjAsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "originalTextHtml": "<a href=\"https://hb.afl.rakuten.co.jp/ichiba/58b56c61.46721a8a.58b56c62.de8966e6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftucano%2F10000977-1%2F&link_type=text&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJ0ZXh0Iiwic2l6ZSI6IjgweDgwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjAsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D\" target=\"_blank\" rel=\"nofollow sponsored noopener\" style=\"word-wrap:break-word;\">【冷凍】ぎばさ(アカモク) ボイル済 200g 男鹿なび(三高水産を継承)</a>",
+        "issuedAt": "2026-10-22T09:49:21.883Z"
+      },
+      "image": {
+        "src": "https://hbb.afl.rakuten.co.jp/hgb/58b56c61.46721a8a.58b56c62.de8966e6/?me_id=1284237&item_id=10001081&pc=https%3A%2F%2Fthumbnail.image.rakuten.co.jp%2F%400_mall%2Ftucano%2Fcabinet%2F03264051%2Fimgrc0069084007.jpg%3F_ex%3D240x240&s=240x240&t=pict",
+        "width": 240,
+        "height": 240,
+        "html": "<a href=\"https://hb.afl.rakuten.co.jp/ichiba/58b56c61.46721a8a.58b56c62.de8966e6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftucano%2F10000977-1%2F&link_type=pict&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0Iiwic2l6ZSI6IjI0MHgyNDAiLCJuYW0iOjEsIm5hbXAiOiJyaWdodCIsImNvbSI6MSwiY29tcCI6ImRvd24iLCJwcmljZSI6MCwiYm9yIjoxLCJjb2wiOjEsImJidG4iOjEsInByb2QiOjAsImFtcCI6ZmFsc2V9\" target=\"_blank\" rel=\"nofollow sponsored noopener\" style=\"word-wrap:break-word;\"><img src=\"https://hbb.afl.rakuten.co.jp/hgb/58b56c61.46721a8a.58b56c62.de8966e6/?me_id=1284237&item_id=10001081&pc=https%3A%2F%2Fthumbnail.image.rakuten.co.jp%2F%400_mall%2Ftucano%2Fcabinet%2F03264051%2Fimgrc0069084007.jpg%3F_ex%3D240x240&s=240x240&t=pict\" border=\"0\" style=\"margin:2px\" alt=\"\" title=\"\"></a>",
+        "originalSha256": "4beac78e48451c6cff4be14317aacf888ec215b2bcdb5dd38372619e7cf64dc7",
+        "sourceType": "rakutenOfficialTool",
+        "originalUnmodified": true,
+        "permissionConfirmed": true,
+        "productUrl": "https://item.rakuten.co.jp/tucano/10000977-1/",
+        "issuedAt": "2026-10-22T09:49:21.883Z"
+      }
+    },
+    {
+      "specialtyId": "kabura-zushi",
+      "rakutenUrl": "https://item.rakuten.co.jp/kabura/kabura-1112/",
+      "merchant": "創業150年 金沢:四十萬谷本舗",
+      "itemCode": "kabura:10000015",
+      "sku": null,
+      "quantity": "約3枚",
+      "availabilityStatus": "AVAILABLE",
+      "originEvidence": {
+        "sourceUrl": "https://item.rakuten.co.jp/kabura/kabura-1112/",
+        "checkedAt": "2026-10-22T09:53:38.242Z",
+        "meaning": "現行単品の商品説明・名称・原材料/産地・量を確認。文化上の地域性とは区別。"
+      },
+      "lastCheckedAt": "2026-10-22T09:53:38.242Z",
+      "validUntil": "2027-01-22T00:00:00+09:00",
+      "registeredSite": "https://yoi-no-ikkon.vercel.app/",
+      "operatorApproved": true,
+      "affiliate": {
+        "sourceType": "rakutenOfficialTool",
+        "url": "https://hb.afl.rakuten.co.jp/ichiba/58b56c7d.c29151b1.58b56c7e.71c63052/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkabura%2Fkabura-1112%2F&link_type=text&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJ0ZXh0Iiwic2l6ZSI6IjgweDgwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjAsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "originalTextHtml": "<a href=\"https://hb.afl.rakuten.co.jp/ichiba/58b56c7d.c29151b1.58b56c7e.71c63052/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkabura%2Fkabura-1112%2F&link_type=text&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJ0ZXh0Iiwic2l6ZSI6IjgweDgwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjAsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D\" target=\"_blank\" rel=\"nofollow sponsored noopener\" style=\"word-wrap:break-word;\">【金城かぶら寿し（ご自宅用 約3枚）】かぶらずし かぶら寿司カブラ寿司 カブラズシ 北陸 石川 金沢 ご当地 グルメ お土産 ギフト お歳暮 贈り物 お祝い お取り寄せ ご褒美 おつまみ 酒の肴 お酒のおとも 国産 熟成 鰤 かぶ 糀 麹 漬物 伝統発酵食 創業明治8年 四十萬谷本舗</a>",
+        "issuedAt": "2026-10-22T09:49:26.033Z"
+      },
+      "image": {
+        "src": "https://hbb.afl.rakuten.co.jp/hgb/58b56c7d.c29151b1.58b56c7e.71c63052/?me_id=1192081&item_id=10000015&pc=https%3A%2F%2Fthumbnail.image.rakuten.co.jp%2F%400_mall%2Fkabura%2Fcabinet%2Fimgrc0124527448.jpg%3F_ex%3D240x240&s=240x240&t=pict",
+        "width": 240,
+        "height": 240,
+        "html": "<a href=\"https://hb.afl.rakuten.co.jp/ichiba/58b56c7d.c29151b1.58b56c7e.71c63052/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkabura%2Fkabura-1112%2F&link_type=pict&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0Iiwic2l6ZSI6IjI0MHgyNDAiLCJuYW0iOjEsIm5hbXAiOiJyaWdodCIsImNvbSI6MSwiY29tcCI6ImRvd24iLCJwcmljZSI6MCwiYm9yIjoxLCJjb2wiOjEsImJidG4iOjEsInByb2QiOjAsImFtcCI6ZmFsc2V9\" target=\"_blank\" rel=\"nofollow sponsored noopener\" style=\"word-wrap:break-word;\"><img src=\"https://hbb.afl.rakuten.co.jp/hgb/58b56c7d.c29151b1.58b56c7e.71c63052/?me_id=1192081&item_id=10000015&pc=https%3A%2F%2Fthumbnail.image.rakuten.co.jp%2F%400_mall%2Fkabura%2Fcabinet%2Fimgrc0124527448.jpg%3F_ex%3D240x240&s=240x240&t=pict\" border=\"0\" style=\"margin:2px\" alt=\"\" title=\"\"></a>",
+        "originalSha256": "2e3c5b7ac397124c423200fc47618afee10c946e7ef06d66260a1abfbd34d565",
+        "sourceType": "rakutenOfficialTool",
+        "originalUnmodified": true,
+        "permissionConfirmed": true,
+        "productUrl": "https://item.rakuten.co.jp/kabura/kabura-1112/",
+        "issuedAt": "2026-10-22T09:49:26.033Z"
+      }
+    },
+    {
+      "specialtyId": "fugu-nukazuke",
+      "rakutenUrl": "https://item.rakuten.co.jp/yasushin/fugunoko-nuka01/",
+      "merchant": "安新 楽天市場店",
+      "itemCode": "yasushin:10000000",
+      "sku": null,
+      "quantity": "100g",
+      "availabilityStatus": "AVAILABLE",
+      "originEvidence": {
+        "sourceUrl": "https://item.rakuten.co.jp/yasushin/fugunoko-nuka01/",
+        "checkedAt": "2026-10-22T09:53:38.548Z",
+        "meaning": "現行単品の商品説明・名称・原材料/産地・量を確認。文化上の地域性とは区別。"
+      },
+      "lastCheckedAt": "2026-10-22T09:53:38.548Z",
+      "validUntil": "2027-01-22T00:00:00+09:00",
+      "registeredSite": "https://yoi-no-ikkon.vercel.app/",
+      "operatorApproved": true,
+      "affiliate": {
+        "sourceType": "rakutenOfficialTool",
+        "url": "https://hb.afl.rakuten.co.jp/ichiba/58b56d46.4076262c.58b56d47.dc97dace/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyasushin%2Ffugunoko-nuka01%2F&link_type=text&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJ0ZXh0Iiwic2l6ZSI6IjgweDgwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjAsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "originalTextHtml": "<a href=\"https://hb.afl.rakuten.co.jp/ichiba/58b56d46.4076262c.58b56d47.dc97dace/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyasushin%2Ffugunoko-nuka01%2F&link_type=text&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJ0ZXh0Iiwic2l6ZSI6IjgweDgwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjAsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D\" target=\"_blank\" rel=\"nofollow sponsored noopener\" style=\"word-wrap:break-word;\">ふぐの子 糠漬 100g（卵巣）　おつまみ　ふぐ　石川　発酵食品</a>",
+        "issuedAt": "2026-10-22T09:49:58.265Z"
+      },
+      "image": {
+        "src": "https://hbb.afl.rakuten.co.jp/hgb/58b56d46.4076262c.58b56d47.dc97dace/?me_id=1297389&item_id=10000000&pc=https%3A%2F%2Fthumbnail.image.rakuten.co.jp%2F%400_mall%2Fyasushin%2Fcabinet%2Ffugunoko%2Fimg59241204.jpg%3F_ex%3D240x240&s=240x240&t=pict",
+        "width": 240,
+        "height": 240,
+        "html": "<a href=\"https://hb.afl.rakuten.co.jp/ichiba/58b56d46.4076262c.58b56d47.dc97dace/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyasushin%2Ffugunoko-nuka01%2F&link_type=pict&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0Iiwic2l6ZSI6IjI0MHgyNDAiLCJuYW0iOjEsIm5hbXAiOiJyaWdodCIsImNvbSI6MSwiY29tcCI6ImRvd24iLCJwcmljZSI6MCwiYm9yIjoxLCJjb2wiOjEsImJidG4iOjEsInByb2QiOjAsImFtcCI6ZmFsc2V9\" target=\"_blank\" rel=\"nofollow sponsored noopener\" style=\"word-wrap:break-word;\"><img src=\"https://hbb.afl.rakuten.co.jp/hgb/58b56d46.4076262c.58b56d47.dc97dace/?me_id=1297389&item_id=10000000&pc=https%3A%2F%2Fthumbnail.image.rakuten.co.jp%2F%400_mall%2Fyasushin%2Fcabinet%2Ffugunoko%2Fimg59241204.jpg%3F_ex%3D240x240&s=240x240&t=pict\" border=\"0\" style=\"margin:2px\" alt=\"\" title=\"\"></a>",
+        "originalSha256": "e179b713e1cceb246c1540c5629efcd114bb83e34b9022a7f184c3880f4b333f",
+        "sourceType": "rakutenOfficialTool",
+        "originalUnmodified": true,
+        "permissionConfirmed": true,
+        "productUrl": "https://item.rakuten.co.jp/yasushin/fugunoko-nuka01/",
+        "issuedAt": "2026-10-22T09:49:58.265Z"
+      }
+    },
+    {
+      "specialtyId": "matsumae-zuke",
+      "rakutenUrl": "https://item.rakuten.co.jp/otaru/10000012/",
+      "merchant": "小樽・海産物専門店小町商店",
+      "itemCode": "otaru:10000012",
+      "sku": null,
+      "quantity": "500g",
+      "availabilityStatus": "AVAILABLE",
+      "originEvidence": {
+        "sourceUrl": "https://item.rakuten.co.jp/otaru/10000012/",
+        "checkedAt": "2026-10-22T09:53:38.738Z",
+        "meaning": "現行単品の商品説明・名称・原材料/産地・量を確認。文化上の地域性とは区別。"
+      },
+      "lastCheckedAt": "2026-10-22T09:53:38.738Z",
+      "validUntil": "2027-01-22T00:00:00+09:00",
+      "registeredSite": "https://yoi-no-ikkon.vercel.app/",
+      "operatorApproved": true,
+      "affiliate": {
+        "sourceType": "rakutenOfficialTool",
+        "url": "https://hb.afl.rakuten.co.jp/ichiba/58b56d4c.a0721ff3.58b56d4d.3850cfc1/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fotaru%2F10000012%2F&link_type=text&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJ0ZXh0Iiwic2l6ZSI6IjgweDgwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjAsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "originalTextHtml": "<a href=\"https://hb.afl.rakuten.co.jp/ichiba/58b56d4c.a0721ff3.58b56d4d.3850cfc1/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fotaru%2F10000012%2F&link_type=text&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJ0ZXh0Iiwic2l6ZSI6IjgweDgwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjAsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D\" target=\"_blank\" rel=\"nofollow sponsored noopener\" style=\"word-wrap:break-word;\">お歳暮 北海道 直送 送料無料 数の子 松前漬け 500g バリッと快音 ゴロッと大粒 本ちゃん数の子 昔風 贅沢カット 海鮮 おつまみ 高級 おつまみ 酒の肴 ご飯のお供 お取り寄せ ギフト 内祝い お返し 誕生日 60代 プレゼント 結婚 出産 御歳暮 お節 創業86年 小町商店</a>",
+        "issuedAt": "2026-10-22T09:50:30.765Z"
+      },
+      "image": {
+        "src": "https://hbb.afl.rakuten.co.jp/hgb/58b56d4c.a0721ff3.58b56d4d.3850cfc1/?me_id=1192268&item_id=10000012&pc=https%3A%2F%2Fthumbnail.image.rakuten.co.jp%2F%400_mall%2Fotaru%2Fcabinet%2F00138942%2Fimgrc0139853201.jpg%3F_ex%3D240x240&s=240x240&t=pict",
+        "width": 240,
+        "height": 240,
+        "html": "<a href=\"https://hb.afl.rakuten.co.jp/ichiba/58b56d4c.a0721ff3.58b56d4d.3850cfc1/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fotaru%2F10000012%2F&link_type=pict&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0Iiwic2l6ZSI6IjI0MHgyNDAiLCJuYW0iOjEsIm5hbXAiOiJyaWdodCIsImNvbSI6MSwiY29tcCI6ImRvd24iLCJwcmljZSI6MCwiYm9yIjoxLCJjb2wiOjEsImJidG4iOjEsInByb2QiOjAsImFtcCI6ZmFsc2V9\" target=\"_blank\" rel=\"nofollow sponsored noopener\" style=\"word-wrap:break-word;\"><img src=\"https://hbb.afl.rakuten.co.jp/hgb/58b56d4c.a0721ff3.58b56d4d.3850cfc1/?me_id=1192268&item_id=10000012&pc=https%3A%2F%2Fthumbnail.image.rakuten.co.jp%2F%400_mall%2Fotaru%2Fcabinet%2F00138942%2Fimgrc0139853201.jpg%3F_ex%3D240x240&s=240x240&t=pict\" border=\"0\" style=\"margin:2px\" alt=\"\" title=\"\"></a>",
+        "originalSha256": "63a22c3e21b6e5ecf7d17fb841c5d473f608c6d18e0edd816a6d383f4c59fb2a",
+        "sourceType": "rakutenOfficialTool",
+        "originalUnmodified": true,
+        "permissionConfirmed": true,
+        "productUrl": "https://item.rakuten.co.jp/otaru/10000012/",
+        "issuedAt": "2026-10-22T09:50:30.765Z"
+      }
+    },
+    {
+      "specialtyId": "sake-toba",
+      "rakutenUrl": "https://item.rakuten.co.jp/kitanomachi/saketoba_100g/",
+      "merchant": "北の町から",
+      "itemCode": "kitanomachi:10000389",
+      "sku": null,
+      "quantity": "80g",
+      "availabilityStatus": "AVAILABLE",
+      "originEvidence": {
+        "sourceUrl": "https://item.rakuten.co.jp/kitanomachi/saketoba_100g/",
+        "checkedAt": "2026-10-22T09:53:38.892Z",
+        "meaning": "現行単品の商品説明・名称・原材料/産地・量を確認。文化上の地域性とは区別。"
+      },
+      "lastCheckedAt": "2026-10-22T09:53:38.892Z",
+      "validUntil": "2027-01-22T00:00:00+09:00",
+      "registeredSite": "https://yoi-no-ikkon.vercel.app/",
+      "operatorApproved": true,
+      "affiliate": {
+        "sourceType": "rakutenOfficialTool",
+        "url": "https://hb.afl.rakuten.co.jp/ichiba/58b56dba.2df5da5c.58b56dbb.b0bebbf9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkitanomachi%2Fsaketoba_100g%2F&link_type=text&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJ0ZXh0Iiwic2l6ZSI6IjgweDgwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjAsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "originalTextHtml": "<a href=\"https://hb.afl.rakuten.co.jp/ichiba/58b56dba.2df5da5c.58b56dbb.b0bebbf9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkitanomachi%2Fsaketoba_100g%2F&link_type=text&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJ0ZXh0Iiwic2l6ZSI6IjgweDgwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjAsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D\" target=\"_blank\" rel=\"nofollow sponsored noopener\" style=\"word-wrap:break-word;\">漁師が作る鮭とば 80g 北海道産 鮭とば 1000円ポッキリ 鮭トバ さけとば しゃけとば とば 干物 おつまみ グルメ【送料無料】【メール便】</a>",
+        "issuedAt": "2026-10-22T09:50:35.703Z"
+      },
+      "image": {
+        "src": "https://hbb.afl.rakuten.co.jp/hgb/58b56dba.2df5da5c.58b56dbb.b0bebbf9/?me_id=1387872&item_id=10000389&pc=https%3A%2F%2Fthumbnail.image.rakuten.co.jp%2F%400_mall%2Fkitanomachi%2Fcabinet%2Fdried_fish%2Fk30001b.jpg%3F_ex%3D240x240&s=240x240&t=pict",
+        "width": 240,
+        "height": 240,
+        "html": "<a href=\"https://hb.afl.rakuten.co.jp/ichiba/58b56dba.2df5da5c.58b56dbb.b0bebbf9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkitanomachi%2Fsaketoba_100g%2F&link_type=pict&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0Iiwic2l6ZSI6IjI0MHgyNDAiLCJuYW0iOjEsIm5hbXAiOiJyaWdodCIsImNvbSI6MSwiY29tcCI6ImRvd24iLCJwcmljZSI6MCwiYm9yIjoxLCJjb2wiOjEsImJidG4iOjEsInByb2QiOjAsImFtcCI6ZmFsc2V9\" target=\"_blank\" rel=\"nofollow sponsored noopener\" style=\"word-wrap:break-word;\"><img src=\"https://hbb.afl.rakuten.co.jp/hgb/58b56dba.2df5da5c.58b56dbb.b0bebbf9/?me_id=1387872&item_id=10000389&pc=https%3A%2F%2Fthumbnail.image.rakuten.co.jp%2F%400_mall%2Fkitanomachi%2Fcabinet%2Fdried_fish%2Fk30001b.jpg%3F_ex%3D240x240&s=240x240&t=pict\" border=\"0\" style=\"margin:2px\" alt=\"\" title=\"\"></a>",
+        "originalSha256": "aa1eb4980d18fa43cd02eba36b7243e1ab9ee785dbd57e460d904ba6e5f8ab6b",
+        "sourceType": "rakutenOfficialTool",
+        "originalUnmodified": true,
+        "permissionConfirmed": true,
+        "productUrl": "https://item.rakuten.co.jp/kitanomachi/saketoba_100g/",
+        "issuedAt": "2026-10-22T09:50:35.703Z"
+      }
+    },
+    {
+      "specialtyId": "ika-meshi",
+      "rakutenUrl": "https://item.rakuten.co.jp/senka-land/4582102770105/",
+      "merchant": "北海道銘菓 センカランド",
+      "itemCode": "senka-land:10002853",
+      "sku": null,
+      "quantity": "140g・2尾",
+      "availabilityStatus": "AVAILABLE",
+      "originEvidence": {
+        "sourceUrl": "https://item.rakuten.co.jp/senka-land/4582102770105/",
+        "checkedAt": "2026-10-22T09:53:39.015Z",
+        "meaning": "現行単品の商品説明・名称・原材料/産地・量を確認。文化上の地域性とは区別。"
+      },
+      "lastCheckedAt": "2026-10-22T09:53:39.015Z",
+      "validUntil": "2027-01-22T00:00:00+09:00",
+      "registeredSite": "https://yoi-no-ikkon.vercel.app/",
+      "operatorApproved": true,
+      "affiliate": {
+        "sourceType": "rakutenOfficialTool",
+        "url": "https://hb.afl.rakuten.co.jp/ichiba/58b56dc4.4f585f54.58b56dc5.a27724b8/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsenka-land%2F4582102770105%2F&link_type=text&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJ0ZXh0Iiwic2l6ZSI6IjgweDgwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjAsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "originalTextHtml": "<a href=\"https://hb.afl.rakuten.co.jp/ichiba/58b56dc4.4f585f54.58b56dc5.a27724b8/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsenka-land%2F4582102770105%2F&link_type=text&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJ0ZXh0Iiwic2l6ZSI6IjgweDgwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjAsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D\" target=\"_blank\" rel=\"nofollow sponsored noopener\" style=\"word-wrap:break-word;\">阿部商店 いかめし 2尾入 140g 北海道 森町 名物 いか飯 イカ飯 いかの飯詰め いか もち米 駅弁 郷土料理 北海道グルメ 北海道土産 お土産 お取り寄せ ご当地グルメ 海鮮 惣菜 和食 ご飯もの 常備食 おかず</a>",
+        "issuedAt": "2026-10-22T09:50:39.033Z"
+      },
+      "image": {
+        "src": "https://hbb.afl.rakuten.co.jp/hgb/58b56dc4.4f585f54.58b56dc5.a27724b8/?me_id=1369561&item_id=10002853&pc=https%3A%2F%2Fthumbnail.image.rakuten.co.jp%2F%400_mall%2Fsenka-land%2Fcabinet%2F10552057%2F10552059%2Fika.jpg%3F_ex%3D240x240&s=240x240&t=pict",
+        "width": 240,
+        "height": 240,
+        "html": "<a href=\"https://hb.afl.rakuten.co.jp/ichiba/58b56dc4.4f585f54.58b56dc5.a27724b8/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsenka-land%2F4582102770105%2F&link_type=pict&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0Iiwic2l6ZSI6IjI0MHgyNDAiLCJuYW0iOjEsIm5hbXAiOiJyaWdodCIsImNvbSI6MSwiY29tcCI6ImRvd24iLCJwcmljZSI6MCwiYm9yIjoxLCJjb2wiOjEsImJidG4iOjEsInByb2QiOjAsImFtcCI6ZmFsc2V9\" target=\"_blank\" rel=\"nofollow sponsored noopener\" style=\"word-wrap:break-word;\"><img src=\"https://hbb.afl.rakuten.co.jp/hgb/58b56dc4.4f585f54.58b56dc5.a27724b8/?me_id=1369561&item_id=10002853&pc=https%3A%2F%2Fthumbnail.image.rakuten.co.jp%2F%400_mall%2Fsenka-land%2Fcabinet%2F10552057%2F10552059%2Fika.jpg%3F_ex%3D240x240&s=240x240&t=pict\" border=\"0\" style=\"margin:2px\" alt=\"\" title=\"\"></a>",
+        "originalSha256": "69e3baf955177ece3d1ea01b8300df92bd9fa8ea1ea2015c52baedab774e719b",
+        "sourceType": "rakutenOfficialTool",
+        "originalUnmodified": true,
+        "permissionConfirmed": true,
+        "productUrl": "https://item.rakuten.co.jp/senka-land/4582102770105/",
+        "issuedAt": "2026-10-22T09:50:39.033Z"
+      }
+    },
+    {
+      "specialtyId": "saga-nori",
+      "rakutenUrl": "https://item.rakuten.co.jp/karatsu-iwamoto/yakinori-01/",
+      "merchant": "九州唐津ひもの鯨海産物の岩本商店",
+      "itemCode": "karatsu-iwamoto:10000341",
+      "sku": null,
+      "quantity": "全形15枚",
+      "availabilityStatus": "AVAILABLE",
+      "originEvidence": {
+        "sourceUrl": "https://item.rakuten.co.jp/karatsu-iwamoto/yakinori-01/",
+        "checkedAt": "2026-10-22T09:53:39.209Z",
+        "meaning": "現行単品の商品説明・名称・原材料/産地・量を確認。文化上の地域性とは区別。"
+      },
+      "lastCheckedAt": "2026-10-22T09:53:39.209Z",
+      "validUntil": "2027-01-22T00:00:00+09:00",
+      "registeredSite": "https://yoi-no-ikkon.vercel.app/",
+      "operatorApproved": true,
+      "affiliate": {
+        "sourceType": "rakutenOfficialTool",
+        "url": "https://hb.afl.rakuten.co.jp/ichiba/58b56dd0.e32bb3f6.58b56dd1.e59fac9f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkaratsu-iwamoto%2Fyakinori-01%2F&link_type=text&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJ0ZXh0Iiwic2l6ZSI6IjgweDgwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjAsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "originalTextHtml": "<a href=\"https://hb.afl.rakuten.co.jp/ichiba/58b56dd0.e32bb3f6.58b56dd1.e59fac9f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkaratsu-iwamoto%2Fyakinori-01%2F&link_type=text&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJ0ZXh0Iiwic2l6ZSI6IjgweDgwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjAsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D\" target=\"_blank\" rel=\"nofollow sponsored noopener\" style=\"word-wrap:break-word;\">新のり【訳あり】お試し特価佐賀有明産 無選別 焼き海苔15枚 【無添加・無着色】応援 食品 食べ物 お取り寄せグルメ 巣ごもり おうち時間応援 新海苔</a>",
+        "issuedAt": "2026-10-22T09:50:44.182Z"
+      },
+      "image": {
+        "src": "https://hbb.afl.rakuten.co.jp/hgb/58b56dd0.e32bb3f6.58b56dd1.e59fac9f/?me_id=1244569&item_id=10000341&pc=https%3A%2F%2Fthumbnail.image.rakuten.co.jp%2F%400_mall%2Fkaratsu-iwamoto%2Fcabinet%2Fef%2Fitem%2F08033855%2Fyakinori15mai_kago.jpg%3F_ex%3D240x240&s=240x240&t=pict",
+        "width": 240,
+        "height": 240,
+        "html": "<a href=\"https://hb.afl.rakuten.co.jp/ichiba/58b56dd0.e32bb3f6.58b56dd1.e59fac9f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkaratsu-iwamoto%2Fyakinori-01%2F&link_type=pict&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0Iiwic2l6ZSI6IjI0MHgyNDAiLCJuYW0iOjEsIm5hbXAiOiJyaWdodCIsImNvbSI6MSwiY29tcCI6ImRvd24iLCJwcmljZSI6MCwiYm9yIjoxLCJjb2wiOjEsImJidG4iOjEsInByb2QiOjAsImFtcCI6ZmFsc2V9\" target=\"_blank\" rel=\"nofollow sponsored noopener\" style=\"word-wrap:break-word;\"><img src=\"https://hbb.afl.rakuten.co.jp/hgb/58b56dd0.e32bb3f6.58b56dd1.e59fac9f/?me_id=1244569&item_id=10000341&pc=https%3A%2F%2Fthumbnail.image.rakuten.co.jp%2F%400_mall%2Fkaratsu-iwamoto%2Fcabinet%2Fef%2Fitem%2F08033855%2Fyakinori15mai_kago.jpg%3F_ex%3D240x240&s=240x240&t=pict\" border=\"0\" style=\"margin:2px\" alt=\"\" title=\"\"></a>",
+        "originalSha256": "8b559773f9f2427365f72cd60d63fda212e0cfc50300e971c4b938b1c8a57779",
+        "sourceType": "rakutenOfficialTool",
+        "originalUnmodified": true,
+        "permissionConfirmed": true,
+        "productUrl": "https://item.rakuten.co.jp/karatsu-iwamoto/yakinori-01/",
+        "issuedAt": "2026-10-22T09:50:44.182Z"
+      }
+    },
+    {
+      "specialtyId": "yobuko-ichiyaboshi",
+      "rakutenUrl": "https://item.rakuten.co.jp/yobuko-manbou/50003/",
+      "merchant": "呼子萬坊 楽天市場店",
+      "itemCode": "yobuko-manbou:10000226",
+      "sku": null,
+      "quantity": "1枚",
+      "availabilityStatus": "AVAILABLE",
+      "originEvidence": {
+        "sourceUrl": "https://item.rakuten.co.jp/yobuko-manbou/50003/",
+        "checkedAt": "2026-10-22T09:53:39.440Z",
+        "meaning": "現行単品の商品説明・名称・原材料/産地・量を確認。文化上の地域性とは区別。"
+      },
+      "lastCheckedAt": "2026-10-22T09:53:39.440Z",
+      "validUntil": "2027-01-22T00:00:00+09:00",
+      "registeredSite": "https://yoi-no-ikkon.vercel.app/",
+      "operatorApproved": true,
+      "affiliate": {
+        "sourceType": "rakutenOfficialTool",
+        "url": "https://hb.afl.rakuten.co.jp/ichiba/58b56df4.54aac53f.58b56df5.85f10c30/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyobuko-manbou%2F50003%2F&link_type=text&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJ0ZXh0Iiwic2l6ZSI6IjgweDgwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjAsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "originalTextHtml": "<a href=\"https://hb.afl.rakuten.co.jp/ichiba/58b56df4.54aac53f.58b56df5.85f10c30/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyobuko-manbou%2F50003%2F&link_type=text&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJ0ZXh0Iiwic2l6ZSI6IjgweDgwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjAsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D\" target=\"_blank\" rel=\"nofollow sponsored noopener\" style=\"word-wrap:break-word;\">いかの一夜干し1枚(971)ギフト/御祝/内祝/就職祝い】【イカ/烏賊/干物/干もの/海産物/海鮮/海の幸/スルメ】【まんぼう/マンボウ/佐賀/呼子/朝市】</a>",
+        "issuedAt": "2026-10-22T09:50:46.664Z"
+      },
+      "image": {
+        "src": "https://hbb.afl.rakuten.co.jp/hgb/58b56df4.54aac53f.58b56df5.85f10c30/?me_id=1259167&item_id=10000226&pc=https%3A%2F%2Fthumbnail.image.rakuten.co.jp%2F%400_mall%2Fyobuko-manbou%2Fcabinet%2Fnew-kago%2F971.jpg%3F_ex%3D240x240&s=240x240&t=pict",
+        "width": 240,
+        "height": 240,
+        "html": "<a href=\"https://hb.afl.rakuten.co.jp/ichiba/58b56df4.54aac53f.58b56df5.85f10c30/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyobuko-manbou%2F50003%2F&link_type=pict&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0Iiwic2l6ZSI6IjI0MHgyNDAiLCJuYW0iOjEsIm5hbXAiOiJyaWdodCIsImNvbSI6MSwiY29tcCI6ImRvd24iLCJwcmljZSI6MCwiYm9yIjoxLCJjb2wiOjEsImJidG4iOjEsInByb2QiOjAsImFtcCI6ZmFsc2V9\" target=\"_blank\" rel=\"nofollow sponsored noopener\" style=\"word-wrap:break-word;\"><img src=\"https://hbb.afl.rakuten.co.jp/hgb/58b56df4.54aac53f.58b56df5.85f10c30/?me_id=1259167&item_id=10000226&pc=https%3A%2F%2Fthumbnail.image.rakuten.co.jp%2F%400_mall%2Fyobuko-manbou%2Fcabinet%2Fnew-kago%2F971.jpg%3F_ex%3D240x240&s=240x240&t=pict\" border=\"0\" style=\"margin:2px\" alt=\"\" title=\"\"></a>",
+        "originalSha256": "b61dfb0fb22ca3a05765ccb656a47ec33a68b3177b9b243d4f2f35527e73cc24",
+        "sourceType": "rakutenOfficialTool",
+        "originalUnmodified": true,
+        "permissionConfirmed": true,
+        "productUrl": "https://item.rakuten.co.jp/yobuko-manbou/50003/",
+        "issuedAt": "2026-10-22T09:50:46.664Z"
+      }
+    },
+    {
+      "specialtyId": "ika-shumai",
+      "rakutenUrl": "https://item.rakuten.co.jp/yobuko-manbou/10000003/",
+      "merchant": "呼子萬坊 楽天市場店",
+      "itemCode": "yobuko-manbou:10000003",
+      "sku": null,
+      "quantity": "8個入×2箱",
+      "availabilityStatus": "AVAILABLE",
+      "originEvidence": {
+        "sourceUrl": "https://item.rakuten.co.jp/yobuko-manbou/10000003/",
+        "checkedAt": "2026-10-22T09:53:39.590Z",
+        "meaning": "現行単品の商品説明・名称・原材料/産地・量を確認。文化上の地域性とは区別。"
+      },
+      "lastCheckedAt": "2026-10-22T09:53:39.590Z",
+      "validUntil": "2027-01-22T00:00:00+09:00",
+      "registeredSite": "https://yoi-no-ikkon.vercel.app/",
+      "operatorApproved": true,
+      "affiliate": {
+        "sourceType": "rakutenOfficialTool",
+        "url": "https://hb.afl.rakuten.co.jp/ichiba/58b56df4.54aac53f.58b56df5.85f10c30/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyobuko-manbou%2F10000003%2F&link_type=text&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJ0ZXh0Iiwic2l6ZSI6IjgweDgwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjAsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "originalTextHtml": "<a href=\"https://hb.afl.rakuten.co.jp/ichiba/58b56df4.54aac53f.58b56df5.85f10c30/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyobuko-manbou%2F10000003%2F&link_type=text&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJ0ZXh0Iiwic2l6ZSI6IjgweDgwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjAsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D\" target=\"_blank\" rel=\"nofollow sponsored noopener\" style=\"word-wrap:break-word;\">[年間売上100万箱突破]【呼子萬坊公式】いかしゅうまい大まる [8個入×2箱](A-2)シュウマイ 焼売 点心 中華 惣菜 冷凍 食品 イカ 烏賊 海産物 海鮮 海の幸 御祝 内祝 お中元 御中元 ギフト プレゼント お取り寄せ グルメ 佐賀 呼子 萬坊 まんぼう</a>",
+        "issuedAt": "2026-10-22T09:50:51.764Z"
+      },
+      "image": {
+        "src": "https://hbb.afl.rakuten.co.jp/hgb/58b56df4.54aac53f.58b56df5.85f10c30/?me_id=1259167&item_id=10000003&pc=https%3A%2F%2Fthumbnail.image.rakuten.co.jp%2F%400_mall%2Fyobuko-manbou%2Fcabinet%2Fgentei-p%2Fbarun-a-2.jpg%3F_ex%3D240x240&s=240x240&t=pict",
+        "width": 240,
+        "height": 240,
+        "html": "<a href=\"https://hb.afl.rakuten.co.jp/ichiba/58b56df4.54aac53f.58b56df5.85f10c30/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyobuko-manbou%2F10000003%2F&link_type=pict&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0Iiwic2l6ZSI6IjI0MHgyNDAiLCJuYW0iOjEsIm5hbXAiOiJyaWdodCIsImNvbSI6MSwiY29tcCI6ImRvd24iLCJwcmljZSI6MCwiYm9yIjoxLCJjb2wiOjEsImJidG4iOjEsInByb2QiOjAsImFtcCI6ZmFsc2V9\" target=\"_blank\" rel=\"nofollow sponsored noopener\" style=\"word-wrap:break-word;\"><img src=\"https://hbb.afl.rakuten.co.jp/hgb/58b56df4.54aac53f.58b56df5.85f10c30/?me_id=1259167&item_id=10000003&pc=https%3A%2F%2Fthumbnail.image.rakuten.co.jp%2F%400_mall%2Fyobuko-manbou%2Fcabinet%2Fgentei-p%2Fbarun-a-2.jpg%3F_ex%3D240x240&s=240x240&t=pict\" border=\"0\" style=\"margin:2px\" alt=\"\" title=\"\"></a>",
+        "originalSha256": "286fdc45557b0c4b07c3a5131c94d0bb7427e5451a6c13a8e798c6d5d91261cd",
+        "sourceType": "rakutenOfficialTool",
+        "originalUnmodified": true,
+        "permissionConfirmed": true,
+        "productUrl": "https://item.rakuten.co.jp/yobuko-manbou/10000003/",
+        "issuedAt": "2026-10-22T09:50:51.764Z"
+      }
+    },
+    {
+      "specialtyId": "shuto",
+      "rakutenUrl": "https://item.rakuten.co.jp/auc-tosauma/syutou_karakuchi/",
+      "merchant": "高知の地酒 土佐美味",
+      "itemCode": "auc-tosauma:10000294",
+      "sku": null,
+      "quantity": "120g",
+      "availabilityStatus": "AVAILABLE",
+      "originEvidence": {
+        "sourceUrl": "https://item.rakuten.co.jp/auc-tosauma/syutou_karakuchi/",
+        "checkedAt": "2026-10-22T09:53:39.760Z",
+        "meaning": "現行単品の商品説明・名称・原材料/産地・量を確認。文化上の地域性とは区別。"
+      },
+      "lastCheckedAt": "2026-10-22T09:53:39.760Z",
+      "validUntil": "2027-01-22T00:00:00+09:00",
+      "registeredSite": "https://yoi-no-ikkon.vercel.app/",
+      "operatorApproved": true,
+      "affiliate": {
+        "sourceType": "rakutenOfficialTool",
+        "url": "https://hb.afl.rakuten.co.jp/ichiba/58b56e08.e4382005.58b56e09.670eb4b5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fauc-tosauma%2Fsyutou_karakuchi%2F&link_type=text&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJ0ZXh0Iiwic2l6ZSI6IjgweDgwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjAsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "originalTextHtml": "<a href=\"https://hb.afl.rakuten.co.jp/ichiba/58b56e08.e4382005.58b56e09.670eb4b5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fauc-tosauma%2Fsyutou_karakuchi%2F&link_type=text&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJ0ZXh0Iiwic2l6ZSI6IjgweDgwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjAsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D\" target=\"_blank\" rel=\"nofollow sponsored noopener\" style=\"word-wrap:break-word;\">土佐珍味「めちゃ美味」酒盗辛口 120gかつお酒盗福辰</a>",
+        "issuedAt": "2026-10-22T09:50:54.349Z"
+      },
+      "image": {
+        "src": "https://hbb.afl.rakuten.co.jp/hgb/58b56e08.e4382005.58b56e09.670eb4b5/?me_id=1249591&item_id=10000294&pc=https%3A%2F%2Fthumbnail.image.rakuten.co.jp%2F%400_mall%2Fauc-tosauma%2Fcabinet%2F01144890%2Fsyutou_karakuchi.jpg%3F_ex%3D240x240&s=240x240&t=pict",
+        "width": 240,
+        "height": 240,
+        "html": "<a href=\"https://hb.afl.rakuten.co.jp/ichiba/58b56e08.e4382005.58b56e09.670eb4b5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fauc-tosauma%2Fsyutou_karakuchi%2F&link_type=pict&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0Iiwic2l6ZSI6IjI0MHgyNDAiLCJuYW0iOjEsIm5hbXAiOiJyaWdodCIsImNvbSI6MSwiY29tcCI6ImRvd24iLCJwcmljZSI6MCwiYm9yIjoxLCJjb2wiOjEsImJidG4iOjEsInByb2QiOjAsImFtcCI6ZmFsc2V9\" target=\"_blank\" rel=\"nofollow sponsored noopener\" style=\"word-wrap:break-word;\"><img src=\"https://hbb.afl.rakuten.co.jp/hgb/58b56e08.e4382005.58b56e09.670eb4b5/?me_id=1249591&item_id=10000294&pc=https%3A%2F%2Fthumbnail.image.rakuten.co.jp%2F%400_mall%2Fauc-tosauma%2Fcabinet%2F01144890%2Fsyutou_karakuchi.jpg%3F_ex%3D240x240&s=240x240&t=pict\" border=\"0\" style=\"margin:2px\" alt=\"\" title=\"\"></a>",
+        "originalSha256": "8e067cb4ad46a1a12e57ba779944676c618295d51c50d710a691f27f5597ab3e",
+        "sourceType": "rakutenOfficialTool",
+        "originalUnmodified": true,
+        "permissionConfirmed": true,
+        "productUrl": "https://item.rakuten.co.jp/auc-tosauma/syutou_karakuchi/",
+        "issuedAt": "2026-10-22T09:50:54.349Z"
+      }
+    },
+    {
+      "specialtyId": "katsuo-namabushi",
+      "rakutenUrl": "https://item.rakuten.co.jp/moritokuzo/takeuchi-namabushi-01/",
+      "merchant": "森徳蔵楽天市場店",
+      "itemCode": "moritokuzo:10002900",
+      "sku": null,
+      "quantity": "約250g・1本",
+      "availabilityStatus": "AVAILABLE",
+      "originEvidence": {
+        "sourceUrl": "https://item.rakuten.co.jp/moritokuzo/takeuchi-namabushi-01/",
+        "checkedAt": "2026-10-22T09:53:39.967Z",
+        "meaning": "現行単品の商品説明・名称・原材料/産地・量を確認。文化上の地域性とは区別。"
+      },
+      "lastCheckedAt": "2026-10-22T09:53:39.967Z",
+      "validUntil": "2027-01-22T00:00:00+09:00",
+      "registeredSite": "https://yoi-no-ikkon.vercel.app/",
+      "operatorApproved": true,
+      "affiliate": {
+        "sourceType": "rakutenOfficialTool",
+        "url": "https://hb.afl.rakuten.co.jp/ichiba/58a8f347.aa6ecf26.58a8f348.9dba7ef9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmoritokuzo%2Ftakeuchi-namabushi-01%2F&link_type=text&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJ0ZXh0Iiwic2l6ZSI6IjgweDgwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjAsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "originalTextHtml": "<a href=\"https://hb.afl.rakuten.co.jp/ichiba/58a8f347.aa6ecf26.58a8f348.9dba7ef9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmoritokuzo%2Ftakeuchi-namabushi-01%2F&link_type=text&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJ0ZXh0Iiwic2l6ZSI6IjgweDgwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjAsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D\" target=\"_blank\" rel=\"nofollow sponsored noopener\" style=\"word-wrap:break-word;\">鰹生節（約250g）1本/竹内商店/かつおなまぶし/カツオ/土佐/名物/高知/</a>",
+        "issuedAt": "2026-10-22T09:51:23.064Z"
+      },
+      "image": {
+        "src": "https://hbb.afl.rakuten.co.jp/hgb/58a8f347.aa6ecf26.58a8f348.9dba7ef9/?me_id=1297912&item_id=10002900&pc=https%3A%2F%2Fthumbnail.image.rakuten.co.jp%2F%400_mall%2Fmoritokuzo%2Fcabinet%2Fgoods%2Ftakeuchishoten%2Ftakeuchi-namabushi.jpg%3F_ex%3D240x240&s=240x240&t=pict",
+        "width": 240,
+        "height": 240,
+        "html": "<a href=\"https://hb.afl.rakuten.co.jp/ichiba/58a8f347.aa6ecf26.58a8f348.9dba7ef9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmoritokuzo%2Ftakeuchi-namabushi-01%2F&link_type=pict&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0Iiwic2l6ZSI6IjI0MHgyNDAiLCJuYW0iOjEsIm5hbXAiOiJyaWdodCIsImNvbSI6MSwiY29tcCI6ImRvd24iLCJwcmljZSI6MCwiYm9yIjoxLCJjb2wiOjEsImJidG4iOjEsInByb2QiOjAsImFtcCI6ZmFsc2V9\" target=\"_blank\" rel=\"nofollow sponsored noopener\" style=\"word-wrap:break-word;\"><img src=\"https://hbb.afl.rakuten.co.jp/hgb/58a8f347.aa6ecf26.58a8f348.9dba7ef9/?me_id=1297912&item_id=10002900&pc=https%3A%2F%2Fthumbnail.image.rakuten.co.jp%2F%400_mall%2Fmoritokuzo%2Fcabinet%2Fgoods%2Ftakeuchishoten%2Ftakeuchi-namabushi.jpg%3F_ex%3D240x240&s=240x240&t=pict\" border=\"0\" style=\"margin:2px\" alt=\"\" title=\"\"></a>",
+        "originalSha256": "07f789a6de9d3e6c8f40666eb8bebc95f607b831c390a8e87171a34f17f6eed0",
+        "sourceType": "rakutenOfficialTool",
+        "originalUnmodified": true,
+        "permissionConfirmed": true,
+        "productUrl": "https://item.rakuten.co.jp/moritokuzo/takeuchi-namabushi-01/",
+        "issuedAt": "2026-10-22T09:51:23.064Z"
+      }
+    },
+    {
+      "specialtyId": "hotaruika-okizuke",
+      "rakutenUrl": "https://item.rakuten.co.jp/shokuhin-chokusou/62011925/",
+      "merchant": "生鮮食品直送便",
+      "itemCode": "shokuhin-chokusou:10003115",
+      "sku": null,
+      "quantity": "200g",
+      "availabilityStatus": "AVAILABLE",
+      "originEvidence": {
+        "sourceUrl": "https://item.rakuten.co.jp/shokuhin-chokusou/62011925/",
+        "checkedAt": "2026-10-22T09:53:40.156Z",
+        "meaning": "現行単品の商品説明・名称・原材料/産地・量を確認。文化上の地域性とは区別。"
+      },
+      "lastCheckedAt": "2026-10-22T09:53:40.156Z",
+      "validUntil": "2027-01-22T00:00:00+09:00",
+      "registeredSite": "https://yoi-no-ikkon.vercel.app/",
+      "operatorApproved": true,
+      "affiliate": {
+        "sourceType": "rakutenOfficialTool",
+        "url": "https://hb.afl.rakuten.co.jp/ichiba/58b56eb0.b532338c.58b56eb2.c8221e48/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fshokuhin-chokusou%2F62011925%2F&link_type=text&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJ0ZXh0Iiwic2l6ZSI6IjgweDgwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjAsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "originalTextHtml": "<a href=\"https://hb.afl.rakuten.co.jp/ichiba/58b56eb0.b532338c.58b56eb2.c8221e48/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fshokuhin-chokusou%2F62011925%2F&link_type=text&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJ0ZXh0Iiwic2l6ZSI6IjgweDgwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjAsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D\" target=\"_blank\" rel=\"nofollow sponsored noopener\" style=\"word-wrap:break-word;\">川村水産　富山名産　ほたるいか沖漬　樽仕込み　200g</a>",
+        "issuedAt": "2026-10-22T09:51:27.301Z"
+      },
+      "image": {
+        "src": "https://hbb.afl.rakuten.co.jp/hgb/58b56eb0.b532338c.58b56eb2.c8221e48/?me_id=1353895&item_id=10003115&pc=https%3A%2F%2Fthumbnail.image.rakuten.co.jp%2F%400_mall%2Fshokuhin-chokusou%2Fcabinet%2Fproduct15%2Fr62011925.jpg%3F_ex%3D240x240&s=240x240&t=pict",
+        "width": 240,
+        "height": 240,
+        "html": "<a href=\"https://hb.afl.rakuten.co.jp/ichiba/58b56eb0.b532338c.58b56eb2.c8221e48/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fshokuhin-chokusou%2F62011925%2F&link_type=pict&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0Iiwic2l6ZSI6IjI0MHgyNDAiLCJuYW0iOjEsIm5hbXAiOiJyaWdodCIsImNvbSI6MSwiY29tcCI6ImRvd24iLCJwcmljZSI6MCwiYm9yIjoxLCJjb2wiOjEsImJidG4iOjEsInByb2QiOjAsImFtcCI6ZmFsc2V9\" target=\"_blank\" rel=\"nofollow sponsored noopener\" style=\"word-wrap:break-word;\"><img src=\"https://hbb.afl.rakuten.co.jp/hgb/58b56eb0.b532338c.58b56eb2.c8221e48/?me_id=1353895&item_id=10003115&pc=https%3A%2F%2Fthumbnail.image.rakuten.co.jp%2F%400_mall%2Fshokuhin-chokusou%2Fcabinet%2Fproduct15%2Fr62011925.jpg%3F_ex%3D240x240&s=240x240&t=pict\" border=\"0\" style=\"margin:2px\" alt=\"\" title=\"\"></a>",
+        "originalSha256": "46b0be4b64d19cf7668b57d8f940d8071446de8fca3fc53c49ca63b47b24c2b1",
+        "sourceType": "rakutenOfficialTool",
+        "originalUnmodified": true,
+        "permissionConfirmed": true,
+        "productUrl": "https://item.rakuten.co.jp/shokuhin-chokusou/62011925/",
+        "issuedAt": "2026-10-22T09:51:27.301Z"
+      }
+    },
+    {
+      "specialtyId": "shiroebi-himono",
+      "rakutenUrl": "https://item.rakuten.co.jp/hamaura/shiraebi_suboshi-mon/",
+      "merchant": "浜浦水産んまいちゃ便楽天市場店",
+      "itemCode": "hamaura:10000042",
+      "sku": null,
+      "quantity": "12g",
+      "availabilityStatus": "AVAILABLE",
+      "originEvidence": {
+        "sourceUrl": "https://item.rakuten.co.jp/hamaura/shiraebi_suboshi-mon/",
+        "checkedAt": "2026-10-22T09:53:40.332Z",
+        "meaning": "現行単品の商品説明・名称・原材料/産地・量を確認。文化上の地域性とは区別。"
+      },
+      "lastCheckedAt": "2026-10-22T09:53:40.332Z",
+      "validUntil": "2027-01-22T00:00:00+09:00",
+      "registeredSite": "https://yoi-no-ikkon.vercel.app/",
+      "operatorApproved": true,
+      "affiliate": {
+        "sourceType": "rakutenOfficialTool",
+        "url": "https://hb.afl.rakuten.co.jp/ichiba/58b56edc.a9ae85e9.58b56edd.17031a11/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhamaura%2Fshiraebi_suboshi-mon%2F&link_type=text&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJ0ZXh0Iiwic2l6ZSI6IjgweDgwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjAsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "originalTextHtml": "<a href=\"https://hb.afl.rakuten.co.jp/ichiba/58b56edc.a9ae85e9.58b56edd.17031a11/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhamaura%2Fshiraebi_suboshi-mon%2F&link_type=text&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJ0ZXh0Iiwic2l6ZSI6IjgweDgwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjAsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D\" target=\"_blank\" rel=\"nofollow sponsored noopener\" style=\"word-wrap:break-word;\">【浜浦水産 んまいちゃ便】 無添加 白えび 素干 12g プチギフト 母の日 父の日 母 父 卒業 お取り寄せグルメ お取り寄せ ギフト 白海老素干し 白海老 白エビ 珍味 晩酌 おつまみ 宅飲み グルメ 送料無料 お歳暮 御歳暮 歳暮</a>",
+        "issuedAt": "2026-10-22T09:51:30.429Z"
+      },
+      "image": {
+        "src": "https://hbb.afl.rakuten.co.jp/hgb/58b56edc.a9ae85e9.58b56edd.17031a11/?me_id=1369268&item_id=10000042&pc=https%3A%2F%2Fthumbnail.image.rakuten.co.jp%2F%400_mall%2Fhamaura%2Fcabinet%2F06433323%2Fshiraebi_sub_ph1.jpg%3F_ex%3D240x240&s=240x240&t=pict",
+        "width": 240,
+        "height": 240,
+        "html": "<a href=\"https://hb.afl.rakuten.co.jp/ichiba/58b56edc.a9ae85e9.58b56edd.17031a11/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhamaura%2Fshiraebi_suboshi-mon%2F&link_type=pict&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0Iiwic2l6ZSI6IjI0MHgyNDAiLCJuYW0iOjEsIm5hbXAiOiJyaWdodCIsImNvbSI6MSwiY29tcCI6ImRvd24iLCJwcmljZSI6MCwiYm9yIjoxLCJjb2wiOjEsImJidG4iOjEsInByb2QiOjAsImFtcCI6ZmFsc2V9\" target=\"_blank\" rel=\"nofollow sponsored noopener\" style=\"word-wrap:break-word;\"><img src=\"https://hbb.afl.rakuten.co.jp/hgb/58b56edc.a9ae85e9.58b56edd.17031a11/?me_id=1369268&item_id=10000042&pc=https%3A%2F%2Fthumbnail.image.rakuten.co.jp%2F%400_mall%2Fhamaura%2Fcabinet%2F06433323%2Fshiraebi_sub_ph1.jpg%3F_ex%3D240x240&s=240x240&t=pict\" border=\"0\" style=\"margin:2px\" alt=\"\" title=\"\"></a>",
+        "originalSha256": "7781cf9b7f73ba9e972ac9aee4f9d50ce7585290a3668ab002b6b3e34780480b",
+        "sourceType": "rakutenOfficialTool",
+        "originalUnmodified": true,
+        "permissionConfirmed": true,
+        "productUrl": "https://item.rakuten.co.jp/hamaura/shiraebi_suboshi-mon/",
+        "issuedAt": "2026-10-22T09:51:30.429Z"
+      }
+    },
+    {
+      "specialtyId": "hotaruika-himono",
+      "rakutenUrl": "https://item.rakuten.co.jp/hamaura/hotaruika_suboshi2-mon/",
+      "merchant": "浜浦水産んまいちゃ便楽天市場店",
+      "itemCode": "hamaura:10000031",
+      "sku": null,
+      "quantity": "47g",
+      "availabilityStatus": "AVAILABLE",
+      "originEvidence": {
+        "sourceUrl": "https://item.rakuten.co.jp/hamaura/hotaruika_suboshi2-mon/",
+        "checkedAt": "2026-10-22T09:53:40.499Z",
+        "meaning": "現行単品の商品説明・名称・原材料/産地・量を確認。文化上の地域性とは区別。"
+      },
+      "lastCheckedAt": "2026-10-22T09:53:40.499Z",
+      "validUntil": "2027-01-22T00:00:00+09:00",
+      "registeredSite": "https://yoi-no-ikkon.vercel.app/",
+      "operatorApproved": true,
+      "affiliate": {
+        "sourceType": "rakutenOfficialTool",
+        "url": "https://hb.afl.rakuten.co.jp/ichiba/58b56edc.a9ae85e9.58b56edd.17031a11/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhamaura%2Fhotaruika_suboshi2-mon%2F&link_type=text&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJ0ZXh0Iiwic2l6ZSI6IjgweDgwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjAsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "originalTextHtml": "<a href=\"https://hb.afl.rakuten.co.jp/ichiba/58b56edc.a9ae85e9.58b56edd.17031a11/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhamaura%2Fhotaruika_suboshi2-mon%2F&link_type=text&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJ0ZXh0Iiwic2l6ZSI6IjgweDgwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjAsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D\" target=\"_blank\" rel=\"nofollow sponsored noopener\" style=\"word-wrap:break-word;\">【浜浦水産 んまいちゃ便】 富山湾産 ほたるいか 素干し 47g 徳用サイズ お取り寄せグルメ 贈り物 お歳暮 お土産 高級食材 干物 ホタルイカ 肝入り 無添加 北陸直送 富山 国産 珍味 お中元 御中元 お中元ギフト 富山物産展</a>",
+        "issuedAt": "2026-10-22T09:51:34.430Z"
+      },
+      "image": {
+        "src": "https://hbb.afl.rakuten.co.jp/hgb/58b56edc.a9ae85e9.58b56edd.17031a11/?me_id=1369268&item_id=10000031&pc=https%3A%2F%2Fthumbnail.image.rakuten.co.jp%2F%400_mall%2Fhamaura%2Fcabinet%2Fmon%2Fsubosi-mon%2Fsuboshi-57gv2-mon.jpg%3F_ex%3D240x240&s=240x240&t=pict",
+        "width": 240,
+        "height": 240,
+        "html": "<a href=\"https://hb.afl.rakuten.co.jp/ichiba/58b56edc.a9ae85e9.58b56edd.17031a11/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhamaura%2Fhotaruika_suboshi2-mon%2F&link_type=pict&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0Iiwic2l6ZSI6IjI0MHgyNDAiLCJuYW0iOjEsIm5hbXAiOiJyaWdodCIsImNvbSI6MSwiY29tcCI6ImRvd24iLCJwcmljZSI6MCwiYm9yIjoxLCJjb2wiOjEsImJidG4iOjEsInByb2QiOjAsImFtcCI6ZmFsc2V9\" target=\"_blank\" rel=\"nofollow sponsored noopener\" style=\"word-wrap:break-word;\"><img src=\"https://hbb.afl.rakuten.co.jp/hgb/58b56edc.a9ae85e9.58b56edd.17031a11/?me_id=1369268&item_id=10000031&pc=https%3A%2F%2Fthumbnail.image.rakuten.co.jp%2F%400_mall%2Fhamaura%2Fcabinet%2Fmon%2Fsubosi-mon%2Fsuboshi-57gv2-mon.jpg%3F_ex%3D240x240&s=240x240&t=pict\" border=\"0\" style=\"margin:2px\" alt=\"\" title=\"\"></a>",
+        "originalSha256": "52d049c4659bc2e9a022796196d833cbfa3245fbdde966e7326edd63d72db0cb",
+        "sourceType": "rakutenOfficialTool",
+        "originalUnmodified": true,
+        "permissionConfirmed": true,
+        "productUrl": "https://item.rakuten.co.jp/hamaura/hotaruika_suboshi2-mon/",
+        "issuedAt": "2026-10-22T09:51:34.430Z"
+      }
+    },
+    {
+      "specialtyId": "heshiko",
+      "rakutenUrl": "https://item.rakuten.co.jp/echizengani/t05-02/",
+      "merchant": "越前田村屋",
+      "itemCode": "echizengani:10000063",
+      "sku": null,
+      "quantity": "10枚",
+      "availabilityStatus": "AVAILABLE",
+      "originEvidence": {
+        "sourceUrl": "https://item.rakuten.co.jp/echizengani/t05-02/",
+        "checkedAt": "2026-10-22T09:53:40.704Z",
+        "meaning": "現行単品の商品説明・名称・原材料/産地・量を確認。文化上の地域性とは区別。"
+      },
+      "lastCheckedAt": "2026-10-22T09:53:40.704Z",
+      "validUntil": "2027-01-22T00:00:00+09:00",
+      "registeredSite": "https://yoi-no-ikkon.vercel.app/",
+      "operatorApproved": true,
+      "affiliate": {
+        "sourceType": "rakutenOfficialTool",
+        "url": "https://hb.afl.rakuten.co.jp/ichiba/58b56f1a.a8a979fd.58b56f1b.3af7ea7a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fechizengani%2Ft05-02%2F&link_type=text&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJ0ZXh0Iiwic2l6ZSI6IjgweDgwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjAsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "originalTextHtml": "<a href=\"https://hb.afl.rakuten.co.jp/ichiba/58b56f1a.a8a979fd.58b56f1b.3af7ea7a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fechizengani%2Ft05-02%2F&link_type=text&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJ0ZXh0Iiwic2l6ZSI6IjgweDgwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjAsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D\" target=\"_blank\" rel=\"nofollow sponsored noopener\" style=\"word-wrap:break-word;\">さばのへしこ お刺身 10枚入り へしこスライス</a>",
+        "issuedAt": "2026-10-22T09:51:37.596Z"
+      },
+      "image": {
+        "src": "https://hbb.afl.rakuten.co.jp/hgb/58b56f1a.a8a979fd.58b56f1b.3af7ea7a/?me_id=1281029&item_id=10000063&pc=https%3A%2F%2Fthumbnail.image.rakuten.co.jp%2F%400_mall%2Fechizengani%2Fcabinet%2Fheshiko%2Fimgrc0107176294.jpg%3F_ex%3D240x240&s=240x240&t=pict",
+        "width": 240,
+        "height": 240,
+        "html": "<a href=\"https://hb.afl.rakuten.co.jp/ichiba/58b56f1a.a8a979fd.58b56f1b.3af7ea7a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fechizengani%2Ft05-02%2F&link_type=pict&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0Iiwic2l6ZSI6IjI0MHgyNDAiLCJuYW0iOjEsIm5hbXAiOiJyaWdodCIsImNvbSI6MSwiY29tcCI6ImRvd24iLCJwcmljZSI6MCwiYm9yIjoxLCJjb2wiOjEsImJidG4iOjEsInByb2QiOjAsImFtcCI6ZmFsc2V9\" target=\"_blank\" rel=\"nofollow sponsored noopener\" style=\"word-wrap:break-word;\"><img src=\"https://hbb.afl.rakuten.co.jp/hgb/58b56f1a.a8a979fd.58b56f1b.3af7ea7a/?me_id=1281029&item_id=10000063&pc=https%3A%2F%2Fthumbnail.image.rakuten.co.jp%2F%400_mall%2Fechizengani%2Fcabinet%2Fheshiko%2Fimgrc0107176294.jpg%3F_ex%3D240x240&s=240x240&t=pict\" border=\"0\" style=\"margin:2px\" alt=\"\" title=\"\"></a>",
+        "originalSha256": "5dd37cde362f322e9613390b036d279056e579a941bc079e1670b3dd7003e657",
+        "sourceType": "rakutenOfficialTool",
+        "originalUnmodified": true,
+        "permissionConfirmed": true,
+        "productUrl": "https://item.rakuten.co.jp/echizengani/t05-02/",
+        "issuedAt": "2026-10-22T09:51:37.596Z"
+      }
+    },
+    {
+      "specialtyId": "kodai-sasazuke",
+      "rakutenUrl": "https://item.rakuten.co.jp/g-callshop/43915/",
+      "merchant": "G-Call 食通の定番 お取り寄せ",
+      "itemCode": "g-callshop:10006518",
+      "sku": null,
+      "quantity": "180g・1樽",
+      "availabilityStatus": "AVAILABLE",
+      "originEvidence": {
+        "sourceUrl": "https://item.rakuten.co.jp/g-callshop/43915/",
+        "checkedAt": "2026-10-22T09:53:40.875Z",
+        "meaning": "現行単品の商品説明・名称・原材料/産地・量を確認。文化上の地域性とは区別。"
+      },
+      "lastCheckedAt": "2026-10-22T09:53:40.875Z",
+      "validUntil": "2027-01-22T00:00:00+09:00",
+      "registeredSite": "https://yoi-no-ikkon.vercel.app/",
+      "operatorApproved": true,
+      "affiliate": {
+        "sourceType": "rakutenOfficialTool",
+        "url": "https://hb.afl.rakuten.co.jp/ichiba/58b56f20.13cf8c9f.58b56f21.c779456b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fg-callshop%2F43915%2F&link_type=text&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJ0ZXh0Iiwic2l6ZSI6IjgweDgwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjAsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "originalTextHtml": "<a href=\"https://hb.afl.rakuten.co.jp/ichiba/58b56f20.13cf8c9f.58b56f21.c779456b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fg-callshop%2F43915%2F&link_type=text&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJ0ZXh0Iiwic2l6ZSI6IjgweDgwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjAsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D\" target=\"_blank\" rel=\"nofollow sponsored noopener\" style=\"word-wrap:break-word;\">小浜海産 若狭小浜 丸海 小鯛 ささ漬け 1樽 180g 送料無料 キダイ レンコダイ 北陸 日本海 天然塩 ささ漬 笹漬け おつまみ お取り寄せ</a>",
+        "issuedAt": "2026-10-22T09:51:40.467Z"
+      },
+      "image": {
+        "src": "https://hbb.afl.rakuten.co.jp/hgb/58b56f20.13cf8c9f.58b56f21.c779456b/?me_id=1350499&item_id=10006518&pc=https%3A%2F%2Fthumbnail.image.rakuten.co.jp%2F%400_mall%2Fg-callshop%2Fcabinet%2Ffoods%2Fseafood2%2F43915_01.jpg%3F_ex%3D240x240&s=240x240&t=pict",
+        "width": 240,
+        "height": 240,
+        "html": "<a href=\"https://hb.afl.rakuten.co.jp/ichiba/58b56f20.13cf8c9f.58b56f21.c779456b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fg-callshop%2F43915%2F&link_type=pict&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0Iiwic2l6ZSI6IjI0MHgyNDAiLCJuYW0iOjEsIm5hbXAiOiJyaWdodCIsImNvbSI6MSwiY29tcCI6ImRvd24iLCJwcmljZSI6MCwiYm9yIjoxLCJjb2wiOjEsImJidG4iOjEsInByb2QiOjAsImFtcCI6ZmFsc2V9\" target=\"_blank\" rel=\"nofollow sponsored noopener\" style=\"word-wrap:break-word;\"><img src=\"https://hbb.afl.rakuten.co.jp/hgb/58b56f20.13cf8c9f.58b56f21.c779456b/?me_id=1350499&item_id=10006518&pc=https%3A%2F%2Fthumbnail.image.rakuten.co.jp%2F%400_mall%2Fg-callshop%2Fcabinet%2Ffoods%2Fseafood2%2F43915_01.jpg%3F_ex%3D240x240&s=240x240&t=pict\" border=\"0\" style=\"margin:2px\" alt=\"\" title=\"\"></a>",
+        "originalSha256": "83d6c37431823f809ca9e45f3c51ef9982c2112ce0c97336617f053a776dd488",
+        "sourceType": "rakutenOfficialTool",
+        "originalUnmodified": true,
+        "permissionConfirmed": true,
+        "productUrl": "https://item.rakuten.co.jp/g-callshop/43915/",
+        "issuedAt": "2026-10-22T09:51:40.467Z"
+      }
+    }
+  ]
+}

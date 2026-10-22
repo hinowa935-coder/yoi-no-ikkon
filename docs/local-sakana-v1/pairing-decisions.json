@@ -1,0 +1,3932 @@
+{
+  "rows": [
+    {
+      "sakeId": "nogomi-tokubetsu-junmai",
+      "name": "能古見 特別純米酒",
+      "prefecture": "佐賀県",
+      "sensoryEvidence": [
+        {
+          "axis": "aroma",
+          "feature": "ほのかな吟醸香",
+          "sourceUrl": "https://sakeshop-hisaya.com/shopdetail/000000000119/",
+          "sourceType": "specialistRetailer",
+          "verifiedAt": "2026-10-04",
+          "meaning": "対象商品説明"
+        },
+        {
+          "axis": "umami",
+          "feature": "米の旨味",
+          "sourceUrl": "https://sakeshop-hisaya.com/shopdetail/000000000119/",
+          "sourceType": "specialistRetailer",
+          "verifiedAt": "2026-10-04",
+          "meaning": "対象商品説明"
+        }
+      ],
+      "selected": [
+        "ika-shumai",
+        "yobuko-ichiyaboshi"
+      ],
+      "status": "EDITORIAL_MATCH",
+      "reason": null,
+      "overlapExcluded": []
+    },
+    {
+      "sakeId": "shichida-junmai",
+      "name": "七田 純米",
+      "prefecture": "佐賀県",
+      "sensoryEvidence": [
+        {
+          "axis": "umami",
+          "feature": "米由来の旨味",
+          "sourceUrl": "https://tenzan.co.jp/product/shichida-jyunmai/",
+          "sourceType": "breweryOfficial",
+          "verifiedAt": "2026-10-04",
+          "meaning": "対象商品説明"
+        }
+      ],
+      "selected": [
+        "yobuko-ichiyaboshi"
+      ],
+      "status": "EDITORIAL_MATCH",
+      "reason": null,
+      "overlapExcluded": []
+    },
+    {
+      "sakeId": "koimari-saki",
+      "name": "古伊万里 前 純米吟醸",
+      "prefecture": "佐賀県",
+      "sensoryEvidence": [],
+      "selected": [],
+      "status": "HELD",
+      "reason": "INSUFFICIENT_SAKE_TASTE_EVIDENCE",
+      "overlapExcluded": []
+    },
+    {
+      "sakeId": "azumaichi-junmai-ginjo",
+      "name": "東一 純米吟醸",
+      "prefecture": "佐賀県",
+      "sensoryEvidence": [
+        {
+          "axis": "aroma",
+          "feature": "穏やかな香り",
+          "sourceUrl": "https://azumaichi.com/top/products/seishu/",
+          "sourceType": "breweryOfficial",
+          "verifiedAt": "2026-10-04",
+          "meaning": "対象純米吟醸の説明"
+        },
+        {
+          "axis": "umami",
+          "feature": "米の旨味",
+          "sourceUrl": "https://azumaichi.com/top/products/seishu/",
+          "sourceType": "breweryOfficial",
+          "verifiedAt": "2026-10-04",
+          "meaning": "対象純米吟醸の説明"
+        }
+      ],
+      "selected": [
+        "ika-shumai",
+        "yobuko-ichiyaboshi"
+      ],
+      "status": "EDITORIAL_MATCH",
+      "reason": null,
+      "overlapExcluded": []
+    },
+    {
+      "sakeId": "nabeshima-junmai-ginjo",
+      "name": "鍋島 純米吟醸 山田錦",
+      "prefecture": "佐賀県",
+      "sensoryEvidence": [
+        {
+          "axis": "aroma",
+          "feature": "穏やかな吟醸香",
+          "sourceUrl": "https://www.sakenomy.jp/sake/TST0000007779/",
+          "sourceType": "specialistMedia",
+          "verifiedAt": "2026-10-04",
+          "meaning": "対象商品の味わいの特徴"
+        }
+      ],
+      "selected": [
+        "ika-shumai"
+      ],
+      "status": "EDITORIAL_MATCH",
+      "reason": null,
+      "overlapExcluded": []
+    },
+    {
+      "sakeId": "amabuki-flower-yeast",
+      "name": "天吹 純米吟醸 いちご酵母 生",
+      "prefecture": "佐賀県",
+      "sensoryEvidence": [
+        {
+          "axis": "clean",
+          "feature": "爽やかな甘さ",
+          "sourceUrl": "https://www.amabuki.co.jp/sake/000162.php",
+          "sourceType": "breweryOfficial",
+          "verifiedAt": "2026-10-04",
+          "meaning": "L28"
+        },
+        {
+          "axis": "sweet",
+          "feature": "爽やかな甘さ",
+          "sourceUrl": "https://www.amabuki.co.jp/sake/000162.php",
+          "sourceType": "breweryOfficial",
+          "verifiedAt": "2026-10-04",
+          "meaning": "L28"
+        },
+        {
+          "axis": "aroma",
+          "feature": "フルーツ感",
+          "sourceUrl": "https://www.amabuki.co.jp/sake/000162.php",
+          "sourceType": "breweryOfficial",
+          "verifiedAt": "2026-10-04",
+          "meaning": "L28"
+        },
+        {
+          "axis": "clean",
+          "feature": "軽やかな飲み口",
+          "sourceUrl": "https://www.amabuki.co.jp/sake/000162.php",
+          "sourceType": "breweryOfficial",
+          "verifiedAt": "2026-10-04",
+          "meaning": "L41"
+        },
+        {
+          "axis": "acid",
+          "feature": "きれいな酸味",
+          "sourceUrl": "https://www.amabuki.co.jp/sake/000162.php",
+          "sourceType": "breweryOfficial",
+          "verifiedAt": "2026-10-04",
+          "meaning": "L41。今回は公式に形容まで直接記載"
+        },
+        {
+          "axis": "sweet",
+          "feature": "みずみずしい甘み",
+          "sourceUrl": "https://www.amabuki.co.jp/sake/000162.php",
+          "sourceType": "breweryOfficial",
+          "verifiedAt": "2026-10-04",
+          "meaning": "L41"
+        }
+      ],
+      "selected": [
+        "ika-shumai",
+        "yobuko-ichiyaboshi"
+      ],
+      "status": "EDITORIAL_MATCH",
+      "reason": null,
+      "overlapExcluded": []
+    },
+    {
+      "sakeId": "azumacho-junmai",
+      "name": "純米東長",
+      "prefecture": "佐賀県",
+      "sensoryEvidence": [
+        {
+          "axis": "umami",
+          "feature": "米の旨味",
+          "sourceUrl": "https://www.azumacho.co.jp/products/junmai_azumacho.html",
+          "sourceType": "breweryOfficial",
+          "verifiedAt": "2026-10-04",
+          "meaning": "対象酒の特徴"
+        },
+        {
+          "axis": "aroma",
+          "feature": "芳醇な香り",
+          "sourceUrl": "https://www.azumacho.co.jp/products/junmai_azumacho.html",
+          "sourceType": "breweryOfficial",
+          "verifiedAt": "2026-10-04",
+          "meaning": "対象酒の特徴"
+        },
+        {
+          "axis": "clean",
+          "feature": "キレ",
+          "sourceUrl": "https://www.azumacho.co.jp/products/junmai_azumacho.html",
+          "sourceType": "breweryOfficial",
+          "verifiedAt": "2026-10-04",
+          "meaning": "対象酒の特徴"
+        }
+      ],
+      "selected": [
+        "ika-shumai",
+        "yobuko-ichiyaboshi"
+      ],
+      "status": "EDITORIAL_MATCH",
+      "reason": null,
+      "overlapExcluded": []
+    },
+    {
+      "sakeId": "amaneko-white-koji",
+      "name": "新政 亜麻猫",
+      "prefecture": "秋田県",
+      "sensoryEvidence": [
+        {
+          "axis": "acid",
+          "feature": "酸味",
+          "sourceUrl": "https://takekuma.co.jp/store/item/item-seisyu/aramasa-4710",
+          "sourceType": "specialistRetailer",
+          "verifiedAt": "2026-10-03",
+          "meaning": "対象商品L46"
+        }
+      ],
+      "selected": [
+        "gibasa"
+      ],
+      "status": "EDITORIAL_MATCH",
+      "reason": null,
+      "overlapExcluded": [
+        "iburigakko"
+      ]
+    },
+    {
+      "sakeId": "yamamoto-pure-black",
+      "name": "山本 Pure Black ピュアブラック",
+      "prefecture": "秋田県",
+      "sensoryEvidence": [],
+      "selected": [],
+      "status": "HELD",
+      "reason": "INSUFFICIENT_SAKE_TASTE_EVIDENCE",
+      "overlapExcluded": [
+        "iburigakko"
+      ]
+    },
+    {
+      "sakeId": "yuki-no-bosha-junmai-ginjo",
+      "name": "雪の茅舎 純米吟醸",
+      "prefecture": "秋田県",
+      "sensoryEvidence": [
+        {
+          "axis": "umami",
+          "feature": "ふくよか",
+          "sourceUrl": "https://www.yukinobosha.jp/products/",
+          "sourceType": "breweryOfficial",
+          "verifiedAt": "2026-10-03",
+          "meaning": "定番の純米吟醸の項目でふくよかな喉ごしと説明。"
+        },
+        {
+          "axis": "aroma",
+          "feature": "ほどよい香り",
+          "sourceUrl": "https://www.yukinobosha.jp/products/",
+          "sourceType": "breweryOfficial",
+          "verifiedAt": "2026-10-03",
+          "meaning": "対象商品の香りをほどよいと紹介。"
+        }
+      ],
+      "selected": [
+        "gibasa"
+      ],
+      "status": "EDITORIAL_MATCH",
+      "reason": null,
+      "overlapExcluded": [
+        "iburigakko"
+      ]
+    },
+    {
+      "sakeId": "ippaku-suissei-tokubetsu-junmai",
+      "name": "一白水成 特別純米酒",
+      "prefecture": "秋田県",
+      "sensoryEvidence": [
+        {
+          "axis": "aroma",
+          "feature": "果実香",
+          "sourceUrl": "https://www.fukurokuju.jp/products/",
+          "sourceType": "breweryOfficial",
+          "verifiedAt": "2026-10-03",
+          "meaning": "白ラベル特別純米の項目に果実香を記載。"
+        },
+        {
+          "axis": "umami",
+          "feature": "米の旨味",
+          "sourceUrl": "https://www.fukurokuju.jp/products/",
+          "sourceType": "breweryOfficial",
+          "verifiedAt": "2026-10-03",
+          "meaning": "対象商品に米の旨味の広がりを記載。"
+        }
+      ],
+      "selected": [
+        "gibasa"
+      ],
+      "status": "EDITORIAL_MATCH",
+      "reason": null,
+      "overlapExcluded": [
+        "iburigakko"
+      ]
+    },
+    {
+      "sakeId": "hakurakusei-tokubetsu-junmai",
+      "name": "伯楽星 特別純米",
+      "prefecture": "宮城県",
+      "sensoryEvidence": [
+        {
+          "axis": "clean",
+          "feature": "キレ",
+          "sourceUrl": "https://niizawa-brewery.co.jp/item/167/",
+          "sourceType": "breweryOfficial",
+          "verifiedAt": "2026-10-03",
+          "meaning": "対象商品に後口のキレの良さを記載。"
+        }
+      ],
+      "selected": [],
+      "status": "HELD",
+      "reason": "NO_COMPATIBLE_NONOVERLAPPING_FOOD",
+      "overlapExcluded": [
+        "sasa-kamaboko"
+      ]
+    },
+    {
+      "sakeId": "kenkonichi-tokubetsu-junmai",
+      "name": "乾坤一 特別純米辛口",
+      "prefecture": "宮城県",
+      "sensoryEvidence": [],
+      "selected": [],
+      "status": "HELD",
+      "reason": "INSUFFICIENT_SAKE_TASTE_EVIDENCE",
+      "overlapExcluded": [
+        "sasa-kamaboko"
+      ]
+    },
+    {
+      "sakeId": "hakkaisan-tokubetsu-honjozo",
+      "name": "特別本醸造 八海山",
+      "prefecture": "新潟県",
+      "sensoryEvidence": [
+        {
+          "axis": "clean",
+          "feature": "淡麗",
+          "sourceUrl": "https://www.hakkaisan.co.jp/sake/honjyozo/",
+          "sourceType": "breweryOfficial",
+          "verifiedAt": "2026-10-03",
+          "meaning": "対象商品の味わいを淡麗と明記。"
+        }
+      ],
+      "selected": [
+        "kanzuri-shuto"
+      ],
+      "status": "EDITORIAL_MATCH",
+      "reason": null,
+      "overlapExcluded": [
+        "tochio-aburaage"
+      ]
+    },
+    {
+      "sakeId": "kubota-senju",
+      "name": "久保田 千寿",
+      "prefecture": "新潟県",
+      "sensoryEvidence": [
+        {
+          "axis": "clean",
+          "feature": "淡麗",
+          "sourceUrl": "https://www.asahi-shuzo.co.jp/kubota/senjyu/",
+          "sourceType": "breweryOfficial",
+          "verifiedAt": "2026-10-03",
+          "meaning": "通常の千寿吟醸の商品説明に淡麗と記載。"
+        },
+        {
+          "axis": "aroma",
+          "feature": "穏やかな香り",
+          "sourceUrl": "https://www.asahi-shuzo.co.jp/kubota/senjyu/",
+          "sourceType": "breweryOfficial",
+          "verifiedAt": "2026-10-03",
+          "meaning": "対象商品の香りを穏やかと説明。"
+        },
+        {
+          "axis": "clean",
+          "feature": "キレ",
+          "sourceUrl": "https://www.asahi-shuzo.co.jp/kubota/senjyu/",
+          "sourceType": "breweryOfficial",
+          "verifiedAt": "2026-10-03",
+          "meaning": "対象商品のさらりとした喉ごしとキレを紹介。"
+        }
+      ],
+      "selected": [
+        "kanzuri-shuto"
+      ],
+      "status": "EDITORIAL_MATCH",
+      "reason": null,
+      "overlapExcluded": [
+        "tochio-aburaage"
+      ]
+    },
+    {
+      "sakeId": "koshino-kanbai-white-label",
+      "name": "越乃寒梅 白ラベル",
+      "prefecture": "新潟県",
+      "sensoryEvidence": [
+        {
+          "axis": "fermented",
+          "feature": "熟成",
+          "sourceUrl": "https://koshinokanbai.co.jp/products/whitelabel",
+          "sourceType": "breweryOfficial",
+          "verifiedAt": "2026-10-03",
+          "meaning": "対象商品の味わい説明に六か月以上の熟成を記載。"
+        }
+      ],
+      "selected": [],
+      "status": "HELD",
+      "reason": "NO_COMPATIBLE_NONOVERLAPPING_FOOD",
+      "overlapExcluded": [
+        "tochio-aburaage"
+      ]
+    },
+    {
+      "sakeId": "shimeharitsuru-tsuki",
+      "name": "〆張鶴 月",
+      "prefecture": "新潟県",
+      "sensoryEvidence": [],
+      "selected": [],
+      "status": "HELD",
+      "reason": "INSUFFICIENT_SAKE_TASTE_EVIDENCE",
+      "overlapExcluded": [
+        "tochio-aburaage"
+      ]
+    },
+    {
+      "sakeId": "murayu-kuro",
+      "name": "村祐 黒 純米大吟醸 無濾過本生",
+      "prefecture": "新潟県",
+      "sensoryEvidence": [],
+      "selected": [],
+      "status": "HELD",
+      "reason": "INSUFFICIENT_SAKE_TASTE_EVIDENCE",
+      "overlapExcluded": [
+        "tochio-aburaage"
+      ]
+    },
+    {
+      "sakeId": "born-gold",
+      "name": "梵・ゴールド",
+      "prefecture": "福井県",
+      "sensoryEvidence": [
+        {
+          "axis": "fermented",
+          "feature": "氷温熟成",
+          "sourceUrl": "https://www.born.co.jp/product/gold/",
+          "sourceType": "breweryOfficial",
+          "verifiedAt": "2026-10-03",
+          "meaning": "対象商品に一年までの氷温熟成酒をブレンドすると記載。"
+        },
+        {
+          "axis": "aroma",
+          "feature": "芳醇旨口",
+          "sourceUrl": "https://www.born.co.jp/product/gold/",
+          "sourceType": "breweryOfficial",
+          "verifiedAt": "2026-10-03",
+          "meaning": "対象商品ページの味わい表記を使用。"
+        }
+      ],
+      "selected": [
+        "heshiko",
+        "kodai-sasazuke"
+      ],
+      "status": "EDITORIAL_MATCH",
+      "reason": null,
+      "overlapExcluded": []
+    },
+    {
+      "sakeId": "jozan-junmai",
+      "name": "常山 純米辛口〝超〟",
+      "prefecture": "福井県",
+      "sensoryEvidence": [
+        {
+          "axis": "clean",
+          "feature": "シャープな飲み口",
+          "sourceUrl": "https://jozan.co.jp/product/detail.php?id=1",
+          "sourceType": "breweryOfficial",
+          "verifiedAt": "2026-10-03",
+          "meaning": "通常の純米辛口超の紹介を要約。"
+        },
+        {
+          "axis": "umami",
+          "feature": "柔らかい米の旨味",
+          "sourceUrl": "https://jozan.co.jp/product/detail.php?id=1",
+          "sourceType": "breweryOfficial",
+          "verifiedAt": "2026-10-03",
+          "meaning": "対象商品の味わい説明を短縮。"
+        }
+      ],
+      "selected": [
+        "kodai-sasazuke",
+        "heshiko"
+      ],
+      "status": "EDITORIAL_MATCH",
+      "reason": null,
+      "overlapExcluded": []
+    },
+    {
+      "sakeId": "tedorigawa-yamahai-junmai",
+      "name": "手取川 山廃仕込 純米酒",
+      "prefecture": "石川県",
+      "sensoryEvidence": [
+        {
+          "axis": "aroma",
+          "feature": "フルーティー",
+          "sourceUrl": "https://tedorigawa.com/item/item-category/tedorigawa/",
+          "sourceType": "breweryOfficial",
+          "verifiedAt": "2026-10-03",
+          "meaning": "L113。冷・常温における特徴"
+        },
+        {
+          "axis": "clean",
+          "feature": "キレ",
+          "sourceUrl": "https://tedorigawa.com/item/item-category/tedorigawa/",
+          "sourceType": "breweryOfficial",
+          "verifiedAt": "2026-10-03",
+          "meaning": "L113"
+        }
+      ],
+      "selected": [
+        "fugu-nukazuke"
+      ],
+      "status": "EDITORIAL_MATCH",
+      "reason": null,
+      "overlapExcluded": []
+    },
+    {
+      "sakeId": "kikuhime-yamahai-junmai",
+      "name": "菊姫 山廃純米",
+      "prefecture": "石川県",
+      "sensoryEvidence": [
+        {
+          "axis": "fermented",
+          "feature": "山廃",
+          "sourceUrl": "https://www.kikuhime.co.jp/products/%E5%B1%B1%E5%BB%83%E7%B4%94%E7%B1%B3/",
+          "sourceType": "breweryOfficial",
+          "verifiedAt": "2026-10-03",
+          "meaning": "対象商品の酒母欄は山廃。"
+        },
+        {
+          "axis": "umami",
+          "feature": "濃醇",
+          "sourceUrl": "https://www.kikuhime.co.jp/products/%E5%B1%B1%E5%BB%83%E7%B4%94%E7%B1%B3/",
+          "sourceType": "breweryOfficial",
+          "verifiedAt": "2026-10-03",
+          "meaning": "対象商品を濃醇タイプと記載。"
+        },
+        {
+          "axis": "acid",
+          "feature": "力強い酸味",
+          "sourceUrl": "https://www.kikuhime.co.jp/products/%E5%B1%B1%E5%BB%83%E7%B4%94%E7%B1%B3/",
+          "sourceType": "breweryOfficial",
+          "verifiedAt": "2026-10-03",
+          "meaning": "対象商品の酒質説明に力強い酸味を記載。"
+        },
+        {
+          "axis": "aroma",
+          "feature": "芳醇な香り",
+          "sourceUrl": "https://www.kikuhime.co.jp/products/%E5%B1%B1%E5%BB%83%E7%B4%94%E7%B1%B3/",
+          "sourceType": "breweryOfficial",
+          "verifiedAt": "2026-10-04",
+          "meaning": "L41"
+        },
+        {
+          "axis": "acid",
+          "feature": "力強い酸味",
+          "sourceUrl": "https://www.kikuhime.co.jp/products/%E5%B1%B1%E5%BB%83%E7%B4%94%E7%B1%B3/",
+          "sourceType": "breweryOfficial",
+          "verifiedAt": "2026-10-04",
+          "meaning": "L41"
+        },
+        {
+          "axis": "umami",
+          "feature": "米の旨味",
+          "sourceUrl": "https://www.kikuhime.co.jp/products/%E5%B1%B1%E5%BB%83%E7%B4%94%E7%B1%B3/",
+          "sourceType": "breweryOfficial",
+          "verifiedAt": "2026-10-04",
+          "meaning": "L41"
+        },
+        {
+          "axis": "umami",
+          "feature": "濃醇",
+          "sourceUrl": "https://www.kikuhime.co.jp/products/%E5%B1%B1%E5%BB%83%E7%B4%94%E7%B1%B3/",
+          "sourceType": "breweryOfficial",
+          "verifiedAt": "2026-10-04",
+          "meaning": "L55"
+        }
+      ],
+      "selected": [
+        "kabura-zushi",
+        "fugu-nukazuke"
+      ],
+      "status": "EDITORIAL_MATCH",
+      "reason": null,
+      "overlapExcluded": []
+    },
+    {
+      "sakeId": "tengumai-yamahai-junmai",
+      "name": "天狗舞 山廃純米大吟醸",
+      "prefecture": "石川県",
+      "sensoryEvidence": [
+        {
+          "axis": "fermented",
+          "feature": "山廃",
+          "sourceUrl": "https://www.tengumai.co.jp/products/daiginjo/33.html",
+          "sourceType": "breweryOfficial",
+          "verifiedAt": "2026-10-03",
+          "meaning": "対象商品は山廃酒母造りと記載。"
+        },
+        {
+          "axis": "aroma",
+          "feature": "芳醇",
+          "sourceUrl": "https://www.tengumai.co.jp/products/daiginjo/33.html",
+          "sourceType": "breweryOfficial",
+          "verifiedAt": "2026-10-03",
+          "meaning": "対象商品の風味を芳醇と紹介。"
+        },
+        {
+          "axis": "fermented",
+          "feature": "熟成",
+          "sourceUrl": "https://www.tengumai.co.jp/products/daiginjo/33.html",
+          "sourceType": "breweryOfficial",
+          "verifiedAt": "2026-10-03",
+          "meaning": "対象商品は熟成による色も楽しめると説明。"
+        }
+      ],
+      "selected": [],
+      "status": "HELD",
+      "reason": "NO_COMPATIBLE_NONOVERLAPPING_FOOD",
+      "overlapExcluded": []
+    },
+    {
+      "sakeId": "masuizumi-junmai-ginjo",
+      "name": "満寿泉 純米吟醸",
+      "prefecture": "富山県",
+      "sensoryEvidence": [],
+      "selected": [],
+      "status": "HELD",
+      "reason": "INSUFFICIENT_SAKE_TASTE_EVIDENCE",
+      "overlapExcluded": []
+    },
+    {
+      "sakeId": "kachikoma-junmai",
+      "name": "勝駒 純米酒",
+      "prefecture": "富山県",
+      "sensoryEvidence": [],
+      "selected": [],
+      "status": "HELD",
+      "reason": "INSUFFICIENT_SAKE_TASTE_EVIDENCE",
+      "overlapExcluded": []
+    },
+    {
+      "sakeId": "kikusui-funaguchi-honjozo-nama-genshu-standard",
+      "name": "菊水ふなぐち",
+      "prefecture": "新潟県",
+      "sensoryEvidence": [
+        {
+          "axis": "aroma",
+          "feature": "フレッシュな果実のような香り",
+          "sourceUrl": "https://www.kikusui-sake.com/home/jp/products/funaguchi/",
+          "sourceType": "breweryOfficial",
+          "verifiedAt": "2026-10-12",
+          "meaning": "当該商品のフレッシュな果実のような香りに対応する公式説明を短縮。"
+        },
+        {
+          "axis": "umami",
+          "feature": "しっかりとした旨み",
+          "sourceUrl": "https://www.kikusui-sake.com/home/jp/products/funaguchi/",
+          "sourceType": "breweryOfficial",
+          "verifiedAt": "2026-10-12",
+          "meaning": "当該商品のしっかりとした旨みに対応する公式説明を短縮。"
+        }
+      ],
+      "selected": [
+        "kanzuri-shuto",
+        "tochio-aburaage"
+      ],
+      "status": "EDITORIAL_MATCH",
+      "reason": null,
+      "overlapExcluded": []
+    },
+    {
+      "sakeId": "suigei-tokubetsu-junmai",
+      "name": "酔鯨 特別純米酒",
+      "prefecture": "高知県",
+      "sensoryEvidence": [
+        {
+          "axis": "umami",
+          "feature": "米の旨味",
+          "sourceUrl": "https://suigei.co.jp/collection/564.html",
+          "sourceType": "breweryOfficial",
+          "verifiedAt": "2026-10-03",
+          "meaning": "対象商品の米の旨味を記載。"
+        },
+        {
+          "axis": "clean",
+          "feature": "キレ",
+          "sourceUrl": "https://suigei.co.jp/collection/564.html",
+          "sourceType": "breweryOfficial",
+          "verifiedAt": "2026-10-03",
+          "meaning": "対象商品のキレの良い後口を記載。"
+        },
+        {
+          "axis": "aroma",
+          "feature": "控えめな香り",
+          "sourceUrl": "https://suigei.co.jp/collection/564.html",
+          "sourceType": "breweryOfficial",
+          "verifiedAt": "2026-10-03",
+          "meaning": "対象商品の香りはあくまで控えめと記載。"
+        }
+      ],
+      "selected": [
+        "katsuo-namabushi",
+        "shuto"
+      ],
+      "status": "EDITORIAL_MATCH",
+      "reason": null,
+      "overlapExcluded": []
+    },
+    {
+      "sakeId": "kachikoma-modern-premium",
+      "name": "勝駒 純米吟醸",
+      "prefecture": "富山県",
+      "sensoryEvidence": [],
+      "selected": [],
+      "status": "HELD",
+      "reason": "INSUFFICIENT_SAKE_TASTE_EVIDENCE",
+      "overlapExcluded": []
+    },
+    {
+      "sakeId": "otokoyama-kimoto-junmai",
+      "name": "男山 生酛純米",
+      "prefecture": "北海道",
+      "sensoryEvidence": [
+        {
+          "axis": "fermented",
+          "feature": "生酛",
+          "sourceUrl": "https://www.otokoyama.com/lineup/category01/",
+          "sourceType": "breweryOfficial",
+          "verifiedAt": "2026-10-03",
+          "meaning": "生酛純米の項目に伝統的な生酛製法を記載。"
+        },
+        {
+          "axis": "aroma",
+          "feature": "芳醇",
+          "sourceUrl": "https://www.otokoyama.com/lineup/category01/",
+          "sourceType": "breweryOfficial",
+          "verifiedAt": "2026-10-03",
+          "meaning": "対象商品を深みのある芳醇な味わいと紹介。"
+        },
+        {
+          "axis": "dry",
+          "feature": "辛口",
+          "sourceUrl": "https://www.otokoyama.com/lineup/category01/",
+          "sourceType": "breweryOfficial",
+          "verifiedAt": "2026-10-03",
+          "meaning": "対象商品の味わい表記は辛口。"
+        }
+      ],
+      "selected": [
+        "sake-toba",
+        "ika-meshi"
+      ],
+      "status": "EDITORIAL_MATCH",
+      "reason": null,
+      "overlapExcluded": []
+    },
+    {
+      "sakeId": "kokushi-muso-junmai",
+      "name": "国士無双 純米酒",
+      "prefecture": "北海道",
+      "sensoryEvidence": [
+        {
+          "axis": "umami",
+          "feature": "コク",
+          "sourceUrl": "https://www.takasagoshuzo-store.com/view/category/kokushimusou",
+          "sourceType": "breweryOfficial",
+          "verifiedAt": "2026-10-03",
+          "meaning": "純米酒国士無双の項目でコクを紹介。"
+        },
+        {
+          "axis": "umami",
+          "feature": "旨味",
+          "sourceUrl": "https://www.takasagoshuzo-store.com/view/category/kokushimusou",
+          "sourceType": "breweryOfficial",
+          "verifiedAt": "2026-10-03",
+          "meaning": "同商品の米の旨味を記載。"
+        },
+        {
+          "axis": "clean",
+          "feature": "爽やかな後味",
+          "sourceUrl": "https://www.takasagoshuzo-store.com/view/category/kokushimusou",
+          "sourceType": "breweryOfficial",
+          "verifiedAt": "2026-10-03",
+          "meaning": "同商品の後味を爽やかと説明。"
+        }
+      ],
+      "selected": [
+        "matsumae-zuke",
+        "ika-meshi"
+      ],
+      "status": "EDITORIAL_MATCH",
+      "reason": null,
+      "overlapExcluded": []
+    },
+    {
+      "sakeId": "fukutsukasa-junmai",
+      "name": "福司 純米酒",
+      "prefecture": "北海道",
+      "sensoryEvidence": [
+        {
+          "axis": "aroma",
+          "feature": "芳醇",
+          "sourceUrl": "https://www.fukutsukasa.jp/product/?ctg=ctg11",
+          "sourceType": "breweryOfficial",
+          "verifiedAt": "2026-10-03",
+          "meaning": "対象商品の芳醇な味を説明。"
+        },
+        {
+          "axis": "clean",
+          "feature": "すっきりした喉ごし",
+          "sourceUrl": "https://www.fukutsukasa.jp/product/?ctg=ctg11",
+          "sourceType": "breweryOfficial",
+          "verifiedAt": "2026-10-03",
+          "meaning": "対象商品の喉ごしをすっきりと説明。"
+        }
+      ],
+      "selected": [
+        "matsumae-zuke"
+      ],
+      "status": "EDITORIAL_MATCH",
+      "reason": null,
+      "overlapExcluded": []
+    },
+    {
+      "sakeId": "kita-no-katsu-taikai",
+      "name": "北の勝 大海",
+      "prefecture": "北海道",
+      "sensoryEvidence": [
+        {
+          "axis": "clean",
+          "feature": "すっきりしたのど越し",
+          "sourceUrl": "https://www.kitanokatsu.jp/",
+          "sourceType": "breweryOfficial",
+          "verifiedAt": "2026-10-03",
+          "meaning": "大海個別欄L204"
+        }
+      ],
+      "selected": [
+        "matsumae-zuke"
+      ],
+      "status": "EDITORIAL_MATCH",
+      "reason": null,
+      "overlapExcluded": []
+    },
+    {
+      "sakeId": "gohou-junmai",
+      "name": "郷宝 特別純米 壱火 磨き五割五分",
+      "prefecture": "北海道",
+      "sensoryEvidence": [
+        {
+          "axis": "clean",
+          "feature": "軽快",
+          "sourceUrl": "https://gohhou.stores.jp/items/656c99e668911919d88f2b77",
+          "sourceType": "breweryOfficial",
+          "verifiedAt": "2026-10-03",
+          "meaning": "対象商品L31"
+        },
+        {
+          "axis": "umami",
+          "feature": "柔らかな旨味",
+          "sourceUrl": "https://gohhou.stores.jp/items/656c99e668911919d88f2b77",
+          "sourceType": "breweryOfficial",
+          "verifiedAt": "2026-10-03",
+          "meaning": "対象商品L31"
+        }
+      ],
+      "selected": [
+        "matsumae-zuke",
+        "ika-meshi"
+      ],
+      "status": "EDITORIAL_MATCH",
+      "reason": null,
+      "overlapExcluded": []
+    },
+    {
+      "sakeId": "atago-no-matsu-i3yhce",
+      "name": "あたごのまつ 特別純米",
+      "prefecture": "宮城県",
+      "sensoryEvidence": [
+        {
+          "axis": "sweet",
+          "feature": "やさしい甘さ",
+          "sourceUrl": "https://niizawa-brewery.co.jp/item/173/",
+          "sourceType": "breweryOfficial",
+          "verifiedAt": "2026-10-03",
+          "meaning": "L62"
+        },
+        {
+          "axis": "clean",
+          "feature": "キレがある",
+          "sourceUrl": "https://niizawa-brewery.co.jp/item/173/",
+          "sourceType": "breweryOfficial",
+          "verifiedAt": "2026-10-03",
+          "meaning": "L62"
+        }
+      ],
+      "selected": [],
+      "status": "HELD",
+      "reason": "NO_COMPATIBLE_NONOVERLAPPING_FOOD",
+      "overlapExcluded": [
+        "sasa-kamaboko"
+      ]
+    },
+    {
+      "sakeId": "urakasumi-i3yhce",
+      "name": "純米酒 浦霞",
+      "prefecture": "宮城県",
+      "sensoryEvidence": [
+        {
+          "axis": "umami",
+          "feature": "米の旨味",
+          "sourceUrl": "https://www.urakasumi.com/items/junmai/",
+          "sourceType": "breweryOfficial",
+          "verifiedAt": "2026-10-03",
+          "meaning": "商品説明に米の旨味を記載。"
+        },
+        {
+          "axis": "acid",
+          "feature": "酸味との調和",
+          "sourceUrl": "https://www.urakasumi.com/items/junmai/",
+          "sourceType": "breweryOfficial",
+          "verifiedAt": "2026-10-03",
+          "meaning": "米の旨味と酸味の調和を説明。"
+        },
+        {
+          "axis": "clean",
+          "feature": "すっきり",
+          "sourceUrl": "https://www.urakasumi.com/items/junmai/",
+          "sourceType": "breweryOfficial",
+          "verifiedAt": "2026-10-03",
+          "meaning": "対象商品をすっきりした味と紹介。"
+        }
+      ],
+      "selected": [
+        "kaki-oil",
+        "hoya-chinmi"
+      ],
+      "status": "EDITORIAL_MATCH",
+      "reason": null,
+      "overlapExcluded": [
+        "sasa-kamaboko"
+      ]
+    },
+    {
+      "sakeId": "suminoe-i3yhce",
+      "name": "墨廼江 特別純米酒 青ラベル",
+      "prefecture": "宮城県",
+      "sensoryEvidence": [
+        {
+          "axis": "aroma",
+          "feature": "穏やかな香り",
+          "sourceUrl": "https://www.hasegawasaketen.com/eshop/products/detail/1959",
+          "sourceType": "specialistRetailer",
+          "verifiedAt": "2026-10-03",
+          "meaning": "個別商品L172"
+        },
+        {
+          "axis": "umami",
+          "feature": "米の旨味",
+          "sourceUrl": "https://www.hasegawasaketen.com/eshop/products/detail/1959",
+          "sourceType": "specialistRetailer",
+          "verifiedAt": "2026-10-03",
+          "meaning": "個別商品L172"
+        }
+      ],
+      "selected": [
+        "hoya-chinmi",
+        "kaki-oil"
+      ],
+      "status": "EDITORIAL_MATCH",
+      "reason": null,
+      "overlapExcluded": [
+        "sasa-kamaboko"
+      ]
+    },
+    {
+      "sakeId": "miyakanbai-i3yhce",
+      "name": "宮寒梅 純米吟醸",
+      "prefecture": "宮城県",
+      "sensoryEvidence": [
+        {
+          "axis": "aroma",
+          "feature": "華やかな香り",
+          "sourceUrl": "https://miyagisake.jp/sake/17017/",
+          "sourceType": "industryAssociation",
+          "verifiedAt": "2026-10-03",
+          "meaning": "対象商品L43"
+        }
+      ],
+      "selected": [],
+      "status": "HELD",
+      "reason": "NO_COMPATIBLE_NONOVERLAPPING_FOOD",
+      "overlapExcluded": [
+        "sasa-kamaboko"
+      ]
+    },
+    {
+      "sakeId": "mansaku-no-hana-o23n5c",
+      "name": "純米吟醸 まんさくの花",
+      "prefecture": "秋田県",
+      "sensoryEvidence": [
+        {
+          "axis": "aroma",
+          "feature": "穏やかな香り",
+          "sourceUrl": "https://hinomaru-sake.com/item/junmaiginjo-mansaku",
+          "sourceType": "breweryOfficial",
+          "verifiedAt": "2026-10-03",
+          "meaning": "L45"
+        }
+      ],
+      "selected": [
+        "gibasa"
+      ],
+      "status": "EDITORIAL_MATCH",
+      "reason": null,
+      "overlapExcluded": [
+        "iburigakko"
+      ]
+    },
+    {
+      "sakeId": "jozen-mizunogotoshi-junmai-ginjo-standard",
+      "name": "上善如水 純米吟醸",
+      "prefecture": "新潟県",
+      "sensoryEvidence": [
+        {
+          "axis": "aroma",
+          "feature": "華やかな香り",
+          "sourceUrl": "https://item.rakuten.co.jp/jozen/102315/",
+          "sourceType": "breweryOfficial",
+          "verifiedAt": "2026-10-12",
+          "meaning": "当該商品の華やかな香りに対応する公式説明を短縮。"
+        },
+        {
+          "axis": "umami",
+          "feature": "まろやかな旨味",
+          "sourceUrl": "https://item.rakuten.co.jp/jozen/102315/",
+          "sourceType": "breweryOfficial",
+          "verifiedAt": "2026-10-12",
+          "meaning": "当該商品のまろやかな旨味に対応する公式説明を短縮。"
+        },
+        {
+          "axis": "clean",
+          "feature": "キレ",
+          "sourceUrl": "https://item.rakuten.co.jp/jozen/102315/",
+          "sourceType": "breweryOfficial",
+          "verifiedAt": "2026-10-12",
+          "meaning": "当該商品のキレに対応する公式説明を短縮。"
+        }
+      ],
+      "selected": [
+        "kanzuri-shuto",
+        "tochio-aburaage"
+      ],
+      "status": "EDITORIAL_MATCH",
+      "reason": null,
+      "overlapExcluded": []
+    },
+    {
+      "sakeId": "echigozakura-daiginjo-standard",
+      "name": "大吟醸 越後桜",
+      "prefecture": "新潟県",
+      "sensoryEvidence": [
+        {
+          "axis": "aroma",
+          "feature": "華やかな香り",
+          "sourceUrl": "https://www.echigozakura.co.jp/echigosakura.html",
+          "sourceType": "breweryOfficial",
+          "verifiedAt": "2026-10-12",
+          "meaning": "当該商品の華やかな香りに対応する公式説明を短縮。"
+        },
+        {
+          "axis": "clean",
+          "feature": "すっきり",
+          "sourceUrl": "https://www.echigozakura.co.jp/echigosakura.html",
+          "sourceType": "breweryOfficial",
+          "verifiedAt": "2026-10-12",
+          "meaning": "当該商品のすっきりに対応する公式説明を短縮。"
+        },
+        {
+          "axis": "dry",
+          "feature": "やや辛口",
+          "sourceUrl": "https://www.echigozakura.co.jp/echigosakura.html",
+          "sourceType": "breweryOfficial",
+          "verifiedAt": "2026-10-12",
+          "meaning": "当該商品のやや辛口に対応する公式説明を短縮。"
+        }
+      ],
+      "selected": [
+        "kanzuri-shuto",
+        "tochio-aburaage"
+      ],
+      "status": "EDITORIAL_MATCH",
+      "reason": null,
+      "overlapExcluded": []
+    },
+    {
+      "sakeId": "taiheizan-tenko-junmai-daiginjo-standard",
+      "name": "太平山 純米大吟醸 天巧",
+      "prefecture": "秋田県",
+      "sensoryEvidence": [],
+      "selected": [],
+      "status": "HELD",
+      "reason": "INSUFFICIENT_SAKE_TASTE_EVIDENCE",
+      "overlapExcluded": []
+    },
+    {
+      "sakeId": "tateyama-i4si9d",
+      "name": "純米吟醸立山",
+      "prefecture": "富山県",
+      "sensoryEvidence": [],
+      "selected": [],
+      "status": "HELD",
+      "reason": "INSUFFICIENT_SAKE_TASTE_EVIDENCE",
+      "overlapExcluded": []
+    },
+    {
+      "sakeId": "ginban-chotokusen-komenoshin-standard-v1",
+      "name": "銀盤 超特撰 米の芯",
+      "prefecture": "富山県",
+      "sensoryEvidence": [
+        {
+          "axis": "clean",
+          "feature": "淡麗辛口",
+          "sourceUrl": "https://ginban.co.jp/archives/products_category/cat01",
+          "sourceType": "breweryOfficial",
+          "verifiedAt": "2026-10-16",
+          "meaning": "公式超特撰米の芯の欄は淡麗辛口と説明。"
+        },
+        {
+          "axis": "dry",
+          "feature": "淡麗辛口",
+          "sourceUrl": "https://ginban.co.jp/archives/products_category/cat01",
+          "sourceType": "breweryOfficial",
+          "verifiedAt": "2026-10-16",
+          "meaning": "公式超特撰米の芯の欄は淡麗辛口と説明。"
+        },
+        {
+          "axis": "aroma",
+          "feature": "芳醇なふくみ香",
+          "sourceUrl": "https://ginban.co.jp/archives/products_category/cat01",
+          "sourceType": "breweryOfficial",
+          "verifiedAt": "2026-10-16",
+          "meaning": "公式は香りの豊かさをふくみ香として説明。"
+        }
+      ],
+      "selected": [
+        "shiroebi-himono",
+        "hotaruika-himono"
+      ],
+      "status": "EDITORIAL_MATCH",
+      "reason": null,
+      "overlapExcluded": []
+    },
+    {
+      "sakeId": "jokigen-ishikawa-nozijh",
+      "name": "常きげん 山廃純米",
+      "prefecture": "石川県",
+      "sensoryEvidence": [
+        {
+          "axis": "umami",
+          "feature": "コク",
+          "sourceUrl": "https://jokigen.co.jp/products/yamahaishikomishu/",
+          "sourceType": "breweryOfficial",
+          "verifiedAt": "2026-10-03",
+          "meaning": "対象純米L44"
+        },
+        {
+          "axis": "clean",
+          "feature": "キレ",
+          "sourceUrl": "https://jokigen.co.jp/products/yamahaishikomishu/",
+          "sourceType": "breweryOfficial",
+          "verifiedAt": "2026-10-03",
+          "meaning": "対象純米L44"
+        },
+        {
+          "axis": "dry",
+          "feature": "やや辛口",
+          "sourceUrl": "https://jokigen.co.jp/products/yamahaishikomishu/",
+          "sourceType": "breweryOfficial",
+          "verifiedAt": "2026-10-03",
+          "meaning": "対象純米L50。日本酒度だけからの推測ではない"
+        }
+      ],
+      "selected": [
+        "fugu-nukazuke",
+        "kabura-zushi"
+      ],
+      "status": "EDITORIAL_MATCH",
+      "reason": null,
+      "overlapExcluded": []
+    },
+    {
+      "sakeId": "kagatobi-nozijh",
+      "name": "加賀鳶 純米吟醸",
+      "prefecture": "石川県",
+      "sensoryEvidence": [
+        {
+          "axis": "aroma",
+          "feature": "華やかな香り",
+          "sourceUrl": "https://www.fukumitsuya.co.jp/sake/kagatobi/",
+          "sourceType": "breweryOfficial",
+          "verifiedAt": "2026-10-03",
+          "meaning": "通常品L262"
+        },
+        {
+          "axis": "umami",
+          "feature": "米の旨味",
+          "sourceUrl": "https://www.fukumitsuya.co.jp/sake/kagatobi/",
+          "sourceType": "breweryOfficial",
+          "verifiedAt": "2026-10-03",
+          "meaning": "通常品L262"
+        }
+      ],
+      "selected": [
+        "fugu-nukazuke",
+        "kabura-zushi"
+      ],
+      "status": "EDITORIAL_MATCH",
+      "reason": null,
+      "overlapExcluded": []
+    },
+    {
+      "sakeId": "ippongi-o0ffit",
+      "name": "一本義 辛爽系 純米吟醸",
+      "prefecture": "福井県",
+      "sensoryEvidence": [
+        {
+          "axis": "dry",
+          "feature": "辛口",
+          "sourceUrl": "https://www.ippongi.co.jp/product/content/61",
+          "sourceType": "breweryOfficial",
+          "verifiedAt": "2026-10-03",
+          "meaning": "L97"
+        },
+        {
+          "axis": "clean",
+          "feature": "爽やかな酸味",
+          "sourceUrl": "https://www.ippongi.co.jp/product/content/61",
+          "sourceType": "breweryOfficial",
+          "verifiedAt": "2026-10-03",
+          "meaning": "L97"
+        },
+        {
+          "axis": "acid",
+          "feature": "爽やかな酸味",
+          "sourceUrl": "https://www.ippongi.co.jp/product/content/61",
+          "sourceType": "breweryOfficial",
+          "verifiedAt": "2026-10-03",
+          "meaning": "L97"
+        }
+      ],
+      "selected": [
+        "kodai-sasazuke",
+        "heshiko"
+      ],
+      "status": "EDITORIAL_MATCH",
+      "reason": null,
+      "overlapExcluded": []
+    },
+    {
+      "sakeId": "hanagaki-o0ffit",
+      "name": "花垣 山廃純米",
+      "prefecture": "福井県",
+      "sensoryEvidence": [
+        {
+          "axis": "fermented",
+          "feature": "山廃",
+          "sourceUrl": "https://hanagaki-store.com/collections/nihonshu/products/hanagaki-yamahaijunmai",
+          "sourceType": "breweryOfficial",
+          "verifiedAt": "2026-10-03",
+          "meaning": "対象商品の山廃仕込みを記載。"
+        },
+        {
+          "axis": "fermented",
+          "feature": "熟成",
+          "sourceUrl": "https://hanagaki-store.com/collections/nihonshu/products/hanagaki-yamahaijunmai",
+          "sourceType": "breweryOfficial",
+          "verifiedAt": "2026-10-03",
+          "meaning": "対象商品は上槽後十八か月以上熟成すると明記。"
+        },
+        {
+          "axis": "sweet",
+          "feature": "濃厚な甘み",
+          "sourceUrl": "https://hanagaki-store.com/collections/nihonshu/products/hanagaki-yamahaijunmai",
+          "sourceType": "breweryOfficial",
+          "verifiedAt": "2026-10-03",
+          "meaning": "対象商品の熟成から生まれる甘みを説明。"
+        }
+      ],
+      "selected": [
+        "heshiko"
+      ],
+      "status": "EDITORIAL_MATCH",
+      "reason": null,
+      "overlapExcluded": []
+    },
+    {
+      "sakeId": "kagatsuru-junmai-josen-standard",
+      "name": "加賀鶴 純米酒 上撰",
+      "prefecture": "石川県",
+      "sensoryEvidence": [
+        {
+          "axis": "umami",
+          "feature": "米の旨味",
+          "sourceUrl": "https://kagatsuru.com/?pid=111129050",
+          "sourceType": "breweryOfficial",
+          "verifiedAt": "2026-10-13",
+          "meaning": "当該商品の米の旨味に対応する公式説明を短縮。"
+        },
+        {
+          "axis": "umami",
+          "feature": "コク",
+          "sourceUrl": "https://kagatsuru.com/?pid=111129050",
+          "sourceType": "breweryOfficial",
+          "verifiedAt": "2026-10-13",
+          "meaning": "当該商品のコクに対応する公式説明を短縮。"
+        }
+      ],
+      "selected": [
+        "fugu-nukazuke"
+      ],
+      "status": "EDITORIAL_MATCH",
+      "reason": null,
+      "overlapExcluded": []
+    },
+    {
+      "sakeId": "tosatsuru-honzo-karakuchi-standard",
+      "name": "土佐鶴 本醸辛口",
+      "prefecture": "高知県",
+      "sensoryEvidence": [
+        {
+          "axis": "dry",
+          "feature": "辛口",
+          "sourceUrl": "https://www.tosatsuru.jp/i/NH-605",
+          "sourceType": "breweryOfficial",
+          "verifiedAt": "2026-10-12",
+          "meaning": "当該商品の辛口に対応する公式説明を短縮。"
+        },
+        {
+          "axis": "aroma",
+          "feature": "さわやかな香り",
+          "sourceUrl": "https://www.tosatsuru.jp/i/NH-605",
+          "sourceType": "breweryOfficial",
+          "verifiedAt": "2026-10-12",
+          "meaning": "当該商品のさわやかな香りに対応する公式説明を短縮。"
+        },
+        {
+          "axis": "clean",
+          "feature": "切れ味",
+          "sourceUrl": "https://www.tosatsuru.jp/i/NH-605",
+          "sourceType": "breweryOfficial",
+          "verifiedAt": "2026-10-12",
+          "meaning": "当該商品の切れ味に対応する公式説明を短縮。"
+        }
+      ],
+      "selected": [
+        "katsuo-namabushi",
+        "shuto"
+      ],
+      "status": "EDITORIAL_MATCH",
+      "reason": null,
+      "overlapExcluded": []
+    },
+    {
+      "sakeId": "bijofu-ul4nol",
+      "name": "美丈夫 純麗たまラベル",
+      "prefecture": "高知県",
+      "sensoryEvidence": [
+        {
+          "axis": "aroma",
+          "feature": "柑橘系の香り",
+          "sourceUrl": "https://bijofu.jp/tamalabel.html",
+          "sourceType": "breweryOfficial",
+          "verifiedAt": "2026-10-03",
+          "meaning": "対象商品本文"
+        },
+        {
+          "axis": "acid",
+          "feature": "酸味",
+          "sourceUrl": "https://bijofu.jp/tamalabel.html",
+          "sourceType": "breweryOfficial",
+          "verifiedAt": "2026-10-03",
+          "meaning": "対象商品本文"
+        },
+        {
+          "axis": "clean",
+          "feature": "シャープなキレ",
+          "sourceUrl": "https://bijofu.jp/tamalabel.html",
+          "sourceType": "breweryOfficial",
+          "verifiedAt": "2026-10-03",
+          "meaning": "対象商品本文"
+        }
+      ],
+      "selected": [
+        "katsuo-namabushi"
+      ],
+      "status": "EDITORIAL_MATCH",
+      "reason": null,
+      "overlapExcluded": []
+    },
+    {
+      "sakeId": "tosa-shiragiku-ul4nol",
+      "name": "土佐しらぎく 高育酒８０号",
+      "prefecture": "高知県",
+      "sensoryEvidence": [
+        {
+          "axis": "aroma",
+          "feature": "バナナを思わせる香り",
+          "sourceUrl": "https://www.tosashiragiku.com/brand.html",
+          "sourceType": "breweryOfficial",
+          "verifiedAt": "2026-10-03",
+          "meaning": "高育酒80号の商品欄"
+        },
+        {
+          "axis": "clean",
+          "feature": "軽やか",
+          "sourceUrl": "https://www.tosashiragiku.com/brand.html",
+          "sourceType": "breweryOfficial",
+          "verifiedAt": "2026-10-03",
+          "meaning": "高育酒80号の商品欄"
+        }
+      ],
+      "selected": [
+        "katsuo-namabushi"
+      ],
+      "status": "EDITORIAL_MATCH",
+      "reason": null,
+      "overlapExcluded": []
+    },
+    {
+      "sakeId": "ranman-junmai-managudako-standard",
+      "name": "純米まなぐ凧",
+      "prefecture": "秋田県",
+      "sensoryEvidence": [
+        {
+          "axis": "umami",
+          "feature": "やさしい旨み",
+          "sourceUrl": "https://item.rakuten.co.jp/bisyuranman/10000090/",
+          "sourceType": "breweryOfficial",
+          "verifiedAt": "2026-10-12",
+          "meaning": "当該商品のやさしい旨みに対応する公式説明を短縮。"
+        },
+        {
+          "axis": "acid",
+          "feature": "酸味",
+          "sourceUrl": "https://item.rakuten.co.jp/bisyuranman/10000090/",
+          "sourceType": "breweryOfficial",
+          "verifiedAt": "2026-10-12",
+          "meaning": "当該商品の酸味に対応する公式説明を短縮。"
+        }
+      ],
+      "selected": [
+        "gibasa",
+        "iburigakko"
+      ],
+      "status": "EDITORIAL_MATCH",
+      "reason": null,
+      "overlapExcluded": []
+    },
+    {
+      "sakeId": "taisetsunokura-junmai-standard",
+      "name": "純米 大雪乃蔵",
+      "prefecture": "北海道",
+      "sensoryEvidence": [
+        {
+          "axis": "clean",
+          "feature": "キレの良さ",
+          "sourceUrl": "https://www.oenon.jp/product/sake/junmai/junmai-taisetsunokura.html",
+          "sourceType": "breweryOfficial",
+          "verifiedAt": "2026-10-13",
+          "meaning": "当該商品のキレの良さに対応する公式説明を短縮。"
+        },
+        {
+          "axis": "clean",
+          "feature": "爽やかなあと口",
+          "sourceUrl": "https://www.oenon.jp/product/sake/junmai/junmai-taisetsunokura.html",
+          "sourceType": "breweryOfficial",
+          "verifiedAt": "2026-10-13",
+          "meaning": "当該商品の爽やかなあと口に対応する公式説明を短縮。"
+        }
+      ],
+      "selected": [
+        "matsumae-zuke"
+      ],
+      "status": "EDITORIAL_MATCH",
+      "reason": null,
+      "overlapExcluded": []
+    },
+    {
+      "sakeId": "hideyoshi-junmai-standard",
+      "name": "秀よし 純米酒",
+      "prefecture": "秋田県",
+      "sensoryEvidence": [
+        {
+          "axis": "clean",
+          "feature": "淡麗",
+          "sourceUrl": "https://www.hideyoshi.co.jp/product-standard/",
+          "sourceType": "breweryOfficial",
+          "verifiedAt": "2026-10-13",
+          "meaning": "当該商品の淡麗に対応する公式説明を短縮。"
+        },
+        {
+          "axis": "umami",
+          "feature": "味のふくらみ",
+          "sourceUrl": "https://www.hideyoshi.co.jp/product-standard/",
+          "sourceType": "breweryOfficial",
+          "verifiedAt": "2026-10-13",
+          "meaning": "当該商品の味のふくらみに対応する公式説明を短縮。"
+        }
+      ],
+      "selected": [
+        "gibasa",
+        "iburigakko"
+      ],
+      "status": "EDITORIAL_MATCH",
+      "reason": null,
+      "overlapExcluded": []
+    },
+    {
+      "sakeId": "hakurakusei-tokubetsu-junmai-1",
+      "name": "伯楽星 純米吟醸",
+      "prefecture": "宮城県",
+      "sensoryEvidence": [
+        {
+          "axis": "clean",
+          "feature": "軽快",
+          "sourceUrl": "https://niizawa-brewery.co.jp/item/169/",
+          "sourceType": "breweryOfficial",
+          "verifiedAt": "2026-10-03",
+          "meaning": "L66の味わい"
+        },
+        {
+          "axis": "clean",
+          "feature": "キレがある",
+          "sourceUrl": "https://niizawa-brewery.co.jp/item/169/",
+          "sourceType": "breweryOfficial",
+          "verifiedAt": "2026-10-03",
+          "meaning": "L66の味わい"
+        }
+      ],
+      "selected": [
+        "sasa-kamaboko"
+      ],
+      "status": "EDITORIAL_MATCH",
+      "reason": null,
+      "overlapExcluded": []
+    },
+    {
+      "sakeId": "aramasa-junmai-1",
+      "name": "新政 No.6 S-type",
+      "prefecture": "秋田県",
+      "sensoryEvidence": [
+        {
+          "axis": "umami",
+          "feature": "ふくよか",
+          "sourceUrl": "https://takekuma.co.jp/store/item/item-seisyu/aramasa-4517",
+          "sourceType": "specialistRetailer",
+          "verifiedAt": "2026-10-03",
+          "meaning": "個別商品L46"
+        },
+        {
+          "axis": "clean",
+          "feature": "キレがある",
+          "sourceUrl": "https://takekuma.co.jp/store/item/item-seisyu/aramasa-4517",
+          "sourceType": "specialistRetailer",
+          "verifiedAt": "2026-10-03",
+          "meaning": "個別商品L46"
+        }
+      ],
+      "selected": [
+        "gibasa",
+        "iburigakko"
+      ],
+      "status": "EDITORIAL_MATCH",
+      "reason": null,
+      "overlapExcluded": []
+    },
+    {
+      "sakeId": "ichinokura-tokubetsu-junmai-karakuchi",
+      "name": "一ノ蔵 特別純米酒 辛口",
+      "prefecture": "宮城県",
+      "sensoryEvidence": [
+        {
+          "axis": "umami",
+          "feature": "米の旨味",
+          "sourceUrl": "https://ichinokura.co.jp/pickup-product/jyunkara",
+          "sourceType": "breweryOfficial",
+          "verifiedAt": "2026-10-12",
+          "meaning": "当該商品の米の旨味に対応する公式説明を短縮。"
+        },
+        {
+          "axis": "acid",
+          "feature": "ほどよい酸味",
+          "sourceUrl": "https://ichinokura.co.jp/pickup-product/jyunkara",
+          "sourceType": "breweryOfficial",
+          "verifiedAt": "2026-10-12",
+          "meaning": "当該商品のほどよい酸味に対応する公式説明を短縮。"
+        },
+        {
+          "axis": "clean",
+          "feature": "キレ",
+          "sourceUrl": "https://ichinokura.co.jp/pickup-product/jyunkara",
+          "sourceType": "breweryOfficial",
+          "verifiedAt": "2026-10-12",
+          "meaning": "当該商品のキレに対応する公式説明を短縮。"
+        }
+      ],
+      "selected": [
+        "kaki-oil",
+        "sasa-kamaboko"
+      ],
+      "status": "EDITORIAL_MATCH",
+      "reason": null,
+      "overlapExcluded": []
+    },
+    {
+      "sakeId": "denyu-tokubetsu-junmai-standard",
+      "name": "田友 特別純米",
+      "prefecture": "新潟県",
+      "sensoryEvidence": [
+        {
+          "axis": "umami",
+          "feature": "米の旨味",
+          "sourceUrl": "https://hatsuume.co.jp/products/denyu-tokubetsu-junmai/",
+          "sourceType": "breweryOfficial",
+          "verifiedAt": "2026-10-13",
+          "meaning": "当該商品の米の旨味に対応する公式説明を短縮。"
+        }
+      ],
+      "selected": [
+        "kanzuri-shuto"
+      ],
+      "status": "EDITORIAL_MATCH",
+      "reason": null,
+      "overlapExcluded": []
+    },
+    {
+      "sakeId": "hakkaisan-tokubetsu-honjozo-1",
+      "name": "純米大吟醸 八海山 雪室貯蔵三年",
+      "prefecture": "新潟県",
+      "sensoryEvidence": [
+        {
+          "axis": "fermented",
+          "feature": "三年熟成",
+          "sourceUrl": "https://www.hakkaisan.co.jp/sake/yukimurocyozousyu/",
+          "sourceType": "breweryOfficial",
+          "verifiedAt": "2026-10-03",
+          "meaning": "L18・L21"
+        }
+      ],
+      "selected": [
+        "tochio-aburaage"
+      ],
+      "status": "EDITORIAL_MATCH",
+      "reason": null,
+      "overlapExcluded": []
+    },
+    {
+      "sakeId": "kubota-senju-2",
+      "name": "久保田 萬寿",
+      "prefecture": "新潟県",
+      "sensoryEvidence": [
+        {
+          "axis": "aroma",
+          "feature": "華やかな香り",
+          "sourceUrl": "https://www.asahi-shuzo.co.jp/kubota/manjyu/",
+          "sourceType": "breweryOfficial",
+          "verifiedAt": "2026-10-03",
+          "meaning": "L91"
+        }
+      ],
+      "selected": [],
+      "status": "HELD",
+      "reason": "NO_COMPATIBLE_NONOVERLAPPING_FOOD",
+      "overlapExcluded": []
+    },
+    {
+      "sakeId": "sanshoraku-junmai-standard",
+      "name": "三笑楽 純米酒",
+      "prefecture": "富山県",
+      "sensoryEvidence": [
+        {
+          "axis": "aroma",
+          "feature": "麹の豊かな香り",
+          "sourceUrl": "https://www.sansyouraku.jp/products/cn5/product04.html",
+          "sourceType": "breweryOfficial",
+          "verifiedAt": "2026-10-12",
+          "meaning": "当該商品の麹の豊かな香りに対応する公式説明を短縮。"
+        },
+        {
+          "axis": "acid",
+          "feature": "程良い酸味",
+          "sourceUrl": "https://www.sansyouraku.jp/products/cn5/product04.html",
+          "sourceType": "breweryOfficial",
+          "verifiedAt": "2026-10-12",
+          "meaning": "当該商品の程良い酸味に対応する公式説明を短縮。"
+        }
+      ],
+      "selected": [
+        "shiroebi-himono",
+        "hotaruika-okizuke"
+      ],
+      "status": "EDITORIAL_MATCH",
+      "reason": null,
+      "overlapExcluded": []
+    },
+    {
+      "sakeId": "kachikoma-junmai-3",
+      "name": "勝駒 大吟醸",
+      "prefecture": "富山県",
+      "sensoryEvidence": [],
+      "selected": [],
+      "status": "HELD",
+      "reason": "INSUFFICIENT_SAKE_TASTE_EVIDENCE",
+      "overlapExcluded": []
+    },
+    {
+      "sakeId": "maboroshi-no-taki-junmai-ginjo-standard",
+      "name": "純米吟醸 幻の瀧",
+      "prefecture": "富山県",
+      "sensoryEvidence": [
+        {
+          "axis": "acid",
+          "feature": "酸味",
+          "sourceUrl": "https://mabotaki.co.jp/product/stan/stan_05/",
+          "sourceType": "breweryOfficial",
+          "verifiedAt": "2026-10-10",
+          "meaning": "飲み始めに酸味、その後に米の旨味を感じるという商品説明。"
+        },
+        {
+          "axis": "umami",
+          "feature": "米の旨味",
+          "sourceUrl": "https://mabotaki.co.jp/product/stan/stan_05/",
+          "sourceType": "breweryOfficial",
+          "verifiedAt": "2026-10-10",
+          "meaning": "酸味に続いて米の旨味が広がるという商品説明。"
+        }
+      ],
+      "selected": [
+        "hotaruika-okizuke",
+        "hotaruika-himono"
+      ],
+      "status": "EDITORIAL_MATCH",
+      "reason": null,
+      "overlapExcluded": []
+    },
+    {
+      "sakeId": "tengumai-yamahai-junmai-3",
+      "name": "天狗舞 山廃仕込純米酒",
+      "prefecture": "石川県",
+      "sensoryEvidence": [
+        {
+          "axis": "acid",
+          "feature": "酸味",
+          "sourceUrl": "https://tengumai.jp/SHOP/TG-001.html",
+          "sourceType": "breweryOfficial",
+          "verifiedAt": "2026-10-03",
+          "meaning": "対象商品L75"
+        },
+        {
+          "axis": "fermented",
+          "feature": "山廃",
+          "sourceUrl": "https://tengumai.jp/SHOP/TG-001.html",
+          "sourceType": "breweryOfficial",
+          "verifiedAt": "2026-10-03",
+          "meaning": "対象商品L74・L75"
+        }
+      ],
+      "selected": [
+        "kabura-zushi"
+      ],
+      "status": "EDITORIAL_MATCH",
+      "reason": null,
+      "overlapExcluded": []
+    },
+    {
+      "sakeId": "jokigen-ishikawa-nozijh-4",
+      "name": "常きげん 山廃吟醸",
+      "prefecture": "石川県",
+      "sensoryEvidence": [
+        {
+          "axis": "umami",
+          "feature": "コク",
+          "sourceUrl": "https://jokigen.co.jp/products/yamahaishikomishu/",
+          "sourceType": "breweryOfficial",
+          "verifiedAt": "2026-10-03",
+          "meaning": "対象吟醸L29"
+        },
+        {
+          "axis": "clean",
+          "feature": "キレ",
+          "sourceUrl": "https://jokigen.co.jp/products/yamahaishikomishu/",
+          "sourceType": "breweryOfficial",
+          "verifiedAt": "2026-10-03",
+          "meaning": "対象吟醸L29"
+        },
+        {
+          "axis": "dry",
+          "feature": "辛口",
+          "sourceUrl": "https://jokigen.co.jp/products/yamahaishikomishu/",
+          "sourceType": "breweryOfficial",
+          "verifiedAt": "2026-10-03",
+          "meaning": "対象吟醸L35"
+        }
+      ],
+      "selected": [
+        "fugu-nukazuke",
+        "kabura-zushi"
+      ],
+      "status": "EDITORIAL_MATCH",
+      "reason": null,
+      "overlapExcluded": []
+    },
+    {
+      "sakeId": "kokuryu-junmai-ginjo-1",
+      "name": "黒龍 純米大吟醸",
+      "prefecture": "福井県",
+      "sensoryEvidence": [
+        {
+          "axis": "umami",
+          "feature": "ふくらみのある味わい",
+          "sourceUrl": "https://www.nipponnosake.com/sake/kokuryu/kokuryu_jd.html",
+          "sourceType": "specialistRetailer",
+          "verifiedAt": "2026-10-04",
+          "meaning": "対象説明L9"
+        }
+      ],
+      "selected": [
+        "heshiko"
+      ],
+      "status": "EDITORIAL_MATCH",
+      "reason": null,
+      "overlapExcluded": []
+    },
+    {
+      "sakeId": "born-gold-2",
+      "name": "梵・純粋",
+      "prefecture": "福井県",
+      "sensoryEvidence": [
+        {
+          "axis": "aroma",
+          "feature": "芳醇旨口",
+          "sourceUrl": "https://www.born.co.jp/product/junsui/",
+          "sourceType": "breweryOfficial",
+          "verifiedAt": "2026-10-03",
+          "meaning": "L17"
+        },
+        {
+          "axis": "fermented",
+          "feature": "熟成酒ブレンド",
+          "sourceUrl": "https://www.born.co.jp/product/junsui/",
+          "sourceType": "breweryOfficial",
+          "verifiedAt": "2026-10-03",
+          "meaning": "L22を短縮"
+        }
+      ],
+      "selected": [
+        "heshiko",
+        "kodai-sasazuke"
+      ],
+      "status": "EDITORIAL_MATCH",
+      "reason": null,
+      "overlapExcluded": []
+    },
+    {
+      "sakeId": "ippongi-o0ffit-4",
+      "name": "一本義 辛口 純米酒",
+      "prefecture": "福井県",
+      "sensoryEvidence": [
+        {
+          "axis": "dry",
+          "feature": "辛口",
+          "sourceUrl": "https://www.ippongi.co.jp/product/content/60",
+          "sourceType": "breweryOfficial",
+          "verifiedAt": "2026-10-03",
+          "meaning": "対象商品説明L105"
+        },
+        {
+          "axis": "umami",
+          "feature": "クリアな旨味",
+          "sourceUrl": "https://www.ippongi.co.jp/product/content/60",
+          "sourceType": "breweryOfficial",
+          "verifiedAt": "2026-10-03",
+          "meaning": "対象商品説明L105"
+        }
+      ],
+      "selected": [
+        "heshiko"
+      ],
+      "status": "EDITORIAL_MATCH",
+      "reason": null,
+      "overlapExcluded": []
+    },
+    {
+      "sakeId": "hanagaki-o0ffit-5",
+      "name": "純米大吟醸 廻（めぐり）",
+      "prefecture": "福井県",
+      "sensoryEvidence": [],
+      "selected": [],
+      "status": "HELD",
+      "reason": "INSUFFICIENT_SAKE_TASTE_EVIDENCE",
+      "overlapExcluded": []
+    },
+    {
+      "sakeId": "bijofu-ul4nol-3",
+      "name": "美丈夫 舞",
+      "prefecture": "高知県",
+      "sensoryEvidence": [],
+      "selected": [],
+      "status": "HELD",
+      "reason": "INSUFFICIENT_SAKE_TASTE_EVIDENCE",
+      "overlapExcluded": []
+    },
+    {
+      "sakeId": "nogomi-tokubetsu-junmai-1",
+      "name": "能古見 純米吟醸",
+      "prefecture": "佐賀県",
+      "sensoryEvidence": [
+        {
+          "axis": "aroma",
+          "feature": "果実香",
+          "sourceUrl": "https://www.nogomi.co.jp/introduction.html",
+          "sourceType": "breweryOfficial",
+          "verifiedAt": "2026-10-03",
+          "meaning": "当該商品L83"
+        }
+      ],
+      "selected": [
+        "ika-shumai"
+      ],
+      "status": "EDITORIAL_MATCH",
+      "reason": null,
+      "overlapExcluded": []
+    },
+    {
+      "sakeId": "otokoyama-fukkoshu",
+      "name": "男山 復古酒",
+      "prefecture": "北海道",
+      "sensoryEvidence": [],
+      "selected": [],
+      "status": "HELD",
+      "reason": "INSUFFICIENT_SAKE_TASTE_EVIDENCE",
+      "overlapExcluded": []
+    },
+    {
+      "sakeId": "warakugoson-junmai-ginjo-standard",
+      "name": "和楽互尊 純米吟醸",
+      "prefecture": "新潟県",
+      "sensoryEvidence": [
+        {
+          "axis": "aroma",
+          "feature": "おだやかな吟醸香",
+          "sourceUrl": "https://ikeura-shuzo.com/product-list",
+          "sourceType": "breweryOfficial",
+          "verifiedAt": "2026-10-13",
+          "meaning": "当該商品のおだやかな吟醸香に対応する公式説明を短縮。"
+        },
+        {
+          "axis": "umami",
+          "feature": "旨味",
+          "sourceUrl": "https://ikeura-shuzo.com/product-list",
+          "sourceType": "breweryOfficial",
+          "verifiedAt": "2026-10-13",
+          "meaning": "当該商品の旨味に対応する公式説明を短縮。"
+        }
+      ],
+      "selected": [
+        "kanzuri-shuto",
+        "tochio-aburaage"
+      ],
+      "status": "EDITORIAL_MATCH",
+      "reason": null,
+      "overlapExcluded": []
+    },
+    {
+      "sakeId": "hiraizumi-yamahai-tokubetsu-junmai-v1",
+      "name": "飛良泉 山廃純米酒（特別純米酒）",
+      "prefecture": "秋田県",
+      "sensoryEvidence": [
+        {
+          "axis": "umami",
+          "feature": "ふくらみのある味わい",
+          "sourceUrl": "https://www.hiraizumi.co.jp/item/",
+          "sourceType": "breweryOfficial",
+          "verifiedAt": "2026-10-04",
+          "meaning": "L5 直接記載。"
+        },
+        {
+          "axis": "acid",
+          "feature": "快い酸味",
+          "sourceUrl": "https://www.hiraizumi.co.jp/item/",
+          "sourceType": "breweryOfficial",
+          "verifiedAt": "2026-10-04",
+          "meaning": "L5 直接記載。"
+        }
+      ],
+      "selected": [
+        "gibasa",
+        "iburigakko"
+      ],
+      "status": "EDITORIAL_MATCH",
+      "reason": null,
+      "overlapExcluded": []
+    },
+    {
+      "sakeId": "hiraizumi-jukusei-yamahai-junmai-v1",
+      "name": "飛良泉 熟成山廃純米酒",
+      "prefecture": "秋田県",
+      "sensoryEvidence": [
+        {
+          "axis": "umami",
+          "feature": "旨味",
+          "sourceUrl": "https://www.hiraizumi.co.jp/item/",
+          "sourceType": "breweryOfficial",
+          "verifiedAt": "2026-10-04",
+          "meaning": "L20 正規化。"
+        }
+      ],
+      "selected": [
+        "iburigakko"
+      ],
+      "status": "EDITORIAL_MATCH",
+      "reason": null,
+      "overlapExcluded": []
+    },
+    {
+      "sakeId": "kinteki-junmai-ginjo-v1",
+      "name": "金滴 純米吟醸",
+      "prefecture": "北海道",
+      "sensoryEvidence": [
+        {
+          "axis": "umami",
+          "feature": "豊かな旨味",
+          "sourceUrl": "https://kinteki.shop/items/61bef6cc7d278d583b2dfe3a",
+          "sourceType": "breweryOfficial",
+          "verifiedAt": "2026-10-04",
+          "meaning": "L26 直接記載。"
+        },
+        {
+          "axis": "dry",
+          "feature": "やや辛口",
+          "sourceUrl": "https://kinteki.shop/items/61bef6cc7d278d583b2dfe3a",
+          "sourceType": "breweryOfficial",
+          "verifiedAt": "2026-10-04",
+          "meaning": "L26 直接記載。"
+        }
+      ],
+      "selected": [
+        "ika-meshi",
+        "matsumae-zuke"
+      ],
+      "status": "EDITORIAL_MATCH",
+      "reason": null,
+      "overlapExcluded": []
+    },
+    {
+      "sakeId": "chitosetsuru-junmai-ginjo-kitashizuku-v1",
+      "name": "千歳鶴 純米吟醸 きたしずく",
+      "prefecture": "北海道",
+      "sensoryEvidence": [],
+      "selected": [],
+      "status": "HELD",
+      "reason": "INSUFFICIENT_SAKE_TASTE_EVIDENCE",
+      "overlapExcluded": []
+    },
+    {
+      "sakeId": "kunimare-tokubetsu-junmai-standard",
+      "name": "国稀 特別純米",
+      "prefecture": "北海道",
+      "sensoryEvidence": [
+        {
+          "axis": "umami",
+          "feature": "米の旨味",
+          "sourceUrl": "https://www.kunimare.co.jp/online_shop/products/detail/25",
+          "sourceType": "breweryOfficial",
+          "verifiedAt": "2026-10-12",
+          "meaning": "当該商品の米の旨味に対応する公式説明を短縮。"
+        },
+        {
+          "axis": "clean",
+          "feature": "すっきりした飲み口",
+          "sourceUrl": "https://www.kunimare.co.jp/online_shop/products/detail/25",
+          "sourceType": "breweryOfficial",
+          "verifiedAt": "2026-10-12",
+          "meaning": "当該商品のすっきりした飲み口に対応する公式説明を短縮。"
+        }
+      ],
+      "selected": [
+        "matsumae-zuke",
+        "ika-meshi"
+      ],
+      "status": "EDITORIAL_MATCH",
+      "reason": null,
+      "overlapExcluded": []
+    },
+    {
+      "sakeId": "otokoyama-kuniyoshinona-v1",
+      "name": "男山 国芳乃名取酒",
+      "prefecture": "北海道",
+      "sensoryEvidence": [
+        {
+          "axis": "dry",
+          "feature": "大辛口",
+          "sourceUrl": "https://www.otokoyama.com/lineup/category01/",
+          "sourceType": "breweryOfficial",
+          "verifiedAt": "2026-10-04",
+          "meaning": "L52–53 公式味わい区分。"
+        },
+        {
+          "axis": "clean",
+          "feature": "シャープなキレ",
+          "sourceUrl": "https://www.otokoyama.com/lineup/category01/",
+          "sourceType": "breweryOfficial",
+          "verifiedAt": "2026-10-04",
+          "meaning": "L44 切れ味の表記を同義正規化。"
+        }
+      ],
+      "selected": [
+        "matsumae-zuke",
+        "ika-meshi"
+      ],
+      "status": "EDITORIAL_MATCH",
+      "reason": null,
+      "overlapExcluded": []
+    },
+    {
+      "sakeId": "kariho-yamahai-junmai-chokarakuchi-v1",
+      "name": "刈穂 山廃純米超辛口",
+      "prefecture": "秋田県",
+      "sensoryEvidence": [
+        {
+          "axis": "dry",
+          "feature": "大辛口",
+          "sourceUrl": "https://shop.igeta.jp/shopdetail/000000000029/ct7/page1/recommend/",
+          "sourceType": "breweryOfficial",
+          "verifiedAt": "2026-10-04",
+          "meaning": "L68 味のタイプ。"
+        },
+        {
+          "axis": "umami",
+          "feature": "旨味",
+          "sourceUrl": "https://shop.igeta.jp/shopdetail/000000000029/ct7/page1/recommend/",
+          "sourceType": "breweryOfficial",
+          "verifiedAt": "2026-10-04",
+          "meaning": "L63 旨味。"
+        }
+      ],
+      "selected": [
+        "iburigakko"
+      ],
+      "status": "EDITORIAL_MATCH",
+      "reason": null,
+      "overlapExcluded": []
+    },
+    {
+      "sakeId": "michizakura-junmai-rclass-v1",
+      "name": "三千櫻 純米 Rclass",
+      "prefecture": "北海道",
+      "sensoryEvidence": [],
+      "selected": [],
+      "status": "HELD",
+      "reason": "INSUFFICIENT_SAKE_TASTE_EVIDENCE",
+      "overlapExcluded": []
+    },
+    {
+      "sakeId": "tsukasabotan-niyodo-blue-junmai-standard",
+      "name": "司牡丹 仁淀ブルー",
+      "prefecture": "高知県",
+      "sensoryEvidence": [
+        {
+          "axis": "aroma",
+          "feature": "ナチュラルな香り",
+          "sourceUrl": "https://www.tsukasabotan.co.jp/standard/niyodoblue.html",
+          "sourceType": "breweryOfficial",
+          "verifiedAt": "2026-10-12",
+          "meaning": "当該商品のナチュラルな香りに対応する公式説明を短縮。"
+        },
+        {
+          "axis": "clean",
+          "feature": "淡麗辛口",
+          "sourceUrl": "https://www.tsukasabotan.co.jp/standard/niyodoblue.html",
+          "sourceType": "breweryOfficial",
+          "verifiedAt": "2026-10-12",
+          "meaning": "当該商品の淡麗辛口に対応する公式説明を短縮。"
+        },
+        {
+          "axis": "dry",
+          "feature": "淡麗辛口",
+          "sourceUrl": "https://www.tsukasabotan.co.jp/standard/niyodoblue.html",
+          "sourceType": "breweryOfficial",
+          "verifiedAt": "2026-10-12",
+          "meaning": "当該商品の淡麗辛口に対応する公式説明を短縮。"
+        },
+        {
+          "axis": "clean",
+          "feature": "キレ",
+          "sourceUrl": "https://www.tsukasabotan.co.jp/standard/niyodoblue.html",
+          "sourceType": "breweryOfficial",
+          "verifiedAt": "2026-10-12",
+          "meaning": "当該商品のキレに対応する公式説明を短縮。"
+        }
+      ],
+      "selected": [
+        "katsuo-namabushi",
+        "shuto"
+      ],
+      "status": "EDITORIAL_MATCH",
+      "reason": null,
+      "overlapExcluded": []
+    },
+    {
+      "sakeId": "ryozeki-junmai-ginjo-v1",
+      "name": "純米吟醸 両関",
+      "prefecture": "秋田県",
+      "sensoryEvidence": [
+        {
+          "axis": "clean",
+          "feature": "淡麗辛口",
+          "sourceUrl": "https://www.ryozeki.co.jp/shohin.html",
+          "sourceType": "breweryOfficial",
+          "verifiedAt": "2026-10-04",
+          "meaning": "L158 公式味わい区分。"
+        },
+        {
+          "axis": "dry",
+          "feature": "淡麗辛口",
+          "sourceUrl": "https://www.ryozeki.co.jp/shohin.html",
+          "sourceType": "breweryOfficial",
+          "verifiedAt": "2026-10-04",
+          "meaning": "L158 公式味わい区分。"
+        }
+      ],
+      "selected": [
+        "gibasa",
+        "iburigakko"
+      ],
+      "status": "EDITORIAL_MATCH",
+      "reason": null,
+      "overlapExcluded": []
+    },
+    {
+      "sakeId": "haneya-kirabi-nama-genshu-v1",
+      "name": "羽根屋 純吟 煌火 生原酒",
+      "prefecture": "富山県",
+      "sensoryEvidence": [],
+      "selected": [],
+      "status": "HELD",
+      "reason": "INSUFFICIENT_SAKE_TASTE_EVIDENCE",
+      "overlapExcluded": []
+    },
+    {
+      "sakeId": "niseko-suisei-junmai-ginjo-hiire-v1",
+      "name": "二世古 純米吟醸 彗星 火入",
+      "prefecture": "北海道",
+      "sensoryEvidence": [
+        {
+          "axis": "aroma",
+          "feature": "控えめな香り",
+          "sourceUrl": "https://ontable.jp/shopdetail/000000000041/",
+          "sourceType": "trustedRetailer",
+          "verifiedAt": "2026-10-04",
+          "meaning": "L75 直接記載。"
+        },
+        {
+          "axis": "clean",
+          "feature": "すっきり",
+          "sourceUrl": "https://ontable.jp/shopdetail/000000000041/",
+          "sourceType": "trustedRetailer",
+          "verifiedAt": "2026-10-04",
+          "meaning": "L75 商品説明を短縮。"
+        }
+      ],
+      "selected": [
+        "matsumae-zuke"
+      ],
+      "status": "EDITORIAL_MATCH",
+      "reason": null,
+      "overlapExcluded": []
+    },
+    {
+      "sakeId": "nichiei-junmai-ginjo-ishikawamon-standard",
+      "name": "日榮 純米吟醸 石川門",
+      "prefecture": "石川県",
+      "sensoryEvidence": [
+        {
+          "axis": "umami",
+          "feature": "濃醇甘口",
+          "sourceUrl": "https://www.nakamura-shuzou.co.jp/view/item/000000000029",
+          "sourceType": "breweryOfficial",
+          "verifiedAt": "2026-10-12",
+          "meaning": "当該商品の濃醇甘口に対応する公式説明を短縮。"
+        },
+        {
+          "axis": "acid",
+          "feature": "程よい酸味",
+          "sourceUrl": "https://www.nakamura-shuzou.co.jp/view/item/000000000029",
+          "sourceType": "breweryOfficial",
+          "verifiedAt": "2026-10-12",
+          "meaning": "当該商品の程よい酸味に対応する公式説明を短縮。"
+        }
+      ],
+      "selected": [
+        "kabura-zushi",
+        "fugu-nukazuke"
+      ],
+      "status": "EDITORIAL_MATCH",
+      "reason": null,
+      "overlapExcluded": []
+    },
+    {
+      "sakeId": "suigei-junmai-daiginjo-hyogo-yamadanishiki50-v1",
+      "name": "酔鯨 純米大吟醸 兵庫山田錦50%",
+      "prefecture": "高知県",
+      "sensoryEvidence": [
+        {
+          "axis": "umami",
+          "feature": "上品な旨味",
+          "sourceUrl": "https://suigei.co.jp/collection/501.html",
+          "sourceType": "breweryOfficial",
+          "verifiedAt": "2026-10-04",
+          "meaning": "L121 旨みを旨味へ表記正規化。形容詞は公式に存在。"
+        },
+        {
+          "axis": "clean",
+          "feature": "軽やかな吟醸香",
+          "sourceUrl": "https://suigei.co.jp/collection/501.html",
+          "sourceType": "breweryOfficial",
+          "verifiedAt": "2026-10-04",
+          "meaning": "L121 直接記載。"
+        },
+        {
+          "axis": "aroma",
+          "feature": "軽やかな吟醸香",
+          "sourceUrl": "https://suigei.co.jp/collection/501.html",
+          "sourceType": "breweryOfficial",
+          "verifiedAt": "2026-10-04",
+          "meaning": "L121 直接記載。"
+        },
+        {
+          "axis": "clean",
+          "feature": "キレ",
+          "sourceUrl": "https://suigei.co.jp/collection/501.html",
+          "sourceType": "breweryOfficial",
+          "verifiedAt": "2026-10-04",
+          "meaning": "L121 キレの良いと直接記載。"
+        },
+        {
+          "axis": "dry",
+          "feature": "辛口",
+          "sourceUrl": "https://suigei.co.jp/collection/501.html",
+          "sourceType": "breweryOfficial",
+          "verifiedAt": "2026-10-04",
+          "meaning": "L121 直接記載。"
+        }
+      ],
+      "selected": [
+        "katsuo-namabushi",
+        "shuto"
+      ],
+      "status": "EDITORIAL_MATCH",
+      "reason": null,
+      "overlapExcluded": []
+    },
+    {
+      "sakeId": "kitanonishiki-maruta-tokubetsu-junmai-v1",
+      "name": "北の錦 特別純米酒 まる田",
+      "prefecture": "北海道",
+      "sensoryEvidence": [
+        {
+          "axis": "umami",
+          "feature": "米の旨味",
+          "sourceUrl": "https://kitanonishik.official.ec/items/13254699",
+          "sourceType": "breweryOfficial",
+          "verifiedAt": "2026-10-04",
+          "meaning": "L53 直接記載。"
+        }
+      ],
+      "selected": [
+        "ika-meshi"
+      ],
+      "status": "EDITORIAL_MATCH",
+      "reason": null,
+      "overlapExcluded": []
+    },
+    {
+      "sakeId": "sogen-notonokuni-junmai-standard-v1",
+      "name": "宗玄 能登乃国 純米酒",
+      "prefecture": "石川県",
+      "sensoryEvidence": [],
+      "selected": [],
+      "status": "HELD",
+      "reason": "INSUFFICIENT_SAKE_TASTE_EVIDENCE",
+      "overlapExcluded": []
+    },
+    {
+      "sakeId": "sogen-genshin-junmai-daiginjo-standard-v1",
+      "name": "宗玄 純米大吟醸 玄心",
+      "prefecture": "石川県",
+      "sensoryEvidence": [
+        {
+          "axis": "aroma",
+          "feature": "優しい香り",
+          "sourceUrl": "https://kanazawaumano.jp/sougen.html",
+          "sourceType": "trustedRetailer",
+          "verifiedAt": "2026-10-04",
+          "meaning": "L70 直接記載。"
+        }
+      ],
+      "selected": [],
+      "status": "HELD",
+      "reason": "NO_COMPATIBLE_NONOVERLAPPING_FOOD",
+      "overlapExcluded": []
+    },
+    {
+      "sakeId": "kokuryu-icchorai-jungin-standard-v1",
+      "name": "黒龍 いっちょらい 純吟",
+      "prefecture": "福井県",
+      "sensoryEvidence": [
+        {
+          "axis": "umami",
+          "feature": "旨味",
+          "sourceUrl": "https://www.kagimoto.com/shopdetail/000000003725/",
+          "sourceType": "trustedRetailer",
+          "verifiedAt": "2026-10-04",
+          "meaning": "L317 旨味を短縮。"
+        },
+        {
+          "axis": "clean",
+          "feature": "キレ",
+          "sourceUrl": "https://www.kagimoto.com/shopdetail/000000003725/",
+          "sourceType": "trustedRetailer",
+          "verifiedAt": "2026-10-04",
+          "meaning": "L317 キレを短縮。"
+        }
+      ],
+      "selected": [
+        "kodai-sasazuke",
+        "heshiko"
+      ],
+      "status": "EDITORIAL_MATCH",
+      "reason": null,
+      "overlapExcluded": []
+    },
+    {
+      "sakeId": "tosa-shiragiku-zankara-tokubetsu-junmai-standard-v1",
+      "name": "土佐しらぎく 斬辛 特別純米",
+      "prefecture": "高知県",
+      "sensoryEvidence": [
+        {
+          "axis": "aroma",
+          "feature": "果実の香り",
+          "sourceUrl": "https://www.tosashiragiku.com/brand.html",
+          "sourceType": "breweryOfficial",
+          "verifiedAt": "2026-10-04",
+          "meaning": "L107 香りの短縮。"
+        },
+        {
+          "axis": "dry",
+          "feature": "辛口",
+          "sourceUrl": "https://www.tosashiragiku.com/brand.html",
+          "sourceType": "breweryOfficial",
+          "verifiedAt": "2026-10-04",
+          "meaning": "L107 辛口の直接記載。"
+        },
+        {
+          "axis": "clean",
+          "feature": "キレ",
+          "sourceUrl": "https://www.tosashiragiku.com/brand.html",
+          "sourceType": "breweryOfficial",
+          "verifiedAt": "2026-10-04",
+          "meaning": "L107 斬れの正規化。"
+        }
+      ],
+      "selected": [
+        "katsuo-namabushi",
+        "shuto"
+      ],
+      "status": "EDITORIAL_MATCH",
+      "reason": null,
+      "overlapExcluded": []
+    },
+    {
+      "sakeId": "hitakami-sakana-label-tokubetsu-junmai-hiire-v1",
+      "name": "日高見 特別純米酒 魚ラベル",
+      "prefecture": "宮城県",
+      "sensoryEvidence": [
+        {
+          "axis": "aroma",
+          "feature": "果実の香り",
+          "sourceUrl": "https://www.sake-kagiya.com/view/item/000000002769",
+          "sourceType": "trustedRetailer",
+          "verifiedAt": "2026-10-04",
+          "meaning": "L200 香りの短縮。"
+        },
+        {
+          "axis": "umami",
+          "feature": "旨味",
+          "sourceUrl": "https://www.sake-kagiya.com/view/item/000000002769",
+          "sourceType": "trustedRetailer",
+          "verifiedAt": "2026-10-04",
+          "meaning": "L204 旨味の正規化。"
+        },
+        {
+          "axis": "clean",
+          "feature": "キレ",
+          "sourceUrl": "https://www.sake-kagiya.com/view/item/000000002769",
+          "sourceType": "trustedRetailer",
+          "verifiedAt": "2026-10-04",
+          "meaning": "L204 後口の短縮。"
+        }
+      ],
+      "selected": [
+        "sasa-kamaboko",
+        "hoya-chinmi"
+      ],
+      "status": "EDITORIAL_MATCH",
+      "reason": null,
+      "overlapExcluded": []
+    },
+    {
+      "sakeId": "hitakami-chokarakuchi-junmai-standard-v1",
+      "name": "日高見 超辛口純米酒",
+      "prefecture": "宮城県",
+      "sensoryEvidence": [
+        {
+          "axis": "aroma",
+          "feature": "果実の香り",
+          "sourceUrl": "https://miyagisake.jp/sake/25005/",
+          "sourceType": "industryOrganization",
+          "verifiedAt": "2026-10-04",
+          "meaning": "L43 果実様香の正規化。"
+        },
+        {
+          "axis": "clean",
+          "feature": "キレ",
+          "sourceUrl": "https://miyagisake.jp/sake/25005/",
+          "sourceType": "industryOrganization",
+          "verifiedAt": "2026-10-04",
+          "meaning": "L47 キレの短縮。"
+        }
+      ],
+      "selected": [
+        "sasa-kamaboko"
+      ],
+      "status": "EDITORIAL_MATCH",
+      "reason": null,
+      "overlapExcluded": []
+    },
+    {
+      "sakeId": "kenkonichi-chokarakuchi-junmai-ginjo-genshu-hiire-v1",
+      "name": "乾坤一 超辛口 純米吟醸原酒 火入れ",
+      "prefecture": "宮城県",
+      "sensoryEvidence": [
+        {
+          "axis": "umami",
+          "feature": "旨味",
+          "sourceUrl": "https://www.yajima-jizake.co.jp/products/detail.php?product_id=12999",
+          "sourceType": "trustedRetailer",
+          "verifiedAt": "2026-10-04",
+          "meaning": "L47 旨みの正規化。"
+        },
+        {
+          "axis": "clean",
+          "feature": "キレ",
+          "sourceUrl": "https://www.yajima-jizake.co.jp/products/detail.php?product_id=12999",
+          "sourceType": "trustedRetailer",
+          "verifiedAt": "2026-10-04",
+          "meaning": "L46 キレ味の短縮。"
+        },
+        {
+          "axis": "dry",
+          "feature": "超辛口",
+          "sourceUrl": "https://www.yajima-jizake.co.jp/products/detail.php?product_id=12999",
+          "sourceType": "trustedRetailer",
+          "verifiedAt": "2026-10-04",
+          "meaning": "L46 個別説明。"
+        }
+      ],
+      "selected": [
+        "hoya-chinmi",
+        "sasa-kamaboko"
+      ],
+      "status": "EDITORIAL_MATCH",
+      "reason": null,
+      "overlapExcluded": []
+    },
+    {
+      "sakeId": "takachiyo-karakuchi-junmai-miyamanishiki-plus19-hiire-v1",
+      "name": "高千代 からくち純米 美山錦 +19 火入れ",
+      "prefecture": "新潟県",
+      "sensoryEvidence": [
+        {
+          "axis": "dry",
+          "feature": "超辛口",
+          "sourceUrl": "https://www.maidoyasaketen.com/products/1678",
+          "sourceType": "trustedRetailer",
+          "verifiedAt": "2026-10-04",
+          "meaning": "L60 超辛口の直接表記。"
+        },
+        {
+          "axis": "umami",
+          "feature": "米の旨味",
+          "sourceUrl": "https://www.maidoyasaketen.com/products/1678",
+          "sourceType": "trustedRetailer",
+          "verifiedAt": "2026-10-04",
+          "meaning": "L61 米の旨味を直接記載。"
+        },
+        {
+          "axis": "clean",
+          "feature": "キレ",
+          "sourceUrl": "https://www.maidoyasaketen.com/products/1678",
+          "sourceType": "trustedRetailer",
+          "verifiedAt": "2026-10-04",
+          "meaning": "L61 キレの直接記載。"
+        }
+      ],
+      "selected": [
+        "kanzuri-shuto",
+        "tochio-aburaage"
+      ],
+      "status": "EDITORIAL_MATCH",
+      "reason": null,
+      "overlapExcluded": []
+    },
+    {
+      "sakeId": "aramasa-no6-r-type-nama-standard-v1",
+      "name": "新政 No.6 R-type",
+      "prefecture": "秋田県",
+      "sensoryEvidence": [
+        {
+          "axis": "umami",
+          "feature": "旨味",
+          "sourceUrl": "https://takekuma.co.jp/store/item/item-seisyu/aramasa-4543",
+          "sourceType": "trustedRetailer",
+          "verifiedAt": "2026-10-04",
+          "meaning": "L46 生酒らしい旨味の要約。"
+        }
+      ],
+      "selected": [
+        "iburigakko"
+      ],
+      "status": "EDITORIAL_MATCH",
+      "reason": null,
+      "overlapExcluded": []
+    },
+    {
+      "sakeId": "aramasa-viridian-hiire-standard-v1",
+      "name": "新政 天鵞絨（ヴィリジアン）",
+      "prefecture": "秋田県",
+      "sensoryEvidence": [],
+      "selected": [],
+      "status": "HELD",
+      "reason": "INSUFFICIENT_SAKE_TASTE_EVIDENCE",
+      "overlapExcluded": []
+    },
+    {
+      "sakeId": "ine-to-agave-doburoku6-v1",
+      "name": "稲とアガベ DOBUROKU 6号酵母",
+      "prefecture": "秋田県",
+      "sensoryEvidence": [],
+      "selected": [],
+      "status": "HELD",
+      "reason": "INSUFFICIENT_SAKE_TASTE_EVIDENCE",
+      "overlapExcluded": []
+    },
+    {
+      "sakeId": "koshino-kagetora-junmai-standard-v1",
+      "name": "越乃景虎 純米酒",
+      "prefecture": "新潟県",
+      "sensoryEvidence": [
+        {
+          "axis": "umami",
+          "feature": "米の旨味",
+          "sourceUrl": "https://www.sakesake.com/item/kurabetu1/19/1-19-5.html",
+          "sourceType": "specialty_retailer",
+          "verifiedAt": "2026-10-17",
+          "meaning": "当該純米酒の味わい説明。楽天の当該純米酒の説明でも同じ意味を確認。"
+        },
+        {
+          "axis": "clean",
+          "feature": "すっきりした後口",
+          "sourceUrl": "https://www.sakesake.com/item/kurabetu1/19/1-19-5.html",
+          "sourceType": "specialty_retailer",
+          "verifiedAt": "2026-10-17",
+          "meaning": "当該純米酒の味わい説明。楽天の当該純米酒の説明でも同じ意味を確認。"
+        }
+      ],
+      "selected": [
+        "kanzuri-shuto",
+        "tochio-aburaage"
+      ],
+      "status": "EDITORIAL_MATCH",
+      "reason": null,
+      "overlapExcluded": []
+    },
+    {
+      "sakeId": "zao-junmai-ginjo-catalog-v1",
+      "name": "純米吟醸 蔵王",
+      "prefecture": "宮城県",
+      "sensoryEvidence": [
+        {
+          "axis": "aroma",
+          "feature": "果実の香り",
+          "sourceUrl": "https://zaoshuzo-shop.com/items/619235977d5d8118e1b63095",
+          "sourceType": "official",
+          "verifiedAt": "2026-10-18",
+          "meaning": "当該商品の説明を意味を足さず短縮。"
+        },
+        {
+          "axis": "umami",
+          "feature": "旨味",
+          "sourceUrl": "https://zaoshuzo-shop.com/items/619235977d5d8118e1b63095",
+          "sourceType": "official",
+          "verifiedAt": "2026-10-18",
+          "meaning": "当該商品の説明を意味を足さず短縮。"
+        }
+      ],
+      "selected": [
+        "hoya-chinmi",
+        "sasa-kamaboko"
+      ],
+      "status": "EDITORIAL_MATCH",
+      "reason": null,
+      "overlapExcluded": []
+    },
+    {
+      "sakeId": "ayumasamune-honjozo-catalog-v1",
+      "name": "鮎正宗 本醸造",
+      "prefecture": "新潟県",
+      "sensoryEvidence": [
+        {
+          "axis": "clean",
+          "feature": "すっきりした口当たり",
+          "sourceUrl": "https://www.ayumasamune.com/product/index.html",
+          "sourceType": "official",
+          "verifiedAt": "2026-10-18",
+          "meaning": "当該商品の説明を意味を足さず短縮。"
+        },
+        {
+          "axis": "umami",
+          "feature": "まろやかな旨味",
+          "sourceUrl": "https://www.ayumasamune.com/product/index.html",
+          "sourceType": "official",
+          "verifiedAt": "2026-10-18",
+          "meaning": "当該商品の説明を意味を足さず短縮。"
+        }
+      ],
+      "selected": [
+        "kanzuri-shuto",
+        "tochio-aburaage"
+      ],
+      "status": "EDITORIAL_MATCH",
+      "reason": null,
+      "overlapExcluded": []
+    },
+    {
+      "sakeId": "chiyonohikari-shin-tokubetsu-honjozo-catalog-v1",
+      "name": "千代の光 真 特別本醸造",
+      "prefecture": "新潟県",
+      "sensoryEvidence": [
+        {
+          "axis": "umami",
+          "feature": "米の旨味",
+          "sourceUrl": "https://www.hachimanya.com/product/14",
+          "sourceType": "specialty_retailer",
+          "verifiedAt": "2026-10-18",
+          "meaning": "当該商品の説明を意味を足さず短縮。"
+        },
+        {
+          "axis": "clean",
+          "feature": "淡麗",
+          "sourceUrl": "https://www.hachimanya.com/product/14",
+          "sourceType": "specialty_retailer",
+          "verifiedAt": "2026-10-18",
+          "meaning": "当該商品の説明を意味を足さず短縮。"
+        },
+        {
+          "axis": "dry",
+          "feature": "辛口",
+          "sourceUrl": "https://www.hachimanya.com/product/14",
+          "sourceType": "specialty_retailer",
+          "verifiedAt": "2026-10-18",
+          "meaning": "当該商品の説明を意味を足さず短縮。"
+        }
+      ],
+      "selected": [
+        "kanzuri-shuto",
+        "tochio-aburaage"
+      ],
+      "status": "EDITORIAL_MATCH",
+      "reason": null,
+      "overlapExcluded": []
+    },
+    {
+      "sakeId": "tenjinbayashi-tokubetsu-honjozo-catalog-v1",
+      "name": "天神囃子 特別本醸造",
+      "prefecture": "新潟県",
+      "sensoryEvidence": [
+        {
+          "axis": "umami",
+          "feature": "旨味",
+          "sourceUrl": "https://item.rakuten.co.jp/koshino-sakekura/nt-76/",
+          "sourceType": "rakuten_retail",
+          "verifiedAt": "2026-10-18",
+          "meaning": "当該商品の説明を意味を足さず短縮。"
+        },
+        {
+          "axis": "clean",
+          "feature": "軽やかな後口",
+          "sourceUrl": "https://item.rakuten.co.jp/koshino-sakekura/nt-76/",
+          "sourceType": "rakuten_retail",
+          "verifiedAt": "2026-10-18",
+          "meaning": "当該商品の説明を意味を足さず短縮。"
+        }
+      ],
+      "selected": [
+        "kanzuri-shuto",
+        "tochio-aburaage"
+      ],
+      "status": "EDITORIAL_MATCH",
+      "reason": null,
+      "overlapExcluded": []
+    },
+    {
+      "sakeId": "koshijifubuki-akiagari-2026-catalog-v1",
+      "name": "越路吹雪 秋あがり 純米吟醸 2026",
+      "prefecture": "新潟県",
+      "sensoryEvidence": [
+        {
+          "axis": "umami",
+          "feature": "豊かな旨味",
+          "sourceUrl": "https://shop.takano-shuzo.co.jp/items/103804777",
+          "sourceType": "official",
+          "verifiedAt": "2026-10-18",
+          "meaning": "当該商品の説明を意味を足さず短縮。"
+        },
+        {
+          "axis": "dry",
+          "feature": "やや辛口",
+          "sourceUrl": "https://shop.takano-shuzo.co.jp/items/103804777",
+          "sourceType": "official",
+          "verifiedAt": "2026-10-18",
+          "meaning": "当該商品の説明を意味を足さず短縮。"
+        }
+      ],
+      "selected": [
+        "kanzuri-shuto",
+        "tochio-aburaage"
+      ],
+      "status": "EDITORIAL_MATCH",
+      "reason": null,
+      "overlapExcluded": []
+    },
+    {
+      "sakeId": "hokushika-akita-kasho-nigori-catalog-v1",
+      "name": "北鹿 秋田華匠 にごり酒",
+      "prefecture": "秋田県",
+      "sensoryEvidence": [
+        {
+          "axis": "clean",
+          "feature": "すっきり",
+          "sourceUrl": "https://item.rakuten.co.jp/lw-hana/113964/",
+          "sourceType": "rakuten_retail",
+          "verifiedAt": "2026-10-18",
+          "meaning": "当該商品の説明を意味を足さず短縮。"
+        }
+      ],
+      "selected": [
+        "gibasa"
+      ],
+      "status": "EDITORIAL_MATCH",
+      "reason": null,
+      "overlapExcluded": []
+    },
+    {
+      "sakeId": "koshino-happo-origarami-catalog-v1",
+      "name": "越乃八豊 おりがらみ",
+      "prefecture": "新潟県",
+      "sensoryEvidence": [
+        {
+          "axis": "aroma",
+          "feature": "華やかな香り",
+          "sourceUrl": "https://item.rakuten.co.jp/echigo/113006/",
+          "sourceType": "rakuten_retail",
+          "verifiedAt": "2026-10-18",
+          "meaning": "当該商品の説明を意味を足さず短縮。"
+        },
+        {
+          "axis": "dry",
+          "feature": "やや辛口",
+          "sourceUrl": "https://item.rakuten.co.jp/echigo/113006/",
+          "sourceType": "rakuten_retail",
+          "verifiedAt": "2026-10-18",
+          "meaning": "当該商品の説明を意味を足さず短縮。"
+        }
+      ],
+      "selected": [
+        "kanzuri-shuto",
+        "tochio-aburaage"
+      ],
+      "status": "EDITORIAL_MATCH",
+      "reason": null,
+      "overlapExcluded": []
+    },
+    {
+      "sakeId": "keigetsu-extra-dry-tokubetsu-junmai60-catalog-v1",
+      "name": "桂月 超辛口 特別純米酒60",
+      "prefecture": "高知県",
+      "sensoryEvidence": [
+        {
+          "axis": "clean",
+          "feature": "すっきり辛口",
+          "sourceUrl": "https://www.keigetsu.co.jp/products/p_karakuchi60",
+          "sourceType": "official",
+          "verifiedAt": "2026-10-18",
+          "meaning": "当該商品の説明を意味を足さず短縮。"
+        },
+        {
+          "axis": "dry",
+          "feature": "すっきり辛口",
+          "sourceUrl": "https://www.keigetsu.co.jp/products/p_karakuchi60",
+          "sourceType": "official",
+          "verifiedAt": "2026-10-18",
+          "meaning": "当該商品の説明を意味を足さず短縮。"
+        },
+        {
+          "axis": "umami",
+          "feature": "米の旨味",
+          "sourceUrl": "https://www.keigetsu.co.jp/products/p_karakuchi60",
+          "sourceType": "official",
+          "verifiedAt": "2026-10-18",
+          "meaning": "当該商品の説明を意味を足さず短縮。"
+        },
+        {
+          "axis": "umami",
+          "feature": "ふくらみ",
+          "sourceUrl": "https://www.keigetsu.co.jp/products/p_karakuchi60",
+          "sourceType": "official",
+          "verifiedAt": "2026-10-18",
+          "meaning": "当該商品の説明を意味を足さず短縮。"
+        }
+      ],
+      "selected": [
+        "katsuo-namabushi",
+        "shuto"
+      ],
+      "status": "EDITORIAL_MATCH",
+      "reason": null,
+      "overlapExcluded": []
+    },
+    {
+      "sakeId": "hokusetsu-hikari-centrifuge-junmai-daiginjo-catalog-v1",
+      "name": "北雪 越淡麗 光 遠心分離 純米大吟醸",
+      "prefecture": "新潟県",
+      "sensoryEvidence": [
+        {
+          "axis": "aroma",
+          "feature": "華やかな香り",
+          "sourceUrl": "https://sake-hokusetsu.com//enshinbunri/",
+          "sourceType": "official",
+          "verifiedAt": "2026-10-18",
+          "meaning": "当該商品の説明を意味を足さず短縮。"
+        },
+        {
+          "axis": "umami",
+          "feature": "ふくらみ",
+          "sourceUrl": "https://sake-hokusetsu.com//enshinbunri/",
+          "sourceType": "official",
+          "verifiedAt": "2026-10-18",
+          "meaning": "当該商品の説明を意味を足さず短縮。"
+        },
+        {
+          "axis": "clean",
+          "feature": "キレ",
+          "sourceUrl": "https://sake-hokusetsu.com//enshinbunri/",
+          "sourceType": "official",
+          "verifiedAt": "2026-10-18",
+          "meaning": "当該商品の説明を意味を足さず短縮。"
+        }
+      ],
+      "selected": [
+        "kanzuri-shuto",
+        "tochio-aburaage"
+      ],
+      "status": "EDITORIAL_MATCH",
+      "reason": null,
+      "overlapExcluded": []
+    },
+    {
+      "sakeId": "hakkaisan-jd-lineup-v1",
+      "name": "純米大吟醸 八海山",
+      "prefecture": "新潟県",
+      "sensoryEvidence": [
+        {
+          "axis": "sweet",
+          "feature": "上品な甘味",
+          "sourceUrl": "https://www.hakkaisan.co.jp/sake/junmaidaiginjo45/",
+          "sourceType": "official",
+          "verifiedAt": "2026-10-20",
+          "meaning": "すっと澄んだ味わいのあとに、上品な甘み。山田錦・美山錦・五百万石などを使った純米大吟醸です。"
+        },
+        {
+          "axis": "clean",
+          "feature": "キレ",
+          "sourceUrl": "https://www.hakkaisan.co.jp/sake/junmaidaiginjo45/",
+          "sourceType": "official",
+          "verifiedAt": "2026-10-20",
+          "meaning": "すっと澄んだ味わいのあとに、上品な甘み。山田錦・美山錦・五百万石などを使った純米大吟醸です。"
+        }
+      ],
+      "selected": [
+        "kanzuri-shuto",
+        "tochio-aburaage"
+      ],
+      "status": "EDITORIAL_MATCH",
+      "reason": null,
+      "overlapExcluded": []
+    },
+    {
+      "sakeId": "hakkaisan-daiginjo-lineup-v1",
+      "name": "大吟醸 八海山",
+      "prefecture": "新潟県",
+      "sensoryEvidence": [
+        {
+          "axis": "sweet",
+          "feature": "上品な甘味",
+          "sourceUrl": "https://www.hakkaisan.co.jp/sake/daiginjo45/",
+          "sourceType": "official",
+          "verifiedAt": "2026-10-20",
+          "meaning": "きめ細かくまろやかな飲み口に、ほのかな甘み。料理と交互に、静かに味わいたい大吟醸です。"
+        }
+      ],
+      "selected": [],
+      "status": "HELD",
+      "reason": "NO_COMPATIBLE_NONOVERLAPPING_FOOD",
+      "overlapExcluded": []
+    },
+    {
+      "sakeId": "hakkaisan-seishu-lineup-v1",
+      "name": "清酒 八海山",
+      "prefecture": "新潟県",
+      "sensoryEvidence": [
+        {
+          "axis": "clean",
+          "feature": "淡麗",
+          "sourceUrl": "https://www.hakkaisan.co.jp/sake/regular/",
+          "sourceType": "official",
+          "verifiedAt": "2026-10-20",
+          "meaning": "さらりとした飲み口で、いつもの食卓に。原料米を60%まで磨いた八海山の普通酒です。"
+        },
+        {
+          "axis": "clean",
+          "feature": "すっきり",
+          "sourceUrl": "https://www.hakkaisan.co.jp/sake/regular/",
+          "sourceType": "official",
+          "verifiedAt": "2026-10-20",
+          "meaning": "さらりとした飲み口で、いつもの食卓に。原料米を60%まで磨いた八海山の普通酒です。"
+        }
+      ],
+      "selected": [
+        "kanzuri-shuto"
+      ],
+      "status": "EDITORIAL_MATCH",
+      "reason": null,
+      "overlapExcluded": []
+    },
+    {
+      "sakeId": "ichinokura-mukansa-karakuchi-lineup-v1",
+      "name": "一ノ蔵 無鑑査本醸造 辛口",
+      "prefecture": "宮城県",
+      "sensoryEvidence": [
+        {
+          "axis": "aroma",
+          "feature": "穏やかな香り",
+          "sourceUrl": "https://ec.ichinokura.co.jp/products/mukansakara",
+          "sourceType": "official_shop",
+          "verifiedAt": "2026-10-20",
+          "meaning": "穏やかな香りとふくらみを、すっきりした後味で。日々の晩酌を支える一ノ蔵の辛口です。"
+        },
+        {
+          "axis": "umami",
+          "feature": "ふくらみ",
+          "sourceUrl": "https://ec.ichinokura.co.jp/products/mukansakara",
+          "sourceType": "official_shop",
+          "verifiedAt": "2026-10-20",
+          "meaning": "穏やかな香りとふくらみを、すっきりした後味で。日々の晩酌を支える一ノ蔵の辛口です。"
+        },
+        {
+          "axis": "clean",
+          "feature": "すっきりした後味",
+          "sourceUrl": "https://ec.ichinokura.co.jp/products/mukansakara",
+          "sourceType": "official_shop",
+          "verifiedAt": "2026-10-20",
+          "meaning": "穏やかな香りとふくらみを、すっきりした後味で。日々の晩酌を支える一ノ蔵の辛口です。"
+        }
+      ],
+      "selected": [
+        "sasa-kamaboko",
+        "hoya-chinmi"
+      ],
+      "status": "EDITORIAL_MATCH",
+      "reason": null,
+      "overlapExcluded": []
+    },
+    {
+      "sakeId": "ichinokura-mukansa-chokarakuchi-lineup-v1",
+      "name": "一ノ蔵 無鑑査本醸造 超辛口",
+      "prefecture": "宮城県",
+      "sensoryEvidence": [
+        {
+          "axis": "dry",
+          "feature": "超辛口",
+          "sourceUrl": "https://ec.ichinokura.co.jp/products/mukansachoukara",
+          "sourceType": "official_shop",
+          "verifiedAt": "2026-10-20",
+          "meaning": "締まりのある辛さに、くっきりしたキレ。冷酒ではクリアに、燗ではふくらみを楽しめます。"
+        },
+        {
+          "axis": "clean",
+          "feature": "キレ",
+          "sourceUrl": "https://ec.ichinokura.co.jp/products/mukansachoukara",
+          "sourceType": "official_shop",
+          "verifiedAt": "2026-10-20",
+          "meaning": "締まりのある辛さに、くっきりしたキレ。冷酒ではクリアに、燗ではふくらみを楽しめます。"
+        },
+        {
+          "axis": "clean",
+          "feature": "すっきり",
+          "sourceUrl": "https://ec.ichinokura.co.jp/products/mukansachoukara",
+          "sourceType": "official_shop",
+          "verifiedAt": "2026-10-20",
+          "meaning": "締まりのある辛さに、くっきりしたキレ。冷酒ではクリアに、燗ではふくらみを楽しめます。"
+        }
+      ],
+      "selected": [
+        "sasa-kamaboko",
+        "hoya-chinmi"
+      ],
+      "status": "EDITORIAL_MATCH",
+      "reason": null,
+      "overlapExcluded": []
+    },
+    {
+      "sakeId": "ichinokura-himezen-lineup-v1",
+      "name": "一ノ蔵 ひめぜん",
+      "prefecture": "宮城県",
+      "sensoryEvidence": [
+        {
+          "axis": "clean",
+          "feature": "爽やかな酸味",
+          "sourceUrl": "https://ec.ichinokura.co.jp/products/himezen",
+          "sourceType": "official_shop",
+          "verifiedAt": "2026-10-20",
+          "meaning": "甘みと酸が一緒に広がる、アルコール8度の原酒。いつもの辛口とは違う一杯を選びたいときに。"
+        },
+        {
+          "axis": "acid",
+          "feature": "爽やかな酸味",
+          "sourceUrl": "https://ec.ichinokura.co.jp/products/himezen",
+          "sourceType": "official_shop",
+          "verifiedAt": "2026-10-20",
+          "meaning": "甘みと酸が一緒に広がる、アルコール8度の原酒。いつもの辛口とは違う一杯を選びたいときに。"
+        },
+        {
+          "axis": "sweet",
+          "feature": "やわらかな甘味",
+          "sourceUrl": "https://ec.ichinokura.co.jp/products/himezen",
+          "sourceType": "official_shop",
+          "verifiedAt": "2026-10-20",
+          "meaning": "甘みと酸が一緒に広がる、アルコール8度の原酒。いつもの辛口とは違う一杯を選びたいときに。"
+        }
+      ],
+      "selected": [
+        "kaki-oil",
+        "sasa-kamaboko"
+      ],
+      "status": "EDITORIAL_MATCH",
+      "reason": null,
+      "overlapExcluded": []
+    },
+    {
+      "sakeId": "urakasumi-karakuchi-lineup-v1",
+      "name": "からくち 浦霞",
+      "prefecture": "宮城県",
+      "sensoryEvidence": [
+        {
+          "axis": "aroma",
+          "feature": "ほのかな香り",
+          "sourceUrl": "https://www.urakasumi.com/items/karakuchi/",
+          "sourceType": "official",
+          "verifiedAt": "2026-10-20",
+          "meaning": "ほのかな香りと軽い旨み、あと口はさっぱり。燗でも楽しみたい浦霞の辛口本醸造です。"
+        },
+        {
+          "axis": "dry",
+          "feature": "辛口",
+          "sourceUrl": "https://www.urakasumi.com/items/karakuchi/",
+          "sourceType": "official",
+          "verifiedAt": "2026-10-20",
+          "meaning": "ほのかな香りと軽い旨み、あと口はさっぱり。燗でも楽しみたい浦霞の辛口本醸造です。"
+        }
+      ],
+      "selected": [
+        "hoya-chinmi",
+        "kaki-oil"
+      ],
+      "status": "EDITORIAL_MATCH",
+      "reason": null,
+      "overlapExcluded": []
+    },
+    {
+      "sakeId": "ichinokura-suzune-lineup-v1",
+      "name": "一ノ蔵 発泡清酒 すず音",
+      "prefecture": "宮城県",
+      "sensoryEvidence": [],
+      "selected": [],
+      "status": "HELD",
+      "reason": "INSUFFICIENT_SAKE_TASTE_EVIDENCE",
+      "overlapExcluded": []
+    },
+    {
+      "sakeId": "urakasumi-honshikomi-lineup-v1",
+      "name": "本仕込 浦霞",
+      "prefecture": "宮城県",
+      "sensoryEvidence": [
+        {
+          "axis": "clean",
+          "feature": "爽やかな香り",
+          "sourceUrl": "https://www.urakasumi.com/items/honjikomi/",
+          "sourceType": "official",
+          "verifiedAt": "2026-10-20",
+          "meaning": "爽やかな香りに、やわらかな味。後味のさっぱりした本醸造を、いつもの晩ごはんと。"
+        },
+        {
+          "axis": "aroma",
+          "feature": "爽やかな香り",
+          "sourceUrl": "https://www.urakasumi.com/items/honjikomi/",
+          "sourceType": "official",
+          "verifiedAt": "2026-10-20",
+          "meaning": "爽やかな香りに、やわらかな味。後味のさっぱりした本醸造を、いつもの晩ごはんと。"
+        }
+      ],
+      "selected": [
+        "sasa-kamaboko"
+      ],
+      "status": "EDITORIAL_MATCH",
+      "reason": null,
+      "overlapExcluded": []
+    },
+    {
+      "sakeId": "kikusui-karakuchi-lineup-v1",
+      "name": "菊水の辛口",
+      "prefecture": "新潟県",
+      "sensoryEvidence": [
+        {
+          "axis": "dry",
+          "feature": "辛口",
+          "sourceUrl": "https://kikusui-sake.com/home/jp/products/p005/",
+          "sourceType": "official",
+          "verifiedAt": "2026-10-20",
+          "meaning": "きりりとした辛さの中に、しっかりと旨み。冷やしても燗でも楽しめる、菊水の本醸造です。"
+        },
+        {
+          "axis": "clean",
+          "feature": "キレ",
+          "sourceUrl": "https://kikusui-sake.com/home/jp/products/p005/",
+          "sourceType": "official",
+          "verifiedAt": "2026-10-20",
+          "meaning": "きりりとした辛さの中に、しっかりと旨み。冷やしても燗でも楽しめる、菊水の本醸造です。"
+        },
+        {
+          "axis": "umami",
+          "feature": "旨味",
+          "sourceUrl": "https://kikusui-sake.com/home/jp/products/p005/",
+          "sourceType": "official",
+          "verifiedAt": "2026-10-20",
+          "meaning": "きりりとした辛さの中に、しっかりと旨み。冷やしても燗でも楽しめる、菊水の本醸造です。"
+        }
+      ],
+      "selected": [
+        "kanzuri-shuto",
+        "tochio-aburaage"
+      ],
+      "status": "EDITORIAL_MATCH",
+      "reason": null,
+      "overlapExcluded": []
+    },
+    {
+      "sakeId": "kikusui-junmai-lineup-v1",
+      "name": "菊水の純米酒",
+      "prefecture": "新潟県",
+      "sensoryEvidence": [
+        {
+          "axis": "umami",
+          "feature": "コク",
+          "sourceUrl": "https://kikusui-sake.com/home/jp/products/p006/",
+          "sourceType": "official",
+          "verifiedAt": "2026-10-20",
+          "meaning": "濃厚でも、重くない。70%精米で引き出した米の旨みと酸を、お燗でもゆっくり楽しめます。"
+        },
+        {
+          "axis": "umami",
+          "feature": "米の旨味",
+          "sourceUrl": "https://kikusui-sake.com/home/jp/products/p006/",
+          "sourceType": "official",
+          "verifiedAt": "2026-10-20",
+          "meaning": "濃厚でも、重くない。70%精米で引き出した米の旨みと酸を、お燗でもゆっくり楽しめます。"
+        },
+        {
+          "axis": "acid",
+          "feature": "酸味",
+          "sourceUrl": "https://kikusui-sake.com/home/jp/products/p006/",
+          "sourceType": "official",
+          "verifiedAt": "2026-10-20",
+          "meaning": "濃厚でも、重くない。70%精米で引き出した米の旨みと酸を、お燗でもゆっくり楽しめます。"
+        }
+      ],
+      "selected": [
+        "kanzuri-shuto",
+        "tochio-aburaage"
+      ],
+      "status": "EDITORIAL_MATCH",
+      "reason": null,
+      "overlapExcluded": []
+    },
+    {
+      "sakeId": "suigei-ginrei-lineup-v1",
+      "name": "酔鯨 純米吟醸 吟麗",
+      "prefecture": "高知県",
+      "sensoryEvidence": [
+        {
+          "axis": "aroma",
+          "feature": "吟醸香",
+          "sourceUrl": "https://suigei.co.jp/collection/558.html",
+          "sourceType": "official",
+          "verifiedAt": "2026-10-20",
+          "meaning": "爽やかな吟醸香と、しっかりした旨み。酸と苦みも含む味の幅を、きれのよい後味で楽しむ吟麗です。"
+        },
+        {
+          "axis": "umami",
+          "feature": "旨味",
+          "sourceUrl": "https://suigei.co.jp/collection/558.html",
+          "sourceType": "official",
+          "verifiedAt": "2026-10-20",
+          "meaning": "爽やかな吟醸香と、しっかりした旨み。酸と苦みも含む味の幅を、きれのよい後味で楽しむ吟麗です。"
+        },
+        {
+          "axis": "clean",
+          "feature": "キレ",
+          "sourceUrl": "https://suigei.co.jp/collection/558.html",
+          "sourceType": "official",
+          "verifiedAt": "2026-10-20",
+          "meaning": "爽やかな吟醸香と、しっかりした旨み。酸と苦みも含む味の幅を、きれのよい後味で楽しむ吟麗です。"
+        }
+      ],
+      "selected": [
+        "katsuo-namabushi",
+        "shuto"
+      ],
+      "status": "EDITORIAL_MATCH",
+      "reason": null,
+      "overlapExcluded": []
+    },
+    {
+      "sakeId": "suigei-koiku54-lineup-v1",
+      "name": "酔鯨 純米吟醸 高育54号",
+      "prefecture": "高知県",
+      "sensoryEvidence": [
+        {
+          "axis": "umami",
+          "feature": "米の旨味",
+          "sourceUrl": "https://suigei.co.jp/collection/505.html",
+          "sourceType": "official",
+          "verifiedAt": "2026-10-20",
+          "meaning": "高知の酒米・吟の夢で醸す、旨みのある純米吟醸。柑橘を思わせる酸が、飲み口を軽快にしています。"
+        },
+        {
+          "axis": "acid",
+          "feature": "柑橘系の酸味",
+          "sourceUrl": "https://suigei.co.jp/collection/505.html",
+          "sourceType": "official",
+          "verifiedAt": "2026-10-20",
+          "meaning": "高知の酒米・吟の夢で醸す、旨みのある純米吟醸。柑橘を思わせる酸が、飲み口を軽快にしています。"
+        },
+        {
+          "axis": "aroma",
+          "feature": "ほのかな吟醸香",
+          "sourceUrl": "https://suigei.co.jp/collection/505.html",
+          "sourceType": "official",
+          "verifiedAt": "2026-10-20",
+          "meaning": "高知の酒米・吟の夢で醸す、旨みのある純米吟醸。柑橘を思わせる酸が、飲み口を軽快にしています。"
+        }
+      ],
+      "selected": [
+        "katsuo-namabushi",
+        "shuto"
+      ],
+      "status": "EDITORIAL_MATCH",
+      "reason": null,
+      "overlapExcluded": []
+    },
+    {
+      "sakeId": "tengumai-umajun-lineup-v1",
+      "name": "天狗舞 旨醇",
+      "prefecture": "石川県",
+      "sensoryEvidence": [
+        {
+          "axis": "umami",
+          "feature": "旨味",
+          "sourceUrl": "https://www.tengumai.co.jp/products/junmai/133.html",
+          "sourceType": "official",
+          "verifiedAt": "2026-10-20",
+          "meaning": "辛さと旨さを、料理と一緒に。冷酒から熱燗まで好みの温度で味わえる、天狗舞の純米酒です。"
+        },
+        {
+          "axis": "acid",
+          "feature": "酸味",
+          "sourceUrl": "https://www.tengumai.co.jp/products/junmai/133.html",
+          "sourceType": "official",
+          "verifiedAt": "2026-10-20",
+          "meaning": "辛さと旨さを、料理と一緒に。冷酒から熱燗まで好みの温度で味わえる、天狗舞の純米酒です。"
+        }
+      ],
+      "selected": [
+        "kabura-zushi",
+        "fugu-nukazuke"
+      ],
+      "status": "EDITORIAL_MATCH",
+      "reason": null,
+      "overlapExcluded": []
+    },
+    {
+      "sakeId": "kagatobi-gokkan-lineup-v1",
+      "name": "加賀鳶 極寒純米 辛口",
+      "prefecture": "石川県",
+      "sensoryEvidence": [
+        {
+          "axis": "clean",
+          "feature": "軽快",
+          "sourceUrl": "https://www.fukumitsuya.co.jp/sake/kagatobi/",
+          "sourceType": "official",
+          "verifiedAt": "2026-10-20",
+          "meaning": "軽快できれのよい辛口に、広がる米の旨み。厳冬の低温発酵で仕込む、定番の極寒純米です。"
+        },
+        {
+          "axis": "clean",
+          "feature": "キレ",
+          "sourceUrl": "https://www.fukumitsuya.co.jp/sake/kagatobi/",
+          "sourceType": "official",
+          "verifiedAt": "2026-10-20",
+          "meaning": "軽快できれのよい辛口に、広がる米の旨み。厳冬の低温発酵で仕込む、定番の極寒純米です。"
+        },
+        {
+          "axis": "umami",
+          "feature": "米の旨味",
+          "sourceUrl": "https://www.fukumitsuya.co.jp/sake/kagatobi/",
+          "sourceType": "official",
+          "verifiedAt": "2026-10-20",
+          "meaning": "軽快できれのよい辛口に、広がる米の旨み。厳冬の低温発酵で仕込む、定番の極寒純米です。"
+        }
+      ],
+      "selected": [
+        "fugu-nukazuke",
+        "kabura-zushi"
+      ],
+      "status": "EDITORIAL_MATCH",
+      "reason": null,
+      "overlapExcluded": []
+    },
+    {
+      "sakeId": "kagatobi-yamahai-lineup-v1",
+      "name": "加賀鳶 山廃純米 超辛口",
+      "prefecture": "石川県",
+      "sensoryEvidence": [
+        {
+          "axis": "acid",
+          "feature": "酸味",
+          "sourceUrl": "https://www.fukumitsuya.co.jp/sake/kagatobi/",
+          "sourceType": "official",
+          "verifiedAt": "2026-10-20",
+          "meaning": "酸と深いコクを、鋭いキレで。山廃仕込みの味をしっかり感じる、加賀鳶の超辛口です。"
+        },
+        {
+          "axis": "umami",
+          "feature": "深いコク",
+          "sourceUrl": "https://www.fukumitsuya.co.jp/sake/kagatobi/",
+          "sourceType": "official",
+          "verifiedAt": "2026-10-20",
+          "meaning": "酸と深いコクを、鋭いキレで。山廃仕込みの味をしっかり感じる、加賀鳶の超辛口です。"
+        },
+        {
+          "axis": "dry",
+          "feature": "超辛口",
+          "sourceUrl": "https://www.fukumitsuya.co.jp/sake/kagatobi/",
+          "sourceType": "official",
+          "verifiedAt": "2026-10-20",
+          "meaning": "酸と深いコクを、鋭いキレで。山廃仕込みの味をしっかり感じる、加賀鳶の超辛口です。"
+        }
+      ],
+      "selected": [
+        "fugu-nukazuke",
+        "kabura-zushi"
+      ],
+      "status": "EDITORIAL_MATCH",
+      "reason": null,
+      "overlapExcluded": []
+    },
+    {
+      "sakeId": "kuroobi-yuyu-lineup-v1",
+      "name": "黒帯 悠々 特別純米",
+      "prefecture": "石川県",
+      "sensoryEvidence": [
+        {
+          "axis": "umami",
+          "feature": "芳醇な旨味",
+          "sourceUrl": "https://www.fukumitsuya.co.jp/sake/kuroobi/",
+          "sourceType": "official",
+          "verifiedAt": "2026-10-20",
+          "meaning": "蔵内でじっくり熟成させた、落ち着いた旨み。燗にするとやわらかくなる、黒帯の定番です。"
+        },
+        {
+          "axis": "aroma",
+          "feature": "芳醇な旨味",
+          "sourceUrl": "https://www.fukumitsuya.co.jp/sake/kuroobi/",
+          "sourceType": "official",
+          "verifiedAt": "2026-10-20",
+          "meaning": "蔵内でじっくり熟成させた、落ち着いた旨み。燗にするとやわらかくなる、黒帯の定番です。"
+        },
+        {
+          "axis": "dry",
+          "feature": "辛口",
+          "sourceUrl": "https://www.fukumitsuya.co.jp/sake/kuroobi/",
+          "sourceType": "official",
+          "verifiedAt": "2026-10-20",
+          "meaning": "蔵内でじっくり熟成させた、落ち着いた旨み。燗にするとやわらかくなる、黒帯の定番です。"
+        }
+      ],
+      "selected": [
+        "fugu-nukazuke",
+        "kabura-zushi"
+      ],
+      "status": "EDITORIAL_MATCH",
+      "reason": null,
+      "overlapExcluded": []
+    },
+    {
+      "sakeId": "jozen-jd-lineup-v1",
+      "name": "上善如水 純米大吟醸",
+      "prefecture": "新潟県",
+      "sensoryEvidence": [
+        {
+          "axis": "aroma",
+          "feature": "華やかな香り",
+          "sourceUrl": "https://www.jozen.co.jp/top/items/item.asp?o=10808",
+          "sourceType": "official_shop",
+          "verifiedAt": "2026-10-20",
+          "meaning": "華やかな香りに、ゆっくり広がる深み。45%精米の純米大吟醸を、冷やして楽しめます。"
+        }
+      ],
+      "selected": [],
+      "status": "HELD",
+      "reason": "NO_COMPATIBLE_NONOVERLAPPING_FOOD",
+      "overlapExcluded": []
+    },
+    {
+      "sakeId": "minatoya-tosuke-lineup-v1",
+      "name": "湊屋藤助 純米大吟醸",
+      "prefecture": "新潟県",
+      "sensoryEvidence": [
+        {
+          "axis": "aroma",
+          "feature": "穏やかな香り",
+          "sourceUrl": "https://www.jozen.co.jp/top/items/item.asp?o=10830",
+          "sourceType": "official_shop",
+          "verifiedAt": "2026-10-20",
+          "meaning": "新潟の越淡麗と、湯沢の湧き水から。ふくよかな味とコクを、冷酒から燗まで楽しむ湊屋藤助です。"
+        },
+        {
+          "axis": "umami",
+          "feature": "ふくよか",
+          "sourceUrl": "https://www.jozen.co.jp/top/items/item.asp?o=10830",
+          "sourceType": "official_shop",
+          "verifiedAt": "2026-10-20",
+          "meaning": "新潟の越淡麗と、湯沢の湧き水から。ふくよかな味とコクを、冷酒から燗まで楽しむ湊屋藤助です。"
+        },
+        {
+          "axis": "umami",
+          "feature": "コク",
+          "sourceUrl": "https://www.jozen.co.jp/top/items/item.asp?o=10830",
+          "sourceType": "official_shop",
+          "verifiedAt": "2026-10-20",
+          "meaning": "新潟の越淡麗と、湯沢の湧き水から。ふくよかな味とコクを、冷酒から燗まで楽しむ湊屋藤助です。"
+        }
+      ],
+      "selected": [
+        "kanzuri-shuto",
+        "tochio-aburaage"
+      ],
+      "status": "EDITORIAL_MATCH",
+      "reason": null,
+      "overlapExcluded": []
+    },
+    {
+      "sakeId": "uonuma-junmai-lineup-v1",
+      "name": "濃醇 魚沼 純米",
+      "prefecture": "新潟県",
+      "sensoryEvidence": [
+        {
+          "axis": "umami",
+          "feature": "米の旨味",
+          "sourceUrl": "https://www.jozen.co.jp/top/items/item.asp?o=10847",
+          "sourceType": "official_shop",
+          "verifiedAt": "2026-10-20",
+          "meaning": "魚沼産米の旨みを、80%精米で。深く濃い味わいを、冷酒でも燗でも楽しめる純米酒です。"
+        },
+        {
+          "axis": "aroma",
+          "feature": "穏やかな香り",
+          "sourceUrl": "https://www.jozen.co.jp/top/items/item.asp?o=10847",
+          "sourceType": "official_shop",
+          "verifiedAt": "2026-10-20",
+          "meaning": "魚沼産米の旨みを、80%精米で。深く濃い味わいを、冷酒でも燗でも楽しめる純米酒です。"
+        }
+      ],
+      "selected": [
+        "kanzuri-shuto",
+        "tochio-aburaage"
+      ],
+      "status": "EDITORIAL_MATCH",
+      "reason": null,
+      "overlapExcluded": []
+    },
+    {
+      "sakeId": "urakasumi-zen-lineup-v1",
+      "name": "純米吟醸 浦霞禅",
+      "prefecture": "宮城県",
+      "sensoryEvidence": [
+        {
+          "axis": "aroma",
+          "feature": "穏やかな果実香",
+          "sourceUrl": "https://www.urakasumi.com/items/urakasumizen/",
+          "sourceType": "official",
+          "verifiedAt": "2026-10-20",
+          "meaning": "穏やかな果実の香りに、ほどよい旨み。1973年から続く浦霞禅を、食事とともに。"
+        },
+        {
+          "axis": "umami",
+          "feature": "旨味",
+          "sourceUrl": "https://www.urakasumi.com/items/urakasumizen/",
+          "sourceType": "official",
+          "verifiedAt": "2026-10-20",
+          "meaning": "穏やかな果実の香りに、ほどよい旨み。1973年から続く浦霞禅を、食事とともに。"
+        }
+      ],
+      "selected": [
+        "hoya-chinmi",
+        "sasa-kamaboko"
+      ],
+      "status": "EDITORIAL_MATCH",
+      "reason": null,
+      "overlapExcluded": []
+    },
+    {
+      "sakeId": "azumaichi-jd-lineup-v1",
+      "name": "東一 純米大吟醸",
+      "prefecture": "佐賀県",
+      "sensoryEvidence": [
+        {
+          "axis": "aroma",
+          "feature": "果実の香り",
+          "sourceUrl": "https://azumaichi.com/top/products/seishu/",
+          "sourceType": "official",
+          "verifiedAt": "2026-10-20",
+          "meaning": "爽やかな果実の香りと、柔らかく広がる旨み。山田錦を39%まで磨いた東一です。"
+        },
+        {
+          "axis": "umami",
+          "feature": "柔らかな旨味",
+          "sourceUrl": "https://azumaichi.com/top/products/seishu/",
+          "sourceType": "official",
+          "verifiedAt": "2026-10-20",
+          "meaning": "爽やかな果実の香りと、柔らかく広がる旨み。山田錦を39%まで磨いた東一です。"
+        }
+      ],
+      "selected": [
+        "ika-shumai",
+        "yobuko-ichiyaboshi"
+      ],
+      "status": "EDITORIAL_MATCH",
+      "reason": null,
+      "overlapExcluded": []
+    },
+    {
+      "sakeId": "koeigiku-sukai-hiire-current-v1",
+      "name": "光栄菊 特別純米 清海 Sukai 火入れ",
+      "prefecture": "佐賀県",
+      "sensoryEvidence": [
+        {
+          "axis": "aroma",
+          "feature": "柑橘系の香り",
+          "sourceUrl": "https://www.hasegawasaketen.com/eshop/products/detail/17836",
+          "sourceType": "specialistRetailer",
+          "verifiedAt": "2026-10-20",
+          "meaning": "柑橘を思わせる香りに、甘みと酸。清海の火入れは、軽やかな後味を楽しめる特別純米です。"
+        },
+        {
+          "axis": "acid",
+          "feature": "酸味",
+          "sourceUrl": "https://www.hasegawasaketen.com/eshop/products/detail/17836",
+          "sourceType": "specialistRetailer",
+          "verifiedAt": "2026-10-20",
+          "meaning": "柑橘を思わせる香りに、甘みと酸。清海の火入れは、軽やかな後味を楽しめる特別純米です。"
+        },
+        {
+          "axis": "clean",
+          "feature": "すっきりした後味",
+          "sourceUrl": "https://www.hasegawasaketen.com/eshop/products/detail/17836",
+          "sourceType": "specialistRetailer",
+          "verifiedAt": "2026-10-20",
+          "meaning": "柑橘を思わせる香りに、甘みと酸。清海の火入れは、軽やかな後味を楽しめる特別純米です。"
+        }
+      ],
+      "selected": [
+        "ika-shumai",
+        "yobuko-ichiyaboshi"
+      ],
+      "status": "EDITORIAL_MATCH",
+      "reason": null,
+      "overlapExcluded": []
+    },
+    {
+      "sakeId": "manrei-chokarakuchi-tokubetsu-junmai-current-v1",
+      "name": "万齢 特別純米 超辛口",
+      "prefecture": "佐賀県",
+      "sensoryEvidence": [
+        {
+          "axis": "dry",
+          "feature": "辛口",
+          "sourceUrl": "https://www.manrei.jp/nihonshu/",
+          "sourceType": "official",
+          "verifiedAt": "2026-10-20",
+          "meaning": "辛口の中に、しっかりと旨み。冷やしても温めても味わえる、万齢の主力の特別純米です。"
+        },
+        {
+          "axis": "umami",
+          "feature": "旨味",
+          "sourceUrl": "https://www.manrei.jp/nihonshu/",
+          "sourceType": "official",
+          "verifiedAt": "2026-10-20",
+          "meaning": "辛口の中に、しっかりと旨み。冷やしても温めても味わえる、万齢の主力の特別純米です。"
+        }
+      ],
+      "selected": [
+        "yobuko-ichiyaboshi",
+        "ika-shumai"
+      ],
+      "status": "EDITORIAL_MATCH",
+      "reason": null,
+      "overlapExcluded": []
+    },
+    {
+      "sakeId": "kihotsuru-junmai-current-v1",
+      "name": "基峰鶴 純米酒",
+      "prefecture": "佐賀県",
+      "sensoryEvidence": [
+        {
+          "axis": "umami",
+          "feature": "やわらかな旨味",
+          "sourceUrl": "https://www.kihotsuru.com/%E7%B4%94%E7%B1%B3%E9%85%92",
+          "sourceType": "official",
+          "verifiedAt": "2026-10-20",
+          "meaning": "やわらかな旨みの奥に、爽やかな酸。冷酒から燗まで、食卓で温度を変えて楽しめる純米酒です。"
+        },
+        {
+          "axis": "clean",
+          "feature": "爽やかな酸味",
+          "sourceUrl": "https://www.kihotsuru.com/%E7%B4%94%E7%B1%B3%E9%85%92",
+          "sourceType": "official",
+          "verifiedAt": "2026-10-20",
+          "meaning": "やわらかな旨みの奥に、爽やかな酸。冷酒から燗まで、食卓で温度を変えて楽しめる純米酒です。"
+        },
+        {
+          "axis": "acid",
+          "feature": "爽やかな酸味",
+          "sourceUrl": "https://www.kihotsuru.com/%E7%B4%94%E7%B1%B3%E9%85%92",
+          "sourceType": "official",
+          "verifiedAt": "2026-10-20",
+          "meaning": "やわらかな旨みの奥に、爽やかな酸。冷酒から燗まで、食卓で温度を変えて楽しめる純米酒です。"
+        }
+      ],
+      "selected": [
+        "saga-nori",
+        "yobuko-ichiyaboshi"
+      ],
+      "status": "EDITORIAL_MATCH",
+      "reason": null,
+      "overlapExcluded": []
+    },
+    {
+      "sakeId": "kurobekyo-junmai-ginjo55-current-v1",
+      "name": "黒部峡 純米吟醸55",
+      "prefecture": "富山県",
+      "sensoryEvidence": [],
+      "selected": [],
+      "status": "HELD",
+      "reason": "INSUFFICIENT_SAKE_TASTE_EVIDENCE",
+      "overlapExcluded": []
+    },
+    {
+      "sakeId": "kameizumi-kouiku63-hiyaoroshi-current-v1",
+      "name": "亀泉 純米吟醸原酒 高育63号 ひやおろし",
+      "prefecture": "高知県",
+      "sensoryEvidence": [
+        {
+          "axis": "aroma",
+          "feature": "フルーティな香り",
+          "sourceUrl": "https://item.rakuten.co.jp/kishuuitibanya/ns-225/",
+          "sourceType": "rakuten_retail",
+          "verifiedAt": "2026-10-22",
+          "meaning": "バナナやメロンを思わせる香りに、ふくらみのある旨み。ひと夏を越した高育63号を、シャープな後味で楽しむ一杯です。"
+        },
+        {
+          "axis": "umami",
+          "feature": "ふくらみのある旨味",
+          "sourceUrl": "https://item.rakuten.co.jp/kishuuitibanya/ns-225/",
+          "sourceType": "rakuten_retail",
+          "verifiedAt": "2026-10-22",
+          "meaning": "バナナやメロンを思わせる香りに、ふくらみのある旨み。ひと夏を越した高育63号を、シャープな後味で楽しむ一杯です。"
+        },
+        {
+          "axis": "clean",
+          "feature": "キレ",
+          "sourceUrl": "https://item.rakuten.co.jp/kishuuitibanya/ns-225/",
+          "sourceType": "rakuten_retail",
+          "verifiedAt": "2026-10-22",
+          "meaning": "バナナやメロンを思わせる香りに、ふくらみのある旨み。ひと夏を越した高育63号を、シャープな後味で楽しむ一杯です。"
+        }
+      ],
+      "selected": [
+        "katsuo-namabushi",
+        "shuto"
+      ],
+      "status": "EDITORIAL_MATCH",
+      "reason": null,
+      "overlapExcluded": []
+    },
+    {
+      "sakeId": "tokachi-tokubetsu-junmai-suisei-current-v1",
+      "name": "十勝 特別純米 彗星",
+      "prefecture": "北海道",
+      "sensoryEvidence": [
+        {
+          "axis": "clean",
+          "feature": "キレ",
+          "sourceUrl": "https://shop.kamikawa-taisetsu.co.jp/shopdetail/000000000311/",
+          "sourceType": "official_shop",
+          "verifiedAt": "2026-10-22",
+          "meaning": "米の持ち味と、碧雲蔵の仕込水が支えるキレ。十勝の食卓へ向けて醸す、蔵のスタンダードの特別純米です。"
+        }
+      ],
+      "selected": [
+        "matsumae-zuke"
+      ],
+      "status": "EDITORIAL_MATCH",
+      "reason": null,
+      "overlapExcluded": []
+    },
+    {
+      "sakeId": "abe-silver-hiire-current-v1",
+      "name": "あべ シルバー 火入れ",
+      "prefecture": "新潟県",
+      "sensoryEvidence": [
+        {
+          "axis": "acid",
+          "feature": "ほどよい酸味",
+          "sourceUrl": "https://item.rakuten.co.jp/e-wine/dw196/",
+          "sourceType": "rakuten_retail",
+          "verifiedAt": "2026-10-22",
+          "meaning": "ほどよい酸と、やさしい旨み。軽やかな飲み口で、食卓に添えたくなるあべのシルバー火入れです。"
+        },
+        {
+          "axis": "umami",
+          "feature": "やさしい旨味",
+          "sourceUrl": "https://item.rakuten.co.jp/e-wine/dw196/",
+          "sourceType": "rakuten_retail",
+          "verifiedAt": "2026-10-22",
+          "meaning": "ほどよい酸と、やさしい旨み。軽やかな飲み口で、食卓に添えたくなるあべのシルバー火入れです。"
+        },
+        {
+          "axis": "clean",
+          "feature": "軽やか",
+          "sourceUrl": "https://item.rakuten.co.jp/e-wine/dw196/",
+          "sourceType": "rakuten_retail",
+          "verifiedAt": "2026-10-22",
+          "meaning": "ほどよい酸と、やさしい旨み。軽やかな飲み口で、食卓に添えたくなるあべのシルバー火入れです。"
+        }
+      ],
+      "selected": [
+        "kanzuri-shuto",
+        "tochio-aburaage"
+      ],
+      "status": "EDITORIAL_MATCH",
+      "reason": null,
+      "overlapExcluded": []
+    }
+  ]
+}

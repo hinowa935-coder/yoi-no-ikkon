@@ -1,0 +1,435 @@
+{
+  "checkedAt": "2026-10-22T10:11:09.360Z",
+  "results": [
+    {
+      "url": "https://niigata-kankou.or.jp/spot/detail_5820.html",
+      "status": 200,
+      "checkedAt": "2026-10-22T09:47:25.997Z",
+      "readable": true,
+      "requiresVisualReview": false
+    },
+    {
+      "url": "https://kanzuri.shop-pro.jp/?cbid=1352613&csid=2&mode=cate&sort=p",
+      "status": 200,
+      "checkedAt": "2026-10-22T09:47:26.638Z",
+      "readable": true,
+      "requiresVisualReview": false
+    },
+    {
+      "url": "https://www.kanzuri.com/",
+      "status": 200,
+      "checkedAt": "2026-10-22T09:47:26.993Z",
+      "readable": true,
+      "requiresVisualReview": false
+    },
+    {
+      "url": "https://sasanao.co.jp/html/page1.html",
+      "status": 200,
+      "checkedAt": "2026-10-22T10:11:08.805Z",
+      "readable": true,
+      "requiresVisualReview": false
+    },
+    {
+      "url": "https://www.kankou.natori.miyagi.jp/shopping/456/",
+      "status": 200,
+      "checkedAt": "2026-10-22T10:11:08.998Z",
+      "readable": true,
+      "requiresVisualReview": false
+    },
+    {
+      "url": "https://hitakamiichiba.com/?pid=142221272",
+      "status": 200,
+      "checkedAt": "2026-10-22T09:47:30.196Z",
+      "readable": true,
+      "requiresVisualReview": false
+    },
+    {
+      "url": "https://store.kinoya.co.jp/Form/Product/ProductDetail.aspx?pid=OYO&shop=0",
+      "status": 200,
+      "checkedAt": "2026-10-22T09:47:30.457Z",
+      "readable": true,
+      "requiresVisualReview": false
+    },
+    {
+      "url": "https://www.siip.city.sendai.jp/kurasusendai/iimono/oyster_kinoyasuisan",
+      "status": 200,
+      "checkedAt": "2026-10-22T09:47:30.990Z",
+      "readable": true,
+      "requiresVisualReview": false
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/traditional-foods/menu/iburigakko.html",
+      "status": 200,
+      "checkedAt": "2026-10-22T09:47:31.123Z",
+      "readable": true,
+      "requiresVisualReview": false
+    },
+    {
+      "url": "https://shoku-web.pref.akita.lg.jp/search/1681",
+      "status": null,
+      "checkedAt": "2026-10-22T09:47:33.250Z",
+      "readable": false,
+      "requiresVisualReview": true
+    },
+    {
+      "url": "https://www.kabura.jp/products/list?category_id=2",
+      "status": 200,
+      "checkedAt": "2026-10-22T09:47:33.500Z",
+      "readable": true,
+      "requiresVisualReview": false
+    },
+    {
+      "url": "https://www.aburayo.jp/",
+      "status": 200,
+      "checkedAt": "2026-10-22T09:47:34.108Z",
+      "readable": true,
+      "requiresVisualReview": false
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/traditional-foods/menu/matumaezuke.html",
+      "status": 200,
+      "checkedAt": "2026-10-22T09:47:34.182Z",
+      "readable": true,
+      "requiresVisualReview": false
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/traditional-foods/menu/saketoba.html",
+      "status": 200,
+      "checkedAt": "2026-10-22T09:47:34.228Z",
+      "readable": true,
+      "requiresVisualReview": false
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/traditional-foods/menu/ikamesi.html",
+      "status": 200,
+      "checkedAt": "2026-10-22T09:47:34.314Z",
+      "readable": true,
+      "requiresVisualReview": false
+    },
+    {
+      "url": "https://sannori.com/",
+      "status": 200,
+      "checkedAt": "2026-10-22T09:47:34.715Z",
+      "readable": true,
+      "requiresVisualReview": false
+    },
+    {
+      "url": "https://saga-collective.com/wp-content/uploads/2025/11/SAGA-COLLECTIVE_2025AW.pdf",
+      "status": 200,
+      "checkedAt": "2026-10-22T09:47:35.568Z",
+      "readable": false,
+      "requiresVisualReview": true
+    },
+    {
+      "url": "https://www.manbou.co.jp/products/ichiyaboshi.html?newwindow=true",
+      "status": 200,
+      "checkedAt": "2026-10-22T09:47:35.715Z",
+      "readable": true,
+      "requiresVisualReview": false
+    },
+    {
+      "url": "https://www.himono-yamamoto.com/products/",
+      "status": 200,
+      "checkedAt": "2026-10-22T09:47:35.839Z",
+      "readable": true,
+      "requiresVisualReview": false
+    },
+    {
+      "url": "https://www.asobo-saga.jp/galleries/detail/f8bc154d-15c8-4770-bca1-116e245352f9",
+      "status": 503,
+      "checkedAt": "2026-10-22T09:47:35.918Z",
+      "readable": false,
+      "requiresVisualReview": true
+    },
+    {
+      "url": "https://www.manbou.co.jp/",
+      "status": 200,
+      "checkedAt": "2026-10-22T09:47:36.012Z",
+      "readable": true,
+      "requiresVisualReview": false
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/traditional-foods/menu/syutou.html",
+      "status": 200,
+      "checkedAt": "2026-10-22T09:47:36.074Z",
+      "readable": true,
+      "requiresVisualReview": false
+    },
+    {
+      "url": "https://www.fukutatsu.co.jp/",
+      "status": 200,
+      "checkedAt": "2026-10-22T09:47:36.372Z",
+      "readable": true,
+      "requiresVisualReview": false
+    },
+    {
+      "url": "https://www.city.kochi.kochi.jp/site/kanko/katsuo.html",
+      "status": 200,
+      "checkedAt": "2026-10-22T09:47:36.543Z",
+      "readable": true,
+      "requiresVisualReview": false
+    },
+    {
+      "url": "https://www.info-toyama.com/stories/hotaruika-toyama",
+      "status": 200,
+      "checkedAt": "2026-10-22T09:47:36.734Z",
+      "readable": true,
+      "requiresVisualReview": false
+    },
+    {
+      "url": "https://www.kawamurasuisan.jp/",
+      "status": 503,
+      "checkedAt": "2026-10-22T09:47:36.831Z",
+      "readable": false,
+      "requiresVisualReview": true
+    },
+    {
+      "url": "https://nmaicha.jp/hpgen/HPB/categories/27103.html",
+      "status": 200,
+      "checkedAt": "2026-10-22T09:47:37.101Z",
+      "readable": true,
+      "requiresVisualReview": false
+    },
+    {
+      "url": "https://kane7.co.jp/wp-content/themes/kane7/src/img/contents/download/products-jp.pdf",
+      "status": 200,
+      "checkedAt": "2026-10-22T09:47:37.369Z",
+      "readable": false,
+      "requiresVisualReview": true
+    },
+    {
+      "url": "https://nmaicha.jp/",
+      "status": 200,
+      "checkedAt": "2026-10-22T09:47:37.415Z",
+      "readable": true,
+      "requiresVisualReview": false
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/traditional-foods/menu/hesiko.html",
+      "status": 200,
+      "checkedAt": "2026-10-22T09:47:37.469Z",
+      "readable": true,
+      "requiresVisualReview": false
+    },
+    {
+      "url": "https://fuku-iro.jp/omiyage/detail_10556.html",
+      "status": 503,
+      "checkedAt": "2026-10-22T09:47:37.546Z",
+      "readable": false,
+      "requiresVisualReview": true
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/traditional-foods/menu/wakasa_obama_kodai_sasazuke.html",
+      "status": 200,
+      "checkedAt": "2026-10-22T09:47:37.610Z",
+      "readable": true,
+      "requiresVisualReview": false
+    },
+    {
+      "url": "https://www.tentatu.com/shiouni",
+      "status": 200,
+      "checkedAt": "2026-10-22T09:47:38.607Z",
+      "readable": true,
+      "requiresVisualReview": false
+    },
+    {
+      "url": "https://hokuriku-plus.com/product/detail_3008.html",
+      "status": 200,
+      "checkedAt": "2026-10-22T09:47:38.725Z",
+      "readable": true,
+      "requiresVisualReview": false
+    },
+    {
+      "id": "tochio-aburaage",
+      "url": "https://item.rakuten.co.jp/niigata-shop/0148-001-02/",
+      "status": 200,
+      "checkedAt": "2026-10-22T09:53:36.882Z",
+      "readable": true,
+      "requiresVisualReview": false
+    },
+    {
+      "id": "kanzuri-shuto",
+      "url": "https://item.rakuten.co.jp/auc-kusanoya/kanzurisyu/",
+      "status": 200,
+      "checkedAt": "2026-10-22T09:53:37.145Z",
+      "readable": true,
+      "requiresVisualReview": false
+    },
+    {
+      "id": "sasa-kamaboko",
+      "url": "https://item.rakuten.co.jp/sasanao-sasanao/item-13/",
+      "status": 200,
+      "checkedAt": "2026-10-22T10:11:09.277Z",
+      "readable": true,
+      "requiresVisualReview": false
+    },
+    {
+      "id": "hoya-chinmi",
+      "url": "https://item.rakuten.co.jp/auc-de-mer/10180302/",
+      "status": 200,
+      "checkedAt": "2026-10-22T09:53:37.592Z",
+      "readable": true,
+      "requiresVisualReview": false
+    },
+    {
+      "id": "kaki-oil",
+      "url": "https://item.rakuten.co.jp/tsutsu-uraura/kinoya-kaki115-3s/",
+      "status": 200,
+      "checkedAt": "2026-10-22T09:53:37.760Z",
+      "readable": true,
+      "requiresVisualReview": false
+    },
+    {
+      "id": "iburigakko",
+      "url": "https://item.rakuten.co.jp/1010kanekyu/1001/",
+      "status": 200,
+      "checkedAt": "2026-10-22T09:53:37.932Z",
+      "readable": true,
+      "requiresVisualReview": false
+    },
+    {
+      "id": "gibasa",
+      "url": "https://item.rakuten.co.jp/tucano/10000977-1/",
+      "status": 200,
+      "checkedAt": "2026-10-22T09:53:38.092Z",
+      "readable": true,
+      "requiresVisualReview": false
+    },
+    {
+      "id": "kabura-zushi",
+      "url": "https://item.rakuten.co.jp/kabura/kabura-1112/",
+      "status": 200,
+      "checkedAt": "2026-10-22T09:53:38.242Z",
+      "readable": true,
+      "requiresVisualReview": false
+    },
+    {
+      "id": "konka-iwashi",
+      "url": "https://item.rakuten.co.jp/kabura/nuka-809/",
+      "status": 200,
+      "checkedAt": "2026-10-22T09:53:38.382Z",
+      "readable": true,
+      "requiresVisualReview": false
+    },
+    {
+      "id": "fugu-nukazuke",
+      "url": "https://item.rakuten.co.jp/yasushin/fugunoko-nuka01/",
+      "status": 200,
+      "checkedAt": "2026-10-22T09:53:38.548Z",
+      "readable": true,
+      "requiresVisualReview": false
+    },
+    {
+      "id": "matsumae-zuke",
+      "url": "https://item.rakuten.co.jp/otaru/10000012/",
+      "status": 200,
+      "checkedAt": "2026-10-22T09:53:38.738Z",
+      "readable": true,
+      "requiresVisualReview": false
+    },
+    {
+      "id": "sake-toba",
+      "url": "https://item.rakuten.co.jp/kitanomachi/saketoba_100g/",
+      "status": 200,
+      "checkedAt": "2026-10-22T09:53:38.892Z",
+      "readable": true,
+      "requiresVisualReview": false
+    },
+    {
+      "id": "ika-meshi",
+      "url": "https://item.rakuten.co.jp/senka-land/4582102770105/",
+      "status": 200,
+      "checkedAt": "2026-10-22T09:53:39.015Z",
+      "readable": true,
+      "requiresVisualReview": false
+    },
+    {
+      "id": "saga-nori",
+      "url": "https://item.rakuten.co.jp/karatsu-iwamoto/yakinori-01/",
+      "status": 200,
+      "checkedAt": "2026-10-22T09:53:39.209Z",
+      "readable": true,
+      "requiresVisualReview": false
+    },
+    {
+      "id": "yobuko-ichiyaboshi",
+      "url": "https://item.rakuten.co.jp/yobuko-manbou/50003/",
+      "status": 200,
+      "checkedAt": "2026-10-22T09:53:39.440Z",
+      "readable": true,
+      "requiresVisualReview": false
+    },
+    {
+      "id": "ika-shumai",
+      "url": "https://item.rakuten.co.jp/yobuko-manbou/10000003/",
+      "status": 200,
+      "checkedAt": "2026-10-22T09:53:39.590Z",
+      "readable": true,
+      "requiresVisualReview": false
+    },
+    {
+      "id": "shuto",
+      "url": "https://item.rakuten.co.jp/auc-tosauma/syutou_karakuchi/",
+      "status": 200,
+      "checkedAt": "2026-10-22T09:53:39.760Z",
+      "readable": true,
+      "requiresVisualReview": false
+    },
+    {
+      "id": "katsuo-namabushi",
+      "url": "https://item.rakuten.co.jp/moritokuzo/takeuchi-namabushi-01/",
+      "status": 200,
+      "checkedAt": "2026-10-22T09:53:39.967Z",
+      "readable": true,
+      "requiresVisualReview": false
+    },
+    {
+      "id": "hotaruika-okizuke",
+      "url": "https://item.rakuten.co.jp/shokuhin-chokusou/62011925/",
+      "status": 200,
+      "checkedAt": "2026-10-22T09:53:40.156Z",
+      "readable": true,
+      "requiresVisualReview": false
+    },
+    {
+      "id": "shiroebi-himono",
+      "url": "https://item.rakuten.co.jp/hamaura/shiraebi_suboshi-mon/",
+      "status": 200,
+      "checkedAt": "2026-10-22T09:53:40.332Z",
+      "readable": true,
+      "requiresVisualReview": false
+    },
+    {
+      "id": "hotaruika-himono",
+      "url": "https://item.rakuten.co.jp/hamaura/hotaruika_suboshi2-mon/",
+      "status": 200,
+      "checkedAt": "2026-10-22T09:53:40.499Z",
+      "readable": true,
+      "requiresVisualReview": false
+    },
+    {
+      "id": "heshiko",
+      "url": "https://item.rakuten.co.jp/echizengani/t05-02/",
+      "status": 200,
+      "checkedAt": "2026-10-22T09:53:40.704Z",
+      "readable": true,
+      "requiresVisualReview": false
+    },
+    {
+      "id": "kodai-sasazuke",
+      "url": "https://item.rakuten.co.jp/g-callshop/43915/",
+      "status": 200,
+      "checkedAt": "2026-10-22T09:53:40.875Z",
+      "readable": true,
+      "requiresVisualReview": false
+    },
+    {
+      "id": "shio-uni",
+      "url": "https://item.rakuten.co.jp/hokuriku-st/uni1/",
+      "status": 200,
+      "checkedAt": "2026-10-22T09:53:41.014Z",
+      "readable": true,
+      "requiresVisualReview": false
+    }
+  ]
+}

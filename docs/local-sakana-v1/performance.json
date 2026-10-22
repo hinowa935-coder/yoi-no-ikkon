@@ -1,0 +1,147 @@
+{
+  "checkedAt": "2026-10-22T10:34:22.253Z",
+  "rows": [
+    {
+      "width": 390,
+      "label": "unchanged-production",
+      "run": 1,
+      "cls": 0.2342932422025057,
+      "lcp": 408,
+      "specialtyImageRequests": 0,
+      "specialtyImageFrames": 0,
+      "resourceCount": 28
+    },
+    {
+      "width": 390,
+      "label": "unchanged-production",
+      "run": 2,
+      "cls": 0.2342932422025057,
+      "lcp": 344,
+      "specialtyImageRequests": 0,
+      "specialtyImageFrames": 0,
+      "resourceCount": 28
+    },
+    {
+      "width": 390,
+      "label": "unchanged-production",
+      "run": 3,
+      "cls": 0.2342932422025057,
+      "lcp": 372,
+      "specialtyImageRequests": 0,
+      "specialtyImageFrames": 0,
+      "resourceCount": 28
+    },
+    {
+      "width": 390,
+      "label": "new-local",
+      "run": 1,
+      "cls": 0.2342932422025057,
+      "lcp": 288,
+      "specialtyImageRequests": 0,
+      "specialtyImageFrames": 1,
+      "resourceCount": 28
+    },
+    {
+      "width": 390,
+      "label": "new-local",
+      "run": 2,
+      "cls": 0.2342932422025057,
+      "lcp": 292,
+      "specialtyImageRequests": 0,
+      "specialtyImageFrames": 1,
+      "resourceCount": 28
+    },
+    {
+      "width": 390,
+      "label": "new-local",
+      "run": 3,
+      "cls": 0.2342932422025057,
+      "lcp": 304,
+      "specialtyImageRequests": 0,
+      "specialtyImageFrames": 1,
+      "resourceCount": 28
+    },
+    {
+      "width": 1280,
+      "label": "unchanged-production",
+      "run": 1,
+      "cls": 0.09650977256738745,
+      "lcp": 372,
+      "specialtyImageRequests": 0,
+      "specialtyImageFrames": 0,
+      "resourceCount": 28
+    },
+    {
+      "width": 1280,
+      "label": "unchanged-production",
+      "run": 2,
+      "cls": 0.09650977256738745,
+      "lcp": 356,
+      "specialtyImageRequests": 0,
+      "specialtyImageFrames": 0,
+      "resourceCount": 28
+    },
+    {
+      "width": 1280,
+      "label": "unchanged-production",
+      "run": 3,
+      "cls": 0.09650977256738745,
+      "lcp": 384,
+      "specialtyImageRequests": 0,
+      "specialtyImageFrames": 0,
+      "resourceCount": 28
+    },
+    {
+      "width": 1280,
+      "label": "new-local",
+      "run": 1,
+      "cls": 0.09650977256738745,
+      "lcp": 312,
+      "specialtyImageRequests": 0,
+      "specialtyImageFrames": 1,
+      "resourceCount": 28
+    },
+    {
+      "width": 1280,
+      "label": "new-local",
+      "run": 2,
+      "cls": 0.09650977256738745,
+      "lcp": 312,
+      "specialtyImageRequests": 0,
+      "specialtyImageFrames": 1,
+      "resourceCount": 28
+    },
+    {
+      "width": 1280,
+      "label": "new-local",
+      "run": 3,
+      "cls": 0.09650977256738745,
+      "lcp": 316,
+      "specialtyImageRequests": 0,
+      "specialtyImageFrames": 1,
+      "resourceCount": 28
+    }
+  ],
+  "comparisons": [
+    {
+      "width": 390,
+      "baselineCls": 0.2342932422025057,
+      "currentCls": 0.2342932422025057,
+      "addedCls": 0,
+      "initialResourceCountsPreserved": true,
+      "absoluteClsGood": false,
+      "regressionPassed": true
+    },
+    {
+      "width": 1280,
+      "baselineCls": 0.09650977256738745,
+      "currentCls": 0.09650977256738745,
+      "addedCls": 0,
+      "initialResourceCountsPreserved": true,
+      "absoluteClsGood": true,
+      "regressionPassed": true
+    }
+  ],
+  "limitations": "Three cold lab runs per width. Production and localhost have different network/cache paths; not a controlled field-CWV comparison. LCP timings are descriptive, not a causal speed claim. Cross-origin image byte bodies were not retrieved or stored. Mobile CLS was already 0.234 in unchanged production; this is a no-regression gate, not a claim that existing CLS is good.",
+  "passed": true
+}

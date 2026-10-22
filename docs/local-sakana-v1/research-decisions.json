@@ -1,0 +1,328 @@
+{
+  "rows": [
+    {
+      "id": "sake-sakabitashi",
+      "name": "鮭の酒びたし",
+      "prefecture": "新潟県",
+      "decision": "HELD",
+      "reason": "NO_RETAIL_SINGLE",
+      "note": "今回の永徳を含む検索では返礼品・惣菜詰合せが中心。食品の存在は確認。単品の継続調査を要する。",
+      "candidates": 11,
+      "sourceQueries": [
+        "鮭 酒びたし 永徳"
+      ]
+    },
+    {
+      "id": "tochio-aburaage",
+      "name": "栃尾の油揚げ",
+      "prefecture": "新潟県",
+      "decision": "ACCEPTED",
+      "reason": null,
+      "note": null,
+      "candidates": 30,
+      "sourceQueries": [
+        "栃尾 油揚げ"
+      ]
+    },
+    {
+      "id": "kanzuri-shuto",
+      "name": "かんずり酒盗",
+      "prefecture": "新潟県",
+      "decision": "ACCEPTED",
+      "reason": null,
+      "note": null,
+      "candidates": 18,
+      "sourceQueries": [
+        "かんずり 酒盗"
+      ]
+    },
+    {
+      "id": "sasa-kamaboko",
+      "name": "笹かまぼこ",
+      "prefecture": "宮城県",
+      "decision": "ACCEPTED",
+      "reason": null,
+      "note": null,
+      "candidates": 30,
+      "sourceQueries": [
+        "笹かまぼこ 宮城"
+      ]
+    },
+    {
+      "id": "hoya-chinmi",
+      "name": "ほや珍味",
+      "prefecture": "宮城県",
+      "decision": "ACCEPTED",
+      "reason": null,
+      "note": null,
+      "candidates": 10,
+      "sourceQueries": [
+        "ほや 燻製 宮城"
+      ]
+    },
+    {
+      "id": "kaki-oil",
+      "name": "牡蠣オイル漬け",
+      "prefecture": "宮城県",
+      "decision": "ACCEPTED",
+      "reason": null,
+      "note": null,
+      "candidates": 29,
+      "sourceQueries": [
+        "牡蠣 オイル漬け 宮城"
+      ]
+    },
+    {
+      "id": "iburigakko",
+      "name": "いぶりがっこ",
+      "prefecture": "秋田県",
+      "decision": "ACCEPTED",
+      "reason": null,
+      "note": null,
+      "candidates": 30,
+      "sourceQueries": [
+        "いぶりがっこ 秋田"
+      ]
+    },
+    {
+      "id": "hatahata-himono",
+      "name": "ハタハタ干物",
+      "prefecture": "秋田県",
+      "decision": "HELD",
+      "reason": "IDENTITY_UNCLEAR",
+      "note": "現行候補の原料産地・加工地と公式地域資料の対応を確定していない。不漁情報もあり数量を埋めない。",
+      "candidates": 9,
+      "sourceQueries": [
+        "ハタハタ 干物 秋田"
+      ]
+    },
+    {
+      "id": "gibasa",
+      "name": "ぎばさ",
+      "prefecture": "秋田県",
+      "decision": "ACCEPTED",
+      "reason": null,
+      "note": null,
+      "candidates": 30,
+      "sourceQueries": [
+        "ぎばさ 秋田"
+      ]
+    },
+    {
+      "id": "kabura-zushi",
+      "name": "かぶら寿し",
+      "prefecture": "石川県",
+      "decision": "ACCEPTED",
+      "reason": null,
+      "note": null,
+      "candidates": 30,
+      "sourceQueries": [
+        "かぶら寿し 四十萬谷"
+      ]
+    },
+    {
+      "id": "konka-iwashi",
+      "name": "こんかいわし",
+      "prefecture": "石川県",
+      "decision": "HELD",
+      "reason": "QUANTITY_UNCONFIRMED",
+      "note": "単品候補はあるが現行販売ページの内容量を本文・取得資料で確認できない。",
+      "candidates": 3,
+      "sourceQueries": [
+        "こんかいわし 石川"
+      ]
+    },
+    {
+      "id": "fugu-nukazuke",
+      "name": "ふぐの子糠漬け",
+      "prefecture": "石川県",
+      "decision": "ACCEPTED",
+      "reason": null,
+      "note": null,
+      "candidates": 22,
+      "sourceQueries": [
+        "ふぐ 卵巣 糠漬け 石川"
+      ]
+    },
+    {
+      "id": "matsumae-zuke",
+      "name": "松前漬け",
+      "prefecture": "北海道",
+      "decision": "ACCEPTED",
+      "reason": null,
+      "note": null,
+      "candidates": 30,
+      "sourceQueries": [
+        "松前漬け 北海道"
+      ]
+    },
+    {
+      "id": "sake-toba",
+      "name": "鮭とば",
+      "prefecture": "北海道",
+      "decision": "ACCEPTED",
+      "reason": null,
+      "note": null,
+      "candidates": 30,
+      "sourceQueries": [
+        "鮭とば 北海道"
+      ]
+    },
+    {
+      "id": "ika-meshi",
+      "name": "いかめし",
+      "prefecture": "北海道",
+      "decision": "ACCEPTED",
+      "reason": null,
+      "note": null,
+      "candidates": 30,
+      "sourceQueries": [
+        "いかめし 阿部"
+      ]
+    },
+    {
+      "id": "saga-nori",
+      "name": "佐賀の焼海苔",
+      "prefecture": "佐賀県",
+      "decision": "ACCEPTED",
+      "reason": null,
+      "note": null,
+      "candidates": 30,
+      "sourceQueries": [
+        "佐賀 有明 焼海苔"
+      ]
+    },
+    {
+      "id": "yobuko-ichiyaboshi",
+      "name": "呼子いか一夜干し",
+      "prefecture": "佐賀県",
+      "decision": "ACCEPTED",
+      "reason": null,
+      "note": null,
+      "candidates": 24,
+      "sourceQueries": [
+        "呼子 いか 一夜干し"
+      ]
+    },
+    {
+      "id": "ika-shumai",
+      "name": "いかしゅうまい",
+      "prefecture": "佐賀県",
+      "decision": "ACCEPTED",
+      "reason": null,
+      "note": null,
+      "candidates": 30,
+      "sourceQueries": [
+        "いかしゅうまい 萬坊"
+      ]
+    },
+    {
+      "id": "shuto",
+      "name": "酒盗",
+      "prefecture": "高知県",
+      "decision": "ACCEPTED",
+      "reason": null,
+      "note": null,
+      "candidates": 8,
+      "sourceQueries": [
+        "酒盗 福辰"
+      ]
+    },
+    {
+      "id": "katsuo-namabushi",
+      "name": "かつお生節",
+      "prefecture": "高知県",
+      "decision": "ACCEPTED",
+      "reason": null,
+      "note": null,
+      "candidates": 30,
+      "sourceQueries": [
+        "かつお 生節 高知"
+      ]
+    },
+    {
+      "id": "utsubo-chinmi",
+      "name": "うつぼの珍味",
+      "prefecture": "高知県",
+      "decision": "HELD",
+      "reason": "IDENTITY_UNCLEAR",
+      "note": "加工の異なるたたき・生カット等が混在。今回の小皿向け保存珍味としての版を確定していない。",
+      "candidates": 28,
+      "sourceQueries": [
+        "うつぼ 珍味 高知"
+      ]
+    },
+    {
+      "id": "hotaruika-okizuke",
+      "name": "ほたるいか沖漬け",
+      "prefecture": "富山県",
+      "decision": "ACCEPTED",
+      "reason": null,
+      "note": null,
+      "candidates": 10,
+      "sourceQueries": [
+        "ほたるいか 沖漬け 川村"
+      ]
+    },
+    {
+      "id": "shiroebi-himono",
+      "name": "白えび素干し",
+      "prefecture": "富山県",
+      "decision": "ACCEPTED",
+      "reason": null,
+      "note": null,
+      "candidates": 5,
+      "sourceQueries": [
+        "白えび 素干し 富山"
+      ]
+    },
+    {
+      "id": "hotaruika-himono",
+      "name": "ほたるいか素干し",
+      "prefecture": "富山県",
+      "decision": "ACCEPTED",
+      "reason": null,
+      "note": null,
+      "candidates": 30,
+      "sourceQueries": [
+        "ほたるいか 素干し 富山"
+      ]
+    },
+    {
+      "id": "heshiko",
+      "name": "へしこ",
+      "prefecture": "福井県",
+      "decision": "ACCEPTED",
+      "reason": null,
+      "note": null,
+      "candidates": 30,
+      "sourceQueries": [
+        "へしこ 福井"
+      ]
+    },
+    {
+      "id": "kodai-sasazuke",
+      "name": "小鯛ささ漬け",
+      "prefecture": "福井県",
+      "decision": "ACCEPTED",
+      "reason": null,
+      "note": null,
+      "candidates": 28,
+      "sourceQueries": [
+        "小鯛 ささ漬け 小浜"
+      ]
+    },
+    {
+      "id": "shio-uni",
+      "name": "汐うに",
+      "prefecture": "福井県",
+      "decision": "HELD",
+      "reason": "NOT_LOCAL_ENOUGH",
+      "note": "採用予定候補の販売説明に韓国製造を明記。福井加工品として採用しない。別の通常商品を継続調査。",
+      "candidates": 30,
+      "sourceQueries": [
+        "汐うに 福井"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3202 @@
+{
+  "checkedAt": "2026-10-22T10:24:37.577Z",
+  "pages": 1250,
+  "activeDetails": 484,
+  "internalLinks": 20489,
+  "broken": [],
+  "rows": [
+    {
+      "sakeId": "abe-silver-hiire-current-v1",
+      "prefecture": "新潟県",
+      "specialties": [
+        "kanzuri-shuto",
+        "tochio-aburaage"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "aizu-chujo-junmai",
+      "prefecture": "福島県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "akabu-junmai",
+      "prefecture": "岩手県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "akaiwaomachi-junmai-daiginjo-standard-v1",
+      "prefecture": "岡山県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "akishika-junmai-inaho-yamadanishiki-75-v1",
+      "prefecture": "大阪府",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "akishika-yamahai-junmai-yamadanishiki-70-muroka-genshu-hiire-v1",
+      "prefecture": "大阪府",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "amabuki-flower-yeast",
+      "prefecture": "佐賀県",
+      "specialties": [
+        "ika-shumai",
+        "yobuko-ichiyaboshi"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "amaneko-white-koji",
+      "prefecture": "秋田県",
+      "specialties": [
+        "gibasa"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "amanosake-hlztnu",
+      "prefecture": "大阪府",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "aramasa-junmai-1",
+      "prefecture": "秋田県",
+      "specialties": [
+        "gibasa",
+        "iburigakko"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "aramasa-no6-r-type-nama-standard-v1",
+      "prefecture": "秋田県",
+      "specialties": [
+        "iburigakko"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "aramasa-viridian-hiire-standard-v1",
+      "prefecture": "秋田県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "asahibaki-iaxjez-3",
+      "prefecture": "岩手県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "asahibaki-iaxjez",
+      "prefecture": "岩手県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "asahigiku-o0fiap",
+      "prefecture": "福岡県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "atago-no-matsu-i3yhce",
+      "prefecture": "宮城県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "ayakiku-uc9ijh-4",
+      "prefecture": "香川県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "ayanishiki-i3yidq",
+      "prefecture": "宮崎県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "ayumasamune-honjozo-catalog-v1",
+      "prefecture": "新潟県",
+      "specialties": [
+        "kanzuri-shuto",
+        "tochio-aburaage"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "azumacho-junmai",
+      "prefecture": "佐賀県",
+      "specialties": [
+        "ika-shumai",
+        "yobuko-ichiyaboshi"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "azumaichi-jd-lineup-v1",
+      "prefecture": "佐賀県",
+      "specialties": [
+        "ika-shumai",
+        "yobuko-ichiyaboshi"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "azumaichi-junmai-ginjo",
+      "prefecture": "佐賀県",
+      "specialties": [
+        "ika-shumai",
+        "yobuko-ichiyaboshi"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "azumanofumoto-junmai-ginjo-yamagata-selection-v1",
+      "prefecture": "山形県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "banshu-ikkon-junmai-chokarakuchi-hiire-v1",
+      "prefecture": "兵庫県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "bijofu-ul4nol-3",
+      "prefecture": "高知県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "bijofu-ul4nol",
+      "prefecture": "高知県",
+      "specialties": [
+        "katsuo-namabushi"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "born-gold-2",
+      "prefecture": "福井県",
+      "specialties": [
+        "heshiko",
+        "kodai-sasazuke"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "born-gold",
+      "prefecture": "福井県",
+      "specialties": [
+        "heshiko",
+        "kodai-sasazuke"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "buyu-karakuchi-junmai-v1",
+      "prefecture": "茨城県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "chiebijin-junmai",
+      "prefecture": "大分県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "chikumanishiki-karakuchi-tokubetsu-junmai-v1",
+      "prefecture": "長野県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "chitosetsuru-junmai-ginjo-kitashizuku-v1",
+      "prefecture": "北海道",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "chiyomusubi-uzpgk6-3",
+      "prefecture": "鳥取県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "chiyomusubi-uzpgk6",
+      "prefecture": "鳥取県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "chiyonohikari-shin-tokubetsu-honjozo-catalog-v1",
+      "prefecture": "新潟県",
+      "specialties": [
+        "kanzuri-shuto",
+        "tochio-aburaage"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "chochin-tokubetsu-junmai-gold-standard-v1",
+      "prefecture": "愛知県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "chokyu-tokusen-honjozo-catalog-v1",
+      "prefecture": "和歌山県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "choryo-yoshinosugi-tarusake-standard",
+      "prefecture": "奈良県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "daina-kjnkdk",
+      "prefecture": "栃木県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "daishichi-junmai-kimoto-standard",
+      "prefecture": "福島県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "daishichi-kaiden-lineup-v1",
+      "prefecture": "福島県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "daishichi-minowamon-lineup-v1",
+      "prefecture": "福島県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "daishinshu-tenouchi-namazume-v1",
+      "prefecture": "長野県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "dassai-23",
+      "prefecture": "山口県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "dassai-45-1",
+      "prefecture": "山口県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "dassai-45",
+      "prefecture": "山口県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "denshu-tokubetsu-junmai-1",
+      "prefecture": "青森県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "denshu-tokubetsu-junmai",
+      "prefecture": "青森県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "denyu-tokubetsu-junmai-standard",
+      "prefecture": "新潟県",
+      "specialties": [
+        "kanzuri-shuto"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "dewazakura-ichiko-lineup-v1",
+      "prefecture": "山形県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "dewazakura-oka-ginjo",
+      "prefecture": "山形県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "dewazakura-tsuyahime-lineup-v1",
+      "prefecture": "山形県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "echigozakura-daiginjo-standard",
+      "prefecture": "新潟県",
+      "specialties": [
+        "kanzuri-shuto",
+        "tochio-aburaage"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "eikofuji-hinowa-muroka-nama-2026-current-v1",
+      "prefecture": "山形県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "eikun-junmai-ginjo-4",
+      "prefecture": "静岡県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "eikun-kyoto-fjg",
+      "prefecture": "京都府",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "eikun-tokubetsu-junmai-homarefuji-v1",
+      "prefecture": "静岡県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "fudo-ichido-hiire-junmai-daiginjo-v1",
+      "prefecture": "千葉県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "fukucho-io3id2-4",
+      "prefecture": "広島県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "fukucho-io3id2",
+      "prefecture": "広島県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "fukuiwai-yamada50-junmai-ginjo-current-v1",
+      "prefecture": "千葉県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "fukutsukasa-junmai",
+      "prefecture": "北海道",
+      "specialties": [
+        "matsumae-zuke"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "fukutsuru-junmai-ginjo-v1",
+      "prefecture": "長崎県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "furosen-lvvrsw-1",
+      "prefecture": "滋賀県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "gakki-masamune-honjozo-nakadori-v1",
+      "prefecture": "福島県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "ganki-hitotsubi-junmai-v1",
+      "prefecture": "山口県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "gassan-id2kl5",
+      "prefecture": "島根県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "gazan-junmai-daiginjo-standard",
+      "prefecture": "愛知県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "gekkeikan-horin-junmai-daiginjo-standard",
+      "prefecture": "京都府",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "gekkeikan-nigori-lineup-v1",
+      "prefecture": "京都府",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "gikyo-enishi-junmai-aged-blend-v1",
+      "prefecture": "愛知県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "gikyo-tokubetsu-junmai",
+      "prefecture": "愛知県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "ginban-chotokusen-komenoshin-standard-v1",
+      "prefecture": "富山県",
+      "specialties": [
+        "shiroebi-himono",
+        "hotaruika-himono"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "gohou-junmai",
+      "prefecture": "北海道",
+      "specialties": [
+        "matsumae-zuke",
+        "ika-meshi"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "gokeiji-junmai-ginjo",
+      "prefecture": "茨城県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "gokyo-junmai-standard",
+      "prefecture": "山口県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "gonin-musume-junmai-catalog-v1",
+      "prefecture": "千葉県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "goshun-hlztnu-2",
+      "prefecture": "大阪府",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "goshun-hlztnu",
+      "prefecture": "大阪府",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "goshun-honmaru-honjozo-v1",
+      "prefecture": "大阪府",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "gotenzakura-iwjid2",
+      "prefecture": "徳島県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "gozenshu-junmai-ginjo-nyoisan-omachi-v1",
+      "prefecture": "岡山県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "gozenshu-junmai-mimasaka-v1",
+      "prefecture": "岡山県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "gunmaizumi-yamahai-junmai",
+      "prefecture": "群馬県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "hachitsuru-junmai-ginjo-catalog-v1",
+      "prefecture": "青森県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "haginotsuyu-amadare-tomizu-hiire-current-v1",
+      "prefecture": "滋賀県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "hakkaisan-daiginjo-lineup-v1",
+      "prefecture": "新潟県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "hakkaisan-jd-lineup-v1",
+      "prefecture": "新潟県",
+      "specialties": [
+        "kanzuri-shuto",
+        "tochio-aburaage"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "hakkaisan-seishu-lineup-v1",
+      "prefecture": "新潟県",
+      "specialties": [
+        "kanzuri-shuto"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "hakkaisan-tokubetsu-honjozo-1",
+      "prefecture": "新潟県",
+      "specialties": [
+        "tochio-aburaage"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "hakkaisan-tokubetsu-honjozo",
+      "prefecture": "新潟県",
+      "specialties": [
+        "kanzuri-shuto"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "hakoneyama-nz2hmwijh",
+      "prefecture": "神奈川県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "hakuinmasamune-karakuchi-junmai-standard",
+      "prefecture": "静岡県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "hakurakusei-tokubetsu-junmai-1",
+      "prefecture": "宮城県",
+      "specialties": [
+        "sasa-kamaboko"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "hakurakusei-tokubetsu-junmai",
+      "prefecture": "宮城県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "hakutaka-kinmatsu-tokubetsu-junmai",
+      "prefecture": "兵庫県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "hakutsuru-daiginjo-lineup-v1",
+      "prefecture": "兵庫県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "hakutsuru-g39ip7",
+      "prefecture": "兵庫県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "hamachidori-iaxjez",
+      "prefecture": "岩手県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "hanaabi-gohyakumangoku-muroka-namagenshu-1800-current-v1",
+      "prefecture": "埼玉県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "hanagaki-o0ffit-5",
+      "prefecture": "福井県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "hanagaki-o0ffit",
+      "prefecture": "福井県",
+      "specialties": [
+        "heshiko"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "hanakagura-i3yidq",
+      "prefecture": "宮崎県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "haneya-kirabi-nama-genshu-v1",
+      "prefecture": "富山県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "hanzo-tokubetsu-junmai-karakuchi-v1",
+      "prefecture": "三重県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "harada-i9dgkj",
+      "prefecture": "山口県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "harushika-chokarakuchi-junmai",
+      "prefecture": "奈良県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "harushika-hmwprj",
+      "prefecture": "奈良県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "hato-masamune-tw2kq6",
+      "prefecture": "青森県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "hatsukame-karakara-beppin-v1",
+      "prefecture": "静岡県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "hatsumago-i9diua",
+      "prefecture": "山形県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "hatsumiyo-honjozo-v1",
+      "prefecture": "宮崎県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "hideyoshi-junmai-standard",
+      "prefecture": "秋田県",
+      "specialties": [
+        "gibasa",
+        "iburigakko"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "hiokizakura-tokujo-junmai-omachi-current-v1",
+      "prefecture": "鳥取県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "hiraizumi-jukusei-yamahai-junmai-v1",
+      "prefecture": "秋田県",
+      "specialties": [
+        "iburigakko"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "hiraizumi-yamahai-tokubetsu-junmai-v1",
+      "prefecture": "秋田県",
+      "specialties": [
+        "gibasa",
+        "iburigakko"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "hiran-nikomaru-hiire-standard-v1",
+      "prefecture": "長崎県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "hiroki-tokubetsu-junmai-1",
+      "prefecture": "福島県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "hirotogawa-tokubetsu-junmai",
+      "prefecture": "福島県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "hisagotaiko-ginjo-awa-yamadanishiki-standard",
+      "prefecture": "徳島県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "hitakami-chokarakuchi-junmai-standard-v1",
+      "prefecture": "宮城県",
+      "specialties": [
+        "sasa-kamaboko"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "hitakami-sakana-label-tokubetsu-junmai-hiire-v1",
+      "prefecture": "宮城県",
+      "specialties": [
+        "sasa-kamaboko",
+        "hoya-chinmi"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "hitorimusume-sayaka-tokubetsu-honjozo-catalog-v1",
+      "prefecture": "茨城県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "hokuan-daikoku-junmai70-v1",
+      "prefecture": "長野県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "hokusetsu-hikari-centrifuge-junmai-daiginjo-catalog-v1",
+      "prefecture": "新潟県",
+      "specialties": [
+        "kanzuri-shuto",
+        "tochio-aburaage"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "hokushika-akita-kasho-nigori-catalog-v1",
+      "prefecture": "秋田県",
+      "specialties": [
+        "gibasa"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "houhai-junmai-ginjo-3",
+      "prefecture": "青森県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "houhai-tokubetsu-junmai-v1",
+      "prefecture": "青森県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "houken-junmai-ginjo-hattannishiki-standard-v1",
+      "prefecture": "広島県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "houken-junmai-hattannishiki-green-v1",
+      "prefecture": "広島県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "hououbiden-tsurugi-hiire-v1",
+      "prefecture": "栃木県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "hourai-junmai-ginjo-kaden-tezukuri-v1",
+      "prefecture": "岐阜県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "houraisen-bi-junmai-daiginjo-standard-v1",
+      "prefecture": "愛知県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "houraisen-wa-junmai-ginjo",
+      "prefecture": "愛知県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "housui-tokubetsu-junmai-standard-v1",
+      "prefecture": "徳島県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "hyakushun-junmai-josen-standard",
+      "prefecture": "岐阜県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "ibi-white",
+      "prefecture": "岐阜県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "ichinokura-himezen-lineup-v1",
+      "prefecture": "宮城県",
+      "specialties": [
+        "kaki-oil",
+        "sasa-kamaboko"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "ichinokura-mukansa-chokarakuchi-lineup-v1",
+      "prefecture": "宮城県",
+      "specialties": [
+        "sasa-kamaboko",
+        "hoya-chinmi"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "ichinokura-mukansa-karakuchi-lineup-v1",
+      "prefecture": "宮城県",
+      "specialties": [
+        "sasa-kamaboko",
+        "hoya-chinmi"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "ichinokura-suzune-lineup-v1",
+      "prefecture": "宮城県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "ichinokura-tokubetsu-junmai-karakuchi",
+      "prefecture": "宮城県",
+      "specialties": [
+        "kaki-oil",
+        "sasa-kamaboko"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "ine-to-agave-doburoku6-v1",
+      "prefecture": "秋田県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "ippaku-suissei-tokubetsu-junmai",
+      "prefecture": "秋田県",
+      "specialties": [
+        "gibasa"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "ippongi-o0ffit-4",
+      "prefecture": "福井県",
+      "specialties": [
+        "heshiko"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "ippongi-o0ffit",
+      "prefecture": "福井県",
+      "specialties": [
+        "kodai-sasazuke",
+        "heshiko"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "ishizuchi-junmai-ginjo-1",
+      "prefecture": "愛媛県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "ishizuchi-junmai-ginjo-yamadanishiki50-v1",
+      "prefecture": "愛媛県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "iso-jiman-honjozo",
+      "prefecture": "静岡県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "iyo-kagiya-junmai-aka-label-v1",
+      "prefecture": "愛媛県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "izumibashi-nz2hmwijh",
+      "prefecture": "神奈川県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "jikon-junmai-ginjo-omachi-hiire-standard-v1",
+      "prefecture": "三重県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "jikon-junmai-ginjo-yamadanishiki-hiire-standard-v1",
+      "prefecture": "三重県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "jikon-tokubetsu-junmai-hiire-standard-v1",
+      "prefecture": "三重県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "jokigen-i9diua",
+      "prefecture": "山形県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "jokigen-ishikawa-nozijh-4",
+      "prefecture": "石川県",
+      "specialties": [
+        "fugu-nukazuke",
+        "kabura-zushi"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "jokigen-ishikawa-nozijh",
+      "prefecture": "石川県",
+      "specialties": [
+        "fugu-nukazuke",
+        "kabura-zushi"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "jozan-junmai",
+      "prefecture": "福井県",
+      "specialties": [
+        "kodai-sasazuke",
+        "heshiko"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "jozen-jd-lineup-v1",
+      "prefecture": "新潟県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "jozen-mizunogotoshi-junmai-ginjo-standard",
+      "prefecture": "新潟県",
+      "specialties": [
+        "kanzuri-shuto",
+        "tochio-aburaage"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "juyondai-modern-premium",
+      "prefecture": "山形県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "kachikoma-junmai-3",
+      "prefecture": "富山県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "kachikoma-junmai",
+      "prefecture": "富山県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "kachikoma-modern-premium",
+      "prefecture": "富山県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "kagatobi-gokkan-lineup-v1",
+      "prefecture": "石川県",
+      "specialties": [
+        "fugu-nukazuke",
+        "kabura-zushi"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "kagatobi-nozijh",
+      "prefecture": "石川県",
+      "specialties": [
+        "fugu-nukazuke",
+        "kabura-zushi"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "kagatobi-yamahai-lineup-v1",
+      "prefecture": "石川県",
+      "specialties": [
+        "fugu-nukazuke",
+        "kabura-zushi"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "kagatsuru-junmai-josen-standard",
+      "prefecture": "石川県",
+      "specialties": [
+        "fugu-nukazuke"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "kagura-nojoho-junmai-ginjo-nama-current-v1",
+      "prefecture": "京都府",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "kai-no-kaiun-i9dko8",
+      "prefecture": "山梨県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "kaishun-kimoto-yamaguchi-hiire-genshu-catalog-v1",
+      "prefecture": "島根県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "kaiun-tokubetsu-junmai-2",
+      "prefecture": "静岡県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "kaiun-tokubetsu-junmai",
+      "prefecture": "静岡県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "kameizumi-kouiku63-hiyaoroshi-current-v1",
+      "prefecture": "高知県",
+      "specialties": [
+        "katsuo-namabushi",
+        "shuto"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "kameman-nigori-genshu-current-v1",
+      "prefecture": "熊本県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "kamikokoro-iapi9d",
+      "prefecture": "岡山県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "kamo-kinshu-tokubetsu-junmai-2",
+      "prefecture": "広島県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "kamo-kinshu-tokubetsu-junmai",
+      "prefecture": "広島県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "kamoshibito-kuheiji-eau-du-desir-1",
+      "prefecture": "愛知県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "kamoshibito-kuheiji-eau-du-desir",
+      "prefecture": "愛知県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "kamotsuru-chotokusem-tokuto-tokubetsu-honjozo",
+      "prefecture": "広島県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "kamotsuru-jg-lineup-v1",
+      "prefecture": "広島県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "kanbe-shiboritate-namachozo-catalog-v1",
+      "prefecture": "兵庫県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "kanhokuto-tokubetsu-junmai",
+      "prefecture": "福岡県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "kankiku-ocean99-toumi-arrival-hiire-v1",
+      "prefecture": "千葉県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "kariho-yamahai-junmai-chokarakuchi-v1",
+      "prefecture": "秋田県",
+      "specialties": [
+        "iburigakko"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "kasen-kflfjg-4",
+      "prefecture": "東京都",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "kasen-kflfjg",
+      "prefecture": "東京都",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "kasen-maboroshi-no-sake-tokubetsu-honjozo-standard-v1",
+      "prefecture": "東京都",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "katano-sakura-hlztnu",
+      "prefecture": "大阪府",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "kawanakajima-genmai-junmai-ginjo-4",
+      "prefecture": "長野県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "kawanakajima-tokubetsu-junmai-standard-v1",
+      "prefecture": "長野県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "kawatsuru-junmai-ooseto-hiire-v1",
+      "prefecture": "香川県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "kazenomori-akitsuho-657-standard-v1",
+      "prefecture": "奈良県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "keigetsu-extra-dry-tokubetsu-junmai60-catalog-v1",
+      "prefecture": "高知県",
+      "specialties": [
+        "katsuo-namabushi",
+        "shuto"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "kenbishi-g39ip7",
+      "prefecture": "兵庫県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "kenkonichi-chokarakuchi-junmai-ginjo-genshu-hiire-v1",
+      "prefecture": "宮城県",
+      "specialties": [
+        "hoya-chinmi",
+        "sasa-kamaboko"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "kenkonichi-tokubetsu-junmai",
+      "prefecture": "宮城県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "kid-junmai-ginjo-1",
+      "prefecture": "和歌山県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "kid-junmai-ginjo",
+      "prefecture": "和歌山県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "kidoizumi-gg3q4p",
+      "prefecture": "千葉県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "kihotsuru-junmai-current-v1",
+      "prefecture": "佐賀県",
+      "specialties": [
+        "saga-nori",
+        "yobuko-ichiyaboshi"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "kikko-hanabishi-hdomtl-4",
+      "prefecture": "埼玉県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "kiku-masamune-g39ip7",
+      "prefecture": "兵庫県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "kiku-no-tsukasa-iaxjez",
+      "prefecture": "岩手県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "kikuhime-yamahai-junmai",
+      "prefecture": "石川県",
+      "specialties": [
+        "kabura-zushi",
+        "fugu-nukazuke"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "kikumasamune-kaho-lineup-v1",
+      "prefecture": "兵庫県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "kikusui-funaguchi-honjozo-nama-genshu-standard",
+      "prefecture": "新潟県",
+      "specialties": [
+        "kanzuri-shuto",
+        "tochio-aburaage"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "kikusui-junmai-lineup-v1",
+      "prefecture": "新潟県",
+      "specialties": [
+        "kanzuri-shuto",
+        "tochio-aburaage"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "kikusui-karakuchi-lineup-v1",
+      "prefecture": "新潟県",
+      "specialties": [
+        "kanzuri-shuto",
+        "tochio-aburaage"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "kinkon-juemon-junmai-muroka-genshu",
+      "prefecture": "東京都",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "kinkon-kflfjg-2",
+      "prefecture": "東京都",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "kinkon-kflfjg",
+      "prefecture": "東京都",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "kinoene-gg3q4p-2",
+      "prefecture": "千葉県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "kinoene-gg3q4p",
+      "prefecture": "千葉県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "kinokawa-tividq",
+      "prefecture": "長崎県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "kinpai-junmai-yokozuna-standard",
+      "prefecture": "兵庫県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "kinryo-uc9ijh-3",
+      "prefecture": "香川県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "kinryo-uc9ijh",
+      "prefecture": "香川県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "kinteki-junmai-ginjo-v1",
+      "prefecture": "北海道",
+      "specialties": [
+        "ika-meshi",
+        "matsumae-zuke"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "kirai-gin-junmai-daiginjo-180-catalog-v1",
+      "prefecture": "徳島県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "kirakucho-lvvrsw-4",
+      "prefecture": "滋賀県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "kirakucho-lvvrsw",
+      "prefecture": "滋賀県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "kirari-junmai-genshu-hiire-standard-v1",
+      "prefecture": "和歌山県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "kirei-banjisakazukinonaka-junmai-hiire-v1",
+      "prefecture": "広島県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "kirei-karakuchi-junmai-hachiju-hiire-v1",
+      "prefecture": "広島県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "kita-no-katsu-taikai",
+      "prefecture": "北海道",
+      "specialties": [
+        "matsumae-zuke"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "kitanonishiki-maruta-tokubetsu-junmai-v1",
+      "prefecture": "北海道",
+      "specialties": [
+        "ika-meshi"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "kizakura-yamahai-tokubetsu-junmai-yamadanishiki-standard",
+      "prefecture": "京都府",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "koeigiku-sukai-hiire-current-v1",
+      "prefecture": "佐賀県",
+      "specialties": [
+        "ika-shumai",
+        "yobuko-ichiyaboshi"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "koimari-saki",
+      "prefecture": "佐賀県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "kokuryu-icchorai-jungin-standard-v1",
+      "prefecture": "福井県",
+      "specialties": [
+        "kodai-sasazuke",
+        "heshiko"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "kokuryu-junmai-ginjo-1",
+      "prefecture": "福井県",
+      "specialties": [
+        "heshiko"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "kokushi-muso-junmai",
+      "prefecture": "北海道",
+      "specialties": [
+        "matsumae-zuke",
+        "ika-meshi"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "komagura-haruka-gonen-junmai-koshu-v1",
+      "prefecture": "福岡県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "koro-mfekdo",
+      "prefecture": "熊本県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "koshijifubuki-akiagari-2026-catalog-v1",
+      "prefecture": "新潟県",
+      "specialties": [
+        "kanzuri-shuto",
+        "tochio-aburaage"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "koshino-happo-origarami-catalog-v1",
+      "prefecture": "新潟県",
+      "specialties": [
+        "kanzuri-shuto",
+        "tochio-aburaage"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "koshino-kagetora-junmai-standard-v1",
+      "prefecture": "新潟県",
+      "specialties": [
+        "kanzuri-shuto",
+        "tochio-aburaage"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "koshino-kanbai-white-label",
+      "prefecture": "新潟県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "kozaemon-bizen-omachi-hiire-v1",
+      "prefecture": "岐阜県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "kubota-senju-2",
+      "prefecture": "新潟県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "kubota-senju",
+      "prefecture": "新潟県",
+      "specialties": [
+        "kanzuri-shuto"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "kudoki-jozu-i9diua",
+      "prefecture": "山形県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "kunimare-tokubetsu-junmai-standard",
+      "prefecture": "北海道",
+      "specialties": [
+        "matsumae-zuke",
+        "ika-meshi"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "kunizakari-handago-junmai-ginjo-1801",
+      "prefecture": "愛知県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "kurobekyo-junmai-ginjo55-current-v1",
+      "prefecture": "富山県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "kurokabuto-green-label-v1",
+      "prefecture": "福岡県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "kuroobi-yuyu-lineup-v1",
+      "prefecture": "石川県",
+      "specialties": [
+        "fugu-nukazuke",
+        "kabura-zushi"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "kuroushi-gp8l70i9d",
+      "prefecture": "和歌山県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "kurumazaka-gp8l70i9d-3",
+      "prefecture": "和歌山県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "kurumazaka-yamahai-akiagari-2019by-current-v1",
+      "prefecture": "和歌山県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "kyohina-j6jhwb-5",
+      "prefecture": "愛媛県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "kyohina-j6jhwb",
+      "prefecture": "愛媛県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "maboroshi-no-taki-junmai-ginjo-standard",
+      "prefecture": "富山県",
+      "specialties": [
+        "hotaruika-okizuke",
+        "hotaruika-himono"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "manrei-chokarakuchi-tokubetsu-junmai-current-v1",
+      "prefecture": "佐賀県",
+      "specialties": [
+        "yobuko-ichiyaboshi",
+        "ika-shumai"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "mansaku-no-hana-o23n5c",
+      "prefecture": "秋田県",
+      "specialties": [
+        "gibasa"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "masuizumi-junmai-ginjo",
+      "prefecture": "富山県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "masumi-karakuchi-kiippon-1",
+      "prefecture": "長野県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "masumi-karakuchi-kiippon",
+      "prefecture": "長野県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "masumi-kaya-lineup-v1",
+      "prefecture": "長野県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "masumi-kuro-lineup-v1",
+      "prefecture": "長野県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "masumi-shiro-lineup-v1",
+      "prefecture": "長野県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "matsu-midori-nz2hmwijh",
+      "prefecture": "神奈川県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "matsu-no-tsukasa-lvvrsw",
+      "prefecture": "滋賀県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "matsunokotobuki-omachi-hiire-current-v1",
+      "prefecture": "栃木県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "michisakari-ia8tng",
+      "prefecture": "岐阜県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "michizakura-junmai-rclass-v1",
+      "prefecture": "北海道",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "mifuku-yamahai-junmai-ginjo-iginjunsei-standard",
+      "prefecture": "滋賀県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "miinokotobuki-junmai-ginjo-4",
+      "prefecture": "福岡県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "miinokotobuki-junmai-ginjo",
+      "prefecture": "福岡県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "mikadomatsu-shacho-no-sake-v1",
+      "prefecture": "埼玉県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "mikotsuru-junmai-ginjo-hitogokochi-hiire-v1",
+      "prefecture": "長野県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "mimurosugi-kioke-bodaimoto-jishaden-current-v1",
+      "prefecture": "奈良県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "minakata-gp8l70i9d",
+      "prefecture": "和歌山県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "minatoya-tosuke-lineup-v1",
+      "prefecture": "新潟県",
+      "specialties": [
+        "kanzuri-shuto",
+        "tochio-aburaage"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "mio-sparkling-lineup-v1",
+      "prefecture": "京都府",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "miyakanbai-i3yhce",
+      "prefecture": "宮城県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "miyozakura-leaf-junmai-ginjo-v1",
+      "prefecture": "岐阜県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "mizubasho-p7oucs",
+      "prefecture": "群馬県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "momokawa-tw2kq6",
+      "prefecture": "青森県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "morinokura-junmai-v1",
+      "prefecture": "福岡県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "morishima-miyamanishiki-junmai-ginjo-hiire-v1",
+      "prefecture": "茨城県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "murayu-kuro",
+      "prefecture": "新潟県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "mushohai-junmai-ginjo-standard",
+      "prefecture": "奈良県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "mutsu-hassen-red-label",
+      "prefecture": "青森県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "nabeshima-junmai-ginjo",
+      "prefecture": "佐賀県",
+      "specialties": [
+        "ika-shumai"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "nanbu-bijin-tokubetsu-junmai",
+      "prefecture": "岩手県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "nanbubijin-jd-lineup-v1",
+      "prefecture": "岩手県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "nanbubijin-jg-lineup-v1",
+      "prefecture": "岩手県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "nanbubijin-junmai-daiginjo-sakemirai-standard-v1",
+      "prefecture": "岩手県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "narutotai-iwjid2",
+      "prefecture": "徳島県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "narutotai-junmai-tomoe-v1",
+      "prefecture": "徳島県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "nichiei-junmai-ginjo-ishikawamon-standard",
+      "prefecture": "石川県",
+      "specialties": [
+        "kabura-zushi",
+        "fugu-nukazuke"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "nichinichi-yamada-nishiki-3",
+      "prefecture": "京都府",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "nichinichi-yamada-nishiki",
+      "prefecture": "京都府",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "nihonsakari-daiginjo-lineup-v1",
+      "prefecture": "兵庫県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "nihonsakari-souhana-junmai-ginjo-standard",
+      "prefecture": "兵庫県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "niida-shizenshu-junmai-genshu",
+      "prefecture": "福島県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "niseko-suisei-junmai-ginjo-hiire-v1",
+      "prefecture": "北海道",
+      "specialties": [
+        "matsumae-zuke"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "nishinoseki-hlzg7a",
+      "prefecture": "大分県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "nishinoseki-junmai-ginjo-bigin-v1",
+      "prefecture": "大分県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "nito-j6jnol",
+      "prefecture": "愛知県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "nito-junmai-ginjo-yamadanishiki55-v1",
+      "prefecture": "愛知県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "niwa-no-uguisu-junmai-ginjo",
+      "prefecture": "福岡県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "niwanouguisu-junmai-ginjo-nuruhada-v1",
+      "prefecture": "福岡県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "niwanouguisu-tokubetsu-junmai-standard-v1",
+      "prefecture": "福岡県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "nogomi-tokubetsu-junmai-1",
+      "prefecture": "佐賀県",
+      "specialties": [
+        "ika-shumai"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "nogomi-tokubetsu-junmai",
+      "prefecture": "佐賀県",
+      "specialties": [
+        "ika-shumai",
+        "yobuko-ichiyaboshi"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "obasute-masamune-junmai-karakuchi-catalog-v1",
+      "prefecture": "長野県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "ohga-asahi-junmai-ginjo-current-v1",
+      "prefecture": "福岡県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "ohmine-three-grain",
+      "prefecture": "山口県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "ohyama-tokubetsu-junmai-tomizu-standard",
+      "prefecture": "山形県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "oku-ten-year-junmai-ginjo-genshu-current-v1",
+      "prefecture": "愛知県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "okuharima-yamahai-junmai-1",
+      "prefecture": "兵庫県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "okunokami-junmai-ginjo-muchosei-nama-v1",
+      "prefecture": "東京都",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "okunokami-kflfjg",
+      "prefecture": "東京都",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "okunomatsu-adatara-lineup-v1",
+      "prefecture": "福島県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "okunomatsu-jg-lineup-v1",
+      "prefecture": "福島県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "okunomatsu-tokubetsu-junmai-standard",
+      "prefecture": "福島県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "otokoyama-fukkoshu",
+      "prefecture": "北海道",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "otokoyama-kimoto-junmai",
+      "prefecture": "北海道",
+      "specialties": [
+        "sake-toba",
+        "ika-meshi"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "otokoyama-kuniyoshinona-v1",
+      "prefecture": "北海道",
+      "specialties": [
+        "matsumae-zuke",
+        "ika-meshi"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "oze-no-yukidoke-junmai-daiginjo",
+      "prefecture": "群馬県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "ozeki-gokuama-lineup-v1",
+      "prefecture": "兵庫県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "ozeki-karatanba-lineup-v1",
+      "prefecture": "兵庫県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "ozeki-tokusen-tokubetsu-junmai-yamadanishiki-standard",
+      "prefecture": "兵庫県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "raifuku-junmai-ginjo-yamadanishiki-hiire-v1",
+      "prefecture": "茨城県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "ranman-junmai-managudako-standard",
+      "prefecture": "秋田県",
+      "specialties": [
+        "gibasa",
+        "iburigakko"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "reizan-junmai",
+      "prefecture": "熊本県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "rihaku-id2kl5-2",
+      "prefecture": "島根県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "rokujuyoshu-junmai-ginjo-yamadanishiki-v1",
+      "prefecture": "長崎県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "rokujuyoshu-tividq-3",
+      "prefecture": "長崎県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "roman-junmai-ginjo-ichikai-hiire-2025by-v1",
+      "prefecture": "福島県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "ruka-p7oucs",
+      "prefecture": "群馬県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "ryozeki-junmai-ginjo-v1",
+      "prefecture": "秋田県",
+      "specialties": [
+        "gibasa",
+        "iburigakko"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "ryusei-muku-omachi-kimoto-current-v1",
+      "prefecture": "広島県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "sagaminada-junmai-ginjo-miyamanishiki-standard-v1",
+      "prefecture": "神奈川県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "sagaminada-tokubetsu-junmai-karakuchi-hiire-v1",
+      "prefecture": "神奈川県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "sakari-masu-tokubetsu-junmai-catalog-v1",
+      "prefecture": "神奈川県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "sakuta-tokubetsu-junmai-keiyaku-v1",
+      "prefecture": "青森県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "sakuyabi14-junmai-ginjo-jikagumi-r7by-catalog-v1",
+      "prefecture": "群馬県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "sanshoraku-junmai-standard",
+      "prefecture": "富山県",
+      "specialties": [
+        "shiroebi-himono",
+        "hotaruika-okizuke"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "sanuki-cloudy-uc9ijh",
+      "prefecture": "香川県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "sanzen-iapi9d-1",
+      "prefecture": "岡山県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "sanzen-iapi9d",
+      "prefecture": "岡山県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "sara-junmai-ginjo-namazume-current-v1",
+      "prefecture": "埼玉県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "sasaichi-yata-junmai-daiginjo-v1",
+      "prefecture": "山梨県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "sasshu-masamune-junmai",
+      "prefecture": "鹿児島県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "satsumaji-vb3g28id2",
+      "prefecture": "鹿児島県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "sawanoi-junmai-daikarakuchi-standard-v1",
+      "prefecture": "東京都",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "sawanoi-kflfjg",
+      "prefecture": "東京都",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "sawanotsuru-junmai-yamadanishiki-standard",
+      "prefecture": "兵庫県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "sawaya-matsumoto-shuhari-1",
+      "prefecture": "京都府",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "sawaya-matsumoto-shuhari-gohyakumangoku-v1",
+      "prefecture": "京都府",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "seiryozen-tokubetsu-junmai-the-plains-v1",
+      "prefecture": "愛媛県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "senbazuru-hlzg7a",
+      "prefecture": "大分県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "senkin-classic-nishiki-origarami-hiire-v1",
+      "prefecture": "栃木県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "senkin-modern-ichishiki-hiire-v1",
+      "prefecture": "栃木県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "senkin-retro-ichishiki-hiire-v1",
+      "prefecture": "栃木県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "sensuke-chokarakuchi-junmai-ginjo-genshu-ichibi-v1",
+      "prefecture": "兵庫県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "sensuke-junmai-ginjo-3",
+      "prefecture": "兵庫県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "sentoku-i3yidq",
+      "prefecture": "宮崎県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "sharaku-junmai-ginjo",
+      "prefecture": "福島県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "shichida-junmai",
+      "prefecture": "佐賀県",
+      "specialties": [
+        "yobuko-ichiyaboshi"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "shichihonyari-lvvrsw-2",
+      "prefecture": "滋賀県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "shichihonyari-muu-1800-current-v1",
+      "prefecture": "滋賀県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "shichiken-i9dko8-1",
+      "prefecture": "山梨県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "shichisui-kjnkdk",
+      "prefecture": "栃木県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "shidaizumi-junmai-ginjo-yaizu-shumai-2026-v1",
+      "prefecture": "静岡県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "shigemasu-o0fiap",
+      "prefecture": "福岡県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "shimeharitsuru-tsuki",
+      "prefecture": "新潟県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "shinkame-hdomtl-3",
+      "prefecture": "埼玉県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "shinomine-rinrin-setoomachi-junmai-ginjo-muroka-nama-genshu-v1",
+      "prefecture": "奈良県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "shinomine-takeyama-junmai-yamadanishiki-chokarakuchi-hiire-v1",
+      "prefecture": "奈良県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "shinshu-kirei-inakura-hitogokochi-junmai-ginjo-current-v1",
+      "prefecture": "長野県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "shirakiku-ginshari-tokubetsu-junmai-current-v1",
+      "prefecture": "京都府",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "shiramayumi-tokubetsu-junmai-hidahomare-standard",
+      "prefecture": "岐阜県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "shirayuki-josen-junmai-standard",
+      "prefecture": "兵庫県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "shizengo-tokubetsu-junmai-v1",
+      "prefecture": "福島県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "shosetsu-junmai-ginjo-yamadanishiki-standard-v1",
+      "prefecture": "静岡県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "shoutoku-karaku-tokubetsu-junmai-karakuchi-genshu-standard",
+      "prefecture": "京都府",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "shunnoten-i9dko8-2",
+      "prefecture": "山梨県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "shunnoten-i9dko8",
+      "prefecture": "山梨県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "sogen-genshin-junmai-daiginjo-standard-v1",
+      "prefecture": "石川県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "sogen-notonokuni-junmai-standard-v1",
+      "prefecture": "石川県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "sohomare-kimoto-tokubetsu-junmai",
+      "prefecture": "栃木県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "suehiro-yamahai-junmai-ginjo-catalog-v1",
+      "prefecture": "福島県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "sugata-kire-tokubetsu-junmai-v1",
+      "prefecture": "栃木県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "suigei-ginrei-lineup-v1",
+      "prefecture": "高知県",
+      "specialties": [
+        "katsuo-namabushi",
+        "shuto"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "suigei-junmai-daiginjo-hyogo-yamadanishiki50-v1",
+      "prefecture": "高知県",
+      "specialties": [
+        "katsuo-namabushi",
+        "shuto"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "suigei-koiku54-lineup-v1",
+      "prefecture": "高知県",
+      "specialties": [
+        "katsuo-namabushi",
+        "shuto"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "suigei-tokubetsu-junmai",
+      "prefecture": "高知県",
+      "specialties": [
+        "katsuo-namabushi",
+        "shuto"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "suishin-inaho-junmai-ginjo-standard",
+      "prefecture": "広島県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "sukigokoro-j6jhwb",
+      "prefecture": "愛媛県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "suminoe-i3yhce",
+      "prefecture": "宮城県",
+      "specialties": [
+        "hoya-chinmi",
+        "kaki-oil"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "suwaizumi-uzpgk6",
+      "prefecture": "鳥取県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "tabika-junmai-funashibori-ichikai-hiire-v1",
+      "prefecture": "三重県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "taiheizan-tenko-junmai-daiginjo-standard",
+      "prefecture": "秋田県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "taikan-i9dko8",
+      "prefecture": "山梨県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "taisetsunokura-junmai-standard",
+      "prefecture": "北海道",
+      "specialties": [
+        "matsumae-zuke"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "taiten-shiragiku-iapi9d-5",
+      "prefecture": "岡山県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "taiten-shiragiku-junmai-shiragiku-standard-v1",
+      "prefecture": "岡山県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "takachiyo-karakuchi-junmai-miyamanishiki-plus19-hiire-v1",
+      "prefecture": "新潟県",
+      "specialties": [
+        "kanzuri-shuto",
+        "tochio-aburaage"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "takaisami-uzpgk6-4",
+      "prefecture": "鳥取県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "takakiya-karakuchi-tokubetsu-junmai-v1",
+      "prefecture": "大分県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "takijiman-hayase-karakuchi-junmai-v1",
+      "prefecture": "三重県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "tamagawa-tokubetsu-junmai-v1",
+      "prefecture": "京都府",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "tamajiman-kflfjg",
+      "prefecture": "東京都",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "tamanohikari-junmai-ginjo-shukon-standard",
+      "prefecture": "京都府",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "tanaka65-hiire-1800-current-v1",
+      "prefecture": "福岡県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "tanigawadake-p7oucs",
+      "prefecture": "群馬県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "tanizakura-i9dko8-3",
+      "prefecture": "山梨県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "tanzawasan-shuho-v1",
+      "prefecture": "神奈川県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "tatenokawa-kyuryu",
+      "prefecture": "山形県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "tatenokawa-seiryu",
+      "prefecture": "山形県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "tateyama-i4si9d",
+      "prefecture": "富山県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "tedorigawa-yamahai-junmai",
+      "prefecture": "石川県",
+      "specialties": [
+        "fugu-nukazuke"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "tenbi-junmai-ginjo",
+      "prefecture": "山口県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "tenbu-junmai-daiginjo",
+      "prefecture": "鹿児島県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "tenbu-junmai-ginjo-uzen-sakemirai-v1",
+      "prefecture": "鹿児島県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "tenbu-junmai-v1",
+      "prefecture": "鹿児島県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "tenbu-vb3g28id2",
+      "prefecture": "鹿児島県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "tengumai-umajun-lineup-v1",
+      "prefecture": "石川県",
+      "specialties": [
+        "kabura-zushi",
+        "fugu-nukazuke"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "tengumai-yamahai-junmai-3",
+      "prefecture": "石川県",
+      "specialties": [
+        "kabura-zushi"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "tengumai-yamahai-junmai",
+      "prefecture": "石川県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "tenjinbayashi-tokubetsu-honjozo-catalog-v1",
+      "prefecture": "新潟県",
+      "specialties": [
+        "kanzuri-shuto",
+        "tochio-aburaage"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "tenkanishiki-fexsst",
+      "prefecture": "三重県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "tenmei-orange-funashibori-junmai-hiire-standard-v1",
+      "prefecture": "福島県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "tenon-junmai-standard-ichikai-hiire-v1",
+      "prefecture": "島根県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "tenryo-tobikiri-tokubetsu-junmai",
+      "prefecture": "岐阜県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "tokachi-tokubetsu-junmai-suisei-current-v1",
+      "prefecture": "北海道",
+      "specialties": [
+        "matsumae-zuke"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "tomio-gion-komachi-junmai-ginjo-standard",
+      "prefecture": "京都府",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "tonbo-tokubetsu-junmai-standard-v1",
+      "prefecture": "福岡県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "tonegawa-sodachi-junmai-ginjo-catalog-v1",
+      "prefecture": "群馬県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "tosa-shiragiku-ul4nol",
+      "prefecture": "高知県",
+      "specialties": [
+        "katsuo-namabushi"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "tosa-shiragiku-zankara-tokubetsu-junmai-standard-v1",
+      "prefecture": "高知県",
+      "specialties": [
+        "katsuo-namabushi",
+        "shuto"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "tosatsuru-honzo-karakuchi-standard",
+      "prefecture": "高知県",
+      "specialties": [
+        "katsuo-namabushi",
+        "shuto"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "toyobijin-junmai-ginjo-50-standard-v1",
+      "prefecture": "山口県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "toyonoaki-junmai-ginjo-matsuezukushi-standard",
+      "prefecture": "島根県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "tsuchida-kimoto",
+      "prefecture": "群馬県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "tsujun-semi-junmai-ginjo-standard",
+      "prefecture": "熊本県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "tsukasabotan-niyodo-blue-junmai-standard",
+      "prefecture": "高知県",
+      "specialties": [
+        "katsuo-namabushi",
+        "shuto"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "tsuki-no-katsura-fjg",
+      "prefecture": "京都府",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "tsuki-no-wa-iaxjez",
+      "prefecture": "岩手県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "ubusuna-yamada-nishiki-ninojo-2025-nama-v1",
+      "prefecture": "熊本県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "ugonotsuki-junmai-ginjo-1",
+      "prefecture": "広島県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "ugonotsuki-junmai-ginjo",
+      "prefecture": "広島県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "umebijin-junmai-ginjo-sakurahime-standard",
+      "prefecture": "愛媛県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "umenishiki-ginjo-tsuunosake-v1",
+      "prefecture": "愛媛県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "umenishiki-j6jhwb",
+      "prefecture": "愛媛県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "umenoyado-junmai-3",
+      "prefecture": "奈良県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "umenoyado-junmai",
+      "prefecture": "奈良県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "uonuma-junmai-lineup-v1",
+      "prefecture": "新潟県",
+      "specialties": [
+        "kanzuri-shuto",
+        "tochio-aburaage"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "urakasumi-honshikomi-lineup-v1",
+      "prefecture": "宮城県",
+      "specialties": [
+        "sasa-kamaboko"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "urakasumi-i3yhce",
+      "prefecture": "宮城県",
+      "specialties": [
+        "kaki-oil",
+        "hoya-chinmi"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "urakasumi-karakuchi-lineup-v1",
+      "prefecture": "宮城県",
+      "specialties": [
+        "hoya-chinmi",
+        "kaki-oil"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "urakasumi-zen-lineup-v1",
+      "prefecture": "宮城県",
+      "specialties": [
+        "hoya-chinmi",
+        "sasa-kamaboko"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "utouto-junmai-catalog-v1",
+      "prefecture": "香川県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "wakabotan-hatcho-hinohikari-v1",
+      "prefecture": "大分県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "wakabotan-hlzg7a",
+      "prefecture": "大分県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "wakaze-the-classic-yamagata-v1",
+      "prefecture": "山形県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "wakitaya-tokubetsu-honjozo-catalog-v1",
+      "prefecture": "静岡県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "waraijogo-junmai-daiginjo-catalog-v1",
+      "prefecture": "岐阜県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "warakugoson-junmai-ginjo-standard",
+      "prefecture": "新潟県",
+      "specialties": [
+        "kanzuri-shuto",
+        "tochio-aburaage"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "wataribune-pwohce",
+      "prefecture": "茨城県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "yamagata-masamune-i9diua",
+      "prefecture": "山形県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "yamamoto-pure-black",
+      "prefecture": "秋田県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "yamatan-masamune-j6jhwb-2",
+      "prefecture": "愛媛県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "yamatan-masamune-j6jhwb",
+      "prefecture": "愛媛県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "yatsushika-hlzg7a",
+      "prefecture": "大分県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "yoakemae-tatsuno-junmai",
+      "prefecture": "長野県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "yokoyama-silver7-namazume-v1",
+      "prefecture": "長崎県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "yokoyama-tividq-2",
+      "prefecture": "長崎県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "yorokobi-gaijin-tezukuri-junmai-hiire-standard-v1",
+      "prefecture": "香川県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "yui-omachi-junmai-ginjo-chokarakuchi-raifuku-v1",
+      "prefecture": "茨城県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "yuki-no-bosha-junmai-ginjo",
+      "prefecture": "秋田県",
+      "specialties": [
+        "gibasa"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "zaku-miyabi-no-tomo-2",
+      "prefecture": "三重県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "zaku-miyabi-no-tomo",
+      "prefecture": "三重県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "zao-junmai-ginjo-catalog-v1",
+      "prefecture": "宮城県",
+      "specialties": [
+        "hoya-chinmi",
+        "sasa-kamaboko"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "zaru-so-hourai-junmai-green-v1",
+      "prefecture": "神奈川県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "zarusou-hourai-nz2hmwijh",
+      "prefecture": "神奈川県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "zuiyo-honjozo-chokarakuchi-v1",
+      "prefecture": "熊本県",
+      "specialties": [],
+      "passed": true
+    },
+    {
+      "sakeId": "zuiyo-mfekdo",
+      "prefecture": "熊本県",
+      "specialties": [],
+      "passed": true
+    }
+  ],
+  "passed": true
+}

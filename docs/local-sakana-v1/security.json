@@ -1,0 +1,22 @@
+{
+  "checkedAt": "2026-10-22T10:24:45.209Z",
+  "scan": {
+    "scannedFiles": 8991,
+    "unreadableFiles": 0,
+    "findings": [],
+    "passed": true,
+    "configuredValuesChecked": [
+      "RAKUTEN_APPLICATION_ID",
+      "RAKUTEN_ACCESS_KEY",
+      "RAKUTEN_AFFILIATE_ID"
+    ],
+    "limitation": null
+  },
+  "envIgnored": true,
+  "envTracked": false,
+  "dependencyUpdates": false,
+  "cspChanged": false,
+  "backgroundScheduleAdded": false,
+  "sourceDiffWhitespacePassed": true,
+  "passed": true
+}

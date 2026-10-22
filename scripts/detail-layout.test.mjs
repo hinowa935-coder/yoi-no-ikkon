@@ -5,6 +5,7 @@ import {createHash} from 'node:crypto';
 import {detailSourceLabel,detailReferences} from '../src/data/detailPresentation.js';
 import {allSakePairings,buildResourceLinks,visibleSakePairings} from '../src/data/siteData.js';
 import {reviewedDetailLayout} from './lib/reviewed-detail-layout.mjs';
+import {reviewedLocalSakanaFile} from './lib/reviewed-local-sakana.mjs';
 const read=f=>fs.readFileSync(new URL('../'+f,import.meta.url),'utf8'),json=f=>JSON.parse(read(f)),hash=v=>createHash('sha256').update(v).digest('hex');
 const page=read('src/app/sake/[slug]/page.jsx');
 test('detail sections follow identity, image, taste, specs, purchase, sources, dishes, nights, share',()=>{
@@ -45,7 +46,7 @@ test('every existing product/source URL survives the display-only deduplication'
 });
 test('existing data, commerce, PWA and other application files have not changed',()=>{
  const allowed=new Set(['src/app/sake/[slug]/page.jsx','src/app/globals.css']);
- for(const r of json('docs/detail-layout/baseline.json').files)if(!allowed.has(r.path))assert.equal(hash(fs.readFileSync(new URL('../'+r.path,import.meta.url))),r.sha256,r.path);
+ for(const r of json('docs/detail-layout/baseline.json').files)if(!allowed.has(r.path)){const actual=hash(fs.readFileSync(new URL('../'+r.path,import.meta.url)));assert(actual===r.sha256||reviewedLocalSakanaFile(r.path,r.sha256,actual),r.path);}
  assert.equal(visibleSakePairings.length,484);
 });
 test('historical guard accepts only the exact authorized two-file presentation changes',()=>{
