@@ -467,16 +467,16 @@
       "prefecture": "福井県",
       "specialtyId": "heshiko",
       "confidence": "medium",
-      "pairingReason": "へしこの塩気と、この酒の「氷温熟成」を重ねて。ひと口ずつ、余韻を確かめる夜に。",
+      "pairingReason": "へしこの塩気を少しずつ。この酒の「芳醇旨口」と重ねて、肴と酒の味わいをゆっくり楽しむなら。",
       "evidenceType": "editorialPairing",
       "displayOrder": 1,
       "sakeEvidence": {
-        "axis": "fermented",
-        "feature": "氷温熟成",
+        "axis": "umami",
+        "feature": "芳醇旨口",
         "sourceUrl": "https://www.born.co.jp/product/gold/",
         "sourceType": "breweryOfficial",
         "verifiedAt": "2026-10-03",
-        "meaning": "対象商品に一年までの氷温熟成酒をブレンドすると記載。"
+        "meaning": "対象商品ページの味わい表記を使用。"
       },
       "specialtyEvidence": {
         "feature": "塩気",
@@ -798,9 +798,9 @@
     {
       "sakeId": "otokoyama-kimoto-junmai",
       "prefecture": "北海道",
-      "specialtyId": "sake-toba",
+      "specialtyId": "matsumae-zuke",
       "confidence": "medium",
-      "pairingReason": "鮭とばの鮭の旨味は控えめな量から。酒の「辛口」との違いを楽しみたい組み合わせです。",
+      "pairingReason": "松前漬けのするめと昆布の旨味は控えめな量から。酒の「辛口」との違いを楽しみたい組み合わせです。",
       "evidenceType": "editorialPairing",
       "displayOrder": 1,
       "sakeEvidence": {
@@ -812,11 +812,11 @@
         "meaning": "対象商品の味わい表記は辛口。"
       },
       "specialtyEvidence": {
-        "feature": "鮭の旨味",
-        "meaning": "塩や調味料を加えて干した北海道の鮭。噛むほどに旨味を味わう肴です。",
+        "feature": "するめと昆布の旨味",
+        "meaning": "するめと昆布を醤油だれに漬ける道南の保存食。数の子の歯ざわりも楽しめます。",
         "sourceUrls": [
-          "https://www.maff.go.jp/j/keikaku/syokubunka/traditional-foods/menu/saketoba.html",
-          "https://item.rakuten.co.jp/kitanomachi/saketoba_100g/"
+          "https://www.maff.go.jp/j/keikaku/syokubunka/traditional-foods/menu/matumaezuke.html",
+          "https://item.rakuten.co.jp/otaru/10000012/"
         ],
         "provenance": "officialFoodDescriptionAndRetailProduct"
       },
@@ -1551,36 +1551,6 @@
       "checkedAt": "2026-10-22"
     },
     {
-      "sakeId": "hanagaki-o0ffit",
-      "prefecture": "福井県",
-      "specialtyId": "heshiko",
-      "confidence": "medium",
-      "pairingReason": "へしこの塩気と、この酒の「山廃」を重ねて。ひと口ずつ、余韻を確かめる夜に。",
-      "evidenceType": "editorialPairing",
-      "displayOrder": 1,
-      "sakeEvidence": {
-        "axis": "fermented",
-        "feature": "山廃",
-        "sourceUrl": "https://hanagaki-store.com/collections/nihonshu/products/hanagaki-yamahaijunmai",
-        "sourceType": "breweryOfficial",
-        "verifiedAt": "2026-10-03",
-        "meaning": "対象商品の山廃仕込みを記載。"
-      },
-      "specialtyEvidence": {
-        "feature": "塩気",
-        "meaning": "魚を塩とぬかで漬ける福井の保存食、へしこ。薄切りを少しずつ味わいます。",
-        "sourceUrls": [
-          "https://www.maff.go.jp/j/keikaku/syokubunka/traditional-foods/menu/hesiko.html",
-          "https://item.rakuten.co.jp/echizengani/t05-02/"
-        ],
-        "provenance": "officialFoodDescriptionAndRetailProduct"
-      },
-      "officialPairing": false,
-      "communityPairing": false,
-      "editorialPairing": true,
-      "checkedAt": "2026-10-22"
-    },
-    {
       "sakeId": "kagatsuru-junmai-josen-standard",
       "prefecture": "石川県",
       "specialtyId": "fugu-nukazuke",
@@ -2069,36 +2039,6 @@
       "checkedAt": "2026-10-22"
     },
     {
-      "sakeId": "hakkaisan-tokubetsu-honjozo-1",
-      "prefecture": "新潟県",
-      "specialtyId": "tochio-aburaage",
-      "confidence": "medium",
-      "pairingReason": "栃尾の油揚げの香ばしさと、この酒の「三年熟成」を重ねて。ひと口ずつ、余韻を確かめる夜に。",
-      "evidenceType": "editorialPairing",
-      "displayOrder": 1,
-      "sakeEvidence": {
-        "axis": "fermented",
-        "feature": "三年熟成",
-        "sourceUrl": "https://www.hakkaisan.co.jp/sake/yukimurocyozousyu/",
-        "sourceType": "breweryOfficial",
-        "verifiedAt": "2026-10-03",
-        "meaning": "L18・L21"
-      },
-      "specialtyEvidence": {
-        "feature": "香ばしさ",
-        "meaning": "厚みのある油揚げ。軽く焼いて、香ばしさと弾力を楽しむ栃尾の味。",
-        "sourceUrls": [
-          "https://niigata-kankou.or.jp/spot/detail_5820.html",
-          "https://item.rakuten.co.jp/niigata-shop/0148-001-02/"
-        ],
-        "provenance": "officialFoodDescriptionAndRetailProduct"
-      },
-      "officialPairing": false,
-      "communityPairing": false,
-      "editorialPairing": true,
-      "checkedAt": "2026-10-22"
-    },
-    {
       "sakeId": "sanshoraku-junmai-standard",
       "prefecture": "富山県",
       "specialtyId": "shiroebi-himono",
@@ -2344,16 +2284,16 @@
       "prefecture": "福井県",
       "specialtyId": "heshiko",
       "confidence": "medium",
-      "pairingReason": "へしこの塩気と、この酒の「熟成酒ブレンド」を重ねて。ひと口ずつ、余韻を確かめる夜に。",
+      "pairingReason": "へしこの塩気を少しずつ。この酒の「芳醇旨口」と重ねて、肴と酒の味わいをゆっくり楽しむなら。",
       "evidenceType": "editorialPairing",
       "displayOrder": 1,
       "sakeEvidence": {
-        "axis": "fermented",
-        "feature": "熟成酒ブレンド",
+        "axis": "umami",
+        "feature": "芳醇旨口",
         "sourceUrl": "https://www.born.co.jp/product/junsui/",
         "sourceType": "breweryOfficial",
         "verifiedAt": "2026-10-03",
-        "meaning": "L22を短縮"
+        "meaning": "L17"
       },
       "specialtyEvidence": {
         "feature": "塩気",

@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-10-22T10:24:37.577Z",
+  "checkedAt": "2026-10-22T10:53:58.186Z",
   "pages": 1250,
   "activeDetails": 484,
   "internalLinks": 20489,
@@ -596,9 +596,7 @@
     {
       "sakeId": "hakkaisan-tokubetsu-honjozo-1",
       "prefecture": "新潟県",
-      "specialties": [
-        "tochio-aburaage"
-      ],
+      "specialties": [],
       "passed": true
     },
     {
@@ -674,9 +672,7 @@
     {
       "sakeId": "hanagaki-o0ffit",
       "prefecture": "福井県",
-      "specialties": [
-        "heshiko"
-      ],
+      "specialties": [],
       "passed": true
     },
     {
@@ -2141,7 +2137,7 @@
       "sakeId": "otokoyama-kimoto-junmai",
       "prefecture": "北海道",
       "specialties": [
-        "sake-toba",
+        "matsumae-zuke",
         "ika-meshi"
       ],
       "passed": true

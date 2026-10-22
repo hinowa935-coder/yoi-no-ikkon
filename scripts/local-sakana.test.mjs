@@ -37,6 +37,7 @@ test('every pairing is SKU-specific, sourced, editorial, and compatible with the
   assert.equal(p.evidenceType,'editorialPairing');assert.equal(p.officialPairing,false);assert.equal(p.communityPairing,false);
   assert(item.sakeResearch.featureEvidence.some(e=>e.feature===p.sakeEvidence.feature&&e.sourceUrl===p.sakeEvidence.sourceUrl));
   assert(item.sakeResearch.verifiedFeatureTags.includes(p.sakeEvidence.feature));assert(s.pairingTags.includes(p.sakeEvidence.axis));assert(p.pairingReason.includes(p.sakeEvidence.feature)&&p.pairingReason.includes(s.name));assert(p.pairingReason.length<200);
+  assert(!/^(?:生酛|山廃|氷温熟成|三年熟成|熟成酒ブレンド)$/.test(p.sakeEvidence.feature),'Method alone is not a taste');
  }
 });
 test('same county is not sufficient, low is hidden, no duplicates, max three, empty sections are omitted',()=>{

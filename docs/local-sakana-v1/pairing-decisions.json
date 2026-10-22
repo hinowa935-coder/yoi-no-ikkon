@@ -408,19 +408,10 @@
       "sakeId": "koshino-kanbai-white-label",
       "name": "越乃寒梅 白ラベル",
       "prefecture": "新潟県",
-      "sensoryEvidence": [
-        {
-          "axis": "fermented",
-          "feature": "熟成",
-          "sourceUrl": "https://koshinokanbai.co.jp/products/whitelabel",
-          "sourceType": "breweryOfficial",
-          "verifiedAt": "2026-10-03",
-          "meaning": "対象商品の味わい説明に六か月以上の熟成を記載。"
-        }
-      ],
+      "sensoryEvidence": [],
       "selected": [],
       "status": "HELD",
-      "reason": "NO_COMPATIBLE_NONOVERLAPPING_FOOD",
+      "reason": "INSUFFICIENT_SAKE_TASTE_EVIDENCE",
       "overlapExcluded": [
         "tochio-aburaage"
       ]
@@ -455,12 +446,12 @@
       "prefecture": "福井県",
       "sensoryEvidence": [
         {
-          "axis": "fermented",
-          "feature": "氷温熟成",
+          "axis": "umami",
+          "feature": "芳醇旨口",
           "sourceUrl": "https://www.born.co.jp/product/gold/",
           "sourceType": "breweryOfficial",
           "verifiedAt": "2026-10-03",
-          "meaning": "対象商品に一年までの氷温熟成酒をブレンドすると記載。"
+          "meaning": "対象商品ページの味わい表記を使用。"
         },
         {
           "axis": "aroma",
@@ -544,14 +535,6 @@
       "prefecture": "石川県",
       "sensoryEvidence": [
         {
-          "axis": "fermented",
-          "feature": "山廃",
-          "sourceUrl": "https://www.kikuhime.co.jp/products/%E5%B1%B1%E5%BB%83%E7%B4%94%E7%B1%B3/",
-          "sourceType": "breweryOfficial",
-          "verifiedAt": "2026-10-03",
-          "meaning": "対象商品の酒母欄は山廃。"
-        },
-        {
           "axis": "umami",
           "feature": "濃醇",
           "sourceUrl": "https://www.kikuhime.co.jp/products/%E5%B1%B1%E5%BB%83%E7%B4%94%E7%B1%B3/",
@@ -614,28 +597,12 @@
       "prefecture": "石川県",
       "sensoryEvidence": [
         {
-          "axis": "fermented",
-          "feature": "山廃",
-          "sourceUrl": "https://www.tengumai.co.jp/products/daiginjo/33.html",
-          "sourceType": "breweryOfficial",
-          "verifiedAt": "2026-10-03",
-          "meaning": "対象商品は山廃酒母造りと記載。"
-        },
-        {
           "axis": "aroma",
           "feature": "芳醇",
           "sourceUrl": "https://www.tengumai.co.jp/products/daiginjo/33.html",
           "sourceType": "breweryOfficial",
           "verifiedAt": "2026-10-03",
           "meaning": "対象商品の風味を芳醇と紹介。"
-        },
-        {
-          "axis": "fermented",
-          "feature": "熟成",
-          "sourceUrl": "https://www.tengumai.co.jp/products/daiginjo/33.html",
-          "sourceType": "breweryOfficial",
-          "verifiedAt": "2026-10-03",
-          "meaning": "対象商品は熟成による色も楽しめると説明。"
         }
       ],
       "selected": [],
@@ -747,14 +714,6 @@
       "prefecture": "北海道",
       "sensoryEvidence": [
         {
-          "axis": "fermented",
-          "feature": "生酛",
-          "sourceUrl": "https://www.otokoyama.com/lineup/category01/",
-          "sourceType": "breweryOfficial",
-          "verifiedAt": "2026-10-03",
-          "meaning": "生酛純米の項目に伝統的な生酛製法を記載。"
-        },
-        {
           "axis": "aroma",
           "feature": "芳醇",
           "sourceUrl": "https://www.otokoyama.com/lineup/category01/",
@@ -772,7 +731,7 @@
         }
       ],
       "selected": [
-        "sake-toba",
+        "matsumae-zuke",
         "ika-meshi"
       ],
       "status": "EDITORIAL_MATCH",
@@ -1288,22 +1247,6 @@
       "prefecture": "福井県",
       "sensoryEvidence": [
         {
-          "axis": "fermented",
-          "feature": "山廃",
-          "sourceUrl": "https://hanagaki-store.com/collections/nihonshu/products/hanagaki-yamahaijunmai",
-          "sourceType": "breweryOfficial",
-          "verifiedAt": "2026-10-03",
-          "meaning": "対象商品の山廃仕込みを記載。"
-        },
-        {
-          "axis": "fermented",
-          "feature": "熟成",
-          "sourceUrl": "https://hanagaki-store.com/collections/nihonshu/products/hanagaki-yamahaijunmai",
-          "sourceType": "breweryOfficial",
-          "verifiedAt": "2026-10-03",
-          "meaning": "対象商品は上槽後十八か月以上熟成すると明記。"
-        },
-        {
           "axis": "sweet",
           "feature": "濃厚な甘み",
           "sourceUrl": "https://hanagaki-store.com/collections/nihonshu/products/hanagaki-yamahaijunmai",
@@ -1312,11 +1255,9 @@
           "meaning": "対象商品の熟成から生まれる甘みを説明。"
         }
       ],
-      "selected": [
-        "heshiko"
-      ],
-      "status": "EDITORIAL_MATCH",
-      "reason": null,
+      "selected": [],
+      "status": "HELD",
+      "reason": "NO_COMPATIBLE_NONOVERLAPPING_FOOD",
       "overlapExcluded": []
     },
     {
@@ -1663,21 +1604,10 @@
       "sakeId": "hakkaisan-tokubetsu-honjozo-1",
       "name": "純米大吟醸 八海山 雪室貯蔵三年",
       "prefecture": "新潟県",
-      "sensoryEvidence": [
-        {
-          "axis": "fermented",
-          "feature": "三年熟成",
-          "sourceUrl": "https://www.hakkaisan.co.jp/sake/yukimurocyozousyu/",
-          "sourceType": "breweryOfficial",
-          "verifiedAt": "2026-10-03",
-          "meaning": "L18・L21"
-        }
-      ],
-      "selected": [
-        "tochio-aburaage"
-      ],
-      "status": "EDITORIAL_MATCH",
-      "reason": null,
+      "sensoryEvidence": [],
+      "selected": [],
+      "status": "HELD",
+      "reason": "INSUFFICIENT_SAKE_TASTE_EVIDENCE",
       "overlapExcluded": []
     },
     {
@@ -1781,14 +1711,6 @@
           "sourceType": "breweryOfficial",
           "verifiedAt": "2026-10-03",
           "meaning": "対象商品L75"
-        },
-        {
-          "axis": "fermented",
-          "feature": "山廃",
-          "sourceUrl": "https://tengumai.jp/SHOP/TG-001.html",
-          "sourceType": "breweryOfficial",
-          "verifiedAt": "2026-10-03",
-          "meaning": "対象商品L74・L75"
         }
       ],
       "selected": [
@@ -1863,7 +1785,7 @@
       "prefecture": "福井県",
       "sensoryEvidence": [
         {
-          "axis": "aroma",
+          "axis": "umami",
           "feature": "芳醇旨口",
           "sourceUrl": "https://www.born.co.jp/product/junsui/",
           "sourceType": "breweryOfficial",
@@ -1871,12 +1793,12 @@
           "meaning": "L17"
         },
         {
-          "axis": "fermented",
-          "feature": "熟成酒ブレンド",
+          "axis": "aroma",
+          "feature": "芳醇旨口",
           "sourceUrl": "https://www.born.co.jp/product/junsui/",
           "sourceType": "breweryOfficial",
           "verifiedAt": "2026-10-03",
-          "meaning": "L22を短縮"
+          "meaning": "L17"
         }
       ],
       "selected": [

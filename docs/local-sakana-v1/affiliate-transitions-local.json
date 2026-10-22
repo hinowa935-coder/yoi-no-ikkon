@@ -1,0 +1,227 @@
+{
+  "checkedAt": "2026-10-22T10:44:52.779Z",
+  "rows": [
+    {
+      "specialtyId": "tochio-aburaage",
+      "itemCode": "niigata-shop:10001270",
+      "normalUrl": "https://item.rakuten.co.jp/niigata-shop/0148-001-02/",
+      "formalCreativeUrlUnchanged": true,
+      "state": "CORRECT_ITEM_DESTINATION",
+      "passed": true,
+      "purchasePerformed": false,
+      "cartActionPerformed": false
+    },
+    {
+      "specialtyId": "kanzuri-shuto",
+      "itemCode": "auc-kusanoya:10000049",
+      "normalUrl": "https://item.rakuten.co.jp/auc-kusanoya/kanzurisyu/",
+      "formalCreativeUrlUnchanged": true,
+      "state": "CORRECT_ITEM_DESTINATION",
+      "passed": true,
+      "purchasePerformed": false,
+      "cartActionPerformed": false
+    },
+    {
+      "specialtyId": "sasa-kamaboko",
+      "itemCode": "sasanao-sasanao:10000008",
+      "normalUrl": "https://item.rakuten.co.jp/sasanao-sasanao/item-13/",
+      "formalCreativeUrlUnchanged": true,
+      "state": "CORRECT_ITEM_DESTINATION",
+      "passed": true,
+      "purchasePerformed": false,
+      "cartActionPerformed": false
+    },
+    {
+      "specialtyId": "hoya-chinmi",
+      "itemCode": "auc-de-mer:10000275",
+      "normalUrl": "https://item.rakuten.co.jp/auc-de-mer/10180302/",
+      "formalCreativeUrlUnchanged": true,
+      "state": "CORRECT_ITEM_DESTINATION",
+      "passed": true,
+      "purchasePerformed": false,
+      "cartActionPerformed": false
+    },
+    {
+      "specialtyId": "kaki-oil",
+      "itemCode": "tsutsu-uraura:10012412",
+      "normalUrl": "https://item.rakuten.co.jp/tsutsu-uraura/kinoya-kaki115-3s/",
+      "formalCreativeUrlUnchanged": true,
+      "state": "CORRECT_ITEM_DESTINATION",
+      "passed": true,
+      "purchasePerformed": false,
+      "cartActionPerformed": false
+    },
+    {
+      "specialtyId": "iburigakko",
+      "itemCode": "1010kanekyu:10000467",
+      "normalUrl": "https://item.rakuten.co.jp/1010kanekyu/1001/",
+      "formalCreativeUrlUnchanged": true,
+      "state": "CORRECT_ITEM_DESTINATION",
+      "passed": true,
+      "purchasePerformed": false,
+      "cartActionPerformed": false
+    },
+    {
+      "specialtyId": "gibasa",
+      "itemCode": "tucano:10001081",
+      "normalUrl": "https://item.rakuten.co.jp/tucano/10000977-1/",
+      "formalCreativeUrlUnchanged": true,
+      "state": "CORRECT_ITEM_DESTINATION",
+      "passed": true,
+      "purchasePerformed": false,
+      "cartActionPerformed": false
+    },
+    {
+      "specialtyId": "kabura-zushi",
+      "itemCode": "kabura:10000015",
+      "normalUrl": "https://item.rakuten.co.jp/kabura/kabura-1112/",
+      "formalCreativeUrlUnchanged": true,
+      "state": "CORRECT_ITEM_DESTINATION",
+      "passed": true,
+      "purchasePerformed": false,
+      "cartActionPerformed": false
+    },
+    {
+      "specialtyId": "fugu-nukazuke",
+      "itemCode": "yasushin:10000000",
+      "normalUrl": "https://item.rakuten.co.jp/yasushin/fugunoko-nuka01/",
+      "formalCreativeUrlUnchanged": true,
+      "state": "CORRECT_ITEM_DESTINATION",
+      "passed": true,
+      "purchasePerformed": false,
+      "cartActionPerformed": false
+    },
+    {
+      "specialtyId": "matsumae-zuke",
+      "itemCode": "otaru:10000012",
+      "normalUrl": "https://item.rakuten.co.jp/otaru/10000012/",
+      "formalCreativeUrlUnchanged": true,
+      "state": "CORRECT_ITEM_DESTINATION",
+      "passed": true,
+      "purchasePerformed": false,
+      "cartActionPerformed": false
+    },
+    {
+      "specialtyId": "sake-toba",
+      "itemCode": "kitanomachi:10000389",
+      "normalUrl": "https://item.rakuten.co.jp/kitanomachi/saketoba_100g/",
+      "formalCreativeUrlUnchanged": true,
+      "state": "CORRECT_ITEM_DESTINATION",
+      "passed": true,
+      "purchasePerformed": false,
+      "cartActionPerformed": false
+    },
+    {
+      "specialtyId": "ika-meshi",
+      "itemCode": "senka-land:10002853",
+      "normalUrl": "https://item.rakuten.co.jp/senka-land/4582102770105/",
+      "formalCreativeUrlUnchanged": true,
+      "state": "CORRECT_ITEM_DESTINATION",
+      "passed": true,
+      "purchasePerformed": false,
+      "cartActionPerformed": false
+    },
+    {
+      "specialtyId": "saga-nori",
+      "itemCode": "karatsu-iwamoto:10000341",
+      "normalUrl": "https://item.rakuten.co.jp/karatsu-iwamoto/yakinori-01/",
+      "formalCreativeUrlUnchanged": true,
+      "state": "CORRECT_ITEM_DESTINATION",
+      "passed": true,
+      "purchasePerformed": false,
+      "cartActionPerformed": false
+    },
+    {
+      "specialtyId": "yobuko-ichiyaboshi",
+      "itemCode": "yobuko-manbou:10000226",
+      "normalUrl": "https://item.rakuten.co.jp/yobuko-manbou/50003/",
+      "formalCreativeUrlUnchanged": true,
+      "state": "CORRECT_ITEM_DESTINATION",
+      "passed": true,
+      "purchasePerformed": false,
+      "cartActionPerformed": false
+    },
+    {
+      "specialtyId": "ika-shumai",
+      "itemCode": "yobuko-manbou:10000003",
+      "normalUrl": "https://item.rakuten.co.jp/yobuko-manbou/10000003/",
+      "formalCreativeUrlUnchanged": true,
+      "state": "CORRECT_ITEM_DESTINATION",
+      "passed": true,
+      "purchasePerformed": false,
+      "cartActionPerformed": false
+    },
+    {
+      "specialtyId": "shuto",
+      "itemCode": "auc-tosauma:10000294",
+      "normalUrl": "https://item.rakuten.co.jp/auc-tosauma/syutou_karakuchi/",
+      "formalCreativeUrlUnchanged": true,
+      "state": "CORRECT_ITEM_DESTINATION",
+      "passed": true,
+      "purchasePerformed": false,
+      "cartActionPerformed": false
+    },
+    {
+      "specialtyId": "katsuo-namabushi",
+      "itemCode": "moritokuzo:10002900",
+      "normalUrl": "https://item.rakuten.co.jp/moritokuzo/takeuchi-namabushi-01/",
+      "formalCreativeUrlUnchanged": true,
+      "state": "CORRECT_ITEM_DESTINATION",
+      "passed": true,
+      "purchasePerformed": false,
+      "cartActionPerformed": false
+    },
+    {
+      "specialtyId": "hotaruika-okizuke",
+      "itemCode": "shokuhin-chokusou:10003115",
+      "normalUrl": "https://item.rakuten.co.jp/shokuhin-chokusou/62011925/",
+      "formalCreativeUrlUnchanged": true,
+      "state": "CORRECT_ITEM_DESTINATION",
+      "passed": true,
+      "purchasePerformed": false,
+      "cartActionPerformed": false
+    },
+    {
+      "specialtyId": "shiroebi-himono",
+      "itemCode": "hamaura:10000042",
+      "normalUrl": "https://item.rakuten.co.jp/hamaura/shiraebi_suboshi-mon/",
+      "formalCreativeUrlUnchanged": true,
+      "state": "CORRECT_ITEM_DESTINATION",
+      "passed": true,
+      "purchasePerformed": false,
+      "cartActionPerformed": false
+    },
+    {
+      "specialtyId": "hotaruika-himono",
+      "itemCode": "hamaura:10000031",
+      "normalUrl": "https://item.rakuten.co.jp/hamaura/hotaruika_suboshi2-mon/",
+      "formalCreativeUrlUnchanged": true,
+      "state": "CORRECT_ITEM_DESTINATION",
+      "passed": true,
+      "purchasePerformed": false,
+      "cartActionPerformed": false
+    },
+    {
+      "specialtyId": "heshiko",
+      "itemCode": "echizengani:10000063",
+      "normalUrl": "https://item.rakuten.co.jp/echizengani/t05-02/",
+      "formalCreativeUrlUnchanged": true,
+      "state": "CORRECT_ITEM_DESTINATION",
+      "passed": true,
+      "purchasePerformed": false,
+      "cartActionPerformed": false
+    },
+    {
+      "specialtyId": "kodai-sasazuke",
+      "itemCode": "g-callshop:10006518",
+      "normalUrl": "https://item.rakuten.co.jp/g-callshop/43915/",
+      "formalCreativeUrlUnchanged": true,
+      "state": "CORRECT_ITEM_DESTINATION",
+      "passed": true,
+      "purchasePerformed": false,
+      "cartActionPerformed": false
+    }
+  ],
+  "complete": true,
+  "passed": true
+}

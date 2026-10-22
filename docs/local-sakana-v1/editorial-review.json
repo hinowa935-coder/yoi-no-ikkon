@@ -1,0 +1,44 @@
+{
+  "checkedAt": "2026-10-22T10:46:55.270Z",
+  "before": {
+    "pairings": 181,
+    "displaySake": 107,
+    "hiddenSake": 31
+  },
+  "after": {
+    "pairings": 179,
+    "displaySake": 105,
+    "hiddenSake": 33
+  },
+  "removed": [
+    {
+      "sakeId": "born-gold",
+      "feature": "氷温熟成"
+    },
+    {
+      "sakeId": "hanagaki-o0ffit",
+      "feature": "山廃"
+    },
+    {
+      "sakeId": "hakkaisan-tokubetsu-honjozo-1",
+      "feature": "三年熟成"
+    },
+    {
+      "sakeId": "born-gold-2",
+      "feature": "熟成酒ブレンド"
+    }
+  ],
+  "reason": "Four method-only reasons withdrawn. Two pairs re-assessed using the existing directly sourced taste phrase; other two hidden. No new Verified interpretation stored.",
+  "beforePromotion": true,
+  "verifiedDataChanged": false,
+  "tasteBasedReplacement": [
+    {
+      "sakeId": "born-gold",
+      "feature": "芳醇旨口"
+    },
+    {
+      "sakeId": "born-gold-2",
+      "feature": "芳醇旨口"
+    }
+  ]
+}

@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-10-22T10:32:30.642Z",
+  "checkedAt": "2026-10-22T10:56:57.293Z",
   "base": "http://127.0.0.1:3197",
   "rows": [
     {
@@ -649,7 +649,7 @@
       "width": 390,
       "sakeId": "otokoyama-kimoto-junmai",
       "specialties": [
-        "sake-toba",
+        "matsumae-zuke",
         "ika-meshi"
       ],
       "images": [
@@ -903,90 +903,6 @@
       "specialties": [
         "gibasa",
         "iburigakko"
-      ],
-      "images": [
-        {
-          "naturalWidth": 240,
-          "naturalHeight": 240,
-          "width": 240,
-          "height": 240,
-          "visible": "visible",
-          "opacity": "1",
-          "host": "hbb.afl.rakuten.co.jp"
-        },
-        {
-          "naturalWidth": 240,
-          "naturalHeight": 240,
-          "width": 240,
-          "height": 240,
-          "visible": "visible",
-          "opacity": "1",
-          "host": "hbb.afl.rakuten.co.jp"
-        }
-      ],
-      "checks": [
-        {
-          "name": "initial images deferred",
-          "passed": true
-        },
-        {
-          "name": "dishes then specialty then night then share",
-          "passed": true
-        },
-        {
-          "name": "source and specs remain closed",
-          "passed": true
-        },
-        {
-          "name": "all formal images loaded",
-          "passed": true
-        },
-        {
-          "name": "no horizontal overflow",
-          "passed": true
-        },
-        {
-          "name": "grid mobile one desktop two",
-          "passed": true
-        },
-        {
-          "name": "expected editorial pairings",
-          "passed": true
-        },
-        {
-          "name": "no price rating or sale",
-          "passed": true
-        },
-        {
-          "name": "disclosure and editorial visible",
-          "passed": true
-        },
-        {
-          "name": "clear external named CTA",
-          "passed": true
-        },
-        {
-          "name": "CTA tap height",
-          "passed": true
-        },
-        {
-          "name": "CTA keyboard focus",
-          "passed": true
-        },
-        {
-          "name": "impression has IDs not URLs",
-          "passed": true
-        }
-      ],
-      "passed": true
-    },
-    {
-      "engine": "webkit",
-      "width": 390,
-      "sakeId": "kokushi-muso-junmai",
-      "specialties": [
-        "matsumae-zuke",
-        "ika-meshi"
       ],
       "images": [
         {
@@ -1805,7 +1721,7 @@
       "width": 1280,
       "sakeId": "otokoyama-kimoto-junmai",
       "specialties": [
-        "sake-toba",
+        "matsumae-zuke",
         "ika-meshi"
       ],
       "images": [
@@ -2059,90 +1975,6 @@
       "specialties": [
         "gibasa",
         "iburigakko"
-      ],
-      "images": [
-        {
-          "naturalWidth": 240,
-          "naturalHeight": 240,
-          "width": 240,
-          "height": 240,
-          "visible": "visible",
-          "opacity": "1",
-          "host": "hbb.afl.rakuten.co.jp"
-        },
-        {
-          "naturalWidth": 240,
-          "naturalHeight": 240,
-          "width": 240,
-          "height": 240,
-          "visible": "visible",
-          "opacity": "1",
-          "host": "hbb.afl.rakuten.co.jp"
-        }
-      ],
-      "checks": [
-        {
-          "name": "initial images deferred",
-          "passed": true
-        },
-        {
-          "name": "dishes then specialty then night then share",
-          "passed": true
-        },
-        {
-          "name": "source and specs remain closed",
-          "passed": true
-        },
-        {
-          "name": "all formal images loaded",
-          "passed": true
-        },
-        {
-          "name": "no horizontal overflow",
-          "passed": true
-        },
-        {
-          "name": "grid mobile one desktop two",
-          "passed": true
-        },
-        {
-          "name": "expected editorial pairings",
-          "passed": true
-        },
-        {
-          "name": "no price rating or sale",
-          "passed": true
-        },
-        {
-          "name": "disclosure and editorial visible",
-          "passed": true
-        },
-        {
-          "name": "clear external named CTA",
-          "passed": true
-        },
-        {
-          "name": "CTA tap height",
-          "passed": true
-        },
-        {
-          "name": "CTA keyboard focus",
-          "passed": true
-        },
-        {
-          "name": "impression has IDs not URLs",
-          "passed": true
-        }
-      ],
-      "passed": true
-    },
-    {
-      "engine": "chromium",
-      "width": 1280,
-      "sakeId": "kokushi-muso-junmai",
-      "specialties": [
-        "matsumae-zuke",
-        "ika-meshi"
       ],
       "images": [
         {
@@ -2550,6 +2382,36 @@
       "sakeId": "shichida-junmai",
       "initial": {
         "cls": 0,
+        "lcp": 308,
+        "bytes": 0
+      },
+      "afterScroll": {
+        "cls": 0,
+        "lcp": 308
+      },
+      "limitations": "Lab navigation, not field CWV; cross-origin transferSize may be zero. Images loaded only near section."
+    },
+    {
+      "engine": "webkit",
+      "width": 360,
+      "sakeId": "shichida-junmai",
+      "initial": {
+        "cls": 0,
+        "lcp": 288.00000000000006,
+        "bytes": 0
+      },
+      "afterScroll": {
+        "cls": 0,
+        "lcp": 288.00000000000006
+      },
+      "limitations": "Lab navigation, not field CWV; cross-origin transferSize may be zero. Images loaded only near section."
+    },
+    {
+      "engine": "webkit",
+      "width": 375,
+      "sakeId": "shichida-junmai",
+      "initial": {
+        "cls": 0,
         "lcp": 316,
         "bytes": 0
       },
@@ -2561,46 +2423,16 @@
     },
     {
       "engine": "webkit",
-      "width": 360,
-      "sakeId": "shichida-junmai",
-      "initial": {
-        "cls": 0,
-        "lcp": 292,
-        "bytes": 0
-      },
-      "afterScroll": {
-        "cls": 0,
-        "lcp": 292
-      },
-      "limitations": "Lab navigation, not field CWV; cross-origin transferSize may be zero. Images loaded only near section."
-    },
-    {
-      "engine": "webkit",
-      "width": 375,
-      "sakeId": "shichida-junmai",
-      "initial": {
-        "cls": 0,
-        "lcp": 284.00000000000006,
-        "bytes": 0
-      },
-      "afterScroll": {
-        "cls": 0,
-        "lcp": 284.00000000000006
-      },
-      "limitations": "Lab navigation, not field CWV; cross-origin transferSize may be zero. Images loaded only near section."
-    },
-    {
-      "engine": "webkit",
       "width": 390,
       "sakeId": "nogomi-tokubetsu-junmai",
       "initial": {
         "cls": 0,
-        "lcp": 292,
+        "lcp": 304,
         "bytes": 0
       },
       "afterScroll": {
         "cls": 0,
-        "lcp": 292
+        "lcp": 304
       },
       "limitations": "Lab navigation, not field CWV; cross-origin transferSize may be zero. Images loaded only near section."
     },
@@ -2610,142 +2442,7 @@
       "sakeId": "born-gold",
       "initial": {
         "cls": 0,
-        "lcp": 204.00000000000003,
-        "bytes": 0
-      },
-      "afterScroll": {
-        "cls": 0,
-        "lcp": 904
-      },
-      "limitations": "Lab navigation, not field CWV; cross-origin transferSize may be zero. Images loaded only near section."
-    },
-    {
-      "engine": "webkit",
-      "width": 390,
-      "sakeId": "kikuhime-yamahai-junmai",
-      "initial": {
-        "cls": 0,
-        "lcp": 212,
-        "bytes": 0
-      },
-      "afterScroll": {
-        "cls": 0,
-        "lcp": 212
-      },
-      "limitations": "Lab navigation, not field CWV; cross-origin transferSize may be zero. Images loaded only near section."
-    },
-    {
-      "engine": "webkit",
-      "width": 390,
-      "sakeId": "kikusui-funaguchi-honjozo-nama-genshu-standard",
-      "initial": {
-        "cls": 0,
-        "lcp": 212,
-        "bytes": 0
-      },
-      "afterScroll": {
-        "cls": 0,
-        "lcp": 908
-      },
-      "limitations": "Lab navigation, not field CWV; cross-origin transferSize may be zero. Images loaded only near section."
-    },
-    {
-      "engine": "webkit",
-      "width": 390,
-      "sakeId": "suigei-tokubetsu-junmai",
-      "initial": {
-        "cls": 0,
-        "lcp": 212,
-        "bytes": 0
-      },
-      "afterScroll": {
-        "cls": 0,
-        "lcp": 212
-      },
-      "limitations": "Lab navigation, not field CWV; cross-origin transferSize may be zero. Images loaded only near section."
-    },
-    {
-      "engine": "webkit",
-      "width": 390,
-      "sakeId": "otokoyama-kimoto-junmai",
-      "initial": {
-        "cls": 0,
-        "lcp": 212,
-        "bytes": 0
-      },
-      "afterScroll": {
-        "cls": 0,
-        "lcp": 212
-      },
-      "limitations": "Lab navigation, not field CWV; cross-origin transferSize may be zero. Images loaded only near section."
-    },
-    {
-      "engine": "webkit",
-      "width": 390,
-      "sakeId": "urakasumi-i3yhce",
-      "initial": {
-        "cls": 0,
-        "lcp": 204.00000000000003,
-        "bytes": 0
-      },
-      "afterScroll": {
-        "cls": 0,
-        "lcp": 904
-      },
-      "limitations": "Lab navigation, not field CWV; cross-origin transferSize may be zero. Images loaded only near section."
-    },
-    {
-      "engine": "webkit",
-      "width": 390,
-      "sakeId": "ginban-chotokusen-komenoshin-standard-v1",
-      "initial": {
-        "cls": 0,
-        "lcp": 208.00000000000003,
-        "bytes": 0
-      },
-      "afterScroll": {
-        "cls": 0,
-        "lcp": 924
-      },
-      "limitations": "Lab navigation, not field CWV; cross-origin transferSize may be zero. Images loaded only near section."
-    },
-    {
-      "engine": "webkit",
-      "width": 390,
-      "sakeId": "ranman-junmai-managudako-standard",
-      "initial": {
-        "cls": 0,
-        "lcp": 204.00000000000003,
-        "bytes": 0
-      },
-      "afterScroll": {
-        "cls": 0,
-        "lcp": 908
-      },
-      "limitations": "Lab navigation, not field CWV; cross-origin transferSize may be zero. Images loaded only near section."
-    },
-    {
-      "engine": "webkit",
-      "width": 390,
-      "sakeId": "kokushi-muso-junmai",
-      "initial": {
-        "cls": 0,
-        "lcp": 232,
-        "bytes": 0
-      },
-      "afterScroll": {
-        "cls": 0,
-        "lcp": 232
-      },
-      "limitations": "Lab navigation, not field CWV; cross-origin transferSize may be zero. Images loaded only near section."
-    },
-    {
-      "engine": "webkit",
-      "width": 390,
-      "sakeId": "hakurakusei-tokubetsu-junmai-1",
-      "initial": {
-        "cls": 0,
-        "lcp": 200,
+        "lcp": 220,
         "bytes": 0
       },
       "afterScroll": {
@@ -2757,15 +2454,135 @@
     {
       "engine": "webkit",
       "width": 390,
-      "sakeId": "sanshoraku-junmai-standard",
+      "sakeId": "kikuhime-yamahai-junmai",
       "initial": {
         "cls": 0,
-        "lcp": 204.00000000000003,
+        "lcp": 208.00000000000003,
         "bytes": 0
       },
       "afterScroll": {
         "cls": 0,
-        "lcp": 204.00000000000003
+        "lcp": 208.00000000000003
+      },
+      "limitations": "Lab navigation, not field CWV; cross-origin transferSize may be zero. Images loaded only near section."
+    },
+    {
+      "engine": "webkit",
+      "width": 390,
+      "sakeId": "kikusui-funaguchi-honjozo-nama-genshu-standard",
+      "initial": {
+        "cls": 0,
+        "lcp": 220,
+        "bytes": 0
+      },
+      "afterScroll": {
+        "cls": 0,
+        "lcp": 916
+      },
+      "limitations": "Lab navigation, not field CWV; cross-origin transferSize may be zero. Images loaded only near section."
+    },
+    {
+      "engine": "webkit",
+      "width": 390,
+      "sakeId": "suigei-tokubetsu-junmai",
+      "initial": {
+        "cls": 0,
+        "lcp": 208.00000000000003,
+        "bytes": 0
+      },
+      "afterScroll": {
+        "cls": 0,
+        "lcp": 208.00000000000003
+      },
+      "limitations": "Lab navigation, not field CWV; cross-origin transferSize may be zero. Images loaded only near section."
+    },
+    {
+      "engine": "webkit",
+      "width": 390,
+      "sakeId": "otokoyama-kimoto-junmai",
+      "initial": {
+        "cls": 0,
+        "lcp": 220,
+        "bytes": 0
+      },
+      "afterScroll": {
+        "cls": 0,
+        "lcp": 220
+      },
+      "limitations": "Lab navigation, not field CWV; cross-origin transferSize may be zero. Images loaded only near section."
+    },
+    {
+      "engine": "webkit",
+      "width": 390,
+      "sakeId": "urakasumi-i3yhce",
+      "initial": {
+        "cls": 0,
+        "lcp": 220,
+        "bytes": 0
+      },
+      "afterScroll": {
+        "cls": 0,
+        "lcp": 920
+      },
+      "limitations": "Lab navigation, not field CWV; cross-origin transferSize may be zero. Images loaded only near section."
+    },
+    {
+      "engine": "webkit",
+      "width": 390,
+      "sakeId": "ginban-chotokusen-komenoshin-standard-v1",
+      "initial": {
+        "cls": 0,
+        "lcp": 212,
+        "bytes": 0
+      },
+      "afterScroll": {
+        "cls": 0,
+        "lcp": 912
+      },
+      "limitations": "Lab navigation, not field CWV; cross-origin transferSize may be zero. Images loaded only near section."
+    },
+    {
+      "engine": "webkit",
+      "width": 390,
+      "sakeId": "ranman-junmai-managudako-standard",
+      "initial": {
+        "cls": 0,
+        "lcp": 212,
+        "bytes": 0
+      },
+      "afterScroll": {
+        "cls": 0,
+        "lcp": 920
+      },
+      "limitations": "Lab navigation, not field CWV; cross-origin transferSize may be zero. Images loaded only near section."
+    },
+    {
+      "engine": "webkit",
+      "width": 390,
+      "sakeId": "hakurakusei-tokubetsu-junmai-1",
+      "initial": {
+        "cls": 0,
+        "lcp": 212,
+        "bytes": 0
+      },
+      "afterScroll": {
+        "cls": 0,
+        "lcp": 964
+      },
+      "limitations": "Lab navigation, not field CWV; cross-origin transferSize may be zero. Images loaded only near section."
+    },
+    {
+      "engine": "webkit",
+      "width": 390,
+      "sakeId": "sanshoraku-junmai-standard",
+      "initial": {
+        "cls": 0,
+        "lcp": 232,
+        "bytes": 0
+      },
+      "afterScroll": {
+        "cls": 0,
+        "lcp": 232
       },
       "limitations": "Lab navigation, not field CWV; cross-origin transferSize may be zero. Images loaded only near section."
     },
@@ -2790,12 +2607,12 @@
       "sakeId": "shichida-junmai",
       "initial": {
         "cls": 0,
-        "lcp": 316,
+        "lcp": 328,
         "bytes": 0
       },
       "afterScroll": {
         "cls": 0,
-        "lcp": 316
+        "lcp": 328
       },
       "limitations": "Lab navigation, not field CWV; cross-origin transferSize may be zero. Images loaded only near section."
     },
@@ -2805,12 +2622,12 @@
       "sakeId": "nogomi-tokubetsu-junmai",
       "initial": {
         "cls": 0.09650977256738745,
-        "lcp": 336,
+        "lcp": 3024,
         "bytes": 0
       },
       "afterScroll": {
         "cls": 0.1068428220342121,
-        "lcp": 336
+        "lcp": 3024
       },
       "limitations": "Lab navigation, not field CWV; cross-origin transferSize may be zero. Images loaded only near section."
     },
@@ -2820,12 +2637,12 @@
       "sakeId": "born-gold",
       "initial": {
         "cls": 0.09428855570571683,
-        "lcp": 136,
+        "lcp": 148,
         "bytes": 0
       },
       "afterScroll": {
         "cls": 0.10462160517254147,
-        "lcp": 728
+        "lcp": 752
       },
       "limitations": "Lab navigation, not field CWV; cross-origin transferSize may be zero. Images loaded only near section."
     },
@@ -2865,12 +2682,12 @@
       "sakeId": "suigei-tokubetsu-junmai",
       "initial": {
         "cls": 0.09486026131146327,
-        "lcp": 156,
+        "lcp": 160,
         "bytes": 0
       },
       "afterScroll": {
         "cls": 0.10341467111596564,
-        "lcp": 156
+        "lcp": 160
       },
       "limitations": "Lab navigation, not field CWV; cross-origin transferSize may be zero. Images loaded only near section."
     },
@@ -2880,12 +2697,12 @@
       "sakeId": "otokoyama-kimoto-junmai",
       "initial": {
         "cls": 0.09486026131146327,
-        "lcp": 108,
+        "lcp": 104,
         "bytes": 0
       },
       "afterScroll": {
         "cls": 0.10519331077828792,
-        "lcp": 108
+        "lcp": 104
       },
       "limitations": "Lab navigation, not field CWV; cross-origin transferSize may be zero. Images loaded only near section."
     },
@@ -2895,12 +2712,12 @@
       "sakeId": "urakasumi-i3yhce",
       "initial": {
         "cls": 0.09223465038136848,
-        "lcp": 168,
+        "lcp": 184,
         "bytes": 0
       },
       "afterScroll": {
         "cls": 0.10256769984819313,
-        "lcp": 772
+        "lcp": 732
       },
       "limitations": "Lab navigation, not field CWV; cross-origin transferSize may be zero. Images loaded only near section."
     },
@@ -2910,12 +2727,12 @@
       "sakeId": "ginban-chotokusen-komenoshin-standard-v1",
       "initial": {
         "cls": 0.09513344425725712,
-        "lcp": 136,
+        "lcp": 140,
         "bytes": 0
       },
       "afterScroll": {
         "cls": 0.10546649372408176,
-        "lcp": 728
+        "lcp": 704
       },
       "limitations": "Lab navigation, not field CWV; cross-origin transferSize may be zero. Images loaded only near section."
     },
@@ -2925,27 +2742,12 @@
       "sakeId": "ranman-junmai-managudako-standard",
       "initial": {
         "cls": 0.09529437747611819,
-        "lcp": 140,
-        "bytes": 0
-      },
-      "afterScroll": {
-        "cls": 0.10562742694294283,
-        "lcp": 732
-      },
-      "limitations": "Lab navigation, not field CWV; cross-origin transferSize may be zero. Images loaded only near section."
-    },
-    {
-      "engine": "chromium",
-      "width": 1280,
-      "sakeId": "kokushi-muso-junmai",
-      "initial": {
-        "cls": 0.09486026131146327,
         "lcp": 132,
         "bytes": 0
       },
       "afterScroll": {
-        "cls": 0.1000267860448756,
-        "lcp": 132
+        "cls": 0.10562742694294283,
+        "lcp": 720
       },
       "limitations": "Lab navigation, not field CWV; cross-origin transferSize may be zero. Images loaded only near section."
     },
@@ -2955,12 +2757,12 @@
       "sakeId": "hakurakusei-tokubetsu-junmai-1",
       "initial": {
         "cls": 0.09447704152473342,
-        "lcp": 140,
+        "lcp": 136,
         "bytes": 0
       },
       "afterScroll": {
         "cls": 0.09964356625814574,
-        "lcp": 728
+        "lcp": 724
       },
       "limitations": "Lab navigation, not field CWV; cross-origin transferSize may be zero. Images loaded only near section."
     },
@@ -2970,12 +2772,12 @@
       "sakeId": "sanshoraku-junmai-standard",
       "initial": {
         "cls": 0.09650977256738745,
-        "lcp": 128,
+        "lcp": 132,
         "bytes": 0
       },
       "afterScroll": {
         "cls": 0.10167629730079977,
-        "lcp": 128
+        "lcp": 132
       },
       "limitations": "Lab navigation, not field CWV; cross-origin transferSize may be zero. Images loaded only near section."
     },
@@ -2985,12 +2787,12 @@
       "sakeId": "kihotsuru-junmai-current-v1",
       "initial": {
         "cls": 0.09656483437777695,
-        "lcp": 128,
+        "lcp": 140,
         "bytes": 0
       },
       "afterScroll": {
         "cls": 0.10173135911118927,
-        "lcp": 128
+        "lcp": 140
       },
       "limitations": "Lab navigation, not field CWV; cross-origin transferSize may be zero. Images loaded only near section."
     }
@@ -2998,7 +2800,10 @@
   "knownWarnings": [],
   "localPreviewWarnings": [],
   "blockingErrors": [],
-  "specialtyImageTypes": 22,
+  "standbySpecialties": [
+    "sake-toba"
+  ],
+  "specialtyImageTypes": 21,
   "realIphone": false,
   "realAndroid": false,
   "passed": true

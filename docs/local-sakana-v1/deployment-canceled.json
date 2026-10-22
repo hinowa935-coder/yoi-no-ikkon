@@ -1,0 +1,10 @@
+{
+  "id": "dpl_BESaeAFb4maH8BFaF1LDJVjBayR7",
+  "projectId": "prj_TLTqZNFg5sfPxBlDeWD7SJ4aO3vk",
+  "teamId": "team_WGkJhVlPRF028VuwNoSV9ZOo",
+  "commit": "72d36a64603fbdbcf8266fe60279149632ac3d15",
+  "target": "production",
+  "state": "CANCELED",
+  "productionUrl": "https://yoi-no-ikkon.vercel.app/",
+  "reason": "Before production promotion, removed four pairings whose evidence was only a brewing method or storage design; no actual taste confirmation."
+}
