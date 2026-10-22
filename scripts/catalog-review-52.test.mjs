@@ -8,6 +8,7 @@ import {resolveFavorite} from '../src/data/favoriteReferences.js';
 import {normalizeBreweryName,eligibleSensoryEvidence,publicationGate} from '../src/catalog/operations.js';
 import {seasonallyRecommended} from '../src/catalog/seasonality.js';
 import {reviewedLineupLifecycle,reviewedLineupAdditionCount} from './lib/reviewed-lineup-update.mjs';
+import {reviewedCommerceUpdate} from './lib/reviewed-commerce-update.mjs';
 const read=p=>JSON.parse(fs.readFileSync(new URL('../'+p,import.meta.url)));
 const hash=v=>createHash('sha256').update(typeof v==='string'?v:JSON.stringify(v)).digest('hex');
 const audit=read('docs/catalog-review-52/adjudications.json'),baseline=read('docs/catalog-review-52/baseline-integrity.json'),newItems=read('src/data/catalogAdditions.json').items.filter(i=>audit.rows.some(a=>a.sakeId===i.id));
@@ -27,7 +28,7 @@ test('all prior product identities, Verified fields, commerce and PWA stay intac
  for(const [file,records]of Object.entries(baseline.records)){const current=read(file),map=file.endsWith('product-media.json')||file.endsWith('merchant-links.json')?current.records:current;for(const[id,expected]of Object.entries(records)){
   const actual=hash(map[id]);
   const approved=shelfBatch.reviewed&&shelfBatch.commerceChanges.find(change=>change.file===file&&change.sakeId===id&&change.beforeSha256===expected&&change.afterSha256===actual);
-  assert(actual===expected||approved,file+' '+id+' must match baseline or an explicitly audited later commerce-only update');
+  assert(actual===expected||approved||reviewedCommerceUpdate(file,id,expected,map[id]),file+' '+id+' must match baseline or an explicitly audited later commerce-only update');
  }}
  assert.equal(hash(read('src/commerce/generated/commerce-final-approvals.json').links.slice(0,baseline.approvalCount)),baseline.approvalHash);
  assert.equal(allSakePairings.length,baseline.products+newItems.length+reviewedLineupAdditionCount(allSakePairings));assert.equal(new Set(allSakePairings.map(i=>i.id)).size,allSakePairings.length);

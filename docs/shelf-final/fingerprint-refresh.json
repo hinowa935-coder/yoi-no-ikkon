@@ -1,0 +1,28 @@
+{
+  "checkedAt": "2026-10-22T04:34:34.773Z",
+  "sakeId": "shirakiku-ginshari-tokubetsu-junmai-current-v1",
+  "reason": "確認済みの製法出典訂正後、同じ正式原本を新しいデータ指紋へ再結合。",
+  "changed": [
+    {
+      "file": "purchase-matches",
+      "sakeId": "shirakiku-ginshari-tokubetsu-junmai-current-v1",
+      "onlyFingerprintChanged": true
+    },
+    {
+      "file": "product-media",
+      "sakeId": "shirakiku-ginshari-tokubetsu-junmai-current-v1",
+      "onlyFingerprintChanged": true
+    },
+    {
+      "file": "commerce-final-approvals",
+      "sakeId": "shirakiku-ginshari-tokubetsu-junmai-current-v1",
+      "onlyFingerprintChanged": true
+    },
+    {
+      "file": "discovery-links",
+      "sakeId": "shirakiku-ginshari-tokubetsu-junmai-current-v1",
+      "onlyFingerprintChanged": true
+    }
+  ],
+  "urlsImagesCapacitiesAndApprovalStatesUnchanged": true
+}

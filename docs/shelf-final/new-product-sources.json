@@ -1,0 +1,318 @@
+{
+  "checkedAt": "2026-10-22T04:11:22.906Z",
+  "rows": [
+    {
+      "sakeId": "shinshu-kirei-inakura-hitogokochi-junmai-ginjo-current-v1",
+      "sources": [
+        {
+          "sourceUrl": "https://item.rakuten.co.jp/sake-ichibun/10007456/",
+          "sourceType": "rakuten_retail",
+          "role": "merchant_sku",
+          "retrieved": true,
+          "checkedAt": "2026-10-22T03:55:48.991Z",
+          "textHash": "e03019867b7e8d12f09a11e8b62fa01efd0831b798221d73035e333149732e6f"
+        },
+        {
+          "sourceUrl": "https://item.rakuten.co.jp/ibaliquors/135/",
+          "sourceType": "specialistRetailer",
+          "role": "corroboration",
+          "retrieved": true,
+          "checkedAt": "2026-10-22T03:55:50.060Z",
+          "textHash": "3653cb1c8ea567aa520d961213c11172c064743b8c8c47d69c5bb4ca14e1fc1e"
+        }
+      ]
+    },
+    {
+      "sakeId": "kameizumi-kouiku63-hiyaoroshi-current-v1",
+      "sources": [
+        {
+          "sourceUrl": "https://item.rakuten.co.jp/kishuuitibanya/ns-225/",
+          "sourceType": "rakuten_retail",
+          "role": "merchant_sku",
+          "retrieved": true,
+          "checkedAt": "2026-10-22T03:55:58.558Z",
+          "textHash": "d8754d7603dc29431a9832f4d06074de497507c1e1ea890bedb8f614b2bef501"
+        },
+        {
+          "sourceUrl": "https://www.syusendo-horiichi.co.jp/SHOP/13566.html",
+          "sourceType": "specialistRetailer",
+          "role": "corroboration",
+          "retrieved": false,
+          "checkedAt": "2026-10-22T04:11:09.491Z"
+        }
+      ]
+    },
+    {
+      "sakeId": "tokachi-tokubetsu-junmai-suisei-current-v1",
+      "sources": [
+        {
+          "sourceUrl": "https://item.rakuten.co.jp/mighty-liquors/10005345/",
+          "sourceType": "rakuten_retail",
+          "role": "merchant_sku",
+          "retrieved": true,
+          "checkedAt": "2026-10-22T03:56:03.374Z",
+          "textHash": "6e85e471cd6047260f2289fc098cfcd99afaae8870592ddbc22b1eecd5ad1297"
+        },
+        {
+          "sourceUrl": "https://shop.kamikawa-taisetsu.co.jp/shopdetail/000000000311/",
+          "sourceType": "official_shop",
+          "role": "product",
+          "retrieved": true,
+          "checkedAt": "2026-10-22T04:11:09.781Z",
+          "textHash": "b0f5ce740d1075b34f97a4510d3a9ffdf735254aedca39b4f18c457b104fe29c"
+        }
+      ]
+    },
+    {
+      "sakeId": "abe-silver-hiire-current-v1",
+      "sources": [
+        {
+          "sourceUrl": "https://item.rakuten.co.jp/e-wine/dw196/",
+          "sourceType": "rakuten_retail",
+          "role": "merchant_sku",
+          "retrieved": true,
+          "checkedAt": "2026-10-22T03:56:10.604Z",
+          "textHash": "f114917063698793ac6c0eb2e67ff4af6d323fc61ae1bfd249e4b45d580c147d"
+        },
+        {
+          "sourceUrl": "https://www.kanese.com/SHOP/16458.html",
+          "sourceType": "specialistRetailer",
+          "role": "corroboration",
+          "retrieved": true,
+          "checkedAt": "2026-10-22T04:11:11.886Z",
+          "textHash": "a37b09a5b567c3f3dd1ee8c387785466bd75256ad88ac540c033b3a69e06f537"
+        }
+      ]
+    },
+    {
+      "sakeId": "shichihonyari-muu-1800-current-v1",
+      "sources": [
+        {
+          "sourceUrl": "https://item.rakuten.co.jp/hasegawasaketen/1003410/",
+          "sourceType": "rakuten_retail",
+          "role": "merchant_sku",
+          "retrieved": true,
+          "checkedAt": "2026-10-22T03:56:17.873Z",
+          "textHash": "8cec4127b8c2806c1d5e3e45efcc2df7c127828b74107b4f15b63dd0e4e87670"
+        },
+        {
+          "sourceUrl": "https://7yari.co.jp/product/102/",
+          "sourceType": "official",
+          "role": "product",
+          "retrieved": true,
+          "checkedAt": "2026-10-22T03:56:20.580Z",
+          "textHash": "d07353d6a33de22e64d5a7064e5e45e81f7f27d3e48a10176a3b573807287b99"
+        }
+      ]
+    },
+    {
+      "sakeId": "haginotsuyu-amadare-tomizu-hiire-current-v1",
+      "sources": [
+        {
+          "sourceUrl": "https://item.rakuten.co.jp/tokuriya/8848/",
+          "sourceType": "rakuten_retail",
+          "role": "merchant_sku",
+          "retrieved": true,
+          "checkedAt": "2026-10-22T03:56:21.524Z",
+          "textHash": "7b90cac689d85bd614de16222d4a61dcf1d409908ad661d964745640bc1e297e"
+        },
+        {
+          "sourceUrl": "https://www.haginotsuyu.co.jp/amadare",
+          "sourceType": "official",
+          "role": "product",
+          "retrieved": false,
+          "checkedAt": "2026-10-22T04:11:13.982Z"
+        }
+      ]
+    },
+    {
+      "sakeId": "hanaabi-gohyakumangoku-muroka-namagneshu-1800-current-v1",
+      "sources": [
+        {
+          "sourceUrl": "https://item.rakuten.co.jp/mighty-liquors/sa103013/",
+          "sourceType": "rakuten_retail",
+          "role": "merchant_sku",
+          "retrieved": true,
+          "checkedAt": "2026-10-22T03:56:44.573Z",
+          "textHash": "dc17628ecf62a5aa2af9937ae9155e0d7b354c6b8dd5d33e58786c4d66613646"
+        },
+        {
+          "sourceUrl": "https://www.sakenomy.jp/sake/TST0000042113/",
+          "sourceType": "specialistDatabase",
+          "role": "product",
+          "retrieved": true,
+          "checkedAt": "2026-10-22T04:11:14.139Z",
+          "textHash": "e43707273407ac9d9756288c2adfa684c781315b83da4fe11dc2ec4c6b23d4d7"
+        }
+      ]
+    },
+    {
+      "sakeId": "sara-junmai-ginjo-namazume-current-v1",
+      "sources": [
+        {
+          "sourceUrl": "https://item.rakuten.co.jp/yamasake/5775/",
+          "sourceType": "rakuten_retail",
+          "role": "merchant_sku",
+          "retrieved": true,
+          "checkedAt": "2026-10-22T03:56:45.850Z",
+          "textHash": "e4246448a8c674e167f55d5659307f67279ff81fd5a099242ab10a1f070f9c18"
+        },
+        {
+          "sourceUrl": "https://item.rakuten.co.jp/mashidayahonten/6002/",
+          "sourceType": "specialistRetailer",
+          "role": "corroboration",
+          "retrieved": true,
+          "checkedAt": "2026-10-22T04:11:15.396Z",
+          "textHash": "97f634fcab95b9cbd1bbf7afa9e0e6ec59f58ad0daab457fc79c10937bfeffee"
+        }
+      ]
+    },
+    {
+      "sakeId": "mimurosugi-kioke-bodaimoto-jishaden-current-v1",
+      "sources": [
+        {
+          "sourceUrl": "https://item.rakuten.co.jp/bisyugakou/ms010-n72/",
+          "sourceType": "rakuten_retail",
+          "role": "merchant_sku",
+          "retrieved": true,
+          "checkedAt": "2026-10-22T03:56:50.771Z",
+          "textHash": "68d1359006d82364a840c891fc99d5d8b385c598a3428ee5270448f4944b165b"
+        },
+        {
+          "sourceUrl": "https://www.imanaka-sakeshop.com/shopdetail/000000005277/4/page8/order/",
+          "sourceType": "specialistRetailer",
+          "role": "corroboration",
+          "retrieved": true,
+          "checkedAt": "2026-10-22T04:11:16.599Z",
+          "textHash": "7d24c5046f4ecb6da9cba51ac3052957cfcdc8b40482db6d044f95333edc67cc"
+        }
+      ]
+    },
+    {
+      "sakeId": "tanaka65-hiire-1800-current-v1",
+      "sources": [
+        {
+          "sourceUrl": "https://item.rakuten.co.jp/hasegawasaketen/1008344/",
+          "sourceType": "rakuten_retail",
+          "role": "merchant_sku",
+          "retrieved": true,
+          "checkedAt": "2026-10-22T03:57:11.319Z",
+          "textHash": "5f0984943531074d3f7c005bd356136320189ec5e5d44ce5bd72844329606513"
+        },
+        {
+          "sourceUrl": "https://ontable.jp/shopdetail/000000002640/",
+          "sourceType": "specialistRetailer",
+          "role": "corroboration",
+          "retrieved": true,
+          "checkedAt": "2026-10-22T04:11:17.837Z",
+          "textHash": "86a3c4609675c88a6e1c58af52d6155f3a62ced4649f992e0efd884464caaeb9"
+        }
+      ]
+    },
+    {
+      "sakeId": "minami-junmai-ginjo-matsuyamamitsui-1800-current-v1",
+      "sources": [
+        {
+          "sourceUrl": "https://item.rakuten.co.jp/yamasake/10004601/",
+          "sourceType": "rakuten_retail",
+          "role": "merchant_sku",
+          "retrieved": true,
+          "checkedAt": "2026-10-22T03:57:22.188Z",
+          "textHash": "956f2efeb4092b5c45190f5de375b68f6fcd8dd438393227bac05ba95688ef96"
+        },
+        {
+          "sourceUrl": "https://item.rakuten.co.jp/auc-tosauma/m-zyungin1800/",
+          "sourceType": "specialistRetailer",
+          "role": "corroboration",
+          "retrieved": true,
+          "checkedAt": "2026-10-22T04:11:19.021Z",
+          "textHash": "728a88e627038479ab55f97f4bed5b0ffc1e419f2332ccd6d9c229341564c21b"
+        }
+      ]
+    },
+    {
+      "sakeId": "shirakiku-ginshari-tokubetsu-junmai-current-v1",
+      "sources": [
+        {
+          "sourceUrl": "https://item.rakuten.co.jp/sakayainoue/4525892180129/",
+          "sourceType": "rakuten_retail",
+          "role": "merchant_sku",
+          "retrieved": true,
+          "checkedAt": "2026-10-22T03:57:30.038Z",
+          "textHash": "0cc060e7d26a1cb2d8190897381f58a135c58757dd6f7a19da081367f052bc70"
+        },
+        {
+          "sourceUrl": "https://sake-shirakiku.jp/products/silver",
+          "sourceType": "official",
+          "role": "product",
+          "retrieved": true,
+          "checkedAt": "2026-10-22T04:11:20.344Z",
+          "textHash": "b920f9d39f17c91425dc3cb3a21809800fc4fd941a0bd4a38d2678580087805e"
+        }
+      ]
+    },
+    {
+      "sakeId": "kagura-nojoho-junmai-ginjo-nama-current-v1",
+      "sources": [
+        {
+          "sourceUrl": "https://item.rakuten.co.jp/hoshigulf/4530731780033/",
+          "sourceType": "rakuten_retail",
+          "role": "merchant_sku",
+          "retrieved": true,
+          "checkedAt": "2026-10-22T03:57:34.813Z",
+          "textHash": "30dc5e22ece915fee72719a6c041c8c453ecb7ab833db1d04342173711311d04"
+        },
+        {
+          "sourceUrl": "https://matsuishuzo.com/?mode=f5",
+          "sourceType": "official",
+          "role": "corroboration",
+          "retrieved": true,
+          "checkedAt": "2026-10-22T04:11:21.621Z",
+          "textHash": "8063972b1387facd679feda9a61ff30991919dd2ba822739c10e125094fdf64e"
+        }
+      ]
+    },
+    {
+      "sakeId": "eikofuji-hinowa-muroka-nama-2026-current-v1",
+      "sources": [
+        {
+          "sourceUrl": "https://item.rakuten.co.jp/maruishi/10006801/",
+          "sourceType": "rakuten_retail",
+          "role": "merchant_sku",
+          "retrieved": true,
+          "checkedAt": "2026-10-22T03:57:42.098Z",
+          "textHash": "a68c2386f9b1b1dc1d5ebdab2d155e699bc26099d345d783cb15f6c2d92830cb"
+        },
+        {
+          "sourceUrl": "https://www.haruyama-sake.com/SHOP/YG090101072136.html",
+          "sourceType": "specialistRetailer",
+          "role": "product",
+          "retrieved": true,
+          "checkedAt": "2026-10-22T04:11:22.901Z",
+          "textHash": "501a4ec26778d297f9564648c1ff948ea0bd1cd1fee76df8e03c6ea04054e7fa"
+        }
+      ]
+    },
+    {
+      "sakeId": "kurumazaka-yamahai-akiagari-2019by-current-v1",
+      "sources": [
+        {
+          "sourceUrl": "https://item.rakuten.co.jp/kishuuitibanya/ns-604/",
+          "sourceType": "rakuten_retail",
+          "role": "merchant_sku",
+          "retrieved": true,
+          "checkedAt": "2026-10-22T04:03:51.086Z",
+          "textHash": "2947e22d98cca15b43c5aa8492eada8e51c7363e55dd17b7bc0f1b6e02cc2c67"
+        },
+        {
+          "sourceUrl": "https://item.rakuten.co.jp/auc-8848-jizake/4903235326012/",
+          "sourceType": "specialistRetailer",
+          "role": "corroboration",
+          "retrieved": true,
+          "checkedAt": "2026-10-22T03:56:28.525Z",
+          "textHash": "cf2db7296fef0aee2d91c4b9aeb0ded186b06c713a51bbbd9e5beb95828ff1ec"
+        }
+      ]
+    }
+  ]
+}

@@ -5,6 +5,7 @@ import {editorialNightAssignments} from '../src/data/editorialNightAssignments.j
 import {allSakePairings,sakeCatalogStatus} from '../src/data/siteData.js';
 import {lineupBatch} from './lib/reviewed-lineup-update.mjs';
 import {historicalBatch} from './lib/reviewed-historical-update.mjs';
+import {shelfFinalBatch} from './lib/reviewed-shelf-update.mjs';
 
 test('active explicit impression assignments exclude retired identities and remain separate from verified facts and temperature',()=>{
   assert(Object.keys(editorialNightAssignments).length>0);
@@ -12,7 +13,7 @@ test('active explicit impression assignments exclude retired identities and rema
     const item=allSakePairings.find(p=>p.id===id);
     assert(item);
     if(sakeCatalogStatus(id)!=='ACTIVE'){
-      assert([...lineupBatch.inactivated,...historicalBatch.inactivated].includes(id),'Only an explicitly reviewed later lifecycle decision may exclude an old assignment');
+      assert([...lineupBatch.inactivated,...historicalBatch.inactivated,...shelfFinalBatch.inactivated].includes(id),'Only an explicitly reviewed later lifecycle decision may exclude an old assignment');
       assert(!discoveryProducts.some(p=>p.id===id));
     }
     assert(discoveryNights.some(n=>n.id===assignment.nightId));

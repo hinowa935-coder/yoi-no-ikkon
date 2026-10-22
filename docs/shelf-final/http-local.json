@@ -1,0 +1,307 @@
+{
+  "checkedAt": "2026-10-22T04:39:04.336Z",
+  "base": "http://127.0.0.1:3197",
+  "rows": [
+    {
+      "route": "/",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/search",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/discover",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/food",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/ochoko",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/about",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/sake/shinshu-kirei-inakura-hitogokochi-junmai-ginjo-current-v1",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/sake/kameizumi-kouiku63-hiyaoroshi-current-v1",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/sake/tokachi-tokubetsu-junmai-suisei-current-v1",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/sake/abe-silver-hiire-current-v1",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/sake/shichihonyari-muu-1800-current-v1",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/sake/haginotsuyu-amadare-tomizu-hiire-current-v1",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/sake/hanaabi-gohyakumangoku-muroka-namagenshu-1800-current-v1",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/sake/sara-junmai-ginjo-namazume-current-v1",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/sake/mimurosugi-kioke-bodaimoto-jishaden-current-v1",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/sake/tanaka65-hiire-1800-current-v1",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/sake/shirakiku-ginshari-tokubetsu-junmai-current-v1",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/sake/kagura-nojoho-junmai-ginjo-nama-current-v1",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/sake/eikofuji-hinowa-muroka-nama-2026-current-v1",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/sake/kurumazaka-yamahai-akiagari-2019by-current-v1",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/sake/hatsumago-i9diua",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/sake/nishinoseki-junmai-ginjo-bigin-v1",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/sake/akishika-yamahai-junmai-yamadanishiki-70-muroka-genshu-hiire-v1",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/sake/tabika-junmai-funashibori-ichikai-hiire-v1",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/sake/wakaze-the-classic-yamagata-v1",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/sake/azumanofumoto-junmai-ginjo-yamagata-selection-v1",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/sake/kaiun-tokubetsu-junmai",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/sake/shinshu-kirei-junmai-ginjo",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/sake/kameizumi-cel24",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/sake/kamikawa-taisetsu-junmai",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/sake/abe-k34lzz",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/sake/maibijin-o0ffit",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/sake/shichihonyari-lvvrsw",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/sake/haginotsuyu-lvvrsw",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/sake/kurumazaka-gp8l70i9d",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/sake/bentenmusume-uzpgk6",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/sake/izumo-fuji-id2kl5",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/sake/wakamusume-i9dgkj",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/sake/miyoshikiku-iwjid2",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/sake/hanaabi-junmai-daiginjo-1",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/sake/sara-hdomtl-2",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/sake/mimurosugi-roman-series-2",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/sake/taito-tokubetsu-junmai-v1",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/sake/mimurosugi-tokubetsu-junmai-tsuyuhakaze-v1",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/sake/daijiro-yamada-junmai-ginjo-hiire-v1",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/sake/bentenmusume-junmai-yamahai-gouriki-v1",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/sake/shiraito-70-v1",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/sake/kurawanka-junmai-usunigori-v1",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/sake/toyonoume-yoiyoi-junmai-ginjo-v1",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/sake/minami-junmai-ginjo-matsuyamamitsui-standard-v1",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/sake/biwanosasanami-matsu-junmai-daiginjo-hiire-v1",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/sake/shirakiku-vibrant-junmai-hiire-standard-v1",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/sake/kagura-junmai-daiginjo-shiro-muroka-mukasui-nama-v1",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/sake/kagura-junmai-daiginjo-shiro-muroka-mukasui-ichibi-v1",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/sake/teishu-kanpaku-karakuchi-honjozo-v1",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/sake/eikofuji-jungetsu-junmai-standard-v1",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "route": "/sitemap.xml",
+      "sakePages": 484,
+      "passed": true
+    },
+    {
+      "route": "/.env.local",
+      "status": 404,
+      "passed": true
+    },
+    {
+      "route": "/docs/shelf-final/new-product-plans.json",
+      "status": 404,
+      "passed": true
+    },
+    {
+      "route": "/data/catalog-operations/shelf-final-batch.json",
+      "status": 404,
+      "passed": true
+    }
+  ],
+  "passed": true
+}

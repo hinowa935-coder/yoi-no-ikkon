@@ -1,0 +1,42 @@
+{
+  "checkedAt": "2026-10-22T04:31:34.383Z",
+  "rows": [
+    {
+      "engine": "webkit",
+      "sakeId": "kameizumi-kouiku63-hiyaoroshi-current-v1",
+      "normalDestination": "https://item.rakuten.co.jp/kishuuitibanya/ns-225/",
+      "finalHost": "item.rakuten.co.jp",
+      "passed": true,
+      "purchasePerformed": false,
+      "cartActionPerformed": false
+    },
+    {
+      "engine": "webkit",
+      "sakeId": "kaiun-tokubetsu-junmai",
+      "normalDestination": "https://item.rakuten.co.jp/sanoyajizake/sake8016_720/",
+      "finalHost": "item.rakuten.co.jp",
+      "passed": true,
+      "purchasePerformed": false,
+      "cartActionPerformed": false
+    },
+    {
+      "engine": "chromium",
+      "sakeId": "kameizumi-kouiku63-hiyaoroshi-current-v1",
+      "normalDestination": "https://item.rakuten.co.jp/kishuuitibanya/ns-225/",
+      "finalHost": "item.rakuten.co.jp",
+      "passed": true,
+      "purchasePerformed": false,
+      "cartActionPerformed": false
+    },
+    {
+      "engine": "chromium",
+      "sakeId": "kaiun-tokubetsu-junmai",
+      "normalDestination": "https://item.rakuten.co.jp/sanoyajizake/sake8016_720/",
+      "finalHost": "item.rakuten.co.jp",
+      "passed": true,
+      "purchasePerformed": false,
+      "cartActionPerformed": false
+    }
+  ],
+  "passed": true
+}

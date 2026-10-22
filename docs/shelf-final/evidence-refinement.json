@@ -1,0 +1,11 @@
+{
+  "checkedAt": "2026-10-22T04:27:28.194Z",
+  "productId": "shirakiku-ginshari-tokubetsu-junmai-current-v1",
+  "fields": [
+    "classification.muroka",
+    "classification.genshu"
+  ],
+  "valuesChanged": false,
+  "sourceCorrected": true,
+  "reason": "販売店にはない製法表記の根拠を、実際に明記している公式ページへ修正。"
+}

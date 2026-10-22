@@ -35134,6 +35134,5873 @@
       "publicationApprovedAt": "2026-10-21T20:27:13.853Z",
       "publicationApprovalSource": "36c4891d-b2bc-4c0e-aa13-84baf1df9d51",
       "catalogDecision": "OPERATOR_PREAPPROVED_REVIEWED_RELEASE"
+    },
+    {
+      "candidateProductId": "shinshu-kirei-inakura-hitogokochi-junmai-ginjo-current-v1",
+      "productionProductId": "shinshu-kirei-inakura-hitogokochi-junmai-ginjo-current-v1",
+      "publishedSakeId": "shinshu-kirei-inakura-hitogokochi-junmai-ginjo-current-v1",
+      "breweryId": "長野県|岡崎酒造",
+      "breweryName": "岡崎酒造株式会社",
+      "prefecture": "長野県",
+      "brand": "信州亀齢",
+      "formalProductName": "信州亀齢 純米吟醸 稲倉の棚田産ひとごこち",
+      "capacityMl": 720,
+      "normalUrl": "https://item.rakuten.co.jp/sake-ichibun/10007456/",
+      "selectedItemCode": "sake-ichibun:10007314",
+      "productType": "純米吟醸酒",
+      "state": "ACTIVE",
+      "reviewPhase": "shelf-final",
+      "specStatus": "SPEC_READY",
+      "specConfidence": "medium",
+      "specEvidence": [
+        {
+          "sourceUrl": "https://item.rakuten.co.jp/sake-ichibun/10007456/",
+          "sourceType": "rakuten_retail",
+          "checkedAt": "2026-10-22T03:55:48.991Z",
+          "retrieved": true,
+          "textHash": "e03019867b7e8d12f09a11e8b62fa01efd0831b798221d73035e333149732e6f",
+          "retrievalMethod": "http_body"
+        },
+        {
+          "sourceUrl": "https://item.rakuten.co.jp/ibaliquors/135/",
+          "sourceType": "specialistRetailer",
+          "checkedAt": "2026-10-22T03:55:50.060Z",
+          "retrieved": true,
+          "textHash": "3653cb1c8ea567aa520d961213c11172c064743b8c8c47d69c5bb4ca14e1fc1e",
+          "retrievalMethod": "http_body"
+        },
+        {
+          "sourceUrl": "https://www.sakenomy.jp/sake/TST0000043380/",
+          "sourceType": "specialistDatabase",
+          "checkedAt": "2026-10-22T04:18:08.453Z",
+          "retrieved": true,
+          "textHash": "4294be2cf6d3e185e02633d2f134e32fa48150ba3b4171e0a973051775ab34c2",
+          "retrievalMethod": "http_body",
+          "role": "identity_corroboration_only_no_numeric_values_imported"
+        }
+      ],
+      "sensoryStatus": "SENSORY_READY",
+      "sensoryConfidence": "medium",
+      "sensoryReadinessBasis": "当該SKUの実読資料に限定。単一レビューから合意を生成しない。",
+      "sensoryEvidence": {
+        "officialEvidence": [],
+        "retailerEvidence": [
+          {
+            "sourceUrl": "https://item.rakuten.co.jp/sake-ichibun/10007456/",
+            "sourceType": "rakuten_retail",
+            "checkedAt": "2026-10-22T03:55:48.991Z",
+            "retrieved": true,
+            "textHash": "e03019867b7e8d12f09a11e8b62fa01efd0831b798221d73035e333149732e6f",
+            "retrievalMethod": "http_body"
+          },
+          {
+            "sourceUrl": "https://item.rakuten.co.jp/ibaliquors/135/",
+            "sourceType": "specialistRetailer",
+            "checkedAt": "2026-10-22T03:55:50.060Z",
+            "retrieved": true,
+            "textHash": "3653cb1c8ea567aa520d961213c11172c064743b8c8c47d69c5bb4ca14e1fc1e",
+            "retrievalMethod": "http_body"
+          },
+          {
+            "sourceUrl": "https://www.sakenomy.jp/sake/TST0000043380/",
+            "sourceType": "specialistDatabase",
+            "checkedAt": "2026-10-22T04:18:08.453Z",
+            "retrieved": true,
+            "textHash": "4294be2cf6d3e185e02633d2f134e32fa48150ba3b4171e0a973051775ab34c2",
+            "retrievalMethod": "http_body",
+            "role": "identity_corroboration_only_no_numeric_values_imported"
+          }
+        ],
+        "communityEvidence": []
+      },
+      "sensoryConsensus": {
+        "fields": {
+          "sweetness": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "acidity": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "umami": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "aroma": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "body": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "finish": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "bitterness": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "carbonation": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "alcoholImpression": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          }
+        },
+        "acceptedEvidenceIds": [],
+        "excluded": [],
+        "provenance": "editorial_sensory_consensus",
+        "notVerifiedSpecifications": true
+      },
+      "communityEvidence": [],
+      "communityPairings": [],
+      "pairingStatus": "PAIRING_READY",
+      "editorialPairings": [
+        {
+          "dish": "冷奴",
+          "reason": "冷奴をつまみながら、爽やかな香りと甘みを少しずつ。軽快な一杯から始めたい夜に。",
+          "provenance": "yoiEditorial",
+          "sourceUrls": [
+            "https://item.rakuten.co.jp/sake-ichibun/10007456/",
+            "https://item.rakuten.co.jp/ibaliquors/135/",
+            "https://www.sakenomy.jp/sake/TST0000043380/"
+          ],
+          "dishEvidence": {
+            "foodId": "item-1gwo1eu",
+            "pairingProfile": {
+              "name": "冷奴",
+              "directions": [
+                "fresh",
+                "small"
+              ],
+              "method": "豆腐料理",
+              "flavor": "豆腐と薬味のさっぱりした味",
+              "delicate": true
+            }
+          },
+          "sourceScope": "今回確認した当該SKUの特徴と既存料理DBから新規作成。公式・口コミの料理推奨ではない。"
+        },
+        {
+          "dish": "鯛の塩焼き",
+          "reason": "鯛の塩焼きに、甘みと酸のある純米吟醸を。魚の一口とお酒を交互に楽しむ提案です。",
+          "provenance": "yoiEditorial",
+          "sourceUrls": [
+            "https://item.rakuten.co.jp/sake-ichibun/10007456/",
+            "https://item.rakuten.co.jp/ibaliquors/135/",
+            "https://www.sakenomy.jp/sake/TST0000043380/"
+          ],
+          "dishEvidence": {
+            "foodId": "item-1s9xmks"
+          },
+          "sourceScope": "今回確認した当該SKUの特徴と既存料理DBから新規作成。公式・口コミの料理推奨ではない。"
+        },
+        {
+          "dish": "だし巻き卵",
+          "reason": "だし巻き卵と、軽い口当たりの一杯。香りを確かめながらゆっくり味わって。",
+          "provenance": "yoiEditorial",
+          "sourceUrls": [
+            "https://item.rakuten.co.jp/sake-ichibun/10007456/",
+            "https://item.rakuten.co.jp/ibaliquors/135/",
+            "https://www.sakenomy.jp/sake/TST0000043380/"
+          ],
+          "dishEvidence": {
+            "foodId": "item-snidmz",
+            "pairingProfile": {
+              "name": "だし巻き卵",
+              "directions": [
+                "small",
+                "warm",
+                "grilled",
+                "comfort"
+              ],
+              "method": "焼き物",
+              "flavor": "卵とだしのやさしい味",
+              "delicate": true
+            }
+          },
+          "sourceScope": "今回確認した当該SKUの特徴と既存料理DBから新規作成。公式・口コミの料理推奨ではない。"
+        }
+      ],
+      "officialPairings": [],
+      "nightEvidence": [
+        {
+          "nightId": "just-one",
+          "score": 53,
+          "signals": [
+            {
+              "axis": "light",
+              "value": "軽快",
+              "sourceUrl": "https://item.rakuten.co.jp/sake-ichibun/10007456/"
+            },
+            {
+              "axis": "acid",
+              "value": "酸味",
+              "sourceUrl": "https://item.rakuten.co.jp/sake-ichibun/10007456/"
+            }
+          ],
+          "temperatureMatch": false,
+          "temperatureSourceUrls": [],
+          "provenance": "editorialPreferenceFromSourcedFacts",
+          "override": null
+        },
+        {
+          "nightId": "dinner",
+          "score": 20,
+          "signals": [
+            {
+              "axis": "acid",
+              "value": "酸味",
+              "sourceUrl": "https://item.rakuten.co.jp/sake-ichibun/10007456/"
+            }
+          ],
+          "temperatureMatch": false,
+          "temperatureSourceUrls": [],
+          "provenance": "editorialPreferenceFromSourcedFacts",
+          "override": null
+        },
+        {
+          "nightId": "reset",
+          "score": 53,
+          "signals": [
+            {
+              "axis": "light",
+              "value": "軽快",
+              "sourceUrl": "https://item.rakuten.co.jp/sake-ichibun/10007456/"
+            },
+            {
+              "axis": "acid",
+              "value": "酸味",
+              "sourceUrl": "https://item.rakuten.co.jp/sake-ichibun/10007456/"
+            }
+          ],
+          "temperatureMatch": false,
+          "temperatureSourceUrls": [],
+          "provenance": "editorialPreferenceFromSourcedFacts",
+          "override": null
+        },
+        {
+          "nightId": "celebrate",
+          "score": 27,
+          "signals": [
+            {
+              "axis": "light",
+              "value": "軽快",
+              "sourceUrl": "https://item.rakuten.co.jp/sake-ichibun/10007456/"
+            }
+          ],
+          "temperatureMatch": false,
+          "temperatureSourceUrls": [],
+          "provenance": "editorialPreferenceFromSourcedFacts",
+          "override": null
+        },
+        {
+          "nightId": "spring",
+          "score": 27,
+          "signals": [
+            {
+              "axis": "light",
+              "value": "軽快",
+              "sourceUrl": "https://item.rakuten.co.jp/sake-ichibun/10007456/"
+            }
+          ],
+          "temperatureMatch": false,
+          "temperatureSourceUrls": [],
+          "provenance": "editorialPreferenceFromSourcedFacts",
+          "override": null
+        },
+        {
+          "nightId": "humid",
+          "score": 53,
+          "signals": [
+            {
+              "axis": "light",
+              "value": "軽快",
+              "sourceUrl": "https://item.rakuten.co.jp/sake-ichibun/10007456/"
+            },
+            {
+              "axis": "acid",
+              "value": "酸味",
+              "sourceUrl": "https://item.rakuten.co.jp/sake-ichibun/10007456/"
+            }
+          ],
+          "temperatureMatch": false,
+          "temperatureSourceUrls": [],
+          "provenance": "editorialPreferenceFromSourcedFacts",
+          "override": null
+        },
+        {
+          "nightId": "festival",
+          "score": 27,
+          "signals": [
+            {
+              "axis": "light",
+              "value": "軽快",
+              "sourceUrl": "https://item.rakuten.co.jp/sake-ichibun/10007456/"
+            }
+          ],
+          "temperatureMatch": false,
+          "temperatureSourceUrls": [],
+          "provenance": "editorialPreferenceFromSourcedFacts",
+          "override": null
+        }
+      ],
+      "identityDecision": {
+        "breweryConfirmed": true,
+        "productConfirmed": true,
+        "skuConfirmed": true,
+        "majorConflicts": [],
+        "scope": "新IDの別SKU。旧商品との完全一致を主張しない。"
+      },
+      "duplicateChecked": true,
+      "qaPassed": true,
+      "holdReason": [],
+      "visualEvidence": {
+        "reviewed": true,
+        "method": "official_original_gallery_and_product_body",
+        "capacityCompatible": true,
+        "observation": "公式ツール原本のボトル・ラベルと単品本文を照合。画像内の小文字すべてを判読できたとは主張しない。"
+      },
+      "differenceNotes": [
+        {
+          "field": "edition",
+          "differenceNote": "稲倉の棚田産を明示する別SKUとして新ID。火入れ回数・原酒・分析値は未確認のため設定しない。"
+        }
+      ],
+      "confidence": "medium",
+      "lastCheckedAt": "2026-10-22T04:20:11.600Z",
+      "seasonal": false,
+      "automaticPublicationAllowed": false,
+      "reviewPreserved": true,
+      "commercialStatus": "LIVE_PURCHASE_CONFIRMED",
+      "commercialDecision": {
+        "checkedAt": "2026-10-22T03:55:48.991Z",
+        "formalAffiliate": true,
+        "sameSku": true,
+        "registeredSite": "https://yoi-no-ikkon.vercel.app/",
+        "originalSha256": "26f97753b7773ac213741561ecacc500084c31f2b2dd05f41d702d4d712b85eb",
+        "validUntil": "2026-11-21T04:20:12.645Z"
+      },
+      "imageStatus": "FORMAL_IMAGE_CONFIRMED",
+      "imageDecision": {
+        "sameSku": true,
+        "capacityMl": 720,
+        "originalUnmodified": true,
+        "originalSha256": "2fa289d1064523a08d12f6c9b19f4c30977198bccbd24631dc4e28f5e9a038e5",
+        "validUntil": "2026-11-21T04:20:12.645Z"
+      },
+      "publicationApprovedAt": "2026-10-22T04:31:05.515Z",
+      "publicationApprovalSource": "be9798cc-be9c-41a5-becf-4a8b0f7ea66a",
+      "catalogDecision": "OPERATOR_PREAPPROVED_REVIEWED_RELEASE"
+    },
+    {
+      "candidateProductId": "kameizumi-kouiku63-hiyaoroshi-current-v1",
+      "productionProductId": "kameizumi-kouiku63-hiyaoroshi-current-v1",
+      "publishedSakeId": "kameizumi-kouiku63-hiyaoroshi-current-v1",
+      "breweryId": "高知県|亀泉酒造",
+      "breweryName": "亀泉酒造株式会社",
+      "prefecture": "高知県",
+      "brand": "亀泉",
+      "formalProductName": "亀泉 純米吟醸原酒 高育63号 ひやおろし",
+      "capacityMl": 720,
+      "normalUrl": "https://item.rakuten.co.jp/kishuuitibanya/ns-225/",
+      "selectedItemCode": "kishuuitibanya:10002419",
+      "productType": "純米吟醸酒",
+      "state": "ACTIVE",
+      "reviewPhase": "shelf-final",
+      "specStatus": "SPEC_READY",
+      "specConfidence": "medium",
+      "specEvidence": [
+        {
+          "sourceUrl": "https://item.rakuten.co.jp/kishuuitibanya/ns-225/",
+          "sourceType": "rakuten_retail",
+          "checkedAt": "2026-10-22T03:55:58.558Z",
+          "retrieved": true,
+          "textHash": "d8754d7603dc29431a9832f4d06074de497507c1e1ea890bedb8f614b2bef501",
+          "retrievalMethod": "http_body"
+        },
+        {
+          "sourceUrl": "https://www.syusendo-horiichi.co.jp/SHOP/13566.html",
+          "sourceType": "specialistRetailer",
+          "retrieved": true,
+          "retrievalMethod": "web.open",
+          "reference": "turn1801view1",
+          "checkedAt": "2026-10-22",
+          "facts": {
+            "productName": "亀泉 純米吟醸原酒 高育63号 ひやおろし 720ml",
+            "brewery": "亀泉酒造",
+            "riceVariety": [
+              "風鳴子"
+            ],
+            "riceOrigin": "高知県",
+            "polishingRatio": "55%",
+            "alcoholPercentage": "16.5度",
+            "yeast": "AA-41"
+          },
+          "directFetchOutcome": "timeout; not reclassified as successful HTTP fetch",
+          "scope": "product",
+          "stockUsed": false,
+          "oldEditionNumericValuesNotImported": true,
+          "textHash": "c72fc97600e40f717406d1cce12b2464016b69cd24e2e0f7f9b70376a89082fc"
+        }
+      ],
+      "sensoryStatus": "SENSORY_READY",
+      "sensoryConfidence": "medium",
+      "sensoryReadinessBasis": "当該SKUの実読資料に限定。単一レビューから合意を生成しない。",
+      "sensoryEvidence": {
+        "officialEvidence": [],
+        "retailerEvidence": [
+          {
+            "sourceUrl": "https://item.rakuten.co.jp/kishuuitibanya/ns-225/",
+            "sourceType": "rakuten_retail",
+            "checkedAt": "2026-10-22T03:55:58.558Z",
+            "retrieved": true,
+            "textHash": "d8754d7603dc29431a9832f4d06074de497507c1e1ea890bedb8f614b2bef501",
+            "retrievalMethod": "http_body"
+          },
+          {
+            "sourceUrl": "https://www.syusendo-horiichi.co.jp/SHOP/13566.html",
+            "sourceType": "specialistRetailer",
+            "retrieved": true,
+            "retrievalMethod": "web.open",
+            "reference": "turn1801view1",
+            "checkedAt": "2026-10-22",
+            "facts": {
+              "productName": "亀泉 純米吟醸原酒 高育63号 ひやおろし 720ml",
+              "brewery": "亀泉酒造",
+              "riceVariety": [
+                "風鳴子"
+              ],
+              "riceOrigin": "高知県",
+              "polishingRatio": "55%",
+              "alcoholPercentage": "16.5度",
+              "yeast": "AA-41"
+            },
+            "directFetchOutcome": "timeout; not reclassified as successful HTTP fetch",
+            "scope": "product",
+            "stockUsed": false,
+            "oldEditionNumericValuesNotImported": true,
+            "textHash": "c72fc97600e40f717406d1cce12b2464016b69cd24e2e0f7f9b70376a89082fc"
+          }
+        ],
+        "communityEvidence": []
+      },
+      "sensoryConsensus": {
+        "fields": {
+          "sweetness": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "acidity": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "umami": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "aroma": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "body": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "finish": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "bitterness": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "carbonation": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "alcoholImpression": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          }
+        },
+        "acceptedEvidenceIds": [],
+        "excluded": [],
+        "provenance": "editorial_sensory_consensus",
+        "notVerifiedSpecifications": true
+      },
+      "communityEvidence": [],
+      "communityPairings": [],
+      "pairingStatus": "PAIRING_READY",
+      "editorialPairings": [
+        {
+          "dish": "焼き鮭",
+          "reason": "焼き鮭と、ふくらみのある旨みの亀泉を。ひと口ごとにシャープな後味を楽しむ組み合わせです。",
+          "provenance": "yoiEditorial",
+          "sourceUrls": [
+            "https://item.rakuten.co.jp/kishuuitibanya/ns-225/",
+            "https://www.syusendo-horiichi.co.jp/SHOP/13566.html"
+          ],
+          "dishEvidence": {
+            "foodId": "item-avnlz1"
+          },
+          "sourceScope": "今回確認した当該SKUの特徴と既存料理DBから新規作成。公式・口コミの料理推奨ではない。"
+        },
+        {
+          "dish": "きのこのホイル焼き",
+          "reason": "きのこのホイル焼きをつまみに、秋の亀泉を少しずつ。香りと旨みを急がず味わって。",
+          "provenance": "yoiEditorial",
+          "sourceUrls": [
+            "https://item.rakuten.co.jp/kishuuitibanya/ns-225/",
+            "https://www.syusendo-horiichi.co.jp/SHOP/13566.html"
+          ],
+          "dishEvidence": {
+            "foodId": "item-1akkb7y"
+          },
+          "sourceScope": "今回確認した当該SKUの特徴と既存料理DBから新規作成。公式・口コミの料理推奨ではない。"
+        },
+        {
+          "dish": "鶏の照り焼き",
+          "reason": "照り焼きのあとに、キレのある原酒を。料理とお酒の味を交互に確かめる提案です。",
+          "provenance": "yoiEditorial",
+          "sourceUrls": [
+            "https://item.rakuten.co.jp/kishuuitibanya/ns-225/",
+            "https://www.syusendo-horiichi.co.jp/SHOP/13566.html"
+          ],
+          "dishEvidence": {
+            "foodId": "item-1i89m16",
+            "pairingProfile": {
+              "name": "鶏の照り焼き",
+              "directions": [
+                "hearty",
+                "grilled"
+              ],
+              "method": "焼き物",
+              "flavor": "甘辛いタレ",
+              "rich": true
+            }
+          },
+          "sourceScope": "今回確認した当該SKUの特徴と既存料理DBから新規作成。公式・口コミの料理推奨ではない。"
+        }
+      ],
+      "officialPairings": [],
+      "nightEvidence": [
+        {
+          "nightId": "after-work",
+          "score": 53,
+          "signals": [
+            {
+              "axis": "umami",
+              "value": "ふくらみのある旨味",
+              "sourceUrl": "https://item.rakuten.co.jp/kishuuitibanya/ns-225/"
+            },
+            {
+              "axis": "body",
+              "value": "ふくらみのある旨味",
+              "sourceUrl": "https://item.rakuten.co.jp/kishuuitibanya/ns-225/"
+            }
+          ],
+          "temperatureMatch": false,
+          "temperatureSourceUrls": [],
+          "provenance": "editorialPreferenceFromSourcedFacts",
+          "override": null
+        },
+        {
+          "nightId": "treat",
+          "score": 27,
+          "signals": [
+            {
+              "axis": "aroma",
+              "value": "フルーティな香り",
+              "sourceUrl": "https://item.rakuten.co.jp/kishuuitibanya/ns-225/"
+            }
+          ],
+          "temperatureMatch": false,
+          "temperatureSourceUrls": [],
+          "provenance": "editorialPreferenceFromSourcedFacts",
+          "override": null
+        },
+        {
+          "nightId": "just-one",
+          "score": 27,
+          "signals": [
+            {
+              "axis": "clean",
+              "value": "キレ",
+              "sourceUrl": "https://item.rakuten.co.jp/kishuuitibanya/ns-225/"
+            }
+          ],
+          "temperatureMatch": false,
+          "temperatureSourceUrls": [],
+          "provenance": "editorialPreferenceFromSourcedFacts",
+          "override": null
+        },
+        {
+          "nightId": "dinner",
+          "score": 40,
+          "signals": [
+            {
+              "axis": "umami",
+              "value": "ふくらみのある旨味",
+              "sourceUrl": "https://item.rakuten.co.jp/kishuuitibanya/ns-225/"
+            },
+            {
+              "axis": "body",
+              "value": "ふくらみのある旨味",
+              "sourceUrl": "https://item.rakuten.co.jp/kishuuitibanya/ns-225/"
+            }
+          ],
+          "temperatureMatch": false,
+          "temperatureSourceUrls": [],
+          "provenance": "editorialPreferenceFromSourcedFacts",
+          "override": null
+        },
+        {
+          "nightId": "reset",
+          "score": 27,
+          "signals": [
+            {
+              "axis": "clean",
+              "value": "キレ",
+              "sourceUrl": "https://item.rakuten.co.jp/kishuuitibanya/ns-225/"
+            }
+          ],
+          "temperatureMatch": false,
+          "temperatureSourceUrls": [],
+          "provenance": "editorialPreferenceFromSourcedFacts",
+          "override": null
+        },
+        {
+          "nightId": "celebrate",
+          "score": 27,
+          "signals": [
+            {
+              "axis": "aroma",
+              "value": "フルーティな香り",
+              "sourceUrl": "https://item.rakuten.co.jp/kishuuitibanya/ns-225/"
+            }
+          ],
+          "temperatureMatch": false,
+          "temperatureSourceUrls": [],
+          "provenance": "editorialPreferenceFromSourcedFacts",
+          "override": null
+        },
+        {
+          "nightId": "lingering",
+          "score": 40,
+          "signals": [
+            {
+              "axis": "umami",
+              "value": "ふくらみのある旨味",
+              "sourceUrl": "https://item.rakuten.co.jp/kishuuitibanya/ns-225/"
+            },
+            {
+              "axis": "body",
+              "value": "ふくらみのある旨味",
+              "sourceUrl": "https://item.rakuten.co.jp/kishuuitibanya/ns-225/"
+            }
+          ],
+          "temperatureMatch": false,
+          "temperatureSourceUrls": [],
+          "provenance": "editorialPreferenceFromSourcedFacts",
+          "override": null
+        },
+        {
+          "nightId": "ordinary",
+          "score": 27,
+          "signals": [
+            {
+              "axis": "umami",
+              "value": "ふくらみのある旨味",
+              "sourceUrl": "https://item.rakuten.co.jp/kishuuitibanya/ns-225/"
+            }
+          ],
+          "temperatureMatch": false,
+          "temperatureSourceUrls": [],
+          "provenance": "editorialPreferenceFromSourcedFacts",
+          "override": null
+        },
+        {
+          "nightId": "spring",
+          "score": 27,
+          "signals": [
+            {
+              "axis": "aroma",
+              "value": "フルーティな香り",
+              "sourceUrl": "https://item.rakuten.co.jp/kishuuitibanya/ns-225/"
+            }
+          ],
+          "temperatureMatch": false,
+          "temperatureSourceUrls": [],
+          "provenance": "editorialPreferenceFromSourcedFacts",
+          "override": null
+        },
+        {
+          "nightId": "rain",
+          "score": 27,
+          "signals": [
+            {
+              "axis": "umami",
+              "value": "ふくらみのある旨味",
+              "sourceUrl": "https://item.rakuten.co.jp/kishuuitibanya/ns-225/"
+            }
+          ],
+          "temperatureMatch": false,
+          "temperatureSourceUrls": [],
+          "provenance": "editorialPreferenceFromSourcedFacts",
+          "override": null
+        },
+        {
+          "nightId": "humid",
+          "score": 27,
+          "signals": [
+            {
+              "axis": "clean",
+              "value": "キレ",
+              "sourceUrl": "https://item.rakuten.co.jp/kishuuitibanya/ns-225/"
+            }
+          ],
+          "temperatureMatch": false,
+          "temperatureSourceUrls": [],
+          "provenance": "editorialPreferenceFromSourcedFacts",
+          "override": null
+        },
+        {
+          "nightId": "festival",
+          "score": 53,
+          "signals": [
+            {
+              "axis": "aroma",
+              "value": "フルーティな香り",
+              "sourceUrl": "https://item.rakuten.co.jp/kishuuitibanya/ns-225/"
+            },
+            {
+              "axis": "clean",
+              "value": "キレ",
+              "sourceUrl": "https://item.rakuten.co.jp/kishuuitibanya/ns-225/"
+            }
+          ],
+          "temperatureMatch": false,
+          "temperatureSourceUrls": [],
+          "provenance": "editorialPreferenceFromSourcedFacts",
+          "override": null
+        },
+        {
+          "nightId": "autumn",
+          "score": 53,
+          "signals": [
+            {
+              "axis": "umami",
+              "value": "ふくらみのある旨味",
+              "sourceUrl": "https://item.rakuten.co.jp/kishuuitibanya/ns-225/"
+            },
+            {
+              "axis": "body",
+              "value": "ふくらみのある旨味",
+              "sourceUrl": "https://item.rakuten.co.jp/kishuuitibanya/ns-225/"
+            }
+          ],
+          "temperatureMatch": false,
+          "temperatureSourceUrls": [],
+          "provenance": "editorialPreferenceFromSourcedFacts",
+          "override": null
+        },
+        {
+          "nightId": "cold",
+          "score": 80,
+          "signals": [
+            {
+              "axis": "umami",
+              "value": "ふくらみのある旨味",
+              "sourceUrl": "https://item.rakuten.co.jp/kishuuitibanya/ns-225/"
+            },
+            {
+              "axis": "body",
+              "value": "ふくらみのある旨味",
+              "sourceUrl": "https://item.rakuten.co.jp/kishuuitibanya/ns-225/"
+            }
+          ],
+          "temperatureMatch": false,
+          "temperatureSourceUrls": [],
+          "provenance": "editorialPreferenceFromSourcedFacts",
+          "override": null
+        },
+        {
+          "nightId": "snow",
+          "score": 27,
+          "signals": [
+            {
+              "axis": "umami",
+              "value": "ふくらみのある旨味",
+              "sourceUrl": "https://item.rakuten.co.jp/kishuuitibanya/ns-225/"
+            }
+          ],
+          "temperatureMatch": false,
+          "temperatureSourceUrls": [],
+          "provenance": "editorialPreferenceFromSourcedFacts",
+          "override": null
+        },
+        {
+          "nightId": "year-end",
+          "score": 40,
+          "signals": [
+            {
+              "axis": "umami",
+              "value": "ふくらみのある旨味",
+              "sourceUrl": "https://item.rakuten.co.jp/kishuuitibanya/ns-225/"
+            },
+            {
+              "axis": "body",
+              "value": "ふくらみのある旨味",
+              "sourceUrl": "https://item.rakuten.co.jp/kishuuitibanya/ns-225/"
+            }
+          ],
+          "temperatureMatch": false,
+          "temperatureSourceUrls": [],
+          "provenance": "editorialPreferenceFromSourcedFacts",
+          "override": null
+        }
+      ],
+      "identityDecision": {
+        "breweryConfirmed": true,
+        "productConfirmed": true,
+        "skuConfirmed": true,
+        "majorConflicts": [],
+        "scope": "新IDの別SKU。旧商品との完全一致を主張しない。"
+      },
+      "duplicateChecked": true,
+      "qaPassed": true,
+      "holdReason": [],
+      "visualEvidence": {
+        "reviewed": true,
+        "method": "official_original_gallery_and_product_body",
+        "capacityCompatible": true,
+        "observation": "公式ツール原本のボトル・ラベルと単品本文を照合。画像内の小文字すべてを判読できたとは主張しない。"
+      },
+      "differenceNotes": [
+        {
+          "field": "edition",
+          "differenceNote": "CEL-24と異なる風鳴子・ひやおろし。保管温度を飲用温度へ転用しない。"
+        }
+      ],
+      "confidence": "medium",
+      "lastCheckedAt": "2026-10-22T04:20:11.600Z",
+      "seasonal": true,
+      "automaticPublicationAllowed": false,
+      "reviewPreserved": true,
+      "commercialStatus": "LIVE_PURCHASE_CONFIRMED",
+      "commercialDecision": {
+        "checkedAt": "2026-10-22T03:55:58.558Z",
+        "formalAffiliate": true,
+        "sameSku": true,
+        "registeredSite": "https://yoi-no-ikkon.vercel.app/",
+        "originalSha256": "8370e6be50f9132e21ef3c11711aea5193caa2bc8a480e38acb9ab7f33326102",
+        "validUntil": "2026-11-21T04:20:12.645Z"
+      },
+      "imageStatus": "FORMAL_IMAGE_CONFIRMED",
+      "imageDecision": {
+        "sameSku": true,
+        "capacityMl": 720,
+        "originalUnmodified": true,
+        "originalSha256": "20f0e001edea27d5982d617987742f4c900238305e1730b14ae0b609e457ca3a",
+        "validUntil": "2026-11-21T04:20:12.645Z"
+      },
+      "publicationApprovedAt": "2026-10-22T04:31:05.515Z",
+      "publicationApprovalSource": "be9798cc-be9c-41a5-becf-4a8b0f7ea66a",
+      "catalogDecision": "OPERATOR_PREAPPROVED_REVIEWED_RELEASE"
+    },
+    {
+      "candidateProductId": "tokachi-tokubetsu-junmai-suisei-current-v1",
+      "productionProductId": "tokachi-tokubetsu-junmai-suisei-current-v1",
+      "publishedSakeId": "tokachi-tokubetsu-junmai-suisei-current-v1",
+      "breweryId": "北海道|上川大雪酒造",
+      "breweryName": "上川大雪酒造株式会社",
+      "prefecture": "北海道",
+      "brand": "十勝",
+      "formalProductName": "十勝 特別純米 彗星",
+      "capacityMl": 720,
+      "normalUrl": "https://item.rakuten.co.jp/mighty-liquors/10005345/",
+      "selectedItemCode": "mighty-liquors:10005345",
+      "productType": "特別純米酒",
+      "state": "ACTIVE",
+      "reviewPhase": "shelf-final",
+      "specStatus": "SPEC_READY",
+      "specConfidence": "high",
+      "specEvidence": [
+        {
+          "sourceUrl": "https://shop.kamikawa-taisetsu.co.jp/shopdetail/000000000311/",
+          "sourceType": "official_shop",
+          "checkedAt": "2026-10-22T04:11:09.781Z",
+          "retrieved": true,
+          "textHash": "b0f5ce740d1075b34f97a4510d3a9ffdf735254aedca39b4f18c457b104fe29c",
+          "retrievalMethod": "http_body"
+        },
+        {
+          "sourceUrl": "https://item.rakuten.co.jp/mighty-liquors/10005345/",
+          "sourceType": "rakuten_retail",
+          "checkedAt": "2026-10-22T03:56:03.374Z",
+          "retrieved": true,
+          "textHash": "6e85e471cd6047260f2289fc098cfcd99afaae8870592ddbc22b1eecd5ad1297",
+          "retrievalMethod": "http_body"
+        }
+      ],
+      "sensoryStatus": "SENSORY_READY",
+      "sensoryConfidence": "medium",
+      "sensoryReadinessBasis": "当該SKUの実読資料に限定。単一レビューから合意を生成しない。",
+      "sensoryEvidence": {
+        "officialEvidence": [
+          {
+            "sourceUrl": "https://shop.kamikawa-taisetsu.co.jp/shopdetail/000000000311/",
+            "sourceType": "official_shop",
+            "checkedAt": "2026-10-22T04:11:09.781Z",
+            "retrieved": true,
+            "textHash": "b0f5ce740d1075b34f97a4510d3a9ffdf735254aedca39b4f18c457b104fe29c",
+            "retrievalMethod": "http_body"
+          }
+        ],
+        "retailerEvidence": [
+          {
+            "sourceUrl": "https://item.rakuten.co.jp/mighty-liquors/10005345/",
+            "sourceType": "rakuten_retail",
+            "checkedAt": "2026-10-22T03:56:03.374Z",
+            "retrieved": true,
+            "textHash": "6e85e471cd6047260f2289fc098cfcd99afaae8870592ddbc22b1eecd5ad1297",
+            "retrievalMethod": "http_body"
+          }
+        ],
+        "communityEvidence": []
+      },
+      "sensoryConsensus": {
+        "fields": {
+          "sweetness": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "acidity": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "umami": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "aroma": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "body": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "finish": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "bitterness": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "carbonation": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "alcoholImpression": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          }
+        },
+        "acceptedEvidenceIds": [],
+        "excluded": [],
+        "provenance": "editorial_sensory_consensus",
+        "notVerifiedSpecifications": true
+      },
+      "communityEvidence": [],
+      "communityPairings": [],
+      "pairingStatus": "PAIRING_READY",
+      "editorialPairings": [
+        {
+          "dish": "焼き鮭",
+          "reason": "焼き鮭をひと口、キレのある十勝をひと口。いつもの魚料理から試したい組み合わせです。",
+          "provenance": "yoiEditorial",
+          "sourceUrls": [
+            "https://shop.kamikawa-taisetsu.co.jp/shopdetail/000000000311/",
+            "https://item.rakuten.co.jp/mighty-liquors/10005345/"
+          ],
+          "dishEvidence": {
+            "foodId": "item-avnlz1"
+          },
+          "sourceScope": "今回確認した当該SKUの特徴と既存料理DBから新規作成。公式・口コミの料理推奨ではない。"
+        },
+        {
+          "dish": "肉じゃが",
+          "reason": "肉じゃがと、後味のキレを楽しむ特別純米。おかずをつまみながらゆっくりと。",
+          "provenance": "yoiEditorial",
+          "sourceUrls": [
+            "https://shop.kamikawa-taisetsu.co.jp/shopdetail/000000000311/",
+            "https://item.rakuten.co.jp/mighty-liquors/10005345/"
+          ],
+          "dishEvidence": {
+            "foodId": "item-13w7k4b",
+            "pairingProfile": {
+              "name": "肉じゃが",
+              "directions": [
+                "warm",
+                "hearty",
+                "comfort"
+              ],
+              "method": "煮物",
+              "flavor": "甘辛い煮汁",
+              "rich": true
+            }
+          },
+          "sourceScope": "今回確認した当該SKUの特徴と既存料理DBから新規作成。公式・口コミの料理推奨ではない。"
+        },
+        {
+          "dish": "冷奴",
+          "reason": "冷奴に十勝を添えて、飲み終わりの表情を確かめて。静かな食卓への提案です。",
+          "provenance": "yoiEditorial",
+          "sourceUrls": [
+            "https://shop.kamikawa-taisetsu.co.jp/shopdetail/000000000311/",
+            "https://item.rakuten.co.jp/mighty-liquors/10005345/"
+          ],
+          "dishEvidence": {
+            "foodId": "item-1gwo1eu",
+            "pairingProfile": {
+              "name": "冷奴",
+              "directions": [
+                "fresh",
+                "small"
+              ],
+              "method": "豆腐料理",
+              "flavor": "豆腐と薬味のさっぱりした味",
+              "delicate": true
+            }
+          },
+          "sourceScope": "今回確認した当該SKUの特徴と既存料理DBから新規作成。公式・口コミの料理推奨ではない。"
+        }
+      ],
+      "officialPairings": [],
+      "nightEvidence": [
+        {
+          "nightId": "just-one",
+          "score": 27,
+          "signals": [
+            {
+              "axis": "clean",
+              "value": "キレ",
+              "sourceUrl": "https://shop.kamikawa-taisetsu.co.jp/shopdetail/000000000311/"
+            }
+          ],
+          "temperatureMatch": false,
+          "temperatureSourceUrls": [],
+          "provenance": "editorialPreferenceFromSourcedFacts",
+          "override": null
+        },
+        {
+          "nightId": "reset",
+          "score": 27,
+          "signals": [
+            {
+              "axis": "clean",
+              "value": "キレ",
+              "sourceUrl": "https://shop.kamikawa-taisetsu.co.jp/shopdetail/000000000311/"
+            }
+          ],
+          "temperatureMatch": false,
+          "temperatureSourceUrls": [],
+          "provenance": "editorialPreferenceFromSourcedFacts",
+          "override": null
+        },
+        {
+          "nightId": "humid",
+          "score": 27,
+          "signals": [
+            {
+              "axis": "clean",
+              "value": "キレ",
+              "sourceUrl": "https://shop.kamikawa-taisetsu.co.jp/shopdetail/000000000311/"
+            }
+          ],
+          "temperatureMatch": false,
+          "temperatureSourceUrls": [],
+          "provenance": "editorialPreferenceFromSourcedFacts",
+          "override": null
+        },
+        {
+          "nightId": "festival",
+          "score": 27,
+          "signals": [
+            {
+              "axis": "clean",
+              "value": "キレ",
+              "sourceUrl": "https://shop.kamikawa-taisetsu.co.jp/shopdetail/000000000311/"
+            }
+          ],
+          "temperatureMatch": false,
+          "temperatureSourceUrls": [],
+          "provenance": "editorialPreferenceFromSourcedFacts",
+          "override": null
+        }
+      ],
+      "identityDecision": {
+        "breweryConfirmed": true,
+        "productConfirmed": true,
+        "skuConfirmed": true,
+        "majorConflicts": [],
+        "scope": "新IDの別SKU。旧商品との完全一致を主張しない。"
+      },
+      "duplicateChecked": true,
+      "qaPassed": true,
+      "holdReason": [],
+      "visualEvidence": {
+        "reviewed": true,
+        "method": "official_original_gallery_and_product_body",
+        "capacityCompatible": true,
+        "observation": "公式ツール原本のボトル・ラベルと単品本文を照合。画像内の小文字すべてを判読できたとは主張しない。"
+      },
+      "differenceNotes": [
+        {
+          "field": "edition",
+          "differenceNote": "緑丘蔵の上川大雪とは別の碧雲蔵・十勝。米品種は販売SKU本文の彗星表記で確認し、公式の品種未記載スペックを補完しない。"
+        }
+      ],
+      "confidence": "high",
+      "lastCheckedAt": "2026-10-22T04:20:11.600Z",
+      "seasonal": false,
+      "automaticPublicationAllowed": false,
+      "reviewPreserved": true,
+      "commercialStatus": "LIVE_PURCHASE_CONFIRMED",
+      "commercialDecision": {
+        "checkedAt": "2026-10-22T03:56:03.374Z",
+        "formalAffiliate": true,
+        "sameSku": true,
+        "registeredSite": "https://yoi-no-ikkon.vercel.app/",
+        "originalSha256": "bdc20e1a8db5c0eea101ce5409b350ff957d816d7dfd31c83333eb68aae4e6fd",
+        "validUntil": "2026-11-21T04:20:12.645Z"
+      },
+      "imageStatus": "FORMAL_IMAGE_CONFIRMED",
+      "imageDecision": {
+        "sameSku": true,
+        "capacityMl": 720,
+        "originalUnmodified": true,
+        "originalSha256": "91999e3b7310e5c18702784a10d1fab60179272667f9c3118b4b397f24cbdb50",
+        "validUntil": "2026-11-21T04:20:12.645Z"
+      },
+      "publicationApprovedAt": "2026-10-22T04:31:05.515Z",
+      "publicationApprovalSource": "be9798cc-be9c-41a5-becf-4a8b0f7ea66a",
+      "catalogDecision": "OPERATOR_PREAPPROVED_REVIEWED_RELEASE"
+    },
+    {
+      "candidateProductId": "abe-silver-hiire-current-v1",
+      "productionProductId": "abe-silver-hiire-current-v1",
+      "publishedSakeId": "abe-silver-hiire-current-v1",
+      "breweryId": "新潟県|阿部酒造",
+      "breweryName": "阿部酒造株式会社",
+      "prefecture": "新潟県",
+      "brand": "あべ",
+      "formalProductName": "あべ シルバー 火入れ",
+      "capacityMl": 720,
+      "normalUrl": "https://item.rakuten.co.jp/e-wine/dw196/",
+      "selectedItemCode": "e-wine:10016114",
+      "productType": "日本酒",
+      "state": "ACTIVE",
+      "reviewPhase": "shelf-final",
+      "specStatus": "SPEC_READY",
+      "specConfidence": "medium",
+      "specEvidence": [
+        {
+          "sourceUrl": "https://item.rakuten.co.jp/e-wine/dw196/",
+          "sourceType": "rakuten_retail",
+          "checkedAt": "2026-10-22T03:56:10.604Z",
+          "retrieved": true,
+          "textHash": "f114917063698793ac6c0eb2e67ff4af6d323fc61ae1bfd249e4b45d580c147d",
+          "retrievalMethod": "http_body"
+        },
+        {
+          "sourceUrl": "https://www.kanese.com/SHOP/16458.html",
+          "sourceType": "specialistRetailer",
+          "checkedAt": "2026-10-22T04:11:11.886Z",
+          "retrieved": true,
+          "textHash": "a37b09a5b567c3f3dd1ee8c387785466bd75256ad88ac540c033b3a69e06f537",
+          "retrievalMethod": "http_body"
+        }
+      ],
+      "sensoryStatus": "SENSORY_READY",
+      "sensoryConfidence": "medium",
+      "sensoryReadinessBasis": "当該SKUの実読資料に限定。単一レビューから合意を生成しない。",
+      "sensoryEvidence": {
+        "officialEvidence": [],
+        "retailerEvidence": [
+          {
+            "sourceUrl": "https://item.rakuten.co.jp/e-wine/dw196/",
+            "sourceType": "rakuten_retail",
+            "checkedAt": "2026-10-22T03:56:10.604Z",
+            "retrieved": true,
+            "textHash": "f114917063698793ac6c0eb2e67ff4af6d323fc61ae1bfd249e4b45d580c147d",
+            "retrievalMethod": "http_body"
+          },
+          {
+            "sourceUrl": "https://www.kanese.com/SHOP/16458.html",
+            "sourceType": "specialistRetailer",
+            "checkedAt": "2026-10-22T04:11:11.886Z",
+            "retrieved": true,
+            "textHash": "a37b09a5b567c3f3dd1ee8c387785466bd75256ad88ac540c033b3a69e06f537",
+            "retrievalMethod": "http_body"
+          }
+        ],
+        "communityEvidence": []
+      },
+      "sensoryConsensus": {
+        "fields": {
+          "sweetness": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "acidity": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "umami": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "aroma": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "body": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "finish": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "bitterness": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "carbonation": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "alcoholImpression": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          }
+        },
+        "acceptedEvidenceIds": [],
+        "excluded": [],
+        "provenance": "editorial_sensory_consensus",
+        "notVerifiedSpecifications": true
+      },
+      "communityEvidence": [],
+      "communityPairings": [],
+      "pairingStatus": "PAIRING_READY",
+      "editorialPairings": [
+        {
+          "dish": "冷奴",
+          "reason": "冷奴に、やさしい旨みのあべを添えて。軽やかな飲み口をゆっくり楽しむ提案です。",
+          "provenance": "yoiEditorial",
+          "sourceUrls": [
+            "https://item.rakuten.co.jp/e-wine/dw196/",
+            "https://www.kanese.com/SHOP/16458.html"
+          ],
+          "dishEvidence": {
+            "foodId": "item-1gwo1eu",
+            "pairingProfile": {
+              "name": "冷奴",
+              "directions": [
+                "fresh",
+                "small"
+              ],
+              "method": "豆腐料理",
+              "flavor": "豆腐と薬味のさっぱりした味",
+              "delicate": true
+            }
+          },
+          "sourceScope": "今回確認した当該SKUの特徴と既存料理DBから新規作成。公式・口コミの料理推奨ではない。"
+        },
+        {
+          "dish": "豚しゃぶサラダ",
+          "reason": "豚しゃぶサラダと、ほどよい酸のある一杯を。ひと口ずつ交互に味わって。",
+          "provenance": "yoiEditorial",
+          "sourceUrls": [
+            "https://item.rakuten.co.jp/e-wine/dw196/",
+            "https://www.kanese.com/SHOP/16458.html"
+          ],
+          "dishEvidence": {
+            "foodId": "item-1wbiu6r",
+            "pairingProfile": {
+              "name": "豚しゃぶサラダ",
+              "directions": [
+                "fresh",
+                "hearty"
+              ],
+              "method": "サラダ",
+              "flavor": "豚肉と野菜の軽い口当たり",
+              "delicate": true
+            }
+          },
+          "sourceScope": "今回確認した当該SKUの特徴と既存料理DBから新規作成。公式・口コミの料理推奨ではない。"
+        },
+        {
+          "dish": "だし巻き卵",
+          "reason": "だし巻き卵をつまみながら、軽やかなあべを少しずつ。気負わない晩ごはんに。",
+          "provenance": "yoiEditorial",
+          "sourceUrls": [
+            "https://item.rakuten.co.jp/e-wine/dw196/",
+            "https://www.kanese.com/SHOP/16458.html"
+          ],
+          "dishEvidence": {
+            "foodId": "item-snidmz",
+            "pairingProfile": {
+              "name": "だし巻き卵",
+              "directions": [
+                "small",
+                "warm",
+                "grilled",
+                "comfort"
+              ],
+              "method": "焼き物",
+              "flavor": "卵とだしのやさしい味",
+              "delicate": true
+            }
+          },
+          "sourceScope": "今回確認した当該SKUの特徴と既存料理DBから新規作成。公式・口コミの料理推奨ではない。"
+        }
+      ],
+      "officialPairings": [],
+      "nightEvidence": [
+        {
+          "nightId": "after-work",
+          "score": 27,
+          "signals": [
+            {
+              "axis": "umami",
+              "value": "やさしい旨味",
+              "sourceUrl": "https://item.rakuten.co.jp/e-wine/dw196/"
+            }
+          ],
+          "temperatureMatch": false,
+          "temperatureSourceUrls": [],
+          "provenance": "editorialPreferenceFromSourcedFacts",
+          "override": null
+        },
+        {
+          "nightId": "just-one",
+          "score": 53,
+          "signals": [
+            {
+              "axis": "light",
+              "value": "軽やか",
+              "sourceUrl": "https://item.rakuten.co.jp/e-wine/dw196/"
+            },
+            {
+              "axis": "acid",
+              "value": "ほどよい酸味",
+              "sourceUrl": "https://item.rakuten.co.jp/e-wine/dw196/"
+            }
+          ],
+          "temperatureMatch": false,
+          "temperatureSourceUrls": [],
+          "provenance": "editorialPreferenceFromSourcedFacts",
+          "override": null
+        },
+        {
+          "nightId": "dinner",
+          "score": 40,
+          "signals": [
+            {
+              "axis": "umami",
+              "value": "やさしい旨味",
+              "sourceUrl": "https://item.rakuten.co.jp/e-wine/dw196/"
+            },
+            {
+              "axis": "acid",
+              "value": "ほどよい酸味",
+              "sourceUrl": "https://item.rakuten.co.jp/e-wine/dw196/"
+            }
+          ],
+          "temperatureMatch": false,
+          "temperatureSourceUrls": [],
+          "provenance": "editorialPreferenceFromSourcedFacts",
+          "override": null
+        },
+        {
+          "nightId": "reset",
+          "score": 53,
+          "signals": [
+            {
+              "axis": "light",
+              "value": "軽やか",
+              "sourceUrl": "https://item.rakuten.co.jp/e-wine/dw196/"
+            },
+            {
+              "axis": "acid",
+              "value": "ほどよい酸味",
+              "sourceUrl": "https://item.rakuten.co.jp/e-wine/dw196/"
+            }
+          ],
+          "temperatureMatch": false,
+          "temperatureSourceUrls": [],
+          "provenance": "editorialPreferenceFromSourcedFacts",
+          "override": null
+        },
+        {
+          "nightId": "celebrate",
+          "score": 27,
+          "signals": [
+            {
+              "axis": "light",
+              "value": "軽やか",
+              "sourceUrl": "https://item.rakuten.co.jp/e-wine/dw196/"
+            }
+          ],
+          "temperatureMatch": false,
+          "temperatureSourceUrls": [],
+          "provenance": "editorialPreferenceFromSourcedFacts",
+          "override": null
+        },
+        {
+          "nightId": "lingering",
+          "score": 20,
+          "signals": [
+            {
+              "axis": "umami",
+              "value": "やさしい旨味",
+              "sourceUrl": "https://item.rakuten.co.jp/e-wine/dw196/"
+            }
+          ],
+          "temperatureMatch": false,
+          "temperatureSourceUrls": [],
+          "provenance": "editorialPreferenceFromSourcedFacts",
+          "override": null
+        },
+        {
+          "nightId": "ordinary",
+          "score": 27,
+          "signals": [
+            {
+              "axis": "umami",
+              "value": "やさしい旨味",
+              "sourceUrl": "https://item.rakuten.co.jp/e-wine/dw196/"
+            }
+          ],
+          "temperatureMatch": false,
+          "temperatureSourceUrls": [],
+          "provenance": "editorialPreferenceFromSourcedFacts",
+          "override": null
+        },
+        {
+          "nightId": "spring",
+          "score": 27,
+          "signals": [
+            {
+              "axis": "light",
+              "value": "軽やか",
+              "sourceUrl": "https://item.rakuten.co.jp/e-wine/dw196/"
+            }
+          ],
+          "temperatureMatch": false,
+          "temperatureSourceUrls": [],
+          "provenance": "editorialPreferenceFromSourcedFacts",
+          "override": null
+        },
+        {
+          "nightId": "rain",
+          "score": 27,
+          "signals": [
+            {
+              "axis": "umami",
+              "value": "やさしい旨味",
+              "sourceUrl": "https://item.rakuten.co.jp/e-wine/dw196/"
+            }
+          ],
+          "temperatureMatch": false,
+          "temperatureSourceUrls": [],
+          "provenance": "editorialPreferenceFromSourcedFacts",
+          "override": null
+        },
+        {
+          "nightId": "humid",
+          "score": 53,
+          "signals": [
+            {
+              "axis": "light",
+              "value": "軽やか",
+              "sourceUrl": "https://item.rakuten.co.jp/e-wine/dw196/"
+            },
+            {
+              "axis": "acid",
+              "value": "ほどよい酸味",
+              "sourceUrl": "https://item.rakuten.co.jp/e-wine/dw196/"
+            }
+          ],
+          "temperatureMatch": false,
+          "temperatureSourceUrls": [],
+          "provenance": "editorialPreferenceFromSourcedFacts",
+          "override": null
+        },
+        {
+          "nightId": "festival",
+          "score": 27,
+          "signals": [
+            {
+              "axis": "light",
+              "value": "軽やか",
+              "sourceUrl": "https://item.rakuten.co.jp/e-wine/dw196/"
+            }
+          ],
+          "temperatureMatch": false,
+          "temperatureSourceUrls": [],
+          "provenance": "editorialPreferenceFromSourcedFacts",
+          "override": null
+        },
+        {
+          "nightId": "autumn",
+          "score": 27,
+          "signals": [
+            {
+              "axis": "umami",
+              "value": "やさしい旨味",
+              "sourceUrl": "https://item.rakuten.co.jp/e-wine/dw196/"
+            }
+          ],
+          "temperatureMatch": false,
+          "temperatureSourceUrls": [],
+          "provenance": "editorialPreferenceFromSourcedFacts",
+          "override": null
+        },
+        {
+          "nightId": "cold",
+          "score": 40,
+          "signals": [
+            {
+              "axis": "umami",
+              "value": "やさしい旨味",
+              "sourceUrl": "https://item.rakuten.co.jp/e-wine/dw196/"
+            }
+          ],
+          "temperatureMatch": false,
+          "temperatureSourceUrls": [],
+          "provenance": "editorialPreferenceFromSourcedFacts",
+          "override": null
+        },
+        {
+          "nightId": "snow",
+          "score": 27,
+          "signals": [
+            {
+              "axis": "umami",
+              "value": "やさしい旨味",
+              "sourceUrl": "https://item.rakuten.co.jp/e-wine/dw196/"
+            }
+          ],
+          "temperatureMatch": false,
+          "temperatureSourceUrls": [],
+          "provenance": "editorialPreferenceFromSourcedFacts",
+          "override": null
+        },
+        {
+          "nightId": "year-end",
+          "score": 20,
+          "signals": [
+            {
+              "axis": "umami",
+              "value": "やさしい旨味",
+              "sourceUrl": "https://item.rakuten.co.jp/e-wine/dw196/"
+            }
+          ],
+          "temperatureMatch": false,
+          "temperatureSourceUrls": [],
+          "provenance": "editorialPreferenceFromSourcedFacts",
+          "override": null
+        }
+      ],
+      "identityDecision": {
+        "breweryConfirmed": true,
+        "productConfirmed": true,
+        "skuConfirmed": true,
+        "majorConflicts": [],
+        "scope": "新IDの別SKU。旧商品との完全一致を主張しない。"
+      },
+      "duplicateChecked": true,
+      "qaPassed": true,
+      "holdReason": [],
+      "visualEvidence": {
+        "reviewed": true,
+        "method": "official_original_gallery_and_product_body",
+        "capacityCompatible": true,
+        "observation": "公式ツール原本のボトル・ラベルと単品本文を照合。画像内の小文字すべてを判読できたとは主張しない。"
+      },
+      "differenceNotes": [
+        {
+          "field": "edition",
+          "differenceNote": "STANDARDという総称からシルバー火入れへ別SKU。現在は特定名称の記載を外しているため、純米吟醸と推測しない。"
+        }
+      ],
+      "confidence": "medium",
+      "lastCheckedAt": "2026-10-22T04:20:11.600Z",
+      "seasonal": false,
+      "automaticPublicationAllowed": false,
+      "reviewPreserved": true,
+      "commercialStatus": "LIVE_PURCHASE_CONFIRMED",
+      "commercialDecision": {
+        "checkedAt": "2026-10-22T03:56:10.604Z",
+        "formalAffiliate": true,
+        "sameSku": true,
+        "registeredSite": "https://yoi-no-ikkon.vercel.app/",
+        "originalSha256": "db25906575724172686a3a4a27a5fd59ab094ff58f426dc7ba5d5edfa0694347",
+        "validUntil": "2026-11-21T04:20:12.645Z"
+      },
+      "imageStatus": "FORMAL_IMAGE_CONFIRMED",
+      "imageDecision": {
+        "sameSku": true,
+        "capacityMl": 720,
+        "originalUnmodified": true,
+        "originalSha256": "881efb41c90ee78637ce13596ee519d1b84abb8c3ed52acccc679cc0d860a0f9",
+        "validUntil": "2026-11-21T04:20:12.645Z"
+      },
+      "publicationApprovedAt": "2026-10-22T04:31:05.515Z",
+      "publicationApprovalSource": "be9798cc-be9c-41a5-becf-4a8b0f7ea66a",
+      "catalogDecision": "OPERATOR_PREAPPROVED_REVIEWED_RELEASE"
+    },
+    {
+      "candidateProductId": "shichihonyari-muu-1800-current-v1",
+      "productionProductId": "shichihonyari-muu-1800-current-v1",
+      "publishedSakeId": "shichihonyari-muu-1800-current-v1",
+      "breweryId": "滋賀県|冨田酒造",
+      "breweryName": "冨田酒造有限会社",
+      "prefecture": "滋賀県",
+      "brand": "七本鎗",
+      "formalProductName": "七本鎗 無農薬純米 無有 1800ml",
+      "capacityMl": 1800,
+      "normalUrl": "https://item.rakuten.co.jp/hasegawasaketen/1003410/",
+      "selectedItemCode": "hasegawasaketen:10007409",
+      "productType": "純米酒",
+      "state": "ACTIVE",
+      "reviewPhase": "shelf-final",
+      "specStatus": "SPEC_READY",
+      "specConfidence": "high",
+      "specEvidence": [
+        {
+          "sourceUrl": "https://7yari.co.jp/product/102/",
+          "sourceType": "official",
+          "checkedAt": "2026-10-22T03:56:20.580Z",
+          "retrieved": true,
+          "textHash": "d07353d6a33de22e64d5a7064e5e45e81f7f27d3e48a10176a3b573807287b99",
+          "retrievalMethod": "http_body"
+        },
+        {
+          "sourceUrl": "https://item.rakuten.co.jp/hasegawasaketen/1003410/",
+          "sourceType": "rakuten_retail",
+          "checkedAt": "2026-10-22T03:56:17.873Z",
+          "retrieved": true,
+          "textHash": "8cec4127b8c2806c1d5e3e45efcc2df7c127828b74107b4f15b63dd0e4e87670",
+          "retrievalMethod": "http_body"
+        }
+      ],
+      "sensoryStatus": "SENSORY_READY",
+      "sensoryConfidence": "medium",
+      "sensoryReadinessBasis": "当該SKUの実読資料に限定。単一レビューから合意を生成しない。",
+      "sensoryEvidence": {
+        "officialEvidence": [
+          {
+            "sourceUrl": "https://7yari.co.jp/product/102/",
+            "sourceType": "official",
+            "checkedAt": "2026-10-22T03:56:20.580Z",
+            "retrieved": true,
+            "textHash": "d07353d6a33de22e64d5a7064e5e45e81f7f27d3e48a10176a3b573807287b99",
+            "retrievalMethod": "http_body"
+          }
+        ],
+        "retailerEvidence": [
+          {
+            "sourceUrl": "https://item.rakuten.co.jp/hasegawasaketen/1003410/",
+            "sourceType": "rakuten_retail",
+            "checkedAt": "2026-10-22T03:56:17.873Z",
+            "retrieved": true,
+            "textHash": "8cec4127b8c2806c1d5e3e45efcc2df7c127828b74107b4f15b63dd0e4e87670",
+            "retrievalMethod": "http_body"
+          }
+        ],
+        "communityEvidence": []
+      },
+      "sensoryConsensus": {
+        "fields": {
+          "sweetness": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "acidity": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "umami": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "aroma": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "body": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "finish": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "bitterness": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "carbonation": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "alcoholImpression": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          }
+        },
+        "acceptedEvidenceIds": [],
+        "excluded": [],
+        "provenance": "editorial_sensory_consensus",
+        "notVerifiedSpecifications": true
+      },
+      "communityEvidence": [],
+      "communityPairings": [],
+      "pairingStatus": "PAIRING_READY",
+      "editorialPairings": [
+        {
+          "dish": "湯豆腐",
+          "reason": "湯豆腐と、やわらかな味わいの無有を。食卓の湯気のそばで、少しずつ味わう提案です。",
+          "provenance": "yoiEditorial",
+          "sourceUrls": [
+            "https://7yari.co.jp/product/102/",
+            "https://item.rakuten.co.jp/hasegawasaketen/1003410/"
+          ],
+          "dishEvidence": {
+            "foodId": "item-1qvzseg",
+            "pairingProfile": {
+              "name": "湯豆腐",
+              "directions": [
+                "warm",
+                "small",
+                "comfort"
+              ],
+              "method": "鍋物",
+              "flavor": "豆腐とだしの穏やかな味",
+              "delicate": true
+            }
+          },
+          "sourceScope": "今回確認した当該SKUの特徴と既存料理DBから新規作成。公式・口コミの料理推奨ではない。"
+        },
+        {
+          "dish": "肉じゃが",
+          "reason": "肉じゃがをつまみに、無有のやわらかな飲み心地を。料理とお酒を急がず楽しんで。",
+          "provenance": "yoiEditorial",
+          "sourceUrls": [
+            "https://7yari.co.jp/product/102/",
+            "https://item.rakuten.co.jp/hasegawasaketen/1003410/"
+          ],
+          "dishEvidence": {
+            "foodId": "item-13w7k4b",
+            "pairingProfile": {
+              "name": "肉じゃが",
+              "directions": [
+                "warm",
+                "hearty",
+                "comfort"
+              ],
+              "method": "煮物",
+              "flavor": "甘辛い煮汁",
+              "rich": true
+            }
+          },
+          "sourceScope": "今回確認した当該SKUの特徴と既存料理DBから新規作成。公式・口コミの料理推奨ではない。"
+        },
+        {
+          "dish": "だし巻き卵",
+          "reason": "だし巻き卵と、穏やかに味わいたい無有。ひと口ずつ交互に楽しむ組み合わせです。",
+          "provenance": "yoiEditorial",
+          "sourceUrls": [
+            "https://7yari.co.jp/product/102/",
+            "https://item.rakuten.co.jp/hasegawasaketen/1003410/"
+          ],
+          "dishEvidence": {
+            "foodId": "item-snidmz",
+            "pairingProfile": {
+              "name": "だし巻き卵",
+              "directions": [
+                "small",
+                "warm",
+                "grilled",
+                "comfort"
+              ],
+              "method": "焼き物",
+              "flavor": "卵とだしのやさしい味",
+              "delicate": true
+            }
+          },
+          "sourceScope": "今回確認した当該SKUの特徴と既存料理DBから新規作成。公式・口コミの料理推奨ではない。"
+        }
+      ],
+      "officialPairings": [],
+      "nightEvidence": [
+        {
+          "nightId": "quiet",
+          "score": 27,
+          "signals": [
+            {
+              "axis": "soft",
+              "value": "やわらかな味わい",
+              "sourceUrl": "https://7yari.co.jp/product/102/"
+            }
+          ],
+          "temperatureMatch": false,
+          "temperatureSourceUrls": [],
+          "provenance": "editorialPreferenceFromSourcedFacts",
+          "override": null
+        },
+        {
+          "nightId": "spring",
+          "score": 27,
+          "signals": [
+            {
+              "axis": "soft",
+              "value": "やわらかな味わい",
+              "sourceUrl": "https://7yari.co.jp/product/102/"
+            }
+          ],
+          "temperatureMatch": false,
+          "temperatureSourceUrls": [],
+          "provenance": "editorialPreferenceFromSourcedFacts",
+          "override": null
+        },
+        {
+          "nightId": "rain",
+          "score": 27,
+          "signals": [
+            {
+              "axis": "soft",
+              "value": "やわらかな味わい",
+              "sourceUrl": "https://7yari.co.jp/product/102/"
+            }
+          ],
+          "temperatureMatch": false,
+          "temperatureSourceUrls": [],
+          "provenance": "editorialPreferenceFromSourcedFacts",
+          "override": null
+        },
+        {
+          "nightId": "autumn",
+          "score": 27,
+          "signals": [
+            {
+              "axis": "soft",
+              "value": "やわらかな味わい",
+              "sourceUrl": "https://7yari.co.jp/product/102/"
+            }
+          ],
+          "temperatureMatch": false,
+          "temperatureSourceUrls": [],
+          "provenance": "editorialPreferenceFromSourcedFacts",
+          "override": null
+        },
+        {
+          "nightId": "snow",
+          "score": 27,
+          "signals": [
+            {
+              "axis": "soft",
+              "value": "やわらかな味わい",
+              "sourceUrl": "https://7yari.co.jp/product/102/"
+            }
+          ],
+          "temperatureMatch": false,
+          "temperatureSourceUrls": [],
+          "provenance": "editorialPreferenceFromSourcedFacts",
+          "override": null
+        }
+      ],
+      "identityDecision": {
+        "breweryConfirmed": true,
+        "productConfirmed": true,
+        "skuConfirmed": true,
+        "majorConflicts": [],
+        "scope": "新IDの別SKU。旧商品との完全一致を主張しない。"
+      },
+      "duplicateChecked": true,
+      "qaPassed": true,
+      "holdReason": [],
+      "visualEvidence": {
+        "reviewed": true,
+        "method": "official_original_gallery_and_product_body",
+        "capacityCompatible": true,
+        "observation": "公式ツール原本のボトル・ラベルと単品本文を照合。画像内の小文字すべてを判読できたとは主張しない。"
+      },
+      "differenceNotes": [
+        {
+          "field": "edition",
+          "differenceNote": "旧登録720mlに1800ml画像を流用せず、容量を明示した新ID。"
+        }
+      ],
+      "confidence": "high",
+      "lastCheckedAt": "2026-10-22T04:20:11.600Z",
+      "seasonal": false,
+      "automaticPublicationAllowed": false,
+      "reviewPreserved": true,
+      "commercialStatus": "LIVE_PURCHASE_CONFIRMED",
+      "commercialDecision": {
+        "checkedAt": "2026-10-22T03:56:17.873Z",
+        "formalAffiliate": true,
+        "sameSku": true,
+        "registeredSite": "https://yoi-no-ikkon.vercel.app/",
+        "originalSha256": "8d4715ff0748d2258b437685ea71a568a6e507b082f9a922f918a5cb3bd2272a",
+        "validUntil": "2026-11-21T04:20:12.645Z"
+      },
+      "imageStatus": "FORMAL_IMAGE_CONFIRMED",
+      "imageDecision": {
+        "sameSku": true,
+        "capacityMl": 1800,
+        "originalUnmodified": true,
+        "originalSha256": "1c64930d4dbc2586cb1283fcc15a5fb784df682d69a32474dc3fa932e56d79e8",
+        "validUntil": "2026-11-21T04:20:12.645Z"
+      },
+      "publicationApprovedAt": "2026-10-22T04:31:05.515Z",
+      "publicationApprovalSource": "be9798cc-be9c-41a5-becf-4a8b0f7ea66a",
+      "catalogDecision": "OPERATOR_PREAPPROVED_REVIEWED_RELEASE"
+    },
+    {
+      "candidateProductId": "haginotsuyu-amadare-tomizu-hiire-current-v1",
+      "productionProductId": "haginotsuyu-amadare-tomizu-hiire-current-v1",
+      "publishedSakeId": "haginotsuyu-amadare-tomizu-hiire-current-v1",
+      "breweryId": "滋賀県|福井弥平商店",
+      "breweryName": "株式会社福井弥平商店",
+      "prefecture": "滋賀県",
+      "brand": "萩乃露",
+      "formalProductName": "萩乃露 特別純米 十水仕込 雨垂れ石を穿つ 火入れ",
+      "capacityMl": 720,
+      "normalUrl": "https://item.rakuten.co.jp/tokuriya/8848/",
+      "selectedItemCode": "tokuriya:10000307",
+      "productType": "特別純米酒",
+      "state": "ACTIVE",
+      "reviewPhase": "shelf-final",
+      "specStatus": "SPEC_READY",
+      "specConfidence": "high",
+      "specEvidence": [
+        {
+          "sourceUrl": "https://www.haginotsuyu.co.jp/amadare",
+          "sourceType": "official",
+          "retrieved": true,
+          "retrievalMethod": "web.open",
+          "reference": "turn1801view0",
+          "checkedAt": "2026-10-22",
+          "facts": {
+            "productName": "特別純米 十水仕込 雨垂れ石を穿つ",
+            "riceVariety": [
+              "山田錦",
+              "吟吹雪"
+            ],
+            "polishingRatio": "60%",
+            "capacities": [
+              1800,
+              720,
+              300
+            ],
+            "temperatures": [
+              "冷酒",
+              "常温",
+              "燗酒"
+            ],
+            "tasteSummary": "濃密さと爽やかさを併せ持つ。",
+            "pairingSummary": "濃い味の料理を含め広く食事に合う。"
+          },
+          "directFetchOutcome": "timeout; not reclassified as successful HTTP fetch",
+          "scope": "product",
+          "textHash": "bf40375fe830a608377cea73855ce86057b3efecc34cafe4013aa03762ae122a"
+        },
+        {
+          "sourceUrl": "https://item.rakuten.co.jp/tokuriya/8848/",
+          "sourceType": "rakuten_retail",
+          "checkedAt": "2026-10-22T03:56:21.524Z",
+          "retrieved": true,
+          "textHash": "7b90cac689d85bd614de16222d4a61dcf1d409908ad661d964745640bc1e297e",
+          "retrievalMethod": "http_body"
+        }
+      ],
+      "sensoryStatus": "SENSORY_READY",
+      "sensoryConfidence": "medium",
+      "sensoryReadinessBasis": "当該SKUの実読資料に限定。単一レビューから合意を生成しない。",
+      "sensoryEvidence": {
+        "officialEvidence": [
+          {
+            "sourceUrl": "https://www.haginotsuyu.co.jp/amadare",
+            "sourceType": "official",
+            "retrieved": true,
+            "retrievalMethod": "web.open",
+            "reference": "turn1801view0",
+            "checkedAt": "2026-10-22",
+            "facts": {
+              "productName": "特別純米 十水仕込 雨垂れ石を穿つ",
+              "riceVariety": [
+                "山田錦",
+                "吟吹雪"
+              ],
+              "polishingRatio": "60%",
+              "capacities": [
+                1800,
+                720,
+                300
+              ],
+              "temperatures": [
+                "冷酒",
+                "常温",
+                "燗酒"
+              ],
+              "tasteSummary": "濃密さと爽やかさを併せ持つ。",
+              "pairingSummary": "濃い味の料理を含め広く食事に合う。"
+            },
+            "directFetchOutcome": "timeout; not reclassified as successful HTTP fetch",
+            "scope": "product",
+            "textHash": "bf40375fe830a608377cea73855ce86057b3efecc34cafe4013aa03762ae122a"
+          }
+        ],
+        "retailerEvidence": [
+          {
+            "sourceUrl": "https://item.rakuten.co.jp/tokuriya/8848/",
+            "sourceType": "rakuten_retail",
+            "checkedAt": "2026-10-22T03:56:21.524Z",
+            "retrieved": true,
+            "textHash": "7b90cac689d85bd614de16222d4a61dcf1d409908ad661d964745640bc1e297e",
+            "retrievalMethod": "http_body"
+          }
+        ],
+        "communityEvidence": []
+      },
+      "sensoryConsensus": {
+        "fields": {
+          "sweetness": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "acidity": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "umami": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "aroma": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "body": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "finish": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "bitterness": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "carbonation": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "alcoholImpression": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          }
+        },
+        "acceptedEvidenceIds": [],
+        "excluded": [],
+        "provenance": "editorial_sensory_consensus",
+        "notVerifiedSpecifications": true
+      },
+      "communityEvidence": [],
+      "communityPairings": [],
+      "pairingStatus": "PAIRING_READY",
+      "editorialPairings": [
+        {
+          "dish": "豚の角煮",
+          "reason": "角煮に、濃密で爽やかな萩乃露を。蔵元の濃い料理への提案から、家庭の一皿へ広げました。",
+          "provenance": "yoiEditorial",
+          "sourceUrls": [
+            "https://www.haginotsuyu.co.jp/amadare",
+            "https://item.rakuten.co.jp/tokuriya/8848/"
+          ],
+          "dishEvidence": {
+            "foodId": "item-1abl20d"
+          },
+          "sourceScope": "今回確認した当該SKUの特徴と既存料理DBから新規作成。公式・口コミの料理推奨ではない。"
+        },
+        {
+          "dish": "鶏の照り焼き",
+          "reason": "照り焼きと、濃密な味わいの一杯。冷やしても温めても、好みの温度で楽しんで。",
+          "provenance": "yoiEditorial",
+          "sourceUrls": [
+            "https://www.haginotsuyu.co.jp/amadare",
+            "https://item.rakuten.co.jp/tokuriya/8848/"
+          ],
+          "dishEvidence": {
+            "foodId": "item-1i89m16",
+            "pairingProfile": {
+              "name": "鶏の照り焼き",
+              "directions": [
+                "hearty",
+                "grilled"
+              ],
+              "method": "焼き物",
+              "flavor": "甘辛いタレ",
+              "rich": true
+            }
+          },
+          "sourceScope": "今回確認した当該SKUの特徴と既存料理DBから新規作成。公式・口コミの料理推奨ではない。"
+        },
+        {
+          "dish": "肉じゃが",
+          "reason": "肉じゃがの夜には、十水仕込の萩乃露を。濃密さと爽やかな後味をゆっくり味わって。",
+          "provenance": "yoiEditorial",
+          "sourceUrls": [
+            "https://www.haginotsuyu.co.jp/amadare",
+            "https://item.rakuten.co.jp/tokuriya/8848/"
+          ],
+          "dishEvidence": {
+            "foodId": "item-13w7k4b",
+            "pairingProfile": {
+              "name": "肉じゃが",
+              "directions": [
+                "warm",
+                "hearty",
+                "comfort"
+              ],
+              "method": "煮物",
+              "flavor": "甘辛い煮汁",
+              "rich": true
+            }
+          },
+          "sourceScope": "今回確認した当該SKUの特徴と既存料理DBから新規作成。公式・口コミの料理推奨ではない。"
+        }
+      ],
+      "officialPairings": [
+        "味わいの濃い料理"
+      ],
+      "nightEvidence": [
+        {
+          "nightId": "together",
+          "score": 27,
+          "signals": [
+            {
+              "axis": "food",
+              "value": "食中酒向き",
+              "sourceUrl": "https://www.haginotsuyu.co.jp/amadare"
+            }
+          ],
+          "temperatureMatch": false,
+          "temperatureSourceUrls": [],
+          "provenance": "editorialPreferenceFromSourcedFacts",
+          "override": null
+        },
+        {
+          "nightId": "dinner",
+          "score": 20,
+          "signals": [
+            {
+              "axis": "food",
+              "value": "食中酒向き",
+              "sourceUrl": "https://www.haginotsuyu.co.jp/amadare"
+            }
+          ],
+          "temperatureMatch": false,
+          "temperatureSourceUrls": [],
+          "provenance": "editorialPreferenceFromSourcedFacts",
+          "override": null
+        },
+        {
+          "nightId": "ordinary",
+          "score": 27,
+          "signals": [
+            {
+              "axis": "food",
+              "value": "食中酒向き",
+              "sourceUrl": "https://www.haginotsuyu.co.jp/amadare"
+            }
+          ],
+          "temperatureMatch": false,
+          "temperatureSourceUrls": [],
+          "provenance": "editorialPreferenceFromSourcedFacts",
+          "override": null
+        },
+        {
+          "nightId": "year-end",
+          "score": 20,
+          "signals": [
+            {
+              "axis": "food",
+              "value": "食中酒向き",
+              "sourceUrl": "https://www.haginotsuyu.co.jp/amadare"
+            }
+          ],
+          "temperatureMatch": false,
+          "temperatureSourceUrls": [],
+          "provenance": "editorialPreferenceFromSourcedFacts",
+          "override": null
+        }
+      ],
+      "identityDecision": {
+        "breweryConfirmed": true,
+        "productConfirmed": true,
+        "skuConfirmed": true,
+        "majorConflicts": [],
+        "scope": "新IDの別SKU。旧商品との完全一致を主張しない。"
+      },
+      "duplicateChecked": true,
+      "qaPassed": true,
+      "holdReason": [],
+      "visualEvidence": {
+        "reviewed": true,
+        "method": "official_original_gallery_and_product_body",
+        "capacityCompatible": true,
+        "observation": "公式ツール原本のボトル・ラベルと単品本文を照合。画像内の小文字すべてを判読できたとは主張しない。"
+      },
+      "differenceNotes": [
+        {
+          "field": "edition",
+          "differenceNote": "里山のこしひかり純米吟醸とは別SKU。火入れは当該販売ページ、米・精米・温度・料理カテゴリーは公式の商品欄。"
+        }
+      ],
+      "confidence": "high",
+      "lastCheckedAt": "2026-10-22T04:20:11.600Z",
+      "seasonal": true,
+      "automaticPublicationAllowed": false,
+      "reviewPreserved": true,
+      "commercialStatus": "LIVE_PURCHASE_CONFIRMED",
+      "commercialDecision": {
+        "checkedAt": "2026-10-22T03:56:21.524Z",
+        "formalAffiliate": true,
+        "sameSku": true,
+        "registeredSite": "https://yoi-no-ikkon.vercel.app/",
+        "originalSha256": "bf452f46cc2576fe747e6b5ed5b5b92d77050010a6e50061809b14aa79e115c3",
+        "validUntil": "2026-11-21T04:20:12.645Z"
+      },
+      "imageStatus": "FORMAL_IMAGE_CONFIRMED",
+      "imageDecision": {
+        "sameSku": true,
+        "capacityMl": 720,
+        "originalUnmodified": true,
+        "originalSha256": "5818e8a6abd3837436d16b1a6e5fcebbe05da76630be12ee27e6e2729fbf0f3c",
+        "validUntil": "2026-11-21T04:20:12.645Z"
+      },
+      "publicationApprovedAt": "2026-10-22T04:31:05.515Z",
+      "publicationApprovalSource": "be9798cc-be9c-41a5-becf-4a8b0f7ea66a",
+      "catalogDecision": "OPERATOR_PREAPPROVED_REVIEWED_RELEASE"
+    },
+    {
+      "candidateProductId": "hanaabi-gohyakumangoku-muroka-namagenshu-1800-current-v1",
+      "productionProductId": "hanaabi-gohyakumangoku-muroka-namagenshu-1800-current-v1",
+      "publishedSakeId": "hanaabi-gohyakumangoku-muroka-namagenshu-1800-current-v1",
+      "breweryId": "埼玉県|南陽醸造",
+      "breweryName": "南陽醸造株式会社",
+      "prefecture": "埼玉県",
+      "brand": "花陽浴",
+      "formalProductName": "花陽浴 純米大吟醸 越後五百万石 無濾過生原酒 1800ml",
+      "capacityMl": 1800,
+      "normalUrl": "https://item.rakuten.co.jp/mighty-liquors/sa103013/",
+      "selectedItemCode": "mighty-liquors:10008396",
+      "productType": "純米大吟醸酒",
+      "state": "ACTIVE",
+      "reviewPhase": "shelf-final",
+      "specStatus": "SPEC_READY",
+      "specConfidence": "medium",
+      "specEvidence": [
+        {
+          "sourceUrl": "https://www.sakenomy.jp/sake/TST0000042113/",
+          "sourceType": "specialistDatabase",
+          "checkedAt": "2026-10-22T04:11:14.139Z",
+          "retrieved": true,
+          "textHash": "e43707273407ac9d9756288c2adfa684c781315b83da4fe11dc2ec4c6b23d4d7",
+          "retrievalMethod": "http_body"
+        },
+        {
+          "sourceUrl": "https://item.rakuten.co.jp/mighty-liquors/sa103013/",
+          "sourceType": "rakuten_retail",
+          "checkedAt": "2026-10-22T03:56:44.573Z",
+          "retrieved": true,
+          "textHash": "dc17628ecf62a5aa2af9937ae9155e0d7b354c6b8dd5d33e58786c4d66613646",
+          "retrievalMethod": "http_body"
+        }
+      ],
+      "sensoryStatus": "SENSORY_READY",
+      "sensoryConfidence": "medium",
+      "sensoryReadinessBasis": "当該SKUの実読資料に限定。単一レビューから合意を生成しない。",
+      "sensoryEvidence": {
+        "officialEvidence": [],
+        "retailerEvidence": [
+          {
+            "sourceUrl": "https://www.sakenomy.jp/sake/TST0000042113/",
+            "sourceType": "specialistDatabase",
+            "checkedAt": "2026-10-22T04:11:14.139Z",
+            "retrieved": true,
+            "textHash": "e43707273407ac9d9756288c2adfa684c781315b83da4fe11dc2ec4c6b23d4d7",
+            "retrievalMethod": "http_body"
+          },
+          {
+            "sourceUrl": "https://item.rakuten.co.jp/mighty-liquors/sa103013/",
+            "sourceType": "rakuten_retail",
+            "checkedAt": "2026-10-22T03:56:44.573Z",
+            "retrieved": true,
+            "textHash": "dc17628ecf62a5aa2af9937ae9155e0d7b354c6b8dd5d33e58786c4d66613646",
+            "retrievalMethod": "http_body"
+          }
+        ],
+        "communityEvidence": []
+      },
+      "sensoryConsensus": {
+        "fields": {
+          "sweetness": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "acidity": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "umami": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "aroma": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "body": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "finish": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "bitterness": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "carbonation": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "alcoholImpression": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          }
+        },
+        "acceptedEvidenceIds": [],
+        "excluded": [],
+        "provenance": "editorial_sensory_consensus",
+        "notVerifiedSpecifications": true
+      },
+      "communityEvidence": [],
+      "communityPairings": [],
+      "pairingStatus": "PAIRING_READY",
+      "editorialPairings": [
+        {
+          "dish": "刺身",
+          "reason": "刺身と、果実を思わせる香りの花陽浴を。ひと口ずつ、魚とお酒の味を確かめて。",
+          "provenance": "yoiEditorial",
+          "sourceUrls": [
+            "https://www.sakenomy.jp/sake/TST0000042113/",
+            "https://item.rakuten.co.jp/mighty-liquors/sa103013/"
+          ],
+          "dishEvidence": {
+            "foodId": "item-10ivjqq"
+          },
+          "sourceScope": "今回確認した当該SKUの特徴と既存料理DBから新規作成。公式・口コミの料理推奨ではない。"
+        },
+        {
+          "dish": "冷奴",
+          "reason": "冷奴を添えて、花陽浴の香りをゆっくりと。冷やした一杯から楽しむ提案です。",
+          "provenance": "yoiEditorial",
+          "sourceUrls": [
+            "https://www.sakenomy.jp/sake/TST0000042113/",
+            "https://item.rakuten.co.jp/mighty-liquors/sa103013/"
+          ],
+          "dishEvidence": {
+            "foodId": "item-1gwo1eu",
+            "pairingProfile": {
+              "name": "冷奴",
+              "directions": [
+                "fresh",
+                "small"
+              ],
+              "method": "豆腐料理",
+              "flavor": "豆腐と薬味のさっぱりした味",
+              "delicate": true
+            }
+          },
+          "sourceScope": "今回確認した当該SKUの特徴と既存料理DBから新規作成。公式・口コミの料理推奨ではない。"
+        },
+        {
+          "dish": "鯛の塩焼き",
+          "reason": "鯛の塩焼きに、香り豊かな生原酒を少しずつ。料理のあとに広がる香りを楽しんで。",
+          "provenance": "yoiEditorial",
+          "sourceUrls": [
+            "https://www.sakenomy.jp/sake/TST0000042113/",
+            "https://item.rakuten.co.jp/mighty-liquors/sa103013/"
+          ],
+          "dishEvidence": {
+            "foodId": "item-1s9xmks"
+          },
+          "sourceScope": "今回確認した当該SKUの特徴と既存料理DBから新規作成。公式・口コミの料理推奨ではない。"
+        }
+      ],
+      "officialPairings": [],
+      "nightEvidence": [
+        {
+          "nightId": "treat",
+          "score": 27,
+          "signals": [
+            {
+              "axis": "aroma",
+              "value": "果実を思わせる香り",
+              "sourceUrl": "https://www.sakenomy.jp/sake/TST0000042113/"
+            }
+          ],
+          "temperatureMatch": false,
+          "temperatureSourceUrls": [],
+          "provenance": "editorialPreferenceFromSourcedFacts",
+          "override": null
+        },
+        {
+          "nightId": "celebrate",
+          "score": 27,
+          "signals": [
+            {
+              "axis": "aroma",
+              "value": "果実を思わせる香り",
+              "sourceUrl": "https://www.sakenomy.jp/sake/TST0000042113/"
+            }
+          ],
+          "temperatureMatch": false,
+          "temperatureSourceUrls": [],
+          "provenance": "editorialPreferenceFromSourcedFacts",
+          "override": null
+        },
+        {
+          "nightId": "spring",
+          "score": 47,
+          "signals": [
+            {
+              "axis": "aroma",
+              "value": "果実を思わせる香り",
+              "sourceUrl": "https://www.sakenomy.jp/sake/TST0000042113/"
+            }
+          ],
+          "temperatureMatch": true,
+          "temperatureSourceUrls": [
+            "https://www.sakenomy.jp/sake/TST0000042113/"
+          ],
+          "provenance": "editorialPreferenceFromSourcedFacts",
+          "override": null
+        },
+        {
+          "nightId": "festival",
+          "score": 47,
+          "signals": [
+            {
+              "axis": "aroma",
+              "value": "果実を思わせる香り",
+              "sourceUrl": "https://www.sakenomy.jp/sake/TST0000042113/"
+            }
+          ],
+          "temperatureMatch": true,
+          "temperatureSourceUrls": [
+            "https://www.sakenomy.jp/sake/TST0000042113/"
+          ],
+          "provenance": "editorialPreferenceFromSourcedFacts",
+          "override": null
+        }
+      ],
+      "identityDecision": {
+        "breweryConfirmed": true,
+        "productConfirmed": true,
+        "skuConfirmed": true,
+        "majorConflicts": [],
+        "scope": "新IDの別SKU。旧商品との完全一致を主張しない。"
+      },
+      "duplicateChecked": true,
+      "qaPassed": true,
+      "holdReason": [],
+      "visualEvidence": {
+        "reviewed": true,
+        "method": "official_original_gallery_and_product_body",
+        "capacityCompatible": true,
+        "observation": "公式ツール原本のボトル・ラベルと単品本文を照合。画像内の小文字すべてを判読できたとは主張しない。"
+      },
+      "differenceNotes": [
+        {
+          "field": "edition",
+          "differenceNote": "旧720ml参照と区別し新ID。おりがらみ商品・THE PREMIUMや異なる米のレビューを混ぜない。Sakenomyの蔵元商品欄のみ利用し、口コミは検証済みに入れない。"
+        }
+      ],
+      "confidence": "medium",
+      "lastCheckedAt": "2026-10-22T04:20:11.600Z",
+      "seasonal": false,
+      "automaticPublicationAllowed": false,
+      "reviewPreserved": true,
+      "commercialStatus": "LIVE_PURCHASE_CONFIRMED",
+      "commercialDecision": {
+        "checkedAt": "2026-10-22T03:56:44.573Z",
+        "formalAffiliate": true,
+        "sameSku": true,
+        "registeredSite": "https://yoi-no-ikkon.vercel.app/",
+        "originalSha256": "0673e2236fa5a29e2ef08d3a5652638cf42555c6504e58049c21f0086e2d12f2",
+        "validUntil": "2026-11-21T04:20:12.645Z"
+      },
+      "imageStatus": "FORMAL_IMAGE_CONFIRMED",
+      "imageDecision": {
+        "sameSku": true,
+        "capacityMl": 1800,
+        "originalUnmodified": true,
+        "originalSha256": "862c4b3136b82d42e552f776511a09d5597e1fdff88d8f990e66705ee1bef98c",
+        "validUntil": "2026-11-21T04:20:12.645Z"
+      },
+      "publicationApprovedAt": "2026-10-22T04:31:05.515Z",
+      "publicationApprovalSource": "be9798cc-be9c-41a5-becf-4a8b0f7ea66a",
+      "catalogDecision": "OPERATOR_PREAPPROVED_REVIEWED_RELEASE"
+    },
+    {
+      "candidateProductId": "sara-junmai-ginjo-namazume-current-v1",
+      "productionProductId": "sara-junmai-ginjo-namazume-current-v1",
+      "publishedSakeId": "sara-junmai-ginjo-namazume-current-v1",
+      "breweryId": "埼玉県|北西酒造",
+      "breweryName": "北西酒造株式会社",
+      "prefecture": "埼玉県",
+      "brand": "彩來",
+      "formalProductName": "彩來 純米吟醸 生詰",
+      "capacityMl": 720,
+      "normalUrl": "https://item.rakuten.co.jp/yamasake/5775/",
+      "selectedItemCode": "yamasake:10008160",
+      "productType": "純米吟醸酒",
+      "state": "ACTIVE",
+      "reviewPhase": "shelf-final",
+      "specStatus": "SPEC_READY",
+      "specConfidence": "medium",
+      "specEvidence": [
+        {
+          "sourceUrl": "https://item.rakuten.co.jp/yamasake/5775/",
+          "sourceType": "rakuten_retail",
+          "checkedAt": "2026-10-22T03:56:45.850Z",
+          "retrieved": true,
+          "textHash": "e4246448a8c674e167f55d5659307f67279ff81fd5a099242ab10a1f070f9c18",
+          "retrievalMethod": "http_body"
+        },
+        {
+          "sourceUrl": "https://item.rakuten.co.jp/mashidayahonten/6002/",
+          "sourceType": "specialistRetailer",
+          "checkedAt": "2026-10-22T04:11:15.396Z",
+          "retrieved": true,
+          "textHash": "97f634fcab95b9cbd1bbf7afa9e0e6ec59f58ad0daab457fc79c10937bfeffee",
+          "retrievalMethod": "http_body"
+        },
+        {
+          "sourceUrl": "https://www.icheers.tw/iCheers/Sake/WineDetail/wine_detail/40772",
+          "sourceType": "specialistRetailer",
+          "checkedAt": "2026-10-22T04:19:49.477Z",
+          "retrieved": true,
+          "textHash": "b91b6bddcd955ecb4abc40193c6ed9b77a0fae27cdd208623dcae8e53635dad3",
+          "retrievalMethod": "http_body",
+          "role": "identity_corroboration_only_no_numeric_values_imported"
+        }
+      ],
+      "sensoryStatus": "SENSORY_READY",
+      "sensoryConfidence": "medium",
+      "sensoryReadinessBasis": "当該SKUの実読資料に限定。単一レビューから合意を生成しない。",
+      "sensoryEvidence": {
+        "officialEvidence": [],
+        "retailerEvidence": [
+          {
+            "sourceUrl": "https://item.rakuten.co.jp/yamasake/5775/",
+            "sourceType": "rakuten_retail",
+            "checkedAt": "2026-10-22T03:56:45.850Z",
+            "retrieved": true,
+            "textHash": "e4246448a8c674e167f55d5659307f67279ff81fd5a099242ab10a1f070f9c18",
+            "retrievalMethod": "http_body"
+          },
+          {
+            "sourceUrl": "https://item.rakuten.co.jp/mashidayahonten/6002/",
+            "sourceType": "specialistRetailer",
+            "checkedAt": "2026-10-22T04:11:15.396Z",
+            "retrieved": true,
+            "textHash": "97f634fcab95b9cbd1bbf7afa9e0e6ec59f58ad0daab457fc79c10937bfeffee",
+            "retrievalMethod": "http_body"
+          },
+          {
+            "sourceUrl": "https://www.icheers.tw/iCheers/Sake/WineDetail/wine_detail/40772",
+            "sourceType": "specialistRetailer",
+            "checkedAt": "2026-10-22T04:19:49.477Z",
+            "retrieved": true,
+            "textHash": "b91b6bddcd955ecb4abc40193c6ed9b77a0fae27cdd208623dcae8e53635dad3",
+            "retrievalMethod": "http_body",
+            "role": "identity_corroboration_only_no_numeric_values_imported"
+          }
+        ],
+        "communityEvidence": []
+      },
+      "sensoryConsensus": {
+        "fields": {
+          "sweetness": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "acidity": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "umami": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "aroma": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "body": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "finish": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "bitterness": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "carbonation": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "alcoholImpression": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          }
+        },
+        "acceptedEvidenceIds": [],
+        "excluded": [],
+        "provenance": "editorial_sensory_consensus",
+        "notVerifiedSpecifications": true
+      },
+      "communityEvidence": [],
+      "communityPairings": [],
+      "pairingStatus": "PAIRING_READY",
+      "editorialPairings": [
+        {
+          "dish": "豚しゃぶサラダ",
+          "reason": "豚しゃぶサラダと、酸の後味を楽しむ彩來を。料理と一杯を交互に味わう提案です。",
+          "provenance": "yoiEditorial",
+          "sourceUrls": [
+            "https://item.rakuten.co.jp/yamasake/5775/",
+            "https://item.rakuten.co.jp/mashidayahonten/6002/",
+            "https://www.icheers.tw/iCheers/Sake/WineDetail/wine_detail/40772"
+          ],
+          "dishEvidence": {
+            "foodId": "item-1wbiu6r",
+            "pairingProfile": {
+              "name": "豚しゃぶサラダ",
+              "directions": [
+                "fresh",
+                "hearty"
+              ],
+              "method": "サラダ",
+              "flavor": "豚肉と野菜の軽い口当たり",
+              "delicate": true
+            }
+          },
+          "sourceScope": "今回確認した当該SKUの特徴と既存料理DBから新規作成。公式・口コミの料理推奨ではない。"
+        },
+        {
+          "dish": "冷奴",
+          "reason": "冷奴をつまみながら、マスカットを思わせる香りを。米の甘みをゆっくり楽しんで。",
+          "provenance": "yoiEditorial",
+          "sourceUrls": [
+            "https://item.rakuten.co.jp/yamasake/5775/",
+            "https://item.rakuten.co.jp/mashidayahonten/6002/",
+            "https://www.icheers.tw/iCheers/Sake/WineDetail/wine_detail/40772"
+          ],
+          "dishEvidence": {
+            "foodId": "item-1gwo1eu",
+            "pairingProfile": {
+              "name": "冷奴",
+              "directions": [
+                "fresh",
+                "small"
+              ],
+              "method": "豆腐料理",
+              "flavor": "豆腐と薬味のさっぱりした味",
+              "delicate": true
+            }
+          },
+          "sourceScope": "今回確認した当該SKUの特徴と既存料理DBから新規作成。公式・口コミの料理推奨ではない。"
+        },
+        {
+          "dish": "鶏の照り焼き",
+          "reason": "照り焼きをひと口、そのあとに彩來を。米の甘みから酸へ移る味わいを楽しむ組み合わせです。",
+          "provenance": "yoiEditorial",
+          "sourceUrls": [
+            "https://item.rakuten.co.jp/yamasake/5775/",
+            "https://item.rakuten.co.jp/mashidayahonten/6002/",
+            "https://www.icheers.tw/iCheers/Sake/WineDetail/wine_detail/40772"
+          ],
+          "dishEvidence": {
+            "foodId": "item-1i89m16",
+            "pairingProfile": {
+              "name": "鶏の照り焼き",
+              "directions": [
+                "hearty",
+                "grilled"
+              ],
+              "method": "焼き物",
+              "flavor": "甘辛いタレ",
+              "rich": true
+            }
+          },
+          "sourceScope": "今回確認した当該SKUの特徴と既存料理DBから新規作成。公式・口コミの料理推奨ではない。"
+        }
+      ],
+      "officialPairings": [],
+      "nightEvidence": [
+        {
+          "nightId": "treat",
+          "score": 27,
+          "signals": [
+            {
+              "axis": "aroma",
+              "value": "マスカットを思わせる吟醸香",
+              "sourceUrl": "https://item.rakuten.co.jp/yamasake/5775/"
+            }
+          ],
+          "temperatureMatch": false,
+          "temperatureSourceUrls": [],
+          "provenance": "editorialPreferenceFromSourcedFacts",
+          "override": null
+        },
+        {
+          "nightId": "just-one",
+          "score": 27,
+          "signals": [
+            {
+              "axis": "clean",
+              "value": "キレ",
+              "sourceUrl": "https://item.rakuten.co.jp/yamasake/5775/"
+            }
+          ],
+          "temperatureMatch": false,
+          "temperatureSourceUrls": [],
+          "provenance": "editorialPreferenceFromSourcedFacts",
+          "override": null
+        },
+        {
+          "nightId": "reset",
+          "score": 27,
+          "signals": [
+            {
+              "axis": "clean",
+              "value": "キレ",
+              "sourceUrl": "https://item.rakuten.co.jp/yamasake/5775/"
+            }
+          ],
+          "temperatureMatch": false,
+          "temperatureSourceUrls": [],
+          "provenance": "editorialPreferenceFromSourcedFacts",
+          "override": null
+        },
+        {
+          "nightId": "celebrate",
+          "score": 27,
+          "signals": [
+            {
+              "axis": "aroma",
+              "value": "マスカットを思わせる吟醸香",
+              "sourceUrl": "https://item.rakuten.co.jp/yamasake/5775/"
+            }
+          ],
+          "temperatureMatch": false,
+          "temperatureSourceUrls": [],
+          "provenance": "editorialPreferenceFromSourcedFacts",
+          "override": null
+        },
+        {
+          "nightId": "spring",
+          "score": 27,
+          "signals": [
+            {
+              "axis": "aroma",
+              "value": "マスカットを思わせる吟醸香",
+              "sourceUrl": "https://item.rakuten.co.jp/yamasake/5775/"
+            }
+          ],
+          "temperatureMatch": false,
+          "temperatureSourceUrls": [],
+          "provenance": "editorialPreferenceFromSourcedFacts",
+          "override": null
+        },
+        {
+          "nightId": "humid",
+          "score": 27,
+          "signals": [
+            {
+              "axis": "clean",
+              "value": "キレ",
+              "sourceUrl": "https://item.rakuten.co.jp/yamasake/5775/"
+            }
+          ],
+          "temperatureMatch": false,
+          "temperatureSourceUrls": [],
+          "provenance": "editorialPreferenceFromSourcedFacts",
+          "override": null
+        },
+        {
+          "nightId": "festival",
+          "score": 53,
+          "signals": [
+            {
+              "axis": "aroma",
+              "value": "マスカットを思わせる吟醸香",
+              "sourceUrl": "https://item.rakuten.co.jp/yamasake/5775/"
+            },
+            {
+              "axis": "clean",
+              "value": "キレ",
+              "sourceUrl": "https://item.rakuten.co.jp/yamasake/5775/"
+            }
+          ],
+          "temperatureMatch": false,
+          "temperatureSourceUrls": [],
+          "provenance": "editorialPreferenceFromSourcedFacts",
+          "override": null
+        }
+      ],
+      "identityDecision": {
+        "breweryConfirmed": true,
+        "productConfirmed": true,
+        "skuConfirmed": true,
+        "majorConflicts": [],
+        "scope": "新IDの別SKU。旧商品との完全一致を主張しない。"
+      },
+      "duplicateChecked": true,
+      "qaPassed": true,
+      "holdReason": [],
+      "visualEvidence": {
+        "reviewed": true,
+        "method": "official_original_gallery_and_product_body",
+        "capacityCompatible": true,
+        "observation": "公式ツール原本のボトル・ラベルと単品本文を照合。画像内の小文字すべてを判読できたとは主張しない。"
+      },
+      "differenceNotes": [
+        {
+          "field": "edition",
+          "differenceNote": "Vesperとは別の定番火入れ生詰。生詰を生酒とは分類しない。"
+        }
+      ],
+      "confidence": "medium",
+      "lastCheckedAt": "2026-10-22T04:20:11.600Z",
+      "seasonal": false,
+      "automaticPublicationAllowed": false,
+      "reviewPreserved": true,
+      "commercialStatus": "LIVE_PURCHASE_CONFIRMED",
+      "commercialDecision": {
+        "checkedAt": "2026-10-22T03:56:45.850Z",
+        "formalAffiliate": true,
+        "sameSku": true,
+        "registeredSite": "https://yoi-no-ikkon.vercel.app/",
+        "originalSha256": "3ebdcad840059624fed8ce8f7dc60e5a99dabad5315223cdcff720c444fd474d",
+        "validUntil": "2026-11-21T04:20:12.645Z"
+      },
+      "imageStatus": "FORMAL_IMAGE_CONFIRMED",
+      "imageDecision": {
+        "sameSku": true,
+        "capacityMl": 720,
+        "originalUnmodified": true,
+        "originalSha256": "7f54fda8aec6390383682ca21a4cfbdd95a687af6ca9422f17ddc2cee90427db",
+        "validUntil": "2026-11-21T04:20:12.645Z"
+      },
+      "publicationApprovedAt": "2026-10-22T04:31:05.515Z",
+      "publicationApprovalSource": "be9798cc-be9c-41a5-becf-4a8b0f7ea66a",
+      "catalogDecision": "OPERATOR_PREAPPROVED_REVIEWED_RELEASE"
+    },
+    {
+      "candidateProductId": "mimurosugi-kioke-bodaimoto-jishaden-current-v1",
+      "productionProductId": "mimurosugi-kioke-bodaimoto-jishaden-current-v1",
+      "publishedSakeId": "mimurosugi-kioke-bodaimoto-jishaden-current-v1",
+      "breweryId": "奈良県|今西酒造",
+      "breweryName": "今西酒造株式会社",
+      "prefecture": "奈良県",
+      "brand": "みむろ杉",
+      "formalProductName": "みむろ杉 木桶菩提もと 自社田山田錦",
+      "capacityMl": 720,
+      "normalUrl": "https://item.rakuten.co.jp/bisyugakou/ms010-n72/",
+      "selectedItemCode": "bisyugakou:10000873",
+      "productType": "日本酒",
+      "state": "ACTIVE",
+      "reviewPhase": "shelf-final",
+      "specStatus": "SPEC_READY",
+      "specConfidence": "medium",
+      "specEvidence": [
+        {
+          "sourceUrl": "https://item.rakuten.co.jp/bisyugakou/ms010-n72/",
+          "sourceType": "rakuten_retail",
+          "checkedAt": "2026-10-22T03:56:50.771Z",
+          "retrieved": true,
+          "textHash": "68d1359006d82364a840c891fc99d5d8b385c598a3428ee5270448f4944b165b",
+          "retrievalMethod": "http_body"
+        },
+        {
+          "sourceUrl": "https://www.imanaka-sakeshop.com/shopdetail/000000005277/4/page8/order/",
+          "sourceType": "specialistRetailer",
+          "checkedAt": "2026-10-22T04:11:16.599Z",
+          "retrieved": true,
+          "textHash": "7d24c5046f4ecb6da9cba51ac3052957cfcdc8b40482db6d044f95333edc67cc",
+          "retrievalMethod": "http_body"
+        }
+      ],
+      "sensoryStatus": "SENSORY_READY",
+      "sensoryConfidence": "medium",
+      "sensoryReadinessBasis": "当該SKUの実読資料に限定。単一レビューから合意を生成しない。",
+      "sensoryEvidence": {
+        "officialEvidence": [],
+        "retailerEvidence": [
+          {
+            "sourceUrl": "https://item.rakuten.co.jp/bisyugakou/ms010-n72/",
+            "sourceType": "rakuten_retail",
+            "checkedAt": "2026-10-22T03:56:50.771Z",
+            "retrieved": true,
+            "textHash": "68d1359006d82364a840c891fc99d5d8b385c598a3428ee5270448f4944b165b",
+            "retrievalMethod": "http_body"
+          },
+          {
+            "sourceUrl": "https://www.imanaka-sakeshop.com/shopdetail/000000005277/4/page8/order/",
+            "sourceType": "specialistRetailer",
+            "checkedAt": "2026-10-22T04:11:16.599Z",
+            "retrieved": true,
+            "textHash": "7d24c5046f4ecb6da9cba51ac3052957cfcdc8b40482db6d044f95333edc67cc",
+            "retrievalMethod": "http_body"
+          }
+        ],
+        "communityEvidence": []
+      },
+      "sensoryConsensus": {
+        "fields": {
+          "sweetness": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "acidity": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "umami": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "aroma": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "body": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "finish": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "bitterness": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "carbonation": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "alcoholImpression": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          }
+        },
+        "acceptedEvidenceIds": [],
+        "excluded": [],
+        "provenance": "editorial_sensory_consensus",
+        "notVerifiedSpecifications": true
+      },
+      "communityEvidence": [],
+      "communityPairings": [],
+      "pairingStatus": "PAIRING_READY",
+      "editorialPairings": [
+        {
+          "dish": "鶏の照り焼き",
+          "reason": "照り焼きと、力強い酸を持つみむろ杉を。料理のあとに続く余韻をゆっくり味わって。",
+          "provenance": "yoiEditorial",
+          "sourceUrls": [
+            "https://item.rakuten.co.jp/bisyugakou/ms010-n72/",
+            "https://www.imanaka-sakeshop.com/shopdetail/000000005277/4/page8/order/"
+          ],
+          "dishEvidence": {
+            "foodId": "item-1i89m16",
+            "pairingProfile": {
+              "name": "鶏の照り焼き",
+              "directions": [
+                "hearty",
+                "grilled"
+              ],
+              "method": "焼き物",
+              "flavor": "甘辛いタレ",
+              "rich": true
+            }
+          },
+          "sourceScope": "今回確認した当該SKUの特徴と既存料理DBから新規作成。公式・口コミの料理推奨ではない。"
+        },
+        {
+          "dish": "きのこのホイル焼き",
+          "reason": "きのこのホイル焼きをつまみに、重なりのある味わいを。落ち着いて飲みたい夜の提案です。",
+          "provenance": "yoiEditorial",
+          "sourceUrls": [
+            "https://item.rakuten.co.jp/bisyugakou/ms010-n72/",
+            "https://www.imanaka-sakeshop.com/shopdetail/000000005277/4/page8/order/"
+          ],
+          "dishEvidence": {
+            "foodId": "item-1akkb7y"
+          },
+          "sourceScope": "今回確認した当該SKUの特徴と既存料理DBから新規作成。公式・口コミの料理推奨ではない。"
+        },
+        {
+          "dish": "肉じゃが",
+          "reason": "肉じゃがに、じわりと旨みの広がる一杯を添えて。ひと口ずつ味を確かめながら。",
+          "provenance": "yoiEditorial",
+          "sourceUrls": [
+            "https://item.rakuten.co.jp/bisyugakou/ms010-n72/",
+            "https://www.imanaka-sakeshop.com/shopdetail/000000005277/4/page8/order/"
+          ],
+          "dishEvidence": {
+            "foodId": "item-13w7k4b",
+            "pairingProfile": {
+              "name": "肉じゃが",
+              "directions": [
+                "warm",
+                "hearty",
+                "comfort"
+              ],
+              "method": "煮物",
+              "flavor": "甘辛い煮汁",
+              "rich": true
+            }
+          },
+          "sourceScope": "今回確認した当該SKUの特徴と既存料理DBから新規作成。公式・口コミの料理推奨ではない。"
+        }
+      ],
+      "officialPairings": [],
+      "nightEvidence": [
+        {
+          "nightId": "after-work",
+          "score": 53,
+          "signals": [
+            {
+              "axis": "umami",
+              "value": "旨味",
+              "sourceUrl": "https://item.rakuten.co.jp/bisyugakou/ms010-n72/"
+            },
+            {
+              "axis": "finish",
+              "value": "長い余韻",
+              "sourceUrl": "https://item.rakuten.co.jp/bisyugakou/ms010-n72/"
+            }
+          ],
+          "temperatureMatch": false,
+          "temperatureSourceUrls": [],
+          "provenance": "editorialPreferenceFromSourcedFacts",
+          "override": null
+        },
+        {
+          "nightId": "quiet",
+          "score": 27,
+          "signals": [
+            {
+              "axis": "soft",
+              "value": "白桃のような柔らかな香り",
+              "sourceUrl": "https://item.rakuten.co.jp/bisyugakou/ms010-n72/"
+            }
+          ],
+          "temperatureMatch": false,
+          "temperatureSourceUrls": [],
+          "provenance": "editorialPreferenceFromSourcedFacts",
+          "override": null
+        },
+        {
+          "nightId": "treat",
+          "score": 27,
+          "signals": [
+            {
+              "axis": "finish",
+              "value": "長い余韻",
+              "sourceUrl": "https://item.rakuten.co.jp/bisyugakou/ms010-n72/"
+            }
+          ],
+          "temperatureMatch": false,
+          "temperatureSourceUrls": [],
+          "provenance": "editorialPreferenceFromSourcedFacts",
+          "override": null
+        },
+        {
+          "nightId": "just-one",
+          "score": 27,
+          "signals": [
+            {
+              "axis": "acid",
+              "value": "酸味",
+              "sourceUrl": "https://item.rakuten.co.jp/bisyugakou/ms010-n72/"
+            }
+          ],
+          "temperatureMatch": false,
+          "temperatureSourceUrls": [],
+          "provenance": "editorialPreferenceFromSourcedFacts",
+          "override": null
+        },
+        {
+          "nightId": "dinner",
+          "score": 40,
+          "signals": [
+            {
+              "axis": "umami",
+              "value": "旨味",
+              "sourceUrl": "https://item.rakuten.co.jp/bisyugakou/ms010-n72/"
+            },
+            {
+              "axis": "acid",
+              "value": "酸味",
+              "sourceUrl": "https://item.rakuten.co.jp/bisyugakou/ms010-n72/"
+            }
+          ],
+          "temperatureMatch": false,
+          "temperatureSourceUrls": [],
+          "provenance": "editorialPreferenceFromSourcedFacts",
+          "override": null
+        },
+        {
+          "nightId": "reset",
+          "score": 27,
+          "signals": [
+            {
+              "axis": "acid",
+              "value": "酸味",
+              "sourceUrl": "https://item.rakuten.co.jp/bisyugakou/ms010-n72/"
+            }
+          ],
+          "temperatureMatch": false,
+          "temperatureSourceUrls": [],
+          "provenance": "editorialPreferenceFromSourcedFacts",
+          "override": null
+        },
+        {
+          "nightId": "lingering",
+          "score": 40,
+          "signals": [
+            {
+              "axis": "umami",
+              "value": "旨味",
+              "sourceUrl": "https://item.rakuten.co.jp/bisyugakou/ms010-n72/"
+            },
+            {
+              "axis": "finish",
+              "value": "長い余韻",
+              "sourceUrl": "https://item.rakuten.co.jp/bisyugakou/ms010-n72/"
+            }
+          ],
+          "temperatureMatch": false,
+          "temperatureSourceUrls": [],
+          "provenance": "editorialPreferenceFromSourcedFacts",
+          "override": null
+        },
+        {
+          "nightId": "ordinary",
+          "score": 27,
+          "signals": [
+            {
+              "axis": "umami",
+              "value": "旨味",
+              "sourceUrl": "https://item.rakuten.co.jp/bisyugakou/ms010-n72/"
+            }
+          ],
+          "temperatureMatch": false,
+          "temperatureSourceUrls": [],
+          "provenance": "editorialPreferenceFromSourcedFacts",
+          "override": null
+        },
+        {
+          "nightId": "spring",
+          "score": 27,
+          "signals": [
+            {
+              "axis": "soft",
+              "value": "白桃のような柔らかな香り",
+              "sourceUrl": "https://item.rakuten.co.jp/bisyugakou/ms010-n72/"
+            }
+          ],
+          "temperatureMatch": false,
+          "temperatureSourceUrls": [],
+          "provenance": "editorialPreferenceFromSourcedFacts",
+          "override": null
+        },
+        {
+          "nightId": "rain",
+          "score": 53,
+          "signals": [
+            {
+              "axis": "soft",
+              "value": "白桃のような柔らかな香り",
+              "sourceUrl": "https://item.rakuten.co.jp/bisyugakou/ms010-n72/"
+            },
+            {
+              "axis": "umami",
+              "value": "旨味",
+              "sourceUrl": "https://item.rakuten.co.jp/bisyugakou/ms010-n72/"
+            }
+          ],
+          "temperatureMatch": false,
+          "temperatureSourceUrls": [],
+          "provenance": "editorialPreferenceFromSourcedFacts",
+          "override": null
+        },
+        {
+          "nightId": "humid",
+          "score": 27,
+          "signals": [
+            {
+              "axis": "acid",
+              "value": "酸味",
+              "sourceUrl": "https://item.rakuten.co.jp/bisyugakou/ms010-n72/"
+            }
+          ],
+          "temperatureMatch": false,
+          "temperatureSourceUrls": [],
+          "provenance": "editorialPreferenceFromSourcedFacts",
+          "override": null
+        },
+        {
+          "nightId": "autumn",
+          "score": 53,
+          "signals": [
+            {
+              "axis": "umami",
+              "value": "旨味",
+              "sourceUrl": "https://item.rakuten.co.jp/bisyugakou/ms010-n72/"
+            },
+            {
+              "axis": "soft",
+              "value": "白桃のような柔らかな香り",
+              "sourceUrl": "https://item.rakuten.co.jp/bisyugakou/ms010-n72/"
+            }
+          ],
+          "temperatureMatch": false,
+          "temperatureSourceUrls": [],
+          "provenance": "editorialPreferenceFromSourcedFacts",
+          "override": null
+        },
+        {
+          "nightId": "cold",
+          "score": 40,
+          "signals": [
+            {
+              "axis": "umami",
+              "value": "旨味",
+              "sourceUrl": "https://item.rakuten.co.jp/bisyugakou/ms010-n72/"
+            }
+          ],
+          "temperatureMatch": false,
+          "temperatureSourceUrls": [],
+          "provenance": "editorialPreferenceFromSourcedFacts",
+          "override": null
+        },
+        {
+          "nightId": "snow",
+          "score": 53,
+          "signals": [
+            {
+              "axis": "soft",
+              "value": "白桃のような柔らかな香り",
+              "sourceUrl": "https://item.rakuten.co.jp/bisyugakou/ms010-n72/"
+            },
+            {
+              "axis": "umami",
+              "value": "旨味",
+              "sourceUrl": "https://item.rakuten.co.jp/bisyugakou/ms010-n72/"
+            }
+          ],
+          "temperatureMatch": false,
+          "temperatureSourceUrls": [],
+          "provenance": "editorialPreferenceFromSourcedFacts",
+          "override": null
+        },
+        {
+          "nightId": "year-end",
+          "score": 40,
+          "signals": [
+            {
+              "axis": "umami",
+              "value": "旨味",
+              "sourceUrl": "https://item.rakuten.co.jp/bisyugakou/ms010-n72/"
+            },
+            {
+              "axis": "finish",
+              "value": "長い余韻",
+              "sourceUrl": "https://item.rakuten.co.jp/bisyugakou/ms010-n72/"
+            }
+          ],
+          "temperatureMatch": false,
+          "temperatureSourceUrls": [],
+          "provenance": "editorialPreferenceFromSourcedFacts",
+          "override": null
+        }
+      ],
+      "identityDecision": {
+        "breweryConfirmed": true,
+        "productConfirmed": true,
+        "skuConfirmed": true,
+        "majorConflicts": [],
+        "scope": "新IDの別SKU。旧商品との完全一致を主張しない。"
+      },
+      "duplicateChecked": true,
+      "qaPassed": true,
+      "holdReason": [],
+      "visualEvidence": {
+        "reviewed": true,
+        "method": "official_original_gallery_and_product_body",
+        "capacityCompatible": true,
+        "observation": "公式ツール原本のボトル・ラベルと単品本文を照合。画像内の小文字すべてを判読できたとは主張しない。"
+      },
+      "differenceNotes": [
+        {
+          "field": "edition",
+          "differenceNote": "ろまん山田錦・露葉風特別純米とは別の木桶菩提もと。特定名称・精米・生火入れは未確認。"
+        }
+      ],
+      "confidence": "medium",
+      "lastCheckedAt": "2026-10-22T04:20:11.600Z",
+      "seasonal": false,
+      "automaticPublicationAllowed": false,
+      "reviewPreserved": true,
+      "commercialStatus": "LIVE_PURCHASE_CONFIRMED",
+      "commercialDecision": {
+        "checkedAt": "2026-10-22T03:56:50.771Z",
+        "formalAffiliate": true,
+        "sameSku": true,
+        "registeredSite": "https://yoi-no-ikkon.vercel.app/",
+        "originalSha256": "9470f8c004f68119efd7c5e32a9f2afff2545f889013d3b74991a5b6d2c98b26",
+        "validUntil": "2026-11-21T04:20:12.645Z"
+      },
+      "imageStatus": "FORMAL_IMAGE_CONFIRMED",
+      "imageDecision": {
+        "sameSku": true,
+        "capacityMl": 720,
+        "originalUnmodified": true,
+        "originalSha256": "089dfe853803942731c547228e8d55bfef122a30bf62c23124350b7b3e1a5eaa",
+        "validUntil": "2026-11-21T04:20:12.645Z"
+      },
+      "publicationApprovedAt": "2026-10-22T04:31:05.515Z",
+      "publicationApprovalSource": "be9798cc-be9c-41a5-becf-4a8b0f7ea66a",
+      "catalogDecision": "OPERATOR_PREAPPROVED_REVIEWED_RELEASE"
+    },
+    {
+      "candidateProductId": "tanaka65-hiire-1800-current-v1",
+      "productionProductId": "tanaka65-hiire-1800-current-v1",
+      "publishedSakeId": "tanaka65-hiire-1800-current-v1",
+      "breweryId": "福岡県|白糸酒造",
+      "breweryName": "白糸酒造株式会社",
+      "prefecture": "福岡県",
+      "brand": "田中六五",
+      "formalProductName": "田中六五 純米酒 火入れ 1800ml",
+      "capacityMl": 1800,
+      "normalUrl": "https://item.rakuten.co.jp/hasegawasaketen/1008344/",
+      "selectedItemCode": "hasegawasaketen:10004947",
+      "productType": "純米酒",
+      "state": "ACTIVE",
+      "reviewPhase": "shelf-final",
+      "specStatus": "SPEC_READY",
+      "specConfidence": "medium",
+      "specEvidence": [
+        {
+          "sourceUrl": "https://item.rakuten.co.jp/hasegawasaketen/1008344/",
+          "sourceType": "rakuten_retail",
+          "checkedAt": "2026-10-22T03:57:11.319Z",
+          "retrieved": true,
+          "textHash": "5f0984943531074d3f7c005bd356136320189ec5e5d44ce5bd72844329606513",
+          "retrievalMethod": "http_body"
+        },
+        {
+          "sourceUrl": "https://ontable.jp/shopdetail/000000002640/",
+          "sourceType": "specialistRetailer",
+          "checkedAt": "2026-10-22T04:11:17.837Z",
+          "retrieved": true,
+          "textHash": "86a3c4609675c88a6e1c58af52d6155f3a62ced4649f992e0efd884464caaeb9",
+          "retrievalMethod": "http_body"
+        }
+      ],
+      "sensoryStatus": "SENSORY_READY",
+      "sensoryConfidence": "medium",
+      "sensoryReadinessBasis": "当該SKUの実読資料に限定。単一レビューから合意を生成しない。",
+      "sensoryEvidence": {
+        "officialEvidence": [],
+        "retailerEvidence": [
+          {
+            "sourceUrl": "https://item.rakuten.co.jp/hasegawasaketen/1008344/",
+            "sourceType": "rakuten_retail",
+            "checkedAt": "2026-10-22T03:57:11.319Z",
+            "retrieved": true,
+            "textHash": "5f0984943531074d3f7c005bd356136320189ec5e5d44ce5bd72844329606513",
+            "retrievalMethod": "http_body"
+          },
+          {
+            "sourceUrl": "https://ontable.jp/shopdetail/000000002640/",
+            "sourceType": "specialistRetailer",
+            "checkedAt": "2026-10-22T04:11:17.837Z",
+            "retrieved": true,
+            "textHash": "86a3c4609675c88a6e1c58af52d6155f3a62ced4649f992e0efd884464caaeb9",
+            "retrievalMethod": "http_body"
+          }
+        ],
+        "communityEvidence": []
+      },
+      "sensoryConsensus": {
+        "fields": {
+          "sweetness": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "acidity": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "umami": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "aroma": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "body": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "finish": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "bitterness": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "carbonation": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "alcoholImpression": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          }
+        },
+        "acceptedEvidenceIds": [],
+        "excluded": [],
+        "provenance": "editorial_sensory_consensus",
+        "notVerifiedSpecifications": true
+      },
+      "communityEvidence": [],
+      "communityPairings": [],
+      "pairingStatus": "PAIRING_READY",
+      "editorialPairings": [
+        {
+          "dish": "焼き鮭",
+          "reason": "焼き鮭と、ふくよかな旨みの田中六五を。いつもの魚料理に添える提案です。",
+          "provenance": "yoiEditorial",
+          "sourceUrls": [
+            "https://item.rakuten.co.jp/hasegawasaketen/1008344/",
+            "https://ontable.jp/shopdetail/000000002640/"
+          ],
+          "dishEvidence": {
+            "foodId": "item-avnlz1"
+          },
+          "sourceScope": "今回確認した当該SKUの特徴と既存料理DBから新規作成。公式・口コミの料理推奨ではない。"
+        },
+        {
+          "dish": "肉じゃが",
+          "reason": "肉じゃがをつまみながら、旨みと酸のある一杯を。食卓でゆっくり飲み進めて。",
+          "provenance": "yoiEditorial",
+          "sourceUrls": [
+            "https://item.rakuten.co.jp/hasegawasaketen/1008344/",
+            "https://ontable.jp/shopdetail/000000002640/"
+          ],
+          "dishEvidence": {
+            "foodId": "item-13w7k4b",
+            "pairingProfile": {
+              "name": "肉じゃが",
+              "directions": [
+                "warm",
+                "hearty",
+                "comfort"
+              ],
+              "method": "煮物",
+              "flavor": "甘辛い煮汁",
+              "rich": true
+            }
+          },
+          "sourceScope": "今回確認した当該SKUの特徴と既存料理DBから新規作成。公式・口コミの料理推奨ではない。"
+        },
+        {
+          "dish": "だし巻き卵",
+          "reason": "だし巻き卵と、穏やかな香りの田中六五。ひと口ずつ交互に味わって。",
+          "provenance": "yoiEditorial",
+          "sourceUrls": [
+            "https://item.rakuten.co.jp/hasegawasaketen/1008344/",
+            "https://ontable.jp/shopdetail/000000002640/"
+          ],
+          "dishEvidence": {
+            "foodId": "item-snidmz",
+            "pairingProfile": {
+              "name": "だし巻き卵",
+              "directions": [
+                "small",
+                "warm",
+                "grilled",
+                "comfort"
+              ],
+              "method": "焼き物",
+              "flavor": "卵とだしのやさしい味",
+              "delicate": true
+            }
+          },
+          "sourceScope": "今回確認した当該SKUの特徴と既存料理DBから新規作成。公式・口コミの料理推奨ではない。"
+        }
+      ],
+      "officialPairings": [],
+      "nightEvidence": [
+        {
+          "nightId": "after-work",
+          "score": 27,
+          "signals": [
+            {
+              "axis": "umami",
+              "value": "旨味",
+              "sourceUrl": "https://item.rakuten.co.jp/hasegawasaketen/1008344/"
+            }
+          ],
+          "temperatureMatch": false,
+          "temperatureSourceUrls": [],
+          "provenance": "editorialPreferenceFromSourcedFacts",
+          "override": null
+        },
+        {
+          "nightId": "quiet",
+          "score": 27,
+          "signals": [
+            {
+              "axis": "gentle",
+              "value": "穏やかな香り",
+              "sourceUrl": "https://item.rakuten.co.jp/hasegawasaketen/1008344/"
+            }
+          ],
+          "temperatureMatch": false,
+          "temperatureSourceUrls": [],
+          "provenance": "editorialPreferenceFromSourcedFacts",
+          "override": null
+        },
+        {
+          "nightId": "together",
+          "score": 27,
+          "signals": [
+            {
+              "axis": "gentle",
+              "value": "穏やかな香り",
+              "sourceUrl": "https://item.rakuten.co.jp/hasegawasaketen/1008344/"
+            }
+          ],
+          "temperatureMatch": false,
+          "temperatureSourceUrls": [],
+          "provenance": "editorialPreferenceFromSourcedFacts",
+          "override": null
+        },
+        {
+          "nightId": "just-one",
+          "score": 53,
+          "signals": [
+            {
+              "axis": "light",
+              "value": "軽やかな苦味",
+              "sourceUrl": "https://item.rakuten.co.jp/hasegawasaketen/1008344/"
+            },
+            {
+              "axis": "acid",
+              "value": "酸味",
+              "sourceUrl": "https://item.rakuten.co.jp/hasegawasaketen/1008344/"
+            }
+          ],
+          "temperatureMatch": false,
+          "temperatureSourceUrls": [],
+          "provenance": "editorialPreferenceFromSourcedFacts",
+          "override": null
+        },
+        {
+          "nightId": "dinner",
+          "score": 40,
+          "signals": [
+            {
+              "axis": "umami",
+              "value": "旨味",
+              "sourceUrl": "https://item.rakuten.co.jp/hasegawasaketen/1008344/"
+            },
+            {
+              "axis": "acid",
+              "value": "酸味",
+              "sourceUrl": "https://item.rakuten.co.jp/hasegawasaketen/1008344/"
+            }
+          ],
+          "temperatureMatch": false,
+          "temperatureSourceUrls": [],
+          "provenance": "editorialPreferenceFromSourcedFacts",
+          "override": null
+        },
+        {
+          "nightId": "reset",
+          "score": 53,
+          "signals": [
+            {
+              "axis": "light",
+              "value": "軽やかな苦味",
+              "sourceUrl": "https://item.rakuten.co.jp/hasegawasaketen/1008344/"
+            },
+            {
+              "axis": "acid",
+              "value": "酸味",
+              "sourceUrl": "https://item.rakuten.co.jp/hasegawasaketen/1008344/"
+            }
+          ],
+          "temperatureMatch": false,
+          "temperatureSourceUrls": [],
+          "provenance": "editorialPreferenceFromSourcedFacts",
+          "override": null
+        },
+        {
+          "nightId": "celebrate",
+          "score": 27,
+          "signals": [
+            {
+              "axis": "light",
+              "value": "軽やかな苦味",
+              "sourceUrl": "https://item.rakuten.co.jp/hasegawasaketen/1008344/"
+            }
+          ],
+          "temperatureMatch": false,
+          "temperatureSourceUrls": [],
+          "provenance": "editorialPreferenceFromSourcedFacts",
+          "override": null
+        },
+        {
+          "nightId": "lingering",
+          "score": 20,
+          "signals": [
+            {
+              "axis": "umami",
+              "value": "旨味",
+              "sourceUrl": "https://item.rakuten.co.jp/hasegawasaketen/1008344/"
+            }
+          ],
+          "temperatureMatch": false,
+          "temperatureSourceUrls": [],
+          "provenance": "editorialPreferenceFromSourcedFacts",
+          "override": null
+        },
+        {
+          "nightId": "ordinary",
+          "score": 27,
+          "signals": [
+            {
+              "axis": "umami",
+              "value": "旨味",
+              "sourceUrl": "https://item.rakuten.co.jp/hasegawasaketen/1008344/"
+            }
+          ],
+          "temperatureMatch": false,
+          "temperatureSourceUrls": [],
+          "provenance": "editorialPreferenceFromSourcedFacts",
+          "override": null
+        },
+        {
+          "nightId": "spring",
+          "score": 27,
+          "signals": [
+            {
+              "axis": "light",
+              "value": "軽やかな苦味",
+              "sourceUrl": "https://item.rakuten.co.jp/hasegawasaketen/1008344/"
+            }
+          ],
+          "temperatureMatch": false,
+          "temperatureSourceUrls": [],
+          "provenance": "editorialPreferenceFromSourcedFacts",
+          "override": null
+        },
+        {
+          "nightId": "rain",
+          "score": 53,
+          "signals": [
+            {
+              "axis": "gentle",
+              "value": "穏やかな香り",
+              "sourceUrl": "https://item.rakuten.co.jp/hasegawasaketen/1008344/"
+            },
+            {
+              "axis": "umami",
+              "value": "旨味",
+              "sourceUrl": "https://item.rakuten.co.jp/hasegawasaketen/1008344/"
+            }
+          ],
+          "temperatureMatch": false,
+          "temperatureSourceUrls": [],
+          "provenance": "editorialPreferenceFromSourcedFacts",
+          "override": null
+        },
+        {
+          "nightId": "humid",
+          "score": 53,
+          "signals": [
+            {
+              "axis": "light",
+              "value": "軽やかな苦味",
+              "sourceUrl": "https://item.rakuten.co.jp/hasegawasaketen/1008344/"
+            },
+            {
+              "axis": "acid",
+              "value": "酸味",
+              "sourceUrl": "https://item.rakuten.co.jp/hasegawasaketen/1008344/"
+            }
+          ],
+          "temperatureMatch": false,
+          "temperatureSourceUrls": [],
+          "provenance": "editorialPreferenceFromSourcedFacts",
+          "override": null
+        },
+        {
+          "nightId": "festival",
+          "score": 27,
+          "signals": [
+            {
+              "axis": "light",
+              "value": "軽やかな苦味",
+              "sourceUrl": "https://item.rakuten.co.jp/hasegawasaketen/1008344/"
+            }
+          ],
+          "temperatureMatch": false,
+          "temperatureSourceUrls": [],
+          "provenance": "editorialPreferenceFromSourcedFacts",
+          "override": null
+        },
+        {
+          "nightId": "moon",
+          "score": 27,
+          "signals": [
+            {
+              "axis": "gentle",
+              "value": "穏やかな香り",
+              "sourceUrl": "https://item.rakuten.co.jp/hasegawasaketen/1008344/"
+            }
+          ],
+          "temperatureMatch": false,
+          "temperatureSourceUrls": [],
+          "provenance": "editorialPreferenceFromSourcedFacts",
+          "override": null
+        },
+        {
+          "nightId": "autumn",
+          "score": 27,
+          "signals": [
+            {
+              "axis": "umami",
+              "value": "旨味",
+              "sourceUrl": "https://item.rakuten.co.jp/hasegawasaketen/1008344/"
+            }
+          ],
+          "temperatureMatch": false,
+          "temperatureSourceUrls": [],
+          "provenance": "editorialPreferenceFromSourcedFacts",
+          "override": null
+        },
+        {
+          "nightId": "cold",
+          "score": 40,
+          "signals": [
+            {
+              "axis": "umami",
+              "value": "旨味",
+              "sourceUrl": "https://item.rakuten.co.jp/hasegawasaketen/1008344/"
+            }
+          ],
+          "temperatureMatch": false,
+          "temperatureSourceUrls": [],
+          "provenance": "editorialPreferenceFromSourcedFacts",
+          "override": null
+        },
+        {
+          "nightId": "snow",
+          "score": 53,
+          "signals": [
+            {
+              "axis": "gentle",
+              "value": "穏やかな香り",
+              "sourceUrl": "https://item.rakuten.co.jp/hasegawasaketen/1008344/"
+            },
+            {
+              "axis": "umami",
+              "value": "旨味",
+              "sourceUrl": "https://item.rakuten.co.jp/hasegawasaketen/1008344/"
+            }
+          ],
+          "temperatureMatch": false,
+          "temperatureSourceUrls": [],
+          "provenance": "editorialPreferenceFromSourcedFacts",
+          "override": null
+        },
+        {
+          "nightId": "year-end",
+          "score": 20,
+          "signals": [
+            {
+              "axis": "umami",
+              "value": "旨味",
+              "sourceUrl": "https://item.rakuten.co.jp/hasegawasaketen/1008344/"
+            }
+          ],
+          "temperatureMatch": false,
+          "temperatureSourceUrls": [],
+          "provenance": "editorialPreferenceFromSourcedFacts",
+          "override": null
+        }
+      ],
+      "identityDecision": {
+        "breweryConfirmed": true,
+        "productConfirmed": true,
+        "skuConfirmed": true,
+        "majorConflicts": [],
+        "scope": "新IDの別SKU。旧商品との完全一致を主張しない。"
+      },
+      "duplicateChecked": true,
+      "qaPassed": true,
+      "holdReason": [],
+      "visualEvidence": {
+        "reviewed": true,
+        "method": "official_original_gallery_and_product_body",
+        "capacityCompatible": true,
+        "observation": "公式ツール原本のボトル・ラベルと単品本文を照合。画像内の小文字すべてを判読できたとは主張しない。"
+      },
+      "differenceNotes": [
+        {
+          "field": "edition",
+          "differenceNote": "白糸70とは異なる山田錦65%の火入れ。予約生酒・6513・泡は別商品。"
+        }
+      ],
+      "confidence": "medium",
+      "lastCheckedAt": "2026-10-22T04:20:11.600Z",
+      "seasonal": false,
+      "automaticPublicationAllowed": false,
+      "reviewPreserved": true,
+      "commercialStatus": "LIVE_PURCHASE_CONFIRMED",
+      "commercialDecision": {
+        "checkedAt": "2026-10-22T03:57:11.319Z",
+        "formalAffiliate": true,
+        "sameSku": true,
+        "registeredSite": "https://yoi-no-ikkon.vercel.app/",
+        "originalSha256": "4ce0422471b4ddbc99523b6adf8414f9cfcf289d847c492812fe516bc3c126f0",
+        "validUntil": "2026-11-21T04:20:12.645Z"
+      },
+      "imageStatus": "FORMAL_IMAGE_CONFIRMED",
+      "imageDecision": {
+        "sameSku": true,
+        "capacityMl": 1800,
+        "originalUnmodified": true,
+        "originalSha256": "d106dea29df7cb7d087cd1425e015d72303bae042c9121cecd496885de6ccb33",
+        "validUntil": "2026-11-21T04:20:12.645Z"
+      },
+      "publicationApprovedAt": "2026-10-22T04:31:05.515Z",
+      "publicationApprovalSource": "be9798cc-be9c-41a5-becf-4a8b0f7ea66a",
+      "catalogDecision": "OPERATOR_PREAPPROVED_REVIEWED_RELEASE"
+    },
+    {
+      "candidateProductId": "shirakiku-ginshari-tokubetsu-junmai-current-v1",
+      "productionProductId": "shirakiku-ginshari-tokubetsu-junmai-current-v1",
+      "publishedSakeId": "shirakiku-ginshari-tokubetsu-junmai-current-v1",
+      "breweryId": "京都府|白杉酒造",
+      "breweryName": "白杉酒造株式会社",
+      "prefecture": "京都府",
+      "brand": "shirakiku",
+      "formalProductName": "shirakiku 特別純米 銀シャリ 火入れ",
+      "capacityMl": 720,
+      "normalUrl": "https://item.rakuten.co.jp/sakayainoue/4525892180129/",
+      "selectedItemCode": "sakayainoue:10002324",
+      "productType": "特別純米酒",
+      "state": "ACTIVE",
+      "reviewPhase": "shelf-final",
+      "specStatus": "SPEC_READY",
+      "specConfidence": "high",
+      "specEvidence": [
+        {
+          "sourceUrl": "https://sake-shirakiku.jp/products/silver",
+          "sourceType": "official",
+          "checkedAt": "2026-10-22T04:11:20.344Z",
+          "retrieved": true,
+          "textHash": "b920f9d39f17c91425dc3cb3a21809800fc4fd941a0bd4a38d2678580087805e",
+          "retrievalMethod": "http_body"
+        },
+        {
+          "sourceUrl": "https://item.rakuten.co.jp/sakayainoue/4525892180129/",
+          "sourceType": "rakuten_retail",
+          "checkedAt": "2026-10-22T03:57:30.038Z",
+          "retrieved": true,
+          "textHash": "0cc060e7d26a1cb2d8190897381f58a135c58757dd6f7a19da081367f052bc70",
+          "retrievalMethod": "http_body"
+        }
+      ],
+      "sensoryStatus": "SENSORY_READY",
+      "sensoryConfidence": "medium",
+      "sensoryReadinessBasis": "当該SKUの実読資料に限定。単一レビューから合意を生成しない。",
+      "sensoryEvidence": {
+        "officialEvidence": [
+          {
+            "sourceUrl": "https://sake-shirakiku.jp/products/silver",
+            "sourceType": "official",
+            "checkedAt": "2026-10-22T04:11:20.344Z",
+            "retrieved": true,
+            "textHash": "b920f9d39f17c91425dc3cb3a21809800fc4fd941a0bd4a38d2678580087805e",
+            "retrievalMethod": "http_body"
+          }
+        ],
+        "retailerEvidence": [
+          {
+            "sourceUrl": "https://item.rakuten.co.jp/sakayainoue/4525892180129/",
+            "sourceType": "rakuten_retail",
+            "checkedAt": "2026-10-22T03:57:30.038Z",
+            "retrieved": true,
+            "textHash": "0cc060e7d26a1cb2d8190897381f58a135c58757dd6f7a19da081367f052bc70",
+            "retrievalMethod": "http_body"
+          }
+        ],
+        "communityEvidence": []
+      },
+      "sensoryConsensus": {
+        "fields": {
+          "sweetness": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "acidity": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "umami": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "aroma": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "body": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "finish": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "bitterness": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "carbonation": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "alcoholImpression": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          }
+        },
+        "acceptedEvidenceIds": [],
+        "excluded": [],
+        "provenance": "editorial_sensory_consensus",
+        "notVerifiedSpecifications": true
+      },
+      "communityEvidence": [],
+      "communityPairings": [],
+      "pairingStatus": "PAIRING_READY",
+      "editorialPairings": [
+        {
+          "dish": "焼き鮭",
+          "reason": "焼き鮭と、食事に合わせて楽しむ銀シャリを。いつもの晩ごはんから試す提案です。",
+          "provenance": "yoiEditorial",
+          "sourceUrls": [
+            "https://sake-shirakiku.jp/products/silver",
+            "https://item.rakuten.co.jp/sakayainoue/4525892180129/"
+          ],
+          "dishEvidence": {
+            "foodId": "item-avnlz1"
+          },
+          "sourceScope": "今回確認した当該SKUの特徴と既存料理DBから新規作成。公式・口コミの料理推奨ではない。"
+        },
+        {
+          "dish": "だし巻き卵",
+          "reason": "だし巻き卵をつまみながら、銀シャリを少しずつ。料理と一杯をゆっくり楽しんで。",
+          "provenance": "yoiEditorial",
+          "sourceUrls": [
+            "https://sake-shirakiku.jp/products/silver",
+            "https://item.rakuten.co.jp/sakayainoue/4525892180129/"
+          ],
+          "dishEvidence": {
+            "foodId": "item-snidmz",
+            "pairingProfile": {
+              "name": "だし巻き卵",
+              "directions": [
+                "small",
+                "warm",
+                "grilled",
+                "comfort"
+              ],
+              "method": "焼き物",
+              "flavor": "卵とだしのやさしい味",
+              "delicate": true
+            }
+          },
+          "sourceScope": "今回確認した当該SKUの特徴と既存料理DBから新規作成。公式・口コミの料理推奨ではない。"
+        },
+        {
+          "dish": "冷奴",
+          "reason": "冷奴を添えた食卓に、銀シャリを。ひと口ずつ料理とお酒の味を確かめる組み合わせです。",
+          "provenance": "yoiEditorial",
+          "sourceUrls": [
+            "https://sake-shirakiku.jp/products/silver",
+            "https://item.rakuten.co.jp/sakayainoue/4525892180129/"
+          ],
+          "dishEvidence": {
+            "foodId": "item-1gwo1eu",
+            "pairingProfile": {
+              "name": "冷奴",
+              "directions": [
+                "fresh",
+                "small"
+              ],
+              "method": "豆腐料理",
+              "flavor": "豆腐と薬味のさっぱりした味",
+              "delicate": true
+            }
+          },
+          "sourceScope": "今回確認した当該SKUの特徴と既存料理DBから新規作成。公式・口コミの料理推奨ではない。"
+        }
+      ],
+      "officialPairings": [
+        "寿司"
+      ],
+      "nightEvidence": [
+        {
+          "nightId": "together",
+          "score": 27,
+          "signals": [
+            {
+              "axis": "food",
+              "value": "食中酒向き",
+              "sourceUrl": "https://sake-shirakiku.jp/products/silver"
+            }
+          ],
+          "temperatureMatch": false,
+          "temperatureSourceUrls": [],
+          "provenance": "editorialPreferenceFromSourcedFacts",
+          "override": null
+        },
+        {
+          "nightId": "just-one",
+          "score": 27,
+          "signals": [
+            {
+              "axis": "acid",
+              "value": "酸味",
+              "sourceUrl": "https://sake-shirakiku.jp/products/silver"
+            }
+          ],
+          "temperatureMatch": false,
+          "temperatureSourceUrls": [],
+          "provenance": "editorialPreferenceFromSourcedFacts",
+          "override": null
+        },
+        {
+          "nightId": "dinner",
+          "score": 40,
+          "signals": [
+            {
+              "axis": "acid",
+              "value": "酸味",
+              "sourceUrl": "https://sake-shirakiku.jp/products/silver"
+            },
+            {
+              "axis": "food",
+              "value": "食中酒向き",
+              "sourceUrl": "https://sake-shirakiku.jp/products/silver"
+            }
+          ],
+          "temperatureMatch": false,
+          "temperatureSourceUrls": [],
+          "provenance": "editorialPreferenceFromSourcedFacts",
+          "override": null
+        },
+        {
+          "nightId": "reset",
+          "score": 27,
+          "signals": [
+            {
+              "axis": "acid",
+              "value": "酸味",
+              "sourceUrl": "https://sake-shirakiku.jp/products/silver"
+            }
+          ],
+          "temperatureMatch": false,
+          "temperatureSourceUrls": [],
+          "provenance": "editorialPreferenceFromSourcedFacts",
+          "override": null
+        },
+        {
+          "nightId": "ordinary",
+          "score": 27,
+          "signals": [
+            {
+              "axis": "food",
+              "value": "食中酒向き",
+              "sourceUrl": "https://sake-shirakiku.jp/products/silver"
+            }
+          ],
+          "temperatureMatch": false,
+          "temperatureSourceUrls": [],
+          "provenance": "editorialPreferenceFromSourcedFacts",
+          "override": null
+        },
+        {
+          "nightId": "humid",
+          "score": 27,
+          "signals": [
+            {
+              "axis": "acid",
+              "value": "酸味",
+              "sourceUrl": "https://sake-shirakiku.jp/products/silver"
+            }
+          ],
+          "temperatureMatch": false,
+          "temperatureSourceUrls": [],
+          "provenance": "editorialPreferenceFromSourcedFacts",
+          "override": null
+        },
+        {
+          "nightId": "year-end",
+          "score": 20,
+          "signals": [
+            {
+              "axis": "food",
+              "value": "食中酒向き",
+              "sourceUrl": "https://sake-shirakiku.jp/products/silver"
+            }
+          ],
+          "temperatureMatch": false,
+          "temperatureSourceUrls": [],
+          "provenance": "editorialPreferenceFromSourcedFacts",
+          "override": null
+        }
+      ],
+      "identityDecision": {
+        "breweryConfirmed": true,
+        "productConfirmed": true,
+        "skuConfirmed": true,
+        "majorConflicts": [],
+        "scope": "新IDの別SKU。旧商品との完全一致を主張しない。"
+      },
+      "duplicateChecked": true,
+      "qaPassed": true,
+      "holdReason": [],
+      "visualEvidence": {
+        "reviewed": true,
+        "method": "official_original_gallery_and_product_body",
+        "capacityCompatible": true,
+        "observation": "公式ツール原本のボトル・ラベルと単品本文を照合。画像内の小文字すべてを判読できたとは主張しない。"
+      },
+      "differenceNotes": [
+        {
+          "field": "edition",
+          "differenceNote": "vibrant黒麹純米とは別SKU。公式商品欄の無濾過原酒・火入れ選択肢を確認。公式の冷やは常温として扱う。"
+        }
+      ],
+      "confidence": "high",
+      "lastCheckedAt": "2026-10-22T04:20:11.600Z",
+      "seasonal": false,
+      "automaticPublicationAllowed": false,
+      "reviewPreserved": true,
+      "commercialStatus": "LIVE_PURCHASE_CONFIRMED",
+      "commercialDecision": {
+        "checkedAt": "2026-10-22T03:57:30.038Z",
+        "formalAffiliate": true,
+        "sameSku": true,
+        "registeredSite": "https://yoi-no-ikkon.vercel.app/",
+        "originalSha256": "a0645a7ebaee573eabb8f5751913cac08585e27b0529e7f7bb852c9f01fed1fe",
+        "validUntil": "2026-11-21T04:20:12.645Z"
+      },
+      "imageStatus": "FORMAL_IMAGE_CONFIRMED",
+      "imageDecision": {
+        "sameSku": true,
+        "capacityMl": 720,
+        "originalUnmodified": true,
+        "originalSha256": "d51cc95e25ca8f39cf09475017eb9cddafe808b3aeba96bad61fde73e28cf2d7",
+        "validUntil": "2026-11-21T04:20:12.645Z"
+      },
+      "publicationApprovedAt": "2026-10-22T04:31:05.515Z",
+      "publicationApprovalSource": "be9798cc-be9c-41a5-becf-4a8b0f7ea66a",
+      "catalogDecision": "OPERATOR_PREAPPROVED_REVIEWED_RELEASE"
+    },
+    {
+      "candidateProductId": "kagura-nojoho-junmai-ginjo-nama-current-v1",
+      "productionProductId": "kagura-nojoho-junmai-ginjo-nama-current-v1",
+      "publishedSakeId": "kagura-nojoho-junmai-ginjo-nama-current-v1",
+      "breweryId": "京都府|松井酒造",
+      "breweryName": "松井酒造株式会社",
+      "prefecture": "京都府",
+      "brand": "神蔵",
+      "formalProductName": "神蔵 純米吟醸 野条穂 無濾過・無加水・生酒",
+      "capacityMl": 720,
+      "normalUrl": "https://item.rakuten.co.jp/hoshigulf/4530731780033/",
+      "selectedItemCode": "hoshigulf:10004664",
+      "productType": "純米吟醸酒",
+      "state": "ACTIVE",
+      "reviewPhase": "shelf-final",
+      "specStatus": "SPEC_READY",
+      "specConfidence": "medium",
+      "specEvidence": [
+        {
+          "sourceUrl": "https://item.rakuten.co.jp/hoshigulf/4530731780033/",
+          "sourceType": "rakuten_retail",
+          "checkedAt": "2026-10-22T03:57:34.813Z",
+          "retrieved": true,
+          "textHash": "30dc5e22ece915fee72719a6c041c8c453ecb7ab833db1d04342173711311d04",
+          "retrievalMethod": "http_body"
+        },
+        {
+          "sourceUrl": "https://matsuishuzo.com/?mode=f5",
+          "sourceType": "official",
+          "checkedAt": "2026-10-22T04:11:21.621Z",
+          "retrieved": true,
+          "textHash": "8063972b1387facd679feda9a61ff30991919dd2ba822739c10e125094fdf64e",
+          "retrievalMethod": "http_body"
+        }
+      ],
+      "sensoryStatus": "SENSORY_READY",
+      "sensoryConfidence": "medium",
+      "sensoryReadinessBasis": "当該SKUの実読資料に限定。単一レビューから合意を生成しない。",
+      "sensoryEvidence": {
+        "officialEvidence": [
+          {
+            "sourceUrl": "https://matsuishuzo.com/?mode=f5",
+            "sourceType": "official",
+            "checkedAt": "2026-10-22T04:11:21.621Z",
+            "retrieved": true,
+            "textHash": "8063972b1387facd679feda9a61ff30991919dd2ba822739c10e125094fdf64e",
+            "retrievalMethod": "http_body"
+          }
+        ],
+        "retailerEvidence": [
+          {
+            "sourceUrl": "https://item.rakuten.co.jp/hoshigulf/4530731780033/",
+            "sourceType": "rakuten_retail",
+            "checkedAt": "2026-10-22T03:57:34.813Z",
+            "retrieved": true,
+            "textHash": "30dc5e22ece915fee72719a6c041c8c453ecb7ab833db1d04342173711311d04",
+            "retrievalMethod": "http_body"
+          }
+        ],
+        "communityEvidence": []
+      },
+      "sensoryConsensus": {
+        "fields": {
+          "sweetness": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "acidity": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "umami": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "aroma": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "body": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "finish": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "bitterness": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "carbonation": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "alcoholImpression": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          }
+        },
+        "acceptedEvidenceIds": [],
+        "excluded": [],
+        "provenance": "editorial_sensory_consensus",
+        "notVerifiedSpecifications": true
+      },
+      "communityEvidence": [],
+      "communityPairings": [],
+      "pairingStatus": "PAIRING_READY",
+      "editorialPairings": [
+        {
+          "dish": "鯛の塩焼き",
+          "reason": "鯛の塩焼きと、ドライな神蔵を。販売店の塩気のある料理への提案から考えた組み合わせです。",
+          "provenance": "yoiEditorial",
+          "sourceUrls": [
+            "https://item.rakuten.co.jp/hoshigulf/4530731780033/",
+            "https://matsuishuzo.com/?mode=f5"
+          ],
+          "dishEvidence": {
+            "foodId": "item-1s9xmks"
+          },
+          "sourceScope": "今回確認した当該SKUの特徴と既存料理DBから新規作成。公式・口コミの料理推奨ではない。"
+        },
+        {
+          "dish": "焼き鮭",
+          "reason": "焼き鮭に、米の旨みと辛口の一杯を。料理のあとに広がる香りを楽しんで。",
+          "provenance": "yoiEditorial",
+          "sourceUrls": [
+            "https://item.rakuten.co.jp/hoshigulf/4530731780033/",
+            "https://matsuishuzo.com/?mode=f5"
+          ],
+          "dishEvidence": {
+            "foodId": "item-avnlz1"
+          },
+          "sourceScope": "今回確認した当該SKUの特徴と既存料理DBから新規作成。公式・口コミの料理推奨ではない。"
+        },
+        {
+          "dish": "冷奴",
+          "reason": "冷奴を添えて、白ブドウを思わせる香りをゆっくりと。好みの温度を探す提案です。",
+          "provenance": "yoiEditorial",
+          "sourceUrls": [
+            "https://item.rakuten.co.jp/hoshigulf/4530731780033/",
+            "https://matsuishuzo.com/?mode=f5"
+          ],
+          "dishEvidence": {
+            "foodId": "item-1gwo1eu",
+            "pairingProfile": {
+              "name": "冷奴",
+              "directions": [
+                "fresh",
+                "small"
+              ],
+              "method": "豆腐料理",
+              "flavor": "豆腐と薬味のさっぱりした味",
+              "delicate": true
+            }
+          },
+          "sourceScope": "今回確認した当該SKUの特徴と既存料理DBから新規作成。公式・口コミの料理推奨ではない。"
+        }
+      ],
+      "officialPairings": [],
+      "nightEvidence": [
+        {
+          "nightId": "after-work",
+          "score": 27,
+          "signals": [
+            {
+              "axis": "umami",
+              "value": "米の旨味",
+              "sourceUrl": "https://item.rakuten.co.jp/hoshigulf/4530731780033/"
+            }
+          ],
+          "temperatureMatch": false,
+          "temperatureSourceUrls": [],
+          "provenance": "editorialPreferenceFromSourcedFacts",
+          "override": null
+        },
+        {
+          "nightId": "treat",
+          "score": 27,
+          "signals": [
+            {
+              "axis": "aroma",
+              "value": "フルーティな香り",
+              "sourceUrl": "https://item.rakuten.co.jp/hoshigulf/4530731780033/"
+            }
+          ],
+          "temperatureMatch": false,
+          "temperatureSourceUrls": [],
+          "provenance": "editorialPreferenceFromSourcedFacts",
+          "override": null
+        },
+        {
+          "nightId": "dinner",
+          "score": 20,
+          "signals": [
+            {
+              "axis": "umami",
+              "value": "米の旨味",
+              "sourceUrl": "https://item.rakuten.co.jp/hoshigulf/4530731780033/"
+            }
+          ],
+          "temperatureMatch": false,
+          "temperatureSourceUrls": [],
+          "provenance": "editorialPreferenceFromSourcedFacts",
+          "override": null
+        },
+        {
+          "nightId": "celebrate",
+          "score": 27,
+          "signals": [
+            {
+              "axis": "aroma",
+              "value": "フルーティな香り",
+              "sourceUrl": "https://item.rakuten.co.jp/hoshigulf/4530731780033/"
+            }
+          ],
+          "temperatureMatch": false,
+          "temperatureSourceUrls": [],
+          "provenance": "editorialPreferenceFromSourcedFacts",
+          "override": null
+        },
+        {
+          "nightId": "lingering",
+          "score": 20,
+          "signals": [
+            {
+              "axis": "umami",
+              "value": "米の旨味",
+              "sourceUrl": "https://item.rakuten.co.jp/hoshigulf/4530731780033/"
+            }
+          ],
+          "temperatureMatch": false,
+          "temperatureSourceUrls": [],
+          "provenance": "editorialPreferenceFromSourcedFacts",
+          "override": null
+        },
+        {
+          "nightId": "ordinary",
+          "score": 27,
+          "signals": [
+            {
+              "axis": "umami",
+              "value": "米の旨味",
+              "sourceUrl": "https://item.rakuten.co.jp/hoshigulf/4530731780033/"
+            }
+          ],
+          "temperatureMatch": false,
+          "temperatureSourceUrls": [],
+          "provenance": "editorialPreferenceFromSourcedFacts",
+          "override": null
+        },
+        {
+          "nightId": "spring",
+          "score": 47,
+          "signals": [
+            {
+              "axis": "aroma",
+              "value": "フルーティな香り",
+              "sourceUrl": "https://item.rakuten.co.jp/hoshigulf/4530731780033/"
+            }
+          ],
+          "temperatureMatch": true,
+          "temperatureSourceUrls": [
+            "https://item.rakuten.co.jp/hoshigulf/4530731780033/"
+          ],
+          "provenance": "editorialPreferenceFromSourcedFacts",
+          "override": null
+        },
+        {
+          "nightId": "rain",
+          "score": 27,
+          "signals": [
+            {
+              "axis": "umami",
+              "value": "米の旨味",
+              "sourceUrl": "https://item.rakuten.co.jp/hoshigulf/4530731780033/"
+            }
+          ],
+          "temperatureMatch": false,
+          "temperatureSourceUrls": [],
+          "provenance": "editorialPreferenceFromSourcedFacts",
+          "override": null
+        },
+        {
+          "nightId": "festival",
+          "score": 47,
+          "signals": [
+            {
+              "axis": "aroma",
+              "value": "フルーティな香り",
+              "sourceUrl": "https://item.rakuten.co.jp/hoshigulf/4530731780033/"
+            }
+          ],
+          "temperatureMatch": true,
+          "temperatureSourceUrls": [
+            "https://item.rakuten.co.jp/hoshigulf/4530731780033/"
+          ],
+          "provenance": "editorialPreferenceFromSourcedFacts",
+          "override": null
+        },
+        {
+          "nightId": "autumn",
+          "score": 47,
+          "signals": [
+            {
+              "axis": "umami",
+              "value": "米の旨味",
+              "sourceUrl": "https://item.rakuten.co.jp/hoshigulf/4530731780033/"
+            }
+          ],
+          "temperatureMatch": true,
+          "temperatureSourceUrls": [
+            "https://item.rakuten.co.jp/hoshigulf/4530731780033/"
+          ],
+          "provenance": "editorialPreferenceFromSourcedFacts",
+          "override": null
+        },
+        {
+          "nightId": "cold",
+          "score": 60,
+          "signals": [
+            {
+              "axis": "umami",
+              "value": "米の旨味",
+              "sourceUrl": "https://item.rakuten.co.jp/hoshigulf/4530731780033/"
+            }
+          ],
+          "temperatureMatch": true,
+          "temperatureSourceUrls": [
+            "https://item.rakuten.co.jp/hoshigulf/4530731780033/"
+          ],
+          "provenance": "editorialPreferenceFromSourcedFacts",
+          "override": null
+        },
+        {
+          "nightId": "snow",
+          "score": 47,
+          "signals": [
+            {
+              "axis": "umami",
+              "value": "米の旨味",
+              "sourceUrl": "https://item.rakuten.co.jp/hoshigulf/4530731780033/"
+            }
+          ],
+          "temperatureMatch": true,
+          "temperatureSourceUrls": [
+            "https://item.rakuten.co.jp/hoshigulf/4530731780033/"
+          ],
+          "provenance": "editorialPreferenceFromSourcedFacts",
+          "override": null
+        },
+        {
+          "nightId": "year-end",
+          "score": 20,
+          "signals": [
+            {
+              "axis": "umami",
+              "value": "米の旨味",
+              "sourceUrl": "https://item.rakuten.co.jp/hoshigulf/4530731780033/"
+            }
+          ],
+          "temperatureMatch": false,
+          "temperatureSourceUrls": [],
+          "provenance": "editorialPreferenceFromSourcedFacts",
+          "override": null
+        }
+      ],
+      "identityDecision": {
+        "breweryConfirmed": true,
+        "productConfirmed": true,
+        "skuConfirmed": true,
+        "majorConflicts": [],
+        "scope": "新IDの別SKU。旧商品との完全一致を主張しない。"
+      },
+      "duplicateChecked": true,
+      "qaPassed": true,
+      "holdReason": [],
+      "visualEvidence": {
+        "reviewed": true,
+        "method": "official_original_gallery_and_product_body",
+        "capacityCompatible": true,
+        "observation": "公式ツール原本のボトル・ラベルと単品本文を照合。画像内の小文字すべてを判読できたとは主張しない。"
+      },
+      "differenceNotes": [
+        {
+          "field": "edition",
+          "differenceNote": "白ラベルの祝35%純米大吟醸とは別SKU。公式お知らせで野条穂・無濾過無加水生を確認、味・温度・数値は当該販売店。"
+        }
+      ],
+      "confidence": "medium",
+      "lastCheckedAt": "2026-10-22T04:20:11.600Z",
+      "seasonal": false,
+      "automaticPublicationAllowed": false,
+      "reviewPreserved": true,
+      "commercialStatus": "LIVE_PURCHASE_CONFIRMED",
+      "commercialDecision": {
+        "checkedAt": "2026-10-22T03:57:34.813Z",
+        "formalAffiliate": true,
+        "sameSku": true,
+        "registeredSite": "https://yoi-no-ikkon.vercel.app/",
+        "originalSha256": "b2b7c874fd10e6189a6c5516821b920bdf16ad8c5fe6ef66d857094ee6129c0f",
+        "validUntil": "2026-11-21T04:20:12.645Z"
+      },
+      "imageStatus": "FORMAL_IMAGE_CONFIRMED",
+      "imageDecision": {
+        "sameSku": true,
+        "capacityMl": 720,
+        "originalUnmodified": true,
+        "originalSha256": "7555d314f3bea27e213b5aab9390ee1926fc760eec90d8024233db003bd30aae",
+        "validUntil": "2026-11-21T04:20:12.645Z"
+      },
+      "publicationApprovedAt": "2026-10-22T04:31:05.515Z",
+      "publicationApprovalSource": "be9798cc-be9c-41a5-becf-4a8b0f7ea66a",
+      "catalogDecision": "OPERATOR_PREAPPROVED_REVIEWED_RELEASE"
+    },
+    {
+      "candidateProductId": "eikofuji-hinowa-muroka-nama-2026-current-v1",
+      "productionProductId": "eikofuji-hinowa-muroka-nama-2026-current-v1",
+      "publishedSakeId": "eikofuji-hinowa-muroka-nama-2026-current-v1",
+      "breweryId": "山形県|冨士酒造",
+      "breweryName": "冨士酒造株式会社",
+      "prefecture": "山形県",
+      "brand": "栄光冨士",
+      "formalProductName": "栄光冨士 日乃輪 純米大吟醸 無濾過生原酒 2026",
+      "capacityMl": 720,
+      "normalUrl": "https://item.rakuten.co.jp/maruishi/10006801/",
+      "selectedItemCode": "maruishi:10006801",
+      "productType": "純米大吟醸酒",
+      "state": "ACTIVE",
+      "reviewPhase": "shelf-final",
+      "specStatus": "SPEC_READY",
+      "specConfidence": "medium",
+      "specEvidence": [
+        {
+          "sourceUrl": "https://www.haruyama-sake.com/SHOP/YG090101072136.html",
+          "sourceType": "specialistRetailer",
+          "checkedAt": "2026-10-22T04:11:22.901Z",
+          "retrieved": true,
+          "textHash": "501a4ec26778d297f9564648c1ff948ea0bd1cd1fee76df8e03c6ea04054e7fa",
+          "retrievalMethod": "http_body"
+        },
+        {
+          "sourceUrl": "https://item.rakuten.co.jp/maruishi/10006801/",
+          "sourceType": "rakuten_retail",
+          "checkedAt": "2026-10-22T03:57:42.098Z",
+          "retrieved": true,
+          "textHash": "a68c2386f9b1b1dc1d5ebdab2d155e699bc26099d345d783cb15f6c2d92830cb",
+          "retrievalMethod": "http_body"
+        }
+      ],
+      "sensoryStatus": "SENSORY_READY",
+      "sensoryConfidence": "medium",
+      "sensoryReadinessBasis": "当該SKUの実読資料に限定。単一レビューから合意を生成しない。",
+      "sensoryEvidence": {
+        "officialEvidence": [],
+        "retailerEvidence": [
+          {
+            "sourceUrl": "https://www.haruyama-sake.com/SHOP/YG090101072136.html",
+            "sourceType": "specialistRetailer",
+            "checkedAt": "2026-10-22T04:11:22.901Z",
+            "retrieved": true,
+            "textHash": "501a4ec26778d297f9564648c1ff948ea0bd1cd1fee76df8e03c6ea04054e7fa",
+            "retrievalMethod": "http_body"
+          },
+          {
+            "sourceUrl": "https://item.rakuten.co.jp/maruishi/10006801/",
+            "sourceType": "rakuten_retail",
+            "checkedAt": "2026-10-22T03:57:42.098Z",
+            "retrieved": true,
+            "textHash": "a68c2386f9b1b1dc1d5ebdab2d155e699bc26099d345d783cb15f6c2d92830cb",
+            "retrievalMethod": "http_body"
+          }
+        ],
+        "communityEvidence": []
+      },
+      "sensoryConsensus": {
+        "fields": {
+          "sweetness": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "acidity": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "umami": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "aroma": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "body": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "finish": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "bitterness": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "carbonation": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "alcoholImpression": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          }
+        },
+        "acceptedEvidenceIds": [],
+        "excluded": [],
+        "provenance": "editorial_sensory_consensus",
+        "notVerifiedSpecifications": true
+      },
+      "communityEvidence": [],
+      "communityPairings": [],
+      "pairingStatus": "PAIRING_READY",
+      "editorialPairings": [
+        {
+          "dish": "鶏の照り焼き",
+          "reason": "照り焼きをつまみに、米の甘みのある日乃輪を。料理と一杯を少しずつ楽しむ提案です。",
+          "provenance": "yoiEditorial",
+          "sourceUrls": [
+            "https://www.haruyama-sake.com/SHOP/YG090101072136.html",
+            "https://item.rakuten.co.jp/maruishi/10006801/"
+          ],
+          "dishEvidence": {
+            "foodId": "item-1i89m16",
+            "pairingProfile": {
+              "name": "鶏の照り焼き",
+              "directions": [
+                "hearty",
+                "grilled"
+              ],
+              "method": "焼き物",
+              "flavor": "甘辛いタレ",
+              "rich": true
+            }
+          },
+          "sourceScope": "今回確認した当該SKUの特徴と既存料理DBから新規作成。公式・口コミの料理推奨ではない。"
+        },
+        {
+          "dish": "肉じゃが",
+          "reason": "肉じゃがと、滑らかな口当たりの生原酒を。落ち着いた食卓でゆっくりと。",
+          "provenance": "yoiEditorial",
+          "sourceUrls": [
+            "https://www.haruyama-sake.com/SHOP/YG090101072136.html",
+            "https://item.rakuten.co.jp/maruishi/10006801/"
+          ],
+          "dishEvidence": {
+            "foodId": "item-13w7k4b",
+            "pairingProfile": {
+              "name": "肉じゃが",
+              "directions": [
+                "warm",
+                "hearty",
+                "comfort"
+              ],
+              "method": "煮物",
+              "flavor": "甘辛い煮汁",
+              "rich": true
+            }
+          },
+          "sourceScope": "今回確認した当該SKUの特徴と既存料理DBから新規作成。公式・口コミの料理推奨ではない。"
+        },
+        {
+          "dish": "冷奴",
+          "reason": "冷奴を添えながら、華やかな香りを楽しんで。甘みの広がりを確かめたい夜に。",
+          "provenance": "yoiEditorial",
+          "sourceUrls": [
+            "https://www.haruyama-sake.com/SHOP/YG090101072136.html",
+            "https://item.rakuten.co.jp/maruishi/10006801/"
+          ],
+          "dishEvidence": {
+            "foodId": "item-1gwo1eu",
+            "pairingProfile": {
+              "name": "冷奴",
+              "directions": [
+                "fresh",
+                "small"
+              ],
+              "method": "豆腐料理",
+              "flavor": "豆腐と薬味のさっぱりした味",
+              "delicate": true
+            }
+          },
+          "sourceScope": "今回確認した当該SKUの特徴と既存料理DBから新規作成。公式・口コミの料理推奨ではない。"
+        }
+      ],
+      "officialPairings": [],
+      "nightEvidence": [
+        {
+          "nightId": "after-work",
+          "score": 27,
+          "signals": [
+            {
+              "axis": "body",
+              "value": "濃醇な米の甘味",
+              "sourceUrl": "https://www.haruyama-sake.com/SHOP/YG090101072136.html"
+            }
+          ],
+          "temperatureMatch": false,
+          "temperatureSourceUrls": [],
+          "provenance": "editorialPreferenceFromSourcedFacts",
+          "override": null
+        },
+        {
+          "nightId": "treat",
+          "score": 27,
+          "signals": [
+            {
+              "axis": "aroma",
+              "value": "華やかな香り",
+              "sourceUrl": "https://www.haruyama-sake.com/SHOP/YG090101072136.html"
+            }
+          ],
+          "temperatureMatch": false,
+          "temperatureSourceUrls": [],
+          "provenance": "editorialPreferenceFromSourcedFacts",
+          "override": null
+        },
+        {
+          "nightId": "dinner",
+          "score": 20,
+          "signals": [
+            {
+              "axis": "body",
+              "value": "濃醇な米の甘味",
+              "sourceUrl": "https://www.haruyama-sake.com/SHOP/YG090101072136.html"
+            }
+          ],
+          "temperatureMatch": false,
+          "temperatureSourceUrls": [],
+          "provenance": "editorialPreferenceFromSourcedFacts",
+          "override": null
+        },
+        {
+          "nightId": "celebrate",
+          "score": 27,
+          "signals": [
+            {
+              "axis": "aroma",
+              "value": "華やかな香り",
+              "sourceUrl": "https://www.haruyama-sake.com/SHOP/YG090101072136.html"
+            }
+          ],
+          "temperatureMatch": false,
+          "temperatureSourceUrls": [],
+          "provenance": "editorialPreferenceFromSourcedFacts",
+          "override": null
+        },
+        {
+          "nightId": "lingering",
+          "score": 20,
+          "signals": [
+            {
+              "axis": "body",
+              "value": "濃醇な米の甘味",
+              "sourceUrl": "https://www.haruyama-sake.com/SHOP/YG090101072136.html"
+            }
+          ],
+          "temperatureMatch": false,
+          "temperatureSourceUrls": [],
+          "provenance": "editorialPreferenceFromSourcedFacts",
+          "override": null
+        },
+        {
+          "nightId": "spring",
+          "score": 27,
+          "signals": [
+            {
+              "axis": "aroma",
+              "value": "華やかな香り",
+              "sourceUrl": "https://www.haruyama-sake.com/SHOP/YG090101072136.html"
+            }
+          ],
+          "temperatureMatch": false,
+          "temperatureSourceUrls": [],
+          "provenance": "editorialPreferenceFromSourcedFacts",
+          "override": null
+        },
+        {
+          "nightId": "festival",
+          "score": 27,
+          "signals": [
+            {
+              "axis": "aroma",
+              "value": "華やかな香り",
+              "sourceUrl": "https://www.haruyama-sake.com/SHOP/YG090101072136.html"
+            }
+          ],
+          "temperatureMatch": false,
+          "temperatureSourceUrls": [],
+          "provenance": "editorialPreferenceFromSourcedFacts",
+          "override": null
+        },
+        {
+          "nightId": "autumn",
+          "score": 27,
+          "signals": [
+            {
+              "axis": "body",
+              "value": "濃醇な米の甘味",
+              "sourceUrl": "https://www.haruyama-sake.com/SHOP/YG090101072136.html"
+            }
+          ],
+          "temperatureMatch": false,
+          "temperatureSourceUrls": [],
+          "provenance": "editorialPreferenceFromSourcedFacts",
+          "override": null
+        },
+        {
+          "nightId": "cold",
+          "score": 40,
+          "signals": [
+            {
+              "axis": "body",
+              "value": "濃醇な米の甘味",
+              "sourceUrl": "https://www.haruyama-sake.com/SHOP/YG090101072136.html"
+            }
+          ],
+          "temperatureMatch": false,
+          "temperatureSourceUrls": [],
+          "provenance": "editorialPreferenceFromSourcedFacts",
+          "override": null
+        },
+        {
+          "nightId": "year-end",
+          "score": 20,
+          "signals": [
+            {
+              "axis": "body",
+              "value": "濃醇な米の甘味",
+              "sourceUrl": "https://www.haruyama-sake.com/SHOP/YG090101072136.html"
+            }
+          ],
+          "temperatureMatch": false,
+          "temperatureSourceUrls": [],
+          "provenance": "editorialPreferenceFromSourcedFacts",
+          "override": null
+        }
+      ],
+      "identityDecision": {
+        "breweryConfirmed": true,
+        "productConfirmed": true,
+        "skuConfirmed": true,
+        "majorConflicts": [],
+        "scope": "新IDの別SKU。旧商品との完全一致を主張しない。"
+      },
+      "duplicateChecked": true,
+      "qaPassed": true,
+      "holdReason": [],
+      "visualEvidence": {
+        "reviewed": true,
+        "method": "official_original_gallery_and_product_body",
+        "capacityCompatible": true,
+        "observation": "公式ツール原本のボトル・ラベルと単品本文を照合。画像内の小文字すべてを判読できたとは主張しない。"
+      },
+      "differenceNotes": [
+        {
+          "field": "edition",
+          "differenceNote": "純月とは別のつや姫50%生原酒。2026年9月出荷の商品欄を使用し、旧年度-4等の値や個人レビューを混在させない。"
+        }
+      ],
+      "confidence": "medium",
+      "lastCheckedAt": "2026-10-22T04:20:11.600Z",
+      "seasonal": true,
+      "automaticPublicationAllowed": false,
+      "reviewPreserved": true,
+      "commercialStatus": "LIVE_PURCHASE_CONFIRMED",
+      "commercialDecision": {
+        "checkedAt": "2026-10-22T03:57:42.098Z",
+        "formalAffiliate": true,
+        "sameSku": true,
+        "registeredSite": "https://yoi-no-ikkon.vercel.app/",
+        "originalSha256": "5a11f8e8629b42eaf637806841f359c7588cb286ebed11022318ae818852ba69",
+        "validUntil": "2026-11-21T04:20:12.645Z"
+      },
+      "imageStatus": "FORMAL_IMAGE_CONFIRMED",
+      "imageDecision": {
+        "sameSku": true,
+        "capacityMl": 720,
+        "originalUnmodified": true,
+        "originalSha256": "c0b56e75edadcfa22a4f4ac7ba49b18bc4965513ed380cc81c7092a50a55ffc7",
+        "validUntil": "2026-11-21T04:20:12.645Z"
+      },
+      "publicationApprovedAt": "2026-10-22T04:31:05.515Z",
+      "publicationApprovalSource": "be9798cc-be9c-41a5-becf-4a8b0f7ea66a",
+      "catalogDecision": "OPERATOR_PREAPPROVED_REVIEWED_RELEASE"
+    },
+    {
+      "candidateProductId": "kurumazaka-yamahai-akiagari-2019by-current-v1",
+      "productionProductId": "kurumazaka-yamahai-akiagari-2019by-current-v1",
+      "publishedSakeId": "kurumazaka-yamahai-akiagari-2019by-current-v1",
+      "breweryId": "和歌山県|吉村秀雄商店",
+      "breweryName": "株式会社吉村秀雄商店",
+      "prefecture": "和歌山県",
+      "brand": "車坂",
+      "formalProductName": "車坂 山廃純米酒 秋あがり 2019BY",
+      "capacityMl": 720,
+      "normalUrl": "https://item.rakuten.co.jp/kishuuitibanya/ns-604/",
+      "selectedItemCode": "kishuuitibanya:10002432",
+      "productType": "純米酒",
+      "state": "ACTIVE",
+      "reviewPhase": "shelf-final",
+      "specStatus": "SPEC_READY",
+      "specConfidence": "medium",
+      "specEvidence": [
+        {
+          "sourceUrl": "https://item.rakuten.co.jp/kishuuitibanya/ns-604/",
+          "sourceType": "rakuten_retail",
+          "checkedAt": "2026-10-22T04:03:51.086Z",
+          "retrieved": true,
+          "textHash": "2947e22d98cca15b43c5aa8492eada8e51c7363e55dd17b7bc0f1b6e02cc2c67",
+          "retrievalMethod": "http_body"
+        },
+        {
+          "sourceUrl": "https://item.rakuten.co.jp/auc-8848-jizake/4903235326012/",
+          "sourceType": "specialistRetailer",
+          "checkedAt": "2026-10-22T03:56:28.525Z",
+          "retrieved": true,
+          "textHash": "cf2db7296fef0aee2d91c4b9aeb0ded186b06c713a51bbbd9e5beb95828ff1ec",
+          "retrievalMethod": "http_body"
+        },
+        {
+          "sourceUrl": "https://nihonsyu-nihonjyou.co.jp/news/20260820/",
+          "sourceType": "official",
+          "checkedAt": "2026-10-22T04:19:50.232Z",
+          "retrieved": true,
+          "textHash": "66c610222217923f6c7debab24b6ed2627bd45448481826f3b9148c94c2022ce",
+          "retrievalMethod": "http_body",
+          "role": "identity_corroboration_only_no_numeric_values_imported"
+        }
+      ],
+      "sensoryStatus": "SENSORY_READY",
+      "sensoryConfidence": "medium",
+      "sensoryReadinessBasis": "当該SKUの実読資料に限定。単一レビューから合意を生成しない。",
+      "sensoryEvidence": {
+        "officialEvidence": [
+          {
+            "sourceUrl": "https://nihonsyu-nihonjyou.co.jp/news/20260820/",
+            "sourceType": "official",
+            "checkedAt": "2026-10-22T04:19:50.232Z",
+            "retrieved": true,
+            "textHash": "66c610222217923f6c7debab24b6ed2627bd45448481826f3b9148c94c2022ce",
+            "retrievalMethod": "http_body",
+            "role": "identity_corroboration_only_no_numeric_values_imported"
+          }
+        ],
+        "retailerEvidence": [
+          {
+            "sourceUrl": "https://item.rakuten.co.jp/kishuuitibanya/ns-604/",
+            "sourceType": "rakuten_retail",
+            "checkedAt": "2026-10-22T04:03:51.086Z",
+            "retrieved": true,
+            "textHash": "2947e22d98cca15b43c5aa8492eada8e51c7363e55dd17b7bc0f1b6e02cc2c67",
+            "retrievalMethod": "http_body"
+          },
+          {
+            "sourceUrl": "https://item.rakuten.co.jp/auc-8848-jizake/4903235326012/",
+            "sourceType": "specialistRetailer",
+            "checkedAt": "2026-10-22T03:56:28.525Z",
+            "retrieved": true,
+            "textHash": "cf2db7296fef0aee2d91c4b9aeb0ded186b06c713a51bbbd9e5beb95828ff1ec",
+            "retrievalMethod": "http_body"
+          }
+        ],
+        "communityEvidence": []
+      },
+      "sensoryConsensus": {
+        "fields": {
+          "sweetness": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "acidity": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "umami": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "aroma": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "body": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "finish": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "bitterness": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "carbonation": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          },
+          "alcoholImpression": {
+            "value": null,
+            "confidence": "low",
+            "evidenceIds": [],
+            "independentSources": 0,
+            "contested": false
+          }
+        },
+        "acceptedEvidenceIds": [],
+        "excluded": [],
+        "provenance": "editorial_sensory_consensus",
+        "notVerifiedSpecifications": true
+      },
+      "communityEvidence": [],
+      "communityPairings": [],
+      "pairingStatus": "PAIRING_READY",
+      "editorialPairings": [
+        {
+          "dish": "豚の角煮",
+          "reason": "角煮に、円熟した旨みの車坂を。料理と熟成の一杯をゆっくり味わう提案です。",
+          "provenance": "yoiEditorial",
+          "sourceUrls": [
+            "https://item.rakuten.co.jp/kishuuitibanya/ns-604/",
+            "https://item.rakuten.co.jp/auc-8848-jizake/4903235326012/",
+            "https://nihonsyu-nihonjyou.co.jp/news/20260820/"
+          ],
+          "dishEvidence": {
+            "foodId": "item-1abl20d"
+          },
+          "sourceScope": "今回確認した当該SKUの特徴と既存料理DBから新規作成。公式・口コミの料理推奨ではない。"
+        },
+        {
+          "dish": "肉じゃが",
+          "reason": "肉じゃがと、酸と旨みのある山廃純米を。ひと口ごとに滑らかな後味を楽しんで。",
+          "provenance": "yoiEditorial",
+          "sourceUrls": [
+            "https://item.rakuten.co.jp/kishuuitibanya/ns-604/",
+            "https://item.rakuten.co.jp/auc-8848-jizake/4903235326012/",
+            "https://nihonsyu-nihonjyou.co.jp/news/20260820/"
+          ],
+          "dishEvidence": {
+            "foodId": "item-13w7k4b",
+            "pairingProfile": {
+              "name": "肉じゃが",
+              "directions": [
+                "warm",
+                "hearty",
+                "comfort"
+              ],
+              "method": "煮物",
+              "flavor": "甘辛い煮汁",
+              "rich": true
+            }
+          },
+          "sourceScope": "今回確認した当該SKUの特徴と既存料理DBから新規作成。公式・口コミの料理推奨ではない。"
+        },
+        {
+          "dish": "きのこのホイル焼き",
+          "reason": "きのこのホイル焼きをつまみに、熟成した車坂を。急がず味わいたい夜に。",
+          "provenance": "yoiEditorial",
+          "sourceUrls": [
+            "https://item.rakuten.co.jp/kishuuitibanya/ns-604/",
+            "https://item.rakuten.co.jp/auc-8848-jizake/4903235326012/",
+            "https://nihonsyu-nihonjyou.co.jp/news/20260820/"
+          ],
+          "dishEvidence": {
+            "foodId": "item-1akkb7y"
+          },
+          "sourceScope": "今回確認した当該SKUの特徴と既存料理DBから新規作成。公式・口コミの料理推奨ではない。"
+        }
+      ],
+      "officialPairings": [],
+      "nightEvidence": [
+        {
+          "nightId": "after-work",
+          "score": 27,
+          "signals": [
+            {
+              "axis": "umami",
+              "value": "旨味",
+              "sourceUrl": "https://item.rakuten.co.jp/kishuuitibanya/ns-604/"
+            }
+          ],
+          "temperatureMatch": false,
+          "temperatureSourceUrls": [],
+          "provenance": "editorialPreferenceFromSourcedFacts",
+          "override": null
+        },
+        {
+          "nightId": "just-one",
+          "score": 53,
+          "signals": [
+            {
+              "axis": "clean",
+              "value": "キレ",
+              "sourceUrl": "https://item.rakuten.co.jp/kishuuitibanya/ns-604/"
+            },
+            {
+              "axis": "acid",
+              "value": "酸味",
+              "sourceUrl": "https://item.rakuten.co.jp/kishuuitibanya/ns-604/"
+            }
+          ],
+          "temperatureMatch": false,
+          "temperatureSourceUrls": [],
+          "provenance": "editorialPreferenceFromSourcedFacts",
+          "override": null
+        },
+        {
+          "nightId": "dinner",
+          "score": 40,
+          "signals": [
+            {
+              "axis": "umami",
+              "value": "旨味",
+              "sourceUrl": "https://item.rakuten.co.jp/kishuuitibanya/ns-604/"
+            },
+            {
+              "axis": "acid",
+              "value": "酸味",
+              "sourceUrl": "https://item.rakuten.co.jp/kishuuitibanya/ns-604/"
+            }
+          ],
+          "temperatureMatch": false,
+          "temperatureSourceUrls": [],
+          "provenance": "editorialPreferenceFromSourcedFacts",
+          "override": null
+        },
+        {
+          "nightId": "reset",
+          "score": 53,
+          "signals": [
+            {
+              "axis": "clean",
+              "value": "キレ",
+              "sourceUrl": "https://item.rakuten.co.jp/kishuuitibanya/ns-604/"
+            },
+            {
+              "axis": "acid",
+              "value": "酸味",
+              "sourceUrl": "https://item.rakuten.co.jp/kishuuitibanya/ns-604/"
+            }
+          ],
+          "temperatureMatch": false,
+          "temperatureSourceUrls": [],
+          "provenance": "editorialPreferenceFromSourcedFacts",
+          "override": null
+        },
+        {
+          "nightId": "lingering",
+          "score": 40,
+          "signals": [
+            {
+              "axis": "umami",
+              "value": "旨味",
+              "sourceUrl": "https://item.rakuten.co.jp/kishuuitibanya/ns-604/"
+            },
+            {
+              "axis": "aged",
+              "value": "熟成感",
+              "sourceUrl": "https://item.rakuten.co.jp/kishuuitibanya/ns-604/"
+            }
+          ],
+          "temperatureMatch": false,
+          "temperatureSourceUrls": [],
+          "provenance": "editorialPreferenceFromSourcedFacts",
+          "override": null
+        },
+        {
+          "nightId": "ordinary",
+          "score": 27,
+          "signals": [
+            {
+              "axis": "umami",
+              "value": "旨味",
+              "sourceUrl": "https://item.rakuten.co.jp/kishuuitibanya/ns-604/"
+            }
+          ],
+          "temperatureMatch": false,
+          "temperatureSourceUrls": [],
+          "provenance": "editorialPreferenceFromSourcedFacts",
+          "override": null
+        },
+        {
+          "nightId": "rain",
+          "score": 27,
+          "signals": [
+            {
+              "axis": "umami",
+              "value": "旨味",
+              "sourceUrl": "https://item.rakuten.co.jp/kishuuitibanya/ns-604/"
+            }
+          ],
+          "temperatureMatch": false,
+          "temperatureSourceUrls": [],
+          "provenance": "editorialPreferenceFromSourcedFacts",
+          "override": null
+        },
+        {
+          "nightId": "humid",
+          "score": 53,
+          "signals": [
+            {
+              "axis": "clean",
+              "value": "キレ",
+              "sourceUrl": "https://item.rakuten.co.jp/kishuuitibanya/ns-604/"
+            },
+            {
+              "axis": "acid",
+              "value": "酸味",
+              "sourceUrl": "https://item.rakuten.co.jp/kishuuitibanya/ns-604/"
+            }
+          ],
+          "temperatureMatch": false,
+          "temperatureSourceUrls": [],
+          "provenance": "editorialPreferenceFromSourcedFacts",
+          "override": null
+        },
+        {
+          "nightId": "festival",
+          "score": 27,
+          "signals": [
+            {
+              "axis": "clean",
+              "value": "キレ",
+              "sourceUrl": "https://item.rakuten.co.jp/kishuuitibanya/ns-604/"
+            }
+          ],
+          "temperatureMatch": false,
+          "temperatureSourceUrls": [],
+          "provenance": "editorialPreferenceFromSourcedFacts",
+          "override": null
+        },
+        {
+          "nightId": "autumn",
+          "score": 27,
+          "signals": [
+            {
+              "axis": "umami",
+              "value": "旨味",
+              "sourceUrl": "https://item.rakuten.co.jp/kishuuitibanya/ns-604/"
+            }
+          ],
+          "temperatureMatch": false,
+          "temperatureSourceUrls": [],
+          "provenance": "editorialPreferenceFromSourcedFacts",
+          "override": null
+        },
+        {
+          "nightId": "cold",
+          "score": 40,
+          "signals": [
+            {
+              "axis": "umami",
+              "value": "旨味",
+              "sourceUrl": "https://item.rakuten.co.jp/kishuuitibanya/ns-604/"
+            }
+          ],
+          "temperatureMatch": false,
+          "temperatureSourceUrls": [],
+          "provenance": "editorialPreferenceFromSourcedFacts",
+          "override": null
+        },
+        {
+          "nightId": "snow",
+          "score": 27,
+          "signals": [
+            {
+              "axis": "umami",
+              "value": "旨味",
+              "sourceUrl": "https://item.rakuten.co.jp/kishuuitibanya/ns-604/"
+            }
+          ],
+          "temperatureMatch": false,
+          "temperatureSourceUrls": [],
+          "provenance": "editorialPreferenceFromSourcedFacts",
+          "override": null
+        },
+        {
+          "nightId": "year-end",
+          "score": 20,
+          "signals": [
+            {
+              "axis": "umami",
+              "value": "旨味",
+              "sourceUrl": "https://item.rakuten.co.jp/kishuuitibanya/ns-604/"
+            }
+          ],
+          "temperatureMatch": false,
+          "temperatureSourceUrls": [],
+          "provenance": "editorialPreferenceFromSourcedFacts",
+          "override": null
+        }
+      ],
+      "identityDecision": {
+        "breweryConfirmed": true,
+        "productConfirmed": true,
+        "skuConfirmed": true,
+        "majorConflicts": [],
+        "scope": "新IDの別SKU。旧商品との完全一致を主張しない。"
+      },
+      "duplicateChecked": true,
+      "qaPassed": true,
+      "holdReason": [],
+      "visualEvidence": {
+        "reviewed": true,
+        "method": "official_original_gallery_and_product_body",
+        "capacityCompatible": true,
+        "observation": "公式ツール原本のボトル・ラベルと単品本文を照合。画像内の小文字すべてを判読できたとは主張しない。"
+      },
+      "differenceNotes": [
+        {
+          "field": "edition",
+          "differenceNote": "既存の通常山廃から秋あがり2019BYへ別SKU。2026年入荷と醸造年度2019BYを分離。"
+        }
+      ],
+      "confidence": "medium",
+      "lastCheckedAt": "2026-10-22T04:20:11.600Z",
+      "seasonal": true,
+      "automaticPublicationAllowed": false,
+      "reviewPreserved": true,
+      "commercialStatus": "LIVE_PURCHASE_CONFIRMED",
+      "commercialDecision": {
+        "checkedAt": "2026-10-22T04:03:51.086Z",
+        "formalAffiliate": true,
+        "sameSku": true,
+        "registeredSite": "https://yoi-no-ikkon.vercel.app/",
+        "originalSha256": "d617b62749a4eeebfcdb5dba5eabbf6f680250f5acdac916a6ee1ee8f6d53d0e",
+        "validUntil": "2026-11-21T04:20:12.645Z"
+      },
+      "imageStatus": "FORMAL_IMAGE_CONFIRMED",
+      "imageDecision": {
+        "sameSku": true,
+        "capacityMl": 720,
+        "originalUnmodified": true,
+        "originalSha256": "e387b03a10c82c9fa0eccbfee9e9ae17c836840014d49ab66d3becbc2d750492",
+        "validUntil": "2026-11-21T04:20:12.645Z"
+      },
+      "publicationApprovedAt": "2026-10-22T04:31:05.515Z",
+      "publicationApprovalSource": "be9798cc-be9c-41a5-becf-4a8b0f7ea66a",
+      "catalogDecision": "OPERATOR_PREAPPROVED_REVIEWED_RELEASE"
     }
   ]
 }

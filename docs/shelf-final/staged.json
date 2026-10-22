@@ -1,0 +1,995 @@
+{
+  "schemaVersion": 1,
+  "sourceCommit": "aa93d76fd4de21d3e4ee847a31a7fcc2f6f6c90c",
+  "checkedAt": "2026-10-22T04:20:12.644Z",
+  "additions": [
+    "shinshu-kirei-inakura-hitogokochi-junmai-ginjo-current-v1",
+    "kameizumi-kouiku63-hiyaoroshi-current-v1",
+    "tokachi-tokubetsu-junmai-suisei-current-v1",
+    "abe-silver-hiire-current-v1",
+    "shichihonyari-muu-1800-current-v1",
+    "haginotsuyu-amadare-tomizu-hiire-current-v1",
+    "hanaabi-gohyakumangoku-muroka-namagenshu-1800-current-v1",
+    "sara-junmai-ginjo-namazume-current-v1",
+    "mimurosugi-kioke-bodaimoto-jishaden-current-v1",
+    "tanaka65-hiire-1800-current-v1",
+    "shirakiku-ginshari-tokubetsu-junmai-current-v1",
+    "kagura-nojoho-junmai-ginjo-nama-current-v1",
+    "eikofuji-hinowa-muroka-nama-2026-current-v1",
+    "kurumazaka-yamahai-akiagari-2019by-current-v1"
+  ],
+  "exactRecoveries": [
+    "hatsumago-i9diua",
+    "nishinoseki-junmai-ginjo-bigin-v1",
+    "akishika-yamahai-junmai-yamadanishiki-70-muroka-genshu-hiire-v1",
+    "tabika-junmai-funashibori-ichikai-hiire-v1",
+    "wakaze-the-classic-yamagata-v1",
+    "azumanofumoto-junmai-ginjo-yamagata-selection-v1",
+    "kaiun-tokubetsu-junmai"
+  ],
+  "inactivated": [
+    "shinshu-kirei-junmai-ginjo",
+    "kameizumi-cel24",
+    "kamikawa-taisetsu-junmai",
+    "abe-k34lzz",
+    "maibijin-o0ffit",
+    "shichihonyari-lvvrsw",
+    "haginotsuyu-lvvrsw",
+    "kurumazaka-gp8l70i9d",
+    "bentenmusume-uzpgk6",
+    "izumo-fuji-id2kl5",
+    "wakamusume-i9dgkj",
+    "miyoshikiku-iwjid2",
+    "hanaabi-junmai-daiginjo-1",
+    "sara-hdomtl-2",
+    "mimurosugi-roman-series-2",
+    "taito-tokubetsu-junmai-v1",
+    "mimurosugi-tokubetsu-junmai-tsuyuhakaze-v1",
+    "daijiro-yamada-junmai-ginjo-hiire-v1",
+    "bentenmusume-junmai-yamahai-gouriki-v1",
+    "shiraito-70-v1",
+    "kurawanka-junmai-usunigori-v1",
+    "toyonoume-yoiyoi-junmai-ginjo-v1",
+    "minami-junmai-ginjo-matsuyamamitsui-standard-v1",
+    "biwanosasanami-matsu-junmai-daiginjo-hiire-v1",
+    "shirakiku-vibrant-junmai-hiire-standard-v1",
+    "kagura-junmai-daiginjo-shiro-muroka-mukasui-nama-v1",
+    "kagura-junmai-daiginjo-shiro-muroka-mukasui-ichibi-v1",
+    "teishu-kanpaku-karakuchi-honjozo-v1",
+    "eikofuji-jungetsu-junmai-standard-v1"
+  ],
+  "archived": [],
+  "replacements": [
+    {
+      "oldProductId": "shinshu-kirei-junmai-ginjo",
+      "replacementProductId": "shinshu-kirei-inakura-hitogokochi-junmai-ginjo-current-v1",
+      "replacementProductName": "信州亀齢 純米吟醸 稲倉の棚田産ひとごこち",
+      "replacementLevel": "same_brand",
+      "reason": "稲倉の棚田産を明示する別SKUとして新ID。火入れ回数・原酒・分析値は未確認のため設定しない。",
+      "newRecord": true
+    },
+    {
+      "oldProductId": "kameizumi-cel24",
+      "replacementProductId": "kameizumi-kouiku63-hiyaoroshi-current-v1",
+      "replacementProductName": "亀泉 純米吟醸原酒 高育63号 ひやおろし",
+      "replacementLevel": "same_brand",
+      "reason": "CEL-24と異なる風鳴子・ひやおろし。保管温度を飲用温度へ転用しない。",
+      "newRecord": true
+    },
+    {
+      "oldProductId": "kamikawa-taisetsu-junmai",
+      "replacementProductId": "tokachi-tokubetsu-junmai-suisei-current-v1",
+      "replacementProductName": "十勝 特別純米 彗星",
+      "replacementLevel": "same_brewery",
+      "reason": "緑丘蔵の上川大雪とは別の碧雲蔵・十勝。米品種は販売SKU本文の彗星表記で確認し、公式の品種未記載スペックを補完しない。",
+      "newRecord": true
+    },
+    {
+      "oldProductId": "abe-k34lzz",
+      "replacementProductId": "abe-silver-hiire-current-v1",
+      "replacementProductName": "あべ シルバー 火入れ",
+      "replacementLevel": "same_brand",
+      "reason": "STANDARDという総称からシルバー火入れへ別SKU。現在は特定名称の記載を外しているため、純米吟醸と推測しない。",
+      "newRecord": true
+    },
+    {
+      "oldProductId": "shichihonyari-lvvrsw",
+      "replacementProductId": "shichihonyari-muu-1800-current-v1",
+      "replacementProductName": "七本鎗 無農薬純米 無有 1800ml",
+      "replacementLevel": "same_brand",
+      "reason": "旧登録720mlに1800ml画像を流用せず、容量を明示した新ID。",
+      "newRecord": true
+    },
+    {
+      "oldProductId": "haginotsuyu-lvvrsw",
+      "replacementProductId": "haginotsuyu-amadare-tomizu-hiire-current-v1",
+      "replacementProductName": "萩乃露 特別純米 十水仕込 雨垂れ石を穿つ 火入れ",
+      "replacementLevel": "same_brand",
+      "reason": "里山のこしひかり純米吟醸とは別SKU。火入れは当該販売ページ、米・精米・温度・料理カテゴリーは公式の商品欄。",
+      "newRecord": true
+    },
+    {
+      "oldProductId": "hanaabi-junmai-daiginjo-1",
+      "replacementProductId": "hanaabi-gohyakumangoku-muroka-namagenshu-1800-current-v1",
+      "replacementProductName": "花陽浴 純米大吟醸 越後五百万石 無濾過生原酒 1800ml",
+      "replacementLevel": "same_brand",
+      "reason": "旧720ml参照と区別し新ID。おりがらみ商品・THE PREMIUMや異なる米のレビューを混ぜない。Sakenomyの蔵元商品欄のみ利用し、口コミは検証済みに入れない。",
+      "newRecord": true
+    },
+    {
+      "oldProductId": "sara-hdomtl-2",
+      "replacementProductId": "sara-junmai-ginjo-namazume-current-v1",
+      "replacementProductName": "彩來 純米吟醸 生詰",
+      "replacementLevel": "same_brand",
+      "reason": "Vesperとは別の定番火入れ生詰。生詰を生酒とは分類しない。",
+      "newRecord": true
+    },
+    {
+      "oldProductId": "mimurosugi-roman-series-2",
+      "replacementProductId": "mimurosugi-kioke-bodaimoto-jishaden-current-v1",
+      "replacementProductName": "みむろ杉 木桶菩提もと 自社田山田錦",
+      "replacementLevel": "same_brand",
+      "reason": "ろまん山田錦・露葉風特別純米とは別の木桶菩提もと。特定名称・精米・生火入れは未確認。",
+      "newRecord": true
+    },
+    {
+      "oldProductId": "shiraito-70-v1",
+      "replacementProductId": "tanaka65-hiire-1800-current-v1",
+      "replacementProductName": "田中六五 純米酒 火入れ 1800ml",
+      "replacementLevel": "same_brewery",
+      "reason": "白糸70とは異なる山田錦65%の火入れ。予約生酒・6513・泡は別商品。",
+      "newRecord": true
+    },
+    {
+      "oldProductId": "shirakiku-vibrant-junmai-hiire-standard-v1",
+      "replacementProductId": "shirakiku-ginshari-tokubetsu-junmai-current-v1",
+      "replacementProductName": "shirakiku 特別純米 銀シャリ 火入れ",
+      "replacementLevel": "same_brand",
+      "reason": "vibrant黒麹純米とは別SKU。公式商品欄の無濾過原酒・火入れ選択肢を確認。公式の冷やは常温として扱う。",
+      "newRecord": true
+    },
+    {
+      "oldProductId": "kagura-junmai-daiginjo-shiro-muroka-mukasui-ichibi-v1",
+      "replacementProductId": "kagura-nojoho-junmai-ginjo-nama-current-v1",
+      "replacementProductName": "神蔵 純米吟醸 野条穂 無濾過・無加水・生酒",
+      "replacementLevel": "same_brand",
+      "reason": "白ラベルの祝35%純米大吟醸とは別SKU。公式お知らせで野条穂・無濾過無加水生を確認、味・温度・数値は当該販売店。",
+      "newRecord": true
+    },
+    {
+      "oldProductId": "eikofuji-jungetsu-junmai-standard-v1",
+      "replacementProductId": "eikofuji-hinowa-muroka-nama-2026-current-v1",
+      "replacementProductName": "栄光冨士 日乃輪 純米大吟醸 無濾過生原酒 2026",
+      "replacementLevel": "same_brand",
+      "reason": "純月とは別のつや姫50%生原酒。2026年9月出荷の商品欄を使用し、旧年度-4等の値や個人レビューを混在させない。",
+      "newRecord": true
+    },
+    {
+      "oldProductId": "kurumazaka-gp8l70i9d",
+      "replacementProductId": "kurumazaka-yamahai-akiagari-2019by-current-v1",
+      "replacementProductName": "車坂 山廃純米酒 秋あがり 2019BY",
+      "replacementLevel": "same_brand",
+      "reason": "既存の通常山廃から秋あがり2019BYへ別SKU。2026年入荷と醸造年度2019BYを分離。",
+      "newRecord": true
+    }
+  ],
+  "cohort": [
+    {
+      "sakeId": "shinshu-kirei-junmai-ginjo",
+      "decision": "REPLACED_SAME_BRAND",
+      "reason": "稲倉の棚田産を明示する別SKUとして新ID。火入れ回数・原酒・分析値は未確認のため設定しない。"
+    },
+    {
+      "sakeId": "kaiun-tokubetsu-junmai",
+      "decision": "IMAGE_RESCUED",
+      "reason": "同一商品を本文・容量・製法・原本ラベルから再確認。Verifiedは変更しない。"
+    },
+    {
+      "sakeId": "kameizumi-cel24",
+      "decision": "REPLACED_SAME_BRAND",
+      "reason": "CEL-24と異なる風鳴子・ひやおろし。保管温度を飲用温度へ転用しない。"
+    },
+    {
+      "sakeId": "kamikawa-taisetsu-junmai",
+      "decision": "REPLACED_SAME_BREWERY",
+      "reason": "緑丘蔵の上川大雪とは別の碧雲蔵・十勝。米品種は販売SKU本文の彗星表記で確認し、公式の品種未記載スペックを補完しない。"
+    },
+    {
+      "sakeId": "hatsumago-i9diua",
+      "decision": "EXACT_RECOVERED",
+      "reason": "同一商品を本文・容量・製法・原本ラベルから再確認。Verifiedは変更しない。"
+    },
+    {
+      "sakeId": "abe-k34lzz",
+      "decision": "REPLACED_SAME_BRAND",
+      "reason": "STANDARDという総称からシルバー火入れへ別SKU。現在は特定名称の記載を外しているため、純米吟醸と推測しない。"
+    },
+    {
+      "sakeId": "maibijin-o0ffit",
+      "decision": "INACTIVATED",
+      "reason": "同一SKUを確定できる販売先・正式素材が未成立。画像非提供・カテゴリへの移動は売切れとは断定しない。"
+    },
+    {
+      "sakeId": "shichihonyari-lvvrsw",
+      "decision": "REPLACED_SAME_BRAND",
+      "reason": "旧登録720mlに1800ml画像を流用せず、容量を明示した新ID。"
+    },
+    {
+      "sakeId": "haginotsuyu-lvvrsw",
+      "decision": "REPLACED_SAME_BRAND",
+      "reason": "里山のこしひかり純米吟醸とは別SKU。火入れは当該販売ページ、米・精米・温度・料理カテゴリーは公式の商品欄。"
+    },
+    {
+      "sakeId": "kurumazaka-gp8l70i9d",
+      "decision": "REPLACED_SAME_BRAND",
+      "reason": "既存の通常山廃から秋あがり2019BYへ別SKU。2026年入荷と醸造年度2019BYを分離。"
+    },
+    {
+      "sakeId": "bentenmusume-uzpgk6",
+      "decision": "INACTIVATED",
+      "reason": "玉栄生酛と強力R2BY熟成は別SKU。後者は独立資料による当該版の補強が不足。"
+    },
+    {
+      "sakeId": "izumo-fuji-id2kl5",
+      "decision": "INACTIVATED",
+      "reason": "今回の清酒単品候補なし。前掛け・返礼品は採用不可。不存在・終売の断定ではない。"
+    },
+    {
+      "sakeId": "wakamusume-i9dgkj",
+      "decision": "INACTIVATED",
+      "reason": "燕子花1800mlは旧参照容量と異なる。十二秘色火入れ候補は独立した現行SKU資料の追加確認待ち。"
+    },
+    {
+      "sakeId": "miyoshikiku-iwjid2",
+      "decision": "INACTIVATED",
+      "reason": "おりがらみ・別シリーズと区別。取得先がカテゴリのため購入可能SKUの確定に至らない。"
+    },
+    {
+      "sakeId": "hanaabi-junmai-daiginjo-1",
+      "decision": "REPLACED_SAME_BRAND",
+      "reason": "旧720ml参照と区別し新ID。おりがらみ商品・THE PREMIUMや異なる米のレビューを混ぜない。Sakenomyの蔵元商品欄のみ利用し、口コミは検証済みに入れない。"
+    },
+    {
+      "sakeId": "sara-hdomtl-2",
+      "decision": "REPLACED_SAME_BRAND",
+      "reason": "Vesperとは別の定番火入れ生詰。生詰を生酒とは分類しない。"
+    },
+    {
+      "sakeId": "mimurosugi-roman-series-2",
+      "decision": "REPLACED_SAME_BRAND",
+      "reason": "ろまん山田錦・露葉風特別純米とは別の木桶菩提もと。特定名称・精米・生火入れは未確認。"
+    },
+    {
+      "sakeId": "taito-tokubetsu-junmai-v1",
+      "decision": "INACTIVATED",
+      "reason": "今回の単品候補なし。赤酒を清酒として採用しない。公式取得失敗を不存在扱いしない。"
+    },
+    {
+      "sakeId": "nishinoseki-junmai-ginjo-bigin-v1",
+      "decision": "IMAGE_RESCUED",
+      "reason": "同一商品を本文・容量・製法・原本ラベルから再確認。Verifiedは変更しない。"
+    },
+    {
+      "sakeId": "mimurosugi-tokubetsu-junmai-tsuyuhakaze-v1",
+      "decision": "INACTIVATED",
+      "reason": "露葉風特別純米と木桶菩提もとは別SKU。別IDの新商品を掲載するが旧商品の同一候補とはしない。"
+    },
+    {
+      "sakeId": "daijiro-yamada-junmai-ginjo-hiire-v1",
+      "decision": "INACTIVATED",
+      "reason": "情熱迷酒は生酒で別SKU。現行独立資料の補強を待ち候補保管。"
+    },
+    {
+      "sakeId": "bentenmusume-junmai-yamahai-gouriki-v1",
+      "decision": "INACTIVATED",
+      "reason": "強力R2BYは山廃の確認がなく別SKU。単一資料を過大評価せず候補プールに残す。"
+    },
+    {
+      "sakeId": "shiraito-70-v1",
+      "decision": "REPLACED_SAME_BREWERY",
+      "reason": "白糸70とは異なる山田錦65%の火入れ。予約生酒・6513・泡は別商品。"
+    },
+    {
+      "sakeId": "kurawanka-junmai-usunigori-v1",
+      "decision": "INACTIVATED",
+      "reason": "720mlうすにごりの現行単品候補を確定できず。同蔵かたの桜は独立IDのまま残す。"
+    },
+    {
+      "sakeId": "toyonoume-yoiyoi-junmai-ginjo-v1",
+      "decision": "INACTIVATED",
+      "reason": "公式素材が720ml・1800mlの2本併写。容量一致の単品画像とみなさない。"
+    },
+    {
+      "sakeId": "minami-junmai-ginjo-matsuyamamitsui-standard-v1",
+      "decision": "INACTIVATED",
+      "reason": "現行補強資料は松山三井50%が中心。候補販売ページ55%・度数167という誤記を含むため、その1800mlを新規の現行SKUとして確定しない。720mlの既存正式画像・旧情報は保存。"
+    },
+    {
+      "sakeId": "biwanosasanami-matsu-junmai-daiginjo-hiire-v1",
+      "decision": "INACTIVATED",
+      "reason": "純米原酒は別分類。販売候補の生火入れが明示されず、味・画像だけで確定しない。"
+    },
+    {
+      "sakeId": "shirakiku-vibrant-junmai-hiire-standard-v1",
+      "decision": "REPLACED_SAME_BRAND",
+      "reason": "vibrant黒麹純米とは別SKU。公式商品欄の無濾過原酒・火入れ選択肢を確認。公式の冷やは常温として扱う。"
+    },
+    {
+      "sakeId": "kagura-junmai-daiginjo-shiro-muroka-mukasui-nama-v1",
+      "decision": "INACTIVATED",
+      "reason": "白祝35%生の販売は確認できるが正式画像非提供。野条穂は別SKUとして別IDへ。"
+    },
+    {
+      "sakeId": "kagura-junmai-daiginjo-shiro-muroka-mukasui-ichibi-v1",
+      "decision": "REPLACED_SAME_BRAND",
+      "reason": "白ラベルの祝35%純米大吟醸とは別SKU。公式お知らせで野条穂・無濾過無加水生を確認、味・温度・数値は当該販売店。"
+    },
+    {
+      "sakeId": "teishu-kanpaku-karakuchi-honjozo-v1",
+      "decision": "INACTIVATED",
+      "reason": "単品の清酒販売候補なし。酒器・衣類等は除外。不存在の断定ではない。"
+    },
+    {
+      "sakeId": "akishika-yamahai-junmai-yamadanishiki-70-muroka-genshu-hiire-v1",
+      "decision": "IMAGE_RESCUED",
+      "reason": "同一商品を本文・容量・製法・原本ラベルから再確認。Verifiedは変更しない。"
+    },
+    {
+      "sakeId": "eikofuji-jungetsu-junmai-standard-v1",
+      "decision": "REPLACED_SAME_BRAND",
+      "reason": "純月とは別のつや姫50%生原酒。2026年9月出荷の商品欄を使用し、旧年度-4等の値や個人レビューを混在させない。"
+    },
+    {
+      "sakeId": "tabika-junmai-funashibori-ichikai-hiire-v1",
+      "decision": "EXACT_RECOVERED",
+      "reason": "同一商品を本文・容量・製法・原本ラベルから再確認。Verifiedは変更しない。"
+    },
+    {
+      "sakeId": "wakaze-the-classic-yamagata-v1",
+      "decision": "EXACT_RECOVERED",
+      "reason": "同一商品を本文・容量・製法・原本ラベルから再確認。Verifiedは変更しない。"
+    },
+    {
+      "sakeId": "azumanofumoto-junmai-ginjo-yamagata-selection-v1",
+      "decision": "EXACT_RECOVERED",
+      "reason": "同一商品を本文・容量・製法・原本ラベルから再確認。Verifiedは変更しない。"
+    }
+  ],
+  "automaticPublicationAllowed": false,
+  "weeklyExecutionEnabled": false,
+  "qaPassed": false,
+  "sourceAttachment": "be9798cc-be9c-41a5-becf-4a8b0f7ea66a",
+  "adopted": [
+    {
+      "sakeId": "shinshu-kirei-inakura-hitogokochi-junmai-ginjo-current-v1",
+      "oldId": "shinshu-kirei-junmai-ginjo",
+      "newProduct": true,
+      "normalUrl": "https://item.rakuten.co.jp/sake-ichibun/10007456/",
+      "itemCode": "sake-ichibun:10007314",
+      "capacityMl": 720,
+      "name": "信州亀齢 純米吟醸　ひとごこち　720ml上田・稲倉の棚田産 【2026年3月詰】",
+      "stock": {
+        "title": "【楽天市場】信州亀齢 純米吟醸　ひとごこち　720ml上田・稲倉の棚田産 【2026年3月詰】：ネットショップ　いちぶん",
+        "httpStatus": 200,
+        "sameDestination": true,
+        "itemId": "10007314",
+        "itemMatches": true,
+        "purchaseCondition": "enabled",
+        "stockCondition": null,
+        "soldOut": false,
+        "purchaseControls": true,
+        "purchasable": true,
+        "state": "purchase_enabled"
+      },
+      "retrieved": true,
+      "captureId": "shinshu-kirei-inakura-hitogokochi-junmai-ginjo-current-v1",
+      "originalImageSha256": "2fa289d1064523a08d12f6c9b19f4c30977198bccbd24631dc4e28f5e9a038e5",
+      "originalCompactSha256": "d1b73ae7641b959a658f9cb891c08023e6d8f9830fcdf3b3e1a376e3db197d23",
+      "stockCheckedAt": "2026-10-22T03:55:48.991Z",
+      "visualReview": "FORMAL_CREATIVE_GALLERY_REVIEWED",
+      "matchType": "COMMERCIAL_MATCH",
+      "verifiedSpecificationsChanged": false
+    },
+    {
+      "sakeId": "kameizumi-kouiku63-hiyaoroshi-current-v1",
+      "oldId": "kameizumi-cel24",
+      "newProduct": true,
+      "normalUrl": "https://item.rakuten.co.jp/kishuuitibanya/ns-225/",
+      "itemCode": "kishuuitibanya:10002419",
+      "capacityMl": 720,
+      "name": "亀泉 ひやおろし 純米吟醸 原酒 高育63号 720ml 2026年 ひやおろし 日本酒 純米吟醸 原酒 亀泉酒造 高知県 土佐 地酒 秋酒 冷おろし 冷卸",
+      "stock": {
+        "title": "【楽天市場】亀泉 ひやおろし 純米吟醸 原酒 高育63号 720ml 2026年 ひやおろし 日本酒 純米吟醸 原酒 亀泉酒造 高知県 土佐 地酒 秋酒 冷おろし 冷卸：紀州いちばん屋楽天市場店",
+        "httpStatus": 200,
+        "sameDestination": true,
+        "itemId": "10002419",
+        "itemMatches": true,
+        "purchaseCondition": "enabled",
+        "stockCondition": null,
+        "soldOut": false,
+        "purchaseControls": true,
+        "purchasable": true,
+        "state": "purchase_enabled"
+      },
+      "retrieved": true,
+      "captureId": "kameizumi-kouiku63-hiyaoroshi-current-v1",
+      "originalImageSha256": "20f0e001edea27d5982d617987742f4c900238305e1730b14ae0b609e457ca3a",
+      "originalCompactSha256": "0e6e5a95f88588bffea1c28882acc01484103cad6dd5a472865dd5f63ca52ebb",
+      "stockCheckedAt": "2026-10-22T03:55:58.558Z",
+      "visualReview": "FORMAL_CREATIVE_GALLERY_REVIEWED",
+      "matchType": "COMMERCIAL_MATCH",
+      "verifiedSpecificationsChanged": false
+    },
+    {
+      "sakeId": "tokachi-tokubetsu-junmai-suisei-current-v1",
+      "oldId": "kamikawa-taisetsu-junmai",
+      "newProduct": true,
+      "normalUrl": "https://item.rakuten.co.jp/mighty-liquors/10005345/",
+      "itemCode": "mighty-liquors:10005345",
+      "capacityMl": 720,
+      "name": "上川大雪 十勝 特別純米 彗星 720ml 日本酒 秋 ハロウィン 秋の味覚 手土産 贈り物 プレゼント あす楽 ギフト のし 贈答品 お祝 御祝 誕生日 内祝 還暦祝い 結婚祝い 出産祝い お酒 就職祝",
+      "stock": {
+        "title": "【楽天市場】上川大雪 十勝 特別純米 彗星 720ml 日本酒 秋 ハロウィン 秋の味覚 手土産 贈り物 プレゼント あす楽 ギフト のし 贈答品 お祝 御祝 誕生日 内祝 還暦祝い 結婚祝い 出産祝い お酒 就職祝：日本酒・焼酎　マイティ・リカーズ",
+        "httpStatus": 200,
+        "sameDestination": true,
+        "itemId": "10005345",
+        "itemMatches": true,
+        "purchaseCondition": "enabled",
+        "stockCondition": null,
+        "soldOut": false,
+        "purchaseControls": true,
+        "purchasable": true,
+        "state": "purchase_enabled"
+      },
+      "retrieved": true,
+      "captureId": "tokachi-tokubetsu-junmai-suisei-current-v1",
+      "originalImageSha256": "91999e3b7310e5c18702784a10d1fab60179272667f9c3118b4b397f24cbdb50",
+      "originalCompactSha256": "343a65571ee9566b8a8a43ebb6366e93939c52a1905afe44e8d3e86f1ba01220",
+      "stockCheckedAt": "2026-10-22T03:56:03.374Z",
+      "visualReview": "FORMAL_CREATIVE_GALLERY_REVIEWED",
+      "matchType": "COMMERCIAL_MATCH",
+      "verifiedSpecificationsChanged": false
+    },
+    {
+      "sakeId": "abe-silver-hiire-current-v1",
+      "oldId": "abe-k34lzz",
+      "newProduct": true,
+      "normalUrl": "https://item.rakuten.co.jp/e-wine/dw196/",
+      "itemCode": "e-wine:10016114",
+      "capacityMl": 720,
+      "name": "あべ　シルバー　火入 [720ml] [阿部酒造] [新潟]",
+      "stock": {
+        "title": "【楽天市場】あべ　シルバー　火入 [720ml] [阿部酒造] [新潟]：ｅ−Ｗｉｎｅ",
+        "httpStatus": 200,
+        "sameDestination": true,
+        "itemId": "10016114",
+        "itemMatches": true,
+        "purchaseCondition": "enabled",
+        "stockCondition": null,
+        "soldOut": false,
+        "purchaseControls": true,
+        "purchasable": true,
+        "state": "purchase_enabled"
+      },
+      "retrieved": true,
+      "captureId": "abe-silver-hiire-current-v1",
+      "originalImageSha256": "881efb41c90ee78637ce13596ee519d1b84abb8c3ed52acccc679cc0d860a0f9",
+      "originalCompactSha256": "cc0d41023731a2f5ad01fbe534415b6039e19457f2da7696b30f2e889c82f0d6",
+      "stockCheckedAt": "2026-10-22T03:56:10.604Z",
+      "visualReview": "FORMAL_CREATIVE_GALLERY_REVIEWED",
+      "matchType": "COMMERCIAL_MATCH",
+      "verifiedSpecificationsChanged": false
+    },
+    {
+      "sakeId": "shichihonyari-muu-1800-current-v1",
+      "oldId": "shichihonyari-lvvrsw",
+      "newProduct": true,
+      "normalUrl": "https://item.rakuten.co.jp/hasegawasaketen/1003410/",
+      "itemCode": "hasegawasaketen:10007409",
+      "capacityMl": 1800,
+      "name": "七本鎗 無有 無農薬純米 1800ml 冨田酒造",
+      "stock": {
+        "title": "【楽天市場】七本鎗 無有 無農薬純米 1800ml 冨田酒造：はせがわ酒店",
+        "httpStatus": 200,
+        "sameDestination": true,
+        "itemId": "10007409",
+        "itemMatches": true,
+        "purchaseCondition": "enabled",
+        "stockCondition": null,
+        "soldOut": false,
+        "purchaseControls": true,
+        "purchasable": true,
+        "state": "purchase_enabled"
+      },
+      "retrieved": true,
+      "captureId": "shichihonyari-muu-1800-current-v1",
+      "originalImageSha256": "1c64930d4dbc2586cb1283fcc15a5fb784df682d69a32474dc3fa932e56d79e8",
+      "originalCompactSha256": "615ef8bc0f8a66376935675b136fe9b9825a72aeb2c8ff5d2ad4a89bc0b5daea",
+      "stockCheckedAt": "2026-10-22T03:56:17.873Z",
+      "visualReview": "FORMAL_CREATIVE_GALLERY_REVIEWED",
+      "matchType": "COMMERCIAL_MATCH",
+      "verifiedSpecificationsChanged": false
+    },
+    {
+      "sakeId": "haginotsuyu-amadare-tomizu-hiire-current-v1",
+      "oldId": "haginotsuyu-lvvrsw",
+      "newProduct": true,
+      "normalUrl": "https://item.rakuten.co.jp/tokuriya/8848/",
+      "itemCode": "tokuriya:10000307",
+      "capacityMl": 720,
+      "name": "萩乃露 雨垂れ石を穿つ 特別純米 火入熟成 720ml 福井弥平商店 萩の露 日本酒 地酒 滋賀県高島市勝野| ギフト お歳暮 プレゼント 人気 オシャレ おしゃれ 誕生日 高級 男性 女性 最高級 退職祝い 父の日 母の日 樽",
+      "stock": {
+        "title": "【楽天市場】萩乃露 雨垂れ石を穿つ 特別純米 火入熟成 720ml 福井弥平商店 萩の露 日本酒 地酒 滋賀県高島市勝野| ギフト お歳暮 プレゼント 人気 オシャレ おしゃれ 誕生日 高級 男性 女性 最高級 退職祝い 父の日 母の日 樽：Tokuriya 酒舗まえたに楽天市場店",
+        "httpStatus": 200,
+        "sameDestination": true,
+        "itemId": "10000307",
+        "itemMatches": true,
+        "purchaseCondition": "enabled",
+        "stockCondition": null,
+        "soldOut": false,
+        "purchaseControls": true,
+        "purchasable": true,
+        "state": "purchase_enabled"
+      },
+      "retrieved": true,
+      "captureId": "haginotsuyu-amadare-tomizu-hiire-current-v1",
+      "originalImageSha256": "5818e8a6abd3837436d16b1a6e5fcebbe05da76630be12ee27e6e2729fbf0f3c",
+      "originalCompactSha256": "7e305d8864f9717a54b2a63d54bd857d7a463540535582fb473791dd2f7c2288",
+      "stockCheckedAt": "2026-10-22T03:56:21.524Z",
+      "visualReview": "FORMAL_CREATIVE_GALLERY_REVIEWED",
+      "matchType": "COMMERCIAL_MATCH",
+      "verifiedSpecificationsChanged": false
+    },
+    {
+      "sakeId": "hanaabi-gohyakumangoku-muroka-namagenshu-1800-current-v1",
+      "oldId": "hanaabi-junmai-daiginjo-1",
+      "newProduct": true,
+      "normalUrl": "https://item.rakuten.co.jp/mighty-liquors/sa103013/",
+      "itemCode": "mighty-liquors:10008396",
+      "capacityMl": 1800,
+      "name": "花陽浴 純米大吟醸 越後五百万石 無濾過生原酒 1800ml 2025年11月詰め 【要冷蔵・クール便推奨】 日本酒 秋 ハロウィン 秋の味覚 手土産 贈り物 プレゼント あす楽 ギフト のし 贈答品 お祝",
+      "stock": {
+        "title": "【楽天市場】花陽浴 純米大吟醸 越後五百万石 無濾過生原酒 1800ml 2025年11月詰め 【要冷蔵・クール便推奨】 日本酒 秋 ハロウィン 秋の味覚 手土産 贈り物 プレゼント あす楽 ギフト のし 贈答品 お祝：日本酒・焼酎　マイティ・リカーズ",
+        "httpStatus": 200,
+        "sameDestination": true,
+        "itemId": "10008396",
+        "itemMatches": true,
+        "purchaseCondition": "enabled",
+        "stockCondition": null,
+        "soldOut": false,
+        "purchaseControls": true,
+        "purchasable": true,
+        "state": "purchase_enabled"
+      },
+      "retrieved": true,
+      "captureId": "hanaabi-gohyakumangoku-muroka-namagneshu-1800-current-v1",
+      "originalImageSha256": "862c4b3136b82d42e552f776511a09d5597e1fdff88d8f990e66705ee1bef98c",
+      "originalCompactSha256": "9392eff40dda9cb3a08f559d50ed4f395f547406e7aee9ac47a506470cbd9d1d",
+      "stockCheckedAt": "2026-10-22T03:56:44.573Z",
+      "visualReview": "FORMAL_CREATIVE_GALLERY_REVIEWED",
+      "matchType": "COMMERCIAL_MATCH",
+      "verifiedSpecificationsChanged": false
+    },
+    {
+      "sakeId": "sara-junmai-ginjo-namazume-current-v1",
+      "oldId": "sara-hdomtl-2",
+      "newProduct": true,
+      "normalUrl": "https://item.rakuten.co.jp/yamasake/5775/",
+      "itemCode": "yamasake:10008160",
+      "capacityMl": 720,
+      "name": "彩來 ( さら ) 純米吟醸 生詰 720ml / 埼玉県 北西酒造【 5775 】【 日本酒 】【 要冷蔵 】【 ハロウィン 贈り物 ギフト プレゼント 】",
+      "stock": {
+        "title": "【楽天市場】彩來 ( さら ) 純米吟醸 生詰 720ml / 埼玉県 北西酒造【 5775 】【 日本酒 】【 要冷蔵 】【 ハロウィン 贈り物 ギフト プレゼント 】：酒の番人　ヤマカワ",
+        "httpStatus": 200,
+        "sameDestination": true,
+        "itemId": "10008160",
+        "itemMatches": true,
+        "purchaseCondition": "enabled",
+        "stockCondition": null,
+        "soldOut": false,
+        "purchaseControls": true,
+        "purchasable": true,
+        "state": "purchase_enabled"
+      },
+      "retrieved": true,
+      "captureId": "sara-junmai-ginjo-namazume-current-v1",
+      "originalImageSha256": "7f54fda8aec6390383682ca21a4cfbdd95a687af6ca9422f17ddc2cee90427db",
+      "originalCompactSha256": "31ff15536cb40758eece9fac0dc0b744304ec17c25e408fd02b30095c97235dd",
+      "stockCheckedAt": "2026-10-22T03:56:45.850Z",
+      "visualReview": "FORMAL_CREATIVE_GALLERY_REVIEWED",
+      "matchType": "COMMERCIAL_MATCH",
+      "verifiedSpecificationsChanged": false
+    },
+    {
+      "sakeId": "mimurosugi-kioke-bodaimoto-jishaden-current-v1",
+      "oldId": "mimurosugi-roman-series-2",
+      "newProduct": true,
+      "normalUrl": "https://item.rakuten.co.jp/bisyugakou/ms010-n72/",
+      "itemCode": "bisyugakou:10000873",
+      "capacityMl": 720,
+      "name": "みむろ杉 木桶菩提もと 自社田山田錦 720ml【化粧箱入り】日本酒／今西酒造 奈良県",
+      "stock": {
+        "title": "【楽天市場】みむろ杉 木桶菩提もと 自社田山田錦 720ml【化粧箱入り】日本酒／今西酒造 奈良県：日本酒と焼酎の店 美酒我考",
+        "httpStatus": 200,
+        "sameDestination": true,
+        "itemId": "10000873",
+        "itemMatches": true,
+        "purchaseCondition": "enabled",
+        "stockCondition": null,
+        "soldOut": false,
+        "purchaseControls": true,
+        "purchasable": true,
+        "state": "purchase_enabled"
+      },
+      "retrieved": true,
+      "captureId": "mimurosugi-kioke-bodaimoto-jishaden-current-v1",
+      "originalImageSha256": "089dfe853803942731c547228e8d55bfef122a30bf62c23124350b7b3e1a5eaa",
+      "originalCompactSha256": "8d43f18d64eb77030d0e9742181e231181a1c5cfa04fdf22327105f917ec1db0",
+      "stockCheckedAt": "2026-10-22T03:56:50.771Z",
+      "visualReview": "FORMAL_CREATIVE_GALLERY_REVIEWED",
+      "matchType": "COMMERCIAL_MATCH",
+      "verifiedSpecificationsChanged": false
+    },
+    {
+      "sakeId": "tanaka65-hiire-1800-current-v1",
+      "oldId": "shiraito-70-v1",
+      "newProduct": true,
+      "normalUrl": "https://item.rakuten.co.jp/hasegawasaketen/1008344/",
+      "itemCode": "hasegawasaketen:10004947",
+      "capacityMl": 1800,
+      "name": "田中六五 火入 1800ml 日本酒 白糸酒造 福岡県",
+      "stock": {
+        "title": "【楽天市場】田中六五 火入 1800ml 日本酒 白糸酒造 福岡県：はせがわ酒店",
+        "httpStatus": 200,
+        "sameDestination": true,
+        "itemId": "10004947",
+        "itemMatches": true,
+        "purchaseCondition": "enabled",
+        "stockCondition": null,
+        "soldOut": false,
+        "purchaseControls": true,
+        "purchasable": true,
+        "state": "purchase_enabled"
+      },
+      "retrieved": true,
+      "captureId": "tanaka65-hiire-1800-current-v1",
+      "originalImageSha256": "d106dea29df7cb7d087cd1425e015d72303bae042c9121cecd496885de6ccb33",
+      "originalCompactSha256": "9ab8b8c8b2a809fc7a997135414901fa795167b641d5dea0debc74e40c498a86",
+      "stockCheckedAt": "2026-10-22T03:57:11.319Z",
+      "visualReview": "FORMAL_CREATIVE_GALLERY_REVIEWED",
+      "matchType": "COMMERCIAL_MATCH",
+      "verifiedSpecificationsChanged": false
+    },
+    {
+      "sakeId": "shirakiku-ginshari-tokubetsu-junmai-current-v1",
+      "oldId": "shirakiku-vibrant-junmai-hiire-standard-v1",
+      "newProduct": true,
+      "normalUrl": "https://item.rakuten.co.jp/sakayainoue/4525892180129/",
+      "itemCode": "sakayainoue:10002324",
+      "capacityMl": 720,
+      "name": "shirakiku 特別純米酒 銀シャリ【日本酒 白杉酒造 シラキク 白木久】",
+      "stock": {
+        "title": "【楽天市場】shirakiku 特別純米酒 銀シャリ【日本酒 白杉酒造 シラキク 白木久】：酒舗 井上屋",
+        "httpStatus": 200,
+        "sameDestination": true,
+        "itemId": "10002324",
+        "itemMatches": true,
+        "purchaseCondition": "enabled",
+        "stockCondition": null,
+        "soldOut": false,
+        "purchaseControls": true,
+        "purchasable": true,
+        "state": "purchase_enabled"
+      },
+      "retrieved": true,
+      "captureId": "shirakiku-ginshari-tokubetsu-junmai-current-v1",
+      "originalImageSha256": "d51cc95e25ca8f39cf09475017eb9cddafe808b3aeba96bad61fde73e28cf2d7",
+      "originalCompactSha256": "3df8498357cf3e347c0297a4cc8dc1a713148395c48477428e41d3f120b1bf25",
+      "stockCheckedAt": "2026-10-22T03:57:30.038Z",
+      "visualReview": "FORMAL_CREATIVE_GALLERY_REVIEWED",
+      "matchType": "COMMERCIAL_MATCH",
+      "verifiedSpecificationsChanged": false
+    },
+    {
+      "sakeId": "kagura-nojoho-junmai-ginjo-nama-current-v1",
+      "oldId": "kagura-junmai-daiginjo-shiro-muroka-mukasui-ichibi-v1",
+      "newProduct": true,
+      "normalUrl": "https://item.rakuten.co.jp/hoshigulf/4530731780033/",
+      "itemCode": "hoshigulf:10004664",
+      "capacityMl": 720,
+      "name": "神蔵 純米吟醸 野条穂 無濾過生酒 720ml 松井酒造 京都 日本酒 純米吟醸酒 野条穂 幻の酒米 希少酒米 無濾過 無加水 生酒 地酒 京都地酒 フルーティー 辛口 神蔵KAGURA 【要冷蔵 クール便】",
+      "stock": {
+        "title": "【楽天市場】神蔵 純米吟醸 野条穂 無濾過生酒 720ml 松井酒造 京都 日本酒 純米吟醸酒 野条穂 幻の酒米 希少酒米 無濾過 無加水 生酒 地酒 京都地酒 フルーティー 辛口 神蔵KAGURA 【要冷蔵 クール便】：ＨＯＳＨＩＧＵＬＦ 楽天市場店",
+        "httpStatus": 200,
+        "sameDestination": true,
+        "itemId": "10004664",
+        "itemMatches": true,
+        "purchaseCondition": "enabled",
+        "stockCondition": null,
+        "soldOut": false,
+        "purchaseControls": true,
+        "purchasable": true,
+        "state": "purchase_enabled"
+      },
+      "retrieved": true,
+      "captureId": "kagura-nojoho-junmai-ginjo-nama-current-v1",
+      "originalImageSha256": "7555d314f3bea27e213b5aab9390ee1926fc760eec90d8024233db003bd30aae",
+      "originalCompactSha256": "353dc4383d3ce394e909848a75dbfdd27aee007126d6cff38509141883e91fd8",
+      "stockCheckedAt": "2026-10-22T03:57:34.813Z",
+      "visualReview": "FORMAL_CREATIVE_GALLERY_REVIEWED",
+      "matchType": "COMMERCIAL_MATCH",
+      "verifiedSpecificationsChanged": false
+    },
+    {
+      "sakeId": "eikofuji-hinowa-muroka-nama-2026-current-v1",
+      "oldId": "eikofuji-jungetsu-junmai-standard-v1",
+      "newProduct": true,
+      "normalUrl": "https://item.rakuten.co.jp/maruishi/10006801/",
+      "itemCode": "maruishi:10006801",
+      "capacityMl": 720,
+      "name": "2026年9月酒（山形）栄光冨士　日乃輪　720ml　純米大吟醸　無濾過生原酒　栄光富士",
+      "stock": {
+        "title": "説明文下クレジットカード",
+        "httpStatus": 200,
+        "sameDestination": true,
+        "itemId": "10006801",
+        "itemMatches": true,
+        "purchaseCondition": "enabled",
+        "stockCondition": null,
+        "soldOut": false,
+        "purchaseControls": true,
+        "purchasable": true,
+        "state": "purchase_enabled"
+      },
+      "retrieved": true,
+      "captureId": "eikofuji-hinowa-muroka-nama-2026-current-v1",
+      "originalImageSha256": "c0b56e75edadcfa22a4f4ac7ba49b18bc4965513ed380cc81c7092a50a55ffc7",
+      "originalCompactSha256": "4bbb543214240e6093c197f18f792c201272ab0a6eb778662a0ac43b501e99b1",
+      "stockCheckedAt": "2026-10-22T03:57:42.098Z",
+      "visualReview": "FORMAL_CREATIVE_GALLERY_REVIEWED",
+      "matchType": "COMMERCIAL_MATCH",
+      "verifiedSpecificationsChanged": false
+    },
+    {
+      "sakeId": "kurumazaka-yamahai-akiagari-2019by-current-v1",
+      "oldId": "kurumazaka-gp8l70i9d",
+      "newProduct": true,
+      "normalUrl": "https://item.rakuten.co.jp/kishuuitibanya/ns-604/",
+      "itemCode": "kishuuitibanya:10002432",
+      "capacityMl": 720,
+      "name": "車坂 山廃純米酒 秋あがり 720ml 2026年 8月入荷分 季節限定 日本酒 くるまざか 吉村秀雄商店 和歌山県",
+      "stock": {
+        "title": "【楽天市場】車坂 山廃純米酒 秋あがり 720ml 2026年 8月入荷分 季節限定 日本酒 くるまざか 吉村秀雄商店 和歌山県：紀州いちばん屋楽天市場店",
+        "httpStatus": 200,
+        "sameDestination": true,
+        "itemId": "10002432",
+        "itemMatches": true,
+        "purchaseCondition": "enabled",
+        "stockCondition": null,
+        "soldOut": false,
+        "purchaseControls": true,
+        "purchasable": true,
+        "state": "purchase_enabled"
+      },
+      "retrieved": true,
+      "captureId": "kurumazaka-yamahai-akiagari-2019by-current-v1",
+      "originalImageSha256": "e387b03a10c82c9fa0eccbfee9e9ae17c836840014d49ab66d3becbc2d750492",
+      "originalCompactSha256": "434e18d6ab7bddc9422500722c097a460336887c38d690bccb59e527149c201c",
+      "stockCheckedAt": "2026-10-22T04:03:51.086Z",
+      "visualReview": "FORMAL_CREATIVE_GALLERY_REVIEWED",
+      "matchType": "COMMERCIAL_MATCH",
+      "verifiedSpecificationsChanged": false
+    },
+    {
+      "sakeId": "hatsumago-i9diua",
+      "oldId": "hatsumago-i9diua",
+      "newProduct": false,
+      "normalUrl": "https://item.rakuten.co.jp/koshino-sakekura/ng-417/",
+      "itemCode": "koshino-sakekura:10001027",
+      "capacityMl": 720,
+      "name": "初孫 純米大吟醸 光輝2236 720ml【東北銘醸】山形県 酒田市 日本酒 清酒＜2026年4月製造商品です＞",
+      "stock": {
+        "title": "【楽天市場】初孫 純米大吟醸 光輝2236 720ml【東北銘醸】山形県 酒田市  日本酒 清酒＜2026年4月製造商品です＞：越乃酒蔵",
+        "httpStatus": 200,
+        "sameDestination": true,
+        "itemId": "10001027",
+        "itemMatches": true,
+        "purchaseCondition": "enabled",
+        "stockCondition": null,
+        "soldOut": false,
+        "purchaseControls": true,
+        "purchasable": true,
+        "state": "purchase_enabled"
+      },
+      "retrieved": true,
+      "captureId": "hatsumago-i9diua",
+      "originalImageSha256": "d70af19084f3e17600dd03bed04f11ea3483c08e7bec9eba14aef9a9e7985e50",
+      "originalCompactSha256": "65b4504c2677ad9b96f3bc3b3d84e9d59702de9af6a47ceb189e12e3f0d8af33",
+      "stockCheckedAt": "2026-10-22T03:56:06.973Z",
+      "visualReview": "FORMAL_CREATIVE_GALLERY_REVIEWED",
+      "matchType": "COMMERCIAL_MATCH",
+      "verifiedSpecificationsChanged": false
+    },
+    {
+      "sakeId": "nishinoseki-junmai-ginjo-bigin-v1",
+      "oldId": "nishinoseki-junmai-ginjo-bigin-v1",
+      "newProduct": false,
+      "normalUrl": "https://item.rakuten.co.jp/kyushu-shouchu-club/nihonshu-037/",
+      "itemCode": "kyushu-shouchu-club:10001812",
+      "capacityMl": 1800,
+      "name": "西の関 美吟 純米吟醸酒 16度以上17度未満 1800ml",
+      "stock": {
+        "title": "【楽天市場】西の関 美吟 純米吟醸酒 16度以上17度未満 1800ml：九州焼酎CLUB＆スナップビー",
+        "httpStatus": 200,
+        "sameDestination": true,
+        "itemId": "10001812",
+        "itemMatches": true,
+        "purchaseCondition": "enabled",
+        "stockCondition": null,
+        "soldOut": false,
+        "purchaseControls": true,
+        "purchasable": true,
+        "state": "purchase_enabled"
+      },
+      "retrieved": true,
+      "captureId": "nishinoseki-junmai-ginjo-bigin-v1",
+      "originalImageSha256": "c8e348c511f095e82cfc680c97bb751006249a20558cdffaf12171595749ca48",
+      "originalCompactSha256": "b6eb804aad026c20b44d90096e71428473b9414a1a839f878f435977b745e15c",
+      "stockCheckedAt": "2026-10-22T03:59:43.803Z",
+      "visualReview": "FORMAL_CREATIVE_GALLERY_REVIEWED",
+      "matchType": "COMMERCIAL_MATCH",
+      "verifiedSpecificationsChanged": false
+    },
+    {
+      "sakeId": "akishika-yamahai-junmai-yamadanishiki-70-muroka-genshu-hiire-v1",
+      "oldId": "akishika-yamahai-junmai-yamadanishiki-70-muroka-genshu-hiire-v1",
+      "newProduct": false,
+      "normalUrl": "https://item.rakuten.co.jp/kimijimaya-online/1003174/",
+      "itemCode": "kimijimaya-online:10000262",
+      "capacityMl": 720,
+      "name": "秋鹿 山廃純米無濾過原酒（火入）山田錦 720ml 秋鹿酒造 日本酒 大阪府 ギフト",
+      "stock": {
+        "title": "【楽天市場】秋鹿 山廃純米無濾過原酒（火入）山田錦 720ml 秋鹿酒造 日本酒 大阪府 ギフト：君嶋屋　楽天市場店",
+        "httpStatus": 200,
+        "sameDestination": true,
+        "itemId": "10000262",
+        "itemMatches": true,
+        "purchaseCondition": "enabled",
+        "stockCondition": null,
+        "soldOut": false,
+        "purchaseControls": true,
+        "purchasable": true,
+        "state": "purchase_enabled"
+      },
+      "retrieved": true,
+      "captureId": "akishika-yamahai-junmai-yamadanishiki-70-muroka-genshu-hiire-v1",
+      "originalImageSha256": "515c3269bf95edbf58c49ccd7984e84da0a3fc852c1cf6739b239b1344bfccf9",
+      "originalCompactSha256": "c7ed908361c7681cfad157f4d66feca0ac3b86b12bbabdf67c2d53cad1c4b516",
+      "stockCheckedAt": "2026-10-22T03:57:39.651Z",
+      "visualReview": "FORMAL_CREATIVE_GALLERY_REVIEWED",
+      "matchType": "COMMERCIAL_MATCH",
+      "verifiedSpecificationsChanged": false
+    },
+    {
+      "sakeId": "tabika-junmai-funashibori-ichikai-hiire-v1",
+      "oldId": "tabika-junmai-funashibori-ichikai-hiire-v1",
+      "newProduct": false,
+      "normalUrl": "https://item.rakuten.co.jp/fukutaya/tabika-jyun720/",
+      "itemCode": "fukutaya:10013204",
+      "capacityMl": 720,
+      "name": "【限定流通酒】田光 純米酒 槽搾り 瓶火入れ 720ml 早川酒造 三重県菰野町 地酒 日本酒 純米酒 田光 早春 正規特約 販売店",
+      "stock": {
+        "title": "【楽天市場】【限定流通酒】田光 純米酒 槽搾り 瓶火入れ 720ml 早川酒造 三重県菰野町 地酒 日本酒 純米酒 田光 早春 正規特約 販売店：福田屋酒店",
+        "httpStatus": 200,
+        "sameDestination": true,
+        "itemId": "10013204",
+        "itemMatches": true,
+        "purchaseCondition": "enabled",
+        "stockCondition": null,
+        "soldOut": false,
+        "purchaseControls": true,
+        "purchasable": true,
+        "state": "purchase_enabled"
+      },
+      "retrieved": true,
+      "captureId": "tabika-junmai-funashibori-ichikai-hiire-v1",
+      "originalImageSha256": "a7677cb11c780bf2b325f7de1e00da5e1d73c17c107f7e16acb6b7e1989a7339",
+      "originalCompactSha256": "a15af4b053adfc7a2d39dbe1eeb11863d8c2bf463c0ac7e7996d5a52bfb67c75",
+      "stockCheckedAt": "2026-10-22T03:57:46.919Z",
+      "visualReview": "FORMAL_CREATIVE_GALLERY_REVIEWED",
+      "matchType": "COMMERCIAL_MATCH",
+      "verifiedSpecificationsChanged": false
+    },
+    {
+      "sakeId": "wakaze-the-classic-yamagata-v1",
+      "oldId": "wakaze-the-classic-yamagata-v1",
+      "newProduct": false,
+      "normalUrl": "https://item.rakuten.co.jp/simazakiyaokamura/1109901/",
+      "itemCode": "simazakiyaokamura:10000639",
+      "capacityMl": 720,
+      "name": "THE CLASSIC WAKAZE(ワカゼ) 720ml 1本",
+      "stock": {
+        "title": "【楽天市場】THE CLASSIC WAKAZE(ワカゼ)  720ml  1本：嶋崎屋岡村",
+        "httpStatus": 200,
+        "sameDestination": true,
+        "itemId": "10000639",
+        "itemMatches": true,
+        "purchaseCondition": "enabled",
+        "stockCondition": null,
+        "soldOut": false,
+        "purchaseControls": true,
+        "purchasable": true,
+        "state": "purchase_enabled"
+      },
+      "retrieved": true,
+      "captureId": "wakaze-the-classic-yamagata-v1",
+      "originalImageSha256": "c92ea1261add970f468b4459de9b469c5b619ac9947c704cde999de23d110044",
+      "originalCompactSha256": "cb1cb8270782ee9a21cce5a3dc7bd0ccc80eb6484b806c8d7a6721440d88ef7a",
+      "stockCheckedAt": "2026-10-22T03:57:50.627Z",
+      "visualReview": "FORMAL_CREATIVE_GALLERY_REVIEWED",
+      "matchType": "COMMERCIAL_MATCH",
+      "verifiedSpecificationsChanged": false
+    },
+    {
+      "sakeId": "azumanofumoto-junmai-ginjo-yamagata-selection-v1",
+      "oldId": "azumanofumoto-junmai-ginjo-yamagata-selection-v1",
+      "newProduct": false,
+      "normalUrl": "https://item.rakuten.co.jp/yamagatamaru/1104-0021/",
+      "itemCode": "yamagatamaru:10000234",
+      "capacityMl": 720,
+      "name": "東の麓 純米吟醸 出羽の里（でわのさと） 720ml【取り寄せ】日本酒 山形 地酒",
+      "stock": {
+        "title": "【楽天市場】東の麓 純米吟醸 出羽の里（でわのさと） 720ml【取り寄せ】日本酒 山形 地酒：まるごと山形",
+        "httpStatus": 200,
+        "sameDestination": true,
+        "itemId": "10000234",
+        "itemMatches": true,
+        "purchaseCondition": "enabled",
+        "stockCondition": null,
+        "soldOut": false,
+        "purchaseControls": true,
+        "purchasable": true,
+        "state": "purchase_enabled"
+      },
+      "retrieved": true,
+      "captureId": "azumanofumoto-junmai-ginjo-yamagata-selection-v1",
+      "originalImageSha256": "1788b6f7803f8a2177d90c3f53aad3116ee30ec7d8476f5ad8329cbf8641412b",
+      "originalCompactSha256": "47c47bb779573ccc783248a360303e73ae165b29c0ef67409593c10761f85d00",
+      "stockCheckedAt": "2026-10-22T03:57:56.067Z",
+      "visualReview": "FORMAL_CREATIVE_GALLERY_REVIEWED",
+      "matchType": "COMMERCIAL_MATCH",
+      "verifiedSpecificationsChanged": false
+    },
+    {
+      "sakeId": "kaiun-tokubetsu-junmai",
+      "oldId": "kaiun-tokubetsu-junmai",
+      "newProduct": false,
+      "normalUrl": "https://item.rakuten.co.jp/sanoyajizake/sake8016_720/",
+      "itemCode": "sanoyajizake:10005272",
+      "capacityMl": 720,
+      "name": "【箱入】開運　特別純米酒 日本酒 720ml",
+      "stock": {
+        "title": "【楽天市場】【箱入】開運　特別純米酒 日本酒 720ml：佐野屋～日本酒・ワイン通販専門店",
+        "httpStatus": 200,
+        "sameDestination": true,
+        "itemId": "10005272",
+        "itemMatches": true,
+        "purchaseCondition": "enabled",
+        "stockCondition": null,
+        "soldOut": false,
+        "purchaseControls": true,
+        "purchasable": true,
+        "state": "purchase_enabled"
+      },
+      "retrieved": true,
+      "captureId": "kaiun-tokubetsu-junmai",
+      "originalImageSha256": "4eb0cc21428746db8f9fc9ab718235b163bfc40cc971d2788fd5b3b6ab266ae5",
+      "originalCompactSha256": "5b45449f7b172bb861ca43a1163c511ee79e7c0d53fc27867a9c185eca555dd1",
+      "stockCheckedAt": "2026-10-22T04:03:49.985Z",
+      "visualReview": "FORMAL_CREATIVE_GALLERY_REVIEWED",
+      "matchType": "COMMERCIAL_MATCH",
+      "verifiedSpecificationsChanged": false
+    }
+  ],
+  "productionPublished": false
+}

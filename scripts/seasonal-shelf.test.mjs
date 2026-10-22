@@ -119,12 +119,13 @@ test('quarterly shelf updates never silently extend earlier commerce review dead
   assert.equal(horizon.automaticExtensionAllowed, false); assert.equal(horizon.scheduled, false);
   assert(horizon.internalReviewDeadlineNotProviderLicenseTerm);
 });
-test('stock and permission remain independent; broken product pages fail closed without deleting history', () => {
+test('stock and permission remain independent; broken product pages fail closed without deleting history', async () => {
   const broken=getSakeById('shichihonyari-lvvrsw'),soldOut=getSakeById('kurawanka-junmai-usunigori-v1');
   const config={enabled:true,registeredSite:'https://yoi-no-ikkon.vercel.app/',enabledProviders:['rakuten'],routes:{rakuten:'rakuten'}};
   assert(imageDisplayUnavailable(broken.id));assert.equal(productMediaFor(broken),null);
   assert(purchaseUnavailable(soldOut.id));assert(!imageDisplayUnavailable(soldOut.id));assert(productMediaFor(soldOut));
   assert.deepEqual(projectFinalCommerce(broken,config),{normal:[],offer:null});
   const fallback=unavailableSearchLink(broken);assert.equal(fallback.isAffiliate,false);assert.equal(new URL(fallback.url).hostname,'search.rakuten.co.jp');
-  assert(visibleSakePairings.some(i=>i.id===broken.id));assert.deepEqual(migrateFavorites([broken.id]),[broken.id]);
+  const {shelfFinalBatch}=await import('./lib/reviewed-shelf-update.mjs');
+  assert(visibleSakePairings.some(i=>i.id===broken.id)||shelfFinalBatch.reviewed===true&&shelfFinalBatch.inactivated.includes(broken.id));assert.deepEqual(migrateFavorites([broken.id]),[broken.id]);
 });

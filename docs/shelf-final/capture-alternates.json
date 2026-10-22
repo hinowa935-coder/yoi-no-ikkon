@@ -1,0 +1,73 @@
+{
+  "targets": [
+    {
+      "sakeId": "kaiun-tokubetsu-junmai",
+      "oldId": "kaiun-tokubetsu-junmai",
+      "newProduct": false,
+      "normalUrl": "https://item.rakuten.co.jp/sanoyajizake/sake8016_720/",
+      "itemCode": "sanoyajizake:10005272",
+      "capacityMl": 720,
+      "name": "【箱入】開運　特別純米酒 日本酒 720ml",
+      "stock": {
+        "title": "【楽天市場】【箱入】開運　特別純米酒 日本酒 720ml：佐野屋～日本酒・ワイン通販専門店",
+        "httpStatus": 200,
+        "sameDestination": true,
+        "itemId": "10005272",
+        "itemMatches": true,
+        "purchaseCondition": "enabled",
+        "stockCondition": null,
+        "soldOut": false,
+        "purchaseControls": true,
+        "purchasable": true,
+        "state": "purchase_enabled"
+      },
+      "retrieved": true
+    },
+    {
+      "sakeId": "kurumazaka-yamahai-akiagari-2019by-current-v1",
+      "oldId": "kurumazaka-gp8l70i9d",
+      "newProduct": true,
+      "normalUrl": "https://item.rakuten.co.jp/kishuuitibanya/ns-604/",
+      "itemCode": "kishuuitibanya:10002432",
+      "capacityMl": 720,
+      "name": "車坂 山廃純米酒 秋あがり 720ml 2026年 8月入荷分 季節限定 日本酒 くるまざか 吉村秀雄商店 和歌山県",
+      "stock": {
+        "title": "【楽天市場】車坂 山廃純米酒 秋あがり 720ml 2026年 8月入荷分 季節限定 日本酒 くるまざか 吉村秀雄商店 和歌山県：紀州いちばん屋楽天市場店",
+        "httpStatus": 200,
+        "sameDestination": true,
+        "itemId": "10002432",
+        "itemMatches": true,
+        "purchaseCondition": "enabled",
+        "stockCondition": null,
+        "soldOut": false,
+        "purchaseControls": true,
+        "purchasable": true,
+        "state": "purchase_enabled"
+      },
+      "retrieved": true
+    },
+    {
+      "sakeId": "bentenmusume-gouriki-r2by-aged-current-v1",
+      "oldId": "bentenmusume-junmai-yamahai-gouriki-v1",
+      "newProduct": true,
+      "normalUrl": "https://item.rakuten.co.jp/sakematured/btm03-07-02/",
+      "itemCode": "sakematured:10000018",
+      "capacityMl": 720,
+      "name": "熟成5年 辨天娘(べんてんむすめ) 720ml 送料無料 熟成酒 古酒 【純米 強力 R2BY 辨天娘】ヴィンテージ 鳥取県 食前酒 太田酒造の「強力」5年熟成 アルコール度数17% 純米酒 ギフト 内祝 贈答 高級 日本酒 プレゼント 秋ギフト",
+      "stock": {
+        "title": "【楽天市場】熟成5年 辨天娘(べんてんむすめ) 720ml 送料無料 熟成酒 古酒 【純米 強力 R2BY 辨天娘】ヴィンテージ 鳥取県 食前酒 太田酒造の「強力」5年熟成 アルコール度数17% 純米酒 ギフト 内祝 贈答 高級 日本酒 プレゼント 秋ギフト：熟と燗",
+        "httpStatus": 200,
+        "sameDestination": true,
+        "itemId": "10000018",
+        "itemMatches": true,
+        "purchaseCondition": "enabled",
+        "stockCondition": null,
+        "soldOut": false,
+        "purchaseControls": true,
+        "purchasable": true,
+        "state": "purchase_enabled"
+      },
+      "retrieved": true
+    }
+  ]
+}

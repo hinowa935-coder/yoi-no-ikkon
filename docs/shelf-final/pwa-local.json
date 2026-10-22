@@ -1,0 +1,62 @@
+{
+  "checkedAt": "2026-10-22T04:41:19.886Z",
+  "base": "http://127.0.0.1:3197",
+  "rows": [
+    {
+      "engine": "chromium",
+      "serviceWorker": {
+        "controlled": true,
+        "script": "/sw.js"
+      },
+      "sameOrigin": [
+        {
+          "path": "/search/__next._tree.txt",
+          "status": 200,
+          "bytes": 322
+        },
+        {
+          "path": "/discover",
+          "status": 200,
+          "bytes": 28593
+        }
+      ],
+      "searchBack": true,
+      "favoriteRealButton": true,
+      "favoriteAfterReload": true,
+      "errors": [],
+      "bootstrapWarnings": [],
+      "bootstrapWarningScope": "Only WebKit cold startup access-control messages before the controlled-page checks; prior production diagnostic recorded the same pattern with unchanged sw.js.",
+      "passed": true,
+      "realDevice": false
+    },
+    {
+      "engine": "webkit",
+      "serviceWorker": {
+        "controlled": true,
+        "script": "/sw.js"
+      },
+      "sameOrigin": [
+        {
+          "path": "/search/__next._tree.txt",
+          "status": 200,
+          "bytes": 322
+        },
+        {
+          "path": "/discover",
+          "status": 200,
+          "bytes": 28593
+        }
+      ],
+      "searchBack": true,
+      "favoriteRealButton": true,
+      "favoriteAfterReload": true,
+      "errors": [],
+      "bootstrapWarnings": [],
+      "bootstrapWarningScope": "Only WebKit cold startup access-control messages before the controlled-page checks; prior production diagnostic recorded the same pattern with unchanged sw.js.",
+      "passed": true,
+      "realDevice": false
+    }
+  ],
+  "passed": true,
+  "installedRealDevicePwa": false
+}

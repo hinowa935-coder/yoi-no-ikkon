@@ -446,6 +446,238 @@
       "reason": "現行の別SKUを通常の酒棚へ掲載。旧商品・URL・おちょこ履歴は変更しない。",
       "relatedCurrentProductId": "raifuku-junmai-ginjo-yamadanishiki-hiire-v1",
       "notIdentityAlias": true
+    },
+    "shinshu-kirei-junmai-ginjo": {
+      "status": "INACTIVE",
+      "batchId": "shelf-final-2026-10-22",
+      "checkedAt": "2026-10-22T04:20:12.644Z",
+      "reason": "稲倉の棚田産を明示する別SKUとして新ID。火入れ回数・原酒・分析値は未確認のため設定しない。",
+      "relatedCurrentProductId": "shinshu-kirei-inakura-hitogokochi-junmai-ginjo-current-v1",
+      "notIdentityAlias": true
+    },
+    "kameizumi-cel24": {
+      "status": "INACTIVE",
+      "batchId": "shelf-final-2026-10-22",
+      "checkedAt": "2026-10-22T04:20:12.644Z",
+      "reason": "CEL-24と異なる風鳴子・ひやおろし。保管温度を飲用温度へ転用しない。",
+      "relatedCurrentProductId": "kameizumi-kouiku63-hiyaoroshi-current-v1",
+      "notIdentityAlias": true
+    },
+    "kamikawa-taisetsu-junmai": {
+      "status": "INACTIVE",
+      "batchId": "shelf-final-2026-10-22",
+      "checkedAt": "2026-10-22T04:20:12.644Z",
+      "reason": "緑丘蔵の上川大雪とは別の碧雲蔵・十勝。米品種は販売SKU本文の彗星表記で確認し、公式の品種未記載スペックを補完しない。",
+      "relatedCurrentProductId": "tokachi-tokubetsu-junmai-suisei-current-v1",
+      "notIdentityAlias": true
+    },
+    "abe-k34lzz": {
+      "status": "INACTIVE",
+      "batchId": "shelf-final-2026-10-22",
+      "checkedAt": "2026-10-22T04:20:12.644Z",
+      "reason": "STANDARDという総称からシルバー火入れへ別SKU。現在は特定名称の記載を外しているため、純米吟醸と推測しない。",
+      "relatedCurrentProductId": "abe-silver-hiire-current-v1",
+      "notIdentityAlias": true
+    },
+    "maibijin-o0ffit": {
+      "status": "INACTIVE",
+      "batchId": "shelf-final-2026-10-22",
+      "checkedAt": "2026-10-22T04:20:12.644Z",
+      "reason": "同一SKUを確定できる販売先・正式素材が未成立。画像非提供・カテゴリへの移動は売切れとは断定しない。",
+      "relatedCurrentProductId": null,
+      "notIdentityAlias": true
+    },
+    "shichihonyari-lvvrsw": {
+      "status": "INACTIVE",
+      "batchId": "shelf-final-2026-10-22",
+      "checkedAt": "2026-10-22T04:20:12.644Z",
+      "reason": "旧登録720mlに1800ml画像を流用せず、容量を明示した新ID。",
+      "relatedCurrentProductId": "shichihonyari-muu-1800-current-v1",
+      "notIdentityAlias": true
+    },
+    "haginotsuyu-lvvrsw": {
+      "status": "INACTIVE",
+      "batchId": "shelf-final-2026-10-22",
+      "checkedAt": "2026-10-22T04:20:12.644Z",
+      "reason": "里山のこしひかり純米吟醸とは別SKU。火入れは当該販売ページ、米・精米・温度・料理カテゴリーは公式の商品欄。",
+      "relatedCurrentProductId": "haginotsuyu-amadare-tomizu-hiire-current-v1",
+      "notIdentityAlias": true
+    },
+    "kurumazaka-gp8l70i9d": {
+      "status": "INACTIVE",
+      "batchId": "shelf-final-2026-10-22",
+      "checkedAt": "2026-10-22T04:20:12.644Z",
+      "reason": "既存の通常山廃から秋あがり2019BYへ別SKU。2026年入荷と醸造年度2019BYを分離。",
+      "relatedCurrentProductId": "kurumazaka-yamahai-akiagari-2019by-current-v1",
+      "notIdentityAlias": true
+    },
+    "bentenmusume-uzpgk6": {
+      "status": "INACTIVE",
+      "batchId": "shelf-final-2026-10-22",
+      "checkedAt": "2026-10-22T04:20:12.644Z",
+      "reason": "玉栄生酛と強力R2BY熟成は別SKU。後者は独立資料による当該版の補強が不足。",
+      "relatedCurrentProductId": null,
+      "notIdentityAlias": true
+    },
+    "izumo-fuji-id2kl5": {
+      "status": "INACTIVE",
+      "batchId": "shelf-final-2026-10-22",
+      "checkedAt": "2026-10-22T04:20:12.644Z",
+      "reason": "今回の清酒単品候補なし。前掛け・返礼品は採用不可。不存在・終売の断定ではない。",
+      "relatedCurrentProductId": null,
+      "notIdentityAlias": true
+    },
+    "wakamusume-i9dgkj": {
+      "status": "INACTIVE",
+      "batchId": "shelf-final-2026-10-22",
+      "checkedAt": "2026-10-22T04:20:12.644Z",
+      "reason": "燕子花1800mlは旧参照容量と異なる。十二秘色火入れ候補は独立した現行SKU資料の追加確認待ち。",
+      "relatedCurrentProductId": null,
+      "notIdentityAlias": true
+    },
+    "miyoshikiku-iwjid2": {
+      "status": "INACTIVE",
+      "batchId": "shelf-final-2026-10-22",
+      "checkedAt": "2026-10-22T04:20:12.644Z",
+      "reason": "おりがらみ・別シリーズと区別。取得先がカテゴリのため購入可能SKUの確定に至らない。",
+      "relatedCurrentProductId": null,
+      "notIdentityAlias": true
+    },
+    "hanaabi-junmai-daiginjo-1": {
+      "status": "INACTIVE",
+      "batchId": "shelf-final-2026-10-22",
+      "checkedAt": "2026-10-22T04:20:12.644Z",
+      "reason": "旧720ml参照と区別し新ID。おりがらみ商品・THE PREMIUMや異なる米のレビューを混ぜない。Sakenomyの蔵元商品欄のみ利用し、口コミは検証済みに入れない。",
+      "relatedCurrentProductId": "hanaabi-gohyakumangoku-muroka-namagenshu-1800-current-v1",
+      "notIdentityAlias": true
+    },
+    "sara-hdomtl-2": {
+      "status": "INACTIVE",
+      "batchId": "shelf-final-2026-10-22",
+      "checkedAt": "2026-10-22T04:20:12.644Z",
+      "reason": "Vesperとは別の定番火入れ生詰。生詰を生酒とは分類しない。",
+      "relatedCurrentProductId": "sara-junmai-ginjo-namazume-current-v1",
+      "notIdentityAlias": true
+    },
+    "mimurosugi-roman-series-2": {
+      "status": "INACTIVE",
+      "batchId": "shelf-final-2026-10-22",
+      "checkedAt": "2026-10-22T04:20:12.644Z",
+      "reason": "ろまん山田錦・露葉風特別純米とは別の木桶菩提もと。特定名称・精米・生火入れは未確認。",
+      "relatedCurrentProductId": "mimurosugi-kioke-bodaimoto-jishaden-current-v1",
+      "notIdentityAlias": true
+    },
+    "taito-tokubetsu-junmai-v1": {
+      "status": "INACTIVE",
+      "batchId": "shelf-final-2026-10-22",
+      "checkedAt": "2026-10-22T04:20:12.644Z",
+      "reason": "今回の単品候補なし。赤酒を清酒として採用しない。公式取得失敗を不存在扱いしない。",
+      "relatedCurrentProductId": null,
+      "notIdentityAlias": true
+    },
+    "mimurosugi-tokubetsu-junmai-tsuyuhakaze-v1": {
+      "status": "INACTIVE",
+      "batchId": "shelf-final-2026-10-22",
+      "checkedAt": "2026-10-22T04:20:12.644Z",
+      "reason": "露葉風特別純米と木桶菩提もとは別SKU。別IDの新商品を掲載するが旧商品の同一候補とはしない。",
+      "relatedCurrentProductId": null,
+      "notIdentityAlias": true
+    },
+    "daijiro-yamada-junmai-ginjo-hiire-v1": {
+      "status": "INACTIVE",
+      "batchId": "shelf-final-2026-10-22",
+      "checkedAt": "2026-10-22T04:20:12.644Z",
+      "reason": "情熱迷酒は生酒で別SKU。現行独立資料の補強を待ち候補保管。",
+      "relatedCurrentProductId": null,
+      "notIdentityAlias": true
+    },
+    "bentenmusume-junmai-yamahai-gouriki-v1": {
+      "status": "INACTIVE",
+      "batchId": "shelf-final-2026-10-22",
+      "checkedAt": "2026-10-22T04:20:12.644Z",
+      "reason": "強力R2BYは山廃の確認がなく別SKU。単一資料を過大評価せず候補プールに残す。",
+      "relatedCurrentProductId": null,
+      "notIdentityAlias": true
+    },
+    "shiraito-70-v1": {
+      "status": "INACTIVE",
+      "batchId": "shelf-final-2026-10-22",
+      "checkedAt": "2026-10-22T04:20:12.644Z",
+      "reason": "白糸70とは異なる山田錦65%の火入れ。予約生酒・6513・泡は別商品。",
+      "relatedCurrentProductId": "tanaka65-hiire-1800-current-v1",
+      "notIdentityAlias": true
+    },
+    "kurawanka-junmai-usunigori-v1": {
+      "status": "INACTIVE",
+      "batchId": "shelf-final-2026-10-22",
+      "checkedAt": "2026-10-22T04:20:12.644Z",
+      "reason": "720mlうすにごりの現行単品候補を確定できず。同蔵かたの桜は独立IDのまま残す。",
+      "relatedCurrentProductId": null,
+      "notIdentityAlias": true
+    },
+    "toyonoume-yoiyoi-junmai-ginjo-v1": {
+      "status": "INACTIVE",
+      "batchId": "shelf-final-2026-10-22",
+      "checkedAt": "2026-10-22T04:20:12.644Z",
+      "reason": "公式素材が720ml・1800mlの2本併写。容量一致の単品画像とみなさない。",
+      "relatedCurrentProductId": null,
+      "notIdentityAlias": true
+    },
+    "minami-junmai-ginjo-matsuyamamitsui-standard-v1": {
+      "status": "INACTIVE",
+      "batchId": "shelf-final-2026-10-22",
+      "checkedAt": "2026-10-22T04:20:12.644Z",
+      "reason": "現行補強資料は松山三井50%が中心。候補販売ページ55%・度数167という誤記を含むため、その1800mlを新規の現行SKUとして確定しない。720mlの既存正式画像・旧情報は保存。",
+      "relatedCurrentProductId": null,
+      "notIdentityAlias": true
+    },
+    "biwanosasanami-matsu-junmai-daiginjo-hiire-v1": {
+      "status": "INACTIVE",
+      "batchId": "shelf-final-2026-10-22",
+      "checkedAt": "2026-10-22T04:20:12.644Z",
+      "reason": "純米原酒は別分類。販売候補の生火入れが明示されず、味・画像だけで確定しない。",
+      "relatedCurrentProductId": null,
+      "notIdentityAlias": true
+    },
+    "shirakiku-vibrant-junmai-hiire-standard-v1": {
+      "status": "INACTIVE",
+      "batchId": "shelf-final-2026-10-22",
+      "checkedAt": "2026-10-22T04:20:12.644Z",
+      "reason": "vibrant黒麹純米とは別SKU。公式商品欄の無濾過原酒・火入れ選択肢を確認。公式の冷やは常温として扱う。",
+      "relatedCurrentProductId": "shirakiku-ginshari-tokubetsu-junmai-current-v1",
+      "notIdentityAlias": true
+    },
+    "kagura-junmai-daiginjo-shiro-muroka-mukasui-nama-v1": {
+      "status": "INACTIVE",
+      "batchId": "shelf-final-2026-10-22",
+      "checkedAt": "2026-10-22T04:20:12.644Z",
+      "reason": "白祝35%生の販売は確認できるが正式画像非提供。野条穂は別SKUとして別IDへ。",
+      "relatedCurrentProductId": null,
+      "notIdentityAlias": true
+    },
+    "kagura-junmai-daiginjo-shiro-muroka-mukasui-ichibi-v1": {
+      "status": "INACTIVE",
+      "batchId": "shelf-final-2026-10-22",
+      "checkedAt": "2026-10-22T04:20:12.644Z",
+      "reason": "白ラベルの祝35%純米大吟醸とは別SKU。公式お知らせで野条穂・無濾過無加水生を確認、味・温度・数値は当該販売店。",
+      "relatedCurrentProductId": "kagura-nojoho-junmai-ginjo-nama-current-v1",
+      "notIdentityAlias": true
+    },
+    "teishu-kanpaku-karakuchi-honjozo-v1": {
+      "status": "INACTIVE",
+      "batchId": "shelf-final-2026-10-22",
+      "checkedAt": "2026-10-22T04:20:12.644Z",
+      "reason": "単品の清酒販売候補なし。酒器・衣類等は除外。不存在の断定ではない。",
+      "relatedCurrentProductId": null,
+      "notIdentityAlias": true
+    },
+    "eikofuji-jungetsu-junmai-standard-v1": {
+      "status": "INACTIVE",
+      "batchId": "shelf-final-2026-10-22",
+      "checkedAt": "2026-10-22T04:20:12.644Z",
+      "reason": "純月とは別のつや姫50%生原酒。2026年9月出荷の商品欄を使用し、旧年度-4等の値や個人レビューを混在させない。",
+      "relatedCurrentProductId": "eikofuji-hinowa-muroka-nama-2026-current-v1",
+      "notIdentityAlias": true
     }
   },
   "policy": "Only explicitly reviewed lifecycle changes are applied. Stock loss and seasonal names never deactivate a product automatically."

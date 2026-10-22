@@ -1,0 +1,216 @@
+{
+  "checkedAt": "2026-10-22T04:32:14.880Z",
+  "rows": [
+    {
+      "sakeId": "shinshu-kirei-inakura-hitogokochi-junmai-ginjo-current-v1",
+      "normalUrl": "https://item.rakuten.co.jp/sake-ichibun/10007456/",
+      "itemCode": "sake-ichibun:10007314",
+      "checkedAt": "2026-10-22T04:31:50.690Z",
+      "retrieved": true,
+      "state": "purchase_enabled",
+      "purchasable": true,
+      "notStockGuarantee": true
+    },
+    {
+      "sakeId": "kameizumi-kouiku63-hiyaoroshi-current-v1",
+      "normalUrl": "https://item.rakuten.co.jp/kishuuitibanya/ns-225/",
+      "itemCode": "kishuuitibanya:10002419",
+      "checkedAt": "2026-10-22T04:31:51.717Z",
+      "retrieved": true,
+      "state": "purchase_enabled",
+      "purchasable": true,
+      "notStockGuarantee": true
+    },
+    {
+      "sakeId": "tokachi-tokubetsu-junmai-suisei-current-v1",
+      "normalUrl": "https://item.rakuten.co.jp/mighty-liquors/10005345/",
+      "itemCode": "mighty-liquors:10005345",
+      "checkedAt": "2026-10-22T04:31:52.893Z",
+      "retrieved": true,
+      "state": "purchase_enabled",
+      "purchasable": true,
+      "notStockGuarantee": true
+    },
+    {
+      "sakeId": "abe-silver-hiire-current-v1",
+      "normalUrl": "https://item.rakuten.co.jp/e-wine/dw196/",
+      "itemCode": "e-wine:10016114",
+      "checkedAt": "2026-10-22T04:31:54.135Z",
+      "retrieved": true,
+      "state": "purchase_enabled",
+      "purchasable": true,
+      "notStockGuarantee": true
+    },
+    {
+      "sakeId": "shichihonyari-muu-1800-current-v1",
+      "normalUrl": "https://item.rakuten.co.jp/hasegawasaketen/1003410/",
+      "itemCode": "hasegawasaketen:10007409",
+      "checkedAt": "2026-10-22T04:31:55.346Z",
+      "retrieved": true,
+      "state": "purchase_enabled",
+      "purchasable": true,
+      "notStockGuarantee": true
+    },
+    {
+      "sakeId": "haginotsuyu-amadare-tomizu-hiire-current-v1",
+      "normalUrl": "https://item.rakuten.co.jp/tokuriya/8848/",
+      "itemCode": "tokuriya:10000307",
+      "checkedAt": "2026-10-22T04:31:56.617Z",
+      "retrieved": true,
+      "state": "purchase_enabled",
+      "purchasable": true,
+      "notStockGuarantee": true
+    },
+    {
+      "sakeId": "hanaabi-gohyakumangoku-muroka-namagenshu-1800-current-v1",
+      "normalUrl": "https://item.rakuten.co.jp/mighty-liquors/sa103013/",
+      "itemCode": "mighty-liquors:10008396",
+      "checkedAt": "2026-10-22T04:31:57.765Z",
+      "retrieved": true,
+      "state": "purchase_enabled",
+      "purchasable": true,
+      "notStockGuarantee": true
+    },
+    {
+      "sakeId": "sara-junmai-ginjo-namazume-current-v1",
+      "normalUrl": "https://item.rakuten.co.jp/yamasake/5775/",
+      "itemCode": "yamasake:10008160",
+      "checkedAt": "2026-10-22T04:31:59.007Z",
+      "retrieved": true,
+      "state": "purchase_enabled",
+      "purchasable": true,
+      "notStockGuarantee": true
+    },
+    {
+      "sakeId": "mimurosugi-kioke-bodaimoto-jishaden-current-v1",
+      "normalUrl": "https://item.rakuten.co.jp/bisyugakou/ms010-n72/",
+      "itemCode": "bisyugakou:10000873",
+      "checkedAt": "2026-10-22T04:32:00.205Z",
+      "retrieved": true,
+      "state": "purchase_enabled",
+      "purchasable": true,
+      "notStockGuarantee": true
+    },
+    {
+      "sakeId": "tanaka65-hiire-1800-current-v1",
+      "normalUrl": "https://item.rakuten.co.jp/hasegawasaketen/1008344/",
+      "itemCode": "hasegawasaketen:10004947",
+      "checkedAt": "2026-10-22T04:32:01.395Z",
+      "retrieved": true,
+      "state": "purchase_enabled",
+      "purchasable": true,
+      "notStockGuarantee": true
+    },
+    {
+      "sakeId": "shirakiku-ginshari-tokubetsu-junmai-current-v1",
+      "normalUrl": "https://item.rakuten.co.jp/sakayainoue/4525892180129/",
+      "itemCode": "sakayainoue:10002324",
+      "checkedAt": "2026-10-22T04:32:02.710Z",
+      "retrieved": true,
+      "state": "purchase_enabled",
+      "purchasable": true,
+      "notStockGuarantee": true
+    },
+    {
+      "sakeId": "kagura-nojoho-junmai-ginjo-nama-current-v1",
+      "normalUrl": "https://item.rakuten.co.jp/hoshigulf/4530731780033/",
+      "itemCode": "hoshigulf:10004664",
+      "checkedAt": "2026-10-22T04:32:03.865Z",
+      "retrieved": true,
+      "state": "purchase_enabled",
+      "purchasable": true,
+      "notStockGuarantee": true
+    },
+    {
+      "sakeId": "eikofuji-hinowa-muroka-nama-2026-current-v1",
+      "normalUrl": "https://item.rakuten.co.jp/maruishi/10006801/",
+      "itemCode": "maruishi:10006801",
+      "checkedAt": "2026-10-22T04:32:05.119Z",
+      "retrieved": true,
+      "state": "purchase_enabled",
+      "purchasable": true,
+      "notStockGuarantee": true
+    },
+    {
+      "sakeId": "kurumazaka-yamahai-akiagari-2019by-current-v1",
+      "normalUrl": "https://item.rakuten.co.jp/kishuuitibanya/ns-604/",
+      "itemCode": "kishuuitibanya:10002432",
+      "checkedAt": "2026-10-22T04:32:06.653Z",
+      "retrieved": true,
+      "state": "purchase_enabled",
+      "purchasable": true,
+      "notStockGuarantee": true
+    },
+    {
+      "sakeId": "hatsumago-i9diua",
+      "normalUrl": "https://item.rakuten.co.jp/koshino-sakekura/ng-417/",
+      "itemCode": "koshino-sakekura:10001027",
+      "checkedAt": "2026-10-22T04:32:07.586Z",
+      "retrieved": true,
+      "state": "purchase_enabled",
+      "purchasable": true,
+      "notStockGuarantee": true
+    },
+    {
+      "sakeId": "nishinoseki-junmai-ginjo-bigin-v1",
+      "normalUrl": "https://item.rakuten.co.jp/kyushu-shouchu-club/nihonshu-037/",
+      "itemCode": "kyushu-shouchu-club:10001812",
+      "checkedAt": "2026-10-22T04:32:08.848Z",
+      "retrieved": true,
+      "state": "purchase_enabled",
+      "purchasable": true,
+      "notStockGuarantee": true
+    },
+    {
+      "sakeId": "akishika-yamahai-junmai-yamadanishiki-70-muroka-genshu-hiire-v1",
+      "normalUrl": "https://item.rakuten.co.jp/kimijimaya-online/1003174/",
+      "itemCode": "kimijimaya-online:10000262",
+      "checkedAt": "2026-10-22T04:32:09.956Z",
+      "retrieved": true,
+      "state": "purchase_enabled",
+      "purchasable": true,
+      "notStockGuarantee": true
+    },
+    {
+      "sakeId": "tabika-junmai-funashibori-ichikai-hiire-v1",
+      "normalUrl": "https://item.rakuten.co.jp/fukutaya/tabika-jyun720/",
+      "itemCode": "fukutaya:10013204",
+      "checkedAt": "2026-10-22T04:32:11.227Z",
+      "retrieved": true,
+      "state": "purchase_enabled",
+      "purchasable": true,
+      "notStockGuarantee": true
+    },
+    {
+      "sakeId": "wakaze-the-classic-yamagata-v1",
+      "normalUrl": "https://item.rakuten.co.jp/simazakiyaokamura/1109901/",
+      "itemCode": "simazakiyaokamura:10000639",
+      "checkedAt": "2026-10-22T04:32:12.384Z",
+      "retrieved": true,
+      "state": "purchase_enabled",
+      "purchasable": true,
+      "notStockGuarantee": true
+    },
+    {
+      "sakeId": "azumanofumoto-junmai-ginjo-yamagata-selection-v1",
+      "normalUrl": "https://item.rakuten.co.jp/yamagatamaru/1104-0021/",
+      "itemCode": "yamagatamaru:10000234",
+      "checkedAt": "2026-10-22T04:32:13.678Z",
+      "retrieved": true,
+      "state": "purchase_enabled",
+      "purchasable": true,
+      "notStockGuarantee": true
+    },
+    {
+      "sakeId": "kaiun-tokubetsu-junmai",
+      "normalUrl": "https://item.rakuten.co.jp/sanoyajizake/sake8016_720/",
+      "itemCode": "sanoyajizake:10005272",
+      "checkedAt": "2026-10-22T04:32:14.867Z",
+      "retrieved": true,
+      "state": "purchase_enabled",
+      "purchasable": true,
+      "notStockGuarantee": true
+    }
+  ],
+  "passed": true
+}

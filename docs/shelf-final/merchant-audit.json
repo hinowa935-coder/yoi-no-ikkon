@@ -1,0 +1,2368 @@
+{
+  "checkedAt": "2026-10-22T03:57:57.153Z",
+  "rows": [
+    {
+      "sakeId": "shinshu-kirei-junmai-ginjo",
+      "offers": [
+        {
+          "itemCode": "sake-ichibun:10007314",
+          "normalUrl": "https://item.rakuten.co.jp/sake-ichibun/10007456/",
+          "name": "信州亀齢 純米吟醸　ひとごこち　720ml上田・稲倉の棚田産 【2026年3月詰】",
+          "shopName": "ネットショップ いちぶん",
+          "shopCode": "sake-ichibun",
+          "apiAvailability": 1,
+          "kind": "unconfirmed",
+          "caption": "長野県産「ひとごこち」で仕込んだ純米吟醸酒。 爽やかな香り、軽快な口当たり、甘味酸味が絶妙に調和。　",
+          "checkedAt": "2026-10-22T03:55:48.991Z",
+          "origin": "current_api",
+          "retrieved": true,
+          "textHash": "e03019867b7e8d12f09a11e8b62fa01efd0831b798221d73035e333149732e6f",
+          "availability": {
+            "title": "【楽天市場】信州亀齢 純米吟醸　ひとごこち　720ml上田・稲倉の棚田産 【2026年3月詰】：ネットショップ　いちぶん",
+            "httpStatus": 200,
+            "sameDestination": true,
+            "itemId": "10007314",
+            "itemMatches": true,
+            "purchaseCondition": "enabled",
+            "stockCondition": null,
+            "soldOut": false,
+            "purchaseControls": true,
+            "purchasable": true,
+            "state": "purchase_enabled"
+          }
+        },
+        {
+          "itemCode": "ibaliquors:10000439",
+          "normalUrl": "https://item.rakuten.co.jp/ibaliquors/135/",
+          "name": "信州亀齢 純米吟醸 ひとごこち 上田・稲倉の棚田産 720ml",
+          "shopName": "アイビーエーリカーズ",
+          "shopCode": "ibaliquors",
+          "apiAvailability": 1,
+          "kind": "unconfirmed",
+          "caption": "",
+          "checkedAt": "2026-10-22T03:55:50.060Z",
+          "origin": "current_api",
+          "retrieved": true,
+          "textHash": "3653cb1c8ea567aa520d961213c11172c064743b8c8c47d69c5bb4ca14e1fc1e",
+          "availability": {
+            "title": "【楽天市場】信州亀齢 純米吟醸 ひとごこち 上田・稲倉の棚田産 720ml：アイビーエーリカーズ",
+            "httpStatus": 200,
+            "sameDestination": true,
+            "itemId": "10000439",
+            "itemMatches": true,
+            "purchaseCondition": "enabled",
+            "stockCondition": null,
+            "soldOut": false,
+            "purchaseControls": true,
+            "purchasable": true,
+            "state": "purchase_enabled"
+          }
+        }
+      ],
+      "official": [
+        {
+          "url": "https://shinshu-kirei.com/sake/",
+          "retrieved": true,
+          "checkedAt": "2026-10-22T03:55:51.322Z",
+          "textHash": "cc00cf6c6c16765919662b838b16746ed787918bb1c2f63ee3926097974bb2ec"
+        }
+      ]
+    },
+    {
+      "sakeId": "kaiun-tokubetsu-junmai",
+      "offers": [
+        {
+          "itemCode": "kyoto-sake-2940:10000808",
+          "normalUrl": "https://item.rakuten.co.jp/kyoto-sake-2940/kaiun-tj-720/",
+          "name": "開運 特別純米 720ml 静岡 土井酒造場",
+          "shopName": "京都のさか屋ふくしま",
+          "shopCode": "kyoto-sake-2940",
+          "apiAvailability": 1,
+          "kind": "unconfirmed",
+          "caption": "開運 特別純米 兵庫県特A地区産の山田錦を55％まで 磨き上げた特別純米酒。 純米らしいコクと、 スッキリとキレのよい後口。 バランスの良いお酒です。 原材料米・米麹 原料米　山田錦 精米歩合　55％ アルコール度数　16度 使用酵母静岡酵母",
+          "checkedAt": "2026-10-22T03:55:52.531Z",
+          "origin": "current_api",
+          "retrieved": true,
+          "textHash": "7cd8a28f610d0feee598c970fef9c0c7f182b147a5c73df9fc990770cb2beef9",
+          "availability": {
+            "title": "【楽天市場】開運 特別純米 720ml 静岡 土井酒造場：京都のさか屋ふくしま",
+            "httpStatus": 200,
+            "sameDestination": true,
+            "itemId": "10000808",
+            "itemMatches": true,
+            "purchaseCondition": "enabled",
+            "stockCondition": null,
+            "soldOut": false,
+            "purchaseControls": true,
+            "purchasable": true,
+            "state": "purchase_enabled"
+          }
+        },
+        {
+          "itemCode": "hanatareya:10000486",
+          "normalUrl": "https://item.rakuten.co.jp/hanatareya/4103500/",
+          "name": "開運 特別純米酒 祝酒 1800ML 特製巻紙付 (地酒 日本酒 ギフト プレゼント ランキング 通販 専門店 ラッピング 人気 誕生日 内祝い 退職祝い 上司 お父さん お礼 お祝い グルメ お土産 男性 女性 お返し 退職祝い レア 男性 手土産 ご挨拶 お歳暮 お年賀 初盆 お盆 新酒)",
+          "shopName": "美酒蔵 はなたれ屋",
+          "shopCode": "hanatareya",
+          "apiAvailability": 1,
+          "kind": "unconfirmed",
+          "caption": "商品概要 商品名 開運 特別純米酒 祝酒 蔵元名 土井酒造場（静岡県掛川市） 種類 特別純米酒 容量 1800ML アルコール度数 15 原料米 山田錦 精米歩合 55％ 特徴 やや淡麗辛口 米の旨味も楽しめる！気軽に料理にも合わせれる！ コストパフォーマンスの高い辛口特別純米酒 包装・のし 無料：ギフト包装・のし掛け・メッセージカード可 発送方法 常温便（夏季はクール便推奨） 保存方法 冷蔵庫または納戸等冷暗所 特記事項 開封後はお早目にお召し上がりください 米の旨味も楽しめる！気軽に料理にも合わせれる！ コストパフォーマンスの高い辛口特別純米酒 ◇◇　蔵元説明　◇　商品説明　◇◇ ○ 土井酒造場　【静岡県】　 創業明治5年。 「蔵伝統の技で真摯に醸し出す。」 をモットーに、能登杜氏が伝統の職人気質で美し酒を造り出しています。 自家精米にもこだわり、静岡酵母を使用し、じっくりと時間をかけ、お酒と真摯に向き合われています。 その実力は自他共に認められており、全国新酒鑑評会で7年連続金賞受賞の偉業を達成されました。 　 ※平成15〜21、28〜30年度全国新酒鑑評会金賞受賞蔵 ●開運 特別純米酒 祝酒 やや淡麗辛口 「どんなシーンでもオールマイティに楽しめる純米酒を造りたい！」 という想いから、原料にもとことんこだわって造られました。 なんと原料米は、兵庫県産特A地区山田錦を使用した贅沢な特別純米酒です。 封を開けると、穏やかな米の香りが漂ってきます。 口に含むと、柔らかなタッチですが、口の奥に行くにつれ、米の旨みが拡がり、辛口の旨味を楽しむことが出来ます。切れ味も良く、旨い辛口のお酒を味わえた喜びに浸ることが出来ます。 冷やして、または常温で、魚料理、和風味付けの肉料理に気軽にあわせてお召し上がりください。燗をつける場合は、ぬる燗程度がおすすめです。 食前から食後まで楽しめる重宝するお酒です。 アルコール 精米歩合 原料米 15 55% 山田錦 様々なイベントでご利用いただだけます。 1月 お正月 お年賀 年始のご挨拶 成人式 おせち 元旦 元日 2月 節分 バレンタイン 3月 ホワイトデー ホワイトデーのお返し 卒園 卒業 お花見 4月 入園 入学 入社 就職祝い お花見 5月 子供の日 母の日 ゴールデンウィーク 6月 父の日 梅雨 7月 夏休み お中元 御中元 暑中見舞い 暑中お見舞い オリンピック 8月 お中元 御中元 お供え 御供 初盆 お盆 残暑見舞い 残暑お見舞い 9月 敬老の日 10月 体育の日 ハロウィン 11月 紅葉 紅葉狩り 七五三 ボジョレーヌーボー 新酒 新焼酎 12月 クリスマス 冬ギフト お歳暮 御歳暮 年末年始 その他おすすめご用途 誕生日 誕生日祝い お返し 内祝い 内祝 お礼 御礼 お祝い 御祝 ギフト プチギフト ギフトセット プレゼント ラッピング 還暦 還暦祝い 古希 古稀 古希祝い 古稀祝い 喜寿 喜寿祝い 傘寿 傘寿祝い 米寿 米寿祝い 白寿 白寿祝い 退職 退職祝い 定年 出産 出産祝い 引越し 引っ越し祝い 引越祝い 新築 新築祝い 新居 上棟 快気祝い 快気祝 快気内祝い お見舞い 記念日 人気 ランキング 金婚式 銀婚式 お土産 転職祝い ご仏前 御仏前 弔事 志 お供え 御霊前 ご霊前 仏式 神式 贈答品 母親 父親 女性 男性 両親 彼氏 彼女 恋人 結婚祝い 結婚式 パーティー 贈り物 挨拶 手土産 贈り物 喜ばれる お取り寄せグルメ お取り寄せ おもたせ お持たせ 幻の酒 宴会 景品 忘年会 差し入れ&nbsp; &nbsp; &nbsp; &nbsp;",
+          "checkedAt": "2026-10-22T03:55:54.126Z",
+          "origin": "current_api",
+          "retrieved": true,
+          "textHash": "1791f5c0af63b1f12ab71b59d533b1a049d5cc81a4459f29c3c1673cdc9743af",
+          "availability": {
+            "title": "【楽天市場】開運 特別純米酒 祝酒 1800ML 特製巻紙付 (地酒 日本酒 ギフト プレゼント ランキング 通販 専門店 ラッピング 人気 誕生日 内祝い 退職祝い 上司 お父さん お礼 お祝い グルメ お土産 男性 女性 お返し 退職祝い レア 男性 手土産 ご挨拶 お歳暮 お年賀 初盆 お盆 新酒)：美酒蔵 はなたれ屋",
+            "httpStatus": 200,
+            "sameDestination": true,
+            "itemId": "10000486",
+            "itemMatches": true,
+            "purchaseCondition": "enabled",
+            "stockCondition": null,
+            "soldOut": false,
+            "purchaseControls": true,
+            "purchasable": true,
+            "state": "purchase_enabled"
+          }
+        },
+        {
+          "itemCode": "auc-yumeikan:10001623",
+          "normalUrl": "https://item.rakuten.co.jp/auc-yumeikan/2216/",
+          "name": "開運(かいうん) 祝酒 特別純米 1800ml 【土井酒造場】【静岡県】",
+          "shopName": "こだわりの酒屋遊銘館",
+          "shopCode": "auc-yumeikan",
+          "apiAvailability": 1,
+          "kind": "unconfirmed",
+          "caption": "内容量・アルコール度数1800ml・15度 1ケース入数 6本 呑み方 冷やから燗までお好みで 保存方法 光と高温を避けて 原材料 米（国産）・米麹（国産米） 原料米 山田錦 精米歩合 55％ 日本酒度 +5　◆◇　Guide　◇◆ パッと見でおめでたいラベルが印象的。 「縁起清酒」と書かれた静岡の開運特別純米酒 ラベルだけではなくもちろん中身も酒米の王者「山田錦」をなんと55％まで精米した手抜き一切抜きのハイスペック仕様 静岡の「開運」の実力を是非お楽しみ下さい。 厚みのある綺麗な甘味とキレの良さがあり冷やでも燗でも抜群に旨いです。",
+          "checkedAt": "2026-10-22T03:55:55.108Z",
+          "origin": "current_api",
+          "retrieved": true,
+          "textHash": "e41d87c6025a1dd95506c55d3b8f014184a3f9ac5beeca87aa59908a84e00622",
+          "availability": {
+            "title": "【楽天市場】開運(かいうん) 祝酒 特別純米 1800ml 【土井酒造場】【静岡県】：こだわりの酒屋遊銘館",
+            "httpStatus": 200,
+            "sameDestination": true,
+            "itemId": "10001623",
+            "itemMatches": true,
+            "purchaseCondition": "enabled",
+            "stockCondition": null,
+            "soldOut": false,
+            "purchaseControls": true,
+            "purchasable": true,
+            "state": "purchase_enabled"
+          }
+        }
+      ],
+      "official": [
+        {
+          "url": "https://kaiunsake.com/item/3446.html",
+          "retrieved": true,
+          "checkedAt": "2026-10-22T03:55:56.627Z",
+          "textHash": "8b0ef67b46cbaad7a4de2f4fe87a4274059b76cf6f845764756d365aa69a63bf"
+        }
+      ]
+    },
+    {
+      "sakeId": "kameizumi-cel24",
+      "offers": [
+        {
+          "itemCode": "liquor-boss:10026645",
+          "normalUrl": "https://item.rakuten.co.jp/liquor-boss/30806b/",
+          "name": "【クール便】亀泉 純米吟醸原酒 高育63号 ひやおろし 720ml 1本【ご注文は12本まで同梱可能】日本酒 酒 清酒 高知県",
+          "shopName": "リカーBOSS 楽天市場店",
+          "shopCode": "liquor-boss",
+          "apiAvailability": 1,
+          "kind": "unconfirmed",
+          "caption": "高知土佐ならではの酒にこだわる蔵元の、秋の純米吟醸原酒。 高知県開発の酒造好適米《高育63号（風鳴子）》と「高知酵母AA-41」を 使い醸されました。バナナやメロンを思わせるフルーティな香りと、 透明感がありみずみずしさが広がる、すっきりとした辛口の味わいが魅力です。 秋の味覚と合わせてどうぞ。 　銘柄　　　　　　　　　　　亀泉 純米吟醸原酒 高育63号 ひやおろし 720ml 　種類　　　　　　　　　　　純米吟醸原酒 　アルコール　　　　　　　　16.5度 　原材料　　　　　　　　　　風鳴子(高知県産) 　精米歩合　　　　　　　　　55% 　日本酒度　　　　　　　　　+3 　保存方法　　　　　　　　　要冷蔵 　おすすめの飲み方　　　　　冷酒 季節・数量限定商品となりますので製造元での生産が追い付かず入荷が困難になった際、大変恐縮ではありますがキャンセルをさせていただく場合がございます。ご了承いただけますよう、よろしくお願いいたします。 日本酒 酒 アルコール 純米酒 純米吟醸 純米大吟醸 特別純米 原酒 日本 ジャパン ジャパニーズ Japan Japanese 期間限定 季節限定 数量限定 ひやおろし 冷酒 熱燗 ロック 米 酵母 プレゼント ギフト お礼 御礼 お土産 手土産 お祝い 御祝 結婚祝 引き出物 内祝 結婚内祝 婚約 出産祝 出産内祝 快気祝 快気内祝 進学祝 就職祝 就任祝 退職祝 成人祝 贈答品 母の日 父の日 バレンタインデー ホワイトデー クリスマス 誕生日 お盆 お正月 お中元 御中元 お歳暮 御歳暮 お年賀 御年賀 年末年始 ウェディング 花見 お花見 御花見 パーティー ホームパーティー 贈り物 日本名門酒会",
+          "checkedAt": "2026-10-22T03:55:57.494Z",
+          "origin": "previous_evidence",
+          "retrieved": true,
+          "textHash": "cb221717cd03a0b0141db140a64d9ec52435910a7960ba688deecb3537661e9f",
+          "availability": {
+            "title": "【楽天市場】【クール便】亀泉 純米吟醸原酒 高育63号 ひやおろし 720ml 1本【ご注文は12本まで同梱可能】日本酒 酒 清酒 高知県：リカーBOSS 楽天市場店",
+            "httpStatus": 200,
+            "sameDestination": true,
+            "itemId": "10026645",
+            "itemMatches": true,
+            "purchaseCondition": "enabled",
+            "stockCondition": null,
+            "soldOut": false,
+            "purchaseControls": true,
+            "purchasable": true,
+            "state": "purchase_enabled"
+          }
+        },
+        {
+          "itemCode": "kishuuitibanya:10002419",
+          "normalUrl": "https://item.rakuten.co.jp/kishuuitibanya/ns-225/",
+          "name": "亀泉 ひやおろし 純米吟醸 原酒 高育63号 720ml 2026年 ひやおろし 日本酒 純米吟醸 原酒 亀泉酒造 高知県 土佐 地酒 秋酒 冷おろし 冷卸",
+          "shopName": "紀州いちばん屋楽天市場店",
+          "shopCode": "kishuuitibanya",
+          "apiAvailability": 1,
+          "kind": "unconfirmed",
+          "caption": "※こちらの商品は常温便での配送となります。商品ご到着後の保管につきましては冷蔵庫での保管をおすすめ致します。冷蔵便ご希望の場合は、冷蔵便をご指定下さい。 ご一緒にご注文いただいている商品に要冷蔵商品を含む場合は、ご注文確認後、クール便（チルド便）料金をご注文確認後に加算させていただきます。 内容量 720ml アルコール分 16.5度 原料米 風鳴子（高知） 日本酒度 ＋5 製造元 亀泉酒造(株)　/　高知県 保存方法 冷蔵庫での保管をおすすめ致します。 商品説明 フルーティな香りとふくらみある旨味、みずみずしくキレある土佐の秋の純米吟醸原酒。 ひと夏の熟成により、軽快な旨みの中に奥行きが感じられます。 高知県産米「風鳴子（高育63号）を100％使用。 バナナやメロンのような甘い香りとふくらみのある旨み、そしてシャープなキレのある純米吟醸原酒。",
+          "checkedAt": "2026-10-22T03:55:58.558Z",
+          "origin": "previous_evidence",
+          "retrieved": true,
+          "textHash": "d8754d7603dc29431a9832f4d06074de497507c1e1ea890bedb8f614b2bef501",
+          "availability": {
+            "title": "【楽天市場】亀泉 ひやおろし 純米吟醸 原酒 高育63号 720ml 2026年 ひやおろし 日本酒 純米吟醸 原酒 亀泉酒造 高知県 土佐 地酒 秋酒 冷おろし 冷卸：紀州いちばん屋楽天市場店",
+            "httpStatus": 200,
+            "sameDestination": true,
+            "itemId": "10002419",
+            "itemMatches": true,
+            "purchaseCondition": "enabled",
+            "stockCondition": null,
+            "soldOut": false,
+            "purchaseControls": true,
+            "purchasable": true,
+            "state": "purchase_enabled"
+          }
+        },
+        {
+          "itemCode": "sake-akiyama:10000692",
+          "normalUrl": "https://item.rakuten.co.jp/sake-akiyama/kameizumi_jg_cel24_nude/",
+          "name": "【日本酒】 亀泉　純米吟醸　CEL-24　生　1800ml　【予約販売】11月下旬再入荷予定",
+          "shopName": "酒の秋山 楽天市場店",
+          "shopCode": "sake-akiyama",
+          "apiAvailability": 1,
+          "kind": "unconfirmed",
+          "caption": "蔵元コメント 広島県産米の八反錦50％を使用 一番の注目は高知県工業技術センターで開発された酵母 CEL-24使用という所でしょう この酵母はCEL-19の弟分にあたり 非常に香りが高くまた酸味もあり、甘酸っぱい味で 香りに関しては兄貴の倍ぐらいあります アルコール13〜14％（原酒） 日本酒度が約-10〜ー11度と甘口です これはこの酵母の特長でこれ以上は発酵していきません そういう性質の酵母みたいです 飲み方は、キンキンに冷やして、また氷を入れて冷酒で 常温だと甘ったるくなるのでお薦めできません 余り日本酒が得意ではない人や女性にピッタリだと思います 店主コメント 亀泉の名物酒　女性に大変人気です この上無い香りの高さと軽い後味 デリシャスリンゴのような爽やかな甘味 ぜひ冷やで香りを楽しんでください 　 商品名 　 亀泉　純米吟醸　CEL-24　生 　 販売時期 　 通年 　 タイプ 　 ライト 　 香り ◎ 　 コク ○ 　 キレ 　 おすすめ 　 温度帯 　 冷酒 ○ 　 常温 　 燗酒 　 原料米 　 八反錦 　 精米歩合 　 50% 　 アルコール 　 度数 　 14度 　 酵母 　 CEL-24 　 日本酒度 　 -19 　 酸度 　 2.1 　 保存方法 　 要冷蔵 　 蔵元名 　 亀泉酒造 　 蔵元所在地 　 高知県土佐市 スペック更新日　2019.6.27",
+          "checkedAt": "2026-10-22T03:55:59.827Z",
+          "origin": "previous_evidence",
+          "retrieved": true,
+          "textHash": "979bb41ee6733bcec2559abc9bdb9210633403c70c0e7c25d51c482bce0e5ff8",
+          "availability": {
+            "title": "【楽天市場】【日本酒】 亀泉　純米吟醸　CEL-24　生　1800ml　【予約販売】11月下旬再入荷予定：酒の秋山　楽天市場店",
+            "httpStatus": 200,
+            "sameDestination": true,
+            "itemId": "10000692",
+            "itemMatches": true,
+            "purchaseCondition": "enabled",
+            "stockCondition": null,
+            "soldOut": false,
+            "purchaseControls": true,
+            "purchasable": true,
+            "state": "purchase_enabled"
+          }
+        },
+        {
+          "itemCode": "chokuhan:10031895",
+          "normalUrl": "https://item.rakuten.co.jp/chokuhan/sake-kame003/",
+          "name": "亀泉 純米大吟醸 貴賓 火入れ 720ml 亀泉酒造土佐市 日本酒 清酒 酒 淡麗辛口 4合瓶 ギフト プレゼント お中元 お祝い お返し ご自宅用 20歳未満の方はお買い物できません【Cool delivery】",
+          "shopName": "アグリファーム高知",
+          "shopCode": "chokuhan",
+          "apiAvailability": 1,
+          "kind": "unconfirmed",
+          "caption": "その名のとおり、気品溢れる味わい。 山田錦を40％まで精米し、丹念に造りあげています。 華やかでありながら上品な落ち着いた感じです。 決して、薄いとかのっぺらしているとかではなく、 しっかりと、味はのっています。 喉越しも滑らかに、さらっと落ちていくキレの良い酒。 亀泉酒造が自信をもってお届けする酒です。 純米大吟醸 （データは2009年6月現在出荷分） 内容量 720mL アルコール度数 16〜17度 日本酒度/酸度 +5〜6/1．0〜1．5 原材料名 主原料：米(兵庫・山田錦・精米歩合40％)・米麹 蔵元 亀泉酒造 保存方法 冷暗所で保管。開封後はお早めに。 このお酒に特におすすめの酒肴 　 土佐のうまさかなセット（送料無料） お酒は20歳になってから！ 20歳未満の方の飲酒は法律で禁止されています。",
+          "checkedAt": "2026-10-22T03:56:01.078Z",
+          "origin": "previous_evidence",
+          "retrieved": true,
+          "textHash": "ca3164c01548896a30bc6e066463ac1f11b135f5539f93fb0c38f0923ea03327",
+          "availability": {
+            "title": "",
+            "httpStatus": 200,
+            "sameDestination": true,
+            "itemId": "10031895",
+            "itemMatches": true,
+            "purchaseCondition": "enabled",
+            "stockCondition": null,
+            "soldOut": false,
+            "purchaseControls": true,
+            "purchasable": true,
+            "state": "purchase_enabled"
+          }
+        }
+      ],
+      "official": [
+        {
+          "url": "https://www.kameizumi.co.jp/product/",
+          "retrieved": true,
+          "checkedAt": "2026-10-22T03:56:02.090Z",
+          "textHash": "5ed718add3748398ba1239447b29ff8274cd0fdfdca7a8bc57ef4570fa9ca200"
+        }
+      ]
+    },
+    {
+      "sakeId": "kamikawa-taisetsu-junmai",
+      "offers": [
+        {
+          "itemCode": "mighty-liquors:10005345",
+          "normalUrl": "https://item.rakuten.co.jp/mighty-liquors/10005345/",
+          "name": "上川大雪 十勝 特別純米 彗星 720ml 日本酒 秋 ハロウィン 秋の味覚 手土産 贈り物 プレゼント あす楽 ギフト のし 贈答品 お祝 御祝 誕生日 内祝 還暦祝い 結婚祝い 出産祝い お酒 就職祝",
+          "shopName": "日本酒・焼酎 マイティ・リカーズ",
+          "shopCode": "mighty-liquors",
+          "apiAvailability": 1,
+          "kind": "unconfirmed",
+          "caption": "商品詳細 原材料 米、米麹 度数 16度 サイズ 720ml 備考 ・日本酒 ギフト お歳暮 御歳暮 お中元 御中元　プレゼント記念日 開店祝い 開店祝 贈答品 贈りもの 父の日 母の日 退職 還暦 誕生日 純米 じゅんまい 純米酒 特純 特別純米 純米吟醸 純吟 純大 純米大吟醸 本醸造 大吟醸 【保管方法】直射日光・高温多湿を避け、冷暗所または冷蔵庫で保管してください（冷蔵保管を推奨しております）。【クール便(+350円)をご希望のお客様へ】・クール便代350円(税込)は、ご注文時の合計金額には含まれておりません。・ご注文後、当店で送料に350円を加算し、確定金額をメールでお知らせいたします。・銀行振込・コンビニ払いなど前払いのお客様には、はじめから350円を含んだ　お支払い金額をご案内いたします。お支払いは一度だけです。・複数の商品をご注文の場合、1つでも「クール便」をお選びいただければ、ご注文全体を　クール便でお届けします。クール便代は何点ご注文でも350円のみです。　",
+          "checkedAt": "2026-10-22T03:56:03.374Z",
+          "origin": "previous_evidence",
+          "retrieved": true,
+          "textHash": "6e85e471cd6047260f2289fc098cfcd99afaae8870592ddbc22b1eecd5ad1297",
+          "availability": {
+            "title": "【楽天市場】上川大雪 十勝 特別純米 彗星 720ml 日本酒 秋 ハロウィン 秋の味覚 手土産 贈り物 プレゼント あす楽 ギフト のし 贈答品 お祝 御祝 誕生日 内祝 還暦祝い 結婚祝い 出産祝い お酒 就職祝：日本酒・焼酎　マイティ・リカーズ",
+            "httpStatus": 200,
+            "sameDestination": true,
+            "itemId": "10005345",
+            "itemMatches": true,
+            "purchaseCondition": "enabled",
+            "stockCondition": null,
+            "soldOut": false,
+            "purchaseControls": true,
+            "purchasable": true,
+            "state": "purchase_enabled"
+          }
+        },
+        {
+          "itemCode": "mighty-liquors:10005081",
+          "normalUrl": "https://item.rakuten.co.jp/mighty-liquors/10005081/",
+          "name": "上川大雪 十勝 純米 1800ml 日本酒 秋 ハロウィン 秋の味覚 手土産 贈り物 プレゼント あす楽 ギフト のし 贈答品 お祝 御祝 誕生日 内祝 還暦祝い 結婚祝い 出産祝い お酒 就職祝 退職祝",
+          "shopName": "日本酒・焼酎 マイティ・リカーズ",
+          "shopCode": "mighty-liquors",
+          "apiAvailability": 1,
+          "kind": "unconfirmed",
+          "caption": "商品詳細 原材料 米、米麹 度数 15度 サイズ 1800ml 備考 日本酒 ギフト お歳暮 御歳暮 お中元 御中元　プレゼント記念日 開店祝い 開店祝 贈答品 贈りもの 父の日 母の日 退職 還暦 誕生日 純米 じゅんまい 純米酒 特純 特別純米 純米吟醸 純吟 純大 純米大吟醸 本醸造 大吟醸 【保管方法】直射日光・高温多湿を避け、冷暗所または冷蔵庫で保管してください（冷蔵保管を推奨しております）。【クール便(+350円)をご希望のお客様へ】・クール便代350円(税込)は、ご注文時の合計金額には含まれておりません。・ご注文後、当店で送料に350円を加算し、確定金額をメールでお知らせいたします。・銀行振込・コンビニ払いなど前払いのお客様には、はじめから350円を含んだ　お支払い金額をご案内いたします。お支払いは一度だけです。・複数の商品をご注文の場合、1つでも「クール便」をお選びいただければ、ご注文全体を　クール便でお届けします。クール便代は何点ご注文でも350円のみです。　",
+          "checkedAt": "2026-10-22T03:56:04.555Z",
+          "origin": "previous_evidence",
+          "retrieved": true,
+          "textHash": "a7206d8c504ab7ded0f53362327e7801aa64023910b6ae408e63551db4346137",
+          "availability": {
+            "title": "【楽天市場】上川大雪 十勝 純米 1800ml 日本酒 秋 ハロウィン 秋の味覚 手土産 贈り物 プレゼント あす楽 ギフト のし 贈答品 お祝 御祝 誕生日 内祝 還暦祝い 結婚祝い 出産祝い お酒 就職祝 退職祝：日本酒・焼酎　マイティ・リカーズ",
+            "httpStatus": 200,
+            "sameDestination": true,
+            "itemId": "10005081",
+            "itemMatches": true,
+            "purchaseCondition": "enabled",
+            "stockCondition": null,
+            "soldOut": false,
+            "purchaseControls": true,
+            "purchasable": true,
+            "state": "purchase_enabled"
+          }
+        }
+      ],
+      "official": [
+        {
+          "url": "https://kamikawa-taisetsu.co.jp/company/",
+          "retrieved": true,
+          "checkedAt": "2026-10-22T03:56:06.309Z",
+          "textHash": "bb4bbfc7eade6a4fe3413b483d5482212a38284639dffad0b13928fb9b6c8d68"
+        }
+      ]
+    },
+    {
+      "sakeId": "hatsumago-i9diua",
+      "offers": [
+        {
+          "itemCode": "koshino-sakekura:10001027",
+          "normalUrl": "https://item.rakuten.co.jp/koshino-sakekura/ng-417/",
+          "name": "初孫 純米大吟醸 光輝2236 720ml【東北銘醸】山形県 酒田市 日本酒 清酒＜2026年4月製造商品です＞",
+          "shopName": "越乃酒蔵",
+          "shopCode": "koshino-sakekura",
+          "apiAvailability": 1,
+          "kind": "unconfirmed",
+          "caption": "【数量限定】 ロンドンで開催されるWC（インターナショナルワインチャレンジ2023）SAKE部門にて、純米大吟醸部門で見事金賞を受賞した銘柄です。酒田の北にそびえる鳥海山（山頂2236）、鳥海山系の自然の恵みを生かした生酛造り初孫。光り輝くような華やかな香りときれいで透き通った旨さスッキリの雄町純米大吟醸です。 商品情報 製造元・商品名 東北銘醸　初孫 純米大吟醸 光輝2236 内容量 720ml 原材料 米、米麹 保存方法 高温を避け、冷暗所にて保存してください。 商品スペック 精米歩合 50％ アルコール度数16度 ※表示の数値・原料米は多少変動及び変更する場合がございます。 ご注意 開栓後はお早めにお召し上がりください。",
+          "checkedAt": "2026-10-22T03:56:06.973Z",
+          "origin": "current_api",
+          "retrieved": true,
+          "textHash": "9f5cf8617127dae9f4b35fe173f091116efd79f3d48dab7365ceda62838d0e78",
+          "availability": {
+            "title": "【楽天市場】初孫 純米大吟醸 光輝2236 720ml【東北銘醸】山形県 酒田市  日本酒 清酒＜2026年4月製造商品です＞：越乃酒蔵",
+            "httpStatus": 200,
+            "sameDestination": true,
+            "itemId": "10001027",
+            "itemMatches": true,
+            "purchaseCondition": "enabled",
+            "stockCondition": null,
+            "soldOut": false,
+            "purchaseControls": true,
+            "purchasable": true,
+            "state": "purchase_enabled"
+          }
+        },
+        {
+          "itemCode": "tsutsu-uraura:10010577",
+          "normalUrl": "https://item.rakuten.co.jp/tsutsu-uraura/hatsumago-makiri720-f/",
+          "name": "《送料無料》東北銘醸 初孫 純米本辛口 魔斬 720ml",
+          "shopName": "にっぽん津々浦々",
+          "shopCode": "tsutsu-uraura",
+          "apiAvailability": 1,
+          "kind": "unconfirmed",
+          "caption": "　 生もとだから出来た本物の辛口 魔斬（まきり）とは、酒田に伝わる、主に漁師などが使う切れ味の鋭い小刀です。魔を斬ることから、魔除けの縁起物とされています。生もとの発酵技術を駆使した本物の辛口純米酒です。生もとは、現存する酒造りの技法の中でもっとも伝統的な造り方で、空気中の乳酸菌を活用した天然の酵母育成法です。 純米の旨みとコクを生かし、より深みのある味と、くどくないすっきりとした味わいの辛口酒です。冷やすとスッキリとしたシャープなキレが味わえ、ぬる燗にするとなめらかな旨さが冴えます。寿司、刺身との相性が抜群です。 縁起物なのでプレゼントにもおススメです。 ※画像はイメージです 原材料名 米（国産）、米麹（国産米） アルコール分 16度 内容量 720ml 日本酒度 +8.0 酸度 1.5 精米歩合 55％ 味わい 辛口 保存方法 直射日光を避け、冷暗所で保管してください。 製造者 東北銘醸　株式会社 &#9654; この商品のお買い得なセットはこちらから &#9654; その他辛口の日本酒はこちらから &#9654; 東北銘醸のその他の商品はこちらから 関連商品はこちら！東北銘醸 初孫 純米本辛口 魔斬 720ml2,148円東北銘醸 初孫 純米本辛口 魔斬 720ml 4,050円東北銘醸 初孫 純米本辛口 魔斬 1800ml3,698円こちらも一緒に購入されています！ギフト包装チケット330円紙包装 + のし掛けチケット660円寺田本家 五人娘 720ml1,898円",
+          "checkedAt": "2026-10-22T03:56:08.191Z",
+          "origin": "previous_evidence",
+          "retrieved": true,
+          "textHash": "98fffeedadad935fabf300594f5fe1c5c6b44a62f0f7629b860a3e3942ecbea9",
+          "availability": {
+            "title": "【楽天市場】【マラソン限定クーポン配布中】《送料無料》東北銘醸 初孫 純米本辛口 魔斬 720ml：にっぽん津々浦々",
+            "httpStatus": 200,
+            "sameDestination": true,
+            "itemId": "10010577",
+            "itemMatches": true,
+            "purchaseCondition": "enabled",
+            "stockCondition": null,
+            "soldOut": false,
+            "purchaseControls": true,
+            "purchasable": true,
+            "state": "purchase_enabled"
+          }
+        }
+      ],
+      "official": [
+        {
+          "url": "https://www.hatsumago.co.jp/company/",
+          "retrieved": false,
+          "checkedAt": "2026-10-22T03:56:09.283Z",
+          "textHash": "013a3b8edf997d07306b9808db23211a7cf8598ff2ea80c18e05647bd9933afb"
+        }
+      ]
+    },
+    {
+      "sakeId": "abe-k34lzz",
+      "offers": [
+        {
+          "itemCode": "e-wine:10016114",
+          "normalUrl": "https://item.rakuten.co.jp/e-wine/dw196/",
+          "name": "あべ　シルバー　火入 [720ml] [阿部酒造] [新潟]",
+          "shopName": "e−Wine",
+          "shopCode": "e-wine",
+          "apiAvailability": 1,
+          "kind": "unconfirmed",
+          "caption": "商品管理番号：dw196 ほどよい酸味と、やさしいうまみが心地よい一本。 軽やかで飲みやすく、料理と一緒に楽しむとついグラスが進みます。 [新潟県]阿部酒造 原材料名：米（新潟県産）・米こうじ（新潟県産米） 精米歩合：60％ アルコール分：13度 要冷蔵 クール便を推奨致します ※実店舗と在庫を共有しているため、在庫切れの場合は何卒ご了承くださいませ。 詳しくはこちら＞＞＞",
+          "checkedAt": "2026-10-22T03:56:10.604Z",
+          "origin": "previous_evidence",
+          "retrieved": true,
+          "textHash": "f114917063698793ac6c0eb2e67ff4af6d323fc61ae1bfd249e4b45d580c147d",
+          "availability": {
+            "title": "【楽天市場】あべ　シルバー　火入 [720ml] [阿部酒造] [新潟]：ｅ−Ｗｉｎｅ",
+            "httpStatus": 200,
+            "sameDestination": true,
+            "itemId": "10016114",
+            "itemMatches": true,
+            "purchaseCondition": "enabled",
+            "stockCondition": null,
+            "soldOut": false,
+            "purchaseControls": true,
+            "purchasable": true,
+            "state": "purchase_enabled"
+          }
+        },
+        {
+          "itemCode": "auc-chitashige:10006533",
+          "normalUrl": "https://item.rakuten.co.jp/auc-chitashige/31091703/",
+          "name": "あべ　生もと純米　赤田　2025年　720ml【新潟県柏崎市　阿部酒造】",
+          "shopName": "酒専門店 知多繁 楽天市場店",
+          "shopCode": "auc-chitashige",
+          "apiAvailability": 1,
+          "kind": "unconfirmed",
+          "caption": "　■　商品説明　■ 新潟県柏崎市　阿部酒造 あべの田んぼ別のお酒。ワイン的に言うとシングルヴィンヤードでしょうか。 赤田は柏崎の隣の刈羽村の里地域の田んぼです。 お米の品種は越淡麗です。 この土地にあう品種を農家さんと一緒に考えたどり着いたのが越淡麗でした。 五百万石と山田錦の掛け合わせで、山田錦に負けない、心白と精米耐性そして味乗り具合が特徴の酒米です。 あべシリーズが人気ですが、柏崎の米作農家さんとともに生きる阿部酒造を理解するにはお米この田んぼシリーズが必要不可欠なのです。 この地域の風景・文化を守ることがテーマの阿部酒造、圃場別シリーズは売上の一部をより来年の米作りに活かすべく、圃場整備に充てています。 画像のヴィンテージと実物が変わる場合がございます。商品代金の合計が税別16667円以上で送料無料！ ただし1.8L　6本のご注文は税別16667円以下でも送料無料です。",
+          "checkedAt": "2026-10-22T03:56:11.884Z",
+          "origin": "current_api",
+          "retrieved": true,
+          "textHash": "d7e782669ae2c2f14d9ebd405ea280ce0ad6aa0e26e5363da3d44297d4e6323a",
+          "availability": {
+            "title": "【楽天市場】あべ　生もと純米　赤田　2025年　720ml【新潟県柏崎市　阿部酒造】：酒専門店　知多繁　楽天市場店",
+            "httpStatus": 200,
+            "sameDestination": true,
+            "itemId": "10006533",
+            "itemMatches": true,
+            "purchaseCondition": "enabled",
+            "stockCondition": null,
+            "soldOut": false,
+            "purchaseControls": true,
+            "purchasable": true,
+            "state": "purchase_enabled"
+          }
+        },
+        {
+          "itemCode": "saketakuhida:10000528",
+          "normalUrl": "https://item.rakuten.co.jp/saketakuhida/10000190/",
+          "name": "久寿玉 純米吟醸　720ml瓶 ひだほまれ 飛騨高山　お酒 日本酒 清酒 飛騨高山 平瀬酒造店 フルーティ 甘口 贈り物 お土産 御歳暮 ギフト 箱なし 別途有料箱あり",
+          "shopName": "飛騨高山 酒のtakumi",
+          "shopCode": "saketakuhida",
+          "apiAvailability": 1,
+          "kind": "unconfirmed",
+          "caption": "アベリア花酵母が織りなす、甘く華やかな香りと、フルーティで心地よいキレ。岐阜県産ひだほまれを50%まで磨き上げた、純米大吟醸並みの造りの純米吟醸。 謙虚と強運の花言葉を持つアベリアの花酵母で醸し、甘く華やかな香りとフルーティな口当たりが特長です。 まろやかな甘さの後に続く、すっきりとしたキレの良い後味は、日本酒を飲み慣れない方や女性にも大変おすすめです。 アルコール分15.5%で、食事にも合わせやすい逸品です。 原料米：ひだほまれ（岐阜県産） 精米歩合：50％ 日本酒度：-2 酸度：1.4 アルコール分：15.5% ※本製品は専用箱がなくなりましたので、包装・のし・メッセージシールをご利用の方は、別途有料箱(100円)をご利用ください。 関連商品はこちら平瀬酒造 久寿玉 720ml瓶 1本 共通カー...久寿玉 純米吟醸　1,800ml瓶 箱入 ひだ...久寿玉 純米吟醸キュート金箔入 180ml ...",
+          "checkedAt": "2026-10-22T03:56:13.031Z",
+          "origin": "previous_evidence",
+          "retrieved": true,
+          "textHash": "e349df4adfa57645bb5e60328850cad92440b7f716e812db8e84fe43980a84bf",
+          "availability": {
+            "title": "【楽天市場】久寿玉 純米吟醸　720ml瓶 ひだほまれ 飛騨高山　お酒 日本酒 清酒 飛騨高山 平瀬酒造店 フルーティ 甘口 贈り物 お土産 御歳暮 ギフト 箱なし 別途有料箱あり：飛騨高山　酒のtakumi",
+            "httpStatus": 200,
+            "sameDestination": true,
+            "itemId": "10000528",
+            "itemMatches": true,
+            "purchaseCondition": "enabled",
+            "stockCondition": null,
+            "soldOut": false,
+            "purchaseControls": true,
+            "purchasable": true,
+            "state": "purchase_enabled"
+          }
+        }
+      ],
+      "official": []
+    },
+    {
+      "sakeId": "maibijin-o0ffit",
+      "offers": [
+        {
+          "itemCode": "auc-yumeikan:10004564",
+          "normalUrl": "https://item.rakuten.co.jp/auc-yumeikan/7158/",
+          "name": "舞美人 (まいびじん) 令和6BY 仕込3号 山廃純米 無濾過生原酒 sanQ蔵付酵母 【美川酒造場】【福井県】",
+          "shopName": "こだわりの酒屋遊銘館",
+          "shopCode": "auc-yumeikan",
+          "apiAvailability": 1,
+          "kind": "unconfirmed",
+          "caption": "アルコール度数16度 呑み方 お好みの飲み方で 保存方法 要冷蔵 原材料 米（国産）・米麹（国産米） 原料米 福井県産自社田栽培米五百万石 精米歩合 60％ 日本酒度 -3.0 酸度 7.8【要冷蔵の為クール便にて送らせて頂きますので必ず配送方法「クール便」をお選び下さい！ お選びになられなかった場合でもクール便に変更させて頂きます！】 　◆◇　Guide　◇◆ 福井の地酒　舞美人2025年醸造の山廃純米酒です。木槽（きぶね）で搾った後、ほとんど手を加えず瓶詰めした無ろ過生原酒です。全く酵母を添加せず、蔵にすんでいる「蔵付酵母」で仕込まれております。柑橘系を思わせる旨味のある酸がありますので冷やしても燗酒にしても美味しくいただけます。",
+          "checkedAt": "2026-10-22T03:56:14.627Z",
+          "origin": "current_api",
+          "retrieved": true,
+          "textHash": "cab888066d7dd4a17db8070889c743fcbe5ddf6244c7d2d88280741d9c11b0f0",
+          "availability": {
+            "title": "【楽天市場】酒類 >\n日本酒3 >\n美川酒造場(舞美人) >\n舞美人 山廃純米 無濾過生原酒 農淳 sanQ：こだわりの酒屋遊銘館",
+            "httpStatus": 200,
+            "sameDestination": true,
+            "itemId": null,
+            "itemMatches": false,
+            "purchaseCondition": null,
+            "stockCondition": null,
+            "soldOut": false,
+            "purchaseControls": false,
+            "purchasable": false,
+            "state": "item_identity_unconfirmed"
+          }
+        },
+        {
+          "itemCode": "auc-yumeikan:10003199",
+          "normalUrl": "https://item.rakuten.co.jp/auc-yumeikan/3741/",
+          "name": "舞美人 (まいびじん) 令和7BY 山廃純米 無濾過生原酒 sanQ蔵付酵母 にごり酒【美川酒造場】【福井県】",
+          "shopName": "こだわりの酒屋遊銘館",
+          "shopCode": "auc-yumeikan",
+          "apiAvailability": 1,
+          "kind": "unconfirmed",
+          "caption": "アルコール度数13.1度 呑み方 お好みの飲み方で 保存方法 要冷蔵 原材料 米（国産）・米麹（国産米） 原料米 福井県産五百万石 精米歩合 60％ 日本酒度 -16.0 酸度 8.5【要冷蔵の為クール便にて送らせて頂きますので必ず配送方法「クール便」をお選び下さい！ お選びになられなかった場合でもクール便に変更させて頂きます！】 　◆◇　Guide　◇◆ 福井の地酒　舞美人2026年醸造の山廃純米酒です。木槽（きぶね）で搾った後、ほとんど手を加えず瓶詰めした無ろ過生原酒です。2026年の仕込みも、全く酵母を添加せず、蔵にすんでいる「蔵付酵母」で仕込まれております。旨味のある酸がありますので冷やしても燗酒にしても美味しくいただけます。こちらは限定のにごり酒です。※開栓注意です。",
+          "checkedAt": "2026-10-22T03:56:15.885Z",
+          "origin": "current_api",
+          "retrieved": true,
+          "textHash": "cab888066d7dd4a17db8070889c743fcbe5ddf6244c7d2d88280741d9c11b0f0",
+          "availability": {
+            "title": "【楽天市場】酒類 >\n日本酒3 >\n美川酒造場(舞美人) >\n舞美人 山廃純米 無濾過生原酒 農淳 sanQ：こだわりの酒屋遊銘館",
+            "httpStatus": 200,
+            "sameDestination": true,
+            "itemId": null,
+            "itemMatches": false,
+            "purchaseCondition": null,
+            "stockCondition": null,
+            "soldOut": false,
+            "purchaseControls": false,
+            "purchasable": false,
+            "state": "item_identity_unconfirmed"
+          }
+        }
+      ],
+      "official": [
+        {
+          "url": "https://www.maibijin.com/product/241",
+          "retrieved": true,
+          "checkedAt": "2026-10-22T03:56:16.843Z",
+          "textHash": "740d2b0fd6fc1df47e6a8ca4f5354a12526fd4149cc4f0c698ab2bbf8091a4b7"
+        }
+      ]
+    },
+    {
+      "sakeId": "shichihonyari-lvvrsw",
+      "offers": [
+        {
+          "itemCode": "hasegawasaketen:10007409",
+          "normalUrl": "https://item.rakuten.co.jp/hasegawasaketen/1003410/",
+          "name": "七本鎗 無有 無農薬純米 1800ml 冨田酒造",
+          "shopName": "はせがわ酒店",
+          "shopCode": "hasegawasaketen",
+          "apiAvailability": 1,
+          "kind": "unconfirmed",
+          "caption": "■ 滋賀県の蔵元・冨田酒造が醸す日本酒です。 商品情報 商品名 七本鎗 無有 無農薬純米 商品説明 無農薬の酒米作りは、無農薬の飯米を作っていた地元篤農家の家倉敬和氏と、無農薬の酒米でより自然な酒造りを考えていた冨田氏との出会いにより2010年に始まりました。そうして出来た日本酒に、農薬を【無】くす事により、農家と酒蔵双方の想いの【有】る、新たな価値【有】るモノを生む、そんな気持ちを込め「無有（むう）」と名付けられました。無農薬米ならではの優しさ・柔らかさがあり、玉栄は熟成で伸びる酒質になる為、1年半じっくり熟成させたことで丸みのある味わいとなっています。 蔵紹介 冨田酒造 / 滋賀県 米から酒へ、酒から縁を… 天文3年、1534年創業。琵琶湖の最北端に位置する賤ヶ岳を臨む、木之本町に蔵はあります。雪深い湖北の地で昔ながらの厳寒仕込みに徹し、480年以上の歴史を刻んできました。七本鎗の銘柄名は、賤ケ岳の戦いで秀吉を勝利へ導いた七人の若武者に由来し、そのことから勝利の酒、縁起の良い酒として喜ばれています。また、北大路魯山人が愛した酒とも知られ、ラベルの文字にはその篆刻が使用されています。現蔵元、十五代冨田泰伸さんは酒造りの修行に入る前、アメリカ、ヨーロッパ各地のワイナリーや蒸留所を巡った際に、地酒であることの意味やその価値について深く考えるようになりました。その経験を活かし、地元篤農家との契約栽培をベースに、玉栄や吟吹雪そして渡船といった酒米を中心とした、地元の米と水による本当の意味での地酒造りに取り組んでいます。また、完全無農薬米による酒造りや熟成酒にも挑戦し愛飲家の注目を集めています。骨太な味わいの中に、豊かな自然の滋味や深味が溢れ、どこか懐かしさも感じさせる七本鎗をぜひ味わってみてください。 注意事項 クール便推奨。 画像はイメージです。 画像内の製造年月は撮影当時のものとなります。 サイズ表記に関しては商品名からご判断下さい。 ギフト 箱が付属している商品には包装紙、瓶の商品には和紙掛けでのご用意となります。 シーンに合わせて、各種熨斗のご用意もございます。 詳しくはこちらでご確認をお願い致します。 配送方法 お届けはヤマト運輸です。送料にはカートン代が含まれています。 1個口には常温便の場合1800mlなら6本、720mlなら12本まで。クール便の場合は1800mlなら5本、720mlなら10本までおまとめが可能です。 ただし、ボトルの型や重量によってはまとまる本数が異なる場合がございます。 詳しくはこちらでご確認をお願い致します。",
+          "checkedAt": "2026-10-22T03:56:17.873Z",
+          "origin": "current_api",
+          "retrieved": true,
+          "textHash": "8cec4127b8c2806c1d5e3e45efcc2df7c127828b74107b4f15b63dd0e4e87670",
+          "availability": {
+            "title": "【楽天市場】七本鎗 無有 無農薬純米 1800ml 冨田酒造：はせがわ酒店",
+            "httpStatus": 200,
+            "sameDestination": true,
+            "itemId": "10007409",
+            "itemMatches": true,
+            "purchaseCondition": "enabled",
+            "stockCondition": null,
+            "soldOut": false,
+            "purchaseControls": true,
+            "purchasable": true,
+            "state": "purchase_enabled"
+          }
+        },
+        {
+          "itemCode": "hasegawasaketen:10000533",
+          "normalUrl": "https://item.rakuten.co.jp/hasegawasaketen/1002114/",
+          "name": "七本鎗 純米酒 玉栄 1800ml 日本酒 冨田酒造 滋賀県",
+          "shopName": "はせがわ酒店",
+          "shopCode": "hasegawasaketen",
+          "apiAvailability": 1,
+          "kind": "unconfirmed",
+          "caption": "商品情報 商品説明 軽快な飲みやすさがありながら、芯の通った味わいの純米酒です。料理との相性も幅が広く、万能タイプです。 蔵元 冨田酒造 地域 滋賀県 容量 1800ml 注意事項 クール便推奨。 画像はイメージです。 画像内の製造年月は撮影当時のものとなります。 サイズ表記に関しては商品名からご判断下さい。 ギフト 箱が付属している商品には包装紙、瓶の商品には和紙掛けでのご用意となります。 シーンに合わせて、各種熨斗のご用意もございます。 詳しくはこちらでご確認をお願い致します。 配送方法 お届けはヤマト運輸です。送料にはカートン代が含まれています。 1個口には常温便の場合1800mlなら6本、720mlなら12本まで。クール便の場合は1800mlなら5本、720mlなら10本までおまとめが可能です。 ただし、ボトルの型や重量によってはまとまる本数が異なる場合がございます。 詳しくはこちらでご確認をお願い致します。米から酒へ、酒から縁を… 天文3年、1534年創業。琵琶湖の最北端に位置する賤ヶ岳を臨む、木之本町に蔵はあります。雪深い湖北の地で昔ながらの厳寒仕込みに徹し、480年以上の歴史を刻んできました。七本鎗の銘柄名は、賤ケ岳の戦いで秀吉を勝利へ導いた七人の若武者に由来し、そのことから勝利の酒、縁起の良い酒として喜ばれています。また、北大路魯山人が愛した酒とも知られ、ラベルの文字にはその篆刻が使用されています。現蔵元、十五代冨田泰伸さんは酒造りの修行に入る前、アメリカ、ヨーロッパ各地のワイナリーや蒸留所を巡った際に、地酒であることの意味やその価値について深く考えるようになりました。その経験を活かし、地元篤農家との契約栽培をベースに、玉栄や吟吹雪そして渡船といった酒米を中心とした、地元の米と水による本当の意味での地酒造りに取り組んでいます。また、完全無農薬米による酒造りや熟成酒にも挑戦し愛飲家の注目を集めています。骨太な味わいの中に、豊かな自然の滋味や深味が溢れ、どこか懐かしさも感じさせる七本鎗をぜひ味わってみてください。",
+          "checkedAt": "2026-10-22T03:56:19.112Z",
+          "origin": "current_api",
+          "retrieved": true,
+          "textHash": "0c1638d2e099dff3aa27af9a02e51a6e2bb2b856d5bb316a53713f751dffb1b4",
+          "availability": {
+            "title": "【楽天市場】七本鎗 純米酒 玉栄 1800ml 日本酒 冨田酒造 滋賀県：はせがわ酒店",
+            "httpStatus": 200,
+            "sameDestination": true,
+            "itemId": "10000533",
+            "itemMatches": true,
+            "purchaseCondition": "enabled",
+            "stockCondition": null,
+            "soldOut": false,
+            "purchaseControls": true,
+            "purchasable": true,
+            "state": "purchase_enabled"
+          }
+        }
+      ],
+      "official": [
+        {
+          "url": "https://7yari.co.jp/product/102/",
+          "retrieved": true,
+          "checkedAt": "2026-10-22T03:56:20.580Z",
+          "textHash": "d07353d6a33de22e64d5a7064e5e45e81f7f27d3e48a10176a3b573807287b99"
+        }
+      ]
+    },
+    {
+      "sakeId": "haginotsuyu-lvvrsw",
+      "offers": [
+        {
+          "itemCode": "tokuriya:10000307",
+          "normalUrl": "https://item.rakuten.co.jp/tokuriya/8848/",
+          "name": "萩乃露 雨垂れ石を穿つ 特別純米 火入熟成 720ml 福井弥平商店 萩の露 日本酒 地酒 滋賀県高島市勝野| ギフト お歳暮 プレゼント 人気 オシャレ おしゃれ 誕生日 高級 男性 女性 最高級 退職祝い 父の日 母の日 樽",
+          "shopName": "Tokuriya 酒舗まえたに楽天市場店",
+          "shopCode": "tokuriya",
+          "apiAvailability": 1,
+          "kind": "unconfirmed",
+          "caption": "商品詳細 名称 清酒 原材料 米（国産）、米麹（国産米） 賞味期限 なし 保存方法 冷暗所 製造者 株式会社福井弥平商店　滋賀県高島市勝野1387-1 甘口から超辛口まで比良の軟水を操る福井毅蔵元のバリエーション豊かな滋賀を代表する「萩乃露」の世界 今や萩乃露の顔とも言える存在になった「雨垂れ石を穿つ」 このお酒の「十水仕込（とみずじこみ）」とは、現代の仕込方法に比べて少ない水を用いて濃厚な状態で仕込みを行う手法)を用いています。 味わいは濃厚でありながら、飲みやすく爽やかな後口の旨口です。 濃密でありながら、透明感があり、口に入れた瞬間に爽やかな酸が大変印象的な旨口です。 甚大な被害をもたらした平成25年の台風18号の災害の中奇跡的に「吟吹雪」が収穫できたことへの感動・感激「!」 鮮烈な美味しさへの驚き「!」、古の手法にも関わらず極めて現代的な味わいを生み出すことの驚き「!」など沢山の「!」が詰まっています。 台風の災害復旧に尽力された社会福祉協議会に感謝し、「赤い羽根募金百貨店」の対象商品として、売上の一部を募金されています。 このお酒はスローフードジャパン主催「燗酒コンテスト」の「極上燗酒部門」で数多くの受賞歴があります。 冷酒、常温、少し熱めの燗と幅広い温度帯でお楽しみ頂けます。 180mlサイズはこちら 1800mlサイズはこちら",
+          "checkedAt": "2026-10-22T03:56:21.524Z",
+          "origin": "previous_evidence",
+          "retrieved": true,
+          "textHash": "7b90cac689d85bd614de16222d4a61dcf1d409908ad661d964745640bc1e297e",
+          "availability": {
+            "title": "【楽天市場】萩乃露 雨垂れ石を穿つ 特別純米 火入熟成 720ml 福井弥平商店 萩の露 日本酒 地酒 滋賀県高島市勝野| ギフト お歳暮 プレゼント 人気 オシャレ おしゃれ 誕生日 高級 男性 女性 最高級 退職祝い 父の日 母の日 樽：Tokuriya 酒舗まえたに楽天市場店",
+            "httpStatus": 200,
+            "sameDestination": true,
+            "itemId": "10000307",
+            "itemMatches": true,
+            "purchaseCondition": "enabled",
+            "stockCondition": null,
+            "soldOut": false,
+            "purchaseControls": true,
+            "purchasable": true,
+            "state": "purchase_enabled"
+          }
+        },
+        {
+          "itemCode": "tokuriya:10001426",
+          "normalUrl": "https://item.rakuten.co.jp/tokuriya/2139/",
+          "name": "萩乃露 雨垂れ石を穿つ 渡船 特別純米 火入 1.8L 1800ml 福井弥平商店 萩の露 日本酒 地酒 滋賀県高島市勝野| ギフト お歳暮 プレゼント 人気 オシャレ おしゃれ 誕生日 高級 男性 女性 最高級 退職祝い 父の日 母の日 樽",
+          "shopName": "Tokuriya 酒舗まえたに楽天市場店",
+          "shopCode": "tokuriya",
+          "apiAvailability": 1,
+          "kind": "unconfirmed",
+          "caption": "商品詳細 名称 清酒 原材料 米（国産）、米麹（国産米） 賞味期限 なし 保存方法 冷暗所 製造者 株式会社福井弥平商店　滋賀県高島市勝野1387-1 甘口から超辛口まで比良の軟水を操る福井毅蔵元のバリエーション豊かな滋賀を代表する「萩乃露」の世界 今や萩乃露の顔とも言える存在になった「雨垂れ石を穿つ」 このお酒の「十水仕込（とみずじこみ）」とは、現代の仕込方法に比べて少ない水を用いて濃厚な状態で仕込みを行う手法)を用いています。 「渡船（わたりぶね）」は酒米の名前。 全国でも栽培は珍しい品種ですが、実は酒米の王様「山田錦」の父親系品種として酒通や蔵元の間ではよく知られます。 「渡船」は滋賀県が発祥の酒米。萩乃露では「渡船」の復活栽培に地元高島市で取り組んできました。当初わずか7gの種籾から栽培を始め、収穫できた米を苗にし、田植えをする。こうして毎年栽培を繰り返し、この度初めて「雨垂れ石を穿つ」の仕込をすることが出来ました。毎年少しずつしか進まない気の長い歩みですが、収穫できる「渡船」の量と質が確実に上がり、成果に繋がっていると感じます。 「渡船」は力強いお米の味わいが感じられるのが特徴です。 江戸時代後期に行われた古の醸造法「十水仕込（とみずしこみ）」を用いることで「渡船」の特徴がより際立って感じることができます。「雨垂れ石を穿つ 渡船」はしぼった後は生酒の状態で0℃で貯蔵し、瓶詰前に低温殺菌を施した生貯蔵タイプですので、「雨垂れ石を穿つ」ならではの濃醇な深い味わいと生酒を思わせる若々しさが感じられる、きれいに味わいが膨らむ仕上がりです。 720mlサイズはこちら",
+          "checkedAt": "2026-10-22T03:56:22.678Z",
+          "origin": "previous_evidence",
+          "retrieved": true,
+          "textHash": "069037d4f35ca88015b43d08c60f6bb52e54381615b7b5939d5a4173543785fa",
+          "availability": {
+            "title": "【楽天市場】萩乃露 雨垂れ石を穿つ 渡船 特別純米 火入 1.8L 1800ml 福井弥平商店 萩の露 日本酒 地酒 滋賀県高島市勝野| ギフト お歳暮 プレゼント 人気 オシャレ おしゃれ 誕生日 高級 男性 女性 最高級 退職祝い 父の日 母の日 樽：Tokuriya 酒舗まえたに楽天市場店",
+            "httpStatus": 200,
+            "sameDestination": true,
+            "itemId": "10001426",
+            "itemMatches": true,
+            "purchaseCondition": "enabled",
+            "stockCondition": null,
+            "soldOut": false,
+            "purchaseControls": true,
+            "purchasable": true,
+            "state": "purchase_enabled"
+          }
+        }
+      ],
+      "official": [
+        {
+          "url": "https://www.haginotsuyu.co.jp/satoyama",
+          "retrieved": false,
+          "checkedAt": "2026-10-22T03:56:25.848Z"
+        }
+      ]
+    },
+    {
+      "sakeId": "kurumazaka-gp8l70i9d",
+      "offers": [
+        {
+          "itemCode": "kyoto-sake-2940:10001642",
+          "normalUrl": "https://item.rakuten.co.jp/kyoto-sake-2940/kzaka-yjs-720/",
+          "name": "車坂 山廃純米酒 2016BY 和歌山 吉村秀雄商店 720ml",
+          "shopName": "京都のさか屋ふくしま",
+          "shopCode": "kyoto-sake-2940",
+          "apiAvailability": 1,
+          "kind": "unconfirmed",
+          "caption": "車坂 山廃純米酒 2016BY 和歌山 吉村秀雄商店 瓶内に褐色のオリが浮遊している場合がございます。 決して異物ではございませんのでご安心下さい。 これは、熟成によりアミノ酸・糖類・タンパク質がメイラード反応によって褐色に変化した物です。 熟成により美味しい飲み頃を迎えている証ですのでご安心下さい。 飲んで頂いて全く問題ございません。 スパイシーな香りと酸の切れで飲み進む！ お米の旨味と円熟味が光る！ 甘辛い煮物や焼き物、中国料理やエスニック料理との相性バツグン！ 冷酒よりは冷や(常温)かお燗がおすすめ。 冷蔵管理は全く必要ありません。 ■原料米 五百万石 ■精米歩合 65% ■アルコール度 16度 ■味わい お米の旨味と酸、スパイシーさが生きている",
+          "checkedAt": "2026-10-22T03:56:25.993Z",
+          "origin": "current_api",
+          "retrieved": true,
+          "textHash": "119d7097696fd513d5659cccf490935ccff930867e93cd5247891f6de175083a",
+          "availability": {
+            "title": "【楽天市場】車坂 山廃純米酒 2016BY 和歌山 吉村秀雄商店 720ml：京都のさか屋ふくしま",
+            "httpStatus": 200,
+            "sameDestination": true,
+            "itemId": "10001642",
+            "itemMatches": true,
+            "purchaseCondition": "enabled",
+            "stockCondition": null,
+            "soldOut": false,
+            "purchaseControls": true,
+            "purchasable": true,
+            "state": "purchase_enabled"
+          }
+        },
+        {
+          "itemCode": "auc-yumeikan:10002616",
+          "normalUrl": "https://item.rakuten.co.jp/auc-yumeikan/3175/",
+          "name": "車坂 (くるまざか) 山廃純米酒 秋あがり 2019BY 【吉村秀雄商店】【ひやおろし】【和歌山県】【日本城】【日本酒】【限定】【銘酒】【地方のお酒】【地酒】【美酒】【お中元】【お歳暮】【ギフト】【ご挨拶】【酒蔵直送】【パーティー】【敬老の日】",
+          "shopName": "こだわりの酒屋遊銘館",
+          "shopCode": "auc-yumeikan",
+          "apiAvailability": 1,
+          "kind": "unconfirmed",
+          "caption": "アルコール度数16.2 度 呑み方 お好みの飲み方で 保存方法 光と高温を避けて 原材料 米（国産）・米麹（国産米） 原料米 五百万石 精米歩合 65％ 日本酒度 +5　◆◇　Guide　◇◆ 2019BYの状態は素晴らしく、香りと味わいのバランス、後口の心地よさが特徴で、2025年に味わい重視で秋あがりとして登場です。",
+          "checkedAt": "2026-10-22T03:56:27.551Z",
+          "origin": "current_api",
+          "retrieved": true,
+          "textHash": "55582d02e0b8ca547e34d72c9067f8f0d16d46312766863e1f68a3bec1b6ec67",
+          "availability": {
+            "title": "【楽天市場】酒類 >\n日本酒1 >\n吉村秀雄商店（車坂） >\n車坂 五百万石 山廃純米酒 平成30BY 秋あがり：こだわりの酒屋遊銘館",
+            "httpStatus": 200,
+            "sameDestination": true,
+            "itemId": null,
+            "itemMatches": false,
+            "purchaseCondition": null,
+            "stockCondition": null,
+            "soldOut": false,
+            "purchaseControls": false,
+            "purchasable": false,
+            "state": "item_identity_unconfirmed"
+          }
+        },
+        {
+          "itemCode": "auc-8848-jizake:10003703",
+          "normalUrl": "https://item.rakuten.co.jp/auc-8848-jizake/4903235326012/",
+          "name": "【季節限定】車坂 山廃純米酒 秋あがり 720ml 日本酒 辛口 食中酒 吉村秀雄商店 純米 山廃仕込み（5年熟成）2019by",
+          "shopName": "地酒・焼酎専門林屋酒店",
+          "shopCode": "auc-8848-jizake",
+          "apiAvailability": 1,
+          "kind": "unconfirmed",
+          "caption": "商品詳細 商品名 【季節限定】車坂 山廃純米酒 秋あがり 720ml 日本酒 辛口 食中酒 吉村秀雄商店 純米 山廃仕込み 特徴 香り 味わい 飲み方 商品説明 &#127810;【季節限定】芳醇な旨味と酸の調和 ― 車坂 山廃純米酒 秋あがり&#127810; 夏を越えて旨味を増した“秋あがり”。和歌山・吉村秀雄商店が誇る「車坂」ブランドから、山廃仕込みの純米酒をじっくりと熟成させ、秋に飲み頃を迎えた限定酒です。 特徴 山廃仕込みによる力強い酸とコク熟成由来の円やかさとバランスの取れた旨味冷やしても、常温でも、燗酒でも表情豊かに楽しめます 蔵元について 「車坂」を醸すのは、和歌山の老舗 吉村秀雄商店。山廃造りをはじめ、伝統を守りつつ革新的な挑戦を続ける蔵で、食中酒として寄り添う味わいを大切にしています。 合わせたい料理 秋刀魚の塩焼きやきのこのホイル焼きなど、秋の味覚鍋料理や焼き鳥、煮物など、旨味の強い料理 内容量 720ml ご注意 開封後はお早めにお飲みください。 保存方法 冷暗所 原料米 蔵元：吉村秀雄商店（和歌山県岩出市） 種別：純米酒（山廃仕込み） 内容量：720ml アルコール度数：15～16度前後 日本酒度：+3（やや辛口） 酸度：1.7前後 蔵元 株式会社吉村秀雄商店【季節限定】芳醇な旨味と酸の調和 ― 車坂 山廃純米酒 秋あがり&#127810; 夏を越えて旨味を増した“秋あがり”。和歌山・吉村秀雄商店が誇る「車坂」ブランドから、山廃仕込みの純米酒をじっくりと熟成させ、秋に飲み頃を迎えた限定酒です。 特徴 山廃仕込みによる力強い酸とコク熟成由来の円やかさとバランスの取れた旨味冷やしても、常温でも、燗酒でも表情豊かに楽しめます 蔵元について 「車坂」を醸すのは、和歌山の老舗 吉村秀雄商店。山廃造りをはじめ、伝統を守りつつ革新的な挑戦を続ける蔵で、食中酒として寄り添う味わいを大切にしています。 合わせたい料理 秋刀魚の塩焼きやきのこのホイル焼きなど、秋の味覚鍋料理や焼き鳥、煮物など、旨味の強い料理",
+          "checkedAt": "2026-10-22T03:56:28.525Z",
+          "origin": "current_api",
+          "retrieved": true,
+          "textHash": "cf2db7296fef0aee2d91c4b9aeb0ded186b06c713a51bbbd9e5beb95828ff1ec",
+          "availability": {
+            "title": "【楽天市場】【季節限定】車坂 山廃純米酒 秋あがり 720ml 日本酒 辛口 食中酒 吉村秀雄商店 純米 山廃仕込み（５年熟成）2019by：地酒・焼酎専門林屋酒店",
+            "httpStatus": 200,
+            "sameDestination": true,
+            "itemId": "10003703",
+            "itemMatches": true,
+            "purchaseCondition": "enabled",
+            "stockCondition": null,
+            "soldOut": false,
+            "purchaseControls": true,
+            "purchasable": true,
+            "state": "purchase_enabled"
+          }
+        }
+      ],
+      "official": [
+        {
+          "url": "https://nihonsyu-nihonjyou.co.jp/sake/kurumazaka/",
+          "retrieved": true,
+          "checkedAt": "2026-10-22T03:56:31.163Z",
+          "textHash": "3668f9d0ff7c8a608fca2ee9d4af46dd334af51aee8b4a569fe90c5ace680b2d"
+        }
+      ]
+    },
+    {
+      "sakeId": "bentenmusume-uzpgk6",
+      "offers": [
+        {
+          "itemCode": "syuraku-shop:10000032",
+          "normalUrl": "https://item.rakuten.co.jp/syuraku-shop/44508/",
+          "name": "辨天娘 べんてんむすめ 純米酒 五百万石 1800ml 鳥取県 太田酒造場 日本酒 弁天娘コンビニ受取対応商品 あす楽 お酒 お歳暮 プレゼント",
+          "shopName": "酒楽SHOP",
+          "shopCode": "syuraku-shop",
+          "apiAvailability": 1,
+          "kind": "unconfirmed",
+          "caption": "蔵元 太田酒造場（鳥取県） 原料米 五百万石 精米歩合 65％ アルコール度数 15〜16度 日本酒度 ＋12 酸度 - 酵母 - クール便 夏期推奨 当店について 「酒楽SHOP」は大正5年から続く、台東区の酒販店「ヤマロク」のインターネット通販ショップです 都内最大級の酒専用庫「純米入谷蔵」では蔵元さんから 直送いただいた純米酒を中心としたお酒を、温度管理・鮮度管理を徹底して、お客様のもとへお届けしております。ラッピングも承ります。ギフトやお中元・お歳暮、お世話になった方へ、日本酒・梅酒・焼酎などぜひご利用ください。 太田酒造場　弁天娘 仕込みは社長を含め3人で行なっています。 手間はかかりますが洗米、製麹すべて手作業が基本です。 販売は、若桜と鳥取を結ぶ国道29号線沿いの酒販店を中心に販売しています。 地元の辨天娘愛飲家の皆様に支えられて頑張っています。 酒造りへの思い まず何より、商品がお客様のお手元に渡るまで、ひとつひとつ丁寧に管理することです。そしてお客様とのお付き合いを大切にさせて頂き、その中から多くのヒントを頂戴して、伝統を守りつつも新しいものへの挑戦を忘れないことです。 まるごとべんてんむすめ 自分たちがいいと思うものを造ってできたお酒を大切に売っていっています。 清酒　辨天娘 原料である酒米は若桜の酒造好適米を使用。米ごと、生産者ごとにタンクを分けて仕込みをしています。出荷時のラベルには米の生産者、何番目のタンクかが分かるようになっています。 ◆こんなギフトシーンに◆ 内祝い・出産内祝い・結婚内祝い・快気内祝い・快気祝い・引出物・引き出物・結婚式・新築内祝い・お返し・入園内祝い・入学内祝い・就職内祝い・成人内祝い・退職内祝い・満中陰志・香典返し・志・法要・年忌・仏事・法事・法事引き出物・仏事法要・お祝い・御祝い・一周忌・三回忌・七回忌・出産祝い・結婚祝い・新築祝い・入園祝い・入学祝い・就職祝い・成人祝い・退職祝い・退職記念・お中元・御中元・暑中見舞い・暑中見舞・残暑見舞い・残暑見舞・お歳暮・御歳暮・寒中見舞い・お年賀・御年賀・正月・お正月・年越し・年末・年始・粗品・プレゼント・お見舞い・記念品・賞品・景品・二次会・ゴルフコンペ・ノベルティ・母の日・父の日・敬老の日・敬老祝い・お誕生日お祝い・バースデイ・クリスマス・クリスマスプレゼント・バレンタインデー・ホワイトデー・結婚記念日・贈り物・ギフト・ギフトセット・贈り物・お礼・御礼・手土産・お土産・お遣い物・ご挨拶・ご自宅用・贈答品・ご贈答・記念日・記念品・誕生日・誕生祝い・結婚記念日・引越し祝い・転居・昇進・栄転・感謝・還暦祝・華寿・緑寿・古希・喜寿・傘寿・米寿・卒寿・白寿・上寿・歓送迎会・歓迎会・送迎会・粗品・卒業祝い・成人式・成人の日・お見舞い・開店祝い・開業祝い・周年・イベント・協賛・ビジネス・法人・お彼岸・お返し・お酒・日本酒・地酒・芋焼酎・麦焼酎・黒糖焼酎・梅酒・和リキュール・仏事・お盆・新盆・初盆・御供え・お供え・パーティー・合コン・お見合い・花見・お花見・こだわり・蔵元直送・直送・ランキング・売れ筋・杜氏・クチコミ・ポイント・詰め合わせ・詰め合せセット・飲み比べ・飲み比べセット・お試し・おためし・セット・グルメ・お取り寄せ・酒楽SHOP辨天娘 純米 1800ml 太田酒造場は鳥取県の山間の蔵元です。この辨天娘は自家栽培した地元の若桜太田産の五百万石を使用して醸されています。一般的にお酒はタンク毎に微妙に異なるスペックを平均化するためブレンドするのですが、ここの蔵元のお酒の特徴として仕込順毎にブレンドせずに商品として出荷する為同じ純米酒でも仕込み順が違うと大分味わいが異なることです。仕込み順1号は「1番娘」とそれぞれ「○番娘」と名前を付けて表示しています。これは蔵元さんが仕込み毎に異なる味わいを味わって欲しいとの願いからそうしているそうです。香りは穏やかですが青リンゴのような香りもあります。味わいも派手さは無いがしっとりとした味わい、燗をすると旨みが際立ち、燗ざましはさらに美味しいしっかりと発酵させたお酒の特徴が出ています ※こちらの商品は随時入荷をしております商品のため、掲載画像のBYと異なる場合がございます。 商品の確認はお気軽にお問い合わせください。",
+          "checkedAt": "2026-10-22T03:56:31.403Z",
+          "origin": "previous_evidence",
+          "retrieved": true,
+          "textHash": "326e71dab0bae16b27a663b9891a53d0efb596b331d31d8c964f2703ca004816",
+          "availability": {
+            "title": "【楽天市場】辨天娘 べんてんむすめ 純米酒 五百万石 1800ml 鳥取県 太田酒造場 日本酒 弁天娘コンビニ受取対応商品 あす楽 お酒 お歳暮 プレゼント：酒楽SHOP",
+            "httpStatus": 200,
+            "sameDestination": true,
+            "itemId": "10000032",
+            "itemMatches": true,
+            "purchaseCondition": "enabled",
+            "stockCondition": null,
+            "soldOut": false,
+            "purchaseControls": true,
+            "purchasable": true,
+            "state": "purchase_enabled"
+          }
+        },
+        {
+          "itemCode": "sakematured:10000018",
+          "normalUrl": "https://item.rakuten.co.jp/sakematured/btm03-07-02/",
+          "name": "熟成5年 辨天娘(べんてんむすめ) 720ml 送料無料 熟成酒 古酒 【純米 強力 R2BY 辨天娘】ヴィンテージ 鳥取県 食前酒 太田酒造の「強力」5年熟成 アルコール度数17% 純米酒 ギフト 内祝 贈答 高級 日本酒 プレゼント 秋ギフト",
+          "shopName": "熟と燗",
+          "shopCode": "sakematured",
+          "apiAvailability": 1,
+          "kind": "unconfirmed",
+          "caption": "商品情報名称日本酒内容量720 ml原材料米、米麹製造元太田酒造場鳥取県八頭郡若桜町若桜1223−2特徴など鳥取県固有の原生品種「強力」を自然酵母でしっかりと発酵させたお酒です。タンク貯蔵で、土壁の蔵の中でタンク熟成されています常温だけでなく、熱燗、飛切り燗、そして燗冷ましでも楽しんでいただけます。魚介類から南蛮漬けやスパイス系など様々なお料理との合うお酒です。保存方法熟成日本酒はフレッシュなお酒より保存が容易ですが、紫外線を避け、なるべく振動のない場所での保管をおすすめします。低温で熟成されたお酒（低温熟成）は、ワインセラーや冷蔵庫の野菜室などで。常温で熟成されたお酒（常温熟成、スペシャルテイスト）は、真夏以外は室温（25度程度以下、戸棚の中など）で。この状態で数ヶ月〜一年程度であれば、問題なく保管可能です。また、開栓後も上記のような環境下では、数週間程度であれば熟成が大きく進んだり、品質の劣化が起こったりすることもほぼありません。これは、熟成プロセスの中で、物理的・化学的な変化がゆっくりと進行し、熟成酒の魅力を安定的にもたらしてくれる状態に達しているから。また当社がセレクトするお酒は、熟成に耐える酒質を擁しているからでもあります。",
+          "checkedAt": "2026-10-22T03:56:32.530Z",
+          "origin": "previous_evidence",
+          "retrieved": true,
+          "textHash": "66edc0899a83b7126055a8456d2d530202f1fc115622c391b1295fdd2d6f8abc",
+          "availability": {
+            "title": "【楽天市場】熟成5年 辨天娘(べんてんむすめ) 720ml 送料無料 熟成酒 古酒 【純米 強力 R2BY 辨天娘】ヴィンテージ 鳥取県 食前酒 太田酒造の「強力」5年熟成 アルコール度数17% 純米酒 ギフト 内祝 贈答 高級 日本酒 プレゼント 秋ギフト：熟と燗",
+            "httpStatus": 200,
+            "sameDestination": true,
+            "itemId": "10000018",
+            "itemMatches": true,
+            "purchaseCondition": "enabled",
+            "stockCondition": null,
+            "soldOut": false,
+            "purchaseControls": true,
+            "purchasable": true,
+            "state": "purchase_enabled"
+          }
+        }
+      ],
+      "official": [
+        {
+          "url": "https://www.bentenmusume.com/%E8%BE%A8%E5%A4%A9%E5%A8%98%E3%81%AE%E9%85%92",
+          "retrieved": true,
+          "checkedAt": "2026-10-22T03:56:33.719Z",
+          "textHash": "230f49d608b265e263258150eebecab2d246781d52bd98ed950a523121154295"
+        }
+      ]
+    },
+    {
+      "sakeId": "izumo-fuji-id2kl5",
+      "offers": [],
+      "official": [
+        {
+          "url": "https://izumofuji.com/craftsake1/",
+          "retrieved": false,
+          "checkedAt": "2026-10-22T03:56:34.818Z",
+          "textHash": "1f498d0dbe287b3d2d089c32dde732e1503e4e836a06983ef8de278dc5bb7ca6"
+        }
+      ]
+    },
+    {
+      "sakeId": "wakamusume-i9dgkj",
+      "offers": [
+        {
+          "itemCode": "yamasake:10011662",
+          "normalUrl": "https://item.rakuten.co.jp/yamasake/9492/",
+          "name": "わかむすめ 純米吟醸 十二秘色 ( じゅうにひそく ) 火入れ 720ml / 山口県 新谷酒造【 9492 】【 日本酒 】【 要冷蔵 】【 ハロウィン 贈り物 ギフト プレゼント 】",
+          "shopName": "酒の番人 ヤマカワ",
+          "shopCode": "yamasake",
+          "apiAvailability": 1,
+          "kind": "unconfirmed",
+          "caption": "●商品+ラッピング→ +230円　にて対応させていただきます。 ●商品+ラッピング+メッセージ→ +330円　にて対応させていただきます。 メッセージをご希望の場合は必ず台紙を選んでください。 選択なしの場合は、お任せになりますのでご了承ください。 なめらかに広がる上品な甘味！ 「十二秘色 ( じゅうにひそく ) 」は十二単（じゅうにひとえ）の かさねの色目の名である「秘色」から名付けられました。 わかむすめシリーズのサブネームは全て、 かさねの色目の名からネーミングされております。 穏やかな香りと柔らかな甘味。 火入れを経て味わいが落ち着き、メロンやリンゴを思わせる爽やかな香りと、 なめらかな口当たりが楽しめます。 山田錦らしい上品な甘味が広がり、スッキリとした後味にまとまっています。 特定名称：純米吟醸 原 材 料：米(国産)、米麹(国産米) 使 用 米：山田錦 100% 精米歩合：60％ 度　　数：15％ 製 造 元：新谷酒造(山口県) ※上記仕様はあくまでも目安です(ロットによって異なる場合がございます) ※品質保持の為、クール便にさせて頂きます。　 ■酒蔵紹介 昭和2年創業、二代目新谷末彦が引継ぐと「和可娘（わかむすめ）」の名で 長く地元でご愛顧頂きました。 平成になり跡継ぎのなかった蔵を、孫である新谷義直が三代目として引き継ぎましたが、 杜氏が高齢のため引退し廃業の危機に立たされます。 平成19年ひとりでも造り続ける決意をし、一年中仕込みが可能な四季醸造蔵へと改装。 しかし造りに関しては素人同然で苦難の船出。 酒造りと向き合うことで自身の酒造りのスタイルを確立していきました。 社長と杜氏を両方担う蔵元杜氏として、あっという間に10年が経ったのですが、 四季醸造蔵へと改修した蔵の梁が損傷。 移設を余儀なくされまたしても廃業の危機にさらされましたが、 歩みを止めることなく、この地で造り続ける道を選びました。 平成30年　新蔵完成。新たなスタート。 この仕込蔵の移設を機に、これまで社長と杜氏を兼任していた夫から、 杜氏のバトンが妻へと受け渡されました。 当時、山口県では唯一の女性杜氏が誕生しました。 酒蔵へ嫁いでからは 看護師と酒造りという二足のわらじ生活が約8年続いたそうです。 手間暇はかかりますが、雑味の少ない日本酒本来の清らかで美しい味わいを目指し 少量を丁寧に我が子のように手をかけて育てるのが、 私たちの酒造りのスタイル。 近年では、下記のような賞もいただくことができ、人気も急上昇中です！ 【Kura Master】純米酒部門　ゴールド賞。 ブリュッセル国際コンクール【SAKE selection】純米酒部門　最高位プラチナ賞。 山口県の小さな蔵ですが 当店も応援していければと思っております！ こちらもオススメです。 ：【日本酒】黒龍・九頭龍 作 東洋美人佐久の花 仙禽 屋守 隆 白瀑・山本 羽根屋 瀧自慢 奥播磨 東一 天吹 雁木 賀茂金秀 正雪 初亀 すず音 醴泉 小左衛門 播州一献 ゆきの美人 明鏡止水 まつもと 三千盛 越乃寒梅 三井の寿 墨廼江 房島屋 天寳一 土佐しらぎく 酔鯨 あたごのまつ 醸し人九平次 日高見 出羽桜 上喜元 獺祭 義侠 彩来 手取川 吉田蔵u よこやま 横山五十 常山 ロ万 貴 わかむすめ 蓬莱泉 福海 聖 秋鹿 W 【焼酎】甑州 富乃宝山 天使の誘惑 旭萬年 海・くじら 蔵の師魂 黒瀬 撫磨杜 牧場の櫻 魔王 伊佐美 もぐら あやかし福助 かまど 八千代伝 熟柿 櫻井 千亀女 桜明日香 晴耕雨読 明るい農村 一壷春 摩無志 さそり けいこうとなるも 吾空 泰明 天の刻印 銀の水 ちんぐ つくし 鳥飼 豊永蔵 朝日 龍宮 青鹿毛 【前掛け・グラス・おつまみ】チーズ ソース ディップ うすはり 酒杯 錫 びいどろ 【ウィスキー】イチローズモルト 松井 【名入れボトル】日本酒 焼酎 ワイン 彫刻 下記の用途などにも使用できます。： 記念日 お誕生日 お返し 御歳暮 お歳暮 御中元 お中元 暑中御見舞 残暑御見舞 御年賀 お年賀 御祝い お祝い 内祝い 御礼 お礼 祝延寿 敬寿 結婚祝 結婚記念日 引き出物 出産祝 寿 贈り物 父の日 母の日 敬老の日 バレンタインデー ホワイトデー 還暦 還暦祝 還暦祝い 古稀祝 喜寿祝 傘寿祝 米寿祝 白寿祝 婚約祝 入学祝 就職祝 卒業祝 昇進祝 退職祝 開店祝 ゴルフコンペ 周年記念品 ご進物 上棟祝 御見舞い 快気祝い 新築祝い 手土産 金婚式 銀婚式※【 あす楽 】でご注文の方のキャンセル・変更は 14:00 までとさせて頂きます。",
+          "checkedAt": "2026-10-22T03:56:36.176Z",
+          "origin": "previous_evidence",
+          "retrieved": true,
+          "textHash": "1ac08baca954b6ae5a9ff295355b5a1b96e17cbec070729ee888f5b188b3fb49",
+          "availability": {
+            "title": "【楽天市場】わかむすめ 純米吟醸 十二秘色 ( じゅうにひそく ) 火入れ 720ml / 山口県 新谷酒造【 9492 】【 日本酒 】【 要冷蔵 】【 ハロウィン 贈り物 ギフト プレゼント 】：酒の番人　ヤマカワ",
+            "httpStatus": 200,
+            "sameDestination": true,
+            "itemId": "10011662",
+            "itemMatches": true,
+            "purchaseCondition": "enabled",
+            "stockCondition": null,
+            "soldOut": false,
+            "purchaseControls": true,
+            "purchasable": true,
+            "state": "purchase_enabled"
+          }
+        },
+        {
+          "itemCode": "kajiwara:10009206",
+          "normalUrl": "https://item.rakuten.co.jp/kajiwara/wakamusumekakitsubata/",
+          "name": "わかむすめ　燕子花　純米大吟醸　無濾過原酒　1.8L　[山口県]",
+          "shopName": "KAJIWARA",
+          "shopCode": "kajiwara",
+          "apiAvailability": 1,
+          "kind": "unconfirmed",
+          "caption": "豊かに華やぐ香りと上品な甘みが特徴で、透明感があり繊細ながらもジューシーな味わい。火入れタイプ。",
+          "checkedAt": "2026-10-22T03:56:37.335Z",
+          "origin": "current_api",
+          "retrieved": true,
+          "textHash": "acac07803b7511f730f378aea16502994437e6cfe8be15b51a26c19a7436e0b8",
+          "availability": {
+            "title": "【楽天市場】わかむすめ　燕子花　純米大吟醸　無濾過原酒　1.8L　[山口県]：ＫＡＪＩＷＡＲＡ",
+            "httpStatus": 200,
+            "sameDestination": true,
+            "itemId": "10009206",
+            "itemMatches": true,
+            "purchaseCondition": "enabled",
+            "stockCondition": null,
+            "soldOut": false,
+            "purchaseControls": true,
+            "purchasable": true,
+            "state": "purchase_enabled"
+          }
+        },
+        {
+          "itemCode": "yamasake:10010132",
+          "normalUrl": "https://item.rakuten.co.jp/yamasake/7920/",
+          "name": "わかむすめ 特別純米 月草 ( つきくさ ) 無濾過生原酒 720ml / 山口県 新谷酒造【 7920 】【 日本酒 】【 要冷蔵 】【 ハロウィン 贈り物 ギフト プレゼント 】",
+          "shopName": "酒の番人 ヤマカワ",
+          "shopCode": "yamasake",
+          "apiAvailability": 1,
+          "kind": "unconfirmed",
+          "caption": "●商品+ラッピング→ +230円　にて対応させていただきます。 ●商品+ラッピング+メッセージ→ +330円　にて対応させていただきます。 メッセージをご希望の場合は必ず台紙を選んでください。選択なしの場合は、お任せになりますのでご了承ください。 「月草 ( つきくさ ) 」は十二単（じゅうにひとえ）の かさねの色目の名でもあり、「つゆ草」の別名です。 わかむすめシリーズのサブネームは全て、 かさねの色目の名からネーミングされております。 酒米「八反錦」を使用し、吟醸酒造りで醸す特別純米酒です。 ほんのりバナナのような香りで、 しっかりとした甘味がありながら爽やかな飲み口です。 少しこってりとしたお料理にもよく合います。 【おすすめ温度帯】 15ー20℃（やや冷えた状態から常温）、 50℃の熱燗にし、落ち着いた食中酒としてもおすすめです。 【受賞歴】 ●Kura Master2018純米酒の部：ゴールド賞 ●ブリュッセル国際コンクール SAKE selection2018純米酒の部：プラチナ賞 特定名称：特別純米 原 材 料：米(国産)、米麹(国産米) 使 用 米：八反錦 100% 精米歩合：60％ アルコール分：15.5％ 製 造 元：新谷（しんたに）酒造(山口県) ※上記仕様はあくまでも目安です(ロットによって異なる場合がございます) ※品質保持の為、クール便にさせて頂きます。　 ■酒蔵紹介 昭和2年創業、二代目新谷末彦が引継ぐと「和可娘（わかむすめ）」の名で 長く地元でご愛顧頂きました。 平成になり跡継ぎのなかった蔵を、孫である新谷義直が三代目として引き継ぎましたが、 杜氏が高齢のため引退し廃業の危機に立たされます。 平成19年ひとりでも造り続ける決意をし、一年中仕込みが可能な四季醸造蔵へと改装。 しかし造りに関しては素人同然で苦難の船出。 酒造りと向き合うことで自身の酒造りのスタイルを確立していきました。 社長と杜氏を両方担う蔵元杜氏として、あっという間に10年が経ったのですが、 四季醸造蔵へと改修した蔵の梁が損傷。 移設を余儀なくされまたしても廃業の危機にさらされましたが、 歩みを止めることなく、この地で造り続ける道を選びました。 平成30年　新蔵完成。新たなスタート。 この仕込蔵の移設を機に、これまで社長と杜氏を兼任していた夫から、 杜氏のバトンが妻へと受け渡されました。 当時、山口県では唯一の女性杜氏が誕生しました。 酒蔵へ嫁いでからは 看護師と酒造りという二足のわらじ生活が約8年続いたそうです。 手間暇はかかりますが、雑味の少ない日本酒本来の清らかで美しい味わいを目指し 少量を丁寧に我が子のように手をかけて育てるのが、 私たちの酒造りのスタイル。 近年では、下記のような賞もいただくことができ、人気も急上昇中です！ 【Kura Master】純米酒部門　ゴールド賞。 ブリュッセル国際コンクール【SAKE selection】純米酒部門　最高位プラチナ賞。 【 蔵元談 】 山口県の小さな蔵ですが 当店も応援していければと思っております！ 下記の用途などにも使用できます。： 記念日 お誕生日 お返し 御歳暮 お歳暮 御中元 お中元 暑中御見舞 残暑御見舞 御年賀 お年賀 御祝い お祝い 内祝い 御礼 お礼 祝延寿 敬寿 結婚祝 結婚記念日 引き出物 出産祝 寿 贈り物 父の日 母の日 敬老の日 バレンタインデー ホワイトデー 還暦 還暦祝 還暦祝い 古稀祝 喜寿祝 傘寿祝 米寿祝 白寿祝 婚約祝 入学祝 就職祝 卒業祝 昇進祝 退職祝 開店祝 ゴルフコンペ 周年記念品 ご進物 上棟祝 御見舞い 快気祝い 新築祝い 手土産 金婚式 銀婚式※【 あす楽 】でご注文の方のキャンセル・変更は 14:00 までとさせて頂きます。",
+          "checkedAt": "2026-10-22T03:56:38.562Z",
+          "origin": "previous_evidence",
+          "retrieved": true,
+          "textHash": "252f680747d45acc1a6e72cfea04db65c7f909502c98e4261d888fb113209d4a",
+          "availability": {
+            "title": "【楽天市場】わかむすめ 特別純米 月草 ( つきくさ ) 無濾過生原酒 720ml / 山口県 新谷酒造【 7920 】【 日本酒 】【 要冷蔵 】【 ハロウィン 贈り物 ギフト プレゼント 】：酒の番人　ヤマカワ",
+            "httpStatus": 200,
+            "sameDestination": true,
+            "itemId": "10010132",
+            "itemMatches": true,
+            "purchaseCondition": "enabled",
+            "stockCondition": null,
+            "soldOut": false,
+            "purchaseControls": true,
+            "purchasable": true,
+            "state": "purchase_enabled"
+          }
+        }
+      ],
+      "official": [
+        {
+          "url": "https://wakamusume.com/story",
+          "retrieved": true,
+          "checkedAt": "2026-10-22T03:56:40.160Z",
+          "textHash": "23ab7aee11216920b1ac631e0895ecd8bc96bb49c518c5945a026caf53213d19"
+        }
+      ]
+    },
+    {
+      "sakeId": "miyoshikiku-iwjid2",
+      "offers": [
+        {
+          "itemCode": "auc-yumeikan:10004539",
+          "normalUrl": "https://item.rakuten.co.jp/auc-yumeikan/7113/",
+          "name": "三芳菊(みよしきく) 令和6BY 零(ぜろ) ZERO 山田錦等外米 無濾過生原酒 おりがらみ 【超フルーティー】【徳島県】【三芳菊酒造】【馬宮杜氏による新しい日本酒の形】【四国】【果実酒の様な日本酒】【フレッシュ】【中元】【歳暮】【ジューシー】",
+          "shopName": "こだわりの酒屋遊銘館",
+          "shopCode": "auc-yumeikan",
+          "apiAvailability": 1,
+          "kind": "unconfirmed",
+          "caption": "アルコール度数15度 呑み方 冷やから燗までお好みで 保存方法 要冷蔵 原材料 米（国産）・米麹（国産米） 原料米 山田錦（等外米） 精米歩合 70％ 日本酒度 --【要冷蔵の為クール便にて送らせて頂きますので必ず配送方法「クール便」をお選び下さい！お選びになられなかった場合でもクール便に変更させて頂きます！】 　◆◇　Guide　◇◆ 開栓すると南国系フルーツの香りが辺りに漂い、グラスに入れると濁った色。味わうと「日本酒」とは一体何なのかを深く考える今までに味わったことの無いフルーティーさ。甘酸っぱさの中に感じる巨大なお米の旨み、飲み込むと何故だか分かりませんがキレ味抜群でさっきまでの甘酸っぱさが嘘の様。不思議に思ってもう一口を飲むと気付いた時にはこのお酒の虜。中毒性の非常に高いお酒です。三芳菊さんの等外米シリーズは「特等、一等の評価が貰えるお米で無いと売りたくない」という職人気質の農家さんに御願いして質の高い等外の山田錦を安く譲って貰う事で非常にコストパフォーマンスに優れた日本酒を造っています。表記上は等外米の為「特定名称酒」は名乗れず普通酒扱いですが、中身は無濾過生純米原酒です。",
+          "checkedAt": "2026-10-22T03:56:41.203Z",
+          "origin": "previous_evidence",
+          "retrieved": true,
+          "textHash": "7d8b5ee808c10e83525f96d5ed30bb406bafa3c710ec111f3c6568fa22e84db6",
+          "availability": {
+            "title": "【楽天市場】酒類 >\n日本酒1 >\n三芳菊（みよしきく） >\n零 徳島県産山田錦等外米 無濾過生原酒 おりがらみ：こだわりの酒屋遊銘館",
+            "httpStatus": 200,
+            "sameDestination": true,
+            "itemId": null,
+            "itemMatches": false,
+            "purchaseCondition": null,
+            "stockCondition": null,
+            "soldOut": false,
+            "purchaseControls": false,
+            "purchasable": false,
+            "state": "item_identity_unconfirmed"
+          }
+        },
+        {
+          "itemCode": "auc-yumeikan:10004726",
+          "normalUrl": "https://item.rakuten.co.jp/auc-yumeikan/7318/",
+          "name": "三芳菊(みよしきく) 令和7BY 零(ぜろ) ZERO 山田錦等外米 無濾過生原酒 おりがらみ 【超フルーティー】【徳島県】【三芳菊酒造】【馬宮杜氏による新しい日本酒の形】【四国】【果実酒の様な日本酒】【フレッシュ】【中元】【歳暮】【ジューシー】",
+          "shopName": "こだわりの酒屋遊銘館",
+          "shopCode": "auc-yumeikan",
+          "apiAvailability": 1,
+          "kind": "unconfirmed",
+          "caption": "アルコール度数15度 呑み方 冷やから燗までお好みで 保存方法 要冷蔵 原材料 米（国産）・米麹（国産米） 原料米 山田錦（等外米） 精米歩合 70％ 日本酒度 --【要冷蔵の為クール便にて送らせて頂きますので必ず配送方法「クール便」をお選び下さい！お選びになられなかった場合でもクール便に変更させて頂きます！】 　◆◇　Guide　◇◆ 開栓すると南国系フルーツの香りが辺りに漂い、グラスに入れると濁った色。味わうと「日本酒」とは一体何なのかを深く考える今までに味わったことの無いフルーティーさ。甘酸っぱさの中に感じる巨大なお米の旨み、飲み込むと何故だか分かりませんがキレ味抜群でさっきまでの甘酸っぱさが嘘の様。不思議に思ってもう一口を飲むと気付いた時にはこのお酒の虜。中毒性の非常に高いお酒です。三芳菊さんの等外米シリーズは「特等、一等の評価が貰えるお米で無いと売りたくない」という職人気質の農家さんに御願いして質の高い等外の山田錦を安く譲って貰う事で非常にコストパフォーマンスに優れた日本酒を造っています。表記上は等外米の為「特定名称酒」は名乗れず普通酒扱いですが、中身は無濾過生純米原酒です。",
+          "checkedAt": "2026-10-22T03:56:42.369Z",
+          "origin": "previous_evidence",
+          "retrieved": true,
+          "textHash": "7d8b5ee808c10e83525f96d5ed30bb406bafa3c710ec111f3c6568fa22e84db6",
+          "availability": {
+            "title": "【楽天市場】酒類 >\n日本酒1 >\n三芳菊（みよしきく） >\n零 徳島県産山田錦等外米 無濾過生原酒 おりがらみ：こだわりの酒屋遊銘館",
+            "httpStatus": 200,
+            "sameDestination": true,
+            "itemId": null,
+            "itemMatches": false,
+            "purchaseCondition": null,
+            "stockCondition": null,
+            "soldOut": false,
+            "purchaseControls": false,
+            "purchasable": false,
+            "state": "item_identity_unconfirmed"
+          }
+        }
+      ],
+      "official": []
+    },
+    {
+      "sakeId": "hanaabi-junmai-daiginjo-1",
+      "offers": [
+        {
+          "itemCode": "mighty-liquors:10008397",
+          "normalUrl": "https://item.rakuten.co.jp/mighty-liquors/sa103015/",
+          "name": "花陽浴 純米大吟醸 越後五百万石 無濾過生原酒 おりがらみ 1800ml 2025年11月詰め 【要冷蔵・クール便推奨】 日本酒 秋 ハロウィン 秋の味覚 手土産 贈り物 プレゼント あす楽 ギフト のし",
+          "shopName": "日本酒・焼酎 マイティ・リカーズ",
+          "shopCode": "mighty-liquors",
+          "apiAvailability": 1,
+          "kind": "unconfirmed",
+          "caption": "商品詳細 原材料 米、米こうじ 度数 16度 サイズ 1800ml 備考 【保管方法：要冷蔵】生酒のため要冷蔵です。お届け後はすぐに冷蔵庫で保管してください。品質保持のためクール便でのお届けを推奨しております。宅配ボックスでのお受け取りは品質変化の原因となるためお控えください。【クール便(+350円)をご希望のお客様へ】・クール便代350円(税込)は、ご注文時の合計金額には含まれておりません。・ご注文後、当店で送料に350円を加算し、確定金額をメールでお知らせいたします。・銀行振込・コンビニ払いなど前払いのお客様には、はじめから350円を含んだ　お支払い金額をご案内いたします。お支払いは一度だけです。・複数の商品をご注文の場合、1つでも「クール便」をお選びいただければ、ご注文全体を　クール便でお届けします。クール便代は何点ご注文でも350円のみです。　",
+          "checkedAt": "2026-10-22T03:56:43.365Z",
+          "origin": "previous_evidence",
+          "retrieved": true,
+          "textHash": "bc8bd04ea79ef49c0888a5a796494f43396fee5f0e13deae2773877e614d0a31",
+          "availability": {
+            "title": "【楽天市場】花陽浴 純米大吟醸 越後五百万石 無濾過生原酒 おりがらみ 1800ml 2025年11月詰め 【要冷蔵・クール便推奨】 日本酒 秋 ハロウィン 秋の味覚 手土産 贈り物 プレゼント あす楽 ギフト のし：日本酒・焼酎　マイティ・リカーズ",
+            "httpStatus": 200,
+            "sameDestination": true,
+            "itemId": "10008397",
+            "itemMatches": true,
+            "purchaseCondition": "enabled",
+            "stockCondition": null,
+            "soldOut": false,
+            "purchaseControls": true,
+            "purchasable": true,
+            "state": "purchase_enabled"
+          }
+        },
+        {
+          "itemCode": "mighty-liquors:10008396",
+          "normalUrl": "https://item.rakuten.co.jp/mighty-liquors/sa103013/",
+          "name": "花陽浴 純米大吟醸 越後五百万石 無濾過生原酒 1800ml 2025年11月詰め 【要冷蔵・クール便推奨】 日本酒 秋 ハロウィン 秋の味覚 手土産 贈り物 プレゼント あす楽 ギフト のし 贈答品 お祝",
+          "shopName": "日本酒・焼酎 マイティ・リカーズ",
+          "shopCode": "mighty-liquors",
+          "apiAvailability": 1,
+          "kind": "unconfirmed",
+          "caption": "商品詳細 原材料 米、米こうじ 度数 16度 サイズ 1800ml 備考 【保管方法：要冷蔵】生酒のため要冷蔵です。お届け後はすぐに冷蔵庫で保管してください。品質保持のためクール便でのお届けを推奨しております。宅配ボックスでのお受け取りは品質変化の原因となるためお控えください。【クール便(+350円)をご希望のお客様へ】・クール便代350円(税込)は、ご注文時の合計金額には含まれておりません。・ご注文後、当店で送料に350円を加算し、確定金額をメールでお知らせいたします。・銀行振込・コンビニ払いなど前払いのお客様には、はじめから350円を含んだ　お支払い金額をご案内いたします。お支払いは一度だけです。・複数の商品をご注文の場合、1つでも「クール便」をお選びいただければ、ご注文全体を　クール便でお届けします。クール便代は何点ご注文でも350円のみです。　",
+          "checkedAt": "2026-10-22T03:56:44.573Z",
+          "origin": "previous_evidence",
+          "retrieved": true,
+          "textHash": "dc17628ecf62a5aa2af9937ae9155e0d7b354c6b8dd5d33e58786c4d66613646",
+          "availability": {
+            "title": "【楽天市場】花陽浴 純米大吟醸 越後五百万石 無濾過生原酒 1800ml 2025年11月詰め 【要冷蔵・クール便推奨】 日本酒 秋 ハロウィン 秋の味覚 手土産 贈り物 プレゼント あす楽 ギフト のし 贈答品 お祝：日本酒・焼酎　マイティ・リカーズ",
+            "httpStatus": 200,
+            "sameDestination": true,
+            "itemId": "10008396",
+            "itemMatches": true,
+            "purchaseCondition": "enabled",
+            "stockCondition": null,
+            "soldOut": false,
+            "purchaseControls": true,
+            "purchasable": true,
+            "state": "purchase_enabled"
+          }
+        }
+      ],
+      "official": []
+    },
+    {
+      "sakeId": "sara-hdomtl-2",
+      "offers": [
+        {
+          "itemCode": "yamasake:10008160",
+          "normalUrl": "https://item.rakuten.co.jp/yamasake/5775/",
+          "name": "彩來 ( さら ) 純米吟醸 生詰 720ml / 埼玉県 北西酒造【 5775 】【 日本酒 】【 要冷蔵 】【 ハロウィン 贈り物 ギフト プレゼント 】",
+          "shopName": "酒の番人 ヤマカワ",
+          "shopCode": "yamasake",
+          "apiAvailability": 1,
+          "kind": "unconfirmed",
+          "caption": "●商品+ラッピング→ +230円　にて対応させていただきます。 ●商品+ラッピング+メッセージ→ +330円　にて対応させていただきます。 メッセージをご希望の場合は必ず台紙を選んでください。選択なしの場合は、お任せになりますのでご了承ください。 彩來 純米吟醸シリーズの中で唯一の火入れ商品である 「彩來 純米吟醸」。 火入れ商品ではありますが、フレッシュさを持ち、マスカット様の 吟醸香が訪れた後に、お米の甘みが口の中に広がり、最後は酸でキレる 透明感のある酒質となっております。 彩來 Sara -彩の国より来たりし見知らぬ麗酒- 創業より継承された高度な醸造技術と緻密に組み立てた理論を融合し、 理想とする日本酒を作り上げました。 彩來のコンセプトである 「香り・甘味・酸の3つの要素が奏でるハーモニー」を より忠実に表現し、洗練されたバランスを持つ商品はお料理のタイプを選ばず お食事に寄り添う商品でもございます。 証券会社に勤めていた北西隆一郎さんは、埼玉県 北西酒造 5代目として30歳で 蔵を継ぐことになりました。 入社前に全国の酒蔵や広島にある酒類総合研究所を訪問して様々なノウハウを学んだそうです。 新しいブランド「彩來（SARA）」。 日本酒における従来の味の評価軸である甘味・香味の特性以外に、 これまで当社には無かった「酸」など新しい味わいと価値基準を加え、 香り・甘味・酸が彩る立体的な味わいを実現しようと造りました。 この実現の為に、彩來は1つのお酒を造るのに、単一では無く複数の酵母を使用しています。 IWC2019の大吟醸部門で最優秀となる「トロフィー」受賞 毎年、設備投資を行っておりさらに良いお酒が出来るように徹底しています。 麹室の中は　天井、壁がステンレス製で清潔に維持されています。 造りに関しては麹、特に「蓋麹」にこだわっています。 全量ではありませんが、容量の大きい木箱を使う「箱麹」に比べ品温管理がシビアで 扱いは難しくなります。 良い麹を作ることで、狙ったとおりのキレイなお酒が造れた という手応えがあると杜氏の村上さんが語ってくれました。 構想からリリースまで5年の歳月をかけた「彩來（SARA）」は蔵元の思いが強いお酒で、 全国数店舗の地酒専門店のみが扱える銘柄です。 岐阜県では当店のみの扱いとなります。 全体的に、彩來（さら）は 透明感のある綺麗な口当たり、酸とお米の旨みのバランスの良いお酒です。 まだ、立上げて数年ですので製造量が少なく割り当て状態が続いています。 人気の彩來（さら）を是非ともご賞味下さい。 特定名称：純米吟醸 原 材 料：米（国産）・米麹(国産米) 精米歩合：50％ 度　　数：15度 製 造 元：北西酒造（埼玉県） ※上記仕様はあくまでも目安です（ロットによって異なる場合がございます） ※品質保持の為、クール便にさせていただきます 下記の用途などにも使用できます。： 記念日 お誕生日 お返し 御歳暮 お歳暮 御中元 お中元 暑中御見舞 残暑御見舞 御年賀 お年賀 御祝い お祝い 内祝い 御礼 お礼 祝延寿 敬寿 結婚祝 結婚記念日 引き出物 出産祝 寿 贈り物 父の日 母の日 敬老の日 バレンタインデー ホワイトデー 還暦 還暦祝 還暦祝い 古稀祝 喜寿祝 傘寿祝 米寿祝 白寿祝 婚約祝 入学祝 就職祝 卒業祝 昇進祝 退職祝 開店祝 ゴルフコンペ 周年記念品 ご進物 上棟祝 御見舞い 快気祝い 新築祝い 手土産 金婚式 銀婚式※【 あす楽 】でご注文の方のキャンセル・変更は 14:00 までとさせて頂きます。",
+          "checkedAt": "2026-10-22T03:56:45.850Z",
+          "origin": "previous_evidence",
+          "retrieved": true,
+          "textHash": "e4246448a8c674e167f55d5659307f67279ff81fd5a099242ab10a1f070f9c18",
+          "availability": {
+            "title": "【楽天市場】彩來 ( さら ) 純米吟醸 生詰 720ml / 埼玉県 北西酒造【 5775 】【 日本酒 】【 要冷蔵 】【 ハロウィン 贈り物 ギフト プレゼント 】：酒の番人　ヤマカワ",
+            "httpStatus": 200,
+            "sameDestination": true,
+            "itemId": "10008160",
+            "itemMatches": true,
+            "purchaseCondition": "enabled",
+            "stockCondition": null,
+            "soldOut": false,
+            "purchaseControls": true,
+            "purchasable": true,
+            "state": "purchase_enabled"
+          }
+        },
+        {
+          "itemCode": "mighty-liquors:10003568",
+          "normalUrl": "https://item.rakuten.co.jp/mighty-liquors/10003568/",
+          "name": "彩來 sara 純米吟醸 火入れ 1800ml 日本酒 秋 ハロウィン 秋の味覚 手土産 贈り物 プレゼント あす楽 ギフト のし 贈答品 お祝 御祝 誕生日 内祝 還暦祝い 結婚祝い 出産祝い お酒 就職祝 退職祝",
+          "shopName": "日本酒・焼酎 マイティ・リカーズ",
+          "shopCode": "mighty-liquors",
+          "apiAvailability": 1,
+          "kind": "unconfirmed",
+          "caption": "商品詳細 原材料 米、米麹 度数 16度 サイズ 1800ml 備考 日本酒 ギフト お歳暮 御歳暮 お中元 御中元　プレゼント記念日 開店祝い 開店祝 贈答品 贈りもの 父の日 母の日 退職 還暦 誕生日 純米 じゅんまい 純米酒 特純 特別純米 純米吟醸 純吟 純大 純米大吟醸 本醸造 大吟醸 【保管方法】直射日光・高温多湿を避け、冷暗所または冷蔵庫で保管してください（冷蔵保管を推奨しております）。【クール便(+350円)をご希望のお客様へ】・クール便代350円(税込)は、ご注文時の合計金額には含まれておりません。・ご注文後、当店で送料に350円を加算し、確定金額をメールでお知らせいたします。・銀行振込・コンビニ払いなど前払いのお客様には、はじめから350円を含んだ　お支払い金額をご案内いたします。お支払いは一度だけです。・複数の商品をご注文の場合、1つでも「クール便」をお選びいただければ、ご注文全体を　クール便でお届けします。クール便代は何点ご注文でも350円のみです。　",
+          "checkedAt": "2026-10-22T03:56:47.004Z",
+          "origin": "current_api",
+          "retrieved": true,
+          "textHash": "8920154d7ac36f75964dc45d9ebbebd1186984b68894ce562d2a146e0c34e9f0",
+          "availability": {
+            "title": "【楽天市場】彩來 sara 純米吟醸 火入れ 1800ml 日本酒 秋 ハロウィン 秋の味覚 手土産 贈り物 プレゼント あす楽 ギフト のし 贈答品 お祝 御祝 誕生日 内祝 還暦祝い 結婚祝い 出産祝い お酒 就職祝 退職祝：日本酒・焼酎　マイティ・リカーズ",
+            "httpStatus": 200,
+            "sameDestination": true,
+            "itemId": "10003568",
+            "itemMatches": true,
+            "purchaseCondition": "enabled",
+            "stockCondition": null,
+            "soldOut": false,
+            "purchaseControls": true,
+            "purchasable": true,
+            "state": "purchase_enabled"
+          }
+        }
+      ],
+      "official": [
+        {
+          "url": "https://www.kitanishishuzo.co.jp/",
+          "retrieved": true,
+          "checkedAt": "2026-10-22T03:56:50.612Z",
+          "textHash": "ed1d4ff52086a11e87915ed7acecb024dc850f73437aef5a4db4f154830afc72"
+        }
+      ]
+    },
+    {
+      "sakeId": "mimurosugi-roman-series-2",
+      "offers": [
+        {
+          "itemCode": "bisyugakou:10000873",
+          "normalUrl": "https://item.rakuten.co.jp/bisyugakou/ms010-n72/",
+          "name": "みむろ杉 木桶菩提もと 自社田山田錦 720ml【化粧箱入り】日本酒／今西酒造 奈良県",
+          "shopName": "日本酒と焼酎の店 美酒我考",
+          "shopCode": "bisyugakou",
+          "apiAvailability": 1,
+          "kind": "unconfirmed",
+          "caption": "商品詳細 内容量 720ml 原材料 米(国産)・米麹(国産米) 原料米 奈良県三輪産自社田栽培「山田錦」 アルコール度数 13％ 商品説明 一口含むと、白桃のような柔らかな香りが広がり、続いてみむろ杉が醸す菩提酛特有の重層的な味わいが口の中で広がります。 木桶由来の複雑味とともに、じわりと広がる旨味が特徴で、力強い酸味と存在感のある味わいが、長い余韻を紡ぎ出します。ぜひワイングラスでお楽しみください。 保存方法 立てて冷暗所で保管してください。",
+          "checkedAt": "2026-10-22T03:56:50.771Z",
+          "origin": "current_api",
+          "retrieved": true,
+          "textHash": "68d1359006d82364a840c891fc99d5d8b385c598a3428ee5270448f4944b165b",
+          "availability": {
+            "title": "【楽天市場】みむろ杉 木桶菩提もと 自社田山田錦 720ml【化粧箱入り】日本酒／今西酒造 奈良県：日本酒と焼酎の店 美酒我考",
+            "httpStatus": 200,
+            "sameDestination": true,
+            "itemId": "10000873",
+            "itemMatches": true,
+            "purchaseCondition": "enabled",
+            "stockCondition": null,
+            "soldOut": false,
+            "purchaseControls": true,
+            "purchasable": true,
+            "state": "purchase_enabled"
+          }
+        }
+      ],
+      "official": [
+        {
+          "url": "https://imanishisyuzou.com/mimurosugi_roman/",
+          "retrieved": false,
+          "checkedAt": "2026-10-22T03:56:51.853Z",
+          "textHash": "013a3b8edf997d07306b9808db23211a7cf8598ff2ea80c18e05647bd9933afb"
+        }
+      ]
+    },
+    {
+      "sakeId": "taito-tokubetsu-junmai-v1",
+      "offers": [],
+      "official": [
+        {
+          "url": "https://www.chiyonosono.co.jp/blank-2",
+          "retrieved": true,
+          "checkedAt": "2026-10-22T03:56:53.124Z",
+          "textHash": "3bfc8894a0a303dec419f76c651960799b8ba957dbef40aedf27b9d68d4b239f"
+        }
+      ]
+    },
+    {
+      "sakeId": "nishinoseki-junmai-ginjo-bigin-v1",
+      "offers": [
+        {
+          "itemCode": "kyushu-shouchu-club:10001813",
+          "normalUrl": "https://item.rakuten.co.jp/kyushu-shouchu-club/nihonshu-038/",
+          "name": "西の関 美吟 純米吟醸酒 16度以上17度未満 720ml【びぎん】",
+          "shopName": "九州焼酎CLUB&スナップビー",
+          "shopCode": "kyushu-shouchu-club",
+          "apiAvailability": 1,
+          "kind": "unconfirmed",
+          "caption": "美吟　純米吟醸酒 ☆萱島（かやしま）酒造 甘・酸・辛・苦・渋が調和した「五味一如」の旨い酒を理想に、「西の横綱」の異名をとる大分国東半島の名門です。寒暖の差が激しい豪快な気候の中、手造りの姿勢を貫き、清酒本来の旨さを伝承しています。 ☆美吟　純米吟醸酒 ひんやりとした蔵内で、十分に熟成させた純米吟醸酒。ゆったりとふくよかなコクがあります。 ● 美吟について この酒は、銘酒「西の関」が手造りの伝統技術の粋をつくして恵まれた良質の水と磨きぬいた白米とで特別丁寧に造り上げた吟醸清酒です。「美吟」は、その風味の十分熟成するのを待って蔵出したもので、天然の色と香りと味との落着いた調和は西の関独特のものです。吟醸は冷やが普通ですが、この「美吟」はお燗も楽しむ事ができます。 【容量】　720ml 【度数】　16度以上17度未満 【日本酒度】-0.5 【精米歩合】55% 【酸度】1.4 【原材料】米（八反錦）・米麹 【産地】　大分 【蔵元】　萱島（かやしま）酒造",
+          "checkedAt": "2026-10-22T03:56:54.530Z",
+          "origin": "current_api",
+          "retrieved": true,
+          "textHash": "11d689d00f87bc25976bb54ea695b5de92a1ae158e1b250a249206f3113cfd12",
+          "availability": {
+            "title": "【楽天市場】西の関 美吟 純米吟醸酒 16度以上17度未満 720ml【びぎん】：九州焼酎CLUB＆スナップビー",
+            "httpStatus": 200,
+            "sameDestination": true,
+            "itemId": "10001813",
+            "itemMatches": true,
+            "purchaseCondition": "enabled",
+            "stockCondition": null,
+            "soldOut": false,
+            "purchaseControls": true,
+            "purchasable": true,
+            "state": "purchase_enabled"
+          }
+        },
+        {
+          "itemCode": "sandaime-saketarou:10001224",
+          "normalUrl": "https://item.rakuten.co.jp/sandaime-saketarou/4945252137257/",
+          "name": "【九州が誇る名門酒蔵】『西の関』といえば、日本酒の西の横綱！ひんやりとした蔵内で、充分に熟成させた純米吟醸酒大分県【萱島酒造有限会社】【専用化粧箱入】 西の関　純米吟醸　美吟　（にしのせき　びぎん）16度 720ml",
+          "shopName": "焼酎・日本酒専門店 三代目酒太郎",
+          "shopCode": "sandaime-saketarou",
+          "apiAvailability": 1,
+          "kind": "unconfirmed",
+          "caption": "西の関　純米吟醸　美吟3091.2864.2829.10 内容量 720mlml 度数 16度 日本酒度 ：-0.5 商品特徴 ひんやりとした蔵内で、充分に熟成させた純米吟醸酒。ゆったりとふくよかなコクがあり、ぬる燗でも美味しい吟醸酒。 原材料 米(八反錦・山田錦)、、米麹、50%・50%精白 精米歩合 50％ 酸度 ：1.3　 製造元 萱島酒造有限会社 保存方法 高温多湿、直射日光は避け保存してください。 ※お酒は20歳から！未成年者への酒類の販売は固くお断りしています！●　【九州が誇る名門酒蔵・西の関】といえば、日本酒の西の横綱！西の関が醸す『手造り　 純米酒』は10年連続『プロが選んだ鰻に合う酒』人気ナンバー1！で殿堂入りひんやりとした蔵内で、充分に熟成させた純米吟醸酒。ゆったりとふくよかなコクがあり、ぬる燗でも美味しい吟醸酒。　 ◆【萱島酒造(有)】明治6年創業。明治20年代二代目当主が西日本の代表酒を目指し「西の関」と命名。明治40年第1回全国清酒品評会一等受賞。昭和47年ドイツの大きき酒会に日本の代表として出品される。 ●2015「プロが選んだ鰻に合う酒」10年連続人気No.1 西の関が醸す『手造り　 純米酒』とは・・・　 日本名門酒会では「鰻と相性ぴったりな日本酒を見つけよう」と、2006年から鰻とお酒の相性テストを実施してきました。 今年は昨年に引き続き鰻百選・堺編集長、漫画家・ラズウェル細木氏の2名と、今年初参加のHIBIYA　BAR・山本利晴氏、そして本部スタッフを加えた合計11名で審査し、2013年「プロが選んだ鰻に合う酒」を決定いたしました。 相性テストは銘柄を隠して行われますが、なんと8年連続で1位をゲットしているのが、この西 の関『手造り純米酒』。 焼き方、タレの味わい、地域差などまったく関係なし！手造りを貫く蔵が醸す、米本来のまろやかな旨さが生きる純米酒は、鰻の脂と交じり合って、絶妙なハーモニーを醸し出します。 ●手造りを貫く蔵が醸す、米本来のまろやかな旨さが生きる純米酒。 冷やでよし、ぬる燗でよし。純米酒らしい芳醇な味わいです。 目指す味わいは“軽くて旨い酒”　“国東の味覚に合う酒”。 地元国東半島の海の幸と人々の舌に鍛えられ、 豊かな旨味を持ちながらも軽快な味わいに仕上がっています。 ●萱島酒造有限会社 （大分県) 「九州の国東半島に明治の創業以来、代々「品質主義」を標榜し、時代の風潮や流行に流されることなく、あくまでも手造りの良さと清酒本来の旨さを貫く蔵。定番酒の品質向上に全力を傾注し、地元の厚い支持を得ています。 名杜氏の技を今に受け継ぐ 伝統の銘酒",
+          "checkedAt": "2026-10-22T03:56:55.632Z",
+          "origin": "current_api",
+          "retrieved": true,
+          "textHash": "0ee4e3905205c735fbe58930f2d3719ab61c78732347ab7ea70925f28d033f1f",
+          "availability": {
+            "title": "【楽天市場】【九州が誇る名門酒蔵】『西の関』といえば、日本酒の西の横綱！ひんやりとした蔵内で、充分に熟成させた純米吟醸酒大分県【萱島酒造有限会社】【専用化粧箱入】 西の関　純米吟醸　美吟　（にしのせき　びぎん）16度 720ml：焼酎・日本酒専門店　三代目酒太郎",
+            "httpStatus": 200,
+            "sameDestination": true,
+            "itemId": "10001224",
+            "itemMatches": true,
+            "purchaseCondition": "enabled",
+            "stockCondition": null,
+            "soldOut": false,
+            "purchaseControls": true,
+            "purchasable": true,
+            "state": "purchase_enabled"
+          }
+        }
+      ],
+      "official": [
+        {
+          "url": "https://www.nishinoseki.com/product/junginshu/",
+          "retrieved": false,
+          "checkedAt": "2026-10-22T03:57:07.365Z"
+        }
+      ]
+    },
+    {
+      "sakeId": "mimurosugi-tokubetsu-junmai-tsuyuhakaze-v1",
+      "offers": [],
+      "official": [
+        {
+          "url": "https://imanishisyuzou.com/mimurosugi_roman/",
+          "retrieved": false,
+          "checkedAt": "2026-10-22T03:56:51.853Z",
+          "textHash": "013a3b8edf997d07306b9808db23211a7cf8598ff2ea80c18e05647bd9933afb"
+        }
+      ]
+    },
+    {
+      "sakeId": "daijiro-yamada-junmai-ginjo-hiire-v1",
+      "offers": [
+        {
+          "itemCode": "kimijimaya-online:10000160",
+          "normalUrl": "https://item.rakuten.co.jp/kimijimaya-online/1001430/",
+          "name": "大治郎 よび酒(みず) 純米 生酒 1800ml 畑酒造 日本酒 滋賀県 ギフト",
+          "shopName": "君嶋屋 楽天市場店",
+          "shopCode": "kimijimaya-online",
+          "apiAvailability": 1,
+          "kind": "unconfirmed",
+          "caption": "大治郎の定番、地元東近江の「呑百笑の会」が生産した吟吹雪を使用した純米酒です。 生原酒をそのまま瓶燗して、程よく寝かしたあとに出荷されています。 商品スペック 生産者 畑酒造 内容量 1800ml 原産地 滋賀県 特定名称 純米 使用米 滋賀県産吟吹雪 精米歩合 60% アルコール度数 ※20歳未満の方の飲酒は法律で禁止されています",
+          "checkedAt": "2026-10-22T03:57:07.547Z",
+          "origin": "previous_evidence",
+          "retrieved": true,
+          "textHash": "ec7a83b6556dfbefe91d9d7acfe770670a87c4b45b9c0f89bcb93610a954a3f3",
+          "availability": {
+            "title": "【楽天市場】大治郎 よび酒(みず) 純米 生酒 1800ml 畑酒造 日本酒 滋賀県 ギフト：君嶋屋　楽天市場店",
+            "httpStatus": 200,
+            "sameDestination": true,
+            "itemId": "10000160",
+            "itemMatches": true,
+            "purchaseCondition": "enabled",
+            "stockCondition": null,
+            "soldOut": false,
+            "purchaseControls": true,
+            "purchasable": true,
+            "state": "purchase_enabled"
+          }
+        },
+        {
+          "itemCode": "kimijimaya-online:10000161",
+          "normalUrl": "https://item.rakuten.co.jp/kimijimaya-online/1001432/",
+          "name": "大治郎 情熱 迷酒(環境こだわり農産物・山田錦) 生酒 720ml 畑酒造 日本酒 滋賀県 純米吟醸 ギフト",
+          "shopName": "君嶋屋 楽天市場店",
+          "shopCode": "kimijimaya-online",
+          "apiAvailability": 1,
+          "kind": "unconfirmed",
+          "caption": "横浜君嶋屋オリジナル日本酒「情熱シリーズ」 モンラッシェを思わせる豊醇な旨味と酸味。黄昏を誘う純米吟醸 商品概要 1999年に若き蔵元が造り上げた日本酒銘柄「大治郎」は、信頼のおける地元農家による契約栽培米を使用し、伝統製法を守り小仕込みで丁寧に造り上げるこだわりの酒。淡麗辛口が主流の時代に君嶋代表が初めて口にした際、銘醸地ブルゴーニュの中でも白ワインの頂点「モンラッシェ」を思わせる、ふくらみのある豊潤な味わいを感じました。そのような酒は他に無く、中でも質の高かったタンクをセレクトして情熱ラベルとしました。 香り、味わい 杏仁豆腐、桃、白玉、栗やクリームの香り。味わい芳醇で旨み・甘みに満ち溢れていて、程よい酸がありバランスが整っています。フルーツのような味わいで余韻もきれいに残る、味のある純米吟醸です。 おススメの飲み方、合わせたい料理 冷酒から冷やでぐい&#21534;みやワイングラスで楽しみたい。 豚の角煮、うなぎの蒲焼、照り焼きなど味醂を使用した料理、また牛肉のせいろ蒸し北京ダックと高相性です。 畑酒造とは 1914年の創業。2010年より自社田での米づくりも始め、土の中・醪の中の微生物と会話しながら、目で見て手で触れ香りで感じるという酒造り。 この地ならではのこだわり農産物、高品質で安心安全な「滋賀の山田錦」を使い、魚よりは近江牛など肉に合わせるのが美味しい、郷土を大切に想う心を込めた食中酒に仕立てました。また、ラベルに使われる和紙も滋賀県守山市で作られたものを使用し、ボトルに味のある表情を添えています。 商品スペック 生産者 畑酒造 内容量 720ml 原産地 滋賀県 特定名称 純米吟醸 使用米 山田錦 精米歩合 55% アルコール度数 ※20歳未満の方の飲酒は法律で禁止されています",
+          "checkedAt": "2026-10-22T03:57:08.681Z",
+          "origin": "previous_evidence",
+          "retrieved": true,
+          "textHash": "2ea87a7107ead917cb74ac5602ec1a99e4895ff4a8629f03e767c97d695af433",
+          "availability": {
+            "title": "【楽天市場】大治郎 情熱 迷酒(環境こだわり農産物・山田錦) 生酒 720ml 畑酒造 日本酒 滋賀県 純米吟醸 ギフト：君嶋屋　楽天市場店",
+            "httpStatus": 200,
+            "sameDestination": true,
+            "itemId": "10000161",
+            "itemMatches": true,
+            "purchaseCondition": "enabled",
+            "stockCondition": null,
+            "soldOut": false,
+            "purchaseControls": true,
+            "purchasable": true,
+            "state": "purchase_enabled"
+          }
+        }
+      ],
+      "official": [
+        {
+          "url": "https://daijirou.jp/%E7%95%91%E9%85%92%E9%80%A0%E3%81%AE%E6%B8%85%E9%85%92%E4%B8%80%E8%A6%A7/",
+          "retrieved": true,
+          "checkedAt": "2026-10-22T03:57:11.128Z",
+          "textHash": "90bdd861488838217b3a8fdf022c22559ebe8e521f503400dbb7acc40061604c"
+        }
+      ]
+    },
+    {
+      "sakeId": "bentenmusume-junmai-yamahai-gouriki-v1",
+      "offers": [
+        {
+          "itemCode": "syuraku-shop:10000032",
+          "normalUrl": "https://item.rakuten.co.jp/syuraku-shop/44508/",
+          "name": "辨天娘 べんてんむすめ 純米酒 五百万石 1800ml 鳥取県 太田酒造場 日本酒 弁天娘コンビニ受取対応商品 あす楽 お酒 お歳暮 プレゼント",
+          "shopName": "酒楽SHOP",
+          "shopCode": "syuraku-shop",
+          "apiAvailability": 1,
+          "kind": "unconfirmed",
+          "caption": "蔵元 太田酒造場（鳥取県） 原料米 五百万石 精米歩合 65％ アルコール度数 15〜16度 日本酒度 ＋12 酸度 - 酵母 - クール便 夏期推奨 当店について 「酒楽SHOP」は大正5年から続く、台東区の酒販店「ヤマロク」のインターネット通販ショップです 都内最大級の酒専用庫「純米入谷蔵」では蔵元さんから 直送いただいた純米酒を中心としたお酒を、温度管理・鮮度管理を徹底して、お客様のもとへお届けしております。ラッピングも承ります。ギフトやお中元・お歳暮、お世話になった方へ、日本酒・梅酒・焼酎などぜひご利用ください。 太田酒造場　弁天娘 仕込みは社長を含め3人で行なっています。 手間はかかりますが洗米、製麹すべて手作業が基本です。 販売は、若桜と鳥取を結ぶ国道29号線沿いの酒販店を中心に販売しています。 地元の辨天娘愛飲家の皆様に支えられて頑張っています。 酒造りへの思い まず何より、商品がお客様のお手元に渡るまで、ひとつひとつ丁寧に管理することです。そしてお客様とのお付き合いを大切にさせて頂き、その中から多くのヒントを頂戴して、伝統を守りつつも新しいものへの挑戦を忘れないことです。 まるごとべんてんむすめ 自分たちがいいと思うものを造ってできたお酒を大切に売っていっています。 清酒　辨天娘 原料である酒米は若桜の酒造好適米を使用。米ごと、生産者ごとにタンクを分けて仕込みをしています。出荷時のラベルには米の生産者、何番目のタンクかが分かるようになっています。 ◆こんなギフトシーンに◆ 内祝い・出産内祝い・結婚内祝い・快気内祝い・快気祝い・引出物・引き出物・結婚式・新築内祝い・お返し・入園内祝い・入学内祝い・就職内祝い・成人内祝い・退職内祝い・満中陰志・香典返し・志・法要・年忌・仏事・法事・法事引き出物・仏事法要・お祝い・御祝い・一周忌・三回忌・七回忌・出産祝い・結婚祝い・新築祝い・入園祝い・入学祝い・就職祝い・成人祝い・退職祝い・退職記念・お中元・御中元・暑中見舞い・暑中見舞・残暑見舞い・残暑見舞・お歳暮・御歳暮・寒中見舞い・お年賀・御年賀・正月・お正月・年越し・年末・年始・粗品・プレゼント・お見舞い・記念品・賞品・景品・二次会・ゴルフコンペ・ノベルティ・母の日・父の日・敬老の日・敬老祝い・お誕生日お祝い・バースデイ・クリスマス・クリスマスプレゼント・バレンタインデー・ホワイトデー・結婚記念日・贈り物・ギフト・ギフトセット・贈り物・お礼・御礼・手土産・お土産・お遣い物・ご挨拶・ご自宅用・贈答品・ご贈答・記念日・記念品・誕生日・誕生祝い・結婚記念日・引越し祝い・転居・昇進・栄転・感謝・還暦祝・華寿・緑寿・古希・喜寿・傘寿・米寿・卒寿・白寿・上寿・歓送迎会・歓迎会・送迎会・粗品・卒業祝い・成人式・成人の日・お見舞い・開店祝い・開業祝い・周年・イベント・協賛・ビジネス・法人・お彼岸・お返し・お酒・日本酒・地酒・芋焼酎・麦焼酎・黒糖焼酎・梅酒・和リキュール・仏事・お盆・新盆・初盆・御供え・お供え・パーティー・合コン・お見合い・花見・お花見・こだわり・蔵元直送・直送・ランキング・売れ筋・杜氏・クチコミ・ポイント・詰め合わせ・詰め合せセット・飲み比べ・飲み比べセット・お試し・おためし・セット・グルメ・お取り寄せ・酒楽SHOP辨天娘 純米 1800ml 太田酒造場は鳥取県の山間の蔵元です。この辨天娘は自家栽培した地元の若桜太田産の五百万石を使用して醸されています。一般的にお酒はタンク毎に微妙に異なるスペックを平均化するためブレンドするのですが、ここの蔵元のお酒の特徴として仕込順毎にブレンドせずに商品として出荷する為同じ純米酒でも仕込み順が違うと大分味わいが異なることです。仕込み順1号は「1番娘」とそれぞれ「○番娘」と名前を付けて表示しています。これは蔵元さんが仕込み毎に異なる味わいを味わって欲しいとの願いからそうしているそうです。香りは穏やかですが青リンゴのような香りもあります。味わいも派手さは無いがしっとりとした味わい、燗をすると旨みが際立ち、燗ざましはさらに美味しいしっかりと発酵させたお酒の特徴が出ています ※こちらの商品は随時入荷をしております商品のため、掲載画像のBYと異なる場合がございます。 商品の確認はお気軽にお問い合わせください。",
+          "checkedAt": "2026-10-22T03:56:31.403Z",
+          "origin": "previous_evidence",
+          "retrieved": true,
+          "textHash": "326e71dab0bae16b27a663b9891a53d0efb596b331d31d8c964f2703ca004816",
+          "availability": {
+            "title": "【楽天市場】辨天娘 べんてんむすめ 純米酒 五百万石 1800ml 鳥取県 太田酒造場 日本酒 弁天娘コンビニ受取対応商品 あす楽 お酒 お歳暮 プレゼント：酒楽SHOP",
+            "httpStatus": 200,
+            "sameDestination": true,
+            "itemId": "10000032",
+            "itemMatches": true,
+            "purchaseCondition": "enabled",
+            "stockCondition": null,
+            "soldOut": false,
+            "purchaseControls": true,
+            "purchasable": true,
+            "state": "purchase_enabled"
+          }
+        },
+        {
+          "itemCode": "sakematured:10000018",
+          "normalUrl": "https://item.rakuten.co.jp/sakematured/btm03-07-02/",
+          "name": "熟成5年 辨天娘(べんてんむすめ) 720ml 送料無料 熟成酒 古酒 【純米 強力 R2BY 辨天娘】ヴィンテージ 鳥取県 食前酒 太田酒造の「強力」5年熟成 アルコール度数17% 純米酒 ギフト 内祝 贈答 高級 日本酒 プレゼント 秋ギフト",
+          "shopName": "熟と燗",
+          "shopCode": "sakematured",
+          "apiAvailability": 1,
+          "kind": "unconfirmed",
+          "caption": "商品情報名称日本酒内容量720 ml原材料米、米麹製造元太田酒造場鳥取県八頭郡若桜町若桜1223−2特徴など鳥取県固有の原生品種「強力」を自然酵母でしっかりと発酵させたお酒です。タンク貯蔵で、土壁の蔵の中でタンク熟成されています常温だけでなく、熱燗、飛切り燗、そして燗冷ましでも楽しんでいただけます。魚介類から南蛮漬けやスパイス系など様々なお料理との合うお酒です。保存方法熟成日本酒はフレッシュなお酒より保存が容易ですが、紫外線を避け、なるべく振動のない場所での保管をおすすめします。低温で熟成されたお酒（低温熟成）は、ワインセラーや冷蔵庫の野菜室などで。常温で熟成されたお酒（常温熟成、スペシャルテイスト）は、真夏以外は室温（25度程度以下、戸棚の中など）で。この状態で数ヶ月〜一年程度であれば、問題なく保管可能です。また、開栓後も上記のような環境下では、数週間程度であれば熟成が大きく進んだり、品質の劣化が起こったりすることもほぼありません。これは、熟成プロセスの中で、物理的・化学的な変化がゆっくりと進行し、熟成酒の魅力を安定的にもたらしてくれる状態に達しているから。また当社がセレクトするお酒は、熟成に耐える酒質を擁しているからでもあります。",
+          "checkedAt": "2026-10-22T03:56:32.530Z",
+          "origin": "previous_evidence",
+          "retrieved": true,
+          "textHash": "66edc0899a83b7126055a8456d2d530202f1fc115622c391b1295fdd2d6f8abc",
+          "availability": {
+            "title": "【楽天市場】熟成5年 辨天娘(べんてんむすめ) 720ml 送料無料 熟成酒 古酒 【純米 強力 R2BY 辨天娘】ヴィンテージ 鳥取県 食前酒 太田酒造の「強力」5年熟成 アルコール度数17% 純米酒 ギフト 内祝 贈答 高級 日本酒 プレゼント 秋ギフト：熟と燗",
+            "httpStatus": 200,
+            "sameDestination": true,
+            "itemId": "10000018",
+            "itemMatches": true,
+            "purchaseCondition": "enabled",
+            "stockCondition": null,
+            "soldOut": false,
+            "purchaseControls": true,
+            "purchasable": true,
+            "state": "purchase_enabled"
+          }
+        }
+      ],
+      "official": [
+        {
+          "url": "https://www.bentenmusume.com/%E8%BE%A8%E5%A4%A9%E5%A8%98%E3%81%AE%E9%85%92",
+          "retrieved": true,
+          "checkedAt": "2026-10-22T03:56:33.719Z",
+          "textHash": "230f49d608b265e263258150eebecab2d246781d52bd98ed950a523121154295"
+        }
+      ]
+    },
+    {
+      "sakeId": "shiraito-70-v1",
+      "offers": [
+        {
+          "itemCode": "hasegawasaketen:10004947",
+          "normalUrl": "https://item.rakuten.co.jp/hasegawasaketen/1008344/",
+          "name": "田中六五 火入 1800ml 日本酒 白糸酒造 福岡県",
+          "shopName": "はせがわ酒店",
+          "shopCode": "hasegawasaketen",
+          "apiAvailability": 1,
+          "kind": "unconfirmed",
+          "caption": "■福岡県の蔵元・白糸酒造が醸す日本酒です。 商品情報 商品名 田中六五 火入 商品説明 「田中六五」は蔵元の苗字である「田中」と、山田錦の田んぼの中に蔵が建っている事から。そして、精米歩合65％の「六五」を合わせて名付けられました。麹の穏やかな香りに、しっかりとした旨味と酸、その後に続く軽やかな苦味が味わいにコクを与えるふくよかな味わいです。 蔵紹介 白糸酒造 / 福岡県 山田錦の田んぼに囲まれた酒蔵。 安政2年(1855年)創業。全国でも五本の指に入る山田錦の一大産地、福岡県糸島に蔵はあります。山田錦の田んぼに囲まれ、さらには名勝・白糸の滝からの伏流水が仕込み水として使える酒造りに恵まれた立地です。自然な旨味を湛えつつ、洗練された飲み口で全国的な人気を誇る『田中六五』は白糸酒造の八代目 田中克典さんが中心となって手掛ける酒です。田中とは田中家の姓であると共に、田んぼの中にある酒蔵で醸されたという意味が込められています。そして六五とは、65％精米した糸島産山田錦のみを醸した純米酒であることに由来します。シンプルなスタイルですが、そこには地元の米で酒を醸し、糸島への敬愛と感謝をひとしずくに込めるという、この場所で酒を醸す蔵元の覚悟や誇りが込められています。 蔵の建物は、白糸酒造の特徴ともなっているハネ木搾りを行う昔ながらの木造部分と、仕込みスペースの新しいRC造部分が同居したハイブリッドな空間となっています。仕込みにおいても、伝統的な仕込み方法を踏襲しつつ、味を数値化し、データとして把握できる最新テクノロジーを導入し、これからの未来を見据えた酒造りを行っています。 注意事項 クール便推奨。 画像はイメージです。 画像内の製造年月は撮影当時のものとなります。 サイズ表記に関しては商品名からご判断下さい。 ギフト 箱が付属している商品には包装紙、瓶の商品には和紙掛けでのご用意となります。 シーンに合わせて、各種熨斗のご用意もございます。 詳しくはこちらでご確認をお願い致します。 配送方法 お届けはヤマト運輸です。送料にはカートン代が含まれています。 1個口には常温便の場合1800mlなら6本、720mlなら12本まで。クール便の場合は1800mlなら5本、720mlなら10本までおまとめが可能です。 ただし、ボトルの型や重量によってはまとまる本数が異なる場合がございます。 詳しくはこちらでご確認をお願い致します。",
+          "checkedAt": "2026-10-22T03:57:11.319Z",
+          "origin": "previous_evidence",
+          "retrieved": true,
+          "textHash": "5f0984943531074d3f7c005bd356136320189ec5e5d44ce5bd72844329606513",
+          "availability": {
+            "title": "【楽天市場】田中六五 火入 1800ml 日本酒 白糸酒造 福岡県：はせがわ酒店",
+            "httpStatus": 200,
+            "sameDestination": true,
+            "itemId": "10004947",
+            "itemMatches": true,
+            "purchaseCondition": "enabled",
+            "stockCondition": null,
+            "soldOut": false,
+            "purchaseControls": true,
+            "purchasable": true,
+            "state": "purchase_enabled"
+          }
+        },
+        {
+          "itemCode": "meishu-honpo:10002564",
+          "normalUrl": "https://item.rakuten.co.jp/meishu-honpo/59821/",
+          "name": "予約期間10/9～11/8 出荷11/9～｜ 田中六五 純米酒 生 720ml たなかろくじゅうご 白糸酒造",
+          "shopName": "銘酒本舗 IMANAKA SAKESHOP",
+          "shopCode": "meishu-honpo",
+          "apiAvailability": 1,
+          "kind": "unconfirmed",
+          "caption": "予約期間：10/9～11/8、11月9日頃入荷予定出荷は入荷後順次 ※蔵元からの出荷日が変更され入荷日が変わることがあります。 ※早期入荷の場合は予定より早くお届けすることがございます。 この商品は入荷まで発送できない予約商品です。 その他の商品を一緒にご注文いただきました場合は、全ておまとめして入荷後の発送となります。 その他の商品が先に必要な場合は、大変お手数をおかけいたしますが、予め分けてご注文ください。 配送日をご指定される場合は、入荷日以降でお願いいたします。 入力フォームで指定できない場合は、備考欄に入荷日以降のご希望日時をご記載ください。 ※入荷日前に配送日をご指定されても予約商品入荷後の発送となります。予めご了承ください。 詳細 蔵元 有限会社 白糸酒造 蔵元所在地 福岡県前原市大字本1986 アルコール分 14％ 内容量 720ml 原料米 糸島産 山田錦100％ 精米歩合 65％ 火入 生酒 日本酒度 ━ 酸度 ━ 酵母 ━ 保管方法 要冷蔵 配送方法 クール便（送料とは別料金で追加） 備考 糸島酒造の位置する福岡県糸島市は全国にも名を馳せる酒米・山田錦の生産地です。その素晴らしいお米と真っ直ぐ向き合い、心意気で醸し、伝統のハネ木で優しく搾りました。 山田錦の“田”んぼの“中”から生まれた酒、「田中六五」をどうぞご賞味下さい。 ※この商品は『生酒』です。 3月～10月は火入れになります☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆ 【お酒は20歳になってから】 未成年の方へのお酒の販売は堅くお断りしております。 ご注文時年齢確認をさせていただいております。",
+          "checkedAt": "2026-10-22T03:57:12.486Z",
+          "origin": "previous_evidence",
+          "retrieved": true,
+          "textHash": "43acf059614abaa13188c8ad397594fbc881bdfb2306da56593c074293fcfdf3",
+          "availability": {
+            "title": "【楽天市場】予約期間10/9～11/8 出荷11/9～｜ 田中六五 純米酒 生 720ml たなかろくじゅうご  白糸酒造：銘酒本舗　IMANAKA SAKESHOP",
+            "httpStatus": 200,
+            "sameDestination": true,
+            "itemId": "10002564",
+            "itemMatches": true,
+            "purchaseCondition": "enabled",
+            "stockCondition": null,
+            "soldOut": false,
+            "purchaseControls": true,
+            "purchasable": true,
+            "state": "purchase_enabled"
+          }
+        },
+        {
+          "itemCode": "meishu-honpo:10002563",
+          "normalUrl": "https://item.rakuten.co.jp/meishu-honpo/59820/",
+          "name": "予約期間10/9～11/8 出荷11/9～｜ 田中六五 純米酒 生 1800ml たなかろくじゅうご 白糸酒造",
+          "shopName": "銘酒本舗 IMANAKA SAKESHOP",
+          "shopCode": "meishu-honpo",
+          "apiAvailability": 1,
+          "kind": "unconfirmed",
+          "caption": "予約期間：10/9～11/8、11月9日頃入荷予定出荷は入荷後順次 ※蔵元からの出荷日が変更され入荷日が変わることがあります。 ※早期入荷の場合は予定より早くお届けすることがございます。 この商品は入荷まで発送できない予約商品です。 その他の商品を一緒にご注文いただきました場合は、全ておまとめして入荷後の発送となります。 その他の商品が先に必要な場合は、大変お手数をおかけいたしますが、予め分けてご注文ください。 配送日をご指定される場合は、入荷日以降でお願いいたします。 入力フォームで指定できない場合は、備考欄に入荷日以降のご希望日時をご記載ください。 ※入荷日前に配送日をご指定されても予約商品入荷後の発送となります。予めご了承ください。 詳細 蔵元 有限会社 白糸酒造 蔵元所在地 福岡県前原市大字本1986 アルコール分 14％ 内容量 1800ml 原料米 糸島産 山田錦100％ 精米歩合 65％ 火入 生酒 日本酒度 ━ 酸度 ━ 酵母 ━ 保管方法 要冷蔵 配送方法 クール便（送料とは別料金で追加） 備考 糸島酒造の位置する福岡県糸島市は全国にも名を馳せる酒米・山田錦の生産地です。その素晴らしいお米と真っ直ぐ向き合い、心意気で醸し、伝統のハネ木で優しく搾りました。 山田錦の“田”んぼの“中”から生まれた酒、「田中六五」をどうぞご賞味下さい。 ※この商品は『生酒』です。 3月～10月は火入れになります☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆ 【お酒は20歳になってから】 未成年の方へのお酒の販売は堅くお断りしております。 ご注文時年齢確認をさせていただいております。",
+          "checkedAt": "2026-10-22T03:57:13.697Z",
+          "origin": "previous_evidence",
+          "retrieved": true,
+          "textHash": "8ac2e1ea0b6797cae35a692b39719c2c4cfd60dbf0840e38c9f1a4454eb28bf5",
+          "availability": {
+            "title": "【楽天市場】予約期間10/9～11/8 出荷11/9～｜ 田中六五 純米酒 生 1800ml たなかろくじゅうご  白糸酒造：銘酒本舗　IMANAKA SAKESHOP",
+            "httpStatus": 200,
+            "sameDestination": true,
+            "itemId": "10002563",
+            "itemMatches": true,
+            "purchaseCondition": "enabled",
+            "stockCondition": null,
+            "soldOut": false,
+            "purchaseControls": true,
+            "purchasable": true,
+            "state": "purchase_enabled"
+          }
+        }
+      ],
+      "official": [
+        {
+          "url": "https://shiraito.stores.jp/items/6a435cfc3e49aa37f0b2d551",
+          "retrieved": false,
+          "checkedAt": "2026-10-22T03:57:14.816Z",
+          "textHash": "ae88bde8c9283c868deaa57e42c4e619f962d7ee9b9613e91a813658170925ab"
+        }
+      ]
+    },
+    {
+      "sakeId": "kurawanka-junmai-usunigori-v1",
+      "offers": [],
+      "official": [
+        {
+          "url": "https://www.katanosakura.com/item/a047/",
+          "retrieved": false,
+          "checkedAt": "2026-10-22T03:57:16.043Z",
+          "textHash": "f943fbc4ea0dfc6162db8ccee341ae9c5febaaf5cb3f31b787144094f1ab58fc"
+        }
+      ]
+    },
+    {
+      "sakeId": "toyonoume-yoiyoi-junmai-ginjo-v1",
+      "offers": [
+        {
+          "itemCode": "moritokuzo:10004423",
+          "normalUrl": "https://item.rakuten.co.jp/moritokuzo/taka-yoiyoi/",
+          "name": "高木酒造　豊能梅 宵宵 純米吟醸 1本 化粧箱なし 化粧箱入り 純米吟醸酒 お酒 高知 お歳暮 お中元 御祝い プレゼント 贈答 お土産",
+          "shopName": "森徳蔵楽天市場店",
+          "shopCode": "moritokuzo",
+          "apiAvailability": 1,
+          "kind": "unconfirmed",
+          "caption": "商品情報 商品名 高木酒造　豊能梅 宵宵 純米吟醸 内容量 720ml　／　18000ml※お選びください。 種別 純米吟醸酒 原材料 米、米麹 原料米 トヨメキ・タチハルカなど（高知県産） 精米歩合 60％ アルコール度数 16％ 製造 高知県 化粧箱 720mlは化粧箱入りを選べます。※「化粧箱入り」の記載がない商品は「箱なし」となります。 飲み方 冷酒、常温、ぬる燗、食中酒に ※酒質分析数値は酒造年度や出荷時期によって若干変動がある場合がございます。豊能梅　宵宵-TOYONOUME　Yoiyoi- 鮮度感のある食材に合う若草の青い香りと、バナナの軽快な香りで飲み飽きない純米吟醸。精米歩合60％にすることで原料米の個性となる旨みと吟醸香のバランスを取っています。さっぱりした酸によるキレのある後口が次のひと口を引き立てます。 &nbsp;日々にお祭りの楽しさを どろめ祭りで歌われていた豊能梅音頭の囃子詞から名付けた「宵宵」は、日々の晩酌をもっと楽しくする酒です。ふわっと立ち上る香りは、いつもの食卓に祭りの夜のように心躍る瞬間を届けます。土佐酒らしい淡麗辛口でありながら米の旨みを感じられる飲み口は料理との相性も良く、気取らない晩酌にぴったりです。 従来品 従来品からリニューアルしました ・高知の米農家さんを応援したいという思いから高知県産米に変更しました。 ・精米歩合を50％から60％に変更。より米の味わいが感じられる仕上がりになりました。 ・ラベルデザインが新しくなりました。土佐赤岡の赤、祭りの夜の赤い提灯、どろめ祭りの大杯をイメージしています。",
+          "checkedAt": "2026-10-22T03:57:17.347Z",
+          "origin": "current_api",
+          "retrieved": true,
+          "textHash": "ce45dc6a9f297a3fb8733bded7fa6de699cbda52cbe85105d64e65c23e0d60b5",
+          "availability": {
+            "title": "【楽天市場】高木酒造　豊能梅 宵宵 純米吟醸  1本 化粧箱なし 化粧箱入り 純米吟醸酒 お酒 高知 お歳暮 お中元 御祝い プレゼント 贈答 お土産：森徳蔵楽天市場店",
+            "httpStatus": 200,
+            "sameDestination": true,
+            "itemId": "10004423",
+            "itemMatches": true,
+            "purchaseCondition": "enabled",
+            "stockCondition": null,
+            "soldOut": false,
+            "purchaseControls": true,
+            "purchasable": true,
+            "state": "purchase_enabled"
+          }
+        },
+        {
+          "itemCode": "mazecolle:10000126",
+          "normalUrl": "https://item.rakuten.co.jp/mazecolle/mts_001/",
+          "name": "豊能梅 純米大吟醸 龍奏 720ml お歳暮 日本酒 大吟醸 送料無料 ギフト プレゼント 誕生日 誕生日プレゼント 贈答用 お返し 贈答 内祝い ご自宅用 お取り寄せ お家時間 宅飲み 家飲み お酒 おさけ 高知県 ご当地 記念日 お土産 地酒 アルコール 純米 祝い酒 5000円",
+          "shopName": "まぜ南風コレクション",
+          "shopCode": "mazecolle",
+          "apiAvailability": 1,
+          "kind": "unconfirmed",
+          "caption": "原材料名米(国産)、米こうじ(国産米)、精米歩合40％アルコール分16度 内容量720ml 保存方法冷暗所にて保管し、開栓後は早めにお飲みください 賞味期限/消費期限製造日より365日製造者高木酒造株式会社 高知県香南市赤岡町443 781-5310 アレルギー表示なし&nbsp; 20歳未満の方への酒類の販売はいたしておりません。 商品をご覧いただき誠にありがとうございます！ まぜ南風コレクションは、「高知県産品を集めて結ぶ」をコンセプトとした生産者から直送でお客様へお届けする高知の産地直送モールです。 肉や魚はもちろん、スイーツや調味料、お酒など様々な商品を取り扱っております。 お世話になった方へのギフトや自分へのご褒美にもオススメです。 ぜひ、高知の特産品をお取り寄せしてご利用くださいませ。 ●イベント事・お祝いに誕生日プレゼント お年玉 こどもの日 母の日 父の日 敬老の日 お正月 お中元 お歳暮 クリスマス 年末のご挨拶 お返し お祝い 結婚祝い 送別会 歓迎会 景品 ビンゴ 二次会 ゴルフ 内祝い 入学祝い 卒業祝い 入社祝い 退社祝い 還暦祝い 引っ越し祝い 新築祝い 記念日 結婚記念日 ご挨拶 お見舞い 引き出物 思い出 ●プレゼント用に家族 両親 子ども 大人 お父さん おじいちゃん お母さん おばあちゃん 孫 親戚 成人 社会人 友達 上司 部下 後輩 同僚 10代 20代 30代 40代 50代 60代 70代 80代 ギフト 贈り物 贈答品 キッズ 赤ちゃん 幼稚園 小学生 中学生 高校生 大学生 ●自分へのご褒美に ご自宅用 お家時間 お試し 新生活 休日おこもり リモート飲み会 宅飲み",
+          "checkedAt": "2026-10-22T03:57:18.524Z",
+          "origin": "previous_evidence",
+          "retrieved": true,
+          "textHash": "f1bd706e435a9f64173d387f991af9e98c370f7506bed18cfd692131636fb86f",
+          "availability": {
+            "title": "【楽天市場】豊能梅 純米大吟醸 龍奏 720ml お歳暮 日本酒 大吟醸 送料無料 ギフト プレゼント 誕生日 誕生日プレゼント 贈答用 お返し 贈答 内祝い ご自宅用 お取り寄せ お家時間 宅飲み 家飲み お酒 おさけ 高知県 ご当地 記念日 お土産 地酒 アルコール 純米 祝い酒 5000円：まぜ南風コレクション",
+            "httpStatus": 200,
+            "sameDestination": true,
+            "itemId": "10000126",
+            "itemMatches": true,
+            "purchaseCondition": "enabled",
+            "stockCondition": null,
+            "soldOut": false,
+            "purchaseControls": true,
+            "purchasable": true,
+            "state": "purchase_enabled"
+          }
+        }
+      ],
+      "official": [
+        {
+          "url": "https://toyonoume.com/products/toyonoume/",
+          "retrieved": true,
+          "checkedAt": "2026-10-22T03:57:19.740Z",
+          "textHash": "9e45a698c4ee2e4d239bee931b08cdee2e5bdf5fda2ab6fce5b177e4d451eaf0"
+        }
+      ]
+    },
+    {
+      "sakeId": "minami-junmai-ginjo-matsuyamamitsui-standard-v1",
+      "offers": [
+        {
+          "itemCode": "auc-yumeikan:10001539",
+          "normalUrl": "https://item.rakuten.co.jp/auc-yumeikan/2132/",
+          "name": "南 (みなみ) 純米吟醸 【南酒造場】【日本酒】【高知県】【土佐】",
+          "shopName": "こだわりの酒屋遊銘館",
+          "shopCode": "auc-yumeikan",
+          "apiAvailability": 1,
+          "kind": "unconfirmed",
+          "caption": "アルコール度数15度〜16度 呑み方 冷やからぬる燗まで位で 保存方法 光と高温を避けて 原材料 米（国産）・米麹（国産米） 原料米 松山三井 精米歩合 50％ 日本酒度 +10　◆◇　Guide　◇◆ 純米大吟醸クラスまで精米された純米吟醸。香り高くフルーティー、口に入れた瞬間から青りんごの様な活き活きとした酸と旨みがぐっと押し寄せてきます。最後にほのかな苦味と共にフッとキレます。飽きさせません・・・旨いです。",
+          "checkedAt": "2026-10-22T03:57:21.163Z",
+          "origin": "current_api",
+          "retrieved": true,
+          "textHash": "fc8720ff73d6e6a9b65b4b3164db81be4f2329e279bfe4a74f4f4d3006cccf65",
+          "availability": {
+            "title": "【楽天市場】酒類 >\n日本酒1 >\n南酒造場（南） >\n純米吟醸：こだわりの酒屋遊銘館",
+            "httpStatus": 200,
+            "sameDestination": true,
+            "itemId": null,
+            "itemMatches": false,
+            "purchaseCondition": null,
+            "stockCondition": null,
+            "soldOut": false,
+            "purchaseControls": false,
+            "purchasable": false,
+            "state": "item_identity_unconfirmed"
+          }
+        },
+        {
+          "itemCode": "yamasake:10004601",
+          "normalUrl": "https://item.rakuten.co.jp/yamasake/10004601/",
+          "name": "南 ( みなみ ) 純米吟醸 1.8L / 高知県 南酒造場【 2925 】【 日本酒 】【 ハロウィン 贈り物 ギフト プレゼント 】 日本酒 ギフト 辛口",
+          "shopName": "酒の番人 ヤマカワ",
+          "shopCode": "yamasake",
+          "apiAvailability": 1,
+          "kind": "unconfirmed",
+          "caption": "●商品+ラッピング→ +230円　にて対応させていただきます。 ●商品+ラッピング+メッセージ→ +330円　にて対応させていただきます。 メッセージをご希望の場合は必ず台紙を選んでください。選択なしの場合は、お任せになりますのでご了承ください。 土佐の辛口酒・南の純米吟醸酒です。 南酒造は高知県安田町にあり年間生産石数が約300石の小さな酒蔵です。 1石は1升瓶100本なので、300石は1升瓶で約3万本しか生産されていません。 南酒造のお酒は土佐らしい酸の効いた辛口で、手造りの丁寧さが感じられます。 純米吟醸酒は地元産米の松山三井55%精米で仕込まれています。 高知酒らしい華やかな香り、きれいでジューシーな吟味がありながら、 酸が効いていて、あと口がすっきりした辛口なので飲み疲れしません。 こういうタイプの辛口吟醸酒というのは、ありそうでなかなかないものです。 冷やでお楽しみください。 特定名称：純米吟醸 原材料名：米（国産）・米麹(国産米) 原 料 米：松山三井 精米歩合：55％ 度　　数：167度 製 造 元：南酒造場（高知県） こちらもオススメです。 ：【日本酒】黒龍・九頭龍 作 東洋美人佐久の花 仙禽 屋守 隆 白瀑・山本 羽根屋 瀧自慢 奥播磨 東一 天吹 雁木 賀茂金秀 正雪 初亀 すず音 醴泉 小左衛門 播州一献 ゆきの美人 明鏡止水 まつもと 三千盛 越乃寒梅 三井の寿 墨廼江 房島屋 天寳一 土佐しらぎく 酔鯨 あたごのまつ 醸し人九平次 日高見 出羽桜 上喜元 獺祭 義侠 彩来 手取川 吉田蔵u よこやま 横山五十 常山 ロ万 貴 わかむすめ 蓬莱泉 福海 聖 秋鹿 W 【焼酎】甑州 富乃宝山 天使の誘惑 旭萬年 海・くじら 蔵の師魂 黒瀬 撫磨杜 牧場の櫻 魔王 伊佐美 もぐら あやかし福助 かまど 八千代伝 熟柿 櫻井 千亀女 桜明日香 晴耕雨読 明るい農村 一壷春 摩無志 さそり けいこうとなるも 吾空 泰明 天の刻印 銀の水 ちんぐ つくし 鳥飼 豊永蔵 朝日 龍宮 青鹿毛 【前掛け・グラス・おつまみ】チーズ ソース ディップ うすはり 酒杯 錫 びいどろ 【ウィスキー】イチローズモルト 松井 【名入れボトル】日本酒 焼酎 ワイン 彫刻 下記の用途などにも使用できます。： 記念日 お誕生日 お返し 御歳暮 お歳暮 御中元 お中元 暑中御見舞 残暑御見舞 御年賀 お年賀 御祝い お祝い 内祝い 御礼 お礼 祝延寿 敬寿 結婚祝 結婚記念日 引き出物 出産祝 寿 贈り物 父の日 母の日 敬老の日 バレンタインデー ホワイトデー 還暦 還暦祝 還暦祝い 古稀祝 喜寿祝 傘寿祝 米寿祝 白寿祝 婚約祝 入学祝 就職祝 卒業祝 昇進祝 退職祝 開店祝 ゴルフコンペ 周年記念品 ご進物 上棟祝 御見舞い 快気祝い 新築祝い 手土産 金婚式 銀婚式※【 あす楽 】でご注文の方のキャンセル・変更は 14:00 までとさせて頂きます。",
+          "checkedAt": "2026-10-22T03:57:22.188Z",
+          "origin": "current_api",
+          "retrieved": true,
+          "textHash": "956f2efeb4092b5c45190f5de375b68f6fcd8dd438393227bac05ba95688ef96",
+          "availability": {
+            "title": "【楽天市場】南  ( みなみ )  純米吟醸 1.8L / 高知県 南酒造場【 2925 】【 日本酒 】【 ハロウィン 贈り物 ギフト プレゼント 】 日本酒 ギフト 辛口：酒の番人　ヤマカワ",
+            "httpStatus": 200,
+            "sameDestination": true,
+            "itemId": "10004601",
+            "itemMatches": true,
+            "purchaseCondition": "enabled",
+            "stockCondition": null,
+            "soldOut": false,
+            "purchaseControls": true,
+            "purchasable": true,
+            "state": "purchase_enabled"
+          }
+        },
+        {
+          "itemCode": "auc-yumeikan:10004585",
+          "normalUrl": "https://item.rakuten.co.jp/auc-yumeikan/7178/",
+          "name": "南 (みなみ) 令和7BY 純米吟醸 無濾過生酒 吟の夢 【南酒造場】【日本酒】【高知県】【四国】【土佐】【松山三井】【安芸郡】【新酒】",
+          "shopName": "こだわりの酒屋遊銘館",
+          "shopCode": "auc-yumeikan",
+          "apiAvailability": 1,
+          "kind": "unconfirmed",
+          "caption": "アルコール度数16度 呑み方 お好みで 保存方法 要冷蔵 原材料 米（国産）・米麹（国産米） 原料米 吟の夢 精米歩合 55％ 日本酒度 +5【要冷蔵の為クール便にて送らせて頂きますので必ず配送方法「クール便」をお選び下さい！お選びになられなかった場合でもクール便に変更させて頂きます！】 　◆◇　Guide　◇◆ 少しガス感がありスッキリとした柑橘系の酸が協調しスパッとキレるシャープで後口の良い限定酒。",
+          "checkedAt": "2026-10-22T03:57:23.589Z",
+          "origin": "current_api",
+          "retrieved": true,
+          "textHash": "e8d2569bcaa2fac46748ce9b4d1b131603dcaed6961b0133e948890411e6270a",
+          "availability": {
+            "title": "【楽天市場】酒類 >\n日本酒1 >\n南酒造場（南） >\n純米吟醸　無濾過生原酒：こだわりの酒屋遊銘館",
+            "httpStatus": 200,
+            "sameDestination": true,
+            "itemId": null,
+            "itemMatches": false,
+            "purchaseCondition": null,
+            "stockCondition": null,
+            "soldOut": false,
+            "purchaseControls": false,
+            "purchasable": false,
+            "state": "item_identity_unconfirmed"
+          }
+        }
+      ],
+      "official": []
+    },
+    {
+      "sakeId": "biwanosasanami-matsu-junmai-daiginjo-hiire-v1",
+      "offers": [
+        {
+          "itemCode": "mighty-liquors:10009161",
+          "normalUrl": "https://item.rakuten.co.jp/mighty-liquors/sa481001/",
+          "name": "琵琶のささ浪 純米原酒 1800ml 日本酒 秋 ハロウィン 秋の味覚 手土産 贈り物 プレゼント あす楽 ギフト のし 贈答品 お祝 御祝 誕生日 内祝 還暦祝い 結婚祝い 出産祝い お酒 就職祝 退職祝",
+          "shopName": "日本酒・焼酎 マイティ・リカーズ",
+          "shopCode": "mighty-liquors",
+          "apiAvailability": 1,
+          "kind": "unconfirmed",
+          "caption": "商品詳細 原材料 米、米麹 度数 16.5度 サイズ 1800ml 備考 【保管方法】直射日光・高温多湿を避け、冷暗所または冷蔵庫で保管してください（冷蔵保管を推奨しております）。【クール便(+350円)をご希望のお客様へ】・クール便代350円(税込)は、ご注文時の合計金額には含まれておりません。・ご注文後、当店で送料に350円を加算し、確定金額をメールでお知らせいたします。・銀行振込・コンビニ払いなど前払いのお客様には、はじめから350円を含んだ　お支払い金額をご案内いたします。お支払いは一度だけです。・複数の商品をご注文の場合、1つでも「クール便」をお選びいただければ、ご注文全体を　クール便でお届けします。クール便代は何点ご注文でも350円のみです。　",
+          "checkedAt": "2026-10-22T03:57:24.551Z",
+          "origin": "previous_evidence",
+          "retrieved": true,
+          "textHash": "7edea4eba5e0d573e34f9667790dea98f49b1efb02905d7b33578fee4076e9d5",
+          "availability": {
+            "title": "【楽天市場】琵琶のささ浪 純米原酒 1800ml 日本酒 秋 ハロウィン 秋の味覚 手土産 贈り物 プレゼント あす楽 ギフト のし 贈答品 お祝 御祝 誕生日 内祝 還暦祝い 結婚祝い 出産祝い お酒 就職祝 退職祝：日本酒・焼酎　マイティ・リカーズ",
+            "httpStatus": 200,
+            "sameDestination": true,
+            "itemId": "10009161",
+            "itemMatches": true,
+            "purchaseCondition": "enabled",
+            "stockCondition": null,
+            "soldOut": false,
+            "purchaseControls": true,
+            "purchasable": true,
+            "state": "purchase_enabled"
+          }
+        },
+        {
+          "itemCode": "sake-akiyama:10000747",
+          "normalUrl": "https://item.rakuten.co.jp/sake-akiyama/sasanami_j_naka_nude/",
+          "name": "【日本酒】琵琶のさゝ浪　純米　生　1800ml",
+          "shopName": "酒の秋山 楽天市場店",
+          "shopCode": "sake-akiyama",
+          "apiAvailability": 1,
+          "kind": "unconfirmed",
+          "caption": "蔵元コメント 当蔵酒造りの原点とも言うべきお酒です フルーティーな香りのひろがりと爽やかにしみいるうまさ すっきりとしたのどごしの良さと 当蔵純米酒の特徴がすべて揃っております レトロな雰囲気のラベルは 創業時代のものを現在に受け継いております 店主コメント フルーティーな香りで爽やかな旨さ スッキリしている加水生酒です 　 商品名 　 琵琶のさゝ浪　純米　中取り　生 　 販売時期 　 通年 　 タイプ 　 ライト 　 香り ○ 　 コク ○ 　 キレ 　 おすすめ 　 温度帯 　 冷酒 ○ 　 常温 　 燗酒 　 　 原料米 　 八反錦 　 精米歩合 　 70% 　 アルコール 　 度数 　 15〜16度 　 酵母 　 1601 　 日本酒度 　 +6 　 酸度 　 1.2 　 保存方法 　 要冷蔵 　 蔵元名 　 麻原酒造 　 蔵元所在地 　 埼玉県入間郡毛呂山町 スペック更新日　2017.10.5",
+          "checkedAt": "2026-10-22T03:57:25.805Z",
+          "origin": "previous_evidence",
+          "retrieved": true,
+          "textHash": "9b95edf9817a368485dfe2589d52ce0fa246609cc92a21b3b82085cf2740175d",
+          "availability": {
+            "title": "【楽天市場】【日本酒】琵琶のさゝ浪　純米　生　1800ml：酒の秋山　楽天市場店",
+            "httpStatus": 200,
+            "sameDestination": true,
+            "itemId": "10000747",
+            "itemMatches": true,
+            "purchaseCondition": "enabled",
+            "stockCondition": null,
+            "soldOut": false,
+            "purchaseControls": true,
+            "purchasable": true,
+            "state": "purchase_enabled"
+          }
+        },
+        {
+          "itemCode": "sake-akiyama:10000746",
+          "normalUrl": "https://item.rakuten.co.jp/sake-akiyama/sasanami_j_superdry_nude/",
+          "name": "【日本酒】琵琶のさゝ浪 純米　大辛口　生　1800ml",
+          "shopName": "酒の秋山 楽天市場店",
+          "shopCode": "sake-akiyama",
+          "apiAvailability": 1,
+          "kind": "unconfirmed",
+          "caption": "店主コメント 香りとキレの良さが際立つ芳醇爽酒 香り系ですが飲み飽きしない酒質 　 商品名 　 琵琶のさゝ浪　純米　大辛口　生 　 販売時期 　 通年 　 タイプ 　 ライト 　 香り ○ 　 コク 　 キレ ○ 　 おすすめ 　 温度帯 　 冷酒 ○ 　 常温 　 燗酒 　 　 原料米 　 八反錦 　 精米歩合 　 70% 　 アルコール 　 度数 　 15度 　 酵母 　 1601 　 日本酒度 　 +10 　 酸度 　 1.4 　 保存方法 　 要冷蔵 　 蔵元名 　 麻原酒造 　 蔵元所在地 　 埼玉県入間郡毛呂山町 スペック更新日　2017.10.5",
+          "checkedAt": "2026-10-22T03:57:27.046Z",
+          "origin": "previous_evidence",
+          "retrieved": true,
+          "textHash": "d46d625b467ec800cdfaa1f234b81b3a6e545bf8d0a77279b90142408f3ac77f",
+          "availability": {
+            "title": "【楽天市場】【日本酒】琵琶のさゝ浪 純米　大辛口　生　1800ml：酒の秋山　楽天市場店",
+            "httpStatus": 200,
+            "sameDestination": true,
+            "itemId": "10000746",
+            "itemMatches": true,
+            "purchaseCondition": "enabled",
+            "stockCondition": null,
+            "soldOut": false,
+            "purchaseControls": true,
+            "purchasable": true,
+            "state": "purchase_enabled"
+          }
+        }
+      ],
+      "official": [
+        {
+          "url": "https://www.musashino-asahara.jp/product/seishu/ginjou6/",
+          "retrieved": true,
+          "checkedAt": "2026-10-22T03:57:29.856Z",
+          "textHash": "8ec086dd5dbe7548141c6b2052fc22ed46871b30474828395f56c9505ee72e6c"
+        }
+      ]
+    },
+    {
+      "sakeId": "shirakiku-vibrant-junmai-hiire-standard-v1",
+      "offers": [
+        {
+          "itemCode": "sakayainoue:10002324",
+          "normalUrl": "https://item.rakuten.co.jp/sakayainoue/4525892180129/",
+          "name": "shirakiku 特別純米酒 銀シャリ【日本酒 白杉酒造 シラキク 白木久】",
+          "shopName": "酒舗 井上屋",
+          "shopCode": "sakayainoue",
+          "apiAvailability": 1,
+          "kind": "unconfirmed",
+          "caption": "ササニシキで醸す、キレる銀シャリ りんごや梨のような香りがほのかに広がり、輝く白米のように清らか、すっきりした旨味はキレていく。 ササニシキ由来の旨さとシャープな酸が絶妙に調和し、軽やかに食中にスッと寄り添う一本。 名のとおり、銀シャリを頬張るよう、気取らず箸を進めたくなる酒です。 飲めば“食が進む理由”がきっとわかります。 「寿司シャリのように、料理引き立つ食中酒」 食用米の名品、しかし今や希少種となった京都丹後産ササニシキを100％使用。 粘りが少なくキレのある米質が、端正な酸と冴えた後味を生み出します。 ミラノ酒チャレンジ2024金賞受賞、ルクセンブルク酒チャレンジ2023金賞受賞と海外でも高く評価される「食を引き立てる日本酒」の代表格です。 ◆飲み方 冷蔵庫でしっかり冷やして、ワイングラスで。カルパッチョや冷製スープと合わせれば、香りと酸が引き立ちます。重たくないのに満足感がある、疲れた夜にすっと喉を通る、軽やかな相棒です。 蔵元：白杉酒造/ shirakiku（シラキク）白木久 京都・丹後。山と海に囲まれた豊かな土地で、白杉酒造は250年の歴史を紡いできました。昔からの銘である「白木久（しらきく）」は、家名の「白杉」から、「杉」の旧字体を分解して「木、久」、こんな先人たちの遊び心から名づけられました。 十一代目蔵元であり杜氏の白杉悟氏は、先代の甥。この地の“米の美味しさ”に心を奪われ、京都市内から丹後へ養子として入り、蔵を継ぎました。経営難と廃業の危機に直面しながらも、「丹後の食用米で酒を造る」という常識破りの挑戦に踏み出します。試行錯誤を重ねた末、2015年に全銘柄を食用米仕込みへと転換。現在では「shirakiku」「銀シャリ」「CHIMERA」など、自由でユニークな日本酒を次々と発表し、「ワイングラスでおいしい日本酒アワード」最高金賞など受賞歴も多数。自らラベルデザインも手がける白杉氏の酒造りは、「面白いことをしたい」先祖代々続く遊び心を持ち続け、全力で醸し続ける。「常識にとらわれず、挑戦する人の背中を押せる酒を」。そんな想いが一滴一滴に宿っています。 ■品名：shirakiku シラキク 特別純米酒 銀シャリ ■蔵元：白杉酒造（京都府） ■タイプ：特別純米 火入れ ■原材料：米、米麹 ■甘辛濃淡：日本酒度+5　酸度1.8 ■精米歩合：60％（京都府丹後産ササニシキ） ■アルコール：16.2度 ■保管方法：冷暗所保存（冷蔵保存推奨） ■配送方法：常温便（夏季クール便推奨） ■化粧箱：なし ギフト対応（のし包装・ラッピング）には化粧箱のご購入が必要です。 化粧箱のご購入",
+          "checkedAt": "2026-10-22T03:57:30.038Z",
+          "origin": "previous_evidence",
+          "retrieved": true,
+          "textHash": "0cc060e7d26a1cb2d8190897381f58a135c58757dd6f7a19da081367f052bc70",
+          "availability": {
+            "title": "【楽天市場】shirakiku 特別純米酒 銀シャリ【日本酒 白杉酒造 シラキク 白木久】：酒舗 井上屋",
+            "httpStatus": 200,
+            "sameDestination": true,
+            "itemId": "10002324",
+            "itemMatches": true,
+            "purchaseCondition": "enabled",
+            "stockCondition": null,
+            "soldOut": false,
+            "purchaseControls": true,
+            "purchasable": true,
+            "state": "purchase_enabled"
+          }
+        },
+        {
+          "itemCode": "jizake-watanabe:10015366",
+          "normalUrl": "https://item.rakuten.co.jp/jizake-watanabe/shirakiku-karakurenai/",
+          "name": "白木久（しらきく） 純米無濾過原酒 からくれなゐのSHIRAKIKU 京都府（白杉酒造）【720ml／1800ml】［日本酒／半年ほどの熟成による美しい甘み！／フレッシュさも併せ持った秋酒］",
+          "shopName": "地酒ワタナベ",
+          "shopCode": "jizake-watanabe",
+          "apiAvailability": 1,
+          "kind": "unconfirmed",
+          "caption": "全量を食用米だけで造る 京都府の「白杉酒造」の「ひやおろし」で、 毎年かなりの反響のある商品です！ コシヒカリの味わいを感じつつも ほのかに香る華やかな香りに仕上げ、 また酸味を抑えることにより 食中酒として料理に寄り添う1本 となっています。 秋酒らしい落ち着いた雰囲気もありますが、 フレッシュさも併せ持っていますので、 冷酒で飲んでも美味しいですし、 お燗にしても美味しいタイプですので、 お好きな温度帯でお楽しみください。 なお、本商品は火入れ商品のため、 特に指定がなければ 通常便にて発送させていただきます。 クール便をご希望の方は、 購入時の備考欄に『クール便希望』と 記載ください。 原材料：米（国産）、米麹（国産米）、 原料米：丹後産コシヒカリ100％ 精米歩合：60％ 日本酒度：-10 酸度：2.2 アルコール分：15.2度 製造年月：2026年9月　",
+          "checkedAt": "2026-10-22T03:57:31.260Z",
+          "origin": "previous_evidence",
+          "retrieved": true,
+          "textHash": "af3254d989eaf1b902fa5077693af761b47880136989febe2ef883b2638494b7",
+          "availability": {
+            "title": "【楽天市場】白木久（しらきく） 純米無濾過原酒 からくれなゐのSHIRAKIKU 京都府（白杉酒造）【720ml／1800ml】［日本酒／半年ほどの熟成による美しい甘み！／フレッシュさも併せ持った秋酒］：地酒ワタナベ",
+            "httpStatus": 200,
+            "sameDestination": true,
+            "itemId": "10015366",
+            "itemMatches": true,
+            "purchaseCondition": "enabled",
+            "stockCondition": null,
+            "soldOut": false,
+            "purchaseControls": true,
+            "purchasable": true,
+            "state": "purchase_enabled"
+          }
+        }
+      ],
+      "official": [
+        {
+          "url": "https://sake-shirakiku.jp/products/vibran",
+          "retrieved": true,
+          "checkedAt": "2026-10-22T03:57:32.570Z",
+          "textHash": "95fd8c3f787ea3d9eeb0c61f22684ce4782760a71fbb9ec7fef752527544ef24"
+        }
+      ]
+    },
+    {
+      "sakeId": "kagura-junmai-daiginjo-shiro-muroka-mukasui-nama-v1",
+      "offers": [
+        {
+          "itemCode": "kyoto-sake-2940:10000880",
+          "normalUrl": "https://item.rakuten.co.jp/kyoto-sake-2940/kagura-jd-siro-nama-720/",
+          "name": "神蔵 KAGURA かぐら 五紋神蔵 ごもんかぐら 純米大吟醸 祝 無濾過無加水 生酒 白 720ml 京都 松井酒造",
+          "shopName": "京都のさか屋ふくしま",
+          "shopCode": "kyoto-sake-2940",
+          "apiAvailability": 1,
+          "kind": "unconfirmed",
+          "caption": "神蔵 KAGURA かぐら 五紋神蔵 ごもんかぐら 純米大吟醸 祝 無濾過無加水 生酒 白 京都 松井酒造 おめでたい日を華やかに演出してくれるお酒。 心躍る香りと甘味が魅力。 華やかな香り、祝の柔らかな甘味が心地良い。 気軽に飲みやすい味わいに仕上がっています。 ワイングラスで飲むのがおすすめ。 美しい余韻がお楽しみ頂けます。 ■原料米 京都府産祝(いわい) ■精米歩合 35% ■アルコール度 15度 ■味わい 華やかでフルーティー",
+          "checkedAt": "2026-10-22T03:57:33.702Z",
+          "origin": "current_api",
+          "retrieved": true,
+          "textHash": "3caa38aa279960b62927c7f9999a72572118056e3551de10ae417015f5c02566",
+          "availability": {
+            "title": "【楽天市場】神蔵 KAGURA かぐら 五紋神蔵 ごもんかぐら 純米大吟醸 祝 無濾過無加水 生酒 白 720ml 京都 松井酒造：京都のさか屋ふくしま",
+            "httpStatus": 200,
+            "sameDestination": true,
+            "itemId": "10000880",
+            "itemMatches": true,
+            "purchaseCondition": "enabled",
+            "stockCondition": null,
+            "soldOut": false,
+            "purchaseControls": true,
+            "purchasable": true,
+            "state": "purchase_enabled"
+          }
+        },
+        {
+          "itemCode": "hoshigulf:10004664",
+          "normalUrl": "https://item.rakuten.co.jp/hoshigulf/4530731780033/",
+          "name": "神蔵 純米吟醸 野条穂 無濾過生酒 720ml 松井酒造 京都 日本酒 純米吟醸酒 野条穂 幻の酒米 希少酒米 無濾過 無加水 生酒 地酒 京都地酒 フルーティー 辛口 神蔵KAGURA 【要冷蔵 クール便】",
+          "shopName": "HOSHIGULF 楽天市場店",
+          "shopCode": "hoshigulf",
+          "apiAvailability": 1,
+          "kind": "unconfirmed",
+          "caption": "※要冷蔵商品です。保存される場合は必ず10度以下にて保存願います。 ※クール便を選択してご注文お願いします。通常便を選択された場合はクール便に変更いたします。 ※この商品はお酒です。20歳未満の方は購入出来ません。 トロピカルに香るドライなテイスト 酒米「野条穂」60％精米、「協会酵母1101号」を用いた、限定醸造の神蔵です。 酒米「野条穂」は、京都ならではの酒米「祝」の親株にあたります。 一時、山田錦と並び野条穂は二大品種と評され味に定評がありましたが、祝同様に背丈が高く育成が難しいため、昭和40年代（1960年代）に一時姿を消しました。 品種としては祝米に似ており、柔らかく肉厚、旨味が多いことが特徴です。生産量が大変少なく、&lt;幻の酒米&gt;と呼ばれています。 この野条穂に合わせて、アルコール耐性が強く、シャープでドライな酒質を造り出す「協会酵母1101号」で醸しました。 トップに白ブドウやパイナップルのような爽やかな香り、味わいは辛口でシャープな印象、ラストにココナッツミルクのような甘い香りがあります。 フルーティでありながら野趣を感じるドライさとしっかりとした米の旨味がありますので、塩気の強いお料理と合わせてください。 一切ろ過を行わず、瓶詰めのタイミングによっては米の成分が瓶内に留まることも。生酒は活きた酵母の躍動感がそのまま舌に伝わります。 【原料米】 兵庫県産「野条穂」 【原材料名】　米・米こうじ 【精米歩合】　60％ 【アルコール分】　15度 【使用酵母】協会酵母1101号 【保存方法】要冷蔵 【おすすめの飲み方】◎冷酒 ◎常温 〇燗酒　",
+          "checkedAt": "2026-10-22T03:57:34.813Z",
+          "origin": "previous_evidence",
+          "retrieved": true,
+          "textHash": "30dc5e22ece915fee72719a6c041c8c453ecb7ab833db1d04342173711311d04",
+          "availability": {
+            "title": "【楽天市場】神蔵 純米吟醸 野条穂 無濾過生酒 720ml 松井酒造 京都 日本酒 純米吟醸酒 野条穂 幻の酒米 希少酒米 無濾過 無加水 生酒 地酒 京都地酒 フルーティー 辛口 神蔵KAGURA 【要冷蔵 クール便】：ＨＯＳＨＩＧＵＬＦ 楽天市場店",
+            "httpStatus": 200,
+            "sameDestination": true,
+            "itemId": "10004664",
+            "itemMatches": true,
+            "purchaseCondition": "enabled",
+            "stockCondition": null,
+            "soldOut": false,
+            "purchaseControls": true,
+            "purchasable": true,
+            "state": "purchase_enabled"
+          }
+        }
+      ],
+      "official": [
+        {
+          "url": "https://matsuishuzo.com/?cbid=2664500&csid=0&mode=cate",
+          "retrieved": true,
+          "checkedAt": "2026-10-22T03:57:36.242Z",
+          "textHash": "a7696cdbb9bfe26c2c40fed73482f1ebfc2c7dcf7a416a994c61f0be2feaf11b"
+        }
+      ]
+    },
+    {
+      "sakeId": "kagura-junmai-daiginjo-shiro-muroka-mukasui-ichibi-v1",
+      "offers": [
+        {
+          "itemCode": "hoshigulf:10004664",
+          "normalUrl": "https://item.rakuten.co.jp/hoshigulf/4530731780033/",
+          "name": "神蔵 純米吟醸 野条穂 無濾過生酒 720ml 松井酒造 京都 日本酒 純米吟醸酒 野条穂 幻の酒米 希少酒米 無濾過 無加水 生酒 地酒 京都地酒 フルーティー 辛口 神蔵KAGURA 【要冷蔵 クール便】",
+          "shopName": "HOSHIGULF 楽天市場店",
+          "shopCode": "hoshigulf",
+          "apiAvailability": 1,
+          "kind": "unconfirmed",
+          "caption": "※要冷蔵商品です。保存される場合は必ず10度以下にて保存願います。 ※クール便を選択してご注文お願いします。通常便を選択された場合はクール便に変更いたします。 ※この商品はお酒です。20歳未満の方は購入出来ません。 トロピカルに香るドライなテイスト 酒米「野条穂」60％精米、「協会酵母1101号」を用いた、限定醸造の神蔵です。 酒米「野条穂」は、京都ならではの酒米「祝」の親株にあたります。 一時、山田錦と並び野条穂は二大品種と評され味に定評がありましたが、祝同様に背丈が高く育成が難しいため、昭和40年代（1960年代）に一時姿を消しました。 品種としては祝米に似ており、柔らかく肉厚、旨味が多いことが特徴です。生産量が大変少なく、&lt;幻の酒米&gt;と呼ばれています。 この野条穂に合わせて、アルコール耐性が強く、シャープでドライな酒質を造り出す「協会酵母1101号」で醸しました。 トップに白ブドウやパイナップルのような爽やかな香り、味わいは辛口でシャープな印象、ラストにココナッツミルクのような甘い香りがあります。 フルーティでありながら野趣を感じるドライさとしっかりとした米の旨味がありますので、塩気の強いお料理と合わせてください。 一切ろ過を行わず、瓶詰めのタイミングによっては米の成分が瓶内に留まることも。生酒は活きた酵母の躍動感がそのまま舌に伝わります。 【原料米】 兵庫県産「野条穂」 【原材料名】　米・米こうじ 【精米歩合】　60％ 【アルコール分】　15度 【使用酵母】協会酵母1101号 【保存方法】要冷蔵 【おすすめの飲み方】◎冷酒 ◎常温 〇燗酒　",
+          "checkedAt": "2026-10-22T03:57:34.813Z",
+          "origin": "previous_evidence",
+          "retrieved": true,
+          "textHash": "30dc5e22ece915fee72719a6c041c8c453ecb7ab833db1d04342173711311d04",
+          "availability": {
+            "title": "【楽天市場】神蔵 純米吟醸 野条穂 無濾過生酒 720ml 松井酒造 京都 日本酒 純米吟醸酒 野条穂 幻の酒米 希少酒米 無濾過 無加水 生酒 地酒 京都地酒 フルーティー 辛口 神蔵KAGURA 【要冷蔵 クール便】：ＨＯＳＨＩＧＵＬＦ 楽天市場店",
+            "httpStatus": 200,
+            "sameDestination": true,
+            "itemId": "10004664",
+            "itemMatches": true,
+            "purchaseCondition": "enabled",
+            "stockCondition": null,
+            "soldOut": false,
+            "purchaseControls": true,
+            "purchasable": true,
+            "state": "purchase_enabled"
+          }
+        },
+        {
+          "itemCode": "hoshigulf:10004364",
+          "normalUrl": "https://item.rakuten.co.jp/hoshigulf/4530731370029/",
+          "name": "神蔵 KAGURA 純米 無濾過 無加水 生酒 クリア かぐらくりあ 300ml 日本酒 純米酒 地酒 松井酒造 【要冷蔵 クール便】 京都府 KAGURA",
+          "shopName": "HOSHIGULF 楽天市場店",
+          "shopCode": "hoshigulf",
+          "apiAvailability": 1,
+          "kind": "unconfirmed",
+          "caption": "※要冷蔵商品です。保存される場合は必ず10度以下にて保存願います。 ※クール便を選択してご注文お願いします。通常便を選択された場合はクール便に変更いたします。 ※この商品はお酒です。20歳未満の方は購入出来ません。 「京の恋」が作り上げる自由な純米酒 新しく誕生した京都酵母「京の恋」使用。 仕込み米は京都産酒造好適米「祝」、オール京都の純米酒です。 自由に、縛りを解いて、この酵母に一番合う酒造りを行いました。四段仕込み・原酒ならではのしっかりとした米の旨みや甘みのボディー感、長期超低温醗酵が生んだ澄んだ香り、清涼感が良く調和しています。 一切ろ過を行わず、瓶詰めのタイミングによっては米の成分が瓶内に留まることも。生酒は活きた酵母の躍動感がそのまま舌に伝わります。 ※京都市産業技術研究所と共同開発した新しい純米酒です。 【原料米】 京都府産「祝」 【原材料名】　米(国産)・米こうじ(国産米) 【精米歩合】　65％ 【アルコール分】13度 【使用酵母】京都酵母「京の恋」（京都市産業技術研究所）　 【保存方法】要冷蔵 【おすすめの飲み方】◎冷酒 ◎常温 〇燗酒　",
+          "checkedAt": "2026-10-22T03:57:37.239Z",
+          "origin": "previous_evidence",
+          "retrieved": true,
+          "textHash": "f9f28a7b92f588bf673c1696bb212a8f7b6780d5f147f69e9848e5af45496505",
+          "availability": {
+            "title": "【楽天市場】神蔵 KAGURA 純米 無濾過 無加水 生酒 クリア かぐらくりあ 300ml 日本酒 純米酒 地酒 松井酒造 【要冷蔵 クール便】 京都府 KAGURA：ＨＯＳＨＩＧＵＬＦ 楽天市場店",
+            "httpStatus": 200,
+            "sameDestination": true,
+            "itemId": "10004364",
+            "itemMatches": true,
+            "purchaseCondition": "enabled",
+            "stockCondition": null,
+            "soldOut": false,
+            "purchaseControls": true,
+            "purchasable": true,
+            "state": "purchase_enabled"
+          }
+        }
+      ],
+      "official": [
+        {
+          "url": "https://matsuishuzo.com/?cbid=2664500&csid=0&mode=cate",
+          "retrieved": true,
+          "checkedAt": "2026-10-22T03:57:36.242Z",
+          "textHash": "a7696cdbb9bfe26c2c40fed73482f1ebfc2c7dcf7a416a994c61f0be2feaf11b"
+        }
+      ]
+    },
+    {
+      "sakeId": "teishu-kanpaku-karakuchi-honjozo-v1",
+      "offers": [],
+      "official": [
+        {
+          "url": "https://www.seiryo-sake.co.jp/",
+          "retrieved": false,
+          "checkedAt": "2026-10-22T03:57:38.385Z",
+          "textHash": "f943fbc4ea0dfc6162db8ccee341ae9c5febaaf5cb3f31b787144094f1ab58fc"
+        }
+      ]
+    },
+    {
+      "sakeId": "akishika-yamahai-junmai-yamadanishiki-70-muroka-genshu-hiire-v1",
+      "offers": [
+        {
+          "itemCode": "kimijimaya-online:10000262",
+          "normalUrl": "https://item.rakuten.co.jp/kimijimaya-online/1003174/",
+          "name": "秋鹿 山廃純米無濾過原酒（火入）山田錦 720ml 秋鹿酒造 日本酒 大阪府 ギフト",
+          "shopName": "君嶋屋 楽天市場店",
+          "shopCode": "kimijimaya-online",
+          "apiAvailability": 1,
+          "kind": "unconfirmed",
+          "caption": "無農薬の山田錦栽培に挑戦し、良質の酒米を確保し、冬は酒造り、夏は米作りと一貫造りを行う。酵母には7号酵母を使用しています。 秋鹿酒造について 秋鹿酒造は1886年大阪北部にあたる能勢にて創業。「秋鹿」という酒名は初代・奥鹿之助が実りの『秋』と、自分の名前から一字を取って名付けられました。秋鹿の酒造りは土造りから始まります。大阪の山奥、能勢町の自社畑にて山田錦を栽培の「一貫造り」をモットーに掲げる関西屈指の酒蔵。無農薬の米造りに力を入れており、米と麹と水だけで造られる純米酒のみを造っています。米の旨味と、キレのある辛口の酒。低タンパクの山田錦を使用しているため、熟成を重ねると飲みごたえが出てきます。 商品スペック 生産者 秋鹿酒造 内容量 720ml 原産地 大阪府 特定名称 純米 使用米 山田錦 精米歩合 70% アルコール度数 17度 ※20歳未満の方の飲酒は法律で禁止されています",
+          "checkedAt": "2026-10-22T03:57:39.651Z",
+          "origin": "current_api",
+          "retrieved": true,
+          "textHash": "8409eab8b9fab2368cc04780b2bf0bcd61fbe50191f41409ae060e44637512e6",
+          "availability": {
+            "title": "【楽天市場】秋鹿 山廃純米無濾過原酒（火入）山田錦 720ml 秋鹿酒造 日本酒 大阪府 ギフト：君嶋屋　楽天市場店",
+            "httpStatus": 200,
+            "sameDestination": true,
+            "itemId": "10000262",
+            "itemMatches": true,
+            "purchaseCondition": "enabled",
+            "stockCondition": null,
+            "soldOut": false,
+            "purchaseControls": true,
+            "purchasable": true,
+            "state": "purchase_enabled"
+          }
+        },
+        {
+          "itemCode": "sakeroman:10002444",
+          "normalUrl": "https://item.rakuten.co.jp/sakeroman/akishika_034/",
+          "name": "＜2023年5月入荷分＞秋鹿【純米酒】「奥鹿」三年熟成山廃 山田錦五八〔火入れ原酒〕720ml",
+          "shopName": "酒浪漫うちやま 楽天市場店",
+          "shopCode": "sakeroman",
+          "apiAvailability": 1,
+          "kind": "unconfirmed",
+          "caption": "低温で3年熟成させた数量限定酒です。山田錦本来の旨みがしっかりと表れ、丸みをおびた酸が心地よい仕上がりです。3年経った今でも力強さがあり、更に数年熟成させてもいい仕上がりが期待できる酒質です。 〔容量〕720ml 〔使用米〕山田錦 〔精米歩合〕60% ★この商品はにつきましては、夏季（6月〜9月）の発送は クール便を推奨しております。 是非クール便をご指定ください。◆秋鹿酒造有限会社◆大阪府豊能郡能勢町倉垣1007",
+          "checkedAt": "2026-10-22T03:57:40.909Z",
+          "origin": "current_api",
+          "retrieved": true,
+          "textHash": "b75a15225ad0c84cea6fd539388744a97d6d35493f353c991b7324edfdcb0b89",
+          "availability": {
+            "title": "【楽天市場】＜2023年5月入荷分＞秋鹿【純米酒】「奥鹿」三年熟成山廃 山田錦五八〔火入れ原酒〕720ml：酒浪漫うちやま　楽天市場店",
+            "httpStatus": 200,
+            "sameDestination": true,
+            "itemId": "10002444",
+            "itemMatches": true,
+            "purchaseCondition": "enabled",
+            "stockCondition": null,
+            "soldOut": false,
+            "purchaseControls": true,
+            "purchasable": true,
+            "state": "purchase_enabled"
+          }
+        }
+      ],
+      "official": []
+    },
+    {
+      "sakeId": "eikofuji-jungetsu-junmai-standard-v1",
+      "offers": [
+        {
+          "itemCode": "maruishi:10006801",
+          "normalUrl": "https://item.rakuten.co.jp/maruishi/10006801/",
+          "name": "2026年9月酒（山形）栄光冨士　日乃輪　720ml　純米大吟醸　無濾過生原酒　栄光富士",
+          "shopName": "丸石酒店",
+          "shopCode": "maruishi",
+          "apiAvailability": 1,
+          "kind": "unconfirmed",
+          "caption": "要冷蔵品に付きクール便で発送させて頂きます。クール便料金が別途加算されます。 当店の注文内容確認メールをご確認下さい。●一配送先につき2本以下のご注文の場合、 破損防止の為、宅配便の専用箱にお入れ致しますので箱代が別途かかります。要冷蔵品に付きクール便で発送させて頂きます。クール便料金が別途加算されます。 当店の注文内容確認メールをご確認下さい。●一配送先につき2本以下のご注文の場合、 破損防止の為、宅配便の専用箱にお入れ致しますので箱代が別途かかります。",
+          "checkedAt": "2026-10-22T03:57:42.098Z",
+          "origin": "current_api",
+          "retrieved": true,
+          "textHash": "a68c2386f9b1b1dc1d5ebdab2d155e699bc26099d345d783cb15f6c2d92830cb",
+          "availability": {
+            "title": "説明文下クレジットカード",
+            "httpStatus": 200,
+            "sameDestination": true,
+            "itemId": "10006801",
+            "itemMatches": true,
+            "purchaseCondition": "enabled",
+            "stockCondition": null,
+            "soldOut": false,
+            "purchaseControls": true,
+            "purchasable": true,
+            "state": "purchase_enabled"
+          }
+        },
+        {
+          "itemCode": "maruishi:10006740",
+          "normalUrl": "https://item.rakuten.co.jp/maruishi/10006740/",
+          "name": "2026年7月酒が入荷しました！（山形）栄光冨士　サバイバル　1800ml　純米大吟醸　無濾過生原酒　要冷蔵　栄光富士",
+          "shopName": "丸石酒店",
+          "shopCode": "maruishi",
+          "apiAvailability": 1,
+          "kind": "unconfirmed",
+          "caption": "要冷蔵品に付きクール便で発送させて頂きます。クール便料金が別途加算されます。 当店の注文内容確認メールをご確認下さい。●一配送先につき2本以下のご注文の場合、 破損防止の為、宅配便の専用箱にお入れ致しますので箱代が別途かかります。",
+          "checkedAt": "2026-10-22T03:57:43.282Z",
+          "origin": "current_api",
+          "retrieved": true,
+          "textHash": "82c1c3c570b8f48948c39f450a75a921eb32de38e2a4312be39b5fbc9a691373",
+          "availability": {
+            "title": "説明文下クレジットカード",
+            "httpStatus": 200,
+            "sameDestination": true,
+            "itemId": "10006740",
+            "itemMatches": true,
+            "purchaseCondition": "enabled",
+            "stockCondition": null,
+            "soldOut": false,
+            "purchaseControls": true,
+            "purchasable": true,
+            "state": "purchase_enabled"
+          }
+        },
+        {
+          "itemCode": "mighty-liquors:10007025",
+          "normalUrl": "https://item.rakuten.co.jp/mighty-liquors/sa1271311/",
+          "name": "榮光冨士 栄光冨士 純米酒 無濾過生原酒 暁乃翼 澱絡み 2024 720ml 2024年2月詰め 【要冷蔵・クール便推奨】 日本酒 秋 ハロウィン 秋の味覚 手土産 贈り物 プレゼント あす楽 ギフト のし",
+          "shopName": "日本酒・焼酎 マイティ・リカーズ",
+          "shopCode": "mighty-liquors",
+          "apiAvailability": 1,
+          "kind": "unconfirmed",
+          "caption": "商品詳細 原材料 米、米麹 度数 15.6度 サイズ 720ml 備考 日本酒 ギフト お歳暮 御歳暮 お中元 御中元　プレゼント記念日 開店祝い 開店祝 贈答品 贈りもの 父の日 母の日 退職 還暦 誕生日 純米 じゅんまい 純米酒 特純 特別純米 純米吟醸 純吟 純大 純米大吟醸 本醸造 大吟醸 【保管方法：要冷蔵】生酒のため要冷蔵です。お届け後はすぐに冷蔵庫で保管してください。品質保持のためクール便でのお届けを推奨しております。宅配ボックスでのお受け取りは品質変化の原因となるためお控えください。【クール便(+350円)をご希望のお客様へ】・クール便代350円(税込)は、ご注文時の合計金額には含まれておりません。・ご注文後、当店で送料に350円を加算し、確定金額をメールでお知らせいたします。・銀行振込・コンビニ払いなど前払いのお客様には、はじめから350円を含んだ　お支払い金額をご案内いたします。お支払いは一度だけです。・複数の商品をご注文の場合、1つでも「クール便」をお選びいただければ、ご注文全体を　クール便でお届けします。クール便代は何点ご注文でも350円のみです。　",
+          "checkedAt": "2026-10-22T03:57:44.485Z",
+          "origin": "current_api",
+          "retrieved": true,
+          "textHash": "d5a8153cffd2c3d0d9f1bc9ea4978b074d0e0c3b9279e605c081fae02ca42359",
+          "availability": {
+            "title": "【楽天市場】榮光冨士 栄光冨士 純米酒 無濾過生原酒 暁乃翼 澱絡み 2024 720ml 2024年2月詰め 【要冷蔵・クール便推奨】 日本酒 秋 ハロウィン 秋の味覚 手土産 贈り物 プレゼント あす楽 ギフト のし：日本酒・焼酎　マイティ・リカーズ",
+            "httpStatus": 200,
+            "sameDestination": true,
+            "itemId": "10007025",
+            "itemMatches": true,
+            "purchaseCondition": "enabled",
+            "stockCondition": null,
+            "soldOut": false,
+            "purchaseControls": true,
+            "purchasable": true,
+            "state": "purchase_enabled"
+          }
+        }
+      ],
+      "official": [
+        {
+          "url": "https://www.e-sakenom.com/fuji_WEB002/",
+          "retrieved": true,
+          "checkedAt": "2026-10-22T03:57:45.676Z",
+          "textHash": "f674e44a19ef06f2b955c555e1d64b5f279d02b461dfd38de9e003fa3b71c6e9"
+        }
+      ]
+    },
+    {
+      "sakeId": "tabika-junmai-funashibori-ichikai-hiire-v1",
+      "offers": [
+        {
+          "itemCode": "fukutaya:10013204",
+          "normalUrl": "https://item.rakuten.co.jp/fukutaya/tabika-jyun720/",
+          "name": "【限定流通酒】田光 純米酒 槽搾り 瓶火入れ 720ml 早川酒造 三重県菰野町 地酒 日本酒 純米酒 田光 早春 正規特約 販売店",
+          "shopName": "福田屋酒店",
+          "shopCode": "fukutaya",
+          "apiAvailability": 1,
+          "kind": "unconfirmed",
+          "caption": "■商品詳細 特定名称 純米酒 精米歩合 60％ 原料 米・米麹（国産酒造好適米100%） 日本酒度 - &nbsp;酸度 - 容量 720ml アルコール 15度 &nbsp;商品の説明 早川酒蔵は父・母・息子のたった3人だけで150石の酒を醸す　早川酒造。 酒の名は　蔵の傍を流れる【田光川】から命名されました。 早川酒造　早川俊人氏が山形の有名蔵で酒造りを学び、 その時に飲んだ【純米吟醸　雄町】に感銘を受け、後に蔵に戻り新たなブランド【田光】を立ち上げました。 関東一円で【田光　純米吟醸　雄町】は瞬く間に知れ渡り、その酒は飲兵衛をも魅了。 田光のみならず、早川酒造の代表銘柄【早春】は発売されればすぐ完売になるという。 【火入れ田光のニュータイプ】 このお酒は、早川酒造さんのある三重県三重郡菰野町で契約農家さんが栽培している【神の穂】で醸した純米酒です。 酵母にも三重県酵母を使用しこの田光に関してもオール三重県です！ 1回火入れタイプで、常温・燗でのんでも円やかな酸味がひろがる濃醇な旨味のあるお酒です。 蔵元紹介&nbsp; 三重郡菰野町唯一の酒蔵　早川酒造さん。 早川酒蔵さんの特徴は『少人数』であること。 お酒を仕込み出荷されるまでの作業を3人でされています。 父・母・息子の3人です。 そして、お酒を作る工程はほとんどが手作業。 大量生産による機械の導入はしません。 【米は手で洗い　酒は袋で搾る】 社長さん曰く 『この方針は今後も変わる事はありません』との事 酒を搾る時はモロミを袋に詰め、槽（ふね）と呼ばれる箱のようなものにモロミの入った酒袋を何重にも積み重ねていきます。 その袋の重みで自然にふな口から流れ出てくるものが早春のお酒となります。 これが槽搾りと言うお酒の搾り方です。 この酒造り（槽搾り）は非常に手間ひまが掛かる為、大吟醸や品評会出品酒で行う蔵が多いのですが、早川酒造さんでは全てのお酒をこの方法で酒造りをしています。【小さいからこそのこだわり】 酒蔵は父・母・息子のたった3人だけで150石の酒を醸す　早川酒造。 酒の名は　蔵の傍を流れる【田光川】から命名されました。 早川酒造　早川俊人氏が山形の有名蔵で酒造りを学び、 その時に飲んだ【純米吟醸　雄町】に感銘を受け、後に蔵に戻り新たなブランド【田光】を立ち上げました。 関東一円で【田光　純米吟醸　雄町】は瞬く間に知れ渡り、その酒は飲兵衛をも魅了。 田光のみならず、早川酒造の代表銘柄【早春】は発売されればすぐ完売になるという。 【火入れ田光のニュータイプ】 このお酒は、早川酒造さんのある三重県三重郡菰野町で契約農家さんが栽培している【神の穂】で醸した純米酒です。 酵母にも三重県酵母を使用しこの田光に関してもオール三重県です！ 1回火入れタイプ。 穏やかな香りで常温・燗で飲んでも円やかな酸味がひろがる濃醇な旨味のあるお酒です。",
+          "checkedAt": "2026-10-22T03:57:46.919Z",
+          "origin": "previous_evidence",
+          "retrieved": true,
+          "textHash": "c20bc72fbd7faec3e54e1381ccb8a8a6ab9c87981eb38a71e0bca71d7d8a6620",
+          "availability": {
+            "title": "【楽天市場】【限定流通酒】田光 純米酒 槽搾り 瓶火入れ 720ml 早川酒造 三重県菰野町 地酒 日本酒 純米酒 田光 早春 正規特約 販売店：福田屋酒店",
+            "httpStatus": 200,
+            "sameDestination": true,
+            "itemId": "10013204",
+            "itemMatches": true,
+            "purchaseCondition": "enabled",
+            "stockCondition": null,
+            "soldOut": false,
+            "purchaseControls": true,
+            "purchasable": true,
+            "state": "purchase_enabled"
+          }
+        },
+        {
+          "itemCode": "sake-mie:10000076",
+          "normalUrl": "https://item.rakuten.co.jp/sake-mie/tabika-omachi-720/",
+          "name": "田光 たびか 純米吟醸無濾過生原酒 備前雄町 720ml 早川酒造 三重県菰野町 日本酒 クール便指定",
+          "shopName": "地酒「作」&全国銘酒専門べんのや",
+          "shopCode": "sake-mie",
+          "apiAvailability": 1,
+          "kind": "unconfirmed",
+          "caption": "商品詳細品名純米吟醸酒内容量(ml)720本数1アルコール度数17精米歩合(%)50味わいやや辛口飲用温度冷や / 常温原材料米　米こうじ原料米備前雄町原産地三重保存方法要冷蔵製造者・蔵元早川酒造【三重県菰野町】【三重のモンスター地酒ブランド】 『田光（たびか）』としてはダントツの一番人気がこれ！！ 酒米『備前雄町』を使用した純米吟醸です。 『雄町』ならではの濃厚な味わいをフレッシュな新酒でお愉しみ下さい！ 搾られたままの無濾過生原酒をもっとも純度の 高い中取り部分のみを瓶詰めしました。 『田光（たびか』ブレイクのキッカケとなった超限定酒です！ 米は手洗い 酒は袋で搾る。 小さい蔵だからこそ　お届けできる酒もある。 酒造りの全ての作業を家族3人で行う三重県菰野の小さな蔵元 『早川酒造』の蔵元はこう語ります。 鈴鹿山脈 釈迦ヶ嶽の麓でとても柔らかな味わいのお酒を醸しており、地元以外には出回っていなかったメインブランド『早春』、そして今や全国に広がりつつある特約店限定ブランド『田光（たびか）』の2銘柄を中心に新たなチャレンジを続けています。 若き杜氏と熟練の杜氏の技の融合。 山形の有名地酒『上喜元』の酒田酒造で教えを受け、自らの造りに反映する若き杜氏。 父である熟練の杜氏と共に『早春』の酒質向上に努めます。 そして、2009年。 『一般米で美味しい酒を造る。』を目標にしてきた早川酒造が酒米『備前雄町』を使用して醸した酒『田光（たびか）』をリリース。 その味わいで関東を中心とした地酒通の間で話題となります。 『田光（たびか）』の爆発的なヒットを受け、翌年から原料米に『五百万石』や『美山錦』等の酒造好適米を使用し、メインブランド『早春』も今まで以上にパワーアップ。 毎年、進化を続ける三重県期待の蔵元のひとつです。！",
+          "checkedAt": "2026-10-22T03:57:48.108Z",
+          "origin": "previous_evidence",
+          "retrieved": true,
+          "textHash": "8ba620d461bdaa4ee7f18bfc984351febb06c852d151bb504e7949c2ff8b1e96",
+          "availability": {
+            "title": "【楽天市場】田光 たびか 純米吟醸無濾過生原酒 備前雄町 720ml 早川酒造 三重県菰野町 日本酒 クール便指定：地酒「作」＆全国銘酒専門べんのや",
+            "httpStatus": 200,
+            "sameDestination": true,
+            "itemId": "10000076",
+            "itemMatches": true,
+            "purchaseCondition": "enabled",
+            "stockCondition": null,
+            "soldOut": false,
+            "purchaseControls": true,
+            "purchasable": true,
+            "state": "purchase_enabled"
+          }
+        },
+        {
+          "itemCode": "fukutaya:10013407",
+          "normalUrl": "https://item.rakuten.co.jp/fukutaya/tabika-tokuj-1800/",
+          "name": "田光 雄町 火入れ 1800ml 早川酒造 三重県菰野町 地酒 日本酒 正規価格",
+          "shopName": "福田屋酒店",
+          "shopCode": "fukutaya",
+          "apiAvailability": 1,
+          "kind": "unconfirmed",
+          "caption": "【ほのかな香りと酸のある極旨な田光】 岡山県雄町を三重県酵母MK-1で醸したお酒。 MK-1特有のバナナや洋ナシの様な爽やかな香りとやわらかでキレのある旨口でスッキリとした味わいです。 希望の本数が入荷し無かった為、数量限定にてお願いたします。 【袋搾り】 大量生産では決して出すことの出来ないこのお酒の味は、全ての工程を手作業で行う事によって出されます。 米は手で洗い　酒は袋で搾る 酒を搾る時はモロミを袋に詰め、槽（ふね）と呼ばれる 箱のようなものにモロミの入った酒袋を何重にも積み重ねていきます。 その袋の重みで自然にふな口から流れ出てくるものが早春のお酒となります。 これが槽搾りと言うお酒の搾り方。 早川酒造さんから出されるお酒の全てはこの方法でのお酒です。 「荒走り・中取り・責め」といったお酒の搾りの段階を一切分けずに全てブレンドしてあるお酒の為に、 荒走り部分のもろみが薄っすらと絡んでいます。 そのもろみの部分の旨味も凝縮されていると言った印象です。 数量限定販売 この機会にどうぞ。",
+          "checkedAt": "2026-10-22T03:57:49.304Z",
+          "origin": "previous_evidence",
+          "retrieved": true,
+          "textHash": "250e1e9b3277d63e325207ffb656238f78ce1c389b5b0de11189e3380b914033",
+          "availability": {
+            "title": "【楽天市場】田光 雄町 火入れ 1800ml 早川酒造 三重県菰野町 地酒 日本酒 正規価格：福田屋酒店",
+            "httpStatus": 200,
+            "sameDestination": true,
+            "itemId": "10013407",
+            "itemMatches": true,
+            "purchaseCondition": "enabled",
+            "stockCondition": null,
+            "soldOut": false,
+            "purchaseControls": true,
+            "purchasable": true,
+            "state": "purchase_enabled"
+          }
+        }
+      ],
+      "official": []
+    },
+    {
+      "sakeId": "wakaze-the-classic-yamagata-v1",
+      "offers": [
+        {
+          "itemCode": "simazakiyaokamura:10000639",
+          "normalUrl": "https://item.rakuten.co.jp/simazakiyaokamura/1109901/",
+          "name": "THE CLASSIC WAKAZE(ワカゼ) 720ml 1本",
+          "shopName": "嶋崎屋岡村",
+          "shopCode": "simazakiyaokamura",
+          "apiAvailability": 1,
+          "kind": "unconfirmed",
+          "caption": "商品情報原材料米（山形県産）・米麹（山形県産米）アルコール度数13度精米歩合90％提供温度10℃〜12℃の間産地山形県米沢市THE CLASSIC WAKAZE(ワカゼ) 720ml 1本 日本酒と白ワインの間のような味わい山形県産つや姫を精米歩合90%によるクリアな甘味と白麹もと仕込みによるスッキリとした酸味 和食にも洋食にも合う、クリアな甘みと酸味のニュアンスが特徴です。サステナブルであった「低精白」であるものの、「ボディ感」と「軽い飲み心地」をもたらします。爽やかでフルーティな味わいのTHE CLASSICはチーズや魚介系との相性が抜群！グリルや蒸し料理、アクアパッツァなど幅広く合います。糠漬けや塩辛などの和食にもおすすめです。 5",
+          "checkedAt": "2026-10-22T03:57:50.627Z",
+          "origin": "previous_evidence",
+          "retrieved": true,
+          "textHash": "e90ffca8b3b242761bad207486848ddde9b50e4c2f9ddc0e69bc7e2af4d4d318",
+          "availability": {
+            "title": "【楽天市場】THE CLASSIC WAKAZE(ワカゼ)  720ml  1本：嶋崎屋岡村",
+            "httpStatus": 200,
+            "sameDestination": true,
+            "itemId": "10000639",
+            "itemMatches": true,
+            "purchaseCondition": "enabled",
+            "stockCondition": null,
+            "soldOut": false,
+            "purchaseControls": true,
+            "purchasable": true,
+            "state": "purchase_enabled"
+          }
+        },
+        {
+          "itemCode": "rawwine:10000035",
+          "normalUrl": "https://item.rakuten.co.jp/rawwine/wkz01/",
+          "name": "【クール便】【あす楽】【パリ金賞】WAKAZE（ワカゼ）THE CLASSIC 自然派日本酒 SAKE 純米金賞 720ml 1本",
+          "shopName": "ナチュラルワイン蔵",
+          "shopCode": "rawwine",
+          "apiAvailability": 1,
+          "kind": "unconfirmed",
+          "caption": "商品詳細 生産者 WAKAZE（ワカゼ） 内容量 720ml アルコール 13％ スタイル SAKE（食中酒タイプ） 原材料 米（山形県産）、米麹（日本産） 精米歩合 90％ 日本酒について 生産者：WAKAZE（ワカゼ）／スタイル：SAKE（食中酒タイプ）。 品種・ブレンド（原料） 米（山形県産 つや姫）／米麹（日本産）。 商品説明 THE CLASSIC は、食の都パリで生まれた醸造レシピと、日本の伝統的な酒造技術が融合して生まれた SAKE です。山形県産「つや姫」を精米歩合90％で使用し、テロワールの考え方を取り入れた設計により、洋食を中心に幅広い料理とのペアリングを意識した味わいに仕上げています。軽やかな飲み心地で、食前から食中までさまざまなシーンに寄り添う1本です。 味わい クリアでフルーティな印象に、爽やかな酸味のニュアンス。軽快な飲み口でありながら、食事と合わせたときにバランスよく調和するスタイルです。 おすすめの飲み方 温度：よく冷やして（8〜12℃）／グラス：ワイングラス推奨。食前酒として、また食中のペアリングドリンクとしてもおすすめです。 おすすめのペアリング 魚介の前菜、グリルや蒸し料理、アクアパッツァなどの洋食。チーズとも相性が良く、塩気や旨味のある料理と合わせやすいタイプです。 受賞・評価 2024年度 純米酒部門 金賞／IWC（インターナショナル・ワイン・チャレンジ）2024 純米酒部門 銅賞。 開栓・保管について 直射日光・高温を避け、冷暗所で保管してください。開栓後は冷蔵し、風味の変化を楽しみながら早めにお召し上がりください。 生産者について WAKAZE（ワカゼ）は、「日本酒を世界酒に」を掲げ、伝統技術を基盤にしながら世界各地で醸造に取り組む SAKE ブランド。パリ郊外の醸造所「KURA GRAND PARIS」など、国際的な視点で SAKE の可能性を広げています。",
+          "checkedAt": "2026-10-22T03:57:51.759Z",
+          "origin": "previous_evidence",
+          "retrieved": true,
+          "textHash": "cd14d2e3b9b1857336e7a103e956d974b682574ae7bdd7c5b60e6de80d4adc31",
+          "availability": {
+            "title": "【楽天市場】【クール便】【あす楽】【パリ金賞】WAKAZE（ワカゼ）THE CLASSIC 自然派日本酒 SAKE 純米金賞 720ml 1本：ナチュラルワイン蔵",
+            "httpStatus": 200,
+            "sameDestination": true,
+            "itemId": "10000035",
+            "itemMatches": true,
+            "purchaseCondition": "enabled",
+            "stockCondition": null,
+            "soldOut": false,
+            "purchaseControls": true,
+            "purchasable": true,
+            "state": "purchase_enabled"
+          }
+        }
+      ],
+      "official": [
+        {
+          "url": "https://www.wakaze-store.com/collections/the-classic/products/the-classic-jp",
+          "retrieved": true,
+          "checkedAt": "2026-10-22T03:57:54.682Z",
+          "textHash": "62120379de8d5aada676ecd006c81c4903c8608b01ce234aa8886c56600e602f"
+        }
+      ]
+    },
+    {
+      "sakeId": "azumanofumoto-junmai-ginjo-yamagata-selection-v1",
+      "offers": [
+        {
+          "itemCode": "yamagatamaru:10000233",
+          "normalUrl": "https://item.rakuten.co.jp/yamagatamaru/1104-0020/",
+          "name": "東の麓 純米吟醸 出羽の里（でわのさと） 1800ml【取り寄せ】日本酒 山形 地酒",
+          "shopName": "まるごと山形",
+          "shopCode": "yamagatamaru",
+          "apiAvailability": 1,
+          "kind": "unconfirmed",
+          "caption": "ふくよかな香りのあるすっきりした出羽の里店長レビュー鼻で感じる香り穏やか口に含んだ印象さわやか含み香フルーティでさっぱり後味さらっとしている店長コメント注目の出羽の里で東の麓が挑戦しました。装いも新たに新生東の麓のがっちりとした味わいとさわやかな出羽の里の純米吟醸をお楽しみくださいませ。【商品詳細情報】飲みやすい口当たりの純米酒種類純米吟醸酒日本酒度±0酸度−原料米出羽の里精米歩合60%使用酵母山形吟醸酵母適温常温【常温便発送】[日本酒][種類で選ぶ][純米吟醸酒][JAN: ][日本酒][種類で選ぶ][純米吟醸酒][JAN: ][日本酒][種類で選ぶ][純米吟醸酒][JAN: ][日本酒][種類で選ぶ][純米吟醸酒][JAN: ]",
+          "checkedAt": "2026-10-22T03:57:54.860Z",
+          "origin": "previous_evidence",
+          "retrieved": true,
+          "textHash": "5897f4fa80ea9c918e8fce98cdd797972eaaf09f85e1bd527a660ba13502b836",
+          "availability": {
+            "title": "【楽天市場】東の麓 純米吟醸 出羽の里（でわのさと） 1800ml【取り寄せ】日本酒 山形 地酒：まるごと山形",
+            "httpStatus": 200,
+            "sameDestination": true,
+            "itemId": "10000233",
+            "itemMatches": true,
+            "purchaseCondition": "enabled",
+            "stockCondition": null,
+            "soldOut": false,
+            "purchaseControls": true,
+            "purchasable": true,
+            "state": "purchase_enabled"
+          }
+        },
+        {
+          "itemCode": "yamagatamaru:10000234",
+          "normalUrl": "https://item.rakuten.co.jp/yamagatamaru/1104-0021/",
+          "name": "東の麓 純米吟醸 出羽の里（でわのさと） 720ml【取り寄せ】日本酒 山形 地酒",
+          "shopName": "まるごと山形",
+          "shopCode": "yamagatamaru",
+          "apiAvailability": 1,
+          "kind": "unconfirmed",
+          "caption": "ふくよかな香りのあるすっきりした出羽の里店長レビュー鼻で感じる香り穏やか口に含んだ印象さわやか含み香フルーティでさっぱり後味さらっとしている店長コメント注目の出羽の里で東の麓が挑戦しました。装いも新たに新生東の麓のがっちりとした味わいとさわやかな出羽の里の純米吟醸をお楽しみくださいませ。【商品詳細情報】飲みやすい口当たりの純米酒種類純米吟醸日本酒度±0酸度−原料米出羽の里精米歩合60%使用酵母山形酵母適温常温【常温便発送】[日本酒][種類で選ぶ][純米吟醸酒][JAN: ][日本酒][種類で選ぶ][純米吟醸酒][JAN: ][日本酒][種類で選ぶ][純米吟醸酒][JAN: ][日本酒][種類で選ぶ][純米吟醸酒][JAN: ]",
+          "checkedAt": "2026-10-22T03:57:56.067Z",
+          "origin": "current_api",
+          "retrieved": true,
+          "textHash": "15924892dfc4fd3397027840be5f071f3355fdb4ad7c99f323ed166b54f77e33",
+          "availability": {
+            "title": "【楽天市場】東の麓 純米吟醸 出羽の里（でわのさと） 720ml【取り寄せ】日本酒 山形 地酒：まるごと山形",
+            "httpStatus": 200,
+            "sameDestination": true,
+            "itemId": "10000234",
+            "itemMatches": true,
+            "purchaseCondition": "enabled",
+            "stockCondition": null,
+            "soldOut": false,
+            "purchaseControls": true,
+            "purchasable": true,
+            "state": "purchase_enabled"
+          }
+        }
+      ],
+      "official": [
+        {
+          "url": "https://azumanofumoto.stores.jp/items/6995193de7836e0069217b4a",
+          "retrieved": false,
+          "checkedAt": "2026-10-22T03:57:57.151Z",
+          "textHash": "ededa4ae9a67b89a12358c774bb7134ad56b9266708dffe0006d7f26eec70b9f"
+        }
+      ]
+    }
+  ]
+}

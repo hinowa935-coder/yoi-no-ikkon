@@ -1,0 +1,15 @@
+{
+  "checkedAt": "2026-10-22T04:44:43.761Z",
+  "scope": "data, original creative binding and hash-scoped regression ledgers",
+  "uiOrRecommendationCodeChanged": false,
+  "providerHtmlModified": false,
+  "dependenciesChanged": false,
+  "oldRecordsPreserved": 569,
+  "issuesFixed": [
+    "MINAMI_AMBIGUOUS_EDITION_REJECTED",
+    "SOURCE_REFERENCE_CORRECTED",
+    "STRICT_FINGERPRINT_REBOUND",
+    "HISTORICAL_TEST_LEDGER_CHAINED"
+  ],
+  "passed": true
+}

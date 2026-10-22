@@ -18373,5 +18373,215 @@
         "validUntil": "2026-11-19T13:28:34.216Z"
       }
     ]
+  },
+  "shinshu-kirei-inakura-hitogokochi-junmai-ginjo-current-v1": {
+    "productFingerprint": "53f4c3532c0d609cf216470437ac1421ce4f72173994ef0443de385bd2bb3529",
+    "links": [
+      {
+        "sakeId": "shinshu-kirei-inakura-hitogokochi-junmai-ginjo-current-v1",
+        "provider": "amazon",
+        "matchType": "search",
+        "destinationType": "search_results",
+        "isAffiliate": false,
+        "url": "https://www.amazon.co.jp/s?k=%E4%BF%A1%E5%B7%9E%E4%BA%80%E9%BD%A2%20%E7%B4%94%E7%B1%B3%E5%90%9F%E9%86%B8%20%E7%A8%B2%E5%80%89%E3%81%AE%E6%A3%9A%E7%94%B0%E7%94%A3%E3%81%B2%E3%81%A8%E3%81%94%E3%81%93%E3%81%A1",
+        "label": "Amazonでこのお酒を探す",
+        "validUntil": "2026-11-21T04:20:12.645Z"
+      }
+    ]
+  },
+  "kameizumi-kouiku63-hiyaoroshi-current-v1": {
+    "productFingerprint": "27a167fdd2e979bbe767b4fc84049d7eed1d183400027a83bf55ed1bcfdb96b8",
+    "links": [
+      {
+        "sakeId": "kameizumi-kouiku63-hiyaoroshi-current-v1",
+        "provider": "amazon",
+        "matchType": "search",
+        "destinationType": "search_results",
+        "isAffiliate": false,
+        "url": "https://www.amazon.co.jp/s?k=%E4%BA%80%E6%B3%89%20%E7%B4%94%E7%B1%B3%E5%90%9F%E9%86%B8%E5%8E%9F%E9%85%92%20%E9%AB%98%E8%82%B263%E5%8F%B7%20%E3%81%B2%E3%82%84%E3%81%8A%E3%82%8D%E3%81%97",
+        "label": "Amazonでこのお酒を探す",
+        "validUntil": "2026-11-21T04:20:12.645Z"
+      }
+    ]
+  },
+  "tokachi-tokubetsu-junmai-suisei-current-v1": {
+    "productFingerprint": "ad4774d7fd4e5f01575bf79fb8975f86f742601da6c63ac09b5cc28de84cdf33",
+    "links": [
+      {
+        "sakeId": "tokachi-tokubetsu-junmai-suisei-current-v1",
+        "provider": "amazon",
+        "matchType": "search",
+        "destinationType": "search_results",
+        "isAffiliate": false,
+        "url": "https://www.amazon.co.jp/s?k=%E5%8D%81%E5%8B%9D%20%E7%89%B9%E5%88%A5%E7%B4%94%E7%B1%B3%20%E5%BD%97%E6%98%9F",
+        "label": "Amazonでこのお酒を探す",
+        "validUntil": "2026-11-21T04:20:12.645Z"
+      }
+    ]
+  },
+  "abe-silver-hiire-current-v1": {
+    "productFingerprint": "add87b4cf06450a6631a4a9b76d643758f99e8a8dadd0df8a16007df72f651ce",
+    "links": [
+      {
+        "sakeId": "abe-silver-hiire-current-v1",
+        "provider": "amazon",
+        "matchType": "search",
+        "destinationType": "search_results",
+        "isAffiliate": false,
+        "url": "https://www.amazon.co.jp/s?k=%E3%81%82%E3%81%B9%20%E3%82%B7%E3%83%AB%E3%83%90%E3%83%BC%20%E7%81%AB%E5%85%A5%E3%82%8C",
+        "label": "Amazonでこのお酒を探す",
+        "validUntil": "2026-11-21T04:20:12.645Z"
+      }
+    ]
+  },
+  "shichihonyari-muu-1800-current-v1": {
+    "productFingerprint": "531cf50ec11f145e9670b3bc6467a680d23fb219d592164ddae24b1f354390b6",
+    "links": [
+      {
+        "sakeId": "shichihonyari-muu-1800-current-v1",
+        "provider": "amazon",
+        "matchType": "search",
+        "destinationType": "search_results",
+        "isAffiliate": false,
+        "url": "https://www.amazon.co.jp/s?k=%E4%B8%83%E6%9C%AC%E9%8E%97%20%E7%84%A1%E8%BE%B2%E8%96%AC%E7%B4%94%E7%B1%B3%20%E7%84%A1%E6%9C%89%201800ml",
+        "label": "Amazonでこのお酒を探す",
+        "validUntil": "2026-11-21T04:20:12.645Z"
+      }
+    ]
+  },
+  "haginotsuyu-amadare-tomizu-hiire-current-v1": {
+    "productFingerprint": "ff3df3b2c1cf2226c2aeb07177e676d91de1ad9f923cb20caa60e8e723ff5a0b",
+    "links": [
+      {
+        "sakeId": "haginotsuyu-amadare-tomizu-hiire-current-v1",
+        "provider": "amazon",
+        "matchType": "search",
+        "destinationType": "search_results",
+        "isAffiliate": false,
+        "url": "https://www.amazon.co.jp/s?k=%E8%90%A9%E4%B9%83%E9%9C%B2%20%E7%89%B9%E5%88%A5%E7%B4%94%E7%B1%B3%20%E5%8D%81%E6%B0%B4%E4%BB%95%E8%BE%BC%20%E9%9B%A8%E5%9E%82%E3%82%8C%E7%9F%B3%E3%82%92%E7%A9%BF%E3%81%A4%20%E7%81%AB%E5%85%A5%E3%82%8C",
+        "label": "Amazonでこのお酒を探す",
+        "validUntil": "2026-11-21T04:20:12.645Z"
+      }
+    ]
+  },
+  "hanaabi-gohyakumangoku-muroka-namagenshu-1800-current-v1": {
+    "productFingerprint": "c52e3c7667c156fe13fc5fe028f7b8c5115f7c206de91d993e27937054fc895b",
+    "links": [
+      {
+        "sakeId": "hanaabi-gohyakumangoku-muroka-namagenshu-1800-current-v1",
+        "provider": "amazon",
+        "matchType": "search",
+        "destinationType": "search_results",
+        "isAffiliate": false,
+        "url": "https://www.amazon.co.jp/s?k=%E8%8A%B1%E9%99%BD%E6%B5%B4%20%E7%B4%94%E7%B1%B3%E5%A4%A7%E5%90%9F%E9%86%B8%20%E8%B6%8A%E5%BE%8C%E4%BA%94%E7%99%BE%E4%B8%87%E7%9F%B3%20%E7%84%A1%E6%BF%BE%E9%81%8E%E7%94%9F%E5%8E%9F%E9%85%92%201800ml",
+        "label": "Amazonでこのお酒を探す",
+        "validUntil": "2026-11-21T04:20:12.645Z"
+      }
+    ]
+  },
+  "sara-junmai-ginjo-namazume-current-v1": {
+    "productFingerprint": "8c26ea57aaba0950b20da9c43b6dfcfc5a15c16b623f955b2bbb78c5b618b320",
+    "links": [
+      {
+        "sakeId": "sara-junmai-ginjo-namazume-current-v1",
+        "provider": "amazon",
+        "matchType": "search",
+        "destinationType": "search_results",
+        "isAffiliate": false,
+        "url": "https://www.amazon.co.jp/s?k=%E5%BD%A9%E4%BE%86%20%E7%B4%94%E7%B1%B3%E5%90%9F%E9%86%B8%20%E7%94%9F%E8%A9%B0",
+        "label": "Amazonでこのお酒を探す",
+        "validUntil": "2026-11-21T04:20:12.645Z"
+      }
+    ]
+  },
+  "mimurosugi-kioke-bodaimoto-jishaden-current-v1": {
+    "productFingerprint": "623aa0a4dd170165f11e10a55a9c78a7d17bc0e14c1a7861ee560fd6016790f7",
+    "links": [
+      {
+        "sakeId": "mimurosugi-kioke-bodaimoto-jishaden-current-v1",
+        "provider": "amazon",
+        "matchType": "search",
+        "destinationType": "search_results",
+        "isAffiliate": false,
+        "url": "https://www.amazon.co.jp/s?k=%E3%81%BF%E3%82%80%E3%82%8D%E6%9D%89%20%E6%9C%A8%E6%A1%B6%E8%8F%A9%E6%8F%90%E3%82%82%E3%81%A8%20%E8%87%AA%E7%A4%BE%E7%94%B0%E5%B1%B1%E7%94%B0%E9%8C%A6",
+        "label": "Amazonでこのお酒を探す",
+        "validUntil": "2026-11-21T04:20:12.645Z"
+      }
+    ]
+  },
+  "tanaka65-hiire-1800-current-v1": {
+    "productFingerprint": "aa6d0ff86fa9df2170ba1d8aea1ac968b50f81fadf6ad89e06d75e094889d116",
+    "links": [
+      {
+        "sakeId": "tanaka65-hiire-1800-current-v1",
+        "provider": "amazon",
+        "matchType": "search",
+        "destinationType": "search_results",
+        "isAffiliate": false,
+        "url": "https://www.amazon.co.jp/s?k=%E7%94%B0%E4%B8%AD%E5%85%AD%E4%BA%94%20%E7%B4%94%E7%B1%B3%E9%85%92%20%E7%81%AB%E5%85%A5%E3%82%8C%201800ml",
+        "label": "Amazonでこのお酒を探す",
+        "validUntil": "2026-11-21T04:20:12.645Z"
+      }
+    ]
+  },
+  "shirakiku-ginshari-tokubetsu-junmai-current-v1": {
+    "productFingerprint": "4b30c754236f239850cf217af221d30427a7e292eadddfd8240b18ed80065152",
+    "links": [
+      {
+        "sakeId": "shirakiku-ginshari-tokubetsu-junmai-current-v1",
+        "provider": "amazon",
+        "matchType": "search",
+        "destinationType": "search_results",
+        "isAffiliate": false,
+        "url": "https://www.amazon.co.jp/s?k=shirakiku%20%E7%89%B9%E5%88%A5%E7%B4%94%E7%B1%B3%20%E9%8A%80%E3%82%B7%E3%83%A3%E3%83%AA%20%E7%81%AB%E5%85%A5%E3%82%8C",
+        "label": "Amazonでこのお酒を探す",
+        "validUntil": "2026-11-21T04:20:12.645Z"
+      }
+    ]
+  },
+  "kagura-nojoho-junmai-ginjo-nama-current-v1": {
+    "productFingerprint": "75484a7b43268aab389411e739f1622c5433109616fd559334d0d576c6ee89df",
+    "links": [
+      {
+        "sakeId": "kagura-nojoho-junmai-ginjo-nama-current-v1",
+        "provider": "amazon",
+        "matchType": "search",
+        "destinationType": "search_results",
+        "isAffiliate": false,
+        "url": "https://www.amazon.co.jp/s?k=%E7%A5%9E%E8%94%B5%20%E7%B4%94%E7%B1%B3%E5%90%9F%E9%86%B8%20%E9%87%8E%E6%9D%A1%E7%A9%82%20%E7%84%A1%E6%BF%BE%E9%81%8E%E3%83%BB%E7%84%A1%E5%8A%A0%E6%B0%B4%E3%83%BB%E7%94%9F%E9%85%92",
+        "label": "Amazonでこのお酒を探す",
+        "validUntil": "2026-11-21T04:20:12.645Z"
+      }
+    ]
+  },
+  "eikofuji-hinowa-muroka-nama-2026-current-v1": {
+    "productFingerprint": "3fbac72d4f472faf6fd1e14d9e62bf9efb4b7d5e26d79d4f4685bb406b2f2b6e",
+    "links": [
+      {
+        "sakeId": "eikofuji-hinowa-muroka-nama-2026-current-v1",
+        "provider": "amazon",
+        "matchType": "search",
+        "destinationType": "search_results",
+        "isAffiliate": false,
+        "url": "https://www.amazon.co.jp/s?k=%E6%A0%84%E5%85%89%E5%86%A8%E5%A3%AB%20%E6%97%A5%E4%B9%83%E8%BC%AA%20%E7%B4%94%E7%B1%B3%E5%A4%A7%E5%90%9F%E9%86%B8%20%E7%84%A1%E6%BF%BE%E9%81%8E%E7%94%9F%E5%8E%9F%E9%85%92%202026",
+        "label": "Amazonでこのお酒を探す",
+        "validUntil": "2026-11-21T04:20:12.645Z"
+      }
+    ]
+  },
+  "kurumazaka-yamahai-akiagari-2019by-current-v1": {
+    "productFingerprint": "aa8816c1f0e277a6c580d87c4d92dd55d710d188560247ab5a279c31e16b0055",
+    "links": [
+      {
+        "sakeId": "kurumazaka-yamahai-akiagari-2019by-current-v1",
+        "provider": "amazon",
+        "matchType": "search",
+        "destinationType": "search_results",
+        "isAffiliate": false,
+        "url": "https://www.amazon.co.jp/s?k=%E8%BB%8A%E5%9D%82%20%E5%B1%B1%E5%BB%83%E7%B4%94%E7%B1%B3%E9%85%92%20%E7%A7%8B%E3%81%82%E3%81%8C%E3%82%8A%202019BY",
+        "label": "Amazonでこのお酒を探す",
+        "validUntil": "2026-11-21T04:20:12.645Z"
+      }
+    ]
   }
 }

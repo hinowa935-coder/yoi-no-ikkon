@@ -1,0 +1,244 @@
+{
+  "checkedAt": "2026-10-22T04:45:10.711Z",
+  "sourceCommit": "aa93d76fd4de21d3e4ee847a31a7fcc2f6f6c90c",
+  "passed": true,
+  "scan": {
+    "scannedFiles": 8841,
+    "unreadableFiles": 0,
+    "findings": [],
+    "passed": true,
+    "configuredValuesChecked": [
+      "RAKUTEN_APPLICATION_ID",
+      "RAKUTEN_ACCESS_KEY",
+      "RAKUTEN_AFFILIATE_ID"
+    ],
+    "limitation": null
+  },
+  "files": [
+    {
+      "path": "src/data/catalogAdditions.json",
+      "sha256": "7f0814daf0d25ce7fa613e83a2d7ba08ab4bbd0ceb24a4f735809a6edd4e566a"
+    },
+    {
+      "path": "src/data/catalogLifecycle.json",
+      "sha256": "6ba032b4bea5efa6de19d5dc17f5c6596c148b2c422f421e4915817eb16c8141"
+    },
+    {
+      "path": "src/commerce/generated/purchase-matches.json",
+      "sha256": "e874535bfe9cb4cf0568ef0a6f67b0a3be0992c9fa39d63ac1a2830ba745453a"
+    },
+    {
+      "path": "src/commerce/generated/product-media.json",
+      "sha256": "d326ebbff567c545437b96d21b39d462fdf125efa70f1d57cfd139f6523888cd"
+    },
+    {
+      "path": "src/commerce/generated/commerce-final-approvals.json",
+      "sha256": "14ffaadb55327d8b984a43107418b19f1cfd9a6957721d655e54cbc696cc071e"
+    },
+    {
+      "path": "src/commerce/generated/discovery-links.json",
+      "sha256": "533a1698fa6e6736a0c62267eebdb754b7e055f2705aafe70ed51e9011e6a27c"
+    },
+    {
+      "path": "src/commerce/generated/merchant-links.json",
+      "sha256": "73bc598206a9840b469c860fecbe72d48093e330b9f7c5eeba86d36aa62d29ca"
+    },
+    {
+      "path": "data/catalog-operations/candidates.json",
+      "sha256": "1145ef7e4dcb2963e38c10f374269e308162a1f4b3ec26d55a94665523ef14eb"
+    },
+    {
+      "path": "data/catalog-operations/shelf-final-batch.json",
+      "sha256": "08271a54afd821aed9d8d48371de5fccdc736a5fbb9efc603a703eaf350e0abf"
+    },
+    {
+      "path": "data/catalog-operations/shelf-final-held.json",
+      "sha256": "8d5382a50d500375a6cef8ca79b3266f693a6fa43accd9f4a5f798077de49dc1"
+    },
+    {
+      "path": "scripts/shelf-final.test.mjs",
+      "sha256": "5ee71b2c79a8ce2f66eed33371f92975dd83169cb70edc3c4ae419730c8be42b"
+    },
+    {
+      "path": "scripts/lib/reviewed-shelf-update.mjs",
+      "sha256": "c940c5515d7056083d5bfe16dcb15f2207c04d881e06867717aa15ef73e50972"
+    },
+    {
+      "path": "scripts/lib/reviewed-historical-update.mjs",
+      "sha256": "29e8aa087b610b56b6b2c504681207d0577cb9537cc8850dd7a9510248803e18"
+    },
+    {
+      "path": "scripts/lib/reviewed-lineup-update.mjs",
+      "sha256": "94c4637e1c389916be5ea6e3c125d021d53aac08c596dc18718d98fbe076cd26"
+    },
+    {
+      "path": "scripts/lib/reviewed-commerce-update.mjs",
+      "sha256": "c0e76f0986c45325a33a8a7e44e930e6fc8b28983ad245c1b66aab793dd5b90b"
+    },
+    {
+      "path": "scripts/editorial-night.test.mjs",
+      "sha256": "0bc0fa7287783f8fc40880881ca287a35d32654582717899827943c1d353cba0"
+    },
+    {
+      "path": "scripts/seasonal-shelf.test.mjs",
+      "sha256": "2dd4de1b540a953f48812d266a7c545759d7588e7d45214a5dddc01d233fe4d0"
+    },
+    {
+      "path": "scripts/catalog-review-52.test.mjs",
+      "sha256": "ac4d75c7b72364855b151fadd1c394b0aa14a959eea89d6edac034bd9c2fdab4"
+    },
+    {
+      "path": "docs/shelf-final/api-requests.json",
+      "sha256": "b0a1842e162465ffdebdf99174bb5f01169531a5d4c5e6b5821d3b76861d9529"
+    },
+    {
+      "path": "docs/shelf-final/baseline-inventory.json",
+      "sha256": "03e530faa597d2a77c90fa4e2374c8e06d19eba2b6da128264308ef81992db61"
+    },
+    {
+      "path": "docs/shelf-final/baseline-manifest.json",
+      "sha256": "56f8ac462b6a20aac3193fcb38d11d7ed78d603bba1b46804f88d8b985125169"
+    },
+    {
+      "path": "docs/shelf-final/baseline-production.json",
+      "sha256": "0da801acfc246df2138c72fb3bcb11d2bd3d79f19d63f85c4a3ab7ef1aa3bffa"
+    },
+    {
+      "path": "docs/shelf-final/browser-local.json",
+      "sha256": "7b5cfbaf9487950cc17a9cc27255c35c96fcc51cf952b4fe0dc0eadecc6f9dea"
+    },
+    {
+      "path": "docs/shelf-final/build.json",
+      "sha256": "edaae9e8031bbaf3a48c12d4cb2fd848894a573d2a648747c93eb37f1076a6e8"
+    },
+    {
+      "path": "docs/shelf-final/capture-alternates.json",
+      "sha256": "7919ef200ccc4dee8dc92e25335f89b05fe49bb0802990632a29ccf8b8ec94a1"
+    },
+    {
+      "path": "docs/shelf-final/capture-targets.json",
+      "sha256": "de47ea8f024642dfcd2c08988546a762cef61ddbb8940f542885e5482897993c"
+    },
+    {
+      "path": "docs/shelf-final/code-checks.json",
+      "sha256": "a82a311da9fd3240c763f0c2d937a97150549b78db58e8568c5dd93825266cf1"
+    },
+    {
+      "path": "docs/shelf-final/code-review.json",
+      "sha256": "61334b5acc0c72ec6b0756025148282850673977f3c94068930ed5503e5468d2"
+    },
+    {
+      "path": "docs/shelf-final/cohort.json",
+      "sha256": "a467d1bbd0011b75fb406498dd336ad559ce62643ae78e9831361d7a37a2db55"
+    },
+    {
+      "path": "docs/shelf-final/decisions.csv",
+      "sha256": "9403157c596468c0a2c40df2e163edc5aac24303a334d65ef2b1957b66d9ab81"
+    },
+    {
+      "path": "docs/shelf-final/decisions.json",
+      "sha256": "9f65f6d021dd1e253003446561382df648760add868c3966341435cdfbc02ee7"
+    },
+    {
+      "path": "docs/shelf-final/discovery.json",
+      "sha256": "8636bfc70ae4c7053f6d10273b463965c79bcc3cd9ebb937216a5fcfd7670661"
+    },
+    {
+      "path": "docs/shelf-final/duplicates.json",
+      "sha256": "e51b4218982cc371343e4f68fc315f35aa85964947086ea8e3a3149cc1b4be3b"
+    },
+    {
+      "path": "docs/shelf-final/evidence-refinement.json",
+      "sha256": "464f108bfd64fe2bb8a43e11bf5a56d6b0384f92d747f82ef74a56f626e49cba"
+    },
+    {
+      "path": "docs/shelf-final/finalized.json",
+      "sha256": "f39ef77afa4839d39c999ae3dfd9590b7e9f909941ba4159b5c9fd98059aa1ce"
+    },
+    {
+      "path": "docs/shelf-final/fingerprint-refresh.json",
+      "sha256": "0dd1ce5644ea88b7c695db957dbc95aa9326bfa377bab588c4ad1d98b6d97a39"
+    },
+    {
+      "path": "docs/shelf-final/held-candidates.json",
+      "sha256": "8d5382a50d500375a6cef8ca79b3266f693a6fa43accd9f4a5f798077de49dc1"
+    },
+    {
+      "path": "docs/shelf-final/http-local.json",
+      "sha256": "83bf4f6fb59c1023276adc21980f9b1ff69e5a643633898a8e8553036254ca76"
+    },
+    {
+      "path": "docs/shelf-final/internal-links.json",
+      "sha256": "6a4e4755d2aeb1d84ce4ec7ad3ced17b3250ec1c1a44a2ba770ba38bb46f0a60"
+    },
+    {
+      "path": "docs/shelf-final/inventory-after.json",
+      "sha256": "d67edea6e0dc0d64a4d3c97619d3b6dae1b1b134dd73291834bad07035e0081a"
+    },
+    {
+      "path": "docs/shelf-final/link-validation.json",
+      "sha256": "6cb7a000223916159a36b8897053eac54bc94f30776b3fbeb2d4bb4d6cab5d6d"
+    },
+    {
+      "path": "docs/shelf-final/local-chromium.png",
+      "sha256": "ae683e207c3dde8e57d8e8a1c9a239cfdae3966bc0e3eb4314ac8c58a971155f"
+    },
+    {
+      "path": "docs/shelf-final/local-webkit.png",
+      "sha256": "2604faa3151770edbfb5e31b88efccef6b963d964f3b8afac9a8121ff87d271d"
+    },
+    {
+      "path": "docs/shelf-final/merchant-audit.json",
+      "sha256": "8ebc695be02e9a744aeb8e035bafdb6e985d016671d4815e4a6db797e654ac81"
+    },
+    {
+      "path": "docs/shelf-final/metrics.json",
+      "sha256": "3db3a4ab3828cbe9ac7a8ae9e9ba78761c9824d1cc0a9198eaa10df79c621dc2"
+    },
+    {
+      "path": "docs/shelf-final/new-product-plans.json",
+      "sha256": "723ed5afd0b3c0b9784e01c456de68db7f3a823a60423a70c1cb6108b7f285d0"
+    },
+    {
+      "path": "docs/shelf-final/new-product-sources.json",
+      "sha256": "e21957c706a92138d359be128e85b8b9e4d325ad143d63bf62b7f81f67cae41a"
+    },
+    {
+      "path": "docs/shelf-final/pwa-local.json",
+      "sha256": "9b5e251aed8aa221774a717f1cf55ad470abfe29c19be643441fa27d166f6248"
+    },
+    {
+      "path": "docs/shelf-final/report.md",
+      "sha256": "02d3bb9b9bbd38075b07ca763208837abc87994ba33139026d13ead5e2376659"
+    },
+    {
+      "path": "docs/shelf-final/retail-click-local.json",
+      "sha256": "4afc89817c87de87c77e1d06796dbda83aab0019e661c4d5393f24a5d38065c2"
+    },
+    {
+      "path": "docs/shelf-final/security.json",
+      "sha256": "9379fc616fa1b8ea80af395f5f46cd36252e1fc1a3c0e0d7b1e40b3c78373f27"
+    },
+    {
+      "path": "docs/shelf-final/selected-materials.json",
+      "sha256": "3a6f818a0122551821dd19c2342839a924bc7008db71330896cbe339a0bed7f6"
+    },
+    {
+      "path": "docs/shelf-final/staged.json",
+      "sha256": "b071c93c68b78185c32b656d8a44eef6b27cb1f307cccb8802b15966de93271b"
+    },
+    {
+      "path": "docs/shelf-final/stock-recheck.json",
+      "sha256": "160b72cad80b3480eb763fc4e8f1367838abb3517fa46a4dedaf359c0f5c0f40"
+    },
+    {
+      "path": "docs/shelf-final/web-source-verifications.json",
+      "sha256": "39c91840fec704158ad7f7e1a3d23f9e6edcbe969d9516503817386082640360"
+    }
+  ],
+  "environmentChanged": false,
+  "dependenciesChanged": false,
+  "publicUiCodeChanged": false,
+  "productionPublished": false,
+  "csvActualValueScanPassed": true
+}

@@ -1,0 +1,8 @@
+{
+  "checkedAt":"2026-10-22",
+  "method":"web.open; actual page body, not search snippet",
+  "rows":[
+    {"sourceUrl":"https://www.haginotsuyu.co.jp/amadare","sourceType":"official","retrieved":true,"retrievalMethod":"web.open","reference":"turn1801view0","checkedAt":"2026-10-22","facts":{"productName":"特別純米 十水仕込 雨垂れ石を穿つ","riceVariety":["山田錦","吟吹雪"],"polishingRatio":"60%","capacities":[1800,720,300],"temperatures":["冷酒","常温","燗酒"],"tasteSummary":"濃密さと爽やかさを併せ持つ。","pairingSummary":"濃い味の料理を含め広く食事に合う。"},"directFetchOutcome":"timeout; not reclassified as successful HTTP fetch","scope":"product"},
+    {"sourceUrl":"https://www.syusendo-horiichi.co.jp/SHOP/13566.html","sourceType":"specialistRetailer","retrieved":true,"retrievalMethod":"web.open","reference":"turn1801view1","checkedAt":"2026-10-22","facts":{"productName":"亀泉 純米吟醸原酒 高育63号 ひやおろし 720ml","brewery":"亀泉酒造","riceVariety":["風鳴子"],"riceOrigin":"高知県","polishingRatio":"55%","alcoholPercentage":"16.5度","yeast":"AA-41"},"directFetchOutcome":"timeout; not reclassified as successful HTTP fetch","scope":"product","stockUsed":false,"oldEditionNumericValuesNotImported":true}
+  ]
+}
