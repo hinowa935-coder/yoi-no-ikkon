@@ -12,7 +12,7 @@ const read=p=>JSON.parse(fs.readFileSync(new URL('../'+p,import.meta.url)));
 const hash=v=>createHash('sha256').update(v).digest('hex');
 const config={enabled:true,registeredSite:'https://yoi-no-ikkon.vercel.app/',enabledProviders:['rakuten'],routes:{rakuten:'rakuten'}};
 const offers=read('src/commerce/localSakana.json').offers,changes=read('docs/local-sakana-v1/source-changes.json');
-const now=Date.parse('2026-10-22T23:00:00+09:00');
+const now=Date.parse('2026-10-23T23:00:00+09:00');
 
 test('all active prefectures are known; exactly nine geo-only corrections retain SKU, research and favorite identity',()=>{
  assert.equal(visibleSakePairings.length,484);assert(visibleSakePairings.every(i=>i.prefecture&&!['UNKNOWN','undefined'].includes(i.prefecture)));
@@ -28,7 +28,7 @@ test('all unrelated application/data/commerce/PWA files retain exact baseline by
  for(const row of changes.changes){assert(reviewedLocalSakanaFile(row.file,row.beforeSha256,row.afterSha256));assert(!reviewedLocalSakanaFile(row.file,row.beforeSha256,'tampered'));}
 });
 test('specialty food claims, related food IDs and purchase records live in separate layers',()=>{
- assert.equal(localSpecialties.length,22);assert.equal(offers.length,22);assert.equal(new Set(localSpecialties.map(s=>s.id)).size,22);
+ assert.equal(localSpecialties.length,67);assert.equal(offers.length,67);assert.equal(new Set(localSpecialties.map(s=>s.id)).size,67);
  for(const s of localSpecialties){assert(s.prefecture&&s.description&&s.sources.length&&s.featureEvidence.length&&s.relatedFoodIds);assert(!('rakutenUrl'in s));assert(!('price'in s));assert(offers.some(o=>o.specialtyId===s.id));}
  assert(!localSpecialties.some(s=>s.id==='shio-uni'||s.id==='konka-iwashi'));
 });

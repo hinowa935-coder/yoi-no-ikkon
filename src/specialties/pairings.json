@@ -5447,6 +5447,5200 @@
       "communityPairing": false,
       "editorialPairing": true,
       "checkedAt": "2026-10-22"
+    },
+    {
+      "sakeId": "chiebijin-junmai",
+      "prefecture": "大分県",
+      "specialtyId": "oita-ryukyu",
+      "confidence": "medium",
+      "pairingReason": "りゅうきゅうの醤油だれを味わったら、この酒の「キレ」を。魚と酒を交互に楽しむ小鉢に。",
+      "evidenceType": "editorialPairing",
+      "displayOrder": 1,
+      "sakeEvidence": {
+        "axis": "clean",
+        "feature": "キレ",
+        "sourceUrl": "https://chiebijin.com/2024/12/10/chiebijin_jyunmai/",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L35"
+      },
+      "specialtyEvidence": {
+        "feature": "魚を漬けた醤油だれの味",
+        "meaning": "魚の切り身を醤油だれに漬ける大分のりゅうきゅう。選んだ商品は豊後水道の魚を使った、小分けの漬け魚です。",
+        "sourceUrls": [
+          "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/ryukyu_oita.html",
+          "https://item.rakuten.co.jp/onsenken-oita/j0000000817018s4/"
+        ],
+        "provenance": "regionalFoodCultureAndSpecificRetailProduct"
+      },
+      "officialPairing": false,
+      "communityPairing": false,
+      "editorialPairing": true,
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "sakeId": "sasshu-masamune-junmai",
+      "prefecture": "鹿児島県",
+      "specialtyId": "kagoshima-buta-miso",
+      "confidence": "medium",
+      "pairingReason": "豚味噌の豚肉と麦味噌を、この酒の「濃厚旨口」と。野菜に少し添え、酒と一緒に味わう提案です。",
+      "evidenceType": "editorialPairing",
+      "displayOrder": 1,
+      "sakeEvidence": {
+        "axis": "umami",
+        "feature": "濃厚旨口",
+        "sourceUrl": "https://www.hamadasyuzou.co.jp/kinzan/products/sasshu_masamune.html",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-03",
+        "meaning": "現行商品詳細に濃厚旨口タイプと明記。"
+      },
+      "specialtyEvidence": {
+        "feature": "豚肉と麦味噌の風味",
+        "meaning": "豚肉を味噌と合わせる鹿児島の郷土食。選んだ商品は鹿児島黒豚と麦味噌を使った、甘さ控えめのおかず味噌です。",
+        "sourceUrls": [
+          "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/butamiso_kagoshima.html",
+          "https://item.rakuten.co.jp/kinko/096569/"
+        ],
+        "provenance": "regionalFoodCultureAndSpecificRetailProduct"
+      },
+      "officialPairing": false,
+      "communityPairing": false,
+      "editorialPairing": true,
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "sakeId": "denshu-tokubetsu-junmai",
+      "prefecture": "青森県",
+      "specialtyId": "aomori-ichigoni",
+      "confidence": "medium",
+      "pairingReason": "いちご煮の魚介の旨味に、この酒の「米の旨味」を重ねて。汁も少しずつ味わいたい組み合わせです。",
+      "evidenceType": "editorialPairing",
+      "displayOrder": 1,
+      "sakeEvidence": {
+        "axis": "umami",
+        "feature": "米の旨味",
+        "sourceUrl": "https://kojima.ocnk.net/product/53",
+        "sourceType": "specialistRetailer",
+        "verifiedAt": "2026-10-03",
+        "meaning": "商品詳細L38"
+      },
+      "specialtyEvidence": {
+        "feature": "魚介の旨味と潮の香り",
+        "meaning": "ウニやアワビなどの魚介を汁で味わう、八戸周辺の郷土料理。缶詰でも親しまれています。",
+        "sourceUrls": [
+          "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/ichigoni_aomori.html",
+          "https://item.rakuten.co.jp/quickfactory/r001060/"
+        ],
+        "provenance": "regionalFoodCultureAndSpecificRetailProduct"
+      },
+      "officialPairing": false,
+      "communityPairing": false,
+      "editorialPairing": true,
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "sakeId": "akabu-junmai",
+      "prefecture": "岩手県",
+      "specialtyId": "iwate-suki-kombu",
+      "confidence": "medium",
+      "pairingReason": "すき昆布を戻して、好みの煮物に。この酒の「米の旨味」を味わう合間に、やわらかな昆布を少しずつ。",
+      "evidenceType": "editorialPairing",
+      "displayOrder": 1,
+      "sakeEvidence": {
+        "axis": "umami",
+        "feature": "米の旨味",
+        "sourceUrl": "https://www.akabu1.com/gallery/",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-03",
+        "meaning": "純米酒の項目に米の旨味を記載。"
+      },
+      "specialtyEvidence": {
+        "feature": "戻した昆布のやわらかな歯ごたえ",
+        "meaning": "若い昆布を細く切って乾燥させた、三陸のすき昆布。水で戻し、煮物やサラダの小鉢に。",
+        "sourceUrls": [
+          "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/28_5_iwate.html",
+          "https://item.rakuten.co.jp/satsumakaisan/sukikonbu-001/"
+        ],
+        "provenance": "regionalFoodCultureAndSpecificRetailProduct"
+      },
+      "officialPairing": false,
+      "communityPairing": false,
+      "editorialPairing": true,
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "sakeId": "nanbu-bijin-tokubetsu-junmai",
+      "prefecture": "岩手県",
+      "specialtyId": "iwate-suki-kombu",
+      "confidence": "medium",
+      "pairingReason": "水で戻したすき昆布を小鉢にして、この酒の「すっきりした後味」と。やわらかな歯ごたえを楽しみながら、軽くつまみたい夜に。",
+      "evidenceType": "editorialPairing",
+      "displayOrder": 1,
+      "sakeEvidence": {
+        "axis": "clean",
+        "feature": "すっきりした後味",
+        "sourceUrl": "https://www.nanbubijin.co.jp/sake/nihonshu/tokubetsu-junmai/tokubetsu_junmaishu/",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-03",
+        "meaning": "後味がすっきりと説明。"
+      },
+      "specialtyEvidence": {
+        "feature": "戻した昆布のやわらかな歯ごたえ",
+        "meaning": "若い昆布を細く切って乾燥させた、三陸のすき昆布。水で戻し、煮物やサラダの小鉢に。",
+        "sourceUrls": [
+          "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/28_5_iwate.html",
+          "https://item.rakuten.co.jp/satsumakaisan/sukikonbu-001/"
+        ],
+        "provenance": "regionalFoodCultureAndSpecificRetailProduct"
+      },
+      "officialPairing": false,
+      "communityPairing": false,
+      "editorialPairing": true,
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "sakeId": "sharaku-junmai-ginjo",
+      "prefecture": "福島県",
+      "specialtyId": "fukushima-nishin-sanshozuke",
+      "confidence": "medium",
+      "pairingReason": "にしんの山椒漬けの酸味に、この酒の「甘味と酸味の調和」を合わせて。山椒の香りも確かめながら、ひと口ずつ。",
+      "evidenceType": "editorialPairing",
+      "displayOrder": 1,
+      "sakeEvidence": {
+        "axis": "acid",
+        "feature": "甘味と酸味の調和",
+        "sourceUrl": "https://miyaizumi.co.jp/sake/",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L71の甘味と酸味が溶け合うという説明の要約"
+      },
+      "specialtyEvidence": {
+        "feature": "山椒の香りと酢漬けの酸味",
+        "meaning": "身欠きにしんを山椒とともに漬ける会津の保存食。選んだ商品は天然ポン酢を使った酢漬けです。",
+        "sourceUrls": [
+          "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/30_3_fukushima.html",
+          "https://item.rakuten.co.jp/auc-nimaruya/nisin-001/"
+        ],
+        "provenance": "regionalFoodCultureAndSpecificRetailProduct"
+      },
+      "officialPairing": false,
+      "communityPairing": false,
+      "editorialPairing": true,
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "sakeId": "aizu-chujo-junmai",
+      "prefecture": "福島県",
+      "specialtyId": "fukushima-nishin-sanshozuke",
+      "confidence": "medium",
+      "pairingReason": "にしんの山椒漬けを小さく切って、この酒の「濃醇」と。魚の味と酢の酸味を、酒と交互に楽しむなら。",
+      "evidenceType": "editorialPairing",
+      "displayOrder": 1,
+      "sakeEvidence": {
+        "axis": "umami",
+        "feature": "濃醇",
+        "sourceUrl": "https://www.tsurunoe.com/products/3",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-03",
+        "meaning": "純米酒の詳細で濃醇な味わいを説明"
+      },
+      "specialtyEvidence": {
+        "feature": "山椒の香りと酢漬けの酸味",
+        "meaning": "身欠きにしんを山椒とともに漬ける会津の保存食。選んだ商品は天然ポン酢を使った酢漬けです。",
+        "sourceUrls": [
+          "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/30_3_fukushima.html",
+          "https://item.rakuten.co.jp/auc-nimaruya/nisin-001/"
+        ],
+        "provenance": "regionalFoodCultureAndSpecificRetailProduct"
+      },
+      "officialPairing": false,
+      "communityPairing": false,
+      "editorialPairing": true,
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "sakeId": "masumi-karakuchi-kiippon",
+      "prefecture": "長野県",
+      "specialtyId": "nagano-nozawana",
+      "confidence": "medium",
+      "pairingReason": "野沢菜漬のシャキッとした歯ごたえに、この酒の「キレ」を。ごはんの小鉢を晩酌にも添えて。",
+      "evidenceType": "editorialPairing",
+      "displayOrder": 1,
+      "sakeEvidence": {
+        "axis": "clean",
+        "feature": "キレ",
+        "sourceUrl": "https://www.masumi.co.jp/product/karakuchiki-ippon/",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-03",
+        "meaning": "公式掲載テイスティングでキレのある余韻を説明。"
+      },
+      "specialtyEvidence": {
+        "feature": "野沢菜の歯ごたえと発酵の風味",
+        "meaning": "信州の食卓に根付く野沢菜漬。選んだ商品は木島平で乳酸発酵させ、低温で熟成した250g入りです。",
+        "sourceUrls": [
+          "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/nozawana_zuke_nagano.html",
+          "https://item.rakuten.co.jp/okamoto-tukemono/nozawana_hondukuri250g_900250/"
+        ],
+        "provenance": "regionalFoodCultureAndSpecificRetailProduct"
+      },
+      "officialPairing": false,
+      "communityPairing": false,
+      "editorialPairing": true,
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "sakeId": "tamanohikari-junmai-ginjo-shukon-standard",
+      "prefecture": "京都府",
+      "specialtyId": "kyoto-shibazuke",
+      "confidence": "medium",
+      "pairingReason": "しば漬けの酸味に、この酒の「酸味」を合わせて。赤しその香りも楽しみながら、小皿をつまむ夜に。",
+      "evidenceType": "editorialPairing",
+      "displayOrder": 1,
+      "sakeEvidence": {
+        "axis": "acid",
+        "feature": "酸味",
+        "sourceUrl": "https://tamanohikari.co.jp/products/231.html",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-12",
+        "meaning": "当該商品の酸味に対応する公式説明を短縮。"
+      },
+      "specialtyEvidence": {
+        "feature": "赤しその香りと発酵の酸味",
+        "meaning": "茄子や胡瓜をしそと塩で漬ける京の漬物。赤しその色と、発酵による酸味が持ち味です。",
+        "sourceUrls": [
+          "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/shibazuke_kyoto.html",
+          "https://item.rakuten.co.jp/nishiri/10000060/"
+        ],
+        "provenance": "regionalFoodCultureAndSpecificRetailProduct"
+      },
+      "officialPairing": false,
+      "communityPairing": false,
+      "editorialPairing": true,
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "sakeId": "kid-junmai-ginjo",
+      "prefecture": "和歌山県",
+      "specialtyId": "wakayama-goma-dofu",
+      "confidence": "medium",
+      "pairingReason": "ごま豆腐のなめらかな舌触りと、この酒の「軽快」を。静かに小鉢をつまみながら飲む夜に。",
+      "evidenceType": "editorialPairing",
+      "displayOrder": 1,
+      "sakeEvidence": {
+        "axis": "clean",
+        "feature": "軽快",
+        "sourceUrl": "https://www.sake-kagiya.com/view/item/000000000110?category_page_id=ct19",
+        "sourceType": "specialistRetailer",
+        "verifiedAt": "2026-10-03",
+        "meaning": "対象商品の味わい欄は軽快でバランスがよいと記載。"
+      },
+      "specialtyEvidence": {
+        "feature": "胡麻の旨味となめらかな舌触り",
+        "meaning": "胡麻と葛などを練り上げる高野山ゆかりの精進料理。なめらかな舌触りと、胡麻の味を楽しむ一品です。",
+        "sourceUrls": [
+          "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/goma_toufu_wakayama.html",
+          "https://item.rakuten.co.jp/orgalife/gomadofu_10p/"
+        ],
+        "provenance": "regionalFoodCultureAndSpecificRetailProduct"
+      },
+      "officialPairing": false,
+      "communityPairing": false,
+      "editorialPairing": true,
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "sakeId": "ugonotsuki-junmai-ginjo",
+      "prefecture": "広島県",
+      "specialtyId": "hiroshima-kaki-doteyaki",
+      "confidence": "medium",
+      "pairingReason": "かきの土手鍋の牡蠣と味噌を、この酒の「米の旨味」と。温かい煮物の小皿を添えて飲みたい夜に。",
+      "evidenceType": "editorialPairing",
+      "displayOrder": 1,
+      "sakeEvidence": {
+        "axis": "umami",
+        "feature": "米の旨味",
+        "sourceUrl": "https://www.tajima-ya.net/ugonotsuki/",
+        "sourceType": "specialistRetailer",
+        "verifiedAt": "2026-10-03",
+        "meaning": "対象商品の味わいに米の旨味と記載。"
+      },
+      "specialtyEvidence": {
+        "feature": "牡蠣と味噌の重なる味わい",
+        "meaning": "広島のかきの土手鍋を、家庭でつまみやすい缶詰に。選んだ商品は広島産の牡蠣を府中味噌などで煮ています。",
+        "sourceUrls": [
+          "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/42_4_hiroshima.html",
+          "https://item.rakuten.co.jp/setouchilemon-nouen/kakinodotenabe/"
+        ],
+        "provenance": "regionalFoodCultureAndSpecificRetailProduct"
+      },
+      "officialPairing": false,
+      "communityPairing": false,
+      "editorialPairing": true,
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "sakeId": "tenbi-junmai-ginjo",
+      "prefecture": "山口県",
+      "specialtyId": "yamaguchi-fugu-karaage",
+      "confidence": "medium",
+      "pairingReason": "ふぐの唐揚げの衣の食感と、この酒の「爽やかな酸味」を。揚げた小皿と酒を交互に楽しむ提案です。",
+      "evidenceType": "editorialPairing",
+      "displayOrder": 1,
+      "sakeEvidence": {
+        "axis": "clean",
+        "feature": "爽やかな酸味",
+        "sourceUrl": "https://choshusake.com/products/ginjojunmai",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-03",
+        "meaning": "対象商品の酸を柑橘に例えて説明。"
+      },
+      "specialtyEvidence": {
+        "feature": "衣のサクッとした食感と魚の弾力",
+        "meaning": "ふぐに下味と衣をつけて揚げる山口ゆかりの料理。選んだ商品は骨なし真ふぐの塩唐揚げで、家庭で揚げる冷凍品です。",
+        "sourceUrls": [
+          "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/43_18_yamaguchi.html",
+          "https://item.rakuten.co.jp/kiraku-senzaki/fg_ice_siokara400/"
+        ],
+        "provenance": "regionalFoodCultureAndSpecificRetailProduct"
+      },
+      "officialPairing": false,
+      "communityPairing": false,
+      "editorialPairing": true,
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "sakeId": "ibi-white",
+      "prefecture": "岐阜県",
+      "specialtyId": "gifu-akakabu",
+      "confidence": "medium",
+      "pairingReason": "赤かぶ漬けのさっぱりした口当たりを、この酒の「すっきりした味わい」と。食卓に小さな漬物の皿を添えて。",
+      "evidenceType": "editorialPairing",
+      "displayOrder": 1,
+      "sakeEvidence": {
+        "axis": "clean",
+        "feature": "すっきりした味わい",
+        "sourceUrl": "https://www.sugiharasake.jp/product/",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-04",
+        "meaning": "WHITE欄のすっきりとした芳醇な味わい"
+      },
+      "specialtyEvidence": {
+        "feature": "赤かぶのほのかな酸味",
+        "meaning": "飛騨に伝わる赤かぶの塩漬け。自然な紅色と、漬物のほのかな酸味を楽しむ一品です。",
+        "sourceUrls": [
+          "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/38_20_gifu.html",
+          "https://item.rakuten.co.jp/oomoriya-m/231/"
+        ],
+        "provenance": "regionalFoodCultureAndSpecificRetailProduct"
+      },
+      "officialPairing": false,
+      "communityPairing": false,
+      "editorialPairing": true,
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "sakeId": "juyondai-modern-premium",
+      "prefecture": "山形県",
+      "specialtyId": "yamagata-omizuke",
+      "confidence": "medium",
+      "pairingReason": "おみ漬の刻み野菜をつまみながら、この酒の「淡麗」を。塩気のある小鉢と、酒の軽さを楽しむ組み合わせです。",
+      "evidenceType": "editorialPairing",
+      "displayOrder": 1,
+      "sakeEvidence": {
+        "axis": "clean",
+        "feature": "淡麗",
+        "sourceUrl": "https://www.sakenomy.jp/sake/TST0000049848/",
+        "sourceType": "specialistDatabase",
+        "verifiedAt": "2026-10-03",
+        "meaning": "対象商品L177"
+      },
+      "specialtyEvidence": {
+        "feature": "刻んだ青菜と野菜の塩気",
+        "meaning": "山形青菜や大根、人参を細かく刻んだ漬物。小鉢に少し盛って、晩ごはんのお供にも。",
+        "sourceUrls": [
+          "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/omizuke_yamagata.html",
+          "https://item.rakuten.co.jp/orgale/moy-004/"
+        ],
+        "provenance": "regionalFoodCultureAndSpecificRetailProduct"
+      },
+      "officialPairing": false,
+      "communityPairing": false,
+      "editorialPairing": true,
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "sakeId": "hato-masamune-tw2kq6",
+      "prefecture": "青森県",
+      "specialtyId": "aomori-ichigoni",
+      "confidence": "medium",
+      "pairingReason": "いちご煮の魚介の旨味に、この酒の「米のふくよかな味わい」を重ねて。汁も少しずつ味わいたい組み合わせです。",
+      "evidenceType": "editorialPairing",
+      "displayOrder": 1,
+      "sakeEvidence": {
+        "axis": "umami",
+        "feature": "米のふくよかな味わい",
+        "sourceUrl": "https://www.hatomasa.jp/line-up",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L396：対象商品の味わいをそのまま短く記録。"
+      },
+      "specialtyEvidence": {
+        "feature": "魚介の旨味と潮の香り",
+        "meaning": "ウニやアワビなどの魚介を汁で味わう、八戸周辺の郷土料理。缶詰でも親しまれています。",
+        "sourceUrls": [
+          "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/ichigoni_aomori.html",
+          "https://item.rakuten.co.jp/quickfactory/r001060/"
+        ],
+        "provenance": "regionalFoodCultureAndSpecificRetailProduct"
+      },
+      "officialPairing": false,
+      "communityPairing": false,
+      "editorialPairing": true,
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "sakeId": "asahibaki-iaxjez",
+      "prefecture": "岩手県",
+      "specialtyId": "iwate-suki-kombu",
+      "confidence": "medium",
+      "pairingReason": "すき昆布を戻して、好みの煮物に。この酒の「米の旨味」を味わう合間に、やわらかな昆布を少しずつ。",
+      "evidenceType": "editorialPairing",
+      "displayOrder": 1,
+      "sakeEvidence": {
+        "axis": "umami",
+        "feature": "米の旨味",
+        "sourceUrl": "https://www.asabiraki-net.jp/item/206/",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-03",
+        "meaning": "L54の味わい説明"
+      },
+      "specialtyEvidence": {
+        "feature": "戻した昆布のやわらかな歯ごたえ",
+        "meaning": "若い昆布を細く切って乾燥させた、三陸のすき昆布。水で戻し、煮物やサラダの小鉢に。",
+        "sourceUrls": [
+          "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/28_5_iwate.html",
+          "https://item.rakuten.co.jp/satsumakaisan/sukikonbu-001/"
+        ],
+        "provenance": "regionalFoodCultureAndSpecificRetailProduct"
+      },
+      "officialPairing": false,
+      "communityPairing": false,
+      "editorialPairing": true,
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "sakeId": "tsuki-no-wa-iaxjez",
+      "prefecture": "岩手県",
+      "specialtyId": "iwate-suki-kombu",
+      "confidence": "medium",
+      "pairingReason": "水で戻したすき昆布を小鉢にして、この酒の「キレのある後口」と。やわらかな歯ごたえを楽しみながら、軽くつまみたい夜に。",
+      "evidenceType": "editorialPairing",
+      "displayOrder": 1,
+      "sakeEvidence": {
+        "axis": "clean",
+        "feature": "キレのある後口",
+        "sourceUrl": "https://www.tsukinowa-iwate.com/wakasaya/detail9.html",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-03",
+        "meaning": "L10"
+      },
+      "specialtyEvidence": {
+        "feature": "戻した昆布のやわらかな歯ごたえ",
+        "meaning": "若い昆布を細く切って乾燥させた、三陸のすき昆布。水で戻し、煮物やサラダの小鉢に。",
+        "sourceUrls": [
+          "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/28_5_iwate.html",
+          "https://item.rakuten.co.jp/satsumakaisan/sukikonbu-001/"
+        ],
+        "provenance": "regionalFoodCultureAndSpecificRetailProduct"
+      },
+      "officialPairing": false,
+      "communityPairing": false,
+      "editorialPairing": true,
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "sakeId": "jokigen-i9diua",
+      "prefecture": "山形県",
+      "specialtyId": "yamagata-omizuke",
+      "confidence": "medium",
+      "pairingReason": "おみ漬の刻み野菜をつまみながら、この酒の「キレがある」を。塩気のある小鉢と、酒の軽さを楽しむ組み合わせです。",
+      "evidenceType": "editorialPairing",
+      "displayOrder": 1,
+      "sakeEvidence": {
+        "axis": "clean",
+        "feature": "キレがある",
+        "sourceUrl": "https://www.jokigen.com/products/1",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-03",
+        "meaning": "商品説明L20"
+      },
+      "specialtyEvidence": {
+        "feature": "刻んだ青菜と野菜の塩気",
+        "meaning": "山形青菜や大根、人参を細かく刻んだ漬物。小鉢に少し盛って、晩ごはんのお供にも。",
+        "sourceUrls": [
+          "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/omizuke_yamagata.html",
+          "https://item.rakuten.co.jp/orgale/moy-004/"
+        ],
+        "provenance": "regionalFoodCultureAndSpecificRetailProduct"
+      },
+      "officialPairing": false,
+      "communityPairing": false,
+      "editorialPairing": true,
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "sakeId": "daishichi-junmai-kimoto-standard",
+      "prefecture": "福島県",
+      "specialtyId": "fukushima-ika-ninjin",
+      "confidence": "medium",
+      "pairingReason": "いかにんじんのするめの旨味を、この酒の「ふくらみのある旨味」と一緒に。細切りの人参をつまみながら、ゆっくり飲む夜に。",
+      "evidenceType": "editorialPairing",
+      "displayOrder": 1,
+      "sakeEvidence": {
+        "axis": "umami",
+        "feature": "ふくらみのある旨味",
+        "sourceUrl": "https://www.daishichi.com/sake/junmaikimoto.html",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-12",
+        "meaning": "当該商品のふくらみのある旨味に対応する公式説明を短縮。"
+      },
+      "specialtyEvidence": {
+        "feature": "するめの旨味と甘口の醤油だれ",
+        "meaning": "細切りのするめと人参を醤油だれに漬けた福島の郷土料理。するめの旨味と人参の食感が楽しめます。",
+        "sourceUrls": [
+          "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/30_1_fukushima.html",
+          "https://item.rakuten.co.jp/kikukoh-foods/datenoikaninjin140g/"
+        ],
+        "provenance": "regionalFoodCultureAndSpecificRetailProduct"
+      },
+      "officialPairing": false,
+      "communityPairing": false,
+      "editorialPairing": true,
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "sakeId": "mizubasho-p7oucs",
+      "prefecture": "群馬県",
+      "specialtyId": "gunma-konnyaku-miso-oden",
+      "confidence": "medium",
+      "pairingReason": "こんにゃく味噌おでんの甘辛い味噌だれに、この酒の「米の旨味」を重ねて。温かい小皿を囲む晩酌に。",
+      "evidenceType": "editorialPairing",
+      "displayOrder": 1,
+      "sakeEvidence": {
+        "axis": "umami",
+        "feature": "米の旨味",
+        "sourceUrl": "https://www.mizubasho.jp/item_category/fullyear/",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-03",
+        "meaning": "純米吟醸の項目で山田錦の旨味を説明。"
+      },
+      "specialtyEvidence": {
+        "feature": "甘辛い味噌だれ",
+        "meaning": "ゆでたこんにゃくに甘辛い味噌だれをかける群馬の一品。選んだ商品は温めて付属のたれをかけるタイプです。",
+        "sourceUrls": [
+          "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/32_23_gunma.html",
+          "https://item.rakuten.co.jp/konnyakupark/ydf00200/"
+        ],
+        "provenance": "regionalFoodCultureAndSpecificRetailProduct"
+      },
+      "officialPairing": false,
+      "communityPairing": false,
+      "editorialPairing": true,
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "sakeId": "tanigawadake-p7oucs",
+      "prefecture": "群馬県",
+      "specialtyId": "gunma-konnyaku-miso-oden",
+      "confidence": "medium",
+      "pairingReason": "こんにゃく味噌おでんの甘辛い味噌だれに、この酒の「米の旨味」を重ねて。温かい小皿を囲む晩酌に。",
+      "evidenceType": "editorialPairing",
+      "displayOrder": 1,
+      "sakeEvidence": {
+        "axis": "umami",
+        "feature": "米の旨味",
+        "sourceUrl": "https://www.tanigawadake.jp/item_category/fullyear/",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-03",
+        "meaning": "対象商品の米の旨味を紹介。"
+      },
+      "specialtyEvidence": {
+        "feature": "甘辛い味噌だれ",
+        "meaning": "ゆでたこんにゃくに甘辛い味噌だれをかける群馬の一品。選んだ商品は温めて付属のたれをかけるタイプです。",
+        "sourceUrls": [
+          "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/32_23_gunma.html",
+          "https://item.rakuten.co.jp/konnyakupark/ydf00200/"
+        ],
+        "provenance": "regionalFoodCultureAndSpecificRetailProduct"
+      },
+      "officialPairing": false,
+      "communityPairing": false,
+      "editorialPairing": true,
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "sakeId": "okunokami-kflfjg",
+      "prefecture": "東京都",
+      "specialtyId": "tokyo-bettarazuke",
+      "confidence": "medium",
+      "pairingReason": "べったら漬けの歯ごたえを楽しんだら、この酒の「すっきりした後口」を。甘さ控えめのこうじ漬けと合わせる小皿に。",
+      "evidenceType": "editorialPairing",
+      "displayOrder": 1,
+      "sakeEvidence": {
+        "axis": "clean",
+        "feature": "すっきりした後口",
+        "sourceUrl": "https://shop.kanda-toshimaya.co.jp/shop/products/OKN-JM-NT-HIRE-720",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L97"
+      },
+      "specialtyEvidence": {
+        "feature": "大根の歯ごたえとこうじ漬けの甘み",
+        "meaning": "大根を米麹などで漬けた東京ゆかりの漬物。選んだ郡司のべったら漬けは皮つきで、甘さ控えめの仕上がりです。",
+        "sourceUrls": [
+          "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/34_8_tokyo.html",
+          "https://item.rakuten.co.jp/gunjimiso/compass1630523594/"
+        ],
+        "provenance": "regionalFoodCultureAndSpecificRetailProduct"
+      },
+      "officialPairing": false,
+      "communityPairing": false,
+      "editorialPairing": true,
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "sakeId": "sawanoi-kflfjg",
+      "prefecture": "東京都",
+      "specialtyId": "tokyo-asari-tsukudani",
+      "confidence": "medium",
+      "pairingReason": "あさりの佃煮の甘辛さに、この酒の「コク」を。小さなひと口で、貝の味もゆっくり楽しむなら。",
+      "evidenceType": "editorialPairing",
+      "displayOrder": 1,
+      "sakeEvidence": {
+        "axis": "umami",
+        "feature": "コク",
+        "sourceUrl": "https://www.sawanoi-sake.com/item/item-623/",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-03",
+        "meaning": "対象商品にコクと旨味を記載。"
+      },
+      "specialtyEvidence": {
+        "feature": "あさりの甘辛い醤油味",
+        "meaning": "あさりを醤油や砂糖で煮る、江戸ゆかりの佃煮。選んだ玉木屋の商品は生姜入りで、少しずつつまむ小皿に。",
+        "sourceUrls": [
+          "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/34_25_tokyo.html",
+          "https://item.rakuten.co.jp/tamakiya-shop/tanpin13550asari/"
+        ],
+        "provenance": "regionalFoodCultureAndSpecificRetailProduct"
+      },
+      "officialPairing": false,
+      "communityPairing": false,
+      "editorialPairing": true,
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "sakeId": "kasen-kflfjg",
+      "prefecture": "東京都",
+      "specialtyId": "tokyo-asari-tsukudani",
+      "confidence": "medium",
+      "pairingReason": "あさりの佃煮の甘辛さに、この酒の「旨味」を。小さなひと口で、貝の味もゆっくり楽しむなら。",
+      "evidenceType": "editorialPairing",
+      "displayOrder": 1,
+      "sakeEvidence": {
+        "axis": "umami",
+        "feature": "旨味",
+        "sourceUrl": "https://www.tamurashuzojo.com/product/detail/E00114103",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-04",
+        "meaning": "原本script[type=text/x-template]#product-detail-form内アイテム紹介。動的差込みではない静的本文"
+      },
+      "specialtyEvidence": {
+        "feature": "あさりの甘辛い醤油味",
+        "meaning": "あさりを醤油や砂糖で煮る、江戸ゆかりの佃煮。選んだ玉木屋の商品は生姜入りで、少しずつつまむ小皿に。",
+        "sourceUrls": [
+          "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/34_25_tokyo.html",
+          "https://item.rakuten.co.jp/tamakiya-shop/tanpin13550asari/"
+        ],
+        "provenance": "regionalFoodCultureAndSpecificRetailProduct"
+      },
+      "officialPairing": false,
+      "communityPairing": false,
+      "editorialPairing": true,
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "sakeId": "tamajiman-kflfjg",
+      "prefecture": "東京都",
+      "specialtyId": "tokyo-asari-tsukudani",
+      "confidence": "medium",
+      "pairingReason": "あさりの佃煮の甘辛さに、この酒の「ふくよかな旨味」を。小さなひと口で、貝の味もゆっくり楽しむなら。",
+      "evidenceType": "editorialPairing",
+      "displayOrder": 1,
+      "sakeEvidence": {
+        "axis": "umami",
+        "feature": "ふくよかな旨味",
+        "sourceUrl": "https://tamajiman.com/SHOP/S-101-1.html",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L158"
+      },
+      "specialtyEvidence": {
+        "feature": "あさりの甘辛い醤油味",
+        "meaning": "あさりを醤油や砂糖で煮る、江戸ゆかりの佃煮。選んだ玉木屋の商品は生姜入りで、少しずつつまむ小皿に。",
+        "sourceUrls": [
+          "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/34_25_tokyo.html",
+          "https://item.rakuten.co.jp/tamakiya-shop/tanpin13550asari/"
+        ],
+        "provenance": "regionalFoodCultureAndSpecificRetailProduct"
+      },
+      "officialPairing": false,
+      "communityPairing": false,
+      "editorialPairing": true,
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "sakeId": "mushohai-junmai-ginjo-standard",
+      "prefecture": "奈良県",
+      "specialtyId": "nara-narazuke",
+      "confidence": "medium",
+      "pairingReason": "奈良漬の酒粕の風味に、この酒の「旨味」を重ねて。胡瓜を薄く切り、少量から楽しむ小皿に。",
+      "evidenceType": "editorialPairing",
+      "displayOrder": 1,
+      "sakeEvidence": {
+        "axis": "umami",
+        "feature": "旨味",
+        "sourceUrl": "https://nara-toyosawa.myshopify.com/products/%E6%9C%9F%E9%96%93%E9%99%90%E5%AE%9A-%E5%A4%8F%E3%81%AE%E7%84%A1%E4%B8%8A%E7%9B%83-%E3%82%B3%E3%83%94%E3%83%BC",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-13",
+        "meaning": "当該商品の旨味に対応する公式説明を短縮。"
+      },
+      "specialtyEvidence": {
+        "feature": "酒粕が染み込んだ胡瓜の風味",
+        "meaning": "塩漬けした野菜を酒粕に漬け込む奈良の伝統食。選んだ商品は胡瓜の奈良漬で、酒粕の風味を楽しめます。",
+        "sourceUrls": [
+          "https://www.maff.go.jp/j/keikaku/syokubunka/traditional-foods/menu/naraduke.html",
+          "https://item.rakuten.co.jp/naranokoto/1031-80000843/"
+        ],
+        "provenance": "regionalFoodCultureAndSpecificRetailProduct"
+      },
+      "officialPairing": false,
+      "communityPairing": false,
+      "editorialPairing": true,
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "sakeId": "kizakura-yamahai-tokubetsu-junmai-yamadanishiki-standard",
+      "prefecture": "京都府",
+      "specialtyId": "kyoto-suguki",
+      "confidence": "medium",
+      "pairingReason": "すぐき漬けの発酵の酸味を、この酒の「力強い旨味」と。根と葉を切り分け、味の違いを楽しむ小鉢に。",
+      "evidenceType": "editorialPairing",
+      "displayOrder": 1,
+      "sakeEvidence": {
+        "axis": "umami",
+        "feature": "力強い旨味",
+        "sourceUrl": "https://www.kizakura-shop.com/view/item/000000000243",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-12",
+        "meaning": "当該商品の力強い旨味に対応する公式説明を短縮。"
+      },
+      "specialtyEvidence": {
+        "feature": "乳酸発酵による酸味",
+        "meaning": "すぐき菜を塩で漬け、発酵させる京都の伝統漬物。根と葉を一緒に味わえる、酸味のある一品です。",
+        "sourceUrls": [
+          "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/sugukizuke_kyoto.html",
+          "https://item.rakuten.co.jp/nishiri/10000005/"
+        ],
+        "provenance": "regionalFoodCultureAndSpecificRetailProduct"
+      },
+      "officialPairing": false,
+      "communityPairing": false,
+      "editorialPairing": true,
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "sakeId": "kai-no-kaiun-i9dko8",
+      "prefecture": "山梨県",
+      "specialtyId": "yamanashi-awabi-nigai",
+      "confidence": "medium",
+      "pairingReason": "あわびの煮貝の歯ごたえを楽しみながら、この酒の「やや辛口」を。醤油で煮た貝の味と合わせる一皿に。",
+      "evidenceType": "editorialPairing",
+      "displayOrder": 1,
+      "sakeEvidence": {
+        "axis": "dry",
+        "feature": "やや辛口",
+        "sourceUrl": "https://kainokaiun-webshop.easy-myshop.jp/c-item-detail?ic=001055",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L67"
+      },
+      "specialtyEvidence": {
+        "feature": "貝の歯ごたえと磯の旨味",
+        "meaning": "あわびを醤油で煮る甲州の名産品。選んだ商品は肝つきの茜あわびを煮た、かいやの姿煮です。",
+        "sourceUrls": [
+          "https://www.maff.go.jp/j/keikaku/syokubunka/traditional-foods/menu/awabino_nigai.html",
+          "https://www.pref.yamanashi.jp/shokuhin-st/shokuiku/yamanashinoshoku/awabinonigai.html",
+          "https://item.rakuten.co.jp/e-yamanashi/om-001-r/"
+        ],
+        "provenance": "regionalFoodCultureAndSpecificRetailProduct"
+      },
+      "officialPairing": false,
+      "communityPairing": false,
+      "editorialPairing": true,
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "sakeId": "hyakushun-junmai-josen-standard",
+      "prefecture": "岐阜県",
+      "specialtyId": "gifu-akakabu",
+      "confidence": "medium",
+      "pairingReason": "赤かぶ漬けのさっぱりした口当たりを、この酒の「すっきりした味わい」と。食卓に小さな漬物の皿を添えて。",
+      "evidenceType": "editorialPairing",
+      "displayOrder": 1,
+      "sakeEvidence": {
+        "axis": "clean",
+        "feature": "すっきりした味わい",
+        "sourceUrl": "https://www.kuramoto-kosaka.com/products/junmai/products11.html",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-16",
+        "meaning": "Current official product description normalized without additional evaluation."
+      },
+      "specialtyEvidence": {
+        "feature": "赤かぶのほのかな酸味",
+        "meaning": "飛騨に伝わる赤かぶの塩漬け。自然な紅色と、漬物のほのかな酸味を楽しむ一品です。",
+        "sourceUrls": [
+          "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/38_20_gifu.html",
+          "https://item.rakuten.co.jp/oomoriya-m/231/"
+        ],
+        "provenance": "regionalFoodCultureAndSpecificRetailProduct"
+      },
+      "officialPairing": false,
+      "communityPairing": false,
+      "editorialPairing": true,
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "sakeId": "tsuki-no-katsura-fjg",
+      "prefecture": "京都府",
+      "specialtyId": "kyoto-suguki",
+      "confidence": "medium",
+      "pairingReason": "すぐき漬けの発酵の酸味を、この酒の「コク」と。根と葉を切り分け、味の違いを楽しむ小鉢に。",
+      "evidenceType": "editorialPairing",
+      "displayOrder": 1,
+      "sakeEvidence": {
+        "axis": "umami",
+        "feature": "コク",
+        "sourceUrl": "https://tsukinokatsura.co.jp/iwai/",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-03",
+        "meaning": "祝40のテイスティング欄にミルク調のなめらかなコクを記載。"
+      },
+      "specialtyEvidence": {
+        "feature": "乳酸発酵による酸味",
+        "meaning": "すぐき菜を塩で漬け、発酵させる京都の伝統漬物。根と葉を一緒に味わえる、酸味のある一品です。",
+        "sourceUrls": [
+          "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/sugukizuke_kyoto.html",
+          "https://item.rakuten.co.jp/nishiri/10000005/"
+        ],
+        "provenance": "regionalFoodCultureAndSpecificRetailProduct"
+      },
+      "officialPairing": false,
+      "communityPairing": false,
+      "editorialPairing": true,
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "sakeId": "katano-sakura-hlztnu",
+      "prefecture": "大阪府",
+      "specialtyId": "osaka-doteyaki",
+      "confidence": "medium",
+      "pairingReason": "どて焼きの濃い味噌味に、この酒の「ほどよい酸味」を。味噌の甘辛さと酒の酸味の対比を楽しむなら。",
+      "evidenceType": "editorialPairing",
+      "displayOrder": 1,
+      "sakeEvidence": {
+        "axis": "acid",
+        "feature": "ほどよい酸味",
+        "sourceUrl": "https://www.katanosakura.com/item/a023/",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-03",
+        "meaning": "対象商品は程よい酸味と説明。"
+      },
+      "specialtyEvidence": {
+        "feature": "牛すじを煮た甘辛い味噌味",
+        "meaning": "牛すじを味噌やみりんで煮込む大阪のどて焼き。選んだ商品は大根とこんにゃくも入った一缶です。",
+        "sourceUrls": [
+          "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/39_23_osaka.html",
+          "https://item.rakuten.co.jp/tokusen-gourmet/10001092/"
+        ],
+        "provenance": "regionalFoodCultureAndSpecificRetailProduct"
+      },
+      "officialPairing": false,
+      "communityPairing": false,
+      "editorialPairing": true,
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "sakeId": "harushika-hmwprj",
+      "prefecture": "奈良県",
+      "specialtyId": "nara-narazuke",
+      "confidence": "medium",
+      "pairingReason": "奈良漬の酒粕の風味に、この酒の「コクとキレ」を重ねて。胡瓜を薄く切り、少量から楽しむ小皿に。",
+      "evidenceType": "editorialPairing",
+      "displayOrder": 1,
+      "sakeEvidence": {
+        "axis": "umami",
+        "feature": "コクとキレ",
+        "sourceUrl": "https://www.harushika.com/fs/harushika/type03/gd11",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-03",
+        "meaning": "通常品の商品説明はコクとキレの調和を記載。"
+      },
+      "specialtyEvidence": {
+        "feature": "酒粕が染み込んだ胡瓜の風味",
+        "meaning": "塩漬けした野菜を酒粕に漬け込む奈良の伝統食。選んだ商品は胡瓜の奈良漬で、酒粕の風味を楽しめます。",
+        "sourceUrls": [
+          "https://www.maff.go.jp/j/keikaku/syokubunka/traditional-foods/menu/naraduke.html",
+          "https://item.rakuten.co.jp/naranokoto/1031-80000843/"
+        ],
+        "provenance": "regionalFoodCultureAndSpecificRetailProduct"
+      },
+      "officialPairing": false,
+      "communityPairing": false,
+      "editorialPairing": true,
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "sakeId": "kuroushi-gp8l70i9d",
+      "prefecture": "和歌山県",
+      "specialtyId": "wakayama-goma-dofu",
+      "confidence": "medium",
+      "pairingReason": "ごま豆腐の胡麻の旨味を、この酒の「米の旨味」と。なめらかな舌触りも楽しみたい小鉢です。",
+      "evidenceType": "editorialPairing",
+      "displayOrder": 1,
+      "sakeEvidence": {
+        "axis": "umami",
+        "feature": "米の旨味",
+        "sourceUrl": "https://kuroushi.co.jp/products/kuroushi",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-03",
+        "meaning": "通常純米酒黒牛の項目に米の旨味を引き出した味と記載。"
+      },
+      "specialtyEvidence": {
+        "feature": "胡麻の旨味となめらかな舌触り",
+        "meaning": "胡麻と葛などを練り上げる高野山ゆかりの精進料理。なめらかな舌触りと、胡麻の味を楽しむ一品です。",
+        "sourceUrls": [
+          "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/goma_toufu_wakayama.html",
+          "https://item.rakuten.co.jp/orgalife/gomadofu_10p/"
+        ],
+        "provenance": "regionalFoodCultureAndSpecificRetailProduct"
+      },
+      "officialPairing": false,
+      "communityPairing": false,
+      "editorialPairing": true,
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "sakeId": "kuroushi-gp8l70i9d",
+      "prefecture": "和歌山県",
+      "specialtyId": "wakayama-kinzanji-miso",
+      "confidence": "medium",
+      "pairingReason": "金山寺味噌の甘口の味噌味に、この酒の「米の旨味」を。野菜に少し添えながら飲む晩酌に。",
+      "evidenceType": "editorialPairing",
+      "displayOrder": 2,
+      "sakeEvidence": {
+        "axis": "umami",
+        "feature": "米の旨味",
+        "sourceUrl": "https://kuroushi.co.jp/products/kuroushi",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-03",
+        "meaning": "通常純米酒黒牛の項目に米の旨味を引き出した味と記載。"
+      },
+      "specialtyEvidence": {
+        "feature": "野菜の入った甘口の味噌味",
+        "meaning": "麦や米、大豆のこうじに野菜を加える紀州の金山寺味噌。調味用というより、そのまま食べるおかず味噌です。",
+        "sourceUrls": [
+          "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/kinzanji_miso_wakayama.html",
+          "https://item.rakuten.co.jp/bunza/4968001102504/"
+        ],
+        "provenance": "regionalFoodCultureAndSpecificRetailProduct"
+      },
+      "officialPairing": false,
+      "communityPairing": false,
+      "editorialPairing": true,
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "sakeId": "sanzen-iapi9d",
+      "prefecture": "岡山県",
+      "specialtyId": "okayama-mamakari",
+      "confidence": "medium",
+      "pairingReason": "ママカリの酢漬けの甘酢の酸味を、この酒の「爽やかな酸味」と。酸味同士を、少しずつ比べてみたい組み合わせです。",
+      "evidenceType": "editorialPairing",
+      "displayOrder": 1,
+      "sakeEvidence": {
+        "axis": "acid",
+        "feature": "爽やかな酸味",
+        "sourceUrl": "https://kikuchishuzo.co.jp/product/",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-03",
+        "meaning": "対象商品欄に爽やかな酸味を記載。"
+      },
+      "specialtyEvidence": {
+        "feature": "甘酢に漬けた魚の酸味",
+        "meaning": "小魚のママカリを甘酢に漬ける岡山の郷土料理。生姜などを添え、酸味のある小皿として親しまれています。",
+        "sourceUrls": [
+          "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/41_3_okayama.html",
+          "https://item.rakuten.co.jp/uoisan/mama-500/"
+        ],
+        "provenance": "regionalFoodCultureAndSpecificRetailProduct"
+      },
+      "officialPairing": false,
+      "communityPairing": false,
+      "editorialPairing": true,
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "sakeId": "kamikokoro-iapi9d",
+      "prefecture": "岡山県",
+      "specialtyId": "okayama-mamakari",
+      "confidence": "medium",
+      "pairingReason": "ママカリの酢漬けの甘酢を味わったら、この酒の「淡麗旨口」を。さっぱりした小皿を添える晩酌に。",
+      "evidenceType": "editorialPairing",
+      "displayOrder": 1,
+      "sakeEvidence": {
+        "axis": "clean",
+        "feature": "淡麗旨口",
+        "sourceUrl": "https://kamikokoro.co.jp/kamikokoro.html",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-03",
+        "meaning": "瓶囲いL98"
+      },
+      "specialtyEvidence": {
+        "feature": "甘酢に漬けた魚の酸味",
+        "meaning": "小魚のママカリを甘酢に漬ける岡山の郷土料理。生姜などを添え、酸味のある小皿として親しまれています。",
+        "sourceUrls": [
+          "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/41_3_okayama.html",
+          "https://item.rakuten.co.jp/uoisan/mama-500/"
+        ],
+        "provenance": "regionalFoodCultureAndSpecificRetailProduct"
+      },
+      "officialPairing": false,
+      "communityPairing": false,
+      "editorialPairing": true,
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "sakeId": "narutotai-iwjid2",
+      "prefecture": "徳島県",
+      "specialtyId": "tokushima-fish-katsu",
+      "confidence": "medium",
+      "pairingReason": "フィッシュカツの魚の味とカレー風味を、この酒の「芳醇な旨味」と。少しずつ切り分けて楽しむ小皿に。",
+      "evidenceType": "editorialPairing",
+      "displayOrder": 1,
+      "sakeEvidence": {
+        "axis": "umami",
+        "feature": "芳醇な旨味",
+        "sourceUrl": "https://www.narutotai-sake.jp/SHOP/11854junmaidaiginjo720.html",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-03",
+        "meaning": "対象商品本文に芳醇な旨味を記載。"
+      },
+      "specialtyEvidence": {
+        "feature": "カレーと唐辛子のきいた魚肉カツ",
+        "meaning": "魚のすり身にカレー粉や唐辛子を加え、パン粉をつけて揚げる徳島の一品。地元ではかつ天とも呼ばれます。",
+        "sourceUrls": [
+          "https://www.city.komatsushima.lg.jp/komatsushima-navi/spots/9340.html",
+          "https://item.rakuten.co.jp/tokushima-shop/32-20-051/"
+        ],
+        "provenance": "regionalFoodCultureAndSpecificRetailProduct"
+      },
+      "officialPairing": false,
+      "communityPairing": false,
+      "editorialPairing": true,
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "sakeId": "kinryo-uc9ijh",
+      "prefecture": "香川県",
+      "specialtyId": "kagawa-honetsukidori",
+      "confidence": "medium",
+      "pairingReason": "骨付鳥の鶏の旨味を、この酒の「なめらかな旨味」と。身を少しずつ取り分け、食事とともに楽しむ晩酌に。",
+      "evidenceType": "editorialPairing",
+      "displayOrder": 1,
+      "sakeEvidence": {
+        "axis": "umami",
+        "feature": "なめらかな旨味",
+        "sourceUrl": "https://www.nishino-kinryo.co.jp/store/products/detail.php?product_id=129",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-03",
+        "meaning": "対象商品の説明になめらかな旨味を記載。"
+      },
+      "specialtyEvidence": {
+        "feature": "鶏の肉汁とスパイスの風味",
+        "meaning": "骨付きの鶏もも肉をスパイスで味付けして焼く香川の名物。選んだ商品は国産若鶏とチキンオイルの組み合わせです。",
+        "sourceUrls": [
+          "https://www.my-kagawa.jp/gourmet/feature/gourmet/honetukidori",
+          "https://item.rakuten.co.jp/heimat/203154/"
+        ],
+        "provenance": "regionalFoodCultureAndSpecificRetailProduct"
+      },
+      "officialPairing": false,
+      "communityPairing": false,
+      "editorialPairing": true,
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "sakeId": "kyohina-j6jhwb",
+      "prefecture": "愛媛県",
+      "specialtyId": "ehime-tachiuo-maki",
+      "confidence": "medium",
+      "pairingReason": "太刀魚巻のやわらかな身を、この酒の「米の旨味」と。たれの味も楽しみながら、少しずつ取り分けて。",
+      "evidenceType": "editorialPairing",
+      "displayOrder": 1,
+      "sakeEvidence": {
+        "axis": "umami",
+        "feature": "米の旨味",
+        "sourceUrl": "https://shop.sakaroku-syuzo.co.jp/c-item-detail?ic=255000",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-03",
+        "meaning": "対象商品本文"
+      },
+      "specialtyEvidence": {
+        "feature": "太刀魚のやわらかな身と甘辛いたれ",
+        "meaning": "太刀魚を竹に巻き、たれを塗って焼く愛媛の一品。やわらかな魚の身と、たれの風味を味わえます。",
+        "sourceUrls": [
+          "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/tachiuo_maki_ehime.html",
+          "https://item.rakuten.co.jp/e-bussan/10000429-7/"
+        ],
+        "provenance": "regionalFoodCultureAndSpecificRetailProduct"
+      },
+      "officialPairing": false,
+      "communityPairing": false,
+      "editorialPairing": true,
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "sakeId": "kinokawa-tividq",
+      "prefecture": "長崎県",
+      "specialtyId": "nagasaki-hatoshi",
+      "confidence": "medium",
+      "pairingReason": "ハトシの揚げパンと海老のすり身を、この酒の「キレ」と。ひと切れずつ、酒と交互に楽しむなら。",
+      "evidenceType": "editorialPairing",
+      "displayOrder": 1,
+      "sakeEvidence": {
+        "axis": "clean",
+        "feature": "キレ",
+        "sourceUrl": "https://www.kinokawa.co.jp/products/sake/655.html/",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-03",
+        "meaning": "L46"
+      },
+      "specialtyEvidence": {
+        "feature": "揚げパンと海老のすり身",
+        "meaning": "海老などのすり身を食パンで挟んで揚げる、長崎の卓袱料理ゆかりの一品。家庭でも食べやすいサンドに。",
+        "sourceUrls": [
+          "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/46_29_nagasaki.html",
+          "https://item.rakuten.co.jp/halloday/10000091/"
+        ],
+        "provenance": "regionalFoodCultureAndSpecificRetailProduct"
+      },
+      "officialPairing": false,
+      "communityPairing": false,
+      "editorialPairing": true,
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "sakeId": "zuiyo-mfekdo",
+      "prefecture": "熊本県",
+      "specialtyId": "kumamoto-tofu-misozuke",
+      "confidence": "medium",
+      "pairingReason": "豆腐の味噌漬けの味噌の風味を、この酒の「旨味」と。薄く切り分け、少量で楽しむ晩酌に。",
+      "evidenceType": "editorialPairing",
+      "displayOrder": 1,
+      "sakeEvidence": {
+        "axis": "umami",
+        "feature": "旨味",
+        "sourceUrl": "https://www.zuiyo.co.jp/products/nihonshu/38/",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-03",
+        "meaning": "個別商品L39"
+      },
+      "specialtyEvidence": {
+        "feature": "豆腐に染みた味噌の風味",
+        "meaning": "豆腐を味噌に漬けて保存してきた熊本の山里の味。少しずつ切り、発酵の風味を楽しむ一品です。",
+        "sourceUrls": [
+          "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/toufuno_misozuke_kumamoto.html",
+          "https://item.rakuten.co.jp/umaimon-hunter/tkuc-tmsdm-0000-nm-003/"
+        ],
+        "provenance": "regionalFoodCultureAndSpecificRetailProduct"
+      },
+      "officialPairing": false,
+      "communityPairing": false,
+      "editorialPairing": true,
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "sakeId": "zuiyo-mfekdo",
+      "prefecture": "熊本県",
+      "specialtyId": "kumamoto-karashi-renkon",
+      "confidence": "medium",
+      "pairingReason": "からし蓮根のからし味噌を、この酒の「旨味」と合わせて。辛味があるので、少量を添える小皿に。",
+      "evidenceType": "editorialPairing",
+      "displayOrder": 2,
+      "sakeEvidence": {
+        "axis": "umami",
+        "feature": "旨味",
+        "sourceUrl": "https://www.zuiyo.co.jp/products/nihonshu/38/",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-03",
+        "meaning": "個別商品L39"
+      },
+      "specialtyEvidence": {
+        "feature": "からし味噌のつんとした辛味",
+        "meaning": "蓮根にからし味噌を詰め、衣をつけて揚げる熊本の郷土料理。薄く切って楽しむ、辛味のある一皿です。",
+        "sourceUrls": [
+          "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/karashi_renkon_kumamoto.html",
+          "https://item.rakuten.co.jp/lmt-shop/f054x2/"
+        ],
+        "provenance": "regionalFoodCultureAndSpecificRetailProduct"
+      },
+      "officialPairing": false,
+      "communityPairing": false,
+      "editorialPairing": true,
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "sakeId": "tsujun-semi-junmai-ginjo-standard",
+      "prefecture": "熊本県",
+      "specialtyId": "kumamoto-karashi-renkon",
+      "confidence": "medium",
+      "pairingReason": "からし蓮根のつんとした辛味を、この酒の「辛口」と。薄いひと切れから、少しずつ楽しむ提案です。",
+      "evidenceType": "editorialPairing",
+      "displayOrder": 1,
+      "sakeEvidence": {
+        "axis": "dry",
+        "feature": "辛口",
+        "sourceUrl": "https://shop.tuzyun.com/shopdetail/002000000004/002/O/recommend/",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-16",
+        "meaning": "Current official product description normalized without additional evaluation."
+      },
+      "specialtyEvidence": {
+        "feature": "からし味噌のつんとした辛味",
+        "meaning": "蓮根にからし味噌を詰め、衣をつけて揚げる熊本の郷土料理。薄く切って楽しむ、辛味のある一皿です。",
+        "sourceUrls": [
+          "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/karashi_renkon_kumamoto.html",
+          "https://item.rakuten.co.jp/lmt-shop/f054x2/"
+        ],
+        "provenance": "regionalFoodCultureAndSpecificRetailProduct"
+      },
+      "officialPairing": false,
+      "communityPairing": false,
+      "editorialPairing": true,
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "sakeId": "nishinoseki-hlzg7a",
+      "prefecture": "大分県",
+      "specialtyId": "oita-ayu-uruka",
+      "confidence": "medium",
+      "pairingReason": "あゆうるかの苦味と塩気を、この酒の「優しい旨味」と。箸先ほどから、味を確かめて楽しむ小皿に。",
+      "evidenceType": "editorialPairing",
+      "displayOrder": 1,
+      "sakeEvidence": {
+        "axis": "umami",
+        "feature": "優しい旨味",
+        "sourceUrl": "https://www.nishinoseki.com/product/tezukurijunmai/",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-03",
+        "meaning": "個別見出しL27"
+      },
+      "specialtyEvidence": {
+        "feature": "鮎の内臓の苦味と塩気",
+        "meaning": "鮎を塩で漬ける大分のうるか。選んだ商品は内臓を使う「にがうるか」で、苦味や渋味も味わう珍味です。",
+        "sourceUrls": [
+          "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/ayuuruka_oita.html",
+          "https://item.rakuten.co.jp/onsenken-oita/j0000000653265/"
+        ],
+        "provenance": "regionalFoodCultureAndSpecificRetailProduct"
+      },
+      "officialPairing": false,
+      "communityPairing": false,
+      "editorialPairing": true,
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "sakeId": "yatsushika-hlzg7a",
+      "prefecture": "大分県",
+      "specialtyId": "oita-ayu-uruka",
+      "confidence": "medium",
+      "pairingReason": "あゆうるかの苦味と塩気を、この酒の「米の旨味」と。箸先ほどから、味を確かめて楽しむ小皿に。",
+      "evidenceType": "editorialPairing",
+      "displayOrder": 1,
+      "sakeEvidence": {
+        "axis": "umami",
+        "feature": "米の旨味",
+        "sourceUrl": "https://www.yatsushika-club.com/SHOP/YA810.html",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-03",
+        "meaning": "通常対象説明L96-97"
+      },
+      "specialtyEvidence": {
+        "feature": "鮎の内臓の苦味と塩気",
+        "meaning": "鮎を塩で漬ける大分のうるか。選んだ商品は内臓を使う「にがうるか」で、苦味や渋味も味わう珍味です。",
+        "sourceUrls": [
+          "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/ayuuruka_oita.html",
+          "https://item.rakuten.co.jp/onsenken-oita/j0000000653265/"
+        ],
+        "provenance": "regionalFoodCultureAndSpecificRetailProduct"
+      },
+      "officialPairing": false,
+      "communityPairing": false,
+      "editorialPairing": true,
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "sakeId": "sentoku-i3yidq",
+      "prefecture": "宮崎県",
+      "specialtyId": "miyazaki-jidori-sumibi",
+      "confidence": "medium",
+      "pairingReason": "地鶏の炭火焼の噛みごたえを、この酒の「米の旨味」と。炭の香りも楽しみながら飲む晩酌に。",
+      "evidenceType": "editorialPairing",
+      "displayOrder": 1,
+      "sakeEvidence": {
+        "axis": "umami",
+        "feature": "米の旨味",
+        "sourceUrl": "https://www.miyazaki-sake.or.jp/nobeokahyuga/sentoku.html",
+        "sourceType": "industryAssociation",
+        "verifiedAt": "2026-10-03",
+        "meaning": "個別商品L33"
+      },
+      "specialtyEvidence": {
+        "feature": "炭の香りと鶏の噛みごたえ",
+        "meaning": "強い炭火で焼き上げる宮崎の鶏料理。選んだ商品は「宮崎山地鶏」を使い、炭の香りと噛みごたえを楽しむ冷凍品です。",
+        "sourceUrls": [
+          "https://www.miyazaki-city.tourism.or.jp/gourmet/10124",
+          "https://item.rakuten.co.jp/shop-kuruma/k010500ymsmb/"
+        ],
+        "provenance": "regionalFoodCultureAndSpecificRetailProduct"
+      },
+      "officialPairing": false,
+      "communityPairing": false,
+      "editorialPairing": true,
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "sakeId": "tenbu-junmai-daiginjo",
+      "prefecture": "鹿児島県",
+      "specialtyId": "kagoshima-buta-miso",
+      "confidence": "medium",
+      "pairingReason": "豚味噌の豚肉と麦味噌を、この酒の「柔らかな米の旨味」と。野菜に少し添え、酒と一緒に味わう提案です。",
+      "evidenceType": "editorialPairing",
+      "displayOrder": 1,
+      "sakeEvidence": {
+        "axis": "umami",
+        "feature": "柔らかな米の旨味",
+        "sourceUrl": "https://www.nishi-shuzo.co.jp/tenbu/products/",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-03",
+        "meaning": "対象説明L21"
+      },
+      "specialtyEvidence": {
+        "feature": "豚肉と麦味噌の風味",
+        "meaning": "豚肉を味噌と合わせる鹿児島の郷土食。選んだ商品は鹿児島黒豚と麦味噌を使った、甘さ控えめのおかず味噌です。",
+        "sourceUrls": [
+          "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/butamiso_kagoshima.html",
+          "https://item.rakuten.co.jp/kinko/096569/"
+        ],
+        "provenance": "regionalFoodCultureAndSpecificRetailProduct"
+      },
+      "officialPairing": false,
+      "communityPairing": false,
+      "editorialPairing": true,
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "sakeId": "denshu-tokubetsu-junmai-1",
+      "prefecture": "青森県",
+      "specialtyId": "aomori-ichigoni",
+      "confidence": "medium",
+      "pairingReason": "いちご煮の潮の香りを味わったら、「軽快」が持ち味のこの酒を。吸い物と酒を交互に楽しむ小さな膳に。",
+      "evidenceType": "editorialPairing",
+      "displayOrder": 1,
+      "sakeEvidence": {
+        "axis": "clean",
+        "feature": "軽快",
+        "sourceUrl": "https://www.minobe-sake.com/SHOP/densyu000055.html",
+        "sourceType": "specialistRetailer",
+        "verifiedAt": "2026-10-03",
+        "meaning": "対象商品L86"
+      },
+      "specialtyEvidence": {
+        "feature": "魚介の旨味と潮の香り",
+        "meaning": "ウニやアワビなどの魚介を汁で味わう、八戸周辺の郷土料理。缶詰でも親しまれています。",
+        "sourceUrls": [
+          "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/ichigoni_aomori.html",
+          "https://item.rakuten.co.jp/quickfactory/r001060/"
+        ],
+        "provenance": "regionalFoodCultureAndSpecificRetailProduct"
+      },
+      "officialPairing": false,
+      "communityPairing": false,
+      "editorialPairing": true,
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "sakeId": "kamotsuru-chotokusem-tokuto-tokubetsu-honjozo",
+      "prefecture": "広島県",
+      "specialtyId": "hiroshima-kaki-doteyaki",
+      "confidence": "medium",
+      "pairingReason": "かきの土手鍋の牡蠣と味噌を、この酒の「ふくよかな香り」と。温かい煮物の小皿を添えて飲みたい夜に。",
+      "evidenceType": "editorialPairing",
+      "displayOrder": 1,
+      "sakeEvidence": {
+        "axis": "umami",
+        "feature": "ふくよかな香り",
+        "sourceUrl": "https://shop.kamotsuru.jp/SHOP/tokutou1800.html",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-12",
+        "meaning": "当該商品のふくよかな香りに対応する公式説明を短縮。"
+      },
+      "specialtyEvidence": {
+        "feature": "牡蠣と味噌の重なる味わい",
+        "meaning": "広島のかきの土手鍋を、家庭でつまみやすい缶詰に。選んだ商品は広島産の牡蠣を府中味噌などで煮ています。",
+        "sourceUrls": [
+          "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/42_4_hiroshima.html",
+          "https://item.rakuten.co.jp/setouchilemon-nouen/kakinodotenabe/"
+        ],
+        "provenance": "regionalFoodCultureAndSpecificRetailProduct"
+      },
+      "officialPairing": false,
+      "communityPairing": false,
+      "editorialPairing": true,
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "sakeId": "asahibaki-iaxjez-3",
+      "prefecture": "岩手県",
+      "specialtyId": "iwate-suki-kombu",
+      "confidence": "medium",
+      "pairingReason": "すき昆布を戻して、好みの煮物に。この酒の「なめらかな旨味」を味わう合間に、やわらかな昆布を少しずつ。",
+      "evidenceType": "editorialPairing",
+      "displayOrder": 1,
+      "sakeEvidence": {
+        "axis": "umami",
+        "feature": "なめらかな旨味",
+        "sourceUrl": "https://www.asabiraki-net.jp/item/210/",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-03",
+        "meaning": "L47"
+      },
+      "specialtyEvidence": {
+        "feature": "戻した昆布のやわらかな歯ごたえ",
+        "meaning": "若い昆布を細く切って乾燥させた、三陸のすき昆布。水で戻し、煮物やサラダの小鉢に。",
+        "sourceUrls": [
+          "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/28_5_iwate.html",
+          "https://item.rakuten.co.jp/satsumakaisan/sukikonbu-001/"
+        ],
+        "provenance": "regionalFoodCultureAndSpecificRetailProduct"
+      },
+      "officialPairing": false,
+      "communityPairing": false,
+      "editorialPairing": true,
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "sakeId": "shinkame-hdomtl-3",
+      "prefecture": "埼玉県",
+      "specialtyId": "saitama-oname",
+      "confidence": "medium",
+      "pairingReason": "おなめを少し取り、この酒の「ふくらみのある旨味」と。麦や大豆の発酵の風味を味わいながら、野菜に添えても。",
+      "evidenceType": "editorialPairing",
+      "displayOrder": 1,
+      "sakeEvidence": {
+        "axis": "umami",
+        "feature": "ふくらみのある旨味",
+        "sourceUrl": "https://shinkame.co.jp/2021/06/23/shinkame-junmai-seishu-1800ml/",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-03",
+        "meaning": "対象商品の旨味をふっくらと紹介。"
+      },
+      "specialtyEvidence": {
+        "feature": "麦と大豆の発酵の風味と塩気",
+        "meaning": "麦こうじと大豆からつくる秩父の発酵食品。選んだおなめには茄子と生姜も入り、野菜につけても楽しめます。",
+        "sourceUrls": [
+          "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/33_25_saitama.html",
+          "https://item.rakuten.co.jp/genkioukoku/4907938310453/"
+        ],
+        "provenance": "regionalFoodCultureAndSpecificRetailProduct"
+      },
+      "officialPairing": false,
+      "communityPairing": false,
+      "editorialPairing": true,
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "sakeId": "kikko-hanabishi-hdomtl-4",
+      "prefecture": "埼玉県",
+      "specialtyId": "saitama-oname",
+      "confidence": "medium",
+      "pairingReason": "おなめを少し取り、この酒の「旨味」と。麦や大豆の発酵の風味を味わいながら、野菜に添えても。",
+      "evidenceType": "editorialPairing",
+      "displayOrder": 1,
+      "sakeEvidence": {
+        "axis": "umami",
+        "feature": "旨味",
+        "sourceUrl": "https://www.sugiura.biz/product/34",
+        "sourceType": "specialistRetailer",
+        "verifiedAt": "2026-10-04",
+        "meaning": "商品詳細の旨味の記載"
+      },
+      "specialtyEvidence": {
+        "feature": "麦と大豆の発酵の風味と塩気",
+        "meaning": "麦こうじと大豆からつくる秩父の発酵食品。選んだおなめには茄子と生姜も入り、野菜につけても楽しめます。",
+        "sourceUrls": [
+          "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/33_25_saitama.html",
+          "https://item.rakuten.co.jp/genkioukoku/4907938310453/"
+        ],
+        "provenance": "regionalFoodCultureAndSpecificRetailProduct"
+      },
+      "officialPairing": false,
+      "communityPairing": false,
+      "editorialPairing": true,
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "sakeId": "kinkon-kflfjg-2",
+      "prefecture": "東京都",
+      "specialtyId": "tokyo-asari-tsukudani",
+      "confidence": "medium",
+      "pairingReason": "あさりの佃煮の甘辛さに、この酒の「米の旨味」を。小さなひと口で、貝の味もゆっくり楽しむなら。",
+      "evidenceType": "editorialPairing",
+      "displayOrder": 1,
+      "sakeEvidence": {
+        "axis": "umami",
+        "feature": "米の旨味",
+        "sourceUrl": "https://www.toshimaya.co.jp/products/%E9%87%91%E5%A9%9A-%E7%B4%94%E7%B1%B3%E9%85%92.html",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-04",
+        "meaning": "当該商品説明"
+      },
+      "specialtyEvidence": {
+        "feature": "あさりの甘辛い醤油味",
+        "meaning": "あさりを醤油や砂糖で煮る、江戸ゆかりの佃煮。選んだ玉木屋の商品は生姜入りで、少しずつつまむ小皿に。",
+        "sourceUrls": [
+          "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/34_25_tokyo.html",
+          "https://item.rakuten.co.jp/tamakiya-shop/tanpin13550asari/"
+        ],
+        "provenance": "regionalFoodCultureAndSpecificRetailProduct"
+      },
+      "officialPairing": false,
+      "communityPairing": false,
+      "editorialPairing": true,
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "sakeId": "kasen-kflfjg-4",
+      "prefecture": "東京都",
+      "specialtyId": "tokyo-asari-tsukudani",
+      "confidence": "medium",
+      "pairingReason": "あさりの佃煮の甘辛さに、この酒の「ふくよかな旨味」を。小さなひと口で、貝の味もゆっくり楽しむなら。",
+      "evidenceType": "editorialPairing",
+      "displayOrder": 1,
+      "sakeEvidence": {
+        "axis": "umami",
+        "feature": "ふくよかな旨味",
+        "sourceUrl": "https://www.tamurashuzojo.com/product/detail/E00116203",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-04",
+        "meaning": "原本script[type=text/x-template]#product-detail-form内アイテム紹介。動的差込みではない静的本文"
+      },
+      "specialtyEvidence": {
+        "feature": "あさりの甘辛い醤油味",
+        "meaning": "あさりを醤油や砂糖で煮る、江戸ゆかりの佃煮。選んだ玉木屋の商品は生姜入りで、少しずつつまむ小皿に。",
+        "sourceUrls": [
+          "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/34_25_tokyo.html",
+          "https://item.rakuten.co.jp/tamakiya-shop/tanpin13550asari/"
+        ],
+        "provenance": "regionalFoodCultureAndSpecificRetailProduct"
+      },
+      "officialPairing": false,
+      "communityPairing": false,
+      "editorialPairing": true,
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "sakeId": "shunnoten-i9dko8-2",
+      "prefecture": "山梨県",
+      "specialtyId": "yamanashi-awabi-nigai",
+      "confidence": "medium",
+      "pairingReason": "あわびの煮貝の磯の旨味を、この酒の「旨味」と。薄く切った貝を少しずつ、じっくり飲む夜に。",
+      "evidenceType": "editorialPairing",
+      "displayOrder": 1,
+      "sakeEvidence": {
+        "axis": "umami",
+        "feature": "旨味",
+        "sourceUrl": "https://www.shunnoten.co.jp/shop/products/detail/11",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L66"
+      },
+      "specialtyEvidence": {
+        "feature": "貝の歯ごたえと磯の旨味",
+        "meaning": "あわびを醤油で煮る甲州の名産品。選んだ商品は肝つきの茜あわびを煮た、かいやの姿煮です。",
+        "sourceUrls": [
+          "https://www.maff.go.jp/j/keikaku/syokubunka/traditional-foods/menu/awabino_nigai.html",
+          "https://www.pref.yamanashi.jp/shokuhin-st/shokuiku/yamanashinoshoku/awabinonigai.html",
+          "https://item.rakuten.co.jp/e-yamanashi/om-001-r/"
+        ],
+        "provenance": "regionalFoodCultureAndSpecificRetailProduct"
+      },
+      "officialPairing": false,
+      "communityPairing": false,
+      "editorialPairing": true,
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "sakeId": "shunnoten-i9dko8-2",
+      "prefecture": "山梨県",
+      "specialtyId": "yamanashi-koshu-koume",
+      "confidence": "medium",
+      "pairingReason": "甲州小梅の漬物のカリカリした歯ごたえに、この酒の「軽やかな味わい」を。少量を添える、酸味のある箸休めに。",
+      "evidenceType": "editorialPairing",
+      "displayOrder": 2,
+      "sakeEvidence": {
+        "axis": "clean",
+        "feature": "軽やかな味わい",
+        "sourceUrl": "https://www.shunnoten.co.jp/shop/products/detail/11",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L66"
+      },
+      "specialtyEvidence": {
+        "feature": "小梅の酸味とカリカリした歯ごたえ",
+        "meaning": "小粒の甲州小梅をしそと漬けたカリカリ小梅。少し酸っぱいものが欲しいときの、小さな箸休めに。",
+        "sourceUrls": [
+          "https://www.maff.go.jp/j/keikaku/syokubunka/traditional-foods/menu/kosyu_koume_no_tukemono.html",
+          "https://item.rakuten.co.jp/phonet/koume-karikari500/"
+        ],
+        "provenance": "regionalFoodCultureAndSpecificRetailProduct"
+      },
+      "officialPairing": false,
+      "communityPairing": false,
+      "editorialPairing": true,
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "sakeId": "tanizakura-i9dko8-3",
+      "prefecture": "山梨県",
+      "specialtyId": "yamanashi-awabi-nigai",
+      "confidence": "medium",
+      "pairingReason": "あわびの煮貝の磯の旨味を、この酒の「米の旨味」と。薄く切った貝を少しずつ、じっくり飲む夜に。",
+      "evidenceType": "editorialPairing",
+      "displayOrder": 1,
+      "sakeEvidence": {
+        "axis": "umami",
+        "feature": "米の旨味",
+        "sourceUrl": "https://www.tanizakura.com/shopdetail/001000000006/",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L69"
+      },
+      "specialtyEvidence": {
+        "feature": "貝の歯ごたえと磯の旨味",
+        "meaning": "あわびを醤油で煮る甲州の名産品。選んだ商品は肝つきの茜あわびを煮た、かいやの姿煮です。",
+        "sourceUrls": [
+          "https://www.maff.go.jp/j/keikaku/syokubunka/traditional-foods/menu/awabino_nigai.html",
+          "https://www.pref.yamanashi.jp/shokuhin-st/shokuiku/yamanashinoshoku/awabinonigai.html",
+          "https://item.rakuten.co.jp/e-yamanashi/om-001-r/"
+        ],
+        "provenance": "regionalFoodCultureAndSpecificRetailProduct"
+      },
+      "officialPairing": false,
+      "communityPairing": false,
+      "editorialPairing": true,
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "sakeId": "gokyo-junmai-standard",
+      "prefecture": "山口県",
+      "specialtyId": "yamaguchi-fugu-karaage",
+      "confidence": "medium",
+      "pairingReason": "ふぐの唐揚げの衣の食感と、この酒の「軽快」を。揚げた小皿と酒を交互に楽しむ提案です。",
+      "evidenceType": "editorialPairing",
+      "displayOrder": 1,
+      "sakeEvidence": {
+        "axis": "clean",
+        "feature": "軽快",
+        "sourceUrl": "https://www.gokyo.shop/view/item/000000000025",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-12",
+        "meaning": "当該商品の軽快に対応する公式説明を短縮。"
+      },
+      "specialtyEvidence": {
+        "feature": "衣のサクッとした食感と魚の弾力",
+        "meaning": "ふぐに下味と衣をつけて揚げる山口ゆかりの料理。選んだ商品は骨なし真ふぐの塩唐揚げで、家庭で揚げる冷凍品です。",
+        "sourceUrls": [
+          "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/43_18_yamaguchi.html",
+          "https://item.rakuten.co.jp/kiraku-senzaki/fg_ice_siokara400/"
+        ],
+        "provenance": "regionalFoodCultureAndSpecificRetailProduct"
+      },
+      "officialPairing": false,
+      "communityPairing": false,
+      "editorialPairing": true,
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "sakeId": "takaisami-uzpgk6-4",
+      "prefecture": "鳥取県",
+      "specialtyId": "tottori-tofu-chikuwa",
+      "confidence": "medium",
+      "pairingReason": "とうふちくわの豆腐の香りと、この酒の「芳醇な香り」を少しずつ。強い味付けをせず、香りの違いを楽しむ提案です。",
+      "evidenceType": "editorialPairing",
+      "displayOrder": 1,
+      "sakeEvidence": {
+        "axis": "aroma",
+        "feature": "芳醇な香り",
+        "sourceUrl": "https://www.sakaya1.com/SHOP/nta015.html?mode=detail",
+        "sourceType": "specialistRetailer",
+        "verifiedAt": "2026-10-03",
+        "meaning": "対象商品L74"
+      },
+      "specialtyEvidence": {
+        "feature": "豆腐のほのかな香り",
+        "meaning": "豆腐と魚のすり身を合わせて蒸す鳥取のとうふちくわ。豆腐の香りを感じる、繊細な味わいの練り物です。",
+        "sourceUrls": [
+          "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/toufu_chikuwa_tottori.html",
+          "https://item.rakuten.co.jp/en-musubi/10000971/"
+        ],
+        "provenance": "regionalFoodCultureAndSpecificRetailProduct"
+      },
+      "officialPairing": false,
+      "communityPairing": false,
+      "editorialPairing": true,
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "sakeId": "rihaku-id2kl5-2",
+      "prefecture": "島根県",
+      "specialtyId": "shimane-ago-noyaki",
+      "confidence": "medium",
+      "pairingReason": "あご野焼きの魚の旨味を、この酒の「コク」と。肉厚のひと切れを、噛みしめながら飲む夜に。",
+      "evidenceType": "editorialPairing",
+      "displayOrder": 1,
+      "sakeEvidence": {
+        "axis": "umami",
+        "feature": "コク",
+        "sourceUrl": "https://rihaku.co.jp/products/%E6%9D%8E%E7%99%BD-%E7%89%B9%E5%88%A5%E7%B4%94%E7%B1%B3%E9%85%92/",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-03",
+        "meaning": "L20"
+      },
+      "specialtyEvidence": {
+        "feature": "魚の旨味と焼き目の香ばしさ",
+        "meaning": "飛び魚のすり身を太く巻いて焼く島根のあご野焼き。肉厚の歯ごたえと、焼き目の香ばしさが楽しめます。",
+        "sourceUrls": [
+          "https://www.maff.go.jp/j/keikaku/syokubunka/traditional-foods/menu/agono_yaki.html",
+          "https://item.rakuten.co.jp/jutaka-kamaboko/ago-1-2/"
+        ],
+        "provenance": "regionalFoodCultureAndSpecificRetailProduct"
+      },
+      "officialPairing": false,
+      "communityPairing": false,
+      "editorialPairing": true,
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "sakeId": "ugonotsuki-junmai-ginjo-1",
+      "prefecture": "広島県",
+      "specialtyId": "hiroshima-kaki-doteyaki",
+      "confidence": "medium",
+      "pairingReason": "かきの土手鍋の牡蠣と味噌を、この酒の「旨味」と。温かい煮物の小皿を添えて飲みたい夜に。",
+      "evidenceType": "editorialPairing",
+      "displayOrder": 1,
+      "sakeEvidence": {
+        "axis": "umami",
+        "feature": "旨味",
+        "sourceUrl": "https://www.ikenosaketen.shop/shopdetail/000000003159/",
+        "sourceType": "specialistRetailer",
+        "verifiedAt": "2026-10-03",
+        "meaning": "対象説明L249"
+      },
+      "specialtyEvidence": {
+        "feature": "牡蠣と味噌の重なる味わい",
+        "meaning": "広島のかきの土手鍋を、家庭でつまみやすい缶詰に。選んだ商品は広島産の牡蠣を府中味噌などで煮ています。",
+        "sourceUrls": [
+          "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/42_4_hiroshima.html",
+          "https://item.rakuten.co.jp/setouchilemon-nouen/kakinodotenabe/"
+        ],
+        "provenance": "regionalFoodCultureAndSpecificRetailProduct"
+      },
+      "officialPairing": false,
+      "communityPairing": false,
+      "editorialPairing": true,
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "sakeId": "kinryo-uc9ijh-3",
+      "prefecture": "香川県",
+      "specialtyId": "kagawa-shoyu-mame",
+      "confidence": "medium",
+      "pairingReason": "しょうゆ豆の甘辛さを、この酒の「やや辛口」と交互に。煎った豆の食感も楽しめる小皿です。",
+      "evidenceType": "editorialPairing",
+      "displayOrder": 1,
+      "sakeEvidence": {
+        "axis": "dry",
+        "feature": "やや辛口",
+        "sourceUrl": "https://www.nishino-kinryo.co.jp/store/products/detail.php?product_id=136",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-03",
+        "meaning": "対象商品の甘辛欄"
+      },
+      "specialtyEvidence": {
+        "feature": "煎りそら豆の甘辛い醤油味",
+        "meaning": "煎ったそら豆を醤油だれに漬ける讃岐のしょうゆ豆。煮豆とは違う、ほろりとくずれる食感が特徴です。",
+        "sourceUrls": [
+          "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/shouyu_mame_kagawa.html",
+          "https://item.rakuten.co.jp/oomoriya-m/19/"
+        ],
+        "provenance": "regionalFoodCultureAndSpecificRetailProduct"
+      },
+      "officialPairing": false,
+      "communityPairing": false,
+      "editorialPairing": true,
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "sakeId": "ayakiku-uc9ijh-4",
+      "prefecture": "香川県",
+      "specialtyId": "kagawa-honetsukidori",
+      "confidence": "medium",
+      "pairingReason": "骨付鳥の肉汁とスパイスに、この酒の「キメの細かい酸味」を合わせて。鶏と酒を交互に味わう提案です。",
+      "evidenceType": "editorialPairing",
+      "displayOrder": 1,
+      "sakeEvidence": {
+        "axis": "acid",
+        "feature": "キメの細かい酸味",
+        "sourceUrl": "https://www.ayakiku.com/?pid=171026743",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-03",
+        "meaning": "対象商品説明"
+      },
+      "specialtyEvidence": {
+        "feature": "鶏の肉汁とスパイスの風味",
+        "meaning": "骨付きの鶏もも肉をスパイスで味付けして焼く香川の名物。選んだ商品は国産若鶏とチキンオイルの組み合わせです。",
+        "sourceUrls": [
+          "https://www.my-kagawa.jp/gourmet/feature/gourmet/honetukidori",
+          "https://item.rakuten.co.jp/heimat/203154/"
+        ],
+        "provenance": "regionalFoodCultureAndSpecificRetailProduct"
+      },
+      "officialPairing": false,
+      "communityPairing": false,
+      "editorialPairing": true,
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "sakeId": "yamatan-masamune-j6jhwb-2",
+      "prefecture": "愛媛県",
+      "specialtyId": "ehime-jakoten",
+      "confidence": "medium",
+      "pairingReason": "じゃこ天の小魚の味わいに、この酒の「軽やかな米の旨味」を重ねて。ひと切れずつ、魚と酒を楽しむ晩酌に。",
+      "evidenceType": "editorialPairing",
+      "displayOrder": 1,
+      "sakeEvidence": {
+        "axis": "umami",
+        "feature": "軽やかな米の旨味",
+        "sourceUrl": "https://www.yamatan.jp/?pid=55777137",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-03",
+        "meaning": "対象商品説明"
+      },
+      "specialtyEvidence": {
+        "feature": "小魚の味わいが詰まった揚げかまぼこ",
+        "meaning": "小魚を骨や皮ごとすり身にして揚げる愛媛のじゃこ天。選んだ商品は宇和島のほたるじゃこを主原料にしています。",
+        "sourceUrls": [
+          "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/jakoten_ehime.html",
+          "https://item.rakuten.co.jp/yasuokakamaboko/yasuoka_56-5/"
+        ],
+        "provenance": "regionalFoodCultureAndSpecificRetailProduct"
+      },
+      "officialPairing": false,
+      "communityPairing": false,
+      "editorialPairing": true,
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "sakeId": "yamatan-masamune-j6jhwb-2",
+      "prefecture": "愛媛県",
+      "specialtyId": "ehime-tachiuo-maki",
+      "confidence": "medium",
+      "pairingReason": "太刀魚巻のやわらかな身を、この酒の「軽やかな米の旨味」と。たれの味も楽しみながら、少しずつ取り分けて。",
+      "evidenceType": "editorialPairing",
+      "displayOrder": 2,
+      "sakeEvidence": {
+        "axis": "umami",
+        "feature": "軽やかな米の旨味",
+        "sourceUrl": "https://www.yamatan.jp/?pid=55777137",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-03",
+        "meaning": "対象商品説明"
+      },
+      "specialtyEvidence": {
+        "feature": "太刀魚のやわらかな身と甘辛いたれ",
+        "meaning": "太刀魚を竹に巻き、たれを塗って焼く愛媛の一品。やわらかな魚の身と、たれの風味を味わえます。",
+        "sourceUrls": [
+          "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/tachiuo_maki_ehime.html",
+          "https://item.rakuten.co.jp/e-bussan/10000429-7/"
+        ],
+        "provenance": "regionalFoodCultureAndSpecificRetailProduct"
+      },
+      "officialPairing": false,
+      "communityPairing": false,
+      "editorialPairing": true,
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "sakeId": "kyohina-j6jhwb-5",
+      "prefecture": "愛媛県",
+      "specialtyId": "ehime-jakoten",
+      "confidence": "medium",
+      "pairingReason": "じゃこ天をひと切れ、そのあとにこの酒の「キレのある後口」を。小魚の味と酒の軽さを交互に楽しむなら。",
+      "evidenceType": "editorialPairing",
+      "displayOrder": 1,
+      "sakeEvidence": {
+        "axis": "clean",
+        "feature": "キレのある後口",
+        "sourceUrl": "https://shop.sakaroku-syuzo.co.jp/c-item-detail?ic=250000",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-03",
+        "meaning": "対象商品本文"
+      },
+      "specialtyEvidence": {
+        "feature": "小魚の味わいが詰まった揚げかまぼこ",
+        "meaning": "小魚を骨や皮ごとすり身にして揚げる愛媛のじゃこ天。選んだ商品は宇和島のほたるじゃこを主原料にしています。",
+        "sourceUrls": [
+          "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/jakoten_ehime.html",
+          "https://item.rakuten.co.jp/yasuokakamaboko/yasuoka_56-5/"
+        ],
+        "provenance": "regionalFoodCultureAndSpecificRetailProduct"
+      },
+      "officialPairing": false,
+      "communityPairing": false,
+      "editorialPairing": true,
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "sakeId": "kyohina-j6jhwb-5",
+      "prefecture": "愛媛県",
+      "specialtyId": "ehime-tachiuo-maki",
+      "confidence": "medium",
+      "pairingReason": "太刀魚巻の甘辛いたれを、この酒の「辛口」と。魚と酒の味の違いを楽しむ小皿に。",
+      "evidenceType": "editorialPairing",
+      "displayOrder": 2,
+      "sakeEvidence": {
+        "axis": "dry",
+        "feature": "辛口",
+        "sourceUrl": "https://shop.sakaroku-syuzo.co.jp/c-item-detail?ic=250000",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-03",
+        "meaning": "対象商品の酒質説明"
+      },
+      "specialtyEvidence": {
+        "feature": "太刀魚のやわらかな身と甘辛いたれ",
+        "meaning": "太刀魚を竹に巻き、たれを塗って焼く愛媛の一品。やわらかな魚の身と、たれの風味を味わえます。",
+        "sourceUrls": [
+          "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/tachiuo_maki_ehime.html",
+          "https://item.rakuten.co.jp/e-bussan/10000429-7/"
+        ],
+        "provenance": "regionalFoodCultureAndSpecificRetailProduct"
+      },
+      "officialPairing": false,
+      "communityPairing": false,
+      "editorialPairing": true,
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "sakeId": "sawanotsuru-junmai-yamadanishiki-standard",
+      "prefecture": "兵庫県",
+      "specialtyId": "hyogo-ikanago-kugini",
+      "confidence": "medium",
+      "pairingReason": "イカナゴのくぎ煮の甘辛さに、この酒の「米の旨味」を。小さな魚を少しずつつまむ晩酌に。",
+      "evidenceType": "editorialPairing",
+      "displayOrder": 1,
+      "sakeEvidence": {
+        "axis": "umami",
+        "feature": "米の旨味",
+        "sourceUrl": "https://www.sawanotsuru.co.jp/c/nihonshu/junmai/gd117",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-12",
+        "meaning": "当該商品の米の旨味に対応する公式説明を短縮。"
+      },
+      "specialtyEvidence": {
+        "feature": "生姜を加えたイカナゴの甘辛さ",
+        "meaning": "イカナゴを醤油や砂糖、生姜で甘辛く炊く瀬戸内の郷土料理。少量で味わえる、小さな魚の佃煮です。",
+        "sourceUrls": [
+          "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/40_1_hyogo.html",
+          "https://item.rakuten.co.jp/boulan-/100000294/"
+        ],
+        "provenance": "regionalFoodCultureAndSpecificRetailProduct"
+      },
+      "officialPairing": false,
+      "communityPairing": false,
+      "editorialPairing": true,
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "sakeId": "okunomatsu-tokubetsu-junmai-standard",
+      "prefecture": "福島県",
+      "specialtyId": "fukushima-ika-ninjin",
+      "confidence": "medium",
+      "pairingReason": "いかにんじんのするめの旨味を、この酒の「深いうまみ」と一緒に。細切りの人参をつまみながら、ゆっくり飲む夜に。",
+      "evidenceType": "editorialPairing",
+      "displayOrder": 1,
+      "sakeEvidence": {
+        "axis": "umami",
+        "feature": "深いうまみ",
+        "sourceUrl": "https://www.okunomatsu.co.jp/product-page/junmai-13210",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-12",
+        "meaning": "当該商品の深いうまみに対応する公式説明を短縮。"
+      },
+      "specialtyEvidence": {
+        "feature": "するめの旨味と甘口の醤油だれ",
+        "meaning": "細切りのするめと人参を醤油だれに漬けた福島の郷土料理。するめの旨味と人参の食感が楽しめます。",
+        "sourceUrls": [
+          "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/30_1_fukushima.html",
+          "https://item.rakuten.co.jp/kikukoh-foods/datenoikaninjin140g/"
+        ],
+        "provenance": "regionalFoodCultureAndSpecificRetailProduct"
+      },
+      "officialPairing": false,
+      "communityPairing": false,
+      "editorialPairing": true,
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "sakeId": "okunomatsu-tokubetsu-junmai-standard",
+      "prefecture": "福島県",
+      "specialtyId": "fukushima-nishin-sanshozuke",
+      "confidence": "medium",
+      "pairingReason": "にしんの山椒漬けを小さく切って、この酒の「深いうまみ」と。魚の味と酢の酸味を、酒と交互に楽しむなら。",
+      "evidenceType": "editorialPairing",
+      "displayOrder": 2,
+      "sakeEvidence": {
+        "axis": "umami",
+        "feature": "深いうまみ",
+        "sourceUrl": "https://www.okunomatsu.co.jp/product-page/junmai-13210",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-12",
+        "meaning": "当該商品の深いうまみに対応する公式説明を短縮。"
+      },
+      "specialtyEvidence": {
+        "feature": "山椒の香りと酢漬けの酸味",
+        "meaning": "身欠きにしんを山椒とともに漬ける会津の保存食。選んだ商品は天然ポン酢を使った酢漬けです。",
+        "sourceUrls": [
+          "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/30_3_fukushima.html",
+          "https://item.rakuten.co.jp/auc-nimaruya/nisin-001/"
+        ],
+        "provenance": "regionalFoodCultureAndSpecificRetailProduct"
+      },
+      "officialPairing": false,
+      "communityPairing": false,
+      "editorialPairing": true,
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "sakeId": "tatenokawa-seiryu",
+      "prefecture": "山形県",
+      "specialtyId": "yamagata-omizuke",
+      "confidence": "medium",
+      "pairingReason": "おみ漬の刻み野菜をつまみながら、この酒の「軽やか」を。塩気のある小鉢と、酒の軽さを楽しむ組み合わせです。",
+      "evidenceType": "editorialPairing",
+      "displayOrder": 1,
+      "sakeEvidence": {
+        "axis": "clean",
+        "feature": "軽やか",
+        "sourceUrl": "https://shop.tatenokawa.com/shop/products/4511802017302",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-03",
+        "meaning": "L97のライトを同義に正規化"
+      },
+      "specialtyEvidence": {
+        "feature": "刻んだ青菜と野菜の塩気",
+        "meaning": "山形青菜や大根、人参を細かく刻んだ漬物。小鉢に少し盛って、晩ごはんのお供にも。",
+        "sourceUrls": [
+          "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/omizuke_yamagata.html",
+          "https://item.rakuten.co.jp/orgale/moy-004/"
+        ],
+        "provenance": "regionalFoodCultureAndSpecificRetailProduct"
+      },
+      "officialPairing": false,
+      "communityPairing": false,
+      "editorialPairing": true,
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "sakeId": "niida-shizenshu-junmai-genshu",
+      "prefecture": "福島県",
+      "specialtyId": "fukushima-nishin-sanshozuke",
+      "confidence": "medium",
+      "pairingReason": "にしんの山椒漬けの酸味に、この酒の「甘みと酸味」を合わせて。山椒の香りも確かめながら、ひと口ずつ。",
+      "evidenceType": "editorialPairing",
+      "displayOrder": 1,
+      "sakeEvidence": {
+        "axis": "acid",
+        "feature": "甘みと酸味",
+        "sourceUrl": "https://niida1711.shop/items/5b0ce9715f786674d6001556",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-03",
+        "meaning": "米の甘さと生酛由来の酸を説明"
+      },
+      "specialtyEvidence": {
+        "feature": "山椒の香りと酢漬けの酸味",
+        "meaning": "身欠きにしんを山椒とともに漬ける会津の保存食。選んだ商品は天然ポン酢を使った酢漬けです。",
+        "sourceUrls": [
+          "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/30_3_fukushima.html",
+          "https://item.rakuten.co.jp/auc-nimaruya/nisin-001/"
+        ],
+        "provenance": "regionalFoodCultureAndSpecificRetailProduct"
+      },
+      "officialPairing": false,
+      "communityPairing": false,
+      "editorialPairing": true,
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "sakeId": "niida-shizenshu-junmai-genshu",
+      "prefecture": "福島県",
+      "specialtyId": "fukushima-ika-ninjin",
+      "confidence": "medium",
+      "pairingReason": "いかにんじんのするめの旨味を、この酒の「米の旨味」と一緒に。細切りの人参をつまみながら、ゆっくり飲む夜に。",
+      "evidenceType": "editorialPairing",
+      "displayOrder": 2,
+      "sakeEvidence": {
+        "axis": "umami",
+        "feature": "米の旨味",
+        "sourceUrl": "https://niida1711.shop/items/5b0ce9715f786674d6001556",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-03",
+        "meaning": "汲出し四段による米の旨味を説明"
+      },
+      "specialtyEvidence": {
+        "feature": "するめの旨味と甘口の醤油だれ",
+        "meaning": "細切りのするめと人参を醤油だれに漬けた福島の郷土料理。するめの旨味と人参の食感が楽しめます。",
+        "sourceUrls": [
+          "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/30_1_fukushima.html",
+          "https://item.rakuten.co.jp/kikukoh-foods/datenoikaninjin140g/"
+        ],
+        "provenance": "regionalFoodCultureAndSpecificRetailProduct"
+      },
+      "officialPairing": false,
+      "communityPairing": false,
+      "editorialPairing": true,
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "sakeId": "gunmaizumi-yamahai-junmai",
+      "prefecture": "群馬県",
+      "specialtyId": "gunma-konnyaku-miso-oden",
+      "confidence": "medium",
+      "pairingReason": "こんにゃく味噌おでんの甘辛い味噌だれに、この酒の「米の旨味」を重ねて。温かい小皿を囲む晩酌に。",
+      "evidenceType": "editorialPairing",
+      "displayOrder": 1,
+      "sakeEvidence": {
+        "axis": "umami",
+        "feature": "米の旨味",
+        "sourceUrl": "https://www.shimaokasyuzo.com/products/",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L94"
+      },
+      "specialtyEvidence": {
+        "feature": "甘辛い味噌だれ",
+        "meaning": "ゆでたこんにゃくに甘辛い味噌だれをかける群馬の一品。選んだ商品は温めて付属のたれをかけるタイプです。",
+        "sourceUrls": [
+          "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/32_23_gunma.html",
+          "https://item.rakuten.co.jp/konnyakupark/ydf00200/"
+        ],
+        "provenance": "regionalFoodCultureAndSpecificRetailProduct"
+      },
+      "officialPairing": false,
+      "communityPairing": false,
+      "editorialPairing": true,
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "sakeId": "ohyama-tokubetsu-junmai-tomizu-standard",
+      "prefecture": "山形県",
+      "specialtyId": "yamagata-tama-konnyaku",
+      "confidence": "medium",
+      "pairingReason": "醤油味の玉こんにゃくに、この酒の「濃醇旨口」を添えて。噛むほどに広がる煮汁の味をゆっくり楽しむなら。",
+      "evidenceType": "editorialPairing",
+      "displayOrder": 1,
+      "sakeEvidence": {
+        "axis": "umami",
+        "feature": "濃醇旨口",
+        "sourceUrl": "https://www.sake-ohyama.co.jp/prefecture/",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-13",
+        "meaning": "当該商品の濃醇旨口に対応する公式説明を短縮。"
+      },
+      "specialtyEvidence": {
+        "feature": "こんにゃくに染みた醤油味",
+        "meaning": "醤油味を含ませた丸いこんにゃく。山形の観光地でも家庭でも親しまれている一品です。",
+        "sourceUrls": [
+          "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/tamakonnyaku_yamagata.html",
+          "https://item.rakuten.co.jp/auc-r1093-kbs/k1210/"
+        ],
+        "provenance": "regionalFoodCultureAndSpecificRetailProduct"
+      },
+      "officialPairing": false,
+      "communityPairing": false,
+      "editorialPairing": true,
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "sakeId": "gakki-masamune-honjozo-nakadori-v1",
+      "prefecture": "福島県",
+      "specialtyId": "fukushima-nishin-sanshozuke",
+      "confidence": "medium",
+      "pairingReason": "にしんの山椒漬けの酸味に、この酒の「甘酸のバランス」を合わせて。山椒の香りも確かめながら、ひと口ずつ。",
+      "evidenceType": "editorialPairing",
+      "displayOrder": 1,
+      "sakeEvidence": {
+        "axis": "acid",
+        "feature": "甘酸のバランス",
+        "sourceUrl": "https://www.daikichi-sizengo.co.jp/%E6%A5%BD%E5%99%A8%E6%AD%A3%E5%AE%97/",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L61 甘酸のバランスが優れた味わいを短縮。"
+      },
+      "specialtyEvidence": {
+        "feature": "山椒の香りと酢漬けの酸味",
+        "meaning": "身欠きにしんを山椒とともに漬ける会津の保存食。選んだ商品は天然ポン酢を使った酢漬けです。",
+        "sourceUrls": [
+          "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/30_3_fukushima.html",
+          "https://item.rakuten.co.jp/auc-nimaruya/nisin-001/"
+        ],
+        "provenance": "regionalFoodCultureAndSpecificRetailProduct"
+      },
+      "officialPairing": false,
+      "communityPairing": false,
+      "editorialPairing": true,
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "sakeId": "shizengo-tokubetsu-junmai-v1",
+      "prefecture": "福島県",
+      "specialtyId": "fukushima-ika-ninjin",
+      "confidence": "medium",
+      "pairingReason": "いかにんじんのするめの旨味を、この酒の「米の旨味」と一緒に。細切りの人参をつまみながら、ゆっくり飲む夜に。",
+      "evidenceType": "editorialPairing",
+      "displayOrder": 1,
+      "sakeEvidence": {
+        "axis": "umami",
+        "feature": "米の旨味",
+        "sourceUrl": "https://www.daikichi-sizengo.co.jp/%E8%87%AA%E7%84%B6%E9%83%B7/%E8%87%AA%E7%84%B6%E9%83%B7/",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L145 米の旨み、表記のみ正規化。"
+      },
+      "specialtyEvidence": {
+        "feature": "するめの旨味と甘口の醤油だれ",
+        "meaning": "細切りのするめと人参を醤油だれに漬けた福島の郷土料理。するめの旨味と人参の食感が楽しめます。",
+        "sourceUrls": [
+          "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/30_1_fukushima.html",
+          "https://item.rakuten.co.jp/kikukoh-foods/datenoikaninjin140g/"
+        ],
+        "provenance": "regionalFoodCultureAndSpecificRetailProduct"
+      },
+      "officialPairing": false,
+      "communityPairing": false,
+      "editorialPairing": true,
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "sakeId": "shizengo-tokubetsu-junmai-v1",
+      "prefecture": "福島県",
+      "specialtyId": "fukushima-nishin-sanshozuke",
+      "confidence": "medium",
+      "pairingReason": "にしんの山椒漬けを小さく切って、この酒の「米の旨味」と。魚の味と酢の酸味を、酒と交互に楽しむなら。",
+      "evidenceType": "editorialPairing",
+      "displayOrder": 2,
+      "sakeEvidence": {
+        "axis": "umami",
+        "feature": "米の旨味",
+        "sourceUrl": "https://www.daikichi-sizengo.co.jp/%E8%87%AA%E7%84%B6%E9%83%B7/%E8%87%AA%E7%84%B6%E9%83%B7/",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L145 米の旨み、表記のみ正規化。"
+      },
+      "specialtyEvidence": {
+        "feature": "山椒の香りと酢漬けの酸味",
+        "meaning": "身欠きにしんを山椒とともに漬ける会津の保存食。選んだ商品は天然ポン酢を使った酢漬けです。",
+        "sourceUrls": [
+          "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/30_3_fukushima.html",
+          "https://item.rakuten.co.jp/auc-nimaruya/nisin-001/"
+        ],
+        "provenance": "regionalFoodCultureAndSpecificRetailProduct"
+      },
+      "officialPairing": false,
+      "communityPairing": false,
+      "editorialPairing": true,
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "sakeId": "eikun-tokubetsu-junmai-homarefuji-v1",
+      "prefecture": "静岡県",
+      "specialtyId": "shizuoka-kuro-hanpen",
+      "confidence": "medium",
+      "pairingReason": "黒はんぺんの魚の味わいに、この酒の「米の旨味」を。切って並べるだけの小皿で、静かな晩酌に。",
+      "evidenceType": "editorialPairing",
+      "displayOrder": 1,
+      "sakeEvidence": {
+        "axis": "umami",
+        "feature": "米の旨味",
+        "sourceUrl": "https://eikun.co.jp/product/tokubetu-junmai-homarefuji/",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L25 商品の米の旨味。"
+      },
+      "specialtyEvidence": {
+        "feature": "魚の味わいが詰まった練り物",
+        "meaning": "魚を皮や骨ごと使う静岡の黒はんぺん。選んだ商品は由比のさすぼし蒲鉾がつくる、いわし入りの真空パックです。",
+        "sourceUrls": [
+          "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/36_1_shizuoka.html",
+          "https://item.rakuten.co.jp/sasuboshi/kurohan4mai/"
+        ],
+        "provenance": "regionalFoodCultureAndSpecificRetailProduct"
+      },
+      "officialPairing": false,
+      "communityPairing": false,
+      "editorialPairing": true,
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "sakeId": "tamagawa-tokubetsu-junmai-v1",
+      "prefecture": "京都府",
+      "specialtyId": "kyoto-shibazuke",
+      "confidence": "medium",
+      "pairingReason": "しば漬けの酸味と赤しその風味を、この酒の「キレ」と。軽いつまみを添えて飲みたいときに。",
+      "evidenceType": "editorialPairing",
+      "displayOrder": 1,
+      "sakeEvidence": {
+        "axis": "clean",
+        "feature": "キレ",
+        "sourceUrl": "https://www.sake-tamagawa.com/prd_post/var05/",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L42 よく切れるという味わい。"
+      },
+      "specialtyEvidence": {
+        "feature": "赤しその香りと発酵の酸味",
+        "meaning": "茄子や胡瓜をしそと塩で漬ける京の漬物。赤しその色と、発酵による酸味が持ち味です。",
+        "sourceUrls": [
+          "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/shibazuke_kyoto.html",
+          "https://item.rakuten.co.jp/nishiri/10000060/"
+        ],
+        "provenance": "regionalFoodCultureAndSpecificRetailProduct"
+      },
+      "officialPairing": false,
+      "communityPairing": false,
+      "editorialPairing": true,
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "sakeId": "hououbiden-tsurugi-hiire-v1",
+      "prefecture": "栃木県",
+      "specialtyId": "tochigi-agemaki-yuba",
+      "confidence": "medium",
+      "pairingReason": "揚巻湯波をだしで煮含めて、この酒の「キレ」と。煮汁を含んだやわらかい湯波を、ゆっくり味わう夜に。",
+      "evidenceType": "editorialPairing",
+      "displayOrder": 1,
+      "sakeEvidence": {
+        "axis": "clean",
+        "feature": "キレ",
+        "sourceUrl": "https://www.biz.hououbiden.jp/regular.html",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L59 後味のキレ。"
+      },
+      "specialtyEvidence": {
+        "feature": "煮汁を含んだ湯波のやわらかさ",
+        "meaning": "日光の湯波を巻いて揚げた揚巻湯波。油抜きして好みのだしで煮含める、調理用の商品です。",
+        "sourceUrls": [
+          "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/31_16_tochigi.html",
+          "https://item.rakuten.co.jp/miltaku/80193/"
+        ],
+        "provenance": "regionalFoodCultureAndSpecificRetailProduct"
+      },
+      "officialPairing": false,
+      "communityPairing": false,
+      "editorialPairing": true,
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "sakeId": "shiramayumi-tokubetsu-junmai-hidahomare-standard",
+      "prefecture": "岐阜県",
+      "specialtyId": "gifu-akakabu",
+      "confidence": "medium",
+      "pairingReason": "赤かぶ漬けのほのかな酸味に、この酒の「ほのかな酸味」を。発酵の味わいをひと口ずつ比べるなら。",
+      "evidenceType": "editorialPairing",
+      "displayOrder": 1,
+      "sakeEvidence": {
+        "axis": "acid",
+        "feature": "ほのかな酸味",
+        "sourceUrl": "https://www.yancha.com/shop/junmai03.html",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-12",
+        "meaning": "当該商品のほのかな酸味に対応する公式説明を短縮。"
+      },
+      "specialtyEvidence": {
+        "feature": "赤かぶのほのかな酸味",
+        "meaning": "飛騨に伝わる赤かぶの塩漬け。自然な紅色と、漬物のほのかな酸味を楽しむ一品です。",
+        "sourceUrls": [
+          "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/38_20_gifu.html",
+          "https://item.rakuten.co.jp/oomoriya-m/231/"
+        ],
+        "provenance": "regionalFoodCultureAndSpecificRetailProduct"
+      },
+      "officialPairing": false,
+      "communityPairing": false,
+      "editorialPairing": true,
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "sakeId": "daishinshu-tenouchi-namazume-v1",
+      "prefecture": "長野県",
+      "specialtyId": "nagano-nozawana",
+      "confidence": "medium",
+      "pairingReason": "野沢菜漬のシャキッとした歯ごたえに、この酒の「軽快」を。ごはんの小鉢を晩酌にも添えて。",
+      "evidenceType": "editorialPairing",
+      "displayOrder": 1,
+      "sakeEvidence": {
+        "axis": "clean",
+        "feature": "軽快",
+        "sourceUrl": "https://www.daishinsyu.com/products",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L268 味わい。"
+      },
+      "specialtyEvidence": {
+        "feature": "野沢菜の歯ごたえと発酵の風味",
+        "meaning": "信州の食卓に根付く野沢菜漬。選んだ商品は木島平で乳酸発酵させ、低温で熟成した250g入りです。",
+        "sourceUrls": [
+          "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/nozawana_zuke_nagano.html",
+          "https://item.rakuten.co.jp/okamoto-tukemono/nozawana_hondukuri250g_900250/"
+        ],
+        "provenance": "regionalFoodCultureAndSpecificRetailProduct"
+      },
+      "officialPairing": false,
+      "communityPairing": false,
+      "editorialPairing": true,
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "sakeId": "tenryo-tobikiri-tokubetsu-junmai",
+      "prefecture": "岐阜県",
+      "specialtyId": "gifu-akakabu",
+      "confidence": "medium",
+      "pairingReason": "赤かぶ漬けのほのかな酸味に、この酒の「酸味」を。発酵の味わいをひと口ずつ比べるなら。",
+      "evidenceType": "editorialPairing",
+      "displayOrder": 1,
+      "sakeEvidence": {
+        "axis": "acid",
+        "feature": "酸味",
+        "sourceUrl": "https://www.tenryou.co.jp/product/58",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-12",
+        "meaning": "公式商品説明の酸味を意味を加えず短縮。"
+      },
+      "specialtyEvidence": {
+        "feature": "赤かぶのほのかな酸味",
+        "meaning": "飛騨に伝わる赤かぶの塩漬け。自然な紅色と、漬物のほのかな酸味を楽しむ一品です。",
+        "sourceUrls": [
+          "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/38_20_gifu.html",
+          "https://item.rakuten.co.jp/oomoriya-m/231/"
+        ],
+        "provenance": "regionalFoodCultureAndSpecificRetailProduct"
+      },
+      "officialPairing": false,
+      "communityPairing": false,
+      "editorialPairing": true,
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "sakeId": "sasaichi-yata-junmai-daiginjo-v1",
+      "prefecture": "山梨県",
+      "specialtyId": "yamanashi-awabi-nigai",
+      "confidence": "medium",
+      "pairingReason": "あわびの煮貝の磯の旨味を、この酒の「芳醇な旨味」と。薄く切った貝を少しずつ、じっくり飲む夜に。",
+      "evidenceType": "editorialPairing",
+      "displayOrder": 1,
+      "sakeEvidence": {
+        "axis": "umami",
+        "feature": "芳醇な旨味",
+        "sourceUrl": "https://www.sasaichi.com/shopdetail/000000000272/ct31/page1/recommend/",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L61 公式旨みの同義正規化。"
+      },
+      "specialtyEvidence": {
+        "feature": "貝の歯ごたえと磯の旨味",
+        "meaning": "あわびを醤油で煮る甲州の名産品。選んだ商品は肝つきの茜あわびを煮た、かいやの姿煮です。",
+        "sourceUrls": [
+          "https://www.maff.go.jp/j/keikaku/syokubunka/traditional-foods/menu/awabino_nigai.html",
+          "https://www.pref.yamanashi.jp/shokuhin-st/shokuiku/yamanashinoshoku/awabinonigai.html",
+          "https://item.rakuten.co.jp/e-yamanashi/om-001-r/"
+        ],
+        "provenance": "regionalFoodCultureAndSpecificRetailProduct"
+      },
+      "officialPairing": false,
+      "communityPairing": false,
+      "editorialPairing": true,
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "sakeId": "rokujuyoshu-junmai-ginjo-yamadanishiki-v1",
+      "prefecture": "長崎県",
+      "specialtyId": "nagasaki-hatoshi",
+      "confidence": "medium",
+      "pairingReason": "ハトシの海老の味わいに、この酒の「旨味」を添えて。小さく切ったサンドをつまむ晩酌に。",
+      "evidenceType": "editorialPairing",
+      "displayOrder": 1,
+      "sakeEvidence": {
+        "axis": "umami",
+        "feature": "旨味",
+        "sourceUrl": "https://rokujuyoshu.com/product/",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L80 明示された味。"
+      },
+      "specialtyEvidence": {
+        "feature": "揚げパンと海老のすり身",
+        "meaning": "海老などのすり身を食パンで挟んで揚げる、長崎の卓袱料理ゆかりの一品。家庭でも食べやすいサンドに。",
+        "sourceUrls": [
+          "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/46_29_nagasaki.html",
+          "https://item.rakuten.co.jp/halloday/10000091/"
+        ],
+        "provenance": "regionalFoodCultureAndSpecificRetailProduct"
+      },
+      "officialPairing": false,
+      "communityPairing": false,
+      "editorialPairing": true,
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "sakeId": "hakutaka-kinmatsu-tokubetsu-junmai",
+      "prefecture": "兵庫県",
+      "specialtyId": "hyogo-ikanago-kugini",
+      "confidence": "medium",
+      "pairingReason": "イカナゴのくぎ煮の甘辛さに、この酒の「米の旨味」を。小さな魚を少しずつつまむ晩酌に。",
+      "evidenceType": "editorialPairing",
+      "displayOrder": 1,
+      "sakeEvidence": {
+        "axis": "umami",
+        "feature": "米の旨味",
+        "sourceUrl": "https://hakutaka.jp/item.html",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-12",
+        "meaning": "当該商品の米の旨味に対応する公式説明を短縮。"
+      },
+      "specialtyEvidence": {
+        "feature": "生姜を加えたイカナゴの甘辛さ",
+        "meaning": "イカナゴを醤油や砂糖、生姜で甘辛く炊く瀬戸内の郷土料理。少量で味わえる、小さな魚の佃煮です。",
+        "sourceUrls": [
+          "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/40_1_hyogo.html",
+          "https://item.rakuten.co.jp/boulan-/100000294/"
+        ],
+        "provenance": "regionalFoodCultureAndSpecificRetailProduct"
+      },
+      "officialPairing": false,
+      "communityPairing": false,
+      "editorialPairing": true,
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "sakeId": "fukutsuru-junmai-ginjo-v1",
+      "prefecture": "長崎県",
+      "specialtyId": "nagasaki-hatoshi",
+      "confidence": "medium",
+      "pairingReason": "ハトシの揚げパンと海老のすり身を、この酒の「爽やか」と。ひと切れずつ、酒と交互に楽しむなら。",
+      "evidenceType": "editorialPairing",
+      "displayOrder": 1,
+      "sakeEvidence": {
+        "axis": "clean",
+        "feature": "爽やか",
+        "sourceUrl": "https://fukudashuzo.base.shop/items/71024917",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L59 味わいの直接記載。"
+      },
+      "specialtyEvidence": {
+        "feature": "揚げパンと海老のすり身",
+        "meaning": "海老などのすり身を食パンで挟んで揚げる、長崎の卓袱料理ゆかりの一品。家庭でも食べやすいサンドに。",
+        "sourceUrls": [
+          "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/46_29_nagasaki.html",
+          "https://item.rakuten.co.jp/halloday/10000091/"
+        ],
+        "provenance": "regionalFoodCultureAndSpecificRetailProduct"
+      },
+      "officialPairing": false,
+      "communityPairing": false,
+      "editorialPairing": true,
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "sakeId": "rokujuyoshu-tividq-3",
+      "prefecture": "長崎県",
+      "specialtyId": "nagasaki-hatoshi",
+      "confidence": "medium",
+      "pairingReason": "ハトシの揚げパンと海老のすり身を、この酒の「すっきり」と。ひと切れずつ、酒と交互に楽しむなら。",
+      "evidenceType": "editorialPairing",
+      "displayOrder": 1,
+      "sakeEvidence": {
+        "axis": "clean",
+        "feature": "すっきり",
+        "sourceUrl": "https://rokujuyoshu.com/product/",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L231 飲み口。"
+      },
+      "specialtyEvidence": {
+        "feature": "揚げパンと海老のすり身",
+        "meaning": "海老などのすり身を食パンで挟んで揚げる、長崎の卓袱料理ゆかりの一品。家庭でも食べやすいサンドに。",
+        "sourceUrls": [
+          "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/46_29_nagasaki.html",
+          "https://item.rakuten.co.jp/halloday/10000091/"
+        ],
+        "provenance": "regionalFoodCultureAndSpecificRetailProduct"
+      },
+      "officialPairing": false,
+      "communityPairing": false,
+      "editorialPairing": true,
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "sakeId": "nishinoseki-junmai-ginjo-bigin-v1",
+      "prefecture": "大分県",
+      "specialtyId": "oita-ayu-uruka",
+      "confidence": "medium",
+      "pairingReason": "あゆうるかの苦味と塩気を、この酒の「旨味」と。箸先ほどから、味を確かめて楽しむ小皿に。",
+      "evidenceType": "editorialPairing",
+      "displayOrder": 1,
+      "sakeEvidence": {
+        "axis": "umami",
+        "feature": "旨味",
+        "sourceUrl": "https://www.nishinoseki.com/product/junginshu/",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L27 直接記載。"
+      },
+      "specialtyEvidence": {
+        "feature": "鮎の内臓の苦味と塩気",
+        "meaning": "鮎を塩で漬ける大分のうるか。選んだ商品は内臓を使う「にがうるか」で、苦味や渋味も味わう珍味です。",
+        "sourceUrls": [
+          "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/ayuuruka_oita.html",
+          "https://item.rakuten.co.jp/onsenken-oita/j0000000653265/"
+        ],
+        "provenance": "regionalFoodCultureAndSpecificRetailProduct"
+      },
+      "officialPairing": false,
+      "communityPairing": false,
+      "editorialPairing": true,
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "sakeId": "nishinoseki-junmai-ginjo-bigin-v1",
+      "prefecture": "大分県",
+      "specialtyId": "oita-ryukyu",
+      "confidence": "medium",
+      "pairingReason": "りゅうきゅうの漬け魚の味わいを、この酒の「旨味」と。丼にせず小鉢に盛って、晩酌にも。",
+      "evidenceType": "editorialPairing",
+      "displayOrder": 2,
+      "sakeEvidence": {
+        "axis": "umami",
+        "feature": "旨味",
+        "sourceUrl": "https://www.nishinoseki.com/product/junginshu/",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L27 直接記載。"
+      },
+      "specialtyEvidence": {
+        "feature": "魚を漬けた醤油だれの味",
+        "meaning": "魚の切り身を醤油だれに漬ける大分のりゅうきゅう。選んだ商品は豊後水道の魚を使った、小分けの漬け魚です。",
+        "sourceUrls": [
+          "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/ryukyu_oita.html",
+          "https://item.rakuten.co.jp/onsenken-oita/j0000000817018s4/"
+        ],
+        "provenance": "regionalFoodCultureAndSpecificRetailProduct"
+      },
+      "officialPairing": false,
+      "communityPairing": false,
+      "editorialPairing": true,
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "sakeId": "kozaemon-bizen-omachi-hiire-v1",
+      "prefecture": "岐阜県",
+      "specialtyId": "gifu-akakabu",
+      "confidence": "medium",
+      "pairingReason": "赤かぶ漬けのさっぱりした口当たりを、この酒の「キレ」と。食卓に小さな漬物の皿を添えて。",
+      "evidenceType": "editorialPairing",
+      "displayOrder": 1,
+      "sakeEvidence": {
+        "axis": "clean",
+        "feature": "キレ",
+        "sourceUrl": "https://kozaemon.jp/menu/853558",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L23 直接記載。"
+      },
+      "specialtyEvidence": {
+        "feature": "赤かぶのほのかな酸味",
+        "meaning": "飛騨に伝わる赤かぶの塩漬け。自然な紅色と、漬物のほのかな酸味を楽しむ一品です。",
+        "sourceUrls": [
+          "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/38_20_gifu.html",
+          "https://item.rakuten.co.jp/oomoriya-m/231/"
+        ],
+        "provenance": "regionalFoodCultureAndSpecificRetailProduct"
+      },
+      "officialPairing": false,
+      "communityPairing": false,
+      "editorialPairing": true,
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "sakeId": "mifuku-yamahai-junmai-ginjo-iginjunsei-standard",
+      "prefecture": "滋賀県",
+      "specialtyId": "shiga-koayu-sanshoni",
+      "confidence": "medium",
+      "pairingReason": "小あゆの山椒煮の甘辛さに、この酒の「米の旨味」を重ねて。山椒の香りも楽しみながら、少しずつ。",
+      "evidenceType": "editorialPairing",
+      "displayOrder": 1,
+      "sakeEvidence": {
+        "axis": "umami",
+        "feature": "米の旨味",
+        "sourceUrl": "https://mifuku-shop.jp/SHOP/118.html",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-13",
+        "meaning": "当該商品の米の旨味に対応する公式説明を短縮。"
+      },
+      "specialtyEvidence": {
+        "feature": "山椒を添えた小あゆの甘辛さ",
+        "meaning": "琵琶湖の小あゆを甘辛く炊き、山椒を加えた佃煮。ひと口ずつ、湖の味を楽しむ小皿に。",
+        "sourceUrls": [
+          "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/koayuno_sanshou_ni_shiga.html",
+          "https://item.rakuten.co.jp/ayukimura/5148591/"
+        ],
+        "provenance": "regionalFoodCultureAndSpecificRetailProduct"
+      },
+      "officialPairing": false,
+      "communityPairing": false,
+      "editorialPairing": true,
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "sakeId": "choryo-yoshinosugi-tarusake-standard",
+      "prefecture": "奈良県",
+      "specialtyId": "nara-narazuke",
+      "confidence": "medium",
+      "pairingReason": "奈良漬の酒粕の風味に、この酒の「コク」を重ねて。胡瓜を薄く切り、少量から楽しむ小皿に。",
+      "evidenceType": "editorialPairing",
+      "displayOrder": 1,
+      "sakeEvidence": {
+        "axis": "umami",
+        "feature": "コク",
+        "sourceUrl": "https://www.choryo.co.jp/?pid=157239009",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-12",
+        "meaning": "当該商品のコクに対応する公式説明を短縮。"
+      },
+      "specialtyEvidence": {
+        "feature": "酒粕が染み込んだ胡瓜の風味",
+        "meaning": "塩漬けした野菜を酒粕に漬け込む奈良の伝統食。選んだ商品は胡瓜の奈良漬で、酒粕の風味を楽しめます。",
+        "sourceUrls": [
+          "https://www.maff.go.jp/j/keikaku/syokubunka/traditional-foods/menu/naraduke.html",
+          "https://item.rakuten.co.jp/naranokoto/1031-80000843/"
+        ],
+        "provenance": "regionalFoodCultureAndSpecificRetailProduct"
+      },
+      "officialPairing": false,
+      "communityPairing": false,
+      "editorialPairing": true,
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "sakeId": "mikadomatsu-shacho-no-sake-v1",
+      "prefecture": "埼玉県",
+      "specialtyId": "saitama-oname",
+      "confidence": "medium",
+      "pairingReason": "おなめを少し取り、この酒の「旨み」と。麦や大豆の発酵の風味を味わいながら、野菜に添えても。",
+      "evidenceType": "editorialPairing",
+      "displayOrder": 1,
+      "sakeEvidence": {
+        "axis": "umami",
+        "feature": "旨み",
+        "sourceUrl": "https://www.mikadomatsu.com/item/",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L84 直接記載。"
+      },
+      "specialtyEvidence": {
+        "feature": "麦と大豆の発酵の風味と塩気",
+        "meaning": "麦こうじと大豆からつくる秩父の発酵食品。選んだおなめには茄子と生姜も入り、野菜につけても楽しめます。",
+        "sourceUrls": [
+          "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/33_25_saitama.html",
+          "https://item.rakuten.co.jp/genkioukoku/4907938310453/"
+        ],
+        "provenance": "regionalFoodCultureAndSpecificRetailProduct"
+      },
+      "officialPairing": false,
+      "communityPairing": false,
+      "editorialPairing": true,
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "sakeId": "gozenshu-junmai-mimasaka-v1",
+      "prefecture": "岡山県",
+      "specialtyId": "okayama-mamakari",
+      "confidence": "medium",
+      "pairingReason": "ママカリの酢漬けの甘酢を味わったら、この酒の「すっきり」を。さっぱりした小皿を添える晩酌に。",
+      "evidenceType": "editorialPairing",
+      "displayOrder": 1,
+      "sakeEvidence": {
+        "axis": "clean",
+        "feature": "すっきり",
+        "sourceUrl": "https://www.gozenshu.co.jp/SHOP/tuji-008.html",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L33 冷やしたときの説明。"
+      },
+      "specialtyEvidence": {
+        "feature": "甘酢に漬けた魚の酸味",
+        "meaning": "小魚のママカリを甘酢に漬ける岡山の郷土料理。生姜などを添え、酸味のある小皿として親しまれています。",
+        "sourceUrls": [
+          "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/41_3_okayama.html",
+          "https://item.rakuten.co.jp/uoisan/mama-500/"
+        ],
+        "provenance": "regionalFoodCultureAndSpecificRetailProduct"
+      },
+      "officialPairing": false,
+      "communityPairing": false,
+      "editorialPairing": true,
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "sakeId": "shidaizumi-junmai-ginjo-yaizu-shumai-2026-v1",
+      "prefecture": "静岡県",
+      "specialtyId": "shizuoka-kuro-hanpen",
+      "confidence": "medium",
+      "pairingReason": "黒はんぺんをひと切れ、そのあとにこの酒の「爽やかな酸」を。魚の味と酒の軽さを楽しむ組み合わせです。",
+      "evidenceType": "editorialPairing",
+      "displayOrder": 1,
+      "sakeEvidence": {
+        "axis": "clean",
+        "feature": "爽やかな酸",
+        "sourceUrl": "https://shidaizumi.com/sake/R07BY/yaizu2026.pdf",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L36–37 直接記載。"
+      },
+      "specialtyEvidence": {
+        "feature": "魚の味わいが詰まった練り物",
+        "meaning": "魚を皮や骨ごと使う静岡の黒はんぺん。選んだ商品は由比のさすぼし蒲鉾がつくる、いわし入りの真空パックです。",
+        "sourceUrls": [
+          "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/36_1_shizuoka.html",
+          "https://item.rakuten.co.jp/sasuboshi/kurohan4mai/"
+        ],
+        "provenance": "regionalFoodCultureAndSpecificRetailProduct"
+      },
+      "officialPairing": false,
+      "communityPairing": false,
+      "editorialPairing": true,
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "sakeId": "kawatsuru-junmai-ooseto-hiire-v1",
+      "prefecture": "香川県",
+      "specialtyId": "kagawa-honetsukidori",
+      "confidence": "medium",
+      "pairingReason": "骨付鳥の鶏の旨味を、この酒の「米の旨味」と。身を少しずつ取り分け、食事とともに楽しむ晩酌に。",
+      "evidenceType": "editorialPairing",
+      "displayOrder": 1,
+      "sakeEvidence": {
+        "axis": "umami",
+        "feature": "米の旨味",
+        "sourceUrl": "https://kawatsuru.com/product/product02/",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L29 直接記載。"
+      },
+      "specialtyEvidence": {
+        "feature": "鶏の肉汁とスパイスの風味",
+        "meaning": "骨付きの鶏もも肉をスパイスで味付けして焼く香川の名物。選んだ商品は国産若鶏とチキンオイルの組み合わせです。",
+        "sourceUrls": [
+          "https://www.my-kagawa.jp/gourmet/feature/gourmet/honetukidori",
+          "https://item.rakuten.co.jp/heimat/203154/"
+        ],
+        "provenance": "regionalFoodCultureAndSpecificRetailProduct"
+      },
+      "officialPairing": false,
+      "communityPairing": false,
+      "editorialPairing": true,
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "sakeId": "umenishiki-ginjo-tsuunosake-v1",
+      "prefecture": "愛媛県",
+      "specialtyId": "ehime-jakoten",
+      "confidence": "medium",
+      "pairingReason": "じゃこ天をひと切れ、そのあとにこの酒の「淡麗辛口」を。小魚の味と酒の軽さを交互に楽しむなら。",
+      "evidenceType": "editorialPairing",
+      "displayOrder": 1,
+      "sakeEvidence": {
+        "axis": "clean",
+        "feature": "淡麗辛口",
+        "sourceUrl": "https://www.umenishiki.com/lineup/170/",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L50 直接記載。"
+      },
+      "specialtyEvidence": {
+        "feature": "小魚の味わいが詰まった揚げかまぼこ",
+        "meaning": "小魚を骨や皮ごとすり身にして揚げる愛媛のじゃこ天。選んだ商品は宇和島のほたるじゃこを主原料にしています。",
+        "sourceUrls": [
+          "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/jakoten_ehime.html",
+          "https://item.rakuten.co.jp/yasuokakamaboko/yasuoka_56-5/"
+        ],
+        "provenance": "regionalFoodCultureAndSpecificRetailProduct"
+      },
+      "officialPairing": false,
+      "communityPairing": false,
+      "editorialPairing": true,
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "sakeId": "umenishiki-ginjo-tsuunosake-v1",
+      "prefecture": "愛媛県",
+      "specialtyId": "ehime-tachiuo-maki",
+      "confidence": "medium",
+      "pairingReason": "太刀魚巻の甘辛いたれを、この酒の「淡麗辛口」と。魚と酒の味の違いを楽しむ小皿に。",
+      "evidenceType": "editorialPairing",
+      "displayOrder": 2,
+      "sakeEvidence": {
+        "axis": "dry",
+        "feature": "淡麗辛口",
+        "sourceUrl": "https://www.umenishiki.com/lineup/170/",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L50 直接記載。"
+      },
+      "specialtyEvidence": {
+        "feature": "太刀魚のやわらかな身と甘辛いたれ",
+        "meaning": "太刀魚を竹に巻き、たれを塗って焼く愛媛の一品。やわらかな魚の身と、たれの風味を味わえます。",
+        "sourceUrls": [
+          "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/tachiuo_maki_ehime.html",
+          "https://item.rakuten.co.jp/e-bussan/10000429-7/"
+        ],
+        "provenance": "regionalFoodCultureAndSpecificRetailProduct"
+      },
+      "officialPairing": false,
+      "communityPairing": false,
+      "editorialPairing": true,
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "sakeId": "toyonoaki-junmai-ginjo-matsuezukushi-standard",
+      "prefecture": "島根県",
+      "specialtyId": "shimane-ago-noyaki",
+      "confidence": "medium",
+      "pairingReason": "あご野焼きの魚の旨味を、この酒の「旨味」と。肉厚のひと切れを、噛みしめながら飲む夜に。",
+      "evidenceType": "editorialPairing",
+      "displayOrder": 1,
+      "sakeEvidence": {
+        "axis": "umami",
+        "feature": "旨味",
+        "sourceUrl": "https://www.toyonoaki.com/product/603/",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-13",
+        "meaning": "当該商品の旨味に対応する公式説明を短縮。"
+      },
+      "specialtyEvidence": {
+        "feature": "魚の旨味と焼き目の香ばしさ",
+        "meaning": "飛び魚のすり身を太く巻いて焼く島根のあご野焼き。肉厚の歯ごたえと、焼き目の香ばしさが楽しめます。",
+        "sourceUrls": [
+          "https://www.maff.go.jp/j/keikaku/syokubunka/traditional-foods/menu/agono_yaki.html",
+          "https://item.rakuten.co.jp/jutaka-kamaboko/ago-1-2/"
+        ],
+        "provenance": "regionalFoodCultureAndSpecificRetailProduct"
+      },
+      "officialPairing": false,
+      "communityPairing": false,
+      "editorialPairing": true,
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "sakeId": "kinpai-junmai-yokozuna-standard",
+      "prefecture": "兵庫県",
+      "specialtyId": "hyogo-ikanago-kugini",
+      "confidence": "medium",
+      "pairingReason": "イカナゴのくぎ煮の甘辛さに、この酒の「米の旨み」を。小さな魚を少しずつつまむ晩酌に。",
+      "evidenceType": "editorialPairing",
+      "displayOrder": 1,
+      "sakeEvidence": {
+        "axis": "umami",
+        "feature": "米の旨み",
+        "sourceUrl": "https://item.rakuten.co.jp/auc-kinpai/00300020/",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-13",
+        "meaning": "当該商品の米の旨みに対応する公式説明を短縮。"
+      },
+      "specialtyEvidence": {
+        "feature": "生姜を加えたイカナゴの甘辛さ",
+        "meaning": "イカナゴを醤油や砂糖、生姜で甘辛く炊く瀬戸内の郷土料理。少量で味わえる、小さな魚の佃煮です。",
+        "sourceUrls": [
+          "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/40_1_hyogo.html",
+          "https://item.rakuten.co.jp/boulan-/100000294/"
+        ],
+        "provenance": "regionalFoodCultureAndSpecificRetailProduct"
+      },
+      "officialPairing": false,
+      "communityPairing": false,
+      "editorialPairing": true,
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "sakeId": "iyo-kagiya-junmai-aka-label-v1",
+      "prefecture": "愛媛県",
+      "specialtyId": "ehime-jakoten",
+      "confidence": "medium",
+      "pairingReason": "じゃこ天の小魚の味わいに、この酒の「米の旨味」を重ねて。ひと切れずつ、魚と酒を楽しむ晩酌に。",
+      "evidenceType": "editorialPairing",
+      "displayOrder": 1,
+      "sakeEvidence": {
+        "axis": "umami",
+        "feature": "米の旨味",
+        "sourceUrl": "https://www.seiryosyuzo.com/brands/standard",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L81 直接記載。"
+      },
+      "specialtyEvidence": {
+        "feature": "小魚の味わいが詰まった揚げかまぼこ",
+        "meaning": "小魚を骨や皮ごとすり身にして揚げる愛媛のじゃこ天。選んだ商品は宇和島のほたるじゃこを主原料にしています。",
+        "sourceUrls": [
+          "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/jakoten_ehime.html",
+          "https://item.rakuten.co.jp/yasuokakamaboko/yasuoka_56-5/"
+        ],
+        "provenance": "regionalFoodCultureAndSpecificRetailProduct"
+      },
+      "officialPairing": false,
+      "communityPairing": false,
+      "editorialPairing": true,
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "sakeId": "iyo-kagiya-junmai-aka-label-v1",
+      "prefecture": "愛媛県",
+      "specialtyId": "ehime-tachiuo-maki",
+      "confidence": "medium",
+      "pairingReason": "太刀魚巻のやわらかな身を、この酒の「米の旨味」と。たれの味も楽しみながら、少しずつ取り分けて。",
+      "evidenceType": "editorialPairing",
+      "displayOrder": 2,
+      "sakeEvidence": {
+        "axis": "umami",
+        "feature": "米の旨味",
+        "sourceUrl": "https://www.seiryosyuzo.com/brands/standard",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L81 直接記載。"
+      },
+      "specialtyEvidence": {
+        "feature": "太刀魚のやわらかな身と甘辛いたれ",
+        "meaning": "太刀魚を竹に巻き、たれを塗って焼く愛媛の一品。やわらかな魚の身と、たれの風味を味わえます。",
+        "sourceUrls": [
+          "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/tachiuo_maki_ehime.html",
+          "https://item.rakuten.co.jp/e-bussan/10000429-7/"
+        ],
+        "provenance": "regionalFoodCultureAndSpecificRetailProduct"
+      },
+      "officialPairing": false,
+      "communityPairing": false,
+      "editorialPairing": true,
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "sakeId": "seiryozen-tokubetsu-junmai-the-plains-v1",
+      "prefecture": "愛媛県",
+      "specialtyId": "ehime-jakoten",
+      "confidence": "medium",
+      "pairingReason": "じゃこ天の小魚の味わいに、この酒の「米の旨味」を重ねて。ひと切れずつ、魚と酒を楽しむ晩酌に。",
+      "evidenceType": "editorialPairing",
+      "displayOrder": 1,
+      "sakeEvidence": {
+        "axis": "umami",
+        "feature": "米の旨味",
+        "sourceUrl": "https://www.seiryosyuzo.com/blog/6011",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L90 旨みを旨味へ正規化。"
+      },
+      "specialtyEvidence": {
+        "feature": "小魚の味わいが詰まった揚げかまぼこ",
+        "meaning": "小魚を骨や皮ごとすり身にして揚げる愛媛のじゃこ天。選んだ商品は宇和島のほたるじゃこを主原料にしています。",
+        "sourceUrls": [
+          "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/jakoten_ehime.html",
+          "https://item.rakuten.co.jp/yasuokakamaboko/yasuoka_56-5/"
+        ],
+        "provenance": "regionalFoodCultureAndSpecificRetailProduct"
+      },
+      "officialPairing": false,
+      "communityPairing": false,
+      "editorialPairing": true,
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "sakeId": "seiryozen-tokubetsu-junmai-the-plains-v1",
+      "prefecture": "愛媛県",
+      "specialtyId": "ehime-tachiuo-maki",
+      "confidence": "medium",
+      "pairingReason": "太刀魚巻のやわらかな身を、この酒の「米の旨味」と。たれの味も楽しみながら、少しずつ取り分けて。",
+      "evidenceType": "editorialPairing",
+      "displayOrder": 2,
+      "sakeEvidence": {
+        "axis": "umami",
+        "feature": "米の旨味",
+        "sourceUrl": "https://www.seiryosyuzo.com/blog/6011",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L90 旨みを旨味へ正規化。"
+      },
+      "specialtyEvidence": {
+        "feature": "太刀魚のやわらかな身と甘辛いたれ",
+        "meaning": "太刀魚を竹に巻き、たれを塗って焼く愛媛の一品。やわらかな魚の身と、たれの風味を味わえます。",
+        "sourceUrls": [
+          "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/tachiuo_maki_ehime.html",
+          "https://item.rakuten.co.jp/e-bussan/10000429-7/"
+        ],
+        "provenance": "regionalFoodCultureAndSpecificRetailProduct"
+      },
+      "officialPairing": false,
+      "communityPairing": false,
+      "editorialPairing": true,
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "sakeId": "tenbu-junmai-ginjo-uzen-sakemirai-v1",
+      "prefecture": "鹿児島県",
+      "specialtyId": "kagoshima-buta-miso",
+      "confidence": "medium",
+      "pairingReason": "豚味噌の豚肉と麦味噌を、この酒の「濃厚な旨味」と。野菜に少し添え、酒と一緒に味わう提案です。",
+      "evidenceType": "editorialPairing",
+      "displayOrder": 1,
+      "sakeEvidence": {
+        "axis": "umami",
+        "feature": "濃厚な旨味",
+        "sourceUrl": "https://www.nishi-shuzo.co.jp/tenbu/products/",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L58 直接記載。"
+      },
+      "specialtyEvidence": {
+        "feature": "豚肉と麦味噌の風味",
+        "meaning": "豚肉を味噌と合わせる鹿児島の郷土食。選んだ商品は鹿児島黒豚と麦味噌を使った、甘さ控えめのおかず味噌です。",
+        "sourceUrls": [
+          "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/butamiso_kagoshima.html",
+          "https://item.rakuten.co.jp/kinko/096569/"
+        ],
+        "provenance": "regionalFoodCultureAndSpecificRetailProduct"
+      },
+      "officialPairing": false,
+      "communityPairing": false,
+      "editorialPairing": true,
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "sakeId": "takakiya-karakuchi-tokubetsu-junmai-v1",
+      "prefecture": "大分県",
+      "specialtyId": "oita-ayu-uruka",
+      "confidence": "medium",
+      "pairingReason": "あゆうるかの苦味と塩気を、この酒の「旨味」と。箸先ほどから、味を確かめて楽しむ小皿に。",
+      "evidenceType": "editorialPairing",
+      "displayOrder": 1,
+      "sakeEvidence": {
+        "axis": "umami",
+        "feature": "旨味",
+        "sourceUrl": "https://www.sakenokimata.jp/item/sake/387",
+        "sourceType": "trustedRetailer",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L37 旨みを旨味へ正規化。"
+      },
+      "specialtyEvidence": {
+        "feature": "鮎の内臓の苦味と塩気",
+        "meaning": "鮎を塩で漬ける大分のうるか。選んだ商品は内臓を使う「にがうるか」で、苦味や渋味も味わう珍味です。",
+        "sourceUrls": [
+          "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/ayuuruka_oita.html",
+          "https://item.rakuten.co.jp/onsenken-oita/j0000000653265/"
+        ],
+        "provenance": "regionalFoodCultureAndSpecificRetailProduct"
+      },
+      "officialPairing": false,
+      "communityPairing": false,
+      "editorialPairing": true,
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "sakeId": "takakiya-karakuchi-tokubetsu-junmai-v1",
+      "prefecture": "大分県",
+      "specialtyId": "oita-ryukyu",
+      "confidence": "medium",
+      "pairingReason": "りゅうきゅうの漬け魚の味わいを、この酒の「旨味」と。丼にせず小鉢に盛って、晩酌にも。",
+      "evidenceType": "editorialPairing",
+      "displayOrder": 2,
+      "sakeEvidence": {
+        "axis": "umami",
+        "feature": "旨味",
+        "sourceUrl": "https://www.sakenokimata.jp/item/sake/387",
+        "sourceType": "trustedRetailer",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L37 旨みを旨味へ正規化。"
+      },
+      "specialtyEvidence": {
+        "feature": "魚を漬けた醤油だれの味",
+        "meaning": "魚の切り身を醤油だれに漬ける大分のりゅうきゅう。選んだ商品は豊後水道の魚を使った、小分けの漬け魚です。",
+        "sourceUrls": [
+          "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/ryukyu_oita.html",
+          "https://item.rakuten.co.jp/onsenken-oita/j0000000817018s4/"
+        ],
+        "provenance": "regionalFoodCultureAndSpecificRetailProduct"
+      },
+      "officialPairing": false,
+      "communityPairing": false,
+      "editorialPairing": true,
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "sakeId": "kirei-karakuchi-junmai-hachiju-hiire-v1",
+      "prefecture": "広島県",
+      "specialtyId": "hiroshima-kaki-doteyaki",
+      "confidence": "medium",
+      "pairingReason": "かきの土手鍋の牡蠣と味噌を、この酒の「米の旨味」と。温かい煮物の小皿を添えて飲みたい夜に。",
+      "evidenceType": "editorialPairing",
+      "displayOrder": 1,
+      "sakeEvidence": {
+        "axis": "umami",
+        "feature": "米の旨味",
+        "sourceUrl": "https://www.sake-nozaki.jp/product/1029",
+        "sourceType": "trustedRetailer",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L21 直接記載。"
+      },
+      "specialtyEvidence": {
+        "feature": "牡蠣と味噌の重なる味わい",
+        "meaning": "広島のかきの土手鍋を、家庭でつまみやすい缶詰に。選んだ商品は広島産の牡蠣を府中味噌などで煮ています。",
+        "sourceUrls": [
+          "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/42_4_hiroshima.html",
+          "https://item.rakuten.co.jp/setouchilemon-nouen/kakinodotenabe/"
+        ],
+        "provenance": "regionalFoodCultureAndSpecificRetailProduct"
+      },
+      "officialPairing": false,
+      "communityPairing": false,
+      "editorialPairing": true,
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "sakeId": "nanbubijin-junmai-daiginjo-sakemirai-standard-v1",
+      "prefecture": "岩手県",
+      "specialtyId": "iwate-suki-kombu",
+      "confidence": "medium",
+      "pairingReason": "水で戻したすき昆布を小鉢にして、この酒の「キレ」と。やわらかな歯ごたえを楽しみながら、軽くつまみたい夜に。",
+      "evidenceType": "editorialPairing",
+      "displayOrder": 1,
+      "sakeEvidence": {
+        "axis": "clean",
+        "feature": "キレ",
+        "sourceUrl": "https://www.nanbubijin.jp/shopdetail/000000000073/",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L75 キレのある飲み口を短縮。"
+      },
+      "specialtyEvidence": {
+        "feature": "戻した昆布のやわらかな歯ごたえ",
+        "meaning": "若い昆布を細く切って乾燥させた、三陸のすき昆布。水で戻し、煮物やサラダの小鉢に。",
+        "sourceUrls": [
+          "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/28_5_iwate.html",
+          "https://item.rakuten.co.jp/satsumakaisan/sukikonbu-001/"
+        ],
+        "provenance": "regionalFoodCultureAndSpecificRetailProduct"
+      },
+      "officialPairing": false,
+      "communityPairing": false,
+      "editorialPairing": true,
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "sakeId": "houken-junmai-ginjo-hattannishiki-standard-v1",
+      "prefecture": "広島県",
+      "specialtyId": "hiroshima-kaki-doteyaki",
+      "confidence": "medium",
+      "pairingReason": "かきの土手鍋の牡蠣と味噌を、この酒の「米の旨味」と。温かい煮物の小皿を添えて飲みたい夜に。",
+      "evidenceType": "editorialPairing",
+      "displayOrder": 1,
+      "sakeEvidence": {
+        "axis": "umami",
+        "feature": "米の旨味",
+        "sourceUrl": "https://www.yamanaka-sake.shop/view/item/000000000263?category_page_id=ct1608",
+        "sourceType": "trustedRetailer",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L312 米の旨みを正規化。"
+      },
+      "specialtyEvidence": {
+        "feature": "牡蠣と味噌の重なる味わい",
+        "meaning": "広島のかきの土手鍋を、家庭でつまみやすい缶詰に。選んだ商品は広島産の牡蠣を府中味噌などで煮ています。",
+        "sourceUrls": [
+          "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/42_4_hiroshima.html",
+          "https://item.rakuten.co.jp/setouchilemon-nouen/kakinodotenabe/"
+        ],
+        "provenance": "regionalFoodCultureAndSpecificRetailProduct"
+      },
+      "officialPairing": false,
+      "communityPairing": false,
+      "editorialPairing": true,
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "sakeId": "sawanoi-junmai-daikarakuchi-standard-v1",
+      "prefecture": "東京都",
+      "specialtyId": "tokyo-bettarazuke",
+      "confidence": "medium",
+      "pairingReason": "べったら漬けの歯ごたえを楽しんだら、この酒の「キレ」を。甘さ控えめのこうじ漬けと合わせる小皿に。",
+      "evidenceType": "editorialPairing",
+      "displayOrder": 1,
+      "sakeEvidence": {
+        "axis": "clean",
+        "feature": "キレ",
+        "sourceUrl": "https://www.sawanoi-sake.com/item/item-624/",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L101 きれの良いを正規化。"
+      },
+      "specialtyEvidence": {
+        "feature": "大根の歯ごたえとこうじ漬けの甘み",
+        "meaning": "大根を米麹などで漬けた東京ゆかりの漬物。選んだ郡司のべったら漬けは皮つきで、甘さ控えめの仕上がりです。",
+        "sourceUrls": [
+          "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/34_8_tokyo.html",
+          "https://item.rakuten.co.jp/gunjimiso/compass1630523594/"
+        ],
+        "provenance": "regionalFoodCultureAndSpecificRetailProduct"
+      },
+      "officialPairing": false,
+      "communityPairing": false,
+      "editorialPairing": true,
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "sakeId": "tenmei-orange-funashibori-junmai-hiire-standard-v1",
+      "prefecture": "福島県",
+      "specialtyId": "fukushima-ika-ninjin",
+      "confidence": "medium",
+      "pairingReason": "いかにんじんのするめの旨味を、この酒の「旨味」と一緒に。細切りの人参をつまみながら、ゆっくり飲む夜に。",
+      "evidenceType": "editorialPairing",
+      "displayOrder": 1,
+      "sakeEvidence": {
+        "axis": "umami",
+        "feature": "旨味",
+        "sourceUrl": "https://www.jizake.com/c/sake/tenmei/Sake7202_1800",
+        "sourceType": "trustedRetailer",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L251 旨味を短縮。"
+      },
+      "specialtyEvidence": {
+        "feature": "するめの旨味と甘口の醤油だれ",
+        "meaning": "細切りのするめと人参を醤油だれに漬けた福島の郷土料理。するめの旨味と人参の食感が楽しめます。",
+        "sourceUrls": [
+          "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/30_1_fukushima.html",
+          "https://item.rakuten.co.jp/kikukoh-foods/datenoikaninjin140g/"
+        ],
+        "provenance": "regionalFoodCultureAndSpecificRetailProduct"
+      },
+      "officialPairing": false,
+      "communityPairing": false,
+      "editorialPairing": true,
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "sakeId": "tenmei-orange-funashibori-junmai-hiire-standard-v1",
+      "prefecture": "福島県",
+      "specialtyId": "fukushima-nishin-sanshozuke",
+      "confidence": "medium",
+      "pairingReason": "にしんの山椒漬けを小さく切って、この酒の「旨味」と。魚の味と酢の酸味を、酒と交互に楽しむなら。",
+      "evidenceType": "editorialPairing",
+      "displayOrder": 2,
+      "sakeEvidence": {
+        "axis": "umami",
+        "feature": "旨味",
+        "sourceUrl": "https://www.jizake.com/c/sake/tenmei/Sake7202_1800",
+        "sourceType": "trustedRetailer",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L251 旨味を短縮。"
+      },
+      "specialtyEvidence": {
+        "feature": "山椒の香りと酢漬けの酸味",
+        "meaning": "身欠きにしんを山椒とともに漬ける会津の保存食。選んだ商品は天然ポン酢を使った酢漬けです。",
+        "sourceUrls": [
+          "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/30_3_fukushima.html",
+          "https://item.rakuten.co.jp/auc-nimaruya/nisin-001/"
+        ],
+        "provenance": "regionalFoodCultureAndSpecificRetailProduct"
+      },
+      "officialPairing": false,
+      "communityPairing": false,
+      "editorialPairing": true,
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "sakeId": "hiran-nikomaru-hiire-standard-v1",
+      "prefecture": "長崎県",
+      "specialtyId": "nagasaki-hatoshi",
+      "confidence": "medium",
+      "pairingReason": "ハトシの海老の味わいに、この酒の「旨味」を添えて。小さく切ったサンドをつまむ晩酌に。",
+      "evidenceType": "editorialPairing",
+      "displayOrder": 1,
+      "sakeEvidence": {
+        "axis": "umami",
+        "feature": "旨味",
+        "sourceUrl": "https://mori-shuzou.jp/nihonshu/",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L195 旨味の短縮。"
+      },
+      "specialtyEvidence": {
+        "feature": "揚げパンと海老のすり身",
+        "meaning": "海老などのすり身を食パンで挟んで揚げる、長崎の卓袱料理ゆかりの一品。家庭でも食べやすいサンドに。",
+        "sourceUrls": [
+          "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/46_29_nagasaki.html",
+          "https://item.rakuten.co.jp/halloday/10000091/"
+        ],
+        "provenance": "regionalFoodCultureAndSpecificRetailProduct"
+      },
+      "officialPairing": false,
+      "communityPairing": false,
+      "editorialPairing": true,
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "sakeId": "ozeki-tokusen-tokubetsu-junmai-yamadanishiki-standard",
+      "prefecture": "兵庫県",
+      "specialtyId": "hyogo-ikanago-kugini",
+      "confidence": "medium",
+      "pairingReason": "イカナゴのくぎ煮の甘辛さに、この酒の「ふくよかな旨み」を。小さな魚を少しずつつまむ晩酌に。",
+      "evidenceType": "editorialPairing",
+      "displayOrder": 1,
+      "sakeEvidence": {
+        "axis": "umami",
+        "feature": "ふくよかな旨み",
+        "sourceUrl": "https://www.ozeki.co.jp/product/nihonshu/yamadanishiki/",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-12",
+        "meaning": "当該商品のふくよかな旨みに対応する公式説明を短縮。"
+      },
+      "specialtyEvidence": {
+        "feature": "生姜を加えたイカナゴの甘辛さ",
+        "meaning": "イカナゴを醤油や砂糖、生姜で甘辛く炊く瀬戸内の郷土料理。少量で味わえる、小さな魚の佃煮です。",
+        "sourceUrls": [
+          "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/40_1_hyogo.html",
+          "https://item.rakuten.co.jp/boulan-/100000294/"
+        ],
+        "provenance": "regionalFoodCultureAndSpecificRetailProduct"
+      },
+      "officialPairing": false,
+      "communityPairing": false,
+      "editorialPairing": true,
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "sakeId": "housui-tokubetsu-junmai-standard-v1",
+      "prefecture": "徳島県",
+      "specialtyId": "tokushima-fish-katsu",
+      "confidence": "medium",
+      "pairingReason": "フィッシュカツの魚の味とカレー風味を、この酒の「ふくらみのある香味」と。少しずつ切り分けて楽しむ小皿に。",
+      "evidenceType": "editorialPairing",
+      "displayOrder": 1,
+      "sakeEvidence": {
+        "axis": "umami",
+        "feature": "ふくらみのある香味",
+        "sourceUrl": "https://housui.com/products/",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L314 直接記載。"
+      },
+      "specialtyEvidence": {
+        "feature": "カレーと唐辛子のきいた魚肉カツ",
+        "meaning": "魚のすり身にカレー粉や唐辛子を加え、パン粉をつけて揚げる徳島の一品。地元ではかつ天とも呼ばれます。",
+        "sourceUrls": [
+          "https://www.city.komatsushima.lg.jp/komatsushima-navi/spots/9340.html",
+          "https://item.rakuten.co.jp/tokushima-shop/32-20-051/"
+        ],
+        "provenance": "regionalFoodCultureAndSpecificRetailProduct"
+      },
+      "officialPairing": false,
+      "communityPairing": false,
+      "editorialPairing": true,
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "sakeId": "sohomare-kimoto-tokubetsu-junmai",
+      "prefecture": "栃木県",
+      "specialtyId": "tochigi-shimotsukare",
+      "confidence": "medium",
+      "pairingReason": "しもつかれの鮭や野菜の味を、この酒の「密度の高い旨み」と。酒粕の入った煮物を、いつもの晩酌の小鉢に。",
+      "evidenceType": "editorialPairing",
+      "displayOrder": 1,
+      "sakeEvidence": {
+        "axis": "umami",
+        "feature": "密度の高い旨み",
+        "sourceUrl": "https://sohomare.co.jp/lineup03.php",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-12",
+        "meaning": "当該商品の密度の高い旨みに対応する公式説明を短縮。"
+      },
+      "specialtyEvidence": {
+        "feature": "酒粕を加えた鮭と野菜の煮物",
+        "meaning": "鮭や大根、大豆などを酒粕と煮る栃木の郷土料理。冬や初午に受け継がれてきた、家庭ごとの味です。",
+        "sourceUrls": [
+          "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/31_1_tochigi.html",
+          "https://item.rakuten.co.jp/monmiya/70003323/"
+        ],
+        "provenance": "regionalFoodCultureAndSpecificRetailProduct"
+      },
+      "officialPairing": false,
+      "communityPairing": false,
+      "editorialPairing": true,
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "sakeId": "sohomare-kimoto-tokubetsu-junmai",
+      "prefecture": "栃木県",
+      "specialtyId": "tochigi-agemaki-yuba",
+      "confidence": "medium",
+      "pairingReason": "だしで煮含めた揚巻湯波に、この酒の「密度の高い旨み」を。ひと口ごとに湯波のやわらかさも楽しむ組み合わせです。",
+      "evidenceType": "editorialPairing",
+      "displayOrder": 2,
+      "sakeEvidence": {
+        "axis": "umami",
+        "feature": "密度の高い旨み",
+        "sourceUrl": "https://sohomare.co.jp/lineup03.php",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-12",
+        "meaning": "当該商品の密度の高い旨みに対応する公式説明を短縮。"
+      },
+      "specialtyEvidence": {
+        "feature": "煮汁を含んだ湯波のやわらかさ",
+        "meaning": "日光の湯波を巻いて揚げた揚巻湯波。油抜きして好みのだしで煮含める、調理用の商品です。",
+        "sourceUrls": [
+          "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/31_16_tochigi.html",
+          "https://item.rakuten.co.jp/miltaku/80193/"
+        ],
+        "provenance": "regionalFoodCultureAndSpecificRetailProduct"
+      },
+      "officialPairing": false,
+      "communityPairing": false,
+      "editorialPairing": true,
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "sakeId": "kawanakajima-tokubetsu-junmai-standard-v1",
+      "prefecture": "長野県",
+      "specialtyId": "nagano-nozawana",
+      "confidence": "medium",
+      "pairingReason": "野沢菜漬のシャキッとした歯ごたえに、この酒の「キレ」を。ごはんの小鉢を晩酌にも添えて。",
+      "evidenceType": "editorialPairing",
+      "displayOrder": 1,
+      "sakeEvidence": {
+        "axis": "clean",
+        "feature": "キレ",
+        "sourceUrl": "https://shusen.jp/goods.html",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L31 キレの直接記載。"
+      },
+      "specialtyEvidence": {
+        "feature": "野沢菜の歯ごたえと発酵の風味",
+        "meaning": "信州の食卓に根付く野沢菜漬。選んだ商品は木島平で乳酸発酵させ、低温で熟成した250g入りです。",
+        "sourceUrls": [
+          "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/nozawana_zuke_nagano.html",
+          "https://item.rakuten.co.jp/okamoto-tukemono/nozawana_hondukuri250g_900250/"
+        ],
+        "provenance": "regionalFoodCultureAndSpecificRetailProduct"
+      },
+      "officialPairing": false,
+      "communityPairing": false,
+      "editorialPairing": true,
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "sakeId": "shoutoku-karaku-tokubetsu-junmai-karakuchi-genshu-standard",
+      "prefecture": "京都府",
+      "specialtyId": "kyoto-shibazuke",
+      "confidence": "medium",
+      "pairingReason": "しば漬けの酸味に、この酒の「すっきりとした酸味」を合わせて。赤しその香りも楽しみながら、小皿をつまむ夜に。",
+      "evidenceType": "editorialPairing",
+      "displayOrder": 1,
+      "sakeEvidence": {
+        "axis": "acid",
+        "feature": "すっきりとした酸味",
+        "sourceUrl": "https://shoutoku-shop.com/?pid=183305815",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-12",
+        "meaning": "当該商品のすっきりとした酸味に対応する公式説明を短縮。"
+      },
+      "specialtyEvidence": {
+        "feature": "赤しその香りと発酵の酸味",
+        "meaning": "茄子や胡瓜をしそと塩で漬ける京の漬物。赤しその色と、発酵による酸味が持ち味です。",
+        "sourceUrls": [
+          "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/shibazuke_kyoto.html",
+          "https://item.rakuten.co.jp/nishiri/10000060/"
+        ],
+        "provenance": "regionalFoodCultureAndSpecificRetailProduct"
+      },
+      "officialPairing": false,
+      "communityPairing": false,
+      "editorialPairing": true,
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "sakeId": "kasen-maboroshi-no-sake-tokubetsu-honjozo-standard-v1",
+      "prefecture": "東京都",
+      "specialtyId": "tokyo-asari-tsukudani",
+      "confidence": "medium",
+      "pairingReason": "あさりの佃煮の甘辛さに、この酒の「旨味」を。小さなひと口で、貝の味もゆっくり楽しむなら。",
+      "evidenceType": "editorialPairing",
+      "displayOrder": 1,
+      "sakeEvidence": {
+        "axis": "umami",
+        "feature": "旨味",
+        "sourceUrl": "https://www.e-mark-iishina.metro.tokyo.lg.jp/foods/detail/id%3D165",
+        "sourceType": "publicInstitution",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L25 個別商品の旨味表記。"
+      },
+      "specialtyEvidence": {
+        "feature": "あさりの甘辛い醤油味",
+        "meaning": "あさりを醤油や砂糖で煮る、江戸ゆかりの佃煮。選んだ玉木屋の商品は生姜入りで、少しずつつまむ小皿に。",
+        "sourceUrls": [
+          "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/34_25_tokyo.html",
+          "https://item.rakuten.co.jp/tamakiya-shop/tanpin13550asari/"
+        ],
+        "provenance": "regionalFoodCultureAndSpecificRetailProduct"
+      },
+      "officialPairing": false,
+      "communityPairing": false,
+      "editorialPairing": true,
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "sakeId": "banshu-ikkon-junmai-chokarakuchi-hiire-v1",
+      "prefecture": "兵庫県",
+      "specialtyId": "hyogo-ikanago-kugini",
+      "confidence": "medium",
+      "pairingReason": "イカナゴのくぎ煮を、この酒の「辛口」と交互に。生姜入りの醤油味と酒の対比を楽しむ提案です。",
+      "evidenceType": "editorialPairing",
+      "displayOrder": 1,
+      "sakeEvidence": {
+        "axis": "dry",
+        "feature": "辛口",
+        "sourceUrl": "https://www.yajima-jizake.co.jp/products/detail.php?product_id=7336",
+        "sourceType": "trustedRetailer",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L50 王道の辛口純米酒。"
+      },
+      "specialtyEvidence": {
+        "feature": "生姜を加えたイカナゴの甘辛さ",
+        "meaning": "イカナゴを醤油や砂糖、生姜で甘辛く炊く瀬戸内の郷土料理。少量で味わえる、小さな魚の佃煮です。",
+        "sourceUrls": [
+          "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/40_1_hyogo.html",
+          "https://item.rakuten.co.jp/boulan-/100000294/"
+        ],
+        "provenance": "regionalFoodCultureAndSpecificRetailProduct"
+      },
+      "officialPairing": false,
+      "communityPairing": false,
+      "editorialPairing": true,
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "sakeId": "akishika-junmai-inaho-yamadanishiki-75-v1",
+      "prefecture": "大阪府",
+      "specialtyId": "osaka-doteyaki",
+      "confidence": "medium",
+      "pairingReason": "どて焼きの甘辛い味噌味を、この酒の「米の旨味」で受け止める組み合わせ。牛すじを少しずつつまみたい晩酌に。",
+      "evidenceType": "editorialPairing",
+      "displayOrder": 1,
+      "sakeEvidence": {
+        "axis": "umami",
+        "feature": "米の旨味",
+        "sourceUrl": "https://www.kagimoto.com/shopdetail/000000003721/",
+        "sourceType": "trustedRetailer",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L309 個別の米の旨さを意味追加なく要約。"
+      },
+      "specialtyEvidence": {
+        "feature": "牛すじを煮た甘辛い味噌味",
+        "meaning": "牛すじを味噌やみりんで煮込む大阪のどて焼き。選んだ商品は大根とこんにゃくも入った一缶です。",
+        "sourceUrls": [
+          "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/39_23_osaka.html",
+          "https://item.rakuten.co.jp/tokusen-gourmet/10001092/"
+        ],
+        "provenance": "regionalFoodCultureAndSpecificRetailProduct"
+      },
+      "officialPairing": false,
+      "communityPairing": false,
+      "editorialPairing": true,
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "sakeId": "senkin-retro-ichishiki-hiire-v1",
+      "prefecture": "栃木県",
+      "specialtyId": "tochigi-agemaki-yuba",
+      "confidence": "medium",
+      "pairingReason": "揚巻湯波をだしで煮含めて、この酒の「キレ」と。煮汁を含んだやわらかい湯波を、ゆっくり味わう夜に。",
+      "evidenceType": "editorialPairing",
+      "displayOrder": 1,
+      "sakeEvidence": {
+        "axis": "clean",
+        "feature": "キレ",
+        "sourceUrl": "https://shop.inomotosaketen.jp/view/item/000000000773",
+        "sourceType": "trustedRetailer",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L59 個別後味。"
+      },
+      "specialtyEvidence": {
+        "feature": "煮汁を含んだ湯波のやわらかさ",
+        "meaning": "日光の湯波を巻いて揚げた揚巻湯波。油抜きして好みのだしで煮含める、調理用の商品です。",
+        "sourceUrls": [
+          "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/31_16_tochigi.html",
+          "https://item.rakuten.co.jp/miltaku/80193/"
+        ],
+        "provenance": "regionalFoodCultureAndSpecificRetailProduct"
+      },
+      "officialPairing": false,
+      "communityPairing": false,
+      "editorialPairing": true,
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "sakeId": "yorokobi-gaijin-tezukuri-junmai-hiire-standard-v1",
+      "prefecture": "香川県",
+      "specialtyId": "kagawa-honetsukidori",
+      "confidence": "medium",
+      "pairingReason": "骨付鳥の肉汁とスパイスに、この酒の「酸味」を合わせて。鶏と酒を交互に味わう提案です。",
+      "evidenceType": "editorialPairing",
+      "displayOrder": 1,
+      "sakeEvidence": {
+        "axis": "acid",
+        "feature": "酸味",
+        "sourceUrl": "https://www.shichikura.com/item/3067-3068/",
+        "sourceType": "trustedRetailer",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L43 個別の酸を短縮。"
+      },
+      "specialtyEvidence": {
+        "feature": "鶏の肉汁とスパイスの風味",
+        "meaning": "骨付きの鶏もも肉をスパイスで味付けして焼く香川の名物。選んだ商品は国産若鶏とチキンオイルの組み合わせです。",
+        "sourceUrls": [
+          "https://www.my-kagawa.jp/gourmet/feature/gourmet/honetukidori",
+          "https://item.rakuten.co.jp/heimat/203154/"
+        ],
+        "provenance": "regionalFoodCultureAndSpecificRetailProduct"
+      },
+      "officialPairing": false,
+      "communityPairing": false,
+      "editorialPairing": true,
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "sakeId": "yorokobi-gaijin-tezukuri-junmai-hiire-standard-v1",
+      "prefecture": "香川県",
+      "specialtyId": "kagawa-shoyu-mame",
+      "confidence": "medium",
+      "pairingReason": "しょうゆ豆の甘辛い醤油味を、この酒の「旨味」と。ほろりとくずれる豆を少しずつつまむなら。",
+      "evidenceType": "editorialPairing",
+      "displayOrder": 2,
+      "sakeEvidence": {
+        "axis": "umami",
+        "feature": "旨味",
+        "sourceUrl": "https://www.shichikura.com/item/3067-3068/",
+        "sourceType": "trustedRetailer",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L45 個別商品説明の旨みを正規化。"
+      },
+      "specialtyEvidence": {
+        "feature": "煎りそら豆の甘辛い醤油味",
+        "meaning": "煎ったそら豆を醤油だれに漬ける讃岐のしょうゆ豆。煮豆とは違う、ほろりとくずれる食感が特徴です。",
+        "sourceUrls": [
+          "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/shouyu_mame_kagawa.html",
+          "https://item.rakuten.co.jp/oomoriya-m/19/"
+        ],
+        "provenance": "regionalFoodCultureAndSpecificRetailProduct"
+      },
+      "officialPairing": false,
+      "communityPairing": false,
+      "editorialPairing": true,
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "sakeId": "yui-omachi-junmai-ginjo-chokarakuchi-raifuku-v1",
+      "prefecture": "茨城県",
+      "specialtyId": "ibaraki-soboro-natto",
+      "confidence": "medium",
+      "pairingReason": "そぼろ納豆の発酵の風味に、この酒の「超辛口」を合わせて。大根の歯ごたえも楽しめる小皿です。",
+      "evidenceType": "editorialPairing",
+      "displayOrder": 1,
+      "sakeEvidence": {
+        "axis": "dry",
+        "feature": "超辛口",
+        "sourceUrl": "https://sake-y.net/shopdetail/000000006298/",
+        "sourceType": "trustedRetailer",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L122–125 個別超辛口の表現。"
+      },
+      "specialtyEvidence": {
+        "feature": "納豆の風味と割り干し大根の歯ごたえ",
+        "meaning": "納豆と割り干し大根を塩や醤油に漬け込む茨城の郷土食。大根の歯ごたえがアクセントになります。",
+        "sourceUrls": [
+          "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/soboronatto_ibaraki.html",
+          "https://item.rakuten.co.jp/nattouya/soboro/"
+        ],
+        "provenance": "regionalFoodCultureAndSpecificRetailProduct"
+      },
+      "officialPairing": false,
+      "communityPairing": false,
+      "editorialPairing": true,
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "sakeId": "okunokami-junmai-ginjo-muchosei-nama-v1",
+      "prefecture": "東京都",
+      "specialtyId": "tokyo-bettarazuke",
+      "confidence": "medium",
+      "pairingReason": "べったら漬けの歯ごたえを楽しんだら、この酒の「軽やか」を。甘さ控えめのこうじ漬けと合わせる小皿に。",
+      "evidenceType": "editorialPairing",
+      "displayOrder": 1,
+      "sakeEvidence": {
+        "axis": "clean",
+        "feature": "軽やか",
+        "sourceUrl": "https://shop.kanda-toshimaya.co.jp/shop/products/OKN-JG-NAMA-1800",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L67 軽やかな口当たりの短縮。"
+      },
+      "specialtyEvidence": {
+        "feature": "大根の歯ごたえとこうじ漬けの甘み",
+        "meaning": "大根を米麹などで漬けた東京ゆかりの漬物。選んだ郡司のべったら漬けは皮つきで、甘さ控えめの仕上がりです。",
+        "sourceUrls": [
+          "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/34_8_tokyo.html",
+          "https://item.rakuten.co.jp/gunjimiso/compass1630523594/"
+        ],
+        "provenance": "regionalFoodCultureAndSpecificRetailProduct"
+      },
+      "officialPairing": false,
+      "communityPairing": false,
+      "editorialPairing": true,
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "sakeId": "kirei-banjisakazukinonaka-junmai-hiire-v1",
+      "prefecture": "広島県",
+      "specialtyId": "hiroshima-kaki-doteyaki",
+      "confidence": "medium",
+      "pairingReason": "かきの土手鍋の牡蠣と味噌を、この酒の「旨味」と。温かい煮物の小皿を添えて飲みたい夜に。",
+      "evidenceType": "editorialPairing",
+      "displayOrder": 1,
+      "sakeEvidence": {
+        "axis": "umami",
+        "feature": "旨味",
+        "sourceUrl": "https://item.rakuten.co.jp/sakeroman/kirei_005/",
+        "sourceType": "trustedRetailer",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L28 個別のほどよい旨みを短縮。"
+      },
+      "specialtyEvidence": {
+        "feature": "牡蠣と味噌の重なる味わい",
+        "meaning": "広島のかきの土手鍋を、家庭でつまみやすい缶詰に。選んだ商品は広島産の牡蠣を府中味噌などで煮ています。",
+        "sourceUrls": [
+          "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/42_4_hiroshima.html",
+          "https://item.rakuten.co.jp/setouchilemon-nouen/kakinodotenabe/"
+        ],
+        "provenance": "regionalFoodCultureAndSpecificRetailProduct"
+      },
+      "officialPairing": false,
+      "communityPairing": false,
+      "editorialPairing": true,
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "sakeId": "wakaze-the-classic-yamagata-v1",
+      "prefecture": "山形県",
+      "specialtyId": "yamagata-omizuke",
+      "confidence": "medium",
+      "pairingReason": "おみ漬の刻み野菜をつまみながら、この酒の「軽やか」を。塩気のある小鉢と、酒の軽さを楽しむ組み合わせです。",
+      "evidenceType": "editorialPairing",
+      "displayOrder": 1,
+      "sakeEvidence": {
+        "axis": "clean",
+        "feature": "軽やか",
+        "sourceUrl": "https://www.wakaze-store.com/collections/the-classic/products/the-classic-jp",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L71 / L76 軽い飲み心地を短縮。"
+      },
+      "specialtyEvidence": {
+        "feature": "刻んだ青菜と野菜の塩気",
+        "meaning": "山形青菜や大根、人参を細かく刻んだ漬物。小鉢に少し盛って、晩ごはんのお供にも。",
+        "sourceUrls": [
+          "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/omizuke_yamagata.html",
+          "https://item.rakuten.co.jp/orgale/moy-004/"
+        ],
+        "provenance": "regionalFoodCultureAndSpecificRetailProduct"
+      },
+      "officialPairing": false,
+      "communityPairing": false,
+      "editorialPairing": true,
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "sakeId": "sakuta-tokubetsu-junmai-keiyaku-v1",
+      "prefecture": "青森県",
+      "specialtyId": "aomori-ichigoni",
+      "confidence": "medium",
+      "pairingReason": "いちご煮の魚介の旨味に、この酒の「米の旨味」を重ねて。汁も少しずつ味わいたい組み合わせです。",
+      "evidenceType": "editorialPairing",
+      "displayOrder": 1,
+      "sakeEvidence": {
+        "axis": "umami",
+        "feature": "米の旨味",
+        "sourceUrl": "https://morishou.co.jp/product.html",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L245 / L256 確かな米の旨み。"
+      },
+      "specialtyEvidence": {
+        "feature": "魚介の旨味と潮の香り",
+        "meaning": "ウニやアワビなどの魚介を汁で味わう、八戸周辺の郷土料理。缶詰でも親しまれています。",
+        "sourceUrls": [
+          "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/ichigoni_aomori.html",
+          "https://item.rakuten.co.jp/quickfactory/r001060/"
+        ],
+        "provenance": "regionalFoodCultureAndSpecificRetailProduct"
+      },
+      "officialPairing": false,
+      "communityPairing": false,
+      "editorialPairing": true,
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "sakeId": "zuiyo-honjozo-chokarakuchi-v1",
+      "prefecture": "熊本県",
+      "specialtyId": "kumamoto-karashi-renkon",
+      "confidence": "medium",
+      "pairingReason": "からし蓮根のつんとした辛味を、この酒の「超辛口」と。薄いひと切れから、少しずつ楽しむ提案です。",
+      "evidenceType": "editorialPairing",
+      "displayOrder": 1,
+      "sakeEvidence": {
+        "axis": "dry",
+        "feature": "超辛口",
+        "sourceUrl": "https://www.zuiyo.co.jp/products/nihonshu/43/",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L37–39 個別味わい。"
+      },
+      "specialtyEvidence": {
+        "feature": "からし味噌のつんとした辛味",
+        "meaning": "蓮根にからし味噌を詰め、衣をつけて揚げる熊本の郷土料理。薄く切って楽しむ、辛味のある一皿です。",
+        "sourceUrls": [
+          "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/karashi_renkon_kumamoto.html",
+          "https://item.rakuten.co.jp/lmt-shop/f054x2/"
+        ],
+        "provenance": "regionalFoodCultureAndSpecificRetailProduct"
+      },
+      "officialPairing": false,
+      "communityPairing": false,
+      "editorialPairing": true,
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "sakeId": "narutotai-junmai-tomoe-v1",
+      "prefecture": "徳島県",
+      "specialtyId": "tokushima-fish-katsu",
+      "confidence": "medium",
+      "pairingReason": "フィッシュカツの魚の味とカレー風味を、この酒の「米の旨味」と。少しずつ切り分けて楽しむ小皿に。",
+      "evidenceType": "editorialPairing",
+      "displayOrder": 1,
+      "sakeEvidence": {
+        "axis": "umami",
+        "feature": "米の旨味",
+        "sourceUrl": "https://www.narutotai-sake.jp/SHOP/13008_13007_13006_tomoejm.html",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L99 個別旨味。"
+      },
+      "specialtyEvidence": {
+        "feature": "カレーと唐辛子のきいた魚肉カツ",
+        "meaning": "魚のすり身にカレー粉や唐辛子を加え、パン粉をつけて揚げる徳島の一品。地元ではかつ天とも呼ばれます。",
+        "sourceUrls": [
+          "https://www.city.komatsushima.lg.jp/komatsushima-navi/spots/9340.html",
+          "https://item.rakuten.co.jp/tokushima-shop/32-20-051/"
+        ],
+        "provenance": "regionalFoodCultureAndSpecificRetailProduct"
+      },
+      "officialPairing": false,
+      "communityPairing": false,
+      "editorialPairing": true,
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "sakeId": "azumanofumoto-junmai-ginjo-yamagata-selection-v1",
+      "prefecture": "山形県",
+      "specialtyId": "yamagata-omizuke",
+      "confidence": "medium",
+      "pairingReason": "おみ漬の刻み野菜をつまみながら、この酒の「すっきり」を。塩気のある小鉢と、酒の軽さを楽しむ組み合わせです。",
+      "evidenceType": "editorialPairing",
+      "displayOrder": 1,
+      "sakeEvidence": {
+        "axis": "clean",
+        "feature": "すっきり",
+        "sourceUrl": "https://azumanofumoto.stores.jp/items/6995193de7836e0069217b4a",
+        "sourceType": "breweryOfficial",
+        "verifiedAt": "2026-10-04",
+        "meaning": "L29 正規化のみ。"
+      },
+      "specialtyEvidence": {
+        "feature": "刻んだ青菜と野菜の塩気",
+        "meaning": "山形青菜や大根、人参を細かく刻んだ漬物。小鉢に少し盛って、晩ごはんのお供にも。",
+        "sourceUrls": [
+          "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/omizuke_yamagata.html",
+          "https://item.rakuten.co.jp/orgale/moy-004/"
+        ],
+        "provenance": "regionalFoodCultureAndSpecificRetailProduct"
+      },
+      "officialPairing": false,
+      "communityPairing": false,
+      "editorialPairing": true,
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "sakeId": "chokyu-tokusen-honjozo-catalog-v1",
+      "prefecture": "和歌山県",
+      "specialtyId": "wakayama-kinzanji-miso",
+      "confidence": "medium",
+      "pairingReason": "金山寺味噌の甘口の味噌味に、この酒の「旨味」を。野菜に少し添えながら飲む晩酌に。",
+      "evidenceType": "editorialPairing",
+      "displayOrder": 1,
+      "sakeEvidence": {
+        "axis": "umami",
+        "feature": "旨味",
+        "sourceUrl": "https://www.nakano-group.co.jp/product/nihonshu01/",
+        "sourceType": "official",
+        "verifiedAt": "2026-10-18",
+        "meaning": "当該商品の説明を意味を足さず短縮。"
+      },
+      "specialtyEvidence": {
+        "feature": "野菜の入った甘口の味噌味",
+        "meaning": "麦や米、大豆のこうじに野菜を加える紀州の金山寺味噌。調味用というより、そのまま食べるおかず味噌です。",
+        "sourceUrls": [
+          "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/kinzanji_miso_wakayama.html",
+          "https://item.rakuten.co.jp/bunza/4968001102504/"
+        ],
+        "provenance": "regionalFoodCultureAndSpecificRetailProduct"
+      },
+      "officialPairing": false,
+      "communityPairing": false,
+      "editorialPairing": true,
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "sakeId": "chokyu-tokusen-honjozo-catalog-v1",
+      "prefecture": "和歌山県",
+      "specialtyId": "wakayama-goma-dofu",
+      "confidence": "medium",
+      "pairingReason": "ごま豆腐の胡麻の旨味を、この酒の「旨味」と。なめらかな舌触りも楽しみたい小鉢です。",
+      "evidenceType": "editorialPairing",
+      "displayOrder": 2,
+      "sakeEvidence": {
+        "axis": "umami",
+        "feature": "旨味",
+        "sourceUrl": "https://www.nakano-group.co.jp/product/nihonshu01/",
+        "sourceType": "official",
+        "verifiedAt": "2026-10-18",
+        "meaning": "当該商品の説明を意味を足さず短縮。"
+      },
+      "specialtyEvidence": {
+        "feature": "胡麻の旨味となめらかな舌触り",
+        "meaning": "胡麻と葛などを練り上げる高野山ゆかりの精進料理。なめらかな舌触りと、胡麻の味を楽しむ一品です。",
+        "sourceUrls": [
+          "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/goma_toufu_wakayama.html",
+          "https://item.rakuten.co.jp/orgalife/gomadofu_10p/"
+        ],
+        "provenance": "regionalFoodCultureAndSpecificRetailProduct"
+      },
+      "officialPairing": false,
+      "communityPairing": false,
+      "editorialPairing": true,
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "sakeId": "hitorimusume-sayaka-tokubetsu-honjozo-catalog-v1",
+      "prefecture": "茨城県",
+      "specialtyId": "ibaraki-soboro-natto",
+      "confidence": "medium",
+      "pairingReason": "そぼろ納豆の発酵の風味に、この酒の「超辛口」を合わせて。大根の歯ごたえも楽しめる小皿です。",
+      "evidenceType": "editorialPairing",
+      "displayOrder": 1,
+      "sakeEvidence": {
+        "axis": "dry",
+        "feature": "超辛口",
+        "sourceUrl": "https://item.rakuten.co.jp/kuranosuke/3372/",
+        "sourceType": "rakuten_retail",
+        "verifiedAt": "2026-10-18",
+        "meaning": "当該商品の説明を意味を足さず短縮。"
+      },
+      "specialtyEvidence": {
+        "feature": "納豆の風味と割り干し大根の歯ごたえ",
+        "meaning": "納豆と割り干し大根を塩や醤油に漬け込む茨城の郷土食。大根の歯ごたえがアクセントになります。",
+        "sourceUrls": [
+          "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/soboronatto_ibaraki.html",
+          "https://item.rakuten.co.jp/nattouya/soboro/"
+        ],
+        "provenance": "regionalFoodCultureAndSpecificRetailProduct"
+      },
+      "officialPairing": false,
+      "communityPairing": false,
+      "editorialPairing": true,
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "sakeId": "wakitaya-tokubetsu-honjozo-catalog-v1",
+      "prefecture": "静岡県",
+      "specialtyId": "shizuoka-kuro-hanpen",
+      "confidence": "medium",
+      "pairingReason": "黒はんぺんをひと切れ、そのあとにこの酒の「淡麗」を。魚の味と酒の軽さを楽しむ組み合わせです。",
+      "evidenceType": "editorialPairing",
+      "displayOrder": 1,
+      "sakeEvidence": {
+        "axis": "clean",
+        "feature": "淡麗",
+        "sourceUrl": "https://www.izu-bandai.com/pages/wakitaya-tokubetsu-honjyouzo.html",
+        "sourceType": "official",
+        "verifiedAt": "2026-10-18",
+        "meaning": "当該商品の説明を意味を足さず短縮。"
+      },
+      "specialtyEvidence": {
+        "feature": "魚の味わいが詰まった練り物",
+        "meaning": "魚を皮や骨ごと使う静岡の黒はんぺん。選んだ商品は由比のさすぼし蒲鉾がつくる、いわし入りの真空パックです。",
+        "sourceUrls": [
+          "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/36_1_shizuoka.html",
+          "https://item.rakuten.co.jp/sasuboshi/kurohan4mai/"
+        ],
+        "provenance": "regionalFoodCultureAndSpecificRetailProduct"
+      },
+      "officialPairing": false,
+      "communityPairing": false,
+      "editorialPairing": true,
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "sakeId": "suehiro-yamahai-junmai-ginjo-catalog-v1",
+      "prefecture": "福島県",
+      "specialtyId": "fukushima-ika-ninjin",
+      "confidence": "medium",
+      "pairingReason": "いかにんじんのするめの旨味を、この酒の「柔らかな米の旨味」と一緒に。細切りの人参をつまみながら、ゆっくり飲む夜に。",
+      "evidenceType": "editorialPairing",
+      "displayOrder": 1,
+      "sakeEvidence": {
+        "axis": "umami",
+        "feature": "柔らかな米の旨味",
+        "sourceUrl": "https://item.rakuten.co.jp/hamadaya/1907041824/",
+        "sourceType": "specialty_retailer",
+        "verifiedAt": "2026-10-18",
+        "meaning": "当該商品の説明を意味を足さず短縮。"
+      },
+      "specialtyEvidence": {
+        "feature": "するめの旨味と甘口の醤油だれ",
+        "meaning": "細切りのするめと人参を醤油だれに漬けた福島の郷土料理。するめの旨味と人参の食感が楽しめます。",
+        "sourceUrls": [
+          "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/30_1_fukushima.html",
+          "https://item.rakuten.co.jp/kikukoh-foods/datenoikaninjin140g/"
+        ],
+        "provenance": "regionalFoodCultureAndSpecificRetailProduct"
+      },
+      "officialPairing": false,
+      "communityPairing": false,
+      "editorialPairing": true,
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "sakeId": "suehiro-yamahai-junmai-ginjo-catalog-v1",
+      "prefecture": "福島県",
+      "specialtyId": "fukushima-nishin-sanshozuke",
+      "confidence": "medium",
+      "pairingReason": "にしんの山椒漬けを小さく切って、この酒の「柔らかな米の旨味」と。魚の味と酢の酸味を、酒と交互に楽しむなら。",
+      "evidenceType": "editorialPairing",
+      "displayOrder": 2,
+      "sakeEvidence": {
+        "axis": "umami",
+        "feature": "柔らかな米の旨味",
+        "sourceUrl": "https://item.rakuten.co.jp/hamadaya/1907041824/",
+        "sourceType": "specialty_retailer",
+        "verifiedAt": "2026-10-18",
+        "meaning": "当該商品の説明を意味を足さず短縮。"
+      },
+      "specialtyEvidence": {
+        "feature": "山椒の香りと酢漬けの酸味",
+        "meaning": "身欠きにしんを山椒とともに漬ける会津の保存食。選んだ商品は天然ポン酢を使った酢漬けです。",
+        "sourceUrls": [
+          "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/30_3_fukushima.html",
+          "https://item.rakuten.co.jp/auc-nimaruya/nisin-001/"
+        ],
+        "provenance": "regionalFoodCultureAndSpecificRetailProduct"
+      },
+      "officialPairing": false,
+      "communityPairing": false,
+      "editorialPairing": true,
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "sakeId": "hachitsuru-junmai-ginjo-catalog-v1",
+      "prefecture": "青森県",
+      "specialtyId": "aomori-ichigoni",
+      "confidence": "medium",
+      "pairingReason": "いちご煮の魚介の旨味に、この酒の「ふくよかな旨味」を重ねて。汁も少しずつ味わいたい組み合わせです。",
+      "evidenceType": "editorialPairing",
+      "displayOrder": 1,
+      "sakeEvidence": {
+        "axis": "umami",
+        "feature": "ふくよかな旨味",
+        "sourceUrl": "https://item.rakuten.co.jp/cepdor/hatiturujyunnmai/",
+        "sourceType": "specialty_retailer",
+        "verifiedAt": "2026-10-18",
+        "meaning": "当該商品の説明を意味を足さず短縮。"
+      },
+      "specialtyEvidence": {
+        "feature": "魚介の旨味と潮の香り",
+        "meaning": "ウニやアワビなどの魚介を汁で味わう、八戸周辺の郷土料理。缶詰でも親しまれています。",
+        "sourceUrls": [
+          "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/ichigoni_aomori.html",
+          "https://item.rakuten.co.jp/quickfactory/r001060/"
+        ],
+        "provenance": "regionalFoodCultureAndSpecificRetailProduct"
+      },
+      "officialPairing": false,
+      "communityPairing": false,
+      "editorialPairing": true,
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "sakeId": "gonin-musume-junmai-catalog-v1",
+      "prefecture": "千葉県",
+      "specialtyId": "chiba-peanut-miso",
+      "confidence": "medium",
+      "pairingReason": "落花生味噌の甘みを、この酒の「やわらかな米の甘味」と合わせて。少し甘い小皿をつまみたい夜に。",
+      "evidenceType": "editorialPairing",
+      "displayOrder": 1,
+      "sakeEvidence": {
+        "axis": "sweet",
+        "feature": "やわらかな米の甘味",
+        "sourceUrl": "https://www.teradahonke.co.jp/c/all/sake/gd18",
+        "sourceType": "official",
+        "verifiedAt": "2026-10-18",
+        "meaning": "当該商品の説明を意味を足さず短縮。"
+      },
+      "specialtyEvidence": {
+        "feature": "落花生の甘じょっぱい味噌味",
+        "meaning": "千葉県産の落花生を味噌で甘じょっぱく仕上げた一品。選んだ商品は手でつまみやすい、ぱらりとしたタイプです。",
+        "sourceUrls": [
+          "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/rakkasei_miso_chiba.html",
+          "https://item.rakuten.co.jp/tomura/temiso525/"
+        ],
+        "provenance": "regionalFoodCultureAndSpecificRetailProduct"
+      },
+      "officialPairing": false,
+      "communityPairing": false,
+      "editorialPairing": true,
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "sakeId": "obasute-masamune-junmai-karakuchi-catalog-v1",
+      "prefecture": "長野県",
+      "specialtyId": "nagano-nozawana",
+      "confidence": "medium",
+      "pairingReason": "野沢菜漬のシャキッとした歯ごたえに、この酒の「軽快」を。ごはんの小鉢を晩酌にも添えて。",
+      "evidenceType": "editorialPairing",
+      "displayOrder": 1,
+      "sakeEvidence": {
+        "axis": "clean",
+        "feature": "軽快",
+        "sourceUrl": "https://www.obasute.co.jp/?p=1942",
+        "sourceType": "official",
+        "verifiedAt": "2026-10-18",
+        "meaning": "当該商品の説明を意味を足さず短縮。"
+      },
+      "specialtyEvidence": {
+        "feature": "野沢菜の歯ごたえと発酵の風味",
+        "meaning": "信州の食卓に根付く野沢菜漬。選んだ商品は木島平で乳酸発酵させ、低温で熟成した250g入りです。",
+        "sourceUrls": [
+          "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/nozawana_zuke_nagano.html",
+          "https://item.rakuten.co.jp/okamoto-tukemono/nozawana_hondukuri250g_900250/"
+        ],
+        "provenance": "regionalFoodCultureAndSpecificRetailProduct"
+      },
+      "officialPairing": false,
+      "communityPairing": false,
+      "editorialPairing": true,
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "sakeId": "masumi-kuro-lineup-v1",
+      "prefecture": "長野県",
+      "specialtyId": "nagano-nozawana",
+      "confidence": "medium",
+      "pairingReason": "野沢菜漬の発酵の風味を、この酒の「酸味」と。切って小鉢に盛り、酒と交互に少しずつ。",
+      "evidenceType": "editorialPairing",
+      "displayOrder": 1,
+      "sakeEvidence": {
+        "axis": "acid",
+        "feature": "酸味",
+        "sourceUrl": "https://www.masumi.co.jp/product/kuro",
+        "sourceType": "official",
+        "verifiedAt": "2026-10-20",
+        "meaning": "澄んだ旨みに、酸とほろ苦さが重なる漆黒。軽さだけでは終わらない、食卓の純米吟醸です。"
+      },
+      "specialtyEvidence": {
+        "feature": "野沢菜の歯ごたえと発酵の風味",
+        "meaning": "信州の食卓に根付く野沢菜漬。選んだ商品は木島平で乳酸発酵させ、低温で熟成した250g入りです。",
+        "sourceUrls": [
+          "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/nozawana_zuke_nagano.html",
+          "https://item.rakuten.co.jp/okamoto-tukemono/nozawana_hondukuri250g_900250/"
+        ],
+        "provenance": "regionalFoodCultureAndSpecificRetailProduct"
+      },
+      "officialPairing": false,
+      "communityPairing": false,
+      "editorialPairing": true,
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "sakeId": "masumi-shiro-lineup-v1",
+      "prefecture": "長野県",
+      "specialtyId": "nagano-nozawana",
+      "confidence": "medium",
+      "pairingReason": "野沢菜漬のシャキッとした歯ごたえに、この酒の「軽快」を。ごはんの小鉢を晩酌にも添えて。",
+      "evidenceType": "editorialPairing",
+      "displayOrder": 1,
+      "sakeEvidence": {
+        "axis": "clean",
+        "feature": "軽快",
+        "sourceUrl": "https://www.masumi.co.jp/product/shiro",
+        "sourceType": "official",
+        "verifiedAt": "2026-10-20",
+        "meaning": "やわらかな口当たりに、お米の旨み。アルコール12度の、軽やかに味わえる白妙です。"
+      },
+      "specialtyEvidence": {
+        "feature": "野沢菜の歯ごたえと発酵の風味",
+        "meaning": "信州の食卓に根付く野沢菜漬。選んだ商品は木島平で乳酸発酵させ、低温で熟成した250g入りです。",
+        "sourceUrls": [
+          "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/nozawana_zuke_nagano.html",
+          "https://item.rakuten.co.jp/okamoto-tukemono/nozawana_hondukuri250g_900250/"
+        ],
+        "provenance": "regionalFoodCultureAndSpecificRetailProduct"
+      },
+      "officialPairing": false,
+      "communityPairing": false,
+      "editorialPairing": true,
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "sakeId": "masumi-kaya-lineup-v1",
+      "prefecture": "長野県",
+      "specialtyId": "nagano-nozawana",
+      "confidence": "medium",
+      "pairingReason": "野沢菜漬の発酵の風味を、この酒の「酸味」と。切って小鉢に盛り、酒と交互に少しずつ。",
+      "evidenceType": "editorialPairing",
+      "displayOrder": 1,
+      "sakeEvidence": {
+        "axis": "acid",
+        "feature": "酸味",
+        "sourceUrl": "https://www.masumi.co.jp/product/kaya",
+        "sourceType": "official",
+        "verifiedAt": "2026-10-20",
+        "meaning": "米の旨みを素直に味わう、14度の純米酒。温めると深まる味を、コクのある一皿と。"
+      },
+      "specialtyEvidence": {
+        "feature": "野沢菜の歯ごたえと発酵の風味",
+        "meaning": "信州の食卓に根付く野沢菜漬。選んだ商品は木島平で乳酸発酵させ、低温で熟成した250g入りです。",
+        "sourceUrls": [
+          "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/nozawana_zuke_nagano.html",
+          "https://item.rakuten.co.jp/okamoto-tukemono/nozawana_hondukuri250g_900250/"
+        ],
+        "provenance": "regionalFoodCultureAndSpecificRetailProduct"
+      },
+      "officialPairing": false,
+      "communityPairing": false,
+      "editorialPairing": true,
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "sakeId": "daishichi-kaiden-lineup-v1",
+      "prefecture": "福島県",
+      "specialtyId": "fukushima-ika-ninjin",
+      "confidence": "medium",
+      "pairingReason": "いかにんじんのするめの旨味を、この酒の「豊かなコク」と一緒に。細切りの人参をつまみながら、ゆっくり飲む夜に。",
+      "evidenceType": "editorialPairing",
+      "displayOrder": 1,
+      "sakeEvidence": {
+        "axis": "umami",
+        "feature": "豊かなコク",
+        "sourceUrl": "https://www.daishichi.com/sake/kaiden.html",
+        "sourceType": "official",
+        "verifiedAt": "2026-10-20",
+        "meaning": "生酛のコクと熟成感を、吟醸のまとまりで。少し冷やしても、ぬる燗でも味わえる皆伝です。"
+      },
+      "specialtyEvidence": {
+        "feature": "するめの旨味と甘口の醤油だれ",
+        "meaning": "細切りのするめと人参を醤油だれに漬けた福島の郷土料理。するめの旨味と人参の食感が楽しめます。",
+        "sourceUrls": [
+          "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/30_1_fukushima.html",
+          "https://item.rakuten.co.jp/kikukoh-foods/datenoikaninjin140g/"
+        ],
+        "provenance": "regionalFoodCultureAndSpecificRetailProduct"
+      },
+      "officialPairing": false,
+      "communityPairing": false,
+      "editorialPairing": true,
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "sakeId": "daishichi-kaiden-lineup-v1",
+      "prefecture": "福島県",
+      "specialtyId": "fukushima-nishin-sanshozuke",
+      "confidence": "medium",
+      "pairingReason": "にしんの山椒漬けを小さく切って、この酒の「豊かなコク」と。魚の味と酢の酸味を、酒と交互に楽しむなら。",
+      "evidenceType": "editorialPairing",
+      "displayOrder": 2,
+      "sakeEvidence": {
+        "axis": "umami",
+        "feature": "豊かなコク",
+        "sourceUrl": "https://www.daishichi.com/sake/kaiden.html",
+        "sourceType": "official",
+        "verifiedAt": "2026-10-20",
+        "meaning": "生酛のコクと熟成感を、吟醸のまとまりで。少し冷やしても、ぬる燗でも味わえる皆伝です。"
+      },
+      "specialtyEvidence": {
+        "feature": "山椒の香りと酢漬けの酸味",
+        "meaning": "身欠きにしんを山椒とともに漬ける会津の保存食。選んだ商品は天然ポン酢を使った酢漬けです。",
+        "sourceUrls": [
+          "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/30_3_fukushima.html",
+          "https://item.rakuten.co.jp/auc-nimaruya/nisin-001/"
+        ],
+        "provenance": "regionalFoodCultureAndSpecificRetailProduct"
+      },
+      "officialPairing": false,
+      "communityPairing": false,
+      "editorialPairing": true,
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "sakeId": "dewazakura-ichiko-lineup-v1",
+      "prefecture": "山形県",
+      "specialtyId": "yamagata-omizuke",
+      "confidence": "medium",
+      "pairingReason": "おみ漬の刻み野菜をつまみながら、この酒の「爽やかな酸味」を。塩気のある小鉢と、酒の軽さを楽しむ組み合わせです。",
+      "evidenceType": "editorialPairing",
+      "displayOrder": 1,
+      "sakeEvidence": {
+        "axis": "clean",
+        "feature": "爽やかな酸味",
+        "sourceUrl": "https://www.dewazakura.co.jp/item/cat06/ikko.html",
+        "sourceType": "official",
+        "verifiedAt": "2026-10-20",
+        "meaning": "穏やかな飲み口の中に、重なる米の旨み。まろやかさと爽やかな酸が釣り合う、通年の特別純米です。"
+      },
+      "specialtyEvidence": {
+        "feature": "刻んだ青菜と野菜の塩気",
+        "meaning": "山形青菜や大根、人参を細かく刻んだ漬物。小鉢に少し盛って、晩ごはんのお供にも。",
+        "sourceUrls": [
+          "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/omizuke_yamagata.html",
+          "https://item.rakuten.co.jp/orgale/moy-004/"
+        ],
+        "provenance": "regionalFoodCultureAndSpecificRetailProduct"
+      },
+      "officialPairing": false,
+      "communityPairing": false,
+      "editorialPairing": true,
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "sakeId": "nanbubijin-jg-lineup-v1",
+      "prefecture": "岩手県",
+      "specialtyId": "iwate-suki-kombu",
+      "confidence": "medium",
+      "pairingReason": "水で戻したすき昆布を小鉢にして、この酒の「キレ」と。やわらかな歯ごたえを楽しみながら、軽くつまみたい夜に。",
+      "evidenceType": "editorialPairing",
+      "displayOrder": 1,
+      "sakeEvidence": {
+        "axis": "clean",
+        "feature": "キレ",
+        "sourceUrl": "https://www.nanbubijin.jp/shopdetail/000000000014/ct7/page1/price/",
+        "sourceType": "official_shop",
+        "verifiedAt": "2026-10-20",
+        "meaning": "やさしい米の甘みに、繊細な旨み。吟醸香を感じながら、後味はきれよく楽しめる純米吟醸です。"
+      },
+      "specialtyEvidence": {
+        "feature": "戻した昆布のやわらかな歯ごたえ",
+        "meaning": "若い昆布を細く切って乾燥させた、三陸のすき昆布。水で戻し、煮物やサラダの小鉢に。",
+        "sourceUrls": [
+          "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/28_5_iwate.html",
+          "https://item.rakuten.co.jp/satsumakaisan/sukikonbu-001/"
+        ],
+        "provenance": "regionalFoodCultureAndSpecificRetailProduct"
+      },
+      "officialPairing": false,
+      "communityPairing": false,
+      "editorialPairing": true,
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "sakeId": "kikumasamune-kaho-lineup-v1",
+      "prefecture": "兵庫県",
+      "specialtyId": "hyogo-ikanago-kugini",
+      "confidence": "medium",
+      "pairingReason": "イカナゴのくぎ煮の甘辛さに、この酒の「コク」を。小さな魚を少しずつつまむ晩酌に。",
+      "evidenceType": "editorialPairing",
+      "displayOrder": 1,
+      "sakeEvidence": {
+        "axis": "umami",
+        "feature": "コク",
+        "sourceUrl": "https://www.kikumasamune.co.jp/products/kaho/",
+        "sourceType": "official",
+        "verifiedAt": "2026-10-20",
+        "meaning": "立体感のあるコクに、穏やかな酸の余韻。山田錦を38%まで磨き、宮水で醸した嘉宝です。"
+      },
+      "specialtyEvidence": {
+        "feature": "生姜を加えたイカナゴの甘辛さ",
+        "meaning": "イカナゴを醤油や砂糖、生姜で甘辛く炊く瀬戸内の郷土料理。少量で味わえる、小さな魚の佃煮です。",
+        "sourceUrls": [
+          "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/40_1_hyogo.html",
+          "https://item.rakuten.co.jp/boulan-/100000294/"
+        ],
+        "provenance": "regionalFoodCultureAndSpecificRetailProduct"
+      },
+      "officialPairing": false,
+      "communityPairing": false,
+      "editorialPairing": true,
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "sakeId": "okunomatsu-adatara-lineup-v1",
+      "prefecture": "福島県",
+      "specialtyId": "fukushima-ika-ninjin",
+      "confidence": "medium",
+      "pairingReason": "甘口の醤油だれで仕上げたいかにんじんに、この酒の「辛口」を。甘辛い小皿と酒の味の違いを楽しむ提案です。",
+      "evidenceType": "editorialPairing",
+      "displayOrder": 1,
+      "sakeEvidence": {
+        "axis": "dry",
+        "feature": "辛口",
+        "sourceUrl": "https://www.okunomatsu.co.jp/product-page/ginjo11205",
+        "sourceType": "official_shop",
+        "verifiedAt": "2026-10-20",
+        "meaning": "安達太良山の伏流水で仕込む、毎日の吟醸。冷やしても常温でも、ぬる燗でも楽しめる辛口です。"
+      },
+      "specialtyEvidence": {
+        "feature": "するめの旨味と甘口の醤油だれ",
+        "meaning": "細切りのするめと人参を醤油だれに漬けた福島の郷土料理。するめの旨味と人参の食感が楽しめます。",
+        "sourceUrls": [
+          "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/30_1_fukushima.html",
+          "https://item.rakuten.co.jp/kikukoh-foods/datenoikaninjin140g/"
+        ],
+        "provenance": "regionalFoodCultureAndSpecificRetailProduct"
+      },
+      "officialPairing": false,
+      "communityPairing": false,
+      "editorialPairing": true,
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "sakeId": "okunomatsu-jg-lineup-v1",
+      "prefecture": "福島県",
+      "specialtyId": "fukushima-ika-ninjin",
+      "confidence": "medium",
+      "pairingReason": "いかにんじんのするめの旨味を、この酒の「旨味」と一緒に。細切りの人参をつまみながら、ゆっくり飲む夜に。",
+      "evidenceType": "editorialPairing",
+      "displayOrder": 1,
+      "sakeEvidence": {
+        "axis": "umami",
+        "feature": "旨味",
+        "sourceUrl": "https://www.okunomatsu.co.jp/product-page/yusa",
+        "sourceType": "official_shop",
+        "verifiedAt": "2026-10-20",
+        "meaning": "爽やかな香りに、飲み飽きない旨み。常温を中心に、料理とゆっくり楽しみたい遊佐です。"
+      },
+      "specialtyEvidence": {
+        "feature": "するめの旨味と甘口の醤油だれ",
+        "meaning": "細切りのするめと人参を醤油だれに漬けた福島の郷土料理。するめの旨味と人参の食感が楽しめます。",
+        "sourceUrls": [
+          "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/30_1_fukushima.html",
+          "https://item.rakuten.co.jp/kikukoh-foods/datenoikaninjin140g/"
+        ],
+        "provenance": "regionalFoodCultureAndSpecificRetailProduct"
+      },
+      "officialPairing": false,
+      "communityPairing": false,
+      "editorialPairing": true,
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "sakeId": "okunomatsu-jg-lineup-v1",
+      "prefecture": "福島県",
+      "specialtyId": "fukushima-nishin-sanshozuke",
+      "confidence": "medium",
+      "pairingReason": "にしんの山椒漬けを小さく切って、この酒の「旨味」と。魚の味と酢の酸味を、酒と交互に楽しむなら。",
+      "evidenceType": "editorialPairing",
+      "displayOrder": 2,
+      "sakeEvidence": {
+        "axis": "umami",
+        "feature": "旨味",
+        "sourceUrl": "https://www.okunomatsu.co.jp/product-page/yusa",
+        "sourceType": "official_shop",
+        "verifiedAt": "2026-10-20",
+        "meaning": "爽やかな香りに、飲み飽きない旨み。常温を中心に、料理とゆっくり楽しみたい遊佐です。"
+      },
+      "specialtyEvidence": {
+        "feature": "山椒の香りと酢漬けの酸味",
+        "meaning": "身欠きにしんを山椒とともに漬ける会津の保存食。選んだ商品は天然ポン酢を使った酢漬けです。",
+        "sourceUrls": [
+          "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/30_3_fukushima.html",
+          "https://item.rakuten.co.jp/auc-nimaruya/nisin-001/"
+        ],
+        "provenance": "regionalFoodCultureAndSpecificRetailProduct"
+      },
+      "officialPairing": false,
+      "communityPairing": false,
+      "editorialPairing": true,
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "sakeId": "ozeki-gokuama-lineup-v1",
+      "prefecture": "兵庫県",
+      "specialtyId": "hyogo-ikanago-kugini",
+      "confidence": "medium",
+      "pairingReason": "イカナゴのくぎ煮の甘辛さに、この酒の「コク」を。小さな魚を少しずつつまむ晩酌に。",
+      "evidenceType": "editorialPairing",
+      "displayOrder": 1,
+      "sakeEvidence": {
+        "axis": "umami",
+        "feature": "コク",
+        "sourceUrl": "https://www.ozeki.co.jp/product/nihonshu/sweetmomentgokuama/",
+        "sourceType": "official",
+        "verifiedAt": "2026-10-20",
+        "meaning": "日本酒度-50の、濃厚な甘口。米由来のコクと、果実のようなほのかな香りを楽しむ一杯です。"
+      },
+      "specialtyEvidence": {
+        "feature": "生姜を加えたイカナゴの甘辛さ",
+        "meaning": "イカナゴを醤油や砂糖、生姜で甘辛く炊く瀬戸内の郷土料理。少量で味わえる、小さな魚の佃煮です。",
+        "sourceUrls": [
+          "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/40_1_hyogo.html",
+          "https://item.rakuten.co.jp/boulan-/100000294/"
+        ],
+        "provenance": "regionalFoodCultureAndSpecificRetailProduct"
+      },
+      "officialPairing": false,
+      "communityPairing": false,
+      "editorialPairing": true,
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "sakeId": "ozeki-karatanba-lineup-v1",
+      "prefecture": "兵庫県",
+      "specialtyId": "hyogo-ikanago-kugini",
+      "confidence": "medium",
+      "pairingReason": "イカナゴのくぎ煮の甘辛さに、この酒の「旨味」を。小さな魚を少しずつつまむ晩酌に。",
+      "evidenceType": "editorialPairing",
+      "displayOrder": 1,
+      "sakeEvidence": {
+        "axis": "umami",
+        "feature": "旨味",
+        "sourceUrl": "https://www.ozeki.co.jp/product/nihonshu/karatanba_josen/",
+        "sourceType": "official",
+        "verifiedAt": "2026-10-20",
+        "meaning": "きりっとした辛口に、旨みも感じる辛丹波。丹波杜氏の技で醸す、本醸造の定番です。"
+      },
+      "specialtyEvidence": {
+        "feature": "生姜を加えたイカナゴの甘辛さ",
+        "meaning": "イカナゴを醤油や砂糖、生姜で甘辛く炊く瀬戸内の郷土料理。少量で味わえる、小さな魚の佃煮です。",
+        "sourceUrls": [
+          "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/40_1_hyogo.html",
+          "https://item.rakuten.co.jp/boulan-/100000294/"
+        ],
+        "provenance": "regionalFoodCultureAndSpecificRetailProduct"
+      },
+      "officialPairing": false,
+      "communityPairing": false,
+      "editorialPairing": true,
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "sakeId": "gekkeikan-nigori-lineup-v1",
+      "prefecture": "京都府",
+      "specialtyId": "kyoto-shibazuke",
+      "confidence": "medium",
+      "pairingReason": "しば漬けの酸味に、この酒の「爽やかな酸味」を合わせて。赤しその香りも楽しみながら、小皿をつまむ夜に。",
+      "evidenceType": "editorialPairing",
+      "displayOrder": 1,
+      "sakeEvidence": {
+        "axis": "acid",
+        "feature": "爽やかな酸味",
+        "sourceUrl": "https://www.gekkeikan.co.jp/products/type06/nigori/",
+        "sourceType": "official",
+        "verifiedAt": "2026-10-20",
+        "meaning": "もろみの食感と、やさしい甘酸っぱさ。ライトな飲み口のにごり酒を、冷やして料理と。"
+      },
+      "specialtyEvidence": {
+        "feature": "赤しその香りと発酵の酸味",
+        "meaning": "茄子や胡瓜をしそと塩で漬ける京の漬物。赤しその色と、発酵による酸味が持ち味です。",
+        "sourceUrls": [
+          "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/shibazuke_kyoto.html",
+          "https://item.rakuten.co.jp/nishiri/10000060/"
+        ],
+        "provenance": "regionalFoodCultureAndSpecificRetailProduct"
+      },
+      "officialPairing": false,
+      "communityPairing": false,
+      "editorialPairing": true,
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "sakeId": "kamotsuru-jg-lineup-v1",
+      "prefecture": "広島県",
+      "specialtyId": "hiroshima-kaki-doteyaki",
+      "confidence": "medium",
+      "pairingReason": "かきの土手鍋の味噌味に、この酒の「酸味」を合わせて。煮物の濃さと酒の酸味の違いを楽しむ提案です。",
+      "evidenceType": "editorialPairing",
+      "displayOrder": 1,
+      "sakeEvidence": {
+        "axis": "acid",
+        "feature": "酸味",
+        "sourceUrl": "https://shop.kamotsuru.jp/SHOP/itteki720.html",
+        "sourceType": "official_shop",
+        "verifiedAt": "2026-10-20",
+        "meaning": "穏やかな香りと、ほどよい酸。冷やしても燗でも楽しめる、やわらかな純米吟醸です。"
+      },
+      "specialtyEvidence": {
+        "feature": "牡蠣と味噌の重なる味わい",
+        "meaning": "広島のかきの土手鍋を、家庭でつまみやすい缶詰に。選んだ商品は広島産の牡蠣を府中味噌などで煮ています。",
+        "sourceUrls": [
+          "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/42_4_hiroshima.html",
+          "https://item.rakuten.co.jp/setouchilemon-nouen/kakinodotenabe/"
+        ],
+        "provenance": "regionalFoodCultureAndSpecificRetailProduct"
+      },
+      "officialPairing": false,
+      "communityPairing": false,
+      "editorialPairing": true,
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "sakeId": "matsunokotobuki-omachi-hiire-current-v1",
+      "prefecture": "栃木県",
+      "specialtyId": "tochigi-agemaki-yuba",
+      "confidence": "medium",
+      "pairingReason": "揚巻湯波をだしで煮含めて、この酒の「軽快な酸味」と。煮汁を含んだやわらかい湯波を、ゆっくり味わう夜に。",
+      "evidenceType": "editorialPairing",
+      "displayOrder": 1,
+      "sakeEvidence": {
+        "axis": "clean",
+        "feature": "軽快な酸味",
+        "sourceUrl": "https://www.jizake.com/c/sake/matsui/ns460005m00",
+        "sourceType": "specialistRetailer",
+        "verifiedAt": "2026-10-20",
+        "meaning": "雄町のふくらみを、軽快な酸が引き締める一杯。穏やかな香りとやわらかな口当たりを楽しむ、火入れの純米吟醸です。"
+      },
+      "specialtyEvidence": {
+        "feature": "煮汁を含んだ湯波のやわらかさ",
+        "meaning": "日光の湯波を巻いて揚げた揚巻湯波。油抜きして好みのだしで煮含める、調理用の商品です。",
+        "sourceUrls": [
+          "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/31_16_tochigi.html",
+          "https://item.rakuten.co.jp/miltaku/80193/"
+        ],
+        "provenance": "regionalFoodCultureAndSpecificRetailProduct"
+      },
+      "officialPairing": false,
+      "communityPairing": false,
+      "editorialPairing": true,
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "sakeId": "matsunokotobuki-omachi-hiire-current-v1",
+      "prefecture": "栃木県",
+      "specialtyId": "tochigi-shimotsukare",
+      "confidence": "medium",
+      "pairingReason": "しもつかれの鮭や野菜の味を、この酒の「ふくらみのある旨味」と。酒粕の入った煮物を、いつもの晩酌の小鉢に。",
+      "evidenceType": "editorialPairing",
+      "displayOrder": 2,
+      "sakeEvidence": {
+        "axis": "umami",
+        "feature": "ふくらみのある旨味",
+        "sourceUrl": "https://www.jizake.com/c/sake/matsui/ns460005m00",
+        "sourceType": "specialistRetailer",
+        "verifiedAt": "2026-10-20",
+        "meaning": "雄町のふくらみを、軽快な酸が引き締める一杯。穏やかな香りとやわらかな口当たりを楽しむ、火入れの純米吟醸です。"
+      },
+      "specialtyEvidence": {
+        "feature": "酒粕を加えた鮭と野菜の煮物",
+        "meaning": "鮭や大根、大豆などを酒粕と煮る栃木の郷土料理。冬や初午に受け継がれてきた、家庭ごとの味です。",
+        "sourceUrls": [
+          "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/31_1_tochigi.html",
+          "https://item.rakuten.co.jp/monmiya/70003323/"
+        ],
+        "provenance": "regionalFoodCultureAndSpecificRetailProduct"
+      },
+      "officialPairing": false,
+      "communityPairing": false,
+      "editorialPairing": true,
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "sakeId": "fukuiwai-yamada50-junmai-ginjo-current-v1",
+      "prefecture": "千葉県",
+      "specialtyId": "chiba-peanut-miso",
+      "confidence": "medium",
+      "pairingReason": "落花生味噌の甘じょっぱさに、この酒の「淡麗辛口」を。数粒ずつつまみ、味噌と酒の違いを楽しむ晩酌に。",
+      "evidenceType": "editorialPairing",
+      "displayOrder": 1,
+      "sakeEvidence": {
+        "axis": "dry",
+        "feature": "淡麗辛口",
+        "sourceUrl": "https://item.rakuten.co.jp/sake-makino/10008-09-8207-1/",
+        "sourceType": "rakuten_retail",
+        "verifiedAt": "2026-10-20",
+        "meaning": "心地よい吟醸香と、すっきりした飲み口。山田錦を50％まで磨いた、蔵でも人気の純米吟醸です。"
+      },
+      "specialtyEvidence": {
+        "feature": "落花生の甘じょっぱい味噌味",
+        "meaning": "千葉県産の落花生を味噌で甘じょっぱく仕上げた一品。選んだ商品は手でつまみやすい、ぱらりとしたタイプです。",
+        "sourceUrls": [
+          "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/rakkasei_miso_chiba.html",
+          "https://item.rakuten.co.jp/tomura/temiso525/"
+        ],
+        "provenance": "regionalFoodCultureAndSpecificRetailProduct"
+      },
+      "officialPairing": false,
+      "communityPairing": false,
+      "editorialPairing": true,
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "sakeId": "ryusei-muku-omachi-kimoto-current-v1",
+      "prefecture": "広島県",
+      "specialtyId": "hiroshima-kaki-doteyaki",
+      "confidence": "medium",
+      "pairingReason": "かきの土手鍋の牡蠣と味噌を、この酒の「旨味」と。温かい煮物の小皿を添えて飲みたい夜に。",
+      "evidenceType": "editorialPairing",
+      "displayOrder": 1,
+      "sakeEvidence": {
+        "axis": "umami",
+        "feature": "旨味",
+        "sourceUrl": "https://www.fujiishuzou.com/products/muku",
+        "sourceType": "official",
+        "verifiedAt": "2026-10-20",
+        "meaning": "常温で感じる旨みの芯が、温めるとふくらむ。雄町を蔵の微生物で醸す、力強い味わいの純米酒です。"
+      },
+      "specialtyEvidence": {
+        "feature": "牡蠣と味噌の重なる味わい",
+        "meaning": "広島のかきの土手鍋を、家庭でつまみやすい缶詰に。選んだ商品は広島産の牡蠣を府中味噌などで煮ています。",
+        "sourceUrls": [
+          "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/42_4_hiroshima.html",
+          "https://item.rakuten.co.jp/setouchilemon-nouen/kakinodotenabe/"
+        ],
+        "provenance": "regionalFoodCultureAndSpecificRetailProduct"
+      },
+      "officialPairing": false,
+      "communityPairing": false,
+      "editorialPairing": true,
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "sakeId": "kameman-nigori-genshu-current-v1",
+      "prefecture": "熊本県",
+      "specialtyId": "kumamoto-tofu-misozuke",
+      "confidence": "medium",
+      "pairingReason": "豆腐の味噌漬けの味噌の風味を、この酒の「コク」と。薄く切り分け、少量で楽しむ晩酌に。",
+      "evidenceType": "editorialPairing",
+      "displayOrder": 1,
+      "sakeEvidence": {
+        "axis": "umami",
+        "feature": "コク",
+        "sourceUrl": "https://www.kameman.co.jp/products/detail.php?product_id=89",
+        "sourceType": "official",
+        "verifiedAt": "2026-10-20",
+        "meaning": "もろみの米粒を感じる、甘みとほどよい酸。冷やして、ロックでも楽しめる、亀萬のロングセラーです。"
+      },
+      "specialtyEvidence": {
+        "feature": "豆腐に染みた味噌の風味",
+        "meaning": "豆腐を味噌に漬けて保存してきた熊本の山里の味。少しずつ切り、発酵の風味を楽しむ一品です。",
+        "sourceUrls": [
+          "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/toufuno_misozuke_kumamoto.html",
+          "https://item.rakuten.co.jp/umaimon-hunter/tkuc-tmsdm-0000-nm-003/"
+        ],
+        "provenance": "regionalFoodCultureAndSpecificRetailProduct"
+      },
+      "officialPairing": false,
+      "communityPairing": false,
+      "editorialPairing": true,
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "sakeId": "kameman-nigori-genshu-current-v1",
+      "prefecture": "熊本県",
+      "specialtyId": "kumamoto-karashi-renkon",
+      "confidence": "medium",
+      "pairingReason": "からし蓮根のからし味噌を、この酒の「コク」と合わせて。辛味があるので、少量を添える小皿に。",
+      "evidenceType": "editorialPairing",
+      "displayOrder": 2,
+      "sakeEvidence": {
+        "axis": "umami",
+        "feature": "コク",
+        "sourceUrl": "https://www.kameman.co.jp/products/detail.php?product_id=89",
+        "sourceType": "official",
+        "verifiedAt": "2026-10-20",
+        "meaning": "もろみの米粒を感じる、甘みとほどよい酸。冷やして、ロックでも楽しめる、亀萬のロングセラーです。"
+      },
+      "specialtyEvidence": {
+        "feature": "からし味噌のつんとした辛味",
+        "meaning": "蓮根にからし味噌を詰め、衣をつけて揚げる熊本の郷土料理。薄く切って楽しむ、辛味のある一皿です。",
+        "sourceUrls": [
+          "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/karashi_renkon_kumamoto.html",
+          "https://item.rakuten.co.jp/lmt-shop/f054x2/"
+        ],
+        "provenance": "regionalFoodCultureAndSpecificRetailProduct"
+      },
+      "officialPairing": false,
+      "communityPairing": false,
+      "editorialPairing": true,
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "sakeId": "hiokizakura-tokujo-junmai-omachi-current-v1",
+      "prefecture": "鳥取県",
+      "specialtyId": "tottori-tofu-chikuwa",
+      "confidence": "medium",
+      "pairingReason": "とうふちくわの豆腐の香りと、この酒の「黒糖を思わせる香り」を少しずつ。強い味付けをせず、香りの違いを楽しむ提案です。",
+      "evidenceType": "editorialPairing",
+      "displayOrder": 1,
+      "sakeEvidence": {
+        "axis": "aroma",
+        "feature": "黒糖を思わせる香り",
+        "sourceUrl": "https://hiokizakura.jp/sake/sake_general",
+        "sourceType": "official",
+        "verifiedAt": "2026-10-20",
+        "meaning": "黒糖を思わせる香りと甘み、伸びやかな余韻。雄町を使った特醸純米を、味のある一皿とゆっくり。"
+      },
+      "specialtyEvidence": {
+        "feature": "豆腐のほのかな香り",
+        "meaning": "豆腐と魚のすり身を合わせて蒸す鳥取のとうふちくわ。豆腐の香りを感じる、繊細な味わいの練り物です。",
+        "sourceUrls": [
+          "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/toufu_chikuwa_tottori.html",
+          "https://item.rakuten.co.jp/en-musubi/10000971/"
+        ],
+        "provenance": "regionalFoodCultureAndSpecificRetailProduct"
+      },
+      "officialPairing": false,
+      "communityPairing": false,
+      "editorialPairing": true,
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "sakeId": "shinshu-kirei-inakura-hitogokochi-junmai-ginjo-current-v1",
+      "prefecture": "長野県",
+      "specialtyId": "nagano-nozawana",
+      "confidence": "medium",
+      "pairingReason": "野沢菜漬の発酵の風味を、この酒の「酸味」と。切って小鉢に盛り、酒と交互に少しずつ。",
+      "evidenceType": "editorialPairing",
+      "displayOrder": 1,
+      "sakeEvidence": {
+        "axis": "acid",
+        "feature": "酸味",
+        "sourceUrl": "https://item.rakuten.co.jp/sake-ichibun/10007456/",
+        "sourceType": "rakuten_retail",
+        "verifiedAt": "2026-10-22",
+        "meaning": "爽やかな香りと、軽快な口当たり。稲倉の棚田産ひとごこちで醸す、甘みと酸が調和した純米吟醸です。"
+      },
+      "specialtyEvidence": {
+        "feature": "野沢菜の歯ごたえと発酵の風味",
+        "meaning": "信州の食卓に根付く野沢菜漬。選んだ商品は木島平で乳酸発酵させ、低温で熟成した250g入りです。",
+        "sourceUrls": [
+          "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/nozawana_zuke_nagano.html",
+          "https://item.rakuten.co.jp/okamoto-tukemono/nozawana_hondukuri250g_900250/"
+        ],
+        "provenance": "regionalFoodCultureAndSpecificRetailProduct"
+      },
+      "officialPairing": false,
+      "communityPairing": false,
+      "editorialPairing": true,
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "sakeId": "mimurosugi-kioke-bodaimoto-jishaden-current-v1",
+      "prefecture": "奈良県",
+      "specialtyId": "nara-narazuke",
+      "confidence": "medium",
+      "pairingReason": "奈良漬の酒粕の風味に、この酒の「旨味」を重ねて。胡瓜を薄く切り、少量から楽しむ小皿に。",
+      "evidenceType": "editorialPairing",
+      "displayOrder": 1,
+      "sakeEvidence": {
+        "axis": "umami",
+        "feature": "旨味",
+        "sourceUrl": "https://item.rakuten.co.jp/bisyugakou/ms010-n72/",
+        "sourceType": "rakuten_retail",
+        "verifiedAt": "2026-10-22",
+        "meaning": "白桃を思わせる香りに、じわりと広がる旨み。木桶と菩提もとで醸す、酸と長い余韻を楽しむみむろ杉です。"
+      },
+      "specialtyEvidence": {
+        "feature": "酒粕が染み込んだ胡瓜の風味",
+        "meaning": "塩漬けした野菜を酒粕に漬け込む奈良の伝統食。選んだ商品は胡瓜の奈良漬で、酒粕の風味を楽しめます。",
+        "sourceUrls": [
+          "https://www.maff.go.jp/j/keikaku/syokubunka/traditional-foods/menu/naraduke.html",
+          "https://item.rakuten.co.jp/naranokoto/1031-80000843/"
+        ],
+        "provenance": "regionalFoodCultureAndSpecificRetailProduct"
+      },
+      "officialPairing": false,
+      "communityPairing": false,
+      "editorialPairing": true,
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "sakeId": "shirakiku-ginshari-tokubetsu-junmai-current-v1",
+      "prefecture": "京都府",
+      "specialtyId": "kyoto-shibazuke",
+      "confidence": "medium",
+      "pairingReason": "しば漬けの酸味に、この酒の「酸味」を合わせて。赤しその香りも楽しみながら、小皿をつまむ夜に。",
+      "evidenceType": "editorialPairing",
+      "displayOrder": 1,
+      "sakeEvidence": {
+        "axis": "acid",
+        "feature": "酸味",
+        "sourceUrl": "https://sake-shirakiku.jp/products/silver",
+        "sourceType": "official",
+        "verifiedAt": "2026-10-22",
+        "meaning": "キリッとした辛口に、ほどよい酸。丹後のササニシキで醸す、料理と一緒に楽しみたい銀シャリです。"
+      },
+      "specialtyEvidence": {
+        "feature": "赤しその香りと発酵の酸味",
+        "meaning": "茄子や胡瓜をしそと塩で漬ける京の漬物。赤しその色と、発酵による酸味が持ち味です。",
+        "sourceUrls": [
+          "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/shibazuke_kyoto.html",
+          "https://item.rakuten.co.jp/nishiri/10000060/"
+        ],
+        "provenance": "regionalFoodCultureAndSpecificRetailProduct"
+      },
+      "officialPairing": false,
+      "communityPairing": false,
+      "editorialPairing": true,
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "sakeId": "kagura-nojoho-junmai-ginjo-nama-current-v1",
+      "prefecture": "京都府",
+      "specialtyId": "kyoto-suguki",
+      "confidence": "medium",
+      "pairingReason": "すぐき漬けの発酵の酸味を、この酒の「米の旨味」と。根と葉を切り分け、味の違いを楽しむ小鉢に。",
+      "evidenceType": "editorialPairing",
+      "displayOrder": 1,
+      "sakeEvidence": {
+        "axis": "umami",
+        "feature": "米の旨味",
+        "sourceUrl": "https://item.rakuten.co.jp/hoshigulf/4530731780033/",
+        "sourceType": "rakuten_retail",
+        "verifiedAt": "2026-10-22",
+        "meaning": "白ブドウやパイナップルを思わせる香りに、シャープな辛口。野条穂の旨みを楽しむ、無濾過・無加水の生酒です。"
+      },
+      "specialtyEvidence": {
+        "feature": "乳酸発酵による酸味",
+        "meaning": "すぐき菜を塩で漬け、発酵させる京都の伝統漬物。根と葉を一緒に味わえる、酸味のある一品です。",
+        "sourceUrls": [
+          "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/sugukizuke_kyoto.html",
+          "https://item.rakuten.co.jp/nishiri/10000005/"
+        ],
+        "provenance": "regionalFoodCultureAndSpecificRetailProduct"
+      },
+      "officialPairing": false,
+      "communityPairing": false,
+      "editorialPairing": true,
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "sakeId": "kurumazaka-yamahai-akiagari-2019by-current-v1",
+      "prefecture": "和歌山県",
+      "specialtyId": "wakayama-goma-dofu",
+      "confidence": "medium",
+      "pairingReason": "ごま豆腐の胡麻の旨味を、この酒の「旨味」と。なめらかな舌触りも楽しみたい小鉢です。",
+      "evidenceType": "editorialPairing",
+      "displayOrder": 1,
+      "sakeEvidence": {
+        "axis": "umami",
+        "feature": "旨味",
+        "sourceUrl": "https://item.rakuten.co.jp/kishuuitibanya/ns-604/",
+        "sourceType": "rakuten_retail",
+        "verifiedAt": "2026-10-22",
+        "meaning": "地下蔵で瓶熟成を重ねた、2019BYの秋あがり。円熟した旨みと酸、滑らかな後味をゆっくり楽しむ山廃純米です。"
+      },
+      "specialtyEvidence": {
+        "feature": "胡麻の旨味となめらかな舌触り",
+        "meaning": "胡麻と葛などを練り上げる高野山ゆかりの精進料理。なめらかな舌触りと、胡麻の味を楽しむ一品です。",
+        "sourceUrls": [
+          "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/goma_toufu_wakayama.html",
+          "https://item.rakuten.co.jp/orgalife/gomadofu_10p/"
+        ],
+        "provenance": "regionalFoodCultureAndSpecificRetailProduct"
+      },
+      "officialPairing": false,
+      "communityPairing": false,
+      "editorialPairing": true,
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "sakeId": "kurumazaka-yamahai-akiagari-2019by-current-v1",
+      "prefecture": "和歌山県",
+      "specialtyId": "wakayama-kinzanji-miso",
+      "confidence": "medium",
+      "pairingReason": "金山寺味噌の甘口の味噌味に、この酒の「旨味」を。野菜に少し添えながら飲む晩酌に。",
+      "evidenceType": "editorialPairing",
+      "displayOrder": 2,
+      "sakeEvidence": {
+        "axis": "umami",
+        "feature": "旨味",
+        "sourceUrl": "https://item.rakuten.co.jp/kishuuitibanya/ns-604/",
+        "sourceType": "rakuten_retail",
+        "verifiedAt": "2026-10-22",
+        "meaning": "地下蔵で瓶熟成を重ねた、2019BYの秋あがり。円熟した旨みと酸、滑らかな後味をゆっくり楽しむ山廃純米です。"
+      },
+      "specialtyEvidence": {
+        "feature": "野菜の入った甘口の味噌味",
+        "meaning": "麦や米、大豆のこうじに野菜を加える紀州の金山寺味噌。調味用というより、そのまま食べるおかず味噌です。",
+        "sourceUrls": [
+          "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/kinzanji_miso_wakayama.html",
+          "https://item.rakuten.co.jp/bunza/4968001102504/"
+        ],
+        "provenance": "regionalFoodCultureAndSpecificRetailProduct"
+      },
+      "officialPairing": false,
+      "communityPairing": false,
+      "editorialPairing": true,
+      "checkedAt": "2026-10-23"
     }
   ]
 }

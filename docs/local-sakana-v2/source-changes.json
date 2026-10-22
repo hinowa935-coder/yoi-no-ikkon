@@ -1,0 +1,22 @@
+{
+  "reviewed": true,
+  "sourceCommit": "24febe194c36ead121964400bbdc5214903aafb4",
+  "authorizedByAttachment": "404987cd-8242-4855-aa3f-d9ca81e67029",
+  "changes": [
+    {
+      "file": "src/specialties/master.json",
+      "beforeSha256": "e64363729c1546857a09b6b2c41a298f4cef12f05cbd281f8b8e30753858780f",
+      "afterSha256": "c2a958a641e18a83cc84d95efb89ba5e3718f75f58b1a9cd5999d8a75483993c"
+    },
+    {
+      "file": "src/specialties/pairings.json",
+      "beforeSha256": "53a2523c53a9a99f78dfe4a0c93f88f35b375c2068b6c27340bbcbebb2fdf15e",
+      "afterSha256": "ca47a7f0c45e03553def311064933976a0cb858bc74d9046707fe3b2c97070ab"
+    },
+    {
+      "file": "src/commerce/localSakana.json",
+      "beforeSha256": "9d747bab2f390aa769b5a5f65510b6e8edfe278663240a1f31df4cf99b22e164",
+      "afterSha256": "eeda44014f3448c3cf721e48cd12527b44e4470d0b49480b0dd125f8c74d8559"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "checkedAt": "2026-10-22T16:21:25.552Z",
+  "scan": {
+    "scannedFiles": 9003,
+    "unreadableFiles": 0,
+    "findings": [],
+    "passed": true,
+    "configuredValuesChecked": [
+      "applicationId",
+      "accessKey",
+      "affiliateId"
+    ],
+    "limitation": null
+  },
+  "envIgnored": true,
+  "envTracked": false,
+  "sourceChanges": [
+    "src/commerce/localSakana.json",
+    "src/specialties/master.json",
+    "src/specialties/pairings.json"
+  ],
+  "cspChanged": false,
+  "dependenciesChanged": false,
+  "piiTelemetryChanged": false,
+  "passed": true
+}

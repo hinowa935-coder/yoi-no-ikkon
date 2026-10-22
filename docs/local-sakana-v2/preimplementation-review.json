@@ -1,0 +1,26 @@
+{
+  "checkedAt": "2026-10-22T16:15:25.441Z",
+  "active": 484,
+  "researchPrefectures": 47,
+  "candidates": 291,
+  "acceptedNew": 45,
+  "held": 246,
+  "rejected": 0,
+  "master": 67,
+  "displaySpecialties": 65,
+  "displaySake": 255,
+  "displayPairings": 352,
+  "storedPairings": 352,
+  "newPairings": 173,
+  "high": 0,
+  "medium": 352,
+  "low": 0,
+  "commerce": 67,
+  "formalImages": 67,
+  "displayCounts": {
+    "0": 229,
+    "1": 158,
+    "2": 97,
+    "3": 0
+  }
+}
