@@ -1,0 +1,2617 @@
+{
+  "commit": "167ed5b8899d3ea6a7bc6f53267b3a9cfc8533c4",
+  "productionSitemapActive": 484,
+  "files": [
+    {
+      "path": "package-lock.json",
+      "sha256": "129139dae5fa70b438cd179d5a084957060e2d7c2fb3854abc7fccfa2e60be79"
+    },
+    {
+      "path": "package.json",
+      "sha256": "74732a53924318c56b9a4b0a97e2cf5eec4558fff163939270a9c1368f87ea3e"
+    },
+    {
+      "path": "public/favicon-v24.svg",
+      "sha256": "4bb2e4b8ab6fb213c73a408334bd0327f565193e2296befee92d95b99eca446a"
+    },
+    {
+      "path": "public/favicon.svg",
+      "sha256": "4bb2e4b8ab6fb213c73a408334bd0327f565193e2296befee92d95b99eca446a"
+    },
+    {
+      "path": "public/icons/apple-touch-icon-v24.png",
+      "sha256": "08be9f50ab012e5bd9c975f949b20e99da5fe6e832e6a4f3e77658259b016f4a"
+    },
+    {
+      "path": "public/icons/apple-touch-icon.png",
+      "sha256": "08be9f50ab012e5bd9c975f949b20e99da5fe6e832e6a4f3e77658259b016f4a"
+    },
+    {
+      "path": "public/icons/favicon-32-v24.png",
+      "sha256": "458e6056cb30ca9cad4652bb69278f8fb1c86acf873c8682ac2aeee210de38ee"
+    },
+    {
+      "path": "public/icons/favicon-32.png",
+      "sha256": "458e6056cb30ca9cad4652bb69278f8fb1c86acf873c8682ac2aeee210de38ee"
+    },
+    {
+      "path": "public/icons/icon-192-v24.png",
+      "sha256": "718d2e57cc05c24839c2fce56ee781e62b3f11be12fb59070570aa3f2b6ded73"
+    },
+    {
+      "path": "public/icons/icon-192.png",
+      "sha256": "718d2e57cc05c24839c2fce56ee781e62b3f11be12fb59070570aa3f2b6ded73"
+    },
+    {
+      "path": "public/icons/icon-512-v24.png",
+      "sha256": "e4880f126c689e80f4d9df66f0340a0c931feece580044ec2b0b3372566cd295"
+    },
+    {
+      "path": "public/icons/icon-512.png",
+      "sha256": "e4880f126c689e80f4d9df66f0340a0c931feece580044ec2b0b3372566cd295"
+    },
+    {
+      "path": "public/icons/icon-source.svg",
+      "sha256": "4bb2e4b8ab6fb213c73a408334bd0327f565193e2296befee92d95b99eca446a"
+    },
+    {
+      "path": "public/icons/maskable-192-v24.png",
+      "sha256": "718d2e57cc05c24839c2fce56ee781e62b3f11be12fb59070570aa3f2b6ded73"
+    },
+    {
+      "path": "public/icons/maskable-192.png",
+      "sha256": "718d2e57cc05c24839c2fce56ee781e62b3f11be12fb59070570aa3f2b6ded73"
+    },
+    {
+      "path": "public/icons/maskable-512-v24.png",
+      "sha256": "e4880f126c689e80f4d9df66f0340a0c931feece580044ec2b0b3372566cd295"
+    },
+    {
+      "path": "public/icons/maskable-512.png",
+      "sha256": "e4880f126c689e80f4d9df66f0340a0c931feece580044ec2b0b3372566cd295"
+    },
+    {
+      "path": "public/images/ochoko-moon-crescent.png",
+      "sha256": "881c942f902dc6607eb7eecaa1375d51f80c5ca34b268fb273d6f01a9551d2fe"
+    },
+    {
+      "path": "public/images/ochoko-moon-reflection-only.png",
+      "sha256": "b52bbd50926e393af763ac73c993fa4c1464a0330e131d69986b62e74403e2cb"
+    },
+    {
+      "path": "public/images/ochoko-moon.png",
+      "sha256": "cfd4f707cbc962d1a213cf74e8d9404ab47fa33ea0976c001ae64a01e4900a87"
+    },
+    {
+      "path": "public/manifest.webmanifest",
+      "sha256": "ef440a721c7c8334b7a739201a4f275acd7526877d346d69fb156b83c52e2714"
+    },
+    {
+      "path": "public/og-default.svg",
+      "sha256": "2ab5209eb1e46f61d5aa55b4875aa23e607f391ae1a48b3f6fe003d5fbd7f24c"
+    },
+    {
+      "path": "public/sw.js",
+      "sha256": "ea92196b5dea8a270a431239f479fe4d3e01c014bd48eb1558faac1bc2ccbf9e"
+    },
+    {
+      "path": "src/app/about/advertising/page.jsx",
+      "sha256": "b0f2be9c08be2f7c26b070d485aa6d91637695bb564da9f573f4fb6a54600df2"
+    },
+    {
+      "path": "src/app/about/content.js",
+      "sha256": "c2795ec654b6b7aaf7bcb388a92ca731918d9adf9951241b9414818494a04b64"
+    },
+    {
+      "path": "src/app/about/page.jsx",
+      "sha256": "c4365c6368e95eeb2508a3c86a499dba5d87a3cde9f1ff525fb80218309e3347"
+    },
+    {
+      "path": "src/app/components/AffiliateCommerce.jsx",
+      "sha256": "c7c9a1003a44089976fefd246ad79280d5bf9e0a6990580f04d1616e6440d3ed"
+    },
+    {
+      "path": "src/app/components/AffiliateTracker.jsx",
+      "sha256": "23f5be31fa55340e0fc0b46f3df4ab5f66145ce0c3b90324da0674d8e081ce46"
+    },
+    {
+      "path": "src/app/components/ChoiceIcon.jsx",
+      "sha256": "f09c7bb6467ed629bd13d31df80626feac38caf27d9878c9290ff866e2003130"
+    },
+    {
+      "path": "src/app/components/CommerceMediaProvider.jsx",
+      "sha256": "e034951d2ec3c00b5700ec07b9ee9388b0c64b27325d70f4380d540e4665e0a1"
+    },
+    {
+      "path": "src/app/components/DailyPick.jsx",
+      "sha256": "4622ea6bd444f95be8e240f633d44875790ffd55abbb0e23cc6d74b603e1b739"
+    },
+    {
+      "path": "src/app/components/DetailAccordion.jsx",
+      "sha256": "aee68ca36037893fe821d3dc6023c56d7798bce4f25600231c93c031e0950929"
+    },
+    {
+      "path": "src/app/components/DiscoveryFlow.jsx",
+      "sha256": "4b22b3ce1c85116288e41197ae9e6259a53027354094512ef7edd8c23d648473"
+    },
+    {
+      "path": "src/app/components/DiscoveryQueryFlow.jsx",
+      "sha256": "da72c49cadb879853c126565d1562fa8726e3aecd7f410e3ecd3aff2dfd727c2"
+    },
+    {
+      "path": "src/app/components/DiscoverySakeCard.jsx",
+      "sha256": "61665049e42ce851832df330f941f85fbdda7175139d8d3c7ef013aa81f0f813"
+    },
+    {
+      "path": "src/app/components/DiscoveryShell.jsx",
+      "sha256": "5940c6afabdc2c18a6b2ae7e6ff96c23f27fb8928a25f15a5297e0d83d8a6949"
+    },
+    {
+      "path": "src/app/components/FoodBrowser.jsx",
+      "sha256": "e1d7e479f3ae07c3a8554536f5fe126a2134f9549135839e666db61bb37a926e"
+    },
+    {
+      "path": "src/app/components/FoodExternalLink.jsx",
+      "sha256": "c8fb6fc7dc49d2606a24f536794108fa5d93245d522e2c0b891fded3b7d1506c"
+    },
+    {
+      "path": "src/app/components/HomeNightChoices.jsx",
+      "sha256": "3ae9bf382213f1cd651e2bde3ad555d11d4ee8cc194cf0ae36443c33d7767380"
+    },
+    {
+      "path": "src/app/components/HomeScreenGuide.jsx",
+      "sha256": "7d3924156d16b8eb73adf8111b04214cf5c73b22b62c00ad2df5273cf1a7055d"
+    },
+    {
+      "path": "src/app/components/InterfaceIcons.jsx",
+      "sha256": "8394e0e8ae645dad44d954d9ef4d5cdb3150c2b551ae15e47912525f522042ba"
+    },
+    {
+      "path": "src/app/components/LegacySearchRedirect.jsx",
+      "sha256": "808cfca9e7c453f5a25c4683281fc57ad070ac8aaeb839d0bc7fcefa916530b4"
+    },
+    {
+      "path": "src/app/components/LocalSakana.jsx",
+      "sha256": "63a0e341786fae66fe4314a94594fa1138e81a9759f72acf210a6257cc9c2f61"
+    },
+    {
+      "path": "src/app/components/Ochoko.jsx",
+      "sha256": "830a32c986edefa04219ab635b6358790467a167a36b42ac6515364cfcd45529"
+    },
+    {
+      "path": "src/app/components/OchokoList.jsx",
+      "sha256": "39680d0a43a5a2c6cb093261d2f9b362e139c89abcce546c98cf9b25370dde2a"
+    },
+    {
+      "path": "src/app/components/PairingPending.jsx",
+      "sha256": "0b0f19c9a14f5c1ad3f641dadd7e83fdeef35afc1d7aa79f0496632f9ff1e4ed"
+    },
+    {
+      "path": "src/app/components/PrimaryNavigation.jsx",
+      "sha256": "101d7723b481e09122dbf6f109eb5387201606d3cfa041251f2904f4622ef5bc"
+    },
+    {
+      "path": "src/app/components/ProductWindow.jsx",
+      "sha256": "c858b8a4ef07551f965f8b5e76865e49ac4c224557f477d2437fedf03065dbb3"
+    },
+    {
+      "path": "src/app/components/PwaRegister.jsx",
+      "sha256": "b0f52d2ae4825e11aff87a4566fda484152a40753bc1dd750bc36b51051835a6"
+    },
+    {
+      "path": "src/app/components/RakutenCredit.jsx",
+      "sha256": "21896da0adf23d6411bcb12fcbfc179d0be5eb73216382e0ad1915021529ace0"
+    },
+    {
+      "path": "src/app/components/RecipeLinks.jsx",
+      "sha256": "25dadf30590a6696933c0e74954f669de36584b18d570043417d956f75050fd7"
+    },
+    {
+      "path": "src/app/components/RecommendShare.jsx",
+      "sha256": "1fb059a0d2185c185515914e8f63e6ba09dec5e0792d1d66139829542654fc4c"
+    },
+    {
+      "path": "src/app/components/SakeCardPreview.jsx",
+      "sha256": "a2aa461e672653de26100074cfff07bb04ca77f736f2b2dad1b67b71b4d0d321"
+    },
+    {
+      "path": "src/app/components/SakeDiscoveryContext.jsx",
+      "sha256": "7c5b7e35dec3c17e1c5100df1e3cda3b7f40e73dcea9d047113a1e0bd571045a"
+    },
+    {
+      "path": "src/app/components/SakeSearch.jsx",
+      "sha256": "39a606f3b5fb6064b67b214952c4d941bb0d2d6fc22847b9d45946229831ffd2"
+    },
+    {
+      "path": "src/app/components/SeasonalNightLinks.jsx",
+      "sha256": "e9b1fbfcbd10f2520caa3455aabe44504e8140517ca39abcb7b6419d347aee5f"
+    },
+    {
+      "path": "src/app/components/ServingGuide.jsx",
+      "sha256": "4b1751da69f1145a54d924ae6c730111baeeeb1e4552f51a7b903952e1a932e8"
+    },
+    {
+      "path": "src/app/components/ShareButton.jsx",
+      "sha256": "bde9b279919349d477dbbd9d28edecd24b22ab0487c789c57cf8dd82fcd9476c"
+    },
+    {
+      "path": "src/app/components/SiteFooter.jsx",
+      "sha256": "e4cf0de7a74d8143609660d270aff1bd9558c28069c1c8b6e9195087a626051a"
+    },
+    {
+      "path": "src/app/components/SpecialtyLinks.jsx",
+      "sha256": "38b13d36c960cd77e77ca955c1c67855ec3ac160308bfdb45a27ef0c226229cc"
+    },
+    {
+      "path": "src/app/components/TrackedExternalLink.jsx",
+      "sha256": "e861ac1d3ac9e847208df2673f287c0891d84b4c65e362e1c96cb7e4d221c64e"
+    },
+    {
+      "path": "src/app/components/TrackedLink.jsx",
+      "sha256": "bacdbf3593e4a050a63b04ac912a48ee817f2e574db599f5527569d541c7338f"
+    },
+    {
+      "path": "src/app/components/discoveryLocation.js",
+      "sha256": "0926ffa505d23af3a7058bfc83b611fc431bc31763d5fddb0a2d21f028d68fbb"
+    },
+    {
+      "path": "src/app/components/foodLocation.js",
+      "sha256": "daba821b46e96695a23ce6a6948bd1a1deb71f782742e0ee87ba1a86dffd5553"
+    },
+    {
+      "path": "src/app/components/navigationModel.js",
+      "sha256": "f15e365e0e557a1977c05466711de7d085ed59ae5c6481a5da9848bdb53c6d42"
+    },
+    {
+      "path": "src/app/components/searchLocation.js",
+      "sha256": "00899a36581b95dfaa0e7ebd4d770884125ad671d0ea6082056bb0997400abe4"
+    },
+    {
+      "path": "src/app/components/useCurrentTokyoDay.js",
+      "sha256": "f7e57c4eb5ccc65a5079e2e9b4f4f1bdd8806d79417653e4808015ed8ce2ddc4"
+    },
+    {
+      "path": "src/app/discover/page.jsx",
+      "sha256": "ab5f95c205e891dae0542e0c6b90621c80befb2ee9c36ec8054afe13f26c4b5b"
+    },
+    {
+      "path": "src/app/food/[slug]/page.jsx",
+      "sha256": "f053febac11181dce4fcf983eb2be49a769568871f8e8ef3871bb7bb16499878"
+    },
+    {
+      "path": "src/app/food/page.jsx",
+      "sha256": "cb0556628e69a7da4e438dc920aee9fadcc936e9cafc0dcbfa7a053317f79582"
+    },
+    {
+      "path": "src/app/globals.css",
+      "sha256": "746fd6641eb264e2a0912bf84835d24718a0b0a4ed96404f2de8664d90f22037"
+    },
+    {
+      "path": "src/app/layout.jsx",
+      "sha256": "78a84d42ed3b002647e9cdc2e50d8399a08c5906bc82462f46e346f9ad6f648d"
+    },
+    {
+      "path": "src/app/night/[slug]/page.jsx",
+      "sha256": "d818fa6ff72999c20f20af50fb7687b367b1c4dc531130b13e8855c2bf6bfe2a"
+    },
+    {
+      "path": "src/app/nights/[slug]/page.jsx",
+      "sha256": "d467a681afed6d72886b6bd871bf4989ea89449d44681885f85771a671e75c9b"
+    },
+    {
+      "path": "src/app/not-found.jsx",
+      "sha256": "5eb1eaae7bbaa73e96a4383ab5e9803a8acd3ec5477f0acfe2f057a757e6d0e9"
+    },
+    {
+      "path": "src/app/ochoko/page.jsx",
+      "sha256": "eddc8aba2045418d998b0af338626dc68c343d44a775c1148dd5d2f4f0242ac4"
+    },
+    {
+      "path": "src/app/page.jsx",
+      "sha256": "3025d34f66789c82d0e467b4bf15c5cebfe704679898f32ea5399d012d8600ac"
+    },
+    {
+      "path": "src/app/robots.js",
+      "sha256": "571449d7c98877b4a3287f7236ff7a9f2743a91a5ca59594c13ae0a3a1e4785a"
+    },
+    {
+      "path": "src/app/sake/[slug]/page.jsx",
+      "sha256": "3d5c994f6d86fe236193322b59b623c0a8f6c0f177adfa57a045450e9073bd5d"
+    },
+    {
+      "path": "src/app/search/page.jsx",
+      "sha256": "98e2a5b9e5eab74e25bbc2e4e5295cc5177ab67c66f52cba9dacec767891f7d5"
+    },
+    {
+      "path": "src/app/sitemap.js",
+      "sha256": "073f8e09803d1c76434d4c4f073551957fe625e07918eec340ec586e7a9ae75c"
+    },
+    {
+      "path": "src/catalog/operations.js",
+      "sha256": "e447a91659745cbcf560ec0e5f5cd3a2ee8ca118027aafff5862f7165baf4fdb"
+    },
+    {
+      "path": "src/catalog/seasonality.js",
+      "sha256": "5c4550c6664e5038c5093b202f91408dacd76fac54ce454367f260ce454d68fd"
+    },
+    {
+      "path": "src/catalog/shelfPolicy.json",
+      "sha256": "5b247fd0235bea6f06134e796a6cfcf92edd4cfea80b983acf0f2f2425c52255"
+    },
+    {
+      "path": "src/catalog/shelfUpdates.js",
+      "sha256": "4f1b0760ec968c2a0c31967283e681347ccb223dd9906141357283c67dac345a"
+    },
+    {
+      "path": "src/commerce/availability.js",
+      "sha256": "e61413b767af0940855aed3e74bbf86c8349e9ff77cadb33078e086d12de954c"
+    },
+    {
+      "path": "src/commerce/discovery.js",
+      "sha256": "248f962ea8fa1ead8710795feb8351543889e4f1986e7ee7efd56495a8b5b918"
+    },
+    {
+      "path": "src/commerce/entryTracking.js",
+      "sha256": "a96a556a936c913a6fe2bd1c3b9fe4f986ad9ba1c39b0fa6ec64c3eff3f26b33"
+    },
+    {
+      "path": "src/commerce/finalCommerce.js",
+      "sha256": "089dcdd5829b81fbe0959a3899c3fc86b576cfe13b64c76f14302098004d6720"
+    },
+    {
+      "path": "src/commerce/foodSpecialties.json",
+      "sha256": "d26b4d859a14c32d25e6d9378754046c2a50b6e71979f1a92071387ca8a76bec"
+    },
+    {
+      "path": "src/commerce/foodSpecialtyModel.js",
+      "sha256": "f617e30d6dbf4bd5921a22791742b70c70b3c117144c7277af763642ee921220"
+    },
+    {
+      "path": "src/commerce/generated/availability-holds.json",
+      "sha256": "1ab5f0acd3f1d87a68559aa52b923fa4e405f2d71863d51fdd401434b5c5f3ac"
+    },
+    {
+      "path": "src/commerce/generated/commerce-final-approvals.json",
+      "sha256": "14ffaadb55327d8b984a43107418b19f1cfd9a6957721d655e54cbc696cc071e"
+    },
+    {
+      "path": "src/commerce/generated/discovery-links.json",
+      "sha256": "533a1698fa6e6736a0c62267eebdb754b7e055f2705aafe70ed51e9011e6a27c"
+    },
+    {
+      "path": "src/commerce/generated/merchant-links.json",
+      "sha256": "73bc598206a9840b469c860fecbe72d48093e330b9f7c5eeba86d36aa62d29ca"
+    },
+    {
+      "path": "src/commerce/generated/product-media.json",
+      "sha256": "d326ebbff567c545437b96d21b39d462fdf125efa70f1d57cfd139f6523888cd"
+    },
+    {
+      "path": "src/commerce/generated/purchase-matches.json",
+      "sha256": "e874535bfe9cb4cf0568ef0a6f67b0a3be0992c9fa39d63ac1a2830ba745453a"
+    },
+    {
+      "path": "src/commerce/generated/replacement-ids.json",
+      "sha256": "02ea8067bc5aaf95d2386be86807a0d1518f39bec428e8379bb050abee0bcd2a"
+    },
+    {
+      "path": "src/commerce/localCommercial.js",
+      "sha256": "cd14baada5c8deccb3d083bf0e83e7da06df02c7c89c3e7ec1c4bdde1421cd11"
+    },
+    {
+      "path": "src/commerce/localPilot.js",
+      "sha256": "68f9427b6d3531d056a3d6b5b6827fe07e3fa0d1c22a565def269dca5fe4d96d"
+    },
+    {
+      "path": "src/commerce/localSakana.json",
+      "sha256": "eeda44014f3448c3cf721e48cd12527b44e4470d0b49480b0dd125f8c74d8559"
+    },
+    {
+      "path": "src/commerce/offerModel.js",
+      "sha256": "1554e43e59c78757087b1c9a83a5bc2f7e6c248327999342b4f392b95a6e1577"
+    },
+    {
+      "path": "src/commerce/productMedia.js",
+      "sha256": "672ec5f01563720f7c901cfdd8c0ba1a208137b76caa326ff5449cdb63a3fe6b"
+    },
+    {
+      "path": "src/commerce/providers.js",
+      "sha256": "e3fe8c56ca2b79514b0336a4310dac6f86129f2207b1201e7b47c4aaea4b67ef"
+    },
+    {
+      "path": "src/commerce/purchaseNotice.js",
+      "sha256": "a4d5623c0d95b8e15624243ec3f46bc11b7eb3684ac53502424e3fcbe39afc6e"
+    },
+    {
+      "path": "src/commerce/purchasePresentation.js",
+      "sha256": "0f9105901443fbe9f68a292cfe0811f122bb208b5784605ebfd464e7aba4aa34"
+    },
+    {
+      "path": "src/commerce/purchaseRouting.js",
+      "sha256": "9aa7391fce107dec0fe89ffe7952d7c40177e96e74af15e38395637c4e1a23b9"
+    },
+    {
+      "path": "src/commerce/rakuten-staged-links.json",
+      "sha256": "c5de132a858335b3205a468d3b73b2e4b6d24e9c91ff1a38260458673744267b"
+    },
+    {
+      "path": "src/commerce/rakutenActivation.js",
+      "sha256": "eb33f94c1bd597ea69dc4f50706a5235ca0f425e3c211689902e4588d2e49cae"
+    },
+    {
+      "path": "src/commerce/rakutenLifecycle.js",
+      "sha256": "804c6809f48bad47ef5c6b6a0ca490764f3712bf9b9646cb2deb4763dbfe13d4"
+    },
+    {
+      "path": "src/commerce/registry.json",
+      "sha256": "c9bc9a3a38afff0b6d55b348d8fd436838307deb0b49782846d5df96938a82b2"
+    },
+    {
+      "path": "src/commerce/release-approvals.json",
+      "sha256": "eee3c02620a9f8e5627bd47da32693bc1912a76d859d0d84494f2654f28f2c56"
+    },
+    {
+      "path": "src/commerce/searchOffers.js",
+      "sha256": "760c15a5fad68e63ee4c4e95c44141b0ca6b1f9bbda640c5624038b033f5bdf1"
+    },
+    {
+      "path": "src/commerce/server.js",
+      "sha256": "28dca1a2c2cf1f122b070e530225c054cd45f1ba6721494eeaaf173d3f6272a9"
+    },
+    {
+      "path": "src/commerce/skuPolicy.js",
+      "sha256": "1222f68a85af84ec1858f8993b750f8e028ddfb56f0610f76646939526d9a0cc"
+    },
+    {
+      "path": "src/commerce/tracking.js",
+      "sha256": "2615058044f1d415978989af182c2608aade7af1da7a67073b757252cd96ea3d"
+    },
+    {
+      "path": "src/commerce/validation.js",
+      "sha256": "82c0f89914991abf179d0adebac982255e9d8711786b6cffddab81bd381002f3"
+    },
+    {
+      "path": "src/data/cardPresentation.js",
+      "sha256": "0217ab51ae9c9a8bd5087e5e4c39104a78836d13d0ca2dd918a8df35213fc582"
+    },
+    {
+      "path": "src/data/catalogAdditions.json",
+      "sha256": "7f0814daf0d25ce7fa613e83a2d7ba08ab4bbd0ceb24a4f735809a6edd4e566a"
+    },
+    {
+      "path": "src/data/catalogLifecycle.json",
+      "sha256": "6ba032b4bea5efa6de19d5dc17f5c6596c148b2c422f421e4915817eb16c8141"
+    },
+    {
+      "path": "src/data/detailDisclosure.js",
+      "sha256": "d2d320c9afe3549ccf7df3b34d1cf058b2c6706e7a9809969b567367e4dc8a71"
+    },
+    {
+      "path": "src/data/detailPresentation.js",
+      "sha256": "30fbd31e71f92a90087b5a7afdac8516dca5ccdf8da48bda41d5edc60eb42ce0"
+    },
+    {
+      "path": "src/data/discovery.js",
+      "sha256": "d7dc53c21b6ff20bfb09ed62a895d0f9fcae910f8d2f235fb955e62e5007762a"
+    },
+    {
+      "path": "src/data/discoveryCatalog.json",
+      "sha256": "f9289f9a405112930aa93cc594093762c85572d0248b4e8a59ff6afd0274c8c1"
+    },
+    {
+      "path": "src/data/discoveryContext.js",
+      "sha256": "70c2ceae798300aea488f01cf5ae79d91e4012aa8c5338536f141f962de6e7a4"
+    },
+    {
+      "path": "src/data/discoveryNights.js",
+      "sha256": "f2ad1d11b4fe0bc6c7c108a81094423069c00733c373e451ea68c32c5732284f"
+    },
+    {
+      "path": "src/data/editorialNightAssignments.js",
+      "sha256": "ec0218d25398a3eb9c8bbe0d362d7f17e2c1a913af53a285a538fc2f359fbedd"
+    },
+    {
+      "path": "src/data/extraSakePairings.js",
+      "sha256": "2bd1084d2c6372dd1e7804db48855fea17efbf131b8ee21f199e15ac644aa90e"
+    },
+    {
+      "path": "src/data/favoriteReferences.js",
+      "sha256": "020be9b2b1c616c1aca2b0446695ad4b9d34336c3184a332222aa748365bb3a5"
+    },
+    {
+      "path": "src/data/favoriteReferences.json",
+      "sha256": "53d2c5c48d0047328fe0484e1638dcb6f3caaac8336cbe30e80b60cd7962cdad"
+    },
+    {
+      "path": "src/data/foodBrowsing.js",
+      "sha256": "bf02d5dfb78c22bbced520141113d4ec85d239a4d44cf33cdce897a4a7f13777"
+    },
+    {
+      "path": "src/data/foodCatalog.js",
+      "sha256": "2c5e6957ecb38114a45dfdf0689f53d078ec76576ca0989d8e510e38fda75a08"
+    },
+    {
+      "path": "src/data/foodCatalog.json",
+      "sha256": "360a291841fe60cdc7ffdad001999843832f7a708670c1357e225a24b0965a23"
+    },
+    {
+      "path": "src/data/groundedPairingCopy.js",
+      "sha256": "509a506ad4f37bf211420dcdc2c8973b027c2836541fbfb56840e4abc6ff7795"
+    },
+    {
+      "path": "src/data/highExposurePairingCopy.js",
+      "sha256": "ef809ac7513590cc45bb2b1a241fa14afb31f66f46c8c0dd6917663cbdc5b122"
+    },
+    {
+      "path": "src/data/highExposurePairingOverrides.json",
+      "sha256": "6be15a8aab6174eabe3c1c83ace2cf51de69548be72761229279666193f14ab6"
+    },
+    {
+      "path": "src/data/legacySiteData.js",
+      "sha256": "7619844e5ad242050a31cac2b2b56e677c70622da7fcaccaae27771575107780"
+    },
+    {
+      "path": "src/data/nightAffinity.js",
+      "sha256": "5d52822913b47e7c58381ce6cc324469240acf8f51d6f71a61d0b8838f2ef73f"
+    },
+    {
+      "path": "src/data/pairingCopy.js",
+      "sha256": "763a672c3677d9ee78942c3dbe2541c7331e5ebf8e67524eb8918f1a5b200621"
+    },
+    {
+      "path": "src/data/pairingReasonOverrides.json",
+      "sha256": "b47607d09a2a68d21770677c12aeb92df9852018fd309fe54e15c168a8e524b3"
+    },
+    {
+      "path": "src/data/prefectureSakeCandidates.js",
+      "sha256": "d010db3376b05033db396ced808a55ef38538d2f96395afdd36091770997c5ee"
+    },
+    {
+      "path": "src/data/publicDisplay.js",
+      "sha256": "a79f243e4a4f442bd8bbe8259c6d4279b48f7215c2e3dd7c866d9279b3cb0dd8"
+    },
+    {
+      "path": "src/data/researchSchema.js",
+      "sha256": "9152728055cd5348e3a0428fc85bea2a26205d37143a5fe66f8d067b1551c2d3"
+    },
+    {
+      "path": "src/data/sakeIntroduction.js",
+      "sha256": "abafb097fb0b8f1a031eb3457b3f33f67d8963dac0f11e2bdff868f49218cc62"
+    },
+    {
+      "path": "src/data/sakePairingReview.js",
+      "sha256": "d99c208b7dbc0a0c18760edf545b60078cc252250c3b6b8a1f81587ae0cdd258"
+    },
+    {
+      "path": "src/data/sakePairings.js",
+      "sha256": "ebd4d3ebdc6beafe60d2da6249e25ae0850627248efc00e73beef177e8016f49"
+    },
+    {
+      "path": "src/data/sakeResearchPhase1.js",
+      "sha256": "c5c24329cd71ff7c6b6b7bfcd2f4f71e4f446484ae2a6191ac1135f6e4b56a67"
+    },
+    {
+      "path": "src/data/sakeResearchPhase2.js",
+      "sha256": "e9076ccfb88b1edaacc63b3d98826366a9d16bee226fe9ab9f3712727d7dbbec"
+    },
+    {
+      "path": "src/data/sakeResearchPhase21.js",
+      "sha256": "e3abbd912bf58f4d8be877591d137a6acf9633b630d83af270bba9f4ae6a77a9"
+    },
+    {
+      "path": "src/data/sakeResearchPhase3.js",
+      "sha256": "d32f9b588a50469a37bc6f017f9162fde9b541b9284efa3859fb0783a1f506d3"
+    },
+    {
+      "path": "src/data/sakeResearchPhase3Data.json",
+      "sha256": "f1d54bf164c4924282b5020a88c4a322baf0f6df3dcd73da9c8e0041992c8f93"
+    },
+    {
+      "path": "src/data/sakeResearchRecovery.js",
+      "sha256": "efa8677087bb9fae5cee3f55960cca3456b7144452dea2c716ca5b62b94de6dc"
+    },
+    {
+      "path": "src/data/sakeResearchRecoveryData.json",
+      "sha256": "8c41c5e71b5d77513749fa27c1cdf065fa6f7d8b48a3669107b16380a2518bba"
+    },
+    {
+      "path": "src/data/searchFacets.js",
+      "sha256": "806e1e68c1309d0c932133b0649ed9f21662ee1146cc844127b497798ba4e98c"
+    },
+    {
+      "path": "src/data/searchFiltering.js",
+      "sha256": "14a08bbad3f3c0a0d564aaec4a7f6ee7cdd0c9a07738e68242853ab6bd08a60c"
+    },
+    {
+      "path": "src/data/searchSelections.js",
+      "sha256": "e84555573ceb678578dd7838b371b738893023c97a0450cec2958187c512179a"
+    },
+    {
+      "path": "src/data/shareActions.js",
+      "sha256": "f57f8c9b527100c95c0b06d119118b16fd423bd431ef3832bbf27804c1ee47bd"
+    },
+    {
+      "path": "src/data/siteData.js",
+      "sha256": "f6431ab81d7c8c80164a61c3064fef9c07d318101b586ffa21471cf7e83dee19"
+    },
+    {
+      "path": "src/data/siteIdentity.js",
+      "sha256": "54847d4ff60d3080e72e1194555fdbbb72b80b98147fb1e8835b1828b6f3e979"
+    },
+    {
+      "path": "src/data/specDisplay.js",
+      "sha256": "33725a311c58b7c4bf5acdd50c44b681e0110960451e05f0eaa563608a77cb2f"
+    },
+    {
+      "path": "src/data/tastePresentation.js",
+      "sha256": "d4628de307bbb17f605c4fd1add18a0e5f6ed6cbfb80b9047d271a59ebc01f3a"
+    },
+    {
+      "path": "src/data/telemetry.js",
+      "sha256": "10e70fdd1d47b4ec274519b4afd9279d0fd352b5f14391c6cddb31c3a8bff8e1"
+    },
+    {
+      "path": "src/data/temperatureUX.js",
+      "sha256": "5f58a127c18ceafb3a0f32e2e5dfd07dc0bc37b00fbe9420e2051b48b96568b1"
+    },
+    {
+      "path": "src/data/visualChoices.js",
+      "sha256": "86e954b7487649a95ea2238bb69c87a1ccc910200caadb2be44dfafdbbaa56b7"
+    },
+    {
+      "path": "src/specialties/localSakana.js",
+      "sha256": "7f596a0c0782af71b52e84003589606e9bea519cc364fa76f53182d40a2beb48"
+    },
+    {
+      "path": "src/specialties/master.json",
+      "sha256": "c2a958a641e18a83cc84d95efb89ba5e3718f75f58b1a9cd5999d8a75483993c"
+    },
+    {
+      "path": "src/specialties/pairings.json",
+      "sha256": "8b472b42ceaed857314843a71874a86fb595de95edc00fdf3724af60f83bb9b2"
+    },
+    {
+      "path": "vercel.json",
+      "sha256": "7180bf2fae04ea0cf38cac0f003377baef96bd0a59ce73c29ffac9a2be692d55"
+    }
+  ],
+  "itemsHash": "82f9b164a56b64ef7e596a44697e74fe8dff99b0d3b576e52392659500e5f6cf",
+  "summaries": [
+    {
+      "sakeId": "nogomi-tokubetsu-junmai",
+      "text": "ほのかに香る吟醸香。米の旨みも楽しめる一本です。"
+    },
+    {
+      "sakeId": "koimari-saki",
+      "text": "純米吟醸酒です。"
+    },
+    {
+      "sakeId": "azumacho-junmai",
+      "text": "芳醇な香りを楽しめます。米の旨味も、このお酒の特徴です。"
+    },
+    {
+      "sakeId": "amabuki-flower-yeast",
+      "text": "豊かな香りを楽しめます。旨みのあるふくらみも、このお酒の特徴です。"
+    },
+    {
+      "sakeId": "nabeshima-junmai-ginjo",
+      "text": "穏やかな吟醸香が特徴。のど越しは爽やかです。"
+    },
+    {
+      "sakeId": "shichida-junmai",
+      "text": "米由来の旨味を、軽やかな味わいで楽しめます。"
+    },
+    {
+      "sakeId": "azumaichi-junmai-ginjo",
+      "text": "香りは穏やか。米の旨味を楽しめる酒です。"
+    },
+    {
+      "sakeId": "miinokotobuki-junmai-ginjo",
+      "text": "大辛口の味わいとキレを楽しめる一本。"
+    },
+    {
+      "sakeId": "niwa-no-uguisu-junmai-ginjo",
+      "text": "フレッシュな味わいの一本。甘みと酸味も感じられます。"
+    },
+    {
+      "sakeId": "chiebijin-junmai",
+      "text": "芳醇な香りがあり、芳醇な甘みも感じられます。"
+    },
+    {
+      "sakeId": "reizan-junmai",
+      "text": "やわらかな辛口と、キレを楽しめる一本。"
+    },
+    {
+      "sakeId": "sasshu-masamune-junmai",
+      "text": "濃厚な旨口の味わいがあり、米の香りも感じられます。"
+    },
+    {
+      "sakeId": "amaneko-white-koji",
+      "text": "白麹由来の個性的な酸味を楽しめます。"
+    },
+    {
+      "sakeId": "denshu-tokubetsu-junmai",
+      "text": "米の旨味を楽しめます。軽妙な口当たりも、このお酒の特徴です。"
+    },
+    {
+      "sakeId": "mutsu-hassen-red-label",
+      "text": "果実のような華やかな香りと、旨味と酸味のバランスを楽しめる一本。"
+    },
+    {
+      "sakeId": "nanbu-bijin-tokubetsu-junmai",
+      "text": "やさしい果実香が特徴。米の旨味も楽しめます。"
+    },
+    {
+      "sakeId": "akabu-junmai",
+      "text": "米の旨味と柑橘系の酸味。それぞれの味わいを楽しめます。"
+    },
+    {
+      "sakeId": "yamamoto-pure-black",
+      "text": "秋田酒こまちを使った一本。"
+    },
+    {
+      "sakeId": "yuki-no-bosha-junmai-ginjo",
+      "text": "ふくよかな味わいを感じる一本。ほどよい香りも楽しめます。"
+    },
+    {
+      "sakeId": "ippaku-suissei-tokubetsu-junmai",
+      "text": "果実香があり、米の旨味も感じられます。"
+    },
+    {
+      "sakeId": "sharaku-junmai-ginjo",
+      "text": "米の旨味があり、甘みと酸味の調和も楽しめます。"
+    },
+    {
+      "sakeId": "aizu-chujo-junmai",
+      "text": "濃醇な味わいを楽しめます。"
+    },
+    {
+      "sakeId": "hakurakusei-tokubetsu-junmai",
+      "text": "メロンやバナナを思わせる香りを楽しめます。キレも、このお酒の特徴です。"
+    },
+    {
+      "sakeId": "kubota-senju",
+      "text": "淡麗な味わいに、穏やかな香り。"
+    },
+    {
+      "sakeId": "dewazakura-oka-ginjo",
+      "text": "フルーティな吟醸香が特徴。爽快な味わいも楽しめます。"
+    },
+    {
+      "sakeId": "koshino-kanbai-white-label",
+      "text": "なめらかな味わいが特徴の一本。"
+    },
+    {
+      "sakeId": "hakkaisan-tokubetsu-honjozo",
+      "text": "やわらかな口当たりを楽しめます。"
+    },
+    {
+      "sakeId": "shimeharitsuru-tsuki",
+      "text": "本醸造酒です。"
+    },
+    {
+      "sakeId": "kenkonichi-tokubetsu-junmai",
+      "text": "飲み飽きしない味わいが特徴の一本。"
+    },
+    {
+      "sakeId": "oze-no-yukidoke-junmai-daiginjo",
+      "text": "フレッシュな味わいが特徴の一本。"
+    },
+    {
+      "sakeId": "murayu-kuro",
+      "text": "純米大吟醸酒です。"
+    },
+    {
+      "sakeId": "gokeiji-junmai-ginjo",
+      "text": "雄町を使った純米吟醸酒。"
+    },
+    {
+      "sakeId": "yoakemae-tatsuno-junmai",
+      "text": "フルーティーな味わいを楽しめます。"
+    },
+    {
+      "sakeId": "tedorigawa-yamahai-junmai",
+      "text": "冷酒や常温ではフルーティーな香りを。燗では穏やかでやさしい旨味を楽しめます。"
+    },
+    {
+      "sakeId": "masumi-karakuchi-kiippon",
+      "text": "辛口の味わいを楽しめます。やわらかな甘みも、このお酒の特徴です。"
+    },
+    {
+      "sakeId": "jozan-junmai",
+      "text": "シャープな飲み口を感じる一本。柔らかい米の旨味も楽しめます。"
+    },
+    {
+      "sakeId": "kikuhime-yamahai-junmai",
+      "text": "ナッツやカラメルを思わせる芳醇な香りを楽しめます。米のたっぷりとした旨味も、このお酒の特徴です。"
+    },
+    {
+      "sakeId": "tengumai-yamahai-junmai",
+      "text": "芳醇な味わいを楽しめます。"
+    },
+    {
+      "sakeId": "masuizumi-junmai-ginjo",
+      "text": "きれいな後口とキレが特徴の一本。"
+    },
+    {
+      "sakeId": "kachikoma-junmai",
+      "text": "純米酒です。"
+    },
+    {
+      "sakeId": "kamoshibito-kuheiji-eau-du-desir",
+      "text": "熟した果実の旨味が特徴。味わいの重なりも楽しめます。"
+    },
+    {
+      "sakeId": "gikyo-tokubetsu-junmai",
+      "text": "純米酒です。"
+    },
+    {
+      "sakeId": "houraisen-wa-junmai-ginjo",
+      "text": "やわらかな甘みと爽やかな酸味を楽しめる酒。"
+    },
+    {
+      "sakeId": "zaku-miyabi-no-tomo",
+      "text": "華やかな香りを楽しめます。なめらかな味わいも、このお酒の特徴です。"
+    },
+    {
+      "sakeId": "kikusui-funaguchi-honjozo-nama-genshu-standard",
+      "text": "フレッシュな果実のような香りが特徴。しっかりとした旨みも楽しめます。"
+    },
+    {
+      "sakeId": "iso-jiman-honjozo",
+      "text": "吟醸香が特徴。まるい味わいも楽しめます。"
+    },
+    {
+      "sakeId": "kaiun-tokubetsu-junmai",
+      "text": "コクと、スッキリとキレのよい後口を楽しめる一本。"
+    },
+    {
+      "sakeId": "born-gold",
+      "text": "芳醇な旨口の味わいを楽しめます。"
+    },
+    {
+      "sakeId": "umenoyado-junmai",
+      "text": "フレッシュな香りとジューシーな味わいが特徴の酒。"
+    },
+    {
+      "sakeId": "tamanohikari-junmai-ginjo-shukon-standard",
+      "text": "米の旨味と酸味が特徴の酒。"
+    },
+    {
+      "sakeId": "kid-junmai-ginjo",
+      "text": "青りんごの香りを楽しめます。軽快な味わいも、このお酒の特徴です。"
+    },
+    {
+      "sakeId": "kamo-kinshu-tokubetsu-junmai",
+      "text": "フレッシュな味わいが特徴の一本。"
+    },
+    {
+      "sakeId": "ohmine-three-grain",
+      "text": "穏やかなグリーンの香りが特徴。ジューシーな味わいも楽しめます。"
+    },
+    {
+      "sakeId": "ugonotsuki-junmai-ginjo",
+      "text": "やわらかな口当たりを感じる一本。米の旨味も楽しめます。"
+    },
+    {
+      "sakeId": "hirotogawa-tokubetsu-junmai",
+      "text": "夢の香を使った特別純米酒。"
+    },
+    {
+      "sakeId": "dassai-45",
+      "text": "華やかな香りの一本。米由来の繊細な甘みも楽しめます。"
+    },
+    {
+      "sakeId": "suigei-tokubetsu-junmai",
+      "text": "米の旨味があり、キレも感じられます。"
+    },
+    {
+      "sakeId": "tsuchida-kimoto",
+      "text": "クリアな後味が特徴の一本。"
+    },
+    {
+      "sakeId": "tenbi-junmai-ginjo",
+      "text": "白ぶどうの甘みを感じる一本。爽やかな酸味も楽しめます。"
+    },
+    {
+      "sakeId": "ibi-white",
+      "text": "すっきりとした芳醇な味わい、クエン酸による甘酸っぱさが特徴の酒。"
+    },
+    {
+      "sakeId": "kachikoma-modern-premium",
+      "text": "純米吟醸酒です。"
+    },
+    {
+      "sakeId": "nichinichi-yamada-nishiki",
+      "text": "上品な旨味を楽しめます。"
+    },
+    {
+      "sakeId": "otokoyama-kimoto-junmai",
+      "text": "芳醇な味わいが特徴の一本。"
+    },
+    {
+      "sakeId": "juyondai-modern-premium",
+      "text": "みずみずしい立ち香と爽やかな含み香を感じる一本。淡麗な味わいも楽しめます。"
+    },
+    {
+      "sakeId": "dassai-23",
+      "text": "華やかな上立ち香が特徴。蜂蜜のような甘みも楽しめます。"
+    },
+    {
+      "sakeId": "kokushi-muso-junmai",
+      "text": "コクがあり、まろやかな味わいも感じられます。"
+    },
+    {
+      "sakeId": "fukutsukasa-junmai",
+      "text": "芳醇な味わいを楽しめます。"
+    },
+    {
+      "sakeId": "gohou-junmai",
+      "text": "柔らかな旨味を感じる一本。軽快な味わいも楽しめます。"
+    },
+    {
+      "sakeId": "kita-no-katsu-taikai",
+      "text": "口当たりのよさとすっきりしたのど越しが特徴の酒。"
+    },
+    {
+      "sakeId": "momokawa-tw2kq6",
+      "text": "純米酒です。"
+    },
+    {
+      "sakeId": "asahibaki-iaxjez",
+      "text": "柔らかく豊かな香りが特徴。米の旨味も楽しめます。"
+    },
+    {
+      "sakeId": "kiku-no-tsukasa-iaxjez",
+      "text": "華やかな香りを感じる一本。濃厚さとすっきりした飲み口も楽しめます。"
+    },
+    {
+      "sakeId": "hato-masamune-tw2kq6",
+      "text": "米のふくよかな味わいと、キレの良いスッキリとした辛口を楽しめる一本。"
+    },
+    {
+      "sakeId": "hamachidori-iaxjez",
+      "text": "純米酒です。"
+    },
+    {
+      "sakeId": "tsuki-no-wa-iaxjez",
+      "text": "旨味が特徴。すっきりしたキレも楽しめます。"
+    },
+    {
+      "sakeId": "atago-no-matsu-i3yhce",
+      "text": "メロンや白桃を思わせる香りを感じる一本。爽やかな酸味も楽しめます。"
+    },
+    {
+      "sakeId": "urakasumi-i3yhce",
+      "text": "米の旨味と酸味の調和を楽しめます。"
+    },
+    {
+      "sakeId": "suminoe-i3yhce",
+      "text": "穏やかな香りがあり、米の旨味も感じられます。"
+    },
+    {
+      "sakeId": "kudoki-jozu-i9diua",
+      "text": "華やかでフルーティーな香りとやさしくマイルドな味わいが特徴の酒。"
+    },
+    {
+      "sakeId": "jokigen-i9diua",
+      "text": "すっきりした味わいが特徴。超辛口の味わいも楽しめます。"
+    },
+    {
+      "sakeId": "mansaku-no-hana-o23n5c",
+      "text": "穏やかな香りと米の旨味が特徴の酒。"
+    },
+    {
+      "sakeId": "yamagata-masamune-i9diua",
+      "text": "豊かな旨味が特徴の一本。"
+    },
+    {
+      "sakeId": "hatsumago-i9diua",
+      "text": "純米大吟醸酒です。"
+    },
+    {
+      "sakeId": "daishichi-junmai-kimoto-standard",
+      "text": "ふくらみのある旨味が特徴の一本。"
+    },
+    {
+      "sakeId": "wataribune-pwohce",
+      "text": "豊かな香りが特徴の一本。"
+    },
+    {
+      "sakeId": "daina-kjnkdk",
+      "text": "穏やかな旨みが特徴の一本。"
+    },
+    {
+      "sakeId": "shichisui-kjnkdk",
+      "text": "ほのかな果実系の香りが特徴。上品でやさしい旨みも楽しめます。"
+    },
+    {
+      "sakeId": "mizubasho-p7oucs",
+      "text": "凝縮した米の旨味を楽しめます。"
+    },
+    {
+      "sakeId": "ruka-p7oucs",
+      "text": "優しい吟醸香を楽しめます。甘味も、このお酒の特徴です。"
+    },
+    {
+      "sakeId": "jozen-mizunogotoshi-junmai-ginjo-standard",
+      "text": "華やかな香りを楽しめます。まろやかな旨味も、このお酒の特徴です。"
+    },
+    {
+      "sakeId": "echigozakura-daiginjo-standard",
+      "text": "華やかな香りを感じる一本。スッキリとした味わいも楽しめます。"
+    },
+    {
+      "sakeId": "kinoene-gg3q4p",
+      "text": "フルーティーな味わいと爽やかな酸味が特徴の酒。"
+    },
+    {
+      "sakeId": "miyakanbai-i3yhce",
+      "text": "熟した果実を思わせる華やかな香りとやや豊潤で柔らかな味わいが特徴の酒。"
+    },
+    {
+      "sakeId": "taiheizan-tenko-junmai-daiginjo-standard",
+      "text": "中口の味わいを楽しめます。"
+    },
+    {
+      "sakeId": "kidoizumi-gg3q4p",
+      "text": "米の旨味と、豊かな酸味を楽しめる一本。"
+    },
+    {
+      "sakeId": "okunokami-kflfjg",
+      "text": "和梨やメロンを思わせる穏やかな香り。燗にすると旨味も楽しめます。"
+    },
+    {
+      "sakeId": "kinkon-kflfjg",
+      "text": "柑橘系の香りを楽しめます。甘みと酸味のバランスも、このお酒の特徴です。"
+    },
+    {
+      "sakeId": "sawanoi-kflfjg",
+      "text": "コクを感じる一本。さっぱりした後味も楽しめます。"
+    },
+    {
+      "sakeId": "kasen-kflfjg",
+      "text": "果実や百合、ライムの皮を思わせる香りを楽しめます。米由来の旨みも、このお酒の特徴です。"
+    },
+    {
+      "sakeId": "izumibashi-nz2hmwijh",
+      "text": "果実香を感じる一本。さらりとした飲み口も楽しめます。"
+    },
+    {
+      "sakeId": "tamajiman-kflfjg",
+      "text": "花や熟した果実のような香りを感じる一本。ふくよかで奥深い旨味も楽しめます。"
+    },
+    {
+      "sakeId": "zarusou-hourai-nz2hmwijh",
+      "text": "燗で感じるしっかりした旨味と、柔らかな酸味を楽しめる一本。"
+    },
+    {
+      "sakeId": "tanigawadake-p7oucs",
+      "text": "辛口の味わいが特徴。米の旨味も楽しめます。"
+    },
+    {
+      "sakeId": "matsu-midori-nz2hmwijh",
+      "text": "ほんのり甘口の酒。爽やかな酸味も楽しめます。"
+    },
+    {
+      "sakeId": "hakoneyama-nz2hmwijh",
+      "text": "ふくよかな味わいと、キレを楽しめる一本。"
+    },
+    {
+      "sakeId": "tateyama-i4si9d",
+      "text": "豊かな旨味を感じる一本。芳醇な味わいも楽しめます。"
+    },
+    {
+      "sakeId": "ginban-chotokusen-komenoshin-standard-v1",
+      "text": "芳醇なふくみ香を楽しめます。まろやかさも、このお酒の特徴です。"
+    },
+    {
+      "sakeId": "kagatobi-nozijh",
+      "text": "華やかな香りが特徴。ふくらむ米の旨味も楽しめます。"
+    },
+    {
+      "sakeId": "mushohai-junmai-ginjo-standard",
+      "text": "米の旨みが特徴。すっきりとした口当たりも楽しめます。"
+    },
+    {
+      "sakeId": "ippongi-o0ffit",
+      "text": "新緑を思わせる香りが特徴。みずみずしい口当たりも楽しめます。"
+    },
+    {
+      "sakeId": "hanagaki-o0ffit",
+      "text": "濃厚な甘みが特徴の一本。"
+    },
+    {
+      "sakeId": "shunnoten-i9dko8",
+      "text": "やや華やかな香りを楽しめます。豊かで深い味わいも、このお酒の特徴です。"
+    },
+    {
+      "sakeId": "kizakura-yamahai-tokubetsu-junmai-yamadanishiki-standard",
+      "text": "気品ある香りがあり、力強い旨味も感じられます。"
+    },
+    {
+      "sakeId": "hyakushun-junmai-josen-standard",
+      "text": "やや辛口の味わいが特徴。すっきりした味わいも楽しめます。"
+    },
+    {
+      "sakeId": "taikan-i9dko8",
+      "text": "上品な吟醸香が特徴。柔らかい口当たりと、やや濃醇な味わいも楽しめます。"
+    },
+    {
+      "sakeId": "kai-no-kaiun-i9dko8",
+      "text": "柔らかな芳香と果実のような香りを楽しめます。透き通った味わいも、このお酒の特徴です。"
+    },
+    {
+      "sakeId": "jokigen-ishikawa-nozijh",
+      "text": "鋭いキレと、コクを楽しめる一本。"
+    },
+    {
+      "sakeId": "nito-j6jnol",
+      "text": "甘みと酸味のバランスが特徴。ミネラル感もあります。"
+    },
+    {
+      "sakeId": "michisakari-ia8tng",
+      "text": "落ち着いた吟醸香が特徴。柔らかな旨みも楽しめます。"
+    },
+    {
+      "sakeId": "tenkanishiki-fexsst",
+      "text": "穏やかなバナナを思わせる香りと心地よい旨味が特徴の酒。"
+    },
+    {
+      "sakeId": "matsu-no-tsukasa-lvvrsw",
+      "text": "柔らかく爽やかな香りがあり、味わいのバランスも感じられます。"
+    },
+    {
+      "sakeId": "eikun-kyoto-fjg",
+      "text": "すっきりした味わいが特徴の一本。"
+    },
+    {
+      "sakeId": "kirakucho-lvvrsw",
+      "text": "穏やかな吟醸香と、柔らかな旨味を楽しめる一本。"
+    },
+    {
+      "sakeId": "katano-sakura-hlztnu",
+      "text": "中口の味わいと、ほどよい酸味を楽しめる一本。"
+    },
+    {
+      "sakeId": "goshun-hlztnu",
+      "text": "すっきりとまろやかさのある味わいを楽しめます。"
+    },
+    {
+      "sakeId": "kenbishi-g39ip7",
+      "text": "コクを感じる一本。キレも楽しめます。"
+    },
+    {
+      "sakeId": "amanosake-hlztnu",
+      "text": "旨味のある味わいと芳醇な味わいが特徴の酒。"
+    },
+    {
+      "sakeId": "tsuki-no-katsura-fjg",
+      "text": "なめらかな味わいといちじくの香りが特徴の酒。"
+    },
+    {
+      "sakeId": "kiku-masamune-g39ip7",
+      "text": "杉の香りと辛口の味わいが特徴の酒。"
+    },
+    {
+      "sakeId": "chiyomusubi-uzpgk6",
+      "text": "ふくよかな味わいが特徴の一本。"
+    },
+    {
+      "sakeId": "minakata-gp8l70i9d",
+      "text": "白ワインのような香りが特徴。キレのよさも楽しめます。"
+    },
+    {
+      "sakeId": "suwaizumi-uzpgk6",
+      "text": "軽やかですっきりした口当たり。ほどよい旨味も楽しめます。"
+    },
+    {
+      "sakeId": "harushika-hmwprj",
+      "text": "超辛口の味わいが特徴。コクとキレも楽しめます。"
+    },
+    {
+      "sakeId": "hakutsuru-g39ip7",
+      "text": "豊かで華やかな香りがあり、ふくらみのある味わいも感じられます。"
+    },
+    {
+      "sakeId": "kuroushi-gp8l70i9d",
+      "text": "米の旨味を感じる一本。やわらかな香りも楽しめます。"
+    },
+    {
+      "sakeId": "kagatsuru-junmai-josen-standard",
+      "text": "米の旨みとマイルドな味わいが特徴の酒。"
+    },
+    {
+      "sakeId": "sanzen-iapi9d",
+      "text": "ふくよかな旨味と爽やかな酸味が特徴の酒。"
+    },
+    {
+      "sakeId": "gassan-id2kl5",
+      "text": "純米酒です。"
+    },
+    {
+      "sakeId": "kamikokoro-iapi9d",
+      "text": "きれいな米の旨味があり、淡麗な旨口の味わいも感じられます。"
+    },
+    {
+      "sakeId": "fukucho-io3id2",
+      "text": "旨味と柔らかな口当たりが特徴の酒。"
+    },
+    {
+      "sakeId": "narutotai-iwjid2",
+      "text": "芳醇な旨味を感じる一本。きめ細かな酸味も楽しめます。"
+    },
+    {
+      "sakeId": "harada-i9dgkj",
+      "text": "華やかな吟醸香があり、フルーティーな味わいも感じられます。"
+    },
+    {
+      "sakeId": "kinryo-uc9ijh",
+      "text": "中口の味わいを感じる一本。爽やかな果実香も楽しめます。"
+    },
+    {
+      "sakeId": "tosatsuru-honzo-karakuchi-standard",
+      "text": "さわやかな香りを楽しめます。切れ味も、このお酒の特徴です。"
+    },
+    {
+      "sakeId": "gotenzakura-iwjid2",
+      "text": "純米大吟醸酒です。"
+    },
+    {
+      "sakeId": "yamatan-masamune-j6jhwb",
+      "text": "フルーティーな味わいが特徴の一本。"
+    },
+    {
+      "sakeId": "sanuki-cloudy-uc9ijh",
+      "text": "甘酸っぱい味わいが特徴の一本。"
+    },
+    {
+      "sakeId": "umenishiki-j6jhwb",
+      "text": "芳醇な甘口の味わいと、バランスのよい味わいを楽しめる一本。"
+    },
+    {
+      "sakeId": "kyohina-j6jhwb",
+      "text": "米のコクと旨みが特徴。さっぱりとした飲み口も楽しめます。"
+    },
+    {
+      "sakeId": "sukigokoro-j6jhwb",
+      "text": "山田錦を使った純米大吟醸酒。"
+    },
+    {
+      "sakeId": "tosa-shiragiku-ul4nol",
+      "text": "バナナを思わせる甘い香りがあり、軽やかですっきりした味わいも感じられます。"
+    },
+    {
+      "sakeId": "shigemasu-o0fiap",
+      "text": "華やかな香りがあり、ふくよかな米の旨味も感じられます。"
+    },
+    {
+      "sakeId": "asahigiku-o0fiap",
+      "text": "特別純米酒です。"
+    },
+    {
+      "sakeId": "kinokawa-tividq",
+      "text": "穏やかな香りが特徴。しっかりした押し味も楽しめます。"
+    },
+    {
+      "sakeId": "bijofu-ul4nol",
+      "text": "控えめな柑橘系吟醸香と、米のふくらみと柔らかさを楽しめる一本。"
+    },
+    {
+      "sakeId": "koro-mfekdo",
+      "text": "芳醇な香りがあり、酸味も感じられます。"
+    },
+    {
+      "sakeId": "zuiyo-mfekdo",
+      "text": "調和のとれた旨味を楽しめます。芳醇な味わいも、このお酒の特徴です。"
+    },
+    {
+      "sakeId": "tsujun-semi-junmai-ginjo-standard",
+      "text": "穏やかな吟醸香が特徴。柔らかな口当たりも楽しめます。"
+    },
+    {
+      "sakeId": "nishinoseki-hlzg7a",
+      "text": "優しい旨味を楽しめます。"
+    },
+    {
+      "sakeId": "wakabotan-hlzg7a",
+      "text": "バナナやメロン、白い花を思わせる香りがあり、米の旨味も感じられます。"
+    },
+    {
+      "sakeId": "senbazuru-hlzg7a",
+      "text": "純米大吟醸酒です。"
+    },
+    {
+      "sakeId": "sentoku-i3yidq",
+      "text": "米の旨味が特徴。飲みごたえも楽しめます。"
+    },
+    {
+      "sakeId": "ranman-junmai-managudako-standard",
+      "text": "やさしい旨みが特徴。酸味も楽しめます。"
+    },
+    {
+      "sakeId": "ayanishiki-i3yidq",
+      "text": "華やかな吟醸香があり、すっきりした口当たりと芳醇な味わいも感じられます。"
+    },
+    {
+      "sakeId": "hanakagura-i3yidq",
+      "text": "淡麗ですっきりした味わいを楽しめます。適度な酸味も、このお酒の特徴です。"
+    },
+    {
+      "sakeId": "tenbu-vb3g28id2",
+      "text": "洋梨やアカシア、セルフィーユを思わせる香りと米の甘み、旨味、酸味の調和が特徴の酒。"
+    },
+    {
+      "sakeId": "tenbu-junmai-daiginjo",
+      "text": "花やバナナを思わせる香りが特徴。柔らかな米の旨味も楽しめます。"
+    },
+    {
+      "sakeId": "satsumaji-vb3g28id2",
+      "text": "華やかな香りが特徴。すっきりした味わいも楽しめます。"
+    },
+    {
+      "sakeId": "taisetsunokura-junmai-standard",
+      "text": "すっきりしたキレ、爽やかなあと口が特徴の一本。"
+    },
+    {
+      "sakeId": "denshu-tokubetsu-junmai-1",
+      "text": "青リンゴを思わせる含み香が特徴。厚みのある旨味も楽しめます。"
+    },
+    {
+      "sakeId": "houhai-junmai-ginjo-3",
+      "text": "エレガントな香りを感じる一本。繊細な甘味も楽しめます。"
+    },
+    {
+      "sakeId": "yatsushika-hlzg7a",
+      "text": "米の旨味と、深くふくよかな味わいを楽しめる一本。"
+    },
+    {
+      "sakeId": "hideyoshi-junmai-standard",
+      "text": "麹の風味を感じる一本。淡麗で味にふくらみも楽しめます。"
+    },
+    {
+      "sakeId": "asahibaki-iaxjez-3",
+      "text": "なめらかな旨味が特徴。ほどよい酸味も楽しめます。"
+    },
+    {
+      "sakeId": "kamotsuru-chotokusem-tokuto-tokubetsu-honjozo",
+      "text": "ふくよかな香りがあり、濃醇な旨味も感じられます。"
+    },
+    {
+      "sakeId": "aramasa-junmai-1",
+      "text": "ふくよかな味わいを楽しめます。キレも、このお酒の特徴です。"
+    },
+    {
+      "sakeId": "hakurakusei-tokubetsu-junmai-1",
+      "text": "洋梨やパッションフルーツを思わせる香りが特徴。軽快な味わいも楽しめます。"
+    },
+    {
+      "sakeId": "ichinokura-tokubetsu-junmai-karakuchi",
+      "text": "穏やかで甘やかな熟成由来の芳香が特徴。米の旨味も楽しめます。"
+    },
+    {
+      "sakeId": "shinkame-hdomtl-3",
+      "text": "熟成によるふっくらした旨味を感じる一本。キレも楽しめます。"
+    },
+    {
+      "sakeId": "kikko-hanabishi-hdomtl-4",
+      "text": "開けたてはフレッシュな味わい。開栓後には、落ち着いた旨味が増していきます。"
+    },
+    {
+      "sakeId": "denyu-tokubetsu-junmai-standard",
+      "text": "米本来の膨らむ旨味が特徴の一本。"
+    },
+    {
+      "sakeId": "kinoene-gg3q4p-2",
+      "text": "米の旨味を楽しめます。酸の効いた飲み口も、このお酒の特徴です。"
+    },
+    {
+      "sakeId": "kinkon-kflfjg-2",
+      "text": "米本来の旨みがあり、すっきりした飲み口も感じられます。"
+    },
+    {
+      "sakeId": "hiroki-tokubetsu-junmai-1",
+      "text": "ほんのりとした果実香と、みずみずしいフレッシュな味わいを楽しめる一本。"
+    },
+    {
+      "sakeId": "hakkaisan-tokubetsu-honjozo-1",
+      "text": "まろやかな味わいを楽しめます。"
+    },
+    {
+      "sakeId": "kubota-senju-2",
+      "text": "華やかな香りを楽しめます。旨味、甘み、酸味の調和も、このお酒の特徴です。"
+    },
+    {
+      "sakeId": "kachikoma-junmai-3",
+      "text": "大吟醸酒です。"
+    },
+    {
+      "sakeId": "sanshoraku-junmai-standard",
+      "text": "麹の豊かな香りと、程良い酸味を楽しめる一本。"
+    },
+    {
+      "sakeId": "maboroshi-no-taki-junmai-ginjo-standard",
+      "text": "酸味から米の旨味へと、味わいが広がる純米吟醸。冷やしても、燗にしても楽しめます。"
+    },
+    {
+      "sakeId": "jokigen-ishikawa-nozijh-4",
+      "text": "キレが特徴。コクも楽しめます。"
+    },
+    {
+      "sakeId": "tengumai-yamahai-junmai-3",
+      "text": "濃厚な香味と、酸味を楽しめる一本。"
+    },
+    {
+      "sakeId": "kasen-kflfjg-4",
+      "text": "ナッツやバニラを思わせる熟成香とふくよかな旨みが特徴の酒。"
+    },
+    {
+      "sakeId": "kokuryu-junmai-ginjo-1",
+      "text": "上品でふくらみのある味わいが特徴の一本。"
+    },
+    {
+      "sakeId": "born-gold-2",
+      "text": "腰のある味わいが特徴の一本。"
+    },
+    {
+      "sakeId": "hanagaki-o0ffit-5",
+      "text": "純米大吟醸酒です。"
+    },
+    {
+      "sakeId": "ippongi-o0ffit-4",
+      "text": "チェリーを思わせるほのかな香りがあり、クリアな旨味も感じられます。"
+    },
+    {
+      "sakeId": "shichiken-i9dko8-1",
+      "text": "重厚感のある味わいが特徴の一本。"
+    },
+    {
+      "sakeId": "shunnoten-i9dko8-2",
+      "text": "ほのかに甘く華やかな香りがあり、しっかりした旨味も感じられます。"
+    },
+    {
+      "sakeId": "masumi-karakuchi-kiippon-1",
+      "text": "乳製品を思わせるほのかな香りが特徴。深みのある味わいも楽しめます。"
+    },
+    {
+      "sakeId": "tanizakura-i9dko8-3",
+      "text": "米の旨味が特徴。自然でなめらかな口当たりも楽しめます。"
+    },
+    {
+      "sakeId": "kawanakajima-genmai-junmai-ginjo-4",
+      "text": "米本来の旨味があり、とろりとした濃厚な飲み口も感じられます。"
+    },
+    {
+      "sakeId": "kunizakari-handago-junmai-ginjo-1801",
+      "text": "華やかな吟醸香とやわらかな味わいが特徴の酒。"
+    },
+    {
+      "sakeId": "kaiun-tokubetsu-junmai-2",
+      "text": "優しい果実香を感じる一本。お米由来の旨みも楽しめます。"
+    },
+    {
+      "sakeId": "gokyo-junmai-standard",
+      "text": "上品で控えめな吟醸様香と、柔らかで軽快な口当たりを楽しめる一本。"
+    },
+    {
+      "sakeId": "kamoshibito-kuheiji-eau-du-desir-1",
+      "text": "飲み始めに感じる旨味と、なめらかで重なりのある味わいを楽しめる一本。"
+    },
+    {
+      "sakeId": "zaku-miyabi-no-tomo-2",
+      "text": "青リンゴのようなフレッシュな香りがあり、豊かな味わいも感じられます。"
+    },
+    {
+      "sakeId": "furosen-lvvrsw-1",
+      "text": "香ばしい香りを感じる一本。濃醇な味わいも楽しめます。"
+    },
+    {
+      "sakeId": "eikun-junmai-ginjo-4",
+      "text": "華やかでフルーティーな吟醸香、甘みと旨味のある味わいが特徴の酒。"
+    },
+    {
+      "sakeId": "kirakucho-lvvrsw-4",
+      "text": "喜多酒造株式会社が醸す一本。"
+    },
+    {
+      "sakeId": "sawaya-matsumoto-shuhari-1",
+      "text": "滑らかな味わいが特徴の一本。"
+    },
+    {
+      "sakeId": "nichinichi-yamada-nishiki-3",
+      "text": "力強い旨味と、余韻を楽しめる一本。"
+    },
+    {
+      "sakeId": "shichihonyari-lvvrsw-2",
+      "text": "米のふくよかな旨味を楽しめます。"
+    },
+    {
+      "sakeId": "goshun-hlztnu-2",
+      "text": "吟醸酒です。"
+    },
+    {
+      "sakeId": "okuharima-yamahai-junmai-1",
+      "text": "株式会社 下村酒造店が醸す一本。"
+    },
+    {
+      "sakeId": "sensuke-junmai-ginjo-3",
+      "text": "芳醇な香りが特徴の一本。"
+    },
+    {
+      "sakeId": "suishin-inaho-junmai-ginjo-standard",
+      "text": "心地よい香りがあり、米の旨味も感じられます。"
+    },
+    {
+      "sakeId": "umenoyado-junmai-3",
+      "text": "ゆず特有の爽やかな風味と口当たりのよさが特徴の酒。"
+    },
+    {
+      "sakeId": "shirayuki-josen-junmai-standard",
+      "text": "おだやかな香りと、やわらかな口当たりを楽しめる一本。"
+    },
+    {
+      "sakeId": "kurumazaka-gp8l70i9d-3",
+      "text": "円熟した旨味が特徴。優しい口当たりも楽しめます。"
+    },
+    {
+      "sakeId": "kid-junmai-ginjo-1",
+      "text": "軽快なキレが特徴の一本。"
+    },
+    {
+      "sakeId": "chiyomusubi-uzpgk6-3",
+      "text": "爽やかな微発泡感が特徴。グレープフルーツを思わせる苦味も楽しめます。"
+    },
+    {
+      "sakeId": "takaisami-uzpgk6-4",
+      "text": "芳醇な香りが特徴。米の旨味も楽しめます。"
+    },
+    {
+      "sakeId": "rihaku-id2kl5-2",
+      "text": "コクを感じる一本。キレも楽しめます。"
+    },
+    {
+      "sakeId": "sanzen-iapi9d-1",
+      "text": "フルーティーな香りがあり、マイルドな味わいも感じられます。"
+    },
+    {
+      "sakeId": "taiten-shiragiku-iapi9d-5",
+      "text": "柔らかな香りと、ふくよかな味わいを楽しめる一本。"
+    },
+    {
+      "sakeId": "ugonotsuki-junmai-ginjo-1",
+      "text": "穏やかな香りを楽しめます。旨味も、このお酒の特徴です。"
+    },
+    {
+      "sakeId": "kamo-kinshu-tokubetsu-junmai-2",
+      "text": "軽やかな香りがあり、深い味わいも感じられます。"
+    },
+    {
+      "sakeId": "fukucho-io3id2-4",
+      "text": "軽快な味わいを感じる一本。レモンを思わせるすっきりした酸味も楽しめます。"
+    },
+    {
+      "sakeId": "nihonsakari-souhana-junmai-ginjo-standard",
+      "text": "甘と酸と辛と苦と渋の五味が調和と、やや甘口の味わいを楽しめる一本。"
+    },
+    {
+      "sakeId": "ayakiku-uc9ijh-4",
+      "text": "まろやかで気品ある香味を感じる一本。キメの細かい酸味も楽しめます。"
+    },
+    {
+      "sakeId": "ishizuchi-junmai-ginjo-1",
+      "text": "純米吟醸酒です。"
+    },
+    {
+      "sakeId": "kinryo-uc9ijh-3",
+      "text": "落ち着いた果実香を感じる一本。穏やかな旨味も楽しめます。"
+    },
+    {
+      "sakeId": "dassai-45-1",
+      "text": "華やかな上立ち香を楽しめます。きれいな甘味も、このお酒の特徴です。"
+    },
+    {
+      "sakeId": "yamatan-masamune-j6jhwb-2",
+      "text": "穏やかで上品な吟醸香と軽やかな米の旨味が特徴の酒。"
+    },
+    {
+      "sakeId": "kyohina-j6jhwb-5",
+      "text": "米の甘味を楽しめます。キレる後口も、このお酒の特徴です。"
+    },
+    {
+      "sakeId": "bijofu-ul4nol-3",
+      "text": "しずく媛を使った純米大吟醸酒。"
+    },
+    {
+      "sakeId": "miinokotobuki-junmai-ginjo-4",
+      "text": "すっきりした味わいと、ドライな辛口を楽しめる一本。"
+    },
+    {
+      "sakeId": "nogomi-tokubetsu-junmai-1",
+      "text": "メロンやバナナを思わせる果実香を楽しめます。濃醇な味わいも、このお酒の特徴です。"
+    },
+    {
+      "sakeId": "yokoyama-tividq-2",
+      "text": "マスカットを思わせる香りを楽しめます。ジューシーな甘味も、このお酒の特徴です。"
+    },
+    {
+      "sakeId": "okunomatsu-tokubetsu-junmai-standard",
+      "text": "おだやかな香りと深いうまみが特徴の酒。"
+    },
+    {
+      "sakeId": "sawanotsuru-junmai-yamadanishiki-standard",
+      "text": "穏やかな香りと米の旨味が特徴の酒。"
+    },
+    {
+      "sakeId": "otokoyama-fukkoshu",
+      "text": "甘みの強い味わいを楽しめます。濃厚な味わいも、このお酒の特徴です。"
+    },
+    {
+      "sakeId": "gazan-junmai-daiginjo-standard",
+      "text": "芳醇な香りと、米の旨味を楽しめる一本。"
+    },
+    {
+      "sakeId": "tatenokawa-kyuryu",
+      "text": "純米大吟醸酒です。"
+    },
+    {
+      "sakeId": "gunmaizumi-yamahai-junmai",
+      "text": "米のうま味があり、キレの良い酸味も感じられます。"
+    },
+    {
+      "sakeId": "harushika-chokarakuchi-junmai",
+      "text": "穏やかな香りを楽しめます。まろやかな口当たりも、このお酒の特徴です。"
+    },
+    {
+      "sakeId": "kinkon-juemon-junmai-muroka-genshu",
+      "text": "まろやかな味わいが特徴の一本。"
+    },
+    {
+      "sakeId": "niida-shizenshu-junmai-genshu",
+      "text": "米の旨味を感じる一本。甘みと酸味も楽しめます。"
+    },
+    {
+      "sakeId": "tatenokawa-seiryu",
+      "text": "穏やかな香りが特徴。軽い飲み口も楽しめます。"
+    },
+    {
+      "sakeId": "ohyama-tokubetsu-junmai-tomizu-standard",
+      "text": "コクのある濃醇な味わいと、酸味との調和を楽しめる一本。"
+    },
+    {
+      "sakeId": "warakugoson-junmai-ginjo-standard",
+      "text": "おだやかな吟醸香、すっきりとした純米の旨みが特徴の酒。"
+    },
+    {
+      "sakeId": "hiraizumi-yamahai-tokubetsu-junmai-v1",
+      "text": "ふくらみのある味わいが特徴。快い酸味も楽しめます。"
+    },
+    {
+      "sakeId": "kanhokuto-tokubetsu-junmai",
+      "text": "穏やかな飲み口と、やさしい香りを楽しめる一本。"
+    },
+    {
+      "sakeId": "hiraizumi-jukusei-yamahai-junmai-v1",
+      "text": "旨みを感じる一本。野性味のある酸も楽しめます。"
+    },
+    {
+      "sakeId": "morinokura-junmai-v1",
+      "text": "香味は控えめ。なめらかでふくらみのある、軽やかな味わいです。"
+    },
+    {
+      "sakeId": "komagura-haruka-gonen-junmai-koshu-v1",
+      "text": "独特の熟成香と豊かな旨みが特徴の酒。"
+    },
+    {
+      "sakeId": "chikumanishiki-karakuchi-tokubetsu-junmai-v1",
+      "text": "米の旨味を楽しめます。濃醇で深い味わいも、このお酒の特徴です。"
+    },
+    {
+      "sakeId": "ishizuchi-junmai-ginjo-yamadanishiki50-v1",
+      "text": "幅のある深い味わいが特徴の一本。"
+    },
+    {
+      "sakeId": "chitosetsuru-junmai-ginjo-kitashizuku-v1",
+      "text": "純米吟醸酒です。"
+    },
+    {
+      "sakeId": "kinteki-junmai-ginjo-v1",
+      "text": "豊かな旨味と、さらりとした咽喉こしを楽しめる一本。"
+    },
+    {
+      "sakeId": "sawaya-matsumoto-shuhari-gohyakumangoku-v1",
+      "text": "松本酒造株式会社が醸す一本。"
+    },
+    {
+      "sakeId": "tenbu-junmai-v1",
+      "text": "熟したバナナやアプリコットを思わせる果実味が特徴の一本。"
+    },
+    {
+      "sakeId": "ganki-hitotsubi-junmai-v1",
+      "text": "純米酒です。"
+    },
+    {
+      "sakeId": "gakki-masamune-honjozo-nakadori-v1",
+      "text": "甘みと酸味のバランスが特徴の一本。"
+    },
+    {
+      "sakeId": "shizengo-tokubetsu-junmai-v1",
+      "text": "フルーティな香りが特徴。米の旨みも楽しめます。"
+    },
+    {
+      "sakeId": "houhai-tokubetsu-junmai-v1",
+      "text": "落ち着きのある香りがあり、優しい味わいも感じられます。"
+    },
+    {
+      "sakeId": "nito-junmai-ginjo-yamadanishiki55-v1",
+      "text": "甘みと酸味のバランスがあり、ミネラル感も感じられます。"
+    },
+    {
+      "sakeId": "eikun-tokubetsu-junmai-homarefuji-v1",
+      "text": "穏やかな吟醸香が特徴。米の旨味も楽しめます。"
+    },
+    {
+      "sakeId": "otokoyama-kuniyoshinona-v1",
+      "text": "かすかな酸味があり、シャープな切れ味も感じられます。"
+    },
+    {
+      "sakeId": "hatsumiyo-honjozo-v1",
+      "text": "やさしい香りを感じる一本。淡麗な味わいも楽しめます。"
+    },
+    {
+      "sakeId": "buyu-karakuchi-junmai-v1",
+      "text": "骨太で複雑な味わいを楽しめます。"
+    },
+    {
+      "sakeId": "raifuku-junmai-ginjo-yamadanishiki-hiire-v1",
+      "text": "穏やかな吟醸香が特徴。甘みと酸味のバランスも楽しめます。"
+    },
+    {
+      "sakeId": "kunimare-tokubetsu-junmai-standard",
+      "text": "米の旨味と、スッキリとした飲み口を楽しめる一本。"
+    },
+    {
+      "sakeId": "tamagawa-tokubetsu-junmai-v1",
+      "text": "旨味が特徴。キレも楽しめます。"
+    },
+    {
+      "sakeId": "kariho-yamahai-junmai-chokarakuchi-v1",
+      "text": "きめ細やかに凝縮された旨味があり、大辛口の味わいも感じられます。"
+    },
+    {
+      "sakeId": "roman-junmai-ginjo-ichikai-hiire-2025by-v1",
+      "text": "純米吟醸酒です。"
+    },
+    {
+      "sakeId": "michizakura-junmai-rclass-v1",
+      "text": "純米酒です。"
+    },
+    {
+      "sakeId": "hououbiden-tsurugi-hiire-v1",
+      "text": "米の甘みとキレのある後味が特徴の酒。"
+    },
+    {
+      "sakeId": "shiramayumi-tokubetsu-junmai-hidahomare-standard",
+      "text": "落ち着いた香りと米の旨味が特徴の酒。"
+    },
+    {
+      "sakeId": "morishima-miyamanishiki-junmai-ginjo-hiire-v1",
+      "text": "控え目な吟醸香と、若々しい米の旨みを楽しめる一本。"
+    },
+    {
+      "sakeId": "tenryo-tobikiri-tokubetsu-junmai",
+      "text": "ほのかな熟成香を感じる一本。旨味も楽しめます。"
+    },
+    {
+      "sakeId": "daishinshu-tenouchi-namazume-v1",
+      "text": "軽快な味わいが特徴の一本。"
+    },
+    {
+      "sakeId": "sugata-kire-tokubetsu-junmai-v1",
+      "text": "飯沼銘醸株式会社が醸す一本。"
+    },
+    {
+      "sakeId": "sensuke-chokarakuchi-junmai-ginjo-genshu-ichibi-v1",
+      "text": "ほのかな米の旨味が特徴。スッキリした切れ味も楽しめます。"
+    },
+    {
+      "sakeId": "tsukasabotan-niyodo-blue-junmai-standard",
+      "text": "ナチュラルな香りが特徴。淡麗辛口も楽しめます。"
+    },
+    {
+      "sakeId": "mikotsuru-junmai-ginjo-hitogokochi-hiire-v1",
+      "text": "まろやかでふくらみのある味わいが特徴の一本。"
+    },
+    {
+      "sakeId": "ryozeki-junmai-ginjo-v1",
+      "text": "柔らかく優しい香りと、スッキリした味わいを楽しめる一本。"
+    },
+    {
+      "sakeId": "sasaichi-yata-junmai-daiginjo-v1",
+      "text": "上品で芳醇な旨みを楽しめます。"
+    },
+    {
+      "sakeId": "hanzo-tokubetsu-junmai-karakuchi-v1",
+      "text": "株式会社大田酒造が醸す一本。"
+    },
+    {
+      "sakeId": "hakutaka-kinmatsu-tokubetsu-junmai",
+      "text": "米の旨味を楽しめます。力強い飲み口も、このお酒の特徴です。"
+    },
+    {
+      "sakeId": "rokujuyoshu-junmai-ginjo-yamadanishiki-v1",
+      "text": "穏やかな吟醸香の酒。旨味と酸味の調和も楽しめます。"
+    },
+    {
+      "sakeId": "fukutsuru-junmai-ginjo-v1",
+      "text": "米本来の旨味が特徴。爽やかな味わいも楽しめます。"
+    },
+    {
+      "sakeId": "hakuinmasamune-karakuchi-junmai-standard",
+      "text": "辛口の味わいを楽しめます。"
+    },
+    {
+      "sakeId": "yokoyama-silver7-namazume-v1",
+      "text": "マスカットを思わせる香りと、ジューシーな甘みを楽しめる一本。"
+    },
+    {
+      "sakeId": "rokujuyoshu-tividq-3",
+      "text": "しっかりとした旨味、すっきりとした飲み口が特徴の酒。"
+    },
+    {
+      "sakeId": "hatsukame-karakara-beppin-v1",
+      "text": "控えめな酸味を楽しめます。超辛口の味わいも、このお酒の特徴です。"
+    },
+    {
+      "sakeId": "wakabotan-hatcho-hinohikari-v1",
+      "text": "リンゴやパッションフルーツを思わせる香りが特徴。フルーティーな味わいも楽しめます。"
+    },
+    {
+      "sakeId": "haneya-kirabi-nama-genshu-v1",
+      "text": "純米吟醸酒です。"
+    },
+    {
+      "sakeId": "nishinoseki-junmai-ginjo-bigin-v1",
+      "text": "吟醸香が特徴。旨味も楽しめます。"
+    },
+    {
+      "sakeId": "kurokabuto-green-label-v1",
+      "text": "洋ナシやリンゴを思わせる味わいがあり、爽やかな酸味も感じられます。"
+    },
+    {
+      "sakeId": "choryo-yoshinosugi-tarusake-standard",
+      "text": "杉の清々しい香りを感じる一本。旨みも楽しめます。"
+    },
+    {
+      "sakeId": "miyozakura-leaf-junmai-ginjo-v1",
+      "text": "華やかな吟醸香と柔らかな甘味が特徴の酒。"
+    },
+    {
+      "sakeId": "mifuku-yamahai-junmai-ginjo-iginjunsei-standard",
+      "text": "フルーティーな吟醸香が特徴。米の旨味も楽しめます。"
+    },
+    {
+      "sakeId": "kozaemon-bizen-omachi-hiire-v1",
+      "text": "柔らかな旨みが特徴。キレのよさも楽しめます。"
+    },
+    {
+      "sakeId": "mikadomatsu-shacho-no-sake-v1",
+      "text": "上品な香りを感じる一本。旨みも楽しめます。"
+    },
+    {
+      "sakeId": "fudo-ichido-hiire-junmai-daiginjo-v1",
+      "text": "まろやかな味わいを楽しめます。"
+    },
+    {
+      "sakeId": "tanzawasan-shuho-v1",
+      "text": "柔らかな味わいと後口のキレが特徴の酒。"
+    },
+    {
+      "sakeId": "zaru-so-hourai-junmai-green-v1",
+      "text": "柑橘系の含み香を楽しめます。最初に感じる米の甘味も、このお酒の特徴です。"
+    },
+    {
+      "sakeId": "sagaminada-tokubetsu-junmai-karakuchi-hiire-v1",
+      "text": "辛口の味わいを楽しめます。"
+    },
+    {
+      "sakeId": "niseko-suisei-junmai-ginjo-hiire-v1",
+      "text": "控えめな香りを感じる一本。すっきりした味わいも楽しめます。"
+    },
+    {
+      "sakeId": "gozenshu-junmai-ginjo-nyoisan-omachi-v1",
+      "text": "上品で華やかな香りがあり、ふくよかな旨味も感じられます。"
+    },
+    {
+      "sakeId": "gozenshu-junmai-mimasaka-v1",
+      "text": "穏やかな香りが特徴。雄町米の旨みも楽しめます。"
+    },
+    {
+      "sakeId": "shidaizumi-junmai-ginjo-yaizu-shumai-2026-v1",
+      "text": "爽やかな柑橘系の吟醸香があり、味わいの透明感も感じられます。"
+    },
+    {
+      "sakeId": "umenishiki-ginjo-tsuunosake-v1",
+      "text": "なめらかな口当たりと透明感が特徴。甘さを抑えた、ドライな味わいです。"
+    },
+    {
+      "sakeId": "kawatsuru-junmai-ooseto-hiire-v1",
+      "text": "熟したメロンやリンゴを思わせる上品な果実香と骨太な米の旨味が特徴の酒。"
+    },
+    {
+      "sakeId": "toyonoaki-junmai-ginjo-matsuezukushi-standard",
+      "text": "やわらかな吟香が特徴。しっかりとした芯のある旨味も楽しめます。"
+    },
+    {
+      "sakeId": "nichiei-junmai-ginjo-ishikawamon-standard",
+      "text": "やわらかな含み香と、深い旨みを楽しめる一本。"
+    },
+    {
+      "sakeId": "kinpai-junmai-yokozuna-standard",
+      "text": "米の旨みとまろやかな味わいが特徴の酒。"
+    },
+    {
+      "sakeId": "akaiwaomachi-junmai-daiginjo-standard-v1",
+      "text": "雄町米の旨味を楽しめます。"
+    },
+    {
+      "sakeId": "iyo-kagiya-junmai-aka-label-v1",
+      "text": "米の旨味を残した軽快な味わいを楽しめます。"
+    },
+    {
+      "sakeId": "seiryozen-tokubetsu-junmai-the-plains-v1",
+      "text": "優しいお米の旨みと、後口のキレを楽しめる一本。"
+    },
+    {
+      "sakeId": "suigei-junmai-daiginjo-hyogo-yamadanishiki50-v1",
+      "text": "軽やかな吟醸香と、上品な旨みを楽しめる一本。"
+    },
+    {
+      "sakeId": "tenbu-junmai-ginjo-uzen-sakemirai-v1",
+      "text": "芳醇なメロンを思わせる上品な香りを楽しめます。濃厚な旨味も、このお酒の特徴です。"
+    },
+    {
+      "sakeId": "niwanouguisu-junmai-ginjo-nuruhada-v1",
+      "text": "しっかりとした酸味と、しっかりとした甘みを楽しめる一本。"
+    },
+    {
+      "sakeId": "takakiya-karakuchi-tokubetsu-junmai-v1",
+      "text": "さらりとした飲み口と、旨味、キレを楽しめます。辛口の味わいも、このお酒の特徴です。"
+    },
+    {
+      "sakeId": "tonbo-tokubetsu-junmai-standard-v1",
+      "text": "米の旨味と、すっきりした味わいを楽しめる一本。"
+    },
+    {
+      "sakeId": "kitanonishiki-maruta-tokubetsu-junmai-v1",
+      "text": "力強い米の旨味と濃厚な味わいが特徴の酒。"
+    },
+    {
+      "sakeId": "niwanouguisu-tokubetsu-junmai-standard-v1",
+      "text": "口当たりは軽く、味わいは深い酒。ドライな味わいも楽しめます。"
+    },
+    {
+      "sakeId": "houraisen-bi-junmai-daiginjo-standard-v1",
+      "text": "華やかな香りを感じる一本。まろやかな口当たりも楽しめます。"
+    },
+    {
+      "sakeId": "shosetsu-junmai-ginjo-yamadanishiki-standard-v1",
+      "text": "果実の香りと、しっとりとした味わいを楽しめる一本。"
+    },
+    {
+      "sakeId": "takijiman-hayase-karakuchi-junmai-v1",
+      "text": "すっきりとしたキレの良い味わいを楽しめます。辛口の味わいも、このお酒の特徴です。"
+    },
+    {
+      "sakeId": "kazenomori-akitsuho-657-standard-v1",
+      "text": "瓜や洋梨のような香りを感じる一本。複雑な味わいも楽しめます。"
+    },
+    {
+      "sakeId": "kirei-karakuchi-junmai-hachiju-hiire-v1",
+      "text": "米の旨味があり、微細な酸味も感じられます。"
+    },
+    {
+      "sakeId": "sogen-genshin-junmai-daiginjo-standard-v1",
+      "text": "優しい香りがあり、豊かな味わいも感じられます。"
+    },
+    {
+      "sakeId": "tomio-gion-komachi-junmai-ginjo-standard",
+      "text": "やわらかな口あたりを楽しめます。"
+    },
+    {
+      "sakeId": "sogen-notonokuni-junmai-standard-v1",
+      "text": "なめらかな喉ごしを楽しめます。"
+    },
+    {
+      "sakeId": "houken-junmai-ginjo-hattannishiki-standard-v1",
+      "text": "米の旨味が特徴の一本。"
+    },
+    {
+      "sakeId": "nanbubijin-junmai-daiginjo-sakemirai-standard-v1",
+      "text": "上品な吟醸香と、すっきりとした酸味を楽しめる一本。"
+    },
+    {
+      "sakeId": "houken-junmai-hattannishiki-green-v1",
+      "text": "軽快な飲み口を楽しめます。キレのよい余韻も、このお酒の特徴です。"
+    },
+    {
+      "sakeId": "sawanoi-junmai-daikarakuchi-standard-v1",
+      "text": "きれの良い辛口を楽しめます。辛口の味わいも、このお酒の特徴です。"
+    },
+    {
+      "sakeId": "kokuryu-icchorai-jungin-standard-v1",
+      "text": "柔らかく深い旨味が特徴。心地よいキレも楽しめます。"
+    },
+    {
+      "sakeId": "toyobijin-junmai-ginjo-50-standard-v1",
+      "text": "青りんごのような上品な香りと、しっかりとした旨みを楽しめる一本。"
+    },
+    {
+      "sakeId": "tenmei-orange-funashibori-junmai-hiire-standard-v1",
+      "text": "やわらかな旨味が特徴。ほのかな甘みも楽しめます。"
+    },
+    {
+      "sakeId": "sagaminada-junmai-ginjo-miyamanishiki-standard-v1",
+      "text": "爽やかな吟醸香を楽しめます。軽快な口あたりも、このお酒の特徴です。"
+    },
+    {
+      "sakeId": "shinomine-takeyama-junmai-yamadanishiki-chokarakuchi-hiire-v1",
+      "text": "すっきりした後口と辛口の味わいが特徴の酒。"
+    },
+    {
+      "sakeId": "shinomine-rinrin-setoomachi-junmai-ginjo-muroka-nama-genshu-v1",
+      "text": "新鮮でフルーティーな香りと、爽やかな甘味を楽しめる一本。"
+    },
+    {
+      "sakeId": "hiran-nikomaru-hiire-standard-v1",
+      "text": "穏やかな香りを感じる一本。にこまるの旨味も楽しめます。"
+    },
+    {
+      "sakeId": "tenon-junmai-standard-ichikai-hiire-v1",
+      "text": "純米酒です。"
+    },
+    {
+      "sakeId": "ozeki-tokusen-tokubetsu-junmai-yamadanishiki-standard",
+      "text": "まろやかな香りを感じる一本。ふくよかな旨みも楽しめます。"
+    },
+    {
+      "sakeId": "housui-tokubetsu-junmai-standard-v1",
+      "text": "ふくらみのある香味が特徴の一本。"
+    },
+    {
+      "sakeId": "hitakami-sakana-label-tokubetsu-junmai-hiire-v1",
+      "text": "微かな果実の香りを感じる一本。柔らかな旨味も楽しめます。"
+    },
+    {
+      "sakeId": "tosa-shiragiku-zankara-tokubetsu-junmai-standard-v1",
+      "text": "果実の爽やかな香りがあり、斬れの良い辛口も感じられます。"
+    },
+    {
+      "sakeId": "kenkonichi-chokarakuchi-junmai-ginjo-genshu-hiire-v1",
+      "text": "やさしい旨みを楽しめます。キレのよさも、このお酒の特徴です。"
+    },
+    {
+      "sakeId": "hitakami-chokarakuchi-junmai-standard-v1",
+      "text": "爽やかな果実様香を感じる一本。やや豊潤な味わいも楽しめます。"
+    },
+    {
+      "sakeId": "umebijin-junmai-ginjo-sakurahime-standard",
+      "text": "甘味と酸味のバランスを楽しめます。果物感のある甘味も、このお酒の特徴です。"
+    },
+    {
+      "sakeId": "taiten-shiragiku-junmai-shiragiku-standard-v1",
+      "text": "米の旨みを楽しめます。"
+    },
+    {
+      "sakeId": "sohomare-kimoto-tokubetsu-junmai",
+      "text": "密度の高い旨み、しっかりとした酸味が特徴の酒。"
+    },
+    {
+      "sakeId": "kawanakajima-tokubetsu-junmai-standard-v1",
+      "text": "柔らかさとコクと、キレを楽しめる一本。"
+    },
+    {
+      "sakeId": "kirari-junmai-genshu-hiire-standard-v1",
+      "text": "純米酒です。"
+    },
+    {
+      "sakeId": "takachiyo-karakuchi-junmai-miyamanishiki-plus19-hiire-v1",
+      "text": "米の旨味が特徴。キレも楽しめます。"
+    },
+    {
+      "sakeId": "hourai-junmai-ginjo-kaden-tezukuri-v1",
+      "text": "お米本来の香りが特徴の一本。"
+    },
+    {
+      "sakeId": "shoutoku-karaku-tokubetsu-junmai-karakuchi-genshu-standard",
+      "text": "すっきりとした酸味を楽しめます。辛口の味わいも、このお酒の特徴です。"
+    },
+    {
+      "sakeId": "jikon-tokubetsu-junmai-hiire-standard-v1",
+      "text": "特別純米酒です。"
+    },
+    {
+      "sakeId": "jikon-junmai-ginjo-omachi-hiire-standard-v1",
+      "text": "純米吟醸酒です。"
+    },
+    {
+      "sakeId": "jikon-junmai-ginjo-yamadanishiki-hiire-standard-v1",
+      "text": "純米吟醸酒です。"
+    },
+    {
+      "sakeId": "gikyo-enishi-junmai-aged-blend-v1",
+      "text": "純米酒です。"
+    },
+    {
+      "sakeId": "kankiku-ocean99-toumi-arrival-hiire-v1",
+      "text": "純米吟醸酒です。"
+    },
+    {
+      "sakeId": "banshu-ikkon-junmai-chokarakuchi-hiire-v1",
+      "text": "滑らかな後味を感じる一本。辛口の味わいも楽しめます。"
+    },
+    {
+      "sakeId": "kasen-maboroshi-no-sake-tokubetsu-honjozo-standard-v1",
+      "text": "旨味が特徴の一本。"
+    },
+    {
+      "sakeId": "akishika-junmai-inaho-yamadanishiki-75-v1",
+      "text": "力強い米の旨味と辛口の味わいが特徴の酒。"
+    },
+    {
+      "sakeId": "akishika-yamahai-junmai-yamadanishiki-70-muroka-genshu-hiire-v1",
+      "text": "純米酒です。"
+    },
+    {
+      "sakeId": "chochin-tokubetsu-junmai-gold-standard-v1",
+      "text": "深みのある味わいが特徴の一本。"
+    },
+    {
+      "sakeId": "senkin-retro-ichishiki-hiire-v1",
+      "text": "甘酸っぱい味わいを感じる一本。キレのある後味も楽しめます。"
+    },
+    {
+      "sakeId": "senkin-classic-nishiki-origarami-hiire-v1",
+      "text": "やわらかな口当たりを感じる一本。酸味も楽しめます。"
+    },
+    {
+      "sakeId": "senkin-modern-ichishiki-hiire-v1",
+      "text": "ボリューム感と厚みを楽しめます。"
+    },
+    {
+      "sakeId": "yorokobi-gaijin-tezukuri-junmai-hiire-standard-v1",
+      "text": "凝縮された旨みがあり、酸味も感じられます。"
+    },
+    {
+      "sakeId": "aramasa-no6-r-type-nama-standard-v1",
+      "text": "旨味を楽しめます。"
+    },
+    {
+      "sakeId": "aramasa-viridian-hiire-standard-v1",
+      "text": "味わいに厚みのある酒。余韻も楽しめます。"
+    },
+    {
+      "sakeId": "yui-omachi-junmai-ginjo-chokarakuchi-raifuku-v1",
+      "text": "超辛口の味わいを楽しめます。"
+    },
+    {
+      "sakeId": "ubusuna-yamada-nishiki-ninojo-2025-nama-v1",
+      "text": "和梨、柑橘、白桃を思わせる香りが特徴。軽快で優しい飲み口も楽しめます。"
+    },
+    {
+      "sakeId": "okunokami-junmai-ginjo-muchosei-nama-v1",
+      "text": "華やかでフルーティーな香りを楽しめます。軽やかな口当たりも、このお酒の特徴です。"
+    },
+    {
+      "sakeId": "tabika-junmai-funashibori-ichikai-hiire-v1",
+      "text": "穏やかな米の香りを感じる一本。自然な旨みも楽しめます。"
+    },
+    {
+      "sakeId": "kirei-banjisakazukinonaka-junmai-hiire-v1",
+      "text": "ほどよい旨みを感じる一本。控えめな甘さも楽しめます。"
+    },
+    {
+      "sakeId": "sakuta-tokubetsu-junmai-keiyaku-v1",
+      "text": "米の旨みを楽しめます。ふわりとした甘みも、このお酒の特徴です。"
+    },
+    {
+      "sakeId": "hokuan-daikoku-junmai70-v1",
+      "text": "コクのある味わいを楽しめます。甘みと酸味のバランスも、このお酒の特徴です。"
+    },
+    {
+      "sakeId": "goshun-honmaru-honjozo-v1",
+      "text": "しっとり穏やかな口当たりが特徴の一本。"
+    },
+    {
+      "sakeId": "wakaze-the-classic-yamagata-v1",
+      "text": "ボディ感がありながら、飲み心地は軽い酒。酸味のニュアンスも楽しめます。"
+    },
+    {
+      "sakeId": "hisagotaiko-ginjo-awa-yamadanishiki-standard",
+      "text": "華やかな香りとなめらかな喉ごしが特徴の酒。"
+    },
+    {
+      "sakeId": "ine-to-agave-doburoku6-v1",
+      "text": "稲とアガベ株式会社が醸す一本。"
+    },
+    {
+      "sakeId": "narutotai-junmai-tomoe-v1",
+      "text": "ふくよかな香りを感じる一本。幅のある米の旨味も楽しめます。"
+    },
+    {
+      "sakeId": "gekkeikan-horin-junmai-daiginjo-standard",
+      "text": "マスカットのような香りがあり、上品な甘みも感じられます。"
+    },
+    {
+      "sakeId": "koshino-kagetora-junmai-standard-v1",
+      "text": "優しい香りを感じる一本。米の旨味も楽しめます。"
+    },
+    {
+      "sakeId": "zuiyo-honjozo-chokarakuchi-v1",
+      "text": "超辛口の味わいを楽しめます。"
+    },
+    {
+      "sakeId": "azumanofumoto-junmai-ginjo-yamagata-selection-v1",
+      "text": "穏やかな香りを楽しめます。柔らかい口当たりも、このお酒の特徴です。"
+    },
+    {
+      "sakeId": "zao-junmai-ginjo-catalog-v1",
+      "text": "果実の香りが特徴。旨味も楽しめます。"
+    },
+    {
+      "sakeId": "chokyu-tokusen-honjozo-catalog-v1",
+      "text": "旨味が特徴。ふくらみも楽しめます。"
+    },
+    {
+      "sakeId": "hitorimusume-sayaka-tokubetsu-honjozo-catalog-v1",
+      "text": "軽快な味わいを感じる一本。超辛口の味わいも楽しめます。"
+    },
+    {
+      "sakeId": "tenjinbayashi-tokubetsu-honjozo-catalog-v1",
+      "text": "芳香と、旨味を楽しめる一本。"
+    },
+    {
+      "sakeId": "ayumasamune-honjozo-catalog-v1",
+      "text": "まろやかな旨味とすっきりした口当たりが特徴の酒。"
+    },
+    {
+      "sakeId": "wakitaya-tokubetsu-honjozo-catalog-v1",
+      "text": "淡麗な味わいがあり、辛口の味わいも感じられます。"
+    },
+    {
+      "sakeId": "koshijifubuki-akiagari-2026-catalog-v1",
+      "text": "豊かな旨味と、やわらかい口当たりを楽しめる一本。"
+    },
+    {
+      "sakeId": "chiyonohikari-shin-tokubetsu-honjozo-catalog-v1",
+      "text": "米の旨味が特徴。淡麗な味わいも楽しめます。"
+    },
+    {
+      "sakeId": "kanbe-shiboritate-namachozo-catalog-v1",
+      "text": "ほのかな甘味が特徴。清涼感も楽しめます。"
+    },
+    {
+      "sakeId": "hokushika-akita-kasho-nigori-catalog-v1",
+      "text": "甘口の味わいがあり、すっきりした味わいも感じられます。"
+    },
+    {
+      "sakeId": "koshino-happo-origarami-catalog-v1",
+      "text": "華やかな香りがあり、やや辛口の味わいも感じられます。"
+    },
+    {
+      "sakeId": "kaishun-kimoto-yamaguchi-hiire-genshu-catalog-v1",
+      "text": "純米酒です。"
+    },
+    {
+      "sakeId": "suehiro-yamahai-junmai-ginjo-catalog-v1",
+      "text": "瑞々しい吟醸香が特徴。柔らかな米の旨味も楽しめます。"
+    },
+    {
+      "sakeId": "kirai-gin-junmai-daiginjo-180-catalog-v1",
+      "text": "上品な香りと、やさしい口当たりを楽しめる一本。"
+    },
+    {
+      "sakeId": "utouto-junmai-catalog-v1",
+      "text": "淡麗な味わいが特徴。米の甘味も楽しめます。"
+    },
+    {
+      "sakeId": "keigetsu-extra-dry-tokubetsu-junmai60-catalog-v1",
+      "text": "米の旨味とふくらみが特徴の酒。"
+    },
+    {
+      "sakeId": "sakuyabi14-junmai-ginjo-jikagumi-r7by-catalog-v1",
+      "text": "メロンを思わせる果実の香りと、フレッシュな味わいを楽しめる一本。"
+    },
+    {
+      "sakeId": "hachitsuru-junmai-ginjo-catalog-v1",
+      "text": "上品な香りを楽しめます。ふくよかな旨味も、このお酒の特徴です。"
+    },
+    {
+      "sakeId": "tonegawa-sodachi-junmai-ginjo-catalog-v1",
+      "text": "香りを感じる一本。まろやかな味も楽しめます。"
+    },
+    {
+      "sakeId": "gonin-musume-junmai-catalog-v1",
+      "text": "旨味が特徴。酸味も楽しめます。"
+    },
+    {
+      "sakeId": "sakari-masu-tokubetsu-junmai-catalog-v1",
+      "text": "米の旨味とキレが特徴の酒。"
+    },
+    {
+      "sakeId": "obasute-masamune-junmai-karakuchi-catalog-v1",
+      "text": "米の旨味と軽快な味わいが特徴の酒。"
+    },
+    {
+      "sakeId": "waraijogo-junmai-daiginjo-catalog-v1",
+      "text": "上品な香りと、やわらかな米の旨味を楽しめる一本。"
+    },
+    {
+      "sakeId": "hakkaisan-jd-lineup-v1",
+      "text": "上品な甘味と、キレを楽しめる一本。"
+    },
+    {
+      "sakeId": "hakkaisan-daiginjo-lineup-v1",
+      "text": "まろやかな味わいが特徴。上品な甘味も楽しめます。"
+    },
+    {
+      "sakeId": "hokusetsu-hikari-centrifuge-junmai-daiginjo-catalog-v1",
+      "text": "華やかな香りと、ふくらみを楽しめる一本。"
+    },
+    {
+      "sakeId": "masumi-kuro-lineup-v1",
+      "text": "旨味と酸味が特徴の酒。"
+    },
+    {
+      "sakeId": "hakkaisan-seishu-lineup-v1",
+      "text": "淡麗な味わいが特徴の一本。"
+    },
+    {
+      "sakeId": "masumi-shiro-lineup-v1",
+      "text": "米の旨味があり、軽快な味わいも感じられます。"
+    },
+    {
+      "sakeId": "ichinokura-mukansa-karakuchi-lineup-v1",
+      "text": "穏やかな香りと、すっきりした後味を楽しめる一本。"
+    },
+    {
+      "sakeId": "ichinokura-mukansa-chokarakuchi-lineup-v1",
+      "text": "超辛口の味わいがあり、キレも感じられます。"
+    },
+    {
+      "sakeId": "masumi-kaya-lineup-v1",
+      "text": "米の旨味が特徴。酸味も楽しめます。"
+    },
+    {
+      "sakeId": "ichinokura-himezen-lineup-v1",
+      "text": "爽やかな酸味と極甘口が特徴の酒。"
+    },
+    {
+      "sakeId": "urakasumi-karakuchi-lineup-v1",
+      "text": "ほのかな香りと、辛口の味わいを楽しめる一本。"
+    },
+    {
+      "sakeId": "daishichi-kaiden-lineup-v1",
+      "text": "熟成感が特徴の一本。"
+    },
+    {
+      "sakeId": "daishichi-minowamon-lineup-v1",
+      "text": "芳しい香りがあり、すっきりした味わいも感じられます。"
+    },
+    {
+      "sakeId": "dewazakura-tsuyahime-lineup-v1",
+      "text": "果実の香り（洋梨のような香り）を感じる一本。上品な甘味も楽しめます。"
+    },
+    {
+      "sakeId": "dewazakura-ichiko-lineup-v1",
+      "text": "米の旨味を感じる一本。まろやかな味わいも楽しめます。"
+    },
+    {
+      "sakeId": "urakasumi-honshikomi-lineup-v1",
+      "text": "爽やかな香りがあり、さっぱりした後味も感じられます。"
+    },
+    {
+      "sakeId": "ichinokura-suzune-lineup-v1",
+      "text": "やわらかな甘酸っぱさと、米のやさしい味わいを楽しめる一本。"
+    },
+    {
+      "sakeId": "kikusui-junmai-lineup-v1",
+      "text": "米の旨味があり、酸味も感じられます。"
+    },
+    {
+      "sakeId": "kikusui-karakuchi-lineup-v1",
+      "text": "旨味を感じる一本。辛口の味わいも楽しめます。"
+    },
+    {
+      "sakeId": "suigei-ginrei-lineup-v1",
+      "text": "吟醸香が特徴。旨味も楽しめます。"
+    },
+    {
+      "sakeId": "suigei-koiku54-lineup-v1",
+      "text": "ほのかな吟醸香を楽しめます。米の旨味も、このお酒の特徴です。"
+    },
+    {
+      "sakeId": "nanbubijin-jg-lineup-v1",
+      "text": "吟醸香と、やさしい甘味を楽しめる一本。"
+    },
+    {
+      "sakeId": "tengumai-umajun-lineup-v1",
+      "text": "旨味を楽しめます。酸味も、このお酒の特徴です。"
+    },
+    {
+      "sakeId": "nanbubijin-jd-lineup-v1",
+      "text": "華やかな吟醸香を楽しめます。濃密な味わいも、このお酒の特徴です。"
+    },
+    {
+      "sakeId": "kikumasamune-kaho-lineup-v1",
+      "text": "コクが特徴。穏やかな酸味も楽しめます。"
+    },
+    {
+      "sakeId": "kagatobi-gokkan-lineup-v1",
+      "text": "米の旨味と、軽快な味わいを楽しめる一本。"
+    },
+    {
+      "sakeId": "hakutsuru-daiginjo-lineup-v1",
+      "text": "りんごのような香りと、味わいの透明感を楽しめる一本。"
+    },
+    {
+      "sakeId": "kagatobi-yamahai-lineup-v1",
+      "text": "酸味を感じる一本。超辛口の味わいも楽しめます。"
+    },
+    {
+      "sakeId": "okunomatsu-adatara-lineup-v1",
+      "text": "バランスのとれた味を感じる一本。辛口の味わいも楽しめます。"
+    },
+    {
+      "sakeId": "kuroobi-yuyu-lineup-v1",
+      "text": "芳醇な旨味と辛口の味わいが特徴の酒。"
+    },
+    {
+      "sakeId": "okunomatsu-jg-lineup-v1",
+      "text": "爽やかな香りと、旨味を楽しめる一本。"
+    },
+    {
+      "sakeId": "jozen-jd-lineup-v1",
+      "text": "華やかな香りが特徴。味わいの深みも楽しめます。"
+    },
+    {
+      "sakeId": "minatoya-tosuke-lineup-v1",
+      "text": "穏やかな香りとコクが特徴の酒。"
+    },
+    {
+      "sakeId": "uonuma-junmai-lineup-v1",
+      "text": "穏やかな香りと米の旨味が特徴の酒。"
+    },
+    {
+      "sakeId": "ozeki-gokuama-lineup-v1",
+      "text": "穏やかな吟醸香とコクが特徴の酒。"
+    },
+    {
+      "sakeId": "ozeki-karatanba-lineup-v1",
+      "text": "旨味と淡麗辛口が特徴の酒。"
+    },
+    {
+      "sakeId": "mio-sparkling-lineup-v1",
+      "text": "果実の香り（マスカットのような香り）が特徴。やさしい甘味も楽しめます。"
+    },
+    {
+      "sakeId": "urakasumi-zen-lineup-v1",
+      "text": "穏やかな果実香と旨味が特徴の酒。"
+    },
+    {
+      "sakeId": "gekkeikan-nigori-lineup-v1",
+      "text": "フルーティーな香りを楽しめます。爽やかな酸味も、このお酒の特徴です。"
+    },
+    {
+      "sakeId": "nihonsakari-daiginjo-lineup-v1",
+      "text": "華やかな香りを楽しめます。ほのかな甘味も、このお酒の特徴です。"
+    },
+    {
+      "sakeId": "kamotsuru-jg-lineup-v1",
+      "text": "穏やかな香りが特徴。やわらかな口当たりも楽しめます。"
+    },
+    {
+      "sakeId": "azumaichi-jd-lineup-v1",
+      "text": "果実の香りと柔らかな旨味が特徴の酒。"
+    },
+    {
+      "sakeId": "koeigiku-sukai-hiire-current-v1",
+      "text": "柑橘系の香りがあり、酸味も感じられます。"
+    },
+    {
+      "sakeId": "manrei-chokarakuchi-tokubetsu-junmai-current-v1",
+      "text": "旨味と辛口の味わいが特徴の酒。"
+    },
+    {
+      "sakeId": "kihotsuru-junmai-current-v1",
+      "text": "やわらかな旨味を感じる一本。爽やかな酸味も楽しめます。"
+    },
+    {
+      "sakeId": "matsunokotobuki-omachi-hiire-current-v1",
+      "text": "穏やかな香りが特徴。ふくらみのある旨味も楽しめます。"
+    },
+    {
+      "sakeId": "kurobekyo-junmai-ginjo55-current-v1",
+      "text": "豊かな味わいを楽しめます。"
+    },
+    {
+      "sakeId": "fukuiwai-yamada50-junmai-ginjo-current-v1",
+      "text": "吟醸香を楽しめます。淡麗辛口も、このお酒の特徴です。"
+    },
+    {
+      "sakeId": "oku-ten-year-junmai-ginjo-genshu-current-v1",
+      "text": "華やかな香りが特徴。まろやかな味わいも楽しめます。"
+    },
+    {
+      "sakeId": "ohga-asahi-junmai-ginjo-current-v1",
+      "text": "淡麗な味わいを感じる一本。辛口の味わいも楽しめます。"
+    },
+    {
+      "sakeId": "ryusei-muku-omachi-kimoto-current-v1",
+      "text": "旨味と、力強い味わいを楽しめる一本。"
+    },
+    {
+      "sakeId": "kameman-nigori-genshu-current-v1",
+      "text": "コクがあり、ほどよい酸味も感じられます。"
+    },
+    {
+      "sakeId": "hiokizakura-tokujo-junmai-omachi-current-v1",
+      "text": "黒糖を思わせる香りがあり、甘味も感じられます。"
+    },
+    {
+      "sakeId": "shinshu-kirei-inakura-hitogokochi-junmai-ginjo-current-v1",
+      "text": "爽やかな香りを感じる一本。軽快な口当たりも楽しめます。"
+    },
+    {
+      "sakeId": "kameizumi-kouiku63-hiyaoroshi-current-v1",
+      "text": "バナナやメロンのような香りとふくらみのある旨味が特徴の酒。"
+    },
+    {
+      "sakeId": "abe-silver-hiire-current-v1",
+      "text": "やさしい旨味と、軽やかな味わいを楽しめる一本。"
+    },
+    {
+      "sakeId": "haginotsuyu-amadare-tomizu-hiire-current-v1",
+      "text": "爽やかな味わいが特徴。濃密な味わいも楽しめます。"
+    },
+    {
+      "sakeId": "shichihonyari-muu-1800-current-v1",
+      "text": "優しさと柔らかさのある味わいを楽しめます。"
+    },
+    {
+      "sakeId": "tokachi-tokubetsu-junmai-suisei-current-v1",
+      "text": "キレを楽しめます。"
+    },
+    {
+      "sakeId": "hanaabi-gohyakumangoku-muroka-namagenshu-1800-current-v1",
+      "text": "豊かな果実感のある香りを楽しめます。甘さは控えめも、このお酒の特徴です。"
+    },
+    {
+      "sakeId": "sara-junmai-ginjo-namazume-current-v1",
+      "text": "マスカットを思わせる吟醸香を楽しめます。米の甘味も、このお酒の特徴です。"
+    },
+    {
+      "sakeId": "mimurosugi-kioke-bodaimoto-jishaden-current-v1",
+      "text": "白桃のような柔らかな香りを感じる一本。じわりと広がる旨味も楽しめます。"
+    },
+    {
+      "sakeId": "eikofuji-hinowa-muroka-nama-2026-current-v1",
+      "text": "華やかな香りと、滑らかな口当たりを楽しめる一本。"
+    },
+    {
+      "sakeId": "shirakiku-ginshari-tokubetsu-junmai-current-v1",
+      "text": "程よい酸味を楽しめます。辛口の味わいも、このお酒の特徴です。"
+    },
+    {
+      "sakeId": "tanaka65-hiire-1800-current-v1",
+      "text": "麹の穏やかな香りを感じる一本。しっかりとした旨味も楽しめます。"
+    },
+    {
+      "sakeId": "kurumazaka-yamahai-akiagari-2019by-current-v1",
+      "text": "円熟した旨味が特徴。キレも楽しめます。"
+    },
+    {
+      "sakeId": "kagura-nojoho-junmai-ginjo-nama-current-v1",
+      "text": "白ブドウやパイナップルのような香りがあり、米の旨味も感じられます。"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "startedAt": "2026-10-23T04:08:29.155Z",
+  "checkedAt": "2026-10-23T04:11:14.318Z",
+  "rows": [
+    {
+      "name": "webpack",
+      "exitCode": 0,
+      "passed": true,
+      "durationMs": 161870
+    },
+    {
+      "name": "postbuild",
+      "exitCode": 0,
+      "passed": true,
+      "durationMs": 3291
+    }
+  ],
+  "passed": true
+}

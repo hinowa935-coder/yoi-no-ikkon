@@ -1,0 +1,26 @@
+{
+  "checkedAt": "2026-10-23T04:24:56.710Z",
+  "scan": {
+    "scannedFiles": 9006,
+    "unreadableFiles": 0,
+    "findings": [],
+    "passed": true,
+    "configuredValuesChecked": [
+      "applicationId",
+      "accessKey",
+      "affiliateId"
+    ],
+    "limitation": null
+  },
+  "envIgnored": true,
+  "envTracked": false,
+  "changedExistingSourceFiles": [
+    "src/app/sake/[slug]/page.jsx"
+  ],
+  "protectedFiles": 167,
+  "itemsUnchanged": true,
+  "recommendationUnchanged": true,
+  "cspUnchanged": true,
+  "dependenciesUnchanged": true,
+  "passed": true
+}

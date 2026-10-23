@@ -1,0 +1,67 @@
+{
+  "checkedAt": "2026-10-23T04:25:29.101Z",
+  "active": 484,
+  "before": {
+    "GENERIC": 438,
+    "TOO_SHORT": 446,
+    "CLASSIFICATION_BASED": 43,
+    "UNSUPPORTED_SPECIFICITY": 0,
+    "REPETITIVE": 46,
+    "SOURCE_WEAK": 43,
+    "GOOD": 1
+  },
+  "after": {
+    "GENERIC": 113,
+    "TOO_SHORT": 357,
+    "CLASSIFICATION_BASED": 0,
+    "UNSUPPORTED_SPECIFICITY": 0,
+    "REPETITIVE": 22,
+    "SOURCE_WEAK": 25,
+    "GOOD": 95
+  },
+  "statuses": {
+    "REWRITTEN": 354,
+    "HELD_INSUFFICIENT_DETAIL": 104,
+    "HELD_NO_SOURCE": 18,
+    "HELD_IDENTITY_UNCLEAR": 7,
+    "UNCHANGED_GOOD": 1
+  },
+  "confidence": {
+    "HIGH": 355,
+    "MEDIUM": 104,
+    "LOW": 25
+  },
+  "newBodyReviews": 18,
+  "sourceUse": {
+    "BREWERY_OFFICIAL": 313,
+    "BREWERY_EC": 42,
+    "OFFICIAL_DOCUMENT": 2,
+    "SPECIALTY_RETAILER": 65,
+    "RAKUTEN_PRODUCT": 36,
+    "OTHER_SPECIALIST": 4
+  },
+  "sourceRetrieval": {
+    "attempted": 694,
+    "readable": 641,
+    "failedOrNonText": 53
+  },
+  "descriptions": 459,
+  "guideOnly": 25,
+  "changed": 379,
+  "duplicateBefore": {
+    "groups": 12,
+    "products": 46,
+    "pairs": 128
+  },
+  "duplicateAfter": {
+    "groups": 11,
+    "products": 22,
+    "pairs": 11
+  },
+  "highSimilarityBefore": 29,
+  "highSimilarityAfter": 38,
+  "unsupportedLexicalIssues": 0,
+  "protected": true,
+  "productionDeployed": false,
+  "functionalQa": false
+}

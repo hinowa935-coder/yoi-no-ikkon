@@ -21,10 +21,10 @@ test('Phase 2 appends specialties without changing any of the original 22 foods,
  for(const p of preserved.offers)assert.equal(hash(JSON.stringify(offers.find(o=>o.specialtyId===p.id))),p.sha256,p.id);
  for(const p of preserved.pairings)assert.equal(hash(JSON.stringify(localSakanaPairings.find(r=>r.sakeId===p.sakeId&&r.specialtyId===p.specialtyId))),p.sha256,p.sakeId);
 });
-test('only the three specialty data files and the observed Rakuten image CDN permission change',()=>{
+test('specialty changes stay frozen; the later taste rewrite adds only its exactly reviewed detail-page change',()=>{
  const baseline=read('docs/local-sakana-v2/baseline.json');assert.equal(baseline.sourceCommit,'24febe194c36ead121964400bbdc5214903aafb4');
  const changed=[];for(const r of baseline.files){const actual=hash(fs.readFileSync(new URL('../'+r.path,import.meta.url)));if(actual!==r.sha256){changed.push(r.path);assert(reviewedLocalSakanaV2(r.path,r.sha256,actual),r.path);assert(!reviewedLocalSakanaV2(r.path,r.sha256,'tampered'));}}
- assert.deepEqual(changed.sort(),['src/commerce/localSakana.json','src/specialties/master.json','src/specialties/pairings.json','vercel.json']);
+ assert.deepEqual(changed.sort(),['src/app/sake/[slug]/page.jsx','src/commerce/localSakana.json','src/specialties/master.json','src/specialties/pairings.json','vercel.json']);
 });
 test('new foods distinguish culture sources, ingredient origin, quantity and official creative provenance',()=>{
  const old=new Set(preserved.specialties.map(s=>s.id)),added=localSpecialties.filter(s=>!old.has(s.id));assert.equal(added.length,45);

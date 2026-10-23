@@ -1,0 +1,22 @@
+{
+  "reviewed": true,
+  "sourceCommit": "167ed5b8899d3ea6a7bc6f53267b3a9cfc8533c4",
+  "authorizedByAttachment": "6b1e9815-2755-4dc1-9d67-36340010dc74",
+  "changes": [
+    {
+      "file": "src/app/sake/[slug]/page.jsx",
+      "beforeSha256": "3d5c994f6d86fe236193322b59b623c0a8f6c0f177adfa57a045450e9073bd5d",
+      "afterSha256": "0ba76001f14e0954fd0d75ffdee0f908b82e59e44117335024ddce82a43d2979",
+      "historicalBeforeHashes": [
+        "3d5c994f6d86fe236193322b59b623c0a8f6c0f177adfa57a045450e9073bd5d",
+        "2ef852dbe26eca7a967e413359eb0820d1d71872e67f30b0c755fec17f0f4261",
+        "fefad281a01ec436d3efeef38bde1abd121b09a084f31dc783b24336405e9c0d",
+        "e8dcce3076cc3ac37b7c8f25694106e32a8d6305b5c75ab62ab9b0c6a6fd7a3f"
+      ]
+    }
+  ],
+  "newFiles": [
+    "src/data/tasteDescription.js",
+    "src/data/tasteDescriptions.json"
+  ]
+}

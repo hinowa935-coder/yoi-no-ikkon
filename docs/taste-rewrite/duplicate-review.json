@@ -1,0 +1,547 @@
+{
+  "before": {
+    "groups": 12,
+    "products": 46,
+    "pairs": 128,
+    "rows": [
+      {
+        "text": "純米吟醸酒です。",
+        "ids": [
+          "koimari-saki",
+          "kachikoma-modern-premium",
+          "ishizuchi-junmai-ginjo-1",
+          "chitosetsuru-junmai-ginjo-kitashizuku-v1",
+          "roman-junmai-ginjo-ichikai-hiire-2025by-v1",
+          "haneya-kirabi-nama-genshu-v1",
+          "jikon-junmai-ginjo-omachi-hiire-standard-v1",
+          "jikon-junmai-ginjo-yamadanishiki-hiire-standard-v1",
+          "kankiku-ocean99-toumi-arrival-hiire-v1"
+        ]
+      },
+      {
+        "text": "フレッシュな味わいが特徴の一本。",
+        "ids": [
+          "oze-no-yukidoke-junmai-daiginjo",
+          "kamo-kinshu-tokubetsu-junmai"
+        ]
+      },
+      {
+        "text": "純米大吟醸酒です。",
+        "ids": [
+          "murayu-kuro",
+          "hatsumago-i9diua",
+          "gotenzakura-iwjid2",
+          "senbazuru-hlzg7a",
+          "hanagaki-o0ffit-5",
+          "tatenokawa-kyuryu"
+        ]
+      },
+      {
+        "text": "芳醇な味わいを楽しめます。",
+        "ids": [
+          "tengumai-yamahai-junmai",
+          "fukutsukasa-junmai"
+        ]
+      },
+      {
+        "text": "純米酒です。",
+        "ids": [
+          "kachikoma-junmai",
+          "gikyo-tokubetsu-junmai",
+          "momokawa-tw2kq6",
+          "hamachidori-iaxjez",
+          "gassan-id2kl5",
+          "ganki-hitotsubi-junmai-v1",
+          "michizakura-junmai-rclass-v1",
+          "tenon-junmai-standard-ichikai-hiire-v1",
+          "kirari-junmai-genshu-hiire-standard-v1",
+          "gikyo-enishi-junmai-aged-blend-v1",
+          "akishika-yamahai-junmai-yamadanishiki-70-muroka-genshu-hiire-v1",
+          "kaishun-kimoto-yamaguchi-hiire-genshu-catalog-v1"
+        ]
+      },
+      {
+        "text": "穏やかな香りと米の旨味が特徴の酒。",
+        "ids": [
+          "mansaku-no-hana-o23n5c",
+          "sawanotsuru-junmai-yamadanishiki-standard",
+          "uonuma-junmai-lineup-v1"
+        ]
+      },
+      {
+        "text": "コクを感じる一本。キレも楽しめます。",
+        "ids": [
+          "kenbishi-g39ip7",
+          "rihaku-id2kl5-2"
+        ]
+      },
+      {
+        "text": "特別純米酒です。",
+        "ids": [
+          "asahigiku-o0fiap",
+          "jikon-tokubetsu-junmai-hiire-standard-v1"
+        ]
+      },
+      {
+        "text": "まろやかな味わいを楽しめます。",
+        "ids": [
+          "hakkaisan-tokubetsu-honjozo-1",
+          "fudo-ichido-hiire-junmai-daiginjo-v1"
+        ]
+      },
+      {
+        "text": "辛口の味わいを楽しめます。",
+        "ids": [
+          "hakuinmasamune-karakuchi-junmai-standard",
+          "sagaminada-tokubetsu-junmai-karakuchi-hiire-v1"
+        ]
+      },
+      {
+        "text": "吟醸香が特徴。旨味も楽しめます。",
+        "ids": [
+          "nishinoseki-junmai-ginjo-bigin-v1",
+          "suigei-ginrei-lineup-v1"
+        ]
+      },
+      {
+        "text": "超辛口の味わいを楽しめます。",
+        "ids": [
+          "yui-omachi-junmai-ginjo-chokarakuchi-raifuku-v1",
+          "zuiyo-honjozo-chokarakuchi-v1"
+        ]
+      }
+    ]
+  },
+  "after": {
+    "groups": 11,
+    "products": 22,
+    "pairs": 11,
+    "rows": [
+      {
+        "text": "フレッシュな味わいが特徴の一本。",
+        "ids": [
+          "oze-no-yukidoke-junmai-daiginjo",
+          "kamo-kinshu-tokubetsu-junmai"
+        ]
+      },
+      {
+        "text": "芳醇な味わいを楽しめます。",
+        "ids": [
+          "tengumai-yamahai-junmai",
+          "fukutsukasa-junmai"
+        ]
+      },
+      {
+        "text": "味わいにはふくらみがあります。後口にはキレがあります。",
+        "ids": [
+          "hakoneyama-nz2hmwijh",
+          "aramasa-junmai-1"
+        ]
+      },
+      {
+        "text": "コクがあります。後口にはキレがあります。",
+        "ids": [
+          "kenbishi-g39ip7",
+          "rihaku-id2kl5-2"
+        ]
+      },
+      {
+        "text": "まろやかな味わいを楽しめます。",
+        "ids": [
+          "hakkaisan-tokubetsu-honjozo-1",
+          "fudo-ichido-hiire-junmai-daiginjo-v1"
+        ]
+      },
+      {
+        "text": "旨味を感じます。後口にはキレがあります。",
+        "ids": [
+          "tamagawa-tokubetsu-junmai-v1",
+          "suigei-ginrei-lineup-v1"
+        ]
+      },
+      {
+        "text": "辛口の味わいを楽しめます。",
+        "ids": [
+          "hakuinmasamune-karakuchi-junmai-standard",
+          "sagaminada-tokubetsu-junmai-karakuchi-hiire-v1"
+        ]
+      },
+      {
+        "text": "軽快な飲み心地です。米の旨味が感じられます。",
+        "ids": [
+          "iyo-kagiya-junmai-aka-label-v1",
+          "masumi-shiro-lineup-v1"
+        ]
+      },
+      {
+        "text": "旨味と辛口の味わいが感じられます。後口にはキレがあります。",
+        "ids": [
+          "takakiya-karakuchi-tokubetsu-junmai-v1",
+          "kikusui-karakuchi-lineup-v1"
+        ]
+      },
+      {
+        "text": "超辛口の味わいを楽しめます。",
+        "ids": [
+          "yui-omachi-junmai-ginjo-chokarakuchi-raifuku-v1",
+          "zuiyo-honjozo-chokarakuchi-v1"
+        ]
+      },
+      {
+        "text": "軽快な飲み心地です。米の旨味が感じられます。後口にはキレがあります。",
+        "ids": [
+          "obasute-masamune-junmai-karakuchi-catalog-v1",
+          "kagatobi-gokkan-lineup-v1"
+        ]
+      }
+    ]
+  },
+  "beforeSimilar": {
+    "threshold": 0.8,
+    "method": "Sørensen–Dice on Japanese character bigram sets, >=20 chars, exact duplicates separately counted",
+    "pairs": [
+      {
+        "a": "azumacho-junmai",
+        "b": "ugonotsuki-junmai-ginjo-1",
+        "score": 0.809
+      },
+      {
+        "a": "ugonotsuki-junmai-ginjo",
+        "b": "senkin-classic-nishiki-origarami-hiire-v1",
+        "score": 0.87
+      },
+      {
+        "a": "gohou-junmai",
+        "b": "tateyama-i4si9d",
+        "score": 0.8
+      },
+      {
+        "a": "suminoe-i3yhce",
+        "b": "shigemasu-o0fiap",
+        "score": 0.81
+      },
+      {
+        "a": "jokigen-i9diua",
+        "b": "hyakushun-junmai-josen-standard",
+        "score": 0.889
+      },
+      {
+        "a": "jozen-mizunogotoshi-junmai-ginjo-standard",
+        "b": "ugonotsuki-junmai-ginjo-1",
+        "score": 0.857
+      },
+      {
+        "a": "jozen-mizunogotoshi-junmai-ginjo-standard",
+        "b": "harushika-chokarakuchi-junmai",
+        "score": 0.815
+      },
+      {
+        "a": "jozen-mizunogotoshi-junmai-ginjo-standard",
+        "b": "nihonsakari-daiginjo-lineup-v1",
+        "score": 0.808
+      },
+      {
+        "a": "tosatsuru-honzo-karakuchi-standard",
+        "b": "ugonotsuki-junmai-ginjo-1",
+        "score": 0.833
+      },
+      {
+        "a": "shigemasu-o0fiap",
+        "b": "gozenshu-junmai-ginjo-nyoisan-omachi-v1",
+        "score": 0.851
+      },
+      {
+        "a": "kamotsuru-chotokusem-tokuto-tokubetsu-honjozo",
+        "b": "gozenshu-junmai-ginjo-nyoisan-omachi-v1",
+        "score": 0.8
+      },
+      {
+        "a": "hakurakusei-tokubetsu-junmai-1",
+        "b": "wakabotan-hatcho-hinohikari-v1",
+        "score": 0.812
+      },
+      {
+        "a": "kinoene-gg3q4p-2",
+        "b": "hakutaka-kinmatsu-tokubetsu-junmai",
+        "score": 0.808
+      },
+      {
+        "a": "kokuryu-junmai-ginjo-1",
+        "b": "mikotsuru-junmai-ginjo-hitogokochi-hiire-v1",
+        "score": 0.842
+      },
+      {
+        "a": "shirayuki-josen-junmai-standard",
+        "b": "eikofuji-hinowa-muroka-nama-2026-current-v1",
+        "score": 0.81
+      },
+      {
+        "a": "ugonotsuki-junmai-ginjo-1",
+        "b": "hachitsuru-junmai-ginjo-catalog-v1",
+        "score": 0.8
+      },
+      {
+        "a": "ugonotsuki-junmai-ginjo-1",
+        "b": "nihonsakari-daiginjo-lineup-v1",
+        "score": 0.816
+      },
+      {
+        "a": "harushika-chokarakuchi-junmai",
+        "b": "azumanofumoto-junmai-ginjo-yamagata-selection-v1",
+        "score": 0.842
+      },
+      {
+        "a": "hatsukame-karakara-beppin-v1",
+        "b": "shirakiku-ginshari-tokubetsu-junmai-current-v1",
+        "score": 0.815
+      },
+      {
+        "a": "houraisen-bi-junmai-daiginjo-standard-v1",
+        "b": "shinshu-kirei-inakura-hitogokochi-junmai-ginjo-current-v1",
+        "score": 0.833
+      },
+      {
+        "a": "takijiman-hayase-karakuchi-junmai-v1",
+        "b": "shoutoku-karaku-tokubetsu-junmai-karakuchi-genshu-standard",
+        "score": 0.844
+      },
+      {
+        "a": "shoutoku-karaku-tokubetsu-junmai-karakuchi-genshu-standard",
+        "b": "shirakiku-ginshari-tokubetsu-junmai-current-v1",
+        "score": 0.821
+      },
+      {
+        "a": "banshu-ikkon-junmai-chokarakuchi-hiire-v1",
+        "b": "kikusui-karakuchi-lineup-v1",
+        "score": 0.857
+      },
+      {
+        "a": "hitorimusume-sayaka-tokubetsu-honjozo-catalog-v1",
+        "b": "kagatobi-yamahai-lineup-v1",
+        "score": 0.857
+      },
+      {
+        "a": "hitorimusume-sayaka-tokubetsu-honjozo-catalog-v1",
+        "b": "ohga-asahi-junmai-ginjo-current-v1",
+        "score": 0.837
+      },
+      {
+        "a": "hokushika-akita-kasho-nigori-catalog-v1",
+        "b": "daishichi-minowamon-lineup-v1",
+        "score": 0.8
+      },
+      {
+        "a": "kikusui-karakuchi-lineup-v1",
+        "b": "kagatobi-yamahai-lineup-v1",
+        "score": 0.872
+      },
+      {
+        "a": "kikusui-karakuchi-lineup-v1",
+        "b": "okunomatsu-adatara-lineup-v1",
+        "score": 0.8
+      },
+      {
+        "a": "kikusui-karakuchi-lineup-v1",
+        "b": "ohga-asahi-junmai-ginjo-current-v1",
+        "score": 0.85
+      }
+    ]
+  },
+  "afterSimilar": {
+    "threshold": 0.8,
+    "method": "Sørensen–Dice on Japanese character bigram sets, >=20 chars, exact duplicates separately counted",
+    "pairs": [
+      {
+        "a": "azumaichi-junmai-ginjo",
+        "b": "suminoe-i3yhce",
+        "score": 0.8
+      },
+      {
+        "a": "azumaichi-junmai-ginjo",
+        "b": "mansaku-no-hana-o23n5c",
+        "score": 0.837
+      },
+      {
+        "a": "azumaichi-junmai-ginjo",
+        "b": "eikun-tokubetsu-junmai-homarefuji-v1",
+        "score": 0.865
+      },
+      {
+        "a": "azumaichi-junmai-ginjo",
+        "b": "uonuma-junmai-lineup-v1",
+        "score": 0.837
+      },
+      {
+        "a": "azumacho-junmai",
+        "b": "tamanohikari-junmai-ginjo-shukon-standard",
+        "score": 0.8
+      },
+      {
+        "a": "azumacho-junmai",
+        "b": "suigei-tokubetsu-junmai",
+        "score": 0.909
+      },
+      {
+        "a": "azumacho-junmai",
+        "b": "hakutaka-kinmatsu-tokubetsu-junmai",
+        "score": 0.8
+      },
+      {
+        "a": "azumacho-junmai",
+        "b": "sakari-masu-tokubetsu-junmai-catalog-v1",
+        "score": 0.851
+      },
+      {
+        "a": "miinokotobuki-junmai-ginjo",
+        "b": "reizan-junmai",
+        "score": 0.857
+      },
+      {
+        "a": "miinokotobuki-junmai-ginjo",
+        "b": "masumi-karakuchi-kiippon",
+        "score": 0.811
+      },
+      {
+        "a": "miinokotobuki-junmai-ginjo",
+        "b": "ichinokura-mukansa-chokarakuchi-lineup-v1",
+        "score": 0.947
+      },
+      {
+        "a": "reizan-junmai",
+        "b": "ichinokura-mukansa-chokarakuchi-lineup-v1",
+        "score": 0.857
+      },
+      {
+        "a": "yuki-no-bosha-junmai-ginjo",
+        "b": "taiten-shiragiku-iapi9d-5",
+        "score": 0.8
+      },
+      {
+        "a": "masumi-karakuchi-kiippon",
+        "b": "ichinokura-mukansa-chokarakuchi-lineup-v1",
+        "score": 0.811
+      },
+      {
+        "a": "tamanohikari-junmai-ginjo-shukon-standard",
+        "b": "sakari-masu-tokubetsu-junmai-catalog-v1",
+        "score": 0.93
+      },
+      {
+        "a": "tamanohikari-junmai-ginjo-shukon-standard",
+        "b": "kurumazaka-yamahai-akiagari-2019by-current-v1",
+        "score": 0.875
+      },
+      {
+        "a": "suigei-tokubetsu-junmai",
+        "b": "sakari-masu-tokubetsu-junmai-catalog-v1",
+        "score": 0.833
+      },
+      {
+        "a": "echigozakura-daiginjo-standard",
+        "b": "koshino-happo-origarami-catalog-v1",
+        "score": 0.8
+      },
+      {
+        "a": "kenbishi-g39ip7",
+        "b": "kawanakajima-tokubetsu-junmai-standard-v1",
+        "score": 0.839
+      },
+      {
+        "a": "kuroushi-gp8l70i9d",
+        "b": "gazan-junmai-daiginjo-standard",
+        "score": 0.833
+      },
+      {
+        "a": "jokigen-ishikawa-nozijh-4",
+        "b": "takakiya-karakuchi-tokubetsu-junmai-v1",
+        "score": 0.92
+      },
+      {
+        "a": "jokigen-ishikawa-nozijh-4",
+        "b": "takachiyo-karakuchi-junmai-miyamanishiki-plus19-hiire-v1",
+        "score": 0.83
+      },
+      {
+        "a": "jokigen-ishikawa-nozijh-4",
+        "b": "kikusui-karakuchi-lineup-v1",
+        "score": 0.92
+      },
+      {
+        "a": "takaisami-uzpgk6-4",
+        "b": "gazan-junmai-daiginjo-standard",
+        "score": 0.821
+      },
+      {
+        "a": "rihaku-id2kl5-2",
+        "b": "kawanakajima-tokubetsu-junmai-standard-v1",
+        "score": 0.839
+      },
+      {
+        "a": "shizengo-tokubetsu-junmai-v1",
+        "b": "kinpai-junmai-yokozuna-standard",
+        "score": 0.824
+      },
+      {
+        "a": "raifuku-junmai-ginjo-yamadanishiki-hiire-v1",
+        "b": "rokujuyoshu-junmai-ginjo-yamadanishiki-v1",
+        "score": 0.811
+      },
+      {
+        "a": "hakutaka-kinmatsu-tokubetsu-junmai",
+        "b": "sakari-masu-tokubetsu-junmai-catalog-v1",
+        "score": 0.833
+      },
+      {
+        "a": "hakutaka-kinmatsu-tokubetsu-junmai",
+        "b": "obasute-masamune-junmai-karakuchi-catalog-v1",
+        "score": 0.807
+      },
+      {
+        "a": "hakutaka-kinmatsu-tokubetsu-junmai",
+        "b": "kagatobi-gokkan-lineup-v1",
+        "score": 0.807
+      },
+      {
+        "a": "takakiya-karakuchi-tokubetsu-junmai-v1",
+        "b": "takachiyo-karakuchi-junmai-miyamanishiki-plus19-hiire-v1",
+        "score": 0.906
+      },
+      {
+        "a": "takachiyo-karakuchi-junmai-miyamanishiki-plus19-hiire-v1",
+        "b": "kikusui-karakuchi-lineup-v1",
+        "score": 0.906
+      },
+      {
+        "a": "senkin-classic-nishiki-origarami-hiire-v1",
+        "b": "kamotsuru-jg-lineup-v1",
+        "score": 0.829
+      },
+      {
+        "a": "hisagotaiko-ginjo-awa-yamadanishiki-standard",
+        "b": "hokusetsu-hikari-centrifuge-junmai-daiginjo-catalog-v1",
+        "score": 0.85
+      },
+      {
+        "a": "sakari-masu-tokubetsu-junmai-catalog-v1",
+        "b": "obasute-masamune-junmai-karakuchi-catalog-v1",
+        "score": 0.816
+      },
+      {
+        "a": "sakari-masu-tokubetsu-junmai-catalog-v1",
+        "b": "kagatobi-gokkan-lineup-v1",
+        "score": 0.816
+      },
+      {
+        "a": "sakari-masu-tokubetsu-junmai-catalog-v1",
+        "b": "kurumazaka-yamahai-akiagari-2019by-current-v1",
+        "score": 0.8
+      },
+      {
+        "a": "ichinokura-himezen-lineup-v1",
+        "b": "kihotsuru-junmai-current-v1",
+        "score": 0.895
+      }
+    ]
+  },
+  "note": "同じ確認済み特徴しかない場合は類似を許容。根拠なく言い換えを増やさない。25件の案内文は味わいの重複集計から除外し、別に数える。"
+}

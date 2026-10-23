@@ -27,6 +27,7 @@ import {localSakanaForSake} from '../../../specialties/localSakana.js';
 import {readCommerceConfig} from '../../../commerce/providers.js';
 import LocalSakana from '../../components/LocalSakana.jsx';
 import {namesSummary, specsSummary, purchaseSummary} from '../../../data/detailDisclosure.js';
+import {buildTasteDescription} from '../../../data/tasteDescription.js';
 
 export function generateStaticParams() {
   return [...new Set([...allSakePairings.map(i => i.id), ...legacyReferences.map(e => e.legacyId)])].map(slug => ({ slug }));
@@ -35,7 +36,7 @@ export async function generateMetadata({ params }) {
   const { slug } = await params;
   const item = getSakeById(slug);
   const ref = resolveSakeReference(slug);
-  if (item) return { title: `${item.productName}に合う料理と飲み方`, description: buildSakeListSummary(item), alternates: { canonical: `/sake/${item.id}` }, openGraph: { title: item.productName, url: `${SITE_URL}/sake/${item.id}` }, ...(sakeCatalogStatus(item.id)==='ARCHIVED'?{robots:{index:false}}:{}) };
+  if (item) return { title: `${item.productName}に合う料理と飲み方`, description: buildTasteDescription(item,buildSakeListSummary(item)).text, alternates: { canonical: `/sake/${item.id}` }, openGraph: { title: item.productName, url: `${SITE_URL}/sake/${item.id}` }, ...(sakeCatalogStatus(item.id)==='ARCHIVED'?{robots:{index:false}}:{}) };
   if (ref.status !== "unknown") return { title: ref.archivedName, robots: { index: false }, alternates: { canonical: `/sake/${slug}` } };
   return {};
 }
@@ -55,6 +56,7 @@ export default async function SakePage({ params }) {
   const dishes = dishesForSake(item);
   const nights = nightsForSake(item,Infinity).map(({id,name})=>({id,name}));
   const r = item.sakeResearch;
+  const taste = buildTasteDescription(item,buildSakeListSummary(item));
   const community = eligibleSensoryEvidence(item.communityEvidence, {skuId:item.id}).accepted;
   const formatFields = entries => entries.map(([label, value]) => [label, displaySpec(value, label.includes("精米歩合") ? "%" : label === "アルコール度数" ? "度" : "")]).filter(([, text]) => text);
   const essentials = formatFields([["蔵元", item.brewery], ["都道府県", item.prefecture], ["特定名称", r.classification.tokuteiMeishoshu || item.style.join(" / ")], ["原料米", r.specs.riceVariety], ["精米歩合", r.specs.polishingRatio], ["アルコール度数", r.specs.alcoholPercentage]]);
@@ -63,10 +65,10 @@ export default async function SakePage({ params }) {
   const purchasePreview = purchaseSummary(commerce);
   const localSakana = sakeCatalogStatus(item.id)==='ACTIVE'?localSakanaForSake(item,{config:readCommerceConfig(process.env),dishes:dishes.slice(0,6)}):[];
   const links = buildResourceLinks(item);
-  const references = detailReferences(r.sources, links, merchantAudit.records[item.id]);
+  const references = detailReferences([...r.sources,...taste.sources], links, merchantAudit.records[item.id]);
   const hasSpecs = essentials.length + fields.length > 0 || r.servingTemperatures.length > 0 || Boolean(displaySpec(r.recommendedTemperatureRange)) || buildSakeVerifiedTags(item).length > 0 || buildSakeEditorialTags(item).length > 0;
   const hasReferences = references.breweryLinks.length + references.productSources.length + community.length > 0;
-  const jsonLd = { "@context": "https://schema.org", "@type": "Product", name: item.productName, brand: { "@type": "Brand", name: item.brandName }, description: buildSakeListSummary(item), url: `${SITE_URL}/sake/${item.id}` };
+  const jsonLd = { "@context": "https://schema.org", "@type": "Product", name: item.productName, brand: { "@type": "Brand", name: item.brandName }, description: taste.text, url: `${SITE_URL}/sake/${item.id}` };
   return <DiscoveryShell>
     <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd).replaceAll("<", "\\u003c") }} />
     <section className="sake-detail-hero">
@@ -80,7 +82,7 @@ export default async function SakePage({ params }) {
     </section>
     <section className="detail-band sake-overview" aria-labelledby="sake-about">
       <h2 id="sake-about">味わい</h2>
-      <p className="sake-detail-intro">{buildSakeListSummary(item)}</p>
+      <p className="sake-detail-intro">{taste.text}</p>
       <ul className="feature-tags">{buildCardPresentation(item).tags.map(tag => <li key={tag}>{tag}</li>)}</ul>
       <dl className="taste-at-a-glance">{tastePresentationRows(r.flavorProfile).map(([label,value])=><div key={label}><dt>{label}</dt><dd>{value}</dd></div>)}</dl>
     </section>
