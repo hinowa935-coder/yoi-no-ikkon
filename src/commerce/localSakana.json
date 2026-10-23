@@ -2636,6 +2636,498 @@
         "productUrl": "https://item.rakuten.co.jp/kinko/096569/",
         "issuedAt": "2026-10-22T15:50:10.441Z"
       }
+    },
+    {
+      "specialtyId": "kanagawa-odawara-kamaboko",
+      "rakutenUrl": "https://item.rakuten.co.jp/kamaboko/454329/",
+      "merchant": "小田原鈴廣かまぼこ",
+      "itemCode": "kamaboko:10000172",
+      "sku": null,
+      "quantity": "白1本・260g",
+      "availabilityStatus": "AVAILABLE",
+      "originEvidence": {
+        "sourceUrl": "https://item.rakuten.co.jp/kamaboko/454329/",
+        "checkedAt": "2026-10-23T07:53:47.440Z",
+        "meaning": "鈴廣かまぼこ株式会社、神奈川県小田原市製造。魚肉は輸入・国産で、小田原水揚げ限定とはしない。"
+      },
+      "quantityEvidence": {
+        "sourceUrl": "https://item.rakuten.co.jp/kamaboko/454329/",
+        "checkedAt": "2026-10-23T07:53:47.440Z",
+        "meaning": "白1本・260g"
+      },
+      "lastCheckedAt": "2026-10-23T07:53:47.440Z",
+      "validUntil": "2027-01-21T00:00:00+09:00",
+      "registeredSite": "https://yoi-no-ikkon.vercel.app/",
+      "operatorApproved": true,
+      "affiliate": {
+        "sourceType": "rakutenOfficialTool",
+        "url": "https://hb.afl.rakuten.co.jp/ichiba/58bc1447.9bcbc1d9.58bc1448.3466855d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkamaboko%2F454329%2F&link_type=text&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJ0ZXh0Iiwic2l6ZSI6IjI0MHgyNDAiLCJuYW0iOjEsIm5hbXAiOiJyaWdodCIsImNvbSI6MSwiY29tcCI6ImRvd24iLCJwcmljZSI6MCwiYm9yIjoxLCJjb2wiOjEsImJidG4iOjEsInByb2QiOjAsImFtcCI6ZmFsc2V9",
+        "originalTextHtml": "<a href=\"https://hb.afl.rakuten.co.jp/ichiba/58bc1447.9bcbc1d9.58bc1448.3466855d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkamaboko%2F454329%2F&link_type=text&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJ0ZXh0Iiwic2l6ZSI6IjI0MHgyNDAiLCJuYW0iOjEsIm5hbXAiOiJyaWdodCIsImNvbSI6MSwiY29tcCI6ImRvd24iLCJwcmljZSI6MCwiYm9yIjoxLCJjb2wiOjEsImJidG4iOjEsInByb2QiOjAsImFtcCI6ZmFsc2V9\" target=\"_blank\" rel=\"nofollow sponsored noopener\" style=\"word-wrap:break-word;\">謹上蒲鉾白1本包 かまぼこ 蒲鉾 贈り物 ギフト 内祝い お土産 老舗 小田原 箱根 ご当地 グルメ 詰合せ 詰め合わせ お取り寄せ 小田原鈴廣かまぼこ 敬老の日 お歳暮 お中元</a>",
+        "issuedAt": "2026-10-23T07:48:45.762Z"
+      },
+      "image": {
+        "src": "https://hbb.afl.rakuten.co.jp/hgb/58bc1447.9bcbc1d9.58bc1448.3466855d/?me_id=1190348&item_id=10000172&pc=https%3A%2F%2Fthumbnail.image.rakuten.co.jp%2F%400_mall%2Fkamaboko%2Fcabinet%2Fitem%2F0121_01.jpg%3F_ex%3D240x240&s=240x240&t=pict",
+        "width": 240,
+        "height": 240,
+        "html": "<a href=\"https://hb.afl.rakuten.co.jp/ichiba/58bc1447.9bcbc1d9.58bc1448.3466855d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkamaboko%2F454329%2F&link_type=pict&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0Iiwic2l6ZSI6IjI0MHgyNDAiLCJuYW0iOjEsIm5hbXAiOiJyaWdodCIsImNvbSI6MSwiY29tcCI6ImRvd24iLCJwcmljZSI6MCwiYm9yIjoxLCJjb2wiOjEsImJidG4iOjEsInByb2QiOjAsImFtcCI6ZmFsc2V9\" target=\"_blank\" rel=\"nofollow sponsored noopener\" style=\"word-wrap:break-word;\"><img src=\"https://hbb.afl.rakuten.co.jp/hgb/58bc1447.9bcbc1d9.58bc1448.3466855d/?me_id=1190348&item_id=10000172&pc=https%3A%2F%2Fthumbnail.image.rakuten.co.jp%2F%400_mall%2Fkamaboko%2Fcabinet%2Fitem%2F0121_01.jpg%3F_ex%3D240x240&s=240x240&t=pict\" border=\"0\" style=\"margin:2px\" alt=\"\" title=\"\"></a>",
+        "originalSha256": "6bcf8ae61721aee17020a9414333ef5508949ff9126d7d98636ce87afc007924",
+        "sourceType": "rakutenOfficialTool",
+        "originalUnmodified": true,
+        "permissionConfirmed": true,
+        "productUrl": "https://item.rakuten.co.jp/kamaboko/454329/",
+        "issuedAt": "2026-10-23T07:48:45.762Z"
+      }
+    },
+    {
+      "specialtyId": "aichi-moriguchizuke",
+      "rakutenUrl": "https://item.rakuten.co.jp/miyage-chaya/578805/",
+      "merchant": "miyage-chaya",
+      "itemCode": "miyage-chaya:10000127",
+      "sku": null,
+      "quantity": "100g・1袋",
+      "availabilityStatus": "AVAILABLE",
+      "originEvidence": {
+        "sourceUrl": "https://item.rakuten.co.jp/miyage-chaya/578805/",
+        "checkedAt": "2026-10-23T08:00:39.462Z",
+        "meaning": "扶桑守口食品（愛知県扶桑町）、国産守口だいこん。うり奈良漬・胡瓜奈良漬や混合セットではない。"
+      },
+      "quantityEvidence": {
+        "sourceUrl": "https://item.rakuten.co.jp/miyage-chaya/578805/",
+        "checkedAt": "2026-10-23T08:00:39.462Z",
+        "meaning": "100g・1袋"
+      },
+      "lastCheckedAt": "2026-10-23T08:00:39.462Z",
+      "validUntil": "2027-01-21T00:00:00+09:00",
+      "registeredSite": "https://yoi-no-ikkon.vercel.app/",
+      "operatorApproved": true,
+      "affiliate": {
+        "sourceType": "rakutenOfficialTool",
+        "url": "https://hb.afl.rakuten.co.jp/ichiba/58bc1e04.da33b48c.58bc1e05.229259eb/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmiyage-chaya%2F578805%2F&link_type=text&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJ0ZXh0Iiwic2l6ZSI6IjI0MHgyNDAiLCJuYW0iOjEsIm5hbXAiOiJyaWdodCIsImNvbSI6MSwiY29tcCI6ImRvd24iLCJwcmljZSI6MCwiYm9yIjoxLCJjb2wiOjEsImJidG4iOjEsInByb2QiOjAsImFtcCI6ZmFsc2V9",
+        "originalTextHtml": "<a href=\"https://hb.afl.rakuten.co.jp/ichiba/58bc1e04.da33b48c.58bc1e05.229259eb/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmiyage-chaya%2F578805%2F&link_type=text&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJ0ZXh0Iiwic2l6ZSI6IjI0MHgyNDAiLCJuYW0iOjEsIm5hbXAiOiJyaWdodCIsImNvbSI6MSwiY29tcCI6ImRvd24iLCJwcmljZSI6MCwiYm9yIjoxLCJjb2wiOjEsImJidG4iOjEsInByb2QiOjAsImFtcCI6ZmFsc2V9\" target=\"_blank\" rel=\"nofollow sponsored noopener\" style=\"word-wrap:break-word;\">守口漬 袋 100g お漬物 漬物 漬け物 愛知 お土産 名古屋 ナガトヤ 長登屋</a>",
+        "issuedAt": "2026-10-23T08:10:02.879Z"
+      },
+      "image": {
+        "src": "https://hbb.afl.rakuten.co.jp/hgb/58bc1e04.da33b48c.58bc1e05.229259eb/?me_id=1207160&item_id=10000127&pc=https%3A%2F%2Fimage.rakuten.co.jp%2Fmiyage-chaya%2Fcabinet%2Fshouhin%2Fmoriguchiduke_1.jpg%3F_ex%3D240x240&s=240x240&t=pict",
+        "width": 240,
+        "height": 240,
+        "html": "<a href=\"https://hb.afl.rakuten.co.jp/ichiba/58bc1e04.da33b48c.58bc1e05.229259eb/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmiyage-chaya%2F578805%2F&link_type=pict&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0Iiwic2l6ZSI6IjI0MHgyNDAiLCJuYW0iOjEsIm5hbXAiOiJyaWdodCIsImNvbSI6MSwiY29tcCI6ImRvd24iLCJwcmljZSI6MCwiYm9yIjoxLCJjb2wiOjEsImJidG4iOjEsInByb2QiOjAsImFtcCI6ZmFsc2V9\" target=\"_blank\" rel=\"nofollow sponsored noopener\" style=\"word-wrap:break-word;\"><img src=\"https://hbb.afl.rakuten.co.jp/hgb/58bc1e04.da33b48c.58bc1e05.229259eb/?me_id=1207160&item_id=10000127&pc=https%3A%2F%2Fimage.rakuten.co.jp%2Fmiyage-chaya%2Fcabinet%2Fshouhin%2Fmoriguchiduke_1.jpg%3F_ex%3D240x240&s=240x240&t=pict\" border=\"0\" style=\"margin:2px\" alt=\"\" title=\"\"></a>",
+        "originalSha256": "48a3f83244c25d9254892a9df15275a09cc50ba3bee691e34cb6a195decfa56e",
+        "sourceType": "rakutenOfficialTool",
+        "originalUnmodified": true,
+        "permissionConfirmed": true,
+        "productUrl": "https://item.rakuten.co.jp/miyage-chaya/578805/",
+        "issuedAt": "2026-10-23T08:10:02.879Z"
+      }
+    },
+    {
+      "specialtyId": "mie-sanma-maruboshi-gutted",
+      "rakutenUrl": "https://item.rakuten.co.jp/hatatatsuhimonoshop/10000025/",
+      "merchant": "畑辰商店",
+      "itemCode": "hatatatsuhimonoshop:10000024",
+      "sku": null,
+      "quantity": "5本入り・冷凍、加熱用",
+      "availabilityStatus": "AVAILABLE",
+      "originEvidence": {
+        "sourceUrl": "https://item.rakuten.co.jp/hatatatsuhimonoshop/10000025/",
+        "checkedAt": "2026-10-23T08:00:39.768Z",
+        "meaning": "畑辰商店、三重県熊野市。北海道産さんまを使用。内臓除去タイプであり、内臓つき・25本入りと区別する。"
+      },
+      "quantityEvidence": {
+        "sourceUrl": "https://item.rakuten.co.jp/hatatatsuhimonoshop/10000025/",
+        "checkedAt": "2026-10-23T08:00:39.768Z",
+        "meaning": "5本入り・冷凍、加熱用"
+      },
+      "lastCheckedAt": "2026-10-23T08:00:39.768Z",
+      "validUntil": "2027-01-21T00:00:00+09:00",
+      "registeredSite": "https://yoi-no-ikkon.vercel.app/",
+      "operatorApproved": true,
+      "affiliate": {
+        "sourceType": "rakutenOfficialTool",
+        "url": "https://hb.afl.rakuten.co.jp/ichiba/58bc2bfd.1d4a0ac4.58bc2bfe.029dc69a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhatatatsuhimonoshop%2F10000025%2F&link_type=text&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJ0ZXh0Iiwic2l6ZSI6IjI0MHgyNDAiLCJuYW0iOjEsIm5hbXAiOiJyaWdodCIsImNvbSI6MSwiY29tcCI6ImRvd24iLCJwcmljZSI6MCwiYm9yIjoxLCJjb2wiOjEsImJidG4iOjEsInByb2QiOjAsImFtcCI6ZmFsc2V9",
+        "originalTextHtml": "<a href=\"https://hb.afl.rakuten.co.jp/ichiba/58bc2bfd.1d4a0ac4.58bc2bfe.029dc69a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhatatatsuhimonoshop%2F10000025%2F&link_type=text&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJ0ZXh0Iiwic2l6ZSI6IjI0MHgyNDAiLCJuYW0iOjEsIm5hbXAiOiJyaWdodCIsImNvbSI6MSwiY29tcCI6ImRvd24iLCJwcmljZSI6MCwiYm9yIjoxLCJjb2wiOjEsImJidG4iOjEsInByb2QiOjAsImFtcCI6ZmFsc2V9\" target=\"_blank\" rel=\"nofollow sponsored noopener\" style=\"word-wrap:break-word;\">サンマ丸干し 5本入り 内臓取り除き 熊野名物 干物 ギフト 贈り物 魚 サンマ 北海道産 さんま 秋刀魚 ひもの 美味しい干物 丸干し お取り寄せグルメ ご当地グルメ 美味しい おつまみ 取り寄せ おいしい つまみ おかず 魚 プレゼント</a>",
+        "issuedAt": "2026-10-23T08:05:51.836Z"
+      },
+      "image": {
+        "src": "https://hbb.afl.rakuten.co.jp/hgb/58bc2bfd.1d4a0ac4.58bc2bfe.029dc69a/?me_id=1400891&item_id=10000024&pc=https%3A%2F%2Fthumbnail.image.rakuten.co.jp%2F%400_mall%2Fhatatatsuhimonoshop%2Fcabinet%2Fcompass1623725149.jpg%3F_ex%3D240x240&s=240x240&t=pict",
+        "width": 240,
+        "height": 240,
+        "html": "<a href=\"https://hb.afl.rakuten.co.jp/ichiba/58bc2bfd.1d4a0ac4.58bc2bfe.029dc69a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhatatatsuhimonoshop%2F10000025%2F&link_type=pict&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0Iiwic2l6ZSI6IjI0MHgyNDAiLCJuYW0iOjEsIm5hbXAiOiJyaWdodCIsImNvbSI6MSwiY29tcCI6ImRvd24iLCJwcmljZSI6MCwiYm9yIjoxLCJjb2wiOjEsImJidG4iOjEsInByb2QiOjAsImFtcCI6ZmFsc2V9\" target=\"_blank\" rel=\"nofollow sponsored noopener\" style=\"word-wrap:break-word;\"><img src=\"https://hbb.afl.rakuten.co.jp/hgb/58bc2bfd.1d4a0ac4.58bc2bfe.029dc69a/?me_id=1400891&item_id=10000024&pc=https%3A%2F%2Fthumbnail.image.rakuten.co.jp%2F%400_mall%2Fhatatatsuhimonoshop%2Fcabinet%2Fcompass1623725149.jpg%3F_ex%3D240x240&s=240x240&t=pict\" border=\"0\" style=\"margin:2px\" alt=\"\" title=\"\"></a>",
+        "originalSha256": "2f517270d71dce6d0cb1c280446155aee3d464d1fafd56f31f772d5abd3b369b",
+        "sourceType": "rakutenOfficialTool",
+        "originalUnmodified": true,
+        "permissionConfirmed": true,
+        "productUrl": "https://item.rakuten.co.jp/hatatatsuhimonoshop/10000025/",
+        "issuedAt": "2026-10-23T08:05:51.836Z"
+      }
+    },
+    {
+      "specialtyId": "fukuoka-takana",
+      "rakutenUrl": "https://item.rakuten.co.jp/oomoriya-m/832/",
+      "merchant": "讃岐うまいもん処 大森屋",
+      "itemCode": "oomoriya-m:10001513",
+      "sku": null,
+      "quantity": "250g・1袋",
+      "availabilityStatus": "AVAILABLE",
+      "originEvidence": {
+        "sourceUrl": "https://item.rakuten.co.jp/oomoriya-m/832/",
+        "checkedAt": "2026-10-23T08:00:39.921Z",
+        "meaning": "福岡県瀬高の高菜漬。販売は香川県の大森屋だが、香川の郷土食とはしない。高菜は国産、瀬高の製品として地域資料と販売本文を照合。油炒め・明太高菜とは別。"
+      },
+      "quantityEvidence": {
+        "sourceUrl": "https://item.rakuten.co.jp/oomoriya-m/832/",
+        "checkedAt": "2026-10-23T08:00:39.921Z",
+        "meaning": "250g・1袋"
+      },
+      "lastCheckedAt": "2026-10-23T08:00:39.921Z",
+      "validUntil": "2027-01-21T00:00:00+09:00",
+      "registeredSite": "https://yoi-no-ikkon.vercel.app/",
+      "operatorApproved": true,
+      "affiliate": {
+        "sourceType": "rakutenOfficialTool",
+        "url": "https://hb.afl.rakuten.co.jp/ichiba/58b8188c.d82cd733.58b8188d.dcf875e5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Foomoriya-m%2F832%2F&link_type=text&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJ0ZXh0Iiwic2l6ZSI6IjI0MHgyNDAiLCJuYW0iOjEsIm5hbXAiOiJyaWdodCIsImNvbSI6MSwiY29tcCI6ImRvd24iLCJwcmljZSI6MCwiYm9yIjoxLCJjb2wiOjEsImJidG4iOjEsInByb2QiOjAsImFtcCI6ZmFsc2V9",
+        "originalTextHtml": "<a href=\"https://hb.afl.rakuten.co.jp/ichiba/58b8188c.d82cd733.58b8188d.dcf875e5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Foomoriya-m%2F832%2F&link_type=text&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJ0ZXh0Iiwic2l6ZSI6IjI0MHgyNDAiLCJuYW0iOjEsIm5hbXAiOiJyaWdodCIsImNvbSI6MSwiY29tcCI6ImRvd24iLCJwcmljZSI6MCwiYm9yIjoxLCJjb2wiOjEsImJidG4iOjEsInByb2QiOjAsImFtcCI6ZmFsc2V9\" target=\"_blank\" rel=\"nofollow sponsored noopener\" style=\"word-wrap:break-word;\">まつきの高菜漬 ( 国産高菜 ) 250g袋入り 国産 九州 福岡県産 福岡県 瀬高 高菜 たかな たか菜 熟成 漬物 ごはんのお供 おにぎり ラーメンの具</a>",
+        "issuedAt": "2026-10-23T08:06:28.553Z"
+      },
+      "image": {
+        "src": "https://hbb.afl.rakuten.co.jp/hgb/58b8188c.d82cd733.58b8188d.dcf875e5/?me_id=1239497&item_id=10001513&pc=https%3A%2F%2Fthumbnail.image.rakuten.co.jp%2F%400_mall%2Foomoriya-m%2Fcabinet%2F832.jpg%3F_ex%3D240x240&s=240x240&t=pict",
+        "width": 240,
+        "height": 240,
+        "html": "<a href=\"https://hb.afl.rakuten.co.jp/ichiba/58b8188c.d82cd733.58b8188d.dcf875e5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Foomoriya-m%2F832%2F&link_type=pict&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0Iiwic2l6ZSI6IjI0MHgyNDAiLCJuYW0iOjEsIm5hbXAiOiJyaWdodCIsImNvbSI6MSwiY29tcCI6ImRvd24iLCJwcmljZSI6MCwiYm9yIjoxLCJjb2wiOjEsImJidG4iOjEsInByb2QiOjAsImFtcCI6ZmFsc2V9\" target=\"_blank\" rel=\"nofollow sponsored noopener\" style=\"word-wrap:break-word;\"><img src=\"https://hbb.afl.rakuten.co.jp/hgb/58b8188c.d82cd733.58b8188d.dcf875e5/?me_id=1239497&item_id=10001513&pc=https%3A%2F%2Fthumbnail.image.rakuten.co.jp%2F%400_mall%2Foomoriya-m%2Fcabinet%2F832.jpg%3F_ex%3D240x240&s=240x240&t=pict\" border=\"0\" style=\"margin:2px\" alt=\"\" title=\"\"></a>",
+        "originalSha256": "878f44dcd670d2778d9e4345363c4833c7afd19c8c80563a2bcdcea64aa56c3a",
+        "sourceType": "rakutenOfficialTool",
+        "originalUnmodified": true,
+        "permissionConfirmed": true,
+        "productUrl": "https://item.rakuten.co.jp/oomoriya-m/832/",
+        "issuedAt": "2026-10-23T08:06:28.553Z"
+      }
+    },
+    {
+      "specialtyId": "miyagi-shisomaki",
+      "rakutenUrl": "https://item.rakuten.co.jp/greencenter/s-m/",
+      "merchant": "北国産直shop",
+      "itemCode": "greencenter:10000188",
+      "sku": null,
+      "quantity": "1串3巻×5串・130g",
+      "availabilityStatus": "AVAILABLE",
+      "originEvidence": {
+        "sourceUrl": "https://item.rakuten.co.jp/greencenter/s-m/",
+        "checkedAt": "2026-10-23T07:53:48.524Z",
+        "meaning": "宮城県栗原市のワタナベ食品製造。らっきょうのしそ巻きとは別食品。"
+      },
+      "quantityEvidence": {
+        "sourceUrl": "https://item.rakuten.co.jp/greencenter/s-m/",
+        "checkedAt": "2026-10-23T07:53:48.524Z",
+        "meaning": "1串3巻×5串・130g"
+      },
+      "lastCheckedAt": "2026-10-23T07:53:48.524Z",
+      "validUntil": "2027-01-21T00:00:00+09:00",
+      "registeredSite": "https://yoi-no-ikkon.vercel.app/",
+      "operatorApproved": true,
+      "affiliate": {
+        "sourceType": "rakutenOfficialTool",
+        "url": "https://hb.afl.rakuten.co.jp/ichiba/58bc1fbe.b07edca2.58bc1fbf.38ee9ccc/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgreencenter%2Fs-m%2F&link_type=text&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJ0ZXh0Iiwic2l6ZSI6IjI0MHgyNDAiLCJuYW0iOjEsIm5hbXAiOiJyaWdodCIsImNvbSI6MSwiY29tcCI6ImRvd24iLCJwcmljZSI6MCwiYm9yIjoxLCJjb2wiOjEsImJidG4iOjEsInByb2QiOjAsImFtcCI6ZmFsc2V9",
+        "originalTextHtml": "<a href=\"https://hb.afl.rakuten.co.jp/ichiba/58bc1fbe.b07edca2.58bc1fbf.38ee9ccc/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgreencenter%2Fs-m%2F&link_type=text&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJ0ZXh0Iiwic2l6ZSI6IjI0MHgyNDAiLCJuYW0iOjEsIm5hbXAiOiJyaWdodCIsImNvbSI6MSwiY29tcCI6ImRvd24iLCJwcmljZSI6MCwiYm9yIjoxLCJjb2wiOjEsImJidG4iOjEsInByb2QiOjAsImFtcCI6ZmFsc2V9\" target=\"_blank\" rel=\"nofollow sponsored noopener\" style=\"word-wrap:break-word;\">【しそ巻き】くるみごま入りしそ巻きみそ手作り 仙台味噌 青しそ ゴマ 惣菜宮城県 郷土料理 特産品 名産品 ご飯のおともに お酒のつまみに【がんばろう！宮城】【RCP】10P19Jun15　</a>",
+        "issuedAt": "2026-10-23T07:58:06.492Z"
+      },
+      "image": {
+        "src": "https://hbb.afl.rakuten.co.jp/hgb/58bc1fbe.b07edca2.58bc1fbf.38ee9ccc/?me_id=1209005&item_id=10000188&pc=https%3A%2F%2Fthumbnail.image.rakuten.co.jp%2F%400_mall%2Fgreencenter%2Fcabinet%2F07183921%2Fimgrc0097277487.jpg%3F_ex%3D240x240&s=240x240&t=pict",
+        "width": 240,
+        "height": 240,
+        "html": "<a href=\"https://hb.afl.rakuten.co.jp/ichiba/58bc1fbe.b07edca2.58bc1fbf.38ee9ccc/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgreencenter%2Fs-m%2F&link_type=pict&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0Iiwic2l6ZSI6IjI0MHgyNDAiLCJuYW0iOjEsIm5hbXAiOiJyaWdodCIsImNvbSI6MSwiY29tcCI6ImRvd24iLCJwcmljZSI6MCwiYm9yIjoxLCJjb2wiOjEsImJidG4iOjEsInByb2QiOjAsImFtcCI6ZmFsc2V9\" target=\"_blank\" rel=\"nofollow sponsored noopener\" style=\"word-wrap:break-word;\"><img src=\"https://hbb.afl.rakuten.co.jp/hgb/58bc1fbe.b07edca2.58bc1fbf.38ee9ccc/?me_id=1209005&item_id=10000188&pc=https%3A%2F%2Fthumbnail.image.rakuten.co.jp%2F%400_mall%2Fgreencenter%2Fcabinet%2F07183921%2Fimgrc0097277487.jpg%3F_ex%3D240x240&s=240x240&t=pict\" border=\"0\" style=\"margin:2px\" alt=\"\" title=\"\"></a>",
+        "originalSha256": "d6c44076bfbe38ac7ef2284f4fd775ec4137c2ec13e325a79cf6b174c69556b5",
+        "sourceType": "rakutenOfficialTool",
+        "originalUnmodified": true,
+        "permissionConfirmed": true,
+        "productUrl": "https://item.rakuten.co.jp/greencenter/s-m/",
+        "issuedAt": "2026-10-23T07:58:06.492Z"
+      }
+    },
+    {
+      "specialtyId": "yamagata-shoyunomi",
+      "rakutenUrl": "https://item.rakuten.co.jp/amarume/10000653/",
+      "merchant": "庄内なんでも屋",
+      "itemCode": "amarume:10000653",
+      "sku": null,
+      "quantity": "200g・1袋",
+      "availabilityStatus": "AVAILABLE",
+      "originEvidence": {
+        "sourceUrl": "https://item.rakuten.co.jp/amarume/10000653/",
+        "checkedAt": "2026-10-23T07:53:48.677Z",
+        "meaning": "山形県の株式会社みどりサービス（マルノー山形）製造。原材料はしょうゆ・大豆・大麦等。一般の液体醤油ではなく、粒のある発酵食品。"
+      },
+      "quantityEvidence": {
+        "sourceUrl": "https://item.rakuten.co.jp/amarume/10000653/",
+        "checkedAt": "2026-10-23T07:53:48.677Z",
+        "meaning": "200g・1袋"
+      },
+      "lastCheckedAt": "2026-10-23T07:53:48.677Z",
+      "validUntil": "2027-01-21T00:00:00+09:00",
+      "registeredSite": "https://yoi-no-ikkon.vercel.app/",
+      "operatorApproved": true,
+      "affiliate": {
+        "sourceType": "rakutenOfficialTool",
+        "url": "https://hb.afl.rakuten.co.jp/ichiba/58bc229a.6b3d0799.58bc229b.e67df5f9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Famarume%2F10000653%2F&link_type=text&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJ0ZXh0Iiwic2l6ZSI6IjI0MHgyNDAiLCJuYW0iOjEsIm5hbXAiOiJyaWdodCIsImNvbSI6MSwiY29tcCI6ImRvd24iLCJwcmljZSI6MCwiYm9yIjoxLCJjb2wiOjEsImJidG4iOjEsInByb2QiOjAsImFtcCI6ZmFsc2V9",
+        "originalTextHtml": "<a href=\"https://hb.afl.rakuten.co.jp/ichiba/58bc229a.6b3d0799.58bc229b.e67df5f9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Famarume%2F10000653%2F&link_type=text&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJ0ZXh0Iiwic2l6ZSI6IjI0MHgyNDAiLCJuYW0iOjEsIm5hbXAiOiJyaWdodCIsImNvbSI6MSwiY29tcCI6ImRvd24iLCJwcmljZSI6MCwiYm9yIjoxLCJjb2wiOjEsImJidG4iOjEsInByb2QiOjAsImFtcCI6ZmFsc2V9\" target=\"_blank\" rel=\"nofollow sponsored noopener\" style=\"word-wrap:break-word;\">マルノー山形　しょうゆの実　200g</a>",
+        "issuedAt": "2026-10-23T07:59:02.797Z"
+      },
+      "image": {
+        "src": "https://hbb.afl.rakuten.co.jp/hgb/58bc229a.6b3d0799.58bc229b.e67df5f9/?me_id=1226124&item_id=10000653&pc=https%3A%2F%2Fthumbnail.image.rakuten.co.jp%2F%400_mall%2Famarume%2Fcabinet%2F016otomo%2Fimgrc0075186520.jpg%3F_ex%3D240x240&s=240x240&t=pict",
+        "width": 240,
+        "height": 240,
+        "html": "<a href=\"https://hb.afl.rakuten.co.jp/ichiba/58bc229a.6b3d0799.58bc229b.e67df5f9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Famarume%2F10000653%2F&link_type=pict&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0Iiwic2l6ZSI6IjI0MHgyNDAiLCJuYW0iOjEsIm5hbXAiOiJyaWdodCIsImNvbSI6MSwiY29tcCI6ImRvd24iLCJwcmljZSI6MCwiYm9yIjoxLCJjb2wiOjEsImJidG4iOjEsInByb2QiOjAsImFtcCI6ZmFsc2V9\" target=\"_blank\" rel=\"nofollow sponsored noopener\" style=\"word-wrap:break-word;\"><img src=\"https://hbb.afl.rakuten.co.jp/hgb/58bc229a.6b3d0799.58bc229b.e67df5f9/?me_id=1226124&item_id=10000653&pc=https%3A%2F%2Fthumbnail.image.rakuten.co.jp%2F%400_mall%2Famarume%2Fcabinet%2F016otomo%2Fimgrc0075186520.jpg%3F_ex%3D240x240&s=240x240&t=pict\" border=\"0\" style=\"margin:2px\" alt=\"\" title=\"\"></a>",
+        "originalSha256": "ca987f52921fcd7acea29a3d700eef232a01afc3603aa7ca75d626497f2464ff",
+        "sourceType": "rakutenOfficialTool",
+        "originalUnmodified": true,
+        "permissionConfirmed": true,
+        "productUrl": "https://item.rakuten.co.jp/amarume/10000653/",
+        "issuedAt": "2026-10-23T07:59:02.797Z"
+      }
+    },
+    {
+      "specialtyId": "chiba-yude-rakkasei",
+      "rakutenUrl": "https://item.rakuten.co.jp/tomura/yudebig1050/",
+      "merchant": "戸村商店",
+      "itemCode": "tomura:10000030",
+      "sku": null,
+      "quantity": "おおまさり400g・冷凍",
+      "availabilityStatus": "AVAILABLE",
+      "originEvidence": {
+        "sourceUrl": "https://item.rakuten.co.jp/tomura/yudebig1050/",
+        "checkedAt": "2026-10-23T07:53:48.818Z",
+        "meaning": "千葉県産おおまさり。戸村商店の調理済みゆで落花生で、生落花生やナカテユタカ450gではない。"
+      },
+      "quantityEvidence": {
+        "sourceUrl": "https://item.rakuten.co.jp/tomura/yudebig1050/",
+        "checkedAt": "2026-10-23T07:53:48.818Z",
+        "meaning": "おおまさり400g・冷凍"
+      },
+      "lastCheckedAt": "2026-10-23T07:53:48.818Z",
+      "validUntil": "2027-01-21T00:00:00+09:00",
+      "registeredSite": "https://yoi-no-ikkon.vercel.app/",
+      "operatorApproved": true,
+      "affiliate": {
+        "sourceType": "rakutenOfficialTool",
+        "url": "https://hb.afl.rakuten.co.jp/ichiba/58b8184e.39249d6e.58b8184f.b0b14ab2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftomura%2Fyudebig1050%2F&link_type=text&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJ0ZXh0Iiwic2l6ZSI6IjI0MHgyNDAiLCJuYW0iOjEsIm5hbXAiOiJyaWdodCIsImNvbSI6MSwiY29tcCI6ImRvd24iLCJwcmljZSI6MCwiYm9yIjoxLCJjb2wiOjEsImJidG4iOjEsInByb2QiOjAsImFtcCI6ZmFsc2V9",
+        "originalTextHtml": "<a href=\"https://hb.afl.rakuten.co.jp/ichiba/58b8184e.39249d6e.58b8184f.b0b14ab2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftomura%2Fyudebig1050%2F&link_type=text&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJ0ZXh0Iiwic2l6ZSI6IjI0MHgyNDAiLCJuYW0iOjEsIm5hbXAiOiJyaWdodCIsImNvbSI6MSwiY29tcCI6ImRvd24iLCJwcmljZSI6MCwiYm9yIjoxLCJjb2wiOjEsImJidG4iOjEsInByb2QiOjAsImFtcCI6ZmFsc2V9\" target=\"_blank\" rel=\"nofollow sponsored noopener\" style=\"word-wrap:break-word;\">【新豆】令和8年度産【ゆで落花生おおまさり】400g・クール冷凍便・ジャンボ落花生・でかっ！　ゆで落花生・ピーナッツ・ 安心の千葉県産 ・ 解凍するだけの簡単おつまみ　千葉県産 ゆで落花生 おおまさり ゆで落花生 千葉県産 落花生 おつまみ</a>",
+        "issuedAt": "2026-10-23T08:00:13.248Z"
+      },
+      "image": {
+        "src": "https://hbb.afl.rakuten.co.jp/hgb/58b8184e.39249d6e.58b8184f.b0b14ab2/?me_id=1260758&item_id=10000030&pc=https%3A%2F%2Fthumbnail.image.rakuten.co.jp%2F%400_mall%2Ftomura%2Fcabinet%2Fkensaku%2Fyude%2F2026yudebig_1188.jpg%3F_ex%3D240x240&s=240x240&t=pict",
+        "width": 240,
+        "height": 240,
+        "html": "<a href=\"https://hb.afl.rakuten.co.jp/ichiba/58b8184e.39249d6e.58b8184f.b0b14ab2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftomura%2Fyudebig1050%2F&link_type=pict&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0Iiwic2l6ZSI6IjI0MHgyNDAiLCJuYW0iOjEsIm5hbXAiOiJyaWdodCIsImNvbSI6MSwiY29tcCI6ImRvd24iLCJwcmljZSI6MCwiYm9yIjoxLCJjb2wiOjEsImJidG4iOjEsInByb2QiOjAsImFtcCI6ZmFsc2V9\" target=\"_blank\" rel=\"nofollow sponsored noopener\" style=\"word-wrap:break-word;\"><img src=\"https://hbb.afl.rakuten.co.jp/hgb/58b8184e.39249d6e.58b8184f.b0b14ab2/?me_id=1260758&item_id=10000030&pc=https%3A%2F%2Fthumbnail.image.rakuten.co.jp%2F%400_mall%2Ftomura%2Fcabinet%2Fkensaku%2Fyude%2F2026yudebig_1188.jpg%3F_ex%3D240x240&s=240x240&t=pict\" border=\"0\" style=\"margin:2px\" alt=\"\" title=\"\"></a>",
+        "originalSha256": "a817348c524ab7838ca8bb85ef53a763b740f65bf681871215fe9a57855cc2b6",
+        "sourceType": "rakutenOfficialTool",
+        "originalUnmodified": true,
+        "permissionConfirmed": true,
+        "productUrl": "https://item.rakuten.co.jp/tomura/yudebig1050/",
+        "issuedAt": "2026-10-23T08:00:13.248Z"
+      }
+    },
+    {
+      "specialtyId": "niigata-sake-yakizuke",
+      "rakutenUrl": "https://item.rakuten.co.jp/niigata-shop/0533-005-a/",
+      "merchant": "新潟県公式ショップ 新潟直送計画",
+      "itemCode": "niigata-shop:10008166",
+      "sku": null,
+      "quantity": "4〜10切から選択（1パック2切・約150g）",
+      "availabilityStatus": "AVAILABLE",
+      "originEvidence": {
+        "sourceUrl": "https://item.rakuten.co.jp/niigata-shop/0533-005-a/",
+        "checkedAt": "2026-10-23T07:53:49.000Z",
+        "meaning": "新潟県村上市の料亭能登新。原料鮭の産地は登録情報だけで特定しない。村上の食文化・加工と原料水揚げ地を混同しない。"
+      },
+      "quantityEvidence": {
+        "sourceUrl": "https://item.rakuten.co.jp/niigata-shop/0533-005-a/",
+        "checkedAt": "2026-10-23T07:53:49.000Z",
+        "meaning": "4〜10切から選択（1パック2切・約150g）"
+      },
+      "lastCheckedAt": "2026-10-23T07:53:49.000Z",
+      "validUntil": "2027-01-21T00:00:00+09:00",
+      "registeredSite": "https://yoi-no-ikkon.vercel.app/",
+      "operatorApproved": true,
+      "affiliate": {
+        "sourceType": "rakutenOfficialTool",
+        "url": "https://hb.afl.rakuten.co.jp/ichiba/589ae09c.23040117.589ae09d.153c4b90/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fniigata-shop%2F0533-005-a%2F&link_type=text&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJ0ZXh0Iiwic2l6ZSI6IjI0MHgyNDAiLCJuYW0iOjEsIm5hbXAiOiJyaWdodCIsImNvbSI6MSwiY29tcCI6ImRvd24iLCJwcmljZSI6MCwiYm9yIjoxLCJjb2wiOjEsImJidG4iOjEsInByb2QiOjAsImFtcCI6ZmFsc2V9",
+        "originalTextHtml": "<a href=\"https://hb.afl.rakuten.co.jp/ichiba/589ae09c.23040117.589ae09d.153c4b90/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fniigata-shop%2F0533-005-a%2F&link_type=text&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJ0ZXh0Iiwic2l6ZSI6IjI0MHgyNDAiLCJuYW0iOjEsIm5hbXAiOiJyaWdodCIsImNvbSI6MSwiY29tcCI6ImRvd24iLCJwcmljZSI6MCwiYm9yIjoxLCJjb2wiOjEsImJidG4iOjEsInByb2QiOjAsImFtcCI6ZmFsc2V9\" target=\"_blank\" rel=\"nofollow sponsored noopener\" style=\"word-wrap:break-word;\">能登新の鮭の焼漬け 選べる 4切入り 〜 10切入り 料亭能登新 さけ しゃけ サケ 村上名物 郷土料理 骨取り 骨なし おつまみ おかず 惣菜 切り身 お土産 手土産 新潟県 生産者直送 お取り寄せ ギフト プレゼント 贈り物 送料無料</a>",
+        "issuedAt": "2026-10-23T08:00:52.605Z"
+      },
+      "image": {
+        "src": "https://hbb.afl.rakuten.co.jp/hgb/589ae09c.23040117.589ae09d.153c4b90/?me_id=1285822&item_id=10008166&pc=https%3A%2F%2Fthumbnail.image.rakuten.co.jp%2F%400_mall%2Fniigata-shop%2Fcabinet%2Fitem%2F0533%2F0533-005-a.jpg%3F_ex%3D240x240&s=240x240&t=pict",
+        "width": 240,
+        "height": 240,
+        "html": "<a href=\"https://hb.afl.rakuten.co.jp/ichiba/589ae09c.23040117.589ae09d.153c4b90/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fniigata-shop%2F0533-005-a%2F&link_type=pict&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0Iiwic2l6ZSI6IjI0MHgyNDAiLCJuYW0iOjEsIm5hbXAiOiJyaWdodCIsImNvbSI6MSwiY29tcCI6ImRvd24iLCJwcmljZSI6MCwiYm9yIjoxLCJjb2wiOjEsImJidG4iOjEsInByb2QiOjAsImFtcCI6ZmFsc2V9\" target=\"_blank\" rel=\"nofollow sponsored noopener\" style=\"word-wrap:break-word;\"><img src=\"https://hbb.afl.rakuten.co.jp/hgb/589ae09c.23040117.589ae09d.153c4b90/?me_id=1285822&item_id=10008166&pc=https%3A%2F%2Fthumbnail.image.rakuten.co.jp%2F%400_mall%2Fniigata-shop%2Fcabinet%2Fitem%2F0533%2F0533-005-a.jpg%3F_ex%3D240x240&s=240x240&t=pict\" border=\"0\" style=\"margin:2px\" alt=\"\" title=\"\"></a>",
+        "originalSha256": "3676e91fb521fbfdc857bb2d8d4ef8227b6cf53b9eaab549390f41482c0f319b",
+        "sourceType": "rakutenOfficialTool",
+        "originalUnmodified": true,
+        "permissionConfirmed": true,
+        "productUrl": "https://item.rakuten.co.jp/niigata-shop/0533-005-a/",
+        "issuedAt": "2026-10-23T08:00:52.605Z"
+      }
+    },
+    {
+      "specialtyId": "shiga-ebimame",
+      "rakutenUrl": "https://item.rakuten.co.jp/tsukudani-nagahama/ebimame/",
+      "merchant": "佃煮の伊吹",
+      "itemCode": "tsukudani-nagahama:10000013",
+      "sku": null,
+      "quantity": "100g・1袋",
+      "availabilityStatus": "AVAILABLE",
+      "originEvidence": {
+        "sourceUrl": "https://item.rakuten.co.jp/tsukudani-nagahama/ebimame/",
+        "checkedAt": "2026-10-23T07:53:49.432Z",
+        "meaning": "伊吹食品、滋賀県長浜市。大豆は滋賀県産、小えびは国産で琵琶湖産に限定しない。"
+      },
+      "quantityEvidence": {
+        "sourceUrl": "https://item.rakuten.co.jp/tsukudani-nagahama/ebimame/",
+        "checkedAt": "2026-10-23T07:53:49.432Z",
+        "meaning": "100g・1袋"
+      },
+      "lastCheckedAt": "2026-10-23T07:53:49.432Z",
+      "validUntil": "2027-01-21T00:00:00+09:00",
+      "registeredSite": "https://yoi-no-ikkon.vercel.app/",
+      "operatorApproved": true,
+      "affiliate": {
+        "sourceType": "rakutenOfficialTool",
+        "url": "https://hb.afl.rakuten.co.jp/ichiba/58bc2879.17de0a87.58bc287a.5443da10/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftsukudani-nagahama%2Febimame%2F&link_type=text&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJ0ZXh0Iiwic2l6ZSI6IjI0MHgyNDAiLCJuYW0iOjEsIm5hbXAiOiJyaWdodCIsImNvbSI6MSwiY29tcCI6ImRvd24iLCJwcmljZSI6MCwiYm9yIjoxLCJjb2wiOjEsImJidG4iOjEsInByb2QiOjAsImFtcCI6ZmFsc2V9",
+        "originalTextHtml": "<a href=\"https://hb.afl.rakuten.co.jp/ichiba/58bc2879.17de0a87.58bc287a.5443da10/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftsukudani-nagahama%2Febimame%2F&link_type=text&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJ0ZXh0Iiwic2l6ZSI6IjI0MHgyNDAiLCJuYW0iOjEsIm5hbXAiOiJyaWdodCIsImNvbSI6MSwiY29tcCI6ImRvd24iLCJwcmljZSI6MCwiYm9yIjoxLCJjb2wiOjEsImJidG4iOjEsInByb2QiOjAsImFtcCI6ZmFsc2V9\" target=\"_blank\" rel=\"nofollow sponsored noopener\" style=\"word-wrap:break-word;\">1000円ポッキリ 送料無料 えび豆 佃煮 100g ご飯のお供 お酒のあて ギフト お土産 お取り寄せ 佃煮の伊吹 琵琶湖 山椒 おつまみ 家飲み えび 大豆 ネコポス メール便限定 滋賀 長浜</a>",
+        "issuedAt": "2026-10-23T08:02:55.895Z"
+      },
+      "image": {
+        "src": "https://hbb.afl.rakuten.co.jp/hgb/58bc2879.17de0a87.58bc287a.5443da10/?me_id=1409297&item_id=10000013&pc=https%3A%2F%2Fthumbnail.image.rakuten.co.jp%2F%400_mall%2Ftsukudani-nagahama%2Fcabinet%2Fbiiino%2Fitem%2Fmain-image%2F20260113173944_1.jpg%3F_ex%3D240x240&s=240x240&t=pict",
+        "width": 240,
+        "height": 240,
+        "html": "<a href=\"https://hb.afl.rakuten.co.jp/ichiba/58bc2879.17de0a87.58bc287a.5443da10/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftsukudani-nagahama%2Febimame%2F&link_type=pict&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0Iiwic2l6ZSI6IjI0MHgyNDAiLCJuYW0iOjEsIm5hbXAiOiJyaWdodCIsImNvbSI6MSwiY29tcCI6ImRvd24iLCJwcmljZSI6MCwiYm9yIjoxLCJjb2wiOjEsImJidG4iOjEsInByb2QiOjAsImFtcCI6ZmFsc2V9\" target=\"_blank\" rel=\"nofollow sponsored noopener\" style=\"word-wrap:break-word;\"><img src=\"https://hbb.afl.rakuten.co.jp/hgb/58bc2879.17de0a87.58bc287a.5443da10/?me_id=1409297&item_id=10000013&pc=https%3A%2F%2Fthumbnail.image.rakuten.co.jp%2F%400_mall%2Ftsukudani-nagahama%2Fcabinet%2Fbiiino%2Fitem%2Fmain-image%2F20260113173944_1.jpg%3F_ex%3D240x240&s=240x240&t=pict\" border=\"0\" style=\"margin:2px\" alt=\"\" title=\"\"></a>",
+        "originalSha256": "e880ec31235e55767d3ab70be98d8882eafd485010c3e654f8336a0e67aae089",
+        "sourceType": "rakutenOfficialTool",
+        "originalUnmodified": true,
+        "permissionConfirmed": true,
+        "productUrl": "https://item.rakuten.co.jp/tsukudani-nagahama/ebimame/",
+        "issuedAt": "2026-10-23T08:02:55.895Z"
+      }
+    },
+    {
+      "specialtyId": "hiroshima-hiroshimana",
+      "rakutenUrl": "https://item.rakuten.co.jp/yamatoyo/kaki_syouyu/",
+      "merchant": "広島菜漬の山豊(やまとよ)",
+      "itemCode": "yamatoyo:10000038",
+      "sku": null,
+      "quantity": "本醸漬かき醤油300g・1袋",
+      "availabilityStatus": "AVAILABLE",
+      "originEvidence": {
+        "sourceUrl": "https://item.rakuten.co.jp/yamatoyo/kaki_syouyu/",
+        "checkedAt": "2026-10-23T07:53:49.575Z",
+        "meaning": "広島市の株式会社山豊製造。かき醤油味の本漬けであり、浅漬け・おにぎり・海苔佃煮ではない。広島菜の原料栽培地は未確認。"
+      },
+      "quantityEvidence": {
+        "sourceUrl": "https://item.rakuten.co.jp/yamatoyo/kaki_syouyu/",
+        "checkedAt": "2026-10-23T07:53:49.575Z",
+        "meaning": "本醸漬かき醤油300g・1袋"
+      },
+      "lastCheckedAt": "2026-10-23T07:53:49.575Z",
+      "validUntil": "2027-01-21T00:00:00+09:00",
+      "registeredSite": "https://yoi-no-ikkon.vercel.app/",
+      "operatorApproved": true,
+      "affiliate": {
+        "sourceType": "rakutenOfficialTool",
+        "url": "https://hb.afl.rakuten.co.jp/ichiba/58bc29de.200d3c43.58bc29df.6313f3f7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyamatoyo%2Fkaki_syouyu%2F&link_type=text&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJ0ZXh0Iiwic2l6ZSI6IjI0MHgyNDAiLCJuYW0iOjEsIm5hbXAiOiJyaWdodCIsImNvbSI6MSwiY29tcCI6ImRvd24iLCJwcmljZSI6MCwiYm9yIjoxLCJjb2wiOjEsImJidG4iOjEsInByb2QiOjAsImFtcCI6ZmFsc2V9",
+        "originalTextHtml": "<a href=\"https://hb.afl.rakuten.co.jp/ichiba/58bc29de.200d3c43.58bc29df.6313f3f7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyamatoyo%2Fkaki_syouyu%2F&link_type=text&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJ0ZXh0Iiwic2l6ZSI6IjI0MHgyNDAiLCJuYW0iOjEsIm5hbXAiOiJyaWdodCIsImNvbSI6MSwiY29tcCI6ImRvd24iLCJwcmljZSI6MCwiYm9yIjoxLCJjb2wiOjEsImJidG4iOjEsInByb2QiOjAsImFtcCI6ZmFsc2V9\" target=\"_blank\" rel=\"nofollow sponsored noopener\" style=\"word-wrap:break-word;\">本醸漬広島菜 かき醤油300g 広島菜 山豊 広島菜漬 漬物 漬け物 本漬 古漬 牡蠣 ごはんのおとも ご飯のおとも 広島</a>",
+        "issuedAt": "2026-10-23T08:03:30.018Z"
+      },
+      "image": {
+        "src": "https://hbb.afl.rakuten.co.jp/hgb/58bc29de.200d3c43.58bc29df.6313f3f7/?me_id=1311857&item_id=10000038&pc=https%3A%2F%2Fthumbnail.image.rakuten.co.jp%2F%400_mall%2Fyamatoyo%2Fcabinet%2Fshouhin%2F12121top.jpg%3F_ex%3D240x240&s=240x240&t=pict",
+        "width": 240,
+        "height": 240,
+        "html": "<a href=\"https://hb.afl.rakuten.co.jp/ichiba/58bc29de.200d3c43.58bc29df.6313f3f7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyamatoyo%2Fkaki_syouyu%2F&link_type=pict&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0Iiwic2l6ZSI6IjI0MHgyNDAiLCJuYW0iOjEsIm5hbXAiOiJyaWdodCIsImNvbSI6MSwiY29tcCI6ImRvd24iLCJwcmljZSI6MCwiYm9yIjoxLCJjb2wiOjEsImJidG4iOjEsInByb2QiOjAsImFtcCI6ZmFsc2V9\" target=\"_blank\" rel=\"nofollow sponsored noopener\" style=\"word-wrap:break-word;\"><img src=\"https://hbb.afl.rakuten.co.jp/hgb/58bc29de.200d3c43.58bc29df.6313f3f7/?me_id=1311857&item_id=10000038&pc=https%3A%2F%2Fthumbnail.image.rakuten.co.jp%2F%400_mall%2Fyamatoyo%2Fcabinet%2Fshouhin%2F12121top.jpg%3F_ex%3D240x240&s=240x240&t=pict\" border=\"0\" style=\"margin:2px\" alt=\"\" title=\"\"></a>",
+        "originalSha256": "e27bf4428b0258ef914da97830c2b3518b2442ba8dc1e134a4ab1407e280c051",
+        "sourceType": "rakutenOfficialTool",
+        "originalUnmodified": true,
+        "permissionConfirmed": true,
+        "productUrl": "https://item.rakuten.co.jp/yamatoyo/kaki_syouyu/",
+        "issuedAt": "2026-10-23T08:03:30.018Z"
+      }
+    },
+    {
+      "specialtyId": "akita-hatahatazushi",
+      "rakutenUrl": "https://item.rakuten.co.jp/satsumakaisan/hatahatasusikirisusi500/",
+      "merchant": "海産物、乾物、珍味 さつま海産",
+      "itemCode": "satsumakaisan:10000328",
+      "sku": null,
+      "quantity": "切りずし400g・冷凍",
+      "availabilityStatus": "AVAILABLE",
+      "originEvidence": {
+        "sourceUrl": "https://item.rakuten.co.jp/satsumakaisan/hatahatasusikirisusi500/",
+        "checkedAt": "2026-10-23T07:53:49.707Z",
+        "meaning": "秋田県八峰町の鈴木水産製造。ハタハタは日本産で秋田水揚げ限定とはしない。切りずし400gで、一匹ずしや別重量と区別。"
+      },
+      "quantityEvidence": {
+        "sourceUrl": "https://item.rakuten.co.jp/satsumakaisan/hatahatasusikirisusi500/",
+        "checkedAt": "2026-10-23T07:53:49.707Z",
+        "meaning": "切りずし400g・冷凍"
+      },
+      "lastCheckedAt": "2026-10-23T07:53:49.707Z",
+      "validUntil": "2027-01-21T00:00:00+09:00",
+      "registeredSite": "https://yoi-no-ikkon.vercel.app/",
+      "operatorApproved": true,
+      "affiliate": {
+        "sourceType": "rakutenOfficialTool",
+        "url": "https://hb.afl.rakuten.co.jp/ichiba/58b81743.2718b72b.58b81744.a537de01/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsatsumakaisan%2Fhatahatasusikirisusi500%2F&link_type=text&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJ0ZXh0Iiwic2l6ZSI6IjI0MHgyNDAiLCJuYW0iOjEsIm5hbXAiOiJyaWdodCIsImNvbSI6MSwiY29tcCI6ImRvd24iLCJwcmljZSI6MCwiYm9yIjoxLCJjb2wiOjEsImJidG4iOjEsInByb2QiOjAsImFtcCI6ZmFsc2V9",
+        "originalTextHtml": "<a href=\"https://hb.afl.rakuten.co.jp/ichiba/58b81743.2718b72b.58b81744.a537de01/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsatsumakaisan%2Fhatahatasusikirisusi500%2F&link_type=text&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJ0ZXh0Iiwic2l6ZSI6IjI0MHgyNDAiLCJuYW0iOjEsIm5hbXAiOiJyaWdodCIsImNvbSI6MSwiY29tcCI6ImRvd24iLCJwcmljZSI6MCwiYm9yIjoxLCJjb2wiOjEsImJidG4iOjEsInByb2QiOjAsImFtcCI6ZmFsc2V9\" target=\"_blank\" rel=\"nofollow sponsored noopener\" style=\"word-wrap:break-word;\">【はたはた寿司 切りハタハタすし 400g】ハタハタ 鰰 ブリコ ハタハタ寿司 はたはた寿司 飯ずし 秋田 郷土食 贈答用 ギフト お中元 お歳暮 鈴木水産</a>",
+        "issuedAt": "2026-10-23T08:03:55.847Z"
+      },
+      "image": {
+        "src": "https://hbb.afl.rakuten.co.jp/hgb/58b81743.2718b72b.58b81744.a537de01/?me_id=1251340&item_id=10000328&pc=https%3A%2F%2Fthumbnail.image.rakuten.co.jp%2F%400_mall%2Fsatsumakaisan%2Fcabinet%2Fshouhin01%2Fhatahatakiri400g.jpg%3F_ex%3D240x240&s=240x240&t=pict",
+        "width": 240,
+        "height": 240,
+        "html": "<a href=\"https://hb.afl.rakuten.co.jp/ichiba/58b81743.2718b72b.58b81744.a537de01/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsatsumakaisan%2Fhatahatasusikirisusi500%2F&link_type=pict&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0Iiwic2l6ZSI6IjI0MHgyNDAiLCJuYW0iOjEsIm5hbXAiOiJyaWdodCIsImNvbSI6MSwiY29tcCI6ImRvd24iLCJwcmljZSI6MCwiYm9yIjoxLCJjb2wiOjEsImJidG4iOjEsInByb2QiOjAsImFtcCI6ZmFsc2V9\" target=\"_blank\" rel=\"nofollow sponsored noopener\" style=\"word-wrap:break-word;\"><img src=\"https://hbb.afl.rakuten.co.jp/hgb/58b81743.2718b72b.58b81744.a537de01/?me_id=1251340&item_id=10000328&pc=https%3A%2F%2Fthumbnail.image.rakuten.co.jp%2F%400_mall%2Fsatsumakaisan%2Fcabinet%2Fshouhin01%2Fhatahatakiri400g.jpg%3F_ex%3D240x240&s=240x240&t=pict\" border=\"0\" style=\"margin:2px\" alt=\"\" title=\"\"></a>",
+        "originalSha256": "986ebffde14be8ecb6b0db3be77551fdf72122376a71ac3e69dd0d16f4609d9f",
+        "sourceType": "rakutenOfficialTool",
+        "originalUnmodified": true,
+        "permissionConfirmed": true,
+        "productUrl": "https://item.rakuten.co.jp/satsumakaisan/hatahatasusikirisusi500/",
+        "issuedAt": "2026-10-23T08:03:55.847Z"
+      }
+    },
+    {
+      "specialtyId": "kyoto-senmaizuke",
+      "rakutenUrl": "https://item.rakuten.co.jp/nishiri/10000001/",
+      "merchant": "京つけもの西利",
+      "itemCode": "nishiri:10000001",
+      "sku": null,
+      "quantity": "100g・1袋",
+      "availabilityStatus": "AVAILABLE",
+      "originEvidence": {
+        "sourceUrl": "https://item.rakuten.co.jp/nishiri/10000001/",
+        "checkedAt": "2026-10-23T07:53:49.897Z",
+        "meaning": "京都市の西利洛西工場製造。かぶらは国産。現代の酢漬けであり、すぐきのような乳酸発酵とは記載しない。"
+      },
+      "quantityEvidence": {
+        "sourceUrl": "https://item.rakuten.co.jp/nishiri/10000001/",
+        "checkedAt": "2026-10-23T07:53:49.897Z",
+        "meaning": "100g・1袋"
+      },
+      "lastCheckedAt": "2026-10-23T07:53:49.897Z",
+      "validUntil": "2027-01-21T00:00:00+09:00",
+      "registeredSite": "https://yoi-no-ikkon.vercel.app/",
+      "operatorApproved": true,
+      "affiliate": {
+        "sourceType": "rakutenOfficialTool",
+        "url": "https://hb.afl.rakuten.co.jp/ichiba/58b81958.faa7416b.58b81959.7c6545a7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnishiri%2F10000001%2F&link_type=text&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJ0ZXh0Iiwic2l6ZSI6IjI0MHgyNDAiLCJuYW0iOjEsIm5hbXAiOiJyaWdodCIsImNvbSI6MSwiY29tcCI6ImRvd24iLCJwcmljZSI6MCwiYm9yIjoxLCJjb2wiOjEsImJidG4iOjEsInByb2QiOjAsImFtcCI6ZmFsc2V9",
+        "originalTextHtml": "<a href=\"https://hb.afl.rakuten.co.jp/ichiba/58b81958.faa7416b.58b81959.7c6545a7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnishiri%2F10000001%2F&link_type=text&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJ0ZXh0Iiwic2l6ZSI6IjI0MHgyNDAiLCJuYW0iOjEsIm5hbXAiOiJyaWdodCIsImNvbSI6MSwiY29tcCI6ImRvd24iLCJwcmljZSI6MCwiYm9yIjoxLCJjb2wiOjEsImJidG4iOjEsInByb2QiOjAsImFtcCI6ZmFsc2V9\" target=\"_blank\" rel=\"nofollow sponsored noopener\" style=\"word-wrap:break-word;\">■ポイント5倍■ 【京つけもの西利】千枚漬 100g京都 西利 漬物 京漬物 漬け物 お漬物 お土産 お茶請け ごはんのお供 おつまみ お茶漬け 浅漬け 千枚漬け かぶ かぶら</a>",
+        "issuedAt": "2026-10-23T08:04:28.426Z"
+      },
+      "image": {
+        "src": "https://hbb.afl.rakuten.co.jp/hgb/58b81958.faa7416b.58b81959.7c6545a7/?me_id=1338926&item_id=10000001&pc=https%3A%2F%2Fthumbnail.image.rakuten.co.jp%2F%400_mall%2Fnishiri%2Fcabinet%2F0010_00.jpg%3F_ex%3D240x240&s=240x240&t=pict",
+        "width": 240,
+        "height": 240,
+        "html": "<a href=\"https://hb.afl.rakuten.co.jp/ichiba/58b81958.faa7416b.58b81959.7c6545a7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnishiri%2F10000001%2F&link_type=pict&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0Iiwic2l6ZSI6IjI0MHgyNDAiLCJuYW0iOjEsIm5hbXAiOiJyaWdodCIsImNvbSI6MSwiY29tcCI6ImRvd24iLCJwcmljZSI6MCwiYm9yIjoxLCJjb2wiOjEsImJidG4iOjEsInByb2QiOjAsImFtcCI6ZmFsc2V9\" target=\"_blank\" rel=\"nofollow sponsored noopener\" style=\"word-wrap:break-word;\"><img src=\"https://hbb.afl.rakuten.co.jp/hgb/58b81958.faa7416b.58b81959.7c6545a7/?me_id=1338926&item_id=10000001&pc=https%3A%2F%2Fthumbnail.image.rakuten.co.jp%2F%400_mall%2Fnishiri%2Fcabinet%2F0010_00.jpg%3F_ex%3D240x240&s=240x240&t=pict\" border=\"0\" style=\"margin:2px\" alt=\"\" title=\"\"></a>",
+        "originalSha256": "802f54bcf99c2882a8155a0d9814e580761b12e8040bf0f03a7d947cfe7bb212",
+        "sourceType": "rakutenOfficialTool",
+        "originalUnmodified": true,
+        "permissionConfirmed": true,
+        "productUrl": "https://item.rakuten.co.jp/nishiri/10000001/",
+        "issuedAt": "2026-10-23T08:04:28.426Z"
+      }
     }
   ]
 }

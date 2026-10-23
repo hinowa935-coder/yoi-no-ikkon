@@ -1,0 +1,30 @@
+{
+  "checkedAt": "2026-10-23T08:46:14.968Z",
+  "scan": {
+    "scannedFiles": 9031,
+    "unreadableFiles": 0,
+    "findings": [],
+    "passed": true,
+    "configuredValuesChecked": [
+      "applicationId",
+      "accessKey",
+      "affiliateId"
+    ],
+    "limitation": null
+  },
+  "envIgnored": true,
+  "envTracked": false,
+  "sourceChanges": [
+    "src/commerce/localSakana.json",
+    "src/specialties/master.json",
+    "src/specialties/pairings.json"
+  ],
+  "protectedFiles": 167,
+  "tasteUnchanged": true,
+  "sakeDatabaseUnchanged": true,
+  "purchasesAndImagesForSakeUnchanged": true,
+  "uiUnchanged": true,
+  "cspUnchanged": true,
+  "dependenciesUnchanged": true,
+  "passed": true
+}

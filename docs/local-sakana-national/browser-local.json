@@ -1,0 +1,4841 @@
+{
+  "checkedAt": "2026-10-23T08:39:28.088Z",
+  "base": "http://127.0.0.1:3197",
+  "rows": [
+    {
+      "engine": "webkit",
+      "width": 320,
+      "sakeId": "denshu-tokubetsu-junmai",
+      "group": "A",
+      "summary": true,
+      "closed": true,
+      "lazy": true,
+      "keyboard": true,
+      "noOverflow": true,
+      "images": [
+        {
+          "name": "いちご煮",
+          "naturalWidth": 240,
+          "naturalHeight": 240,
+          "box": {
+            "width": 280,
+            "height": 256
+          },
+          "disclosure": true,
+          "target": "_blank",
+          "rel": "nofollow sponsored noopener",
+          "normalProduct": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "engine": "webkit",
+      "width": 320,
+      "sakeId": "hououbiden-tsurugi-hiire-v1",
+      "group": "B",
+      "summary": true,
+      "closed": true,
+      "lazy": true,
+      "keyboard": true,
+      "noOverflow": true,
+      "images": [
+        {
+          "name": "揚巻湯波",
+          "naturalWidth": 240,
+          "naturalHeight": 240,
+          "box": {
+            "width": 280,
+            "height": 256
+          },
+          "disclosure": true,
+          "target": "_blank",
+          "rel": "nofollow sponsored noopener",
+          "normalProduct": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "engine": "webkit",
+      "width": 320,
+      "sakeId": "masumi-karakuchi-kiippon",
+      "group": "C",
+      "summary": true,
+      "closed": true,
+      "lazy": true,
+      "keyboard": true,
+      "noOverflow": true,
+      "images": [
+        {
+          "name": "野沢菜漬",
+          "naturalWidth": 240,
+          "naturalHeight": 240,
+          "box": {
+            "width": 280,
+            "height": 256
+          },
+          "disclosure": true,
+          "target": "_blank",
+          "rel": "nofollow sponsored noopener",
+          "normalProduct": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "engine": "webkit",
+      "width": 320,
+      "sakeId": "tamanohikari-junmai-ginjo-shukon-standard",
+      "group": "D",
+      "summary": true,
+      "closed": true,
+      "lazy": true,
+      "keyboard": true,
+      "noOverflow": true,
+      "images": [
+        {
+          "name": "しば漬け",
+          "naturalWidth": 240,
+          "naturalHeight": 240,
+          "box": {
+            "width": 280,
+            "height": 256
+          },
+          "disclosure": true,
+          "target": "_blank",
+          "rel": "nofollow sponsored noopener",
+          "normalProduct": true
+        },
+        {
+          "name": "千枚漬け",
+          "naturalWidth": 240,
+          "naturalHeight": 240,
+          "box": {
+            "width": 280,
+            "height": 256
+          },
+          "disclosure": true,
+          "target": "_blank",
+          "rel": "nofollow sponsored noopener",
+          "normalProduct": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "engine": "webkit",
+      "width": 320,
+      "sakeId": "ugonotsuki-junmai-ginjo",
+      "group": "E",
+      "summary": true,
+      "closed": true,
+      "lazy": true,
+      "keyboard": true,
+      "noOverflow": true,
+      "images": [
+        {
+          "name": "かきの土手鍋",
+          "naturalWidth": 240,
+          "naturalHeight": 240,
+          "box": {
+            "width": 280,
+            "height": 256
+          },
+          "disclosure": true,
+          "target": "_blank",
+          "rel": "nofollow sponsored noopener",
+          "normalProduct": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "engine": "webkit",
+      "width": 320,
+      "sakeId": "narutotai-iwjid2",
+      "group": "F",
+      "summary": true,
+      "closed": true,
+      "lazy": true,
+      "keyboard": true,
+      "noOverflow": true,
+      "images": [
+        {
+          "name": "フィッシュカツ",
+          "naturalWidth": 240,
+          "naturalHeight": 240,
+          "box": {
+            "width": 280,
+            "height": 256
+          },
+          "disclosure": true,
+          "target": "_blank",
+          "rel": "nofollow sponsored noopener",
+          "normalProduct": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "engine": "webkit",
+      "width": 320,
+      "sakeId": "chiebijin-junmai",
+      "group": "G",
+      "summary": true,
+      "closed": true,
+      "lazy": true,
+      "keyboard": true,
+      "noOverflow": true,
+      "images": [
+        {
+          "name": "りゅうきゅう",
+          "naturalWidth": 240,
+          "naturalHeight": 240,
+          "box": {
+            "width": 280,
+            "height": 256
+          },
+          "disclosure": true,
+          "target": "_blank",
+          "rel": "nofollow sponsored noopener",
+          "normalProduct": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "engine": "webkit",
+      "width": 320,
+      "sakeId": "tenbi-junmai-ginjo",
+      "group": "E-original-CDN",
+      "summary": true,
+      "closed": true,
+      "lazy": true,
+      "keyboard": true,
+      "noOverflow": true,
+      "images": [
+        {
+          "name": "ふぐの唐揚げ",
+          "naturalWidth": 240,
+          "naturalHeight": 240,
+          "box": {
+            "width": 280,
+            "height": 256
+          },
+          "disclosure": true,
+          "target": "_blank",
+          "rel": "nofollow sponsored noopener",
+          "normalProduct": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "engine": "webkit",
+      "width": 320,
+      "sakeId": "ohyama-tokubetsu-junmai-tomizu-standard",
+      "group": "A-original-CDN",
+      "summary": true,
+      "closed": true,
+      "lazy": true,
+      "keyboard": true,
+      "noOverflow": true,
+      "images": [
+        {
+          "name": "玉こんにゃく",
+          "naturalWidth": 240,
+          "naturalHeight": 240,
+          "box": {
+            "width": 280,
+            "height": 256
+          },
+          "disclosure": true,
+          "target": "_blank",
+          "rel": "nofollow sponsored noopener",
+          "normalProduct": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "engine": "webkit",
+      "width": 320,
+      "sakeId": "izumibashi-nz2hmwijh",
+      "group": "B-new",
+      "summary": true,
+      "closed": true,
+      "lazy": true,
+      "keyboard": true,
+      "noOverflow": true,
+      "images": [
+        {
+          "name": "小田原かまぼこ",
+          "naturalWidth": 240,
+          "naturalHeight": 240,
+          "box": {
+            "width": 280,
+            "height": 256
+          },
+          "disclosure": true,
+          "target": "_blank",
+          "rel": "nofollow sponsored noopener",
+          "normalProduct": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "engine": "webkit",
+      "width": 320,
+      "sakeId": "tenkanishiki-fexsst",
+      "group": "C-new",
+      "summary": true,
+      "closed": true,
+      "lazy": true,
+      "keyboard": true,
+      "noOverflow": true,
+      "images": [
+        {
+          "name": "さんまの丸干し（内臓除去）",
+          "naturalWidth": 240,
+          "naturalHeight": 176,
+          "box": {
+            "width": 280,
+            "height": 256
+          },
+          "disclosure": true,
+          "target": "_blank",
+          "rel": "nofollow sponsored noopener",
+          "normalProduct": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "engine": "webkit",
+      "width": 320,
+      "sakeId": "kurokabuto-green-label-v1",
+      "group": "G-new",
+      "summary": true,
+      "closed": true,
+      "lazy": true,
+      "keyboard": true,
+      "noOverflow": true,
+      "images": [
+        {
+          "name": "瀬高の高菜漬け",
+          "naturalWidth": 240,
+          "naturalHeight": 240,
+          "box": {
+            "width": 280,
+            "height": 256
+          },
+          "disclosure": true,
+          "target": "_blank",
+          "rel": "nofollow sponsored noopener",
+          "normalProduct": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "engine": "webkit",
+      "width": 320,
+      "sakeId": "kinoene-gg3q4p-2",
+      "group": "B-new-long",
+      "summary": true,
+      "closed": true,
+      "lazy": true,
+      "keyboard": true,
+      "noOverflow": true,
+      "images": [
+        {
+          "name": "ゆで落花生",
+          "naturalWidth": 240,
+          "naturalHeight": 240,
+          "box": {
+            "width": 280,
+            "height": 256
+          },
+          "disclosure": true,
+          "target": "_blank",
+          "rel": "nofollow sponsored noopener",
+          "normalProduct": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "engine": "webkit",
+      "width": 360,
+      "sakeId": "denshu-tokubetsu-junmai",
+      "group": "A",
+      "summary": true,
+      "closed": true,
+      "lazy": true,
+      "keyboard": true,
+      "noOverflow": true,
+      "images": [
+        {
+          "name": "いちご煮",
+          "naturalWidth": 240,
+          "naturalHeight": 240,
+          "box": {
+            "width": 320,
+            "height": 256
+          },
+          "disclosure": true,
+          "target": "_blank",
+          "rel": "nofollow sponsored noopener",
+          "normalProduct": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "engine": "webkit",
+      "width": 360,
+      "sakeId": "hououbiden-tsurugi-hiire-v1",
+      "group": "B",
+      "summary": true,
+      "closed": true,
+      "lazy": true,
+      "keyboard": true,
+      "noOverflow": true,
+      "images": [
+        {
+          "name": "揚巻湯波",
+          "naturalWidth": 240,
+          "naturalHeight": 240,
+          "box": {
+            "width": 320,
+            "height": 256
+          },
+          "disclosure": true,
+          "target": "_blank",
+          "rel": "nofollow sponsored noopener",
+          "normalProduct": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "engine": "webkit",
+      "width": 360,
+      "sakeId": "masumi-karakuchi-kiippon",
+      "group": "C",
+      "summary": true,
+      "closed": true,
+      "lazy": true,
+      "keyboard": true,
+      "noOverflow": true,
+      "images": [
+        {
+          "name": "野沢菜漬",
+          "naturalWidth": 240,
+          "naturalHeight": 240,
+          "box": {
+            "width": 320,
+            "height": 256
+          },
+          "disclosure": true,
+          "target": "_blank",
+          "rel": "nofollow sponsored noopener",
+          "normalProduct": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "engine": "webkit",
+      "width": 360,
+      "sakeId": "tamanohikari-junmai-ginjo-shukon-standard",
+      "group": "D",
+      "summary": true,
+      "closed": true,
+      "lazy": true,
+      "keyboard": true,
+      "noOverflow": true,
+      "images": [
+        {
+          "name": "しば漬け",
+          "naturalWidth": 240,
+          "naturalHeight": 240,
+          "box": {
+            "width": 320,
+            "height": 256
+          },
+          "disclosure": true,
+          "target": "_blank",
+          "rel": "nofollow sponsored noopener",
+          "normalProduct": true
+        },
+        {
+          "name": "千枚漬け",
+          "naturalWidth": 240,
+          "naturalHeight": 240,
+          "box": {
+            "width": 320,
+            "height": 256
+          },
+          "disclosure": true,
+          "target": "_blank",
+          "rel": "nofollow sponsored noopener",
+          "normalProduct": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "engine": "webkit",
+      "width": 360,
+      "sakeId": "ugonotsuki-junmai-ginjo",
+      "group": "E",
+      "summary": true,
+      "closed": true,
+      "lazy": true,
+      "keyboard": true,
+      "noOverflow": true,
+      "images": [
+        {
+          "name": "かきの土手鍋",
+          "naturalWidth": 240,
+          "naturalHeight": 240,
+          "box": {
+            "width": 320,
+            "height": 256
+          },
+          "disclosure": true,
+          "target": "_blank",
+          "rel": "nofollow sponsored noopener",
+          "normalProduct": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "engine": "webkit",
+      "width": 360,
+      "sakeId": "narutotai-iwjid2",
+      "group": "F",
+      "summary": true,
+      "closed": true,
+      "lazy": true,
+      "keyboard": true,
+      "noOverflow": true,
+      "images": [
+        {
+          "name": "フィッシュカツ",
+          "naturalWidth": 240,
+          "naturalHeight": 240,
+          "box": {
+            "width": 320,
+            "height": 256
+          },
+          "disclosure": true,
+          "target": "_blank",
+          "rel": "nofollow sponsored noopener",
+          "normalProduct": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "engine": "webkit",
+      "width": 360,
+      "sakeId": "chiebijin-junmai",
+      "group": "G",
+      "summary": true,
+      "closed": true,
+      "lazy": true,
+      "keyboard": true,
+      "noOverflow": true,
+      "images": [
+        {
+          "name": "りゅうきゅう",
+          "naturalWidth": 240,
+          "naturalHeight": 240,
+          "box": {
+            "width": 320,
+            "height": 256
+          },
+          "disclosure": true,
+          "target": "_blank",
+          "rel": "nofollow sponsored noopener",
+          "normalProduct": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "engine": "webkit",
+      "width": 360,
+      "sakeId": "tenbi-junmai-ginjo",
+      "group": "E-original-CDN",
+      "summary": true,
+      "closed": true,
+      "lazy": true,
+      "keyboard": true,
+      "noOverflow": true,
+      "images": [
+        {
+          "name": "ふぐの唐揚げ",
+          "naturalWidth": 240,
+          "naturalHeight": 240,
+          "box": {
+            "width": 320,
+            "height": 256
+          },
+          "disclosure": true,
+          "target": "_blank",
+          "rel": "nofollow sponsored noopener",
+          "normalProduct": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "engine": "webkit",
+      "width": 360,
+      "sakeId": "ohyama-tokubetsu-junmai-tomizu-standard",
+      "group": "A-original-CDN",
+      "summary": true,
+      "closed": true,
+      "lazy": true,
+      "keyboard": true,
+      "noOverflow": true,
+      "images": [
+        {
+          "name": "玉こんにゃく",
+          "naturalWidth": 240,
+          "naturalHeight": 240,
+          "box": {
+            "width": 320,
+            "height": 256
+          },
+          "disclosure": true,
+          "target": "_blank",
+          "rel": "nofollow sponsored noopener",
+          "normalProduct": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "engine": "webkit",
+      "width": 360,
+      "sakeId": "izumibashi-nz2hmwijh",
+      "group": "B-new",
+      "summary": true,
+      "closed": true,
+      "lazy": true,
+      "keyboard": true,
+      "noOverflow": true,
+      "images": [
+        {
+          "name": "小田原かまぼこ",
+          "naturalWidth": 240,
+          "naturalHeight": 240,
+          "box": {
+            "width": 320,
+            "height": 256
+          },
+          "disclosure": true,
+          "target": "_blank",
+          "rel": "nofollow sponsored noopener",
+          "normalProduct": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "engine": "webkit",
+      "width": 360,
+      "sakeId": "tenkanishiki-fexsst",
+      "group": "C-new",
+      "summary": true,
+      "closed": true,
+      "lazy": true,
+      "keyboard": true,
+      "noOverflow": true,
+      "images": [
+        {
+          "name": "さんまの丸干し（内臓除去）",
+          "naturalWidth": 240,
+          "naturalHeight": 176,
+          "box": {
+            "width": 320,
+            "height": 256
+          },
+          "disclosure": true,
+          "target": "_blank",
+          "rel": "nofollow sponsored noopener",
+          "normalProduct": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "engine": "webkit",
+      "width": 360,
+      "sakeId": "kurokabuto-green-label-v1",
+      "group": "G-new",
+      "summary": true,
+      "closed": true,
+      "lazy": true,
+      "keyboard": true,
+      "noOverflow": true,
+      "images": [
+        {
+          "name": "瀬高の高菜漬け",
+          "naturalWidth": 240,
+          "naturalHeight": 240,
+          "box": {
+            "width": 320,
+            "height": 256
+          },
+          "disclosure": true,
+          "target": "_blank",
+          "rel": "nofollow sponsored noopener",
+          "normalProduct": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "engine": "webkit",
+      "width": 360,
+      "sakeId": "kinoene-gg3q4p-2",
+      "group": "B-new-long",
+      "summary": true,
+      "closed": true,
+      "lazy": true,
+      "keyboard": true,
+      "noOverflow": true,
+      "images": [
+        {
+          "name": "ゆで落花生",
+          "naturalWidth": 240,
+          "naturalHeight": 240,
+          "box": {
+            "width": 320,
+            "height": 256
+          },
+          "disclosure": true,
+          "target": "_blank",
+          "rel": "nofollow sponsored noopener",
+          "normalProduct": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "engine": "webkit",
+      "width": 375,
+      "sakeId": "denshu-tokubetsu-junmai",
+      "group": "A",
+      "summary": true,
+      "closed": true,
+      "lazy": true,
+      "keyboard": true,
+      "noOverflow": true,
+      "images": [
+        {
+          "name": "いちご煮",
+          "naturalWidth": 240,
+          "naturalHeight": 240,
+          "box": {
+            "width": 335,
+            "height": 256
+          },
+          "disclosure": true,
+          "target": "_blank",
+          "rel": "nofollow sponsored noopener",
+          "normalProduct": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "engine": "webkit",
+      "width": 375,
+      "sakeId": "hououbiden-tsurugi-hiire-v1",
+      "group": "B",
+      "summary": true,
+      "closed": true,
+      "lazy": true,
+      "keyboard": true,
+      "noOverflow": true,
+      "images": [
+        {
+          "name": "揚巻湯波",
+          "naturalWidth": 240,
+          "naturalHeight": 240,
+          "box": {
+            "width": 335,
+            "height": 256
+          },
+          "disclosure": true,
+          "target": "_blank",
+          "rel": "nofollow sponsored noopener",
+          "normalProduct": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "engine": "webkit",
+      "width": 375,
+      "sakeId": "masumi-karakuchi-kiippon",
+      "group": "C",
+      "summary": true,
+      "closed": true,
+      "lazy": true,
+      "keyboard": true,
+      "noOverflow": true,
+      "images": [
+        {
+          "name": "野沢菜漬",
+          "naturalWidth": 240,
+          "naturalHeight": 240,
+          "box": {
+            "width": 335,
+            "height": 256
+          },
+          "disclosure": true,
+          "target": "_blank",
+          "rel": "nofollow sponsored noopener",
+          "normalProduct": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "engine": "webkit",
+      "width": 375,
+      "sakeId": "tamanohikari-junmai-ginjo-shukon-standard",
+      "group": "D",
+      "summary": true,
+      "closed": true,
+      "lazy": true,
+      "keyboard": true,
+      "noOverflow": true,
+      "images": [
+        {
+          "name": "しば漬け",
+          "naturalWidth": 240,
+          "naturalHeight": 240,
+          "box": {
+            "width": 335,
+            "height": 256
+          },
+          "disclosure": true,
+          "target": "_blank",
+          "rel": "nofollow sponsored noopener",
+          "normalProduct": true
+        },
+        {
+          "name": "千枚漬け",
+          "naturalWidth": 240,
+          "naturalHeight": 240,
+          "box": {
+            "width": 335,
+            "height": 256
+          },
+          "disclosure": true,
+          "target": "_blank",
+          "rel": "nofollow sponsored noopener",
+          "normalProduct": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "engine": "webkit",
+      "width": 375,
+      "sakeId": "ugonotsuki-junmai-ginjo",
+      "group": "E",
+      "summary": true,
+      "closed": true,
+      "lazy": true,
+      "keyboard": true,
+      "noOverflow": true,
+      "images": [
+        {
+          "name": "かきの土手鍋",
+          "naturalWidth": 240,
+          "naturalHeight": 240,
+          "box": {
+            "width": 335,
+            "height": 256
+          },
+          "disclosure": true,
+          "target": "_blank",
+          "rel": "nofollow sponsored noopener",
+          "normalProduct": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "engine": "webkit",
+      "width": 375,
+      "sakeId": "narutotai-iwjid2",
+      "group": "F",
+      "summary": true,
+      "closed": true,
+      "lazy": true,
+      "keyboard": true,
+      "noOverflow": true,
+      "images": [
+        {
+          "name": "フィッシュカツ",
+          "naturalWidth": 240,
+          "naturalHeight": 240,
+          "box": {
+            "width": 335,
+            "height": 256
+          },
+          "disclosure": true,
+          "target": "_blank",
+          "rel": "nofollow sponsored noopener",
+          "normalProduct": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "engine": "webkit",
+      "width": 375,
+      "sakeId": "chiebijin-junmai",
+      "group": "G",
+      "summary": true,
+      "closed": true,
+      "lazy": true,
+      "keyboard": true,
+      "noOverflow": true,
+      "images": [
+        {
+          "name": "りゅうきゅう",
+          "naturalWidth": 240,
+          "naturalHeight": 240,
+          "box": {
+            "width": 335,
+            "height": 256
+          },
+          "disclosure": true,
+          "target": "_blank",
+          "rel": "nofollow sponsored noopener",
+          "normalProduct": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "engine": "webkit",
+      "width": 375,
+      "sakeId": "tenbi-junmai-ginjo",
+      "group": "E-original-CDN",
+      "summary": true,
+      "closed": true,
+      "lazy": true,
+      "keyboard": true,
+      "noOverflow": true,
+      "images": [
+        {
+          "name": "ふぐの唐揚げ",
+          "naturalWidth": 240,
+          "naturalHeight": 240,
+          "box": {
+            "width": 335,
+            "height": 256
+          },
+          "disclosure": true,
+          "target": "_blank",
+          "rel": "nofollow sponsored noopener",
+          "normalProduct": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "engine": "webkit",
+      "width": 375,
+      "sakeId": "ohyama-tokubetsu-junmai-tomizu-standard",
+      "group": "A-original-CDN",
+      "summary": true,
+      "closed": true,
+      "lazy": true,
+      "keyboard": true,
+      "noOverflow": true,
+      "images": [
+        {
+          "name": "玉こんにゃく",
+          "naturalWidth": 240,
+          "naturalHeight": 240,
+          "box": {
+            "width": 335,
+            "height": 256
+          },
+          "disclosure": true,
+          "target": "_blank",
+          "rel": "nofollow sponsored noopener",
+          "normalProduct": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "engine": "webkit",
+      "width": 375,
+      "sakeId": "izumibashi-nz2hmwijh",
+      "group": "B-new",
+      "summary": true,
+      "closed": true,
+      "lazy": true,
+      "keyboard": true,
+      "noOverflow": true,
+      "images": [
+        {
+          "name": "小田原かまぼこ",
+          "naturalWidth": 240,
+          "naturalHeight": 240,
+          "box": {
+            "width": 335,
+            "height": 256
+          },
+          "disclosure": true,
+          "target": "_blank",
+          "rel": "nofollow sponsored noopener",
+          "normalProduct": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "engine": "webkit",
+      "width": 375,
+      "sakeId": "tenkanishiki-fexsst",
+      "group": "C-new",
+      "summary": true,
+      "closed": true,
+      "lazy": true,
+      "keyboard": true,
+      "noOverflow": true,
+      "images": [
+        {
+          "name": "さんまの丸干し（内臓除去）",
+          "naturalWidth": 240,
+          "naturalHeight": 176,
+          "box": {
+            "width": 335,
+            "height": 256
+          },
+          "disclosure": true,
+          "target": "_blank",
+          "rel": "nofollow sponsored noopener",
+          "normalProduct": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "engine": "webkit",
+      "width": 375,
+      "sakeId": "kurokabuto-green-label-v1",
+      "group": "G-new",
+      "summary": true,
+      "closed": true,
+      "lazy": true,
+      "keyboard": true,
+      "noOverflow": true,
+      "images": [
+        {
+          "name": "瀬高の高菜漬け",
+          "naturalWidth": 240,
+          "naturalHeight": 240,
+          "box": {
+            "width": 335,
+            "height": 256
+          },
+          "disclosure": true,
+          "target": "_blank",
+          "rel": "nofollow sponsored noopener",
+          "normalProduct": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "engine": "webkit",
+      "width": 375,
+      "sakeId": "kinoene-gg3q4p-2",
+      "group": "B-new-long",
+      "summary": true,
+      "closed": true,
+      "lazy": true,
+      "keyboard": true,
+      "noOverflow": true,
+      "images": [
+        {
+          "name": "ゆで落花生",
+          "naturalWidth": 240,
+          "naturalHeight": 240,
+          "box": {
+            "width": 335,
+            "height": 256
+          },
+          "disclosure": true,
+          "target": "_blank",
+          "rel": "nofollow sponsored noopener",
+          "normalProduct": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "engine": "webkit",
+      "width": 390,
+      "sakeId": "denshu-tokubetsu-junmai",
+      "group": "A",
+      "summary": true,
+      "closed": true,
+      "lazy": true,
+      "keyboard": true,
+      "noOverflow": true,
+      "images": [
+        {
+          "name": "いちご煮",
+          "naturalWidth": 240,
+          "naturalHeight": 240,
+          "box": {
+            "width": 350,
+            "height": 256
+          },
+          "disclosure": true,
+          "target": "_blank",
+          "rel": "nofollow sponsored noopener",
+          "normalProduct": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "engine": "webkit",
+      "width": 390,
+      "sakeId": "hououbiden-tsurugi-hiire-v1",
+      "group": "B",
+      "summary": true,
+      "closed": true,
+      "lazy": true,
+      "keyboard": true,
+      "noOverflow": true,
+      "images": [
+        {
+          "name": "揚巻湯波",
+          "naturalWidth": 240,
+          "naturalHeight": 240,
+          "box": {
+            "width": 350,
+            "height": 256
+          },
+          "disclosure": true,
+          "target": "_blank",
+          "rel": "nofollow sponsored noopener",
+          "normalProduct": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "engine": "webkit",
+      "width": 390,
+      "sakeId": "masumi-karakuchi-kiippon",
+      "group": "C",
+      "summary": true,
+      "closed": true,
+      "lazy": true,
+      "keyboard": true,
+      "noOverflow": true,
+      "images": [
+        {
+          "name": "野沢菜漬",
+          "naturalWidth": 240,
+          "naturalHeight": 240,
+          "box": {
+            "width": 350,
+            "height": 256
+          },
+          "disclosure": true,
+          "target": "_blank",
+          "rel": "nofollow sponsored noopener",
+          "normalProduct": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "engine": "webkit",
+      "width": 390,
+      "sakeId": "tamanohikari-junmai-ginjo-shukon-standard",
+      "group": "D",
+      "summary": true,
+      "closed": true,
+      "lazy": true,
+      "keyboard": true,
+      "noOverflow": true,
+      "images": [
+        {
+          "name": "しば漬け",
+          "naturalWidth": 240,
+          "naturalHeight": 240,
+          "box": {
+            "width": 350,
+            "height": 256
+          },
+          "disclosure": true,
+          "target": "_blank",
+          "rel": "nofollow sponsored noopener",
+          "normalProduct": true
+        },
+        {
+          "name": "千枚漬け",
+          "naturalWidth": 240,
+          "naturalHeight": 240,
+          "box": {
+            "width": 350,
+            "height": 256
+          },
+          "disclosure": true,
+          "target": "_blank",
+          "rel": "nofollow sponsored noopener",
+          "normalProduct": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "engine": "webkit",
+      "width": 390,
+      "sakeId": "ugonotsuki-junmai-ginjo",
+      "group": "E",
+      "summary": true,
+      "closed": true,
+      "lazy": true,
+      "keyboard": true,
+      "noOverflow": true,
+      "images": [
+        {
+          "name": "かきの土手鍋",
+          "naturalWidth": 240,
+          "naturalHeight": 240,
+          "box": {
+            "width": 350,
+            "height": 256
+          },
+          "disclosure": true,
+          "target": "_blank",
+          "rel": "nofollow sponsored noopener",
+          "normalProduct": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "engine": "webkit",
+      "width": 390,
+      "sakeId": "narutotai-iwjid2",
+      "group": "F",
+      "summary": true,
+      "closed": true,
+      "lazy": true,
+      "keyboard": true,
+      "noOverflow": true,
+      "images": [
+        {
+          "name": "フィッシュカツ",
+          "naturalWidth": 240,
+          "naturalHeight": 240,
+          "box": {
+            "width": 350,
+            "height": 256
+          },
+          "disclosure": true,
+          "target": "_blank",
+          "rel": "nofollow sponsored noopener",
+          "normalProduct": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "engine": "webkit",
+      "width": 390,
+      "sakeId": "chiebijin-junmai",
+      "group": "G",
+      "summary": true,
+      "closed": true,
+      "lazy": true,
+      "keyboard": true,
+      "noOverflow": true,
+      "images": [
+        {
+          "name": "りゅうきゅう",
+          "naturalWidth": 240,
+          "naturalHeight": 240,
+          "box": {
+            "width": 350,
+            "height": 256
+          },
+          "disclosure": true,
+          "target": "_blank",
+          "rel": "nofollow sponsored noopener",
+          "normalProduct": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "engine": "webkit",
+      "width": 390,
+      "sakeId": "tenbi-junmai-ginjo",
+      "group": "E-original-CDN",
+      "summary": true,
+      "closed": true,
+      "lazy": true,
+      "keyboard": true,
+      "noOverflow": true,
+      "images": [
+        {
+          "name": "ふぐの唐揚げ",
+          "naturalWidth": 240,
+          "naturalHeight": 240,
+          "box": {
+            "width": 350,
+            "height": 256
+          },
+          "disclosure": true,
+          "target": "_blank",
+          "rel": "nofollow sponsored noopener",
+          "normalProduct": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "engine": "webkit",
+      "width": 390,
+      "sakeId": "ohyama-tokubetsu-junmai-tomizu-standard",
+      "group": "A-original-CDN",
+      "summary": true,
+      "closed": true,
+      "lazy": true,
+      "keyboard": true,
+      "noOverflow": true,
+      "images": [
+        {
+          "name": "玉こんにゃく",
+          "naturalWidth": 240,
+          "naturalHeight": 240,
+          "box": {
+            "width": 350,
+            "height": 256
+          },
+          "disclosure": true,
+          "target": "_blank",
+          "rel": "nofollow sponsored noopener",
+          "normalProduct": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "engine": "webkit",
+      "width": 390,
+      "sakeId": "izumibashi-nz2hmwijh",
+      "group": "B-new",
+      "summary": true,
+      "closed": true,
+      "lazy": true,
+      "keyboard": true,
+      "noOverflow": true,
+      "images": [
+        {
+          "name": "小田原かまぼこ",
+          "naturalWidth": 240,
+          "naturalHeight": 240,
+          "box": {
+            "width": 350,
+            "height": 256
+          },
+          "disclosure": true,
+          "target": "_blank",
+          "rel": "nofollow sponsored noopener",
+          "normalProduct": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "engine": "webkit",
+      "width": 390,
+      "sakeId": "tenkanishiki-fexsst",
+      "group": "C-new",
+      "summary": true,
+      "closed": true,
+      "lazy": true,
+      "keyboard": true,
+      "noOverflow": true,
+      "images": [
+        {
+          "name": "さんまの丸干し（内臓除去）",
+          "naturalWidth": 240,
+          "naturalHeight": 176,
+          "box": {
+            "width": 350,
+            "height": 256
+          },
+          "disclosure": true,
+          "target": "_blank",
+          "rel": "nofollow sponsored noopener",
+          "normalProduct": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "engine": "webkit",
+      "width": 390,
+      "sakeId": "kurokabuto-green-label-v1",
+      "group": "G-new",
+      "summary": true,
+      "closed": true,
+      "lazy": true,
+      "keyboard": true,
+      "noOverflow": true,
+      "images": [
+        {
+          "name": "瀬高の高菜漬け",
+          "naturalWidth": 240,
+          "naturalHeight": 240,
+          "box": {
+            "width": 350,
+            "height": 256
+          },
+          "disclosure": true,
+          "target": "_blank",
+          "rel": "nofollow sponsored noopener",
+          "normalProduct": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "engine": "webkit",
+      "width": 390,
+      "sakeId": "kinoene-gg3q4p-2",
+      "group": "B-new-long",
+      "summary": true,
+      "closed": true,
+      "lazy": true,
+      "keyboard": true,
+      "noOverflow": true,
+      "images": [
+        {
+          "name": "ゆで落花生",
+          "naturalWidth": 240,
+          "naturalHeight": 240,
+          "box": {
+            "width": 350,
+            "height": 256
+          },
+          "disclosure": true,
+          "target": "_blank",
+          "rel": "nofollow sponsored noopener",
+          "normalProduct": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "engine": "webkit",
+      "width": 430,
+      "sakeId": "denshu-tokubetsu-junmai",
+      "group": "A",
+      "summary": true,
+      "closed": true,
+      "lazy": true,
+      "keyboard": true,
+      "noOverflow": true,
+      "images": [
+        {
+          "name": "いちご煮",
+          "naturalWidth": 240,
+          "naturalHeight": 240,
+          "box": {
+            "width": 390,
+            "height": 256
+          },
+          "disclosure": true,
+          "target": "_blank",
+          "rel": "nofollow sponsored noopener",
+          "normalProduct": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "engine": "webkit",
+      "width": 430,
+      "sakeId": "hououbiden-tsurugi-hiire-v1",
+      "group": "B",
+      "summary": true,
+      "closed": true,
+      "lazy": true,
+      "keyboard": true,
+      "noOverflow": true,
+      "images": [
+        {
+          "name": "揚巻湯波",
+          "naturalWidth": 240,
+          "naturalHeight": 240,
+          "box": {
+            "width": 390,
+            "height": 256
+          },
+          "disclosure": true,
+          "target": "_blank",
+          "rel": "nofollow sponsored noopener",
+          "normalProduct": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "engine": "webkit",
+      "width": 430,
+      "sakeId": "masumi-karakuchi-kiippon",
+      "group": "C",
+      "summary": true,
+      "closed": true,
+      "lazy": true,
+      "keyboard": true,
+      "noOverflow": true,
+      "images": [
+        {
+          "name": "野沢菜漬",
+          "naturalWidth": 240,
+          "naturalHeight": 240,
+          "box": {
+            "width": 390,
+            "height": 256
+          },
+          "disclosure": true,
+          "target": "_blank",
+          "rel": "nofollow sponsored noopener",
+          "normalProduct": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "engine": "webkit",
+      "width": 430,
+      "sakeId": "tamanohikari-junmai-ginjo-shukon-standard",
+      "group": "D",
+      "summary": true,
+      "closed": true,
+      "lazy": true,
+      "keyboard": true,
+      "noOverflow": true,
+      "images": [
+        {
+          "name": "しば漬け",
+          "naturalWidth": 240,
+          "naturalHeight": 240,
+          "box": {
+            "width": 390,
+            "height": 256
+          },
+          "disclosure": true,
+          "target": "_blank",
+          "rel": "nofollow sponsored noopener",
+          "normalProduct": true
+        },
+        {
+          "name": "千枚漬け",
+          "naturalWidth": 240,
+          "naturalHeight": 240,
+          "box": {
+            "width": 390,
+            "height": 256
+          },
+          "disclosure": true,
+          "target": "_blank",
+          "rel": "nofollow sponsored noopener",
+          "normalProduct": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "engine": "webkit",
+      "width": 430,
+      "sakeId": "ugonotsuki-junmai-ginjo",
+      "group": "E",
+      "summary": true,
+      "closed": true,
+      "lazy": true,
+      "keyboard": true,
+      "noOverflow": true,
+      "images": [
+        {
+          "name": "かきの土手鍋",
+          "naturalWidth": 240,
+          "naturalHeight": 240,
+          "box": {
+            "width": 390,
+            "height": 256
+          },
+          "disclosure": true,
+          "target": "_blank",
+          "rel": "nofollow sponsored noopener",
+          "normalProduct": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "engine": "webkit",
+      "width": 430,
+      "sakeId": "narutotai-iwjid2",
+      "group": "F",
+      "summary": true,
+      "closed": true,
+      "lazy": true,
+      "keyboard": true,
+      "noOverflow": true,
+      "images": [
+        {
+          "name": "フィッシュカツ",
+          "naturalWidth": 240,
+          "naturalHeight": 240,
+          "box": {
+            "width": 390,
+            "height": 256
+          },
+          "disclosure": true,
+          "target": "_blank",
+          "rel": "nofollow sponsored noopener",
+          "normalProduct": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "engine": "webkit",
+      "width": 430,
+      "sakeId": "chiebijin-junmai",
+      "group": "G",
+      "summary": true,
+      "closed": true,
+      "lazy": true,
+      "keyboard": true,
+      "noOverflow": true,
+      "images": [
+        {
+          "name": "りゅうきゅう",
+          "naturalWidth": 240,
+          "naturalHeight": 240,
+          "box": {
+            "width": 390,
+            "height": 256
+          },
+          "disclosure": true,
+          "target": "_blank",
+          "rel": "nofollow sponsored noopener",
+          "normalProduct": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "engine": "webkit",
+      "width": 430,
+      "sakeId": "tenbi-junmai-ginjo",
+      "group": "E-original-CDN",
+      "summary": true,
+      "closed": true,
+      "lazy": true,
+      "keyboard": true,
+      "noOverflow": true,
+      "images": [
+        {
+          "name": "ふぐの唐揚げ",
+          "naturalWidth": 240,
+          "naturalHeight": 240,
+          "box": {
+            "width": 390,
+            "height": 256
+          },
+          "disclosure": true,
+          "target": "_blank",
+          "rel": "nofollow sponsored noopener",
+          "normalProduct": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "engine": "webkit",
+      "width": 430,
+      "sakeId": "ohyama-tokubetsu-junmai-tomizu-standard",
+      "group": "A-original-CDN",
+      "summary": true,
+      "closed": true,
+      "lazy": true,
+      "keyboard": true,
+      "noOverflow": true,
+      "images": [
+        {
+          "name": "玉こんにゃく",
+          "naturalWidth": 240,
+          "naturalHeight": 240,
+          "box": {
+            "width": 390,
+            "height": 256
+          },
+          "disclosure": true,
+          "target": "_blank",
+          "rel": "nofollow sponsored noopener",
+          "normalProduct": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "engine": "webkit",
+      "width": 430,
+      "sakeId": "izumibashi-nz2hmwijh",
+      "group": "B-new",
+      "summary": true,
+      "closed": true,
+      "lazy": true,
+      "keyboard": true,
+      "noOverflow": true,
+      "images": [
+        {
+          "name": "小田原かまぼこ",
+          "naturalWidth": 240,
+          "naturalHeight": 240,
+          "box": {
+            "width": 390,
+            "height": 256
+          },
+          "disclosure": true,
+          "target": "_blank",
+          "rel": "nofollow sponsored noopener",
+          "normalProduct": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "engine": "webkit",
+      "width": 430,
+      "sakeId": "tenkanishiki-fexsst",
+      "group": "C-new",
+      "summary": true,
+      "closed": true,
+      "lazy": true,
+      "keyboard": true,
+      "noOverflow": true,
+      "images": [
+        {
+          "name": "さんまの丸干し（内臓除去）",
+          "naturalWidth": 240,
+          "naturalHeight": 176,
+          "box": {
+            "width": 390,
+            "height": 256
+          },
+          "disclosure": true,
+          "target": "_blank",
+          "rel": "nofollow sponsored noopener",
+          "normalProduct": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "engine": "webkit",
+      "width": 430,
+      "sakeId": "kurokabuto-green-label-v1",
+      "group": "G-new",
+      "summary": true,
+      "closed": true,
+      "lazy": true,
+      "keyboard": true,
+      "noOverflow": true,
+      "images": [
+        {
+          "name": "瀬高の高菜漬け",
+          "naturalWidth": 240,
+          "naturalHeight": 240,
+          "box": {
+            "width": 390,
+            "height": 256
+          },
+          "disclosure": true,
+          "target": "_blank",
+          "rel": "nofollow sponsored noopener",
+          "normalProduct": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "engine": "webkit",
+      "width": 430,
+      "sakeId": "kinoene-gg3q4p-2",
+      "group": "B-new-long",
+      "summary": true,
+      "closed": true,
+      "lazy": true,
+      "keyboard": true,
+      "noOverflow": true,
+      "images": [
+        {
+          "name": "ゆで落花生",
+          "naturalWidth": 240,
+          "naturalHeight": 240,
+          "box": {
+            "width": 390,
+            "height": 256
+          },
+          "disclosure": true,
+          "target": "_blank",
+          "rel": "nofollow sponsored noopener",
+          "normalProduct": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "sakeId": "denshu-tokubetsu-junmai",
+      "group": "A",
+      "summary": true,
+      "closed": true,
+      "lazy": true,
+      "keyboard": true,
+      "noOverflow": true,
+      "images": [
+        {
+          "name": "いちご煮",
+          "naturalWidth": 240,
+          "naturalHeight": 240,
+          "box": {
+            "width": 514,
+            "height": 256
+          },
+          "disclosure": true,
+          "target": "_blank",
+          "rel": "nofollow sponsored noopener",
+          "normalProduct": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "sakeId": "hououbiden-tsurugi-hiire-v1",
+      "group": "B",
+      "summary": true,
+      "closed": true,
+      "lazy": true,
+      "keyboard": true,
+      "noOverflow": true,
+      "images": [
+        {
+          "name": "揚巻湯波",
+          "naturalWidth": 240,
+          "naturalHeight": 240,
+          "box": {
+            "width": 514,
+            "height": 256
+          },
+          "disclosure": true,
+          "target": "_blank",
+          "rel": "nofollow sponsored noopener",
+          "normalProduct": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "sakeId": "masumi-karakuchi-kiippon",
+      "group": "C",
+      "summary": true,
+      "closed": true,
+      "lazy": true,
+      "keyboard": true,
+      "noOverflow": true,
+      "images": [
+        {
+          "name": "野沢菜漬",
+          "naturalWidth": 240,
+          "naturalHeight": 240,
+          "box": {
+            "width": 514,
+            "height": 256
+          },
+          "disclosure": true,
+          "target": "_blank",
+          "rel": "nofollow sponsored noopener",
+          "normalProduct": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "sakeId": "tamanohikari-junmai-ginjo-shukon-standard",
+      "group": "D",
+      "summary": true,
+      "closed": true,
+      "lazy": true,
+      "keyboard": true,
+      "noOverflow": true,
+      "images": [
+        {
+          "name": "しば漬け",
+          "naturalWidth": 240,
+          "naturalHeight": 240,
+          "box": {
+            "width": 514,
+            "height": 256
+          },
+          "disclosure": true,
+          "target": "_blank",
+          "rel": "nofollow sponsored noopener",
+          "normalProduct": true
+        },
+        {
+          "name": "千枚漬け",
+          "naturalWidth": 240,
+          "naturalHeight": 240,
+          "box": {
+            "width": 514,
+            "height": 256
+          },
+          "disclosure": true,
+          "target": "_blank",
+          "rel": "nofollow sponsored noopener",
+          "normalProduct": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "sakeId": "ugonotsuki-junmai-ginjo",
+      "group": "E",
+      "summary": true,
+      "closed": true,
+      "lazy": true,
+      "keyboard": true,
+      "noOverflow": true,
+      "images": [
+        {
+          "name": "かきの土手鍋",
+          "naturalWidth": 240,
+          "naturalHeight": 240,
+          "box": {
+            "width": 514,
+            "height": 256
+          },
+          "disclosure": true,
+          "target": "_blank",
+          "rel": "nofollow sponsored noopener",
+          "normalProduct": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "sakeId": "narutotai-iwjid2",
+      "group": "F",
+      "summary": true,
+      "closed": true,
+      "lazy": true,
+      "keyboard": true,
+      "noOverflow": true,
+      "images": [
+        {
+          "name": "フィッシュカツ",
+          "naturalWidth": 240,
+          "naturalHeight": 240,
+          "box": {
+            "width": 514,
+            "height": 256
+          },
+          "disclosure": true,
+          "target": "_blank",
+          "rel": "nofollow sponsored noopener",
+          "normalProduct": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "sakeId": "chiebijin-junmai",
+      "group": "G",
+      "summary": true,
+      "closed": true,
+      "lazy": true,
+      "keyboard": true,
+      "noOverflow": true,
+      "images": [
+        {
+          "name": "りゅうきゅう",
+          "naturalWidth": 240,
+          "naturalHeight": 240,
+          "box": {
+            "width": 514,
+            "height": 256
+          },
+          "disclosure": true,
+          "target": "_blank",
+          "rel": "nofollow sponsored noopener",
+          "normalProduct": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "sakeId": "tenbi-junmai-ginjo",
+      "group": "E-original-CDN",
+      "summary": true,
+      "closed": true,
+      "lazy": true,
+      "keyboard": true,
+      "noOverflow": true,
+      "images": [
+        {
+          "name": "ふぐの唐揚げ",
+          "naturalWidth": 240,
+          "naturalHeight": 240,
+          "box": {
+            "width": 514,
+            "height": 256
+          },
+          "disclosure": true,
+          "target": "_blank",
+          "rel": "nofollow sponsored noopener",
+          "normalProduct": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "sakeId": "ohyama-tokubetsu-junmai-tomizu-standard",
+      "group": "A-original-CDN",
+      "summary": true,
+      "closed": true,
+      "lazy": true,
+      "keyboard": true,
+      "noOverflow": true,
+      "images": [
+        {
+          "name": "玉こんにゃく",
+          "naturalWidth": 240,
+          "naturalHeight": 240,
+          "box": {
+            "width": 514,
+            "height": 256
+          },
+          "disclosure": true,
+          "target": "_blank",
+          "rel": "nofollow sponsored noopener",
+          "normalProduct": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "sakeId": "izumibashi-nz2hmwijh",
+      "group": "B-new",
+      "summary": true,
+      "closed": true,
+      "lazy": true,
+      "keyboard": true,
+      "noOverflow": true,
+      "images": [
+        {
+          "name": "小田原かまぼこ",
+          "naturalWidth": 240,
+          "naturalHeight": 240,
+          "box": {
+            "width": 514,
+            "height": 256
+          },
+          "disclosure": true,
+          "target": "_blank",
+          "rel": "nofollow sponsored noopener",
+          "normalProduct": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "sakeId": "tenkanishiki-fexsst",
+      "group": "C-new",
+      "summary": true,
+      "closed": true,
+      "lazy": true,
+      "keyboard": true,
+      "noOverflow": true,
+      "images": [
+        {
+          "name": "さんまの丸干し（内臓除去）",
+          "naturalWidth": 240,
+          "naturalHeight": 176,
+          "box": {
+            "width": 514,
+            "height": 256
+          },
+          "disclosure": true,
+          "target": "_blank",
+          "rel": "nofollow sponsored noopener",
+          "normalProduct": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "sakeId": "kurokabuto-green-label-v1",
+      "group": "G-new",
+      "summary": true,
+      "closed": true,
+      "lazy": true,
+      "keyboard": true,
+      "noOverflow": true,
+      "images": [
+        {
+          "name": "瀬高の高菜漬け",
+          "naturalWidth": 240,
+          "naturalHeight": 240,
+          "box": {
+            "width": 514,
+            "height": 256
+          },
+          "disclosure": true,
+          "target": "_blank",
+          "rel": "nofollow sponsored noopener",
+          "normalProduct": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "sakeId": "kinoene-gg3q4p-2",
+      "group": "B-new-long",
+      "summary": true,
+      "closed": true,
+      "lazy": true,
+      "keyboard": true,
+      "noOverflow": true,
+      "images": [
+        {
+          "name": "ゆで落花生",
+          "naturalWidth": 240,
+          "naturalHeight": 240,
+          "box": {
+            "width": 514,
+            "height": 256
+          },
+          "disclosure": true,
+          "target": "_blank",
+          "rel": "nofollow sponsored noopener",
+          "normalProduct": true
+        }
+      ],
+      "passed": true
+    }
+  ],
+  "flows": [
+    {
+      "engine": "webkit",
+      "width": 320,
+      "prefectureSearch": true,
+      "detail": true,
+      "specialty": true,
+      "purchaseClick": true,
+      "externalRequest": "intercepted; actual retail separately checked",
+      "back": true,
+      "favorite": true,
+      "share": "native UI not invoked; existing unit coverage",
+      "blockedImagePlaceholder": true,
+      "piiFree": true,
+      "passed": true
+    },
+    {
+      "engine": "webkit",
+      "width": 360,
+      "prefectureSearch": true,
+      "detail": true,
+      "specialty": true,
+      "purchaseClick": true,
+      "externalRequest": "intercepted; actual retail separately checked",
+      "back": true,
+      "favorite": true,
+      "share": "native UI not invoked; existing unit coverage",
+      "blockedImagePlaceholder": true,
+      "piiFree": true,
+      "passed": true
+    },
+    {
+      "engine": "webkit",
+      "width": 375,
+      "prefectureSearch": true,
+      "detail": true,
+      "specialty": true,
+      "purchaseClick": true,
+      "externalRequest": "intercepted; actual retail separately checked",
+      "back": true,
+      "favorite": true,
+      "share": "native UI not invoked; existing unit coverage",
+      "blockedImagePlaceholder": true,
+      "piiFree": true,
+      "passed": true
+    },
+    {
+      "engine": "webkit",
+      "width": 390,
+      "prefectureSearch": true,
+      "detail": true,
+      "specialty": true,
+      "purchaseClick": true,
+      "externalRequest": "intercepted; actual retail separately checked",
+      "back": true,
+      "favorite": true,
+      "share": "native UI not invoked; existing unit coverage",
+      "blockedImagePlaceholder": true,
+      "piiFree": true,
+      "passed": true
+    },
+    {
+      "engine": "webkit",
+      "width": 430,
+      "prefectureSearch": true,
+      "detail": true,
+      "specialty": true,
+      "purchaseClick": true,
+      "externalRequest": "intercepted; actual retail separately checked",
+      "back": true,
+      "favorite": true,
+      "share": "native UI not invoked; existing unit coverage",
+      "blockedImagePlaceholder": true,
+      "piiFree": true,
+      "passed": true
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "prefectureSearch": true,
+      "detail": true,
+      "specialty": true,
+      "purchaseClick": true,
+      "externalRequest": "intercepted; actual retail separately checked",
+      "back": true,
+      "favorite": true,
+      "share": "clipboard",
+      "blockedImagePlaceholder": true,
+      "piiFree": true,
+      "passed": true
+    }
+  ],
+  "failedRequests": [
+    {
+      "engine": "webkit",
+      "width": 320,
+      "at": 1792744651413,
+      "path": "/nights/treat/__next.nights.$d$slug.__PAGE__.txt",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": "1",
+      "failure": {
+        "errorText": "Load request cancelled"
+      }
+    },
+    {
+      "engine": "webkit",
+      "width": 320,
+      "at": 1792744651414,
+      "path": "/nights/just-one/__next.nights.$d$slug.__PAGE__.txt",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": "1",
+      "failure": {
+        "errorText": "Load request cancelled"
+      }
+    },
+    {
+      "engine": "webkit",
+      "width": 320,
+      "at": 1792744651414,
+      "path": "/nights/quiet/__next.nights.$d$slug.__PAGE__.txt",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": "1",
+      "failure": {
+        "errorText": "Load request cancelled"
+      }
+    },
+    {
+      "engine": "webkit",
+      "width": 320,
+      "at": 1792744652636,
+      "path": "/nights/reset/__next._tree.txt",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": "1",
+      "failure": {
+        "errorText": "Load request cancelled"
+      }
+    },
+    {
+      "engine": "webkit",
+      "width": 320,
+      "at": 1792744652637,
+      "path": "/nights/just-one/__next._tree.txt",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": "1",
+      "failure": {
+        "errorText": "Load request cancelled"
+      }
+    },
+    {
+      "engine": "webkit",
+      "width": 320,
+      "at": 1792744652637,
+      "path": "/nights/dinner/__next._tree.txt",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": "1",
+      "failure": {
+        "errorText": "Load request cancelled"
+      }
+    },
+    {
+      "engine": "webkit",
+      "width": 320,
+      "at": 1792744654763,
+      "path": "/nights/after-work/__next.nights.$d$slug.__PAGE__.txt",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": "1",
+      "failure": {
+        "errorText": "Load request cancelled"
+      }
+    },
+    {
+      "engine": "webkit",
+      "width": 320,
+      "at": 1792744654763,
+      "path": "/nights/treat/__next.nights.$d$slug.__PAGE__.txt",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": "1",
+      "failure": {
+        "errorText": "Load request cancelled"
+      }
+    },
+    {
+      "engine": "webkit",
+      "width": 320,
+      "at": 1792744658944,
+      "path": "/nights/reset/__next.nights.$d$slug.__PAGE__.txt",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": "1",
+      "failure": {
+        "errorText": "Load request cancelled"
+      }
+    },
+    {
+      "engine": "webkit",
+      "width": 320,
+      "at": 1792744658944,
+      "path": "/nights/just-one/__next.nights.$d$slug.__PAGE__.txt",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": "1",
+      "failure": {
+        "errorText": "Load request cancelled"
+      }
+    },
+    {
+      "engine": "webkit",
+      "width": 320,
+      "at": 1792744658944,
+      "path": "/nights/treat/__next.nights.$d$slug.__PAGE__.txt",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": "1",
+      "failure": {
+        "errorText": "Load request cancelled"
+      }
+    },
+    {
+      "engine": "webkit",
+      "width": 360,
+      "at": 1792744669397,
+      "path": "/nights/just-one",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": null,
+      "failure": {
+        "errorText": "Load request cancelled"
+      }
+    },
+    {
+      "engine": "webkit",
+      "width": 360,
+      "at": 1792744669397,
+      "path": "/nights/after-work",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": null,
+      "failure": {
+        "errorText": "Load request cancelled"
+      }
+    },
+    {
+      "engine": "webkit",
+      "width": 360,
+      "at": 1792744670429,
+      "path": "/nights/just-one/__next._tree.txt",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": "1",
+      "failure": {
+        "errorText": "Load request cancelled"
+      }
+    },
+    {
+      "engine": "webkit",
+      "width": 360,
+      "at": 1792744670429,
+      "path": "/nights/reset/__next._tree.txt",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": "1",
+      "failure": {
+        "errorText": "Load request cancelled"
+      }
+    },
+    {
+      "engine": "webkit",
+      "width": 360,
+      "at": 1792744672681,
+      "path": "/nights/just-one/__next._tree.txt",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": "1",
+      "failure": {
+        "errorText": "Load request cancelled"
+      }
+    },
+    {
+      "engine": "webkit",
+      "width": 360,
+      "at": 1792744672681,
+      "path": "/nights/reset/__next._tree.txt",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": "1",
+      "failure": {
+        "errorText": "Load request cancelled"
+      }
+    },
+    {
+      "engine": "webkit",
+      "width": 360,
+      "at": 1792744672682,
+      "path": "/nights/dinner/__next._tree.txt",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": "1",
+      "failure": {
+        "errorText": "Load request cancelled"
+      }
+    },
+    {
+      "engine": "webkit",
+      "width": 360,
+      "at": 1792744678919,
+      "path": "/nights/just-one",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": null,
+      "failure": {
+        "errorText": "Load request cancelled"
+      }
+    },
+    {
+      "engine": "webkit",
+      "width": 360,
+      "at": 1792744680010,
+      "path": "/nights/quiet",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": null,
+      "failure": {
+        "errorText": "Load request cancelled"
+      }
+    },
+    {
+      "engine": "webkit",
+      "width": 360,
+      "at": 1792744680010,
+      "path": "/nights/after-work",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": null,
+      "failure": {
+        "errorText": "Load request cancelled"
+      }
+    },
+    {
+      "engine": "webkit",
+      "width": 375,
+      "at": 1792744689521,
+      "path": "/nights/just-one/__next.nights.$d$slug.__PAGE__.txt",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": "1",
+      "failure": {
+        "errorText": "Load request cancelled"
+      }
+    },
+    {
+      "engine": "webkit",
+      "width": 375,
+      "at": 1792744689521,
+      "path": "/nights/ordinary/__next.nights.$d$slug.__PAGE__.txt",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": "1",
+      "failure": {
+        "errorText": "Load request cancelled"
+      }
+    },
+    {
+      "engine": "webkit",
+      "width": 375,
+      "at": 1792744691611,
+      "path": "/nights/quiet/__next._tree.txt",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": "1",
+      "failure": {
+        "errorText": "Load request cancelled"
+      }
+    },
+    {
+      "engine": "webkit",
+      "width": 375,
+      "at": 1792744691611,
+      "path": "/nights/treat/__next._tree.txt",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": "1",
+      "failure": {
+        "errorText": "Load request cancelled"
+      }
+    },
+    {
+      "engine": "webkit",
+      "width": 375,
+      "at": 1792744693868,
+      "path": "/about",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": null,
+      "failure": {
+        "errorText": "Load request cancelled"
+      }
+    },
+    {
+      "engine": "webkit",
+      "width": 375,
+      "at": 1792744693869,
+      "path": "/about/advertising",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": null,
+      "failure": {
+        "errorText": "Load request cancelled"
+      }
+    },
+    {
+      "engine": "webkit",
+      "width": 375,
+      "at": 1792744694921,
+      "path": "/nights/after-work",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": null,
+      "failure": {
+        "errorText": "Load request cancelled"
+      }
+    },
+    {
+      "engine": "webkit",
+      "width": 375,
+      "at": 1792744694921,
+      "path": "/nights/dinner",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": null,
+      "failure": {
+        "errorText": "Load request cancelled"
+      }
+    },
+    {
+      "engine": "webkit",
+      "width": 375,
+      "at": 1792744699041,
+      "path": "/nights/treat",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": null,
+      "failure": {
+        "errorText": "Load request cancelled"
+      }
+    },
+    {
+      "engine": "webkit",
+      "width": 375,
+      "at": 1792744699041,
+      "path": "/nights/just-one",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": null,
+      "failure": {
+        "errorText": "Load request cancelled"
+      }
+    },
+    {
+      "engine": "webkit",
+      "width": 375,
+      "at": 1792744700088,
+      "path": "/about/advertising",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": null,
+      "failure": {
+        "errorText": "Load request cancelled"
+      }
+    },
+    {
+      "engine": "webkit",
+      "width": 375,
+      "at": 1792744700089,
+      "path": "/nights/after-work",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": null,
+      "failure": {
+        "errorText": "Load request cancelled"
+      }
+    },
+    {
+      "engine": "webkit",
+      "width": 375,
+      "at": 1792744700089,
+      "path": "/nights/quiet",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": null,
+      "failure": {
+        "errorText": "Load request cancelled"
+      }
+    },
+    {
+      "engine": "webkit",
+      "width": 375,
+      "at": 1792744700089,
+      "path": "/about",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": null,
+      "failure": {
+        "errorText": "Load request cancelled"
+      }
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "at": 1792744751841,
+      "path": "/",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": null,
+      "failure": {
+        "errorText": "net::ERR_ABORTED"
+      }
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "at": 1792744751841,
+      "path": "/search",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": null,
+      "failure": {
+        "errorText": "net::ERR_ABORTED"
+      }
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "at": 1792744751841,
+      "path": "/ochoko",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": null,
+      "failure": {
+        "errorText": "net::ERR_ABORTED"
+      }
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "at": 1792744751852,
+      "path": "/ochoko/__next.ochoko.__PAGE__.txt",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": "1",
+      "failure": {
+        "errorText": "net::ERR_ABORTED"
+      }
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "at": 1792744752560,
+      "path": "/nights/after-work",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": null,
+      "failure": {
+        "errorText": "net::ERR_ABORTED"
+      }
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "at": 1792744752561,
+      "path": "/nights/just-one",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": null,
+      "failure": {
+        "errorText": "net::ERR_ABORTED"
+      }
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "at": 1792744752561,
+      "path": "/nights/ordinary",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": null,
+      "failure": {
+        "errorText": "net::ERR_ABORTED"
+      }
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "at": 1792744752796,
+      "path": "/about",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": null,
+      "failure": {
+        "errorText": "net::ERR_ABORTED"
+      }
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "at": 1792744752797,
+      "path": "/about/advertising",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": null,
+      "failure": {
+        "errorText": "net::ERR_ABORTED"
+      }
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "at": 1792744752802,
+      "path": "/about/__next.about.__PAGE__.txt",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": "1",
+      "failure": {
+        "errorText": "net::ERR_ABORTED"
+      }
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "at": 1792744752874,
+      "path": "/",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": null,
+      "failure": {
+        "errorText": "net::ERR_ABORTED"
+      }
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "at": 1792744752874,
+      "path": "/search",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": null,
+      "failure": {
+        "errorText": "net::ERR_ABORTED"
+      }
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "at": 1792744752875,
+      "path": "/ochoko",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": null,
+      "failure": {
+        "errorText": "net::ERR_ABORTED"
+      }
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "at": 1792744752878,
+      "path": "/search/__next._tree.txt",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": "1",
+      "failure": {
+        "errorText": "net::ERR_ABORTED"
+      }
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "at": 1792744752879,
+      "path": "/ochoko/__next._tree.txt",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": "1",
+      "failure": {
+        "errorText": "net::ERR_ABORTED"
+      }
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "at": 1792744753454,
+      "path": "/about/advertising",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": null,
+      "failure": {
+        "errorText": "net::ERR_ABORTED"
+      }
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "at": 1792744753455,
+      "path": "/about",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": null,
+      "failure": {
+        "errorText": "net::ERR_ABORTED"
+      }
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "at": 1792744753455,
+      "path": "/nights/just-one",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": null,
+      "failure": {
+        "errorText": "net::ERR_ABORTED"
+      }
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "at": 1792744753455,
+      "path": "/nights/reset",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": null,
+      "failure": {
+        "errorText": "net::ERR_ABORTED"
+      }
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "at": 1792744753808,
+      "path": "/",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": null,
+      "failure": {
+        "errorText": "net::ERR_ABORTED"
+      }
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "at": 1792744753811,
+      "path": "/search",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": null,
+      "failure": {
+        "errorText": "net::ERR_ABORTED"
+      }
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "at": 1792744753811,
+      "path": "/ochoko",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": null,
+      "failure": {
+        "errorText": "net::ERR_ABORTED"
+      }
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "at": 1792744754381,
+      "path": "/about",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": null,
+      "failure": {
+        "errorText": "net::ERR_ABORTED"
+      }
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "at": 1792744754382,
+      "path": "/about/advertising",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": null,
+      "failure": {
+        "errorText": "net::ERR_ABORTED"
+      }
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "at": 1792744754382,
+      "path": "/nights/quiet",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": null,
+      "failure": {
+        "errorText": "net::ERR_ABORTED"
+      }
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "at": 1792744754382,
+      "path": "/nights/treat",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": null,
+      "failure": {
+        "errorText": "net::ERR_ABORTED"
+      }
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "at": 1792744754398,
+      "path": "/nights/just-one",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": null,
+      "failure": {
+        "errorText": "net::ERR_ABORTED"
+      }
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "at": 1792744754445,
+      "path": "/nights/treat/__next.nights.$d$slug.__PAGE__.txt",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": "1",
+      "failure": {
+        "errorText": "net::ERR_ABORTED"
+      }
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "at": 1792744754711,
+      "path": "/",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": null,
+      "failure": {
+        "errorText": "net::ERR_ABORTED"
+      }
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "at": 1792744754713,
+      "path": "/search",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": null,
+      "failure": {
+        "errorText": "net::ERR_ABORTED"
+      }
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "at": 1792744754713,
+      "path": "/ochoko",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": null,
+      "failure": {
+        "errorText": "net::ERR_ABORTED"
+      }
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "at": 1792744754721,
+      "path": "/ochoko/__next.ochoko.__PAGE__.txt",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": "1",
+      "failure": {
+        "errorText": "net::ERR_ABORTED"
+      }
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "at": 1792744755343,
+      "path": "/nights/just-one",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": null,
+      "failure": {
+        "errorText": "net::ERR_ABORTED"
+      }
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "at": 1792744755344,
+      "path": "/nights/reset",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": null,
+      "failure": {
+        "errorText": "net::ERR_ABORTED"
+      }
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "at": 1792744755345,
+      "path": "/nights/dinner",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": null,
+      "failure": {
+        "errorText": "net::ERR_ABORTED"
+      }
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "at": 1792744755351,
+      "path": "/nights/reset/__next.nights.$d$slug.__PAGE__.txt",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": "1",
+      "failure": {
+        "errorText": "net::ERR_ABORTED"
+      }
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "at": 1792744755352,
+      "path": "/nights/dinner/__next.nights.$d$slug.__PAGE__.txt",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": "1",
+      "failure": {
+        "errorText": "net::ERR_ABORTED"
+      }
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "at": 1792744755682,
+      "path": "/",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": null,
+      "failure": {
+        "errorText": "net::ERR_ABORTED"
+      }
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "at": 1792744755682,
+      "path": "/search",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": null,
+      "failure": {
+        "errorText": "net::ERR_ABORTED"
+      }
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "at": 1792744755682,
+      "path": "/ochoko",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": null,
+      "failure": {
+        "errorText": "net::ERR_ABORTED"
+      }
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "at": 1792744755691,
+      "path": "/ochoko/__next.ochoko.__PAGE__.txt",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": "1",
+      "failure": {
+        "errorText": "net::ERR_ABORTED"
+      }
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "at": 1792744756258,
+      "path": "/about",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": null,
+      "failure": {
+        "errorText": "net::ERR_ABORTED"
+      }
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "at": 1792744756260,
+      "path": "/about/advertising",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": null,
+      "failure": {
+        "errorText": "net::ERR_ABORTED"
+      }
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "at": 1792744756260,
+      "path": "/nights/autumn",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": null,
+      "failure": {
+        "errorText": "net::ERR_ABORTED"
+      }
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "at": 1792744756260,
+      "path": "/nights/dinner",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": null,
+      "failure": {
+        "errorText": "net::ERR_ABORTED"
+      }
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "at": 1792744756262,
+      "path": "/about/__next._tree.txt",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": "1",
+      "failure": {
+        "errorText": "net::ERR_ABORTED"
+      }
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "at": 1792744756276,
+      "path": "/nights/after-work",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": null,
+      "failure": {
+        "errorText": "net::ERR_ABORTED"
+      }
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "at": 1792744756624,
+      "path": "/",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": null,
+      "failure": {
+        "errorText": "net::ERR_ABORTED"
+      }
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "at": 1792744756624,
+      "path": "/search",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": null,
+      "failure": {
+        "errorText": "net::ERR_ABORTED"
+      }
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "at": 1792744756624,
+      "path": "/ochoko",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": null,
+      "failure": {
+        "errorText": "net::ERR_ABORTED"
+      }
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "at": 1792744756627,
+      "path": "/search/__next._tree.txt",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": "1",
+      "failure": {
+        "errorText": "net::ERR_ABORTED"
+      }
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "at": 1792744756635,
+      "path": "/ochoko/__next.ochoko.__PAGE__.txt",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": "1",
+      "failure": {
+        "errorText": "net::ERR_ABORTED"
+      }
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "at": 1792744757188,
+      "path": "/about",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": null,
+      "failure": {
+        "errorText": "net::ERR_ABORTED"
+      }
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "at": 1792744757189,
+      "path": "/about/advertising",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": null,
+      "failure": {
+        "errorText": "net::ERR_ABORTED"
+      }
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "at": 1792744757189,
+      "path": "/nights/dinner",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": null,
+      "failure": {
+        "errorText": "net::ERR_ABORTED"
+      }
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "at": 1792744757189,
+      "path": "/nights/after-work",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": null,
+      "failure": {
+        "errorText": "net::ERR_ABORTED"
+      }
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "at": 1792744757209,
+      "path": "/nights/treat",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": null,
+      "failure": {
+        "errorText": "net::ERR_ABORTED"
+      }
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "at": 1792744757248,
+      "path": "/nights/after-work/__next.nights.$d$slug.__PAGE__.txt",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": "1",
+      "failure": {
+        "errorText": "net::ERR_ABORTED"
+      }
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "at": 1792744757532,
+      "path": "/",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": null,
+      "failure": {
+        "errorText": "net::ERR_ABORTED"
+      }
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "at": 1792744757532,
+      "path": "/search",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": null,
+      "failure": {
+        "errorText": "net::ERR_ABORTED"
+      }
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "at": 1792744757532,
+      "path": "/ochoko",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": null,
+      "failure": {
+        "errorText": "net::ERR_ABORTED"
+      }
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "at": 1792744757543,
+      "path": "/ochoko/__next.ochoko.__PAGE__.txt",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": "1",
+      "failure": {
+        "errorText": "net::ERR_ABORTED"
+      }
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "at": 1792744758103,
+      "path": "/about",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": null,
+      "failure": {
+        "errorText": "net::ERR_ABORTED"
+      }
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "at": 1792744758103,
+      "path": "/about/advertising",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": null,
+      "failure": {
+        "errorText": "net::ERR_ABORTED"
+      }
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "at": 1792744758104,
+      "path": "/nights/just-one",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": null,
+      "failure": {
+        "errorText": "net::ERR_ABORTED"
+      }
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "at": 1792744758104,
+      "path": "/nights/reset",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": null,
+      "failure": {
+        "errorText": "net::ERR_ABORTED"
+      }
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "at": 1792744758146,
+      "path": "/nights/reset/__next.nights.$d$slug.__PAGE__.txt",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": "1",
+      "failure": {
+        "errorText": "net::ERR_ABORTED"
+      }
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "at": 1792744758458,
+      "path": "/",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": null,
+      "failure": {
+        "errorText": "net::ERR_ABORTED"
+      }
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "at": 1792744758458,
+      "path": "/search",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": null,
+      "failure": {
+        "errorText": "net::ERR_ABORTED"
+      }
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "at": 1792744758458,
+      "path": "/ochoko",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": null,
+      "failure": {
+        "errorText": "net::ERR_ABORTED"
+      }
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "at": 1792744758469,
+      "path": "/ochoko/__next.ochoko.__PAGE__.txt",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": "1",
+      "failure": {
+        "errorText": "net::ERR_ABORTED"
+      }
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "at": 1792744759018,
+      "path": "/about",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": null,
+      "failure": {
+        "errorText": "net::ERR_ABORTED"
+      }
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "at": 1792744759019,
+      "path": "/about/advertising",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": null,
+      "failure": {
+        "errorText": "net::ERR_ABORTED"
+      }
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "at": 1792744759019,
+      "path": "/nights/dinner",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": null,
+      "failure": {
+        "errorText": "net::ERR_ABORTED"
+      }
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "at": 1792744759020,
+      "path": "/nights/together",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": null,
+      "failure": {
+        "errorText": "net::ERR_ABORTED"
+      }
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "at": 1792744759036,
+      "path": "/nights/just-one",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": null,
+      "failure": {
+        "errorText": "net::ERR_ABORTED"
+      }
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "at": 1792744759080,
+      "path": "/nights/just-one/__next.nights.$d$slug.__PAGE__.txt",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": "1",
+      "failure": {
+        "errorText": "net::ERR_ABORTED"
+      }
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "at": 1792744759450,
+      "path": "/",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": null,
+      "failure": {
+        "errorText": "net::ERR_ABORTED"
+      }
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "at": 1792744759450,
+      "path": "/search",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": null,
+      "failure": {
+        "errorText": "net::ERR_ABORTED"
+      }
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "at": 1792744759451,
+      "path": "/ochoko",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": null,
+      "failure": {
+        "errorText": "net::ERR_ABORTED"
+      }
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "at": 1792744759461,
+      "path": "/ochoko/__next.ochoko.__PAGE__.txt",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": "1",
+      "failure": {
+        "errorText": "net::ERR_ABORTED"
+      }
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "at": 1792744760026,
+      "path": "/about",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": null,
+      "failure": {
+        "errorText": "net::ERR_ABORTED"
+      }
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "at": 1792744760027,
+      "path": "/about/advertising",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": null,
+      "failure": {
+        "errorText": "net::ERR_ABORTED"
+      }
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "at": 1792744760027,
+      "path": "/nights/dinner",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": null,
+      "failure": {
+        "errorText": "net::ERR_ABORTED"
+      }
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "at": 1792744760027,
+      "path": "/nights/after-work",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": null,
+      "failure": {
+        "errorText": "net::ERR_ABORTED"
+      }
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "at": 1792744760043,
+      "path": "/nights/quiet",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": null,
+      "failure": {
+        "errorText": "net::ERR_ABORTED"
+      }
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "at": 1792744760392,
+      "path": "/",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": null,
+      "failure": {
+        "errorText": "net::ERR_ABORTED"
+      }
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "at": 1792744760394,
+      "path": "/search",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": null,
+      "failure": {
+        "errorText": "net::ERR_ABORTED"
+      }
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "at": 1792744760394,
+      "path": "/ochoko",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": null,
+      "failure": {
+        "errorText": "net::ERR_ABORTED"
+      }
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "at": 1792744760403,
+      "path": "/ochoko/__next.ochoko.__PAGE__.txt",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": "1",
+      "failure": {
+        "errorText": "net::ERR_ABORTED"
+      }
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "at": 1792744760957,
+      "path": "/about",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": null,
+      "failure": {
+        "errorText": "net::ERR_ABORTED"
+      }
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "at": 1792744760958,
+      "path": "/about/advertising",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": null,
+      "failure": {
+        "errorText": "net::ERR_ABORTED"
+      }
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "at": 1792744760958,
+      "path": "/nights/treat",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": null,
+      "failure": {
+        "errorText": "net::ERR_ABORTED"
+      }
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "at": 1792744760959,
+      "path": "/nights/just-one",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": null,
+      "failure": {
+        "errorText": "net::ERR_ABORTED"
+      }
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "at": 1792744761013,
+      "path": "/nights/just-one/__next.nights.$d$slug.__PAGE__.txt",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": "1",
+      "failure": {
+        "errorText": "net::ERR_ABORTED"
+      }
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "at": 1792744761307,
+      "path": "/",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": null,
+      "failure": {
+        "errorText": "net::ERR_ABORTED"
+      }
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "at": 1792744761307,
+      "path": "/search",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": null,
+      "failure": {
+        "errorText": "net::ERR_ABORTED"
+      }
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "at": 1792744761307,
+      "path": "/ochoko",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": null,
+      "failure": {
+        "errorText": "net::ERR_ABORTED"
+      }
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "at": 1792744761313,
+      "path": "/__next._index.txt",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": "1",
+      "failure": {
+        "errorText": "net::ERR_ABORTED"
+      }
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "at": 1792744761317,
+      "path": "/ochoko/__next.ochoko.__PAGE__.txt",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": "1",
+      "failure": {
+        "errorText": "net::ERR_ABORTED"
+      }
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "at": 1792744761871,
+      "path": "/about",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": null,
+      "failure": {
+        "errorText": "net::ERR_ABORTED"
+      }
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "at": 1792744761872,
+      "path": "/about/advertising",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": null,
+      "failure": {
+        "errorText": "net::ERR_ABORTED"
+      }
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "at": 1792744761872,
+      "path": "/nights/after-work",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": null,
+      "failure": {
+        "errorText": "net::ERR_ABORTED"
+      }
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "at": 1792744761872,
+      "path": "/nights/quiet",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": null,
+      "failure": {
+        "errorText": "net::ERR_ABORTED"
+      }
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "at": 1792744761946,
+      "path": "/nights/quiet/__next.nights.$d$slug.__PAGE__.txt",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": "1",
+      "failure": {
+        "errorText": "net::ERR_ABORTED"
+      }
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "at": 1792744762282,
+      "path": "/",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": null,
+      "failure": {
+        "errorText": "net::ERR_ABORTED"
+      }
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "at": 1792744762282,
+      "path": "/search",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": null,
+      "failure": {
+        "errorText": "net::ERR_ABORTED"
+      }
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "at": 1792744762282,
+      "path": "/ochoko",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": null,
+      "failure": {
+        "errorText": "net::ERR_ABORTED"
+      }
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "at": 1792744762292,
+      "path": "/ochoko/__next.ochoko.__PAGE__.txt",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": "1",
+      "failure": {
+        "errorText": "net::ERR_ABORTED"
+      }
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "at": 1792744762846,
+      "path": "/about",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": null,
+      "failure": {
+        "errorText": "net::ERR_ABORTED"
+      }
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "at": 1792744762847,
+      "path": "/about/advertising",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": null,
+      "failure": {
+        "errorText": "net::ERR_ABORTED"
+      }
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "at": 1792744762847,
+      "path": "/nights/dinner",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": null,
+      "failure": {
+        "errorText": "net::ERR_ABORTED"
+      }
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "at": 1792744762848,
+      "path": "/nights/after-work",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": null,
+      "failure": {
+        "errorText": "net::ERR_ABORTED"
+      }
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "at": 1792744762865,
+      "path": "/nights/just-one",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": null,
+      "failure": {
+        "errorText": "net::ERR_ABORTED"
+      }
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "at": 1792744762912,
+      "path": "/nights/after-work/__next.nights.$d$slug.__PAGE__.txt",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": "1",
+      "failure": {
+        "errorText": "net::ERR_ABORTED"
+      }
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "at": 1792744763198,
+      "path": "/",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": null,
+      "failure": {
+        "errorText": "net::ERR_ABORTED"
+      }
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "at": 1792744763198,
+      "path": "/search",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": null,
+      "failure": {
+        "errorText": "net::ERR_ABORTED"
+      }
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "at": 1792744763198,
+      "path": "/ochoko",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": null,
+      "failure": {
+        "errorText": "net::ERR_ABORTED"
+      }
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "at": 1792744763205,
+      "path": "/__next._index.txt",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": "1",
+      "failure": {
+        "errorText": "net::ERR_ABORTED"
+      }
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "at": 1792744763209,
+      "path": "/ochoko/__next.ochoko.__PAGE__.txt",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": "1",
+      "failure": {
+        "errorText": "net::ERR_ABORTED"
+      }
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "at": 1792744763760,
+      "path": "/about",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": null,
+      "failure": {
+        "errorText": "net::ERR_ABORTED"
+      }
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "at": 1792744763761,
+      "path": "/about/advertising",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": null,
+      "failure": {
+        "errorText": "net::ERR_ABORTED"
+      }
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "at": 1792744763761,
+      "path": "/nights/just-one",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": null,
+      "failure": {
+        "errorText": "net::ERR_ABORTED"
+      }
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "at": 1792744763761,
+      "path": "/nights/reset",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": null,
+      "failure": {
+        "errorText": "net::ERR_ABORTED"
+      }
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "at": 1792744763779,
+      "path": "/nights/dinner",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": null,
+      "failure": {
+        "errorText": "net::ERR_ABORTED"
+      }
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "at": 1792744763828,
+      "path": "/nights/reset/__next.nights.$d$slug.__PAGE__.txt",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": "1",
+      "failure": {
+        "errorText": "net::ERR_ABORTED"
+      }
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "at": 1792744764130,
+      "path": "/",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": null,
+      "failure": {
+        "errorText": "net::ERR_ABORTED"
+      }
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "at": 1792744764131,
+      "path": "/search",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": null,
+      "failure": {
+        "errorText": "net::ERR_ABORTED"
+      }
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "at": 1792744764131,
+      "path": "/ochoko",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": null,
+      "failure": {
+        "errorText": "net::ERR_ABORTED"
+      }
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "at": 1792744764815,
+      "path": "/",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": null,
+      "failure": {
+        "errorText": "net::ERR_ABORTED"
+      }
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "at": 1792744764816,
+      "path": "/search",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": null,
+      "failure": {
+        "errorText": "net::ERR_ABORTED"
+      }
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "at": 1792744764816,
+      "path": "/ochoko",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": null,
+      "failure": {
+        "errorText": "net::ERR_ABORTED"
+      }
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "at": 1792744764816,
+      "path": "/sake/nogomi-tokubetsu-junmai",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": null,
+      "failure": {
+        "errorText": "net::ERR_ABORTED"
+      }
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "at": 1792744764827,
+      "path": "/sake/shichida-junmai",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": null,
+      "failure": {
+        "errorText": "net::ERR_ABORTED"
+      }
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "at": 1792744764828,
+      "path": "/sake/koimari-saki",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": null,
+      "failure": {
+        "errorText": "net::ERR_ABORTED"
+      }
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "at": 1792744764828,
+      "path": "/sake/azumaichi-junmai-ginjo",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": null,
+      "failure": {
+        "errorText": "net::ERR_ABORTED"
+      }
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "at": 1792744765816,
+      "path": "/nights/after-work",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": null,
+      "failure": {
+        "errorText": "net::ERR_ABORTED"
+      }
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "at": 1792744765817,
+      "path": "/nights/just-one",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": null,
+      "failure": {
+        "errorText": "net::ERR_ABORTED"
+      }
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "at": 1792744765817,
+      "path": "/nights/ordinary",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": null,
+      "failure": {
+        "errorText": "net::ERR_ABORTED"
+      }
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "at": 1792744765817,
+      "path": "/about",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": null,
+      "failure": {
+        "errorText": "net::ERR_ABORTED"
+      }
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "at": 1792744766064,
+      "path": "/",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": null,
+      "failure": {
+        "errorText": "net::ERR_ABORTED"
+      }
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "at": 1792744766065,
+      "path": "/search",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": null,
+      "failure": {
+        "errorText": "net::ERR_ABORTED"
+      }
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "at": 1792744766066,
+      "path": "/ochoko",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": null,
+      "failure": {
+        "errorText": "net::ERR_ABORTED"
+      }
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "at": 1792744766066,
+      "path": "/discover",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": null,
+      "failure": {
+        "errorText": "net::ERR_ABORTED"
+      }
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "at": 1792744766072,
+      "path": "/about",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": null,
+      "failure": {
+        "errorText": "net::ERR_ABORTED"
+      }
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "at": 1792744766073,
+      "path": "/about/advertising",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": null,
+      "failure": {
+        "errorText": "net::ERR_ABORTED"
+      }
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "at": 1792744766074,
+      "path": "/sake/denshu-tokubetsu-junmai",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": null,
+      "failure": {
+        "errorText": "net::ERR_ABORTED"
+      }
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "at": 1792744766079,
+      "path": "/sake/denshu-tokubetsu-junmai/__next._tree.txt",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": "1",
+      "failure": {
+        "errorText": "net::ERR_ABORTED"
+      }
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "at": 1792744766084,
+      "path": "/discover/__next.discover.__PAGE__.txt",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": "1",
+      "failure": {
+        "errorText": "net::ERR_ABORTED"
+      }
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "at": 1792744766086,
+      "path": "/about/__next.about.__PAGE__.txt",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": "1",
+      "failure": {
+        "errorText": "net::ERR_ABORTED"
+      }
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "at": 1792744766693,
+      "path": "/search",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": null,
+      "failure": {
+        "errorText": "net::ERR_ABORTED"
+      }
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "at": 1792744766693,
+      "path": "/",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": null,
+      "failure": {
+        "errorText": "net::ERR_ABORTED"
+      }
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "at": 1792744766693,
+      "path": "/ochoko",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": null,
+      "failure": {
+        "errorText": "net::ERR_ABORTED"
+      }
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "at": 1792744767299,
+      "path": "/about",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": null,
+      "failure": {
+        "errorText": "net::ERR_ABORTED"
+      }
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "at": 1792744767300,
+      "path": "/about/advertising",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": null,
+      "failure": {
+        "errorText": "net::ERR_ABORTED"
+      }
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "at": 1792744767301,
+      "path": "/nights/just-one",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": null,
+      "failure": {
+        "errorText": "net::ERR_ABORTED"
+      }
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "at": 1792744767301,
+      "path": "/nights/after-work",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": null,
+      "failure": {
+        "errorText": "net::ERR_ABORTED"
+      }
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "at": 1792744767311,
+      "path": "/nights/ordinary",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": null,
+      "failure": {
+        "errorText": "net::ERR_ABORTED"
+      }
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "at": 1792744767330,
+      "path": "/nights/just-one/__next.nights.$d$slug.__PAGE__.txt",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": "1",
+      "failure": {
+        "errorText": "net::ERR_ABORTED"
+      }
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "at": 1792744767396,
+      "path": "/",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": null,
+      "failure": {
+        "errorText": "net::ERR_ABORTED"
+      }
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "at": 1792744767398,
+      "path": "/about",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": null,
+      "failure": {
+        "errorText": "net::ERR_ABORTED"
+      }
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "at": 1792744767398,
+      "path": "/about/advertising",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": null,
+      "failure": {
+        "errorText": "net::ERR_ABORTED"
+      }
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "at": 1792744767398,
+      "path": "/nights/after-work",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": null,
+      "failure": {
+        "errorText": "net::ERR_ABORTED"
+      }
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "at": 1792744767409,
+      "path": "/nights/just-one",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": null,
+      "failure": {
+        "errorText": "net::ERR_ABORTED"
+      }
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "at": 1792744767409,
+      "path": "/nights/ordinary",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": null,
+      "failure": {
+        "errorText": "net::ERR_ABORTED"
+      }
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "at": 1792744767417,
+      "path": "/about/advertising/__next.about.advertising.__PAGE__.txt",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": "1",
+      "failure": {
+        "errorText": "net::ERR_ABORTED"
+      }
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "at": 1792744767419,
+      "path": "/nights/after-work/__next.nights.$d$slug.__PAGE__.txt",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": "1",
+      "failure": {
+        "errorText": "net::ERR_ABORTED"
+      }
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "at": 1792744767422,
+      "path": "/nights/just-one/__next.nights.$d$slug.__PAGE__.txt",
+      "type": "fetch",
+      "navigation": false,
+      "rsc": "1",
+      "failure": {
+        "errorText": "net::ERR_ABORTED"
+      }
+    }
+  ],
+  "fetchFailures": [],
+  "navigationAbortWarnings": [],
+  "knownWarnings": [
+    {
+      "engine": "webkit",
+      "width": 360,
+      "at": 1792744675764,
+      "currentPath": "/sake/chiebijin-junmai",
+      "name": "Fetch API cannot load http",
+      "message": "/127.0.0.1:3197/nights/just-one/__next._tree.txt?_rsc=z1VgzaPwpQpp9lvp due to access control checks."
+    },
+    {
+      "engine": "webkit",
+      "width": 360,
+      "at": 1792744675764,
+      "currentPath": "/sake/chiebijin-junmai",
+      "name": "Fetch API cannot load http",
+      "message": "/127.0.0.1:3197/nights/reset/__next._tree.txt?_rsc=z1VgzaPwpQpp9lvp due to access control checks."
+    },
+    {
+      "engine": "webkit",
+      "width": 360,
+      "at": 1792744682203,
+      "currentPath": "/sake/kinoene-gg3q4p-2",
+      "name": "Fetch API cannot load http",
+      "message": "/127.0.0.1:3197/nights/just-one/__next._tree.txt?_rsc=3wDjxLuLMQKh3ABP due to access control checks."
+    },
+    {
+      "engine": "webkit",
+      "width": 360,
+      "at": 1792744682203,
+      "currentPath": "/sake/kinoene-gg3q4p-2",
+      "name": "Fetch API cannot load http",
+      "message": "/127.0.0.1:3197/nights/reset/__next._tree.txt?_rsc=3wDjxLuLMQKh3ABP due to access control checks."
+    },
+    {
+      "engine": "webkit",
+      "width": 360,
+      "at": 1792744682203,
+      "currentPath": "/sake/kinoene-gg3q4p-2",
+      "name": "Fetch API cannot load http",
+      "message": "/127.0.0.1:3197/nights/dinner/__next._tree.txt?_rsc=3wDjxLuLMQKh3ABP due to access control checks."
+    },
+    {
+      "engine": "webkit",
+      "width": 375,
+      "at": 1792744691615,
+      "currentPath": "/sake/masumi-karakuchi-kiippon",
+      "name": "Fetch API cannot load http",
+      "message": "/127.0.0.1:3197/nights/just-one/__next._tree.txt?_rsc=Ay8np8IErZJjR7Zb due to access control checks."
+    },
+    {
+      "engine": "webkit",
+      "width": 375,
+      "at": 1792744701187,
+      "currentPath": "/sake/kurokabuto-green-label-v1",
+      "name": "Fetch API cannot load http",
+      "message": "/127.0.0.1:3197/nights/dinner/__next._tree.txt?_rsc=XankzQ7Z9hS1VV3b due to access control checks."
+    },
+    {
+      "engine": "webkit",
+      "width": 375,
+      "at": 1792744701188,
+      "currentPath": "/sake/kurokabuto-green-label-v1",
+      "name": "Fetch API cannot load http",
+      "message": "/127.0.0.1:3197/nights/after-work/__next._tree.txt?_rsc=XankzQ7Z9hS1VV3b due to access control checks."
+    },
+    {
+      "engine": "webkit",
+      "width": 375,
+      "at": 1792744701188,
+      "currentPath": "/sake/kurokabuto-green-label-v1",
+      "name": "Fetch API cannot load http",
+      "message": "/127.0.0.1:3197/nights/just-one/__next._tree.txt?_rsc=XankzQ7Z9hS1VV3b due to access control checks."
+    },
+    {
+      "engine": "webkit",
+      "width": 375,
+      "at": 1792744702420,
+      "currentPath": "/sake/kinoene-gg3q4p-2",
+      "name": "Fetch API cannot load http",
+      "message": "/127.0.0.1:3197/about/__next._tree.txt?_rsc=3wDjxLuLMQKh3ABP due to access control checks."
+    },
+    {
+      "engine": "webkit",
+      "width": 375,
+      "at": 1792744702420,
+      "currentPath": "/sake/kinoene-gg3q4p-2",
+      "name": "Fetch API cannot load http",
+      "message": "/127.0.0.1:3197/about/advertising/__next._tree.txt?_rsc=3wDjxLuLMQKh3ABP due to access control checks."
+    },
+    {
+      "engine": "webkit",
+      "width": 430,
+      "at": 1792744736214,
+      "currentPath": "/sake/tamanohikari-junmai-ginjo-shukon-standard",
+      "name": "Fetch API cannot load http",
+      "message": "/127.0.0.1:3197/nights/just-one/__next._tree.txt?_rsc=1cSRRLnNgK7zeHv6 due to access control checks."
+    },
+    {
+      "engine": "webkit",
+      "width": 430,
+      "at": 1792744736214,
+      "currentPath": "/sake/tamanohikari-junmai-ginjo-shukon-standard",
+      "name": "Fetch API cannot load http",
+      "message": "/127.0.0.1:3197/nights/reset/__next._tree.txt?_rsc=1cSRRLnNgK7zeHv6 due to access control checks."
+    },
+    {
+      "engine": "webkit",
+      "width": 430,
+      "at": 1792744736214,
+      "currentPath": "/sake/tamanohikari-junmai-ginjo-shukon-standard",
+      "name": "Fetch API cannot load http",
+      "message": "/127.0.0.1:3197/nights/dinner/__next._tree.txt?_rsc=1cSRRLnNgK7zeHv6 due to access control checks."
+    }
+  ],
+  "blockingErrors": [],
+  "strictConsolePassed": false,
+  "realIphone": false,
+  "realAndroid": false,
+  "passed": true
+}

@@ -1,0 +1,2304 @@
+{
+  "specialties": [
+    {
+      "id": "tochio-aburaage",
+      "sha256": "672164d262ba30dc356670568bbd8b3427f331e92928eab6396b051c1a5faedf"
+    },
+    {
+      "id": "kanzuri-shuto",
+      "sha256": "ea35b4cda27c9ec95b40d5b366308abdb21367eda65085dec266f4b7d91f69d4"
+    },
+    {
+      "id": "sasa-kamaboko",
+      "sha256": "9e671da42ead0e97362905ebd07b3834e5e68a7401fa83c5cfad7efe02602881"
+    },
+    {
+      "id": "hoya-chinmi",
+      "sha256": "95f5fcf741d075dd9bae6bb78aef3de0f5c97fff88b23ecb4f302527c1cac8b9"
+    },
+    {
+      "id": "kaki-oil",
+      "sha256": "38cdef67817f97ea27130798a57243d675865a14616b3580f83006cae8835340"
+    },
+    {
+      "id": "iburigakko",
+      "sha256": "16a34e46e31090389872c7e58dceaf9dee1865d83f940cbc707505b295eec4d0"
+    },
+    {
+      "id": "gibasa",
+      "sha256": "6a55fd65bf6ffebb5ce6fe4df2c4e51531a1a372c2e48e7a4758f67e61efbff0"
+    },
+    {
+      "id": "kabura-zushi",
+      "sha256": "373bec5a671f61de8e97d35a0e031e62bb903aaa8658e10048a3298cbcb49296"
+    },
+    {
+      "id": "fugu-nukazuke",
+      "sha256": "ae16365affd1d8e4f7d0e606be0559350ce01308496a7ce05a9c228ee4a7d703"
+    },
+    {
+      "id": "matsumae-zuke",
+      "sha256": "dcfcb9bb2b9ef897953e62d65a00daf019d3171431b5c98634e1209253ba088d"
+    },
+    {
+      "id": "sake-toba",
+      "sha256": "d7da2ede63916ac8bf34aac9222e8be20ec8ef9ec08408c246201d42b9f11caf"
+    },
+    {
+      "id": "ika-meshi",
+      "sha256": "7adb4a2a75ee81c72c170c2e63e31bf1e07d261e5be244ac365807f8ba8552da"
+    },
+    {
+      "id": "saga-nori",
+      "sha256": "b92e5211c12ac8ffd0c97307e4022bf31a4eb8c13c5924566d704a627726aa5e"
+    },
+    {
+      "id": "yobuko-ichiyaboshi",
+      "sha256": "ace09c92ef7429d6e16141a18de80a941f5a714af957e696c1bc0a9ecdb90d1c"
+    },
+    {
+      "id": "ika-shumai",
+      "sha256": "705fd44c01a19c1968317b64f210e7f5246d1ad121508e1062b9ee7bb2930462"
+    },
+    {
+      "id": "shuto",
+      "sha256": "2d6d7494e060129014cf9bcb0fc7c6f46a66e1a2b2f5e0146f19a33b6379c0b8"
+    },
+    {
+      "id": "katsuo-namabushi",
+      "sha256": "173664ad880ae0264b8e6447196b2c30b671a9cbccd4a7b28678570018258d55"
+    },
+    {
+      "id": "hotaruika-okizuke",
+      "sha256": "3ef8598f030c910f8bcba7c9ef55c433dd95ce6a4b425c08d1cd5cbe8b260be3"
+    },
+    {
+      "id": "shiroebi-himono",
+      "sha256": "702528c7ed407f8d20a9f3864e34337bc10f849d2d900cd903ffcbe5ec0366e4"
+    },
+    {
+      "id": "hotaruika-himono",
+      "sha256": "e147df6368af932e47e3aecbc2bee0b0fae2adcab39ed6eca0856060e204f4bd"
+    },
+    {
+      "id": "heshiko",
+      "sha256": "947c67e81edd3400a4290056714815ba33c7e3939ed6e905119835a6dfb2bf77"
+    },
+    {
+      "id": "kodai-sasazuke",
+      "sha256": "f0f30c32709b512f35fa61aeb315c690a666a6d935cd533be783ea2851bd6bd1"
+    },
+    {
+      "id": "aomori-ichigoni",
+      "sha256": "da969e9e4429903d82a1eb8edfad8f5f91587ab84017336f3afd218ca9ee6862"
+    },
+    {
+      "id": "iwate-suki-kombu",
+      "sha256": "bfb701dd7b26eb2244ea3c3bdc183b33498d62d15204ee85dc5cace17944247d"
+    },
+    {
+      "id": "yamagata-tama-konnyaku",
+      "sha256": "e710233666031cf7e1bff27f6afc3134b59e7f5483190efc681df1f0424502ca"
+    },
+    {
+      "id": "yamagata-omizuke",
+      "sha256": "0d76432f265a687ed51d96688cf5c22c60e06ea536ec5b5b1687f56f64236c17"
+    },
+    {
+      "id": "fukushima-ika-ninjin",
+      "sha256": "2f76f2029e4bcd06db0af1e829458ee5933fbf7d4469f414f2184ffe72b5569b"
+    },
+    {
+      "id": "fukushima-nishin-sanshozuke",
+      "sha256": "be46a69e68486a4a32d9128f34766119632499ca6fff365c724b4436a1a3540f"
+    },
+    {
+      "id": "ibaraki-soboro-natto",
+      "sha256": "5729f3a51d402b7df9d590b5c4962e93abe6f6fcc368f18f5592e505ed6e1c7a"
+    },
+    {
+      "id": "tochigi-agemaki-yuba",
+      "sha256": "7017b970de0d6f9d565028f08097f696ad06f24183ceb478d51bb618526c40cc"
+    },
+    {
+      "id": "tochigi-shimotsukare",
+      "sha256": "f13c84f0571e9355e09e74b5668997fe3ed1805e627b689dec9367cca947fd68"
+    },
+    {
+      "id": "gunma-konnyaku-miso-oden",
+      "sha256": "6e7847e5b37634d29ccb6b1f13571eb84e6f8fa78c2770375e9eb2608322ed73"
+    },
+    {
+      "id": "saitama-oname",
+      "sha256": "f1a078a7b4ccd9ec0552dfe4e17024210f180b992c68633ef5355370e068a616"
+    },
+    {
+      "id": "chiba-peanut-miso",
+      "sha256": "84dd8c21a377d0828677cb0838f4b38ef901c46f50af6f717b5b13966974b494"
+    },
+    {
+      "id": "tokyo-bettarazuke",
+      "sha256": "98221a36772487b1a5f926ee8d164bc5e77a69293d41024ac6bf02b8a3458f44"
+    },
+    {
+      "id": "tokyo-asari-tsukudani",
+      "sha256": "8aadb219f1d913226ef150d0bbc39d7b2cd53c8545987f2f387bd7fad9ca91a3"
+    },
+    {
+      "id": "yamanashi-awabi-nigai",
+      "sha256": "0331bfb55a5b839d9c39775c05ee281dd0fa289b5cb7c31d975d89436a1e536b"
+    },
+    {
+      "id": "yamanashi-koshu-koume",
+      "sha256": "7ea08c300816082e7e3e135a6c953640f495b2d4a8bad18f5b513293dfc9fe3a"
+    },
+    {
+      "id": "nagano-nozawana",
+      "sha256": "9b60df771e6690a14977042349810bf8e94e88f0b9f8a55eda907d744921cb8f"
+    },
+    {
+      "id": "gifu-akakabu",
+      "sha256": "f0b91ef043bb036015d9bcf97ad81806735d17676c0c30429258ad49487febba"
+    },
+    {
+      "id": "shizuoka-kuro-hanpen",
+      "sha256": "ab9e94698ea592e6d045a2d0cdad58a2ea08cbc6660b6cca8c9285d3ab84a09f"
+    },
+    {
+      "id": "shiga-koayu-sanshoni",
+      "sha256": "45833aa61d41b5fcced514c7ee38e04191b8a5e90a75450fd5f1f7db7786237b"
+    },
+    {
+      "id": "shiga-funazushi",
+      "sha256": "4cd9d6cf1dcac9c15eb47aa62585ef6cc4a908199b0143379c48841a23edf277"
+    },
+    {
+      "id": "kyoto-shibazuke",
+      "sha256": "744480fdd26f456c9240cae0fde897800bf854395435e252a6b587e1dbdb8506"
+    },
+    {
+      "id": "kyoto-suguki",
+      "sha256": "b1a2039462717ccb21b7ae93f68731b9d30da237d96f31f7bce15fe47a9eebf4"
+    },
+    {
+      "id": "osaka-doteyaki",
+      "sha256": "3a7d3bac4ab771bdb0a28967f3dfed8a1dfa4660c2b6403e9a352dbc9ab9f9ad"
+    },
+    {
+      "id": "hyogo-ikanago-kugini",
+      "sha256": "6d413c9aed1b56a2cf9753052f9af00182324da048b3be4f0181be88b0711e2e"
+    },
+    {
+      "id": "nara-narazuke",
+      "sha256": "efd8630c38a88c97c7c87764cd15ff64ed2fdca1f23710f3bb1a0befae0e212f"
+    },
+    {
+      "id": "wakayama-kinzanji-miso",
+      "sha256": "860bcbff4cd17e40bccc32715009fed0f3e718a0d163435c00455b4605b32bed"
+    },
+    {
+      "id": "wakayama-goma-dofu",
+      "sha256": "269925caf9f761bc0b92309bfbde0ac76b0f5bf7f97427d0037416722ac1bb64"
+    },
+    {
+      "id": "tottori-tofu-chikuwa",
+      "sha256": "f9ed31d402a03dad3e84b46547fdb2496911952b5d8b5f6ae96f23e4c1e0ab18"
+    },
+    {
+      "id": "shimane-ago-noyaki",
+      "sha256": "900300d60abaef6ca3ccd8b7a2bb32db3299eca714b35dad23b4b9579d33b50c"
+    },
+    {
+      "id": "okayama-mamakari",
+      "sha256": "8718de3900bbd840db85b98a9d38bc1699960798a26421e51c59cedf66ff2824"
+    },
+    {
+      "id": "hiroshima-kaki-doteyaki",
+      "sha256": "a9f923a70c48e6b418e1252f7603eb2e954f5e3e8af2806101d49e407a954430"
+    },
+    {
+      "id": "yamaguchi-fugu-karaage",
+      "sha256": "51b95b060fb36f8ce2f0d6c5f905ebc80adbfa7b82ebb59ade41ecefdbd8d863"
+    },
+    {
+      "id": "tokushima-fish-katsu",
+      "sha256": "37be6d198b7a424956aaaab368ce2a8c745097326231f12382f42ee9b6febf56"
+    },
+    {
+      "id": "kagawa-shoyu-mame",
+      "sha256": "726422788af9735b27af9c6bd55140f4cc53e9a01a297d718107f753238fdec4"
+    },
+    {
+      "id": "kagawa-honetsukidori",
+      "sha256": "4e555e0537afd5ead96ef9ee0b8a3fbd241a47a9296f993b9b3fd3bedbb6df19"
+    },
+    {
+      "id": "ehime-jakoten",
+      "sha256": "ca0cb0be16e7a22b543d7d238c2a947dfe71d97fbc754f21485528cbc6c0aea0"
+    },
+    {
+      "id": "ehime-tachiuo-maki",
+      "sha256": "916c19787b6d2cdeac42643e9d8225f0b8e6d4920bc10a03d350f80170217e7d"
+    },
+    {
+      "id": "nagasaki-hatoshi",
+      "sha256": "b44096bd9f1fcd88e06ab65a66db9aefb83c43da1e54b9e651a205c8e4912940"
+    },
+    {
+      "id": "kumamoto-karashi-renkon",
+      "sha256": "469119bde4e756a3283996f33e96cc7ccd97171cc6e05942f4f4708c9caad202"
+    },
+    {
+      "id": "kumamoto-tofu-misozuke",
+      "sha256": "7f4507676fa34a91f90ba3e21b44c4ff38fb5046487dc18a9854e8220240dfa2"
+    },
+    {
+      "id": "oita-ayu-uruka",
+      "sha256": "59e9bdcdc54bca1a2d9b0472d87542c9a5acc35978c2e5b2890a5f0339a9f90a"
+    },
+    {
+      "id": "oita-ryukyu",
+      "sha256": "98aa958f3f77371e2e98ca14285e4b1b3ea27bfac95f5a074ac76f35272c9909"
+    },
+    {
+      "id": "miyazaki-jidori-sumibi",
+      "sha256": "99241deba0a57f602f95df24d4399c8bf804c1d8ad2331929b9312b1e2658ea7"
+    },
+    {
+      "id": "kagoshima-buta-miso",
+      "sha256": "65f4638c411a68d606656aaaf76a9441d6fefce21fd56376b8aa4f5d3d43287a"
+    }
+  ],
+  "offers": [
+    {
+      "id": "tochio-aburaage",
+      "sha256": "eaeea4c1a28a2d6b882187aa9d0daaa8f7272575371a863dac28da4ef2dcc077"
+    },
+    {
+      "id": "kanzuri-shuto",
+      "sha256": "dab28d78a37451fec309dd590c6f1f9d3eb7e1656810bd37906663e8906e1dc5"
+    },
+    {
+      "id": "sasa-kamaboko",
+      "sha256": "40c746b82a63526a60001035b1ffbef4e49a7bacd5b1dc5ac80061d469bbb2df"
+    },
+    {
+      "id": "hoya-chinmi",
+      "sha256": "51335913762494f1293462c45c10e167db355edb810b41e418228e9286b8e1c1"
+    },
+    {
+      "id": "kaki-oil",
+      "sha256": "80655435b52c5a60dc4c076d90155b75b7a572a71968c48c979bbe16e3e3469b"
+    },
+    {
+      "id": "iburigakko",
+      "sha256": "3ccdc85fe2c60ba1965bf10d9a12969713c188faaf7532a7fd8c261e9d859386"
+    },
+    {
+      "id": "gibasa",
+      "sha256": "c7ba88caf2f5a1e32ab79ac5eb4bd687154e6d1ec5bdea9792b582068fda87fa"
+    },
+    {
+      "id": "kabura-zushi",
+      "sha256": "9aa54da397a5ff684cdce9243e577aaa3e41936b9c6190b6542baa44a980dec7"
+    },
+    {
+      "id": "fugu-nukazuke",
+      "sha256": "6d9c7b7f3432d8c93fbbbf87ab7c8e4dd167096d257fd236877bd627efb8834e"
+    },
+    {
+      "id": "matsumae-zuke",
+      "sha256": "53830368ccaca5a4a6652d4696145042f6b731e97ec12dd30517fa0ec87aedcb"
+    },
+    {
+      "id": "sake-toba",
+      "sha256": "50837357c78df50decf43b0a83096f6d7ab1fd6388c9810fbef68c763a8278d1"
+    },
+    {
+      "id": "ika-meshi",
+      "sha256": "0cb51f841be9f01cf27dd2e1139a26738b83427a254a0c6f0fc8ea1d675a78c6"
+    },
+    {
+      "id": "saga-nori",
+      "sha256": "2cd868a7e6abd7de97b34d485237613f5229fe4e696152e94eff77198f7a5f96"
+    },
+    {
+      "id": "yobuko-ichiyaboshi",
+      "sha256": "c74d1ffec0670e5b1477e76f4a903ace90549e84e018984ea5ad5ba4be4af272"
+    },
+    {
+      "id": "ika-shumai",
+      "sha256": "1df05a633aa5c93866639c145196e6f95856ad72b208cd37a42f049678a4de48"
+    },
+    {
+      "id": "shuto",
+      "sha256": "177906fa0f64c18e0bee03584d14d275cfb83b1c6c81e1b505bd93ea0f298686"
+    },
+    {
+      "id": "katsuo-namabushi",
+      "sha256": "2cbdca76132f9124f0d89d91c78ab4a93f67218ebde973db8122e1675bec7d42"
+    },
+    {
+      "id": "hotaruika-okizuke",
+      "sha256": "c8a7912572f9f1c0e9d3353b85ce1e61c0ff415c7f5c924b03762efeb14ae414"
+    },
+    {
+      "id": "shiroebi-himono",
+      "sha256": "db87f67649f5e8967bd888b60976fdb555c89ffb018b98ef31f260dbbf89e85f"
+    },
+    {
+      "id": "hotaruika-himono",
+      "sha256": "52a09b76ef3395360e36027a22da9fafbf2c9b07bb3097c3384d7cb669198808"
+    },
+    {
+      "id": "heshiko",
+      "sha256": "8704c48d5fc3c1616d18c70d1af4f2285a745e15ab6672521605206efe1aded5"
+    },
+    {
+      "id": "kodai-sasazuke",
+      "sha256": "1110b0a808eccf4bbaf00942f63182b5a8799561e4216f460e1e9098c3bb251c"
+    },
+    {
+      "id": "aomori-ichigoni",
+      "sha256": "ba7f735d8a866a03b5ecac596ea27ae5a43b7c956c9dba4d5c67aa372141ac9c"
+    },
+    {
+      "id": "iwate-suki-kombu",
+      "sha256": "024ef623c7e29a8347bade3d9f41bd378d69126cfd5eb5472320034889b05c73"
+    },
+    {
+      "id": "yamagata-tama-konnyaku",
+      "sha256": "a5fa39f2fd3573c07cdba545cdf6a7023c76f4edc45e3d3f3f01e65626a110ad"
+    },
+    {
+      "id": "yamagata-omizuke",
+      "sha256": "ad605b71515568fca84eed77f0e8656876a61b3bc5fffe10146db923b1056272"
+    },
+    {
+      "id": "fukushima-ika-ninjin",
+      "sha256": "a1480a66022ef65d3d48386b4c15a1c1f195a6ab25cf3ad844c19b6353872d29"
+    },
+    {
+      "id": "fukushima-nishin-sanshozuke",
+      "sha256": "b996a864b5abc7bdf5fab4707ba3f6b1bd52a4685b6a41e1d376105e1dae4a7a"
+    },
+    {
+      "id": "ibaraki-soboro-natto",
+      "sha256": "c2eb2eefb41ad751f8339ed64ff7cfa6af20a73c1994d831c569dd3f9d0b40de"
+    },
+    {
+      "id": "tochigi-agemaki-yuba",
+      "sha256": "97916ea8ffc63ecf8d6774369290c80e641a2caa267bb70952fd55a0a08ab8fc"
+    },
+    {
+      "id": "tochigi-shimotsukare",
+      "sha256": "25f0ed959c3c553d584d36517125bd1b4464f6ac3b0c6594e9ad59bbd82c00e0"
+    },
+    {
+      "id": "gunma-konnyaku-miso-oden",
+      "sha256": "2830b9b234e12bf02593d68a3d7c8d60e103b4c286ca582b50a685e59265f4dd"
+    },
+    {
+      "id": "saitama-oname",
+      "sha256": "ed336d41152f7f40633cd11c66ab574d9b85a81ff624f2e258d2ce478d3b5ebe"
+    },
+    {
+      "id": "chiba-peanut-miso",
+      "sha256": "2f0ca0fedbd69cd224e3bf8cc88287a527085802fabcc079268175e6ddbf4d61"
+    },
+    {
+      "id": "tokyo-bettarazuke",
+      "sha256": "462d8a019dbdbc0d19809bdccc528bc5596e2ca66fccaf87a6a948791500679f"
+    },
+    {
+      "id": "tokyo-asari-tsukudani",
+      "sha256": "aacbc2d9701568e7d7fdcfc7382edd9aa891405c7c0dd6cad7eb2711e05ab306"
+    },
+    {
+      "id": "yamanashi-awabi-nigai",
+      "sha256": "631adfc621baae7e77c30f4d0f1e6f48c5cb5fe549e61945b3ea0b1c437d8576"
+    },
+    {
+      "id": "yamanashi-koshu-koume",
+      "sha256": "6306ddc1c0bf2c5727cfceabc2fb40fbeb4ffb783357bdbab1e5e792d0433f91"
+    },
+    {
+      "id": "nagano-nozawana",
+      "sha256": "3583d41dd8b28cc66f2db2c5ecaf488fae605fdc22ed9b67695995b03c5b3f07"
+    },
+    {
+      "id": "gifu-akakabu",
+      "sha256": "e2ca7cb367dccd0c765e26edd35bb2f34d031fb7e848b1c2ce9ec8085d596ff1"
+    },
+    {
+      "id": "shizuoka-kuro-hanpen",
+      "sha256": "4c039c147980116384aef1ccacec4ea1a9085861c6f20d61e02feeced43bba90"
+    },
+    {
+      "id": "shiga-koayu-sanshoni",
+      "sha256": "e89ecdf8318100646a094194532ce3fc67b7d78845c3300990814693352307fd"
+    },
+    {
+      "id": "shiga-funazushi",
+      "sha256": "40c5803e0ef07c9a06206c5953af70338c475227a6dae9789a765b9367c9d580"
+    },
+    {
+      "id": "kyoto-shibazuke",
+      "sha256": "ca085e1eb1de8589ad99b3eea35dd43b1b9a1272355cbdc842d8ec2a34b41b42"
+    },
+    {
+      "id": "kyoto-suguki",
+      "sha256": "5fff28561b1951cccbb2969a6275eba7b26ad7cf614dd5261c6d61d9f513f1a2"
+    },
+    {
+      "id": "osaka-doteyaki",
+      "sha256": "c6488659f5e190509eb23edd6e71773386b8c2e39db24fa9bcb7bc04d0e0f10f"
+    },
+    {
+      "id": "hyogo-ikanago-kugini",
+      "sha256": "9d5dcdde115bb0bafcf9f527f21843440977c3f2088d63a61d18f14db7d92d19"
+    },
+    {
+      "id": "nara-narazuke",
+      "sha256": "17cf20c64026f5475ea67d1956fc68597f9f3beccf9bfa48d96274318fd77128"
+    },
+    {
+      "id": "wakayama-kinzanji-miso",
+      "sha256": "d7f08cd2b3592332d5f0b6123d31ee232a1a8617a913bdb721b35aa7550b6406"
+    },
+    {
+      "id": "wakayama-goma-dofu",
+      "sha256": "7075d5f4513a17bd7a5d0f5ba7b39e112392242199bf11eff48ed4dbf980d937"
+    },
+    {
+      "id": "tottori-tofu-chikuwa",
+      "sha256": "4b8953bbc9d0e1f11a1e939391799297ad0c7da3a33055a08591ac688bdcaaae"
+    },
+    {
+      "id": "shimane-ago-noyaki",
+      "sha256": "e0328023c91c89abd7a8afc9b2aad13ca7703ed813010ccc2064f7c83e748875"
+    },
+    {
+      "id": "okayama-mamakari",
+      "sha256": "adfc73152b8178466c3544bfe4f5e547c8041f0479d014218b9e5396b48e81c8"
+    },
+    {
+      "id": "hiroshima-kaki-doteyaki",
+      "sha256": "543d07d751622af7862abe97819a55037566694d8eb3b6f524e33b14ed455d31"
+    },
+    {
+      "id": "yamaguchi-fugu-karaage",
+      "sha256": "dbd5fbe692ede507afc908d72259f0015d2af09596fbd2ff341ae1e77f134fb2"
+    },
+    {
+      "id": "tokushima-fish-katsu",
+      "sha256": "c9804d2805504a043c0708853515d29494df3145fbc7baa059406ebacbff0a74"
+    },
+    {
+      "id": "kagawa-shoyu-mame",
+      "sha256": "64f2f740f5820c648e0916207c8b87e9ae33bc0e8edfb73391513020891d364c"
+    },
+    {
+      "id": "kagawa-honetsukidori",
+      "sha256": "b6ab6199bb00604cc402744cafa67a72a6d7f4d71f71a005a5a6067152dc7b40"
+    },
+    {
+      "id": "ehime-jakoten",
+      "sha256": "f75874f56bd962c35af38fcec4d0dbb0ff505fe47045ea28f1543ac60875cae1"
+    },
+    {
+      "id": "ehime-tachiuo-maki",
+      "sha256": "0be4e819331e52957423be3d61316e461684a16251a14bdf5aaf6362f5644260"
+    },
+    {
+      "id": "nagasaki-hatoshi",
+      "sha256": "a4956919c81b25933e38da8762d9187cb7ede296dfb4ca8e13060a21230bbb3d"
+    },
+    {
+      "id": "kumamoto-karashi-renkon",
+      "sha256": "c0f5a93bcf44c3e13325f152674924314d6b1ee391eecb11279c383055a78119"
+    },
+    {
+      "id": "kumamoto-tofu-misozuke",
+      "sha256": "1b4200aeb2624c62ad2d5d941c27fe15c8e9f7da85ab589837e009b4d40b2ccf"
+    },
+    {
+      "id": "oita-ayu-uruka",
+      "sha256": "398fcb9d0a822a88151ed10ccabf4902a7613a440aa23672d748ddccbfa0ac3e"
+    },
+    {
+      "id": "oita-ryukyu",
+      "sha256": "ad64ec8ed063e91a721b096ff8ef4f90470958170624fd002360e79bd888fc73"
+    },
+    {
+      "id": "miyazaki-jidori-sumibi",
+      "sha256": "1ed97b96214d1213c5243fd4af96ceb98f3403baeaf66d87d86ad77787c4f235"
+    },
+    {
+      "id": "kagoshima-buta-miso",
+      "sha256": "f54d6262bcb3be027c9bc34539a75ced0c7d6463fbe768fca520c972ad37369d"
+    }
+  ],
+  "pairings": [
+    {
+      "sakeId": "nogomi-tokubetsu-junmai",
+      "specialtyId": "ika-shumai",
+      "sha256": "df37129b0d5c4bb4d134d419efbd7526e1c721b73ccf6a63cf4a34db424a3779"
+    },
+    {
+      "sakeId": "nogomi-tokubetsu-junmai",
+      "specialtyId": "yobuko-ichiyaboshi",
+      "sha256": "81283325188fd6d980b3a9da578d1aa4ff639a10b557aebccb2aa80e9fa92b77"
+    },
+    {
+      "sakeId": "shichida-junmai",
+      "specialtyId": "yobuko-ichiyaboshi",
+      "sha256": "471699cad55f58cc6f3da50e9991d7326ba1d059746789c1df91966858d9a24e"
+    },
+    {
+      "sakeId": "azumaichi-junmai-ginjo",
+      "specialtyId": "ika-shumai",
+      "sha256": "13422407aa620207d9de703b2891c6db1b1f9e599958547e1113148384cec565"
+    },
+    {
+      "sakeId": "azumaichi-junmai-ginjo",
+      "specialtyId": "yobuko-ichiyaboshi",
+      "sha256": "02684cebe93df2cbfcf1ff3994506fac4ffccfdea00395a829226e568f3e4130"
+    },
+    {
+      "sakeId": "nabeshima-junmai-ginjo",
+      "specialtyId": "ika-shumai",
+      "sha256": "8299c76554429540c878add711f779ae5374a529f101660a214acc50dfa5a16c"
+    },
+    {
+      "sakeId": "amabuki-flower-yeast",
+      "specialtyId": "ika-shumai",
+      "sha256": "aba124c7b099e7f128f92ec8856d2034bfbd2646f971e8a0e22e999af255c1a3"
+    },
+    {
+      "sakeId": "amabuki-flower-yeast",
+      "specialtyId": "yobuko-ichiyaboshi",
+      "sha256": "1cc760c6715b04479baea61877c82f85d142830bdc1b6d3d074d49716df6fe57"
+    },
+    {
+      "sakeId": "azumacho-junmai",
+      "specialtyId": "ika-shumai",
+      "sha256": "5bec30d556270ad217d7184d2fa8749fec4d026e8d1eb15c4eabc7dbc7443c51"
+    },
+    {
+      "sakeId": "azumacho-junmai",
+      "specialtyId": "yobuko-ichiyaboshi",
+      "sha256": "9ddf4302abbb1f67704844a9f97a42e750160d32f45bdbd341010ab73d2b23dd"
+    },
+    {
+      "sakeId": "amaneko-white-koji",
+      "specialtyId": "gibasa",
+      "sha256": "309da3e60303dd5d48b17af817c4bb9bca9f5b6f3786be32fe03d228fd39db20"
+    },
+    {
+      "sakeId": "yuki-no-bosha-junmai-ginjo",
+      "specialtyId": "gibasa",
+      "sha256": "4c697ed2e8a2bacd13b3b5b157cb1187ef58c9c864f6fb5e011fbc951a4cbf43"
+    },
+    {
+      "sakeId": "ippaku-suissei-tokubetsu-junmai",
+      "specialtyId": "gibasa",
+      "sha256": "74d1eeee511cfaf9d0b72d7ffa4e29aac615701f650977fac359aaac551edc70"
+    },
+    {
+      "sakeId": "hakkaisan-tokubetsu-honjozo",
+      "specialtyId": "kanzuri-shuto",
+      "sha256": "9026abf315dc79e919d8f2034e7a88ee1a35fdee15fe6a993454a1587aa017d4"
+    },
+    {
+      "sakeId": "kubota-senju",
+      "specialtyId": "kanzuri-shuto",
+      "sha256": "f848010c0d409e69465cdbc84ba8877091e18891de0d726d560f8016454196f7"
+    },
+    {
+      "sakeId": "born-gold",
+      "specialtyId": "heshiko",
+      "sha256": "a91073a23db6b144d86ab7a91b74a06c0bc3e6b918f783bd8f1186b2ad73827a"
+    },
+    {
+      "sakeId": "born-gold",
+      "specialtyId": "kodai-sasazuke",
+      "sha256": "e7ce6dc2581ed3d17fb6211cb1bc40b57d7af8426daac27964b5eb1661500c1f"
+    },
+    {
+      "sakeId": "jozan-junmai",
+      "specialtyId": "kodai-sasazuke",
+      "sha256": "afe427127022d0643d5ed9a02fcc4ad5d86b6f7ea96b754da0f021dd46ba4241"
+    },
+    {
+      "sakeId": "jozan-junmai",
+      "specialtyId": "heshiko",
+      "sha256": "77404f5c59220ed589253ca1fd62d5513c26c8f49f7305762b8ac4ef21f4095b"
+    },
+    {
+      "sakeId": "tedorigawa-yamahai-junmai",
+      "specialtyId": "fugu-nukazuke",
+      "sha256": "b43815c289223ee609e06d48c2b9204808d5f3d5da7a431c5dadb6b1b369fb5c"
+    },
+    {
+      "sakeId": "kikuhime-yamahai-junmai",
+      "specialtyId": "kabura-zushi",
+      "sha256": "b51bc49ebab369ad039c924dbaeda239194b7829821451cb8cee0799cebdf233"
+    },
+    {
+      "sakeId": "kikuhime-yamahai-junmai",
+      "specialtyId": "fugu-nukazuke",
+      "sha256": "de1ced9059be6d1b1718ab479c149fabb0b8e061db45c64c332952e19fed1a3c"
+    },
+    {
+      "sakeId": "kikusui-funaguchi-honjozo-nama-genshu-standard",
+      "specialtyId": "kanzuri-shuto",
+      "sha256": "b178e2a4c4ac2cab40fd43cceb736eaaa234cfc35f302853038d839d474445bb"
+    },
+    {
+      "sakeId": "kikusui-funaguchi-honjozo-nama-genshu-standard",
+      "specialtyId": "tochio-aburaage",
+      "sha256": "ed09639a9caa3f84847355a619d42a8b901705bbe557af2e3162d635c4345539"
+    },
+    {
+      "sakeId": "suigei-tokubetsu-junmai",
+      "specialtyId": "katsuo-namabushi",
+      "sha256": "2c46fbc5b8e2a7afb4b33ecf20899121d7cd7b675292945fd40ca04a54c8f59a"
+    },
+    {
+      "sakeId": "suigei-tokubetsu-junmai",
+      "specialtyId": "shuto",
+      "sha256": "23eaebdb187dc9c8f1eb23e1628abfdb53aebb0562839e2fbb7b99396170306b"
+    },
+    {
+      "sakeId": "otokoyama-kimoto-junmai",
+      "specialtyId": "matsumae-zuke",
+      "sha256": "1dee7f3226bb69c1fac04ce0e389d306f2a15882ab8114daca0329cf3477b5e2"
+    },
+    {
+      "sakeId": "otokoyama-kimoto-junmai",
+      "specialtyId": "ika-meshi",
+      "sha256": "05a64fc8cac371b4838287e12ef1fa5fc60e2a576e2c2ca9d475a671fd233ef1"
+    },
+    {
+      "sakeId": "kokushi-muso-junmai",
+      "specialtyId": "matsumae-zuke",
+      "sha256": "989363f06883de5966a5692a144ae45d2589edd71536756b997a619fe8545510"
+    },
+    {
+      "sakeId": "kokushi-muso-junmai",
+      "specialtyId": "ika-meshi",
+      "sha256": "2e47d404d273a2ba1aab05f17ea56907b950ab5eef1625c13ba03de0ed02bc91"
+    },
+    {
+      "sakeId": "fukutsukasa-junmai",
+      "specialtyId": "matsumae-zuke",
+      "sha256": "0bf636342d1c946fdff4004c75850cb9c3d1b3c0dcb83ece4ac7fc53878ca02f"
+    },
+    {
+      "sakeId": "kita-no-katsu-taikai",
+      "specialtyId": "matsumae-zuke",
+      "sha256": "3b5bf31eff8bf8a7113ac7c015bbc7064891e082ed67f321ed0e78a8870a403d"
+    },
+    {
+      "sakeId": "gohou-junmai",
+      "specialtyId": "matsumae-zuke",
+      "sha256": "76d72619cf74153ab216aafbfb35f95dd2f54bdf43ae71626efa221a51eb0adf"
+    },
+    {
+      "sakeId": "gohou-junmai",
+      "specialtyId": "ika-meshi",
+      "sha256": "b5dc85dc443df3ff0c58f7d838bda5f35b41a34133a9f18fab1f60fe96946992"
+    },
+    {
+      "sakeId": "urakasumi-i3yhce",
+      "specialtyId": "kaki-oil",
+      "sha256": "90af5421e3383e59e21d6b0bae14d67bdbee25c460028946b3be7016d83c2127"
+    },
+    {
+      "sakeId": "urakasumi-i3yhce",
+      "specialtyId": "hoya-chinmi",
+      "sha256": "d41fb612fd9ffccccef095bb86a270f09681dfeec632fbb78e9d2c7687b7cac6"
+    },
+    {
+      "sakeId": "suminoe-i3yhce",
+      "specialtyId": "hoya-chinmi",
+      "sha256": "a58005c61898fc97ef919b862a81bfc2421ee26a79107ebeece166ae23adb6ac"
+    },
+    {
+      "sakeId": "suminoe-i3yhce",
+      "specialtyId": "kaki-oil",
+      "sha256": "517218c81b3426a3cedd4fe48a57996ebf8c27b550419314542c14cd457a2cfe"
+    },
+    {
+      "sakeId": "mansaku-no-hana-o23n5c",
+      "specialtyId": "gibasa",
+      "sha256": "44b366d0b8f61a2729f20fca4f79b93103f0ec65c1a05733799c204ed40029e4"
+    },
+    {
+      "sakeId": "jozen-mizunogotoshi-junmai-ginjo-standard",
+      "specialtyId": "kanzuri-shuto",
+      "sha256": "4d90195203597a4ed6d1e2a0cd8c2672db9552cb7e8fa0bb2d26875dea624220"
+    },
+    {
+      "sakeId": "jozen-mizunogotoshi-junmai-ginjo-standard",
+      "specialtyId": "tochio-aburaage",
+      "sha256": "e996fea2809c7329afc3367cb2cd84c5efb0332ac16a8883bbec00da3b0eef68"
+    },
+    {
+      "sakeId": "echigozakura-daiginjo-standard",
+      "specialtyId": "kanzuri-shuto",
+      "sha256": "a2407c90f53e04b3d29f727eecef3f1b7d8f228ff0587d1269cde34612e5cb6b"
+    },
+    {
+      "sakeId": "echigozakura-daiginjo-standard",
+      "specialtyId": "tochio-aburaage",
+      "sha256": "8addc255abde6eb5df9e50aa0ec7f740b8a590be076f9645cbadf399eb248669"
+    },
+    {
+      "sakeId": "ginban-chotokusen-komenoshin-standard-v1",
+      "specialtyId": "shiroebi-himono",
+      "sha256": "fd9a1186f8712a7fdedaa4ec79331b01fa5c3da580421fca5cc9150351b2df88"
+    },
+    {
+      "sakeId": "ginban-chotokusen-komenoshin-standard-v1",
+      "specialtyId": "hotaruika-himono",
+      "sha256": "53e3a9d15dbfed0172393f6049a3f19cb54ccfa98a6f391c7c630b7758b6af89"
+    },
+    {
+      "sakeId": "jokigen-ishikawa-nozijh",
+      "specialtyId": "fugu-nukazuke",
+      "sha256": "99bf63c0b3fd9bfcab815462c7885e93ed02294c9ecb37ef82c793b1acced43c"
+    },
+    {
+      "sakeId": "jokigen-ishikawa-nozijh",
+      "specialtyId": "kabura-zushi",
+      "sha256": "2905cee529e7ff9bee125696261441a88c288c74c759ffa9c8705c2f39456feb"
+    },
+    {
+      "sakeId": "kagatobi-nozijh",
+      "specialtyId": "fugu-nukazuke",
+      "sha256": "68b58e190cf8884904c54e88c5b628b2497ab02f3fb65dda6a38f470c54382d8"
+    },
+    {
+      "sakeId": "kagatobi-nozijh",
+      "specialtyId": "kabura-zushi",
+      "sha256": "ff73c76fa0c5be7f8e6d65120ff7c0fec4cc9abca9aee73686942fde613512da"
+    },
+    {
+      "sakeId": "ippongi-o0ffit",
+      "specialtyId": "kodai-sasazuke",
+      "sha256": "b6bdf875f3cce4ac94f31acbddbf9de165acfce53a6502e951548b5281133e5e"
+    },
+    {
+      "sakeId": "ippongi-o0ffit",
+      "specialtyId": "heshiko",
+      "sha256": "12b6450daa10ae4faaba74da992ad3791827d547ad3aac547cac01087859e187"
+    },
+    {
+      "sakeId": "kagatsuru-junmai-josen-standard",
+      "specialtyId": "fugu-nukazuke",
+      "sha256": "65f7c50fbed50177893554927aa5e972a2104465b64b1dd4e0c1379b3b305956"
+    },
+    {
+      "sakeId": "tosatsuru-honzo-karakuchi-standard",
+      "specialtyId": "katsuo-namabushi",
+      "sha256": "daa70f0368dd35c5aa6bb15a6486be38ea8b5cf9e120a761844f87601ff6141a"
+    },
+    {
+      "sakeId": "tosatsuru-honzo-karakuchi-standard",
+      "specialtyId": "shuto",
+      "sha256": "9b67629caa6630e86362b8f7bcf506e0d55acd29d34800ec30bb1779debe9794"
+    },
+    {
+      "sakeId": "bijofu-ul4nol",
+      "specialtyId": "katsuo-namabushi",
+      "sha256": "e54c80bf59c938374cc4baba67a04b583fb7bfc094d98912e87e2583003c9bb3"
+    },
+    {
+      "sakeId": "tosa-shiragiku-ul4nol",
+      "specialtyId": "katsuo-namabushi",
+      "sha256": "1264ee393aefc37fabf9f9ddaef710b52a34e2a23bde19ca90f08211d2de5c10"
+    },
+    {
+      "sakeId": "ranman-junmai-managudako-standard",
+      "specialtyId": "gibasa",
+      "sha256": "d9f970490dfa6d86f68c7559b887d990ce2ec08df18136237a26210fecbd9311"
+    },
+    {
+      "sakeId": "ranman-junmai-managudako-standard",
+      "specialtyId": "iburigakko",
+      "sha256": "db95e56828a9b0e8c9b45d4bae92535d0bc1846d33cdc2f0f29b108c15c321d6"
+    },
+    {
+      "sakeId": "taisetsunokura-junmai-standard",
+      "specialtyId": "matsumae-zuke",
+      "sha256": "49bbdecd9eb813000910fae4cc7ed3fae559b852272425ae3002357e8f79eda9"
+    },
+    {
+      "sakeId": "hideyoshi-junmai-standard",
+      "specialtyId": "gibasa",
+      "sha256": "16e13cb59c3a885d0324b6a19660639af82a8d22a0152ad0f7731ad1a94f5929"
+    },
+    {
+      "sakeId": "hideyoshi-junmai-standard",
+      "specialtyId": "iburigakko",
+      "sha256": "45e3b7087543a2251f9bce5b0e0807f9d84765cef45400a27006a9888dbaaa58"
+    },
+    {
+      "sakeId": "hakurakusei-tokubetsu-junmai-1",
+      "specialtyId": "sasa-kamaboko",
+      "sha256": "bb82473f908081d9bc3cc76d5b93a5accd93ed98d39d9f349be3d04e22d6e2fe"
+    },
+    {
+      "sakeId": "aramasa-junmai-1",
+      "specialtyId": "gibasa",
+      "sha256": "18814e2ef167540924718c35cdd4a9bd466d0da48d78b7c9e5cb7d5164edb512"
+    },
+    {
+      "sakeId": "aramasa-junmai-1",
+      "specialtyId": "iburigakko",
+      "sha256": "43134df704f652512c224e2a36e2902c386bfd767b9996d3be8ac2840760499a"
+    },
+    {
+      "sakeId": "ichinokura-tokubetsu-junmai-karakuchi",
+      "specialtyId": "kaki-oil",
+      "sha256": "8bf33756ef19c1356aca698928f43295965c47860eb4ef5b70e555912b2a824d"
+    },
+    {
+      "sakeId": "ichinokura-tokubetsu-junmai-karakuchi",
+      "specialtyId": "sasa-kamaboko",
+      "sha256": "5228e8d8d00ace2dcd0b25d3e4badf2eb57b3094148a1d777d588a44737e6e76"
+    },
+    {
+      "sakeId": "denyu-tokubetsu-junmai-standard",
+      "specialtyId": "kanzuri-shuto",
+      "sha256": "254fb6c3190066e3b63fc6ccc4b8b72365082e0a75f751c638ce5dd754835d4a"
+    },
+    {
+      "sakeId": "sanshoraku-junmai-standard",
+      "specialtyId": "shiroebi-himono",
+      "sha256": "0eb9ee8bfee2e8b86ce4ac43505655a4b2c564252c80e459496703d64f067df6"
+    },
+    {
+      "sakeId": "sanshoraku-junmai-standard",
+      "specialtyId": "hotaruika-okizuke",
+      "sha256": "aea652277d9de3afc2d823cf4c475c1a2ac032ed13ec71725d98794796c47bff"
+    },
+    {
+      "sakeId": "maboroshi-no-taki-junmai-ginjo-standard",
+      "specialtyId": "hotaruika-okizuke",
+      "sha256": "e67bfd02275c6ec5b9df34430fcee9aec88fdea93348ab038c9353c9c5006a07"
+    },
+    {
+      "sakeId": "maboroshi-no-taki-junmai-ginjo-standard",
+      "specialtyId": "hotaruika-himono",
+      "sha256": "ac95755eb036ef623e62f887049c573cf2b47c3182a8cfe5ca7415256495f3a3"
+    },
+    {
+      "sakeId": "tengumai-yamahai-junmai-3",
+      "specialtyId": "kabura-zushi",
+      "sha256": "62f0f5ad006156bcbf6c1a83b3571b99c2b1d0fb1c7e8d806d68393582883e7a"
+    },
+    {
+      "sakeId": "jokigen-ishikawa-nozijh-4",
+      "specialtyId": "fugu-nukazuke",
+      "sha256": "12ce4799258779243866ad3bd357cbb4ab054f279514a62a3a18d0d5fd4eea69"
+    },
+    {
+      "sakeId": "jokigen-ishikawa-nozijh-4",
+      "specialtyId": "kabura-zushi",
+      "sha256": "444a8efe6c35a68ccb984b6c7fffd3c4abe0a3f11edeb27734e1e21803d204f4"
+    },
+    {
+      "sakeId": "kokuryu-junmai-ginjo-1",
+      "specialtyId": "heshiko",
+      "sha256": "0574a086c36da938f93f711dcb4ea1b7174db71c17b643d46233965c7a3f2f5f"
+    },
+    {
+      "sakeId": "born-gold-2",
+      "specialtyId": "heshiko",
+      "sha256": "724becfce685a4156a3657ec07013a4bba2cb8ea76d6b234861ee45ea5b2b64b"
+    },
+    {
+      "sakeId": "born-gold-2",
+      "specialtyId": "kodai-sasazuke",
+      "sha256": "a66c9cc3228c4aa6b77cd91e18009b2b3cd603aba3624c1a78119810796d1bd2"
+    },
+    {
+      "sakeId": "ippongi-o0ffit-4",
+      "specialtyId": "heshiko",
+      "sha256": "c37d6250fa99b85d80b8a2f00dcb935e7b5b2dc87fd402edca29c94d36c26a5d"
+    },
+    {
+      "sakeId": "nogomi-tokubetsu-junmai-1",
+      "specialtyId": "ika-shumai",
+      "sha256": "7acada368b16c9c32e80ba60806563351525f701bfe61e0bd0be89781c3ab6a5"
+    },
+    {
+      "sakeId": "warakugoson-junmai-ginjo-standard",
+      "specialtyId": "kanzuri-shuto",
+      "sha256": "39f01ef9370132176f8a29f8ce0fa7cd2a6a79b7c4813c56b4c5df522271f8c0"
+    },
+    {
+      "sakeId": "warakugoson-junmai-ginjo-standard",
+      "specialtyId": "tochio-aburaage",
+      "sha256": "70ebff121493380c9fc089f7775bb37745f67737dd9b6d17286261ada48e2e83"
+    },
+    {
+      "sakeId": "hiraizumi-yamahai-tokubetsu-junmai-v1",
+      "specialtyId": "gibasa",
+      "sha256": "f5f8839399c2f0937bfa70eb34232b0c936baac149dec58b85da2e8c6a57569f"
+    },
+    {
+      "sakeId": "hiraizumi-yamahai-tokubetsu-junmai-v1",
+      "specialtyId": "iburigakko",
+      "sha256": "c5816fc5e3750ffa6d64c1f71d8b698d89a52bbfa5e2e2df64fba759f366baf4"
+    },
+    {
+      "sakeId": "hiraizumi-jukusei-yamahai-junmai-v1",
+      "specialtyId": "iburigakko",
+      "sha256": "ba25117f2e23e135621820228a53d9011619bef68cf86f63a385bc3da181e611"
+    },
+    {
+      "sakeId": "kinteki-junmai-ginjo-v1",
+      "specialtyId": "ika-meshi",
+      "sha256": "38949251f53a367474feaa3f5c8f57ea6dad3867093afa4233fde04e67e9328c"
+    },
+    {
+      "sakeId": "kinteki-junmai-ginjo-v1",
+      "specialtyId": "matsumae-zuke",
+      "sha256": "183893bfadbd9cfe8ffb5dead7cb390a63b24dcce4a99bfc938568ba54d23237"
+    },
+    {
+      "sakeId": "kunimare-tokubetsu-junmai-standard",
+      "specialtyId": "matsumae-zuke",
+      "sha256": "33ab5220247da0e2f7b0034c28466120906f6426445c0e52d7c38764473c6ffe"
+    },
+    {
+      "sakeId": "kunimare-tokubetsu-junmai-standard",
+      "specialtyId": "ika-meshi",
+      "sha256": "e4883d31c0162fdadad4f9af1a38e8a86737f970a6a201c09c920df43a6992d0"
+    },
+    {
+      "sakeId": "otokoyama-kuniyoshinona-v1",
+      "specialtyId": "matsumae-zuke",
+      "sha256": "6c5231026de50064e653643b03b70563596794c374a8de8a827715fae766241e"
+    },
+    {
+      "sakeId": "otokoyama-kuniyoshinona-v1",
+      "specialtyId": "ika-meshi",
+      "sha256": "be7af9f2571f4ebb44741e81797542c8d1d57bb902d61f6c454e55089bd72a00"
+    },
+    {
+      "sakeId": "kariho-yamahai-junmai-chokarakuchi-v1",
+      "specialtyId": "iburigakko",
+      "sha256": "004c67dbc3f60f5df4eca9d30aeaf42b34b19ebc73b09f6fc4f26a1714d088d4"
+    },
+    {
+      "sakeId": "tsukasabotan-niyodo-blue-junmai-standard",
+      "specialtyId": "katsuo-namabushi",
+      "sha256": "ee8c9a7e8d7c973f239ba87803f1c1809f1552dc2b11af6afcece93144b2de83"
+    },
+    {
+      "sakeId": "tsukasabotan-niyodo-blue-junmai-standard",
+      "specialtyId": "shuto",
+      "sha256": "76de8ddcb786ba6cdcb07f469f20e0caa86e0c12c95025eaacbae343dd7b7d38"
+    },
+    {
+      "sakeId": "ryozeki-junmai-ginjo-v1",
+      "specialtyId": "gibasa",
+      "sha256": "cd10a9ad8a76f185b1481af9961323d8d6fb80fff0060a674a158b7b37d80716"
+    },
+    {
+      "sakeId": "ryozeki-junmai-ginjo-v1",
+      "specialtyId": "iburigakko",
+      "sha256": "99db14ba46e22bb7c4b84c305054c195ddb4083bf51d9cb44775283214e89bb7"
+    },
+    {
+      "sakeId": "niseko-suisei-junmai-ginjo-hiire-v1",
+      "specialtyId": "matsumae-zuke",
+      "sha256": "b4f41180c6383bf9220a0385b53182c49a7917ea9d93505164231b10be3e919c"
+    },
+    {
+      "sakeId": "nichiei-junmai-ginjo-ishikawamon-standard",
+      "specialtyId": "kabura-zushi",
+      "sha256": "cb5939fe158d3e6428c32e255c9cedc152e1c1ecd0363cedad9ccceec8612e29"
+    },
+    {
+      "sakeId": "nichiei-junmai-ginjo-ishikawamon-standard",
+      "specialtyId": "fugu-nukazuke",
+      "sha256": "4f2660feb346a7b5ee4ac85fde75e779f9fe89775898771f198bf912a5f9abc3"
+    },
+    {
+      "sakeId": "suigei-junmai-daiginjo-hyogo-yamadanishiki50-v1",
+      "specialtyId": "katsuo-namabushi",
+      "sha256": "c5cd16e3ebafb900d7ca1af5a6f4f56ed81c18835bd54bf31a464aea3a67138b"
+    },
+    {
+      "sakeId": "suigei-junmai-daiginjo-hyogo-yamadanishiki50-v1",
+      "specialtyId": "shuto",
+      "sha256": "3071e3eac425f87eb3f55a0a2a226dd4996b172c74a0e938b58bb37aafde6caa"
+    },
+    {
+      "sakeId": "kitanonishiki-maruta-tokubetsu-junmai-v1",
+      "specialtyId": "ika-meshi",
+      "sha256": "b8f554122861e2f8e4d345c2972a9bd26b74967148076cb49dca126878682add"
+    },
+    {
+      "sakeId": "kokuryu-icchorai-jungin-standard-v1",
+      "specialtyId": "kodai-sasazuke",
+      "sha256": "d17a5990edc0586da79179687e47af0fb71a2bf48e11f0a1a114a603cecee45a"
+    },
+    {
+      "sakeId": "kokuryu-icchorai-jungin-standard-v1",
+      "specialtyId": "heshiko",
+      "sha256": "b2279a4bbaf6cb6cc722c250fa0f2cceb8f01583aadb2381fdaf46c9463058f8"
+    },
+    {
+      "sakeId": "tosa-shiragiku-zankara-tokubetsu-junmai-standard-v1",
+      "specialtyId": "katsuo-namabushi",
+      "sha256": "ee02d4d9d3ec5fac67397a87a64753072b7dc23a2ff1c896439c10d2c8164e21"
+    },
+    {
+      "sakeId": "tosa-shiragiku-zankara-tokubetsu-junmai-standard-v1",
+      "specialtyId": "shuto",
+      "sha256": "7dd1a694d36a4a8519c2b6e54559e81f8a18772c75e8ff0922198abf90ba7c7d"
+    },
+    {
+      "sakeId": "hitakami-sakana-label-tokubetsu-junmai-hiire-v1",
+      "specialtyId": "sasa-kamaboko",
+      "sha256": "b72c43eb526a0ecb93766437f078d6278ba877e06a17f5dd64698eb24f7671a3"
+    },
+    {
+      "sakeId": "hitakami-sakana-label-tokubetsu-junmai-hiire-v1",
+      "specialtyId": "hoya-chinmi",
+      "sha256": "ff62eac3805e437fb326fcd8806376fc79f95d1def32d4aca6d96d8827987c0d"
+    },
+    {
+      "sakeId": "hitakami-chokarakuchi-junmai-standard-v1",
+      "specialtyId": "sasa-kamaboko",
+      "sha256": "c6a75f7e8cafafde5a6abccfc84807cd5bb07e69ef306f0cad02b3faaa1cbd2d"
+    },
+    {
+      "sakeId": "kenkonichi-chokarakuchi-junmai-ginjo-genshu-hiire-v1",
+      "specialtyId": "hoya-chinmi",
+      "sha256": "4f98290edd1648a01095359222d30650f3ffadab3b731e9bc7f5740bd99f110c"
+    },
+    {
+      "sakeId": "kenkonichi-chokarakuchi-junmai-ginjo-genshu-hiire-v1",
+      "specialtyId": "sasa-kamaboko",
+      "sha256": "2559172b5630343f3944f89bf56026d820682774b00fd768986229b7203153c6"
+    },
+    {
+      "sakeId": "takachiyo-karakuchi-junmai-miyamanishiki-plus19-hiire-v1",
+      "specialtyId": "kanzuri-shuto",
+      "sha256": "5fb15989721ab9959f360d610db186113af28aad9c6a00bcc9263933ee27e01b"
+    },
+    {
+      "sakeId": "takachiyo-karakuchi-junmai-miyamanishiki-plus19-hiire-v1",
+      "specialtyId": "tochio-aburaage",
+      "sha256": "7c9f82caa8b4412fa74da0d105112bc2f1a9edac76d6fbdcbba4790499da555b"
+    },
+    {
+      "sakeId": "aramasa-no6-r-type-nama-standard-v1",
+      "specialtyId": "iburigakko",
+      "sha256": "d5d13dd325c9a5dee6684bcb5e499db125fa133938ad62ec3d1b858de430bab3"
+    },
+    {
+      "sakeId": "koshino-kagetora-junmai-standard-v1",
+      "specialtyId": "kanzuri-shuto",
+      "sha256": "66719e2ccaa227f6588cd78c903ecf5e8863a7c3cbdb51484111a823494aa05a"
+    },
+    {
+      "sakeId": "koshino-kagetora-junmai-standard-v1",
+      "specialtyId": "tochio-aburaage",
+      "sha256": "904bdc18967cd19e4127762ec228293496e3d8c86bf0ad55d33f01868cef96d0"
+    },
+    {
+      "sakeId": "zao-junmai-ginjo-catalog-v1",
+      "specialtyId": "hoya-chinmi",
+      "sha256": "919852f24c87c68565567248def5aaea2fcfaffaf3bfdc6a12596bb5cd6268bd"
+    },
+    {
+      "sakeId": "zao-junmai-ginjo-catalog-v1",
+      "specialtyId": "sasa-kamaboko",
+      "sha256": "8ead12411ea28ae6e602004ffff77f3b14c96598aefc6495575f17c4d29971bd"
+    },
+    {
+      "sakeId": "ayumasamune-honjozo-catalog-v1",
+      "specialtyId": "kanzuri-shuto",
+      "sha256": "e44033454978db99f38ab8f49c874fb46b17c272adb64c6f6015e533b4aa6338"
+    },
+    {
+      "sakeId": "ayumasamune-honjozo-catalog-v1",
+      "specialtyId": "tochio-aburaage",
+      "sha256": "b9ecf8305bef0969640eacdc74bef795a912d71ef629c8b8f3cbba54d618d5d5"
+    },
+    {
+      "sakeId": "chiyonohikari-shin-tokubetsu-honjozo-catalog-v1",
+      "specialtyId": "kanzuri-shuto",
+      "sha256": "94f29c8dfff166e0dbdabad5616b5a7e3803c9dc38956775be941b6eb611934b"
+    },
+    {
+      "sakeId": "chiyonohikari-shin-tokubetsu-honjozo-catalog-v1",
+      "specialtyId": "tochio-aburaage",
+      "sha256": "cdb7efe9c29720a4d1dfcc16a4bdf5589623e52d5093a67d68f6d0c622f78009"
+    },
+    {
+      "sakeId": "tenjinbayashi-tokubetsu-honjozo-catalog-v1",
+      "specialtyId": "kanzuri-shuto",
+      "sha256": "399838c97dbc1512701d30f9fe8bc66d3b9edaab19b2b40f5e241f769c00e3cd"
+    },
+    {
+      "sakeId": "tenjinbayashi-tokubetsu-honjozo-catalog-v1",
+      "specialtyId": "tochio-aburaage",
+      "sha256": "7580c3faf247ddd32b5f8f29b9bfa2203529e9e1127ce3c60cad3a6625a223a6"
+    },
+    {
+      "sakeId": "koshijifubuki-akiagari-2026-catalog-v1",
+      "specialtyId": "kanzuri-shuto",
+      "sha256": "1be80922626cdf269336e3865e33024fc9d9b627bb7aa0816746c9d92b3a0c2d"
+    },
+    {
+      "sakeId": "koshijifubuki-akiagari-2026-catalog-v1",
+      "specialtyId": "tochio-aburaage",
+      "sha256": "af6b2bdecc96e5a12956580c713d78ae92f3dd58a664d5065397645c9b6da4c4"
+    },
+    {
+      "sakeId": "hokushika-akita-kasho-nigori-catalog-v1",
+      "specialtyId": "gibasa",
+      "sha256": "0e6536e4ee466b90858cf233872de14e69e50caae414f95a63243aca8db9dd72"
+    },
+    {
+      "sakeId": "koshino-happo-origarami-catalog-v1",
+      "specialtyId": "kanzuri-shuto",
+      "sha256": "2ce25b1f19b6d87c63f257ad7040cc4726894e2ef49f0bfd05c39b0810269a8e"
+    },
+    {
+      "sakeId": "koshino-happo-origarami-catalog-v1",
+      "specialtyId": "tochio-aburaage",
+      "sha256": "1f0fd0f6f8fcd95b3e6c060bafc7976a617327d67c3e9d141fc80849a5a7e757"
+    },
+    {
+      "sakeId": "keigetsu-extra-dry-tokubetsu-junmai60-catalog-v1",
+      "specialtyId": "katsuo-namabushi",
+      "sha256": "eba159850983cea5f1fd19c435ec1f157ef206f0ce4ef849597422ad9821a9eb"
+    },
+    {
+      "sakeId": "keigetsu-extra-dry-tokubetsu-junmai60-catalog-v1",
+      "specialtyId": "shuto",
+      "sha256": "43d40d7bde841fd7c9183f1c868846b4914aad7e0094bb7df1f25c25e0ccceb4"
+    },
+    {
+      "sakeId": "hokusetsu-hikari-centrifuge-junmai-daiginjo-catalog-v1",
+      "specialtyId": "kanzuri-shuto",
+      "sha256": "73eba1fae5f696d77aed20396db16262508311ca4c9d4044212768cc64ffeae6"
+    },
+    {
+      "sakeId": "hokusetsu-hikari-centrifuge-junmai-daiginjo-catalog-v1",
+      "specialtyId": "tochio-aburaage",
+      "sha256": "d64f681a66d803d58d24881f61db1a362ac40d002d66d996a7c775e939c3cd21"
+    },
+    {
+      "sakeId": "hakkaisan-jd-lineup-v1",
+      "specialtyId": "kanzuri-shuto",
+      "sha256": "4fca5312a0fe7873d56d17f189b9fa3b2fd4c83165d7dc4feebad865e78e02bd"
+    },
+    {
+      "sakeId": "hakkaisan-jd-lineup-v1",
+      "specialtyId": "tochio-aburaage",
+      "sha256": "3b34667cdf0839a81266db0c73e9d30a22c133358850247e4dfc880281888703"
+    },
+    {
+      "sakeId": "hakkaisan-seishu-lineup-v1",
+      "specialtyId": "kanzuri-shuto",
+      "sha256": "3639d38b14833b96232a6bd97b171c65298d8169eb087f9ee79a0f5e9e16ff61"
+    },
+    {
+      "sakeId": "ichinokura-mukansa-karakuchi-lineup-v1",
+      "specialtyId": "sasa-kamaboko",
+      "sha256": "eb1953eb4596c1b2f67c2e1025b1befc2e5950e17bb6f5ba33c381b0e0cab58f"
+    },
+    {
+      "sakeId": "ichinokura-mukansa-karakuchi-lineup-v1",
+      "specialtyId": "hoya-chinmi",
+      "sha256": "82d5c777387676b3003b50963633dca127b6aa7331bf2cadcd08daf6bcb79587"
+    },
+    {
+      "sakeId": "ichinokura-mukansa-chokarakuchi-lineup-v1",
+      "specialtyId": "sasa-kamaboko",
+      "sha256": "3e20ad44f619c574c98e7d9134d2aab3c1cb6daba98e0a24b890ba825e91967d"
+    },
+    {
+      "sakeId": "ichinokura-mukansa-chokarakuchi-lineup-v1",
+      "specialtyId": "hoya-chinmi",
+      "sha256": "688999532142375a0ab79f9cf7bdfcf29de6f836c58cc352e4a487d5e5bf269b"
+    },
+    {
+      "sakeId": "ichinokura-himezen-lineup-v1",
+      "specialtyId": "kaki-oil",
+      "sha256": "713b15ee400d63296a806b46d9505b8f7f789d49b63fffdcffbec988df682d24"
+    },
+    {
+      "sakeId": "ichinokura-himezen-lineup-v1",
+      "specialtyId": "sasa-kamaboko",
+      "sha256": "12d84015f6a729587c78c717af3e57214bcb2bdf83779ba367ae5b22f5722ee9"
+    },
+    {
+      "sakeId": "urakasumi-karakuchi-lineup-v1",
+      "specialtyId": "hoya-chinmi",
+      "sha256": "0f7417c797ff985a19a5a6e58dea46b3a91484de0125d462220cb54e9ddb37eb"
+    },
+    {
+      "sakeId": "urakasumi-karakuchi-lineup-v1",
+      "specialtyId": "kaki-oil",
+      "sha256": "107348198ad4320f02b04639284941bdbae1925daded08a4cab7cd7145e69b80"
+    },
+    {
+      "sakeId": "urakasumi-honshikomi-lineup-v1",
+      "specialtyId": "sasa-kamaboko",
+      "sha256": "0a12962972e9205bf0d0f393f20721df5f90f555c33373c175af26e08f801a35"
+    },
+    {
+      "sakeId": "kikusui-karakuchi-lineup-v1",
+      "specialtyId": "kanzuri-shuto",
+      "sha256": "944748a3a7513a7e0b1f2565b9c8edfd712bf1c8ee5b4cf3e02e2d8f71bec916"
+    },
+    {
+      "sakeId": "kikusui-karakuchi-lineup-v1",
+      "specialtyId": "tochio-aburaage",
+      "sha256": "e4d7144e7873b4bcf8bdb61c59737139246c74e811cb40157f966135a9502e22"
+    },
+    {
+      "sakeId": "kikusui-junmai-lineup-v1",
+      "specialtyId": "kanzuri-shuto",
+      "sha256": "d09831d4daf8d3bbcb2da4b78db95701a51a7e436591541f2deab2f2451ad658"
+    },
+    {
+      "sakeId": "kikusui-junmai-lineup-v1",
+      "specialtyId": "tochio-aburaage",
+      "sha256": "30ff5e6588ba51860871c709415a31834ba386a5aff8cc6856fbd1b52b64e32e"
+    },
+    {
+      "sakeId": "suigei-ginrei-lineup-v1",
+      "specialtyId": "katsuo-namabushi",
+      "sha256": "9ce14f14de56733b3805468bebed05f86647e17051c6157adf8246afd1382854"
+    },
+    {
+      "sakeId": "suigei-ginrei-lineup-v1",
+      "specialtyId": "shuto",
+      "sha256": "ec0f975fbdfec01ca2ab15b784955174cbeda68950ec6352d6548cc38168b0a2"
+    },
+    {
+      "sakeId": "suigei-koiku54-lineup-v1",
+      "specialtyId": "katsuo-namabushi",
+      "sha256": "08189a1c2235472dee544ee16a6cd19dd086c07aca8ebba12d19e014e71a60e2"
+    },
+    {
+      "sakeId": "suigei-koiku54-lineup-v1",
+      "specialtyId": "shuto",
+      "sha256": "2e21ce6979a3b76b75acdeb5a86edff7319316f2d4352c9003675eff4a5159ed"
+    },
+    {
+      "sakeId": "tengumai-umajun-lineup-v1",
+      "specialtyId": "kabura-zushi",
+      "sha256": "9bfda86147e19be1c3475001a80297a9bb144a3b00436fa0b189d64673b532b6"
+    },
+    {
+      "sakeId": "tengumai-umajun-lineup-v1",
+      "specialtyId": "fugu-nukazuke",
+      "sha256": "e329b6198214bc33a7825ba71d5fba2e8b4d58d3879bb9d727332d924ee45554"
+    },
+    {
+      "sakeId": "kagatobi-gokkan-lineup-v1",
+      "specialtyId": "fugu-nukazuke",
+      "sha256": "0a53b24fce497a0381cb741870cc4a29075eb0a48e9e60fb53175144aa621aef"
+    },
+    {
+      "sakeId": "kagatobi-gokkan-lineup-v1",
+      "specialtyId": "kabura-zushi",
+      "sha256": "5bfb0db852846df857dc14ec939436a79507a3ae61351a6e99b0761ebd559279"
+    },
+    {
+      "sakeId": "kagatobi-yamahai-lineup-v1",
+      "specialtyId": "fugu-nukazuke",
+      "sha256": "7f340498c707a0f51bc4d6530bc45cf24be0a2a13600e2b56e7938ecd807ace1"
+    },
+    {
+      "sakeId": "kagatobi-yamahai-lineup-v1",
+      "specialtyId": "kabura-zushi",
+      "sha256": "43a52e45d0545fa8dbfc62f1b08526219e30847abafef9dd519131a02592acf6"
+    },
+    {
+      "sakeId": "kuroobi-yuyu-lineup-v1",
+      "specialtyId": "fugu-nukazuke",
+      "sha256": "24a62317f9698d1abf7941d686133a38bc74980dea6acd975b41e8ef6ea74871"
+    },
+    {
+      "sakeId": "kuroobi-yuyu-lineup-v1",
+      "specialtyId": "kabura-zushi",
+      "sha256": "4252972b7c306720dc17cc0812a0b1d8b73ca46433693ad444cbec504c51bf52"
+    },
+    {
+      "sakeId": "minatoya-tosuke-lineup-v1",
+      "specialtyId": "kanzuri-shuto",
+      "sha256": "8401af8284b89ee2a884cc6c34f91c875268f3f5d78c6be6e46307df324fe1b5"
+    },
+    {
+      "sakeId": "minatoya-tosuke-lineup-v1",
+      "specialtyId": "tochio-aburaage",
+      "sha256": "8dc3ef8a02f6a8a4e20d5adb7781e0bc0fea7e0a5a900d8f26ad116d59ebd15a"
+    },
+    {
+      "sakeId": "uonuma-junmai-lineup-v1",
+      "specialtyId": "kanzuri-shuto",
+      "sha256": "966d985d77128af0a572aa7d1e807de5080d641bfa9a2e99a9e2a536d8978da1"
+    },
+    {
+      "sakeId": "uonuma-junmai-lineup-v1",
+      "specialtyId": "tochio-aburaage",
+      "sha256": "5fe8ac450c8ed3b68b2fd5ecd340abf54b26f5ffb802f8513b32748c58a4ca4e"
+    },
+    {
+      "sakeId": "urakasumi-zen-lineup-v1",
+      "specialtyId": "hoya-chinmi",
+      "sha256": "39c6ac778d50092ec5c698daebdbe7d3db25aeeb906b5265380c31bccf395d48"
+    },
+    {
+      "sakeId": "urakasumi-zen-lineup-v1",
+      "specialtyId": "sasa-kamaboko",
+      "sha256": "24159ec73e5df89bd4a8372932a219ef49be50d2c64b2febf28673898a15e7d5"
+    },
+    {
+      "sakeId": "azumaichi-jd-lineup-v1",
+      "specialtyId": "ika-shumai",
+      "sha256": "fbab45132c5cfca73349cc64fc1065c092521d3fd426e5e8a72061c0c02453ba"
+    },
+    {
+      "sakeId": "azumaichi-jd-lineup-v1",
+      "specialtyId": "yobuko-ichiyaboshi",
+      "sha256": "eda927267015bf2b5c71a4d17f736e955d93f9e57ac644f4055137daa6f838e9"
+    },
+    {
+      "sakeId": "koeigiku-sukai-hiire-current-v1",
+      "specialtyId": "ika-shumai",
+      "sha256": "105821445001f3dbb060d56a973325aba7a910c703fb6f6a80e95ac6874a23a7"
+    },
+    {
+      "sakeId": "koeigiku-sukai-hiire-current-v1",
+      "specialtyId": "yobuko-ichiyaboshi",
+      "sha256": "7eb6ea19178ddbf243acc8b360f2a624e19664f219e52cdb36f452418cb3730d"
+    },
+    {
+      "sakeId": "manrei-chokarakuchi-tokubetsu-junmai-current-v1",
+      "specialtyId": "yobuko-ichiyaboshi",
+      "sha256": "18728032e41549e9b89fb1168054612ac36ae6673cfc7af3c2e01e5c4cc0d44f"
+    },
+    {
+      "sakeId": "manrei-chokarakuchi-tokubetsu-junmai-current-v1",
+      "specialtyId": "ika-shumai",
+      "sha256": "d914988c0de751bd3c4796a3b4d64c06ff49af0c835ecfe1d471a08f21440aad"
+    },
+    {
+      "sakeId": "kihotsuru-junmai-current-v1",
+      "specialtyId": "saga-nori",
+      "sha256": "14102c414cdcc50e2f608a02ad7a2814c98fefb39a297c7dcb1afbdde7b5c73d"
+    },
+    {
+      "sakeId": "kihotsuru-junmai-current-v1",
+      "specialtyId": "yobuko-ichiyaboshi",
+      "sha256": "5eb0d1332caaa3b69b74a079c2215efea12d62bbca6981ea7d40ce583730ab89"
+    },
+    {
+      "sakeId": "kameizumi-kouiku63-hiyaoroshi-current-v1",
+      "specialtyId": "katsuo-namabushi",
+      "sha256": "f704407494b156fdadb40168f368532531af35c3bbb5ce08259024093a333f80"
+    },
+    {
+      "sakeId": "kameizumi-kouiku63-hiyaoroshi-current-v1",
+      "specialtyId": "shuto",
+      "sha256": "dc195a8ff8b46dc04ec8efaec70d851c647c9c2d806c771322d13083dea4f2bc"
+    },
+    {
+      "sakeId": "tokachi-tokubetsu-junmai-suisei-current-v1",
+      "specialtyId": "matsumae-zuke",
+      "sha256": "a86c0179a9e757e96b7ddc12d040f664d009d289972122cdb0ecee93e66a7378"
+    },
+    {
+      "sakeId": "abe-silver-hiire-current-v1",
+      "specialtyId": "kanzuri-shuto",
+      "sha256": "20d7ecfc2f8ae18c3a40f95bbdd4f30f852526e381fd7f359c8ba21ca580da73"
+    },
+    {
+      "sakeId": "abe-silver-hiire-current-v1",
+      "specialtyId": "tochio-aburaage",
+      "sha256": "ca1c250b2131754e5ab481399cac5458ab0ee0a3a2427c6bc7e1a7bde2743f37"
+    },
+    {
+      "sakeId": "chiebijin-junmai",
+      "specialtyId": "oita-ryukyu",
+      "sha256": "0c4e6867974c5abeefecfed1af659ffc9695a0bd46a30bb184dfdd27902abf51"
+    },
+    {
+      "sakeId": "sasshu-masamune-junmai",
+      "specialtyId": "kagoshima-buta-miso",
+      "sha256": "97768fa0d803c3b37aea6684fc19c5356dc0111ec05dbc878bd49546322c900c"
+    },
+    {
+      "sakeId": "denshu-tokubetsu-junmai",
+      "specialtyId": "aomori-ichigoni",
+      "sha256": "481868f3fb349e3ba4256ac3c98bbc45d33f25316cd20d2c1d16ae6a3b5446a4"
+    },
+    {
+      "sakeId": "akabu-junmai",
+      "specialtyId": "iwate-suki-kombu",
+      "sha256": "6471b2fef9ef436fa6fd3eb078a6ac2232ec31657e485933e56a336bc7421f7e"
+    },
+    {
+      "sakeId": "nanbu-bijin-tokubetsu-junmai",
+      "specialtyId": "iwate-suki-kombu",
+      "sha256": "6476fdb8cc75ef00618b34fc5e81bd74cb964e55c6a404bb18f0b36c900f19c2"
+    },
+    {
+      "sakeId": "sharaku-junmai-ginjo",
+      "specialtyId": "fukushima-nishin-sanshozuke",
+      "sha256": "bfc34f9601eeec0fab335b8247a7de3f7fa99a3d1d1a3b9d73b14b5514860467"
+    },
+    {
+      "sakeId": "aizu-chujo-junmai",
+      "specialtyId": "fukushima-nishin-sanshozuke",
+      "sha256": "970d5f7661e6e1adaad4f7438a5545acc783b1257bcbd9a195082ef35db631c2"
+    },
+    {
+      "sakeId": "masumi-karakuchi-kiippon",
+      "specialtyId": "nagano-nozawana",
+      "sha256": "8b45108794aa8ae74ed7a7093ac3ce9939a5db9c4107c9b7b8cdb44f8976bea4"
+    },
+    {
+      "sakeId": "tamanohikari-junmai-ginjo-shukon-standard",
+      "specialtyId": "kyoto-shibazuke",
+      "sha256": "3635773858f24ee2771042cf84ac978ed86882e6c9b288d27445f6e1b2acc175"
+    },
+    {
+      "sakeId": "kid-junmai-ginjo",
+      "specialtyId": "wakayama-goma-dofu",
+      "sha256": "d9661bfe00e50c00299972de8923fc8bd6db57c47d02b754deef14d80d0b510d"
+    },
+    {
+      "sakeId": "ugonotsuki-junmai-ginjo",
+      "specialtyId": "hiroshima-kaki-doteyaki",
+      "sha256": "34b3c0609eeb7a618cd5eae80ba8b1aa1364bc38d85c00b68deec2c835432ede"
+    },
+    {
+      "sakeId": "tenbi-junmai-ginjo",
+      "specialtyId": "yamaguchi-fugu-karaage",
+      "sha256": "469dfc784ce014ceeb39ccf96c45ee53b703fb4a03fc206011493ff3fab147fd"
+    },
+    {
+      "sakeId": "ibi-white",
+      "specialtyId": "gifu-akakabu",
+      "sha256": "8997780b40802b372189a4674122a4810ec1f016ec4f4cf2a2ad16ef7371d12e"
+    },
+    {
+      "sakeId": "juyondai-modern-premium",
+      "specialtyId": "yamagata-omizuke",
+      "sha256": "c56497738a03004a930b63b92e113c171a17defb78ad25220ef5ca4881afb014"
+    },
+    {
+      "sakeId": "hato-masamune-tw2kq6",
+      "specialtyId": "aomori-ichigoni",
+      "sha256": "3044b37ee80ddc93e1eb13518336b5a6e1b249d2fdda8486d62016be382e2f53"
+    },
+    {
+      "sakeId": "asahibaki-iaxjez",
+      "specialtyId": "iwate-suki-kombu",
+      "sha256": "37d074e527705bb0fc98774bad6fdeb6b130822167c4eed9f9a582c310e328ca"
+    },
+    {
+      "sakeId": "tsuki-no-wa-iaxjez",
+      "specialtyId": "iwate-suki-kombu",
+      "sha256": "0a90eb57ece6a4948b4f3dd76826801ecceb8770ed29a369285c4bcc79e8693b"
+    },
+    {
+      "sakeId": "jokigen-i9diua",
+      "specialtyId": "yamagata-omizuke",
+      "sha256": "17ff54499ee13386224f0a3df21524fac1cb228ad24f9908b8ceae22a4ce02ec"
+    },
+    {
+      "sakeId": "daishichi-junmai-kimoto-standard",
+      "specialtyId": "fukushima-ika-ninjin",
+      "sha256": "00b87694bea8af2b193d32197789fe856bef63493d3e515f58191123d08d76c8"
+    },
+    {
+      "sakeId": "mizubasho-p7oucs",
+      "specialtyId": "gunma-konnyaku-miso-oden",
+      "sha256": "292119700b627ac81a7e2dd1952baaa964417369b9f83c7934c9253f24839973"
+    },
+    {
+      "sakeId": "tanigawadake-p7oucs",
+      "specialtyId": "gunma-konnyaku-miso-oden",
+      "sha256": "ecbe2a325db8d2b96d233cd81d96cea999b2c0a734aa1aee2d306093cc2f449d"
+    },
+    {
+      "sakeId": "okunokami-kflfjg",
+      "specialtyId": "tokyo-bettarazuke",
+      "sha256": "99d2d3fc5492bcb91555731e0ac15ba245c1e16c2973d06b6d3c2decbca91333"
+    },
+    {
+      "sakeId": "sawanoi-kflfjg",
+      "specialtyId": "tokyo-asari-tsukudani",
+      "sha256": "ac1963f3bd70c41028b0449708ef15203afe9a5ca3df2b53c2932ae41991ab23"
+    },
+    {
+      "sakeId": "kasen-kflfjg",
+      "specialtyId": "tokyo-asari-tsukudani",
+      "sha256": "2cf090ebc94ddbd110d38bc9f46f9a4b575db87b00979af0893cbb7b10f1d557"
+    },
+    {
+      "sakeId": "tamajiman-kflfjg",
+      "specialtyId": "tokyo-asari-tsukudani",
+      "sha256": "19b5125da0c297e6fb94e77a2426e50927f063154ce37f3cffeea57a9eb761d3"
+    },
+    {
+      "sakeId": "mushohai-junmai-ginjo-standard",
+      "specialtyId": "nara-narazuke",
+      "sha256": "7b307269212cdca4a0d638a476ce5dd805e8ea2d1d253adaeff9334793b6c266"
+    },
+    {
+      "sakeId": "kizakura-yamahai-tokubetsu-junmai-yamadanishiki-standard",
+      "specialtyId": "kyoto-suguki",
+      "sha256": "b6671799c5b9dc2e2c4a06c28fdd81af6e6bbcfa5dbdf8a4c25bbe18a5b632d9"
+    },
+    {
+      "sakeId": "kai-no-kaiun-i9dko8",
+      "specialtyId": "yamanashi-awabi-nigai",
+      "sha256": "f04e600d02353e1d85511180ffa7a92a34ec8a8b3de6f2d95d0cf7837463f55e"
+    },
+    {
+      "sakeId": "hyakushun-junmai-josen-standard",
+      "specialtyId": "gifu-akakabu",
+      "sha256": "29775bbf083ff4156eac9fd0efaf471dfe91e35407cdd3e48ec30d4bc5e9c418"
+    },
+    {
+      "sakeId": "tsuki-no-katsura-fjg",
+      "specialtyId": "kyoto-suguki",
+      "sha256": "3d349e2e7287b895c1f7dee589ef064ece25f055166f29de03e766cc5c390cc3"
+    },
+    {
+      "sakeId": "katano-sakura-hlztnu",
+      "specialtyId": "osaka-doteyaki",
+      "sha256": "d8522e844a8815b80f8476f74675410c8069b3524aff83cbc38651d81fcd9469"
+    },
+    {
+      "sakeId": "harushika-hmwprj",
+      "specialtyId": "nara-narazuke",
+      "sha256": "9786ffe89072332acbf9a7a93d4f2e510ea5f35220c8be381a1469e2461b445b"
+    },
+    {
+      "sakeId": "kuroushi-gp8l70i9d",
+      "specialtyId": "wakayama-goma-dofu",
+      "sha256": "ec9fba30a2bf50579790f9b1625106fbd05944bfaedd7787153e4f35d966ba90"
+    },
+    {
+      "sakeId": "kuroushi-gp8l70i9d",
+      "specialtyId": "wakayama-kinzanji-miso",
+      "sha256": "a79a606fec2c1075772f7f1b8e9ed5132afd3197436a2135921eac3c8068ae9c"
+    },
+    {
+      "sakeId": "sanzen-iapi9d",
+      "specialtyId": "okayama-mamakari",
+      "sha256": "dd5f9c2f66806e12f7c7fec7d3dc3852a3fca8b962ce38f1971a65198f742c0a"
+    },
+    {
+      "sakeId": "kamikokoro-iapi9d",
+      "specialtyId": "okayama-mamakari",
+      "sha256": "6743787084e51328161e914f122e6d55dc963c8e4d4b72e2816fc78633fc0439"
+    },
+    {
+      "sakeId": "narutotai-iwjid2",
+      "specialtyId": "tokushima-fish-katsu",
+      "sha256": "cbb3f14987584d9d42bc401ea57511f14e418d7a7ba1ec1dda3784d84242eca6"
+    },
+    {
+      "sakeId": "kinryo-uc9ijh",
+      "specialtyId": "kagawa-honetsukidori",
+      "sha256": "e7f17e2f2530b5cf65d91e7112ad6d2378baccc09c9041127e658bc8c538f011"
+    },
+    {
+      "sakeId": "kyohina-j6jhwb",
+      "specialtyId": "ehime-tachiuo-maki",
+      "sha256": "0db6483dbc58507609f455758fa1b9660492ecf1a9c21000ba54f7c569bb8e7d"
+    },
+    {
+      "sakeId": "kinokawa-tividq",
+      "specialtyId": "nagasaki-hatoshi",
+      "sha256": "83d648a9fdd0643df51c7b23f2db9d80e3344b342453a80cf4c3803446c9bdb7"
+    },
+    {
+      "sakeId": "zuiyo-mfekdo",
+      "specialtyId": "kumamoto-tofu-misozuke",
+      "sha256": "a118c7e14abfe93f70e0201be53dc7ae6fc9f6b18b749351318fa80fb63e1969"
+    },
+    {
+      "sakeId": "zuiyo-mfekdo",
+      "specialtyId": "kumamoto-karashi-renkon",
+      "sha256": "66aa50e04efa8d0c8e0fa5335e9d98e7e77e40921791eecf7b910c1270b2d325"
+    },
+    {
+      "sakeId": "tsujun-semi-junmai-ginjo-standard",
+      "specialtyId": "kumamoto-karashi-renkon",
+      "sha256": "40a5e042b5814fcf8a704767eb12ea8ad3e6207f3366a5769d92e40a3f2ff523"
+    },
+    {
+      "sakeId": "nishinoseki-hlzg7a",
+      "specialtyId": "oita-ayu-uruka",
+      "sha256": "7814849348c2638cebcd4334c49e6f69f25b0e7bdefe870d9d29e4f98d7b2aba"
+    },
+    {
+      "sakeId": "yatsushika-hlzg7a",
+      "specialtyId": "oita-ayu-uruka",
+      "sha256": "43ae48a0eee35c194f55896925515453fb10b542be2e0c67b586446ca3d29b86"
+    },
+    {
+      "sakeId": "sentoku-i3yidq",
+      "specialtyId": "miyazaki-jidori-sumibi",
+      "sha256": "baf924947a53ba2ba3c94294fdcaf43041d3893b52075e68f829a390f71019c0"
+    },
+    {
+      "sakeId": "tenbu-junmai-daiginjo",
+      "specialtyId": "kagoshima-buta-miso",
+      "sha256": "6d8cbab1d718420a415a3f1459086c2b6fbcc8a4bd0c58ef68e0458f07d9b56d"
+    },
+    {
+      "sakeId": "denshu-tokubetsu-junmai-1",
+      "specialtyId": "aomori-ichigoni",
+      "sha256": "f1d03ec39c7ccb480fb128348a760a8d82288826abc3bb7c3fddd6e53ac1cd44"
+    },
+    {
+      "sakeId": "kamotsuru-chotokusem-tokuto-tokubetsu-honjozo",
+      "specialtyId": "hiroshima-kaki-doteyaki",
+      "sha256": "efd4558774853e385d72ae2967992601485c09a9d0a7ac77219fdedd5ba0b8f1"
+    },
+    {
+      "sakeId": "asahibaki-iaxjez-3",
+      "specialtyId": "iwate-suki-kombu",
+      "sha256": "03e8f710224603e8a9c99dd19ce47a42f8bbbd606717ffa7c2ebd76003e1ee35"
+    },
+    {
+      "sakeId": "shinkame-hdomtl-3",
+      "specialtyId": "saitama-oname",
+      "sha256": "d20f593f0f264fe967937f587e915095a488d752f414b7d9e91cfb92a0e6021c"
+    },
+    {
+      "sakeId": "kikko-hanabishi-hdomtl-4",
+      "specialtyId": "saitama-oname",
+      "sha256": "3753c99cbdaa77db3aba9846db224f78d4ddc3b8d169f5ac52fdc4cdbb62f9c4"
+    },
+    {
+      "sakeId": "kinkon-kflfjg-2",
+      "specialtyId": "tokyo-asari-tsukudani",
+      "sha256": "e59639c0568325a6cd2596f04099b10c6891dedb983e72f774edf3dae588d007"
+    },
+    {
+      "sakeId": "kasen-kflfjg-4",
+      "specialtyId": "tokyo-asari-tsukudani",
+      "sha256": "baa7d5a7853c9b42c98beac1748b68c4d8f35500a632e6164859d265a70a5e80"
+    },
+    {
+      "sakeId": "shunnoten-i9dko8-2",
+      "specialtyId": "yamanashi-awabi-nigai",
+      "sha256": "201d77ca8c9f66309f0c7b58f5bb938f31a52f238b96943f7a7b34457ba1921e"
+    },
+    {
+      "sakeId": "shunnoten-i9dko8-2",
+      "specialtyId": "yamanashi-koshu-koume",
+      "sha256": "cc9bd7423adbcb4d233bfbce4885d281b107e03e2d1960a01f1604b2f480782a"
+    },
+    {
+      "sakeId": "tanizakura-i9dko8-3",
+      "specialtyId": "yamanashi-awabi-nigai",
+      "sha256": "873ac55701d804e659d67fbf76fd65bfa8e1ecbc9c4edc977e30eb576b93760e"
+    },
+    {
+      "sakeId": "gokyo-junmai-standard",
+      "specialtyId": "yamaguchi-fugu-karaage",
+      "sha256": "e72c3a59146f3dddc94c34260bd72e1e612c4bfb772f89cfdcde0b3ec02d0d07"
+    },
+    {
+      "sakeId": "takaisami-uzpgk6-4",
+      "specialtyId": "tottori-tofu-chikuwa",
+      "sha256": "27052f0bc8c75f7e2010c4ff80aa7b07222e19b18018ce4411220aec473d35ec"
+    },
+    {
+      "sakeId": "rihaku-id2kl5-2",
+      "specialtyId": "shimane-ago-noyaki",
+      "sha256": "372cbda2bf62dd5ea4f8dd55adcbc19b8b82b4b6b84f679be9f73faee1dcc9f7"
+    },
+    {
+      "sakeId": "ugonotsuki-junmai-ginjo-1",
+      "specialtyId": "hiroshima-kaki-doteyaki",
+      "sha256": "36f1f3878977fa1e86d812e2dc480c36fa72f333847cab74f568e708e8361468"
+    },
+    {
+      "sakeId": "kinryo-uc9ijh-3",
+      "specialtyId": "kagawa-shoyu-mame",
+      "sha256": "59e7fb8ff383bd9513514c6c617d33bd27adc715bc5e00d75ebd7708aef804e2"
+    },
+    {
+      "sakeId": "ayakiku-uc9ijh-4",
+      "specialtyId": "kagawa-honetsukidori",
+      "sha256": "51df7175e7c6ff2ebb4b81435ee56cf725daccb553c2fb7fd031038093778205"
+    },
+    {
+      "sakeId": "yamatan-masamune-j6jhwb-2",
+      "specialtyId": "ehime-jakoten",
+      "sha256": "3c4176b56e533721597df636fd44098e4a2a17e010276027532c84467424b142"
+    },
+    {
+      "sakeId": "yamatan-masamune-j6jhwb-2",
+      "specialtyId": "ehime-tachiuo-maki",
+      "sha256": "5d0c959157e925212cbb0c527bb1b373e447549c42959253d7f54467d966745e"
+    },
+    {
+      "sakeId": "kyohina-j6jhwb-5",
+      "specialtyId": "ehime-jakoten",
+      "sha256": "a256b04604164389678aa85fca190ee04621494cbaab82cd60dd15098f487854"
+    },
+    {
+      "sakeId": "kyohina-j6jhwb-5",
+      "specialtyId": "ehime-tachiuo-maki",
+      "sha256": "9bc67a1a9252fd6457ba27078c002d29f3a4fe19040e144cb25a994b8ff506a0"
+    },
+    {
+      "sakeId": "sawanotsuru-junmai-yamadanishiki-standard",
+      "specialtyId": "hyogo-ikanago-kugini",
+      "sha256": "97abd1d084761363d21d3670a4a9d7414ee70b542cae89f53f902e41dd7cb674"
+    },
+    {
+      "sakeId": "okunomatsu-tokubetsu-junmai-standard",
+      "specialtyId": "fukushima-ika-ninjin",
+      "sha256": "0d5f0df7a555a0a8212b3ecfdd02425eb557a5e8aa21bb76f4e884246b99f6c8"
+    },
+    {
+      "sakeId": "okunomatsu-tokubetsu-junmai-standard",
+      "specialtyId": "fukushima-nishin-sanshozuke",
+      "sha256": "88ab9c373deaa7976a5ae048f0c25386b5148a6bcc85dcb8e6505fae8cd41b6c"
+    },
+    {
+      "sakeId": "tatenokawa-seiryu",
+      "specialtyId": "yamagata-omizuke",
+      "sha256": "eaf45bec8714c39251f9b4b55cb38c8d730cfcf6673e171429568beeacb1bdb2"
+    },
+    {
+      "sakeId": "niida-shizenshu-junmai-genshu",
+      "specialtyId": "fukushima-nishin-sanshozuke",
+      "sha256": "3af3fabd3521d0ef8dcd7895ede8c57d285cfd2804df8b410e1bfd8e05c87178"
+    },
+    {
+      "sakeId": "niida-shizenshu-junmai-genshu",
+      "specialtyId": "fukushima-ika-ninjin",
+      "sha256": "1e97ff7003395b435548bab16f0f219a272e9700595576986978d12b2e16d75d"
+    },
+    {
+      "sakeId": "gunmaizumi-yamahai-junmai",
+      "specialtyId": "gunma-konnyaku-miso-oden",
+      "sha256": "6b5e4ba31d4490a85b476b23770d57fde73255ba24c76f0f4e8327321c6c99aa"
+    },
+    {
+      "sakeId": "ohyama-tokubetsu-junmai-tomizu-standard",
+      "specialtyId": "yamagata-tama-konnyaku",
+      "sha256": "ca551d0cce813740579f085836cc42e1ca87c7f2557a32f6b0f60eeeb3aee3f8"
+    },
+    {
+      "sakeId": "gakki-masamune-honjozo-nakadori-v1",
+      "specialtyId": "fukushima-nishin-sanshozuke",
+      "sha256": "4d4fe97b40fa4b2790a469317b18a7094069c03d5a9e54cd2096231aadb0243e"
+    },
+    {
+      "sakeId": "shizengo-tokubetsu-junmai-v1",
+      "specialtyId": "fukushima-ika-ninjin",
+      "sha256": "ac17706566ef0a128a04de9bbf822c560db035617dbb28c1e091e655cf37554e"
+    },
+    {
+      "sakeId": "shizengo-tokubetsu-junmai-v1",
+      "specialtyId": "fukushima-nishin-sanshozuke",
+      "sha256": "18bad64ab48809f8d6c93446a96ba11618a2d104bad6bac0c9cfddd10dd6b1cb"
+    },
+    {
+      "sakeId": "eikun-tokubetsu-junmai-homarefuji-v1",
+      "specialtyId": "shizuoka-kuro-hanpen",
+      "sha256": "e993f06b0190f96a938f75a2682f89e03ef045f36e21f848f6210b7a1ad81f64"
+    },
+    {
+      "sakeId": "tamagawa-tokubetsu-junmai-v1",
+      "specialtyId": "kyoto-shibazuke",
+      "sha256": "de322993ab3941d303d7a74594b25d7a7e407e2be10687e533ea6e31695f1be3"
+    },
+    {
+      "sakeId": "hououbiden-tsurugi-hiire-v1",
+      "specialtyId": "tochigi-agemaki-yuba",
+      "sha256": "c82628ef9e3ddf8310a5c8b7d33aee13e7bb716cc428bd89ccf36f5225592eb6"
+    },
+    {
+      "sakeId": "shiramayumi-tokubetsu-junmai-hidahomare-standard",
+      "specialtyId": "gifu-akakabu",
+      "sha256": "fe7cec569f33a870b2e7ad7001afd3127a078b71cf80f2c18c9673ba2bd87844"
+    },
+    {
+      "sakeId": "daishinshu-tenouchi-namazume-v1",
+      "specialtyId": "nagano-nozawana",
+      "sha256": "8f66b4443f917b26035effa6d1ffd61cc664a8d5d3fb63d62481432d3a17e8e2"
+    },
+    {
+      "sakeId": "tenryo-tobikiri-tokubetsu-junmai",
+      "specialtyId": "gifu-akakabu",
+      "sha256": "fc4d02bb946d97fa54e684207643005b4a6d16c67d793a6f072ada1de98f25af"
+    },
+    {
+      "sakeId": "sasaichi-yata-junmai-daiginjo-v1",
+      "specialtyId": "yamanashi-awabi-nigai",
+      "sha256": "595ce05a91ee5a24133f3f93df23475887a71c3cb2a089c9becc34d91c5fd123"
+    },
+    {
+      "sakeId": "rokujuyoshu-junmai-ginjo-yamadanishiki-v1",
+      "specialtyId": "nagasaki-hatoshi",
+      "sha256": "2d0ca15a42ab0ab4c7cd4028678580b3388e7de57bb4f0c2685207f59b1f6bbf"
+    },
+    {
+      "sakeId": "hakutaka-kinmatsu-tokubetsu-junmai",
+      "specialtyId": "hyogo-ikanago-kugini",
+      "sha256": "4292f3beb35b6be6de949af4c0c8cb2c7f9035b027d191512c8a1c0cfbe10848"
+    },
+    {
+      "sakeId": "fukutsuru-junmai-ginjo-v1",
+      "specialtyId": "nagasaki-hatoshi",
+      "sha256": "25534a23f22102b9667b0908665e7ff81ca43c9124d46424328c04769801cbe3"
+    },
+    {
+      "sakeId": "rokujuyoshu-tividq-3",
+      "specialtyId": "nagasaki-hatoshi",
+      "sha256": "637db74a7bdef65540f23d0ff28969e4f46a632db17934272b4255e4ef41cf49"
+    },
+    {
+      "sakeId": "nishinoseki-junmai-ginjo-bigin-v1",
+      "specialtyId": "oita-ayu-uruka",
+      "sha256": "13bf4c865bc6e540956c1984c1498c4d9caf10bdace72ad17384e7af27a7a304"
+    },
+    {
+      "sakeId": "nishinoseki-junmai-ginjo-bigin-v1",
+      "specialtyId": "oita-ryukyu",
+      "sha256": "cd2c3a8fe5b29cb970b218be42e767972b5852499f3c86017c306d8477972538"
+    },
+    {
+      "sakeId": "kozaemon-bizen-omachi-hiire-v1",
+      "specialtyId": "gifu-akakabu",
+      "sha256": "bf25b3b760be9c8737c6bf59faaabdecd373d2b274319a9e9167ecb314d33300"
+    },
+    {
+      "sakeId": "mifuku-yamahai-junmai-ginjo-iginjunsei-standard",
+      "specialtyId": "shiga-koayu-sanshoni",
+      "sha256": "21aff7a24bb92eb95e8160eeca554a343453225945a370c20a5165adfc3773f0"
+    },
+    {
+      "sakeId": "choryo-yoshinosugi-tarusake-standard",
+      "specialtyId": "nara-narazuke",
+      "sha256": "fa085df9f3f697ff348c3fc2f7b84f8313fb7687829d21f19bc20f6e2c9f8e8e"
+    },
+    {
+      "sakeId": "mikadomatsu-shacho-no-sake-v1",
+      "specialtyId": "saitama-oname",
+      "sha256": "5ffb4469eb6cc2ab888cdd98fdc38055a311b8645508f02d3c94a8eeaa098b24"
+    },
+    {
+      "sakeId": "gozenshu-junmai-mimasaka-v1",
+      "specialtyId": "okayama-mamakari",
+      "sha256": "df6d16ff011200339a10f02bc8e3c57e07618711641d87ef5d22139b255834d8"
+    },
+    {
+      "sakeId": "shidaizumi-junmai-ginjo-yaizu-shumai-2026-v1",
+      "specialtyId": "shizuoka-kuro-hanpen",
+      "sha256": "de26a9d6c9c901816b5ff462acc4b3b4ae52a3389f565e3dfa73900f01ef3452"
+    },
+    {
+      "sakeId": "kawatsuru-junmai-ooseto-hiire-v1",
+      "specialtyId": "kagawa-honetsukidori",
+      "sha256": "5bb885149b3ed6c520d2a2e606192a5e1a5a2415eba9e48507cf89eec861059a"
+    },
+    {
+      "sakeId": "umenishiki-ginjo-tsuunosake-v1",
+      "specialtyId": "ehime-jakoten",
+      "sha256": "dd16626165d317a2128939278a7ad94587e177daaf11d68a440a1b740aeae203"
+    },
+    {
+      "sakeId": "umenishiki-ginjo-tsuunosake-v1",
+      "specialtyId": "ehime-tachiuo-maki",
+      "sha256": "30cbbc5e7721bb0f35760bbff635941fff80ce202c558fc5d13468c8a0169a6a"
+    },
+    {
+      "sakeId": "toyonoaki-junmai-ginjo-matsuezukushi-standard",
+      "specialtyId": "shimane-ago-noyaki",
+      "sha256": "9a107f8b992e118a31af32bf1b0a03e6035b0efada6430a9ea22568cb9cc72f1"
+    },
+    {
+      "sakeId": "kinpai-junmai-yokozuna-standard",
+      "specialtyId": "hyogo-ikanago-kugini",
+      "sha256": "159dc96ffbe17e424f229b6ad48cf1be988b976417c946b5d3e4915226a76371"
+    },
+    {
+      "sakeId": "iyo-kagiya-junmai-aka-label-v1",
+      "specialtyId": "ehime-jakoten",
+      "sha256": "c994d94080f7378550338454a494f24ae38a8f13a72a45520d06ec6ce927790a"
+    },
+    {
+      "sakeId": "iyo-kagiya-junmai-aka-label-v1",
+      "specialtyId": "ehime-tachiuo-maki",
+      "sha256": "026d3bfbce5e13c92aa9b335b8ef7b5e4640de1004f8bebbb0284ed6cc3e63ed"
+    },
+    {
+      "sakeId": "seiryozen-tokubetsu-junmai-the-plains-v1",
+      "specialtyId": "ehime-jakoten",
+      "sha256": "46a803d94b999a61370ef8a01d7f8ec86207b8adbb9e056656fed087b5f7bdd6"
+    },
+    {
+      "sakeId": "seiryozen-tokubetsu-junmai-the-plains-v1",
+      "specialtyId": "ehime-tachiuo-maki",
+      "sha256": "9685b731795f7b1ffaa1615c9c87a85d9bb75603e89bd3c034f76d4fb57c86ff"
+    },
+    {
+      "sakeId": "tenbu-junmai-ginjo-uzen-sakemirai-v1",
+      "specialtyId": "kagoshima-buta-miso",
+      "sha256": "ad85e8ed2c97559f67e22225a5387895269983fd1446406d3a846f118cfaae97"
+    },
+    {
+      "sakeId": "takakiya-karakuchi-tokubetsu-junmai-v1",
+      "specialtyId": "oita-ayu-uruka",
+      "sha256": "eb95dfcec950f4b166a27f2b65191157a9a56f7fe0815f8faf72b1d2a9798072"
+    },
+    {
+      "sakeId": "takakiya-karakuchi-tokubetsu-junmai-v1",
+      "specialtyId": "oita-ryukyu",
+      "sha256": "fa8d7699e197487b771f9330fe50bde92c76b371dac4851d41d6ac5c65ac37c5"
+    },
+    {
+      "sakeId": "kirei-karakuchi-junmai-hachiju-hiire-v1",
+      "specialtyId": "hiroshima-kaki-doteyaki",
+      "sha256": "c528e7c45aa23195574a903ed644ecf84058991fc47f2469b2450b9fd3c8c3ef"
+    },
+    {
+      "sakeId": "nanbubijin-junmai-daiginjo-sakemirai-standard-v1",
+      "specialtyId": "iwate-suki-kombu",
+      "sha256": "399efb53e88b4446e8b4a7250494f698d17c0169cfa8cc06ff6c1adbb3684431"
+    },
+    {
+      "sakeId": "houken-junmai-ginjo-hattannishiki-standard-v1",
+      "specialtyId": "hiroshima-kaki-doteyaki",
+      "sha256": "ce9340b3cd51c15ad1cf16781d01c1b6d17c2cf7f1020c1e6c6e7304ec175653"
+    },
+    {
+      "sakeId": "sawanoi-junmai-daikarakuchi-standard-v1",
+      "specialtyId": "tokyo-bettarazuke",
+      "sha256": "41975a237929baf7ba732f6561b0f79b090a4d705a869fe3943405805e9d00f1"
+    },
+    {
+      "sakeId": "tenmei-orange-funashibori-junmai-hiire-standard-v1",
+      "specialtyId": "fukushima-ika-ninjin",
+      "sha256": "7b8bfdc869f88601d2095e852610f522d0752e06b5ca48f7cd277977b22e9b1f"
+    },
+    {
+      "sakeId": "tenmei-orange-funashibori-junmai-hiire-standard-v1",
+      "specialtyId": "fukushima-nishin-sanshozuke",
+      "sha256": "a34440e6794f0ee86c0040a19413ef4d893d81fa5c7b82d8d35899d71db77054"
+    },
+    {
+      "sakeId": "hiran-nikomaru-hiire-standard-v1",
+      "specialtyId": "nagasaki-hatoshi",
+      "sha256": "208f56f89018bdc2d93811272826ce4f9fbfd82e0c79ecec924b9c205758ece3"
+    },
+    {
+      "sakeId": "ozeki-tokusen-tokubetsu-junmai-yamadanishiki-standard",
+      "specialtyId": "hyogo-ikanago-kugini",
+      "sha256": "ceb256d6d754bf759e8a64c2b65f3a70d7817be845dd4b59b6a196f516d199e0"
+    },
+    {
+      "sakeId": "housui-tokubetsu-junmai-standard-v1",
+      "specialtyId": "tokushima-fish-katsu",
+      "sha256": "1dff032f47173c9132651335188413f282f925334594e4d2cfd93da460df2771"
+    },
+    {
+      "sakeId": "sohomare-kimoto-tokubetsu-junmai",
+      "specialtyId": "tochigi-shimotsukare",
+      "sha256": "46369d0e06a564524f715d7a3689f6bc986c7094eb383ca149f481aebc1bb050"
+    },
+    {
+      "sakeId": "sohomare-kimoto-tokubetsu-junmai",
+      "specialtyId": "tochigi-agemaki-yuba",
+      "sha256": "21825dcfdd07253f270b2781841d8bff76326c35ed5f7603f1aae1827233ca79"
+    },
+    {
+      "sakeId": "kawanakajima-tokubetsu-junmai-standard-v1",
+      "specialtyId": "nagano-nozawana",
+      "sha256": "08f29adca70c7a3262a857b49f553019d4e74b6a6ef07e6feb1d22d00cc29d4f"
+    },
+    {
+      "sakeId": "shoutoku-karaku-tokubetsu-junmai-karakuchi-genshu-standard",
+      "specialtyId": "kyoto-shibazuke",
+      "sha256": "50090c9edc853de1fdd94e7059338a70cb9da6769cfd4fce41e5995183c9291c"
+    },
+    {
+      "sakeId": "kasen-maboroshi-no-sake-tokubetsu-honjozo-standard-v1",
+      "specialtyId": "tokyo-asari-tsukudani",
+      "sha256": "261c86a20ce1bde645a36f29519f2fed8698db91f44d6aa7582aece2ee9ab8a6"
+    },
+    {
+      "sakeId": "banshu-ikkon-junmai-chokarakuchi-hiire-v1",
+      "specialtyId": "hyogo-ikanago-kugini",
+      "sha256": "b08827f0ae35551b649e438a84406e6823b5db5f2569087d0518703f432a3b7a"
+    },
+    {
+      "sakeId": "akishika-junmai-inaho-yamadanishiki-75-v1",
+      "specialtyId": "osaka-doteyaki",
+      "sha256": "e3f67a4103545f2b890009465c4c547349a13c0cf733aa9edeb720d1a2438a8c"
+    },
+    {
+      "sakeId": "senkin-retro-ichishiki-hiire-v1",
+      "specialtyId": "tochigi-agemaki-yuba",
+      "sha256": "d03795b355bf2efef7467bfd8d907cbed3e18e033a95ecd69a090107aed6cfce"
+    },
+    {
+      "sakeId": "yorokobi-gaijin-tezukuri-junmai-hiire-standard-v1",
+      "specialtyId": "kagawa-honetsukidori",
+      "sha256": "a03d220e046614e6d01c9a68dbccd8d80d866ed5118c8b12049e63cc929ee910"
+    },
+    {
+      "sakeId": "yorokobi-gaijin-tezukuri-junmai-hiire-standard-v1",
+      "specialtyId": "kagawa-shoyu-mame",
+      "sha256": "037d70c48d259f0b5e2bfac380ca8cc37b14bea588a741d23487bdff470485f9"
+    },
+    {
+      "sakeId": "yui-omachi-junmai-ginjo-chokarakuchi-raifuku-v1",
+      "specialtyId": "ibaraki-soboro-natto",
+      "sha256": "9735cfb7f0a9d4368b6de374358d27ebce2078426afccf49e0d4e43b59b1f3be"
+    },
+    {
+      "sakeId": "okunokami-junmai-ginjo-muchosei-nama-v1",
+      "specialtyId": "tokyo-bettarazuke",
+      "sha256": "9ec82af0de55253e7d483a94a6c4941a82bd87aafe56d2732712cc1df112d5a4"
+    },
+    {
+      "sakeId": "kirei-banjisakazukinonaka-junmai-hiire-v1",
+      "specialtyId": "hiroshima-kaki-doteyaki",
+      "sha256": "b02f183520d7c4bf8a3a517c2d2066aee4373c8cb931d682c091d6f1fd4c3fe3"
+    },
+    {
+      "sakeId": "wakaze-the-classic-yamagata-v1",
+      "specialtyId": "yamagata-omizuke",
+      "sha256": "997e3ac5a64532c530e89951fdb8150ad377918992a6778234fd79ce9842de3f"
+    },
+    {
+      "sakeId": "sakuta-tokubetsu-junmai-keiyaku-v1",
+      "specialtyId": "aomori-ichigoni",
+      "sha256": "e096af071ce46b978a89992696f12c6c312d973dbd9022013253b789eab71eae"
+    },
+    {
+      "sakeId": "zuiyo-honjozo-chokarakuchi-v1",
+      "specialtyId": "kumamoto-karashi-renkon",
+      "sha256": "342cb317f748ee2a547be5536ddb49850ca24732294259ab4fe12789b8b5fa26"
+    },
+    {
+      "sakeId": "narutotai-junmai-tomoe-v1",
+      "specialtyId": "tokushima-fish-katsu",
+      "sha256": "80306c62661b4cc184a266f5269e28e630a4f4d6d745cdccfa5fe44932044c4b"
+    },
+    {
+      "sakeId": "azumanofumoto-junmai-ginjo-yamagata-selection-v1",
+      "specialtyId": "yamagata-omizuke",
+      "sha256": "bddeaf382b08e310d82e2070537bc3739a93f29ed734e764ae0a7f35feea93cc"
+    },
+    {
+      "sakeId": "chokyu-tokusen-honjozo-catalog-v1",
+      "specialtyId": "wakayama-kinzanji-miso",
+      "sha256": "4444e6aa298dffb474e60ea9de4c250448b4a3cbd657c943e30b0c59e45b7aa7"
+    },
+    {
+      "sakeId": "chokyu-tokusen-honjozo-catalog-v1",
+      "specialtyId": "wakayama-goma-dofu",
+      "sha256": "5504b90d9bceb9080da258fbd7df26d02482196ba016e0dd7b9a6c929fcdd0ad"
+    },
+    {
+      "sakeId": "hitorimusume-sayaka-tokubetsu-honjozo-catalog-v1",
+      "specialtyId": "ibaraki-soboro-natto",
+      "sha256": "785a6f548caac27fe6ee7b51b4d2897f0835861eb590a75deee54613df3a820e"
+    },
+    {
+      "sakeId": "wakitaya-tokubetsu-honjozo-catalog-v1",
+      "specialtyId": "shizuoka-kuro-hanpen",
+      "sha256": "3d252248bc9b45f5f412c2aefbb9aa5b6b34155f17a94483e0e6655af120acd7"
+    },
+    {
+      "sakeId": "suehiro-yamahai-junmai-ginjo-catalog-v1",
+      "specialtyId": "fukushima-ika-ninjin",
+      "sha256": "5c5b244dbc39bd21147ff23bbca5f2bc56647c81e6500c74d78ca3b7b4710715"
+    },
+    {
+      "sakeId": "suehiro-yamahai-junmai-ginjo-catalog-v1",
+      "specialtyId": "fukushima-nishin-sanshozuke",
+      "sha256": "b36b86e5d86b781eeb6130003e638fe6fde4b57dd6ad692be8f8f8e84f5fd888"
+    },
+    {
+      "sakeId": "hachitsuru-junmai-ginjo-catalog-v1",
+      "specialtyId": "aomori-ichigoni",
+      "sha256": "3962885f70c529078f709ee674da706c9495aaa296662404c32d82524a4bf306"
+    },
+    {
+      "sakeId": "gonin-musume-junmai-catalog-v1",
+      "specialtyId": "chiba-peanut-miso",
+      "sha256": "33f86ca53c98566742be5454e00c817db65c0c656067fd16194c5295f570dd35"
+    },
+    {
+      "sakeId": "obasute-masamune-junmai-karakuchi-catalog-v1",
+      "specialtyId": "nagano-nozawana",
+      "sha256": "75daccb256d3417ba9d1bf770dbdedf87a6a4676083cca5e243beca4b6e0c1db"
+    },
+    {
+      "sakeId": "masumi-kuro-lineup-v1",
+      "specialtyId": "nagano-nozawana",
+      "sha256": "d2859a774d36c4bd45516e5775f2926712c22a0e727722782cf58bc60ddca50e"
+    },
+    {
+      "sakeId": "masumi-shiro-lineup-v1",
+      "specialtyId": "nagano-nozawana",
+      "sha256": "bbf50278d5bc52494fcb2f878eb38eeecdca6f6503b6c00236293108f9a842d5"
+    },
+    {
+      "sakeId": "masumi-kaya-lineup-v1",
+      "specialtyId": "nagano-nozawana",
+      "sha256": "966aa4ec44c0a13a48a1887ab215a715a024b7766a8c0394d54098baaa867914"
+    },
+    {
+      "sakeId": "daishichi-kaiden-lineup-v1",
+      "specialtyId": "fukushima-ika-ninjin",
+      "sha256": "13ca9b04f36480e5ac5915a04112b59bb55a08eb0fd3b2cb7c69136437c2ff2b"
+    },
+    {
+      "sakeId": "daishichi-kaiden-lineup-v1",
+      "specialtyId": "fukushima-nishin-sanshozuke",
+      "sha256": "61eed80be1c81d9cd6143a83c893868f49d1d7554b6280870c71f78bef31f7b6"
+    },
+    {
+      "sakeId": "dewazakura-ichiko-lineup-v1",
+      "specialtyId": "yamagata-omizuke",
+      "sha256": "d0732095fd0331386728cf11ce61c4b49e0a9830ad69db1a361bab383218ce06"
+    },
+    {
+      "sakeId": "nanbubijin-jg-lineup-v1",
+      "specialtyId": "iwate-suki-kombu",
+      "sha256": "e18ed35c4c615b74e78ad29e3ba60e715364d51dfeb6ecb54f9f0a0f79f880a1"
+    },
+    {
+      "sakeId": "kikumasamune-kaho-lineup-v1",
+      "specialtyId": "hyogo-ikanago-kugini",
+      "sha256": "ebd0fa5cdb8769de49c33f2d2fc419dccd5aa7398498492041e1c82386714d5b"
+    },
+    {
+      "sakeId": "okunomatsu-adatara-lineup-v1",
+      "specialtyId": "fukushima-ika-ninjin",
+      "sha256": "4f65056a37c63fb105fa7a982a405462e17810d9ba327725f4e010b27b711767"
+    },
+    {
+      "sakeId": "okunomatsu-jg-lineup-v1",
+      "specialtyId": "fukushima-ika-ninjin",
+      "sha256": "ee1512368bb26f357a487855c31862961bc33b0ba5f6ff35df5756ae19314787"
+    },
+    {
+      "sakeId": "okunomatsu-jg-lineup-v1",
+      "specialtyId": "fukushima-nishin-sanshozuke",
+      "sha256": "5dfd889a8c0bf7f1cf8fbfad09f8c61ff24104a4ec0fce117137f2d93f90ff5c"
+    },
+    {
+      "sakeId": "ozeki-gokuama-lineup-v1",
+      "specialtyId": "hyogo-ikanago-kugini",
+      "sha256": "233494487f97b3e542c930d6a886c9d08dd5ddbed8faa3cfed7d3a7ea58dedd0"
+    },
+    {
+      "sakeId": "ozeki-karatanba-lineup-v1",
+      "specialtyId": "hyogo-ikanago-kugini",
+      "sha256": "7e9990f6a380344829ddf706c9030b12e46e49d0cee1566255bc1518c89df0c6"
+    },
+    {
+      "sakeId": "gekkeikan-nigori-lineup-v1",
+      "specialtyId": "kyoto-shibazuke",
+      "sha256": "14989551462537ff203bb1e108aa7cc2c111c649eb6c7a9ad59cf0b294185dc3"
+    },
+    {
+      "sakeId": "kamotsuru-jg-lineup-v1",
+      "specialtyId": "hiroshima-kaki-doteyaki",
+      "sha256": "11a2df0acf8c9c249fc1346fe67b3c7b550eea200905e329bda4fdcaa00608a4"
+    },
+    {
+      "sakeId": "matsunokotobuki-omachi-hiire-current-v1",
+      "specialtyId": "tochigi-agemaki-yuba",
+      "sha256": "512701effa13e2372002b1703353706ccaf103942c8afdc7bb2960f9867197c1"
+    },
+    {
+      "sakeId": "matsunokotobuki-omachi-hiire-current-v1",
+      "specialtyId": "tochigi-shimotsukare",
+      "sha256": "1083e8db85e95a03e25f4c5d80cea31b54da76dc1d479c5fed64e6a0acf77bd5"
+    },
+    {
+      "sakeId": "fukuiwai-yamada50-junmai-ginjo-current-v1",
+      "specialtyId": "chiba-peanut-miso",
+      "sha256": "2c9f49cefd104f26f554889e2c7417b994c0d958bfa8b1f179f18da5522e1c6d"
+    },
+    {
+      "sakeId": "ryusei-muku-omachi-kimoto-current-v1",
+      "specialtyId": "hiroshima-kaki-doteyaki",
+      "sha256": "92a9f7f6baa0674f69d0f3705243a68741d5875c2914e9aa505ddb1e0b118e3e"
+    },
+    {
+      "sakeId": "kameman-nigori-genshu-current-v1",
+      "specialtyId": "kumamoto-tofu-misozuke",
+      "sha256": "756d56991d5d7cb626ccf76643bb6860c66bf51a7d3d9962ceb877eb987f3902"
+    },
+    {
+      "sakeId": "kameman-nigori-genshu-current-v1",
+      "specialtyId": "kumamoto-karashi-renkon",
+      "sha256": "718ed87cdfc073593a9ee583098a0d9c1a736a85b75b47a26979a7b507a28a9b"
+    },
+    {
+      "sakeId": "hiokizakura-tokujo-junmai-omachi-current-v1",
+      "specialtyId": "tottori-tofu-chikuwa",
+      "sha256": "e4a5b3b0acc39136a25af33379468fefe0aff40b519d2dfdddae045dac63b06f"
+    },
+    {
+      "sakeId": "shinshu-kirei-inakura-hitogokochi-junmai-ginjo-current-v1",
+      "specialtyId": "nagano-nozawana",
+      "sha256": "fdf542fb91c6ed4b08c1ee91fb885cdf2814e3f9ff52f81ea941a24578f72ff9"
+    },
+    {
+      "sakeId": "mimurosugi-kioke-bodaimoto-jishaden-current-v1",
+      "specialtyId": "nara-narazuke",
+      "sha256": "fd7dce06a808de3532f59bc885bcfbd5d2862b2dc9f7019c2c40c8851332823d"
+    },
+    {
+      "sakeId": "shirakiku-ginshari-tokubetsu-junmai-current-v1",
+      "specialtyId": "kyoto-shibazuke",
+      "sha256": "73ca0547e625660721377e760511dff0b43b6d68826d1daf8b2e49ef826fda9e"
+    },
+    {
+      "sakeId": "kagura-nojoho-junmai-ginjo-nama-current-v1",
+      "specialtyId": "kyoto-suguki",
+      "sha256": "6c6bb68a991b99b0c6f58cab4362d69b8297e184eb21f5bad650931cd9b22f64"
+    },
+    {
+      "sakeId": "kurumazaka-yamahai-akiagari-2019by-current-v1",
+      "specialtyId": "wakayama-goma-dofu",
+      "sha256": "33b75f17c4b7484456546435e89eeae83be44f7fc3520709152af1396691971b"
+    },
+    {
+      "sakeId": "kurumazaka-yamahai-akiagari-2019by-current-v1",
+      "specialtyId": "wakayama-kinzanji-miso",
+      "sha256": "ab2644f338e1a910957d34f1ed0fd9155cf2b09f76c78bf6b09c26b29c1214ff"
+    }
+  ]
+}

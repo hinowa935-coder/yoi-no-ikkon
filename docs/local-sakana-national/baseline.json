@@ -1,0 +1,6752 @@
+{
+  "checkedAt": "2026-10-23T07:44:58.034Z",
+  "commit": "0125ff6709b041db9dcb95bed00dcfa8be41b516",
+  "files": [
+    {
+      "path": "package-lock.json",
+      "sha256": "129139dae5fa70b438cd179d5a084957060e2d7c2fb3854abc7fccfa2e60be79"
+    },
+    {
+      "path": "package.json",
+      "sha256": "74732a53924318c56b9a4b0a97e2cf5eec4558fff163939270a9c1368f87ea3e"
+    },
+    {
+      "path": "public/favicon-v24.svg",
+      "sha256": "4bb2e4b8ab6fb213c73a408334bd0327f565193e2296befee92d95b99eca446a"
+    },
+    {
+      "path": "public/favicon.svg",
+      "sha256": "4bb2e4b8ab6fb213c73a408334bd0327f565193e2296befee92d95b99eca446a"
+    },
+    {
+      "path": "public/icons/apple-touch-icon-v24.png",
+      "sha256": "08be9f50ab012e5bd9c975f949b20e99da5fe6e832e6a4f3e77658259b016f4a"
+    },
+    {
+      "path": "public/icons/apple-touch-icon.png",
+      "sha256": "08be9f50ab012e5bd9c975f949b20e99da5fe6e832e6a4f3e77658259b016f4a"
+    },
+    {
+      "path": "public/icons/favicon-32-v24.png",
+      "sha256": "458e6056cb30ca9cad4652bb69278f8fb1c86acf873c8682ac2aeee210de38ee"
+    },
+    {
+      "path": "public/icons/favicon-32.png",
+      "sha256": "458e6056cb30ca9cad4652bb69278f8fb1c86acf873c8682ac2aeee210de38ee"
+    },
+    {
+      "path": "public/icons/icon-192-v24.png",
+      "sha256": "718d2e57cc05c24839c2fce56ee781e62b3f11be12fb59070570aa3f2b6ded73"
+    },
+    {
+      "path": "public/icons/icon-192.png",
+      "sha256": "718d2e57cc05c24839c2fce56ee781e62b3f11be12fb59070570aa3f2b6ded73"
+    },
+    {
+      "path": "public/icons/icon-512-v24.png",
+      "sha256": "e4880f126c689e80f4d9df66f0340a0c931feece580044ec2b0b3372566cd295"
+    },
+    {
+      "path": "public/icons/icon-512.png",
+      "sha256": "e4880f126c689e80f4d9df66f0340a0c931feece580044ec2b0b3372566cd295"
+    },
+    {
+      "path": "public/icons/icon-source.svg",
+      "sha256": "4bb2e4b8ab6fb213c73a408334bd0327f565193e2296befee92d95b99eca446a"
+    },
+    {
+      "path": "public/icons/maskable-192-v24.png",
+      "sha256": "718d2e57cc05c24839c2fce56ee781e62b3f11be12fb59070570aa3f2b6ded73"
+    },
+    {
+      "path": "public/icons/maskable-192.png",
+      "sha256": "718d2e57cc05c24839c2fce56ee781e62b3f11be12fb59070570aa3f2b6ded73"
+    },
+    {
+      "path": "public/icons/maskable-512-v24.png",
+      "sha256": "e4880f126c689e80f4d9df66f0340a0c931feece580044ec2b0b3372566cd295"
+    },
+    {
+      "path": "public/icons/maskable-512.png",
+      "sha256": "e4880f126c689e80f4d9df66f0340a0c931feece580044ec2b0b3372566cd295"
+    },
+    {
+      "path": "public/images/ochoko-moon-crescent.png",
+      "sha256": "881c942f902dc6607eb7eecaa1375d51f80c5ca34b268fb273d6f01a9551d2fe"
+    },
+    {
+      "path": "public/images/ochoko-moon-reflection-only.png",
+      "sha256": "b52bbd50926e393af763ac73c993fa4c1464a0330e131d69986b62e74403e2cb"
+    },
+    {
+      "path": "public/images/ochoko-moon.png",
+      "sha256": "cfd4f707cbc962d1a213cf74e8d9404ab47fa33ea0976c001ae64a01e4900a87"
+    },
+    {
+      "path": "public/manifest.webmanifest",
+      "sha256": "ef440a721c7c8334b7a739201a4f275acd7526877d346d69fb156b83c52e2714"
+    },
+    {
+      "path": "public/og-default.svg",
+      "sha256": "2ab5209eb1e46f61d5aa55b4875aa23e607f391ae1a48b3f6fe003d5fbd7f24c"
+    },
+    {
+      "path": "public/sw.js",
+      "sha256": "ea92196b5dea8a270a431239f479fe4d3e01c014bd48eb1558faac1bc2ccbf9e"
+    },
+    {
+      "path": "src/app/about/advertising/page.jsx",
+      "sha256": "b0f2be9c08be2f7c26b070d485aa6d91637695bb564da9f573f4fb6a54600df2"
+    },
+    {
+      "path": "src/app/about/content.js",
+      "sha256": "c2795ec654b6b7aaf7bcb388a92ca731918d9adf9951241b9414818494a04b64"
+    },
+    {
+      "path": "src/app/about/page.jsx",
+      "sha256": "c4365c6368e95eeb2508a3c86a499dba5d87a3cde9f1ff525fb80218309e3347"
+    },
+    {
+      "path": "src/app/components/AffiliateCommerce.jsx",
+      "sha256": "c7c9a1003a44089976fefd246ad79280d5bf9e0a6990580f04d1616e6440d3ed"
+    },
+    {
+      "path": "src/app/components/AffiliateTracker.jsx",
+      "sha256": "23f5be31fa55340e0fc0b46f3df4ab5f66145ce0c3b90324da0674d8e081ce46"
+    },
+    {
+      "path": "src/app/components/ChoiceIcon.jsx",
+      "sha256": "f09c7bb6467ed629bd13d31df80626feac38caf27d9878c9290ff866e2003130"
+    },
+    {
+      "path": "src/app/components/CommerceMediaProvider.jsx",
+      "sha256": "e034951d2ec3c00b5700ec07b9ee9388b0c64b27325d70f4380d540e4665e0a1"
+    },
+    {
+      "path": "src/app/components/DailyPick.jsx",
+      "sha256": "4622ea6bd444f95be8e240f633d44875790ffd55abbb0e23cc6d74b603e1b739"
+    },
+    {
+      "path": "src/app/components/DetailAccordion.jsx",
+      "sha256": "aee68ca36037893fe821d3dc6023c56d7798bce4f25600231c93c031e0950929"
+    },
+    {
+      "path": "src/app/components/DiscoveryFlow.jsx",
+      "sha256": "4b22b3ce1c85116288e41197ae9e6259a53027354094512ef7edd8c23d648473"
+    },
+    {
+      "path": "src/app/components/DiscoveryQueryFlow.jsx",
+      "sha256": "da72c49cadb879853c126565d1562fa8726e3aecd7f410e3ecd3aff2dfd727c2"
+    },
+    {
+      "path": "src/app/components/DiscoverySakeCard.jsx",
+      "sha256": "61665049e42ce851832df330f941f85fbdda7175139d8d3c7ef013aa81f0f813"
+    },
+    {
+      "path": "src/app/components/DiscoveryShell.jsx",
+      "sha256": "5940c6afabdc2c18a6b2ae7e6ff96c23f27fb8928a25f15a5297e0d83d8a6949"
+    },
+    {
+      "path": "src/app/components/FoodBrowser.jsx",
+      "sha256": "e1d7e479f3ae07c3a8554536f5fe126a2134f9549135839e666db61bb37a926e"
+    },
+    {
+      "path": "src/app/components/FoodExternalLink.jsx",
+      "sha256": "c8fb6fc7dc49d2606a24f536794108fa5d93245d522e2c0b891fded3b7d1506c"
+    },
+    {
+      "path": "src/app/components/HomeNightChoices.jsx",
+      "sha256": "3ae9bf382213f1cd651e2bde3ad555d11d4ee8cc194cf0ae36443c33d7767380"
+    },
+    {
+      "path": "src/app/components/HomeScreenGuide.jsx",
+      "sha256": "7d3924156d16b8eb73adf8111b04214cf5c73b22b62c00ad2df5273cf1a7055d"
+    },
+    {
+      "path": "src/app/components/InterfaceIcons.jsx",
+      "sha256": "8394e0e8ae645dad44d954d9ef4d5cdb3150c2b551ae15e47912525f522042ba"
+    },
+    {
+      "path": "src/app/components/LegacySearchRedirect.jsx",
+      "sha256": "808cfca9e7c453f5a25c4683281fc57ad070ac8aaeb839d0bc7fcefa916530b4"
+    },
+    {
+      "path": "src/app/components/LocalSakana.jsx",
+      "sha256": "63a0e341786fae66fe4314a94594fa1138e81a9759f72acf210a6257cc9c2f61"
+    },
+    {
+      "path": "src/app/components/Ochoko.jsx",
+      "sha256": "830a32c986edefa04219ab635b6358790467a167a36b42ac6515364cfcd45529"
+    },
+    {
+      "path": "src/app/components/OchokoList.jsx",
+      "sha256": "39680d0a43a5a2c6cb093261d2f9b362e139c89abcce546c98cf9b25370dde2a"
+    },
+    {
+      "path": "src/app/components/PairingPending.jsx",
+      "sha256": "0b0f19c9a14f5c1ad3f641dadd7e83fdeef35afc1d7aa79f0496632f9ff1e4ed"
+    },
+    {
+      "path": "src/app/components/PrimaryNavigation.jsx",
+      "sha256": "101d7723b481e09122dbf6f109eb5387201606d3cfa041251f2904f4622ef5bc"
+    },
+    {
+      "path": "src/app/components/ProductWindow.jsx",
+      "sha256": "c858b8a4ef07551f965f8b5e76865e49ac4c224557f477d2437fedf03065dbb3"
+    },
+    {
+      "path": "src/app/components/PwaRegister.jsx",
+      "sha256": "b0f52d2ae4825e11aff87a4566fda484152a40753bc1dd750bc36b51051835a6"
+    },
+    {
+      "path": "src/app/components/RakutenCredit.jsx",
+      "sha256": "21896da0adf23d6411bcb12fcbfc179d0be5eb73216382e0ad1915021529ace0"
+    },
+    {
+      "path": "src/app/components/RecipeLinks.jsx",
+      "sha256": "25dadf30590a6696933c0e74954f669de36584b18d570043417d956f75050fd7"
+    },
+    {
+      "path": "src/app/components/RecommendShare.jsx",
+      "sha256": "1fb059a0d2185c185515914e8f63e6ba09dec5e0792d1d66139829542654fc4c"
+    },
+    {
+      "path": "src/app/components/SakeCardPreview.jsx",
+      "sha256": "a2aa461e672653de26100074cfff07bb04ca77f736f2b2dad1b67b71b4d0d321"
+    },
+    {
+      "path": "src/app/components/SakeDiscoveryContext.jsx",
+      "sha256": "7c5b7e35dec3c17e1c5100df1e3cda3b7f40e73dcea9d047113a1e0bd571045a"
+    },
+    {
+      "path": "src/app/components/SakeSearch.jsx",
+      "sha256": "39a606f3b5fb6064b67b214952c4d941bb0d2d6fc22847b9d45946229831ffd2"
+    },
+    {
+      "path": "src/app/components/SeasonalNightLinks.jsx",
+      "sha256": "e9b1fbfcbd10f2520caa3455aabe44504e8140517ca39abcb7b6419d347aee5f"
+    },
+    {
+      "path": "src/app/components/ServingGuide.jsx",
+      "sha256": "4b1751da69f1145a54d924ae6c730111baeeeb1e4552f51a7b903952e1a932e8"
+    },
+    {
+      "path": "src/app/components/ShareButton.jsx",
+      "sha256": "bde9b279919349d477dbbd9d28edecd24b22ab0487c789c57cf8dd82fcd9476c"
+    },
+    {
+      "path": "src/app/components/SiteFooter.jsx",
+      "sha256": "e4cf0de7a74d8143609660d270aff1bd9558c28069c1c8b6e9195087a626051a"
+    },
+    {
+      "path": "src/app/components/SpecialtyLinks.jsx",
+      "sha256": "38b13d36c960cd77e77ca955c1c67855ec3ac160308bfdb45a27ef0c226229cc"
+    },
+    {
+      "path": "src/app/components/TrackedExternalLink.jsx",
+      "sha256": "e861ac1d3ac9e847208df2673f287c0891d84b4c65e362e1c96cb7e4d221c64e"
+    },
+    {
+      "path": "src/app/components/TrackedLink.jsx",
+      "sha256": "bacdbf3593e4a050a63b04ac912a48ee817f2e574db599f5527569d541c7338f"
+    },
+    {
+      "path": "src/app/components/discoveryLocation.js",
+      "sha256": "0926ffa505d23af3a7058bfc83b611fc431bc31763d5fddb0a2d21f028d68fbb"
+    },
+    {
+      "path": "src/app/components/foodLocation.js",
+      "sha256": "daba821b46e96695a23ce6a6948bd1a1deb71f782742e0ee87ba1a86dffd5553"
+    },
+    {
+      "path": "src/app/components/navigationModel.js",
+      "sha256": "f15e365e0e557a1977c05466711de7d085ed59ae5c6481a5da9848bdb53c6d42"
+    },
+    {
+      "path": "src/app/components/searchLocation.js",
+      "sha256": "00899a36581b95dfaa0e7ebd4d770884125ad671d0ea6082056bb0997400abe4"
+    },
+    {
+      "path": "src/app/components/useCurrentTokyoDay.js",
+      "sha256": "f7e57c4eb5ccc65a5079e2e9b4f4f1bdd8806d79417653e4808015ed8ce2ddc4"
+    },
+    {
+      "path": "src/app/discover/page.jsx",
+      "sha256": "ab5f95c205e891dae0542e0c6b90621c80befb2ee9c36ec8054afe13f26c4b5b"
+    },
+    {
+      "path": "src/app/food/[slug]/page.jsx",
+      "sha256": "f053febac11181dce4fcf983eb2be49a769568871f8e8ef3871bb7bb16499878"
+    },
+    {
+      "path": "src/app/food/page.jsx",
+      "sha256": "cb0556628e69a7da4e438dc920aee9fadcc936e9cafc0dcbfa7a053317f79582"
+    },
+    {
+      "path": "src/app/globals.css",
+      "sha256": "746fd6641eb264e2a0912bf84835d24718a0b0a4ed96404f2de8664d90f22037"
+    },
+    {
+      "path": "src/app/layout.jsx",
+      "sha256": "78a84d42ed3b002647e9cdc2e50d8399a08c5906bc82462f46e346f9ad6f648d"
+    },
+    {
+      "path": "src/app/night/[slug]/page.jsx",
+      "sha256": "d818fa6ff72999c20f20af50fb7687b367b1c4dc531130b13e8855c2bf6bfe2a"
+    },
+    {
+      "path": "src/app/nights/[slug]/page.jsx",
+      "sha256": "d467a681afed6d72886b6bd871bf4989ea89449d44681885f85771a671e75c9b"
+    },
+    {
+      "path": "src/app/not-found.jsx",
+      "sha256": "5eb1eaae7bbaa73e96a4383ab5e9803a8acd3ec5477f0acfe2f057a757e6d0e9"
+    },
+    {
+      "path": "src/app/ochoko/page.jsx",
+      "sha256": "eddc8aba2045418d998b0af338626dc68c343d44a775c1148dd5d2f4f0242ac4"
+    },
+    {
+      "path": "src/app/page.jsx",
+      "sha256": "3025d34f66789c82d0e467b4bf15c5cebfe704679898f32ea5399d012d8600ac"
+    },
+    {
+      "path": "src/app/robots.js",
+      "sha256": "571449d7c98877b4a3287f7236ff7a9f2743a91a5ca59594c13ae0a3a1e4785a"
+    },
+    {
+      "path": "src/app/sake/[slug]/page.jsx",
+      "sha256": "0ba76001f14e0954fd0d75ffdee0f908b82e59e44117335024ddce82a43d2979"
+    },
+    {
+      "path": "src/app/search/page.jsx",
+      "sha256": "98e2a5b9e5eab74e25bbc2e4e5295cc5177ab67c66f52cba9dacec767891f7d5"
+    },
+    {
+      "path": "src/app/sitemap.js",
+      "sha256": "073f8e09803d1c76434d4c4f073551957fe625e07918eec340ec586e7a9ae75c"
+    },
+    {
+      "path": "src/catalog/operations.js",
+      "sha256": "e447a91659745cbcf560ec0e5f5cd3a2ee8ca118027aafff5862f7165baf4fdb"
+    },
+    {
+      "path": "src/catalog/seasonality.js",
+      "sha256": "5c4550c6664e5038c5093b202f91408dacd76fac54ce454367f260ce454d68fd"
+    },
+    {
+      "path": "src/catalog/shelfPolicy.json",
+      "sha256": "5b247fd0235bea6f06134e796a6cfcf92edd4cfea80b983acf0f2f2425c52255"
+    },
+    {
+      "path": "src/catalog/shelfUpdates.js",
+      "sha256": "4f1b0760ec968c2a0c31967283e681347ccb223dd9906141357283c67dac345a"
+    },
+    {
+      "path": "src/commerce/availability.js",
+      "sha256": "e61413b767af0940855aed3e74bbf86c8349e9ff77cadb33078e086d12de954c"
+    },
+    {
+      "path": "src/commerce/discovery.js",
+      "sha256": "248f962ea8fa1ead8710795feb8351543889e4f1986e7ee7efd56495a8b5b918"
+    },
+    {
+      "path": "src/commerce/entryTracking.js",
+      "sha256": "a96a556a936c913a6fe2bd1c3b9fe4f986ad9ba1c39b0fa6ec64c3eff3f26b33"
+    },
+    {
+      "path": "src/commerce/finalCommerce.js",
+      "sha256": "089dcdd5829b81fbe0959a3899c3fc86b576cfe13b64c76f14302098004d6720"
+    },
+    {
+      "path": "src/commerce/foodSpecialties.json",
+      "sha256": "d26b4d859a14c32d25e6d9378754046c2a50b6e71979f1a92071387ca8a76bec"
+    },
+    {
+      "path": "src/commerce/foodSpecialtyModel.js",
+      "sha256": "f617e30d6dbf4bd5921a22791742b70c70b3c117144c7277af763642ee921220"
+    },
+    {
+      "path": "src/commerce/generated/availability-holds.json",
+      "sha256": "1ab5f0acd3f1d87a68559aa52b923fa4e405f2d71863d51fdd401434b5c5f3ac"
+    },
+    {
+      "path": "src/commerce/generated/commerce-final-approvals.json",
+      "sha256": "14ffaadb55327d8b984a43107418b19f1cfd9a6957721d655e54cbc696cc071e"
+    },
+    {
+      "path": "src/commerce/generated/discovery-links.json",
+      "sha256": "533a1698fa6e6736a0c62267eebdb754b7e055f2705aafe70ed51e9011e6a27c"
+    },
+    {
+      "path": "src/commerce/generated/merchant-links.json",
+      "sha256": "73bc598206a9840b469c860fecbe72d48093e330b9f7c5eeba86d36aa62d29ca"
+    },
+    {
+      "path": "src/commerce/generated/product-media.json",
+      "sha256": "d326ebbff567c545437b96d21b39d462fdf125efa70f1d57cfd139f6523888cd"
+    },
+    {
+      "path": "src/commerce/generated/purchase-matches.json",
+      "sha256": "e874535bfe9cb4cf0568ef0a6f67b0a3be0992c9fa39d63ac1a2830ba745453a"
+    },
+    {
+      "path": "src/commerce/generated/replacement-ids.json",
+      "sha256": "02ea8067bc5aaf95d2386be86807a0d1518f39bec428e8379bb050abee0bcd2a"
+    },
+    {
+      "path": "src/commerce/localCommercial.js",
+      "sha256": "cd14baada5c8deccb3d083bf0e83e7da06df02c7c89c3e7ec1c4bdde1421cd11"
+    },
+    {
+      "path": "src/commerce/localPilot.js",
+      "sha256": "68f9427b6d3531d056a3d6b5b6827fe07e3fa0d1c22a565def269dca5fe4d96d"
+    },
+    {
+      "path": "src/commerce/localSakana.json",
+      "sha256": "eeda44014f3448c3cf721e48cd12527b44e4470d0b49480b0dd125f8c74d8559"
+    },
+    {
+      "path": "src/commerce/offerModel.js",
+      "sha256": "1554e43e59c78757087b1c9a83a5bc2f7e6c248327999342b4f392b95a6e1577"
+    },
+    {
+      "path": "src/commerce/productMedia.js",
+      "sha256": "672ec5f01563720f7c901cfdd8c0ba1a208137b76caa326ff5449cdb63a3fe6b"
+    },
+    {
+      "path": "src/commerce/providers.js",
+      "sha256": "e3fe8c56ca2b79514b0336a4310dac6f86129f2207b1201e7b47c4aaea4b67ef"
+    },
+    {
+      "path": "src/commerce/purchaseNotice.js",
+      "sha256": "a4d5623c0d95b8e15624243ec3f46bc11b7eb3684ac53502424e3fcbe39afc6e"
+    },
+    {
+      "path": "src/commerce/purchasePresentation.js",
+      "sha256": "0f9105901443fbe9f68a292cfe0811f122bb208b5784605ebfd464e7aba4aa34"
+    },
+    {
+      "path": "src/commerce/purchaseRouting.js",
+      "sha256": "9aa7391fce107dec0fe89ffe7952d7c40177e96e74af15e38395637c4e1a23b9"
+    },
+    {
+      "path": "src/commerce/rakuten-staged-links.json",
+      "sha256": "c5de132a858335b3205a468d3b73b2e4b6d24e9c91ff1a38260458673744267b"
+    },
+    {
+      "path": "src/commerce/rakutenActivation.js",
+      "sha256": "eb33f94c1bd597ea69dc4f50706a5235ca0f425e3c211689902e4588d2e49cae"
+    },
+    {
+      "path": "src/commerce/rakutenLifecycle.js",
+      "sha256": "804c6809f48bad47ef5c6b6a0ca490764f3712bf9b9646cb2deb4763dbfe13d4"
+    },
+    {
+      "path": "src/commerce/registry.json",
+      "sha256": "c9bc9a3a38afff0b6d55b348d8fd436838307deb0b49782846d5df96938a82b2"
+    },
+    {
+      "path": "src/commerce/release-approvals.json",
+      "sha256": "eee3c02620a9f8e5627bd47da32693bc1912a76d859d0d84494f2654f28f2c56"
+    },
+    {
+      "path": "src/commerce/searchOffers.js",
+      "sha256": "760c15a5fad68e63ee4c4e95c44141b0ca6b1f9bbda640c5624038b033f5bdf1"
+    },
+    {
+      "path": "src/commerce/server.js",
+      "sha256": "28dca1a2c2cf1f122b070e530225c054cd45f1ba6721494eeaaf173d3f6272a9"
+    },
+    {
+      "path": "src/commerce/skuPolicy.js",
+      "sha256": "1222f68a85af84ec1858f8993b750f8e028ddfb56f0610f76646939526d9a0cc"
+    },
+    {
+      "path": "src/commerce/tracking.js",
+      "sha256": "2615058044f1d415978989af182c2608aade7af1da7a67073b757252cd96ea3d"
+    },
+    {
+      "path": "src/commerce/validation.js",
+      "sha256": "82c0f89914991abf179d0adebac982255e9d8711786b6cffddab81bd381002f3"
+    },
+    {
+      "path": "src/data/cardPresentation.js",
+      "sha256": "0217ab51ae9c9a8bd5087e5e4c39104a78836d13d0ca2dd918a8df35213fc582"
+    },
+    {
+      "path": "src/data/catalogAdditions.json",
+      "sha256": "7f0814daf0d25ce7fa613e83a2d7ba08ab4bbd0ceb24a4f735809a6edd4e566a"
+    },
+    {
+      "path": "src/data/catalogLifecycle.json",
+      "sha256": "6ba032b4bea5efa6de19d5dc17f5c6596c148b2c422f421e4915817eb16c8141"
+    },
+    {
+      "path": "src/data/detailDisclosure.js",
+      "sha256": "d2d320c9afe3549ccf7df3b34d1cf058b2c6706e7a9809969b567367e4dc8a71"
+    },
+    {
+      "path": "src/data/detailPresentation.js",
+      "sha256": "30fbd31e71f92a90087b5a7afdac8516dca5ccdf8da48bda41d5edc60eb42ce0"
+    },
+    {
+      "path": "src/data/discovery.js",
+      "sha256": "d7dc53c21b6ff20bfb09ed62a895d0f9fcae910f8d2f235fb955e62e5007762a"
+    },
+    {
+      "path": "src/data/discoveryCatalog.json",
+      "sha256": "f9289f9a405112930aa93cc594093762c85572d0248b4e8a59ff6afd0274c8c1"
+    },
+    {
+      "path": "src/data/discoveryContext.js",
+      "sha256": "70c2ceae798300aea488f01cf5ae79d91e4012aa8c5338536f141f962de6e7a4"
+    },
+    {
+      "path": "src/data/discoveryNights.js",
+      "sha256": "f2ad1d11b4fe0bc6c7c108a81094423069c00733c373e451ea68c32c5732284f"
+    },
+    {
+      "path": "src/data/editorialNightAssignments.js",
+      "sha256": "ec0218d25398a3eb9c8bbe0d362d7f17e2c1a913af53a285a538fc2f359fbedd"
+    },
+    {
+      "path": "src/data/extraSakePairings.js",
+      "sha256": "2bd1084d2c6372dd1e7804db48855fea17efbf131b8ee21f199e15ac644aa90e"
+    },
+    {
+      "path": "src/data/favoriteReferences.js",
+      "sha256": "020be9b2b1c616c1aca2b0446695ad4b9d34336c3184a332222aa748365bb3a5"
+    },
+    {
+      "path": "src/data/favoriteReferences.json",
+      "sha256": "53d2c5c48d0047328fe0484e1638dcb6f3caaac8336cbe30e80b60cd7962cdad"
+    },
+    {
+      "path": "src/data/foodBrowsing.js",
+      "sha256": "bf02d5dfb78c22bbced520141113d4ec85d239a4d44cf33cdce897a4a7f13777"
+    },
+    {
+      "path": "src/data/foodCatalog.js",
+      "sha256": "2c5e6957ecb38114a45dfdf0689f53d078ec76576ca0989d8e510e38fda75a08"
+    },
+    {
+      "path": "src/data/foodCatalog.json",
+      "sha256": "360a291841fe60cdc7ffdad001999843832f7a708670c1357e225a24b0965a23"
+    },
+    {
+      "path": "src/data/groundedPairingCopy.js",
+      "sha256": "509a506ad4f37bf211420dcdc2c8973b027c2836541fbfb56840e4abc6ff7795"
+    },
+    {
+      "path": "src/data/highExposurePairingCopy.js",
+      "sha256": "ef809ac7513590cc45bb2b1a241fa14afb31f66f46c8c0dd6917663cbdc5b122"
+    },
+    {
+      "path": "src/data/highExposurePairingOverrides.json",
+      "sha256": "6be15a8aab6174eabe3c1c83ace2cf51de69548be72761229279666193f14ab6"
+    },
+    {
+      "path": "src/data/legacySiteData.js",
+      "sha256": "7619844e5ad242050a31cac2b2b56e677c70622da7fcaccaae27771575107780"
+    },
+    {
+      "path": "src/data/nightAffinity.js",
+      "sha256": "5d52822913b47e7c58381ce6cc324469240acf8f51d6f71a61d0b8838f2ef73f"
+    },
+    {
+      "path": "src/data/pairingCopy.js",
+      "sha256": "763a672c3677d9ee78942c3dbe2541c7331e5ebf8e67524eb8918f1a5b200621"
+    },
+    {
+      "path": "src/data/pairingReasonOverrides.json",
+      "sha256": "b47607d09a2a68d21770677c12aeb92df9852018fd309fe54e15c168a8e524b3"
+    },
+    {
+      "path": "src/data/prefectureSakeCandidates.js",
+      "sha256": "d010db3376b05033db396ced808a55ef38538d2f96395afdd36091770997c5ee"
+    },
+    {
+      "path": "src/data/publicDisplay.js",
+      "sha256": "a79f243e4a4f442bd8bbe8259c6d4279b48f7215c2e3dd7c866d9279b3cb0dd8"
+    },
+    {
+      "path": "src/data/researchSchema.js",
+      "sha256": "9152728055cd5348e3a0428fc85bea2a26205d37143a5fe66f8d067b1551c2d3"
+    },
+    {
+      "path": "src/data/sakeIntroduction.js",
+      "sha256": "abafb097fb0b8f1a031eb3457b3f33f67d8963dac0f11e2bdff868f49218cc62"
+    },
+    {
+      "path": "src/data/sakePairingReview.js",
+      "sha256": "d99c208b7dbc0a0c18760edf545b60078cc252250c3b6b8a1f81587ae0cdd258"
+    },
+    {
+      "path": "src/data/sakePairings.js",
+      "sha256": "ebd4d3ebdc6beafe60d2da6249e25ae0850627248efc00e73beef177e8016f49"
+    },
+    {
+      "path": "src/data/sakeResearchPhase1.js",
+      "sha256": "c5c24329cd71ff7c6b6b7bfcd2f4f71e4f446484ae2a6191ac1135f6e4b56a67"
+    },
+    {
+      "path": "src/data/sakeResearchPhase2.js",
+      "sha256": "e9076ccfb88b1edaacc63b3d98826366a9d16bee226fe9ab9f3712727d7dbbec"
+    },
+    {
+      "path": "src/data/sakeResearchPhase21.js",
+      "sha256": "e3abbd912bf58f4d8be877591d137a6acf9633b630d83af270bba9f4ae6a77a9"
+    },
+    {
+      "path": "src/data/sakeResearchPhase3.js",
+      "sha256": "d32f9b588a50469a37bc6f017f9162fde9b541b9284efa3859fb0783a1f506d3"
+    },
+    {
+      "path": "src/data/sakeResearchPhase3Data.json",
+      "sha256": "f1d54bf164c4924282b5020a88c4a322baf0f6df3dcd73da9c8e0041992c8f93"
+    },
+    {
+      "path": "src/data/sakeResearchRecovery.js",
+      "sha256": "efa8677087bb9fae5cee3f55960cca3456b7144452dea2c716ca5b62b94de6dc"
+    },
+    {
+      "path": "src/data/sakeResearchRecoveryData.json",
+      "sha256": "8c41c5e71b5d77513749fa27c1cdf065fa6f7d8b48a3669107b16380a2518bba"
+    },
+    {
+      "path": "src/data/searchFacets.js",
+      "sha256": "806e1e68c1309d0c932133b0649ed9f21662ee1146cc844127b497798ba4e98c"
+    },
+    {
+      "path": "src/data/searchFiltering.js",
+      "sha256": "14a08bbad3f3c0a0d564aaec4a7f6ee7cdd0c9a07738e68242853ab6bd08a60c"
+    },
+    {
+      "path": "src/data/searchSelections.js",
+      "sha256": "e84555573ceb678578dd7838b371b738893023c97a0450cec2958187c512179a"
+    },
+    {
+      "path": "src/data/shareActions.js",
+      "sha256": "f57f8c9b527100c95c0b06d119118b16fd423bd431ef3832bbf27804c1ee47bd"
+    },
+    {
+      "path": "src/data/siteData.js",
+      "sha256": "f6431ab81d7c8c80164a61c3064fef9c07d318101b586ffa21471cf7e83dee19"
+    },
+    {
+      "path": "src/data/siteIdentity.js",
+      "sha256": "54847d4ff60d3080e72e1194555fdbbb72b80b98147fb1e8835b1828b6f3e979"
+    },
+    {
+      "path": "src/data/specDisplay.js",
+      "sha256": "33725a311c58b7c4bf5acdd50c44b681e0110960451e05f0eaa563608a77cb2f"
+    },
+    {
+      "path": "src/data/tasteDescription.js",
+      "sha256": "6193a49dcb68c9c0b16508d9d66553ab2a03023141a6d71953fe2b9c25ba1f55"
+    },
+    {
+      "path": "src/data/tasteDescriptions.json",
+      "sha256": "43d6ea1e42c0b1d63ebe5a62adde5625b8dae3f9f07af88619cbfe02b3134f77"
+    },
+    {
+      "path": "src/data/tastePresentation.js",
+      "sha256": "d4628de307bbb17f605c4fd1add18a0e5f6ed6cbfb80b9047d271a59ebc01f3a"
+    },
+    {
+      "path": "src/data/telemetry.js",
+      "sha256": "10e70fdd1d47b4ec274519b4afd9279d0fd352b5f14391c6cddb31c3a8bff8e1"
+    },
+    {
+      "path": "src/data/temperatureUX.js",
+      "sha256": "5f58a127c18ceafb3a0f32e2e5dfd07dc0bc37b00fbe9420e2051b48b96568b1"
+    },
+    {
+      "path": "src/data/visualChoices.js",
+      "sha256": "86e954b7487649a95ea2238bb69c87a1ccc910200caadb2be44dfafdbbaa56b7"
+    },
+    {
+      "path": "src/specialties/localSakana.js",
+      "sha256": "7f596a0c0782af71b52e84003589606e9bea519cc364fa76f53182d40a2beb48"
+    },
+    {
+      "path": "src/specialties/master.json",
+      "sha256": "c2a958a641e18a83cc84d95efb89ba5e3718f75f58b1a9cd5999d8a75483993c"
+    },
+    {
+      "path": "src/specialties/pairings.json",
+      "sha256": "8b472b42ceaed857314843a71874a86fb595de95edc00fdf3724af60f83bb9b2"
+    },
+    {
+      "path": "vercel.json",
+      "sha256": "7180bf2fae04ea0cf38cac0f003377baef96bd0a59ce73c29ffac9a2be692d55"
+    }
+  ],
+  "itemsHash": "82f9b164a56b64ef7e596a44697e74fe8dff99b0d3b576e52392659500e5f6cf",
+  "active": 484,
+  "missingPrefecture": 0,
+  "master": 67,
+  "offers": 67,
+  "storedPairings": 352,
+  "displaySpecialties": 65,
+  "displaySake": 255,
+  "displayPairings": 352,
+  "rows": [
+    {
+      "sakeId": "nogomi-tokubetsu-junmai",
+      "name": "能古見 特別純米酒",
+      "prefecture": "佐賀県",
+      "httpStatus": 200,
+      "intro": "吟醸香はほのか。米の旨みが感じられ、後口にはキレと余韻が残ります。",
+      "specialtyIds": [
+        "ika-shumai",
+        "yobuko-ichiyaboshi"
+      ],
+      "names": [
+        "いかしゅうまい",
+        "呼子いか一夜干し"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "azumacho-junmai",
+      "name": "純米東長",
+      "prefecture": "佐賀県",
+      "httpStatus": 200,
+      "intro": "芳醇な香りです。米の旨味が感じられます。後口にはキレがあります。",
+      "specialtyIds": [
+        "ika-shumai",
+        "yobuko-ichiyaboshi"
+      ],
+      "names": [
+        "いかしゅうまい",
+        "呼子いか一夜干し"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "koimari-saki",
+      "name": "古伊万里 前 純米吟醸",
+      "prefecture": "佐賀県",
+      "httpStatus": 200,
+      "intro": "みずみずしい口当たりに、ほどよい甘みを伴う旨み。口に含むにつれ酸味と穏やかな渋みが現れ、味わいに奥行きが生まれます。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "nabeshima-junmai-ginjo",
+      "name": "鍋島 純米吟醸 山田錦",
+      "prefecture": "佐賀県",
+      "httpStatus": 200,
+      "intro": "吟醸香は穏やかで、のど越しは爽やかです。",
+      "specialtyIds": [
+        "ika-shumai"
+      ],
+      "names": [
+        "いかしゅうまい"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "shichida-junmai",
+      "name": "七田 純米",
+      "prefecture": "佐賀県",
+      "httpStatus": 200,
+      "intro": "米由来の旨味があり、飲み心地は軽やか。旨味と軽さを一緒に楽しめる味わいです。",
+      "specialtyIds": [
+        "yobuko-ichiyaboshi"
+      ],
+      "names": [
+        "呼子いか一夜干し"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "azumaichi-junmai-ginjo",
+      "name": "東一 純米吟醸",
+      "prefecture": "佐賀県",
+      "httpStatus": 200,
+      "intro": "香りは穏やかです。米の旨味が感じられます。",
+      "specialtyIds": [
+        "ika-shumai",
+        "yobuko-ichiyaboshi"
+      ],
+      "names": [
+        "いかしゅうまい",
+        "呼子いか一夜干し"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "amabuki-flower-yeast",
+      "name": "天吹 純米吟醸 いちご酵母 生",
+      "prefecture": "佐賀県",
+      "httpStatus": 200,
+      "intro": "香りは豊かで、飲み口は軽やかです。ふくらみのある旨みとみずみずしい甘みがあり、きれいな酸味も感じられます。",
+      "specialtyIds": [
+        "ika-shumai",
+        "yobuko-ichiyaboshi"
+      ],
+      "names": [
+        "いかしゅうまい",
+        "呼子いか一夜干し"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "niwa-no-uguisu-junmai-ginjo",
+      "name": "庭のうぐいす 純米吟醸",
+      "prefecture": "福岡県",
+      "httpStatus": 200,
+      "intro": "フレッシュな味わいです。甘みと酸味があります。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "miinokotobuki-junmai-ginjo",
+      "name": "三井の寿 純米吟醸 +14 大辛口",
+      "prefecture": "福岡県",
+      "httpStatus": 200,
+      "intro": "大辛口の味わいです。後口にはキレがあります。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "chiebijin-junmai",
+      "name": "ちえびじん 純米酒",
+      "prefecture": "大分県",
+      "httpStatus": 200,
+      "intro": "芳醇な香りと甘みが感じられます。のど越しにはキレがあります。",
+      "specialtyIds": [
+        "oita-ryukyu"
+      ],
+      "names": [
+        "りゅうきゅう"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "reizan-junmai",
+      "name": "れいざん純米酒",
+      "prefecture": "熊本県",
+      "httpStatus": 200,
+      "intro": "やわらかな辛口の味わいです。後口にはキレがあります。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "sasshu-masamune-junmai",
+      "name": "清酒 薩州正宗 純米酒",
+      "prefecture": "鹿児島県",
+      "httpStatus": 200,
+      "intro": "米の香りで、濃厚な旨口の味わいです。",
+      "specialtyIds": [
+        "kagoshima-buta-miso"
+      ],
+      "names": [
+        "豚味噌"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "amaneko-white-koji",
+      "name": "新政 亜麻猫",
+      "prefecture": "秋田県",
+      "httpStatus": 200,
+      "intro": "白麹由来の個性的な酸味を楽しめます。",
+      "specialtyIds": [
+        "gibasa"
+      ],
+      "names": [
+        "ぎばさ"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "denshu-tokubetsu-junmai",
+      "name": "田酒 特別純米酒",
+      "prefecture": "青森県",
+      "httpStatus": 200,
+      "intro": "軽妙な口当たりで、米の旨味が感じられます。後味はすっきりとしています。",
+      "specialtyIds": [
+        "aomori-ichigoni"
+      ],
+      "names": [
+        "いちご煮"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "mutsu-hassen-red-label",
+      "name": "陸奥八仙 赤ラベル 特別純米（火入）",
+      "prefecture": "青森県",
+      "httpStatus": 200,
+      "intro": "果実を思わせる華やかな香りで、口当たりはまろやか。旨味と酸味が調和した味わいです。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "nanbu-bijin-tokubetsu-junmai",
+      "name": "南部美人 特別純米酒",
+      "prefecture": "岩手県",
+      "httpStatus": 200,
+      "intro": "やさしい果実香です。米の旨味が感じられます。後味はすっきりしています。",
+      "specialtyIds": [
+        "iwate-suki-kombu"
+      ],
+      "names": [
+        "すき昆布"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "yamamoto-pure-black",
+      "name": "山本 Pure Black ピュアブラック",
+      "prefecture": "秋田県",
+      "httpStatus": 200,
+      "intro": "香りは控えめ。柑橘を思わせるジューシーな酸味があり、後口は鋭く切れる味わいです。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "akabu-junmai",
+      "name": "AKABU 純米酒",
+      "prefecture": "岩手県",
+      "httpStatus": 200,
+      "intro": "米の旨味と柑橘系の酸味が感じられます。",
+      "specialtyIds": [
+        "iwate-suki-kombu"
+      ],
+      "names": [
+        "すき昆布"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "yuki-no-bosha-junmai-ginjo",
+      "name": "雪の茅舎 純米吟醸",
+      "prefecture": "秋田県",
+      "httpStatus": 200,
+      "intro": "ほどよい香りで、味わいにはふくらみがあります。",
+      "specialtyIds": [
+        "gibasa"
+      ],
+      "names": [
+        "ぎばさ"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "ippaku-suissei-tokubetsu-junmai",
+      "name": "一白水成 特別純米酒",
+      "prefecture": "秋田県",
+      "httpStatus": 200,
+      "intro": "果実香です。米の旨味が感じられます。",
+      "specialtyIds": [
+        "gibasa"
+      ],
+      "names": [
+        "ぎばさ"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "sharaku-junmai-ginjo",
+      "name": "冩樂 純米吟醸",
+      "prefecture": "福島県",
+      "httpStatus": 200,
+      "intro": "米の旨味に、調和した甘みと酸味。ほのかに香る余韻も感じられます。",
+      "specialtyIds": [
+        "fukushima-nishin-sanshozuke"
+      ],
+      "names": [
+        "にしんの山椒漬け"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "aizu-chujo-junmai",
+      "name": "会津中将 純米酒",
+      "prefecture": "福島県",
+      "httpStatus": 200,
+      "intro": "濃醇な味わいを楽しめます。",
+      "specialtyIds": [
+        "fukushima-nishin-sanshozuke"
+      ],
+      "names": [
+        "にしんの山椒漬け"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "hakurakusei-tokubetsu-junmai",
+      "name": "伯楽星 特別純米",
+      "prefecture": "宮城県",
+      "httpStatus": 200,
+      "intro": "メロンやバナナを思わせる香りです。後口にはキレがあります。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "kenkonichi-tokubetsu-junmai",
+      "name": "乾坤一 特別純米辛口",
+      "prefecture": "宮城県",
+      "httpStatus": 200,
+      "intro": "飲み飽きしない味わいが特徴の一本。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "hakkaisan-tokubetsu-honjozo",
+      "name": "特別本醸造 八海山",
+      "prefecture": "新潟県",
+      "httpStatus": 200,
+      "intro": "やわらかな口当たりを楽しめます。",
+      "specialtyIds": [
+        "kanzuri-shuto"
+      ],
+      "names": [
+        "かんずり酒盗"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "kubota-senju",
+      "name": "久保田 千寿",
+      "prefecture": "新潟県",
+      "httpStatus": 200,
+      "intro": "香りは穏やかで、味わいは淡麗です。後口にはキレがあります。",
+      "specialtyIds": [
+        "kanzuri-shuto"
+      ],
+      "names": [
+        "かんずり酒盗"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "dewazakura-oka-ginjo",
+      "name": "出羽桜 桜花吟醸酒",
+      "prefecture": "山形県",
+      "httpStatus": 200,
+      "intro": "フルーティな吟醸香が特徴。爽快な味わいも楽しめます。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "koshino-kanbai-white-label",
+      "name": "越乃寒梅 白ラベル",
+      "prefecture": "新潟県",
+      "httpStatus": 200,
+      "intro": "なめらかな味わいが特徴の一本。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "shimeharitsuru-tsuki",
+      "name": "〆張鶴 月",
+      "prefecture": "新潟県",
+      "httpStatus": 200,
+      "intro": "味わいの詳しい情報は、蔵元や購入先の商品説明もご覧ください。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "oze-no-yukidoke-junmai-daiginjo",
+      "name": "尾瀬の雪どけ 純米大吟醸生詰",
+      "prefecture": "群馬県",
+      "httpStatus": 200,
+      "intro": "フレッシュな味わいが特徴の一本。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "murayu-kuro",
+      "name": "村祐 黒 純米大吟醸 無濾過本生",
+      "prefecture": "新潟県",
+      "httpStatus": 200,
+      "intro": "味わいの詳しい情報は、蔵元や購入先の商品説明もご覧ください。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "gokeiji-junmai-ginjo",
+      "name": "御慶事 純米吟醸 雄町",
+      "prefecture": "茨城県",
+      "httpStatus": 200,
+      "intro": "香りは穏やかで、果実を思わせるジューシーな飲み心地。甘みと酸味が調和した味わいです。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "masumi-karakuchi-kiippon",
+      "name": "真澄 辛口生一本",
+      "prefecture": "長野県",
+      "httpStatus": 200,
+      "intro": "味わいは辛口です。後口にはキレがあります。",
+      "specialtyIds": [
+        "nagano-nozawana"
+      ],
+      "names": [
+        "野沢菜漬"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "yoakemae-tatsuno-junmai",
+      "name": "夜明け前 生一本",
+      "prefecture": "長野県",
+      "httpStatus": 200,
+      "intro": "フルーティーな味わいを楽しめます。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "jozan-junmai",
+      "name": "常山 純米辛口〝超〟",
+      "prefecture": "福井県",
+      "httpStatus": 200,
+      "intro": "シャープな飲み口です。柔らかい米の旨味があります。",
+      "specialtyIds": [
+        "kodai-sasazuke",
+        "heshiko"
+      ],
+      "names": [
+        "小鯛ささ漬け",
+        "へしこ"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "kikuhime-yamahai-junmai",
+      "name": "菊姫 山廃純米",
+      "prefecture": "石川県",
+      "httpStatus": 200,
+      "intro": "ナッツやカラメルを思わせる芳醇な香り。濃醇でコクがあり、たっぷりとした米の旨味と力強い酸味が感じられます。",
+      "specialtyIds": [
+        "kabura-zushi",
+        "fugu-nukazuke"
+      ],
+      "names": [
+        "かぶら寿し",
+        "ふぐの子糠漬け"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "tedorigawa-yamahai-junmai",
+      "name": "手取川 山廃仕込 純米酒",
+      "prefecture": "石川県",
+      "httpStatus": 200,
+      "intro": "冷酒や常温では、フルーティーな香りとほのかな酸味。燗にすると、穏やかでやさしい旨味と酸味が感じられます。後口にはキレがあります。",
+      "specialtyIds": [
+        "fugu-nukazuke"
+      ],
+      "names": [
+        "ふぐの子糠漬け"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "masuizumi-junmai-ginjo",
+      "name": "満寿泉 純米吟醸",
+      "prefecture": "富山県",
+      "httpStatus": 200,
+      "intro": "きれいな後口とキレが特徴の一本。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "born-gold",
+      "name": "梵・ゴールド",
+      "prefecture": "福井県",
+      "httpStatus": 200,
+      "intro": "芳醇な旨口の味わいを楽しめます。",
+      "specialtyIds": [
+        "heshiko",
+        "kodai-sasazuke"
+      ],
+      "names": [
+        "へしこ",
+        "小鯛ささ漬け"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "kachikoma-junmai",
+      "name": "勝駒 純米酒",
+      "prefecture": "富山県",
+      "httpStatus": 200,
+      "intro": "味わいの詳しい情報は、蔵元や購入先の商品説明もご覧ください。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "tengumai-yamahai-junmai",
+      "name": "天狗舞 山廃純米大吟醸",
+      "prefecture": "石川県",
+      "httpStatus": 200,
+      "intro": "芳醇な味わいを楽しめます。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "gikyo-tokubetsu-junmai",
+      "name": "義侠 純米原酒60%",
+      "prefecture": "愛知県",
+      "httpStatus": 200,
+      "intro": "味わいの詳しい情報は、蔵元や購入先の商品説明もご覧ください。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "houraisen-wa-junmai-ginjo",
+      "name": "蓬莱泉 純米吟醸 和",
+      "prefecture": "愛知県",
+      "httpStatus": 200,
+      "intro": "やわらかな甘みと、爽やかな酸味を感じます。後口にはキレがあります。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "zaku-miyabi-no-tomo",
+      "name": "作 雅乃智",
+      "prefecture": "三重県",
+      "httpStatus": 200,
+      "intro": "香りは華やかで、なめらかな飲み心地です。後口にはキレがあります。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "kikusui-funaguchi-honjozo-nama-genshu-standard",
+      "name": "菊水ふなぐち",
+      "prefecture": "新潟県",
+      "httpStatus": 200,
+      "intro": "フレッシュな果実のような香りです。しっかりとした旨みがあります。",
+      "specialtyIds": [
+        "kanzuri-shuto",
+        "tochio-aburaage"
+      ],
+      "names": [
+        "かんずり酒盗",
+        "栃尾の油揚げ"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "iso-jiman-honjozo",
+      "name": "磯自慢 特別本醸造",
+      "prefecture": "静岡県",
+      "httpStatus": 200,
+      "intro": "吟醸香が特徴。まるい味わいも楽しめます。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "umenoyado-junmai",
+      "name": "梅乃宿 純米",
+      "prefecture": "奈良県",
+      "httpStatus": 200,
+      "intro": "フレッシュな香りです。爽やかな余韻があります。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "kaiun-tokubetsu-junmai",
+      "name": "開運 特別純米",
+      "prefecture": "静岡県",
+      "httpStatus": 200,
+      "intro": "コクと、スッキリとキレのよい後口を楽しめる一本。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "tamanohikari-junmai-ginjo-shukon-standard",
+      "name": "玉乃光 純米吟醸 酒魂",
+      "prefecture": "京都府",
+      "httpStatus": 200,
+      "intro": "米の旨味と酸味が感じられます。後口にはキレがあります。",
+      "specialtyIds": [
+        "kyoto-shibazuke"
+      ],
+      "names": [
+        "しば漬け"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "kid-junmai-ginjo",
+      "name": "紀土 KID 純米吟醸",
+      "prefecture": "和歌山県",
+      "httpStatus": 200,
+      "intro": "青りんごの香りで、軽快な飲み心地です。後口にはキレがあります。",
+      "specialtyIds": [
+        "wakayama-goma-dofu"
+      ],
+      "names": [
+        "ごま豆腐"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "ugonotsuki-junmai-ginjo",
+      "name": "雨後の月 純米吟醸",
+      "prefecture": "広島県",
+      "httpStatus": 200,
+      "intro": "やわらかな口当たりです。米の旨味、甘みと酸味が感じられます。",
+      "specialtyIds": [
+        "hiroshima-kaki-doteyaki"
+      ],
+      "names": [
+        "かきの土手鍋"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "kamo-kinshu-tokubetsu-junmai",
+      "name": "賀茂金秀 特別純米",
+      "prefecture": "広島県",
+      "httpStatus": 200,
+      "intro": "フレッシュな味わいが特徴の一本。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "dassai-45",
+      "name": "獺祭 純米大吟醸45",
+      "prefecture": "山口県",
+      "httpStatus": 200,
+      "intro": "香りは華やかです。米由来の繊細な甘みがあります。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "ohmine-three-grain",
+      "name": "Ohmine 3粒 山田錦",
+      "prefecture": "山口県",
+      "httpStatus": 200,
+      "intro": "穏やかなグリーンの香り。ジューシーな飲み心地で、甘酸っぱさも感じられます。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "hirotogawa-tokubetsu-junmai",
+      "name": "廣戸川 特別純米",
+      "prefecture": "福島県",
+      "httpStatus": 200,
+      "intro": "味わいの詳しい情報は、蔵元や購入先の商品説明もご覧ください。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "tsuchida-kimoto",
+      "name": "土田生もと",
+      "prefecture": "群馬県",
+      "httpStatus": 200,
+      "intro": "クリアな後味が特徴の一本。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "tenbi-junmai-ginjo",
+      "name": "天美 純米吟醸",
+      "prefecture": "山口県",
+      "httpStatus": 200,
+      "intro": "白ぶどうの甘みと爽やかな酸味が感じられます。",
+      "specialtyIds": [
+        "yamaguchi-fugu-karaage"
+      ],
+      "names": [
+        "ふぐの唐揚げ"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "suigei-tokubetsu-junmai",
+      "name": "酔鯨 特別純米酒",
+      "prefecture": "高知県",
+      "httpStatus": 200,
+      "intro": "控えめな香りです。米の旨味が感じられます。後口にはキレがあります。",
+      "specialtyIds": [
+        "katsuo-namabushi",
+        "shuto"
+      ],
+      "names": [
+        "かつお生節",
+        "酒盗"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "nichinichi-yamada-nishiki",
+      "name": "日日 山田錦",
+      "prefecture": "京都府",
+      "httpStatus": 200,
+      "intro": "上品な旨味を楽しめます。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "ibi-white",
+      "name": "WHITE 射美",
+      "prefecture": "岐阜県",
+      "httpStatus": 200,
+      "intro": "芳醇でありながら、すっきりした味わいです。甘酸っぱい味わいです。",
+      "specialtyIds": [
+        "gifu-akakabu"
+      ],
+      "names": [
+        "赤かぶ漬け"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "kachikoma-modern-premium",
+      "name": "勝駒 純米吟醸",
+      "prefecture": "富山県",
+      "httpStatus": 200,
+      "intro": "味わいの詳しい情報は、蔵元や購入先の商品説明もご覧ください。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "juyondai-modern-premium",
+      "name": "十四代 大極上諸白 龍の落とし子",
+      "prefecture": "山形県",
+      "httpStatus": 200,
+      "intro": "みずみずしい立ち香と爽やかな含み香で、味わいは淡麗です。優しい甘味があります。",
+      "specialtyIds": [
+        "yamagata-omizuke"
+      ],
+      "names": [
+        "おみ漬"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "dassai-23",
+      "name": "獺祭 純米大吟醸 磨き二割三分",
+      "prefecture": "山口県",
+      "httpStatus": 200,
+      "intro": "華やかな上立ち香です。蜂蜜のような甘みがあります。キレと長く続く余韻があります。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "otokoyama-kimoto-junmai",
+      "name": "男山 生酛純米",
+      "prefecture": "北海道",
+      "httpStatus": 200,
+      "intro": "芳醇な味わいが特徴の一本。",
+      "specialtyIds": [
+        "matsumae-zuke",
+        "ika-meshi"
+      ],
+      "names": [
+        "松前漬け",
+        "いかめし"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "kokushi-muso-junmai",
+      "name": "国士無双 純米酒",
+      "prefecture": "北海道",
+      "httpStatus": 200,
+      "intro": "口に含むとまろやかです。コクがあります。",
+      "specialtyIds": [
+        "matsumae-zuke",
+        "ika-meshi"
+      ],
+      "names": [
+        "松前漬け",
+        "いかめし"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "fukutsukasa-junmai",
+      "name": "福司 純米酒",
+      "prefecture": "北海道",
+      "httpStatus": 200,
+      "intro": "芳醇な味わいを楽しめます。",
+      "specialtyIds": [
+        "matsumae-zuke"
+      ],
+      "names": [
+        "松前漬け"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "gohou-junmai",
+      "name": "郷宝 特別純米 壱火 磨き五割五分",
+      "prefecture": "北海道",
+      "httpStatus": 200,
+      "intro": "軽快な飲み心地です。柔らかな旨味があります。後味はきれよく切れます。",
+      "specialtyIds": [
+        "matsumae-zuke",
+        "ika-meshi"
+      ],
+      "names": [
+        "松前漬け",
+        "いかめし"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "kita-no-katsu-taikai",
+      "name": "北の勝 大海",
+      "prefecture": "北海道",
+      "httpStatus": 200,
+      "intro": "口当たりのよさとすっきりしたのど越しが特徴の酒。",
+      "specialtyIds": [
+        "matsumae-zuke"
+      ],
+      "names": [
+        "松前漬け"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "kamoshibito-kuheiji-eau-du-desir",
+      "name": "醸し人九平次 山田錦 EAU DU DÉSIR",
+      "prefecture": "愛知県",
+      "httpStatus": 200,
+      "intro": "熟した果実の旨味と、味わいを支える酸味。重なりのある味わいを感じられます。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "momokawa-tw2kq6",
+      "name": "桃川 純米酒",
+      "prefecture": "青森県",
+      "httpStatus": 200,
+      "intro": "まろやかな飲み心地で、米の旨味が感じられます。コクも楽しめる味わいです。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "hato-masamune-tw2kq6",
+      "name": "八甲田おろし 特別純米酒 華吹雪 超辛口",
+      "prefecture": "青森県",
+      "httpStatus": 200,
+      "intro": "米のふくよかな味わいと辛口の味わいが感じられます。すっきりとした辛口で、後味にはキレがあります。",
+      "specialtyIds": [
+        "aomori-ichigoni"
+      ],
+      "names": [
+        "いちご煮"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "asahibaki-iaxjez",
+      "name": "あさ開 純米酒 黄ラベル",
+      "prefecture": "岩手県",
+      "httpStatus": 200,
+      "intro": "柔らかく豊かな香りです。米の旨味とさわやかな酸味が感じられます。",
+      "specialtyIds": [
+        "iwate-suki-kombu"
+      ],
+      "names": [
+        "すき昆布"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "kiku-no-tsukasa-iaxjez",
+      "name": "kikunotsukasa innocent 40",
+      "prefecture": "岩手県",
+      "httpStatus": 200,
+      "intro": "香りは華やかで、濃厚さとすっきりした飲み口です。甘味があります。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "hamachidori-iaxjez",
+      "name": "浜千鳥 純米酒",
+      "prefecture": "岩手県",
+      "httpStatus": 200,
+      "intro": "味わいの詳しい情報は、蔵元や購入先の商品説明もご覧ください。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "atago-no-matsu-i3yhce",
+      "name": "あたごのまつ 特別純米",
+      "prefecture": "宮城県",
+      "httpStatus": 200,
+      "intro": "メロンや白桃を思わせる香りです。爽やかな酸味があります。後口にはキレがあります。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "urakasumi-i3yhce",
+      "name": "純米酒 浦霞",
+      "prefecture": "宮城県",
+      "httpStatus": 200,
+      "intro": "米の旨味と酸味の調和を楽しめます。",
+      "specialtyIds": [
+        "kaki-oil",
+        "hoya-chinmi"
+      ],
+      "names": [
+        "牡蠣オイル漬け",
+        "ほや珍味"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "suminoe-i3yhce",
+      "name": "墨廼江 特別純米酒 青ラベル",
+      "prefecture": "宮城県",
+      "httpStatus": 200,
+      "intro": "香りは穏やかです。米の旨味が感じられます。後口はきれよく切れます。",
+      "specialtyIds": [
+        "hoya-chinmi",
+        "kaki-oil"
+      ],
+      "names": [
+        "ほや珍味",
+        "牡蠣オイル漬け"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "miyakanbai-i3yhce",
+      "name": "宮寒梅 純米吟醸",
+      "prefecture": "宮城県",
+      "httpStatus": 200,
+      "intro": "熟した果実を思わせる華やかな香りで、やや豊潤で柔らかな味わいです。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "mansaku-no-hana-o23n5c",
+      "name": "純米吟醸 まんさくの花",
+      "prefecture": "秋田県",
+      "httpStatus": 200,
+      "intro": "香りは穏やかです。米の旨味と心地よい酸味が感じられます。",
+      "specialtyIds": [
+        "gibasa"
+      ],
+      "names": [
+        "ぎばさ"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "jokigen-i9diua",
+      "name": "上喜元 純米吟醸 超辛",
+      "prefecture": "山形県",
+      "httpStatus": 200,
+      "intro": "すっきりした味わいです。超辛口の味わいです。キレのある味わいです。",
+      "specialtyIds": [
+        "yamagata-omizuke"
+      ],
+      "names": [
+        "おみ漬"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "kudoki-jozu-i9diua",
+      "name": "くどき上手 純米大吟醸",
+      "prefecture": "山形県",
+      "httpStatus": 200,
+      "intro": "華やかでフルーティーな香りで、やさしくマイルドな味わいです。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "yamagata-masamune-i9diua",
+      "name": "山形正宗 純米吟醸 雄町",
+      "prefecture": "山形県",
+      "httpStatus": 200,
+      "intro": "豊かな旨味が特徴の一本。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "daishichi-junmai-kimoto-standard",
+      "name": "大七 純米生酛",
+      "prefecture": "福島県",
+      "httpStatus": 200,
+      "intro": "ふくらみのある旨味が特徴の一本。",
+      "specialtyIds": [
+        "fukushima-ika-ninjin"
+      ],
+      "names": [
+        "いかにんじん"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "hatsumago-i9diua",
+      "name": "初孫 光輝2236 生酛純米大吟醸",
+      "prefecture": "山形県",
+      "httpStatus": 200,
+      "intro": "華やかな香りに、透き通るような伸びのある旨み。全体の印象はすっきりしています。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "tsuki-no-wa-iaxjez",
+      "name": "純米酒 月の輪",
+      "prefecture": "岩手県",
+      "httpStatus": 200,
+      "intro": "旨味を感じます。すっきりしたキレがあります。",
+      "specialtyIds": [
+        "iwate-suki-kombu"
+      ],
+      "names": [
+        "すき昆布"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "wataribune-pwohce",
+      "name": "渡舟 純米大吟醸",
+      "prefecture": "茨城県",
+      "httpStatus": 200,
+      "intro": "豊かな香りが特徴の一本。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "shichisui-kjnkdk",
+      "name": "七水 純米大吟醸45",
+      "prefecture": "栃木県",
+      "httpStatus": 200,
+      "intro": "ほのかな果実系の香りで、すっきりした味わいです。上品でやさしい旨みがあります。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "daina-kjnkdk",
+      "name": "大那 特別純米 生酛造り（火入れ）",
+      "prefecture": "栃木県",
+      "httpStatus": 200,
+      "intro": "穏やかな旨みが特徴の一本。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "ruka-p7oucs",
+      "name": "流輝 純米吟醸 無ろ過生 山田錦",
+      "prefecture": "群馬県",
+      "httpStatus": 200,
+      "intro": "優しい吟醸香です。甘味があります。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "mizubasho-p7oucs",
+      "name": "水芭蕉 純米吟醸",
+      "prefecture": "群馬県",
+      "httpStatus": 200,
+      "intro": "凝縮した米の旨味を楽しめます。",
+      "specialtyIds": [
+        "gunma-konnyaku-miso-oden"
+      ],
+      "names": [
+        "こんにゃく味噌おでん"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "tanigawadake-p7oucs",
+      "name": "谷川岳 超辛純米",
+      "prefecture": "群馬県",
+      "httpStatus": 200,
+      "intro": "米の旨味と辛口の味わいが感じられます。",
+      "specialtyIds": [
+        "gunma-konnyaku-miso-oden"
+      ],
+      "names": [
+        "こんにゃく味噌おでん"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "jozen-mizunogotoshi-junmai-ginjo-standard",
+      "name": "上善如水 純米吟醸",
+      "prefecture": "新潟県",
+      "httpStatus": 200,
+      "intro": "香りは華やかで、軽快な飲み心地です。まろやかな旨味があります。後口にはキレがあります。",
+      "specialtyIds": [
+        "kanzuri-shuto",
+        "tochio-aburaage"
+      ],
+      "names": [
+        "かんずり酒盗",
+        "栃尾の油揚げ"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "echigozakura-daiginjo-standard",
+      "name": "大吟醸 越後桜",
+      "prefecture": "新潟県",
+      "httpStatus": 200,
+      "intro": "香りは華やかで、スッキリとした味わいです。やや辛口の味わいです。",
+      "specialtyIds": [
+        "kanzuri-shuto",
+        "tochio-aburaage"
+      ],
+      "names": [
+        "かんずり酒盗",
+        "栃尾の油揚げ"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "kinoene-gg3q4p",
+      "name": "甲子 純米吟醸 はなやか 匠の香",
+      "prefecture": "千葉県",
+      "httpStatus": 200,
+      "intro": "爽やかな酸味とガス感が感じられます。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "taiheizan-tenko-junmai-daiginjo-standard",
+      "name": "太平山 純米大吟醸 天巧",
+      "prefecture": "秋田県",
+      "httpStatus": 200,
+      "intro": "中口の味わいを楽しめます。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "kidoizumi-gg3q4p",
+      "name": "木戸泉 純米醍醐",
+      "prefecture": "千葉県",
+      "httpStatus": 200,
+      "intro": "米の旨味と豊かな酸味が感じられます。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "okunokami-kflfjg",
+      "name": "屋守 純米無調整 中取り火入れ",
+      "prefecture": "東京都",
+      "httpStatus": 200,
+      "intro": "和梨やメロンを思わせる穏やかな香りで、甘味と控えめなほろ苦さがあります。後口はすっきり。燗では旨味が伸びていきます。",
+      "specialtyIds": [
+        "tokyo-bettarazuke"
+      ],
+      "names": [
+        "べったら漬け"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "kinkon-kflfjg",
+      "name": "金婚 純米吟醸 江戸酒王子",
+      "prefecture": "東京都",
+      "httpStatus": 200,
+      "intro": "柑橘系の香りです。甘みと酸味が重なります。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "kasen-kflfjg",
+      "name": "純米吟醸 嘉泉",
+      "prefecture": "東京都",
+      "httpStatus": 200,
+      "intro": "果実や百合、ライムの皮を思わせる香りで、絹のようになめらかな口当たりです。米由来の旨みと米由来の甘みが感じられます。ほろ苦さを伴う長い余韻があります。",
+      "specialtyIds": [
+        "tokyo-asari-tsukudani"
+      ],
+      "names": [
+        "あさりの佃煮"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "sawanoi-kflfjg",
+      "name": "澤乃井 純米本地酒",
+      "prefecture": "東京都",
+      "httpStatus": 200,
+      "intro": "コクを感じる一本。さっぱりした後味も楽しめます。",
+      "specialtyIds": [
+        "tokyo-asari-tsukudani"
+      ],
+      "names": [
+        "あさりの佃煮"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "izumibashi-nz2hmwijh",
+      "name": "いづみ橋 楽風舞 純米吟醸",
+      "prefecture": "神奈川県",
+      "httpStatus": 200,
+      "intro": "果実香です。やさしい甘酸味があります。すっきりした余韻があります。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "zarusou-hourai-nz2hmwijh",
+      "name": "残草蓬莱 特別純米",
+      "prefecture": "神奈川県",
+      "httpStatus": 200,
+      "intro": "辛口の味わいに、柔らかな酸味。燗ではほどよい甘みと、しっかりとした旨味が感じられます。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "tamajiman-kflfjg",
+      "name": "多満自慢 純米大吟醸",
+      "prefecture": "東京都",
+      "httpStatus": 200,
+      "intro": "花や熟した果実のような香りで、クリアで端正な味わい、滑らかな舌触りです。ふくよかで奥深い旨味があります。心地よい余韻があります。",
+      "specialtyIds": [
+        "tokyo-asari-tsukudani"
+      ],
+      "names": [
+        "あさりの佃煮"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "matsu-midori-nz2hmwijh",
+      "name": "松みどり 純米吟醸 S.tokyo",
+      "prefecture": "神奈川県",
+      "httpStatus": 200,
+      "intro": "なめらかな飲み心地です。ほんのり甘口の味わいと爽やかな酸味が感じられます。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "hakoneyama-nz2hmwijh",
+      "name": "純米酒 箱根山",
+      "prefecture": "神奈川県",
+      "httpStatus": 200,
+      "intro": "味わいにはふくらみがあります。後口にはキレがあります。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "tateyama-i4si9d",
+      "name": "純米吟醸立山",
+      "prefecture": "富山県",
+      "httpStatus": 200,
+      "intro": "芳醇な味わいです。豊かな旨味があります。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "ginban-chotokusen-komenoshin-standard-v1",
+      "name": "銀盤 超特撰 米の芯",
+      "prefecture": "富山県",
+      "httpStatus": 200,
+      "intro": "芳醇なふくみ香です。淡麗な辛口の味わいです。",
+      "specialtyIds": [
+        "shiroebi-himono",
+        "hotaruika-himono"
+      ],
+      "names": [
+        "白えび素干し",
+        "ほたるいか素干し"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "kagatobi-nozijh",
+      "name": "加賀鳶 純米吟醸",
+      "prefecture": "石川県",
+      "httpStatus": 200,
+      "intro": "香りは華やかで、透明感のある味わいです。ふくらむ米の旨味があります。",
+      "specialtyIds": [
+        "fugu-nukazuke",
+        "kabura-zushi"
+      ],
+      "names": [
+        "ふぐの子糠漬け",
+        "かぶら寿し"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "jokigen-ishikawa-nozijh",
+      "name": "常きげん 山廃純米",
+      "prefecture": "石川県",
+      "httpStatus": 200,
+      "intro": "コクとやや辛口の味わいが感じられます。鋭いキレがあります。",
+      "specialtyIds": [
+        "fugu-nukazuke",
+        "kabura-zushi"
+      ],
+      "names": [
+        "ふぐの子糠漬け",
+        "かぶら寿し"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "hanagaki-o0ffit",
+      "name": "花垣 山廃純米",
+      "prefecture": "福井県",
+      "httpStatus": 200,
+      "intro": "濃厚な甘みが特徴の一本。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "ippongi-o0ffit",
+      "name": "一本義 辛爽系 純米吟醸",
+      "prefecture": "福井県",
+      "httpStatus": 200,
+      "intro": "新緑を思わせる香りで、みずみずしい口当たりです。ほのかな甘みから辛口へ移る味わいと上品で爽やかな酸味が感じられます。",
+      "specialtyIds": [
+        "kodai-sasazuke",
+        "heshiko"
+      ],
+      "names": [
+        "小鯛ささ漬け",
+        "へしこ"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "shunnoten-i9dko8",
+      "name": "春鶯囀 純米吟醸 冨嶽",
+      "prefecture": "山梨県",
+      "httpStatus": 200,
+      "intro": "やや華やかな香りで、豊かで深い味わいです。中口の味わいです。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "kizakura-yamahai-tokubetsu-junmai-yamadanishiki-standard",
+      "name": "黄桜 生もと山廃 特別純米酒 山田錦",
+      "prefecture": "京都府",
+      "httpStatus": 200,
+      "intro": "気品ある香りです。力強い旨味があります。",
+      "specialtyIds": [
+        "kyoto-suguki"
+      ],
+      "names": [
+        "すぐき漬け"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "kai-no-kaiun-i9dko8",
+      "name": "甲斐の開運 純米吟醸",
+      "prefecture": "山梨県",
+      "httpStatus": 200,
+      "intro": "柔らかな芳香と果実のような香りで、透き通った味わいです。中口からやや辛口の味わいです。",
+      "specialtyIds": [
+        "yamanashi-awabi-nigai"
+      ],
+      "names": [
+        "あわびの煮貝"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "mushohai-junmai-ginjo-standard",
+      "name": "純米吟醸 無上盃",
+      "prefecture": "奈良県",
+      "httpStatus": 200,
+      "intro": "米の旨みが感じられます。すっきりとした口当たりです。",
+      "specialtyIds": [
+        "nara-narazuke"
+      ],
+      "names": [
+        "奈良漬"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "michisakari-ia8tng",
+      "name": "三千盛 純米大吟醸 業物／Wazamono",
+      "prefecture": "岐阜県",
+      "httpStatus": 200,
+      "intro": "落ち着いた吟醸香です。柔らかな旨みがあります。爽やかな後味とキレがあります。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "taikan-i9dko8",
+      "name": "太冠 吟醸純米",
+      "prefecture": "山梨県",
+      "httpStatus": 200,
+      "intro": "上品な吟醸香で、柔らかい口当たりと、やや濃醇な味わいです。やや甘口の味わいです。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "hyakushun-junmai-josen-standard",
+      "name": "百春 純米上撰",
+      "prefecture": "岐阜県",
+      "httpStatus": 200,
+      "intro": "やや辛口の味わいです。すっきりした味わいです。",
+      "specialtyIds": [
+        "gifu-akakabu"
+      ],
+      "names": [
+        "赤かぶ漬け"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "nito-j6jnol",
+      "name": "純米吟醸 二兎 山田錦五十五",
+      "prefecture": "愛知県",
+      "httpStatus": 200,
+      "intro": "甘みと酸味のバランスが特徴。ミネラル感もあります。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "tenkanishiki-fexsst",
+      "name": "天下錦 純米吟醸 MK-1 無濾過 火入",
+      "prefecture": "三重県",
+      "httpStatus": 200,
+      "intro": "穏やかなバナナを思わせる香りで、さらりと軽い飲み口です。心地よい旨味と甘みのある軽快な味わいが感じられます。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "matsu-no-tsukasa-lvvrsw",
+      "name": "松の司 純米吟醸",
+      "prefecture": "滋賀県",
+      "httpStatus": 200,
+      "intro": "柔らかく爽やかな香りがあり、味わいのバランスも感じられます。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "kirakucho-lvvrsw",
+      "name": "喜楽長 純米吟醸",
+      "prefecture": "滋賀県",
+      "httpStatus": 200,
+      "intro": "吟醸香は穏やかです。柔らかな旨味があります。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "eikun-kyoto-fjg",
+      "name": "英勲 純米酒",
+      "prefecture": "京都府",
+      "httpStatus": 200,
+      "intro": "すっきりした味わいが特徴の一本。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "tsuki-no-katsura-fjg",
+      "name": "月の桂 純米大吟醸 祝40",
+      "prefecture": "京都府",
+      "httpStatus": 200,
+      "intro": "いちじくの香りで、なめらかな飲み心地です。コクがあります。",
+      "specialtyIds": [
+        "kyoto-suguki"
+      ],
+      "names": [
+        "すぐき漬け"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "goshun-hlztnu",
+      "name": "呉春 池田酒",
+      "prefecture": "大阪府",
+      "httpStatus": 200,
+      "intro": "すっきりとまろやかさのある味わいを楽しめます。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "katano-sakura-hlztnu",
+      "name": "かたの桜 純米吟醸",
+      "prefecture": "大阪府",
+      "httpStatus": 200,
+      "intro": "なめらかな飲み心地です。ほどよい酸味があります。",
+      "specialtyIds": [
+        "osaka-doteyaki"
+      ],
+      "names": [
+        "どて焼き"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "amanosake-hlztnu",
+      "name": "天野酒 純米大吟醸 天游",
+      "prefecture": "大阪府",
+      "httpStatus": 200,
+      "intro": "芳醇な味わいです。旨味のある味わいです。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "kiku-masamune-g39ip7",
+      "name": "菊正宗 純米樽酒",
+      "prefecture": "兵庫県",
+      "httpStatus": 200,
+      "intro": "杉の香りです。旨味と辛口の味わいが感じられます。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "hakutsuru-g39ip7",
+      "name": "白鶴 純米大吟醸",
+      "prefecture": "兵庫県",
+      "httpStatus": 200,
+      "intro": "豊かで華やかな香りで、ふくらみのある味わいです。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "harushika-hmwprj",
+      "name": "春鹿 純米超辛口",
+      "prefecture": "奈良県",
+      "httpStatus": 200,
+      "intro": "超辛口の味わいです。コクとキレがあります。",
+      "specialtyIds": [
+        "nara-narazuke"
+      ],
+      "names": [
+        "奈良漬"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "kuroushi-gp8l70i9d",
+      "name": "純米酒 黒牛",
+      "prefecture": "和歌山県",
+      "httpStatus": 200,
+      "intro": "やわらかな香りです。米の旨味が感じられます。",
+      "specialtyIds": [
+        "wakayama-goma-dofu",
+        "wakayama-kinzanji-miso"
+      ],
+      "names": [
+        "ごま豆腐",
+        "金山寺味噌"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "minakata-gp8l70i9d",
+      "name": "純米吟醸 南方",
+      "prefecture": "和歌山県",
+      "httpStatus": 200,
+      "intro": "白ワインのような香りです。後口はきれよく切れます。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "chiyomusubi-uzpgk6",
+      "name": "千代むすび 純米大吟醸 強力50",
+      "prefecture": "鳥取県",
+      "httpStatus": 200,
+      "intro": "ふくよかな味わいが特徴の一本。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "suwaizumi-uzpgk6",
+      "name": "諏訪泉 純米酒",
+      "prefecture": "鳥取県",
+      "httpStatus": 200,
+      "intro": "軽やかで、すっきりした口当たりです。程よい旨味があります。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "kagatsuru-junmai-josen-standard",
+      "name": "加賀鶴 純米酒 上撰",
+      "prefecture": "石川県",
+      "httpStatus": 200,
+      "intro": "コクのあるマイルドな味わいです。米の旨みが感じられます。",
+      "specialtyIds": [
+        "fugu-nukazuke"
+      ],
+      "names": [
+        "ふぐの子糠漬け"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "gassan-id2kl5",
+      "name": "月山 純米酒",
+      "prefecture": "島根県",
+      "httpStatus": 200,
+      "intro": "味わいの詳しい情報は、蔵元や購入先の商品説明もご覧ください。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "sanzen-iapi9d",
+      "name": "燦然 山廃純米 雄町",
+      "prefecture": "岡山県",
+      "httpStatus": 200,
+      "intro": "ふくよかな旨味があります。爽やかな酸味があります。",
+      "specialtyIds": [
+        "okayama-mamakari"
+      ],
+      "names": [
+        "ママカリの酢漬け"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "kamikokoro-iapi9d",
+      "name": "神心 純米吟醸 瓶囲い",
+      "prefecture": "岡山県",
+      "httpStatus": 200,
+      "intro": "淡麗な旨口の味わいです。きれいな米の旨味があります。",
+      "specialtyIds": [
+        "okayama-mamakari"
+      ],
+      "names": [
+        "ママカリの酢漬け"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "fukucho-io3id2",
+      "name": "富久長 八反草 純米吟醸",
+      "prefecture": "広島県",
+      "httpStatus": 200,
+      "intro": "柔らかな口当たりで、フレッシュな味わいです。旨味を感じます。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "harada-i9dgkj",
+      "name": "原田 純米吟醸",
+      "prefecture": "山口県",
+      "httpStatus": 200,
+      "intro": "華やかな吟醸香があり、フルーティーな味わいも感じられます。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "narutotai-iwjid2",
+      "name": "鳴門鯛 純米大吟醸 寿",
+      "prefecture": "徳島県",
+      "httpStatus": 200,
+      "intro": "上品な果実香です。芳醇な旨味ときめ細かな酸味が感じられます。",
+      "specialtyIds": [
+        "tokushima-fish-katsu"
+      ],
+      "names": [
+        "フィッシュカツ"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "gotenzakura-iwjid2",
+      "name": "御殿桜 純米大吟醸酒（原酒）",
+      "prefecture": "徳島県",
+      "httpStatus": 200,
+      "intro": "味わいの詳しい情報は、蔵元や購入先の商品説明もご覧ください。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "kinryo-uc9ijh",
+      "name": "金陵濃藍 純米吟醸",
+      "prefecture": "香川県",
+      "httpStatus": 200,
+      "intro": "爽やかな果実香で、なめらかな旨味があります。",
+      "specialtyIds": [
+        "kagawa-honetsukidori"
+      ],
+      "names": [
+        "骨付鳥"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "sanuki-cloudy-uc9ijh",
+      "name": "讃岐くらうでぃ",
+      "prefecture": "香川県",
+      "httpStatus": 200,
+      "intro": "甘酸っぱい味わいが特徴の一本。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "yamatan-masamune-j6jhwb",
+      "name": "山丹正宗 しずく媛 純米吟醸",
+      "prefecture": "愛媛県",
+      "httpStatus": 200,
+      "intro": "フルーティーな味わいが特徴の一本。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "tosatsuru-honzo-karakuchi-standard",
+      "name": "土佐鶴 本醸辛口",
+      "prefecture": "高知県",
+      "httpStatus": 200,
+      "intro": "さわやかな香りです。味わいは辛口です。",
+      "specialtyIds": [
+        "katsuo-namabushi",
+        "shuto"
+      ],
+      "names": [
+        "かつお生節",
+        "酒盗"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "umenishiki-j6jhwb",
+      "name": "梅錦 純米大吟醸",
+      "prefecture": "愛媛県",
+      "httpStatus": 200,
+      "intro": "芳醇な甘口の味わいと、バランスのよい味わいを楽しめる一本。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "kyohina-j6jhwb",
+      "name": "京ひな 純米吟醸",
+      "prefecture": "愛媛県",
+      "httpStatus": 200,
+      "intro": "さっぱりとした飲み口です。米のコクと旨みがあります。",
+      "specialtyIds": [
+        "ehime-tachiuo-maki"
+      ],
+      "names": [
+        "太刀魚巻"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "sukigokoro-j6jhwb",
+      "name": "寿喜心 山田錦35％ 純米大吟醸",
+      "prefecture": "愛媛県",
+      "httpStatus": 200,
+      "intro": "味わいの詳しい情報は、蔵元や購入先の商品説明もご覧ください。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "bijofu-ul4nol",
+      "name": "美丈夫 純麗たまラベル",
+      "prefecture": "高知県",
+      "httpStatus": 200,
+      "intro": "柑橘を思わせる控えめな吟醸香。米のふくらみと柔らかさがあり、キュンとした酸味も感じられます。後口はシャープに切れます。",
+      "specialtyIds": [
+        "katsuo-namabushi"
+      ],
+      "names": [
+        "かつお生節"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "tosa-shiragiku-ul4nol",
+      "name": "土佐しらぎく 高育酒８０号",
+      "prefecture": "高知県",
+      "httpStatus": 200,
+      "intro": "バナナを思わせる甘い香りで、軽やかですっきりした味わいです。",
+      "specialtyIds": [
+        "katsuo-namabushi"
+      ],
+      "names": [
+        "かつお生節"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "kenbishi-g39ip7",
+      "name": "瑞穂黒松剣菱",
+      "prefecture": "兵庫県",
+      "httpStatus": 200,
+      "intro": "コクがあります。後口にはキレがあります。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "kinokawa-tividq",
+      "name": "純米 杵の川",
+      "prefecture": "長崎県",
+      "httpStatus": 200,
+      "intro": "香りは穏やかです。甘味と酸味が感じられます。後口にはキレがあります。",
+      "specialtyIds": [
+        "nagasaki-hatoshi"
+      ],
+      "names": [
+        "ハトシ"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "shigemasu-o0fiap",
+      "name": "繁桝 純米大吟醸40",
+      "prefecture": "福岡県",
+      "httpStatus": 200,
+      "intro": "香りは華やかです。ふくよかな米の旨味があります。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "koro-mfekdo",
+      "name": "香露 特別純米",
+      "prefecture": "熊本県",
+      "httpStatus": 200,
+      "intro": "芳醇な香りです。酸味を感じます。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "asahigiku-o0fiap",
+      "name": "旭菊 大地 特別純米酒",
+      "prefecture": "福岡県",
+      "httpStatus": 200,
+      "intro": "穏やかで爽やかな香り。口に含むと、米のふくよかな味わいがじんわりと感じられます。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "zuiyo-mfekdo",
+      "name": "芳醇純米酒 瑞鷹",
+      "prefecture": "熊本県",
+      "httpStatus": 200,
+      "intro": "芳醇な味わいです。旨味を感じます。",
+      "specialtyIds": [
+        "kumamoto-tofu-misozuke",
+        "kumamoto-karashi-renkon"
+      ],
+      "names": [
+        "豆腐の味噌漬け",
+        "からし蓮根"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "tsujun-semi-junmai-ginjo-standard",
+      "name": "通潤 純米吟醸酒 蝉",
+      "prefecture": "熊本県",
+      "httpStatus": 200,
+      "intro": "吟醸香は穏やかで、柔らかな口当たりです。味わいは辛口です。後味はすっきりしています。",
+      "specialtyIds": [
+        "kumamoto-karashi-renkon"
+      ],
+      "names": [
+        "からし蓮根"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "wakabotan-hlzg7a",
+      "name": "和香牡丹 八蝶 山田錦",
+      "prefecture": "大分県",
+      "httpStatus": 200,
+      "intro": "バナナやメロン、白い花を思わせる香りです。米の旨味と上品な甘味と丸みのある酸味が感じられます。ほどよい余韻とすっきりした後味があります。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "yatsushika-hlzg7a",
+      "name": "八鹿 純米大吟醸（金）",
+      "prefecture": "大分県",
+      "httpStatus": 200,
+      "intro": "深くふくよかな味わいです。米の旨味が感じられます。",
+      "specialtyIds": [
+        "oita-ayu-uruka"
+      ],
+      "names": [
+        "あゆうるか"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "nishinoseki-hlzg7a",
+      "name": "西の関 手造り純米酒",
+      "prefecture": "大分県",
+      "httpStatus": 200,
+      "intro": "優しい旨味を楽しめます。",
+      "specialtyIds": [
+        "oita-ayu-uruka"
+      ],
+      "names": [
+        "あゆうるか"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "senbazuru-hlzg7a",
+      "name": "純米大吟醸 千羽鶴",
+      "prefecture": "大分県",
+      "httpStatus": 200,
+      "intro": "味わいの詳しい情報は、蔵元や購入先の商品説明もご覧ください。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "sentoku-i3yidq",
+      "name": "千徳 純米酒",
+      "prefecture": "宮崎県",
+      "httpStatus": 200,
+      "intro": "米の旨味が特徴。飲みごたえも楽しめます。",
+      "specialtyIds": [
+        "miyazaki-jidori-sumibi"
+      ],
+      "names": [
+        "地鶏の炭火焼"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "ranman-junmai-managudako-standard",
+      "name": "純米まなぐ凧",
+      "prefecture": "秋田県",
+      "httpStatus": 200,
+      "intro": "やさしい旨みと酸味が感じられます。",
+      "specialtyIds": [
+        "gibasa",
+        "iburigakko"
+      ],
+      "names": [
+        "ぎばさ",
+        "いぶりがっこ"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "hanakagura-i3yidq",
+      "name": "吟醸酒 はなかぐら",
+      "prefecture": "宮崎県",
+      "httpStatus": 200,
+      "intro": "淡麗ですっきりした味わいです。辛口の味わいと適度な酸味が感じられます。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "satsumaji-vb3g28id2",
+      "name": "清酒 薩州正宗 純米吟醸酒",
+      "prefecture": "鹿児島県",
+      "httpStatus": 200,
+      "intro": "香りは華やかで、すっきりした味わいです。甘口の味わいです。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "ayanishiki-i3yidq",
+      "name": "大吟醸 登喜一",
+      "prefecture": "宮崎県",
+      "httpStatus": 200,
+      "intro": "華やかな吟醸香で、すっきりした口当たりと芳醇な味わいです。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "tenbu-junmai-daiginjo",
+      "name": "天賦 純米吟醸",
+      "prefecture": "鹿児島県",
+      "httpStatus": 200,
+      "intro": "花やバナナを思わせる香りです。柔らかな米の旨味と優しい甘味と控えめな酸味が感じられます。後味はすっきりしています。",
+      "specialtyIds": [
+        "kagoshima-buta-miso"
+      ],
+      "names": [
+        "豚味噌"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "taisetsunokura-junmai-standard",
+      "name": "純米 大雪乃蔵",
+      "prefecture": "北海道",
+      "httpStatus": 200,
+      "intro": "すっきりしたキレ、爽やかなあと口が特徴の一本。",
+      "specialtyIds": [
+        "matsumae-zuke"
+      ],
+      "names": [
+        "松前漬け"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "tenbu-vb3g28id2",
+      "name": "天賦 純米大吟醸",
+      "prefecture": "鹿児島県",
+      "httpStatus": 200,
+      "intro": "洋梨やアカシア、セルフィーユを思わせる香りで、滑らかで透明感のある味わいです。甘みと酸味が重なります。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "houhai-junmai-ginjo-3",
+      "name": "豊盃 純米吟醸 豊盃米",
+      "prefecture": "青森県",
+      "httpStatus": 200,
+      "intro": "エレガントな香りです。繊細な甘味があります。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "denshu-tokubetsu-junmai-1",
+      "name": "田酒 特別純米酒 山廃仕込",
+      "prefecture": "青森県",
+      "httpStatus": 200,
+      "intro": "青リンゴを思わせる含み香で、軽快な飲み心地です。厚みのある旨味とほどよい酸味が感じられます。",
+      "specialtyIds": [
+        "aomori-ichigoni"
+      ],
+      "names": [
+        "いちご煮"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "kamotsuru-chotokusem-tokuto-tokubetsu-honjozo",
+      "name": "賀茂鶴 超特撰特等酒",
+      "prefecture": "広島県",
+      "httpStatus": 200,
+      "intro": "ふくよかな香りです。濃醇な旨味があります。",
+      "specialtyIds": [
+        "hiroshima-kaki-doteyaki"
+      ],
+      "names": [
+        "かきの土手鍋"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "hideyoshi-junmai-standard",
+      "name": "秀よし 純米酒",
+      "prefecture": "秋田県",
+      "httpStatus": 200,
+      "intro": "麹の風味を感じる一本。淡麗で味にふくらみも楽しめます。",
+      "specialtyIds": [
+        "gibasa",
+        "iburigakko"
+      ],
+      "names": [
+        "ぎばさ",
+        "いぶりがっこ"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "asahibaki-iaxjez-3",
+      "name": "あさ開 蔵埠頭COLOR 純米酒",
+      "prefecture": "岩手県",
+      "httpStatus": 200,
+      "intro": "なめらかな旨味とほどよい酸味が感じられます。",
+      "specialtyIds": [
+        "iwate-suki-kombu"
+      ],
+      "names": [
+        "すき昆布"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "aramasa-junmai-1",
+      "name": "新政 No.6 S-type",
+      "prefecture": "秋田県",
+      "httpStatus": 200,
+      "intro": "味わいにはふくらみがあります。後口にはキレがあります。",
+      "specialtyIds": [
+        "gibasa",
+        "iburigakko"
+      ],
+      "names": [
+        "ぎばさ",
+        "いぶりがっこ"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "hiroki-tokubetsu-junmai-1",
+      "name": "飛露喜 純米大吟醸",
+      "prefecture": "福島県",
+      "httpStatus": 200,
+      "intro": "ほんのりとした果実香で、みずみずしいフレッシュな味わいです。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "ichinokura-tokubetsu-junmai-karakuchi",
+      "name": "一ノ蔵 特別純米酒 辛口",
+      "prefecture": "宮城県",
+      "httpStatus": 200,
+      "intro": "穏やかで甘やかな熟成由来の芳香です。米の旨味とほどよい酸味が感じられます。後口にはキレがあります。",
+      "specialtyIds": [
+        "kaki-oil",
+        "sasa-kamaboko"
+      ],
+      "names": [
+        "牡蠣オイル漬け",
+        "笹かまぼこ"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "hakurakusei-tokubetsu-junmai-1",
+      "name": "伯楽星 純米吟醸",
+      "prefecture": "宮城県",
+      "httpStatus": 200,
+      "intro": "洋梨やパッションフルーツを思わせる香りで、軽快な飲み心地です。柑橘を思わせる爽やかな酸味があります。後口にはキレがあります。",
+      "specialtyIds": [
+        "sasa-kamaboko"
+      ],
+      "names": [
+        "笹かまぼこ"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "denyu-tokubetsu-junmai-standard",
+      "name": "田友 特別純米",
+      "prefecture": "新潟県",
+      "httpStatus": 200,
+      "intro": "米本来の膨らむ旨味が特徴の一本。",
+      "specialtyIds": [
+        "kanzuri-shuto"
+      ],
+      "names": [
+        "かんずり酒盗"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "shinkame-hdomtl-3",
+      "name": "神亀 純米清酒",
+      "prefecture": "埼玉県",
+      "httpStatus": 200,
+      "intro": "深味とコクがあります。熟成によるふっくらした旨味があります。後口にはキレがあります。",
+      "specialtyIds": [
+        "saitama-oname"
+      ],
+      "names": [
+        "おなめ"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "kikko-hanabishi-hdomtl-4",
+      "name": "亀甲花菱 槽口瓶封じ純米無濾過生原酒",
+      "prefecture": "埼玉県",
+      "httpStatus": 200,
+      "intro": "開けたてはフレッシュな味わい。開栓後には、落ち着いた旨味が増していきます。",
+      "specialtyIds": [
+        "saitama-oname"
+      ],
+      "names": [
+        "おなめ"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "kinoene-gg3q4p-2",
+      "name": "甲子 純米 うまから 磨き八割",
+      "prefecture": "千葉県",
+      "httpStatus": 200,
+      "intro": "米の旨味と酸の効いた飲み口と微かな発泡感が感じられます。キレのある飲み口です。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "kinkon-kflfjg-2",
+      "name": "金婚 純米酒",
+      "prefecture": "東京都",
+      "httpStatus": 200,
+      "intro": "すっきりした飲み口です。米本来の旨みがあります。",
+      "specialtyIds": [
+        "tokyo-asari-tsukudani"
+      ],
+      "names": [
+        "あさりの佃煮"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "kasen-kflfjg-4",
+      "name": "特別本醸造 嘉泉",
+      "prefecture": "東京都",
+      "httpStatus": 200,
+      "intro": "ナッツやバニラを思わせる熟成香で、まろやかな口当たりです。ふくよかな旨みがあります。凛としたキレと奥深い余韻があります。",
+      "specialtyIds": [
+        "tokyo-asari-tsukudani"
+      ],
+      "names": [
+        "あさりの佃煮"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "hakkaisan-tokubetsu-honjozo-1",
+      "name": "純米大吟醸 八海山 雪室貯蔵三年",
+      "prefecture": "新潟県",
+      "httpStatus": 200,
+      "intro": "まろやかな味わいを楽しめます。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "kubota-senju-2",
+      "name": "久保田 萬寿",
+      "prefecture": "新潟県",
+      "httpStatus": 200,
+      "intro": "香りは華やかで、重厚で深みのある口当たりです。甘みと酸味が重なります。心地よい余韻があります。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "sanshoraku-junmai-standard",
+      "name": "三笑楽 純米酒",
+      "prefecture": "富山県",
+      "httpStatus": 200,
+      "intro": "麹の豊かな香りです。程良い酸味があります。",
+      "specialtyIds": [
+        "shiroebi-himono",
+        "hotaruika-okizuke"
+      ],
+      "names": [
+        "白えび素干し",
+        "ほたるいか沖漬け"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "maboroshi-no-taki-junmai-ginjo-standard",
+      "name": "純米吟醸 幻の瀧",
+      "prefecture": "富山県",
+      "httpStatus": 200,
+      "intro": "米の旨味と酸味が感じられます。",
+      "specialtyIds": [
+        "hotaruika-okizuke",
+        "hotaruika-himono"
+      ],
+      "names": [
+        "ほたるいか沖漬け",
+        "ほたるいか素干し"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "tengumai-yamahai-junmai-3",
+      "name": "天狗舞 山廃仕込純米酒",
+      "prefecture": "石川県",
+      "httpStatus": 200,
+      "intro": "濃厚な香味と、酸味を楽しめる一本。",
+      "specialtyIds": [
+        "kabura-zushi"
+      ],
+      "names": [
+        "かぶら寿し"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "kachikoma-junmai-3",
+      "name": "勝駒 大吟醸",
+      "prefecture": "富山県",
+      "httpStatus": 200,
+      "intro": "味わいの詳しい情報は、蔵元や購入先の商品説明もご覧ください。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "kokuryu-junmai-ginjo-1",
+      "name": "黒龍 純米大吟醸",
+      "prefecture": "福井県",
+      "httpStatus": 200,
+      "intro": "上品でふくらみのある味わいが特徴の一本。",
+      "specialtyIds": [
+        "heshiko"
+      ],
+      "names": [
+        "へしこ"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "jokigen-ishikawa-nozijh-4",
+      "name": "常きげん 山廃吟醸",
+      "prefecture": "石川県",
+      "httpStatus": 200,
+      "intro": "コクと辛口の味わいが感じられます。後口にはキレがあります。",
+      "specialtyIds": [
+        "fugu-nukazuke",
+        "kabura-zushi"
+      ],
+      "names": [
+        "ふぐの子糠漬け",
+        "かぶら寿し"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "born-gold-2",
+      "name": "梵・純粋",
+      "prefecture": "福井県",
+      "httpStatus": 200,
+      "intro": "腰のある味わいが特徴の一本。",
+      "specialtyIds": [
+        "heshiko",
+        "kodai-sasazuke"
+      ],
+      "names": [
+        "へしこ",
+        "小鯛ささ漬け"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "ippongi-o0ffit-4",
+      "name": "一本義 辛口 純米酒",
+      "prefecture": "福井県",
+      "httpStatus": 200,
+      "intro": "チェリーを思わせるほのかな香りで、みずみずしい口当たりと押し味です。クリアな旨味と辛口の味わいと爽やかな酸味が感じられます。",
+      "specialtyIds": [
+        "heshiko"
+      ],
+      "names": [
+        "へしこ"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "hanagaki-o0ffit-5",
+      "name": "純米大吟醸 廻（めぐり）",
+      "prefecture": "福井県",
+      "httpStatus": 200,
+      "intro": "メロンを思わせる穏やかな香りと、ほのかな甘み。飲み心地はシャープで軽やかで、後口はすっきりしています。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "shichiken-i9dko8-1",
+      "name": "七賢 純米大吟醸 白心",
+      "prefecture": "山梨県",
+      "httpStatus": 200,
+      "intro": "重厚感のある味わいが特徴の一本。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "shunnoten-i9dko8-2",
+      "name": "春鶯囀 純米吟醸",
+      "prefecture": "山梨県",
+      "httpStatus": 200,
+      "intro": "ほのかに甘く華やかな香りで、飲み心地は軽やかです。しっかりした旨味とやや甘口の味わいと程よい酸味が感じられます。",
+      "specialtyIds": [
+        "yamanashi-awabi-nigai",
+        "yamanashi-koshu-koume"
+      ],
+      "names": [
+        "あわびの煮貝",
+        "甲州小梅の漬物"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "tanizakura-i9dko8-3",
+      "name": "純米吟醸 谷櫻",
+      "prefecture": "山梨県",
+      "httpStatus": 200,
+      "intro": "自然でなめらかな口当たりです。米の旨味が感じられます。",
+      "specialtyIds": [
+        "yamanashi-awabi-nigai"
+      ],
+      "names": [
+        "あわびの煮貝"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "kawanakajima-genmai-junmai-ginjo-4",
+      "name": "川中島 純米 にごり酒",
+      "prefecture": "長野県",
+      "httpStatus": 200,
+      "intro": "とろりとした濃厚な飲み口です。米本来の旨味と優しい甘味が感じられます。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "masumi-karakuchi-kiippon-1",
+      "name": "真澄 真朱 AKA 山廃純米吟醸",
+      "prefecture": "長野県",
+      "httpStatus": 200,
+      "intro": "乳製品を思わせるほのかな香りで、深みのある味わいです。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "kunizakari-handago-junmai-ginjo-1801",
+      "name": "國盛 純米吟醸 半田郷 酵母1801",
+      "prefecture": "愛知県",
+      "httpStatus": 200,
+      "intro": "華やかな吟醸香で、やわらかな味わいです。上品な甘みがあります。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "kaiun-tokubetsu-junmai-2",
+      "name": "開運 純米吟醸 山田錦",
+      "prefecture": "静岡県",
+      "httpStatus": 200,
+      "intro": "優しい果実香です。お米由来の旨みがあります。軽い甘味がスッと消えるキレがあります。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "eikun-junmai-ginjo-4",
+      "name": "紫の英君 純米吟醸 山田錦",
+      "prefecture": "静岡県",
+      "httpStatus": 200,
+      "intro": "華やかでフルーティーな吟醸香です。甘みと旨味のある味わいです。後口はきれよく切れます。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "kamoshibito-kuheiji-eau-du-desir-1",
+      "name": "醸し人九平次 別誂",
+      "prefecture": "愛知県",
+      "httpStatus": 200,
+      "intro": "なめらかで重なりのある味わいです。飲み始めに感じる旨味と上品な酸味が感じられます。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "zaku-miyabi-no-tomo-2",
+      "name": "作 玄乃智",
+      "prefecture": "三重県",
+      "httpStatus": 200,
+      "intro": "青リンゴのようなフレッシュな香りで、豊かな味わいです。米の優しい甘みとキレのある酸味が感じられます。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "gokyo-junmai-standard",
+      "name": "五橋 純米酒",
+      "prefecture": "山口県",
+      "httpStatus": 200,
+      "intro": "上品で控えめな吟醸様香で、柔らかで軽快な口当たりです。やや高めの酸味があります。",
+      "specialtyIds": [
+        "yamaguchi-fugu-karaage"
+      ],
+      "names": [
+        "ふぐの唐揚げ"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "furosen-lvvrsw-1",
+      "name": "不老泉 山廃仕込 特別純米 原酒 参年熟成（赤ラベル）",
+      "prefecture": "滋賀県",
+      "httpStatus": 200,
+      "intro": "香ばしい香りで、濃醇な味わいです。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "shichihonyari-lvvrsw-2",
+      "name": "七本鎗 純米 玉栄",
+      "prefecture": "滋賀県",
+      "httpStatus": 200,
+      "intro": "米のふくよかな旨味を楽しめます。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "sawaya-matsumoto-shuhari-1",
+      "name": "澤屋まつもと 純米酒",
+      "prefecture": "京都府",
+      "httpStatus": 200,
+      "intro": "滑らかな味わいが特徴の一本。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "nichinichi-yamada-nishiki-3",
+      "name": "日日 秋津山田錦",
+      "prefecture": "京都府",
+      "httpStatus": 200,
+      "intro": "力強い旨味と、余韻を楽しめる一本。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "kirakucho-lvvrsw-4",
+      "name": "喜楽長 ゆる燗",
+      "prefecture": "滋賀県",
+      "httpStatus": 200,
+      "intro": "ぬる燗で、ほどよい旨味がやわらかに広がります。深みがありながら、やさしく感じられる味わいです。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "goshun-hlztnu-2",
+      "name": "呉春 特吟",
+      "prefecture": "大阪府",
+      "httpStatus": 200,
+      "intro": "香りは穏やか。口に含むと、ゆったりと広がる味わいを感じられます。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "sensuke-junmai-ginjo-3",
+      "name": "仙介 特別純米",
+      "prefecture": "兵庫県",
+      "httpStatus": 200,
+      "intro": "芳醇な香りが特徴の一本。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "umenoyado-junmai-3",
+      "name": "あらごしゆず",
+      "prefecture": "奈良県",
+      "httpStatus": 200,
+      "intro": "ゆず特有の爽やかな風味と口当たりのよさが特徴の酒。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "okuharima-yamahai-junmai-1",
+      "name": "奥播磨 山廃純米 スタンダード",
+      "prefecture": "兵庫県",
+      "httpStatus": 200,
+      "intro": "味わいの詳しい情報は、蔵元や購入先の商品説明もご覧ください。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "suishin-inaho-junmai-ginjo-standard",
+      "name": "純米吟醸 醉心稲穂",
+      "prefecture": "広島県",
+      "httpStatus": 200,
+      "intro": "心地よい香りで、キメ細やかな味わいです。米の旨味が感じられます。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "kid-junmai-ginjo-1",
+      "name": "紀土 純米酒",
+      "prefecture": "和歌山県",
+      "httpStatus": 200,
+      "intro": "軽快なキレが特徴の一本。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "kurumazaka-gp8l70i9d-3",
+      "name": "車坂 純米酒",
+      "prefecture": "和歌山県",
+      "httpStatus": 200,
+      "intro": "優しい口当たりです。円熟した旨味があります。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "chiyomusubi-uzpgk6-3",
+      "name": "千代むすび しゅわっと空",
+      "prefecture": "鳥取県",
+      "httpStatus": 200,
+      "intro": "爽やかな微発泡感が特徴。グレープフルーツを思わせる苦味も楽しめます。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "takaisami-uzpgk6-4",
+      "name": "鷹勇 純米にごり酒 火入れ",
+      "prefecture": "鳥取県",
+      "httpStatus": 200,
+      "intro": "芳醇な香りで、コクがあります。米の旨味が感じられます。",
+      "specialtyIds": [
+        "tottori-tofu-chikuwa"
+      ],
+      "names": [
+        "とうふちくわ"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "rihaku-id2kl5-2",
+      "name": "李白 特別純米酒",
+      "prefecture": "島根県",
+      "httpStatus": 200,
+      "intro": "コクがあります。後口にはキレがあります。",
+      "specialtyIds": [
+        "shimane-ago-noyaki"
+      ],
+      "names": [
+        "あご野焼き"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "sanzen-iapi9d-1",
+      "name": "燦然 純米吟醸 山田錦",
+      "prefecture": "岡山県",
+      "httpStatus": 200,
+      "intro": "フルーティーな香りで、マイルドな味わいです。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "shirayuki-josen-junmai-standard",
+      "name": "上撰 白雪 純米酒",
+      "prefecture": "兵庫県",
+      "httpStatus": 200,
+      "intro": "おだやかな香りで、やわらかな口当たりです。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "taiten-shiragiku-iapi9d-5",
+      "name": "大典白菊 純米大吟醸 雄町",
+      "prefecture": "岡山県",
+      "httpStatus": 200,
+      "intro": "柔らかな香りで、味わいにはふくらみがあります。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "kamo-kinshu-tokubetsu-junmai-2",
+      "name": "賀茂金秀 純米吟醸 雄町",
+      "prefecture": "広島県",
+      "httpStatus": 200,
+      "intro": "軽やかな香りで、深い味わいです。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "ugonotsuki-junmai-ginjo-1",
+      "name": "雨後の月 山田錦 特別純米",
+      "prefecture": "広島県",
+      "httpStatus": 200,
+      "intro": "香りは穏やかで、透明感のあるきれいな味わいです。旨味を感じます。",
+      "specialtyIds": [
+        "hiroshima-kaki-doteyaki"
+      ],
+      "names": [
+        "かきの土手鍋"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "fukucho-io3id2-4",
+      "name": "富久長 海風土 Seafood 純米",
+      "prefecture": "広島県",
+      "httpStatus": 200,
+      "intro": "軽快な飲み心地です。レモンを思わせるすっきりした酸味があります。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "nihonsakari-souhana-junmai-ginjo-standard",
+      "name": "超特撰 惣花 純米吟醸",
+      "prefecture": "兵庫県",
+      "httpStatus": 200,
+      "intro": "甘と酸と辛と苦と渋の五味が調和と、やや甘口の味わいを楽しめる一本。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "kinryo-uc9ijh-3",
+      "name": "金陵月白 吟醸",
+      "prefecture": "香川県",
+      "httpStatus": 200,
+      "intro": "落ち着いた果実香です。穏やかな旨味とマイルドな甘味と穏やかな酸味が感じられます。心地よい余韻があります。",
+      "specialtyIds": [
+        "kagawa-shoyu-mame"
+      ],
+      "names": [
+        "しょうゆ豆"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "dassai-45-1",
+      "name": "獺祭 純米大吟醸 磨き三割九分",
+      "prefecture": "山口県",
+      "httpStatus": 200,
+      "intro": "華やかな上立ち香です。きれいな甘味があります。長い余韻があります。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "ayakiku-uc9ijh-4",
+      "name": "綾菊 純米大吟醸",
+      "prefecture": "香川県",
+      "httpStatus": 200,
+      "intro": "まろやかで気品ある香味を感じる一本。キメの細かい酸味も楽しめます。",
+      "specialtyIds": [
+        "kagawa-honetsukidori"
+      ],
+      "names": [
+        "骨付鳥"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "ishizuchi-junmai-ginjo-1",
+      "name": "石鎚 純米吟醸 緑ラベル",
+      "prefecture": "愛媛県",
+      "httpStatus": 200,
+      "intro": "旨味にふくらみがあり、酸には張りを感じます。ゆったりとした、飲みごたえのある味わいです。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "yamatan-masamune-j6jhwb-2",
+      "name": "山丹正宗 純米大吟醸 松山三井",
+      "prefecture": "愛媛県",
+      "httpStatus": 200,
+      "intro": "穏やかで上品な吟醸香で、すっきりした淡麗な味わいです。軽やかな米の旨味があります。",
+      "specialtyIds": [
+        "ehime-jakoten",
+        "ehime-tachiuo-maki"
+      ],
+      "names": [
+        "じゃこ天",
+        "太刀魚巻"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "kyohina-j6jhwb-5",
+      "name": "京ひな 一刀両断 純米大吟醸辛口",
+      "prefecture": "愛媛県",
+      "httpStatus": 200,
+      "intro": "米の甘味があります。後口はきれよく切れます。",
+      "specialtyIds": [
+        "ehime-jakoten",
+        "ehime-tachiuo-maki"
+      ],
+      "names": [
+        "じゃこ天",
+        "太刀魚巻"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "bijofu-ul4nol-3",
+      "name": "美丈夫 舞",
+      "prefecture": "高知県",
+      "httpStatus": 200,
+      "intro": "味わいの詳しい情報は、蔵元や購入先の商品説明もご覧ください。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "yokoyama-tividq-2",
+      "name": "よこやま 純米吟醸 SILVER7 無濾過生原酒",
+      "prefecture": "長崎県",
+      "httpStatus": 200,
+      "intro": "マスカットを思わせる香りで、フレッシュな味わいと発泡感です。ジューシーな甘味があります。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "miinokotobuki-junmai-ginjo-4",
+      "name": "三井の寿 純米吟醸 ＋14 大辛口",
+      "prefecture": "福岡県",
+      "httpStatus": 200,
+      "intro": "すっきりした味わいです。ドライな辛口があります。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "nogomi-tokubetsu-junmai-1",
+      "name": "能古見 純米吟醸",
+      "prefecture": "佐賀県",
+      "httpStatus": 200,
+      "intro": "メロンやバナナを思わせる果実香で、濃醇な味わいです。甘口の味わいです。",
+      "specialtyIds": [
+        "ika-shumai"
+      ],
+      "names": [
+        "いかしゅうまい"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "sawanotsuru-junmai-yamadanishiki-standard",
+      "name": "沢の鶴 純米酒 山田錦",
+      "prefecture": "兵庫県",
+      "httpStatus": 200,
+      "intro": "香りは穏やかです。米の旨味とやや辛口の味わいが感じられます。",
+      "specialtyIds": [
+        "hyogo-ikanago-kugini"
+      ],
+      "names": [
+        "イカナゴのくぎ煮"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "gazan-junmai-daiginjo-standard",
+      "name": "純米大吟醸 我山",
+      "prefecture": "愛知県",
+      "httpStatus": 200,
+      "intro": "芳醇な香りです。米の旨味が感じられます。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "otokoyama-fukkoshu",
+      "name": "男山 復古酒",
+      "prefecture": "北海道",
+      "httpStatus": 200,
+      "intro": "濃厚な味わいです。甘みの強い味わいです。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "tatenokawa-kyuryu",
+      "name": "楯野川 純米大吟醸 急流",
+      "prefecture": "山形県",
+      "httpStatus": 200,
+      "intro": "味わいの詳しい情報は、蔵元や購入先の商品説明もご覧ください。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "niida-shizenshu-junmai-genshu",
+      "name": "しぜんしゅ 純米原酒",
+      "prefecture": "福島県",
+      "httpStatus": 200,
+      "intro": "米の旨味、甘みと酸味が感じられます。",
+      "specialtyIds": [
+        "fukushima-nishin-sanshozuke",
+        "fukushima-ika-ninjin"
+      ],
+      "names": [
+        "にしんの山椒漬け",
+        "いかにんじん"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "tatenokawa-seiryu",
+      "name": "楯野川 純米大吟醸 清流",
+      "prefecture": "山形県",
+      "httpStatus": 200,
+      "intro": "香りは穏やかで、軽い飲み口です。やや甘口の味わいです。後口はスッキリしています。",
+      "specialtyIds": [
+        "yamagata-omizuke"
+      ],
+      "names": [
+        "おみ漬"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "okunomatsu-tokubetsu-junmai-standard",
+      "name": "奥の松 特別純米",
+      "prefecture": "福島県",
+      "httpStatus": 200,
+      "intro": "おだやかな香りと深いうまみが特徴の酒。",
+      "specialtyIds": [
+        "fukushima-ika-ninjin",
+        "fukushima-nishin-sanshozuke"
+      ],
+      "names": [
+        "いかにんじん",
+        "にしんの山椒漬け"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "harushika-chokarakuchi-junmai",
+      "name": "春鹿 純米超辛口",
+      "prefecture": "奈良県",
+      "httpStatus": 200,
+      "intro": "香りは穏やかで、まろやかな口当たりです。超辛口の味わいです。凛としたキレがあります。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "gunmaizumi-yamahai-junmai",
+      "name": "群馬泉 山廃純米",
+      "prefecture": "群馬県",
+      "httpStatus": 200,
+      "intro": "米の旨味とキレの良い酸味が感じられます。",
+      "specialtyIds": [
+        "gunma-konnyaku-miso-oden"
+      ],
+      "names": [
+        "こんにゃく味噌おでん"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "kinkon-juemon-junmai-muroka-genshu",
+      "name": "純米無濾過原酒 十右衛門",
+      "prefecture": "東京都",
+      "httpStatus": 200,
+      "intro": "まろやかな味わいが特徴の一本。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "warakugoson-junmai-ginjo-standard",
+      "name": "和楽互尊 純米吟醸",
+      "prefecture": "新潟県",
+      "httpStatus": 200,
+      "intro": "おだやかな吟醸香で、ふくらみがあります。すっきりとした純米の旨みがあります。",
+      "specialtyIds": [
+        "kanzuri-shuto",
+        "tochio-aburaage"
+      ],
+      "names": [
+        "かんずり酒盗",
+        "栃尾の油揚げ"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "kanhokuto-tokubetsu-junmai",
+      "name": "寒北斗 特別純米",
+      "prefecture": "福岡県",
+      "httpStatus": 200,
+      "intro": "やさしい香りで、穏やかな飲み口です。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "ohyama-tokubetsu-junmai-tomizu-standard",
+      "name": "大山 特別純米酒 十水",
+      "prefecture": "山形県",
+      "httpStatus": 200,
+      "intro": "コクのある濃醇な味わいと、酸味との調和を楽しめる一本。",
+      "specialtyIds": [
+        "yamagata-tama-konnyaku"
+      ],
+      "names": [
+        "玉こんにゃく"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "hiraizumi-yamahai-tokubetsu-junmai-v1",
+      "name": "飛良泉 山廃純米酒（特別純米酒）",
+      "prefecture": "秋田県",
+      "httpStatus": 200,
+      "intro": "ふくらみのある味わいです。快い酸味があります。",
+      "specialtyIds": [
+        "gibasa",
+        "iburigakko"
+      ],
+      "names": [
+        "ぎばさ",
+        "いぶりがっこ"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "morinokura-junmai-v1",
+      "name": "杜の蔵 純米酒",
+      "prefecture": "福岡県",
+      "httpStatus": 200,
+      "intro": "香味は控えめ。なめらかでふくらみのある、軽やかな味わいです。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "hiraizumi-jukusei-yamahai-junmai-v1",
+      "name": "飛良泉 熟成山廃純米酒",
+      "prefecture": "秋田県",
+      "httpStatus": 200,
+      "intro": "旨みを感じる一本。野性味のある酸も楽しめます。",
+      "specialtyIds": [
+        "iburigakko"
+      ],
+      "names": [
+        "いぶりがっこ"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "komagura-haruka-gonen-junmai-koshu-v1",
+      "name": "独楽蔵 悠（はるか）五年 純米古酒",
+      "prefecture": "福岡県",
+      "httpStatus": 200,
+      "intro": "独特の熟成香です。豊かな旨みがあります。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "kinteki-junmai-ginjo-v1",
+      "name": "金滴 純米吟醸",
+      "prefecture": "北海道",
+      "httpStatus": 200,
+      "intro": "豊かな旨味とやや辛口の味わいが感じられます。",
+      "specialtyIds": [
+        "ika-meshi",
+        "matsumae-zuke"
+      ],
+      "names": [
+        "いかめし",
+        "松前漬け"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "ishizuchi-junmai-ginjo-yamadanishiki50-v1",
+      "name": "石鎚 純米吟醸 山田錦50",
+      "prefecture": "愛媛県",
+      "httpStatus": 200,
+      "intro": "幅のある深い味わいが特徴の一本。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "chikumanishiki-karakuchi-tokubetsu-junmai-v1",
+      "name": "辛口特別純米酒 千曲錦",
+      "prefecture": "長野県",
+      "httpStatus": 200,
+      "intro": "濃醇で深い味わいです。米の旨味と辛口の味わいが感じられます。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "chitosetsuru-junmai-ginjo-kitashizuku-v1",
+      "name": "千歳鶴 純米吟醸 きたしずく",
+      "prefecture": "北海道",
+      "httpStatus": 200,
+      "intro": "爽やかな香りに、みずみずしい甘みと酸味。口に含んだときの、甘酸っぱい印象を楽しめる味わいです。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "sawaya-matsumoto-shuhari-gohyakumangoku-v1",
+      "name": "澤屋まつもと 守破離 五百万石",
+      "prefecture": "京都府",
+      "httpStatus": 200,
+      "intro": "香りはほのかで、すっきりとした淡麗な飲み心地。後口はきれよく切れます。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "tenbu-junmai-v1",
+      "name": "天賦 純米酒",
+      "prefecture": "鹿児島県",
+      "httpStatus": 200,
+      "intro": "熟したバナナやアプリコットを思わせる果実味が特徴の一本。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "ganki-hitotsubi-junmai-v1",
+      "name": "雁木 ひとつび 純米",
+      "prefecture": "山口県",
+      "httpStatus": 200,
+      "intro": "味わいの詳しい情報は、蔵元や購入先の商品説明もご覧ください。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "gakki-masamune-honjozo-nakadori-v1",
+      "name": "楽器正宗 本醸造 中取り",
+      "prefecture": "福島県",
+      "httpStatus": 200,
+      "intro": "甘みと酸味のバランスが特徴の一本。",
+      "specialtyIds": [
+        "fukushima-nishin-sanshozuke"
+      ],
+      "names": [
+        "にしんの山椒漬け"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "shizengo-tokubetsu-junmai-v1",
+      "name": "自然郷 特別純米",
+      "prefecture": "福島県",
+      "httpStatus": 200,
+      "intro": "フルーティな香りで、口に含むとまろやかです。米の旨みが感じられます。",
+      "specialtyIds": [
+        "fukushima-ika-ninjin",
+        "fukushima-nishin-sanshozuke"
+      ],
+      "names": [
+        "いかにんじん",
+        "にしんの山椒漬け"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "houhai-tokubetsu-junmai-v1",
+      "name": "豊盃 特別純米酒",
+      "prefecture": "青森県",
+      "httpStatus": 200,
+      "intro": "落ち着きのある香りで、優しい味わいです。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "nito-junmai-ginjo-yamadanishiki55-v1",
+      "name": "二兎 純米吟醸 山田錦五十五",
+      "prefecture": "愛知県",
+      "httpStatus": 200,
+      "intro": "甘みと酸味のバランスがあり、ミネラル感も感じられます。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "eikun-tokubetsu-junmai-homarefuji-v1",
+      "name": "英君 特別純米酒 誉富士",
+      "prefecture": "静岡県",
+      "httpStatus": 200,
+      "intro": "吟醸香は穏やかです。米の旨味が感じられます。",
+      "specialtyIds": [
+        "shizuoka-kuro-hanpen"
+      ],
+      "names": [
+        "黒はんぺん"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "buyu-karakuchi-junmai-v1",
+      "name": "武勇 辛口純米酒",
+      "prefecture": "茨城県",
+      "httpStatus": 200,
+      "intro": "骨太で複雑な味わいを楽しめます。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "kunimare-tokubetsu-junmai-standard",
+      "name": "国稀 特別純米",
+      "prefecture": "北海道",
+      "httpStatus": 200,
+      "intro": "飲み口はすっきり。米の旨味も感じられる味わいです。",
+      "specialtyIds": [
+        "matsumae-zuke",
+        "ika-meshi"
+      ],
+      "names": [
+        "松前漬け",
+        "いかめし"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "otokoyama-kuniyoshinona-v1",
+      "name": "男山 国芳乃名取酒",
+      "prefecture": "北海道",
+      "httpStatus": 200,
+      "intro": "大辛口の味わいとかすかな酸味が感じられます。シャープなキレがあります。",
+      "specialtyIds": [
+        "matsumae-zuke",
+        "ika-meshi"
+      ],
+      "names": [
+        "松前漬け",
+        "いかめし"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "raifuku-junmai-ginjo-yamadanishiki-hiire-v1",
+      "name": "来福 純米吟醸 山田錦 火入れ",
+      "prefecture": "茨城県",
+      "httpStatus": 200,
+      "intro": "吟醸香は穏やかです。甘みと酸味が重なります。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "hatsumiyo-honjozo-v1",
+      "name": "初御代 本醸造",
+      "prefecture": "宮崎県",
+      "httpStatus": 200,
+      "intro": "やさしい香りで、味わいは淡麗です。キレのある飲み口です。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "tamagawa-tokubetsu-junmai-v1",
+      "name": "玉川 特別純米酒",
+      "prefecture": "京都府",
+      "httpStatus": 200,
+      "intro": "旨味を感じます。後口にはキレがあります。",
+      "specialtyIds": [
+        "kyoto-shibazuke"
+      ],
+      "names": [
+        "しば漬け"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "kariho-yamahai-junmai-chokarakuchi-v1",
+      "name": "刈穂 山廃純米超辛口",
+      "prefecture": "秋田県",
+      "httpStatus": 200,
+      "intro": "きめ細やかに凝縮された旨味と大辛口の味わいが感じられます。",
+      "specialtyIds": [
+        "iburigakko"
+      ],
+      "names": [
+        "いぶりがっこ"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "roman-junmai-ginjo-ichikai-hiire-2025by-v1",
+      "name": "ロ万 純米吟醸 一回火入れ（2025BY）",
+      "prefecture": "福島県",
+      "httpStatus": 200,
+      "intro": "味わいの詳しい情報は、蔵元や購入先の商品説明もご覧ください。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "michizakura-junmai-rclass-v1",
+      "name": "三千櫻 純米 Rclass",
+      "prefecture": "北海道",
+      "httpStatus": 200,
+      "intro": "味わいの詳しい情報は、蔵元や購入先の商品説明もご覧ください。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "hououbiden-tsurugi-hiire-v1",
+      "name": "鳳凰美田 剱 辛口純米酒 火入",
+      "prefecture": "栃木県",
+      "httpStatus": 200,
+      "intro": "米の甘みがあります。キレのある後味があります。",
+      "specialtyIds": [
+        "tochigi-agemaki-yuba"
+      ],
+      "names": [
+        "揚巻湯波"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "shiramayumi-tokubetsu-junmai-hidahomare-standard",
+      "name": "白真弓 特別純米 ひだほまれ",
+      "prefecture": "岐阜県",
+      "httpStatus": 200,
+      "intro": "落ち着いた香りです。米の旨味とやや辛口の味わいとほのかな酸味が感じられます。後口にはキレがあります。",
+      "specialtyIds": [
+        "gifu-akakabu"
+      ],
+      "names": [
+        "赤かぶ漬け"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "morishima-miyamanishiki-junmai-ginjo-hiire-v1",
+      "name": "森嶋 美山錦 純米吟醸 瓶燗火入",
+      "prefecture": "茨城県",
+      "httpStatus": 200,
+      "intro": "控え目な吟醸香です。若々しい米の旨みと爽快な酸味が感じられます。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "tenryo-tobikiri-tokubetsu-junmai",
+      "name": "特別純米 飛切り",
+      "prefecture": "岐阜県",
+      "httpStatus": 200,
+      "intro": "ほのかな熟成香です。旨味と酸味が感じられます。後口にはキレがあります。",
+      "specialtyIds": [
+        "gifu-akakabu"
+      ],
+      "names": [
+        "赤かぶ漬け"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "daishinshu-tenouchi-namazume-v1",
+      "name": "大信州 手の内 生詰",
+      "prefecture": "長野県",
+      "httpStatus": 200,
+      "intro": "軽快な味わいが特徴の一本。",
+      "specialtyIds": [
+        "nagano-nozawana"
+      ],
+      "names": [
+        "野沢菜漬"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "sugata-kire-tokubetsu-junmai-v1",
+      "name": "姿 特別純米酒 斬れすがた",
+      "prefecture": "栃木県",
+      "httpStatus": 200,
+      "intro": "シャープでみずみずしい口当たり。飲み心地は軽めで透明感があり、余韻もきれよく切れます。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "tsukasabotan-niyodo-blue-junmai-standard",
+      "name": "司牡丹 仁淀ブルー",
+      "prefecture": "高知県",
+      "httpStatus": 200,
+      "intro": "ナチュラルな香りで、淡麗な辛口の味わいです。さらりとしたキレがあります。",
+      "specialtyIds": [
+        "katsuo-namabushi",
+        "shuto"
+      ],
+      "names": [
+        "かつお生節",
+        "酒盗"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "sensuke-chokarakuchi-junmai-ginjo-genshu-ichibi-v1",
+      "name": "仙介 超辛口純米吟醸原酒・一火",
+      "prefecture": "兵庫県",
+      "httpStatus": 200,
+      "intro": "透明感のある飲み心地です。ほのかな米の旨味があります。後口にはキレがあります。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "mikotsuru-junmai-ginjo-hitogokochi-hiire-v1",
+      "name": "御湖鶴 純米吟醸 ひとごこち 火入れ",
+      "prefecture": "長野県",
+      "httpStatus": 200,
+      "intro": "まろやかでふくらみのある味わいで、フレッシュな味わいです。ガス感があります。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "hanzo-tokubetsu-junmai-karakuchi-v1",
+      "name": "半蔵 特別純米酒 辛口",
+      "prefecture": "三重県",
+      "httpStatus": 200,
+      "intro": "香りは穏やか。米の旨味をしっかり感じられる味わいです。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "ryozeki-junmai-ginjo-v1",
+      "name": "純米吟醸 両関",
+      "prefecture": "秋田県",
+      "httpStatus": 200,
+      "intro": "柔らかく優しい香りで、スッキリした味わいです。",
+      "specialtyIds": [
+        "gibasa",
+        "iburigakko"
+      ],
+      "names": [
+        "ぎばさ",
+        "いぶりがっこ"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "sasaichi-yata-junmai-daiginjo-v1",
+      "name": "八咫笹一 純米大吟醸",
+      "prefecture": "山梨県",
+      "httpStatus": 200,
+      "intro": "上品で芳醇な旨みを楽しめます。",
+      "specialtyIds": [
+        "yamanashi-awabi-nigai"
+      ],
+      "names": [
+        "あわびの煮貝"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "rokujuyoshu-junmai-ginjo-yamadanishiki-v1",
+      "name": "六十餘洲 純米吟醸 山田錦",
+      "prefecture": "長崎県",
+      "httpStatus": 200,
+      "intro": "吟醸香は穏やかで、旨味と酸味が重なります。",
+      "specialtyIds": [
+        "nagasaki-hatoshi"
+      ],
+      "names": [
+        "ハトシ"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "hakutaka-kinmatsu-tokubetsu-junmai",
+      "name": "金松白鷹 特別純米",
+      "prefecture": "兵庫県",
+      "httpStatus": 200,
+      "intro": "力強い飲み口です。米の旨味が感じられます。後口にはキレがあります。",
+      "specialtyIds": [
+        "hyogo-ikanago-kugini"
+      ],
+      "names": [
+        "イカナゴのくぎ煮"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "fukutsuru-junmai-ginjo-v1",
+      "name": "福鶴 純米吟醸酒",
+      "prefecture": "長崎県",
+      "httpStatus": 200,
+      "intro": "米本来の旨味が特徴。爽やかな味わいも楽しめます。",
+      "specialtyIds": [
+        "nagasaki-hatoshi"
+      ],
+      "names": [
+        "ハトシ"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "hakuinmasamune-karakuchi-junmai-standard",
+      "name": "白隠正宗 辛口純米酒",
+      "prefecture": "静岡県",
+      "httpStatus": 200,
+      "intro": "辛口の味わいを楽しめます。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "rokujuyoshu-tividq-3",
+      "name": "六十餘洲 にごり酒",
+      "prefecture": "長崎県",
+      "httpStatus": 200,
+      "intro": "すっきりとした飲み口です。しっかりとした旨味、ほのかな甘味が感じられます。",
+      "specialtyIds": [
+        "nagasaki-hatoshi"
+      ],
+      "names": [
+        "ハトシ"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "hatsukame-karakara-beppin-v1",
+      "name": "初亀 純米吟醸 からからべっぴん",
+      "prefecture": "静岡県",
+      "httpStatus": 200,
+      "intro": "超辛口の味わいと控えめな酸味が感じられます。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "nishinoseki-junmai-ginjo-bigin-v1",
+      "name": "西の関 純米吟醸 美吟",
+      "prefecture": "大分県",
+      "httpStatus": 200,
+      "intro": "吟醸香が特徴。旨味も楽しめます。",
+      "specialtyIds": [
+        "oita-ayu-uruka",
+        "oita-ryukyu"
+      ],
+      "names": [
+        "あゆうるか",
+        "りゅうきゅう"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "haneya-kirabi-nama-genshu-v1",
+      "name": "羽根屋 純吟 煌火 生原酒",
+      "prefecture": "富山県",
+      "httpStatus": 200,
+      "intro": "華やかな香りに、まろやかな舌ざわり。ほどよい甘味と旨みが感じられる、きれいな飲み口です。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "wakabotan-hatcho-hinohikari-v1",
+      "name": "和香牡丹 八蝶 ヒノヒカリ",
+      "prefecture": "大分県",
+      "httpStatus": 200,
+      "intro": "リンゴやパッションフルーツを思わせる香りです。甘みと酸味と微発泡感が感じられます。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "mifuku-yamahai-junmai-ginjo-iginjunsei-standard",
+      "name": "美冨久 山廃純米吟醸 いぎん純聖",
+      "prefecture": "滋賀県",
+      "httpStatus": 200,
+      "intro": "フルーティーな吟醸香で、コクと深みがあります。米の旨味と中口の味わいが感じられます。",
+      "specialtyIds": [
+        "shiga-koayu-sanshoni"
+      ],
+      "names": [
+        "小あゆの山椒煮"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "kozaemon-bizen-omachi-hiire-v1",
+      "name": "小左衛門 純米吟醸 備前雄町 火入",
+      "prefecture": "岐阜県",
+      "httpStatus": 200,
+      "intro": "なめらかな飲み心地です。柔らかな旨みと酸味が感じられます。後口はきれよく切れます。",
+      "specialtyIds": [
+        "gifu-akakabu"
+      ],
+      "names": [
+        "赤かぶ漬け"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "kurokabuto-green-label-v1",
+      "name": "黒兜 Green Label 純米吟醸",
+      "prefecture": "福岡県",
+      "httpStatus": 200,
+      "intro": "洋ナシやリンゴを思わせる味わいです。やや辛口の味わいと爽やかな酸味が感じられます。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "miyozakura-leaf-junmai-ginjo-v1",
+      "name": "御代櫻 純米吟醸 Leaf",
+      "prefecture": "岐阜県",
+      "httpStatus": 200,
+      "intro": "華やかな吟醸香です。柔らかな甘味と酸味が感じられます。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "choryo-yoshinosugi-tarusake-standard",
+      "name": "吉野杉の樽酒",
+      "prefecture": "奈良県",
+      "httpStatus": 200,
+      "intro": "杉の清々しい香りです。旨みを感じます。",
+      "specialtyIds": [
+        "nara-narazuke"
+      ],
+      "names": [
+        "奈良漬"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "yokoyama-silver7-namazume-v1",
+      "name": "よこやま 純米吟醸 SILVER7 生詰",
+      "prefecture": "長崎県",
+      "httpStatus": 200,
+      "intro": "マスカットを思わせる香りで、フレッシュな味わいです。ジューシーな甘みと微発泡感が感じられます。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "mikadomatsu-shacho-no-sake-v1",
+      "name": "帝松 吟醸出世酒 社長の酒",
+      "prefecture": "埼玉県",
+      "httpStatus": 200,
+      "intro": "香りは上品。旨みがあり、酸味との調和も感じられます。",
+      "specialtyIds": [
+        "saitama-oname"
+      ],
+      "names": [
+        "おなめ"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "fudo-ichido-hiire-junmai-daiginjo-v1",
+      "name": "不動 一度火入れ 純米大吟醸",
+      "prefecture": "千葉県",
+      "httpStatus": 200,
+      "intro": "まろやかな味わいを楽しめます。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "zaru-so-hourai-junmai-green-v1",
+      "name": "残草蓬莱 純米 緑ラベル",
+      "prefecture": "神奈川県",
+      "httpStatus": 200,
+      "intro": "柑橘系の含み香です。最初に感じる米の甘味と酸味が感じられます。後口はドライです。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "sagaminada-tokubetsu-junmai-karakuchi-hiire-v1",
+      "name": "相模灘 特別純米 辛口 火入れ",
+      "prefecture": "神奈川県",
+      "httpStatus": 200,
+      "intro": "辛口の味わいを楽しめます。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "niseko-suisei-junmai-ginjo-hiire-v1",
+      "name": "二世古 純米吟醸 彗星 火入",
+      "prefecture": "北海道",
+      "httpStatus": 200,
+      "intro": "控えめな香りを感じる一本。すっきりした味わいも楽しめます。",
+      "specialtyIds": [
+        "matsumae-zuke"
+      ],
+      "names": [
+        "松前漬け"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "gozenshu-junmai-ginjo-nyoisan-omachi-v1",
+      "name": "御前酒 純米吟醸 如意山 雄町",
+      "prefecture": "岡山県",
+      "httpStatus": 200,
+      "intro": "上品で華やかな香りです。ふくよかな旨味があります。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "gozenshu-junmai-mimasaka-v1",
+      "name": "御前酒 純米 美作",
+      "prefecture": "岡山県",
+      "httpStatus": 200,
+      "intro": "香りは穏やかです。雄町米の旨みがあります。",
+      "specialtyIds": [
+        "okayama-mamakari"
+      ],
+      "names": [
+        "ママカリの酢漬け"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "shidaizumi-junmai-ginjo-yaizu-shumai-2026-v1",
+      "name": "志太泉 純米吟醸 焼津酒米研究会",
+      "prefecture": "静岡県",
+      "httpStatus": 200,
+      "intro": "爽やかな柑橘系の吟醸香で、透明感のある飲み心地です。",
+      "specialtyIds": [
+        "shizuoka-kuro-hanpen"
+      ],
+      "names": [
+        "黒はんぺん"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "kawatsuru-junmai-ooseto-hiire-v1",
+      "name": "川鶴 純米オオセト",
+      "prefecture": "香川県",
+      "httpStatus": 200,
+      "intro": "熟したメロンやリンゴを思わせる上品な果実香です。骨太な米の旨味があります。後口にはキレがあります。",
+      "specialtyIds": [
+        "kagawa-honetsukidori"
+      ],
+      "names": [
+        "骨付鳥"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "umenishiki-ginjo-tsuunosake-v1",
+      "name": "梅錦 つうの酒",
+      "prefecture": "愛媛県",
+      "httpStatus": 200,
+      "intro": "なめらかな口当たりと透明感です。甘さが抑えられたドライな味わいです。",
+      "specialtyIds": [
+        "ehime-jakoten",
+        "ehime-tachiuo-maki"
+      ],
+      "names": [
+        "じゃこ天",
+        "太刀魚巻"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "toyonoaki-junmai-ginjo-matsuezukushi-standard",
+      "name": "豊の秋 純米吟醸 松江づくし",
+      "prefecture": "島根県",
+      "httpStatus": 200,
+      "intro": "やわらかな吟香です。しっかりとした芯のある旨味、やや辛口の味わいが感じられます。後口はすっきりしています。",
+      "specialtyIds": [
+        "shimane-ago-noyaki"
+      ],
+      "names": [
+        "あご野焼き"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "akaiwaomachi-junmai-daiginjo-standard-v1",
+      "name": "赤磐雄町 純米大吟醸",
+      "prefecture": "岡山県",
+      "httpStatus": 200,
+      "intro": "雄町米の旨味を楽しめます。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "kinpai-junmai-yokozuna-standard",
+      "name": "金盃 純米酒 横綱",
+      "prefecture": "兵庫県",
+      "httpStatus": 200,
+      "intro": "口に含むとまろやかです。米の旨みが感じられます。",
+      "specialtyIds": [
+        "hyogo-ikanago-kugini"
+      ],
+      "names": [
+        "イカナゴのくぎ煮"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "suigei-junmai-daiginjo-hyogo-yamadanishiki50-v1",
+      "name": "酔鯨 純米大吟醸 兵庫山田錦50%",
+      "prefecture": "高知県",
+      "httpStatus": 200,
+      "intro": "軽やかな吟醸香です。上品な旨みとキレの良い辛口が感じられます。",
+      "specialtyIds": [
+        "katsuo-namabushi",
+        "shuto"
+      ],
+      "names": [
+        "かつお生節",
+        "酒盗"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "nichiei-junmai-ginjo-ishikawamon-standard",
+      "name": "日榮 純米吟醸 石川門",
+      "prefecture": "石川県",
+      "httpStatus": 200,
+      "intro": "やわらかな含み香です。深い旨みと程よい酸味が感じられます。",
+      "specialtyIds": [
+        "kabura-zushi",
+        "fugu-nukazuke"
+      ],
+      "names": [
+        "かぶら寿し",
+        "ふぐの子糠漬け"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "iyo-kagiya-junmai-aka-label-v1",
+      "name": "伊予賀儀屋 無濾過 純米 赤ラベル",
+      "prefecture": "愛媛県",
+      "httpStatus": 200,
+      "intro": "軽快な飲み心地です。米の旨味が感じられます。",
+      "specialtyIds": [
+        "ehime-jakoten",
+        "ehime-tachiuo-maki"
+      ],
+      "names": [
+        "じゃこ天",
+        "太刀魚巻"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "seiryozen-tokubetsu-junmai-the-plains-v1",
+      "name": "成龍然 特別純米 The Plains",
+      "prefecture": "愛媛県",
+      "httpStatus": 200,
+      "intro": "優しいお米の旨みがあります。後口はきれよく切れます。",
+      "specialtyIds": [
+        "ehime-jakoten",
+        "ehime-tachiuo-maki"
+      ],
+      "names": [
+        "じゃこ天",
+        "太刀魚巻"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "tanzawasan-shuho-v1",
+      "name": "丹澤山 秀峰",
+      "prefecture": "神奈川県",
+      "httpStatus": 200,
+      "intro": "柔らかな味わいです。後口はきれよく切れます。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "niwanouguisu-tokubetsu-junmai-standard-v1",
+      "name": "庭のうぐいす 特別純米",
+      "prefecture": "福岡県",
+      "httpStatus": 200,
+      "intro": "軽い口当たりと深い味わいで、フレッシュな味わいです。ドライな飲み口です。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "niwanouguisu-junmai-ginjo-nuruhada-v1",
+      "name": "庭のうぐいす 純米吟醸 ぬるはだ",
+      "prefecture": "福岡県",
+      "httpStatus": 200,
+      "intro": "しっかりとした甘み、しっかりとした酸味が感じられます。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "takakiya-karakuchi-tokubetsu-junmai-v1",
+      "name": "鷹来屋 辛口 特別純米酒",
+      "prefecture": "大分県",
+      "httpStatus": 200,
+      "intro": "旨味と辛口の味わいが感じられます。後口にはキレがあります。",
+      "specialtyIds": [
+        "oita-ayu-uruka",
+        "oita-ryukyu"
+      ],
+      "names": [
+        "あゆうるか",
+        "りゅうきゅう"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "tenbu-junmai-ginjo-uzen-sakemirai-v1",
+      "name": "天賦 純米吟醸 羽前酒未来",
+      "prefecture": "鹿児島県",
+      "httpStatus": 200,
+      "intro": "芳醇なメロンを思わせる上品な香りです。濃厚な旨味があります。",
+      "specialtyIds": [
+        "kagoshima-buta-miso"
+      ],
+      "names": [
+        "豚味噌"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "shosetsu-junmai-ginjo-yamadanishiki-standard-v1",
+      "name": "正雪 純米吟醸 山田錦",
+      "prefecture": "静岡県",
+      "httpStatus": 200,
+      "intro": "果実の香りで、しっとりとした味わいです。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "tonbo-tokubetsu-junmai-standard-v1",
+      "name": "蜻蛉 特別純米酒",
+      "prefecture": "福岡県",
+      "httpStatus": 200,
+      "intro": "米の旨味と、すっきりした味わいを楽しめる一本。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "tomio-gion-komachi-junmai-ginjo-standard",
+      "name": "富翁 純米吟醸 祇園小町",
+      "prefecture": "京都府",
+      "httpStatus": 200,
+      "intro": "やわらかな口あたりを楽しめます。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "houraisen-bi-junmai-daiginjo-standard-v1",
+      "name": "蓬莱泉 純米大吟醸 美",
+      "prefecture": "愛知県",
+      "httpStatus": 200,
+      "intro": "香りは華やかで、まろやかな口当たりです。やや甘口の味わいです。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "takijiman-hayase-karakuchi-junmai-v1",
+      "name": "瀧自慢 辛口純米 滝水流",
+      "prefecture": "三重県",
+      "httpStatus": 200,
+      "intro": "味わいは辛口です。すっきりとしたキレの良い味わいです。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "kazenomori-akitsuho-657-standard-v1",
+      "name": "風の森 秋津穂657",
+      "prefecture": "奈良県",
+      "httpStatus": 200,
+      "intro": "瓜や洋梨のような香りで、複雑な味わいです。甘みが感じられます。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "kirei-karakuchi-junmai-hachiju-hiire-v1",
+      "name": "亀齢 辛口純米 八拾 火入れ",
+      "prefecture": "広島県",
+      "httpStatus": 200,
+      "intro": "米の旨味と微細な酸味が感じられます。",
+      "specialtyIds": [
+        "hiroshima-kaki-doteyaki"
+      ],
+      "names": [
+        "かきの土手鍋"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "sogen-notonokuni-junmai-standard-v1",
+      "name": "宗玄 能登乃国 純米酒",
+      "prefecture": "石川県",
+      "httpStatus": 200,
+      "intro": "なめらかな喉ごしを楽しめます。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "sogen-genshin-junmai-daiginjo-standard-v1",
+      "name": "宗玄 純米大吟醸 玄心",
+      "prefecture": "石川県",
+      "httpStatus": 200,
+      "intro": "優しい香りで、豊かな味わいです。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "nanbubijin-junmai-daiginjo-sakemirai-standard-v1",
+      "name": "南部美人 純米大吟醸 酒未来",
+      "prefecture": "岩手県",
+      "httpStatus": 200,
+      "intro": "上品な吟醸香です。すっきりとした酸味があります。後口にはキレがあります。",
+      "specialtyIds": [
+        "iwate-suki-kombu"
+      ],
+      "names": [
+        "すき昆布"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "houken-junmai-hattannishiki-green-v1",
+      "name": "宝剣 純米 緑ラベル 八反錦",
+      "prefecture": "広島県",
+      "httpStatus": 200,
+      "intro": "軽快な飲み口です。キレのよい余韻があります。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "houken-junmai-ginjo-hattannishiki-standard-v1",
+      "name": "宝剣 純米吟醸 八反錦",
+      "prefecture": "広島県",
+      "httpStatus": 200,
+      "intro": "米の旨味が特徴の一本。",
+      "specialtyIds": [
+        "hiroshima-kaki-doteyaki"
+      ],
+      "names": [
+        "かきの土手鍋"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "kokuryu-icchorai-jungin-standard-v1",
+      "name": "黒龍 いっちょらい 純吟",
+      "prefecture": "福井県",
+      "httpStatus": 200,
+      "intro": "柔らかく深い旨味があります。心地よいキレがあります。",
+      "specialtyIds": [
+        "kodai-sasazuke",
+        "heshiko"
+      ],
+      "names": [
+        "小鯛ささ漬け",
+        "へしこ"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "sawanoi-junmai-daikarakuchi-standard-v1",
+      "name": "澤乃井 純米大辛口",
+      "prefecture": "東京都",
+      "httpStatus": 200,
+      "intro": "味わいは辛口です。キレのある辛口の味わいです。",
+      "specialtyIds": [
+        "tokyo-bettarazuke"
+      ],
+      "names": [
+        "べったら漬け"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "toyobijin-junmai-ginjo-50-standard-v1",
+      "name": "東洋美人 純米吟醸 50",
+      "prefecture": "山口県",
+      "httpStatus": 200,
+      "intro": "青りんごのような上品な香りで、柔らかいボディー感があります。しっかりとした旨み、熟した果実の甘みが感じられます。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "sagaminada-junmai-ginjo-miyamanishiki-standard-v1",
+      "name": "相模灘 純米吟醸 美山錦",
+      "prefecture": "神奈川県",
+      "httpStatus": 200,
+      "intro": "爽やかな吟醸香を楽しめます。軽快な口あたりも、このお酒の特徴です。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "hiran-nikomaru-hiire-standard-v1",
+      "name": "HIRAN にこまる 火入れ",
+      "prefecture": "長崎県",
+      "httpStatus": 200,
+      "intro": "香りは穏やかです。にこまるの旨味があります。",
+      "specialtyIds": [
+        "nagasaki-hatoshi"
+      ],
+      "names": [
+        "ハトシ"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "shinomine-rinrin-setoomachi-junmai-ginjo-muroka-nama-genshu-v1",
+      "name": "篠峯 凛々 純米吟醸 無濾過生原酒",
+      "prefecture": "奈良県",
+      "httpStatus": 200,
+      "intro": "新鮮でフルーティーな香りです。爽やかな甘味があります。ドライな飲み口です。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "kitanonishiki-maruta-tokubetsu-junmai-v1",
+      "name": "北の錦 特別純米酒 まる田",
+      "prefecture": "北海道",
+      "httpStatus": 200,
+      "intro": "濃厚な飲み心地に、力強い米の旨味。酸味との調和も感じられます。",
+      "specialtyIds": [
+        "ika-meshi"
+      ],
+      "names": [
+        "いかめし"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "tenon-junmai-standard-ichikai-hiire-v1",
+      "name": "天穏 純米酒",
+      "prefecture": "島根県",
+      "httpStatus": 200,
+      "intro": "味わいの詳しい情報は、蔵元や購入先の商品説明もご覧ください。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "tosa-shiragiku-zankara-tokubetsu-junmai-standard-v1",
+      "name": "土佐しらぎく 斬辛 特別純米",
+      "prefecture": "高知県",
+      "httpStatus": 200,
+      "intro": "果実の爽やかな香りです。味わいは辛口です。キレのある辛口の味わいです。",
+      "specialtyIds": [
+        "katsuo-namabushi",
+        "shuto"
+      ],
+      "names": [
+        "かつお生節",
+        "酒盗"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "shinomine-takeyama-junmai-yamadanishiki-chokarakuchi-hiire-v1",
+      "name": "篠峯 純米 山田錦 超辛口 竹山 火入れ",
+      "prefecture": "奈良県",
+      "httpStatus": 200,
+      "intro": "すっきりした後口と辛口の味わいが特徴の酒。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "housui-tokubetsu-junmai-standard-v1",
+      "name": "芳水 特別純米酒",
+      "prefecture": "徳島県",
+      "httpStatus": 200,
+      "intro": "ふくらみのある香味が特徴の一本。",
+      "specialtyIds": [
+        "tokushima-fish-katsu"
+      ],
+      "names": [
+        "フィッシュカツ"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "hitakami-sakana-label-tokubetsu-junmai-hiire-v1",
+      "name": "日高見 特別純米酒 魚ラベル",
+      "prefecture": "宮城県",
+      "httpStatus": 200,
+      "intro": "微かな果実の香りです。柔らかな旨味があります。引き締まったキレがあります。",
+      "specialtyIds": [
+        "sasa-kamaboko",
+        "hoya-chinmi"
+      ],
+      "names": [
+        "笹かまぼこ",
+        "ほや珍味"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "hitakami-chokarakuchi-junmai-standard-v1",
+      "name": "日高見 超辛口純米酒",
+      "prefecture": "宮城県",
+      "httpStatus": 200,
+      "intro": "爽やかな果実様香で、やや豊潤な味わいです。後口にはキレがあります。",
+      "specialtyIds": [
+        "sasa-kamaboko"
+      ],
+      "names": [
+        "笹かまぼこ"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "umebijin-junmai-ginjo-sakurahime-standard",
+      "name": "純米吟醸 梅美人 さくらひめ酵母",
+      "prefecture": "愛媛県",
+      "httpStatus": 200,
+      "intro": "果物を思わせる甘みがあり、酸味と調和した味わいです。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "taiten-shiragiku-junmai-shiragiku-standard-v1",
+      "name": "大典白菊 純米 白菊",
+      "prefecture": "岡山県",
+      "httpStatus": 200,
+      "intro": "米の旨みを楽しめます。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "sohomare-kimoto-tokubetsu-junmai",
+      "name": "惣誉 生酛仕込 特別純米",
+      "prefecture": "栃木県",
+      "httpStatus": 200,
+      "intro": "コクがあります。密度の高い旨み、甘み、しっかりとした酸味が感じられます。",
+      "specialtyIds": [
+        "tochigi-shimotsukare",
+        "tochigi-agemaki-yuba"
+      ],
+      "names": [
+        "しもつかれ",
+        "揚巻湯波"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "hourai-junmai-ginjo-kaden-tezukuri-v1",
+      "name": "蓬莱 純米吟醸 家伝手造り",
+      "prefecture": "岐阜県",
+      "httpStatus": 200,
+      "intro": "お米本来の香りが特徴の一本。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "kawanakajima-tokubetsu-junmai-standard-v1",
+      "name": "川中島 特別純米酒",
+      "prefecture": "長野県",
+      "httpStatus": 200,
+      "intro": "柔らかさとコクがあります。後口にはキレがあります。",
+      "specialtyIds": [
+        "nagano-nozawana"
+      ],
+      "names": [
+        "野沢菜漬"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "takachiyo-karakuchi-junmai-miyamanishiki-plus19-hiire-v1",
+      "name": "高千代 からくち純米 美山錦 +19 火入れ",
+      "prefecture": "新潟県",
+      "httpStatus": 200,
+      "intro": "米の旨味と超辛口の味わいが感じられます。後口にはキレがあります。",
+      "specialtyIds": [
+        "kanzuri-shuto",
+        "tochio-aburaage"
+      ],
+      "names": [
+        "かんずり酒盗",
+        "栃尾の油揚げ"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "kirari-junmai-genshu-hiire-standard-v1",
+      "name": "喜楽里 純米 原酒（火入れ）",
+      "prefecture": "和歌山県",
+      "httpStatus": 200,
+      "intro": "味わいの詳しい情報は、蔵元や購入先の商品説明もご覧ください。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "shoutoku-karaku-tokubetsu-junmai-karakuchi-genshu-standard",
+      "name": "特別純米 花洛 辛口原酒",
+      "prefecture": "京都府",
+      "httpStatus": 200,
+      "intro": "辛口の味わい、すっきりとした酸味が感じられます。後口はきれよく切れます。",
+      "specialtyIds": [
+        "kyoto-shibazuke"
+      ],
+      "names": [
+        "しば漬け"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "ozeki-tokusen-tokubetsu-junmai-yamadanishiki-standard",
+      "name": "大関 特撰 特別純米酒 山田錦",
+      "prefecture": "兵庫県",
+      "httpStatus": 200,
+      "intro": "まろやかな香りです。ふくよかな旨みと芳醇辛口が感じられます。",
+      "specialtyIds": [
+        "hyogo-ikanago-kugini"
+      ],
+      "names": [
+        "イカナゴのくぎ煮"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "kenkonichi-chokarakuchi-junmai-ginjo-genshu-hiire-v1",
+      "name": "乾坤一 超辛口 純米吟醸原酒 火入れ",
+      "prefecture": "宮城県",
+      "httpStatus": 200,
+      "intro": "やさしい旨みと超辛口の味わいが感じられます。後口はきれよく切れます。",
+      "specialtyIds": [
+        "hoya-chinmi",
+        "sasa-kamaboko"
+      ],
+      "names": [
+        "ほや珍味",
+        "笹かまぼこ"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "jikon-tokubetsu-junmai-hiire-standard-v1",
+      "name": "而今 特別純米 火入",
+      "prefecture": "三重県",
+      "httpStatus": 200,
+      "intro": "味わいの詳しい情報は、蔵元や購入先の商品説明もご覧ください。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "jikon-junmai-ginjo-omachi-hiire-standard-v1",
+      "name": "而今 純米吟醸 雄町 火入",
+      "prefecture": "三重県",
+      "httpStatus": 200,
+      "intro": "味わいの詳しい情報は、蔵元や購入先の商品説明もご覧ください。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "gikyo-enishi-junmai-aged-blend-v1",
+      "name": "義侠 縁（えにし）",
+      "prefecture": "愛知県",
+      "httpStatus": 200,
+      "intro": "味わいの詳しい情報は、蔵元や購入先の商品説明もご覧ください。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "banshu-ikkon-junmai-chokarakuchi-hiire-v1",
+      "name": "播州一献 純米 超辛口 火入れ",
+      "prefecture": "兵庫県",
+      "httpStatus": 200,
+      "intro": "滑らかな後味を感じる一本。辛口の味わいも楽しめます。",
+      "specialtyIds": [
+        "hyogo-ikanago-kugini"
+      ],
+      "names": [
+        "イカナゴのくぎ煮"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "jikon-junmai-ginjo-yamadanishiki-hiire-standard-v1",
+      "name": "而今 純米吟醸 山田錦 火入",
+      "prefecture": "三重県",
+      "httpStatus": 200,
+      "intro": "味わいの詳しい情報は、蔵元や購入先の商品説明もご覧ください。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "kasen-maboroshi-no-sake-tokubetsu-honjozo-standard-v1",
+      "name": "嘉泉 特別本醸造 幻の酒",
+      "prefecture": "東京都",
+      "httpStatus": 200,
+      "intro": "旨味が特徴の一本。",
+      "specialtyIds": [
+        "tokyo-asari-tsukudani"
+      ],
+      "names": [
+        "あさりの佃煮"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "kankiku-ocean99-toumi-arrival-hiire-v1",
+      "name": "寒菊 OCEAN99 橙海 Arrival 無濾過一度火入原酒",
+      "prefecture": "千葉県",
+      "httpStatus": 200,
+      "intro": "飲み心地は軽やかで、味わいには深みがあります。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "akishika-junmai-inaho-yamadanishiki-75-v1",
+      "name": "秋鹿 純米 山田錦 稲穂ラベル",
+      "prefecture": "大阪府",
+      "httpStatus": 200,
+      "intro": "力強い米の旨味と辛口の味わいが感じられます。",
+      "specialtyIds": [
+        "osaka-doteyaki"
+      ],
+      "names": [
+        "どて焼き"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "akishika-yamahai-junmai-yamadanishiki-70-muroka-genshu-hiire-v1",
+      "name": "秋鹿 山廃純米 山田錦 無濾過原酒 火入れ",
+      "prefecture": "大阪府",
+      "httpStatus": 200,
+      "intro": "米の旨味を感じられる辛口の味わい。後口にはキレがあります。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "senkin-classic-nishiki-origarami-hiire-v1",
+      "name": "仙禽 クラシック 弐式（オリガラミ）火入れ",
+      "prefecture": "栃木県",
+      "httpStatus": 200,
+      "intro": "やわらかな口当たりです。酸味を感じます。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "senkin-modern-ichishiki-hiire-v1",
+      "name": "仙禽 モダン 壱式（火入れ）",
+      "prefecture": "栃木県",
+      "httpStatus": 200,
+      "intro": "ボリューム感と厚みを楽しめます。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "senkin-retro-ichishiki-hiire-v1",
+      "name": "仙禽 レトロ 壱式（火入れ）",
+      "prefecture": "栃木県",
+      "httpStatus": 200,
+      "intro": "甘酸っぱい味わいです。キレのある後味があります。",
+      "specialtyIds": [
+        "tochigi-agemaki-yuba"
+      ],
+      "names": [
+        "揚巻湯波"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "yorokobi-gaijin-tezukuri-junmai-hiire-standard-v1",
+      "name": "悦凱陣 手造り純米 火入れ",
+      "prefecture": "香川県",
+      "httpStatus": 200,
+      "intro": "凝縮された旨みと酸味が感じられます。",
+      "specialtyIds": [
+        "kagawa-honetsukidori",
+        "kagawa-shoyu-mame"
+      ],
+      "names": [
+        "骨付鳥",
+        "しょうゆ豆"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "aramasa-no6-r-type-nama-standard-v1",
+      "name": "新政 No.6 R-type",
+      "prefecture": "秋田県",
+      "httpStatus": 200,
+      "intro": "旨味を楽しめます。",
+      "specialtyIds": [
+        "iburigakko"
+      ],
+      "names": [
+        "いぶりがっこ"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "aramasa-viridian-hiire-standard-v1",
+      "name": "新政 天鵞絨（ヴィリジアン）",
+      "prefecture": "秋田県",
+      "httpStatus": 200,
+      "intro": "味わいに厚みのある酒。余韻も楽しめます。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "yui-omachi-junmai-ginjo-chokarakuchi-raifuku-v1",
+      "name": "結ゆい 純米吟醸 超辛口（来福酒造醸造）",
+      "prefecture": "茨城県",
+      "httpStatus": 200,
+      "intro": "超辛口の味わいを楽しめます。",
+      "specialtyIds": [
+        "ibaraki-soboro-natto"
+      ],
+      "names": [
+        "そぼろ納豆"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "chochin-tokubetsu-junmai-gold-standard-v1",
+      "name": "長珍 特別純米酒（ゴールドラベル）",
+      "prefecture": "愛知県",
+      "httpStatus": 200,
+      "intro": "深みのある味わいです。味わいは辛口です。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "ubusuna-yamada-nishiki-ninojo-2025-nama-v1",
+      "name": "産土 2025 山田錦 二農醸 生酒",
+      "prefecture": "熊本県",
+      "httpStatus": 200,
+      "intro": "和梨、柑橘、白桃を思わせる香りで、軽快で優しい飲み口です。フレッシュな味わいです。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "tabika-junmai-funashibori-ichikai-hiire-v1",
+      "name": "田光 純米 槽搾り 一回瓶火入れ",
+      "prefecture": "三重県",
+      "httpStatus": 200,
+      "intro": "穏やかな米の香りで、口に含むとまろやかです。自然な旨みがあります。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "okunokami-junmai-ginjo-muchosei-nama-v1",
+      "name": "屋守 純米吟醸 無調整 生",
+      "prefecture": "東京都",
+      "httpStatus": 200,
+      "intro": "華やかでフルーティーな香りで、軽やかな口当たりです。ほのかな甘みがあります。キレがよくクリアな後口があります。",
+      "specialtyIds": [
+        "tokyo-bettarazuke"
+      ],
+      "names": [
+        "べったら漬け"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "kirei-banjisakazukinonaka-junmai-hiire-v1",
+      "name": "亀齢 萬事酒盃中 純米 火入れ",
+      "prefecture": "広島県",
+      "httpStatus": 200,
+      "intro": "ほどよい旨みと辛口の味わいが感じられます。キレのある辛口の味わいです。",
+      "specialtyIds": [
+        "hiroshima-kaki-doteyaki"
+      ],
+      "names": [
+        "かきの土手鍋"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "hokuan-daikoku-junmai70-v1",
+      "name": "北安大國 純米酒 七十％精米",
+      "prefecture": "長野県",
+      "httpStatus": 200,
+      "intro": "コクのある味わいです。甘みと酸味が重なります。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "wakaze-the-classic-yamagata-v1",
+      "name": "WAKAZE THE CLASSIC（山形製造）",
+      "prefecture": "山形県",
+      "httpStatus": 200,
+      "intro": "ボディ感と軽い飲み心地があります。酸味のニュアンスがあります。",
+      "specialtyIds": [
+        "yamagata-omizuke"
+      ],
+      "names": [
+        "おみ漬"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "sakuta-tokubetsu-junmai-keiyaku-v1",
+      "name": "作田 特別純米酒 特別契約栽培米",
+      "prefecture": "青森県",
+      "httpStatus": 200,
+      "intro": "飲み心地は軽やかです。米の旨み、ふわりとした甘みが感じられます。",
+      "specialtyIds": [
+        "aomori-ichigoni"
+      ],
+      "names": [
+        "いちご煮"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "hisagotaiko-ginjo-awa-yamadanishiki-standard",
+      "name": "瓢太閤 吟醸 阿波山田錦",
+      "prefecture": "徳島県",
+      "httpStatus": 200,
+      "intro": "香りは華やかです。後口にはキレがあります。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "ine-to-agave-doburoku6-v1",
+      "name": "稲とアガベ DOBUROKU 6号酵母",
+      "prefecture": "秋田県",
+      "httpStatus": 200,
+      "intro": "米のつぶつぶした食感と、ミルキーで力強い甘旨味。微発泡感があり、酸味とほのかな苦味が後口を引き締めます。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "narutotai-junmai-tomoe-v1",
+      "name": "鳴門鯛 純米 巴",
+      "prefecture": "徳島県",
+      "httpStatus": 200,
+      "intro": "ふくよかな香りで、口に含むとまろやかです。幅のある米の旨味と軽やかな酸味が感じられます。後口にはキレがあります。",
+      "specialtyIds": [
+        "tokushima-fish-katsu"
+      ],
+      "names": [
+        "フィッシュカツ"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "goshun-honmaru-honjozo-v1",
+      "name": "呉春 本丸 本醸造",
+      "prefecture": "大阪府",
+      "httpStatus": 200,
+      "intro": "しっとり穏やかな口当たりが特徴の一本。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "gekkeikan-horin-junmai-daiginjo-standard",
+      "name": "鳳麟 純米大吟醸",
+      "prefecture": "京都府",
+      "httpStatus": 200,
+      "intro": "マスカットのような香りです。上品な甘みがあります。芳醇な余韻があります。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "azumanofumoto-junmai-ginjo-yamagata-selection-v1",
+      "name": "純米吟醸 東の麓 山形セレクション",
+      "prefecture": "山形県",
+      "httpStatus": 200,
+      "intro": "香りは穏やかで、柔らかい口当たりです。後口はスッキリしています。",
+      "specialtyIds": [
+        "yamagata-omizuke"
+      ],
+      "names": [
+        "おみ漬"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "koshino-kagetora-junmai-standard-v1",
+      "name": "越乃景虎 純米酒",
+      "prefecture": "新潟県",
+      "httpStatus": 200,
+      "intro": "優しい香りで、口に含むとまろやかです。米の旨味が感じられます。",
+      "specialtyIds": [
+        "kanzuri-shuto",
+        "tochio-aburaage"
+      ],
+      "names": [
+        "かんずり酒盗",
+        "栃尾の油揚げ"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "zao-junmai-ginjo-catalog-v1",
+      "name": "純米吟醸 蔵王",
+      "prefecture": "宮城県",
+      "httpStatus": 200,
+      "intro": "果実の香りで、やわらかい口当たりです。旨味を感じます。",
+      "specialtyIds": [
+        "hoya-chinmi",
+        "sasa-kamaboko"
+      ],
+      "names": [
+        "ほや珍味",
+        "笹かまぼこ"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "ayumasamune-honjozo-catalog-v1",
+      "name": "鮎正宗 本醸造",
+      "prefecture": "新潟県",
+      "httpStatus": 200,
+      "intro": "すっきりした口当たりです。まろやかな旨味があります。",
+      "specialtyIds": [
+        "kanzuri-shuto",
+        "tochio-aburaage"
+      ],
+      "names": [
+        "かんずり酒盗",
+        "栃尾の油揚げ"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "chokyu-tokusen-honjozo-catalog-v1",
+      "name": "長久 特撰 本醸造",
+      "prefecture": "和歌山県",
+      "httpStatus": 200,
+      "intro": "ふくらみがあります。旨味と辛口の味わいが感じられます。",
+      "specialtyIds": [
+        "wakayama-kinzanji-miso",
+        "wakayama-goma-dofu"
+      ],
+      "names": [
+        "金山寺味噌",
+        "ごま豆腐"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "zuiyo-honjozo-chokarakuchi-v1",
+      "name": "瑞鷹 本醸造 超辛口",
+      "prefecture": "熊本県",
+      "httpStatus": 200,
+      "intro": "超辛口の味わいを楽しめます。",
+      "specialtyIds": [
+        "kumamoto-karashi-renkon"
+      ],
+      "names": [
+        "からし蓮根"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "hitorimusume-sayaka-tokubetsu-honjozo-catalog-v1",
+      "name": "一人娘 さやか 特別本醸造",
+      "prefecture": "茨城県",
+      "httpStatus": 200,
+      "intro": "軽快な飲み心地です。超辛口の味わいです。",
+      "specialtyIds": [
+        "ibaraki-soboro-natto"
+      ],
+      "names": [
+        "そぼろ納豆"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "chiyonohikari-shin-tokubetsu-honjozo-catalog-v1",
+      "name": "千代の光 真 特別本醸造",
+      "prefecture": "新潟県",
+      "httpStatus": 200,
+      "intro": "味わいは淡麗です。米の旨味と辛口の味わいが感じられます。",
+      "specialtyIds": [
+        "kanzuri-shuto",
+        "tochio-aburaage"
+      ],
+      "names": [
+        "かんずり酒盗",
+        "栃尾の油揚げ"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "wakitaya-tokubetsu-honjozo-catalog-v1",
+      "name": "脇田屋 特別本醸造",
+      "prefecture": "静岡県",
+      "httpStatus": 200,
+      "intro": "味わいは淡麗です。味わいは辛口です。",
+      "specialtyIds": [
+        "shizuoka-kuro-hanpen"
+      ],
+      "names": [
+        "黒はんぺん"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "tenjinbayashi-tokubetsu-honjozo-catalog-v1",
+      "name": "天神囃子 特別本醸造",
+      "prefecture": "新潟県",
+      "httpStatus": 200,
+      "intro": "芳香です。旨味を感じます。",
+      "specialtyIds": [
+        "kanzuri-shuto",
+        "tochio-aburaage"
+      ],
+      "names": [
+        "かんずり酒盗",
+        "栃尾の油揚げ"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "kanbe-shiboritate-namachozo-catalog-v1",
+      "name": "官兵衛 しぼりたて 生貯蔵酒",
+      "prefecture": "兵庫県",
+      "httpStatus": 200,
+      "intro": "さらりとした口当たりです。ほのかな甘味があります。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "hokushika-akita-kasho-nigori-catalog-v1",
+      "name": "北鹿 秋田華匠 にごり酒",
+      "prefecture": "秋田県",
+      "httpStatus": 200,
+      "intro": "甘口の味わいがあり、すっきりした味わいも感じられます。",
+      "specialtyIds": [
+        "gibasa"
+      ],
+      "names": [
+        "ぎばさ"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "koshino-happo-origarami-catalog-v1",
+      "name": "越乃八豊 おりがらみ",
+      "prefecture": "新潟県",
+      "httpStatus": 200,
+      "intro": "香りは華やかです。やや辛口の味わいです。",
+      "specialtyIds": [
+        "kanzuri-shuto",
+        "tochio-aburaage"
+      ],
+      "names": [
+        "かんずり酒盗",
+        "栃尾の油揚げ"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "suehiro-yamahai-junmai-ginjo-catalog-v1",
+      "name": "末廣 山廃純米吟醸",
+      "prefecture": "福島県",
+      "httpStatus": 200,
+      "intro": "瑞々しい吟醸香です。柔らかな米の旨味があります。",
+      "specialtyIds": [
+        "fukushima-ika-ninjin",
+        "fukushima-nishin-sanshozuke"
+      ],
+      "names": [
+        "いかにんじん",
+        "にしんの山椒漬け"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "kaishun-kimoto-yamaguchi-hiire-genshu-catalog-v1",
+      "name": "開春 生酛山口 純米原酒 火入れ",
+      "prefecture": "島根県",
+      "httpStatus": 200,
+      "intro": "味わいの詳しい情報は、蔵元や購入先の商品説明もご覧ください。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "koshijifubuki-akiagari-2026-catalog-v1",
+      "name": "越路吹雪 秋あがり 純米吟醸 2026",
+      "prefecture": "新潟県",
+      "httpStatus": 200,
+      "intro": "やわらかい口当たりです。豊かな旨味とやや辛口の味わいが感じられます。",
+      "specialtyIds": [
+        "kanzuri-shuto",
+        "tochio-aburaage"
+      ],
+      "names": [
+        "かんずり酒盗",
+        "栃尾の油揚げ"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "utouto-junmai-catalog-v1",
+      "name": "うとうと 純米酒",
+      "prefecture": "香川県",
+      "httpStatus": 200,
+      "intro": "味わいは淡麗です。米の甘味があります。後味はすっきりしています。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "kirai-gin-junmai-daiginjo-180-catalog-v1",
+      "name": "きらい 銀 純米大吟醸",
+      "prefecture": "徳島県",
+      "httpStatus": 200,
+      "intro": "上品な香りで、やさしい口当たりです。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "hachitsuru-junmai-ginjo-catalog-v1",
+      "name": "八鶴 純米吟醸",
+      "prefecture": "青森県",
+      "httpStatus": 200,
+      "intro": "上品な香りです。ふくよかな旨味があります。後口にはキレがあります。",
+      "specialtyIds": [
+        "aomori-ichigoni"
+      ],
+      "names": [
+        "いちご煮"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "keigetsu-extra-dry-tokubetsu-junmai60-catalog-v1",
+      "name": "桂月 超辛口 特別純米酒60",
+      "prefecture": "高知県",
+      "httpStatus": 200,
+      "intro": "ふくらみがあります。米の旨味とすっきり辛口が感じられます。",
+      "specialtyIds": [
+        "katsuo-namabushi",
+        "shuto"
+      ],
+      "names": [
+        "かつお生節",
+        "酒盗"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "sakuyabi14-junmai-ginjo-jikagumi-r7by-catalog-v1",
+      "name": "咲耶美 純米吟醸 直汲生原酒 14号酵母 R7BY",
+      "prefecture": "群馬県",
+      "httpStatus": 200,
+      "intro": "メロンを思わせる果実の香りで、フレッシュな味わいです。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "tonegawa-sodachi-junmai-ginjo-catalog-v1",
+      "name": "利根川育ち 純米吟醸",
+      "prefecture": "群馬県",
+      "httpStatus": 200,
+      "intro": "香りを感じる一本。まろやかな味も楽しめます。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "gonin-musume-junmai-catalog-v1",
+      "name": "五人娘 純米酒",
+      "prefecture": "千葉県",
+      "httpStatus": 200,
+      "intro": "旨味とやわらかな米の甘味と酸味が感じられます。",
+      "specialtyIds": [
+        "chiba-peanut-miso"
+      ],
+      "names": [
+        "落花生味噌"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "sakari-masu-tokubetsu-junmai-catalog-v1",
+      "name": "盛升 特別純米酒",
+      "prefecture": "神奈川県",
+      "httpStatus": 200,
+      "intro": "米の旨味が感じられます。後口にはキレがあります。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "hokusetsu-hikari-centrifuge-junmai-daiginjo-catalog-v1",
+      "name": "北雪 越淡麗 光 遠心分離 純米大吟醸",
+      "prefecture": "新潟県",
+      "httpStatus": 200,
+      "intro": "香りは華やかで、ふくらみがあります。後口にはキレがあります。",
+      "specialtyIds": [
+        "kanzuri-shuto",
+        "tochio-aburaage"
+      ],
+      "names": [
+        "かんずり酒盗",
+        "栃尾の油揚げ"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "obasute-masamune-junmai-karakuchi-catalog-v1",
+      "name": "純米辛口 姨捨正宗",
+      "prefecture": "長野県",
+      "httpStatus": 200,
+      "intro": "軽快な飲み心地です。米の旨味が感じられます。後口にはキレがあります。",
+      "specialtyIds": [
+        "nagano-nozawana"
+      ],
+      "names": [
+        "野沢菜漬"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "hakkaisan-jd-lineup-v1",
+      "name": "純米大吟醸 八海山",
+      "prefecture": "新潟県",
+      "httpStatus": 200,
+      "intro": "透明感のある飲み心地です。上品な甘味があります。後口にはキレがあります。",
+      "specialtyIds": [
+        "kanzuri-shuto",
+        "tochio-aburaage"
+      ],
+      "names": [
+        "かんずり酒盗",
+        "栃尾の油揚げ"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "hakkaisan-seishu-lineup-v1",
+      "name": "清酒 八海山",
+      "prefecture": "新潟県",
+      "httpStatus": 200,
+      "intro": "淡麗な味わいが特徴の一本。",
+      "specialtyIds": [
+        "kanzuri-shuto"
+      ],
+      "names": [
+        "かんずり酒盗"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "hakkaisan-daiginjo-lineup-v1",
+      "name": "大吟醸 八海山",
+      "prefecture": "新潟県",
+      "httpStatus": 200,
+      "intro": "口に含むとまろやかです。上品な甘味があります。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "waraijogo-junmai-daiginjo-catalog-v1",
+      "name": "純米大吟醸 笑いじょうご",
+      "prefecture": "岐阜県",
+      "httpStatus": 200,
+      "intro": "上品な香りです。やわらかな米の旨味とやや辛口の味わいが感じられます。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "masumi-kuro-lineup-v1",
+      "name": "真澄 漆黒 KURO",
+      "prefecture": "長野県",
+      "httpStatus": 200,
+      "intro": "旨味と淡麗辛口と酸味が感じられます。",
+      "specialtyIds": [
+        "nagano-nozawana"
+      ],
+      "names": [
+        "野沢菜漬"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "masumi-shiro-lineup-v1",
+      "name": "真澄 白妙 SHIRO",
+      "prefecture": "長野県",
+      "httpStatus": 200,
+      "intro": "軽快な飲み心地です。米の旨味が感じられます。",
+      "specialtyIds": [
+        "nagano-nozawana"
+      ],
+      "names": [
+        "野沢菜漬"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "masumi-kaya-lineup-v1",
+      "name": "真澄 茅色 KAYA",
+      "prefecture": "長野県",
+      "httpStatus": 200,
+      "intro": "米の旨味と酸味が感じられます。丸みのある余韻があります。",
+      "specialtyIds": [
+        "nagano-nozawana"
+      ],
+      "names": [
+        "野沢菜漬"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "ichinokura-mukansa-karakuchi-lineup-v1",
+      "name": "一ノ蔵 無鑑査本醸造 辛口",
+      "prefecture": "宮城県",
+      "httpStatus": 200,
+      "intro": "香りは穏やかです。後味はすっきりしています。",
+      "specialtyIds": [
+        "sasa-kamaboko",
+        "hoya-chinmi"
+      ],
+      "names": [
+        "笹かまぼこ",
+        "ほや珍味"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "ichinokura-mukansa-chokarakuchi-lineup-v1",
+      "name": "一ノ蔵 無鑑査本醸造 超辛口",
+      "prefecture": "宮城県",
+      "httpStatus": 200,
+      "intro": "超辛口の味わいです。後口にはキレがあります。",
+      "specialtyIds": [
+        "sasa-kamaboko",
+        "hoya-chinmi"
+      ],
+      "names": [
+        "笹かまぼこ",
+        "ほや珍味"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "ichinokura-himezen-lineup-v1",
+      "name": "一ノ蔵 ひめぜん",
+      "prefecture": "宮城県",
+      "httpStatus": 200,
+      "intro": "やわらかな甘味と爽やかな酸味が感じられます。",
+      "specialtyIds": [
+        "kaki-oil",
+        "sasa-kamaboko"
+      ],
+      "names": [
+        "牡蠣オイル漬け",
+        "笹かまぼこ"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "urakasumi-karakuchi-lineup-v1",
+      "name": "からくち 浦霞",
+      "prefecture": "宮城県",
+      "httpStatus": 200,
+      "intro": "ほのかな香りです。味わいは辛口です。",
+      "specialtyIds": [
+        "hoya-chinmi",
+        "kaki-oil"
+      ],
+      "names": [
+        "ほや珍味",
+        "牡蠣オイル漬け"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "daishichi-kaiden-lineup-v1",
+      "name": "大七 皆伝",
+      "prefecture": "福島県",
+      "httpStatus": 200,
+      "intro": "熟成感が特徴の一本。",
+      "specialtyIds": [
+        "fukushima-ika-ninjin",
+        "fukushima-nishin-sanshozuke"
+      ],
+      "names": [
+        "いかにんじん",
+        "にしんの山椒漬け"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "daishichi-minowamon-lineup-v1",
+      "name": "大七 箕輪門",
+      "prefecture": "福島県",
+      "httpStatus": 200,
+      "intro": "芳しい香りで、なめらかな飲み心地です。後口はすっきりしています。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "dewazakura-ichiko-lineup-v1",
+      "name": "出羽桜 一耕",
+      "prefecture": "山形県",
+      "httpStatus": 200,
+      "intro": "口に含むとまろやかです。米の旨味と爽やかな酸味が感じられます。",
+      "specialtyIds": [
+        "yamagata-omizuke"
+      ],
+      "names": [
+        "おみ漬"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "ichinokura-suzune-lineup-v1",
+      "name": "一ノ蔵 発泡清酒 すず音",
+      "prefecture": "宮城県",
+      "httpStatus": 200,
+      "intro": "やわらかな甘酸っぱさと、米のやさしい味わいを楽しめる一本。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "dewazakura-tsuyahime-lineup-v1",
+      "name": "出羽桜 つや姫",
+      "prefecture": "山形県",
+      "httpStatus": 200,
+      "intro": "洋梨のような香りです。上品な甘味があります。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "kikusui-karakuchi-lineup-v1",
+      "name": "菊水の辛口",
+      "prefecture": "新潟県",
+      "httpStatus": 200,
+      "intro": "旨味と辛口の味わいが感じられます。後口にはキレがあります。",
+      "specialtyIds": [
+        "kanzuri-shuto",
+        "tochio-aburaage"
+      ],
+      "names": [
+        "かんずり酒盗",
+        "栃尾の油揚げ"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "urakasumi-honshikomi-lineup-v1",
+      "name": "本仕込 浦霞",
+      "prefecture": "宮城県",
+      "httpStatus": 200,
+      "intro": "爽やかな香りがあり、さっぱりした後味も感じられます。",
+      "specialtyIds": [
+        "sasa-kamaboko"
+      ],
+      "names": [
+        "笹かまぼこ"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "kikusui-junmai-lineup-v1",
+      "name": "菊水の純米酒",
+      "prefecture": "新潟県",
+      "httpStatus": 200,
+      "intro": "コクがあります。米の旨味と酸味が感じられます。",
+      "specialtyIds": [
+        "kanzuri-shuto",
+        "tochio-aburaage"
+      ],
+      "names": [
+        "かんずり酒盗",
+        "栃尾の油揚げ"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "suigei-ginrei-lineup-v1",
+      "name": "酔鯨 純米吟醸 吟麗",
+      "prefecture": "高知県",
+      "httpStatus": 200,
+      "intro": "旨味を感じます。後口にはキレがあります。",
+      "specialtyIds": [
+        "katsuo-namabushi",
+        "shuto"
+      ],
+      "names": [
+        "かつお生節",
+        "酒盗"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "suigei-koiku54-lineup-v1",
+      "name": "酔鯨 純米吟醸 高育54号",
+      "prefecture": "高知県",
+      "httpStatus": 200,
+      "intro": "吟醸香はほのかです。米の旨味と柑橘系の酸味が感じられます。",
+      "specialtyIds": [
+        "katsuo-namabushi",
+        "shuto"
+      ],
+      "names": [
+        "かつお生節",
+        "酒盗"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "tengumai-umajun-lineup-v1",
+      "name": "天狗舞 旨醇",
+      "prefecture": "石川県",
+      "httpStatus": 200,
+      "intro": "旨味と酸味が感じられます。",
+      "specialtyIds": [
+        "kabura-zushi",
+        "fugu-nukazuke"
+      ],
+      "names": [
+        "かぶら寿し",
+        "ふぐの子糠漬け"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "nanbubijin-jd-lineup-v1",
+      "name": "南部美人 純米大吟醸",
+      "prefecture": "岩手県",
+      "httpStatus": 200,
+      "intro": "華やかな吟醸香で、濃密な味わいです。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "hakutsuru-daiginjo-lineup-v1",
+      "name": "白鶴 大吟醸",
+      "prefecture": "兵庫県",
+      "httpStatus": 200,
+      "intro": "りんごのような香りで、透明感のある飲み心地です。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "kikumasamune-kaho-lineup-v1",
+      "name": "菊正宗 純米大吟醸 KAHO 嘉宝",
+      "prefecture": "兵庫県",
+      "httpStatus": 200,
+      "intro": "コクがあります。穏やかな酸味があります。",
+      "specialtyIds": [
+        "hyogo-ikanago-kugini"
+      ],
+      "names": [
+        "イカナゴのくぎ煮"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "kagatobi-gokkan-lineup-v1",
+      "name": "加賀鳶 極寒純米 辛口",
+      "prefecture": "石川県",
+      "httpStatus": 200,
+      "intro": "軽快な飲み心地です。米の旨味が感じられます。後口にはキレがあります。",
+      "specialtyIds": [
+        "fugu-nukazuke",
+        "kabura-zushi"
+      ],
+      "names": [
+        "ふぐの子糠漬け",
+        "かぶら寿し"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "kagatobi-yamahai-lineup-v1",
+      "name": "加賀鳶 山廃純米 超辛口",
+      "prefecture": "石川県",
+      "httpStatus": 200,
+      "intro": "超辛口の味わいと酸味が感じられます。",
+      "specialtyIds": [
+        "fugu-nukazuke",
+        "kabura-zushi"
+      ],
+      "names": [
+        "ふぐの子糠漬け",
+        "かぶら寿し"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "nanbubijin-jg-lineup-v1",
+      "name": "南部美人 純米吟醸",
+      "prefecture": "岩手県",
+      "httpStatus": 200,
+      "intro": "やさしい甘味があります。後口にはキレがあります。",
+      "specialtyIds": [
+        "iwate-suki-kombu"
+      ],
+      "names": [
+        "すき昆布"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "kuroobi-yuyu-lineup-v1",
+      "name": "黒帯 悠々 特別純米",
+      "prefecture": "石川県",
+      "httpStatus": 200,
+      "intro": "芳醇な旨味と辛口の味わいが感じられます。",
+      "specialtyIds": [
+        "fugu-nukazuke",
+        "kabura-zushi"
+      ],
+      "names": [
+        "ふぐの子糠漬け",
+        "かぶら寿し"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "okunomatsu-adatara-lineup-v1",
+      "name": "奥の松 あだたら吟醸",
+      "prefecture": "福島県",
+      "httpStatus": 200,
+      "intro": "バランスのとれた味を感じる一本。辛口の味わいも楽しめます。",
+      "specialtyIds": [
+        "fukushima-ika-ninjin"
+      ],
+      "names": [
+        "いかにんじん"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "okunomatsu-jg-lineup-v1",
+      "name": "遊佐 純米吟醸",
+      "prefecture": "福島県",
+      "httpStatus": 200,
+      "intro": "爽やかな香りです。旨味を感じます。",
+      "specialtyIds": [
+        "fukushima-ika-ninjin",
+        "fukushima-nishin-sanshozuke"
+      ],
+      "names": [
+        "いかにんじん",
+        "にしんの山椒漬け"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "jozen-jd-lineup-v1",
+      "name": "上善如水 純米大吟醸",
+      "prefecture": "新潟県",
+      "httpStatus": 200,
+      "intro": "香りは華やかで、味わいに深みがあります。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "minatoya-tosuke-lineup-v1",
+      "name": "湊屋藤助 純米大吟醸",
+      "prefecture": "新潟県",
+      "httpStatus": 200,
+      "intro": "香りは穏やかで、コクがあります。",
+      "specialtyIds": [
+        "kanzuri-shuto",
+        "tochio-aburaage"
+      ],
+      "names": [
+        "かんずり酒盗",
+        "栃尾の油揚げ"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "uonuma-junmai-lineup-v1",
+      "name": "濃醇 魚沼 純米",
+      "prefecture": "新潟県",
+      "httpStatus": 200,
+      "intro": "香りは穏やかで、濃厚な味わいです。米の旨味が感じられます。",
+      "specialtyIds": [
+        "kanzuri-shuto",
+        "tochio-aburaage"
+      ],
+      "names": [
+        "かんずり酒盗",
+        "栃尾の油揚げ"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "ozeki-gokuama-lineup-v1",
+      "name": "大関 SWEET MOMENT 極上の甘口",
+      "prefecture": "兵庫県",
+      "httpStatus": 200,
+      "intro": "吟醸香は穏やかで、コクがあります。濃厚な甘味があります。",
+      "specialtyIds": [
+        "hyogo-ikanago-kugini"
+      ],
+      "names": [
+        "イカナゴのくぎ煮"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "gekkeikan-nigori-lineup-v1",
+      "name": "月桂冠 にごり酒",
+      "prefecture": "京都府",
+      "httpStatus": 200,
+      "intro": "フルーティーな香りです。やさしい甘味と爽やかな酸味が感じられます。",
+      "specialtyIds": [
+        "kyoto-shibazuke"
+      ],
+      "names": [
+        "しば漬け"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "mio-sparkling-lineup-v1",
+      "name": "松竹梅白壁蔵 澪",
+      "prefecture": "京都府",
+      "httpStatus": 200,
+      "intro": "マスカットのような香りです。やさしい甘味があります。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "ozeki-karatanba-lineup-v1",
+      "name": "大関 上撰 辛丹波",
+      "prefecture": "兵庫県",
+      "httpStatus": 200,
+      "intro": "旨味と淡麗辛口が感じられます。後口にはキレがあります。",
+      "specialtyIds": [
+        "hyogo-ikanago-kugini"
+      ],
+      "names": [
+        "イカナゴのくぎ煮"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "urakasumi-zen-lineup-v1",
+      "name": "純米吟醸 浦霞禅",
+      "prefecture": "宮城県",
+      "httpStatus": 200,
+      "intro": "穏やかな果実香で、フレッシュな味わいです。旨味を感じます。",
+      "specialtyIds": [
+        "hoya-chinmi",
+        "sasa-kamaboko"
+      ],
+      "names": [
+        "ほや珍味",
+        "笹かまぼこ"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "kamotsuru-jg-lineup-v1",
+      "name": "賀茂鶴 純米吟醸 一滴入魂",
+      "prefecture": "広島県",
+      "httpStatus": 200,
+      "intro": "香りは穏やかで、やわらかな口当たりです。酸味を感じます。",
+      "specialtyIds": [
+        "hiroshima-kaki-doteyaki"
+      ],
+      "names": [
+        "かきの土手鍋"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "nihonsakari-daiginjo-lineup-v1",
+      "name": "超特撰 惣花 純米大吟醸",
+      "prefecture": "兵庫県",
+      "httpStatus": 200,
+      "intro": "香りは華やかです。ほのかな甘味があります。長い余韻があります。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "azumaichi-jd-lineup-v1",
+      "name": "東一 純米大吟醸",
+      "prefecture": "佐賀県",
+      "httpStatus": 200,
+      "intro": "果実の香りで、口に含むとまろやかです。柔らかな旨味があります。",
+      "specialtyIds": [
+        "ika-shumai",
+        "yobuko-ichiyaboshi"
+      ],
+      "names": [
+        "いかしゅうまい",
+        "呼子いか一夜干し"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "koeigiku-sukai-hiire-current-v1",
+      "name": "光栄菊 特別純米 清海 Sukai 火入れ",
+      "prefecture": "佐賀県",
+      "httpStatus": 200,
+      "intro": "柑橘系の香りです。酸味を感じます。後味はすっきりしています。",
+      "specialtyIds": [
+        "ika-shumai",
+        "yobuko-ichiyaboshi"
+      ],
+      "names": [
+        "いかしゅうまい",
+        "呼子いか一夜干し"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "kihotsuru-junmai-current-v1",
+      "name": "基峰鶴 純米酒",
+      "prefecture": "佐賀県",
+      "httpStatus": 200,
+      "intro": "やわらかな旨味と爽やかな酸味が感じられます。",
+      "specialtyIds": [
+        "saga-nori",
+        "yobuko-ichiyaboshi"
+      ],
+      "names": [
+        "佐賀の焼海苔",
+        "呼子いか一夜干し"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "manrei-chokarakuchi-tokubetsu-junmai-current-v1",
+      "name": "万齢 特別純米 超辛口",
+      "prefecture": "佐賀県",
+      "httpStatus": 200,
+      "intro": "旨味と辛口の味わいが感じられます。",
+      "specialtyIds": [
+        "yobuko-ichiyaboshi",
+        "ika-shumai"
+      ],
+      "names": [
+        "呼子いか一夜干し",
+        "いかしゅうまい"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "matsunokotobuki-omachi-hiire-current-v1",
+      "name": "松の寿 純米吟醸 雄町 無濾過 火入れ",
+      "prefecture": "栃木県",
+      "httpStatus": 200,
+      "intro": "香りは穏やかです。ふくらみのある旨味と軽快な酸味が感じられます。",
+      "specialtyIds": [
+        "tochigi-agemaki-yuba",
+        "tochigi-shimotsukare"
+      ],
+      "names": [
+        "揚巻湯波",
+        "しもつかれ"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "fukuiwai-yamada50-junmai-ginjo-current-v1",
+      "name": "福祝 山田錦50％磨き 純米吟醸",
+      "prefecture": "千葉県",
+      "httpStatus": 200,
+      "intro": "淡麗な辛口の味わいです。後口はすっきりしています。",
+      "specialtyIds": [
+        "chiba-peanut-miso"
+      ],
+      "names": [
+        "落花生味噌"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "oku-ten-year-junmai-ginjo-genshu-current-v1",
+      "name": "奥 十年低温熟成 純米吟醸原酒",
+      "prefecture": "愛知県",
+      "httpStatus": 200,
+      "intro": "香りは華やかで、口に含むとまろやかです。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "kurobekyo-junmai-ginjo55-current-v1",
+      "name": "黒部峡 純米吟醸55",
+      "prefecture": "富山県",
+      "httpStatus": 200,
+      "intro": "豊かな味わいを楽しめます。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "ohga-asahi-junmai-ginjo-current-v1",
+      "name": "大賀 純米吟醸 辛口 朝日米",
+      "prefecture": "福岡県",
+      "httpStatus": 200,
+      "intro": "味わいは淡麗です。味わいは辛口です。後口はすっきりしています。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "ryusei-muku-omachi-kimoto-current-v1",
+      "name": "龍勢 無垢の系譜 -雄町-",
+      "prefecture": "広島県",
+      "httpStatus": 200,
+      "intro": "力強い味わいです。旨味と甘味が感じられます。",
+      "specialtyIds": [
+        "hiroshima-kaki-doteyaki"
+      ],
+      "names": [
+        "かきの土手鍋"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "kameman-nigori-genshu-current-v1",
+      "name": "亀萬 にごり原酒",
+      "prefecture": "熊本県",
+      "httpStatus": 200,
+      "intro": "コクがあります。米の甘味とほどよい酸味が感じられます。",
+      "specialtyIds": [
+        "kumamoto-tofu-misozuke",
+        "kumamoto-karashi-renkon"
+      ],
+      "names": [
+        "豆腐の味噌漬け",
+        "からし蓮根"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "hiokizakura-tokujo-junmai-omachi-current-v1",
+      "name": "日置桜 特醸純米酒",
+      "prefecture": "鳥取県",
+      "httpStatus": 200,
+      "intro": "黒糖を思わせる香りです。甘味があります。長い余韻があります。",
+      "specialtyIds": [
+        "tottori-tofu-chikuwa"
+      ],
+      "names": [
+        "とうふちくわ"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "shinshu-kirei-inakura-hitogokochi-junmai-ginjo-current-v1",
+      "name": "信州亀齢 純米吟醸 稲倉の棚田産ひとごこち",
+      "prefecture": "長野県",
+      "httpStatus": 200,
+      "intro": "爽やかな香りで、軽快な口当たりです。甘味と酸味が感じられます。",
+      "specialtyIds": [
+        "nagano-nozawana"
+      ],
+      "names": [
+        "野沢菜漬"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "tokachi-tokubetsu-junmai-suisei-current-v1",
+      "name": "十勝 特別純米 彗星",
+      "prefecture": "北海道",
+      "httpStatus": 200,
+      "intro": "キレを楽しめます。",
+      "specialtyIds": [
+        "matsumae-zuke"
+      ],
+      "names": [
+        "松前漬け"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "abe-silver-hiire-current-v1",
+      "name": "あべ シルバー 火入れ",
+      "prefecture": "新潟県",
+      "httpStatus": 200,
+      "intro": "飲み心地は軽やかです。やさしい旨味とほどよい酸味が感じられます。",
+      "specialtyIds": [
+        "kanzuri-shuto",
+        "tochio-aburaage"
+      ],
+      "names": [
+        "かんずり酒盗",
+        "栃尾の油揚げ"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "shichihonyari-muu-1800-current-v1",
+      "name": "七本鎗 無農薬純米 無有 1800ml",
+      "prefecture": "滋賀県",
+      "httpStatus": 200,
+      "intro": "優しさと柔らかさのある味わいを楽しめます。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "haginotsuyu-amadare-tomizu-hiire-current-v1",
+      "name": "萩乃露 特別純米 十水仕込 雨垂れ石を穿つ 火入れ",
+      "prefecture": "滋賀県",
+      "httpStatus": 200,
+      "intro": "爽やかな味わいが特徴。濃密な味わいも楽しめます。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "hanaabi-gohyakumangoku-muroka-namagenshu-1800-current-v1",
+      "name": "花陽浴 純米大吟醸 越後五百万石 無濾過生原酒 1800ml",
+      "prefecture": "埼玉県",
+      "httpStatus": 200,
+      "intro": "豊かな果実感のある香りを楽しめます。甘さは控えめも、このお酒の特徴です。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "sara-junmai-ginjo-namazume-current-v1",
+      "name": "彩來 純米吟醸 生詰",
+      "prefecture": "埼玉県",
+      "httpStatus": 200,
+      "intro": "マスカットを思わせる吟醸香と、米の甘味。酸が後口を引き締めます。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "kameizumi-kouiku63-hiyaoroshi-current-v1",
+      "name": "亀泉 純米吟醸原酒 高育63号 ひやおろし",
+      "prefecture": "高知県",
+      "httpStatus": 200,
+      "intro": "バナナやメロンのような香りです。ふくらみのある旨味があります。シャープなキレがあります。",
+      "specialtyIds": [
+        "katsuo-namabushi",
+        "shuto"
+      ],
+      "names": [
+        "かつお生節",
+        "酒盗"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "mimurosugi-kioke-bodaimoto-jishaden-current-v1",
+      "name": "みむろ杉 木桶菩提もと 自社田山田錦",
+      "prefecture": "奈良県",
+      "httpStatus": 200,
+      "intro": "白桃のような柔らかな香りです。じわりと広がる旨味、力強い酸味が感じられます。長い余韻があります。",
+      "specialtyIds": [
+        "nara-narazuke"
+      ],
+      "names": [
+        "奈良漬"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "tanaka65-hiire-1800-current-v1",
+      "name": "田中六五 純米酒 火入れ 1800ml",
+      "prefecture": "福岡県",
+      "httpStatus": 200,
+      "intro": "麹の穏やかな香りで、味わいにはふくらみがあります。しっかりとした旨味、酸味が感じられます。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "kagura-nojoho-junmai-ginjo-nama-current-v1",
+      "name": "神蔵 純米吟醸 野条穂 無濾過・無加水・生酒",
+      "prefecture": "京都府",
+      "httpStatus": 200,
+      "intro": "白ブドウやパイナップルのような香りです。米の旨味と辛口の味わいが感じられます。",
+      "specialtyIds": [
+        "kyoto-suguki"
+      ],
+      "names": [
+        "すぐき漬け"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "kurumazaka-yamahai-akiagari-2019by-current-v1",
+      "name": "車坂 山廃純米酒 秋あがり 2019BY",
+      "prefecture": "和歌山県",
+      "httpStatus": 200,
+      "intro": "円熟した旨味と酸味が感じられます。後口にはキレがあります。",
+      "specialtyIds": [
+        "wakayama-goma-dofu",
+        "wakayama-kinzanji-miso"
+      ],
+      "names": [
+        "ごま豆腐",
+        "金山寺味噌"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "eikofuji-hinowa-muroka-nama-2026-current-v1",
+      "name": "栄光冨士 日乃輪 純米大吟醸 無濾過生原酒 2026",
+      "prefecture": "山形県",
+      "httpStatus": 200,
+      "intro": "香りは華やかで、滑らかな口当たりです。濃醇な米の甘味があります。",
+      "specialtyIds": [],
+      "names": [],
+      "passed": true
+    },
+    {
+      "sakeId": "shirakiku-ginshari-tokubetsu-junmai-current-v1",
+      "name": "shirakiku 特別純米 銀シャリ 火入れ",
+      "prefecture": "京都府",
+      "httpStatus": 200,
+      "intro": "辛口の味わいと程よい酸味が感じられます。",
+      "specialtyIds": [
+        "kyoto-shibazuke"
+      ],
+      "names": [
+        "しば漬け"
+      ],
+      "passed": true
+    },
+    {
+      "sakeId": "tenmei-orange-funashibori-junmai-hiire-standard-v1",
+      "name": "天明 槽しぼり 純米火入れ オレンジ",
+      "prefecture": "福島県",
+      "httpStatus": 200,
+      "intro": "やわらかな旨味とほのかな甘みが感じられます。軽やかなキレがあります。",
+      "specialtyIds": [
+        "fukushima-ika-ninjin",
+        "fukushima-nishin-sanshozuke"
+      ],
+      "names": [
+        "いかにんじん",
+        "にしんの山椒漬け"
+      ],
+      "passed": true
+    }
+  ],
+  "passed": true
+}

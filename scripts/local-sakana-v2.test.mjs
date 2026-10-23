@@ -9,6 +9,7 @@ import {reviewedLocalSakanaV2} from './lib/reviewed-local-sakana-v2.mjs';
 const read=p=>JSON.parse(fs.readFileSync(new URL('../'+p,import.meta.url)));
 const hash=v=>createHash('sha256').update(v).digest('hex');
 const offers=read('src/commerce/localSakana.json').offers,preserved=read('docs/local-sakana-v2/preserved-records.json');
+const beforeNational=read('docs/local-sakana-national/preserved-records.json'),priorIds=new Set(beforeNational.specialties.map(s=>s.id)),priorKeys=new Set(beforeNational.pairings.map(p=>p.sakeId+'|'+p.specialtyId)),priorPairings=localSakanaPairings.filter(p=>priorKeys.has(p.sakeId+'|'+p.specialtyId));
 const config={enabled:true,registeredSite:'https://yoi-no-ikkon.vercel.app/',enabledProviders:['rakuten'],routes:{rakuten:'rakuten'}};
 test('the observed original-image redirect is permitted narrowly without broad script, connection or HTTP access',()=>{
  const csp=read('vercel.json').headers.flatMap(r=>r.headers).find(h=>h.key==='Content-Security-Policy').value;
@@ -27,7 +28,7 @@ test('specialty changes stay frozen; the later taste rewrite adds only its exact
  assert.deepEqual(changed.sort(),['src/app/sake/[slug]/page.jsx','src/commerce/localSakana.json','src/specialties/master.json','src/specialties/pairings.json','vercel.json']);
 });
 test('new foods distinguish culture sources, ingredient origin, quantity and official creative provenance',()=>{
- const old=new Set(preserved.specialties.map(s=>s.id)),added=localSpecialties.filter(s=>!old.has(s.id));assert.equal(added.length,45);
+ const old=new Set(preserved.specialties.map(s=>s.id)),added=localSpecialties.filter(s=>!old.has(s.id)&&priorIds.has(s.id));assert.equal(added.length,45);
  for(const s of added){assert(s.subregion&&s.dataConfidence==='medium'&&s.originScope);assert(s.sources.every(r=>r.url.startsWith('https://')&&r.scope==='regional_food_culture_not_retail_origin_or_quantity'));
   const o=offers.find(o=>o.specialtyId===s.id);assert(o.originEvidence.meaning&&o.quantityEvidence.meaning);assert(verifiedSpecialtyCreative(o));assert.equal(o.image.productUrl,o.rakutenUrl);assert(!/search.rakuten|f[0-9]{6}-/.test(o.rakutenUrl));
  }
@@ -36,7 +37,7 @@ test('new foods distinguish culture sources, ingredient origin, quantity and off
  assert(offers.find(o=>o.specialtyId==='oita-ayu-uruka').originEvidence.meaning.includes('天然採捕とはしない'));
 });
 test('new editorial matches never infer sake taste from county, method, name or packaging',()=>{
- assert.equal(visibleSakePairings.length,484);assert.equal(localSakanaPairings.length,352);
+ assert.equal(visibleSakePairings.length,484);assert.equal(priorPairings.length,352);
  for(const p of localSakanaPairings.slice(179)){assert.equal(p.confidence,'medium');assert(p.editorialPairing&&!p.officialPairing&&!p.communityPairing);assert(p.sakeEvidence.feature&&p.sakeEvidence.sourceUrl&&p.sakeEvidence.verifiedAt);assert(p.specialtyEvidence.sourceUrls.length>=2);assert(p.pairingReason.length<200);}
  const item=visibleSakePairings.find(i=>localSakanaPairings.some(p=>p.sakeId===i.id));assert.deepEqual(localSakanaForSake({...item,id:'without-evidence'},{config}),[]);
 });
@@ -44,7 +45,7 @@ test('a finish or acidity feature never silently becomes a claim of light body',
  for(const p of localSakanaPairings.slice(179))assert(!/酒の軽さ|酒のふくらみ/.test(p.pairingReason),p.sakeId);
 });
 test('all active projections keep one to three distinct foods, low hidden and empty states hidden',()=>{
- const now=Date.parse('2026-10-23T23:00:00+09:00'),rows=visibleSakePairings.map(i=>({i,cards:localSakanaForSake(i,{config,now,dishes:dishesForSake(i).slice(0,6)})}));
+ const now=Date.parse('2026-10-23T23:00:00+09:00'),rows=visibleSakePairings.map(i=>({i,cards:localSakanaForSake(i,{config,now,pairings:priorPairings,dishes:dishesForSake(i).slice(0,6)})}));
  assert.equal(rows.filter(r=>r.cards.length).length,255);assert.equal(rows.reduce((n,r)=>n+r.cards.length,0),352);
  for(const {i,cards}of rows){assert(cards.length<=3);assert.equal(new Set(cards.map(c=>c.id)).size,cards.length);assert(cards.every(c=>c.prefecture===i.prefecture&&c.commerce?.imageHtml));}
 });

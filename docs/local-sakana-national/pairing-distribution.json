@@ -1,0 +1,478 @@
+{
+  "rows": [
+    {
+      "specialtyId": "tochio-aburaage",
+      "name": "栃尾の油揚げ",
+      "prefecture": "新潟県",
+      "displaySake": 18
+    },
+    {
+      "specialtyId": "kanzuri-shuto",
+      "name": "かんずり酒盗",
+      "prefecture": "新潟県",
+      "displaySake": 22
+    },
+    {
+      "specialtyId": "sasa-kamaboko",
+      "name": "笹かまぼこ",
+      "prefecture": "宮城県",
+      "displaySake": 11
+    },
+    {
+      "specialtyId": "hoya-chinmi",
+      "name": "ほや珍味",
+      "prefecture": "宮城県",
+      "displaySake": 9
+    },
+    {
+      "specialtyId": "kaki-oil",
+      "name": "牡蠣オイル漬け",
+      "prefecture": "宮城県",
+      "displaySake": 5
+    },
+    {
+      "specialtyId": "iburigakko",
+      "name": "いぶりがっこ",
+      "prefecture": "秋田県",
+      "displaySake": 8
+    },
+    {
+      "specialtyId": "gibasa",
+      "name": "ぎばさ",
+      "prefecture": "秋田県",
+      "displaySake": 10
+    },
+    {
+      "specialtyId": "kabura-zushi",
+      "name": "かぶら寿し",
+      "prefecture": "石川県",
+      "displaySake": 10
+    },
+    {
+      "specialtyId": "fugu-nukazuke",
+      "name": "ふぐの子糠漬け",
+      "prefecture": "石川県",
+      "displaySake": 11
+    },
+    {
+      "specialtyId": "matsumae-zuke",
+      "name": "松前漬け",
+      "prefecture": "北海道",
+      "displaySake": 11
+    },
+    {
+      "specialtyId": "sake-toba",
+      "name": "鮭とば",
+      "prefecture": "北海道",
+      "displaySake": 0
+    },
+    {
+      "specialtyId": "ika-meshi",
+      "name": "いかめし",
+      "prefecture": "北海道",
+      "displaySake": 7
+    },
+    {
+      "specialtyId": "saga-nori",
+      "name": "佐賀の焼海苔",
+      "prefecture": "佐賀県",
+      "displaySake": 1
+    },
+    {
+      "specialtyId": "yobuko-ichiyaboshi",
+      "name": "呼子いか一夜干し",
+      "prefecture": "佐賀県",
+      "displaySake": 9
+    },
+    {
+      "specialtyId": "ika-shumai",
+      "name": "いかしゅうまい",
+      "prefecture": "佐賀県",
+      "displaySake": 9
+    },
+    {
+      "specialtyId": "shuto",
+      "name": "酒盗",
+      "prefecture": "高知県",
+      "displaySake": 9
+    },
+    {
+      "specialtyId": "katsuo-namabushi",
+      "name": "かつお生節",
+      "prefecture": "高知県",
+      "displaySake": 11
+    },
+    {
+      "specialtyId": "hotaruika-okizuke",
+      "name": "ほたるいか沖漬け",
+      "prefecture": "富山県",
+      "displaySake": 2
+    },
+    {
+      "specialtyId": "shiroebi-himono",
+      "name": "白えび素干し",
+      "prefecture": "富山県",
+      "displaySake": 2
+    },
+    {
+      "specialtyId": "hotaruika-himono",
+      "name": "ほたるいか素干し",
+      "prefecture": "富山県",
+      "displaySake": 2
+    },
+    {
+      "specialtyId": "heshiko",
+      "name": "へしこ",
+      "prefecture": "福井県",
+      "displaySake": 7
+    },
+    {
+      "specialtyId": "kodai-sasazuke",
+      "name": "小鯛ささ漬け",
+      "prefecture": "福井県",
+      "displaySake": 5
+    },
+    {
+      "specialtyId": "aomori-ichigoni",
+      "name": "いちご煮",
+      "prefecture": "青森県",
+      "displaySake": 5
+    },
+    {
+      "specialtyId": "iwate-suki-kombu",
+      "name": "すき昆布",
+      "prefecture": "岩手県",
+      "displaySake": 7
+    },
+    {
+      "specialtyId": "yamagata-tama-konnyaku",
+      "name": "玉こんにゃく",
+      "prefecture": "山形県",
+      "displaySake": 1
+    },
+    {
+      "specialtyId": "yamagata-omizuke",
+      "name": "おみ漬",
+      "prefecture": "山形県",
+      "displaySake": 6
+    },
+    {
+      "specialtyId": "fukushima-ika-ninjin",
+      "name": "いかにんじん",
+      "prefecture": "福島県",
+      "displaySake": 9
+    },
+    {
+      "specialtyId": "fukushima-nishin-sanshozuke",
+      "name": "にしんの山椒漬け",
+      "prefecture": "福島県",
+      "displaySake": 10
+    },
+    {
+      "specialtyId": "ibaraki-soboro-natto",
+      "name": "そぼろ納豆",
+      "prefecture": "茨城県",
+      "displaySake": 2
+    },
+    {
+      "specialtyId": "tochigi-agemaki-yuba",
+      "name": "揚巻湯波",
+      "prefecture": "栃木県",
+      "displaySake": 4
+    },
+    {
+      "specialtyId": "tochigi-shimotsukare",
+      "name": "しもつかれ",
+      "prefecture": "栃木県",
+      "displaySake": 2
+    },
+    {
+      "specialtyId": "gunma-konnyaku-miso-oden",
+      "name": "こんにゃく味噌おでん",
+      "prefecture": "群馬県",
+      "displaySake": 3
+    },
+    {
+      "specialtyId": "saitama-oname",
+      "name": "おなめ",
+      "prefecture": "埼玉県",
+      "displaySake": 3
+    },
+    {
+      "specialtyId": "chiba-peanut-miso",
+      "name": "落花生味噌",
+      "prefecture": "千葉県",
+      "displaySake": 2
+    },
+    {
+      "specialtyId": "tokyo-bettarazuke",
+      "name": "べったら漬け",
+      "prefecture": "東京都",
+      "displaySake": 3
+    },
+    {
+      "specialtyId": "tokyo-asari-tsukudani",
+      "name": "あさりの佃煮",
+      "prefecture": "東京都",
+      "displaySake": 6
+    },
+    {
+      "specialtyId": "yamanashi-awabi-nigai",
+      "name": "あわびの煮貝",
+      "prefecture": "山梨県",
+      "displaySake": 4
+    },
+    {
+      "specialtyId": "yamanashi-koshu-koume",
+      "name": "甲州小梅の漬物",
+      "prefecture": "山梨県",
+      "displaySake": 1
+    },
+    {
+      "specialtyId": "nagano-nozawana",
+      "name": "野沢菜漬",
+      "prefecture": "長野県",
+      "displaySake": 8
+    },
+    {
+      "specialtyId": "gifu-akakabu",
+      "name": "赤かぶ漬け",
+      "prefecture": "岐阜県",
+      "displaySake": 5
+    },
+    {
+      "specialtyId": "shizuoka-kuro-hanpen",
+      "name": "黒はんぺん",
+      "prefecture": "静岡県",
+      "displaySake": 3
+    },
+    {
+      "specialtyId": "shiga-koayu-sanshoni",
+      "name": "小あゆの山椒煮",
+      "prefecture": "滋賀県",
+      "displaySake": 1
+    },
+    {
+      "specialtyId": "shiga-funazushi",
+      "name": "ふなずし",
+      "prefecture": "滋賀県",
+      "displaySake": 0
+    },
+    {
+      "specialtyId": "kyoto-shibazuke",
+      "name": "しば漬け",
+      "prefecture": "京都府",
+      "displaySake": 5
+    },
+    {
+      "specialtyId": "kyoto-suguki",
+      "name": "すぐき漬け",
+      "prefecture": "京都府",
+      "displaySake": 3
+    },
+    {
+      "specialtyId": "osaka-doteyaki",
+      "name": "どて焼き",
+      "prefecture": "大阪府",
+      "displaySake": 2
+    },
+    {
+      "specialtyId": "hyogo-ikanago-kugini",
+      "name": "イカナゴのくぎ煮",
+      "prefecture": "兵庫県",
+      "displaySake": 8
+    },
+    {
+      "specialtyId": "nara-narazuke",
+      "name": "奈良漬",
+      "prefecture": "奈良県",
+      "displaySake": 4
+    },
+    {
+      "specialtyId": "wakayama-kinzanji-miso",
+      "name": "金山寺味噌",
+      "prefecture": "和歌山県",
+      "displaySake": 3
+    },
+    {
+      "specialtyId": "wakayama-goma-dofu",
+      "name": "ごま豆腐",
+      "prefecture": "和歌山県",
+      "displaySake": 4
+    },
+    {
+      "specialtyId": "tottori-tofu-chikuwa",
+      "name": "とうふちくわ",
+      "prefecture": "鳥取県",
+      "displaySake": 2
+    },
+    {
+      "specialtyId": "shimane-ago-noyaki",
+      "name": "あご野焼き",
+      "prefecture": "島根県",
+      "displaySake": 2
+    },
+    {
+      "specialtyId": "okayama-mamakari",
+      "name": "ママカリの酢漬け",
+      "prefecture": "岡山県",
+      "displaySake": 3
+    },
+    {
+      "specialtyId": "hiroshima-kaki-doteyaki",
+      "name": "かきの土手鍋",
+      "prefecture": "広島県",
+      "displaySake": 8
+    },
+    {
+      "specialtyId": "yamaguchi-fugu-karaage",
+      "name": "ふぐの唐揚げ",
+      "prefecture": "山口県",
+      "displaySake": 2
+    },
+    {
+      "specialtyId": "tokushima-fish-katsu",
+      "name": "フィッシュカツ",
+      "prefecture": "徳島県",
+      "displaySake": 3
+    },
+    {
+      "specialtyId": "kagawa-shoyu-mame",
+      "name": "しょうゆ豆",
+      "prefecture": "香川県",
+      "displaySake": 2
+    },
+    {
+      "specialtyId": "kagawa-honetsukidori",
+      "name": "骨付鳥",
+      "prefecture": "香川県",
+      "displaySake": 4
+    },
+    {
+      "specialtyId": "ehime-jakoten",
+      "name": "じゃこ天",
+      "prefecture": "愛媛県",
+      "displaySake": 5
+    },
+    {
+      "specialtyId": "ehime-tachiuo-maki",
+      "name": "太刀魚巻",
+      "prefecture": "愛媛県",
+      "displaySake": 6
+    },
+    {
+      "specialtyId": "nagasaki-hatoshi",
+      "name": "ハトシ",
+      "prefecture": "長崎県",
+      "displaySake": 5
+    },
+    {
+      "specialtyId": "kumamoto-karashi-renkon",
+      "name": "からし蓮根",
+      "prefecture": "熊本県",
+      "displaySake": 4
+    },
+    {
+      "specialtyId": "kumamoto-tofu-misozuke",
+      "name": "豆腐の味噌漬け",
+      "prefecture": "熊本県",
+      "displaySake": 2
+    },
+    {
+      "specialtyId": "oita-ayu-uruka",
+      "name": "あゆうるか",
+      "prefecture": "大分県",
+      "displaySake": 4
+    },
+    {
+      "specialtyId": "oita-ryukyu",
+      "name": "りゅうきゅう",
+      "prefecture": "大分県",
+      "displaySake": 3
+    },
+    {
+      "specialtyId": "miyazaki-jidori-sumibi",
+      "name": "地鶏の炭火焼",
+      "prefecture": "宮崎県",
+      "displaySake": 1
+    },
+    {
+      "specialtyId": "kagoshima-buta-miso",
+      "name": "豚味噌",
+      "prefecture": "鹿児島県",
+      "displaySake": 3
+    },
+    {
+      "specialtyId": "kanagawa-odawara-kamaboko",
+      "name": "小田原かまぼこ",
+      "prefecture": "神奈川県",
+      "displaySake": 3
+    },
+    {
+      "specialtyId": "aichi-moriguchizuke",
+      "name": "守口漬",
+      "prefecture": "愛知県",
+      "displaySake": 0
+    },
+    {
+      "specialtyId": "mie-sanma-maruboshi-gutted",
+      "name": "さんまの丸干し（内臓除去）",
+      "prefecture": "三重県",
+      "displaySake": 2
+    },
+    {
+      "specialtyId": "fukuoka-takana",
+      "name": "瀬高の高菜漬け",
+      "prefecture": "福岡県",
+      "displaySake": 2
+    },
+    {
+      "specialtyId": "miyagi-shisomaki",
+      "name": "しそ巻き",
+      "prefecture": "宮城県",
+      "displaySake": 3
+    },
+    {
+      "specialtyId": "yamagata-shoyunomi",
+      "name": "しょうゆの実",
+      "prefecture": "山形県",
+      "displaySake": 1
+    },
+    {
+      "specialtyId": "chiba-yude-rakkasei",
+      "name": "ゆで落花生",
+      "prefecture": "千葉県",
+      "displaySake": 1
+    },
+    {
+      "specialtyId": "niigata-sake-yakizuke",
+      "name": "鮭の焼漬け",
+      "prefecture": "新潟県",
+      "displaySake": 6
+    },
+    {
+      "specialtyId": "shiga-ebimame",
+      "name": "えび豆",
+      "prefecture": "滋賀県",
+      "displaySake": 0
+    },
+    {
+      "specialtyId": "hiroshima-hiroshimana",
+      "name": "広島菜漬",
+      "prefecture": "広島県",
+      "displaySake": 1
+    },
+    {
+      "specialtyId": "akita-hatahatazushi",
+      "name": "ハタハタ寿し",
+      "prefecture": "秋田県",
+      "displaySake": 4
+    },
+    {
+      "specialtyId": "kyoto-senmaizuke",
+      "name": "千枚漬け",
+      "prefecture": "京都府",
+      "displaySake": 3
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "checkedAt": "2026-10-23T08:43:39.711Z",
+  "files": [
+    {
+      "file": "src/specialties/master.json",
+      "before": 140567,
+      "after": 170203,
+      "gzipBefore": 14489,
+      "gzipAfter": 17748
+    },
+    {
+      "file": "src/specialties/pairings.json",
+      "before": 474132,
+      "after": 529100,
+      "gzipBefore": 45458,
+      "gzipAfter": 51418
+    },
+    {
+      "file": "src/commerce/localSakana.json",
+      "before": 240038,
+      "after": 284362,
+      "gzipBefore": 27857,
+      "gzipAfter": 33115
+    }
+  ],
+  "rows": [
+    {
+      "sakeId": "yamamoto-pure-black",
+      "htmlBefore": 59253,
+      "htmlAfter": 64724,
+      "gzipBefore": 11569,
+      "gzipAfter": 13112
+    },
+    {
+      "sakeId": "tamanohikari-junmai-ginjo-shukon-standard",
+      "htmlBefore": 69547,
+      "htmlAfter": 73507,
+      "gzipBefore": 14436,
+      "gzipAfter": 14939
+    },
+    {
+      "sakeId": "koimari-saki",
+      "htmlBefore": 59907,
+      "htmlAfter": 59950,
+      "gzipBefore": 11791,
+      "gzipAfter": 11782
+    }
+  ],
+  "sourceJsCssUnchanged": true,
+  "closedAccordionImages": 0,
+  "dimensionsReserved": "Existing image container and 240px official dimensions unchanged; browser sizes verified",
+  "cwvMeasured": false,
+  "note": "HTML/JSON bytes measured; different production build metadata can also alter bytes. No JS bundle byte or CWV improvement claimed."
+}

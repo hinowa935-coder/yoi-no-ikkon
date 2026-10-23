@@ -12,6 +12,7 @@ const read=p=>JSON.parse(fs.readFileSync(new URL('../'+p,import.meta.url)));
 const hash=v=>createHash('sha256').update(v).digest('hex');
 const config={enabled:true,registeredSite:'https://yoi-no-ikkon.vercel.app/',enabledProviders:['rakuten'],routes:{rakuten:'rakuten'}};
 const offers=read('src/commerce/localSakana.json').offers,changes=read('docs/local-sakana-v1/source-changes.json');
+const national=read('docs/local-sakana-national/preimplementation-review.json'),priorKeys=new Set(read('docs/local-sakana-national/preserved-records.json').pairings.map(p=>p.sakeId+'|'+p.specialtyId)),taste=read('src/data/tasteDescriptions.json').records;
 const now=Date.parse('2026-10-23T23:00:00+09:00');
 
 test('all active prefectures are known; exactly nine geo-only corrections retain SKU, research and favorite identity',()=>{
@@ -28,15 +29,16 @@ test('all unrelated application/data/commerce/PWA files retain exact baseline by
  for(const row of changes.changes){assert(reviewedLocalSakanaFile(row.file,row.beforeSha256,row.afterSha256));assert(!reviewedLocalSakanaFile(row.file,row.beforeSha256,'tampered'));}
 });
 test('specialty food claims, related food IDs and purchase records live in separate layers',()=>{
- assert.equal(localSpecialties.length,67);assert.equal(offers.length,67);assert.equal(new Set(localSpecialties.map(s=>s.id)).size,67);
+ assert.equal(localSpecialties.length,national.masterAfter);assert.equal(offers.length,national.masterAfter);assert.equal(new Set(localSpecialties.map(s=>s.id)).size,national.masterAfter);
  for(const s of localSpecialties){assert(s.prefecture&&s.description&&s.sources.length&&s.featureEvidence.length&&s.relatedFoodIds);assert(!('rakutenUrl'in s));assert(!('price'in s));assert(offers.some(o=>o.specialtyId===s.id));}
  assert(!localSpecialties.some(s=>s.id==='shio-uni'||s.id==='konka-iwashi'));
 });
-test('every pairing is SKU-specific, sourced, editorial, and compatible with the existing verified feature',()=>{
+test('every pairing is SKU-specific and editorial, citing an existing Verified feature or a separately traced taste observation',()=>{
  for(const p of localSakanaPairings){const item=getSakeById(p.sakeId),s=localSpecialties.find(s=>s.id===p.specialtyId);assert.equal(p.prefecture,item.prefecture);assert.equal(s.prefecture,item.prefecture);
   assert.equal(p.evidenceType,'editorialPairing');assert.equal(p.officialPairing,false);assert.equal(p.communityPairing,false);
-  assert(item.sakeResearch.featureEvidence.some(e=>e.feature===p.sakeEvidence.feature&&e.sourceUrl===p.sakeEvidence.sourceUrl));
-  assert(item.sakeResearch.verifiedFeatureTags.includes(p.sakeEvidence.feature));assert(s.pairingTags.includes(p.sakeEvidence.axis));assert(p.pairingReason.includes(p.sakeEvidence.feature)&&p.pairingReason.includes(s.name));assert(p.pairingReason.length<200);
+  if(priorKeys.has(p.sakeId+'|'+p.specialtyId)){assert(item.sakeResearch.featureEvidence.some(e=>e.feature===p.sakeEvidence.feature&&e.sourceUrl===p.sakeEvidence.sourceUrl));assert(item.sakeResearch.verifiedFeatureTags.includes(p.sakeEvidence.feature));assert(p.pairingReason.includes(p.sakeEvidence.feature)&&p.pairingReason.includes(s.name));}
+  else{assert(taste[item.id].text);assert(taste[item.id].claims.some(c=>c.claim===p.sakeEvidence.feature&&c.sourceUrl===p.sakeEvidence.sourceUrl));assert(p.additionalSakeEvidence.length>0);}
+  assert(s.pairingTags.includes(p.sakeEvidence.axis));assert(p.pairingReason.length<200);
   assert(!/^(?:生酛|山廃|氷温熟成|三年熟成|熟成酒ブレンド)$/.test(p.sakeEvidence.feature),'Method alone is not a taste');
  }
 });

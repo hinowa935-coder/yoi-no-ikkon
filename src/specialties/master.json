@@ -3606,6 +3606,669 @@
       "historySourceUrls": [
         "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/butamiso_kagoshima.html"
       ]
+    },
+    {
+      "id": "kanagawa-odawara-kamaboko",
+      "slug": "kanagawa-odawara-kamaboko",
+      "name": "小田原かまぼこ",
+      "shortName": "小田原かまぼこ",
+      "prefecture": "神奈川県",
+      "region": "小田原",
+      "subregion": "小田原",
+      "category": "魚介練り物",
+      "description": "魚のすり身を板に盛って蒸す、小田原のかまぼこ。選んだ商品は鈴廣の白い板かまぼこで、弾力のある歯ごたえを楽しめます。",
+      "foodFeature": "蒸しかまぼこの魚の味と弾力",
+      "profile": "delicate",
+      "tasteTags": [
+        "delicate"
+      ],
+      "aromaTags": [],
+      "textureTags": [],
+      "pairingTags": [
+        "umami",
+        "clean",
+        "aroma"
+      ],
+      "sakeStyleTags": [],
+      "temperatureTags": [],
+      "seasonality": null,
+      "relatedFoodIds": [],
+      "sources": [
+        {
+          "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/35_19_kanagawa.html",
+          "sourceUrl": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/35_19_kanagawa.html",
+          "sourceType": "government",
+          "scope": "regional_food_culture_not_retail_origin_or_quantity",
+          "checkedAt": "2026-10-23",
+          "claim": "小田原の板付き蒸しかまぼこ。魚のすり身を蒸し、弾力ある食感をつくる。",
+          "meaning": "小田原の板付き蒸しかまぼこ。魚のすり身を蒸し、弾力ある食感をつくる。"
+        }
+      ],
+      "featureEvidence": [
+        {
+          "feature": "蒸しかまぼこの魚の味と弾力",
+          "meaning": "魚のすり身を板に盛って蒸す、小田原のかまぼこ。選んだ商品は鈴廣の白い板かまぼこで、弾力のある歯ごたえを楽しめます。",
+          "sourceUrls": [
+            "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/35_19_kanagawa.html",
+            "https://item.rakuten.co.jp/kamaboko/454329/"
+          ],
+          "provenance": "regionalFoodCultureAndSpecificRetailProduct"
+        }
+      ],
+      "originScope": "food_culture_region_not_necessarily_raw_ingredient_origin",
+      "historySourceUrls": [
+        "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/35_19_kanagawa.html"
+      ],
+      "status": "ACTIVE",
+      "dataConfidence": "medium"
+    },
+    {
+      "id": "aichi-moriguchizuke",
+      "slug": "aichi-moriguchizuke",
+      "name": "守口漬",
+      "shortName": "守口漬",
+      "prefecture": "愛知県",
+      "region": "尾張・名古屋",
+      "subregion": "尾張・名古屋",
+      "category": "漬物",
+      "description": "細長い守口大根を酒粕やみりん粕に漬ける、愛知の伝統食。甘みを帯びた粕の風味と、こりっとした歯ごたえが持ち味です。",
+      "foodFeature": "酒粕・みりん粕の甘みと歯ごたえ",
+      "profile": "fermented",
+      "tasteTags": [
+        "fermented"
+      ],
+      "aromaTags": [],
+      "textureTags": [],
+      "pairingTags": [
+        "umami",
+        "dry",
+        "fermented"
+      ],
+      "sakeStyleTags": [],
+      "temperatureTags": [],
+      "seasonality": null,
+      "relatedFoodIds": [],
+      "sources": [
+        {
+          "url": "https://www.maff.go.jp/j/keikaku/syokubunka/traditional-foods/menu/moriguchi_zuke.html",
+          "sourceUrl": "https://www.maff.go.jp/j/keikaku/syokubunka/traditional-foods/menu/moriguchi_zuke.html",
+          "sourceType": "government",
+          "scope": "regional_food_culture_not_retail_origin_or_quantity",
+          "checkedAt": "2026-10-23",
+          "claim": "愛知の守口大根を酒粕・みりん粕に漬ける伝統食。甘み、粕の風味、歯ごたえが特徴。",
+          "meaning": "愛知の守口大根を酒粕・みりん粕に漬ける伝統食。甘み、粕の風味、歯ごたえが特徴。"
+        }
+      ],
+      "featureEvidence": [
+        {
+          "feature": "酒粕・みりん粕の甘みと歯ごたえ",
+          "meaning": "細長い守口大根を酒粕やみりん粕に漬ける、愛知の伝統食。甘みを帯びた粕の風味と、こりっとした歯ごたえが持ち味です。",
+          "sourceUrls": [
+            "https://www.maff.go.jp/j/keikaku/syokubunka/traditional-foods/menu/moriguchi_zuke.html",
+            "https://item.rakuten.co.jp/miyage-chaya/578805/"
+          ],
+          "provenance": "regionalFoodCultureAndSpecificRetailProduct"
+        }
+      ],
+      "originScope": "food_culture_region_not_necessarily_raw_ingredient_origin",
+      "historySourceUrls": [
+        "https://www.maff.go.jp/j/keikaku/syokubunka/traditional-foods/menu/moriguchi_zuke.html"
+      ],
+      "status": "ACTIVE",
+      "dataConfidence": "medium"
+    },
+    {
+      "id": "mie-sanma-maruboshi-gutted",
+      "slug": "mie-sanma-maruboshi-gutted",
+      "name": "さんまの丸干し（内臓除去）",
+      "shortName": "さんまの丸干し（内臓除去）",
+      "prefecture": "三重県",
+      "region": "東紀州・熊野",
+      "subregion": "東紀州・熊野",
+      "category": "魚介干物",
+      "description": "さんまを塩干しにする東紀州の食文化から。選んだ商品は熊野の畑辰商店がつくる、内臓を取り除いた丸干しです。焼いて小皿に。",
+      "foodFeature": "内臓を取り除いて塩干しにした身の味",
+      "profile": "salty",
+      "tasteTags": [
+        "salty"
+      ],
+      "aromaTags": [],
+      "textureTags": [],
+      "pairingTags": [
+        "umami",
+        "dry",
+        "clean"
+      ],
+      "sakeStyleTags": [],
+      "temperatureTags": [],
+      "seasonality": null,
+      "relatedFoodIds": [],
+      "sources": [
+        {
+          "url": "https://www.maff.go.jp/j/keikaku/syokubunka/traditional-foods/menu/sanmano_marubosi.html",
+          "sourceUrl": "https://www.maff.go.jp/j/keikaku/syokubunka/traditional-foods/menu/sanmano_marubosi.html",
+          "sourceType": "government",
+          "scope": "regional_food_culture_not_retail_origin_or_quantity",
+          "checkedAt": "2026-10-23",
+          "claim": "東紀州でさんまを塩漬けし干す食文化。原料産地や内臓除去は個別販売商品の根拠で区別する。",
+          "meaning": "東紀州でさんまを塩漬けし干す食文化。原料産地や内臓除去は個別販売商品の根拠で区別する。"
+        }
+      ],
+      "featureEvidence": [
+        {
+          "feature": "内臓を取り除いて塩干しにした身の味",
+          "meaning": "さんまを塩干しにする東紀州の食文化から。選んだ商品は熊野の畑辰商店がつくる、内臓を取り除いた丸干しです。焼いて小皿に。",
+          "sourceUrls": [
+            "https://www.maff.go.jp/j/keikaku/syokubunka/traditional-foods/menu/sanmano_marubosi.html",
+            "https://item.rakuten.co.jp/hatatatsuhimonoshop/10000025/"
+          ],
+          "provenance": "regionalFoodCultureAndSpecificRetailProduct"
+        }
+      ],
+      "originScope": "food_culture_region_not_necessarily_raw_ingredient_origin",
+      "historySourceUrls": [
+        "https://www.maff.go.jp/j/keikaku/syokubunka/traditional-foods/menu/sanmano_marubosi.html"
+      ],
+      "status": "ACTIVE",
+      "dataConfidence": "medium"
+    },
+    {
+      "id": "fukuoka-takana",
+      "slug": "fukuoka-takana",
+      "name": "瀬高の高菜漬け",
+      "shortName": "瀬高の高菜漬け",
+      "prefecture": "福岡県",
+      "region": "筑後・瀬高",
+      "subregion": "筑後・瀬高",
+      "category": "漬物",
+      "description": "福岡・瀬高で受け継がれる高菜漬け。選んだ商品は熟成させたまつきの高菜漬で、細かく刻んで小皿に盛るのもよい食べ方です。",
+      "foodFeature": "熟成した高菜の風味と歯ごたえ",
+      "profile": "fermented",
+      "tasteTags": [
+        "fermented"
+      ],
+      "aromaTags": [],
+      "textureTags": [],
+      "pairingTags": [
+        "umami",
+        "dry",
+        "acid"
+      ],
+      "sakeStyleTags": [],
+      "temperatureTags": [],
+      "seasonality": null,
+      "relatedFoodIds": [],
+      "sources": [
+        {
+          "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/setakano_takana_zuke_fukuoka.html",
+          "sourceUrl": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/setakano_takana_zuke_fukuoka.html",
+          "sourceType": "government",
+          "scope": "regional_food_culture_not_retail_origin_or_quantity",
+          "checkedAt": "2026-10-23",
+          "claim": "福岡県筑後・瀬高の高菜漬け。刻んで食卓に添える漬け菜の文化。",
+          "meaning": "福岡県筑後・瀬高の高菜漬け。刻んで食卓に添える漬け菜の文化。"
+        }
+      ],
+      "featureEvidence": [
+        {
+          "feature": "熟成した高菜の風味と歯ごたえ",
+          "meaning": "福岡・瀬高で受け継がれる高菜漬け。選んだ商品は熟成させたまつきの高菜漬で、細かく刻んで小皿に盛るのもよい食べ方です。",
+          "sourceUrls": [
+            "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/setakano_takana_zuke_fukuoka.html",
+            "https://item.rakuten.co.jp/oomoriya-m/832/"
+          ],
+          "provenance": "regionalFoodCultureAndSpecificRetailProduct"
+        }
+      ],
+      "originScope": "food_culture_region_not_necessarily_raw_ingredient_origin",
+      "historySourceUrls": [
+        "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/setakano_takana_zuke_fukuoka.html"
+      ],
+      "status": "ACTIVE",
+      "dataConfidence": "medium"
+    },
+    {
+      "id": "miyagi-shisomaki",
+      "slug": "miyagi-shisomaki",
+      "name": "しそ巻き",
+      "shortName": "しそ巻き",
+      "prefecture": "宮城県",
+      "region": "宮城県内",
+      "subregion": "宮城県内",
+      "category": "味噌加工品",
+      "description": "味噌にくるみやごまを混ぜ、青しそで巻いて揚げる宮城の一品。しその香りと味噌の味わいを、ひと口ずつ楽しめます。",
+      "foodFeature": "青しそで包んだ味噌・ごま・くるみの風味",
+      "profile": "sweet-savory",
+      "tasteTags": [
+        "sweet-savory"
+      ],
+      "aromaTags": [],
+      "textureTags": [],
+      "pairingTags": [
+        "umami",
+        "dry",
+        "acid"
+      ],
+      "sakeStyleTags": [],
+      "temperatureTags": [],
+      "seasonality": null,
+      "relatedFoodIds": [],
+      "sources": [
+        {
+          "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/shiso_maki_miyagi.html",
+          "sourceUrl": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/shiso_maki_miyagi.html",
+          "sourceType": "government",
+          "scope": "regional_food_culture_not_retail_origin_or_quantity",
+          "checkedAt": "2026-10-23",
+          "claim": "宮城の味噌・くるみ・ごまを青しそで包んで揚げる一品。日本酒の肴としても食される。",
+          "meaning": "宮城の味噌・くるみ・ごまを青しそで包んで揚げる一品。日本酒の肴としても食される。"
+        }
+      ],
+      "featureEvidence": [
+        {
+          "feature": "青しそで包んだ味噌・ごま・くるみの風味",
+          "meaning": "味噌にくるみやごまを混ぜ、青しそで巻いて揚げる宮城の一品。しその香りと味噌の味わいを、ひと口ずつ楽しめます。",
+          "sourceUrls": [
+            "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/shiso_maki_miyagi.html",
+            "https://item.rakuten.co.jp/greencenter/s-m/"
+          ],
+          "provenance": "regionalFoodCultureAndSpecificRetailProduct"
+        }
+      ],
+      "originScope": "food_culture_region_not_necessarily_raw_ingredient_origin",
+      "historySourceUrls": [
+        "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/shiso_maki_miyagi.html"
+      ],
+      "status": "ACTIVE",
+      "dataConfidence": "medium"
+    },
+    {
+      "id": "yamagata-shoyunomi",
+      "slug": "yamagata-shoyunomi",
+      "name": "しょうゆの実",
+      "shortName": "しょうゆの実",
+      "prefecture": "山形県",
+      "region": "庄内",
+      "subregion": "庄内",
+      "category": "発酵食品",
+      "description": "大豆や麦などを発酵させる、庄内のしょうゆの実。選んだ商品はマルノー山形の200g入りで、冷奴やきゅうりに少し添えるのも一案です。",
+      "foodFeature": "豆や麦を発酵させた旨味と醤油味",
+      "profile": "fermented",
+      "tasteTags": [
+        "fermented"
+      ],
+      "aromaTags": [],
+      "textureTags": [],
+      "pairingTags": [
+        "umami",
+        "dry",
+        "clean"
+      ],
+      "sakeStyleTags": [],
+      "temperatureTags": [],
+      "seasonality": null,
+      "relatedFoodIds": [],
+      "sources": [
+        {
+          "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/shoyunomi_yamagata.html",
+          "sourceUrl": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/shoyunomi_yamagata.html",
+          "sourceType": "government",
+          "scope": "regional_food_culture_not_retail_origin_or_quantity",
+          "checkedAt": "2026-10-23",
+          "claim": "庄内で豆や穀類を発酵させるしょうゆの実。冷奴やきゅうりなどに添えて食す。",
+          "meaning": "庄内で豆や穀類を発酵させるしょうゆの実。冷奴やきゅうりなどに添えて食す。"
+        }
+      ],
+      "featureEvidence": [
+        {
+          "feature": "豆や麦を発酵させた旨味と醤油味",
+          "meaning": "大豆や麦などを発酵させる、庄内のしょうゆの実。選んだ商品はマルノー山形の200g入りで、冷奴やきゅうりに少し添えるのも一案です。",
+          "sourceUrls": [
+            "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/shoyunomi_yamagata.html",
+            "https://item.rakuten.co.jp/amarume/10000653/"
+          ],
+          "provenance": "regionalFoodCultureAndSpecificRetailProduct"
+        }
+      ],
+      "originScope": "food_culture_region_not_necessarily_raw_ingredient_origin",
+      "historySourceUrls": [
+        "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/shoyunomi_yamagata.html"
+      ],
+      "status": "ACTIVE",
+      "dataConfidence": "medium"
+    },
+    {
+      "id": "chiba-yude-rakkasei",
+      "slug": "chiba-yude-rakkasei",
+      "name": "ゆで落花生",
+      "shortName": "ゆで落花生",
+      "prefecture": "千葉県",
+      "region": "房総",
+      "subregion": "房総",
+      "category": "豆加工品",
+      "description": "採れたての落花生をゆでる、千葉ならではの食べ方。選んだ商品は県産おおまさりの冷凍品で、殻をむきながら柔らかな豆を楽しめます。",
+      "foodFeature": "ゆでた落花生の柔らかさ",
+      "profile": "delicate",
+      "tasteTags": [
+        "delicate"
+      ],
+      "aromaTags": [],
+      "textureTags": [],
+      "pairingTags": [
+        "clean",
+        "umami",
+        "aroma"
+      ],
+      "sakeStyleTags": [],
+      "temperatureTags": [],
+      "seasonality": null,
+      "relatedFoodIds": [],
+      "sources": [
+        {
+          "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/yude_rakkasei_chiba.html",
+          "sourceUrl": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/yude_rakkasei_chiba.html",
+          "sourceType": "government",
+          "scope": "regional_food_culture_not_retail_origin_or_quantity",
+          "checkedAt": "2026-10-23",
+          "claim": "千葉の産地で落花生をさやごとゆでる食文化。加工品は収穫期外にも食される。",
+          "meaning": "千葉の産地で落花生をさやごとゆでる食文化。加工品は収穫期外にも食される。"
+        }
+      ],
+      "featureEvidence": [
+        {
+          "feature": "ゆでた落花生の柔らかさ",
+          "meaning": "採れたての落花生をゆでる、千葉ならではの食べ方。選んだ商品は県産おおまさりの冷凍品で、殻をむきながら柔らかな豆を楽しめます。",
+          "sourceUrls": [
+            "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/yude_rakkasei_chiba.html",
+            "https://item.rakuten.co.jp/tomura/yudebig1050/"
+          ],
+          "provenance": "regionalFoodCultureAndSpecificRetailProduct"
+        }
+      ],
+      "originScope": "food_culture_region_not_necessarily_raw_ingredient_origin",
+      "historySourceUrls": [
+        "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/yude_rakkasei_chiba.html"
+      ],
+      "status": "ACTIVE",
+      "dataConfidence": "medium"
+    },
+    {
+      "id": "niigata-sake-yakizuke",
+      "slug": "niigata-sake-yakizuke",
+      "name": "鮭の焼漬け",
+      "shortName": "鮭の焼漬け",
+      "prefecture": "新潟県",
+      "region": "村上",
+      "subregion": "村上",
+      "category": "魚介の漬物",
+      "description": "焼いた鮭を醤油だれに漬ける、新潟・村上の郷土料理。選んだ商品は料亭能登新の骨取りタイプ。温めても、そのままでも楽しめます。",
+      "foodFeature": "焼いた鮭と醤油だれの味",
+      "profile": "sweet-savory",
+      "tasteTags": [
+        "sweet-savory"
+      ],
+      "aromaTags": [],
+      "textureTags": [],
+      "pairingTags": [
+        "umami",
+        "dry",
+        "acid"
+      ],
+      "sakeStyleTags": [],
+      "temperatureTags": [],
+      "seasonality": null,
+      "relatedFoodIds": [],
+      "sources": [
+        {
+          "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/sakeno_yakizuke_niigata.html",
+          "sourceUrl": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/sakeno_yakizuke_niigata.html",
+          "sourceType": "government",
+          "scope": "regional_food_culture_not_retail_origin_or_quantity",
+          "checkedAt": "2026-10-23",
+          "claim": "新潟北部・村上で焼いた鮭を醤油だれに漬ける保存食。そのまま・温めて食す。",
+          "meaning": "新潟北部・村上で焼いた鮭を醤油だれに漬ける保存食。そのまま・温めて食す。"
+        }
+      ],
+      "featureEvidence": [
+        {
+          "feature": "焼いた鮭と醤油だれの味",
+          "meaning": "焼いた鮭を醤油だれに漬ける、新潟・村上の郷土料理。選んだ商品は料亭能登新の骨取りタイプ。温めても、そのままでも楽しめます。",
+          "sourceUrls": [
+            "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/sakeno_yakizuke_niigata.html",
+            "https://item.rakuten.co.jp/niigata-shop/0533-005-a/"
+          ],
+          "provenance": "regionalFoodCultureAndSpecificRetailProduct"
+        }
+      ],
+      "originScope": "food_culture_region_not_necessarily_raw_ingredient_origin",
+      "historySourceUrls": [
+        "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/sakeno_yakizuke_niigata.html"
+      ],
+      "status": "ACTIVE",
+      "dataConfidence": "medium"
+    },
+    {
+      "id": "shiga-ebimame",
+      "slug": "shiga-ebimame",
+      "name": "えび豆",
+      "shortName": "えび豆",
+      "prefecture": "滋賀県",
+      "region": "琵琶湖・長浜",
+      "subregion": "琵琶湖・長浜",
+      "category": "佃煮",
+      "description": "小えびと大豆を甘辛く煮る、滋賀のえび豆。選んだ商品は滋賀県産大豆と国産小えびを使った、伊吹食品の100g入りです。",
+      "foodFeature": "小えびと大豆の甘辛い煮汁",
+      "profile": "sweet-savory",
+      "tasteTags": [
+        "sweet-savory"
+      ],
+      "aromaTags": [],
+      "textureTags": [],
+      "pairingTags": [
+        "umami",
+        "dry",
+        "clean"
+      ],
+      "sakeStyleTags": [],
+      "temperatureTags": [],
+      "seasonality": null,
+      "relatedFoodIds": [],
+      "sources": [
+        {
+          "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/ebimame_shiga.html",
+          "sourceUrl": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/ebimame_shiga.html",
+          "sourceType": "government",
+          "scope": "regional_food_culture_not_retail_origin_or_quantity",
+          "checkedAt": "2026-10-23",
+          "claim": "滋賀の小えびと大豆を甘辛く煮る郷土料理。日常の小鉢にもなる。",
+          "meaning": "滋賀の小えびと大豆を甘辛く煮る郷土料理。日常の小鉢にもなる。"
+        }
+      ],
+      "featureEvidence": [
+        {
+          "feature": "小えびと大豆の甘辛い煮汁",
+          "meaning": "小えびと大豆を甘辛く煮る、滋賀のえび豆。選んだ商品は滋賀県産大豆と国産小えびを使った、伊吹食品の100g入りです。",
+          "sourceUrls": [
+            "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/ebimame_shiga.html",
+            "https://item.rakuten.co.jp/tsukudani-nagahama/ebimame/"
+          ],
+          "provenance": "regionalFoodCultureAndSpecificRetailProduct"
+        }
+      ],
+      "originScope": "food_culture_region_not_necessarily_raw_ingredient_origin",
+      "historySourceUrls": [
+        "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/ebimame_shiga.html"
+      ],
+      "status": "ACTIVE",
+      "dataConfidence": "medium"
+    },
+    {
+      "id": "hiroshima-hiroshimana",
+      "slug": "hiroshima-hiroshimana",
+      "name": "広島菜漬",
+      "shortName": "広島菜漬",
+      "prefecture": "広島県",
+      "region": "広島",
+      "subregion": "広島",
+      "category": "漬物",
+      "description": "広島で親しまれる広島菜漬。選んだ商品は山豊の本醸漬・かき醤油で、漬け菜の歯ごたえと醤油漬けの風味を楽しめます。",
+      "foodFeature": "本漬けした広島菜の歯ごたえと醤油の風味",
+      "profile": "salty",
+      "tasteTags": [
+        "salty"
+      ],
+      "aromaTags": [],
+      "textureTags": [],
+      "pairingTags": [
+        "umami",
+        "dry",
+        "clean"
+      ],
+      "sakeStyleTags": [],
+      "temperatureTags": [],
+      "seasonality": null,
+      "relatedFoodIds": [],
+      "sources": [
+        {
+          "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/42_23_hiroshima.html",
+          "sourceUrl": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/42_23_hiroshima.html",
+          "sourceType": "government",
+          "scope": "regional_food_culture_not_retail_origin_or_quantity",
+          "checkedAt": "2026-10-23",
+          "claim": "広島で栽培・加工されてきた広島菜漬の食文化。浅漬けと本漬けの違いは個別商品で区別する。",
+          "meaning": "広島で栽培・加工されてきた広島菜漬の食文化。浅漬けと本漬けの違いは個別商品で区別する。"
+        }
+      ],
+      "featureEvidence": [
+        {
+          "feature": "本漬けした広島菜の歯ごたえと醤油の風味",
+          "meaning": "広島で親しまれる広島菜漬。選んだ商品は山豊の本醸漬・かき醤油で、漬け菜の歯ごたえと醤油漬けの風味を楽しめます。",
+          "sourceUrls": [
+            "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/42_23_hiroshima.html",
+            "https://item.rakuten.co.jp/yamatoyo/kaki_syouyu/"
+          ],
+          "provenance": "regionalFoodCultureAndSpecificRetailProduct"
+        }
+      ],
+      "originScope": "food_culture_region_not_necessarily_raw_ingredient_origin",
+      "historySourceUrls": [
+        "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/42_23_hiroshima.html"
+      ],
+      "status": "ACTIVE",
+      "dataConfidence": "medium"
+    },
+    {
+      "id": "akita-hatahatazushi",
+      "slug": "akita-hatahatazushi",
+      "name": "ハタハタ寿し",
+      "shortName": "ハタハタ寿し",
+      "prefecture": "秋田県",
+      "region": "八峰・沿岸部",
+      "subregion": "八峰・沿岸部",
+      "category": "発酵食品",
+      "description": "ハタハタを米などと漬ける、秋田のハタハタ寿し。選んだ商品は鈴木水産の切りずしで、食べやすい大きさにした魚と米を味わえます。",
+      "foodFeature": "魚と米を漬けた酸味のある風味",
+      "profile": "acidic",
+      "tasteTags": [
+        "acidic"
+      ],
+      "aromaTags": [],
+      "textureTags": [],
+      "pairingTags": [
+        "acid",
+        "umami",
+        "clean"
+      ],
+      "sakeStyleTags": [],
+      "temperatureTags": [],
+      "seasonality": null,
+      "relatedFoodIds": [],
+      "sources": [
+        {
+          "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/29_2_akita.html",
+          "sourceUrl": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/29_2_akita.html",
+          "sourceType": "government",
+          "scope": "regional_food_culture_not_retail_origin_or_quantity",
+          "checkedAt": "2026-10-23",
+          "claim": "秋田でハタハタを米などと漬ける保存食。切りずしと一匹ずしの食べ方がある。",
+          "meaning": "秋田でハタハタを米などと漬ける保存食。切りずしと一匹ずしの食べ方がある。"
+        }
+      ],
+      "featureEvidence": [
+        {
+          "feature": "魚と米を漬けた酸味のある風味",
+          "meaning": "ハタハタを米などと漬ける、秋田のハタハタ寿し。選んだ商品は鈴木水産の切りずしで、食べやすい大きさにした魚と米を味わえます。",
+          "sourceUrls": [
+            "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/29_2_akita.html",
+            "https://item.rakuten.co.jp/satsumakaisan/hatahatasusikirisusi500/"
+          ],
+          "provenance": "regionalFoodCultureAndSpecificRetailProduct"
+        }
+      ],
+      "originScope": "food_culture_region_not_necessarily_raw_ingredient_origin",
+      "historySourceUrls": [
+        "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/29_2_akita.html"
+      ],
+      "status": "ACTIVE",
+      "dataConfidence": "medium"
+    },
+    {
+      "id": "kyoto-senmaizuke",
+      "slug": "kyoto-senmaizuke",
+      "name": "千枚漬け",
+      "shortName": "千枚漬け",
+      "prefecture": "京都府",
+      "region": "京都",
+      "subregion": "京都",
+      "category": "漬物",
+      "description": "聖護院かぶを薄く切って漬ける、京都の千枚漬け。選んだ商品は西利の100g入りで、ほのかな甘みと昆布の風味を楽しめます。",
+      "foodFeature": "薄切りかぶのほのかな甘みと昆布の風味",
+      "profile": "delicate",
+      "tasteTags": [
+        "delicate"
+      ],
+      "aromaTags": [],
+      "textureTags": [],
+      "pairingTags": [
+        "clean",
+        "acid",
+        "aroma"
+      ],
+      "sakeStyleTags": [],
+      "temperatureTags": [],
+      "seasonality": {
+        "kind": "seasonal",
+        "note": "秋冬に出荷。今回の販売確認日時点で通常購入可能。"
+      },
+      "relatedFoodIds": [],
+      "sources": [
+        {
+          "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/semmaizuke_kyoto.html",
+          "sourceUrl": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/semmaizuke_kyoto.html",
+          "sourceType": "government",
+          "scope": "regional_food_culture_not_retail_origin_or_quantity",
+          "checkedAt": "2026-10-23",
+          "claim": "京都の聖護院かぶを薄く切って漬ける千枚漬け。現代の製法は乳酸発酵とは区別する。",
+          "meaning": "京都の聖護院かぶを薄く切って漬ける千枚漬け。現代の製法は乳酸発酵とは区別する。"
+        }
+      ],
+      "featureEvidence": [
+        {
+          "feature": "薄切りかぶのほのかな甘みと昆布の風味",
+          "meaning": "聖護院かぶを薄く切って漬ける、京都の千枚漬け。選んだ商品は西利の100g入りで、ほのかな甘みと昆布の風味を楽しめます。",
+          "sourceUrls": [
+            "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/semmaizuke_kyoto.html",
+            "https://item.rakuten.co.jp/nishiri/10000001/"
+          ],
+          "provenance": "regionalFoodCultureAndSpecificRetailProduct"
+        }
+      ],
+      "originScope": "food_culture_region_not_necessarily_raw_ingredient_origin",
+      "historySourceUrls": [
+        "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/semmaizuke_kyoto.html"
+      ],
+      "status": "ACTIVE",
+      "dataConfidence": "medium"
     }
   ]
 }

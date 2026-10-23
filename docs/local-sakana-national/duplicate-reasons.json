@@ -1,0 +1,984 @@
+{
+  "before": [
+    {
+      "reason": "呼子いか一夜干しのいかの甘味を少しずつ。この酒の「米の旨味」と重ねて、肴と酒の味わいをゆっくり楽しむなら。",
+      "count": 2,
+      "sakeIds": [
+        "nogomi-tokubetsu-junmai",
+        "azumaichi-junmai-ginjo"
+      ]
+    },
+    {
+      "reason": "粘りのある食感が持ち味のぎばさを、この酒の「酸味」と。どちらの味も確かめながら、交互に少しずつ。",
+      "count": 2,
+      "sakeIds": [
+        "amaneko-white-koji",
+        "ranman-junmai-managudako-standard"
+      ]
+    },
+    {
+      "reason": "かんずり酒盗をひと口、そのあとにこの酒を。発酵の旨味と「淡麗」の対比を楽しむ組み合わせです。",
+      "count": 3,
+      "sakeIds": [
+        "hakkaisan-tokubetsu-honjozo",
+        "kubota-senju",
+        "hakkaisan-seishu-lineup-v1"
+      ]
+    },
+    {
+      "reason": "へしこの塩気を少しずつ。この酒の「芳醇旨口」と重ねて、肴と酒の味わいをゆっくり楽しむなら。",
+      "count": 2,
+      "sakeIds": [
+        "born-gold",
+        "born-gold-2"
+      ]
+    },
+    {
+      "reason": "小鯛ささ漬けを少しずつつまみながら、この酒の「芳醇旨口」を楽しむひととき。酢の風味と酒の香りに、順番に目を向けて。",
+      "count": 2,
+      "sakeIds": [
+        "born-gold",
+        "born-gold-2"
+      ]
+    },
+    {
+      "reason": "かつお生節は、かつおの旨味を少しずつ。この酒の「米の旨味」と重ねて、肴と酒の味わいをゆっくり楽しむなら。",
+      "count": 3,
+      "sakeIds": [
+        "suigei-tokubetsu-junmai",
+        "keigetsu-extra-dry-tokubetsu-junmai60-catalog-v1",
+        "suigei-koiku54-lineup-v1"
+      ]
+    },
+    {
+      "reason": "酒盗の濃厚な旨味を少しずつ。この酒の「米の旨味」と重ねて、肴と酒の味わいをゆっくり楽しむなら。",
+      "count": 2,
+      "sakeIds": [
+        "suigei-tokubetsu-junmai",
+        "suigei-koiku54-lineup-v1"
+      ]
+    },
+    {
+      "reason": "ほや珍味の燻製の香ばしさを少しずつ。この酒の「米の旨味」と重ねて、肴と酒の味わいをゆっくり楽しむなら。",
+      "count": 2,
+      "sakeIds": [
+        "urakasumi-i3yhce",
+        "suminoe-i3yhce"
+      ]
+    },
+    {
+      "reason": "かんずり酒盗の発酵の旨味を少しずつ。この酒の「まろやかな旨味」と重ねて、肴と酒の味わいをゆっくり楽しむなら。",
+      "count": 2,
+      "sakeIds": [
+        "jozen-mizunogotoshi-junmai-ginjo-standard",
+        "ayumasamune-honjozo-catalog-v1"
+      ]
+    },
+    {
+      "reason": "栃尾の油揚げの香ばしさを少しずつ。この酒の「まろやかな旨味」と重ねて、肴と酒の味わいをゆっくり楽しむなら。",
+      "count": 2,
+      "sakeIds": [
+        "jozen-mizunogotoshi-junmai-ginjo-standard",
+        "ayumasamune-honjozo-catalog-v1"
+      ]
+    },
+    {
+      "reason": "かんずり酒盗の発酵の旨味は控えめな量から。酒の「やや辛口」との違いを楽しみたい組み合わせです。",
+      "count": 2,
+      "sakeIds": [
+        "echigozakura-daiginjo-standard",
+        "koshino-happo-origarami-catalog-v1"
+      ]
+    },
+    {
+      "reason": "栃尾の油揚げの香ばしさは控えめな量から。酒の「やや辛口」との違いを楽しみたい組み合わせです。",
+      "count": 2,
+      "sakeIds": [
+        "echigozakura-daiginjo-standard",
+        "koshino-happo-origarami-catalog-v1"
+      ]
+    },
+    {
+      "reason": "かぶら寿しの糀のまろやかさを少しずつ。この酒の「コク」と重ねて、肴と酒の味わいをゆっくり楽しむなら。",
+      "count": 2,
+      "sakeIds": [
+        "jokigen-ishikawa-nozijh",
+        "jokigen-ishikawa-nozijh-4"
+      ]
+    },
+    {
+      "reason": "ふぐの子糠漬けの塩気を少しずつ。この酒の「米の旨味」と重ねて、肴と酒の味わいをゆっくり楽しむなら。",
+      "count": 3,
+      "sakeIds": [
+        "kagatobi-nozijh",
+        "kagatsuru-junmai-josen-standard",
+        "kagatobi-gokkan-lineup-v1"
+      ]
+    },
+    {
+      "reason": "かぶら寿しの糀のまろやかさを少しずつ。この酒の「米の旨味」と重ねて、肴と酒の味わいをゆっくり楽しむなら。",
+      "count": 2,
+      "sakeIds": [
+        "kagatobi-nozijh",
+        "kagatobi-gokkan-lineup-v1"
+      ]
+    },
+    {
+      "reason": "へしこの塩気は控えめな量から。酒の「辛口」との違いを楽しみたい組み合わせです。",
+      "count": 2,
+      "sakeIds": [
+        "ippongi-o0ffit",
+        "ippongi-o0ffit-4"
+      ]
+    },
+    {
+      "reason": "かつお生節のかつおの旨味は控えめな量から。酒の「辛口」との違いを楽しみたい組み合わせです。",
+      "count": 2,
+      "sakeIds": [
+        "tosatsuru-honzo-karakuchi-standard",
+        "tosa-shiragiku-zankara-tokubetsu-junmai-standard-v1"
+      ]
+    },
+    {
+      "reason": "酒盗の濃厚な旨味は控えめな量から。酒の「辛口」との違いを楽しみたい組み合わせです。",
+      "count": 3,
+      "sakeIds": [
+        "tosatsuru-honzo-karakuchi-standard",
+        "suigei-junmai-daiginjo-hyogo-yamadanishiki50-v1",
+        "tosa-shiragiku-zankara-tokubetsu-junmai-standard-v1"
+      ]
+    },
+    {
+      "reason": "笹かまぼこをひと口、そのあとにこの酒を。魚の旨味と「キレ」の対比を楽しむ組み合わせです。",
+      "count": 5,
+      "sakeIds": [
+        "ichinokura-tokubetsu-junmai-karakuchi",
+        "hitakami-sakana-label-tokubetsu-junmai-hiire-v1",
+        "hitakami-chokarakuchi-junmai-standard-v1",
+        "kenkonichi-chokarakuchi-junmai-ginjo-genshu-hiire-v1",
+        "ichinokura-mukansa-chokarakuchi-lineup-v1"
+      ]
+    },
+    {
+      "reason": "かんずり酒盗の発酵の旨味を少しずつ。この酒の「米の旨味」と重ねて、肴と酒の味わいをゆっくり楽しむなら。",
+      "count": 5,
+      "sakeIds": [
+        "denyu-tokubetsu-junmai-standard",
+        "takachiyo-karakuchi-junmai-miyamanishiki-plus19-hiire-v1",
+        "koshino-kagetora-junmai-standard-v1",
+        "chiyonohikari-shin-tokubetsu-honjozo-catalog-v1",
+        "uonuma-junmai-lineup-v1"
+      ]
+    },
+    {
+      "reason": "糀のまろやかさが持ち味のかぶら寿しを、この酒の「酸味」と。どちらの味も確かめながら、交互に少しずつ。",
+      "count": 3,
+      "sakeIds": [
+        "tengumai-yamahai-junmai-3",
+        "tengumai-umajun-lineup-v1",
+        "kagatobi-yamahai-lineup-v1"
+      ]
+    },
+    {
+      "reason": "ふぐの子糠漬けの塩気は控えめな量から。酒の「辛口」との違いを楽しみたい組み合わせです。",
+      "count": 2,
+      "sakeIds": [
+        "jokigen-ishikawa-nozijh-4",
+        "kuroobi-yuyu-lineup-v1"
+      ]
+    },
+    {
+      "reason": "かんずり酒盗の発酵の旨味を少しずつ。この酒の「旨味」と重ねて、肴と酒の味わいをゆっくり楽しむなら。",
+      "count": 3,
+      "sakeIds": [
+        "warakugoson-junmai-ginjo-standard",
+        "tenjinbayashi-tokubetsu-honjozo-catalog-v1",
+        "kikusui-karakuchi-lineup-v1"
+      ]
+    },
+    {
+      "reason": "栃尾の油揚げの香ばしさを少しずつ。この酒の「旨味」と重ねて、肴と酒の味わいをゆっくり楽しむなら。",
+      "count": 3,
+      "sakeIds": [
+        "warakugoson-junmai-ginjo-standard",
+        "tenjinbayashi-tokubetsu-honjozo-catalog-v1",
+        "kikusui-karakuchi-lineup-v1"
+      ]
+    },
+    {
+      "reason": "いぶりがっこの燻香を少しずつ。この酒の「旨味」と重ねて、肴と酒の味わいをゆっくり楽しむなら。",
+      "count": 3,
+      "sakeIds": [
+        "hiraizumi-jukusei-yamahai-junmai-v1",
+        "kariho-yamahai-junmai-chokarakuchi-v1",
+        "aramasa-no6-r-type-nama-standard-v1"
+      ]
+    },
+    {
+      "reason": "いかめしの醤油の煮味を少しずつ。この酒の「米の旨味」と重ねて、肴と酒の味わいをゆっくり楽しむなら。",
+      "count": 2,
+      "sakeIds": [
+        "kunimare-tokubetsu-junmai-standard",
+        "kitanonishiki-maruta-tokubetsu-junmai-v1"
+      ]
+    },
+    {
+      "reason": "ほや珍味の燻製の香ばしさを少しずつ。この酒の「旨味」と重ねて、肴と酒の味わいをゆっくり楽しむなら。",
+      "count": 4,
+      "sakeIds": [
+        "hitakami-sakana-label-tokubetsu-junmai-hiire-v1",
+        "kenkonichi-chokarakuchi-junmai-ginjo-genshu-hiire-v1",
+        "zao-junmai-ginjo-catalog-v1",
+        "urakasumi-zen-lineup-v1"
+      ]
+    },
+    {
+      "reason": "栃尾の油揚げの香ばしさを少しずつ。この酒の「米の旨味」と重ねて、肴と酒の味わいをゆっくり楽しむなら。",
+      "count": 4,
+      "sakeIds": [
+        "takachiyo-karakuchi-junmai-miyamanishiki-plus19-hiire-v1",
+        "koshino-kagetora-junmai-standard-v1",
+        "chiyonohikari-shin-tokubetsu-honjozo-catalog-v1",
+        "uonuma-junmai-lineup-v1"
+      ]
+    },
+    {
+      "reason": "笹かまぼこの魚の旨味を少しずつ。この酒の「旨味」と重ねて、肴と酒の味わいをゆっくり楽しむなら。",
+      "count": 2,
+      "sakeIds": [
+        "zao-junmai-ginjo-catalog-v1",
+        "urakasumi-zen-lineup-v1"
+      ]
+    },
+    {
+      "reason": "いちご煮の魚介の旨味に、この酒の「米の旨味」を重ねて。汁も少しずつ味わいたい組み合わせです。",
+      "count": 2,
+      "sakeIds": [
+        "denshu-tokubetsu-junmai",
+        "sakuta-tokubetsu-junmai-keiyaku-v1"
+      ]
+    },
+    {
+      "reason": "すき昆布を戻して、好みの煮物に。この酒の「米の旨味」を味わう合間に、やわらかな昆布を少しずつ。",
+      "count": 2,
+      "sakeIds": [
+        "akabu-junmai",
+        "asahibaki-iaxjez"
+      ]
+    },
+    {
+      "reason": "野沢菜漬のシャキッとした歯ごたえに、この酒の「キレ」を。ごはんの小鉢を晩酌にも添えて。",
+      "count": 2,
+      "sakeIds": [
+        "masumi-karakuchi-kiippon",
+        "kawanakajima-tokubetsu-junmai-standard-v1"
+      ]
+    },
+    {
+      "reason": "しば漬けの酸味に、この酒の「酸味」を合わせて。赤しその香りも楽しみながら、小皿をつまむ夜に。",
+      "count": 2,
+      "sakeIds": [
+        "tamanohikari-junmai-ginjo-shukon-standard",
+        "shirakiku-ginshari-tokubetsu-junmai-current-v1"
+      ]
+    },
+    {
+      "reason": "かきの土手鍋の牡蠣と味噌を、この酒の「米の旨味」と。温かい煮物の小皿を添えて飲みたい夜に。",
+      "count": 3,
+      "sakeIds": [
+        "ugonotsuki-junmai-ginjo",
+        "kirei-karakuchi-junmai-hachiju-hiire-v1",
+        "houken-junmai-ginjo-hattannishiki-standard-v1"
+      ]
+    },
+    {
+      "reason": "赤かぶ漬けのさっぱりした口当たりを、この酒の「すっきりした味わい」と。食卓に小さな漬物の皿を添えて。",
+      "count": 2,
+      "sakeIds": [
+        "ibi-white",
+        "hyakushun-junmai-josen-standard"
+      ]
+    },
+    {
+      "reason": "こんにゃく味噌おでんの甘辛い味噌だれに、この酒の「米の旨味」を重ねて。温かい小皿を囲む晩酌に。",
+      "count": 3,
+      "sakeIds": [
+        "mizubasho-p7oucs",
+        "tanigawadake-p7oucs",
+        "gunmaizumi-yamahai-junmai"
+      ]
+    },
+    {
+      "reason": "あさりの佃煮の甘辛さに、この酒の「旨味」を。小さなひと口で、貝の味もゆっくり楽しむなら。",
+      "count": 2,
+      "sakeIds": [
+        "kasen-kflfjg",
+        "kasen-maboroshi-no-sake-tokubetsu-honjozo-standard-v1"
+      ]
+    },
+    {
+      "reason": "あさりの佃煮の甘辛さに、この酒の「ふくよかな旨味」を。小さなひと口で、貝の味もゆっくり楽しむなら。",
+      "count": 2,
+      "sakeIds": [
+        "tamajiman-kflfjg",
+        "kasen-kflfjg-4"
+      ]
+    },
+    {
+      "reason": "奈良漬の酒粕の風味に、この酒の「旨味」を重ねて。胡瓜を薄く切り、少量から楽しむ小皿に。",
+      "count": 2,
+      "sakeIds": [
+        "mushohai-junmai-ginjo-standard",
+        "mimurosugi-kioke-bodaimoto-jishaden-current-v1"
+      ]
+    },
+    {
+      "reason": "太刀魚巻のやわらかな身を、この酒の「米の旨味」と。たれの味も楽しみながら、少しずつ取り分けて。",
+      "count": 3,
+      "sakeIds": [
+        "kyohina-j6jhwb",
+        "iyo-kagiya-junmai-aka-label-v1",
+        "seiryozen-tokubetsu-junmai-the-plains-v1"
+      ]
+    },
+    {
+      "reason": "かきの土手鍋の牡蠣と味噌を、この酒の「旨味」と。温かい煮物の小皿を添えて飲みたい夜に。",
+      "count": 3,
+      "sakeIds": [
+        "ugonotsuki-junmai-ginjo-1",
+        "kirei-banjisakazukinonaka-junmai-hiire-v1",
+        "ryusei-muku-omachi-kimoto-current-v1"
+      ]
+    },
+    {
+      "reason": "イカナゴのくぎ煮の甘辛さに、この酒の「米の旨味」を。小さな魚を少しずつつまむ晩酌に。",
+      "count": 2,
+      "sakeIds": [
+        "sawanotsuru-junmai-yamadanishiki-standard",
+        "hakutaka-kinmatsu-tokubetsu-junmai"
+      ]
+    },
+    {
+      "reason": "おみ漬の刻み野菜をつまみながら、この酒の「軽やか」を。塩気のある小鉢と、酒の味の違いを楽しむ組み合わせです。",
+      "count": 2,
+      "sakeIds": [
+        "tatenokawa-seiryu",
+        "wakaze-the-classic-yamagata-v1"
+      ]
+    },
+    {
+      "reason": "いかにんじんのするめの旨味を、この酒の「米の旨味」と一緒に。細切りの人参をつまみながら、ゆっくり飲む夜に。",
+      "count": 2,
+      "sakeIds": [
+        "niida-shizenshu-junmai-genshu",
+        "shizengo-tokubetsu-junmai-v1"
+      ]
+    },
+    {
+      "reason": "揚巻湯波をだしで煮含めて、この酒の「キレ」と。煮汁を含んだやわらかい湯波を、ゆっくり味わう夜に。",
+      "count": 2,
+      "sakeIds": [
+        "hououbiden-tsurugi-hiire-v1",
+        "senkin-retro-ichishiki-hiire-v1"
+      ]
+    },
+    {
+      "reason": "野沢菜漬のシャキッとした歯ごたえに、この酒の「軽快」を。ごはんの小鉢を晩酌にも添えて。",
+      "count": 3,
+      "sakeIds": [
+        "daishinshu-tenouchi-namazume-v1",
+        "obasute-masamune-junmai-karakuchi-catalog-v1",
+        "masumi-shiro-lineup-v1"
+      ]
+    },
+    {
+      "reason": "ハトシの海老の味わいに、この酒の「旨味」を添えて。小さく切ったサンドをつまむ晩酌に。",
+      "count": 2,
+      "sakeIds": [
+        "rokujuyoshu-junmai-ginjo-yamadanishiki-v1",
+        "hiran-nikomaru-hiire-standard-v1"
+      ]
+    },
+    {
+      "reason": "あゆうるかの苦味と塩気を、この酒の「旨味」と。箸先ほどから、味を確かめて楽しむ小皿に。",
+      "count": 2,
+      "sakeIds": [
+        "nishinoseki-junmai-ginjo-bigin-v1",
+        "takakiya-karakuchi-tokubetsu-junmai-v1"
+      ]
+    },
+    {
+      "reason": "りゅうきゅうの漬け魚の味わいを、この酒の「旨味」と。丼にせず小鉢に盛って、晩酌にも。",
+      "count": 2,
+      "sakeIds": [
+        "nishinoseki-junmai-ginjo-bigin-v1",
+        "takakiya-karakuchi-tokubetsu-junmai-v1"
+      ]
+    },
+    {
+      "reason": "じゃこ天の小魚の味わいに、この酒の「米の旨味」を重ねて。ひと切れずつ、魚と酒を楽しむ晩酌に。",
+      "count": 2,
+      "sakeIds": [
+        "iyo-kagiya-junmai-aka-label-v1",
+        "seiryozen-tokubetsu-junmai-the-plains-v1"
+      ]
+    },
+    {
+      "reason": "水で戻したすき昆布を小鉢にして、この酒の「キレ」と。やわらかな歯ごたえを楽しみながら、軽くつまみたい夜に。",
+      "count": 2,
+      "sakeIds": [
+        "nanbubijin-junmai-daiginjo-sakemirai-standard-v1",
+        "nanbubijin-jg-lineup-v1"
+      ]
+    },
+    {
+      "reason": "いかにんじんのするめの旨味を、この酒の「旨味」と一緒に。細切りの人参をつまみながら、ゆっくり飲む夜に。",
+      "count": 2,
+      "sakeIds": [
+        "tenmei-orange-funashibori-junmai-hiire-standard-v1",
+        "okunomatsu-jg-lineup-v1"
+      ]
+    },
+    {
+      "reason": "にしんの山椒漬けを小さく切って、この酒の「旨味」と。魚の味と酢の酸味を、酒と交互に楽しむなら。",
+      "count": 2,
+      "sakeIds": [
+        "tenmei-orange-funashibori-junmai-hiire-standard-v1",
+        "okunomatsu-jg-lineup-v1"
+      ]
+    },
+    {
+      "reason": "そぼろ納豆の発酵の風味に、この酒の「超辛口」を合わせて。大根の歯ごたえも楽しめる小皿です。",
+      "count": 2,
+      "sakeIds": [
+        "yui-omachi-junmai-ginjo-chokarakuchi-raifuku-v1",
+        "hitorimusume-sayaka-tokubetsu-honjozo-catalog-v1"
+      ]
+    },
+    {
+      "reason": "金山寺味噌の甘口の味噌味に、この酒の「旨味」を。野菜に少し添えながら飲む晩酌に。",
+      "count": 2,
+      "sakeIds": [
+        "chokyu-tokusen-honjozo-catalog-v1",
+        "kurumazaka-yamahai-akiagari-2019by-current-v1"
+      ]
+    },
+    {
+      "reason": "ごま豆腐の胡麻の旨味を、この酒の「旨味」と。なめらかな舌触りも楽しみたい小鉢です。",
+      "count": 2,
+      "sakeIds": [
+        "chokyu-tokusen-honjozo-catalog-v1",
+        "kurumazaka-yamahai-akiagari-2019by-current-v1"
+      ]
+    },
+    {
+      "reason": "野沢菜漬の発酵の風味を、この酒の「酸味」と。切って小鉢に盛り、酒と交互に少しずつ。",
+      "count": 3,
+      "sakeIds": [
+        "masumi-kuro-lineup-v1",
+        "masumi-kaya-lineup-v1",
+        "shinshu-kirei-inakura-hitogokochi-junmai-ginjo-current-v1"
+      ]
+    },
+    {
+      "reason": "イカナゴのくぎ煮の甘辛さに、この酒の「コク」を。小さな魚を少しずつつまむ晩酌に。",
+      "count": 2,
+      "sakeIds": [
+        "kikumasamune-kaho-lineup-v1",
+        "ozeki-gokuama-lineup-v1"
+      ]
+    }
+  ],
+  "after": [
+    {
+      "reason": "呼子いか一夜干しのいかの甘味を少しずつ。この酒の「米の旨味」と重ねて、肴と酒の味わいをゆっくり楽しむなら。",
+      "count": 2,
+      "sakeIds": [
+        "nogomi-tokubetsu-junmai",
+        "azumaichi-junmai-ginjo"
+      ]
+    },
+    {
+      "reason": "粘りのある食感が持ち味のぎばさを、この酒の「酸味」と。どちらの味も確かめながら、交互に少しずつ。",
+      "count": 2,
+      "sakeIds": [
+        "amaneko-white-koji",
+        "ranman-junmai-managudako-standard"
+      ]
+    },
+    {
+      "reason": "かんずり酒盗をひと口、そのあとにこの酒を。発酵の旨味と「淡麗」の対比を楽しむ組み合わせです。",
+      "count": 3,
+      "sakeIds": [
+        "hakkaisan-tokubetsu-honjozo",
+        "kubota-senju",
+        "hakkaisan-seishu-lineup-v1"
+      ]
+    },
+    {
+      "reason": "へしこの塩気を少しずつ。この酒の「芳醇旨口」と重ねて、肴と酒の味わいをゆっくり楽しむなら。",
+      "count": 2,
+      "sakeIds": [
+        "born-gold",
+        "born-gold-2"
+      ]
+    },
+    {
+      "reason": "小鯛ささ漬けを少しずつつまみながら、この酒の「芳醇旨口」を楽しむひととき。酢の風味と酒の香りに、順番に目を向けて。",
+      "count": 2,
+      "sakeIds": [
+        "born-gold",
+        "born-gold-2"
+      ]
+    },
+    {
+      "reason": "かつお生節は、かつおの旨味を少しずつ。この酒の「米の旨味」と重ねて、肴と酒の味わいをゆっくり楽しむなら。",
+      "count": 3,
+      "sakeIds": [
+        "suigei-tokubetsu-junmai",
+        "keigetsu-extra-dry-tokubetsu-junmai60-catalog-v1",
+        "suigei-koiku54-lineup-v1"
+      ]
+    },
+    {
+      "reason": "酒盗の濃厚な旨味を少しずつ。この酒の「米の旨味」と重ねて、肴と酒の味わいをゆっくり楽しむなら。",
+      "count": 2,
+      "sakeIds": [
+        "suigei-tokubetsu-junmai",
+        "suigei-koiku54-lineup-v1"
+      ]
+    },
+    {
+      "reason": "ほや珍味の燻製の香ばしさを少しずつ。この酒の「米の旨味」と重ねて、肴と酒の味わいをゆっくり楽しむなら。",
+      "count": 2,
+      "sakeIds": [
+        "urakasumi-i3yhce",
+        "suminoe-i3yhce"
+      ]
+    },
+    {
+      "reason": "かんずり酒盗の発酵の旨味を少しずつ。この酒の「まろやかな旨味」と重ねて、肴と酒の味わいをゆっくり楽しむなら。",
+      "count": 2,
+      "sakeIds": [
+        "jozen-mizunogotoshi-junmai-ginjo-standard",
+        "ayumasamune-honjozo-catalog-v1"
+      ]
+    },
+    {
+      "reason": "栃尾の油揚げの香ばしさを少しずつ。この酒の「まろやかな旨味」と重ねて、肴と酒の味わいをゆっくり楽しむなら。",
+      "count": 2,
+      "sakeIds": [
+        "jozen-mizunogotoshi-junmai-ginjo-standard",
+        "ayumasamune-honjozo-catalog-v1"
+      ]
+    },
+    {
+      "reason": "かんずり酒盗の発酵の旨味は控えめな量から。酒の「やや辛口」との違いを楽しみたい組み合わせです。",
+      "count": 2,
+      "sakeIds": [
+        "echigozakura-daiginjo-standard",
+        "koshino-happo-origarami-catalog-v1"
+      ]
+    },
+    {
+      "reason": "栃尾の油揚げの香ばしさは控えめな量から。酒の「やや辛口」との違いを楽しみたい組み合わせです。",
+      "count": 2,
+      "sakeIds": [
+        "echigozakura-daiginjo-standard",
+        "koshino-happo-origarami-catalog-v1"
+      ]
+    },
+    {
+      "reason": "かぶら寿しの糀のまろやかさを少しずつ。この酒の「コク」と重ねて、肴と酒の味わいをゆっくり楽しむなら。",
+      "count": 2,
+      "sakeIds": [
+        "jokigen-ishikawa-nozijh",
+        "jokigen-ishikawa-nozijh-4"
+      ]
+    },
+    {
+      "reason": "ふぐの子糠漬けの塩気を少しずつ。この酒の「米の旨味」と重ねて、肴と酒の味わいをゆっくり楽しむなら。",
+      "count": 3,
+      "sakeIds": [
+        "kagatobi-nozijh",
+        "kagatsuru-junmai-josen-standard",
+        "kagatobi-gokkan-lineup-v1"
+      ]
+    },
+    {
+      "reason": "かぶら寿しの糀のまろやかさを少しずつ。この酒の「米の旨味」と重ねて、肴と酒の味わいをゆっくり楽しむなら。",
+      "count": 2,
+      "sakeIds": [
+        "kagatobi-nozijh",
+        "kagatobi-gokkan-lineup-v1"
+      ]
+    },
+    {
+      "reason": "へしこの塩気は控えめな量から。酒の「辛口」との違いを楽しみたい組み合わせです。",
+      "count": 2,
+      "sakeIds": [
+        "ippongi-o0ffit",
+        "ippongi-o0ffit-4"
+      ]
+    },
+    {
+      "reason": "かつお生節のかつおの旨味は控えめな量から。酒の「辛口」との違いを楽しみたい組み合わせです。",
+      "count": 2,
+      "sakeIds": [
+        "tosatsuru-honzo-karakuchi-standard",
+        "tosa-shiragiku-zankara-tokubetsu-junmai-standard-v1"
+      ]
+    },
+    {
+      "reason": "酒盗の濃厚な旨味は控えめな量から。酒の「辛口」との違いを楽しみたい組み合わせです。",
+      "count": 3,
+      "sakeIds": [
+        "tosatsuru-honzo-karakuchi-standard",
+        "suigei-junmai-daiginjo-hyogo-yamadanishiki50-v1",
+        "tosa-shiragiku-zankara-tokubetsu-junmai-standard-v1"
+      ]
+    },
+    {
+      "reason": "笹かまぼこをひと口、そのあとにこの酒を。魚の旨味と「キレ」の対比を楽しむ組み合わせです。",
+      "count": 5,
+      "sakeIds": [
+        "ichinokura-tokubetsu-junmai-karakuchi",
+        "hitakami-sakana-label-tokubetsu-junmai-hiire-v1",
+        "hitakami-chokarakuchi-junmai-standard-v1",
+        "kenkonichi-chokarakuchi-junmai-ginjo-genshu-hiire-v1",
+        "ichinokura-mukansa-chokarakuchi-lineup-v1"
+      ]
+    },
+    {
+      "reason": "かんずり酒盗の発酵の旨味を少しずつ。この酒の「米の旨味」と重ねて、肴と酒の味わいをゆっくり楽しむなら。",
+      "count": 5,
+      "sakeIds": [
+        "denyu-tokubetsu-junmai-standard",
+        "takachiyo-karakuchi-junmai-miyamanishiki-plus19-hiire-v1",
+        "koshino-kagetora-junmai-standard-v1",
+        "chiyonohikari-shin-tokubetsu-honjozo-catalog-v1",
+        "uonuma-junmai-lineup-v1"
+      ]
+    },
+    {
+      "reason": "糀のまろやかさが持ち味のかぶら寿しを、この酒の「酸味」と。どちらの味も確かめながら、交互に少しずつ。",
+      "count": 3,
+      "sakeIds": [
+        "tengumai-yamahai-junmai-3",
+        "tengumai-umajun-lineup-v1",
+        "kagatobi-yamahai-lineup-v1"
+      ]
+    },
+    {
+      "reason": "ふぐの子糠漬けの塩気は控えめな量から。酒の「辛口」との違いを楽しみたい組み合わせです。",
+      "count": 2,
+      "sakeIds": [
+        "jokigen-ishikawa-nozijh-4",
+        "kuroobi-yuyu-lineup-v1"
+      ]
+    },
+    {
+      "reason": "かんずり酒盗の発酵の旨味を少しずつ。この酒の「旨味」と重ねて、肴と酒の味わいをゆっくり楽しむなら。",
+      "count": 3,
+      "sakeIds": [
+        "warakugoson-junmai-ginjo-standard",
+        "tenjinbayashi-tokubetsu-honjozo-catalog-v1",
+        "kikusui-karakuchi-lineup-v1"
+      ]
+    },
+    {
+      "reason": "栃尾の油揚げの香ばしさを少しずつ。この酒の「旨味」と重ねて、肴と酒の味わいをゆっくり楽しむなら。",
+      "count": 3,
+      "sakeIds": [
+        "warakugoson-junmai-ginjo-standard",
+        "tenjinbayashi-tokubetsu-honjozo-catalog-v1",
+        "kikusui-karakuchi-lineup-v1"
+      ]
+    },
+    {
+      "reason": "いぶりがっこの燻香を少しずつ。この酒の「旨味」と重ねて、肴と酒の味わいをゆっくり楽しむなら。",
+      "count": 3,
+      "sakeIds": [
+        "hiraizumi-jukusei-yamahai-junmai-v1",
+        "kariho-yamahai-junmai-chokarakuchi-v1",
+        "aramasa-no6-r-type-nama-standard-v1"
+      ]
+    },
+    {
+      "reason": "いかめしの醤油の煮味を少しずつ。この酒の「米の旨味」と重ねて、肴と酒の味わいをゆっくり楽しむなら。",
+      "count": 2,
+      "sakeIds": [
+        "kunimare-tokubetsu-junmai-standard",
+        "kitanonishiki-maruta-tokubetsu-junmai-v1"
+      ]
+    },
+    {
+      "reason": "ほや珍味の燻製の香ばしさを少しずつ。この酒の「旨味」と重ねて、肴と酒の味わいをゆっくり楽しむなら。",
+      "count": 4,
+      "sakeIds": [
+        "hitakami-sakana-label-tokubetsu-junmai-hiire-v1",
+        "kenkonichi-chokarakuchi-junmai-ginjo-genshu-hiire-v1",
+        "zao-junmai-ginjo-catalog-v1",
+        "urakasumi-zen-lineup-v1"
+      ]
+    },
+    {
+      "reason": "栃尾の油揚げの香ばしさを少しずつ。この酒の「米の旨味」と重ねて、肴と酒の味わいをゆっくり楽しむなら。",
+      "count": 4,
+      "sakeIds": [
+        "takachiyo-karakuchi-junmai-miyamanishiki-plus19-hiire-v1",
+        "koshino-kagetora-junmai-standard-v1",
+        "chiyonohikari-shin-tokubetsu-honjozo-catalog-v1",
+        "uonuma-junmai-lineup-v1"
+      ]
+    },
+    {
+      "reason": "笹かまぼこの魚の旨味を少しずつ。この酒の「旨味」と重ねて、肴と酒の味わいをゆっくり楽しむなら。",
+      "count": 2,
+      "sakeIds": [
+        "zao-junmai-ginjo-catalog-v1",
+        "urakasumi-zen-lineup-v1"
+      ]
+    },
+    {
+      "reason": "いちご煮の魚介の旨味に、この酒の「米の旨味」を重ねて。汁も少しずつ味わいたい組み合わせです。",
+      "count": 2,
+      "sakeIds": [
+        "denshu-tokubetsu-junmai",
+        "sakuta-tokubetsu-junmai-keiyaku-v1"
+      ]
+    },
+    {
+      "reason": "すき昆布を戻して、好みの煮物に。この酒の「米の旨味」を味わう合間に、やわらかな昆布を少しずつ。",
+      "count": 2,
+      "sakeIds": [
+        "akabu-junmai",
+        "asahibaki-iaxjez"
+      ]
+    },
+    {
+      "reason": "野沢菜漬のシャキッとした歯ごたえに、この酒の「キレ」を。ごはんの小鉢を晩酌にも添えて。",
+      "count": 2,
+      "sakeIds": [
+        "masumi-karakuchi-kiippon",
+        "kawanakajima-tokubetsu-junmai-standard-v1"
+      ]
+    },
+    {
+      "reason": "しば漬けの酸味に、この酒の「酸味」を合わせて。赤しその香りも楽しみながら、小皿をつまむ夜に。",
+      "count": 2,
+      "sakeIds": [
+        "tamanohikari-junmai-ginjo-shukon-standard",
+        "shirakiku-ginshari-tokubetsu-junmai-current-v1"
+      ]
+    },
+    {
+      "reason": "かきの土手鍋の牡蠣と味噌を、この酒の「米の旨味」と。温かい煮物の小皿を添えて飲みたい夜に。",
+      "count": 3,
+      "sakeIds": [
+        "ugonotsuki-junmai-ginjo",
+        "kirei-karakuchi-junmai-hachiju-hiire-v1",
+        "houken-junmai-ginjo-hattannishiki-standard-v1"
+      ]
+    },
+    {
+      "reason": "赤かぶ漬けのさっぱりした口当たりを、この酒の「すっきりした味わい」と。食卓に小さな漬物の皿を添えて。",
+      "count": 2,
+      "sakeIds": [
+        "ibi-white",
+        "hyakushun-junmai-josen-standard"
+      ]
+    },
+    {
+      "reason": "こんにゃく味噌おでんの甘辛い味噌だれに、この酒の「米の旨味」を重ねて。温かい小皿を囲む晩酌に。",
+      "count": 3,
+      "sakeIds": [
+        "mizubasho-p7oucs",
+        "tanigawadake-p7oucs",
+        "gunmaizumi-yamahai-junmai"
+      ]
+    },
+    {
+      "reason": "あさりの佃煮の甘辛さに、この酒の「旨味」を。小さなひと口で、貝の味もゆっくり楽しむなら。",
+      "count": 2,
+      "sakeIds": [
+        "kasen-kflfjg",
+        "kasen-maboroshi-no-sake-tokubetsu-honjozo-standard-v1"
+      ]
+    },
+    {
+      "reason": "あさりの佃煮の甘辛さに、この酒の「ふくよかな旨味」を。小さなひと口で、貝の味もゆっくり楽しむなら。",
+      "count": 2,
+      "sakeIds": [
+        "tamajiman-kflfjg",
+        "kasen-kflfjg-4"
+      ]
+    },
+    {
+      "reason": "奈良漬の酒粕の風味に、この酒の「旨味」を重ねて。胡瓜を薄く切り、少量から楽しむ小皿に。",
+      "count": 2,
+      "sakeIds": [
+        "mushohai-junmai-ginjo-standard",
+        "mimurosugi-kioke-bodaimoto-jishaden-current-v1"
+      ]
+    },
+    {
+      "reason": "太刀魚巻のやわらかな身を、この酒の「米の旨味」と。たれの味も楽しみながら、少しずつ取り分けて。",
+      "count": 3,
+      "sakeIds": [
+        "kyohina-j6jhwb",
+        "iyo-kagiya-junmai-aka-label-v1",
+        "seiryozen-tokubetsu-junmai-the-plains-v1"
+      ]
+    },
+    {
+      "reason": "かきの土手鍋の牡蠣と味噌を、この酒の「旨味」と。温かい煮物の小皿を添えて飲みたい夜に。",
+      "count": 3,
+      "sakeIds": [
+        "ugonotsuki-junmai-ginjo-1",
+        "kirei-banjisakazukinonaka-junmai-hiire-v1",
+        "ryusei-muku-omachi-kimoto-current-v1"
+      ]
+    },
+    {
+      "reason": "イカナゴのくぎ煮の甘辛さに、この酒の「米の旨味」を。小さな魚を少しずつつまむ晩酌に。",
+      "count": 2,
+      "sakeIds": [
+        "sawanotsuru-junmai-yamadanishiki-standard",
+        "hakutaka-kinmatsu-tokubetsu-junmai"
+      ]
+    },
+    {
+      "reason": "おみ漬の刻み野菜をつまみながら、この酒の「軽やか」を。塩気のある小鉢と、酒の味の違いを楽しむ組み合わせです。",
+      "count": 2,
+      "sakeIds": [
+        "tatenokawa-seiryu",
+        "wakaze-the-classic-yamagata-v1"
+      ]
+    },
+    {
+      "reason": "いかにんじんのするめの旨味を、この酒の「米の旨味」と一緒に。細切りの人参をつまみながら、ゆっくり飲む夜に。",
+      "count": 2,
+      "sakeIds": [
+        "niida-shizenshu-junmai-genshu",
+        "shizengo-tokubetsu-junmai-v1"
+      ]
+    },
+    {
+      "reason": "揚巻湯波をだしで煮含めて、この酒の「キレ」と。煮汁を含んだやわらかい湯波を、ゆっくり味わう夜に。",
+      "count": 2,
+      "sakeIds": [
+        "hououbiden-tsurugi-hiire-v1",
+        "senkin-retro-ichishiki-hiire-v1"
+      ]
+    },
+    {
+      "reason": "野沢菜漬のシャキッとした歯ごたえに、この酒の「軽快」を。ごはんの小鉢を晩酌にも添えて。",
+      "count": 3,
+      "sakeIds": [
+        "daishinshu-tenouchi-namazume-v1",
+        "obasute-masamune-junmai-karakuchi-catalog-v1",
+        "masumi-shiro-lineup-v1"
+      ]
+    },
+    {
+      "reason": "ハトシの海老の味わいに、この酒の「旨味」を添えて。小さく切ったサンドをつまむ晩酌に。",
+      "count": 2,
+      "sakeIds": [
+        "rokujuyoshu-junmai-ginjo-yamadanishiki-v1",
+        "hiran-nikomaru-hiire-standard-v1"
+      ]
+    },
+    {
+      "reason": "あゆうるかの苦味と塩気を、この酒の「旨味」と。箸先ほどから、味を確かめて楽しむ小皿に。",
+      "count": 2,
+      "sakeIds": [
+        "nishinoseki-junmai-ginjo-bigin-v1",
+        "takakiya-karakuchi-tokubetsu-junmai-v1"
+      ]
+    },
+    {
+      "reason": "りゅうきゅうの漬け魚の味わいを、この酒の「旨味」と。丼にせず小鉢に盛って、晩酌にも。",
+      "count": 2,
+      "sakeIds": [
+        "nishinoseki-junmai-ginjo-bigin-v1",
+        "takakiya-karakuchi-tokubetsu-junmai-v1"
+      ]
+    },
+    {
+      "reason": "じゃこ天の小魚の味わいに、この酒の「米の旨味」を重ねて。ひと切れずつ、魚と酒を楽しむ晩酌に。",
+      "count": 2,
+      "sakeIds": [
+        "iyo-kagiya-junmai-aka-label-v1",
+        "seiryozen-tokubetsu-junmai-the-plains-v1"
+      ]
+    },
+    {
+      "reason": "水で戻したすき昆布を小鉢にして、この酒の「キレ」と。やわらかな歯ごたえを楽しみながら、軽くつまみたい夜に。",
+      "count": 2,
+      "sakeIds": [
+        "nanbubijin-junmai-daiginjo-sakemirai-standard-v1",
+        "nanbubijin-jg-lineup-v1"
+      ]
+    },
+    {
+      "reason": "いかにんじんのするめの旨味を、この酒の「旨味」と一緒に。細切りの人参をつまみながら、ゆっくり飲む夜に。",
+      "count": 2,
+      "sakeIds": [
+        "tenmei-orange-funashibori-junmai-hiire-standard-v1",
+        "okunomatsu-jg-lineup-v1"
+      ]
+    },
+    {
+      "reason": "にしんの山椒漬けを小さく切って、この酒の「旨味」と。魚の味と酢の酸味を、酒と交互に楽しむなら。",
+      "count": 2,
+      "sakeIds": [
+        "tenmei-orange-funashibori-junmai-hiire-standard-v1",
+        "okunomatsu-jg-lineup-v1"
+      ]
+    },
+    {
+      "reason": "そぼろ納豆の発酵の風味に、この酒の「超辛口」を合わせて。大根の歯ごたえも楽しめる小皿です。",
+      "count": 2,
+      "sakeIds": [
+        "yui-omachi-junmai-ginjo-chokarakuchi-raifuku-v1",
+        "hitorimusume-sayaka-tokubetsu-honjozo-catalog-v1"
+      ]
+    },
+    {
+      "reason": "金山寺味噌の甘口の味噌味に、この酒の「旨味」を。野菜に少し添えながら飲む晩酌に。",
+      "count": 2,
+      "sakeIds": [
+        "chokyu-tokusen-honjozo-catalog-v1",
+        "kurumazaka-yamahai-akiagari-2019by-current-v1"
+      ]
+    },
+    {
+      "reason": "ごま豆腐の胡麻の旨味を、この酒の「旨味」と。なめらかな舌触りも楽しみたい小鉢です。",
+      "count": 2,
+      "sakeIds": [
+        "chokyu-tokusen-honjozo-catalog-v1",
+        "kurumazaka-yamahai-akiagari-2019by-current-v1"
+      ]
+    },
+    {
+      "reason": "野沢菜漬の発酵の風味を、この酒の「酸味」と。切って小鉢に盛り、酒と交互に少しずつ。",
+      "count": 3,
+      "sakeIds": [
+        "masumi-kuro-lineup-v1",
+        "masumi-kaya-lineup-v1",
+        "shinshu-kirei-inakura-hitogokochi-junmai-ginjo-current-v1"
+      ]
+    },
+    {
+      "reason": "イカナゴのくぎ煮の甘辛さに、この酒の「コク」を。小さな魚を少しずつつまむ晩酌に。",
+      "count": 2,
+      "sakeIds": [
+        "kikumasamune-kaho-lineup-v1",
+        "ozeki-gokuama-lineup-v1"
+      ]
+    }
+  ],
+  "newOnly": [],
+  "identicalCountySets": []
+}

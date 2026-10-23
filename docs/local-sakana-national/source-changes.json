@@ -1,0 +1,34 @@
+{
+  "reviewed": true,
+  "sourceCommit": "0125ff6709b041db9dcb95bed00dcfa8be41b516",
+  "authorizedByAttachment": "0e4c472c-5ca6-446b-af56-f857aa3d0bc1",
+  "changes": [
+    {
+      "file": "src/specialties/master.json",
+      "beforeSha256": "c2a958a641e18a83cc84d95efb89ba5e3718f75f58b1a9cd5999d8a75483993c",
+      "afterSha256": "7dd5393deec8f8d36f05d86b81fd84f88b813f9a7d8ed00b361011f79cd86fdd",
+      "historicalBeforeHashes": [
+        "c2a958a641e18a83cc84d95efb89ba5e3718f75f58b1a9cd5999d8a75483993c",
+        "e64363729c1546857a09b6b2c41a298f4cef12f05cbd281f8b8e30753858780f"
+      ]
+    },
+    {
+      "file": "src/specialties/pairings.json",
+      "beforeSha256": "8b472b42ceaed857314843a71874a86fb595de95edc00fdf3724af60f83bb9b2",
+      "afterSha256": "9a7b688f8912e9e4e47473807563596b8620b87ea8381accd542f1d274d43afd",
+      "historicalBeforeHashes": [
+        "8b472b42ceaed857314843a71874a86fb595de95edc00fdf3724af60f83bb9b2",
+        "53a2523c53a9a99f78dfe4a0c93f88f35b375c2068b6c27340bbcbebb2fdf15e"
+      ]
+    },
+    {
+      "file": "src/commerce/localSakana.json",
+      "beforeSha256": "eeda44014f3448c3cf721e48cd12527b44e4470d0b49480b0dd125f8c74d8559",
+      "afterSha256": "65945b32436a69210be0d2a35ce70cbfabc99447dc301c162d369b432ea2daf1",
+      "historicalBeforeHashes": [
+        "eeda44014f3448c3cf721e48cd12527b44e4470d0b49480b0dd125f8c74d8559",
+        "9d747bab2f390aa769b5a5f65510b6e8edfe278663240a1f31df4cf99b22e164"
+      ]
+    }
+  ]
+}

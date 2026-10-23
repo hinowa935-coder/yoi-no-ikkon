@@ -1,0 +1,25 @@
+{
+  "checkedAt": "2026-10-23T08:38:41.452Z",
+  "rows": [
+    {
+      "name": "tests",
+      "exitCode": 0,
+      "passed": true,
+      "durationMs": 17040,
+      "tests": 214
+    },
+    {
+      "name": "typecheck",
+      "exitCode": 0,
+      "passed": true,
+      "durationMs": 2481
+    },
+    {
+      "name": "lint",
+      "exitCode": 0,
+      "passed": true,
+      "durationMs": 413
+    }
+  ],
+  "passed": true
+}

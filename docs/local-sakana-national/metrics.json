@@ -1,0 +1,81 @@
+{
+  "checkedAt": "2026-10-23T08:45:30.592Z",
+  "baseline": {
+    "active": 484,
+    "missingPrefecture": 0,
+    "master": 67,
+    "displaySpecialties": 65,
+    "displaySake": 255,
+    "pairings": 352
+  },
+  "researchPrefectures": 47,
+  "candidates": 315,
+  "accepted": 79,
+  "held": 236,
+  "rejected": 0,
+  "master": 79,
+  "addedMaster": 12,
+  "retainedMaster": 67,
+  "changedExisting": 0,
+  "canonicalMerges": 0,
+  "displaySpecialties": 75,
+  "displaySake": 266,
+  "coverage": 54.96,
+  "pairings": 378,
+  "addedPairings": 26,
+  "high": 0,
+  "medium": 378,
+  "low": 0,
+  "displayCounts": {
+    "0": 218,
+    "1": 164,
+    "2": 92,
+    "3": 10
+  },
+  "editorial": 378,
+  "official": 0,
+  "community": 0,
+  "displayPrefectures": 45,
+  "mostDisplayed": [
+    {
+      "specialtyId": "kanzuri-shuto",
+      "name": "かんずり酒盗",
+      "prefecture": "新潟県",
+      "displaySake": 22
+    },
+    {
+      "specialtyId": "tochio-aburaage",
+      "name": "栃尾の油揚げ",
+      "prefecture": "新潟県",
+      "displaySake": 18
+    },
+    {
+      "specialtyId": "sasa-kamaboko",
+      "name": "笹かまぼこ",
+      "prefecture": "宮城県",
+      "displaySake": 11
+    },
+    {
+      "specialtyId": "fugu-nukazuke",
+      "name": "ふぐの子糠漬け",
+      "prefecture": "石川県",
+      "displaySake": 11
+    },
+    {
+      "specialtyId": "matsumae-zuke",
+      "name": "松前漬け",
+      "prefecture": "北海道",
+      "displaySake": 11
+    }
+  ],
+  "newDuplicateReasons": 0,
+  "officialCreatives": 79,
+  "formalImages": 79,
+  "retrievedRegionalSources": 368,
+  "readableRegionalSources": 362,
+  "newApiRequests": 223,
+  "reusedApiSearches": 74,
+  "minObservedApiIntervalMs": 1201,
+  "production": false,
+  "qaPassed": false
+}

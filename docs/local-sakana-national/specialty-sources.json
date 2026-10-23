@@ -1,0 +1,2949 @@
+{
+  "checkedAt": "2026-10-23T07:45:21.122Z",
+  "rows": [
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/area/hokkaido.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:12.299Z",
+      "title": "北海道",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/area/iwate.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:12.329Z",
+      "title": "岩手県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/area/miyagi.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:12.330Z",
+      "title": "宮城県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/area/aomori.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:12.328Z",
+      "title": "青森県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/area/akita.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:12.448Z",
+      "title": "秋田県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/area/yamagata.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:12.460Z",
+      "title": "山形県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/area/fukushima.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:12.479Z",
+      "title": "福島県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/area/ibaraki.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:12.483Z",
+      "title": "茨城県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/area/tochigi.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:12.488Z",
+      "title": "栃木県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/area/gunma.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:12.513Z",
+      "title": "群馬県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/area/saitama.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:12.521Z",
+      "title": "埼玉県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/area/chiba.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:12.542Z",
+      "title": "千葉県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/area/tokyo.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:12.549Z",
+      "title": "東京都",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/area/kanagawa.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:12.560Z",
+      "title": "神奈川県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/area/niigata.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:12.602Z",
+      "title": "新潟県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/area/ishikawa.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:12.617Z",
+      "title": "石川県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/area/nagano.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:12.660Z",
+      "title": "長野県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/area/fukui.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:12.622Z",
+      "title": "福井県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/area/toyama.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:12.607Z",
+      "title": "富山県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/traditional-foods/area/yamanashi.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:12.650Z",
+      "title": "山梨県｜にっぽん伝統食図鑑",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/area/gifu.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:12.678Z",
+      "title": "岐阜県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/area/shizuoka.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:12.694Z",
+      "title": "静岡県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/area/aichi.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:12.708Z",
+      "title": "愛知県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/area/mie.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:12.712Z",
+      "title": "三重県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/area/shiga.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:12.717Z",
+      "title": "滋賀県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/area/kyoto.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:12.736Z",
+      "title": "京都府",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/area/hyogo.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:12.748Z",
+      "title": "兵庫県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/area/nara.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:12.756Z",
+      "title": "奈良県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/area/osaka.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:12.744Z",
+      "title": "大阪府",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/area/wakayama.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:12.786Z",
+      "title": "和歌山県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/area/tottori.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:12.790Z",
+      "title": "鳥取県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/area/okayama.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:12.808Z",
+      "title": "岡山県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/area/shimane.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:12.799Z",
+      "title": "島根県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/area/tokushima.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:12.846Z",
+      "title": "徳島県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/area/hiroshima.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:12.824Z",
+      "title": "広島県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/area/yamaguchi.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:12.832Z",
+      "title": "山口県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/area/ehime.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:12.884Z",
+      "title": "愛媛県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/area/fukuoka.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:12.917Z",
+      "title": "福岡県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/area/kagawa.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:12.871Z",
+      "title": "香川県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/area/kochi.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:12.888Z",
+      "title": "高知県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/area/saga.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:12.921Z",
+      "title": "佐賀県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/area/kumamoto.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:12.938Z",
+      "title": "熊本県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/area/oita.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:12.948Z",
+      "title": "大分県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/area/nagasaki.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:12.934Z",
+      "title": "長崎県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/area/miyazaki.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:12.960Z",
+      "title": "宮崎県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/area/kagoshima.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:12.976Z",
+      "title": "鹿児島県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/area/okinawa.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:12.985Z",
+      "title": "沖縄県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/matsumaezuke_hokkaido.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:12.998Z",
+      "title": "松前漬 北海道",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/ikameshi_hokkaido.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:13.002Z",
+      "title": "いかめし 北海道",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/izushi_hokkaido.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:13.017Z",
+      "title": "飯寿司 北海道",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/nishinzuke_hokkaido.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:13.040Z",
+      "title": "ニシン漬け 北海道",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/ichigoni_aomori.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:13.051Z",
+      "title": "いちご煮 青森県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/ika_menchi_aomori.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:13.076Z",
+      "title": "イカメンチ 青森県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/shishamonokanroni_hokkaido.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:13.030Z",
+      "title": "ししゃもの甘露煮 北海道",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/ikuranoshoyuzuke_hokkaido.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:13.044Z",
+      "title": "いくらの醤油漬け 北海道",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/akakabu_no_senmai_zuke_aomori.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:13.096Z",
+      "title": "赤かぶの千枚漬け 青森県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/sakeno_iizushi_aomori.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:13.093Z",
+      "title": "鮭の飯ずし 青森県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/taranoko_ae_aomori.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:13.100Z",
+      "title": "たらの子和え 青森県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/shouga_misooden_aomori.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:13.103Z",
+      "title": "しょうが味噌おでん 青森県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/28_5_iwate.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:13.141Z",
+      "title": "すき昆布の煮物 岩手県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/28_26_iwate.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:13.154Z",
+      "title": "天然ほやの酢の物 岩手県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/28_12_iwate.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:13.163Z",
+      "title": "氷頭なます 岩手県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/28_19_iwate.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:13.177Z",
+      "title": "うこぎのほろほろ 岩手県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/28_21_iwate.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:13.215Z",
+      "title": "豆腐田楽 岩手県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/28_27_iwate.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:13.200Z",
+      "title": "くるみ豆腐 岩手県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/hoyano_sunomono_miyagi.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:13.230Z",
+      "title": "ホヤの酢の物 宮城県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/shiso_maki_miyagi.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:13.253Z",
+      "title": "しそ巻き 宮城県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/sendai_hakusai_no_tsuke_mono_miyagi.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:13.281Z",
+      "title": "仙台白菜の漬物 宮城県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/sasa_kamaboko_no_isobeage_miyagi.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:13.235Z",
+      "title": "笹かまぼこの磯部揚げ 宮城県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/29_1_akita.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:13.344Z",
+      "title": "いぶりがっこ 秋田県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/sanma_no_kigaki_miyagi.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:13.310Z",
+      "title": "サンマのきがき 宮城県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/heso_daikon_no_nishime_miyagi.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:13.325Z",
+      "title": "へそ大根のにしめ 宮城県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/29_2_akita.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:13.360Z",
+      "title": "ハタハタ寿し 秋田県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/29_19_akita.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:13.386Z",
+      "title": "なすの花ずし 秋田県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/29_9_akita.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:13.382Z",
+      "title": "なた漬け 秋田県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/29_18_akita.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:13.402Z",
+      "title": "とんぶりの長芋和え 秋田県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/omizuke_yamagata.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:13.465Z",
+      "title": "おみ漬 山形県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/29_22_akita.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:13.450Z",
+      "title": "かすべ煮 秋田県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/tamakonnyaku_yamagata.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:13.461Z",
+      "title": "玉こんにゃく 山形県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/shoyunomi_yamagata.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:13.480Z",
+      "title": "しょうゆの実 山形県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/seisaizuke_yamagata.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:13.501Z",
+      "title": "青菜漬 山形県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/koinomani_yamagata.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:13.513Z",
+      "title": "鯉のうま煮 山形県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/yukinanofusubezuke_yamagata.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:13.506Z",
+      "title": "雪菜のふすべ漬け 山形県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/30_3_fukushima.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:13.547Z",
+      "title": "にしんの山椒漬け 福島県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/30_1_fukushima.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:13.525Z",
+      "title": "いかにんじん 福島県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/30_4_fukushima.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:13.594Z",
+      "title": "サンマのポーポー焼き 福島県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/30_14_fukushima.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:13.583Z",
+      "title": "三五八漬け 福島県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/30_25_fukushima.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:13.590Z",
+      "title": "ぼうたら煮 福島県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/30_15_fukushima.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:13.599Z",
+      "title": "あんこうのとも和え 福島県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/soboronatto_ibaraki.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:13.644Z",
+      "title": "そぼろ納豆／しょぼろ納豆 茨城県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/shimikonnyaku_ibaraki.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:13.673Z",
+      "title": "凍みこんにゃく 茨城県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/kaisoyose_ibaraki.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:13.659Z",
+      "title": "海藻よせ 茨城県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/shikimbai_ibaraki.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:13.697Z",
+      "title": "紫錦梅 茨城県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/iwashinounohanazuke_ibaraki.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:13.663Z",
+      "title": "いわしの卯の花漬け 茨城県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/pinattsumiso_ibaraki.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:13.711Z",
+      "title": "ピーナッツ味噌/落花生味噌 茨城県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/31_16_tochigi.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:13.733Z",
+      "title": "揚げまき湯波の煮物 栃木県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/31_1_tochigi.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:13.756Z",
+      "title": "しもつかれ／シモツカレ 栃木県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/31_15_tochigi.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:13.760Z",
+      "title": "あいその甘露煮 栃木県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/31_10_tochigi.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:13.780Z",
+      "title": "モロの煮付 栃木県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/31_12_tochigi.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:13.796Z",
+      "title": "ゆず巻き 栃木県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/32_23_gunma.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:13.829Z",
+      "title": "こんにゃく味噌おでん 群馬県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/31_11_tochigi.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:13.816Z",
+      "title": "干瓢のごま酢あえ 栃木県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/32_25_gunma.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:13.853Z",
+      "title": "ゆず巻き 群馬県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/32_6_gunma.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:13.859Z",
+      "title": "しめ豆腐 群馬県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/32_10_gunma.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:13.885Z",
+      "title": "上州きんぴら 群馬県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/32_8_gunma.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:13.891Z",
+      "title": "ねぎぬた 群馬県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/32_17_gunma.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:13.916Z",
+      "title": "鮎塩焼き 群馬県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/33_25_saitama.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:13.961Z",
+      "title": "おなめ 埼玉県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/33_11_saitama.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:13.965Z",
+      "title": "みそポテト 埼玉県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/33_8_saitama.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:14.007Z",
+      "title": "ゼリーフライ 埼玉県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://minakami.or.jp/restaurant/isagoya_yubara/",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:13.920Z",
+      "title": "INFORMATION",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/33_17_saitama.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:14.031Z",
+      "title": "ゆず巻き 埼玉県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/33_15_saitama.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:14.058Z",
+      "title": "こんにゃくのみそおでん 埼玉県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/33_9_saitama.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:14.094Z",
+      "title": "ねぎぬた 埼玉県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/seguro_iwashi_no_gomazuke_chiba.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:14.176Z",
+      "title": "せぐろいわしのごま漬け 千葉県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/rakkasei_miso_chiba.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:14.225Z",
+      "title": "落花生味噌 千葉県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/sanga_yaki_chiba.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:14.271Z",
+      "title": "さんが焼き 千葉県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/kujirano_tare_chiba.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:14.283Z",
+      "title": "くじらのたれ 千葉県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/urino_teppou_zuke_chiba.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:14.275Z",
+      "title": "瓜の鉄砲漬 千葉県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/yude_rakkasei_chiba.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:14.278Z",
+      "title": "ゆで落花生 千葉県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/34_8_tokyo.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:14.334Z",
+      "title": "べったら漬け 東京都",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/34_25_tokyo.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:14.342Z",
+      "title": "佃煮 東京都",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/34_11_tokyo.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:14.346Z",
+      "title": "玉子焼き 東京都",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/34_21_tokyo.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:14.366Z",
+      "title": "こはだの粟づけ 東京都",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/34_5_tokyo.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:14.374Z",
+      "title": "おでん 東京都",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/34_19_tokyo.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:14.402Z",
+      "title": "島ずし 東京都",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/35_9_kanagawa.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:14.434Z",
+      "title": "ワカサギの甘露煮 神奈川県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/35_19_kanagawa.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:14.406Z",
+      "title": "小田原かまぼこ 神奈川県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/35_6_kanagawa.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:14.429Z",
+      "title": "とん漬け 神奈川県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/35_2_kanagawa.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:14.477Z",
+      "title": "大山の豆腐料理 神奈川県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/sakeno_yakizuke_niigata.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:14.523Z",
+      "title": "鮭の焼漬け 新潟県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/35_14_kanagawa.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:14.507Z",
+      "title": "割り干し大根のはりはり漬け 神奈川県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/35_22_kanagawa.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:14.519Z",
+      "title": "シューマイ 神奈川県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/migaki_nishin_no_kouji_zuke_niigata.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:14.565Z",
+      "title": "身欠きにしんの糀漬け 新潟県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/kanzuri_niigata.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:14.561Z",
+      "title": "かんずり 新潟県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/igoneri_niigata.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:14.568Z",
+      "title": "いごねり 新潟県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/37_1_toyama.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:14.623Z",
+      "title": "ほたるいかの酢味噌和え 富山県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/akakabu_zuke_niigata.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:14.602Z",
+      "title": "赤かぶ漬け 新潟県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/37_12_toyama.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:14.628Z",
+      "title": "昆布〆 富山県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/izushi_niitaga.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:14.619Z",
+      "title": "飯ずし 新潟県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/37_13_toyama.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:14.685Z",
+      "title": "黒づくり 富山県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/37_5_toyama.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:14.700Z",
+      "title": "かぶらずし 富山県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/37_16_toyama.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:14.715Z",
+      "title": "ばいの煮もの 富山県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/37_26_toyama.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:14.727Z",
+      "title": "すり身揚げ 富山県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/kaburazushi_ishikawa.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:14.737Z",
+      "title": "かぶらずし 石川県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/daikonzushi_ishikawa.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:14.765Z",
+      "title": "大根ずし 石川県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/hinezushi_ishikawa.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:14.777Z",
+      "title": "ひねずし 石川県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/sawaranokobujime_ishikawa.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:14.789Z",
+      "title": "さわらの昆布じめ 石川県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/nishinnokobumaki_ishikawa.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:14.800Z",
+      "title": "にしんの昆布まき 石川県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/makononitsuke_ishikawa.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:14.808Z",
+      "title": "真子の煮つけ 石川県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/heshiko_fukui.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:14.829Z",
+      "title": "へしこ 福井県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/maruyaki_saba_fukui.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:14.838Z",
+      "title": "丸焼き鯖 福井県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/nishin_sushi_fukui.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:14.876Z",
+      "title": "にしんすし 福井県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/hamana_miso_fukui.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:14.880Z",
+      "title": "はまなみそ 福井県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/atsuage_nitano_fukui.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:14.894Z",
+      "title": "厚揚げの煮たの 福井県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/aka_kabura_no_suzuke_fukui.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:14.883Z",
+      "title": "赤かぶらの酢漬け 福井県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/traditional-foods/menu/kosyu_koume_no_tukemono.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:14.949Z",
+      "title": "甲州小梅の漬物（こうしゅうこうめのつけもの）｜にっぽん伝統食図鑑",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/traditional-foods/menu/minobu_yuba.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:14.968Z",
+      "title": "身延ゆば（みのぶゆば）｜にっぽん伝統食図鑑",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/traditional-foods/menu/kosyu_torimotuni.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:14.975Z",
+      "title": "甲州鳥もつ煮（こうしゅうとりもつに）｜にっぽん伝統食図鑑",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/traditional-foods/menu/awabino_nigai.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:14.937Z",
+      "title": "あわびの煮貝（あわびのにがい）｜にっぽん伝統食図鑑",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/nozawana_zuke_nagano.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:15.047Z",
+      "title": "野沢菜漬 長野県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/traditional-foods/menu/narusawana_zuke.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:15.010Z",
+      "title": "鳴沢菜漬け（なるさわなづけ））｜にっぽん伝統食図鑑",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/sunki_zuke_nagano.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:15.073Z",
+      "title": "すんき漬け 長野県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/traditional-foods/menu/wakasagino_kanroni.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:15.042Z",
+      "title": "わかさぎの甘露煮（わかさぎかんろに）｜にっぽん伝統食図鑑",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/kobunano_kanroni_nagano.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:15.087Z",
+      "title": "小鮒の甘露煮 長野県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/hitashi_mame_nagano.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:15.110Z",
+      "title": "ひたし豆 長野県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/inagono_tsuku_dani_nagano.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:15.115Z",
+      "title": "いなごの佃煮 長野県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/shouyu_mame_nagano.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:15.094Z",
+      "title": "しょうゆ豆／しょうゆの実 長野県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/38_20_gifu.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:15.149Z",
+      "title": "赤かぶ漬け 岐阜県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/38_2_gifu.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:15.185Z",
+      "title": "鶏ちゃん 岐阜県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/38_10_gifu.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:15.190Z",
+      "title": "朴葉味噌 岐阜県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/38_7_gifu.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:15.194Z",
+      "title": "鮎なれずし 岐阜県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/38_19_gifu.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:15.218Z",
+      "title": "煮たくもじ 岐阜県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/36_3_shizuoka.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:15.249Z",
+      "title": "山葵漬け 静岡県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/36_16_shizuoka.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:15.277Z",
+      "title": "静岡おでん 静岡県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/36_1_shizuoka.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:15.272Z",
+      "title": "黒はんぺんフライ 静岡県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/38_29_gifu.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:15.239Z",
+      "title": "こも豆腐 岐阜県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/36_5_shizuoka.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:15.308Z",
+      "title": "水かけ菜の漬物 静岡県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/36_15_shizuoka.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:15.325Z",
+      "title": "金山寺味噌 静岡県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/hazetsukudani_aichi.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:15.329Z",
+      "title": "はぜ佃煮 愛知県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/36_25_shizuoka.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:15.320Z",
+      "title": "なまり節と白玉葱のサラダ 静岡県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/karimorinokasuzuke_aichi.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:15.351Z",
+      "title": "かりもりの粕漬け 愛知県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/nimiso_aichi.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:15.414Z",
+      "title": "煮味噌 愛知県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/kushiasari_aichi.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:15.369Z",
+      "title": "串あさり 愛知県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/funamiso_aichi.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:15.391Z",
+      "title": "ふな味噌 愛知県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/misodengaku_aichi.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:15.395Z",
+      "title": "味噌田楽 愛知県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/arame_maki_mie.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:15.435Z",
+      "title": "あらめ巻き 三重県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/manbou_sumiso_ae_mie.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:15.441Z",
+      "title": "まんぼう酢味噌あえ 三重県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/kounago_no_kugini_mie.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:15.432Z",
+      "title": "こうなごのくぎ煮 三重県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/sakana_no_tsuke_mono_mie.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:15.455Z",
+      "title": "魚の漬物（塩辛） 三重県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/rakkasei_no_nimame_mie.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:15.496Z",
+      "title": "落花生の煮豆 三重県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/funa_zushi_shiga.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:15.521Z",
+      "title": "ふなずし 滋賀県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/same_namasu_mie.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:15.492Z",
+      "title": "さめなます 三重県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/koayuno_sanshou_ni_shiga.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:15.500Z",
+      "title": "小あゆの山椒煮 滋賀県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/gorino_tsukuda_ni_shiga.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:15.559Z",
+      "title": "ごりの佃煮 滋賀県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/ebimame_shiga.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:15.555Z",
+      "title": "えび豆 滋賀県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/hinona_zuke_shiga.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:15.573Z",
+      "title": "日野菜漬け 滋賀県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/aka_konnyaku_ni_shiga.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:15.584Z",
+      "title": "赤こんにゃく煮 滋賀県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/shibazuke_kyoto.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:15.619Z",
+      "title": "しば漬け 京都府",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/semmaizuke_kyoto.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:15.646Z",
+      "title": "千枚漬け 京都府",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/sugukizuke_kyoto.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:15.636Z",
+      "title": "すぐき漬け 京都府",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/sanshonohanotsukudani_kyoto.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:15.658Z",
+      "title": "山椒の葉の佃煮 京都府",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/nishinnasu_kyoto.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:15.685Z",
+      "title": "にしん茄子／茄子とにしんの炊いたん 京都府",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/heshiko_kyoto.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:15.689Z",
+      "title": "へしこ 京都府",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/39_1_osaka.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:15.710Z",
+      "title": "泉州水なすの浅漬 大阪府",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/39_23_osaka.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:15.750Z",
+      "title": "どて焼き 大阪府",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/39_30_osaka.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:15.760Z",
+      "title": "紅しょうが天 大阪府",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/39_6_osaka.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:15.753Z",
+      "title": "ごより豆／じゃこ豆 大阪府",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/39_21_osaka.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:15.782Z",
+      "title": "がっちょの唐揚げ 大阪府",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/39_11_osaka.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:15.797Z",
+      "title": "鱧皮ザクザク 大阪府",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/40_15_hyogo.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:15.858Z",
+      "title": "山椒の佃煮 兵庫県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/40_21_hyogo.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:15.848Z",
+      "title": "焼きアナゴ 兵庫県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/40_1_hyogo.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:15.836Z",
+      "title": "イカナゴのくぎ煮 兵庫県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/40_6_hyogo.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:15.876Z",
+      "title": "姫路おでん 兵庫県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/40_18_hyogo.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:15.912Z",
+      "title": "味噌だれ餃子 兵庫県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/40_28_hyogo.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:15.916Z",
+      "title": "はたはたの唐あげ 兵庫県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/naraae_nara.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:15.949Z",
+      "title": "奈良和え 奈良県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/amago_no_kanroni_nara.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:15.920Z",
+      "title": "あまごの甘露煮 奈良県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/kakinoha_zushi_nara.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:15.961Z",
+      "title": "柿の葉寿司 奈良県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/eino_nikogori_nara.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:15.986Z",
+      "title": "エイの煮こごり 奈良県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/nama_bushi_to_negi_no_nimono_nara.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:15.982Z",
+      "title": "生節とねぎの煮もの 奈良県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/nara_noppei_nara.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:15.993Z",
+      "title": "奈良のっぺ 奈良県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/traditional-foods/menu/naraduke.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:16.001Z",
+      "title": "奈良漬け（ならづけ）｜にっぽん伝統食図鑑",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/kinzanji_miso_wakayama.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:16.044Z",
+      "title": "金山寺味噌 和歌山県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/goma_toufu_wakayama.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:16.056Z",
+      "title": "ごま豆腐 和歌山県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/utsubo_ryouri_wakayama.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:16.064Z",
+      "title": "うつぼ料理／うつぼの佃煮 和歌山県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/tachiuo_ryouri_wakayama.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:16.111Z",
+      "title": "太刀魚料理／太刀魚寿司 和歌山県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/umeboshi_wakayama.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:16.060Z",
+      "title": "梅干し 和歌山県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/nare_zushi_wakayama.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:16.107Z",
+      "title": "なれずし 和歌山県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/toufu_chikuwa_tottori.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:16.141Z",
+      "title": "とうふちくわ 鳥取県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/rakkyou_zuke_tottori.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:16.159Z",
+      "title": "らっきょう漬け 鳥取県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/ita_wakame_tottori.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:16.148Z",
+      "title": "板わかめ 鳥取県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/ago_chikuwa_tottori.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:16.170Z",
+      "title": "あごちくわ 鳥取県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/surume_no_kouji_zuke_tottori.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:16.203Z",
+      "title": "スルメの麹漬け 鳥取県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/hatahata_zushi_tottori.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:16.212Z",
+      "title": "ハタハタ寿司／しろはた寿司 鳥取県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/akagaigarammushi_shimane.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:16.219Z",
+      "title": "赤貝がらん蒸し／赤貝の殻蒸し 島根県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/okiaramenoitameni_shimane.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:16.252Z",
+      "title": "隠岐アラメの炒め煮 島根県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/shijimijiru_shimane.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:16.262Z",
+      "title": "しじみ汁 島根県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/tobiuonosashimi_shimane.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:16.277Z",
+      "title": "トビウオの刺身 島根県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/fukinotomiso_shimane.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:16.271Z",
+      "title": "ふきのとう味噌 島根県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/suzukinohoshoyaki_shimane.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:16.306Z",
+      "title": "スズキの奉書焼き 島根県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/traditional-foods/menu/sinziko_sizimino_tukudani.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:16.330Z",
+      "title": "宍道湖しじみの佃煮（しんじこしじみのつくだに）｜にっぽん伝統食図鑑",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/traditional-foods/menu/agono_yaki.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:16.323Z",
+      "title": "あご野焼き（あごのやき）｜にっぽん伝統食図鑑",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/41_3_okayama.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:16.341Z",
+      "title": "ママカリの酢漬け 岡山県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/41_18_okayama.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:16.371Z",
+      "title": "いいだこの煮つけ 岡山県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/41_21_okayama.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:16.392Z",
+      "title": "黄ニラのおひたし 岡山県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/41_22_okayama.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:16.403Z",
+      "title": "しその実の佃煮 岡山県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/41_16_okayama.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:16.407Z",
+      "title": "いしもちじゃこの唐揚げ 岡山県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/41_12_okayama.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:16.434Z",
+      "title": "あみとだいこんの煮付け 岡山県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/42_4_hiroshima.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:16.451Z",
+      "title": "かきの土手鍋 広島県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/42_23_hiroshima.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:16.455Z",
+      "title": "広島菜漬けのおにぎり／広島菜むすび 広島県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/42_12_hiroshima.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:16.483Z",
+      "title": "イギス豆腐 広島県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/42_15_hiroshima.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:16.466Z",
+      "title": "ねぶとの唐揚げ 広島県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/42_17_hiroshima.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:16.513Z",
+      "title": "小いわしの刺身 広島県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/42_5_hiroshima.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:16.537Z",
+      "title": "わけぎのぬた 広島県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/43_18_yamaguchi.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:16.548Z",
+      "title": "ふぐの唐揚げ 山口県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/43_16_yamaguchi.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:16.580Z",
+      "title": "ふく刺し 山口県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/43_20_yamaguchi.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:16.589Z",
+      "title": "わかめの醤油漬け 山口県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/43_1_yamaguchi.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:16.600Z",
+      "title": "ちしゃなます 山口県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/43_14_yamaguchi.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:16.617Z",
+      "title": "ごぼう巻き 山口県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/43_12_yamaguchi.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:16.651Z",
+      "title": "はすのさんばい 山口県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/44_3_tokushima.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:16.676Z",
+      "title": "祖谷のでこまわし 徳島県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://yamaguchi-umi.net/goods/neri/densyoudukuri.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:16.665Z",
+      "title": "",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/44_2_tokushima.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:16.684Z",
+      "title": "ボウゼの姿寿司 徳島県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/44_26_tokushima.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:16.710Z",
+      "title": "ずきがし 徳島県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/44_13_tokushima.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:16.742Z",
+      "title": "ならえ 徳島県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/44_28_tokushima.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:16.750Z",
+      "title": "あめごのひらら焼き 徳島県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/44_17_tokushima.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:16.763Z",
+      "title": "でんぶ 徳島県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.awanavi.jp/archives/spot/1500",
+      "status": 503,
+      "checkedAt": "2026-10-23T07:45:16.778Z",
+      "title": "",
+      "readable": false,
+      "error": null
+    },
+    {
+      "url": "https://www.awanavi.jp/wp-content/uploads/2025/04/trip2025.pdf",
+      "status": 503,
+      "checkedAt": "2026-10-23T07:45:16.800Z",
+      "title": "",
+      "readable": false,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/shouyu_mame_kagawa.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:16.832Z",
+      "title": "しょうゆ豆 香川県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/teppai_kagawa.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:16.836Z",
+      "title": "てっぱい 香川県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/ajino_sanbai_kagawa.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:16.853Z",
+      "title": "アジの三杯 香川県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/takuan_no_kinpira_kagawa.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:16.864Z",
+      "title": "たくあんのきんぴら 香川県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/imotako_kagawa.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:16.892Z",
+      "title": "いもたこ 香川県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.my-kagawa.jp/gourmet/feature/gourmet/honetukidori",
+      "status": 503,
+      "checkedAt": "2026-10-23T07:45:16.919Z",
+      "title": "",
+      "readable": false,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/jakoten_ehime.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:16.937Z",
+      "title": "じゃこ天 愛媛県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/wakegiae_kagawa.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:16.910Z",
+      "title": "わけぎあえ 香川県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/tachiuo_maki_ehime.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:16.972Z",
+      "title": "太刀魚巻／太刀巻 愛媛県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/ebiten_ehime.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:17.001Z",
+      "title": "えび天 愛媛県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/hino_kabura_zuke_ehime.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:16.994Z",
+      "title": "緋の蕪漬／緋のかぶ漬 愛媛県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/izumiya_ehime.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:17.014Z",
+      "title": "いずみや 愛媛県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/fukano_yu_zarashi_ehime.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:17.047Z",
+      "title": "ふかの湯ざらし 愛媛県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/tofunoumezuzuke_kochi.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:17.086Z",
+      "title": "豆腐の梅酢づけ 高知県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/katuonotataki_kochi.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:17.082Z",
+      "title": "かつおのたたき 高知県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/haninnikunonuta_kochi.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:17.115Z",
+      "title": "葉にんにくのぬた 高知県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/inakazushi_kochi.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:17.151Z",
+      "title": "田舎ずし 高知県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/itadorinoaburaitame_kochi.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:17.105Z",
+      "title": "いたどりの油いため 高知県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/nukamiso_daki_fukuoka.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:17.171Z",
+      "title": "ぬかみそ炊き 福岡県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/kibinagonohokaburi_kochi.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:17.156Z",
+      "title": "きびなごのほおかぶり 高知県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/acyara_zuke_fukuoka.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:17.208Z",
+      "title": "あちゃら漬け 福岡県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/setakano_takana_zuke_fukuoka.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:17.201Z",
+      "title": "瀬高の高菜漬け 福岡県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/oquto_fukuoka.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:17.190Z",
+      "title": "おきゅうと 福岡県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/nousaba_fukuoka.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:17.217Z",
+      "title": "のうさば 福岡県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/45_2_saga.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:17.243Z",
+      "title": "いかのかけ和え 佐賀県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/hakatano_gomasaba_fukuoka.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:17.241Z",
+      "title": "博多の胡麻鯖 福岡県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/45_14_saga.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:17.300Z",
+      "title": "呉豆腐のごま醤油かけ 佐賀県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/45_24_saga.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:17.305Z",
+      "title": "おこもじの油炒め 佐賀県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/45_20_saga.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:17.288Z",
+      "title": "しゃっぱの煮付け 佐賀県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/45_10_saga.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:17.277Z",
+      "title": "むつごろうの蒲焼 佐賀県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/46_29_nagasaki.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:17.365Z",
+      "title": "ハトシ 長崎県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/46_18_nagasaki.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:17.369Z",
+      "title": "長崎天ぷら 長崎県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/46_21_nagasaki.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:17.372Z",
+      "title": "アルマド 長崎県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/46_23_nagasaki.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:17.404Z",
+      "title": "茹で干し大根とかんぼこの煮物 長崎県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/45_1_saga.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:17.355Z",
+      "title": "ふなんこぐい 佐賀県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/46_19_nagasaki.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:17.432Z",
+      "title": "鯨じゃが 長崎県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/46_22_nagasaki.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:17.441Z",
+      "title": "ピーナッツ豆腐 長崎県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/toufuno_misozuke_kumamoto.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:17.459Z",
+      "title": "豆腐の味噌漬け 熊本県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/karashi_renkon_kumamoto.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:17.454Z",
+      "title": "からし蓮根 熊本県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/aso_takana_zuke_kumamoto.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:17.488Z",
+      "title": "阿蘇高菜漬け 熊本県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/kanzuke_kumamoto.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:17.505Z",
+      "title": "寒漬け 熊本県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/itimonji_no_guruguru_kumamoto.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:17.528Z",
+      "title": "一文字のぐるぐる 熊本県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/yakiayu_no_kanroni_kumamoto.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:17.517Z",
+      "title": "焼鮎の甘露煮 熊本県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/ryukyu_oita.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:17.561Z",
+      "title": "りゅうきゅう 大分県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/ayuuruka_oita.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:17.557Z",
+      "title": "あゆうるか 大分県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/kujaku_oita.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:17.577Z",
+      "title": "くじゃく 大分県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/taraosa_oita.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:17.599Z",
+      "title": "たらおさ 大分県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/kirasumameshi_oita.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:17.605Z",
+      "title": "きらすまめし 大分県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/gomadashi_oita.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:17.612Z",
+      "title": "ごまだし 大分県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/mehikari_no_karaage_miyazaki.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:17.654Z",
+      "title": "めひかりの唐揚げ 宮崎県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/obiten_miyazaki.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:17.638Z",
+      "title": "おび天 宮崎県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/jidori_no_miso_koro_bakashi_miyazaki.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:17.669Z",
+      "title": "地鶏の味噌ころばかし 宮崎県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/sengiri_daikonno_madaka_zuke_miyazaki.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:17.689Z",
+      "title": "千切り大根（切り干し大根）のまだか漬け 宮崎県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/nadoufu_miyazaki.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:17.699Z",
+      "title": "菜豆腐 宮崎県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.miyazaki-city.tourism.or.jp/gourmet/10124",
+      "status": 503,
+      "checkedAt": "2026-10-23T07:45:17.742Z",
+      "title": "",
+      "readable": false,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/gane_miyazaki.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:17.730Z",
+      "title": "がね 宮崎県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/butamiso_kagoshima.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:17.764Z",
+      "title": "豚味噌 鹿児島県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/tsukeage_kagoshima.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:17.761Z",
+      "title": "つけあげ 鹿児島県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/butahoneyasai_kagoshima.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:17.842Z",
+      "title": "豚骨野菜 鹿児島県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/papaiyazuke_kagoshima.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:17.816Z",
+      "title": "パパイヤ漬け 鹿児島県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/gane_kagoshima.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:17.839Z",
+      "title": "がね 鹿児島県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/47_6_okinawa.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:17.884Z",
+      "title": "ラフテー 沖縄県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/kibinagonosashimi_kagoshima.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:17.825Z",
+      "title": "きびなごの刺身 鹿児島県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/47_2_okinawa.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:17.931Z",
+      "title": "クーブイリチー 沖縄県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/47_18_okinawa.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:17.911Z",
+      "title": "ジーマーミ豆腐 沖縄県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/47_11_okinawa.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:17.935Z",
+      "title": "ゴーヤーチャンプルー 沖縄県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/47_15_okinawa.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:17.888Z",
+      "title": "ミミガーさしみ 沖縄県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/47_14_okinawa.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:17.969Z",
+      "title": "ミヌダル 沖縄県",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://niigata-kankou.or.jp/spot/detail_5820.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:17.974Z",
+      "title": "にいがた観光ナビ",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://sasanao.co.jp/html/page1.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:18.048Z",
+      "title": "",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.kankou.natori.miyagi.jp/shopping/456/",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:18.115Z",
+      "title": "",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://hitakamiichiba.com/?pid=142221272",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:18.219Z",
+      "title": "�����������ۤ�",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://store.kinoya.co.jp/Form/Product/ProductDetail.aspx?pid=OYO&shop=0",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:18.276Z",
+      "title": "牡蠣の燻製 -油漬-",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/traditional-foods/menu/iburigakko.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:18.614Z",
+      "title": "いぶりがっこ｜にっぽん伝統食図鑑",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://kanzuri.shop-pro.jp/?cbid=1352613&csid=2&mode=cate&sort=p",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:17.995Z",
+      "title": "",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.kabura.jp/products/list?category_id=2",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:18.717Z",
+      "title": "かぶら寿し",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.siip.city.sendai.jp/kurasusendai/iimono/oyster_kinoyasuisan",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:18.598Z",
+      "title": "",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/traditional-foods/menu/matumaezuke.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:19.370Z",
+      "title": "松前漬け（まつまえづけ）｜にっぽん伝統食図鑑",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/traditional-foods/menu/saketoba.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:19.424Z",
+      "title": "鮭とば（さけとば）｜にっぽん伝統食図鑑",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/traditional-foods/menu/ikamesi.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:19.495Z",
+      "title": "いかめし｜にっぽん伝統食図鑑",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.aburayo.jp/",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:19.307Z",
+      "title": "石川県の地酒 こんか漬けに合う日本酒",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://sannori.com/",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:19.580Z",
+      "title": "",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.himono-yamamoto.com/products/",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:19.940Z",
+      "title": "商品紹介",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.manbou.co.jp/products/ichiyaboshi.html?newwindow=true",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:19.936Z",
+      "title": "�������イ�܂����˂̓X�w�Ďq�ݖV�x",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.manbou.co.jp/",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:20.131Z",
+      "title": "�������イ�܂����˂̓X�w�Ďq�ݖV�x",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/traditional-foods/menu/syutou.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:20.243Z",
+      "title": "酒盗（しゅとう）｜にっぽん伝統食図鑑",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.kanzuri.com/",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:18.012Z",
+      "title": "",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.fukutatsu.co.jp/",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:20.308Z",
+      "title": "",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.info-toyama.com/stories/hotaruika-toyama",
+      "status": 503,
+      "checkedAt": "2026-10-23T07:45:20.542Z",
+      "title": "",
+      "readable": false,
+      "error": null
+    },
+    {
+      "url": "https://www.city.kochi.kochi.jp/site/kanko/katsuo.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:20.451Z",
+      "title": "かつお",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://shoku-web.pref.akita.lg.jp/search/1681",
+      "status": null,
+      "checkedAt": "2026-10-23T07:45:18.675Z",
+      "title": "",
+      "readable": false,
+      "error": "TypeError"
+    },
+    {
+      "url": "https://nmaicha.jp/",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:20.754Z",
+      "title": "",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/traditional-foods/menu/hesiko.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:20.817Z",
+      "title": "へしこ｜にっぽん伝統食図鑑",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.maff.go.jp/j/keikaku/syokubunka/traditional-foods/menu/wakasa_obama_kodai_sasazuke.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:20.847Z",
+      "title": "若狭小浜小鯛ささ漬け（わかさおばまこだいささづけ）｜にっぽん伝統食図鑑",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.pref.yamanashi.jp/shokuhin-st/shokuiku/yamanashinoshoku/awabinonigai.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:20.882Z",
+      "title": "あわびの煮貝",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.asobo-saga.jp/galleries/detail/f8bc154d-15c8-4770-bca1-116e245352f9",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:20.070Z",
+      "title": "フォト・動画ギャラリー",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://www.city.komatsushima.lg.jp/komatsushima-navi/spots/9340.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:20.924Z",
+      "title": "フィッシュかつ",
+      "readable": true,
+      "error": null
+    },
+    {
+      "url": "https://nmaicha.jp/hpgen/HPB/categories/27103.html",
+      "status": 200,
+      "checkedAt": "2026-10-23T07:45:20.622Z",
+      "title": "ご利用ガイド",
+      "readable": true,
+      "error": null
+    }
+  ]
+}

@@ -1,0 +1,650 @@
+{
+  "checkedAt": "2026-10-23T08:44:48.091Z",
+  "base": "http://127.0.0.1:3197",
+  "rows": [
+    {
+      "sakeId": "nogomi-tokubetsu-junmai",
+      "width": 320,
+      "length": 33,
+      "sourceStatus": "REWRITTEN",
+      "passed": true
+    },
+    {
+      "sakeId": "koimari-saki",
+      "width": 320,
+      "length": 58,
+      "sourceStatus": "REWRITTEN",
+      "passed": true
+    },
+    {
+      "sakeId": "kokushi-muso-junmai",
+      "width": 320,
+      "length": 20,
+      "sourceStatus": "REWRITTEN",
+      "passed": true
+    },
+    {
+      "sakeId": "dassai-45",
+      "width": 320,
+      "length": 24,
+      "sourceStatus": "REWRITTEN",
+      "passed": true
+    },
+    {
+      "sakeId": "hakkaisan-tokubetsu-honjozo",
+      "width": 320,
+      "length": 16,
+      "sourceStatus": "HELD_INSUFFICIENT_DETAIL",
+      "passed": true
+    },
+    {
+      "sakeId": "kirakucho-lvvrsw-4",
+      "width": 320,
+      "length": 47,
+      "sourceStatus": "REWRITTEN",
+      "passed": true
+    },
+    {
+      "sakeId": "kikuhime-yamahai-junmai",
+      "width": 320,
+      "length": 53,
+      "sourceStatus": "REWRITTEN",
+      "passed": true
+    },
+    {
+      "sakeId": "haneya-kirabi-nama-genshu-v1",
+      "width": 320,
+      "length": 44,
+      "sourceStatus": "REWRITTEN",
+      "passed": true
+    },
+    {
+      "sakeId": "ine-to-agave-doburoku6-v1",
+      "width": 320,
+      "length": 52,
+      "sourceStatus": "REWRITTEN",
+      "passed": true
+    },
+    {
+      "sakeId": "mio-sparkling-lineup-v1",
+      "width": 320,
+      "length": 26,
+      "sourceStatus": "REWRITTEN",
+      "passed": true
+    },
+    {
+      "sakeId": "koshijifubuki-akiagari-2026-catalog-v1",
+      "width": 320,
+      "length": 34,
+      "sourceStatus": "REWRITTEN",
+      "passed": true
+    },
+    {
+      "sakeId": "kikko-hanabishi-hdomtl-4",
+      "width": 320,
+      "length": 37,
+      "sourceStatus": "UNCHANGED_GOOD",
+      "passed": true
+    },
+    {
+      "sakeId": "murayu-kuro",
+      "width": 320,
+      "length": 30,
+      "sourceStatus": "HELD_NO_SOURCE",
+      "passed": true
+    },
+    {
+      "sakeId": "nogomi-tokubetsu-junmai",
+      "width": 360,
+      "length": 33,
+      "sourceStatus": "REWRITTEN",
+      "passed": true
+    },
+    {
+      "sakeId": "koimari-saki",
+      "width": 360,
+      "length": 58,
+      "sourceStatus": "REWRITTEN",
+      "passed": true
+    },
+    {
+      "sakeId": "kokushi-muso-junmai",
+      "width": 360,
+      "length": 20,
+      "sourceStatus": "REWRITTEN",
+      "passed": true
+    },
+    {
+      "sakeId": "dassai-45",
+      "width": 360,
+      "length": 24,
+      "sourceStatus": "REWRITTEN",
+      "passed": true
+    },
+    {
+      "sakeId": "hakkaisan-tokubetsu-honjozo",
+      "width": 360,
+      "length": 16,
+      "sourceStatus": "HELD_INSUFFICIENT_DETAIL",
+      "passed": true
+    },
+    {
+      "sakeId": "kirakucho-lvvrsw-4",
+      "width": 360,
+      "length": 47,
+      "sourceStatus": "REWRITTEN",
+      "passed": true
+    },
+    {
+      "sakeId": "kikuhime-yamahai-junmai",
+      "width": 360,
+      "length": 53,
+      "sourceStatus": "REWRITTEN",
+      "passed": true
+    },
+    {
+      "sakeId": "haneya-kirabi-nama-genshu-v1",
+      "width": 360,
+      "length": 44,
+      "sourceStatus": "REWRITTEN",
+      "passed": true
+    },
+    {
+      "sakeId": "ine-to-agave-doburoku6-v1",
+      "width": 360,
+      "length": 52,
+      "sourceStatus": "REWRITTEN",
+      "passed": true
+    },
+    {
+      "sakeId": "mio-sparkling-lineup-v1",
+      "width": 360,
+      "length": 26,
+      "sourceStatus": "REWRITTEN",
+      "passed": true
+    },
+    {
+      "sakeId": "koshijifubuki-akiagari-2026-catalog-v1",
+      "width": 360,
+      "length": 34,
+      "sourceStatus": "REWRITTEN",
+      "passed": true
+    },
+    {
+      "sakeId": "kikko-hanabishi-hdomtl-4",
+      "width": 360,
+      "length": 37,
+      "sourceStatus": "UNCHANGED_GOOD",
+      "passed": true
+    },
+    {
+      "sakeId": "murayu-kuro",
+      "width": 360,
+      "length": 30,
+      "sourceStatus": "HELD_NO_SOURCE",
+      "passed": true
+    },
+    {
+      "sakeId": "nogomi-tokubetsu-junmai",
+      "width": 375,
+      "length": 33,
+      "sourceStatus": "REWRITTEN",
+      "passed": true
+    },
+    {
+      "sakeId": "koimari-saki",
+      "width": 375,
+      "length": 58,
+      "sourceStatus": "REWRITTEN",
+      "passed": true
+    },
+    {
+      "sakeId": "kokushi-muso-junmai",
+      "width": 375,
+      "length": 20,
+      "sourceStatus": "REWRITTEN",
+      "passed": true
+    },
+    {
+      "sakeId": "dassai-45",
+      "width": 375,
+      "length": 24,
+      "sourceStatus": "REWRITTEN",
+      "passed": true
+    },
+    {
+      "sakeId": "hakkaisan-tokubetsu-honjozo",
+      "width": 375,
+      "length": 16,
+      "sourceStatus": "HELD_INSUFFICIENT_DETAIL",
+      "passed": true
+    },
+    {
+      "sakeId": "kirakucho-lvvrsw-4",
+      "width": 375,
+      "length": 47,
+      "sourceStatus": "REWRITTEN",
+      "passed": true
+    },
+    {
+      "sakeId": "kikuhime-yamahai-junmai",
+      "width": 375,
+      "length": 53,
+      "sourceStatus": "REWRITTEN",
+      "passed": true
+    },
+    {
+      "sakeId": "haneya-kirabi-nama-genshu-v1",
+      "width": 375,
+      "length": 44,
+      "sourceStatus": "REWRITTEN",
+      "passed": true
+    },
+    {
+      "sakeId": "ine-to-agave-doburoku6-v1",
+      "width": 375,
+      "length": 52,
+      "sourceStatus": "REWRITTEN",
+      "passed": true
+    },
+    {
+      "sakeId": "mio-sparkling-lineup-v1",
+      "width": 375,
+      "length": 26,
+      "sourceStatus": "REWRITTEN",
+      "passed": true
+    },
+    {
+      "sakeId": "koshijifubuki-akiagari-2026-catalog-v1",
+      "width": 375,
+      "length": 34,
+      "sourceStatus": "REWRITTEN",
+      "passed": true
+    },
+    {
+      "sakeId": "kikko-hanabishi-hdomtl-4",
+      "width": 375,
+      "length": 37,
+      "sourceStatus": "UNCHANGED_GOOD",
+      "passed": true
+    },
+    {
+      "sakeId": "murayu-kuro",
+      "width": 375,
+      "length": 30,
+      "sourceStatus": "HELD_NO_SOURCE",
+      "passed": true
+    },
+    {
+      "sakeId": "nogomi-tokubetsu-junmai",
+      "width": 390,
+      "length": 33,
+      "sourceStatus": "REWRITTEN",
+      "passed": true
+    },
+    {
+      "sakeId": "koimari-saki",
+      "width": 390,
+      "length": 58,
+      "sourceStatus": "REWRITTEN",
+      "passed": true
+    },
+    {
+      "sakeId": "kokushi-muso-junmai",
+      "width": 390,
+      "length": 20,
+      "sourceStatus": "REWRITTEN",
+      "passed": true
+    },
+    {
+      "sakeId": "dassai-45",
+      "width": 390,
+      "length": 24,
+      "sourceStatus": "REWRITTEN",
+      "passed": true
+    },
+    {
+      "sakeId": "hakkaisan-tokubetsu-honjozo",
+      "width": 390,
+      "length": 16,
+      "sourceStatus": "HELD_INSUFFICIENT_DETAIL",
+      "passed": true
+    },
+    {
+      "sakeId": "kirakucho-lvvrsw-4",
+      "width": 390,
+      "length": 47,
+      "sourceStatus": "REWRITTEN",
+      "passed": true
+    },
+    {
+      "sakeId": "kikuhime-yamahai-junmai",
+      "width": 390,
+      "length": 53,
+      "sourceStatus": "REWRITTEN",
+      "passed": true
+    },
+    {
+      "sakeId": "haneya-kirabi-nama-genshu-v1",
+      "width": 390,
+      "length": 44,
+      "sourceStatus": "REWRITTEN",
+      "passed": true
+    },
+    {
+      "sakeId": "ine-to-agave-doburoku6-v1",
+      "width": 390,
+      "length": 52,
+      "sourceStatus": "REWRITTEN",
+      "passed": true
+    },
+    {
+      "sakeId": "mio-sparkling-lineup-v1",
+      "width": 390,
+      "length": 26,
+      "sourceStatus": "REWRITTEN",
+      "passed": true
+    },
+    {
+      "sakeId": "koshijifubuki-akiagari-2026-catalog-v1",
+      "width": 390,
+      "length": 34,
+      "sourceStatus": "REWRITTEN",
+      "passed": true
+    },
+    {
+      "sakeId": "kikko-hanabishi-hdomtl-4",
+      "width": 390,
+      "length": 37,
+      "sourceStatus": "UNCHANGED_GOOD",
+      "passed": true
+    },
+    {
+      "sakeId": "murayu-kuro",
+      "width": 390,
+      "length": 30,
+      "sourceStatus": "HELD_NO_SOURCE",
+      "passed": true
+    },
+    {
+      "sakeId": "nogomi-tokubetsu-junmai",
+      "width": 430,
+      "length": 33,
+      "sourceStatus": "REWRITTEN",
+      "passed": true
+    },
+    {
+      "sakeId": "koimari-saki",
+      "width": 430,
+      "length": 58,
+      "sourceStatus": "REWRITTEN",
+      "passed": true
+    },
+    {
+      "sakeId": "kokushi-muso-junmai",
+      "width": 430,
+      "length": 20,
+      "sourceStatus": "REWRITTEN",
+      "passed": true
+    },
+    {
+      "sakeId": "dassai-45",
+      "width": 430,
+      "length": 24,
+      "sourceStatus": "REWRITTEN",
+      "passed": true
+    },
+    {
+      "sakeId": "hakkaisan-tokubetsu-honjozo",
+      "width": 430,
+      "length": 16,
+      "sourceStatus": "HELD_INSUFFICIENT_DETAIL",
+      "passed": true
+    },
+    {
+      "sakeId": "kirakucho-lvvrsw-4",
+      "width": 430,
+      "length": 47,
+      "sourceStatus": "REWRITTEN",
+      "passed": true
+    },
+    {
+      "sakeId": "kikuhime-yamahai-junmai",
+      "width": 430,
+      "length": 53,
+      "sourceStatus": "REWRITTEN",
+      "passed": true
+    },
+    {
+      "sakeId": "haneya-kirabi-nama-genshu-v1",
+      "width": 430,
+      "length": 44,
+      "sourceStatus": "REWRITTEN",
+      "passed": true
+    },
+    {
+      "sakeId": "ine-to-agave-doburoku6-v1",
+      "width": 430,
+      "length": 52,
+      "sourceStatus": "REWRITTEN",
+      "passed": true
+    },
+    {
+      "sakeId": "mio-sparkling-lineup-v1",
+      "width": 430,
+      "length": 26,
+      "sourceStatus": "REWRITTEN",
+      "passed": true
+    },
+    {
+      "sakeId": "koshijifubuki-akiagari-2026-catalog-v1",
+      "width": 430,
+      "length": 34,
+      "sourceStatus": "REWRITTEN",
+      "passed": true
+    },
+    {
+      "sakeId": "kikko-hanabishi-hdomtl-4",
+      "width": 430,
+      "length": 37,
+      "sourceStatus": "UNCHANGED_GOOD",
+      "passed": true
+    },
+    {
+      "sakeId": "murayu-kuro",
+      "width": 430,
+      "length": 30,
+      "sourceStatus": "HELD_NO_SOURCE",
+      "passed": true
+    },
+    {
+      "sakeId": "nogomi-tokubetsu-junmai",
+      "width": 1280,
+      "length": 33,
+      "sourceStatus": "REWRITTEN",
+      "passed": true
+    },
+    {
+      "sakeId": "koimari-saki",
+      "width": 1280,
+      "length": 58,
+      "sourceStatus": "REWRITTEN",
+      "passed": true
+    },
+    {
+      "sakeId": "kokushi-muso-junmai",
+      "width": 1280,
+      "length": 20,
+      "sourceStatus": "REWRITTEN",
+      "passed": true
+    },
+    {
+      "sakeId": "dassai-45",
+      "width": 1280,
+      "length": 24,
+      "sourceStatus": "REWRITTEN",
+      "passed": true
+    },
+    {
+      "sakeId": "hakkaisan-tokubetsu-honjozo",
+      "width": 1280,
+      "length": 16,
+      "sourceStatus": "HELD_INSUFFICIENT_DETAIL",
+      "passed": true
+    },
+    {
+      "sakeId": "kirakucho-lvvrsw-4",
+      "width": 1280,
+      "length": 47,
+      "sourceStatus": "REWRITTEN",
+      "passed": true
+    },
+    {
+      "sakeId": "kikuhime-yamahai-junmai",
+      "width": 1280,
+      "length": 53,
+      "sourceStatus": "REWRITTEN",
+      "passed": true
+    },
+    {
+      "sakeId": "haneya-kirabi-nama-genshu-v1",
+      "width": 1280,
+      "length": 44,
+      "sourceStatus": "REWRITTEN",
+      "passed": true
+    },
+    {
+      "sakeId": "ine-to-agave-doburoku6-v1",
+      "width": 1280,
+      "length": 52,
+      "sourceStatus": "REWRITTEN",
+      "passed": true
+    },
+    {
+      "sakeId": "mio-sparkling-lineup-v1",
+      "width": 1280,
+      "length": 26,
+      "sourceStatus": "REWRITTEN",
+      "passed": true
+    },
+    {
+      "sakeId": "koshijifubuki-akiagari-2026-catalog-v1",
+      "width": 1280,
+      "length": 34,
+      "sourceStatus": "REWRITTEN",
+      "passed": true
+    },
+    {
+      "sakeId": "kikko-hanabishi-hdomtl-4",
+      "width": 1280,
+      "length": 37,
+      "sourceStatus": "UNCHANGED_GOOD",
+      "passed": true
+    },
+    {
+      "sakeId": "murayu-kuro",
+      "width": 1280,
+      "length": 30,
+      "sourceStatus": "HELD_NO_SOURCE",
+      "passed": true
+    }
+  ],
+  "flows": [
+    {
+      "engine": "webkit",
+      "width": 320,
+      "search": true,
+      "back": true,
+      "purchase": true,
+      "favorites": true,
+      "food": true,
+      "localSakana": true,
+      "nights": true,
+      "discover": true,
+      "share": "existing native share untouched",
+      "oldUrl": true,
+      "passed": true
+    },
+    {
+      "engine": "webkit",
+      "width": 360,
+      "search": true,
+      "back": true,
+      "purchase": true,
+      "favorites": true,
+      "food": true,
+      "localSakana": true,
+      "nights": true,
+      "discover": true,
+      "share": "existing native share untouched",
+      "oldUrl": true,
+      "passed": true
+    },
+    {
+      "engine": "webkit",
+      "width": 375,
+      "search": true,
+      "back": true,
+      "purchase": true,
+      "favorites": true,
+      "food": true,
+      "localSakana": true,
+      "nights": true,
+      "discover": true,
+      "share": "existing native share untouched",
+      "oldUrl": true,
+      "passed": true
+    },
+    {
+      "engine": "webkit",
+      "width": 390,
+      "search": true,
+      "back": true,
+      "purchase": true,
+      "favorites": true,
+      "food": true,
+      "localSakana": true,
+      "nights": true,
+      "discover": true,
+      "share": "existing native share untouched",
+      "oldUrl": true,
+      "passed": true
+    },
+    {
+      "engine": "webkit",
+      "width": 430,
+      "search": true,
+      "back": true,
+      "purchase": true,
+      "favorites": true,
+      "food": true,
+      "localSakana": true,
+      "nights": true,
+      "discover": true,
+      "share": "existing native share untouched",
+      "oldUrl": true,
+      "passed": true
+    },
+    {
+      "engine": "chromium",
+      "width": 1280,
+      "search": true,
+      "back": true,
+      "purchase": true,
+      "favorites": true,
+      "food": true,
+      "localSakana": true,
+      "nights": true,
+      "discover": true,
+      "share": "clipboard verified",
+      "oldUrl": true,
+      "passed": true
+    }
+  ],
+  "errors": [],
+  "prefetchWarnings": [],
+  "strictConsolePassed": true,
+  "physicalIphone": false,
+  "physicalAndroid": false,
+  "passed": true
+}

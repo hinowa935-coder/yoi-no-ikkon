@@ -1,0 +1,19 @@
+{
+  "checkedAt": "2026-10-23T08:46:07.731Z",
+  "files": [
+    "scripts/local-sakana-national-checklist.mjs",
+    "scripts/local-sakana-national-editorial.mjs",
+    "scripts/local-sakana-national-plan.mjs",
+    "scripts/local-sakana-national-reasons.mjs",
+    "scripts/local-sakana-national.mjs",
+    "scripts/prepare-local-sakana-national.mjs",
+    "scripts/qa-local-sakana-national-all.mjs",
+    "scripts/qa-local-sakana-national.mjs",
+    "scripts/report-local-sakana-national.mjs",
+    "scripts/review-national-creatives.mjs",
+    "scripts/verify-local-sakana-national-browser.mjs",
+    "scripts/verify-local-sakana-national-pwa.mjs",
+    "scripts/verify-local-sakana-national-regression.mjs"
+  ],
+  "passed": true
+}

@@ -1,0 +1,364 @@
+{
+  "rows": [
+    {
+      "number": 1,
+      "item": "開始ACTIVE酒数",
+      "result": 484
+    },
+    {
+      "number": 2,
+      "item": "prefecture欠損",
+      "result": 0
+    },
+    {
+      "number": 3,
+      "item": "開始master",
+      "result": 67
+    },
+    {
+      "number": 4,
+      "item": "開始表示specialty",
+      "result": 65
+    },
+    {
+      "number": 5,
+      "item": "開始肴表示酒",
+      "result": 255
+    },
+    {
+      "number": 6,
+      "item": "開始pairing",
+      "result": 352
+    },
+    {
+      "number": 7,
+      "item": "調査完了都道府県数",
+      "result": 47
+    },
+    {
+      "number": 8,
+      "item": "47県完了有無",
+      "result": "完了（公開47県という意味ではない）"
+    },
+    {
+      "number": 9,
+      "item": "candidate総数",
+      "result": 315
+    },
+    {
+      "number": 10,
+      "item": "採用候補",
+      "result": 79
+    },
+    {
+      "number": 11,
+      "item": "HELD",
+      "result": 236
+    },
+    {
+      "number": 12,
+      "item": "REJECT",
+      "result": 0
+    },
+    {
+      "number": 13,
+      "item": "REJECT理由内訳",
+      "result": "食品候補のREJECTは0。商品単位の除外は24〜27を参照"
+    },
+    {
+      "number": 14,
+      "item": "県別candidate数",
+      "result": "prefectures.csv / 下記47県表"
+    },
+    {
+      "number": 15,
+      "item": "最終master",
+      "result": 79
+    },
+    {
+      "number": 16,
+      "item": "最終表示specialty",
+      "result": 75
+    },
+    {
+      "number": 17,
+      "item": "新規specialty",
+      "result": 12
+    },
+    {
+      "number": 18,
+      "item": "既存維持",
+      "result": 67
+    },
+    {
+      "number": 19,
+      "item": "既存変更",
+      "result": 0
+    },
+    {
+      "number": 20,
+      "item": "canonical merge",
+      "result": "0（調理法・食品と完成料理を勝手に統合しない）"
+    },
+    {
+      "number": 21,
+      "item": "楽天確認数",
+      "result": "291食品検索（74再利用＋217新規）＋6補助検索。重点13商品の現行ページ・正式画像を審査。既存67offerは根拠日付を維持"
+    },
+    {
+      "number": 22,
+      "item": "通常購入可能",
+      "result": "新規12/12を現行販売UIで確認。既存67/67は保存済み承認を維持、79を全件新規在庫確認したとは扱わない"
+    },
+    {
+      "number": 23,
+      "item": "正式画像あり",
+      "result": "79（既存67＋新規12。重点発行13のうち保留1は非公開）"
+    },
+    {
+      "number": 24,
+      "item": "ふるさと納税除外",
+      "result": "640 URL / 検索取得内の明記商品。食品候補の除外数ではない"
+    },
+    {
+      "number": 25,
+      "item": "bulk除外",
+      "result": "70 URL / 業務用等が商品名に明記されたもののみ。量だけで推測しない"
+    },
+    {
+      "number": 26,
+      "item": "gift-only除外",
+      "result": "未確定。giftの語だけで専用品と断定しない。新規採用12には専用ギフトを選んでいない"
+    },
+    {
+      "number": 27,
+      "item": "identity不明",
+      "result": "重点審査1（丸焼き鯖の200g/350g不一致）。未精査検索結果の全件数を推測しない"
+    },
+    {
+      "number": 28,
+      "item": "HELD commerce",
+      "result": "食品HELD 236。重点商品審査HELD 1。販売不存在とは断定しない"
+    },
+    {
+      "number": 29,
+      "item": "肴表示酒数",
+      "result": 266
+    },
+    {
+      "number": 30,
+      "item": "全ACTIVE coverage",
+      "result": "266/484 = 54.96%"
+    },
+    {
+      "number": 31,
+      "item": "pairing総数",
+      "result": 378
+    },
+    {
+      "number": 32,
+      "item": "high",
+      "result": 0
+    },
+    {
+      "number": 33,
+      "item": "medium",
+      "result": 378
+    },
+    {
+      "number": 34,
+      "item": "low非表示",
+      "result": 0
+    },
+    {
+      "number": 35,
+      "item": "1品表示酒",
+      "result": 164
+    },
+    {
+      "number": 36,
+      "item": "2品表示酒",
+      "result": 92
+    },
+    {
+      "number": 37,
+      "item": "3品表示酒",
+      "result": 10
+    },
+    {
+      "number": 38,
+      "item": "0品酒",
+      "result": 218
+    },
+    {
+      "number": 39,
+      "item": "editorialPairing",
+      "result": 378
+    },
+    {
+      "number": 40,
+      "item": "officialPairing",
+      "result": 0
+    },
+    {
+      "number": 41,
+      "item": "communityPairing",
+      "result": 0
+    },
+    {
+      "number": 42,
+      "item": "specialty別表示回数",
+      "result": "pairing-distribution.json"
+    },
+    {
+      "number": 43,
+      "item": "最大偏重specialty",
+      "result": "かんずり酒盗 / 22酒"
+    },
+    {
+      "number": 44,
+      "item": "duplicate reason",
+      "result": "新規26組の完全一致0。既存の一致はduplicate-reasons.jsonに保存し無断改稿しない"
+    },
+    {
+      "number": 45,
+      "item": "47都道府県全項目",
+      "result": "prefecture-audit.json / prefectures.csv / 下表。沖縄ACTIVE0、愛知は個別酒質不足で未表示"
+    },
+    {
+      "number": 46,
+      "item": "section位置維持",
+      "result": "未完了 / 料理→土地の肴→夜。アプリソース変更なし"
+    },
+    {
+      "number": 47,
+      "item": "summary仕様",
+      "result": "未完了 / 最大3・閉時0画像・0件section非表示"
+    },
+    {
+      "number": 48,
+      "item": "price非表示",
+      "result": "維持。新規price UI追加なし"
+    },
+    {
+      "number": 49,
+      "item": "rating非表示",
+      "result": "維持。評価を取得・推薦に利用しない"
+    },
+    {
+      "number": 50,
+      "item": "ranking非表示",
+      "result": "維持。新規守口漬は公式画像選択から順位バッジなし画像を再発行"
+    },
+    {
+      "number": 51,
+      "item": "affiliate表記",
+      "result": "未完了 / CTAごとの広告表記、sponsored・noopener"
+    },
+    {
+      "number": 52,
+      "item": "320px",
+      "result": "未完了"
+    },
+    {
+      "number": 53,
+      "item": "360px",
+      "result": "未完了"
+    },
+    {
+      "number": 54,
+      "item": "375px",
+      "result": "未完了"
+    },
+    {
+      "number": 55,
+      "item": "390px",
+      "result": "未完了"
+    },
+    {
+      "number": 56,
+      "item": "430px",
+      "result": "未完了"
+    },
+    {
+      "number": 57,
+      "item": "1280px",
+      "result": "未完了"
+    },
+    {
+      "number": 58,
+      "item": "accessibility",
+      "result": "未完了 / Enter・Space・aria・44px・フォーカス・幅"
+    },
+    {
+      "number": 59,
+      "item": "tests",
+      "result": "成功 / 214件"
+    },
+    {
+      "number": 60,
+      "item": "typecheck",
+      "result": "成功"
+    },
+    {
+      "number": 61,
+      "item": "lint",
+      "result": "成功"
+    },
+    {
+      "number": 62,
+      "item": "build",
+      "result": "成功 / Webpack＋postbuild。既知Turbopack問題の再調査は範囲外"
+    },
+    {
+      "number": 63,
+      "item": "code / syntax",
+      "result": "成功 / JSON構造・source diff・node --check"
+    },
+    {
+      "number": 64,
+      "item": "secret scan",
+      "result": "成功 / 実秘密値・env追跡・公開出力。CSP/依存変更なし"
+    },
+    {
+      "number": 65,
+      "item": "production deploy",
+      "result": "未反映"
+    },
+    {
+      "number": 66,
+      "item": "全ACTIVEページ",
+      "result": "未完了"
+    },
+    {
+      "number": 67,
+      "item": "specialty対象全ページ",
+      "result": "未完了"
+    },
+    {
+      "number": 68,
+      "item": "PWA確認",
+      "result": "未完了 / WebKit＋Chromium、旧→新、同一ID保存・再読込"
+    },
+    {
+      "number": 69,
+      "item": "PWA警告",
+      "result": "未完了"
+    },
+    {
+      "number": 70,
+      "item": "実機iPhone",
+      "result": "未確認。WebKit幅検証と区別"
+    },
+    {
+      "number": 71,
+      "item": "実機Android",
+      "result": "未確認。Chromium幅検証と区別"
+    },
+    {
+      "number": 72,
+      "item": "残課題",
+      "result": "HELD食品・公式在庫や画像の変化・情報不足25酒・実機確認。既存352理由の一部は短い特徴引用を含むが保存指示を優先し無断改稿なし。Phase 3へ進まない"
+    }
+  ]
+}

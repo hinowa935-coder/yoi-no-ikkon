@@ -6,14 +6,15 @@ import descriptions from '../src/data/tasteDescriptions.json' with {type:'json'}
 import {buildTasteDescription,missingTasteDescription} from '../src/data/tasteDescription.js';
 import {visibleSakePairings,buildSakeListSummary} from '../src/data/siteData.js';
 import {reviewedTasteRewrite} from './lib/reviewed-taste-rewrite.mjs';
+import {reviewedLocalSakanaNational} from './lib/reviewed-local-sakana-national.mjs';
 const baseline=JSON.parse(fs.readFileSync(new URL('../docs/taste-rewrite/baseline.json',import.meta.url)));
 const hash=s=>createHash('sha256').update(s).digest('hex');
 test('every production ACTIVE has a reviewed editorial record, without changing the sake catalog or list summaries',()=>{
  assert.equal(visibleSakePairings.length,baseline.productionSitemapActive);assert.equal(Object.keys(descriptions.records).length,visibleSakePairings.length);assert.equal(hash(JSON.stringify(visibleSakePairings)),baseline.itemsHash);
  for(const i of visibleSakePairings){assert(descriptions.records[i.id]);assert.equal(buildSakeListSummary(i),baseline.summaries.find(s=>s.sakeId===i.id).text);}
 });
-test('all existing data, purchases, images, pairings, nights, temperatures, PWA and styling retain exact bytes',()=>{
- for(const f of baseline.files){const actual=hash(fs.readFileSync(new URL('../'+f.path,import.meta.url)));assert(actual===f.sha256||reviewedTasteRewrite(f.path,f.sha256,actual),f.path);}
+test('taste rewrite protection permits only the later exactly reviewed local-food append',()=>{
+ for(const f of baseline.files){const actual=hash(fs.readFileSync(new URL('../'+f.path,import.meta.url)));assert(actual===f.sha256||reviewedTasteRewrite(f.path,f.sha256,actual)||reviewedLocalSakanaNational(f.path,f.sha256,actual),f.path);}
  assert(!reviewedTasteRewrite('src/data/discovery.js','wrong','wrong'));assert(!reviewedTasteRewrite('src/app/sake/[slug]/page.jsx','wrong','wrong'));
 });
 test('nonempty rewrites have value-level or reviewed current-product evidence, and no fabricated classification prose',()=>{
