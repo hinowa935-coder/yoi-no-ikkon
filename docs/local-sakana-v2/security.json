@@ -1,7 +1,7 @@
 {
-  "checkedAt": "2026-10-22T16:21:25.552Z",
+  "checkedAt": "2026-10-23T02:03:38.547Z",
   "scan": {
-    "scannedFiles": 9003,
+    "scannedFiles": 9010,
     "unreadableFiles": 0,
     "findings": [],
     "passed": true,
@@ -17,9 +17,11 @@
   "sourceChanges": [
     "src/commerce/localSakana.json",
     "src/specialties/master.json",
-    "src/specialties/pairings.json"
+    "src/specialties/pairings.json",
+    "vercel.json"
   ],
-  "cspChanged": false,
+  "cspChanged": true,
+  "cspChange": "Only add https://image.rakuten.co.jp to img-src after observing the official gateway redirect. No wildcards, HTTP, script or connect broadening.",
   "dependenciesChanged": false,
   "piiTelemetryChanged": false,
   "passed": true
