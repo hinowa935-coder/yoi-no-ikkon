@@ -1,0 +1,16 @@
+[build]
+  command = "node scripts/build-netlify.mjs"
+  publish = "out"
+
+[build.environment]
+  NODE_VERSION = "24"
+  NETLIFY_NEXT_PLUGIN_SKIP = "true"
+  NETLIFY_MIGRATION_STAGE = "preview"
+  # Public feature flags, not API credentials or private creative URLs.
+  AFFILIATE_ENABLED = "true"
+  AFFILIATE_REGISTERED_SITE = "https://yoi-no-ikkon.vercel.app/"
+  AFFILIATE_RAKUTEN_ENABLED = "true"
+  AFFILIATE_RAKUTEN_ROUTE = "rakuten"
+
+[build.processing]
+  skip_processing = true
