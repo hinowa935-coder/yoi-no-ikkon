@@ -1,11 +1,11 @@
 import master from './master.json' with {type:'json'};
 import pairingData from './pairings.json' with {type:'json'};
-import commerceData from '../commerce/localSakana.json' with {type:'json'};
+import commerceData from '../commerce/generated/netlify-specialty-ordinary.json' with {type:'json'};
 import {isHttps,sha256,staticCreativeIsSafe} from '../commerce/validation.js';
 import {getCanonicalFood} from '../data/foodCatalog.js';
 import {parseFragment} from 'parse5';
+import {COMMERCE_SITE as site} from '../data/siteIdentity.js';
 
-const site='https://yoi-no-ikkon.vercel.app/';
 const hosts=['hb.afl.rakuten.co.jp','hbb.afl.rakuten.co.jp'];
 export const localSpecialties=master.specialties;
 export const localSakanaPairings=pairingData.pairings;
@@ -24,7 +24,7 @@ export function verifiedSpecialtyCreative(offer){
 }
 
 export function specialtyCommerce(offer,config={},now=Date.now()){
- if(!offer||offer.operatorApproved!==true||offer.registeredSite!==site||!isHttps(offer.rakutenUrl,['item.rakuten.co.jp'])||Date.parse(offer.lastCheckedAt)>now||!Number.isFinite(Date.parse(offer.lastCheckedAt))||!(Date.parse(offer.validUntil)>now)||offer.availabilityStatus!=='AVAILABLE')return null;
+ if(!offer||offer.operatorApproved!==true||!isHttps(offer.rakutenUrl,['item.rakuten.co.jp'])||Date.parse(offer.lastCheckedAt)>now||!Number.isFinite(Date.parse(offer.lastCheckedAt))||!(Date.parse(offer.validUntil)>now)||offer.availabilityStatus!=='AVAILABLE')return null;
  const affiliate=config.enabled===true&&config.registeredSite===site&&config.enabledProviders?.includes('rakuten')&&config.routes?.rakuten==='rakuten'&&verifiedSpecialtyCreative(offer);
  return {url:affiliate?offer.affiliate.url:offer.rakutenUrl,isAffiliate:!!affiliate,merchant:offer.merchant,quantity:offer.quantity,validUntil:offer.validUntil,imageHtml:affiliate?offer.image.html:null};
 }

@@ -3,8 +3,9 @@
 import { useState } from "react";
 import { ChevronRight } from "lucide-react";
 import { trackEvent } from "../../data/telemetry.js";
+import { trackAnalytics } from "../../data/analytics.js";
 
-export default function DetailAccordion({ id, title, summary, defaultOpen = false, sakeId, section = id, className = "", children }) {
+export default function DetailAccordion({ id, title, summary, defaultOpen = false, sakeId, section = id, className = "", specialtyAnalytics, children }) {
   const [expanded, setExpanded] = useState(defaultOpen);
   const toggle = () => {
     const next = !expanded;
@@ -12,6 +13,7 @@ export default function DetailAccordion({ id, title, summary, defaultOpen = fals
     if (sakeId) trackEvent(next ? "detail_accordion_open" : "detail_accordion_close", {
       sakeId, section, entrySource: "sake_detail"
     });
+    if (next && specialtyAnalytics) trackAnalytics('local_specialty_open', specialtyAnalytics);
   };
 
   return <div className={`detail-accordion ${className}`}>

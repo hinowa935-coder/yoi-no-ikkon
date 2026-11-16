@@ -1,0 +1,99 @@
+{
+  "startedAt": "2026-11-15T17:48:48.558Z",
+  "localExportMappedToVerificationOrigin": true,
+  "siteDeployed": false,
+  "dashboardVerified": false,
+  "delivered": [
+    {
+      "requestOrder": 1,
+      "name": "page_view",
+      "status": 204,
+      "debug": true,
+      "manual": true,
+      "page": "/"
+    },
+    {
+      "requestOrder": 2,
+      "name": "page_view",
+      "status": 204,
+      "debug": true,
+      "manual": true,
+      "page": "/food"
+    },
+    {
+      "requestOrder": 2,
+      "name": "food_search",
+      "status": 204,
+      "debug": true,
+      "manual": true,
+      "page": "/food"
+    },
+    {
+      "requestOrder": 2,
+      "name": "page_view",
+      "status": 204,
+      "debug": true,
+      "manual": true,
+      "page": "/food/item-bxzivf"
+    },
+    {
+      "requestOrder": 2,
+      "name": "recommendation_select",
+      "status": 204,
+      "debug": true,
+      "manual": true,
+      "page": "/food/item-bxzivf"
+    },
+    {
+      "requestOrder": 2,
+      "name": "page_view",
+      "status": 204,
+      "debug": true,
+      "manual": true,
+      "page": "/sake/nogomi-tokubetsu-junmai"
+    },
+    {
+      "requestOrder": 2,
+      "name": "view_sake_detail",
+      "status": 204,
+      "debug": true,
+      "manual": true,
+      "page": "/sake/nogomi-tokubetsu-junmai"
+    },
+    {
+      "requestOrder": 2,
+      "name": "local_specialty_open",
+      "status": 204,
+      "debug": true,
+      "manual": true,
+      "page": "/sake/nogomi-tokubetsu-junmai"
+    },
+    {
+      "requestOrder": 2,
+      "name": "rakuten_click",
+      "status": 204,
+      "debug": true,
+      "manual": true,
+      "page": "/sake/nogomi-tokubetsu-junmai",
+      "placement": "sake_purchase"
+    }
+  ],
+  "blocked": [],
+  "retailerNetworkRequests": 0,
+  "officialTagStatus": 200,
+  "retailerNavigationIntercepted": true,
+  "originalRetailDestinationPreserved": true,
+  "internalClickCount": 1,
+  "counts": {
+    "page_view": 4,
+    "food_search": 1,
+    "recommendation_select": 1,
+    "view_sake_detail": 1,
+    "local_specialty_open": 1,
+    "rakuten_click": 1
+  },
+  "faults": [],
+  "passed": true,
+  "endedAt": "2026-11-15T17:48:57.819Z",
+  "inspectOnly": false
+}

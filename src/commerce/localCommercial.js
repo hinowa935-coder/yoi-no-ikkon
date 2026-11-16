@@ -2,8 +2,9 @@ import fs from "node:fs";
 import path from "node:path";
 import { productFingerprint, sha256, isHttps } from "./validation.js";
 import { classifyCommercial, current } from "../../scripts/lib/affiliate-commercial-match.mjs";
+import { COMMERCE_SITE } from '../data/siteIdentity.js';
 
-export const LOCAL_COMMERCIAL_SITE = "https://yoi-no-ikkon.vercel.app/";
+export const LOCAL_COMMERCIAL_SITE = COMMERCE_SITE;
 export const LOCAL_COMMERCIAL_TARGETS = Object.freeze({
   "hakurakusei-tokubetsu-junmai": Object.freeze({ capacityMl: 720, itemCode: "hasegawasaketen:10000311", productUrl: "https://item.rakuten.co.jp/hasegawasaketen/1001412/" }),
   "kamo-kinshu-tokubetsu-junmai": Object.freeze({ capacityMl: 1800, itemCode: "meishu-honpo:10001492", productUrl: "https://item.rakuten.co.jp/meishu-honpo/050130/" }),

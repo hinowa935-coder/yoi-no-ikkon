@@ -41,7 +41,8 @@ test('all selection options and explicit out-of-season recommendations remain av
 });
 test('runtime display uses Tokyo current date, not SSG build date or historic URL seed',()=>{
  const hook=fs.readFileSync('src/app/components/useCurrentTokyoDay.js','utf8');
- assert(hook.includes("timeZone:'Asia/Tokyo'"));
+ assert(hook.includes("import {tokyoDay} from '../../data/recommendationDate.js'"));
+ assert(fs.readFileSync('src/data/recommendationDate.js','utf8').includes("timeZone: 'Asia/Tokyo'"));
  assert(hook.includes('useSyncExternalStore'));
  assert(hook.includes("serverSnapshot=()=>''"));
  assert(hook.includes("window.addEventListener('pageshow'"));

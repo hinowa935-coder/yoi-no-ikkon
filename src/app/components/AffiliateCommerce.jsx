@@ -1,4 +1,5 @@
 import AffiliateTracker from "./AffiliateTracker.jsx";
+import ReviewedRakutenLink from './ReviewedRakutenLink.jsx';
 import { AMAZON_DISCLOSURE } from "../../commerce/providers.js";
 import {visiblePurchaseLinks,purchaseProvider,purchaseLabel} from '../../commerce/purchasePresentation.js';
 
@@ -7,11 +8,15 @@ export function AffiliateDisclosure({ amazon = false }) {
 }
 function Creative({ offer }) {
   if (offer.mode === "html") return <div className="affiliate-creative" dangerouslySetInnerHTML={{ __html: offer.html }} />;
+  if (offer.recoveredAffiliate && offer.normalFallback?.url) {
+    return <ReviewedRakutenLink link={{ ...offer, normalFallbackUrl: offer.normalFallback.url }} affiliate className="text-link"
+      fallbackLabel={purchaseLabel(offer.normalFallback) + " ↗"}>{purchaseLabel(offer)} ↗</ReviewedRakutenLink>;
+  }
   return <a href={offer.url} target="_blank" rel="sponsored noopener" className="text-link">{purchaseLabel(offer)} ↗</a>;
 }
 export function ProductLabelImage({ image }) {
   if (!image) return null;
-  return <figure className="product-label-image">
+  return <figure className="product-label-image" data-ga-rakuten-placement="sake_purchase">
     {image.isAdvertisement && <AffiliateDisclosure amazon={image.marketplace === "amazon"} />}
     {image.isLinkedCreative ? <AffiliateTracker offer={image}><Creative offer={image} /></AffiliateTracker> :
       <img src={image.src} alt={image.alt} width={image.width} height={image.height} className={image.resizeAllowed ? "label-resizable" : "label-original-size"} />}
@@ -23,9 +28,9 @@ export function AffiliateOffers({ offers }) {
   if (!offers.length) return null;
   return <section className="affiliate-offers" aria-label="購入先">
     <AffiliateDisclosure amazon={offers.some(o => o.marketplace === "amazon")} />
-    <div className="affiliate-offer-list">{offers.map(o => <div key={`${o.provider}:${o.productId || "search"}:${o.capacityMl || "search"}`}><AffiliateTracker offer={{ sakeId: o.sakeId, provider: o.provider, productId: o.productId, validUntil: o.validUntil, matchType: o.matchType || (o.capacityVariant ? "variant" : "exact"), destinationType: o.destinationType || "product_page", isAffiliate: true, matchConfidence:o.matchConfidence,sakeName:o.sakeName,prefecture:o.prefecture }}>
+    <div className="affiliate-offer-list">{offers.map(o => <div key={`${o.provider}:${o.productId || "search"}:${o.capacityMl || "search"}`}><AffiliateTracker offer={{ sakeId: o.sakeId, provider: o.provider, productId: o.productId, validUntil: o.validUntil, matchType: o.matchType || (o.capacityVariant ? "variant" : "exact"), destinationType: o.destinationType || "product_page", isAffiliate: true, matchConfidence:o.matchConfidence,sakeName:o.sakeName,prefecture:o.prefecture,hasTimedFallback:o.recoveredAffiliate===true&&!!o.normalFallback?.url }}>
       <p className="offer-store">広告 / {o.storeName}</p>{o.capacityMl && <p className="offer-capacity">{o.capacityMl}ml{o.capacityVariant ? " / 容量違い" : ""}</p>}<Creative offer={o} />
-    </AffiliateTracker>{o.normalFallback && <a className="text-link" href={o.normalFallback.url} target="_blank" rel="noopener">{o.normalFallback.destinationType === "product_page" ? "通常の商品ページを見る" : "通常の検索で探す"} ↗</a>}</div>)}</div>
+    </AffiliateTracker>{o.normalFallback && (o.normalFallback.normalFallbackUrl ? <ReviewedRakutenLink link={o.normalFallback} className="text-link">通常の商品ページを見る ↗</ReviewedRakutenLink> : <a className="text-link" href={o.normalFallback.url} target="_blank" rel="noopener">{o.normalFallback.destinationType === "product_page" ? "通常の商品ページを見る" : "通常の検索で探す"} ↗</a>)}</div>)}</div>
     <p className="muted-copy">価格・在庫・年度・容量は、購入先でご確認ください。リンク先は外部サイトです。</p>
   </section>;
 }
@@ -34,7 +39,7 @@ export function PurchaseDiscoveryLinks({ links, showNote = true }) {
   links=visiblePurchaseLinks(links);
   if (!links.length) return <p className="muted-copy">現在、ご案内できる購入先がありません。</p>;
   return <div className="purchase-discovery-links">
-    <div className="purchase-search-list">{links.map(link => <AffiliateTracker key={`${link.provider}:${link.url}`} offer={link}>
+    <div className="purchase-search-list">{links.map(link => link.normalFallbackUrl ? <div className="affiliate-offer" key={`${link.provider}:${link.url}`}><ReviewedRakutenLink link={link} className="yoi-button">{purchaseLabel(link)} ↗</ReviewedRakutenLink></div> : <AffiliateTracker key={`${link.provider}:${link.url}`} offer={link}>
       <a href={link.url} target="_blank" rel="noopener" className={link.destinationType === "product_page" ? "yoi-button" : "text-link"}>{purchaseLabel(link)} ↗</a>
       {(link.capacityMl||link.matchType === "variant") && <p className="offer-capacity">{link.matchType==='variant'?'容量違い / ':''}{link.capacityMl?`${link.capacityMl}ml`:''}</p>}
     </AffiliateTracker>)}</div>
@@ -49,7 +54,7 @@ export function PurchaseOptions({ offers, links, item }) {
   return <>{['rakuten','amazon','merchant'].map(provider=>{
     const selectedOffers=visibleOffers.filter(o=>purchaseProvider(o)===provider);
     const selectedLinks=visibleLinks.filter(l=>purchaseProvider(l)===provider);
-    return selectedOffers.length||selectedLinks.length ? <div key={provider} className={`purchase-provider ${provider==='rakuten'?'is-rakuten':''}`}>
+    return selectedOffers.length||selectedLinks.length ? <div key={provider} className={`purchase-provider ${provider==='rakuten'?'is-rakuten':''}`} data-ga-rakuten-placement={provider==='rakuten'?'sake_purchase':undefined}>
       <AffiliateOffers offers={selectedOffers} />
       {selectedLinks.length>0 && <PurchaseDiscoveryLinks links={selectedLinks} />}
     </div> : null;

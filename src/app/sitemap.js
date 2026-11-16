@@ -7,6 +7,8 @@ import {
 } from "../data/siteData";
 import { discoveryNights } from "../data/discovery.js";
 
+export const dynamic = 'force-static';
+
 export default function sitemap() {
   const now = new Date();
 

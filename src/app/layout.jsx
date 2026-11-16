@@ -1,11 +1,13 @@
 import "./globals.css";
 import PwaRegister from "./components/PwaRegister";
+import AnalyticsConsent from "./components/AnalyticsConsent.jsx";
 import { FavoritesProvider } from "./components/Ochoko.jsx";
 import CommerceMediaProvider from './components/CommerceMediaProvider.jsx';
-import {readCommerceConfig} from '../commerce/providers.js';
+import {SITE_URL} from '../data/siteIdentity.js';
+import {approvedSakeMedia,recoveredImageIds} from '../commerce/server.js';
 
 export const metadata = {
-  metadataBase: new URL("https://yoi-no-ikkon.vercel.app"),
+  metadataBase: new URL(SITE_URL),
   title: {
     default: "宵の一献｜日本酒と家庭料理のペアリング帳",
     template: "%s｜宵の一献",
@@ -20,7 +22,7 @@ export const metadata = {
     title: "宵の一献｜日本酒と家庭料理のペアリング帳",
     description:
       "日本酒と家庭料理のペアリングを、料理・銘柄・産地・味わい・今夜の気分から探せるサイトです。",
-    url: "https://yoi-no-ikkon.vercel.app/",
+    url: `${SITE_URL}/`,
     siteName: "宵の一献",
     locale: "ja_JP",
     type: "website",
@@ -69,13 +71,12 @@ export const viewport = {
 };
 
 export default function RootLayout({ children }) {
-  const commerce=readCommerceConfig(process.env);
-  const mediaEnabled=commerce.enabled&&commerce.enabledProviders.includes('rakuten')&&commerce.routes.rakuten==='rakuten'&&commerce.registeredSite==='https://yoi-no-ikkon.vercel.app/';
   return (
     <html lang="ja">
       <body>
-        <CommerceMediaProvider enabled={mediaEnabled}><FavoritesProvider>{children}</FavoritesProvider></CommerceMediaProvider>
+        <CommerceMediaProvider records={approvedSakeMedia()} recoveredIds={recoveredImageIds()}><FavoritesProvider>{children}</FavoritesProvider></CommerceMediaProvider>
         <PwaRegister />
+        <AnalyticsConsent />
       </body>
     </html>
   );

@@ -1,0 +1,41 @@
+{
+  "schemaVersion": 1,
+  "files": {
+    "src/commerce/foodSpecialties.json": {
+      "originalSha256": "d26b4d859a14c32d25e6d9378754046c2a50b6e71979f1a92071387ca8a76bec",
+      "publicSha256": "a19165b89d6f1965f875dea8edbec28a3711a1ead87cc9f0e513ede43ae73670"
+    },
+    "src/commerce/generated/netlify-creatives.json": {
+      "originalSha256": "8985653f39fc51d80974901b53e442aea45021bda80758c629186f385095886f",
+      "publicSha256": "c70bdc6c79b998655e2c7a91dfb4cc92e0c1d10b9723bb5e6604b5b8fe4a9d2e"
+    },
+    "src/commerce/generated/netlify-image-recovery.json": {
+      "originalSha256": "12dee89b0fe7c922171f01ca1ae1e0e7191746e721c979e59ae3dacffe362942",
+      "publicSha256": "bc5804ef6a5e7d26b08fad428f43cf810ae4abcf7bb03c34a084bacb2650e3cf"
+    },
+    "src/commerce/generated/product-media.json": {
+      "originalSha256": "d326ebbff567c545437b96d21b39d462fdf125efa70f1d57cfd139f6523888cd",
+      "publicSha256": "e538b79d974b0b81632369f6566f6a9f34869144dbcf2e6860f2b0b8ed80dd43"
+    },
+    "src/commerce/localSakana.json": {
+      "originalSha256": "65945b32436a69210be0d2a35ce70cbfabc99447dc301c162d369b432ea2daf1",
+      "publicSha256": "5ef009cca675786683205fa243a4c5fe235a5ba53f96955d1df7e2fc1291810d"
+    },
+    "src/commerce/generated/netlify-affiliate-recovery.json": {
+      "originalSha256": "d2c7be1260a599ce8b5e408061c42f734a2492daf4a23a3e02a679ace96337b4",
+      "publicSha256": "0502bbccfb8fbe0c446dd08f38c1353c8eb11f08d130a99d5700d6d7215a78e2"
+    },
+    "src/commerce/generated/netlify-release-approvals.json": {
+      "originalSha256": "cb6526428a43cc739219d558bbe6952ad3df4b6fb47eee6c39c16f43f4982e4d",
+      "publicSha256": "159e455e47d62c3c44df196b473d24df58f75267c6aaba68caf9d53726d39353"
+    },
+    "src/commerce/generated/netlify-purchase.json": {
+      "originalSha256": "7dd8c184c0fe725ca53040458c2dcfe8a8f2cd3449df16818c6edabf8c9122cb",
+      "publicSha256": "f35085a313d80b7db372ea0b29e54b2e1226b9f1146df6118d7514035ca878e2"
+    },
+    "src/commerce/generated/netlify-specialty-ordinary.json": {
+      "originalSha256": "7ee609c6248842af2445d861ab7cbda71942665ffb6b15ae68e969b3e5f8c03a",
+      "publicSha256": "6f542f015115b759f3c79bdf5600257160de2d1d0bfe3cc4c4e6fbb08a15f9c9"
+    }
+  }
+}

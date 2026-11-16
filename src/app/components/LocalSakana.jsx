@@ -28,7 +28,7 @@ function SakanaCard({card,sakeId}){
   if(expired||!sale||!(Date.parse(sale.validUntil)>Date.now())){event.preventDefault();setExpired(true);return;}
   trackEvent('specialty_click',parameters);trackEvent('specialty_rakuten_click',parameters);
  };
- return <article className="local-sakana-card" ref={ref}>
+ return <article className="local-sakana-card" ref={ref} data-ga-rakuten-placement="local_specialty" data-ga-specialty-id={card.id} data-ga-specialty-name={card.name}>
   <div className="local-sakana-image" role="group" aria-label={`${card.name}の商品画像。楽天市場へのリンク・広告`}>
    {near&&sale?.imageHtml&&!failed&&!expired?<div className="local-sakana-original" onClick={click} onAuxClick={click} onErrorCapture={()=>setFailed(true)} dangerouslySetInnerHTML={{__html:sale.imageHtml}}/>:<div className="local-sakana-placeholder"><OchokoIcon/><span>購入先で写真をご覧いただけます</span></div>}
   </div>
@@ -40,10 +40,10 @@ function SakanaCard({card,sakeId}){
  </article>;
 }
 
-export default function LocalSakana({cards,sakeId}){
+export default function LocalSakana({cards,sakeId,sakeName,prefecture}){
  if(!cards.length)return null;
  return <section className="detail-band local-sakana" aria-labelledby="sake-local-sakana-toggle">
-  <DetailAccordion id="sake-local-sakana" title="この土地の肴" summary={namesSummary(cards)} sakeId={sakeId} section="local_sakana">
+  <DetailAccordion id="sake-local-sakana" title="この土地の肴" summary={namesSummary(cards)} sakeId={sakeId} section="local_sakana" specialtyAnalytics={{sake_id:sakeId,sake_name:sakeName,prefecture,specialty_count:cards.length}}>
   <p className="local-sakana-lead">同じ土地から、もう一品。</p>
   <p className="local-sakana-note">土地の食文化と、お酒の味わいから考えた宵の一献の提案です。購入リンクには広告が含まれます。</p>
   <div className="local-sakana-grid">{cards.map(card=><SakanaCard key={card.id} card={card} sakeId={sakeId}/>)}</div>

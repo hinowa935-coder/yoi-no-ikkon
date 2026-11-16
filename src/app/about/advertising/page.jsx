@@ -1,6 +1,7 @@
 import DiscoveryShell from "../../components/DiscoveryShell.jsx";
 import { commerceDisclosureState } from "../../../commerce/server.js";
 import { AMAZON_DISCLOSURE } from "../../../commerce/providers.js";
+import { AnalyticsPreference } from '../../components/AnalyticsConsent.jsx';
 
 export const metadata = { title: "運営・広告について", description: "宵の一献の商品紹介と広告掲載の方針。", alternates: { canonical: "/about/advertising" } };
 export default function AdvertisingPage() {
@@ -15,5 +16,11 @@ export default function AdvertisingPage() {
     </section>
     <section className="detail-band"><h2>購入前にご確認ください</h2><p>価格・在庫・容量・製造年度・商品仕様は、リンク先の商品情報で最終確認をお願いします。画像と実際のラベルが異なる場合もあります。</p><p>お酒は20歳になってから。20歳未満の方の飲酒は法律で禁止されています。</p></section>
     <section className="detail-band"><h2>紹介内容について</h2><p>商品情報は蔵元や商品資料をもとに掲載しています。料理との組み合わせには、宵の一献による提案も含まれます。蔵元の紹介とは区別して表示しています。</p></section>
+    <section className="detail-band" id="analytics"><h2>プライバシーと利用状況の計測</h2>
+      <p>許可した場合に限り、Google Analytics 4でページの閲覧、料理の選択、日本酒の詳細表示、楽天への移動などを計測します。結果はサイトの改善に使います。</p>
+      <p>入力した検索語や楽天リンクの完全なURLはGoogleへ送信しません。許可しなくても、検索・保存・購入先の案内を利用できます。設定はこのページで変更できます。</p>
+      <p><a href="https://policies.google.com/technologies/partner-sites?hl=ja" target="_blank" rel="noopener noreferrer">Googleによるデータの利用について</a></p>
+      <AnalyticsPreference />
+    </section>
   </DiscoveryShell>;
 }

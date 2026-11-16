@@ -1,4 +1,5 @@
 import holds from './generated/availability-holds.json' with {type: 'json'};
+export function commerceAvailabilityHold(id) { return holds.records[id] ?? {}; }
 export function purchaseUnavailable(id) { return holds.records[id]?.purchaseBlocked === true; }
 export function imageDisplayUnavailable(id) { return holds.records[id]?.hideImage === true; }
 export function unavailableSearchLink(item) {

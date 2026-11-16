@@ -1,0 +1,20 @@
+[build]
+  command = "node scripts/build-netlify.mjs"
+  publish = "out"
+
+[build.environment]
+  NODE_VERSION = "24"
+  NETLIFY_NEXT_PLUGIN_SKIP = "true"
+  NETLIFY_MIGRATION_STAGE = "preview"
+  # Public feature flags, not API credentials or private creative URLs.
+  AFFILIATE_ENABLED = "false"
+  AFFILIATE_REGISTERED_SITE = "https://yoi-no-ikkon.netlify.app/"
+  AFFILIATE_RAKUTEN_ENABLED = "true"
+  AFFILIATE_RAKUTEN_ROUTE = "rakuten"
+
+[build.processing]
+  skip_processing = true
+
+[context.netlify-public-release-20261116.environment]
+  NEXT_PUBLIC_GA_RELEASE_PREVIEW = "true"
+  NEXT_PUBLIC_GA_MEASUREMENT_ID = "G-P83M4NJFCK"

@@ -3,12 +3,13 @@ import { releaseApprovedOffer } from "./purchaseRouting.js";
 import { rakutenStagedState } from "./rakutenLifecycle.js";
 import { publicAffiliateHrefIsSafe } from "./localCommercial.js";
 import { classifyCommercial, normalizeProductName } from "../../scripts/lib/affiliate-commercial-match.mjs";
+import { COMMERCE_SITE } from '../data/siteIdentity.js';
 
 // Independent commercial identity + original creative + explicit production release approval.
 // A pending record or a local pilot approval alone is never sufficient.
 export function projectApprovedRakutenLink(item, staged, approvals, config, env = {}, now = Date.now()) {
   try {
-    if (!config?.enabled || config.registeredSite !== "https://yoi-no-ikkon.vercel.app/" ||
+    if (!config?.enabled || config.registeredSite !== COMMERCE_SITE ||
         !config.enabledProviders?.includes("rakuten") || config.routes?.rakuten !== "rakuten") return null;
     if (rakutenStagedState(item, staged, now)?.status !== "PENDING_APPROVAL") return null;
     const row = staged.links.find(r => r.sakeId === item.id && r.productFingerprint === productFingerprint(item));

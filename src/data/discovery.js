@@ -10,6 +10,7 @@ import { refineGroundedPairing } from "./groundedPairingCopy.js";
 import { refineHighExposurePairing } from "./highExposurePairingCopy.js";
 import { nightAffinity } from "./nightAffinity.js";
 import { canonicalFoodName, canonicalFoodNames, canonicalizeFoodText, getCanonicalFood } from './foodCatalog.js';
+import {explicitRecommendationDay, tokyoDay, recommendationRotationDay} from './recommendationDate.js';
 export { nightAffinity } from "./nightAffinity.js";
 
 export { discoveryDishes, discoveryNights, foodDirections };
@@ -24,8 +25,8 @@ export function rotationHash(text) {
   for (const char of String(text)) hash = Math.imul(hash ^ char.codePointAt(0), 16777619);
   return hash >>> 0;
 }
-export function daySeed(date = new Date()) {
-  return new Intl.DateTimeFormat("en-CA", { timeZone: "Asia/Tokyo", year: "numeric", month: "2-digit", day: "2-digit" }).format(date);
+export function daySeed(date) {
+  return tokyoDay(date);
 }
 export function dishProfile(name) {
   name = canonicalFoodName(name);
@@ -112,21 +113,25 @@ function tasteSources(item, re) {
   return [...new Set((item.sakeResearch.featureEvidence || []).filter(e => re.test(e.feature)).map(e => e.sourceUrl)
     .concat((item.sakeResearch.fieldEvidence || []).filter(e => e.field.startsWith("flavorProfile.") && re.test(String(e.value))).map(e => e.sourceUrl)))];
 }
-export function recommendationPool(dish, nightId = "ordinary", date = new Date()) {
-  const candidates = discoveryProducts.filter(isDiscoverySake).filter(item=>seasonallyRecommended(item,date)).map(item => ({ item, ...scorePairing(item, dish, nightId) })).filter(r => r.strength >= 6 && r.nightAffinity.score > 0);
+export function recommendationPool(dish, nightId = "ordinary", date) {
+  const day = tokyoDay(date);
+  const candidates = discoveryProducts.filter(isDiscoverySake).filter(item=>seasonallyRecommended(item,day)).map(item => ({ item, ...scorePairing(item, dish, nightId) })).filter(r => r.strength >= 6 && r.nightAffinity.score > 0);
   const top = Math.max(0, ...candidates.map(r => r.score));
   return candidates.filter(r => r.score >= Math.max(6, top - 5));
 }
 export function recommendSake(dish, nightId = "ordinary", seed = "v1", limit = 3) {
   dish = canonicalFoodName(dish);
-  const eligible = recommendationPool(dish, nightId, /^\d{4}-\d{2}-\d{2}$/.test(seed) ? seed : new Date());
+  const explicitDay = explicitRecommendationDay(seed);
+  const day = explicitDay || daySeed();
+  const rotationSeed = explicitDay ? recommendationRotationDay(day) : seed;
+  const eligible = recommendationPool(dish, nightId, day);
   const strongestNight = Math.max(0,...eligible.map(r=>r.nightAffinity.score));
   // Rotate within a grounded affinity band, rather than repeating one maximum-score sake everywhere.
   let threshold=Math.max(1,strongestNight-35);
   let band=eligible.filter(r=>r.nightAffinity.score>=threshold);
   while(new Set(band.map(r=>r.item.brewery)).size<limit && threshold>1){threshold=Math.max(1,threshold-10);band=eligible.filter(r=>r.nightAffinity.score>=threshold);}
   const pool = band.sort((a, b) =>
-    rotationHash(`${seed}:${nightId}:${dish}:${a.item.id}`) - rotationHash(`${seed}:${nightId}:${dish}:${b.item.id}`)).slice(0, 60);
+    rotationHash(`${rotationSeed}:${nightId}:${dish}:${a.item.id}`) - rotationHash(`${rotationSeed}:${nightId}:${dish}:${b.item.id}`) || (a.item.id < b.item.id ? -1 : a.item.id > b.item.id ? 1 : 0)).slice(0, 60);
   const chosen = [];
   while (pool.length && chosen.length < limit) {
     const index = pool.findIndex(r => !chosen.some(c => c.item.brewery === r.item.brewery || c.item.prefecture === r.item.prefecture));
@@ -136,8 +141,11 @@ export function recommendSake(dish, nightId = "ordinary", seed = "v1", limit = 3
   return chosen;
 }
 export function suggestDishes(nightId, directionId, seed = "v1", limit = 6) {
-  return discoveryDishes.filter(d => d.directions.includes(directionId) && recommendationPool(d.name, nightId).length >= 3)
-    .sort((a, b) => rotationHash(`${seed}:${nightId}:${a.name}`) - rotationHash(`${seed}:${nightId}:${b.name}`)).slice(0, limit);
+  const explicitDay = explicitRecommendationDay(seed);
+  const day = explicitDay || daySeed();
+  const normalizedSeed = explicitDay || seed;
+  return discoveryDishes.filter(d => d.directions.includes(directionId) && recommendationPool(d.name, nightId, day).length >= 3)
+    .sort((a, b) => rotationHash(`${normalizedSeed}:${nightId}:${a.name}`) - rotationHash(`${normalizedSeed}:${nightId}:${b.name}`)).slice(0, limit);
 }
 export function dishesForSake(item, seed = "v1") {
   const names = canonicalFoodNames([...item.yoiPairings, ...discoveryDishes.map(d => d.name),

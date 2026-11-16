@@ -7,6 +7,7 @@ import {buildTasteDescription,missingTasteDescription} from '../src/data/tasteDe
 import {visibleSakePairings,buildSakeListSummary} from '../src/data/siteData.js';
 import {reviewedTasteRewrite} from './lib/reviewed-taste-rewrite.mjs';
 import {reviewedLocalSakanaNational} from './lib/reviewed-local-sakana-national.mjs';
+import {reviewedDetailDisclosure} from './lib/reviewed-detail-disclosure.mjs';
 const baseline=JSON.parse(fs.readFileSync(new URL('../docs/taste-rewrite/baseline.json',import.meta.url)));
 const hash=s=>createHash('sha256').update(s).digest('hex');
 test('every production ACTIVE has a reviewed editorial record, without changing the sake catalog or list summaries',()=>{
@@ -14,7 +15,7 @@ test('every production ACTIVE has a reviewed editorial record, without changing 
  for(const i of visibleSakePairings){assert(descriptions.records[i.id]);assert.equal(buildSakeListSummary(i),baseline.summaries.find(s=>s.sakeId===i.id).text);}
 });
 test('taste rewrite protection permits only the later exactly reviewed local-food append',()=>{
- for(const f of baseline.files){const actual=hash(fs.readFileSync(new URL('../'+f.path,import.meta.url)));assert(actual===f.sha256||reviewedTasteRewrite(f.path,f.sha256,actual)||reviewedLocalSakanaNational(f.path,f.sha256,actual),f.path);}
+ for(const f of baseline.files){const actual=hash(fs.readFileSync(new URL('../'+f.path,import.meta.url)));assert(actual===f.sha256||reviewedTasteRewrite(f.path,f.sha256,actual)||reviewedLocalSakanaNational(f.path,f.sha256,actual)||reviewedDetailDisclosure(f.path,f.sha256,actual),f.path);}
  assert(!reviewedTasteRewrite('src/data/discovery.js','wrong','wrong'));assert(!reviewedTasteRewrite('src/app/sake/[slug]/page.jsx','wrong','wrong'));
 });
 test('nonempty rewrites have value-level or reviewed current-product evidence, and no fabricated classification prose',()=>{

@@ -470,6 +470,8 @@ main.min-h-screen::after {
 .discovery-sake h3 a { display: block; }
 .product-window.is-placeholder:not(.is-compact) { display: flex; align-items: center; gap: 14px; width: min(100%, 560px); min-height: 96px; }
 .product-window.is-placeholder:not(.is-compact) .product-window-stage { flex: 0 0 52px; height: 52px; background: transparent; }
+.product-window.is-placeholder.reserves-image:not(.is-compact) { display: block; }
+.product-window.is-placeholder.reserves-image:not(.is-compact) .product-window-stage { height: 264px; background: #eeefec; }
 .product-window.is-placeholder:not(.is-compact) figcaption { min-height: 0; padding: 4px 0; }
 .product-window.is-compact figcaption a { display: block; color: var(--gold, #c7ad68); font-size: 11px; line-height: 1.5; padding-top: 5px; }
 .sake-detail-link { display: inline-flex; min-height: 44px; align-items: center; clear: both; }

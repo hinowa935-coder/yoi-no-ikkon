@@ -13,6 +13,8 @@ import {purchaseUnavailable,imageDisplayUnavailable} from '../src/commerce/avail
 const media=JSON.parse(fs.readFileSync('src/commerce/generated/product-media.json')).records;
 const matches=JSON.parse(fs.readFileSync('src/commerce/generated/purchase-matches.json'));
 const config={enabled:true,registeredSite:'https://yoi-no-ikkon.vercel.app/',enabledProviders:['rakuten'],routes:{rakuten:'rakuten'}};
+// Verify the recorded review snapshot, not current merchant eligibility.
+const reviewedAt=Date.parse('2026-11-01T03:00:00Z');
 test('all approved images retain original tool HTML and the same product and capacity',()=>{
   assert(Object.keys(media).length>0);
   assert(Object.keys(media).every(id=>matches[id]),'Stored image identity is separate from current stock eligibility');
@@ -31,7 +33,7 @@ test('all approved images retain original tool HTML and the same product and cap
     assert.equal(new URL(images[0].src).searchParams.get('s'),'240x240');
     assert.equal(sha256(image.compactHtml),image.compactOriginalSha256);
     assert.equal(image.capacityMl,image.imageCapacityMl);
-    assert.equal(projectFinalCommerce(item,config).offer?.matchConfidence,purchaseUnavailable(id)?undefined:'high');
+    assert.equal(projectFinalCommerce(item,config,reviewedAt).offer?.matchConfidence,purchaseUnavailable(id)?undefined:'high');
     assert.equal(projectFinalCommerce({...item,productName:'different'},config).offer,null);
     assert.deepEqual(projectFinalCommerce({...item,productName:'different'},config).normal,[]);
   }
@@ -39,7 +41,7 @@ test('all approved images retain original tool HTML and the same product and cap
 
 test('confirmed normal direct links without official creatives keep the placeholder and do not become affiliate links',()=>{
   for(const [id,match]of Object.entries(matches).filter(([id,m])=>m.directLinkAllowed&&!media[id])){
-    const item=allSakePairings.find(p=>p.id===id),view=projectFinalCommerce(item,config);
+    const item=allSakePairings.find(p=>p.id===id),view=projectFinalCommerce(item,config,reviewedAt);
     assert.equal(view.normal.length,1);assert.equal(view.normal[0].href,match.normalUrl);assert.equal(view.normal[0].affiliate,false);
     assert.equal(view.offer,null);assert.equal(productMediaFor(item),null);
   }
@@ -52,9 +54,9 @@ test('medium, unknown, wrong image, wrong capacity and unknown source never supp
 });
 test('global opt out, wrong site, wrong route and expiry disable formal links with normal fallback retained',()=>{
   const item=allSakePairings.find(p=>media[p.id]);
-  for(const patch of [{enabled:false},{registeredSite:'https://other.example/'},{routes:{rakuten:'none'}},{enabledProviders:[]}])assert.equal(projectFinalCommerce(item,{...config,...patch}).offer,null);
-  assert.equal(projectFinalCommerce(item,config,Date.now()+40*86400000).offer,null);
-  assert.equal(projectFinalCommerce(item,{...config,enabled:false}).normal.length,1);
+  for(const patch of [{enabled:false},{registeredSite:'https://other.example/'},{routes:{rakuten:'none'}},{enabledProviders:[]}])assert.equal(projectFinalCommerce(item,{...config,...patch},reviewedAt).offer,null);
+  assert.equal(projectFinalCommerce(item,config,Date.parse(media[item.id].validUntil)).offer,null);
+  assert.equal(projectFinalCommerce(item,{...config,enabled:false},reviewedAt).normal.length,1);
 });
 test('failed affiliate destinations stay search fallback without images or purchasability assertions',()=>{
   for(const id of Object.keys(matches).filter(id=>!matches[id].directLinkAllowed)) {

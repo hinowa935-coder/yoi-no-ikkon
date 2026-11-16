@@ -1,5 +1,6 @@
 import { productFingerprint } from "./validation.js";
 import { ordinaryUrlIsSafe } from "./purchaseRouting.js";
+import { COMMERCE_SITE } from '../data/siteIdentity.js';
 
 export const RAKUTEN_STAGED_STATUSES = ["NORMAL_LINK_ONLY", "NEEDS_SETUP", "UNVERIFIED", "UNAVAILABLE", "PENDING_APPROVAL"];
 
@@ -9,7 +10,7 @@ export function rakutenStagedState(item, ledger, now = Date.now()) {
   const records = ledger.links.filter(r => r?.sakeId === item.id && r.productFingerprint === productFingerprint(item));
   if (records.length !== 1) return null;
   const row = records[0];
-  if (!RAKUTEN_STAGED_STATUSES.includes(row.affiliateStatus) || row.registeredSite !== "https://yoi-no-ikkon.vercel.app/") return null;
+  if (!RAKUTEN_STAGED_STATUSES.includes(row.affiliateStatus) || row.registeredSite !== COMMERCE_SITE) return null;
   const current = Number.isFinite(Date.parse(row.verifiedAt)) && Date.parse(row.verifiedAt) <= now &&
     Number.isFinite(Date.parse(row.validUntil)) && Date.parse(row.validUntil) > now;
   const pending = row.affiliateStatus === "PENDING_APPROVAL";

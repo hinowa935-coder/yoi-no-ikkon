@@ -2,11 +2,12 @@ import fs from "node:fs";
 import path from "node:path";
 import { createRequire } from "node:module";
 import { INTERNAL_COPY } from "../src/data/publicDisplay.js";
+import { SITE_URL } from '../src/data/siteIdentity.js';
 
 const { parse } = createRequire(import.meta.url)("next/dist/compiled/node-html-parser");
 const mode = process.argv[2] || "local";
 const output = process.argv[3] || "docs/post-launch-hotfix/local.json";
-const base = "https://yoi-no-ikkon.vercel.app";
+const base = SITE_URL;
 const oldCount = /(?:503|５０３)\s*(?:商品|本|種類|銘柄)|全\s*(?:503|５０３)/;
 const files = fs.readdirSync("out", { recursive: true }).filter(f => f.endsWith(".html"));
 const queue = [...files], rows = [], issues = [];
