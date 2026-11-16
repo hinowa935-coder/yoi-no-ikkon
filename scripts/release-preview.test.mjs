@@ -3,6 +3,8 @@ import { registerHooks } from 'node:module';
 import test from 'node:test';
 import { analyticsMeasurementId } from '../src/data/analytics.js';
 import { ensureCommerceBuild } from './release-materials.mjs';
+import { foodSpecialtyLinks } from '../src/commerce/foodSpecialtyModel.js';
+import specialties from '../src/commerce/generated/netlify-specialty-ordinary.json' with {type:'json'};
 
 const candidate='https://netlify-public-release-20261116--yoi-no-ikkon.netlify.app';
 const measurement='G-EXAMPLE01';
@@ -19,6 +21,10 @@ test('branch builds cannot leak detached originals or construct direct offers wi
  assert.throws(()=>ensureCommerceBuild({NETLIFY:'true',AFFILIATE_ENABLED:'true'}),/unverified Netlify/);
  assert.doesNotThrow(()=>ensureCommerceBuild({NETLIFY:'true',AFFILIATE_ENABLED:'false'}));
  assert.throws(()=>ensureCommerceBuild({AFFILIATE_ENABLED:'true'}),/missing or changed/);
+});
+
+test('no specialty offer data still renders a valid preview food page',()=>{
+ assert.deepEqual(foodSpecialtyLinks('item-bxzivf',specialties.food),[]);
 });
 
 test('a preview without official images exports one inert media path', async()=>{

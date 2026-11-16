@@ -1,4 +1,6 @@
 {
   "offers": [],
-  "food": {}
+  "food": {
+    "records": []
+  }
 }
