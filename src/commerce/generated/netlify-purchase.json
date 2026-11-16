@@ -1,0 +1,44 @@
+{
+  "schemaVersion": 1,
+  "records": {
+    "nichinichi-yamada-nishiki": {
+      "sakeId": "nichinichi-yamada-nishiki",
+      "productFingerprint": "d58916bc964c452457d3e2398f56c685943a593a83af765b2a3c3af130f38ebf",
+      "productUrl": "https://item.rakuten.co.jp/meishu-honpo/59854/",
+      "itemCode": "meishu-honpo:10005030",
+      "retailItemId": "10005030",
+      "capacityMl": 720,
+      "skuMatch": "SAME_SKU",
+      "stockStatus": "IN_STOCK",
+      "sourceSha256": "80faad9f1457181933f98eb782e650406f5d90194418e881cbb08e1d7d33dc95",
+      "checkedAt": "2026-11-15T07:26:43.275Z",
+      "validUntil": "2026-12-15T07:26:43.275Z"
+    },
+    "kameizumi-kouiku63-hiyaoroshi-current-v1": {
+      "sakeId": "kameizumi-kouiku63-hiyaoroshi-current-v1",
+      "productFingerprint": "27a167fdd2e979bbe767b4fc84049d7eed1d183400027a83bf55ed1bcfdb96b8",
+      "productUrl": "https://item.rakuten.co.jp/tsutaya/100214631/",
+      "itemCode": "tsutaya:10023657",
+      "retailItemId": "10023657",
+      "capacityMl": 720,
+      "skuMatch": "SAME_SKU",
+      "stockStatus": "IN_STOCK",
+      "sourceSha256": "d8b7b283cf5bb0f43b830692d146c5e5691c3afedc80958b90a7c56f39b5843b",
+      "checkedAt": "2026-11-15T07:26:46.746Z",
+      "validUntil": "2026-12-15T07:26:46.746Z"
+    },
+    "eikofuji-hinowa-muroka-nama-2026-current-v1": {
+      "sakeId": "eikofuji-hinowa-muroka-nama-2026-current-v1",
+      "productFingerprint": "3fbac72d4f472faf6fd1e14d9e62bf9efb4b7d5e26d79d4f4685bb406b2f2b6e",
+      "productUrl": "https://item.rakuten.co.jp/jizake-watanabe/eikofuji-hinowa/",
+      "itemCode": "jizake-watanabe:10014778",
+      "retailItemId": "10014778",
+      "capacityMl": 720,
+      "skuMatch": "SAME_SKU",
+      "stockStatus": "IN_STOCK",
+      "sourceSha256": "5396556f2ac1d29b08b36e18d74c043de8fe209a0a8bfcb605ea7cebe32b3af6",
+      "checkedAt": "2026-11-15T07:26:49.031Z",
+      "validUntil": "2026-12-15T07:26:49.031Z"
+    }
+  }
+}

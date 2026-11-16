@@ -10,7 +10,8 @@ import { displaySpec } from "../../../data/specDisplay.js";
 import { dishesForSake, nightsForSake } from "../../../data/discovery.js";
 import { editorialNightAssignments, editorialNightNote } from '../../../data/editorialNightAssignments.js';
 import { commerceForSake } from "../../../commerce/server.js";
-import { ProductLabelImage, PurchaseOptions } from "../../components/AffiliateCommerce.jsx";
+import { PurchaseOptions } from "../../components/AffiliateCommerce.jsx";
+import RakutenPurchase from "../../components/RakutenPurchase.jsx";
 import ProductWindow from '../../components/ProductWindow.jsx';
 import SeasonalNightLinks from '../../components/SeasonalNightLinks.jsx';
 import {buildCardPresentation} from '../../../data/cardPresentation.js';
@@ -18,7 +19,6 @@ import {Suspense} from 'react';
 import SakeDiscoveryContext from '../../components/SakeDiscoveryContext.jsx';
 import merchantAudit from '../../../commerce/generated/merchant-links.json';
 import {eligibleSensoryEvidence} from '../../../catalog/operations.js';
-import {purchaseUnavailable} from '../../../commerce/availability.js';
 import ServingGuide from '../../components/ServingGuide.jsx';
 import {tastePresentationRows} from '../../../data/tastePresentation.js';
 import DetailAccordion from '../../components/DetailAccordion.jsx';
@@ -62,7 +62,7 @@ export default async function SakePage({ params }) {
   const essentials = formatFields([["蔵元", item.brewery], ["都道府県", item.prefecture], ["特定名称", r.classification.tokuteiMeishoshu || item.style.join(" / ")], ["原料米", r.specs.riceVariety], ["精米歩合", r.specs.polishingRatio], ["アルコール度数", r.specs.alcoholPercentage]]);
   const fields = formatFields([["原材料", r.specs.ingredients], ["原料米産地", r.specs.riceOrigin], ["麹米・掛米", r.specs.riceByRole], ["麹米・掛米の精米歩合", r.specs.polishingByRole], ["日本酒度", r.specs.nihonshudo], ["酸度", r.specs.acidity], ["アミノ酸度", r.specs.aminoAcidValue], ["酵母", r.specs.yeast], ["仕込水", r.specs.waterSource], ["熟成期間", r.specs.agingPeriod], ["年度・版", r.vintage]]);
   const commerce = commerceForSake(item);
-  const purchasePreview = purchaseSummary(commerce);
+  const purchasePreview = purchaseSummary({...commerce,discoveryLinks:[commerce.rakuten.search,...commerce.discoveryLinks].filter(Boolean)});
   const localSakana = sakeCatalogStatus(item.id)==='ACTIVE'?localSakanaForSake(item,{config:readCommerceConfig(process.env),dishes:dishes.slice(0,6)}):[];
   const links = buildResourceLinks(item);
   const references = detailReferences([...r.sources,...taste.sources], links, merchantAudit.records[item.id]);
@@ -71,12 +71,12 @@ export default async function SakePage({ params }) {
   const jsonLd = { "@context": "https://schema.org", "@type": "Product", name: item.productName, brand: { "@type": "Brand", name: item.brandName }, description: taste.text, url: `${SITE_URL}/sake/${item.id}` };
   return <DiscoveryShell>
     <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd).replaceAll("<", "\\u003c") }} />
-    <section className="sake-detail-hero">
+    <section className="sake-detail-hero" data-ga-sake-id={item.id} data-ga-sake-name={item.productName} data-ga-prefecture={item.prefecture}>
       <h1>{item.productName}</h1>
       <p className="muted-copy">{item.brewery} / {item.prefecture}</p>
       {sakeCatalogStatus(item.id)!=='ACTIVE'&&<p className="muted-copy">以前の掲載商品です。保存していたおちょこは、そのまま残しています。</p>}
       <Suspense fallback={null}><SakeDiscoveryContext item={item} /></Suspense>
-      {commerce.image ? <ProductLabelImage image={commerce.image} /> : <ProductWindow item={item} />}
+      <ProductWindow item={item} />
       <p className="detail-catchphrase">{buildCardPresentation(item).cardCatchphrase}</p>
       <div className="detail-actions"><FavoriteButton id={item.id} /></div>
     </section>
@@ -96,8 +96,8 @@ export default async function SakePage({ params }) {
     </section>}
     {purchasePreview && <section className="detail-band purchase-discovery" aria-labelledby="sake-purchase-toggle">
       <DetailAccordion id="sake-purchase" title="購入先" summary={purchasePreview} sakeId={item.id} section="purchase">
-      {purchaseUnavailable(item.id)&&<p className="muted-copy">現在、同じ商品の購入先を確認中です。ほかの販売店を探す場合は、商品名・容量・仕様をご確認ください。</p>}
-      <PurchaseOptions offers={commerce.offers} links={commerce.discoveryLinks} item={item} />
+      <RakutenPurchase plan={commerce.rakuten} sakeName={item.productName} prefecture={item.prefecture} />
+      {commerce.discoveryLinks.length>0&&<PurchaseOptions offers={commerce.offers} links={commerce.discoveryLinks} item={item} />}
       </DetailAccordion>
     </section>}
     {hasReferences && <section className="detail-band sake-evidence" aria-labelledby="sake-sources-toggle">
@@ -118,7 +118,7 @@ export default async function SakePage({ params }) {
       {r.officialPairings.length > 0 && <div className="official-pairings"><h3>蔵元が紹介する組み合わせ</h3><p>{r.officialPairings.join("、")}</p></div>}
       </DetailAccordion>
     </section>}
-    <LocalSakana cards={localSakana} sakeId={item.id}/>
+    <LocalSakana cards={localSakana} sakeId={item.id} sakeName={item.productName} prefecture={item.prefecture}/>
     {nights.length>0 && <section className="detail-band sake-nights" aria-labelledby="sake-nights-title"><h2 id="sake-nights-title">こんな夜に</h2>{editorialNightAssignments[item.id] && <p className="muted-copy">{editorialNightNote}</p>}<SeasonalNightLinks nights={nights} /></section>}
     <RecommendShare item={{ id: item.id, productName: item.productName }} />
   </DiscoveryShell>;

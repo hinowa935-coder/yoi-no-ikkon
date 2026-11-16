@@ -1,3 +1,5 @@
+import { COMMERCE_SITE } from "../data/siteIdentity.js";
+
 export const PROVIDERS = {
   amazon: { name: "Amazon Associates", marketplaces: ["amazon"], hosts: ["www.amazon.co.jp", "amazon.co.jp", "amzn.to"] },
   rakuten: { name: "楽天アフィリエイト", marketplaces: ["rakuten"], hosts: ["hb.afl.rakuten.co.jp", "a.r10.to"] },
@@ -12,7 +14,7 @@ export const AMAZON_DISCLOSURE = "Amazon のアソシエイトとして、宵の
 
 export function readCommerceConfig(env = {}) {
   return {
-    enabled: env.AFFILIATE_ENABLED === "true",
+    enabled: env.AFFILIATE_ENABLED === "true" && env.AFFILIATE_REGISTERED_SITE === COMMERCE_SITE,
     registeredSite: env.AFFILIATE_REGISTERED_SITE,
     enabledProviders: Object.keys(PROVIDERS).filter(id => env[`AFFILIATE_${id.toUpperCase()}_ENABLED`] === "true"),
     routes: {

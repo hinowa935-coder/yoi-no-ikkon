@@ -1,8 +1,8 @@
 "use client";
 import {useSyncExternalStore} from 'react';
+import {tokyoDay} from '../../data/recommendationDate.js';
 const listeners=new Set();
-const format=new Intl.DateTimeFormat('en-CA',{timeZone:'Asia/Tokyo',year:'numeric',month:'2-digit',day:'2-digit'});
-const snapshot=()=>format.format(new Date());
+const snapshot=()=>tokyoDay();
 const serverSnapshot=()=>'';
 let timer;
 const notify=()=>listeners.forEach(listener=>listener());

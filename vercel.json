@@ -1,5 +1,6 @@
 {
   "$schema": "https://openapi.vercel.sh/vercel.json",
+  "git": { "deploymentEnabled": { "netlify-public-release-20261116": false } },
   "buildCommand": "node node_modules/next/dist/bin/next build --webpack && node scripts/postbuild.mjs",
   "headers": [
     {

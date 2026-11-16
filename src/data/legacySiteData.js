@@ -6,7 +6,7 @@ import { sakeResearchPhase3ById } from "./sakeResearchPhase3.js";
 import { sakeResearchRecoveryById } from "./sakeResearchRecovery.js";
 import { sakePairings } from "./sakePairings.js";
 
-export const SITE_URL = "https://yoi-no-ikkon.vercel.app";
+export {SITE_URL} from './siteIdentity.js';
 export const SITE_NAME = "宵の一献";
 export const FAVORITES_KEY = "yoi-no-ikkon-favorites";
 

@@ -6,6 +6,8 @@ import { ChevronRight } from "./InterfaceIcons.jsx";
 import { discoveryNights, discoveryDishes, foodDirections, suggestDishes, recommendSake } from "../../data/discovery.js";
 import { orderedNights } from "../../data/discoveryNights.js";
 import { trackEvent } from "../../data/telemetry.js";
+import { analyticsMeasurementId, trackAnalytics } from "../../data/analytics.js";
+import { getCanonicalFood } from "../../data/foodCatalog.js";
 import DiscoverySakeCard from "./DiscoverySakeCard.jsx";
 import TrackedLink from "./TrackedLink.jsx";
 import { discoveryLocation } from "./discoveryLocation.js";
@@ -49,6 +51,14 @@ export default function DiscoveryFlow({seed, seasonSeed=seed, initialNight="", i
   const selected=discoveryDishes.find(d=>d.name===dishName && d.directions.includes(directionId));
   if(selected && !dishes.some(d=>d.name===dishName))dishes=[selected,...dishes].slice(0,dishLimit);
   const picks=selected && night?recommendSake(dishName,nightId,seed):[];
+  const hasPicks=picks.length>0;
+  useEffect(()=>{
+    if(!hasPicks||!analyticsMeasurementId())return;
+    const dish=getCanonicalFood(dishName);
+    // Wait for the root tag before tracking a result restored from the URL.
+    const frame=requestAnimationFrame(()=>trackAnalytics('food_search',{dish_id:dish?.id,dish_name:dish?.name,mood:nightId}));
+    return()=>cancelAnimationFrame(frame);
+  },[hasPicks,dishName,nightId,directionId]);
   const choices=group==='mood'?nightDesires.map(d=>({id:d.nightId,name:d.label,parts:d.parts,icon:d.icon,selected:d.nightIds.includes(nightId)})):orderedNights(group,seasonSeed).map(n=>({...n,icon:seasonalIcons[n.id],selected:n.id===nightId}));
   const directionIcons={warm:'bowl',fresh:'leaf',hearty:'meal',small:'cup',grilled:'flame',comfort:'pot'};
   return <div className="discovery-flow">

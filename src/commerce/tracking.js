@@ -20,10 +20,16 @@ export function affiliateEvent(name, offer, emit = trackEvent) {
 }
 export function observeAffiliate(element, offer, emit = trackEvent) {
   if (!element) return () => {};
-  if (Date.parse(offer.validUntil) <= Date.now()) { element.hidden = true; return () => {}; }
+  if (Date.parse(offer.validUntil) <= Date.now()) {
+    if (!offer.hasTimedFallback) element.hidden = true;
+    return () => {};
+  }
   const click = event => {
     if (!event.target.closest?.("a")) return;
-    if (Date.parse(offer.validUntil) <= Date.now()) { event.preventDefault(); element.hidden = true; return; }
+    if (Date.parse(offer.validUntil) <= Date.now()) {
+      if (!offer.hasTimedFallback) { event.preventDefault(); element.hidden = true; }
+      return;
+    }
     affiliateEvent("affiliate_offer_clicked", offer, emit);
     emitAffiliateClick(offer,emit);
   };

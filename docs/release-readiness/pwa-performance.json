@@ -1,0 +1,177 @@
+{
+  "engine": "Chromium",
+  "realDevice": false,
+  "scope": "isolated static build",
+  "samples": [
+    {
+      "width": 375,
+      "route": "/",
+      "lcpMs": 156,
+      "shift": 0,
+      "clsMeasurement": "observed layout shift sum",
+      "overflow": false,
+      "initialImages": 0,
+      "requests": 22
+    },
+    {
+      "width": 375,
+      "route": "/food",
+      "lcpMs": 84,
+      "shift": 0,
+      "clsMeasurement": "observed layout shift sum",
+      "overflow": false,
+      "initialImages": 0,
+      "requests": 28
+    },
+    {
+      "width": 375,
+      "route": "/search",
+      "lcpMs": 96,
+      "shift": 0.00211316008175917,
+      "clsMeasurement": "observed layout shift sum",
+      "overflow": false,
+      "initialImages": 3,
+      "requests": 44
+    },
+    {
+      "width": 375,
+      "route": "/sake/akabu-junmai",
+      "lcpMs": 72,
+      "shift": 0.04544409765896992,
+      "clsMeasurement": "observed layout shift sum",
+      "overflow": false,
+      "initialImages": 1,
+      "requests": 30
+    },
+    {
+      "width": 390,
+      "route": "/",
+      "lcpMs": 84,
+      "shift": 0,
+      "clsMeasurement": "observed layout shift sum",
+      "overflow": false,
+      "initialImages": 0,
+      "requests": 18
+    },
+    {
+      "width": 390,
+      "route": "/food",
+      "lcpMs": 64,
+      "shift": 0,
+      "clsMeasurement": "observed layout shift sum",
+      "overflow": false,
+      "initialImages": 0,
+      "requests": 18
+    },
+    {
+      "width": 390,
+      "route": "/search",
+      "lcpMs": 216,
+      "shift": 0.0020318846939992017,
+      "clsMeasurement": "observed layout shift sum",
+      "overflow": false,
+      "initialImages": 3,
+      "requests": 43
+    },
+    {
+      "width": 390,
+      "route": "/sake/akabu-junmai",
+      "lcpMs": 80,
+      "shift": 0.04441961094310723,
+      "clsMeasurement": "observed layout shift sum",
+      "overflow": false,
+      "initialImages": 2,
+      "requests": 31
+    },
+    {
+      "width": 430,
+      "route": "/",
+      "lcpMs": 128,
+      "shift": 0,
+      "clsMeasurement": "observed layout shift sum",
+      "overflow": false,
+      "initialImages": 0,
+      "requests": 18
+    },
+    {
+      "width": 430,
+      "route": "/food",
+      "lcpMs": 124,
+      "shift": 0,
+      "clsMeasurement": "observed layout shift sum",
+      "overflow": false,
+      "initialImages": 0,
+      "requests": 33
+    },
+    {
+      "width": 430,
+      "route": "/search",
+      "lcpMs": 216,
+      "shift": 0.0018428721643248573,
+      "clsMeasurement": "observed layout shift sum",
+      "overflow": false,
+      "initialImages": 3,
+      "requests": 40
+    },
+    {
+      "width": 430,
+      "route": "/sake/akabu-junmai",
+      "lcpMs": 68,
+      "shift": 0.0516136100915011,
+      "clsMeasurement": "observed layout shift sum",
+      "overflow": false,
+      "initialImages": 2,
+      "requests": 31
+    },
+    {
+      "width": 1440,
+      "route": "/",
+      "lcpMs": 124,
+      "shift": 0,
+      "clsMeasurement": "observed layout shift sum",
+      "overflow": false,
+      "initialImages": 0,
+      "requests": 18
+    },
+    {
+      "width": 1440,
+      "route": "/food",
+      "lcpMs": 104,
+      "shift": 0,
+      "clsMeasurement": "observed layout shift sum",
+      "overflow": false,
+      "initialImages": 0,
+      "requests": 38
+    },
+    {
+      "width": 1440,
+      "route": "/search",
+      "lcpMs": 128,
+      "shift": 0.0007103519396173424,
+      "clsMeasurement": "observed layout shift sum",
+      "overflow": false,
+      "initialImages": 6,
+      "requests": 54
+    },
+    {
+      "width": 1440,
+      "route": "/sake/akabu-junmai",
+      "lcpMs": 144,
+      "shift": 0.029680780454625237,
+      "clsMeasurement": "observed layout shift sum",
+      "overflow": false,
+      "initialImages": 8,
+      "requests": 41
+    }
+  ],
+  "pwa": {
+    "manifest": true,
+    "icons": 4,
+    "serviceWorker": true,
+    "standaloneManifest": true,
+    "installabilityErrors": [],
+    "installPerformed": false,
+    "reload": true,
+    "savedAcrossReload": true
+  }
+}
