@@ -1,7 +1,7 @@
 import assert from 'node:assert/strict';
 import { registerHooks } from 'node:module';
 import test from 'node:test';
-import { analyticsMeasurementId } from '../src/data/analytics.js';
+import { analyticsMeasurementId, trackAnalytics } from '../src/data/analytics.js';
 import { ensureCommerceBuild } from './release-materials.mjs';
 import { foodSpecialtyLinks } from '../src/commerce/foodSpecialtyModel.js';
 import specialties from '../src/commerce/generated/netlify-specialty-ordinary.json' with {type:'json'};
@@ -15,6 +15,23 @@ test('only the specific opted-in branch host can run GA4 in preview builds',()=>
  }
  assert.equal(analyticsMeasurementId({location:{origin:candidate}},measurement,'production','false'),null);
  assert.equal(analyticsMeasurementId({location:{origin:candidate}},measurement,'production','true'),measurement);
+});
+
+test('custom events are marked for DebugView only on the opted-in branch host',()=>{
+ const previous=process.env.NEXT_PUBLIC_GA_RELEASE_PREVIEW;
+ process.env.NEXT_PUBLIC_GA_RELEASE_PREVIEW='true';
+ try{
+   for(const origin of [candidate,'https://yoi-no-ikkon.netlify.app']){
+     const calls=[];
+     trackAnalytics('rakuten_click',{destination_domain:'rakuten.co.jp'},
+       {location:{origin},gtag:(...args)=>calls.push(args)},measurement);
+     assert.equal(calls.length,1);
+     assert.equal(calls[0][2].debug_mode,origin===candidate?true:undefined);
+   }
+ }finally{
+   if(previous===undefined)delete process.env.NEXT_PUBLIC_GA_RELEASE_PREVIEW;
+   else process.env.NEXT_PUBLIC_GA_RELEASE_PREVIEW=previous;
+ }
 });
 
 test('branch builds cannot leak detached originals or construct direct offers with missing originals',()=>{

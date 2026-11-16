@@ -7,6 +7,7 @@ export default function PwaRegister() {
     if (!("serviceWorker" in navigator)) return;
 
     let refreshing = false;
+    let controller = navigator.serviceWorker.controller;
 
     navigator.serviceWorker.register("/sw.js").then((registration) => {
       registration.update();
@@ -15,7 +16,10 @@ export default function PwaRegister() {
     });
 
     const handleControllerChange = () => {
-      if (refreshing) return;
+      const previous = controller;
+      controller = navigator.serviceWorker.controller;
+      // The first install claims this page without requiring a reload.
+      if (!previous || !controller || previous === controller || refreshing) return;
       refreshing = true;
       window.location.reload();
     };

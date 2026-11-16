@@ -58,7 +58,7 @@ export function initializeAnalytics(browser, id, page) {
 export function trackAnalytics(name, fields = {}, browser = globalThis.window, id = analyticsMeasurementId(browser)) {
   const allowed = Object.hasOwn(eventFields, name) ? eventFields[name] : null;
   if (!id || !allowed || typeof browser?.gtag !== 'function') return;
-  const safe = {send_to: id};
+  const safe = {send_to: id, ...(analyticsPreview(browser) ? {debug_mode:true} : {})};
   for (const key of allowed) {
     const value = fields[key];
     if (typeof value === 'string' && value.length > 0 && value.length <= 100 && !/[@\r\n]|https?:|\bwww\./i.test(value)) safe[key] = value;
